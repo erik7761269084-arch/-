@@ -182,7 +182,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/98b6e72297f92fa86d866ec3753b67d2.jpg",
       "actress": [

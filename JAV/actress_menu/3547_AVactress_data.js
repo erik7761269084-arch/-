@@ -110,7 +110,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2021-12-07",
       "cover_url": "https://fm.sl25914.com/upload/vod/20230119-1/55dde46d86bea6fbcc460c9089d61275.jpg",
       "actress": [
@@ -283,7 +283,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2015-02-01",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mimk029/mimk029pl.jpg",
       "actress": [
@@ -373,7 +373,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-11/785648c749aaaa524aacdd04104ac383.jpg",
       "actress": [
@@ -444,7 +444,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240819-1/bdfae0ba517e5615a4056afe8741afff.jpg",
       "actress": [
@@ -720,7 +720,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fad992cf22ae3e0412abf3/cover.jpg",
       "actress": [

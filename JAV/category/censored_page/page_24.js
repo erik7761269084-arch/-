@@ -1,59 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 568555,
-    "IDcode": "200GANA-1864",
-    "title": "认真的南帕，第1枪。 1172",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "搭讪素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1864"
-  },
-  {
-    "id": 568549,
-    "IDcode": "200GANA-1865",
-    "title": "认真的南帕，第1枪。 1160",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "搭讪素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1865"
-  },
-  {
-    "id": 568553,
-    "IDcode": "200GANA-1866",
-    "title": "认真的南帕，第1枪。 1165",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "搭讪素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1866"
-  },
-  {
     "id": 537526,
     "IDcode": "200GANA-1867",
     "title": "マジ软派、初撮。 1173",
@@ -61,11 +7,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -79,11 +26,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -97,11 +45,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -115,11 +64,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -133,11 +83,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -151,11 +102,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -169,11 +121,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -187,11 +140,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -205,11 +159,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -223,11 +178,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -241,11 +197,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -259,11 +216,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -277,11 +235,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -295,11 +254,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -313,11 +273,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -331,11 +292,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -349,11 +311,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -367,12 +330,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-12-20",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -386,11 +350,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -404,11 +369,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -422,11 +388,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -440,11 +407,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -458,11 +426,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -476,11 +445,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -494,12 +464,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
-      "巨乳"
+      "巨乳",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -513,11 +484,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -531,11 +503,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -549,11 +522,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -567,11 +541,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -585,11 +560,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -603,11 +579,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -621,11 +598,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -639,11 +617,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -657,11 +636,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -675,11 +655,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -693,11 +674,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -711,11 +693,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -729,11 +712,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -747,11 +731,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -765,11 +750,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -783,11 +769,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -801,11 +788,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -819,11 +807,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -837,11 +826,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -855,11 +845,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -873,11 +864,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -891,11 +883,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -909,12 +902,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
-      "巨乳"
+      "巨乳",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -928,11 +922,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -946,11 +941,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -964,11 +960,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -982,11 +979,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1000,11 +998,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1018,11 +1017,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1036,11 +1036,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1054,11 +1055,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1072,11 +1074,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1090,11 +1093,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1108,12 +1112,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
-      "巨乳"
+      "巨乳",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-11-08",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1130,11 +1135,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1148,11 +1154,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1166,11 +1173,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1184,11 +1192,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1202,11 +1211,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1220,11 +1230,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1238,11 +1249,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1256,11 +1268,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1274,11 +1287,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1292,11 +1306,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1310,11 +1325,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1328,12 +1344,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "搭讪素人",
+      "FC2",
       "素人",
-      "乱伦",
-      "搭讪素人"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1347,11 +1364,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1365,11 +1383,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1383,19 +1402,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
-      "美少女",
-      "HDTV",
-      "素人",
-      "猎艳",
       "业余",
-      "无毛",
+      "HDTV",
+      "美少女",
       "搭讪素人",
-      "颜射"
+      "无毛",
+      "苗条",
+      "猎艳",
+      "颜射",
+      "FC2",
+      "平胸",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-12-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1411,11 +1431,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1429,11 +1450,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1447,11 +1469,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1465,11 +1488,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1483,11 +1507,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1501,11 +1526,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1519,11 +1545,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1537,11 +1564,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1555,11 +1583,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1573,11 +1602,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1591,11 +1621,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1609,11 +1640,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1627,11 +1659,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1645,11 +1678,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1663,11 +1697,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1681,11 +1716,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1699,11 +1735,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1717,11 +1754,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1735,11 +1773,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1753,11 +1792,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1771,11 +1811,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1789,11 +1830,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1807,14 +1849,72 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "搭讪素人",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1967"
+  },
+  {
+    "id": 568460,
+    "IDcode": "200GANA-1968",
+    "title": "100战南帕老师的枪房，带入SEX隐藏射击104",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "搭讪素人",
+      "FC2",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1968"
+  },
+  {
+    "id": 568458,
+    "IDcode": "200GANA-1969",
+    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击105",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "搭讪素人",
+      "FC2",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1969"
+  },
+  {
+    "id": 568455,
+    "IDcode": "200GANA-1970",
+    "title": "认真的南帕，第1枪。 1237",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "搭讪素人",
+      "FC2",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1970"
   }
 ];

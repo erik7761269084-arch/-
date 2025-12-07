@@ -80,7 +80,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-06-13",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614104743306306_thumbnail.webp",
       "actress": [
@@ -130,7 +130,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2025-05-16",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515062857961961_thumbnail.webp",
       "actress": [
@@ -182,7 +182,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
       "actress": [
@@ -253,7 +253,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-01-21",
       "cover_url": "https://picture.yoshiclub.xyz/20250118/20250118064248144144.jpg",
       "actress": [
@@ -287,7 +287,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064808873873.jpg",
       "actress": [
@@ -451,7 +451,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-03-05",
       "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301031647994994.jpg",
       "actress": [
@@ -761,7 +761,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea3ee51572686be784cbc3/cover.jpg",
       "actress": [
@@ -1046,7 +1046,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241228/20241228041647399399.jpg",
       "actress": [
@@ -1371,7 +1371,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
       "actress": [
@@ -1463,7 +1463,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac95155337d7f7be48ed9/cover.jpg",
       "actress": [
@@ -2036,7 +2036,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030526703703_33081_thumbnail.webp",
       "actress": [
@@ -2207,7 +2207,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

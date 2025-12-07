@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 566821,
-    "IDcode": "APAA-388",
-    "title": "和无垢乡下女涂满汗水、爱液浓烈卑猥窝巢一夜性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3819f3473399e6c9d7260f5ea5867ac3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-388"
-  },
-  {
-    "id": 462109,
-    "IDcode": "APAA-389",
-    "title": "「わたし...出来ちゃってもイイんです...」 栗の華の匂いと愛液に塗れた、極上の人妻との不倫温泉 今村日那乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/73c1e32a9a84b5780b589aa5d2f368b8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-389"
-  },
-  {
     "id": 91511,
     "IDcode": "APAA-390",
     "title": "穢れない田舎の女の子と過ごす、汗と愛液に塗れた、濃厚で卑猥な御籠り一泊セックス 末広純",
@@ -39,15 +7,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/4df45a84931dc81a9eed812d67eee269.jpg",
     "actress": [],
@@ -64,7 +32,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1cb29bfcb6231a5ccba63fdd1726b915.jpg",
     "actress": [],
@@ -79,7 +47,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d2490aa4cc0117ba5832e13dec8f9eb8.jpg",
     "actress": [],
@@ -94,7 +62,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/65cb518c21423b25088387f6db1ace0f.jpg",
     "actress": [],
@@ -109,7 +77,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221212/I1qGGPkN/1.jpg",
     "actress": [],
@@ -123,15 +91,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "第一人称摄影",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d64d73ed39b57c0af6239/cover.jpg",
     "actress": [
@@ -148,7 +116,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231216/apaa403pl.jpg!320x216.jpg",
     "actress": [],
@@ -163,7 +131,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230423/KioeLIqt/1.jpg",
     "actress": [],
@@ -178,7 +146,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/qHuV8FcM/1.jpg",
     "actress": [],
@@ -193,7 +161,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230617/LN0QY3BO/1.jpg",
     "actress": [],
@@ -207,15 +175,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "第一人称摄影",
-      "中出",
-      "颜射",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "第一人称摄影",
+      "苗条",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/5c36de12469a6aaca540e8a1537dfadf.jpg",
     "actress": [
@@ -232,7 +200,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/xElWxJv2/1.jpg",
     "actress": [],
@@ -247,7 +215,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230806/FSHdkBmB/1.jpg",
     "actress": [],
@@ -261,15 +229,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "第一人称摄影",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/9c76d3da3e439086d4857002b989d55c.jpg",
     "actress": [
@@ -286,7 +254,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/PPFKf1Km/1.jpg",
     "actress": [],
@@ -301,7 +269,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/HjF6zzFQ/1.jpg",
     "actress": [],
@@ -316,7 +284,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/5CXJbgof/1.jpg",
     "actress": [],
@@ -333,7 +301,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230924/yn7YXdl2/1.jpg",
     "actress": [],
@@ -347,15 +315,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/a77c35b1595a4e429944a6d34baa56aa.jpg",
     "actress": [],
@@ -370,7 +338,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231008/kKGnf710/1.jpg",
     "actress": [],
@@ -385,7 +353,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231023/9sjXh4pE/1.jpg",
     "actress": [],
@@ -399,17 +367,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "美少女",
-      "自拍性愛",
-      "野外露天",
-      "中出",
       "巨乳",
+      "自拍性愛",
+      "中出",
+      "顏射",
+      "女學生",
       "劇情",
-      "顏射"
+      "美少女",
+      "野外露天"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2023-11-14",
     "cover_url": "https://picture.yoshiclub.xyz/20231112/202311120651327979.jpg",
     "actress": [
@@ -426,13 +394,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "和服・浴衣・喪服",
+      "口交",
       "自拍性愛",
       "中出",
-      "口交",
       "顏射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/998acc7aef2646dd5823bda8e075fe61.jpg",
     "actress": [
@@ -448,15 +416,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/df5a053ff03b353094b8db6856e86769.jpg",
     "actress": [
@@ -472,15 +440,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/82278678ea033a811d83d23cde0c9b5c.jpg",
     "actress": [
@@ -496,23 +464,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "自拍性愛",
+      "中出",
+      "按摩棒",
+      "美腳",
+      "苗條",
+      "情趣內衣",
+      "顏射",
+      "女上位",
       "女學生",
       "小隻馬",
       "手指插入",
-      "美腳",
-      "自拍性愛",
-      "美乳",
-      "中出",
-      "按摩棒",
       "後入",
-      "口交",
-      "女上位",
-      "苗條",
-      "情趣內衣",
-      "顏射"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-01-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240108/15fe89b9-32ee-479f-9151-ae9b54530aad.jpg",
     "actress": [
@@ -528,22 +496,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "手指插入",
-      "新娘",
+      "口交",
       "自拍性愛",
-      "苗條",
       "出軌",
-      "美乳",
       "中出",
       "按摩棒",
-      "後入",
-      "口交",
+      "苗條",
+      "顏射",
       "女上位",
+      "手指插入",
       "騎乗位",
-      "顏射"
+      "後入",
+      "新娘",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-01-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240108/ce5279a5-b9cd-4bff-98c0-8372add42c93.jpg",
     "actress": [
@@ -559,20 +527,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "舔陰",
-      "短髮",
-      "美少女",
+      "自拍性愛",
+      "中出",
+      "舔腳",
+      "顏射",
       "手指插入",
       "JK校服",
-      "自拍性愛",
-      "舔腳",
-      "美乳",
-      "中出",
-      "口交",
-      "顏射"
+      "美少女",
+      "短髮",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/18601a04ee030c521d2710728c988298.jpg",
     "actress": [
@@ -591,7 +559,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -605,26 +573,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "辦公室",
-      "手指插入",
-      "OL",
-      "自拍性愛",
-      "女上位",
-      "乳交",
-      "胸控・戀乳癖",
-      "美乳",
-      "中出",
-      "短裙・迷你裙",
-      "蕩婦",
       "口交",
-      "性感",
+      "絕頂高潮",
+      "舔陰",
+      "自拍性愛",
+      "乳交",
+      "中出",
       "苗條",
       "顏射",
-      "絕頂高潮"
+      "女上位",
+      "胸控・戀乳癖",
+      "短裙・迷你裙",
+      "蕩婦",
+      "辦公室",
+      "OL",
+      "手指插入",
+      "性感",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-02-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240213/6733121e-3aeb-4a01-bee8-326006545a4c.jpg",
     "actress": [
@@ -643,7 +611,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/aeGJRYf6/1.jpg",
     "actress": [],
@@ -657,15 +625,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/d35aff88e82c240201407f966c8c980e.jpg",
     "actress": [
@@ -681,34 +649,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "自拍性愛",
+      "美腳",
       "女學生",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
       "飯店",
       "苗條",
-      "美少女",
-      "美腳",
-      "自拍性愛",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
       "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/7670b6de1068f0dda3c0887fe5adc90f.jpg",
     "actress": [
@@ -724,15 +692,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/01e7b30b245a2f1a21c0c5c380f88e86.jpg",
     "actress": [
@@ -748,32 +716,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "女學生",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
       "飯店",
       "苗條",
-      "美少女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "美少女電影",
       "手指插入",
-      "無毛",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/f4e38075abd57a8b0d21aecdb3336e1a.jpg",
     "actress": [
@@ -789,15 +757,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
       "口交",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "第一人称摄影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/3126f7b377888f22632ac038cc9efd5a.jpg",
     "actress": [
@@ -814,7 +782,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/rtmzZauC/1.jpg",
     "actress": [],
@@ -828,18 +796,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "約炮",
+      "中出",
+      "顏射",
       "美少女電影",
       "女學生",
-      "約炮",
-      "美少女",
-      "癡女",
-      "中出",
-      "口交",
       "劇情",
-      "顏射"
+      "美少女",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/774751dace98865645bb98cf4ea5031d.jpg",
     "actress": [
@@ -855,18 +823,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
+      "口交",
+      "中出",
       "女友・妻子",
-      "美少女",
+      "顏射",
+      "美少女電影",
       "純粹的慾望",
       "純愛・戀愛",
-      "中出",
-      "口交",
       "劇情",
-      "顏射"
+      "美少女"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/46d0b8dde71855d9295d7dda0585db29.jpg",
     "actress": [
@@ -885,7 +853,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -899,38 +867,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "制服",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
+      "女學生",
+      "美臀",
+      "舔陰",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
       "美少女電影",
+      "自宅",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240511/019f5f79-f206-4c35-8171-ce0b54190646.jpg",
     "actress": [
@@ -946,30 +914,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "溫泉",
-      "苗條",
-      "和服・浴衣・喪服",
-      "美少女",
+      "少女",
       "美腳",
-      "美乳",
+      "美臀",
       "亂交 • 群P",
-      "口交",
-      "性感",
-      "潮吹",
+      "溫泉",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
       "美少女電影",
+      "美少女",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "顏射",
       "手指插入",
-      "女上位"
+      "美乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-05-28",
     "cover_url": "https://picture.yoshiclub.xyz/20240526/633e076c-143a-4471-bb34-784fdb738341.jpg",
     "actress": [
@@ -986,17 +954,17 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "主觀視角",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "素人作品",
       "口交",
+      "主觀視角",
+      "中出",
+      "顏射",
+      "素人作品",
+      "蕩婦",
       "劇情",
-      "顏射"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-06-11",
     "cover_url": "https://picture.yoshiclub.xyz/20240610/a7f599d1-6de5-455c-a449-0cb54017b4b3.jpg",
     "actress": [
@@ -1015,7 +983,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/1c748bf666521231978e06bce600a9b7.jpg",
     "actress": [],
@@ -1030,7 +998,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/66d1cff61c10522448ebfeb0eb974fb3.jpg",
     "actress": [],
@@ -1045,7 +1013,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed4665958ac04f2736fbd7/cover.jpg",
     "actress": [],
@@ -1060,7 +1028,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/11adbc9cf44c2c494cdea4403848b7f9.jpg",
     "actress": [],
@@ -1075,7 +1043,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240701-1/61db1d7298bcc1f9f03db76aa9cd49da.jpg",
     "actress": [],
@@ -1090,7 +1058,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/a0788537c6b036f2e455c6ad04223fe4.jpg",
     "actress": [],
@@ -1105,7 +1073,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240701-1/4d5ed8d71480ded690f53951597430d5.jpg",
     "actress": [],
@@ -1120,7 +1088,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/a369e111142237a5c3cc51d61b4f94d0.jpg",
     "actress": [],
@@ -1135,7 +1103,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1150,7 +1118,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240517-1/3aeca664ec50855bef35dab879f9be94.jpg",
     "actress": [],
@@ -1165,7 +1133,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1180,7 +1148,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240701-1/903a0eff5da9fbf2cf1b645270bebe82.jpg",
     "actress": [],
@@ -1195,13 +1163,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69011034e4a73d4f15f4ea0f/poster2.jpg",
     "actress": [],
@@ -1216,13 +1178,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/30/690240ea79f1ac4ec4c98541/poster2.jpg",
     "actress": [],
@@ -1237,13 +1193,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240214/apak080sopl.jpg!320x216.jpg",
     "actress": [],
@@ -1258,13 +1208,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1279,13 +1223,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc197dcf22ae3e0427d29e/cover.jpg",
     "actress": [],
@@ -1300,13 +1238,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240502-1/7a657d7119304cafa6fbfa2d942e0b7a.jpg",
     "actress": [],
@@ -1321,13 +1253,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240204/apak091sopl.jpg!320x216.jpg",
     "actress": [],
@@ -1342,13 +1268,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240204/apak096sopl.jpg!320x216.jpg",
     "actress": [],
@@ -1363,13 +1283,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f30ab2d6fbef4e90fd15a5/cover.jpg",
     "actress": [],
@@ -1384,13 +1298,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb36971572686be786774b/cover.jpg",
     "actress": [],
@@ -1405,13 +1313,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240502-1/36537a14bd89bc02bc534a0e632feb74.jpg",
     "actress": [],
@@ -1426,13 +1328,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1447,13 +1343,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf1c227de28f4ede512216/cover.jpg",
     "actress": [],
@@ -1468,13 +1358,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240701-1/0fbff6c4ba7a318a8d59919841b3ee9e.jpg",
     "actress": [],
@@ -1489,13 +1373,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250208-1/15dd4ba0a064f955b178be4cca4ab4bb.jpg",
     "actress": [],
@@ -1510,13 +1388,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1531,13 +1403,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1552,13 +1418,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241110/w8uOpRQ6/1.jpg",
     "actress": [],
@@ -1573,13 +1433,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230530/apak156sopl.jpg!320x216.jpg",
     "actress": [],
@@ -1594,13 +1448,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1614,21 +1462,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "中出",
-      "巨乳",
-      "口交",
       "精选，综合",
-      "颜射"
+      "口交",
+      "巨乳",
+      "中出",
+      "颜射",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/3bbb5ef722625dc8cae8670fb27761e5.jpg",
     "actress": [
@@ -1644,20 +1486,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "中出",
       "水手服",
-      "颜射",
-      "高中女生"
+      "中出",
+      "高中女生",
+      "苗条",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/092b9f0eb963a84d81c0bafac9bfdc0a.jpg",
     "actress": [
@@ -1673,20 +1509,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "中出",
       "口交",
-      "颜射",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221015-1/cf8629ed257c56d6c3f1970e7f05701d.jpg",
     "actress": [
@@ -1702,20 +1532,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "中出",
+      "浴衣",
       "巨乳",
-      "颜射",
-      "浴衣"
+      "中出",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9f68e771650f52e384d31fd2cc6fa627.jpg",
     "actress": [
@@ -1731,20 +1555,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "秘书",
+      "浴衣",
       "中出",
       "颜射",
-      "浴衣"
+      "秘书",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/f6ff46c85d76e57137e5432e651d1db9.jpg",
     "actress": [
@@ -1763,13 +1581,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://pic28.anzise.com/pic/20220611/87d9d4538b8b411018e9d7405a812fe2/1.jpg",
     "actress": [],
@@ -1783,20 +1595,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "美少女电影",
       "中出",
+      "美少女电影",
+      "高中女生",
       "颜射",
-      "高中女生"
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e269aae20692dd0d58539d883e0c9faa.jpg",
     "actress": [],
@@ -1810,21 +1616,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "中出",
       "乱交",
+      "中出",
+      "高中女生",
       "滥交",
       "颜射",
-      "高中女生"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2021-11-23",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/33527abab79ac75d926e85fc8dfd310b.jpg",
     "actress": [],
@@ -1839,13 +1639,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/b1bcc9dbc20e74b8b3c12c3bc6963dc9.jpg",
     "actress": [],
@@ -1860,13 +1654,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/5229db253964485837a1896225ca2cc6.jpg",
     "actress": [],
@@ -1880,21 +1668,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "中出",
       "乱交",
+      "中出",
+      "高中女生",
       "滥交",
       "颜射",
-      "高中女生"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/f5d905e6f622951758e567cb528706ab.jpg",
     "actress": [],
@@ -1908,20 +1690,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "美少女电影",
       "中出",
+      "美少女电影",
+      "高中女生",
       "颜射",
-      "高中女生"
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/623fcf94a8f40925be96bb654c726aa7.jpg",
     "actress": [],
@@ -1936,13 +1712,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/1e6a15da045cb72433373f4c64655558.jpg",
     "actress": [],
@@ -1957,13 +1727,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/871c9d70f100d50b591956e4dc6f72ec.jpg",
     "actress": [],
@@ -1977,20 +1741,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "OL",
-      "姐姐",
       "中出",
+      "淫乱，真实",
+      "姐姐",
+      "OL",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e2e7b4c2bf15ae54a232db2522151902.jpg",
     "actress": [],
@@ -2004,20 +1762,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "已婚妇女",
       "中出",
-      "巨乳",
+      "淫乱，真实",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/be027af1a38715857e9963f610f19b13.jpg",
     "actress": [
@@ -2033,19 +1785,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "中出",
+      "颜射",
       "淫乱，真实",
-      "颜射"
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/460404d75bdad95b47a117f549594770.jpg",
     "actress": [
@@ -2061,20 +1807,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
       "巨乳",
       "水手服",
-      "颜射",
-      "高中女生"
+      "中出",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/4bb41edab8a01386072ca8fd60499550.jpg",
     "actress": [],
@@ -2091,13 +1831,7 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0b3aff4e62a5555b1ca835d538285ec6.jpg",
     "actress": [],
@@ -2111,20 +1845,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "中出",
       "口交",
-      "颜射",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "女大学生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2022-03-08",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/5c9d23da6c5d94b7d6db0951532466cc.jpg",
     "actress": [],
@@ -2139,22 +1867,16 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "多P",
-      "女教师",
-      "中出",
       "巨乳",
       "乱交",
+      "中出",
+      "女教师",
       "滥交",
-      "颜射"
+      "颜射",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6b8cdbe6b55ed0c9f7f06d359a2ee04b.jpg",
     "actress": [],
@@ -2168,20 +1890,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "中出",
       "巨乳",
-      "颜射",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0b86fef315d2a7eb3b319fb8794f14bf.jpg",
     "actress": [],
@@ -2198,16 +1914,40 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-221"
+  },
+  {
+    "id": 566817,
+    "IDcode": "APAK-222",
+    "title": "激・肉欲不伦 “热いザーメンで孕ませてぇ！” Gカップ＆美爆尻！絶顶若妻 紫月ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AURORA PROJECT ANNEX",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1f2e3d0656b5d4fd8f4ae221dce58229.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-222"
+  },
+  {
+    "id": 566816,
+    "IDcode": "APAK-224",
+    "title": "“イキ过ぎてマ○コもアタマもバカになっちゃうの！”＃オフパコ娘とホテルお笼もり淫乱絶顶SEX 児玉れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AURORA PROJECT ANNEX",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dfe0022c8b1665b86bc7e22b8ec26a8e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-224"
   }
 ];

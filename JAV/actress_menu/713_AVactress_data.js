@@ -136,7 +136,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1deeac813dc779d96050/cover.jpg",
       "actress": [

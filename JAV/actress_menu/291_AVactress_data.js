@@ -299,7 +299,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034816292292_87279_thumbnail.webp",
       "actress": [
@@ -336,7 +336,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082639946946_46522_thumbnail.webp",
       "actress": [

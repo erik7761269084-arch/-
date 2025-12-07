@@ -72,7 +72,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2020-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/4f2938a8b9e487dd6a4dbd94c2d653e4.jpg",
       "actress": [

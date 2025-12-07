@@ -77,7 +77,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250801-1/6dc1b55f48191214c435533388fbe0cd.jpg",
       "actress": [

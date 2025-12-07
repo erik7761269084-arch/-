@@ -116,7 +116,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/72d0ac8947f4db0b16ef4264331f0b7b.jpg",
       "actress": [

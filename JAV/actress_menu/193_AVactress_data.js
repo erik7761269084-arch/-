@@ -73,7 +73,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
       "actress": [
@@ -123,7 +123,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-01-21",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080140815815.jpg",
       "actress": [
@@ -154,7 +154,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2024-07-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712020623533533.jpg",
       "actress": [
@@ -674,7 +674,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/d8b229881713c2abb4627e22ad58fceb.jpg",
       "actress": [
@@ -916,7 +916,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fad992cf22ae3e0412abf3/cover.jpg",
       "actress": [
@@ -1151,7 +1151,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea3ee51572686be784cbc3/cover.jpg",
       "actress": [
@@ -1205,7 +1205,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240830-1/4dc215ce49ac158155075fef10eb12e7.jpg",
       "actress": [
@@ -1222,7 +1222,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/11/09/76717754/vod.jpg",
       "actress": [
@@ -1238,7 +1238,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/54eb628429fceb096b7d863f4cb18f3d.jpg",
       "actress": [
@@ -1271,7 +1271,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073353610610.jpg",
       "actress": [
@@ -1303,7 +1303,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075941695695.jpg",
       "actress": [
@@ -1337,7 +1337,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250401-1/03ee2d51a77f574066cd3e28ad1c0093.jpg",
       "actress": [
@@ -1441,7 +1441,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042704778778_thumbnail.webp",
       "actress": [

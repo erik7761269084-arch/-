@@ -68,7 +68,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "DREAMTICKET",
       "publish_date": "2025-05-30",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291724015454_thumbnail.webp",
       "actress": [
@@ -252,7 +252,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

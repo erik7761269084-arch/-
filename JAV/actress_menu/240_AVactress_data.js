@@ -62,7 +62,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2025-03-13",
       "cover_url": "https://picture.yoshiclub.xyz/20250313/2a6abe85-71b5-46a1-acff-c7fc97579e84.jpg",
       "actress": [
@@ -101,7 +101,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2024-06-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240516/20240516055355451451.jpg",
       "actress": [
@@ -117,7 +117,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2024-02-15",
       "cover_url": "https://picture.yoshiclub.xyz/20240208/20240208091347682682.jpg",
       "actress": [
@@ -133,7 +133,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118035626122122.jpg",
       "actress": [
@@ -149,7 +149,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2023-12-14",
       "cover_url": "https://picture.yoshiclub.xyz/20231214/9ca590bc-e07e-4dbb-b72e-42c44c75ba6d.jpg",
       "actress": [
@@ -165,7 +165,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2023-11-24",
       "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116082353176176.jpg",
       "actress": [
@@ -431,7 +431,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/26f5934935c7ef9348692bc4fb51afd7.jpg",
       "actress": [
@@ -780,7 +780,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2023/11/15/9f0ab168e842fd79abaf4e8d9a0b0a5d.jpg",
       "actress": [
@@ -797,7 +797,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f414f9a2e9b1d4af3b8f/cover.jpg",
       "actress": [
@@ -813,7 +813,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240528-1/dc9ff617fbacdef73612e2f7be53a608.jpg",
       "actress": [
@@ -830,7 +830,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/08/07/4d8c75c5e272a9ffeea91fee348100db.jpg",
       "actress": [
@@ -847,7 +847,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a08bdac813dc779d95f53/cover.jpg",
       "actress": [
@@ -863,7 +863,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240929-1/b5d020305e20cb9a01bb8efb06d84b27.jpg",
       "actress": [
@@ -879,7 +879,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250511-1/380c51980b8403d0bf6695d14713c179.jpg",
       "actress": [
@@ -895,7 +895,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/57840edb28c037efbbf6352c19e7b56b.jpg",
       "actress": [
@@ -911,7 +911,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/dca2c64765c24cc4fe789edeeca50384.jpg",
       "actress": [
@@ -927,7 +927,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202502/23/67bb3a774e7d663df4a101d8/cover.jpg",
       "actress": [
@@ -943,7 +943,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ae135d57b64bfdfb9ec0/cover.jpg",
       "actress": [
@@ -959,7 +959,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250806-2/f8b7d642c67ea325a8183b420b9eabca.jpg",
       "actress": [
@@ -975,7 +975,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd544c006939637678a278/cover.jpg",
       "actress": [
@@ -991,7 +991,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/07/03/207008a9cdc0ce70b1610a277480e081.jpg",
       "actress": [
@@ -1009,7 +1009,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/11/689954f655337d7f7bcfadb4/cover.jpg",
       "actress": [
@@ -1028,7 +1028,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250718-1/d43f2c8cc41e20852b012eafff4aafef.jpg",
       "actress": [
@@ -1045,7 +1045,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250816-1/3e7bd5b1aee49fb8ce1ea8a228eb823a.jpg",
       "actress": [
@@ -1061,7 +1061,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911024230692692_88808_thumbnail.webp",
       "actress": [
@@ -1078,7 +1078,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/11/09/ca6494e7a7253ddfe7a2092a654a4e1c.jpg",
       "actress": [

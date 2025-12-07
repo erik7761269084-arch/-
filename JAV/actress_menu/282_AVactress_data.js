@@ -64,7 +64,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2025-06-27",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034227939939_thumbnail.webp",
       "actress": [
@@ -542,7 +542,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/7cdb5d2e/vod.jpg",
       "actress": [

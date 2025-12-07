@@ -72,7 +72,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2025-06-13",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120631524444_thumbnail.webp",
       "actress": [
@@ -97,7 +97,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2025-05-16",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063023966966_thumbnail.webp",
       "actress": [
@@ -119,7 +119,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064808873873.jpg",
       "actress": [
@@ -763,7 +763,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -1420,7 +1420,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241228/20241228041647399399.jpg",
       "actress": [
@@ -1512,7 +1512,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4ee66e4a73d4f15c25ff3/cover.jpg",
       "actress": [
@@ -1596,7 +1596,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f2706a0063c92fb9fa243/cover.jpg",
       "actress": [
@@ -1730,7 +1730,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034816292292_87279_thumbnail.webp",
       "actress": [

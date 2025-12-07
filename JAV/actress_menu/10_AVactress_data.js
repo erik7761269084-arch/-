@@ -215,7 +215,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214051857569569.jpg",
       "actress": [
@@ -370,7 +370,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075920746746.jpg",
       "actress": [
@@ -1368,7 +1368,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f271064e7d663df48f06f1/cover.jpg",
       "actress": [
@@ -2085,7 +2085,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300757589494.jpg",
       "actress": [
@@ -3152,7 +3152,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/0a09c1a7/vod.jpg",
       "actress": [

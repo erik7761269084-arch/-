@@ -340,7 +340,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2023-10-16",
       "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016084715482482.jpg",
       "actress": [
@@ -659,7 +659,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/7b14ab92c971ca377e22584ceef0636b.jpg",
       "actress": [
@@ -755,7 +755,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895d25555337d7f7ba499f8/cover.jpg",
       "actress": [
@@ -917,7 +917,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063814809809_thumbnail.webp",
       "actress": [

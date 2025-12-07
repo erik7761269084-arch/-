@@ -1,3946 +1,2152 @@
 window.PAGE_DATA = [
   {
-    "id": 548311,
-    "IDcode": "MVG-058",
-    "title": "黒人解禁！！黒人の极太チ○ポに欲情を抑えきれないパパ活JDのびしょ濡れマ●コに浓厚中出しSEX ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/MCCwbk39/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-058"
-  },
-  {
-    "id": 548310,
-    "IDcode": "MVG-059",
-    "title": "ドM美女のW颜面ハラスメント 加贺美さら#叶月もえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/WbHwnrzr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-059"
-  },
-  {
-    "id": 548309,
-    "IDcode": "MVG-060",
-    "title": "M男アナルを破壊してメスイキさせるWペニバン小悪魔痴女！！ 渚みつき#兰々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/oEi1ZEOK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-060"
-  },
-  {
-    "id": 539020,
-    "IDcode": "MVG-061",
-    "title": "新村あかり- W Ma○ko Device BondageV 鉄拘束マ○コ拷问 新村あかり#前乃菜々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250413/k68Xr2vv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-061"
-  },
-  {
-    "id": 18751,
-    "IDcode": "MVG-062",
-    "title": "bdsm 奴隸 兔子女孩",
+    "id": 531297,
+    "IDcode": "NACR-563",
+    "title": "特别レッスンで生徒を勧诱する巨乳ヨガインストラクター",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "緊縛",
-      "強姦",
-      "兔女郎妝扮",
-      "調教",
-      "中出",
-      "女奴",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2023-09-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20230910/20230910001805186186.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-062"
-  },
-  {
-    "id": 18677,
-    "IDcode": "MVG-063",
-    "title": "神奈川縣某處廢棄倉庫囚禁強姦案",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "美少女電影",
-      "綁架",
-      "殘忍畫面",
-      "強姦",
-      "緊縛",
-      "羞恥",
-      "拘束・拷問",
-      "調教",
-      "中出",
-      "監禁",
-      "性感",
-      "少女",
-      "SM",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2023-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230917/20230917021200176176.jpg",
-    "actress": [
-      "横宮七海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-063"
-  },
-  {
-    "id": 547834,
-    "IDcode": "MVG-064",
-    "title": "Ma○ko Device BondageXXVI 鉄拘束マ○コ拷问",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231003/oYrBh4Uw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-064"
-  },
-  {
-    "id": 518739,
-    "IDcode": "MVG-065",
-    "title": "祭祀村 滨崎真央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/ACTz6ush/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-065"
-  },
-  {
-    "id": 547620,
-    "IDcode": "MVG-066",
-    "title": "母娘紧缚 亲子丼调教 纱々原ゆり#由良かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231025/Y2l0vuDj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-066"
-  },
-  {
-    "id": 17973,
-    "IDcode": "MVG-067",
-    "title": "競技泳衣肛門被操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "兩男一女",
-      "泳裝",
-      "二穴同入",
-      "多P",
-      "手指插入",
-      "肛交",
-      "泳池",
-      "灌腸",
-      "中出",
-      "亂交 • 群P",
-      "口交",
-      "性感"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231106/20231106003713890890.jpg",
-    "actress": [
-      "北乃由奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-067"
-  },
-  {
-    "id": 17883,
-    "IDcode": "MVG-068",
-    "title": "Ma○ko 裝置束縛XXVII 鐵約束陰部酷刑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "泳裝",
-      "運動服裝",
-      "多P",
-      "殘忍畫面",
-      "緊縛",
-      "羞恥",
-      "拘束・拷問",
-      "中出",
-      "制服",
-      "監禁",
-      "按摩棒",
-      "口交",
-      "劇情",
-      "暗黑系"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2023-11-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20231113/462184a0-384d-4c29-a366-214f5bccf33e.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-068"
-  },
-  {
-    "id": 455949,
-    "IDcode": "MVG-069",
-    "title": "女生徒の逆恨みで奴●にされた女教師 野外緊縛で恥さらしと輪●の生贄に… 花狩舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787f7a7f9a2e9b1d4a531a8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-069"
-  },
-  {
-    "id": 562725,
-    "IDcode": "MVG-070",
-    "title": "3穴浮気肉奴隶妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231201/Su1Bamq9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-070"
-  },
-  {
-    "id": 90738,
-    "IDcode": "MVG-071",
-    "title": "爆乳緊縛 西村ニーナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "SM",
-      "单体作品",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240208-1/45d1262f3bfafcc00882bf4e760bc4f6.jpg",
-    "actress": [
-      "西村ニーナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-071"
-  },
-  {
-    "id": 471387,
-    "IDcode": "MVG-072",
-    "title": "最下層のWクソマゾ女 メス豚頂上対決 汐川雲丹 本田瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a701c8f1cbfc7a9c7dc88/cover.jpg",
+    "cover_url": "https://sex8sex811.com/20250904/UQizKAlD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-072"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-563"
   },
   {
-    "id": 547149,
-    "IDcode": "MVG-073",
-    "title": "Ma○ko Device BondageXXVIII 鉄拘束マ○コ拷问",
+    "id": 220210,
+    "IDcode": "NACR-564",
+    "title": "発情母-佐々木咲和",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-564"
   },
   {
-    "id": 17210,
-    "IDcode": "MVG-074",
-    "title": "感受小便的滋味！第一次飲尿的受虐狂",
+    "id": 219877,
+    "IDcode": "NACR-565",
+    "title": "被我卑鄙的继父强奸-水谷心音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "兩男一女",
-      "3P・4P",
-      "深喉",
-      "多P",
-      "淫亂",
-      "中出",
-      "制服",
-      "空姐",
-      "喝尿",
-      "性感",
-      "亂交 • 群P",
-      "口交",
-      "奇異的",
-      "暗黑系",
-      "放尿"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2023-12-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20231217/ee591a37-723c-4bcd-8653-f18142c97761.jpg",
-    "actress": [
-      "竹内夏希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-074"
-  },
-  {
-    "id": 17068,
-    "IDcode": "MVG-075",
-    "title": "大奶子束縛學校 小月芽衣 (BOD)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "緊縛",
-      "美腳",
-      "JK校服",
-      "乳交",
-      "調教",
-      "美乳",
-      "中出",
-      "過膝襪・小腿襪",
-      "口交",
-      "後入",
-      "巨乳",
-      "苗條"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a644b8f1cbfc7a9c7dc18/cover.jpg",
-    "actress": [
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-075"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-565"
   },
   {
-    "id": 471342,
-    "IDcode": "MVG-076",
-    "title": "凌●願望のある女 真冬さん 雪奈真冬",
+    "id": 347432,
+    "IDcode": "NACR-566",
+    "title": "性欲絶伦女子中出しOKアルバイト",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a612e8f1cbfc7a9c7dbe9/cover.jpg",
+    "cover_url": "https://sex8sex811.com/20250904/621n9TZx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-076"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-566"
   },
   {
-    "id": 471314,
-    "IDcode": "MVG-077",
-    "title": "本格SM解禁！！蘭々が奴●調教でマゾ覚醒！！ 蘭蘭",
+    "id": 347433,
+    "IDcode": "NACR-567",
+    "title": "监禁洗脳 义理の息子に躾けられた美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250904/Ec4VBnLa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-567"
+  },
+  {
+    "id": 565702,
+    "IDcode": "NACR-568",
+    "title": "精油狂热",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a588fac813dc779d962a9/cover.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5896ac49a2c89eaec69ca0a07b2befc3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-568"
   },
   {
-    "id": 16156,
-    "IDcode": "MVG-078",
-    "title": "因師友嫉妒而淪爲奴隸、在戶外束縛中暴露恥辱、爲擂臺犧牲的女教師……都月楓",
+    "id": 565701,
+    "IDcode": "NACR-569",
+    "title": "最爱吞精的超淫免费鲍鱼女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/018f073be095a5897e5098551c5bcd83.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-569"
+  },
+  {
+    "id": 224246,
+    "IDcode": "NACR-570",
+    "title": "一场暴雨把我淋湿了-野咲美桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/1f952e4d20246585b6fa2073fac5ba0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-570"
+  },
+  {
+    "id": 68752,
+    "IDcode": "NACR-571",
+    "title": "美丽的妻子所犯的错误-東凛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "苗條",
-      "女教師",
-      "美少女",
-      "拘束・拷問",
-      "胸控・戀乳癖",
-      "美乳",
+      "口交",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "自慰",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/fbad4de457f3ce94dcc7e536ef7b735d.jpg",
+    "actress": [
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-571"
+  },
+  {
+    "id": 69609,
+    "IDcode": "NACR-572",
+    "title": "编辑的妻子-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "口交",
       "巨乳",
-      "性感",
-      "露出",
-      "潮吹",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "輪姦",
-      "舔陰",
-      "手指插入",
-      "調教",
-      "女上位",
-      "學校",
-      "騎乗位"
+      "已婚妇女",
+      "单体作品",
+      "自慰",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2024-02-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240221/7014d44c-aa67-4490-ae66-4e29fdcad36a.jpg",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d12bb557942be7e9f269cce9f2e7991c.jpg",
     "actress": [
-      "都月楓"
+      "浜崎真绪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-078"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-572"
   },
   {
-    "id": 561594,
-    "IDcode": "MVG-079",
-    "title": "変态スポコス美少女 放课后紧缚虐め调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/qiqmsXv2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-079"
-  },
-  {
-    "id": 561443,
-    "IDcode": "MVG-080",
-    "title": "Anal Device BondageXXXI 鉄拘束アナル拷问",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/QCy5AVtr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-080"
-  },
-  {
-    "id": 524334,
-    "IDcode": "MVG-081",
-    "title": "牺牲村Ayaka Mochizuki-Ryohana Kurumi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/gL5XctLx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-081"
-  },
-  {
-    "id": 561332,
-    "IDcode": "MVG-082",
-    "title": "マニア达が集まる変态羞耻キャンプ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240327/jPGzHXEc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-082"
-  },
-  {
-    "id": 545743,
-    "IDcode": "MVG-083",
-    "title": "マゾ女を性奴隶にできるSMガールズBar",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240418/vJHPaCB8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-083"
-  },
-  {
-    "id": 455832,
-    "IDcode": "MVG-084",
-    "title": "突然オンナに別れを告げられ家を追い出される事に…ムカついたので不法侵入・盗撮・睡姦・尾行・強●・輪● 鬼畜集団レ×プで徹底的に復讐する。 田中寧寧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c27c2a47ebb1a8b4cb66/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-084"
-  },
-  {
-    "id": 14755,
-    "IDcode": "MVG-085",
-    "title": "你所仰慕的精英白領麗人的真實身份，其實是一個有着華麗紋身的受虐奴隸！ ！ ~ 柊有希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "M男・M女",
-      "飯店",
-      "性虐癖",
-      "打屁股",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "OL",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "暗黑系",
-      "潮吹",
-      "短髮",
-      "明星臉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "企畫",
-      "SM",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "刺青紋身",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/ca0fd5fb478e962d96a21977ad4db31c.jpg",
-    "actress": [
-      "柊有希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-085"
-  },
-  {
-    "id": 14566,
-    "IDcode": "MVG-086",
-    "title": "SM禁令全面解除！ ！通過奴隸訓練覺醒爲受虐狂！ ！~ 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "M男・M女",
-      "性虐癖",
-      "蠟燭",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "監禁",
-      "亂交 • 群P",
-      "口交",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "SM",
-      "劇情",
-      "顏射",
-      "美少女電影",
-      "口球",
-      "調教",
-      "白眼失神",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/39b31f5bbbbf943eb35d6ab531c0c545.jpg",
-    "actress": [
-      "椿莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-086"
-  },
-  {
-    "id": 14417,
-    "IDcode": "MVG-087",
-    "title": "想要通過極限遊戲享受快感的超級變態女人自願進行突破極限的超硬操！ ！ 美波梢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "多P",
-      "監獄",
-      "苗條",
-      "臀控",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "灌腸",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "肛交",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/88d344b9903b32f478f6d9cf9e9677ca.jpg",
-    "actress": [
-      "美波梢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-087"
-  },
-  {
-    "id": 13872,
-    "IDcode": "MVG-088",
-    "title": "鐵鏈束縛，陰部酷刑，沙月芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "性虐癖",
-      "凌辱",
-      "緊縛",
-      "緊身衣",
-      "拘束・拷問",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "SM",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "調教",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/b99b4ce5380be023a3a17a7535852756.jpg",
-    "actress": [
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-088"
-  },
-  {
-    "id": 13902,
-    "IDcode": "MVG-089",
-    "title": "SM女孩酒吧，你可以把受虐狂女人變成性奴隸 紺野光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "性虐癖",
-      "苗條",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "後入",
-      "SM",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "酒吧",
-      "乳交",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/d9eb97971d064e729f23f820cf0f6969.jpg",
-    "actress": [
-      "绀野光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-089"
-  },
-  {
-    "id": 93157,
-    "IDcode": "MVG-090",
-    "title": "【FANZA限定】クソマゾ淫語 しおかわ雲丹 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "捆绑",
-      "潮吹",
-      "淫语",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/f844967e746c9d7ef6c22a512bf9c435.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-090"
-  },
-  {
-    "id": 93176,
-    "IDcode": "MVG-091",
-    "title": "母娘緊縛 親子丼調教 新村あかり/倉本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/1817dbaad70f3757ca5ded3d1570835b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-091"
-  },
-  {
-    "id": 13457,
-    "IDcode": "MVG-092",
-    "title": "在酒吧工作的漂亮店員的變態受虐M女開關被打開了！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "監獄",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "蠟燭",
-      "苗條",
-      "放尿",
-      "感官作品",
-      "凌辱",
-      "緊縛",
-      "美腳",
-      "心理驚悚",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "灌腸",
-      "變態",
-      "監禁",
-      "按摩棒",
-      "亂交 • 群P",
-      "性感",
-      "口交",
-      "跳蛋",
-      "暗黑系",
-      "導尿",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "中出",
-      "服務生",
-      "蕩婦",
-      "後入",
-      "重口味",
-      "SM",
-      "劇情",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "手指插入",
-      "口球",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "喝尿",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/7aa8acbbcdcc6bd90375ba7e16cd6033.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-092"
-  },
-  {
-    "id": 13307,
-    "IDcode": "MVG-093",
-    "title": "緊縛學院 ~ 天馬唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "多P",
-      "殘忍畫面",
-      "M男・M女",
-      "插入異物",
-      "性虐癖",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美腳",
-      "美乳",
-      "過膝襪・小腿襪",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "SM",
-      "劇情",
-      "顏射",
-      "美少女電影",
-      "手指插入",
-      "調教",
-      "女上位",
-      "學校",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/d1c7fd537e2992bcc1c9d774a8ac1ff8.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-093"
-  },
-  {
-    "id": 93186,
-    "IDcode": "MVG-094",
-    "title": "【FANZA限定】M男アナルを破壊してメスイキさせるペニバンJ系小悪魔痴女トリオ！！ 菊池はるさんのパンティとチェキ付き",
+    "id": 67652,
+    "IDcode": "NACR-573",
+    "title": "丈夫的弟弟是我的性玩具-鈴木さとみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
-      "多P",
-      "肛交",
-      "高中女生"
+      "单体作品",
+      "已婚妇女",
+      "苗条",
+      "出轨",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/6c4bc57fd36c6312e4fc96d7608be23e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/83e71e43dff3411191b8b42e607e85db.jpg",
     "actress": [
-      "皆月光",
-      "菊池春",
-      "じゅうもんじ",
-      "凉南佳奈"
+      "铃木里美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-573"
   },
   {
-    "id": 93163,
-    "IDcode": "MVG-095",
-    "title": "【FANZA限定】みんなのアナル肉便器 鈴音杏夏 チェキ付き",
+    "id": 85692,
+    "IDcode": "NACR-574",
+    "title": "身材姣好的管家-さつき芽衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "多P",
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "美少女电影",
+      "各种职业"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8ac7f106d3a35c999cba2f1d73134513.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-574"
+  },
+  {
+    "id": 87021,
+    "IDcode": "NACR-575",
+    "title": "我喜欢精液-星川まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨乳",
+      "口交",
+      "单体作品",
+      "中出",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/507737dcc734121d2e780baad74925d2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-575"
+  },
+  {
+    "id": 68869,
+    "IDcode": "NACR-576",
+    "title": "商务旅行油按摩-堀沢茉由",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "中出",
+      "礼仪小姐",
+      "无毛",
+      "苗条",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9addb2da5886d316941b1942670520ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-576"
+  },
+  {
+    "id": 67064,
+    "IDcode": "NACR-577",
+    "title": "妻子是性爱怪物-美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/943e9357b6cc3bd327cd6321d7b9a403.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-577"
+  },
+  {
+    "id": 67656,
+    "IDcode": "NACR-578",
+    "title": "屁股的节日-宝田もなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
       "巨大屁股",
-      "肛交",
+      "中出",
+      "自慰"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7f807360227e7874b3edbd7d0456e3e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-578"
+  },
+  {
+    "id": 69663,
+    "IDcode": "NACR-579",
+    "title": "被丈夫的兄弟变成性工作者-早田菜々子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "单体作品",
-      "高中女生"
+      "已婚妇女",
+      "中出",
+      "无毛",
+      "高",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/a66c8d3fa8528f18460732f2a82dfc2d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6586c339e5b5e23709c8f0b502c9ed64.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-095"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-579"
   },
   {
-    "id": 12745,
-    "IDcode": "MVG-096",
-    "title": "最極限雙受虐女對決，新村明裏 vs 都月楓",
+    "id": 69335,
+    "IDcode": "NACR-580",
+    "title": "発情母-町村京子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "兩女一男",
-      "M男・M女",
-      "口爆",
-      "兩男兩女",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "SM",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "無毛",
-      "舔腳",
-      "乳交",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/8b61d92bb4ef3d84a3a920cc08ba319e.jpg",
-    "actress": [
-      "都月楓",
-      "新村朱里",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-096"
-  },
-  {
-    "id": 12582,
-    "IDcode": "MVG-097",
-    "title": "緊縛飼育狂時代 ~ 柏木小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "小隻馬",
-      "口爆",
-      "性虐癖",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/6052a779a43c689a7ee3c0a37c96c1e0.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-097"
-  },
-  {
-    "id": 12438,
-    "IDcode": "MVG-098",
-    "title": "美人妻凌辱奸淫拷问",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "多P",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "蠟燭",
-      "緊縛",
-      "綁架",
-      "強姦",
-      "美腳",
-      "拘束・拷問",
-      "女上位",
-      "色白",
-      "羞恥",
-      "美乳",
-      "巨乳",
-      "口交",
-      "暗黑系",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "深喉",
-      "中出",
-      "後入",
-      "美腿",
-      "SM",
-      "劇情",
-      "顏射",
-      "無毛",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "監獄",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678962745d57b64bfd9bcfd3/cover.jpg",
-    "actress": [
-      "水端麻美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-098"
-  },
-  {
-    "id": 12286,
-    "IDcode": "MVG-099",
-    "title": "被嫉妒的女生報復而淪爲性奴的女教師，在戶外束縛中暴露恥辱中輪奸...... ~ 本田瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "殘忍畫面",
-      "野外露天",
-      "性虐癖",
-      "報復",
-      "蠟燭",
-      "凌辱",
-      "女教師",
-      "緊縛",
-      "強姦",
-      "羞恥",
-      "制服",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "兩男一女",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "輪姦",
-      "美少女電影",
-      "口球",
-      "野戰",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681c360423f3367fd3263466/cover.jpg",
-    "actress": [
-      "本田瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-099"
-  },
-  {
-    "id": 12107,
-    "IDcode": "MVG-100",
-    "title": "本格SM全面解禁！ 通過奴隸訓練覺醒！ ！ ~ 水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "蠟燭",
-      "放尿",
-      "感官作品",
-      "凌辱",
-      "緊縛",
-      "美腳",
-      "心理驚悚",
-      "拘束・拷問",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "暗黑系",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "剃毛",
-      "兩男一女",
-      "深喉",
-      "人妻",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "脚控・戀足癖",
-      "手指插入",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "女奴",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "2024-09-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240909/db2216d9-0ba7-4fd6-8e12-43221d8bcc3f.jpg",
-    "actress": [
-      "水川潤"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-100"
-  },
-  {
-    "id": 308265,
-    "IDcode": "MVG-101",
-    "title": "最下層のWクソマゾ女 メス豚頂上対決 清巳れの由良かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67895bd35d57b64bfd9bcea5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-101"
-  },
-  {
-    "id": 11795,
-    "IDcode": "MVG-102",
-    "title": "アナルヒッチハイカー！！ ヤリモクGALの変態ヒッチハイク 乙アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "吞精",
-      "巨尻",
-      "叛逆少女",
-      "慾求不滿",
-      "口爆",
-      "插入異物",
-      "辣妹/GAL系",
-      "臀控",
-      "牛仔褲",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "短髮",
-      "深喉",
-      "搭訕",
-      "野性",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "重口味",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "美少女電影",
-      "二穴同入",
-      "手指插入",
-      "拜金女",
-      "舔腳",
-      "69",
-      "肛交",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/2a2b0473a93a222f544502d942477d56.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-102"
-  },
-  {
-    "id": 11402,
-    "IDcode": "MVG-103",
-    "title": "緊縛アナル露出温泉デート 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "溫泉",
-      "旅行",
-      "插入異物",
-      "性虐癖",
-      "和服・浴衣・喪服",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "露出",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "重口味",
-      "SM",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "二穴同入",
-      "手指插入",
-      "調教",
-      "肛交",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/84b8c2729b88adfcd293dfa778b81b28.jpg",
-    "actress": [
-      "千石もなか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-103"
-  },
-  {
-    "id": 11262,
-    "IDcode": "MVG-104",
-    "title": "超絶ムチムチ緊縛解禁 藤沢麗央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "M男・M女",
-      "豐滿",
-      "緊縛",
-      "胖女人",
-      "拘束・拷問",
-      "變態",
-      "巨乳",
-      "口交",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "重口味",
-      "SM",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "乳交",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/3239a29ca317ddf01f34f9e9d8700027.jpg",
-    "actress": [
-      "藤沢麗央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-104"
-  },
-  {
-    "id": 176150,
-    "IDcode": "MVG-105",
-    "title": "クールな女医とギャルなナースがM男アナルを診察しながらメスイキさせるWペニバンクリニック 黒川すみれ和久井美兎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/40d930ecdfcd7311c144e066e237f73b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-105"
-  },
-  {
-    "id": 176814,
-    "IDcode": "MVG-106",
-    "title": "野外緊縛いいなり奴● 清巳れの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678948085d57b64bfd867e5f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-106"
-  },
-  {
-    "id": 10872,
-    "IDcode": "MVG-107",
-    "title": "同人マゾコスプレイヤーが緊縛輪●ぶっかけ調教された110日間の撮影記録 小那海あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "車震",
-      "3P・4P",
-      "白絲",
-      "吞精",
-      "多P",
-      "游戲COSPLAY",
-      "M男・M女",
-      "口爆",
-      "兔女郎妝扮",
-      "飯店",
-      "唾液敷面",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "露出",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "寫真女郎",
-      "深喉",
-      "明星臉",
-      "淫亂",
-      "私房攝影",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "厠所",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "角色扮演",
-      "美少女電影",
-      "手指插入",
-      "舔腳",
-      "乳交",
-      "69",
-      "調教",
-      "黑絲",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789330930833b4bf5436d32/cover.jpg",
-    "actress": [
-      "小那海綾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-107"
-  },
-  {
-    "id": 10649,
-    "IDcode": "MVG-108",
-    "title": "巨乳ギャル顔面崩壊変顔絶頂アクメ 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "M男・M女",
-      "口爆",
-      "搞笑・模仿",
-      "真實拍攝",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "辣妹/GAL系",
-      "放尿",
-      "凌辱",
-      "流汗",
-      "肉絲",
-      "惡搞",
-      "緊縛",
-      "拘束・拷問",
-      "紋身刺字",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "露出",
-      "跳蛋",
-      "口交",
-      "大亂交",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "企畫",
-      "重口味",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787f337478d611da77520b3/cover.jpg",
-    "actress": [
-      "椿莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-108"
-  },
-  {
-    "id": 10525,
-    "IDcode": "MVG-109",
-    "title": "3連休の無人の学校で緊縛調教されマゾ堕ちしていく巨乳女教師 あやせ舞菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "M男・M女",
-      "口爆",
-      "性虐癖",
-      "打屁股",
-      "蠟燭",
-      "痴漢",
-      "凌辱",
-      "女教師",
-      "緊縛",
-      "強姦",
-      "女上位",
-      "拘束・拷問",
-      "羞恥",
-      "眼鏡",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "文藝女",
-      "中出",
-      "後入",
-      "美腿",
-      "SM",
-      "顏射",
-      "輪姦",
-      "手指插入",
-      "乳交",
-      "調教",
-      "白眼失神",
-      "劇情",
-      "學校",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67887fef5d57b64bfd2c0474/cover.jpg",
-    "actress": [
-      "綾瀬舞菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-109"
-  },
-  {
-    "id": 10527,
-    "IDcode": "MVG-110",
-    "title": "Ma○ko Device BondageXXXI 鉄拘束マ○コ拷問 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "吞精",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "蠟燭",
-      "苗條",
-      "痴漢",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "跳蛋",
-      "暗黑系",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "重口味",
-      "SM",
-      "顏射",
-      "女優",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "魔鬼系",
-      "舔腳",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678911e65d57b64bfdc8c26d/cover.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-110"
-  },
-  {
-    "id": 10390,
-    "IDcode": "MVG-111",
-    "title": "母娘緊縛 親子丼調教 美咲かんな美咲音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "兩女一男",
-      "M男・M女",
-      "口爆",
-      "兩男兩女",
-      "性虐癖",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "雙飛",
-      "羞恥",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "母女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678925ee5d57b64bfd0abe8d/cover.jpg",
-    "actress": [
-      "美咲佳奈",
-      "美咲音",
-      "真琴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-111"
-  },
-  {
-    "id": 186061,
-    "IDcode": "MVG-112",
-    "title": "同人マゾコスプレイヤーが緊縛輪●ぶっかけ調教された110日間の撮影記録 有馬美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a55c8daf6b1db43c2f72/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-112"
-  },
-  {
-    "id": 180221,
-    "IDcode": "MVG-113",
-    "title": "巨乳×デカ尻！！超ビッチな痴女GALレズFUCK！！ 乙アリス椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce50a89def9b1b8bebed1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-113"
-  },
-  {
-    "id": 9835,
-    "IDcode": "MVG-114",
-    "title": "巨乳シ○ブ漬け緊縛肉奴● 田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "豐滿",
-      "辣妹/GAL系",
-      "凌辱",
-      "乳釘、穿孔、乳環",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "跳蛋",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "女奴",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678906f05d57b64bfd97ebf7/cover.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-114"
-  },
-  {
-    "id": 184291,
-    "IDcode": "MVG-115",
-    "title": "母娘緊縛 親子丼調教 黒川すみれ伊織ひなの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-115"
-  },
-  {
-    "id": 8949,
-    "IDcode": "MVG-116",
-    "title": "最下層のWクソマゾ女メス豚頂上対決 浜崎真緒 水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "巨尻",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "兩男兩女",
-      "性虐癖",
-      "唾液敷面",
-      "辣妹/GAL系",
-      "緊縛",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "女同性戀",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "SM",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "魔鬼系",
-      "乳交",
-      "調教",
-      "白眼失神",
-      "金髮",
-      "女上位",
-      "女奴",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8f88d4e7d663df48c214e/cover.jpg",
-    "actress": [
-      "浜崎真緒",
-      "水川潤"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-116"
-  },
-  {
-    "id": 73641,
-    "IDcode": "MVG-117",
-    "title": "3連休の無人の学校で緊縛調教されマゾ堕ちしていく美人女教師 森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "监禁",
       "单体作品",
-      "女教师"
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "自慰",
+      "高"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b8946fcf22ae3e04db4fed/cover.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/396dc98301167b912026f84c9a26ab13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-580"
+  },
+  {
+    "id": 85677,
+    "IDcode": "NACR-581",
+    "title": "我的导师是个J罩杯的大奶子-田詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "家教",
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "眼镜"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/744b0046876996c1a925115fe85c6d2f.jpg",
+    "actress": [
+      "塚田詩織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-581"
+  },
+  {
+    "id": 66926,
+    "IDcode": "NACR-582",
+    "title": "富有的岳父和妻子-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "乳房",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/349499be03da33c2b185d266a04ed324.jpg",
     "actress": [
       "森澤佳奈",
-      "真琴"
+      "栗原良"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-582"
   },
   {
-    "id": 457343,
-    "IDcode": "MVG-117-3",
-    "title": "連休の無人の学校で緊縛調教されマゾ堕ちしていく美人女教師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250817-1/b829849fce93b62e68707693b90043ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-117-3"
-  },
-  {
-    "id": 8401,
-    "IDcode": "MVG-118",
-    "title": "同人攝影會 COSPLAYER被捆綁緊縛羣交調教的110天拍攝記錄 ~ 希咲那奈",
+    "id": 85705,
+    "IDcode": "NACR-583",
+    "title": "不穿胸罩和裤子的看管人-波多野結衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "白絲",
-      "小隻馬",
-      "多P",
-      "游戲COSPLAY",
-      "M男・M女",
-      "口爆",
-      "野外露天",
-      "性虐癖",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "按摩棒",
-      "早漏",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "私房攝影",
-      "淫亂",
-      "蠻橫嬌羞",
-      "COSPLAY服飾",
       "中出",
-      "美人",
-      "地雷系",
-      "後入",
-      "少女",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "角色扮演",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "舔腳",
-      "69",
-      "調教",
-      "白眼失神",
-      "蘿莉控",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b898a1cf22ae3e04db4ffc/cover.jpg",
-    "actress": [
-      "希咲那奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-118"
-  },
-  {
-    "id": 8230,
-    "IDcode": "MVG-119",
-    "title": "居酒屋美人店員が肛門解禁！！酔った勢いで初アナルFUCK！ガチ飲酒でいきなり3穴アクメ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "老頭子",
-      "吞精",
-      "多P",
-      "巨尻",
-      "口爆",
-      "真實拍攝",
-      "插入異物",
-      "唾液敷面",
-      "美乳",
-      "寢取",
-      "過膝襪・小腿襪",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "業餘",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "服務生",
-      "美人",
-      "企畫",
-      "後入",
-      "酒醉",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "二穴同入",
-      "手指插入",
-      "拜金女",
-      "無毛",
-      "乳交",
-      "酒後亂性",
-      "肛交",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/2c07e63813d1b7a3a2b80e85368e96a3.jpg",
-    "actress": [
-      "道久天",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-119"
-  },
-  {
-    "id": 72325,
-    "IDcode": "MVG-120",
-    "title": "「何も言わないから悪いんだよ」未使用アナルにお仕置き肛門中出し～おしりは嘘をつかない～ 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肛交",
-      "制服",
-      "巨乳",
       "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c5f117cf22ae3e041b754b/cover.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-120"
-  },
-  {
-    "id": 7977,
-    "IDcode": "MVG-121",
-    "title": "鼻フック特化 鼻の穴まる見えエロ豚FUCK！！ 一条みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "M男・M女",
-      "口爆",
-      "戀物癖",
-      "插入異物",
-      "性虐癖",
-      "苗條",
-      "美腳",
-      "羞恥",
-      "色白",
-      "監禁",
-      "口交",
-      "性感",
-      "暗黑系",
-      "形象俱樂部",
-      "深喉",
-      "中出",
-      "美人",
-      "後入",
-      "顏射",
-      "女優",
-      "美少女電影",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a0bccf22ae3e04190de4/cover.jpg",
-    "actress": [
-      "一条美緒",
-      "一条美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-121"
-  },
-  {
-    "id": 7465,
-    "IDcode": "MVG-122",
-    "title": "野外緊縛いいなり奴● 宇佐美みおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "3P・4P",
-      "殘忍畫面",
-      "M男・M女",
-      "野外露天",
-      "豐滿",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "蠟燭",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "紋身刺字",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "露出",
-      "暗黑系",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "重口味",
-      "SM",
-      "美臀",
-      "女優",
-      "美少女電影",
-      "魔鬼系",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e6c025cf22ae3e0499fffc/cover.jpg",
-    "actress": [
-      "宇佐美みおん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-122"
-  },
-  {
-    "id": 69901,
-    "IDcode": "MVG-123",
-    "title": "不登校少●を自立支援するために洗脳イラマチオを施して精飲催●したらアヘ顔しながら学校に通うようになりました 有加里ののか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "深喉",
-      "吞精",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efe7304e7d663df47f7638/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-123"
-  },
-  {
-    "id": 69461,
-    "IDcode": "MVG-124",
-    "title": "近所の学生達のギンギンチ○ポイラマで喉奥をめちゃくちゃに犯●れたい若妻 清巳れの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "深喉",
-      "多P",
-      "调教",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/af03d88c/vod.jpg",
-    "actress": [
-      "清巳麗乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-124"
-  },
-  {
-    "id": 6809,
-    "IDcode": "MVG-125",
-    "title": "無様エロ特化 松井日奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "小隻馬",
-      "吞精",
-      "殘忍畫面",
-      "M男・M女",
-      "口爆",
-      "真實拍攝",
-      "性虐癖",
-      "唾液敷面",
-      "凌辱",
-      "緊縛",
-      "綁架",
-      "心理驚悚",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "變態",
-      "監禁",
-      "巨乳",
-      "口交",
-      "暗黑系",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "高顏值",
-      "淫亂",
-      "女主持・主播",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "SM",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "抹油",
-      "美少女電影",
       "自慰",
-      "無毛",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/f8cdb48cc4333d130ce3cb3c5cedbd7a.jpg",
-    "actress": [
-      "松井日奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-125"
-  },
-  {
-    "id": 68467,
-    "IDcode": "MVG-126",
-    "title": "【FANZA限定】2人のケツ穴奴●が繰り広げる異次元レベルのぶっ壊れアナルWクソマゾ野外調教 音琴るい/安堂はるの 安堂はるのさんのパンティとチェキセット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "肛交",
       "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b94e75489841641836f984/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/90881decc4e782629feaf60376a8a06a.jpg",
     "actress": [
-      "安堂はるの",
-      "妃月るい"
+      "波多野结衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-583"
   },
   {
-    "id": 412929,
-    "IDcode": "MVG-126-2",
-    "title": "人のケツ穴奴隷が繰り広げる異次元レベルのぶっ壊れアナルWクソマゾ野外調教音琴るい#安堂はるの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250723-1/daa3c0ddcdfac2b91ebe6ae056723b0b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-126-2"
-  },
-  {
-    "id": 6375,
-    "IDcode": "MVG-127",
-    "title": "マゾ女を徹底支配する絶対女帝 黑川すみれ 前乃菜々",
+    "id": 85706,
+    "IDcode": "NACR-584",
+    "title": "淫乱婦人-山口珠理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "兩女一男",
-      "M男・M女",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "辣妹/GAL系",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "女同性戀",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
+      "荡妇",
       "口交",
-      "性感",
-      "暗黑系",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "淫亂",
-      "女王",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "SM",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
+      "单体作品",
+      "已婚妇女",
       "自慰",
-      "女性向",
-      "御姐系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/12/682201e8197cffa350001ff2/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b7820a67f8b4cf5b4cfe6807797bd65a.jpg",
     "actress": [
-      "黑川堇",
-      "前乃菜菜"
+      "山口珠理",
+      "岩下たろう"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-584"
   },
   {
-    "id": 6170,
-    "IDcode": "MVG-128",
-    "title": "アナルバレリーナ ドキュメント 北山憂",
+    "id": 68635,
+    "IDcode": "NACR-585",
+    "title": "从事性工作的女仆-東條なつ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "小隻馬",
-      "純粹的慾望",
-      "美少女",
-      "美腳",
-      "色白",
-      "健身房",
       "口交",
-      "露出",
-      "舞蹈老師",
-      "形象俱樂部",
-      "單體作品",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "肛交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689ffdcc9550e292a7766b15/cover.jpg",
-    "actress": [
-      "北山憂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-128"
-  },
-  {
-    "id": 6082,
-    "IDcode": "MVG-129",
-    "title": "尻穴中毒同人コスプレイヤー発情アナルFUCK撮影会 坂本りお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "3P・4P",
-      "小隻馬",
-      "二次元",
-      "M男・M女",
-      "游戲COSPLAY",
-      "真實拍攝",
-      "完全着衣",
-      "苗條",
-      "美腳",
-      "癡女",
-      "緊身衣",
-      "羞恥",
-      "真人秀",
-      "早漏",
-      "口交",
-      "形象俱樂部",
+      "单体作品",
       "潮吹",
-      "單體作品",
-      "寫真女郎",
-      "私房攝影",
-      "COSPLAY服飾",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
-      "女優",
-      "角色扮演",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "偶像",
-      "肛交",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517020849744744_thumbnail.webp",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/54272522ac9d1ff55a9f4a4347d76bc7.jpg",
     "actress": [
-      "夏目未來"
+      "東條夏",
+      "タイ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-585"
   },
   {
-    "id": 195679,
-    "IDcode": "MVG-130",
-    "title": "幼馴染のドM女子校生は従順な肛門性処理ペットに調教させられていた 花狩まい",
+    "id": 67060,
+    "IDcode": "NACR-586",
+    "title": "我的公公一直在强奸我-白花こう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "高",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3372c24fb1e6280950937b85515cf140.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-586"
+  },
+  {
+    "id": 67799,
+    "IDcode": "NACR-587",
+    "title": "美女喜欢被人操弄乳头-三舩みすず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨乳",
+      "单体作品",
+      "潮吹",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/434a901c7278d9023b41d6c2a815c414.jpg",
+    "actress": [
+      "一宫みかり",
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-587"
+  },
+  {
+    "id": 69321,
+    "IDcode": "NACR-588",
+    "title": "我哥哥的妻子-東あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "自慰",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5c90e2c0155d83fc57917621257198c5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-588"
+  },
+  {
+    "id": 85676,
+    "IDcode": "NACR-589",
+    "title": "男士美容学高级课程-あべみかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "美少女电影",
+      "无毛",
+      "乳液",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ac29b116df8a7c71f24e26b1600a3a37.jpg",
+    "actress": [
+      "安部未華子",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-589"
+  },
+  {
+    "id": 85675,
+    "IDcode": "NACR-590",
+    "title": "NTR受精咨询-朝日りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "淫妻",
+      "中出",
+      "无毛",
+      "多P",
+      "NTR",
+      "新娘，年轻妻子",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/19fd1eb60e6655f9a2e16f5ea8e08cac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-590"
+  },
+  {
+    "id": 85698,
+    "IDcode": "NACR-591",
+    "title": "我妻子的性欲太强-野咲美桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/416512e15684d22af202a1d3db2a513f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-591"
+  },
+  {
+    "id": 72747,
+    "IDcode": "NACR-592",
+    "title": "你想做一次后门行动吗-斎藤あみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "美少女电影",
+      "礼仪小姐",
+      "高中女生",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/619393e8d748b600690cdd458bd025db.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-592"
+  },
+  {
+    "id": 435749,
+    "IDcode": "NACR-593",
+    "title": "オイルマニア 春菜花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/15/fb0a81a047c54543ede288eedd37d74a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/379f28e247866343878d9733ce417003.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-593"
   },
   {
-    "id": 5256,
-    "IDcode": "MVG-131",
-    "title": "顔面お仕置きを志願するマゾ女 二葉エマ",
+    "id": 67822,
+    "IDcode": "NACR-594",
+    "title": "每天都来强奸我-美園和花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "鬼畜片",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "心理驚悚",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美乳",
-      "變態",
-      "口交",
-      "性感",
-      "跳蛋",
-      "淫蕩・硬核",
-      "暗黑系",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "單體作品",
-      "深喉",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "SM",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "口球",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095541794794_thumbnail.webp",
-    "actress": [
-      "二葉惠麻",
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-131"
-  },
-  {
-    "id": 5276,
-    "IDcode": "MVG-132",
-    "title": "尻穴中毒同人コスプレイヤー発情アナルFUCK撮影会 乙アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "二次元",
-      "游戲COSPLAY",
-      "豐滿",
-      "完全着衣",
-      "辣妹/GAL系",
-      "臀控",
-      "女僕制服",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
       "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "寫真女郎",
-      "兩男一女",
-      "短髮",
-      "野性",
-      "淫亂",
-      "極品美人",
-      "超爆乳",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "寫真偶像",
+      "单体作品",
+      "乱伦",
       "中出",
-      "美人",
-      "美腿",
-      "地雷系",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "女優",
-      "角色扮演",
-      "舔陰",
-      "手指插入",
-      "肛交",
-      "黑絲",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "无毛",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2e7b682e2e9281a548e8/cover.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/7366f1fc9de328aba9a6517a0afa0fa6.jpg",
     "actress": [
-      "乙愛麗絲",
-      "タクト"
+      "美園和花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-594"
   },
   {
-    "id": 5085,
-    "IDcode": "MVG-133",
-    "title": "超級抖M淫話女神 ~ 三岳祐奈",
+    "id": 85713,
+    "IDcode": "NACR-595",
+    "title": "精液搾取-宝田もなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
+      "中出",
+      "手淫",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/14c8cb346423eea1afe823b97a4a8005.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-595"
+  },
+  {
+    "id": 92950,
+    "IDcode": "NACR-596",
+    "title": "我喜欢射精-堀沢茉由",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "鬼畜片",
-      "辣妹/GAL系",
-      "凌辱",
-      "淫語",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "巨乳",
       "口交",
-      "性感",
-      "淫蕩・硬核",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "野性",
+      "单体作品",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "膚黑",
-      "御姐系",
-      "調教",
-      "白眼失神",
-      "肌肉",
-      "女上位",
-      "騎乗位"
+      "乳房",
+      "无毛"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621065936268268_thumbnail.webp",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-133"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-596"
   },
   {
-    "id": 4898,
-    "IDcode": "MVG-134",
-    "title": "本格SM解禁！！沙月恵奈が奴●調教でマゾ覚醒！！ 沙月恵奈",
+    "id": 68262,
+    "IDcode": "NACR-597",
+    "title": "男性器専門-加藤ツバキ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "小隻馬",
-      "吞精",
-      "M男・M女",
-      "真實拍攝",
-      "插入異物",
-      "性虐癖",
-      "打屁股",
-      "苗條",
-      "鬼畜片",
-      "凌辱",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "真人秀",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
       "口交",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "深喉",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
-      "SM",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "無毛",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "单体作品",
+      "乳房",
+      "女医生",
+      "苗条",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224156847847_thumbnail.webp",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/00ec6e1484c0448f83c552df7a92ba2f.jpg",
     "actress": [
-      "沙月惠奈"
+      "夏树カオル"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-597"
   },
   {
-    "id": 4430,
-    "IDcode": "MVG-135",
-    "title": "変態美女顔面崩壊変顔絶頂アクメ 水川潤",
+    "id": 220953,
+    "IDcode": "NACR-598",
+    "title": "性活跃的姐姐-松河智奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "多P",
-      "巨尻",
-      "真實拍攝",
-      "豐滿",
-      "性虐癖",
-      "鬼畜片",
-      "辣妹/GAL系",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "真人秀",
-      "變態",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "深喉",
-      "高顏值",
-      "野性",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "SM",
-      "美臀",
-      "顏射",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "口球",
-      "御姐系",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/0bca684d4bd5e5f5ebdcc016e8baa42b.jpg",
-    "actress": [
-      "水川潤",
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-135"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-598"
   },
   {
-    "id": 3943,
-    "IDcode": "MVG-136",
-    "title": "巨乳コスプレイヤー緊縛肉便器アヘ顔クソマゾ化計画 九井スナオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "二次元",
-      "M男・M女",
-      "游戲COSPLAY",
-      "女僕",
-      "口爆",
-      "豐滿",
-      "性虐癖",
-      "鬼畜片",
-      "辣妹/GAL系",
-      "女僕制服",
-      "凌辱",
-      "流汗",
-      "緊縛",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "淫亂",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "角色扮演",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032137798798_95128_thumbnail.webp",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-136"
-  },
-  {
-    "id": 184272,
-    "IDcode": "MVG-137",
-    "title": "潮まみれ！！淫乱ドマゾGALレズFUCK！！ 有村のぞみ乃木絢愛",
+    "id": 565700,
+    "IDcode": "NACR-599",
+    "title": "逆バニーchan！ 大量潮吹き美少女 上坂めい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/5d1f1dd7/vod.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/72690d1abf84fd26e34072b3ed82a165.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-137"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-599"
   },
   {
-    "id": 60846,
-    "IDcode": "MVG-138",
-    "title": "肛门装置束缚新铁拘束肛门拷问-佐久间つな",
+    "id": 220949,
+    "IDcode": "NACR-600",
+    "title": "发情的母亲-推川ゆうり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "拘束",
-      "肛交",
-      "单体作品"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-600"
+  },
+  {
+    "id": 220952,
+    "IDcode": "NACR-601",
+    "title": "我的女朋友-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-601"
+  },
+  {
+    "id": 220928,
+    "IDcode": "NACR-602",
+    "title": "漂亮的车身-穂花あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-602"
+  },
+  {
+    "id": 107042,
+    "IDcode": "NACR-603",
+    "title": "被我卑鄙的继父强奸-柚木ひおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "乱伦",
+      "中出",
+      "无毛",
+      "成熟的女人"
     ],
+    "type": "有码",
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "佐久間津奈"
+      "柚木ひおり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-138"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-603"
   },
   {
-    "id": 2533,
-    "IDcode": "MVG-140",
-    "title": "マゾ女を徹底支配する絶対女帝 新村あかり一条みお",
+    "id": 167068,
+    "IDcode": "NACR-604",
+    "title": "油之狂热-三舩みすず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230517/h_237nacr604pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-604"
+  },
+  {
+    "id": 107030,
+    "IDcode": "NACR-605",
+    "title": "单身母亲-青木玲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "小隻馬",
-      "吞精",
-      "殘忍畫面",
-      "M男・M女",
-      "口爆",
-      "慾求不滿",
-      "真實拍攝",
-      "豐滿",
-      "插入異物",
-      "網襪",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "鬼畜片",
-      "阪道系",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "女同性戀",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "女王",
-      "蠻橫嬌羞",
-      "猥褻穿著",
+      "单体作品",
+      "乱伦",
       "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "SM",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
+      "女优按摩棒",
       "自慰",
-      "乳交",
-      "女性向",
-      "御姐系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "苗条",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/1df816a3/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "新村朱里",
-      "一条美緒",
-      "新村晶",
-      "一条美绪"
+      "青木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-605"
   },
   {
-    "id": 176742,
-    "IDcode": "MVG-141",
-    "title": "野外緊縛いいなり奴● 八森わか菜",
+    "id": 565698,
+    "IDcode": "NACR-606",
+    "title": "最爱の夫に里切られて…。 二宫和香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/fe34b113/vod.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0426c5e95dbf2b143002eaa5b5328b9b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-141"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-606"
   },
   {
-    "id": 174454,
-    "IDcode": "MVG-142",
-    "title": "変顔の天才アイドル！顔面崩壊変顔絶頂アクメ 宇佐美みおん",
+    "id": 221054,
+    "IDcode": "NACR-608",
+    "title": "我的女朋友-斎藤あみり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLORY QUEST",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
-        "works_count": 895
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/01/70e5ff03/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-608"
   },
   {
-    "id": 536730,
-    "IDcode": "MVMD-040",
-    "title": "W2穴生中出し潮吹き浣肠FUCK 晶エリー 佐伯奈々",
+    "id": 221073,
+    "IDcode": "NACR-609",
+    "title": "椰子油狂热-水原みその",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231125/mvmd040pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVMD-040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-609"
   },
   {
-    "id": 532075,
-    "IDcode": "MVS-D",
-    "title": "414 オス豚じじいを闷絶射精で极楽堕とし！ SポテンシャルがハンパないBlingBlingの白ギャルれぇらちゃんが変态じじい相手にナマ中ごっくん里バイト！ 叶月レイラ",
+    "id": 221005,
+    "IDcode": "NACR-610",
+    "title": "呆板的下属-月見伊織",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230317-1/ca9e3e2d885f71735a8e4b8b673070d8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVS-D"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-610"
   },
   {
-    "id": 523329,
-    "IDcode": "MVSD-102-CD1",
-    "title": "波多野结衣- おしゃぶりVENUS",
+    "id": 221016,
+    "IDcode": "NACR-611",
+    "title": "前女播音员沉迷于手淫-優里なお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250529/NNSM6Q5I/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-102-CD1"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-611"
   },
   {
-    "id": 523330,
-    "IDcode": "MVSD-102-CD2",
-    "title": "波多野结衣- おしゃぶりVENUS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250529/ewH9SYTN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-102-CD2"
-  },
-  {
-    "id": 536720,
-    "IDcode": "MVSD-114",
-    "title": "妖艶美女の生中出しセックス大乱交 柳田やよい 北条麻妃",
+    "id": 67875,
+    "IDcode": "NACR-613",
+    "title": "我梦中的导师-春菜はな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱交"
+      "口交",
+      "家教",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231120/mvsd114pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-114"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/9b728af1615aec77cb72d4f48067fc11.jpg",
+    "actress": [
+      "春菜华"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-613"
   },
   {
-    "id": 536695,
-    "IDcode": "MVSD-129",
-    "title": "ザーメン大好き美少女たちのスペレズとゴックン 石川みずき 爱音まひろ",
+    "id": 221320,
+    "IDcode": "NACR-614",
+    "title": "美丽的妻子在隔壁-末広純",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231114/mvsd129pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-614"
   },
   {
-    "id": 536678,
-    "IDcode": "MVSD-132",
-    "title": "おしゃぶりゴックン◆小悪魔ギャル RUMIKA 武藤クレア",
+    "id": 67934,
+    "IDcode": "NACR-615",
+    "title": "我将用丈夫亲弟弟的精子怀孕-小野寺真優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "自慰",
+      "苗条",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250408-1/77a0b7af3055efa730665b2ff94b8924.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-615"
+  },
+  {
+    "id": 67989,
+    "IDcode": "NACR-616",
+    "title": "享受通奸的快感-乃水音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "自慰",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/6d760c51e25c14a2c4eb785a7b586537.jpg",
+    "actress": [
+      "ニック",
+      "星乃水音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-616"
+  },
+  {
+    "id": 67766,
+    "IDcode": "NACR-617",
+    "title": "美女们喜欢被折磨乳头-上坂めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "中出",
+      "乳房",
+      "美少女电影",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-617"
+  },
+  {
+    "id": 69101,
+    "IDcode": "NACR-618",
+    "title": "美丽的妻子在隔壁-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "乳房",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-618"
+  },
+  {
+    "id": 69604,
+    "IDcode": "NACR-619",
+    "title": "被导演的妻子所诱惑-佐久間泉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "自慰",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-619"
+  },
+  {
+    "id": 92957,
+    "IDcode": "NACR-620",
+    "title": "头号歌舞女郎的淫秽幕后服务-渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "礼仪小姐",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-620"
+  },
+  {
+    "id": 67429,
+    "IDcode": "NACR-621",
+    "title": "喜爱射精的女演员-長谷川古宵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单体作品",
+      "巨乳",
+      "连裤袜",
+      "美少女电影",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "长谷川古宵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-621"
+  },
+  {
+    "id": 92951,
+    "IDcode": "NACR-622",
+    "title": "OIL MANIAC-美波桃子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "自慰",
+      "乳液",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250321-1/b1417f90d43f38cad36fbe7adea4e759.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-622"
+  },
+  {
+    "id": 564761,
+    "IDcode": "NACR-623",
+    "title": "嫁晒し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231110/mvsd132pl.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230128/u5fRqWPs/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-623"
   },
   {
-    "id": 536677,
-    "IDcode": "MVSD-139",
-    "title": "スペレズ つぼみ_大沢美加",
+    "id": 69504,
+    "IDcode": "NACR-624",
+    "title": "発情妻-織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "中出",
+      "自慰"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-624"
+  },
+  {
+    "id": 68776,
+    "IDcode": "NACR-625",
+    "title": "我父亲未来的妻子是一个荡妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "单体作品",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-625"
+  },
+  {
+    "id": 67885,
+    "IDcode": "NACR-626",
+    "title": "让你操任何你想操的东西-穂花あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250329-1/50f1b10eb9c49df414265bb883465282.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-626"
+  },
+  {
+    "id": 92954,
+    "IDcode": "NACR-627",
+    "title": "我喜欢射精-流川莉央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨乳",
+      "单体作品",
+      "美少女电影",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-627"
+  },
+  {
+    "id": 92956,
+    "IDcode": "NACR-628",
+    "title": "我喜欢吸吮和服务-月見伊織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "吞精",
+      "巨乳",
+      "口交",
+      "单体作品",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250414-1/7b4c1aa6e41a1e19b17d1015e5b7f109.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-628"
+  },
+  {
+    "id": 67813,
+    "IDcode": "NACR-629",
+    "title": "找乾爹美少女最愛玩奶頭和全身舔弄愛撫！！ 小花暖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "巨乳",
+      "单体作品",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小花暖",
+      "あすお",
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-629"
+  },
+  {
+    "id": 69128,
+    "IDcode": "NACR-630",
+    "title": "美人妻的過錯 小野寺真優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "苗条",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250401-1/c60c898c86f6f106637642adf3abbd42.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-630"
+  },
+  {
+    "id": 92955,
+    "IDcode": "NACR-631",
+    "title": "为性欲旺盛的女性提供兼职工作",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "中出",
+      "美少女电影",
+      "胖女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-631"
+  },
+  {
+    "id": 167569,
+    "IDcode": "NACR-632",
+    "title": "美丽的妻子在隔壁-妃ひかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231110/mvsd139pl.jpg!320x216.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230822/h_237nacr632pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-139"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-632"
   },
   {
-    "id": 516320,
-    "IDcode": "MVSD-146",
-    "title": "女高中生 吞精M寵物",
+    "id": 68382,
+    "IDcode": "NACR-633",
+    "title": "在美容院进行性油按摩!-優里なお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "无毛",
+      "苗条",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-633"
+  },
+  {
+    "id": 69332,
+    "IDcode": "NACR-634",
+    "title": "発情母-川上ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/24/68817b00c92318f97daff51f/cover.jpg",
+    "actress": [
+      "川上優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-634"
+  },
+  {
+    "id": 69668,
+    "IDcode": "NACR-636",
+    "title": "被她丈夫的手下强奸了3天-真木今日子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "自慰",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/c49986d3db2154fae46b1b08681d6a5f.jpg",
+    "actress": [
+      "真木今日子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-636"
+  },
+  {
+    "id": 69667,
+    "IDcode": "NACR-637",
+    "title": "姐夫对我情有独钟-美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单体作品",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "乳房",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/935b1e1e3daee8d90950a69a8995899b.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-637"
+  },
+  {
+    "id": 69600,
+    "IDcode": "NACR-638",
+    "title": "成熟的身体-翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "纪录片",
+      "中出",
+      "各种职业",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250331-1/140042a76dd15f6f2b11758efda7580f.jpg",
+    "actress": [
+      "翔田千里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-638"
+  },
+  {
+    "id": 68572,
+    "IDcode": "NACR-639",
+    "title": "难以忘怀的初恋-杏奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "巨乳",
+      "中出",
+      "高",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-639"
+  },
+  {
+    "id": 92959,
+    "IDcode": "NACR-640",
+    "title": "怀孕生育治疗-桐條紗綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "多P",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/d16c475d9cab53e1a989432f9d12320f.jpg",
+    "actress": [
+      "森春流"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-640"
+  },
+  {
+    "id": 67954,
+    "IDcode": "NACR-641",
+    "title": "射精菜单-渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "美少女电影",
+      "礼仪小姐",
+      "苗条",
+      "颜射",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-641"
+  },
+  {
+    "id": 68672,
+    "IDcode": "NACR-642",
+    "title": "家庭教師-美波もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "家教",
+      "单体作品",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "あすお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-642"
+  },
+  {
+    "id": 67955,
+    "IDcode": "NACR-643",
+    "title": "女大学生-有加里ののか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨乳",
+      "单体作品",
+      "美少女电影",
+      "女大学生",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-643"
+  },
+  {
+    "id": 92960,
+    "IDcode": "NACR-644",
+    "title": "商务旅行油按摩-流川莉央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "礼仪小姐",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-644"
+  },
+  {
+    "id": 92962,
+    "IDcode": "NACR-645",
+    "title": "美丽的妻子被邻居操纵了-ローレン花恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "放尿",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-645"
+  },
+  {
+    "id": 92961,
+    "IDcode": "NACR-646",
+    "title": "淫乱妻-夏川うみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏川海",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-646"
+  },
+  {
+    "id": 92963,
+    "IDcode": "NACR-647",
+    "title": "被我父亲的下属强奸了-咲野瑞希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "乱伦",
+      "中出",
+      "高",
+      "苗条",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-647"
+  },
+  {
+    "id": 92966,
+    "IDcode": "NACR-648",
+    "title": "逃亡者和我-卯水咲流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "捆绑",
+      "苗条",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa59389def9b1b80e52ca/cover.jpg",
+    "actress": [
+      "卯水咲流"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-648"
+  },
+  {
+    "id": 92964,
+    "IDcode": "NACR-649",
+    "title": "老板的妻子-小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-649"
+  },
+  {
+    "id": 92967,
+    "IDcode": "NACR-650",
+    "title": "商务旅行油按摩-木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "礼仪小姐",
+      "高",
+      "苗条",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-650"
+  },
+  {
+    "id": 92965,
+    "IDcode": "NACR-651",
+    "title": "爆乳搾精-夕季ちとせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "中出",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "七草千歲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-651"
+  },
+  {
+    "id": 92969,
+    "IDcode": "NACR-652",
+    "title": "参加色情部社团活动-一条美绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "学校泳装",
+      "苗条",
+      "运动短裤"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "一条美绪",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-652"
+  },
+  {
+    "id": 92974,
+    "IDcode": "NACR-653",
+    "title": "资产家义父和媳妇-君塚日向",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "无毛",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "栗原良",
+      "君塚ひなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-653"
+  },
+  {
+    "id": 92975,
+    "IDcode": "NACR-654",
+    "title": "援交美少女-森下琴乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "巨乳",
+      "单体作品",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "あすお",
+      "ひむろっく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-654"
+  },
+  {
+    "id": 92972,
+    "IDcode": "NACR-655",
+    "title": "OILMANIAC-南畑颯花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "胖女人",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-655"
+  },
+  {
+    "id": 92973,
+    "IDcode": "NACR-656",
+    "title": "逆兔女郎醬！ 誘人超棒技巧美少女 小花暖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
+      "无毛",
+      "苗条",
+      "兔女郎"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小花暖",
+      "あすお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-656"
+  },
+  {
+    "id": 92971,
+    "IDcode": "NACR-657",
+    "title": "究极的S线条美体-结城莉乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "自慰",
+      "无毛",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-657"
+  },
+  {
+    "id": 92970,
+    "IDcode": "NACR-658",
+    "title": "幻想和弟弟的妻子-真木今日子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "已婚妇女",
+      "妄想",
+      "单体作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "真木今日子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-658"
+  },
+  {
+    "id": 92977,
+    "IDcode": "NACR-659",
+    "title": "被50岁小说家圈养的人妻编辑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "乳房",
+      "苗条",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-659"
+  },
+  {
+    "id": 92976,
+    "IDcode": "NACR-660",
+    "title": "在家里私自开的沙龙店-翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "乳液",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "翔田千里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-660"
+  },
+  {
+    "id": 92978,
+    "IDcode": "NACR-661",
+    "title": "隔壁的美人妻错进到我家-月岛樱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "月岛さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-661"
+  },
+  {
+    "id": 92979,
+    "IDcode": "NACR-662",
+    "title": "恼殺淫技美少女-奈築理绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "乳房",
+      "美少女电影",
+      "无毛",
+      "兔女郎"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "奈築里緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-662"
+  },
+  {
+    "id": 90726,
+    "IDcode": "NACR-663",
+    "title": "油腻狂热者-伊织羽音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
+      "无毛",
+      "乳液",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240208-1/8f65f5fd955c2cd3d22ef2c68c98a0f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-663"
+  },
+  {
+    "id": 225384,
+    "IDcode": "NACR-664",
+    "title": "無法向老公所說的事─被義父強侵犯了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6913ff2e312f492881570f3b/poster2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-664"
   },
   {
-    "id": 526683,
-    "IDcode": "MVSD-148",
-    "title": "スペレズ×W生中出し 北川瞳 浜崎りお",
+    "id": 225381,
+    "IDcode": "NACR-665",
+    "title": "性欲绝伦的主妇中出恳求背叛-小早川怜子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230610/mvsd00148pl.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-148"
-  },
-  {
-    "id": 536667,
-    "IDcode": "MVSD-151",
-    "title": "おしゃぶりVENUS 哀川りん 泉麻那 橘なお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231107/mvsd151pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-151"
-  },
-  {
-    "id": 536641,
-    "IDcode": "MVSD-168",
-    "title": "スペレズ 羽月希_篠めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231031/mvsd168pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-168"
-  },
-  {
-    "id": 221426,
-    "IDcode": "MVSD-171",
-    "title": "超可爱美少女姐妹-つぼみ みづなれい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/01feca7fa624191cbdfdd9eee695025d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-171"
-  },
-  {
-    "id": 536620,
-    "IDcode": "MVSD-173",
-    "title": "W美少女 3穴中出しファック 辻本りょう 篠めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MVG GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MVG_GROUP",
-        "works_count": 375
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231027/mvsd173pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-173"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-665"
   }
 ];

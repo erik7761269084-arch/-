@@ -63,7 +63,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2015-03-10",
       "cover_url": "https://picture.yoshiclub.xyz/20231030/f7a6f757-350b-464c-92d2-4cf8d06df005.jpg",
       "actress": [
@@ -79,7 +79,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "SUPER MODEL",
       "publish_date": "2015-01-08",
       "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029092609712712.jpg",
       "actress": [
@@ -288,7 +288,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240313-1/ff03a9a34efe51d4dfe751b51de18068.jpg",
       "actress": [
@@ -650,7 +650,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "LAFORET GIRL",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/01/0a9c25c5cd5ab8ed68f153b7aebd11e4.jpg",
       "actress": [

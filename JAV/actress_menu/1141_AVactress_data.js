@@ -139,7 +139,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "SUPER MODEL",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230212/a5087a31-7303-4506-a80a-e18b85adfef4.webp",
       "actress": [

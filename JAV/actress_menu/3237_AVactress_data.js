@@ -236,7 +236,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-1/37e1aea14bc30ab3ab29aff4b6f7d1e0.jpg",
       "actress": [
@@ -370,7 +370,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023418250250_98270_thumbnail.webp",
       "actress": [

@@ -505,7 +505,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/ed73bd132b3162be46a6895f4034cae4.jpg",
       "actress": [
@@ -528,7 +528,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/d83c7f10037b207c640ac509d9d626d2.jpg",
       "actress": [
@@ -550,7 +550,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/ab0e977c589f213f258fdc379df1d528.jpg",
       "actress": [
@@ -1218,7 +1218,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/b4bf1f14/vod.jpg",
       "actress": [

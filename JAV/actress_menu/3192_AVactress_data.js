@@ -111,7 +111,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2020-04-02",
       "cover_url": "https://ll.lasha250923.top/upload/vod/20201027-1/3593f508fb087a93868d52ff6d5b3bd7.jpg",
       "actress": [

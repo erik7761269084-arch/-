@@ -159,7 +159,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-07-30",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/1f9610d37d7ec113968cd4eabaa03f35.jpg",
       "actress": [
@@ -223,7 +223,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/30082ced93cbcf5d73661fac204260ef.jpg",
       "actress": [
@@ -239,7 +239,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/330db8c2bfb32b052321776c0378b3f6.jpg",
       "actress": [
@@ -255,7 +255,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084252180180.jpg",
       "actress": [
@@ -272,7 +272,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216085358429429.jpg",
       "actress": [

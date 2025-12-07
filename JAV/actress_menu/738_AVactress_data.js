@@ -64,7 +64,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8c1f54e7d663df48c1c87/cover.jpg",
       "actress": [

@@ -48,7 +48,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2020-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/4f2938a8b9e487dd6a4dbd94c2d653e4.jpg",
       "actress": [
@@ -114,7 +114,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/f339954f0ee876af336235cc92455718.jpg",
       "actress": [
@@ -139,7 +139,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/30de3e4b5a08f063047feb4f5ede64eb.jpg",
       "actress": [
@@ -415,7 +415,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c19f4c92318f97d35b74e/cover.jpg",
       "actress": [

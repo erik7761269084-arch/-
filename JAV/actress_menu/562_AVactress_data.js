@@ -101,7 +101,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/9d41cc7aaf7446a64430d470015ea46d.jpg",
       "actress": [

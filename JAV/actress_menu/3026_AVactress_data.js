@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2020-03-19",
       "cover_url": "",
       "actress": [
@@ -270,7 +270,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/9e3cfb1654932f36f2ac65cc96d0e908.jpg",

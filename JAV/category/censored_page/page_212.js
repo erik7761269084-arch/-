@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 466705,
-    "IDcode": "AKAD-141",
-    "title": "素人娘大図鑑21人 胸・マ○コ・アナル・超接写！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68905c42c92318f97d776b78/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKAD-141"
-  },
-  {
-    "id": 64256,
-    "IDcode": "AKARI",
-    "title": "亚洲色情肛门性组与  朝雾中1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKARI"
-  },
-  {
     "id": 406145,
     "IDcode": "AKARI01",
     "title": "",
@@ -40,7 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/a7892664e1b052cb4550b443b9b3a88f.jpg",
     "actress": [],
@@ -54,12 +22,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
       "中出",
-      "黑人演员"
+      "黑人演员",
+      "角色扮演"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/eeee47260cb16d61aaf6ce0a88badf4a.jpg",
     "actress": [
@@ -76,7 +44,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c013084e7d663df4b506fa/cover.jpg",
     "actress": [],
@@ -91,7 +59,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/ab268db653ffc98e1b19a72a5c8c2e81.jpg",
     "actress": [],
@@ -108,7 +76,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/9174a61edaa53c140db8a5e3e957dc1d.jpg",
     "actress": [],
@@ -123,7 +91,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/72242379dae8f428d0914f597907a87e.jpg",
     "actress": [],
@@ -140,7 +108,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250314/XbREASKs/1.jpg",
     "actress": [],
@@ -155,7 +123,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/a09ae754f6c35a9968da8c2761d2e11a.jpg",
     "actress": [],
@@ -172,7 +140,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/19a77f19987860170a85f972d49fc589.jpg",
     "actress": [],
@@ -189,7 +157,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/014cf3bd1e8dcb9d960776042123231e.jpg",
     "actress": [],
@@ -204,7 +172,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/69b2dcb1ae54a330f2a3c031de8e67a8.jpg",
     "actress": [],
@@ -219,7 +187,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/4be2df09f88486bd79e44b2ae213349d.jpg",
     "actress": [],
@@ -234,7 +202,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230425-1/434b26201ae0cdc756cc1205bececb06.jpg",
     "actress": [],
@@ -249,7 +217,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/e9403b7ca0df5b7dac36fa7f77041f59.jpg",
     "actress": [],
@@ -266,7 +234,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/da7edb5c663d6e19f0dcb2d14c3022cb.jpg",
     "actress": [],
@@ -281,7 +249,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250314/YxOdCt5r/1.jpg",
     "actress": [],
@@ -298,7 +266,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/03/99359fb084f12c4ded1177e9d6541342.jpg",
     "actress": [],
@@ -313,7 +281,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/5ab1b5f0f92533f759b114e2504a9bfd.jpg",
     "actress": [],
@@ -330,13 +298,7 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200716/1akdl00001pl.jpg",
     "actress": [],
@@ -353,13 +315,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241027/RR8TvZLI/1.jpg",
     "actress": [],
@@ -376,13 +332,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200527-1/38f4ffd1dff3062f31a23a96fa5dd684.jpg",
     "actress": [],
@@ -396,22 +346,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "第一人称摄影",
-      "乳房",
-      "姐姐",
-      "素人作品",
       "口交",
+      "乳房",
+      "第一人称摄影",
+      "素人作品",
+      "眼镜",
+      "姐姐",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "2019-12-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/32abcacdd651ba4b9c07dec0498e1e4f.jpg",
     "actress": [
@@ -427,21 +371,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
       "乳房",
-      "制服",
       "素人作品",
+      "颜射",
       "妹妹",
-      "颜射"
+      "制服",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "2019-12-26",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/c01fa7f6ae7bdb7255e2b97bff0558b3.jpg",
     "actress": [
@@ -458,13 +396,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677de64089def9b1b8c76132/cover.jpg",
     "actress": [],
@@ -479,13 +411,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/2022/11/l5s1s14sjnf.jpg",
     "actress": [],
@@ -500,13 +426,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -521,13 +441,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -541,20 +455,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
-      "素人作品",
       "口交",
       "巨乳",
+      "素人作品",
+      "姐姐",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/b71b8712254ece2c216a0beb16061091.jpg",
     "actress": [
@@ -570,20 +478,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
+      "巨乳",
       "纪录片",
       "素人作品",
-      "巨乳",
+      "姐姐",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/640fcdbd2e92341e5bdb02c125614855.jpg",
     "actress": [
@@ -603,13 +505,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200815-1/408fe7bd42e4dc1e355139b15e6dcdef.jpg",
     "actress": [],
@@ -623,20 +519,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "巨乳",
       "偷窥",
-      "内衣",
       "素人作品",
-      "巨乳"
+      "校服",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/4994b88d6a3df824cb5857b192f6bcb8.jpg",
     "actress": [
@@ -660,13 +550,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e2060cd6fbef4e90e076d3/cover.jpg",
     "actress": [],
@@ -681,13 +565,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e39dd6dbf24d4ed321569e/cover.jpg",
     "actress": [],
@@ -702,13 +580,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/2ee009f47a7464fc8ac1e41b6bebe84e.jpg",
     "actress": [],
@@ -723,13 +595,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/9e29600b34471f111a7f0867127847e9.jpg",
     "actress": [],
@@ -747,13 +613,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/9fbc65ee3fb4d243ddef8f47d0a6b845.jpg",
     "actress": [],
@@ -767,21 +627,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "素人",
       "业余",
       "乳房",
+      "第一人称摄影",
       "素人作品",
-      "颜射"
+      "颜射",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/945be49fece54c29d16899106e15b312.jpg",
     "actress": [
@@ -798,20 +652,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "素人",
       "业余",
       "纪录片",
       "素人作品",
-      "女上位"
+      "女上位",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/2d908f1495a5e2b585bd73e0980d1b10.jpg",
     "actress": [],
@@ -827,18 +675,12 @@ window.PAGE_DATA = [
     "genres": [
       "乳房",
       "美少女电影",
+      "第一人称摄影",
       "素人作品",
-      "淫语",
-      "第一人称摄影"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/c2ba2bc08111bccf37dacbc138478cb2.jpg",
     "actress": [
@@ -854,17 +696,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "淫妻"
+      "淫妻",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250921-1/5cce36a50293c2148346a8aeeb8bcb59.jpg",
     "actress": [],
@@ -881,13 +717,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231005/9D1axsu5/1.jpg",
     "actress": [],
@@ -896,22 +726,16 @@ window.PAGE_DATA = [
   {
     "id": 532578,
     "IDcode": "AKDL-213",
-    "title": "[] 巨乳妻不伦 出张と嘘をついて接吻不伦旅行に出挂ける妻 美丘さとみ",
+    "title": "巨乳妻不伦 出张と嘘をついて接吻不伦旅行に出挂ける妻 美丘さとみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/cap_e_0_110akdl-213.jpg",
     "actress": [],
@@ -926,13 +750,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/d3e8ef60cfbbd2a2f250dd97d4d4e68b.jpg",
     "actress": [],
@@ -947,13 +765,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230404/UxkjCwzO/1.jpg",
     "actress": [],
@@ -962,22 +774,16 @@ window.PAGE_DATA = [
   {
     "id": 533166,
     "IDcode": "AKDL-225",
-    "title": "[] 性格良し子で惚れっぽい雑货店员さん 実はFカップの隠れ巨乳ちゃんはイチャイチャSEXで何度も本気イキ！！ 真白みのり",
+    "title": "性格良し子で惚れっぽい雑货店员さん 実はFカップの隠れ巨乳ちゃんはイチャイチャSEXで何度も本気イキ！！ 真白みのり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240514/1akdl00225pl.jpg!320x216.jpg",
     "actress": [],
@@ -986,7 +792,7 @@ window.PAGE_DATA = [
   {
     "id": 533165,
     "IDcode": "AKDL-226",
-    "title": "[] 【すぐヤレる女】ヤリたい时にヤレるごっくん好きなシングルママ ～久しぶりのザーメンを味わいたい～ ののか 23歳",
+    "title": "【すぐヤレる女】ヤリたい时にヤレるごっくん好きなシングルママ ～久しぶりのザーメンを味わいたい～ ののか 23歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -994,13 +800,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240514/1akdl00226pl.jpg!320x216.jpg",
     "actress": [],
@@ -1015,13 +815,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://pic57.anzise.com/pic/20230608/80e8d8d9e541e55dfbb9dc8c5e3caa42/1.jpg",
     "actress": [],
@@ -1036,13 +830,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/vLmYZFj0/1.jpg",
     "actress": [],
@@ -1057,13 +845,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/GreCy4Rr/1.jpg",
     "actress": [],
@@ -1078,13 +860,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230629/iUTNGKfB/1.jpg",
     "actress": [],
@@ -1099,13 +875,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230629/hxzh6iWQ/1.jpg",
     "actress": [],
@@ -1120,13 +890,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/X8fdSrZJ/1.jpg",
     "actress": [],
@@ -1141,13 +905,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/TfwsiOl3/1.jpg",
     "actress": [],
@@ -1162,13 +920,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1183,13 +935,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1204,13 +950,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230812/a4U4VYZT/1.jpg",
     "actress": [],
@@ -1225,13 +965,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/uXKKKRbT/1.jpg",
     "actress": [],
@@ -1246,13 +980,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/QGMx1qLB/1.jpg",
     "actress": [],
@@ -1266,21 +994,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
       "吞精",
+      "4K",
       "美少女电影",
       "素人作品",
-      "接吻",
-      "高中女生"
+      "高中女生",
+      "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/a6fb21ac3b04bca162df86d7d8249a23.jpg",
     "actress": [
@@ -1297,13 +1019,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230921/oVRbCmAw/1.jpg",
     "actress": [],
@@ -1318,13 +1034,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/YQN1HHZ3/1.jpg",
     "actress": [],
@@ -1338,22 +1048,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "吞精",
       "潮吹",
       "4K",
-      "吞精",
-      "白天出轨",
       "美少女电影",
       "素人作品",
-      "高中女生"
+      "高中女生",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/e9f9e857151a3250768a23be6d25bd88.jpg",
     "actress": [],
@@ -1368,13 +1072,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231014/RYkVtTZn/1.jpg",
     "actress": [],
@@ -1389,13 +1087,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231029/iQYAv9As/1.jpg",
     "actress": [],
@@ -1410,13 +1102,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231029/z0UXaxPD/1.jpg",
     "actress": [],
@@ -1431,13 +1117,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/tqomf6yK/1.jpg",
     "actress": [],
@@ -1452,13 +1132,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/h4k61lOR/1.jpg",
     "actress": [],
@@ -1473,13 +1147,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231126/zoJMUTCz/1.jpg",
     "actress": [],
@@ -1494,13 +1162,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/4815db4dbd23382062cd583d4489df46.jpg",
     "actress": [
@@ -1517,13 +1179,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231213/G5cI5fM9/1.jpg",
     "actress": [],
@@ -1538,13 +1194,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231213/Uv4CEwp1/1.jpg",
     "actress": [],
@@ -1559,13 +1209,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231223/vBZWNAdp/1.jpg",
     "actress": [],
@@ -1580,13 +1224,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231223/1j1vf5Ub/1.jpg",
     "actress": [],
@@ -1601,13 +1239,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/0f4ee39467d27b133e4a0e3dfa1181d8.jpg",
     "actress": [],
@@ -1624,13 +1256,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/rwszcXHN/1.jpg",
     "actress": [],
@@ -1645,13 +1271,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/HbY5YyYM/1.jpg",
     "actress": [],
@@ -1665,21 +1285,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
       "吞精",
-      "白天出轨",
-      "素人作品",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "4K",
+      "素人作品",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240327-1/97a8a8cec3697cb273c4711de939516d.jpg",
     "actress": [
@@ -1696,13 +1310,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/nuIwk2Ge/1.jpg",
     "actress": [],
@@ -1717,13 +1325,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/yElbkfr3/1.jpg",
     "actress": [],
@@ -1738,13 +1340,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/yV3yqRaX/1.jpg",
     "actress": [],
@@ -1759,13 +1355,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/iK4fMOU9/1.jpg",
     "actress": [],
@@ -1779,30 +1369,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "泳裝",
-      "更衣室",
-      "4K",
-      "吞精",
-      "淫亂",
-      "蠻橫嬌羞",
       "戀物癖",
+      "吞精",
+      "蠻橫嬌羞",
       "溫泉",
-      "運動女孩",
-      "中出",
-      "素人作品",
       "巨乳",
       "口交",
-      "劇情"
+      "淫亂",
+      "運動女孩",
+      "4K",
+      "中出",
+      "更衣室",
+      "素人作品",
+      "劇情",
+      "形象俱樂部",
+      "泳裝"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "2024-07-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240727/4e497f59-bd2f-4fbd-a311-640c9fac858f.jpg",
     "actress": [
@@ -1818,43 +1402,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "吞精",
-      "純粹的慾望",
-      "口爆",
-      "素人作品",
-      "苗條",
-      "4K",
-      "美少女",
-      "美腳",
-      "純愛・戀愛",
-      "自宅",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
       "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "脚控・戀足癖",
+      "蠻橫嬌羞",
+      "美腳",
+      "口爆",
       "舔陰",
+      "中出",
       "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "女友・妻子",
+      "苗條",
+      "顏射",
+      "素人作品",
+      "純粹的慾望",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美腿",
+      "吞精",
+      "口交",
+      "潮吹",
+      "4K",
       "女上位",
-      "騎乗位"
+      "純愛・戀愛",
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "2024-07-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240727/474cc7ad-0515-4c49-a952-e3bda3117c8d.jpg",
     "actress": [
@@ -1871,13 +1449,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240922/LxS5sYND/1.jpg",
     "actress": [],
@@ -1892,13 +1464,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/10/612cb768e103881f65ba137e0ed66806.jpg",
     "actress": [],
@@ -1913,13 +1479,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1933,28 +1493,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "嫩妹",
+      "中出",
+      "性感",
       "護士",
+      "看病・住院",
       "美少女電影",
+      "丁字裤",
+      "劇情",
       "醫院・診所",
+      "護士制服",
       "美少女",
       "癡女",
-      "嫩妹",
-      "看病・住院",
-      "美乳",
-      "中出",
-      "護士制服",
-      "性感",
-      "丁字裤",
-      "劇情"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/751a9fb511cfacf4f516ece767cbb6ed.jpg",
     "actress": [
@@ -1970,36 +1524,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "咖啡店",
-      "艷遇",
-      "慾求不滿",
-      "職員",
+      "公共場所",
       "癡女",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
       "淫亂",
       "中出",
-      "後入",
-      "劇情",
       "美少女電影",
-      "女上位",
+      "劇情",
+      "勾引・誘惑",
+      "咖啡店",
+      "色白",
       "騎乗位",
-      "公共場所"
+      "艷遇",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "職員",
+      "慾求不滿",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/3b86e785645c73c26364f828dd2a971f.jpg",
     "actress": [
@@ -2015,35 +1563,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "完全着衣",
-      "苗條",
-      "美少女",
-      "美腳",
       "主觀視角",
-      "口交",
-      "性感",
-      "形象俱樂部",
+      "美腳",
       "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "女優",
-      "脚控・戀足癖",
-      "美少女電影",
       "舔腳",
+      "美少女電影",
+      "完全着衣",
+      "美少女",
+      "女優",
+      "企畫",
+      "苗條",
       "黑絲",
-      "足交",
+      "騎乗位",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
       "女上位",
-      "騎乗位"
+      "足交",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/217222a8e250a3c7701b3ac906511a91.jpg",
     "actress": [
@@ -2059,32 +1601,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "泳裝",
-      "短髮",
-      "巨尻",
       "肉絲",
-      "癡女",
       "戀物癖",
+      "巨尻",
+      "口交",
       "健身教練",
       "中出",
-      "足交",
-      "健身房",
-      "後入",
+      "女優",
       "企畫",
+      "健身房",
       "女上位",
-      "口交",
+      "癡女",
+      "足交",
+      "運動服裝",
       "騎乗位",
-      "女優"
+      "後入",
+      "泳裝",
+      "短髮"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024020223834834.jpg",
     "actress": [
@@ -2100,37 +1636,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "女學生",
+      "少女",
       "老頭子",
+      "女學生",
+      "口爆",
+      "美臀",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "色白",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
       "吞精",
       "巨尻",
-      "口爆",
-      "4K",
-      "美少女",
-      "JK校服",
-      "色白",
       "口交",
-      "接吻",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
+      "4K",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/b4fcf0c8e0494c7c9336cbd4f610237f.jpg",
     "actress": [
@@ -2147,43 +1677,37 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "女學生",
-      "吞精",
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
       "口爆",
-      "素人作品",
-      "唾液敷面",
-      "4K",
-      "癡女",
-      "JK校服",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "短髮",
+      "蕩婦",
       "深喉",
+      "癡女",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
       "劇情",
-      "顏射",
       "絕頂高潮",
+      "色白",
+      "顏射",
+      "素人作品",
+      "純粹的慾望",
       "手指插入",
+      "騎乗位",
+      "短髮",
+      "唾液敷面",
+      "美乳",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "4K",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/aabc17aabf8c6acc8dc1a25ab83dee66.jpg",
     "actress": [
@@ -2199,40 +1723,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
       "豐滿",
-      "飯店",
       "臀控",
-      "辦公室",
-      "加班",
-      "OL",
-      "癡女",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "短髮",
-      "淫亂",
-      "騎乗位",
-      "中出",
-      "後入",
       "美臀",
+      "癡女",
+      "加班",
+      "淫亂",
+      "中出",
+      "辦公室",
       "劇情",
       "絕頂高潮",
-      "乳交",
+      "女同事",
+      "飯店",
       "黑絲",
+      "騎乗位",
+      "制服",
+      "短髮",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
       "女上位",
-      "女同事"
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/26/e6e8d3d08de4569b70be91a66f3bcad3.jpg",
     "actress": [
@@ -2248,30 +1766,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "護士",
-      "醫院・診所",
-      "艷遇",
       "吞精",
       "巨尻",
-      "癡女",
-      "色白",
-      "看病・住院",
-      "美乳",
-      "中出",
-      "後入",
       "口交",
+      "中出",
+      "色白",
+      "護士",
+      "看病・住院",
       "女上位",
       "騎乗位",
-      "劇情"
+      "艷遇",
+      "後入",
+      "劇情",
+      "醫院・診所",
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/74f4f03d/vod.jpg",
     "actress": [
@@ -2287,31 +1799,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "護士",
-      "醫院・診所",
-      "女上位",
-      "乳交",
-      "胸控・戀乳癖",
       "故事集",
-      "看病・住院",
-      "美乳",
-      "中出",
-      "護士制服",
-      "後入",
-      "性感",
       "巨乳",
+      "乳交",
+      "中出",
+      "性感",
+      "護士",
+      "看病・住院",
+      "女上位",
+      "胸控・戀乳癖",
       "騎乗位",
-      "劇情"
+      "劇情",
+      "後入",
+      "護士制服",
+      "形象俱樂部",
+      "醫院・診所",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241120/20241120205758514514.jpg",
     "actress": [
@@ -2329,38 +1835,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "慾求不滿",
-      "辦公室",
-      "加班",
-      "OL",
+      "文藝女",
       "癡女",
       "眼鏡",
+      "加班",
+      "中出",
+      "辦公室",
+      "劇情",
       "勾引・誘惑",
-      "胸控・戀乳癖",
+      "女同事",
+      "地味",
       "色白",
-      "美乳",
+      "騎乗位",
       "制服",
+      "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "地味",
-      "文藝女",
-      "中出",
-      "後入",
-      "劇情",
+      "慾求不滿",
       "女上位",
-      "騎乗位",
-      "女同事"
+      "胸控・戀乳癖",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/ab1701a4/vod.jpg",
     "actress": [
@@ -2376,48 +1876,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "醫院・診所",
+      "清楚系",
+      "美腳",
       "女學生",
+      "運動服裝",
       "小隻馬",
-      "純粹的慾望",
-      "素人作品",
-      "護士制服",
-      "故事集",
+      "癡女",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "辦公室",
+      "接吻",
+      "劇情",
+      "美少女",
       "苗條",
       "護士",
-      "辦公室",
-      "美少女",
-      "美腳",
-      "癡女",
-      "OL",
-      "自宅",
-      "美乳",
-      "制服",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "清純",
-      "美少女電影",
+      "素人作品",
+      "純粹的慾望",
       "手指插入",
+      "騎乗位",
+      "制服",
+      "護士制服",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "故事集",
+      "口交",
+      "巨乳",
+      "清純",
       "女上位",
-      "騎乗位"
+      "OL",
+      "後入",
+      "性感",
+      "醫院・診所"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/51b5d21f/vod.jpg",
     "actress": [
@@ -2435,37 +1929,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "女學生",
-      "巨尻",
-      "豐滿",
-      "痴漢",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "色白",
-      "美乳",
-      "變態",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "中出",
-      "後入",
       "少女",
-      "劇情",
+      "豐滿",
+      "美腳",
+      "女學生",
       "奇異的",
+      "奇聞趣事",
+      "中出",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "色白",
+      "變態",
+      "痴漢",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "巨乳",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
+    "company": "AKNR",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bbaa5d57b64bfd03a2eb/cover.jpg",
     "actress": [
@@ -2474,5 +1962,92 @@ window.PAGE_DATA = [
       "五十嵐清華"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-308"
+  },
+  {
+    "id": 9589,
+    "IDcode": "AKDL-309",
+    "title": "【職場でヤレる女】 保育士の後輩は笑顔でイチャフェラしてくるスケベな女 つかさ 23歳 藤野つかさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "美臀",
+      "癡女",
+      "幼稚園老師",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "牛仔褲",
+      "絕頂高潮",
+      "地味",
+      "飯店",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "短髮",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "倉庫",
+      "清純",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "AKNR",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/23/0b048e9da4ad1cf5ae5ee51b934bd0c8.jpg",
+    "actress": [
+      "藤野つかさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-309"
+  },
+  {
+    "id": 9296,
+    "IDcode": "AKDL-310",
+    "title": "いつもキスをせがんでくる年上の彼女若宮はずき 浜辺栞帆 五十嵐清華 前田美波 天沢りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "口爆",
+      "美臀",
+      "淫亂",
+      "中出",
+      "美少女",
+      "女友・妻子",
+      "企畫",
+      "美人妻",
+      "純粹的慾望",
+      "騎乗位",
+      "精選總編集",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "女上位",
+      "純愛・戀愛",
+      "熟女",
+      "後入",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "AKNR",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250109/202501090301403636.jpg",
+    "actress": [
+      "前田美波",
+      "浜辺栞帆",
+      "若宮葉月",
+      "五十嵐清華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-310"
   }
 ];

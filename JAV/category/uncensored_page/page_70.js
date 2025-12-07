@@ -1,5 +1,41 @@
 window.PAGE_DATA = [
   {
+    "id": 508265,
+    "IDcode": "CARIB 072412-082",
+    "title": "不论何时何处都能撸管发射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/4290f829f740b4d4e7e0ef824c7947f3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB 072412-082"
+  },
+  {
+    "id": 483176,
+    "IDcode": "CARIB 072610-436",
+    "title": "高瀬沙耶香 熟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3cc26d191d6c53448ad9a2eaab5a8f85.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB 072610-436"
+  },
+  {
     "id": 347654,
     "IDcode": "CARIB 081319-981",
     "title": "你被成熟的BJ打倒了",
@@ -11,13 +47,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -35,13 +65,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -59,13 +83,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -83,13 +101,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -107,13 +119,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -131,13 +137,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-7/8b5498024a8344bb2b2d1ce603d4694d.jpg",
     "actress": [],
@@ -155,13 +155,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3bd0dea2753a25d2b4ef04038999ce1d.jpg",
     "actress": [],
@@ -179,13 +173,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/106f91657a075312d4296f6acf2a95d1.jpg",
     "actress": [],
@@ -203,13 +191,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/24026a36063edc31263a8dc80c644da1.jpg",
     "actress": [],
@@ -227,13 +209,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -251,13 +227,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -275,13 +245,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -296,17 +260,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱交",
-      "无码"
+      "无码",
+      "乱交"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/17c99a620ffe6720ebf99da9d30fa86d.jpg",
     "actress": [],
@@ -324,13 +282,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a0fdcf48cde097a9000b29cd43db602e.jpg",
     "actress": [],
@@ -349,13 +301,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/d6ee0e273c388e94b029037badddd3c9.jpg",
     "actress": [],
@@ -373,13 +319,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -397,13 +337,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -421,13 +355,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -445,13 +373,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -469,13 +391,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c5895469ca88f60744bb01e4dd5f110a.jpg",
     "actress": [],
@@ -493,13 +409,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4b1f1197176252477167a9b806d8f53a.jpg",
     "actress": [],
@@ -517,13 +427,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -541,13 +445,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -565,13 +463,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -589,13 +481,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250105/R794sAJi/1.jpg",
     "actress": [],
@@ -613,13 +499,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250106/eFfCZ8Dl/1.jpg",
     "actress": [],
@@ -637,13 +517,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -661,13 +535,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250109/Lmy1sNKk/1.jpg",
     "actress": [],
@@ -685,13 +553,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230108/3MPdMMi0/1.jpg",
     "actress": [],
@@ -709,13 +571,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250112/xdYVHHbq/1.jpg",
     "actress": [],
@@ -730,17 +586,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱交",
-      "无码"
+      "无码",
+      "乱交"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -758,13 +608,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250115/oBAjqHFJ/1.jpg",
     "actress": [],
@@ -782,13 +626,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -806,13 +644,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250117/xt3O8CKd/1.jpg",
     "actress": [],
@@ -827,17 +659,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱交",
-      "无码"
+      "无码",
+      "乱交"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230418/011223-001-carib.jpg!320x216.jpg",
     "actress": [],
@@ -855,13 +681,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-11/00/vweivokksfw0009vweivokksfw25653.jpg",
     "actress": [],
@@ -875,18 +695,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250118/YftWOg1H/1.jpg",
     "actress": [],
@@ -904,13 +718,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250120/2oyYPeA0/1.jpg",
     "actress": [],
@@ -928,13 +736,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230428/011423-001-carib.jpg!320x216.jpg",
     "actress": [],
@@ -952,13 +754,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -976,13 +772,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250124/iREdcOhH/1.jpg",
     "actress": [],
@@ -1000,13 +790,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1024,13 +808,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250125/jQwxlQ3p/1.jpg",
     "actress": [],
@@ -1048,13 +826,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230123/HixbXO4w/1.jpg",
     "actress": [],
@@ -1072,13 +844,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250126/Y3LbYOtB/1.jpg",
     "actress": [],
@@ -1096,13 +862,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250129/u69ZbGmw/1.jpg",
     "actress": [],
@@ -1120,13 +880,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/05ba8f192a253b6253dbcdec3d9647d6.jpg",
     "actress": [],
@@ -1144,13 +898,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/08e00962896324c2c1fc7c7a5aa44ef6.jpg",
     "actress": [],
@@ -1168,13 +916,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230125/oHv5a0Rj/1.jpg",
     "actress": [],
@@ -1192,13 +934,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250327/9gAZTx8z/1.jpg",
     "actress": [],
@@ -1216,13 +952,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230127/PJT2vJ1D/1.jpg",
     "actress": [],
@@ -1240,13 +970,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230130/lcLe7BWg/1.jpg",
     "actress": [],
@@ -1264,13 +988,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200717/012712-927-carib.jpg",
     "actress": [],
@@ -1288,13 +1006,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230131/vvnRLbQy/1.jpg",
     "actress": [],
@@ -1312,13 +1024,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230201/fAvTcWFs/1.jpg",
     "actress": [],
@@ -1336,13 +1042,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1360,13 +1060,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1380,18 +1074,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1410,13 +1098,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240617-7/cc86f32b0e8e1b63404b2bab47a3af56.jpg",
     "actress": [],
@@ -1434,13 +1116,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230202/2a98MvZd/1.jpg",
     "actress": [],
@@ -1458,13 +1134,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1482,13 +1152,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1506,13 +1170,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230210/SYf0UzaA/1.jpg",
     "actress": [],
@@ -1530,13 +1188,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250207/v9Fy0NvQ/1.jpg",
     "actress": [],
@@ -1554,13 +1206,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230213/ErRq9rE1/1.jpg",
     "actress": [],
@@ -1578,13 +1224,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1602,13 +1242,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230216/OvU6Dn8L/1.jpg",
     "actress": [],
@@ -1626,13 +1260,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250208/XNMk8iGi/1.jpg",
     "actress": [],
@@ -1650,13 +1278,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250209/JqXF1sib/1.jpg",
     "actress": [],
@@ -1674,13 +1296,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1698,13 +1314,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230222/9q7fUnDK/1.jpg",
     "actress": [],
@@ -1722,13 +1332,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250212/NAI6wstK/1.jpg",
     "actress": [],
@@ -1746,13 +1350,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230223/R8KNoQSL/1.jpg",
     "actress": [],
@@ -1770,13 +1368,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250213/sL4XxG8a/1.jpg",
     "actress": [],
@@ -1794,13 +1386,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230223/veH5rEsa/1.jpg",
     "actress": [],
@@ -1818,13 +1404,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230224/lAyeDAcQ/1.jpg",
     "actress": [],
@@ -1842,13 +1422,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250214/CwPfJKWJ/1.jpg",
     "actress": [],
@@ -1866,13 +1440,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1890,13 +1458,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/021120-001-carib.jpg",
     "actress": [],
@@ -1914,13 +1476,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230227/LjZs3ACi/1.jpg",
     "actress": [],
@@ -1938,13 +1494,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1963,13 +1513,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230301/NWbV8e0X/1.jpg",
     "actress": [],
@@ -1987,13 +1531,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240215/uVtwgKge/1.jpg",
     "actress": [],
@@ -2011,13 +1549,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250218/1FqqOcEN/1.jpg",
     "actress": [],
@@ -2035,13 +1567,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2059,13 +1585,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230304/5lXDLr3g/1.jpg",
     "actress": [],
@@ -2083,13 +1603,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250220/4myXogJq/1.jpg",
     "actress": [],
@@ -2107,13 +1621,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230305/yRs4GCiZ/1.jpg",
     "actress": [],
@@ -2131,13 +1639,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230307/qJCTA48q/1.jpg",
     "actress": [],
@@ -2155,13 +1657,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230308/S0DSosge/1.jpg",
     "actress": [],
@@ -2179,13 +1675,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230309/PkvzNON7/1.jpg",
     "actress": [],
@@ -2203,13 +1693,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250223/kfMRPAXK/1.jpg",
     "actress": [],
@@ -2227,13 +1711,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2248,18 +1726,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2277,13 +1749,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230310/zT95i6wR/1.jpg",
     "actress": [],
@@ -2301,13 +1767,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2325,13 +1785,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2349,64 +1803,10 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230312/wkAefdDO/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-022223-001"
-  },
-  {
-    "id": 554411,
-    "IDcode": "CARIB-022224-001",
-    "title": "早抜き 与田知佳BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240225/DqpTC1tQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-022224-001"
-  },
-  {
-    "id": 554346,
-    "IDcode": "CARIB-022225-001",
-    "title": "Debut Vol.99 ~オナニーでは届かない膣奥の最深部を贯かれたい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250228/kTmQ4HpN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-022225-001"
   }
 ];

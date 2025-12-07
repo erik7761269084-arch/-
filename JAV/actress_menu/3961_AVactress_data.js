@@ -365,7 +365,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b2fecc40a5b4b1585d2074082a9a14b.jpg",
       "actress": [
@@ -402,7 +402,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202507/16/6876c1b643d69727165859ac/cover.jpg",
       "actress": [

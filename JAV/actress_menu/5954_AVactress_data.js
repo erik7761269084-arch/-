@@ -63,7 +63,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2015-03-01",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mimk030/mimk030pl.jpg",
       "actress": [

@@ -1651,7 +1651,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240706-1/9262f2beef13316de059364e4346f1e5.jpg",
       "actress": [
@@ -2119,7 +2119,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/5da5588214ceb95ded153625cb818cb0.jpg",
       "actress": [
@@ -2364,7 +2364,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787eac95d57b64bfd10d601/cover.jpg",
       "actress": [
@@ -2540,7 +2540,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b95fe64e7d663df48c25bd/cover.jpg",
       "actress": [
@@ -2559,7 +2559,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8b0b54e7d663df48c1b3b/cover.jpg",
       "actress": [
@@ -3122,7 +3122,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/11/689954f655337d7f7bcfadb4/cover.jpg",
       "actress": [
@@ -3297,7 +3297,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022824584584_29002_thumbnail.webp",
       "actress": [

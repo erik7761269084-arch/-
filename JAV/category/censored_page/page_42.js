@@ -1,74 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 486860,
-    "IDcode": "230OREC-487",
-    "title": "yui 永濑唯 -C",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-487"
-  },
-  {
-    "id": 508950,
-    "IDcode": "230OREC-489",
-    "title": "一色",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/44eea3b2bfedad3fec4b48f86a6e420d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-489"
-  },
-  {
-    "id": 509178,
-    "IDcode": "230OREC-491",
-    "title": "さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/05518b965c233207fb81cd6ad0ccf052.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-491"
-  },
-  {
     "id": 509069,
     "IDcode": "230OREC-492",
     "title": "ちはる",
@@ -79,13 +10,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4ddb5569a58f5d2c167bc526c8ab7cec.jpg",
     "actress": [],
@@ -102,13 +27,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/21d21967966c8f807ebcdca5e2a58c3f.jpg",
     "actress": [],
@@ -125,13 +44,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d8583b6beedb6bd698023ff8350d283f.jpg",
     "actress": [],
@@ -148,13 +61,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d71e4d6bec19c9f97e08c7d7237c6ebc.jpg",
     "actress": [],
@@ -171,13 +78,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4f9f72e09fc6c5a564431d3755d2227e.jpg",
     "actress": [],
@@ -194,13 +95,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -217,13 +112,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4c328257cb9ac6645d01b86dc761826d.jpg",
     "actress": [],
@@ -240,13 +129,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200727-1/67d514349555d80b1b65167be2a7493d.jpg",
     "actress": [],
@@ -263,13 +146,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200728-1/5d66bce1282f60a87839c0cae5da62fd.jpg",
     "actress": [],
@@ -286,13 +163,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -309,13 +180,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -332,13 +197,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/b6ee31042aaaf696824d6d755bca0989.jpg",
     "actress": [],
@@ -355,13 +214,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/570fb4144c73d2db13eaf7a1456bbe00.jpg",
     "actress": [],
@@ -378,13 +231,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/1ed17d3b6e8a482cba2593c8ecc80850.jpg",
     "actress": [],
@@ -401,13 +248,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/fa1f7582531546b018d2663767729538.jpg",
     "actress": [],
@@ -424,13 +265,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/74a28ea0c071c83d9a0f53fd0a11c4da.jpg",
     "actress": [],
@@ -447,13 +282,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/8e563b8572d9f25557af45da4c893f2a.jpg",
     "actress": [],
@@ -470,13 +299,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/1d7894fd5642ecbca4bd8fd4ed655f18.jpg",
     "actress": [],
@@ -493,13 +316,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/d48021deac7d4e6d5b6f71d303dd9d1b.jpg",
     "actress": [],
@@ -516,13 +333,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/f616402ed3be59e8bd4e5ebb4fd474cf.jpg",
     "actress": [],
@@ -539,13 +350,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/599237cf87af30bee9d77be2169ef481.jpg",
     "actress": [],
@@ -562,13 +367,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/9f68543d0b00a34b280092cd4f0e5628.jpg",
     "actress": [],
@@ -585,13 +384,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/1b12950eb3de75f012d5b31dff871fa2.jpg",
     "actress": [],
@@ -608,13 +401,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/10575e99c0cb8cd6112ebfed9b23f872.jpg",
     "actress": [],
@@ -631,13 +418,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/8850e651fbf7e2c9cb19fb03d5a033a7.jpg",
     "actress": [],
@@ -654,13 +435,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/8ad473199063455a1e5ad36054355fc2.jpg",
     "actress": [],
@@ -677,13 +452,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/c46a2185a8da0317f91fc3f50b06cfdb.jpg",
     "actress": [],
@@ -700,13 +469,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/300079a2b13266995d3c702c18caa120.jpg",
     "actress": [],
@@ -723,13 +486,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240215-1/5843a2a0ac98841f14b4fa0c20b2051c.jpg",
     "actress": [],
@@ -746,13 +503,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240215-1/abee591997f9b1ec574da872adee9dc5.jpg",
     "actress": [],
@@ -769,13 +520,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240215-1/a4db8168cd274158aa02b4ca48ec4fae.jpg",
     "actress": [],
@@ -792,13 +537,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/1024f6a07df4e216d636d42a617d865c.jpg",
     "actress": [],
@@ -815,13 +554,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/8ed8dc92ea17b36933b00a0c178c9fa3.jpg",
     "actress": [],
@@ -838,13 +571,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/dadf772224d2d135509c7af900bb2522.jpg",
     "actress": [],
@@ -861,13 +588,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/a976be9f71f0e5bd84099876abab1449.jpg",
     "actress": [],
@@ -884,13 +605,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/d61c9386dece9e319b0c4e35aa4580c1.jpg",
     "actress": [],
@@ -907,13 +622,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/3d8c11c8abcde969f82caa37a420b029.jpg",
     "actress": [],
@@ -930,13 +639,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/1ccd035477ac3399144a929abb79d14a.jpg",
     "actress": [],
@@ -953,13 +656,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/de8d6f2cd4f4c0bce81974a35610c37e.jpg",
     "actress": [],
@@ -976,13 +673,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/ea27975dfd45b82d9a1889d0b155d8af.jpg",
     "actress": [],
@@ -999,13 +690,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1022,13 +707,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1045,13 +724,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1068,13 +741,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1091,13 +758,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1114,13 +775,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1137,13 +792,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1160,13 +809,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1183,13 +826,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1206,13 +843,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/6068cf13/vod.jpg",
     "actress": [],
@@ -1229,13 +860,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1252,13 +877,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240626/1611404040-230OREC-672.jpg!320x216.jpg",
     "actress": [],
@@ -1275,13 +894,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240626/1611492477-230OREC-673.jpg!320x216.jpg",
     "actress": [],
@@ -1298,13 +911,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240223/OREC828.jpg!320x216.jpg",
     "actress": [],
@@ -1321,13 +928,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240223/OREC829.jpg!320x216.jpg",
     "actress": [],
@@ -1344,13 +945,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240223/OREC830.jpg!320x216.jpg",
     "actress": [],
@@ -1367,13 +962,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240225/OREC831.jpg!320x216.jpg",
     "actress": [],
@@ -1390,13 +979,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220930-1/b6ec335e0eb1231fd8f8d4d114e6898b.jpg",
     "actress": [],
@@ -1413,13 +996,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240323/pb_e_230orec-862.jpg!320x216.jpg",
     "actress": [],
@@ -1436,13 +1013,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240409/pb_e_230orec-863.jpg!320x216.jpg",
     "actress": [],
@@ -1459,13 +1030,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1482,13 +1047,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240412/pb_e_230orec-865.jpg!320x216.jpg",
     "actress": [],
@@ -1505,13 +1064,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/OREC870.jpg!320x216.jpg",
     "actress": [],
@@ -1528,13 +1081,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240321/pb_e_230orec-872.jpg!320x216.jpg",
     "actress": [],
@@ -1551,13 +1098,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240320/pb_e_230orec-873.jpg!320x216.jpg",
     "actress": [],
@@ -1574,13 +1115,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1597,13 +1132,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1620,13 +1149,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1643,13 +1166,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1666,13 +1183,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1689,13 +1200,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1712,13 +1217,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1735,13 +1234,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1758,13 +1251,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1778,17 +1265,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1802,17 +1283,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1829,13 +1304,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1849,17 +1318,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1876,13 +1339,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1899,13 +1356,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1922,13 +1373,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20552cf22ae3e04a81841/cover.jpg",
     "actress": [],
@@ -1945,13 +1390,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2053ecf22ae3e04a81833/cover.jpg",
     "actress": [],
@@ -1968,13 +1407,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205decf22ae3e04a818a4/cover.jpg",
     "actress": [],
@@ -1991,13 +1424,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205cacf22ae3e04a81896/cover.jpg",
     "actress": [],
@@ -2014,13 +1441,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2037,13 +1458,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2023-11-08",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2060,13 +1475,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2023-11-08",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2083,13 +1492,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250513/wVWCwk6L/1.jpg",
     "actress": [],
@@ -2106,13 +1509,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250513/HtNQdWNM/1.jpg",
     "actress": [],
@@ -2129,13 +1526,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/C9Njw6xk/1.jpg",
     "actress": [],
@@ -2152,13 +1543,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/EKiS0TOQ/1.jpg",
     "actress": [],
@@ -2175,13 +1560,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/X5u2Cl1E/1.jpg",
     "actress": [],
@@ -2198,13 +1577,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/15PpAQaG/1.jpg",
     "actress": [],
@@ -2221,13 +1594,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/q2tkU0l4/1.jpg",
     "actress": [],
@@ -2244,13 +1611,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/CZpRnxjV/1.jpg",
     "actress": [],
@@ -2267,13 +1628,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250514/xVNWtckE/1.jpg",
     "actress": [],
@@ -2290,16 +1645,61 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-129"
+  },
+  {
+    "id": 576090,
+    "IDcode": "230ORECO-130",
+    "title": "Aちゃん (岬あずさ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-130"
+  },
+  {
+    "id": 578020,
+    "IDcode": "230ORECO-131",
+    "title": "Iちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-131"
+  },
+  {
+    "id": 578019,
+    "IDcode": "230ORECO-133",
+    "title": "Yちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-133"
   }
 ];

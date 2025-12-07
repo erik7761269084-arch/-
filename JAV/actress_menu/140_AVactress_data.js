@@ -661,7 +661,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/08/21/a675833f4fcbf03323d7d45f5945a94a.jpg",
       "actress": [

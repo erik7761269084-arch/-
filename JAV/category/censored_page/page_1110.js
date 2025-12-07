@@ -1,256 +1,2179 @@
 window.PAGE_DATA = [
   {
-    "id": 168034,
-    "IDcode": "SAME-048",
-    "title": "未亡人、哀しみの妊娠報告。 末広純",
+    "id": 455899,
+    "IDcode": "SDAM-096",
+    "title": "狙われた現役女子大生家庭教師 被害者3名 犯行の手口はいずれも薬で眠らされた状況での強●・中出し 被害者女性は名門大学の学生 花狩舞 虹色久美 美雲空",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6cab89def9b1b80dc74d/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d7c9f9a2e9b1d4a53015/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-096"
   },
   {
-    "id": 89868,
-    "IDcode": "SAME-049",
-    "title": "学年一、真面目な女生徒がクラスメイトに輪●された日。 天馬ゆい",
+    "id": 546674,
+    "IDcode": "SDAM-097",
+    "title": "これがA夫妻の爱のカタチ～ノンフィクションNTR",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240125/drrfJmth/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-097"
+  },
+  {
+    "id": 16424,
+    "IDcode": "SDAM-098",
+    "title": "姐姐（27 歲）是家裏的頂樑柱，在一家酒吧工作，白天穿兔子裝。我拍了姐姐色情屁股的照片，上傳到互聯網上賺錢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "風俗娘",
+      "姐弟・兄妹",
+      "乱伦",
+      "中出",
+      "兔女郎妝扮",
+      "自宅",
+      "蕩婦",
+      "姐姐・妹妹",
+      "劇情",
+      "亂倫",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080635352352.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-098"
+  },
+  {
+    "id": 16192,
+    "IDcode": "SDAM-099",
+    "title": "移居農村的夫婦做愛【某節目泄露視頻】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "人妻",
+      "口交",
+      "巨乳",
+      "絕頂高潮",
+      "奇聞趣事",
+      "淫亂",
+      "慾求不滿",
+      "乳交",
+      "出軌",
+      "中出",
+      "企畫",
+      "偷拍・盜撮",
+      "女上位",
+      "鄉下",
+      "奇異的",
+      "NTR",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4afd55f03a092cf66cf07/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-099"
+  },
+  {
+    "id": 561904,
+    "IDcode": "SDAM-100",
+    "title": "近亲相奸ソープランド 初めての风俗に行って童贞卒业しようとしたらまさかのお姊ちゃんが出てきちゃ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240208/KpLSXczZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-100"
+  },
+  {
+    "id": 16330,
+    "IDcode": "SDAM-101",
+    "title": "国家队比赛那天",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "制服",
+      "口交",
+      "巨乳",
       "潮吹",
-      "无码破解",
-      "美少女电影",
-      "单体作品",
-      "高中女生"
+      "乳交",
+      "中出",
+      "性感",
+      "女上位",
+      "胸控・戀乳癖",
+      "運動服裝",
+      "手指插入",
+      "多P",
+      "騎乗位",
+      "酒吧",
+      "美少女",
+      "3P・4P",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a461d89def9b1b80d6927/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20240512-1/f938dcdd181ecff4aa2887c7e5a05387.jpg",
     "actress": [
-      "天馬唯"
+      "绫濑心",
+      "月乃露娜",
+      "千石もなか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-101"
   },
   {
-    "id": 456295,
-    "IDcode": "SAME-050",
-    "title": "行列が出来る女子○生 中出し専用肉便器 倉本蓳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a6ab589def9b1b80dc283/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-050"
-  },
-  {
-    "id": 524332,
-    "IDcode": "SAME-051",
-    "title": "绝对强奸某公司的美女接待员桐城纱夜 - 桐条纱绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/e8df38a6ebf6bf37a98263dd06029275.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-051"
-  },
-  {
-    "id": 224917,
-    "IDcode": "SAME-052",
-    "title": "不停抽插喷出爱液-二宫光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6d2289def9b1b80dc870/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-052"
-  },
-  {
-    "id": 89851,
-    "IDcode": "SAME-053",
-    "title": "射在里面吧-妃光",
+    "id": 15853,
+    "IDcode": "SDAM-102",
+    "title": "[悲傷消息] 祕密在性保健服務機構工作的人妻被被狠狠操的視頻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "婆婆",
-      "单体作品"
+      "人妻",
+      "風俗娘",
+      "飯店小姐・援交妹",
+      "蕩婦",
+      "應召・援交",
+      "劇情"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4e44c179ffb1db9cdf65/cover.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-053"
+    "company": "SOD",
+    "publish_date": "2024-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240326/4c3f6e98-0dcf-40c7-863f-ba661657b4ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-102"
   },
   {
-    "id": 456324,
-    "IDcode": "SAME-054",
-    "title": "この先生と1000円でセックスができます（笑） 天川空",
+    "id": 15854,
+    "IDcode": "SDAM-103",
+    "title": "爲了讓媽媽放心，我請了一個女同事來充當我的女朋友……",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "女同",
+      "女同事",
+      "美少女電影",
+      "純粹的慾望",
+      "純愛・戀愛",
+      "OL",
+      "劇情",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240326/202403260540094141.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-103"
+  },
+  {
+    "id": 546069,
+    "IDcode": "SDAM-105",
+    "title": "とある品行方正な教育実习生が内绪でお小遣い稼ぎしていたときのハメ撮り映像初流出。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a702789def9b1b80dcfe8/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240315/bKMxUYrN/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-105"
   },
   {
-    "id": 89852,
-    "IDcode": "SAME-055",
-    "title": "结束刑期的强奸魔-木下日葵",
+    "id": 545911,
+    "IDcode": "SDAM-106",
+    "title": "“5歳の娘の为に脱ぎます。”普段はクリーニング屋パート、背中にブラック＆グレイのママさんAV出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/AvGEcwxd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-106"
+  },
+  {
+    "id": 15368,
+    "IDcode": "SDAM-107",
+    "title": "任務是讓女孩在石和溫泉只帶一條毛巾進入男浴室？ 射精！舔肛門！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "溫泉",
+      "口交",
+      "搞笑・模仿",
+      "奇聞趣事",
+      "綜藝",
+      "中出",
+      "企畫",
+      "真人秀",
+      "奇異的",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-05-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-107"
+  },
+  {
+    "id": 546068,
+    "IDcode": "SDAM-108",
+    "title": "ドラレコ援交盗撮 车内で女子校生にバイト感覚でパンチラ手コキ射精をしてもらって追加课金でラブホ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240315/KJhvpQYn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-108"
+  },
+  {
+    "id": 546066,
+    "IDcode": "SDAM-109",
+    "title": "大学の新歓で诱われて演剧サークル入ったらまさかの男はボクだけ！梦のヤリチンキャンパスライフ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240315/QSOSmzTa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-109"
+  },
+  {
+    "id": 545913,
+    "IDcode": "SDAM-110",
+    "title": "【キメセク健康诊断】変态医师がこっそり媚薬を●ませてガンギマリSEXしまくるドクハラの一部始终",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/W6skHNjN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-110"
+  },
+  {
+    "id": 15673,
+    "IDcode": "SDAM-111",
+    "title": "管理員的我對那個每天早上在女生宿舍倒垃圾、不穿內褲和胸罩的年輕女孩很惱火，把她拖到辦公室，給她中出內射",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "凌辱",
-      "单体作品"
+      "強姦",
+      "叛逆少女",
+      "中出",
+      "色白",
+      "倉庫",
+      "性感",
+      "美少女電影",
+      "女學生",
+      "劇情",
+      "後入",
+      "羞恥",
+      "形象俱樂部",
+      "美少女",
+      "美乳",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a510589def9b1b80d83b7/cover.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-055"
+    "company": "SOD",
+    "publish_date": "2024-05-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240402/202404020418216969.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-111"
   },
   {
-    "id": 89876,
-    "IDcode": "SAME-056",
-    "title": "被弟弟当作赚钱工具-希岛爱理",
+    "id": 15193,
+    "IDcode": "SDAM-112",
+    "title": "讓對待客戶態度很差的便利店女孩好好的享受一下小便失禁的快感吧",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "无码破解",
-      "姐姐",
-      "中出",
-      "单体作品"
+      "制服",
+      "便利商店",
+      "蠻橫嬌羞",
+      "凌辱",
+      "職員",
+      "報復",
+      "美少女電影",
+      "蕩婦",
+      "劇情",
+      "羞恥",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1c8eac813dc779d96040/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-112"
+  },
+  {
+    "id": 453947,
+    "IDcode": "SDAM-113",
+    "title": "紀錄片「三字頭喪女尼特」～我的姊姊還是和幾年前一樣沒有變～ 肉棒讓眼睛發光的OO體型魚干女（27）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2dc33dbf24d4ed31fd475/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-113"
+  },
+  {
+    "id": 15539,
+    "IDcode": "SDAM-114",
+    "title": "不露臉的業餘女孩的第一槍 Hina Kusunoki (23)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "巨乳",
+      "M男・M女",
+      "企畫",
+      "不露臉",
+      "素人作品",
+      "素人"
     ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-05-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-114"
+  },
+  {
+    "id": 15369,
+    "IDcode": "SDAM-115",
+    "title": "和極度缺錢的女大學生盡情地做愛！我在大學城裝修了房子，成爲了女性專用合租屋的主人。作爲拖欠的房租的補償，倉本堇，櫻木美音，琴音華，田中寧寧，愛寶鈴都成爲了我的肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "女租客",
+      "巨乳",
+      "淫亂",
+      "中出",
+      "欠債肉償",
+      "美少女電影",
+      "女學生",
+      "拜金女",
+      "房东",
+      "劇情",
+      "美少女",
+      "癡女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-05-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "倉本菫",
+      "田中寧寧",
+      "愛寶鈴",
+      "桜木美音",
+      "琴音華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-115"
+  },
+  {
+    "id": 15113,
+    "IDcode": "SDAM-116",
+    "title": "在居酒屋兼職打工，把喝醉的女顧客抱到包間裏操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "迷姦",
+      "真實拍攝",
+      "巨乳",
+      "口交",
+      "主觀視角",
+      "自拍性愛",
+      "中出",
+      "性感",
+      "酒醉",
+      "酒後亂性",
+      "劇情",
+      "奇異的",
+      "酒吧",
+      "美少女",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787a8042a47ebb1a8b4898e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-116"
+  },
+  {
+    "id": 14948,
+    "IDcode": "SDAM-117",
+    "title": "極惡非人道的輪奸計劃！修學旅行的晚上，我被騙到男孩子的房間，盡管拼命求救最後也慘遭蹂躪，男同學輪流操我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "運動服裝",
+      "溫泉",
+      "旅行",
+      "淫亂",
+      "中出",
+      "學姐・學妹",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "和服・浴衣・喪服",
+      "飯店",
+      "素人作品",
+      "同學",
+      "輪姦",
+      "羞恥",
+      "口交",
+      "清純",
+      "女上位",
+      "多P",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240507/10bdb30a-3b13-4307-831d-084b461e3f9b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-117"
+  },
+  {
+    "id": 14555,
+    "IDcode": "SDAM-118",
+    "title": "啊都是哥哥不好，沒敲門就進來了，不過做爲哥哥怎麼能夠眼見妹妹獨自手淫呢？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "口交",
+      "姐弟・兄妹",
+      "乱伦",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "姐姐・妹妹",
+      "劇情",
+      "騎乗位",
+      "JK校服",
+      "羞恥",
+      "亂倫",
+      "美少女",
+      "癡女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240520/20240520215213247247.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-118"
+  },
+  {
+    "id": 13881,
+    "IDcode": "SDAM-119",
+    "title": "我是SOD的員工，當地的同學（申媽媽）聯系我，想出演AV",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "中出",
+      "企畫",
+      "飯店",
+      "女上位",
+      "蕩婦",
+      "熟女",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240618/e99ba287-7315-45af-bc6a-c21a1ffaa0c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-119"
+  },
+  {
+    "id": 13622,
+    "IDcode": "SDAM-120",
+    "title": "2階段的NTR 1.抓住弱點的男人被迫展示自己和女友的視頻。 2. 之後，我用力操她，讓她無法拒絕。 茜（30歲），在新宿區同居4年。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "口交",
+      "蠻橫嬌羞",
+      "淫妻",
+      "美少女",
+      "慾求不滿",
+      "出軌",
+      "中出",
+      "飯店",
+      "清純",
+      "素人作品",
+      "女上位",
+      "美少女電影",
+      "美臀",
+      "NTR",
+      "短髮",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240702/f1fe91e8-d017-4eb5-897c-5f8044c5f03a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-120"
+  },
+  {
+    "id": 13046,
+    "IDcode": "SDAM-121",
+    "title": "新人出道！在牛肉蓋飯店遇到的店員有1/4夏威夷血統！20歲 首次亮相 AV DEBUT ~ 山本マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "服務生",
+      "亂交 • 群P",
+      "出道作品",
+      "混血",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "出道作",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-08-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20240730/30c6e119-a552-4d4c-8894-414f31c79b4d.jpg",
+    "actress": [
+      "山本マリア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-121"
+  },
+  {
+    "id": 11923,
+    "IDcode": "SDAM-122",
+    "title": "ナイスバディな担任を孕ませたい。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "多P",
+      "更衣室",
+      "口爆",
+      "文藝女",
+      "亂交 • 群P",
+      "深喉",
+      "眼鏡",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "校園生活",
+      "劇情",
+      "學校",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "唾液敷面",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "魔鬼系",
+      "女上位",
+      "女教師",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240917/20240917063045374374.jpg",
+    "actress": [
+      "九井珠奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-122"
+  },
+  {
+    "id": 12270,
+    "IDcode": "SDAM-123",
+    "title": "AV女優是如何出道的？女優綺瀬憐央出道全過程完整幕後紀錄片公開 ~ 綺瀬憐央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "亂交 • 群P",
+      "出道作品",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "紀錄片",
+      "出道作",
+      "女優",
+      "企畫",
+      "女優面試",
+      "騎乗位",
+      "羞恥",
+      "口交",
+      "女上位",
+      "內衣",
+      "AV拍攝現場",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-10-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240903/5d120d04-4ad2-4feb-824a-995156aa530d.jpg",
+    "actress": [
+      "綺瀬怜央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-123"
+  },
+  {
+    "id": 11731,
+    "IDcode": "SDAM-125",
+    "title": "七色のあえぎ声 目指せ！エロゲ声優！六華ノアAVデビュー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "亂交 • 群P",
+      "出道作品",
+      "3P・4P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "抹油",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "女上位",
+      "多P",
+      "後入",
+      "寫真女郎",
+      "業餘",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/f000e52e47c113723e1641b4d1b49b4f.jpg",
+    "actress": [
+      "六華ノア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-125"
+  },
+  {
+    "id": 11908,
+    "IDcode": "SDAM-126",
+    "title": "おひとりライフのおとな女子はフェアリーボイス 34歳からAVデビュー 紀美野友里恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "芸能人",
+      "文藝女",
+      "亂交 • 群P",
+      "出道作品",
+      "人妻",
+      "中性",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "色白",
+      "企畫",
+      "女優",
+      "騎乗位",
+      "羞恥",
+      "短髮",
+      "少妇",
+      "女上位",
+      "熟女",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68997a6955337d7f7bd28cd4/cover.jpg",
+    "actress": [
+      "紀美野友里恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-126"
+  },
+  {
+    "id": 11734,
+    "IDcode": "SDAM-127",
+    "title": "塗装屋ライダー 水城麗沙 20歳 AVデビュー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "修理工",
+      "口爆",
+      "臀控",
+      "美臀",
+      "亂交 • 群P",
+      "出道作品",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "性感",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "色白",
+      "企畫",
+      "女優",
+      "顏射",
+      "插入異物",
+      "69",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "唾液敷面",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/0f498b312205d051f7ea93d56ae26249.jpg",
+    "actress": [
+      "水城麗沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-127"
+  },
+  {
+    "id": 11247,
+    "IDcode": "SDAM-128",
+    "title": "20歳の処女肛門にデカチン貫通したら腸汁ダクダク止まりません！塗装屋ライダー水城麗沙 アナル解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "臀控",
+      "二穴同入",
+      "亂交 • 群P",
+      "深喉",
+      "重口味",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "叛逆少女",
+      "女優",
+      "緊縛",
+      "苗條",
+      "企畫",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "潮吹",
+      "女上位",
+      "後入",
+      "性感",
+      "肛交",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789448a5d57b64bfd7c81cf/cover.jpg",
+    "actress": [
+      "水城麗沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-128"
+  },
+  {
+    "id": 176095,
+    "IDcode": "SDAM-129",
+    "title": "塩原温泉で見つけた女子旅お嬢さんタオル一枚男湯入ってみませんか？59さっきまで普通に旅行していたべっぴん娘がヌルりテッカり！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dbac1c92318f97d4c4af2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-129"
+  },
+  {
+    "id": 9819,
+    "IDcode": "SDAM-130",
+    "title": "2段階NTR 1，弱みを握った男に彼女とのハメ撮り映像を献上させる。2，その後、断れない彼女を無茶苦茶ハメる。世田谷区で同棲2年、美容室勤務 ゆいさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "美腳",
+      "脅迫做愛",
+      "癡女",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "M男・M女",
+      "色白",
+      "苗條",
+      "變態",
+      "美人妻",
+      "若妻",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "潮吹",
+      "女上位",
+      "後入",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241217/a69a7951-da64-4c86-b0e0-676d6b868dec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-130"
+  },
+  {
+    "id": 6545,
+    "IDcode": "SDAM-131",
+    "title": "着ぐるみバイトAVデビュー 素直で優しいスーツアクター女子の人より変わってたことは、、、ドM過ぎて、初心を脱ぎ捨ててました。及川莉央（22）パイパン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "出道作品",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "女優",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "清純",
+      "女優訪談",
+      "胸控・戀乳癖",
+      "女上位",
+      "真人秀",
+      "後入",
+      "性感",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250429/20250429002207383383_thumbnail.webp",
+    "actress": [
+      "及川莉央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-131"
+  },
+  {
+    "id": 9140,
+    "IDcode": "SDAM-132",
+    "title": "新人出道！（祝）做愛經驗人數30人 美容學生 首次亮相 AV DEBUT ~ 木村結依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "後入",
+      "3P・4P",
+      "真實拍攝",
+      "口交",
+      "兩男一女",
+      "淫亂",
+      "出道作",
+      "地味",
+      "中出",
+      "企畫",
+      "其他職業",
+      "女上位",
+      "騎乗位",
+      "亂交 • 群P",
+      "出道作品",
+      "美人",
+      "素人",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20250114/20250114060941329329.jpg",
+    "actress": [
+      "木村結依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-132"
+  },
+  {
+    "id": 8736,
+    "IDcode": "SDAM-133",
+    "title": "子育てが落ち着き大学生になった人妻は、僕と下宿先でヤリまくり。熟女大生 狩野美代子40歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "蕩婦",
+      "人妻",
+      "中出",
+      "紀錄片",
+      "家庭主妇",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "素人",
+      "脚控・戀足癖",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "熟女",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250128/a6b5b69b-3991-47f4-920d-8a743ce0730a.jpg",
+    "actress": [
+      "野上しおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-133"
+  },
+  {
+    "id": 71966,
+    "IDcode": "SDAM-134",
+    "title": "箱根で見つけた温泉大好きお嬢さん タオル一枚男湯入ってみませんか？60 20周年記念スペシャル ご愛顧感謝の全員セックスミッションでこってり濃熱ザ～汁ゲット こんなに湧き出た8名465分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "单体作品",
+      "户外",
+      "浴衣",
+      "羞耻",
+      "4K",
+      "素人作品",
+      "4小时以上作品",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f5bccf22ae3e043968fe/cover.jpg",
+    "actress": [
+      "松丸香澄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-134"
+  },
+  {
+    "id": 7968,
+    "IDcode": "SDAM-135",
+    "title": "新人出道！現代社會竟然還能夠找得到能騎能射的田舍娘！來自福島隱世小村的20歲美人娘！ 首次亮相 AV DEBUT ~ 月乃あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "豐滿",
+      "清楚系",
+      "出道作品",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "出道作",
+      "地味",
+      "女優",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "後入",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-03-20",
+    "cover_url": "https://picture.yoshiclub.xyz/20250224/20250224221842804804.jpg",
+    "actress": [
+      "月乃あや"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-135"
+  },
+  {
+    "id": 7628,
+    "IDcode": "SDAM-136",
+    "title": "片思いを捨てられなかったやけくそ処女 斗架（20）処女デビュー 花鳥斗架",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "清楚系",
+      "美腳",
+      "芸能人",
+      "蘿莉控",
+      "小隻馬",
+      "出道作品",
+      "奇聞趣事",
+      "中出",
+      "美少女電影",
+      "地味",
+      "處女",
+      "企畫",
+      "女優",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "口交",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/a9d91d148181724ef7fac10559da388f.jpg",
+    "actress": [
+      "花鳥斗架"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-136"
+  },
+  {
+    "id": 7105,
+    "IDcode": "SDAM-137",
+    "title": "14日前まで処女だったライブ配信歌手 斗架（20）の未熟マ〇コが巨根マッチョのガチピストンSEXで経験人数＋5人密着ドキュメント 花鳥斗架",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "美腳",
+      "芸能人",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "大亂交",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "女優",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "脚控・戀足癖",
+      "口交",
+      "流汗",
+      "潮吹",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "白眼失神",
+      "後入",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce3b5779f1ac4ec4659c29/cover.jpg",
+    "actress": [
+      "花鳥斗架"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-137"
+  },
+  {
+    "id": 7276,
+    "IDcode": "SDAM-138",
+    "title": "弓道部女子○漢 月乃あや 練習中の体を狙われ堕ちるショートカットの気弱女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "運動",
+      "美腳",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "M男・M女",
+      "強姦",
+      "運動女孩",
+      "苗條",
+      "變態",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "短髮",
+      "唾液敷面",
+      "口交",
+      "潮吹",
+      "魔鬼系",
+      "清純",
+      "女上位",
+      "後入",
+      "濕身",
+      "寢取",
+      "3P・4P",
+      "野外露天"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250325/20250325010413943943.jpg",
+    "actress": [
+      "月乃あや"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-138"
+  },
+  {
+    "id": 6544,
+    "IDcode": "SDAM-139",
+    "title": "掃地機器人裝攝影機偷窺女兒的秘密生活 ~ 南日菜乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
+      "不倫",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "亂交 • 群P",
+      "單體作品",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "叛逆少女",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "校花",
+      "蘿莉",
+      "偷拍・盜撮",
+      "潮吹",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68902e9fc92318f97d73bf8d/cover.jpg",
+    "actress": [
+      "南日菜乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-139"
+  },
+  {
+    "id": 5783,
+    "IDcode": "SDAM-140",
+    "title": "経験人数たった1人。新潟出身のお嬢様音大生 平井花音さん（22）卒業直前にAV出演。処女喪失からわずか半年でカメラの前でFカップの美乳を揺らす",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "清楚系",
+      "蠻橫嬌羞",
+      "正統派",
+      "美腳",
+      "女學生",
+      "美臀",
+      "單體作品",
+      "出道作品",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "後入",
+      "和服・浴衣・喪服",
+      "女優",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "大奶头",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526205711248248_thumbnail.webp",
+    "actress": [
+      "平井花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-140"
+  },
+  {
+    "id": 5784,
+    "IDcode": "SDAM-141",
+    "title": "妊活中の保健の先生を孕ませたい。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "凌辱",
+      "口爆",
+      "臀控",
+      "亂交 • 群P",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "校園生活",
+      "劇情",
+      "按摩棒",
+      "女醫生",
+      "絕頂高潮",
+      "學校",
+      "護士",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "輪姦",
+      "美乳",
+      "素人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "女上位",
+      "多P",
+      "後入",
+      "性感",
+      "醫院・診所",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526231343736736_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-141"
+  },
+  {
+    "id": 4409,
+    "IDcode": "SDAM-142",
+    "title": "ギャルママ真性ぶっかけ46発",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "小隻馬",
+      "口爆",
+      "打屁股",
+      "亂交 • 群P",
+      "深喉",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "接吻",
+      "劇情",
+      "尾行",
+      "性感",
+      "調教",
+      "後入",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "辣妹/GAL系",
+      "高顏值",
+      "苗條",
+      "變態",
+      "美人妻",
+      "顏射",
+      "插入異物",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "輪姦",
+      "素人",
+      "吞精",
+      "口交",
+      "監禁",
+      "魔鬼系",
+      "女上位",
+      "內衣",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "唾液敷面",
+      "心理驚悚"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714203513616616_75436_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-142"
+  },
+  {
+    "id": 5049,
+    "IDcode": "SDAM-144",
+    "title": "要不要和弟弟一起洗澡-ゆなちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "姐姐・妹妹",
+      "美臀",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "姐弟・兄妹",
+      "色白",
+      "素人作品",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "亂倫",
+      "美人",
+      "短髮",
+      "美腿",
+      "素人",
+      "巨尻",
+      "口交",
+      "偷拍・盜撮",
+      "清純",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab5eeeaffba992c0ffcab1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-144"
+  },
+  {
+    "id": 2681,
+    "IDcode": "SDAM-145",
+    "title": "美人アパレル店員にボディスーツ着せたらムラムラしたみたいですぐヤレた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "口爆",
+      "濕身",
+      "亂交 • 群P",
+      "情趣飯店",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "猥褻穿著",
+      "美少女電影",
+      "接吻",
+      "完全着衣",
+      "牛仔褲",
+      "按摩棒",
+      "絕頂高潮",
+      "緊身衣",
+      "辣妹/GAL系",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "職員",
+      "約炮",
+      "清純",
+      "情趣內衣",
+      "女上位",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220144925925_13278_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-145"
+  },
+  {
+    "id": 3250,
+    "IDcode": "SDAM-146",
+    "title": "なりきりダッチワイフカップルゲーム！彼氏が見ている目の前で一流AV 男優に激ピストンされても彼女が動かなければ100 万円！！3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "豐滿",
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "臀控",
+      "美臀",
+      "惡搞",
+      "舔陰",
+      "淫亂",
+      "極品美人",
+      "美少女電影",
+      "美少女",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "綜藝",
+      "女友・妻子",
+      "色白",
+      "高顏值",
+      "企畫",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "流汗",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "白眼失神",
+      "AV拍攝現場",
+      "大奶头",
+      "在丈夫面前被操",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212141857857_33748_thumbnail.webp",
+    "actress": [
+      "似鳥日菜",
+      "朝比ゆの",
+      "佐藤愛瑠",
+      "松丸香澄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-146"
+  },
+  {
+    "id": 4022,
+    "IDcode": "SDAM-148",
+    "title": "旦那より運転が上手いMTドライバー 結婚2年目にしてレスの欲求不満を男優に引き出され 南城リノ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "出軌",
+      "網襪",
+      "不倫",
+      "蕩婦",
+      "口爆",
+      "單體作品",
+      "出道作品",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "胖女人",
+      "家庭主妇",
+      "色白",
+      "企畫",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "情趣內衣",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "熟女",
+      "後入",
+      "NTR",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68960b8455337d7f7baad899/cover.jpg",
+    "actress": [
+      "南城リノ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-148"
+  },
+  {
+    "id": 2374,
+    "IDcode": "SDAM-149",
+    "title": "名湯の湯もはじく若肌へ茹だった精子が思わず飛び出すびゅるっと暴発ぶっかけ連発 大人気ミッション《口だけでち〇ぽ輪投げ》7名スペシャル編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "小隻馬",
+      "口爆",
+      "濕身",
+      "亂交 • 群P",
+      "惡搞",
+      "膚黑",
+      "溫泉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "按摩棒",
+      "後入",
+      "綜藝",
+      "女優",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "口交",
+      "乳交",
+      "清純",
+      "女上位",
+      "大奶头",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "希島愛理"
+      "天羽梨梨花",
+      "那津乃千奈美",
+      "小松本果",
+      "本城花",
+      "柴又詩穗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
   },
   {
-    "id": 89869,
-    "IDcode": "SAME-058",
-    "title": "重遇恶魔吓到失了禁-二宫光",
+    "id": 174721,
+    "IDcode": "SDAM-150",
+    "title": "吹奏楽部×精子塗りたくりおじさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-150"
+  },
+  {
+    "id": 454192,
+    "IDcode": "SDAM-6902",
+    "title": "OO兄弟明知觸碰成熟妹妹的裸體對自己不好,卻還是挺起雞巴,進行「禁止亂倫」！ ？ [綾雨版]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美少女电影",
-      "单体作品",
-      "无码破解"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789e798f9a2e9b1d4ad196f/cover.jpg",
-    "actress": [
-      "二宫ひかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-058"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-6902"
   },
   {
-    "id": 89875,
-    "IDcode": "SAME-059",
-    "title": "輪●計画 巨乳インフルエンサー編",
+    "id": 454191,
+    "IDcode": "SDAM-6904",
+    "title": "OO兄弟明知觸碰成熟妹妹的裸體對自己不好,卻還是挺起雞巴,進行「禁止亂倫」！ ？ 【秋名版】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-6904"
+  },
+  {
+    "id": 530581,
+    "IDcode": "SDAM-8601",
+    "title": "【严肃的大屁股女学生前往普通考试场地】从农村乘坐夜间巴士来到东京参加高考的女高中生，即使被猥亵也发不出声音。我忍住哭声，假装睡着了，压低声音，眼含泪水地射精。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250119-1/e5d676e1a2ebe60cd586a6becc47cd40.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-8601"
+  },
+  {
+    "id": 516591,
+    "IDcode": "SDCA-009",
+    "title": "中出OO性高潮 第一次中出解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed44d152c12b4e68497df9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDCA-009"
+  },
+  {
+    "id": 516585,
+    "IDcode": "SDCA-011",
+    "title": "周防由紀子-資優生-墮落OO地獄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0bb8931a2714f1c5bc7d1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDCA-011"
+  },
+  {
+    "id": 530558,
+    "IDcode": "SDCM-004",
+    "title": "ガチ素人 るみさん 25歳 SODさん、私でAV撮ってくれませんか？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201031-1/903a58018dd030ff3a1e42ff735e43e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDCM-004"
+  },
+  {
+    "id": 530557,
+    "IDcode": "SDCM-005",
+    "title": "ガチ素人 ひなたさん 29歳 SODさん、私でAV撮ってくれませんか？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201031-1/6a33ec534c0ed4f9ac68f6a4589179cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDCM-005"
+  },
+  {
+    "id": 466760,
+    "IDcode": "SDDE-098",
+    "title": "介護福祉レディのお仕事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688ce03f98bc99dfddee70c5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-098"
+  },
+  {
+    "id": 218194,
+    "IDcode": "SDDE-200",
+    "title": "桑拿女郎的工作",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-200"
+  },
+  {
+    "id": 217042,
+    "IDcode": "SDDE-202",
+    "title": "性教育放送局",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-202"
+  },
+  {
+    "id": 216991,
+    "IDcode": "SDDE-209",
+    "title": "手淫诊所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-209"
+  },
+  {
+    "id": 217012,
+    "IDcode": "SDDE-229",
+    "title": "工匠们泛滥的性欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-229"
+  },
+  {
+    "id": 217090,
+    "IDcode": "SDDE-230",
+    "title": "手淫技巧-雨宮琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-230"
+  },
+  {
+    "id": 217011,
+    "IDcode": "SDDE-236",
+    "title": "性交看護",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-236"
+  },
+  {
+    "id": 217043,
+    "IDcode": "SDDE-238",
+    "title": "性交中出看护",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-238"
+  },
+  {
+    "id": 224092,
+    "IDcode": "SDDE-245",
+    "title": "手淫诊所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/c0f4d29a8b96d44168e507f8f4fd8a2f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-245"
+  },
+  {
+    "id": 217108,
+    "IDcode": "SDDE-248",
+    "title": "渴望曝光的色情明星",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-248"
+  },
+  {
+    "id": 521495,
+    "IDcode": "SDDE-261-CD1",
+    "title": "波多野结衣- 性交クリニック ファン感谢祭 240分スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250622/GCj1KkRC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-261-CD1"
+  },
+  {
+    "id": 521496,
+    "IDcode": "SDDE-261-CD2",
+    "title": "波多野结衣- 性交クリニック ファン感谢祭 240分スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250622/4iwB1Ha8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-261-CD2"
+  },
+  {
+    "id": 578893,
+    "IDcode": "SDDE-284",
+    "title": "女子校生ポロリズム2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-284"
+  },
+  {
+    "id": 526256,
+    "IDcode": "SDDE-287",
+    "title": "（里）手コキクリニック ～特别版～ 2穴性交クリニック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-287"
+  },
+  {
+    "id": 208941,
+    "IDcode": "SDDE-295",
+    "title": "童貞クリニック 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-295"
+  },
+  {
+    "id": 533839,
+    "IDcode": "SDDE-300",
+    "title": "中出し性交付き混浴巨乳マダムの宿",
     "year": "",
     "country": "",
     "genre": "",
@@ -258,3561 +2181,437 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a669589def9b1b80db85c/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-300"
   },
   {
-    "id": 18734,
-    "IDcode": "SAME-060",
-    "title": "越獄",
+    "id": 216302,
+    "IDcode": "SDDE-302",
+    "title": "手淫工作诊所",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "潛入",
-      "人妻",
-      "凌辱",
-      "性騷擾",
-      "綁架",
-      "強姦",
-      "性感",
-      "劇情"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678941a389def9b1b809623f/cover.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-060"
-  },
-  {
-    "id": 89874,
-    "IDcode": "SAME-061",
-    "title": "你要是输了就让妻子和我做爱吧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "白天出轨",
-      "无码破解",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/be2d5c661d027b9cf5eea19903b3a08c.jpg",
-    "actress": [
-      "希島愛理",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-061"
-  },
-  {
-    "id": 89857,
-    "IDcode": "SAME-062",
-    "title": "选择肉偿-美空未来",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "单体作品",
-      "大小姐"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4f42c179ffb1db9cdf6c/cover.jpg",
-    "actress": [
-      "美空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-062"
-  },
-  {
-    "id": 89871,
-    "IDcode": "SAME-063",
-    "title": "舔舐侵犯美颜-藤井伊由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "单体作品",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4e45c179ffb1db9cdf66/cover.jpg",
-    "actress": [
-      "藤井一夜",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-063"
-  },
-  {
-    "id": 89854,
-    "IDcode": "SAME-064",
-    "title": "輪●計画 就活生編 円井萌華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4277c179ffb1db9cdf44/cover.jpg",
-    "actress": [
-      "円井萌華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-064"
-  },
-  {
-    "id": 89858,
-    "IDcode": "SAME-065",
-    "title": "特別捜査官、コードネームMIO 私は絶対に負けない 百合園みおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "女检察官",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3da6c179ffb1db9cdf38/cover.jpg",
-    "actress": [
-      "百合園みおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-065"
-  },
-  {
-    "id": 89853,
-    "IDcode": "SAME-066",
-    "title": "競泳水着インストラクター失禁中出し鬼畜レ●プ 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "中出",
-      "学校泳装",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4deec179ffb1db9cdf64/cover.jpg",
-    "actress": [
-      "南佳也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-066"
-  },
-  {
-    "id": 89856,
-    "IDcode": "SAME-067",
-    "title": "上京まもない女子社員は、やがて激しく犯●れる。 桜もこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "凌辱",
-      "单体作品",
-      "戏剧"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789e9c7f9a2e9b1d4ad6a41/cover.jpg",
-    "actress": [
-      "櫻萌子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-067"
-  },
-  {
-    "id": 89883,
-    "IDcode": "SAME-068",
-    "title": "被异常性犯罪者侵犯无抵抗堕落的人妻 岬奈奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789492c89def9b1b8096273/cover.jpg",
-    "actress": [
-      "岬奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-068"
-  },
-  {
-    "id": 89844,
-    "IDcode": "SAME-069",
-    "title": "10年前にレ●プした女の事が忘れられず、出所後、俺は再びあの女をレ●プする事にした。 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "凌辱",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789e9bef9a2e9b1d4ad68f1/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-069"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-302"
   },
   {
-    "id": 89879,
-    "IDcode": "SAME-070",
-    "title": "母親の再婚相手のオジサンに毎日レ●プされています。 二葉エマ",
+    "id": 194319,
+    "IDcode": "SDDE-303",
+    "title": "亲子性教育课堂当场让每对母子现场内射做爱并且传授性教育知识",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女大学生",
-      "乱伦",
-      "单体作品"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2023-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/f19d300b6c99310090ead2290415f91d.jpg",
-    "actress": [
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-070"
-  },
-  {
-    "id": 89835,
-    "IDcode": "SAME-071",
-    "title": "サッカー部の女子マネージャーは毎日、顧問教師の性処理をさせられています。 希咲那奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "白天出轨",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789432189def9b1b8096261/cover.jpg",
-    "actress": [
-      "希咲那奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-071"
-  },
-  {
-    "id": 89845,
-    "IDcode": "SAME-072",
-    "title": "輪●計画 美人OL編 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2023-09-05",
-    "cover_url": "https://tuaskbgnekr.com/20231121/97Ix0ess/1.jpg",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-072"
-  },
-  {
-    "id": 89882,
-    "IDcode": "SAME-073",
-    "title": "對高傲社長夫人下重罰 天川空",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白天出轨",
-      "单体作品",
-      "无码破解"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67894c1c89def9b1b8096279/cover.jpg",
-    "actress": [
-      "天川空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-073"
-  },
-  {
-    "id": 89864,
-    "IDcode": "SAME-074",
-    "title": "通り魔レ●プ 拉致監禁されたOL。記録映像流出。 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "OL",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2023-09-05",
-    "cover_url": "https://tuaskbgnekr.com/20231122/BgF0yaFV/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-074"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-303"
   },
   {
-    "id": 89842,
-    "IDcode": "SAME-075",
-    "title": "推薦欲しいなら俺のチ〇ポしゃぶれ。 セクハラパワハラ上等。身勝手な教師の性処理道具に堕ちた生徒。 前田美波",
+    "id": 215514,
+    "IDcode": "SDDE-304",
+    "title": "桑拿小姐的工作幻想",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "中出",
-      "美少女电影",
-      "单体作品",
-      "高中女生"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2023-10-03",
-    "cover_url": "https://tuaskbgnekr.com/20231122/S5MUtiVy/1.jpg",
-    "actress": [
-      "前田美波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-075"
-  },
-  {
-    "id": 89836,
-    "IDcode": "SAME-076",
-    "title": "新婚の冬香先生は校内一、問題児の性玩具をさせられている。 長谷川夕奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白天出轨",
-      "单体作品",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789455089def9b1b8096265/cover.jpg",
-    "actress": [
-      "長谷川夕奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-076"
-  },
-  {
-    "id": 89837,
-    "IDcode": "SAME-077",
-    "title": "絶対にヤラせてくれないパパ活美少女をラブホに監禁、一日中レ●プ。 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "纪录片",
-      "巨乳",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2023-10-03",
-    "cover_url": "https://tuaskbgnekr.com/20231122/YRGoyXxd/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-304"
   },
   {
-    "id": 89880,
-    "IDcode": "SAME-078",
-    "title": "美しく成長したいとこのあきちゃんを引きこもりニートに成り下がった俺の汚部屋に監禁した話。 桜もこ",
+    "id": 215542,
+    "IDcode": "SDDE-312",
+    "title": "養護老人",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "OL",
-      "凌辱",
-      "单体作品",
-      "戏剧"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/29/683777f9a0b87615b2db73de/cover.jpg",
-    "actress": [
-      "櫻萌子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-078"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-312"
   },
   {
-    "id": 89839,
-    "IDcode": "SAME-079",
-    "title": "輪●計画 社長秘書編 長谷川夕奈",
+    "id": 64140,
+    "IDcode": "SDDE-316",
+    "title": "今天从早晨开始就可以和护士4P",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "秘书",
-      "纪录片",
-      "单体作品"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789328289def9b1b80961be/cover.jpg",
-    "actress": [
-      "長谷川夕奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-079"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-316"
   },
   {
-    "id": 17989,
-    "IDcode": "SAME-080",
-    "title": "对看着长大的女儿朋友发起侵犯",
+    "id": 216303,
+    "IDcode": "SDDE-317",
+    "title": "贞操诊所",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "美少女電影",
-      "美少女",
-      "手指插入",
-      "強姦",
-      "乱伦",
-      "中出",
-      "口交",
-      "性感",
-      "劇情"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa2f3ac813dc779d9638a/cover.jpg",
-    "actress": [
-      "二葉惠麻",
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-080"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-317"
   },
   {
-    "id": 15969,
-    "IDcode": "SAME-081",
-    "title": "棒球部女经理人-柏木小夏",
+    "id": 579091,
+    "IDcode": "SDDE-318",
+    "title": "“常に性交”生本番ニュースショー",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "凌辱",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "脅迫做愛",
-      "劇情",
-      "學校"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a408bac813dc779d961ce/cover.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-081"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-318"
   },
   {
-    "id": 17988,
-    "IDcode": "SAME-082",
-    "title": "在女儿面前像母狗一样被激烈突入",
+    "id": 103122,
+    "IDcode": "SDDE-325",
+    "title": "全程裸腿按摩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "母女",
-      "母親",
-      "淫亂",
-      "強姦",
-      "乱伦",
-      "脅迫做愛",
-      "中出",
-      "口交",
-      "性感",
-      "劇情"
+      "按摩",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787f9ee478d611da7752133/cover.jpg",
-    "actress": [
-      "通野未帆",
-      "工藤拉拉",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-082"
-  },
-  {
-    "id": 17991,
-    "IDcode": "SAME-083",
-    "title": "漂流少女-工藤由拉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "舔陰",
-      "美少女電影",
-      "叛逆少女",
-      "媚藥・迷藥",
-      "中出",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787f737f9a2e9b1d4a5319a/cover.jpg",
-    "actress": [
-      "工藤由羅",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
-  },
-  {
-    "id": 17462,
-    "IDcode": "SAME-084",
-    "title": "輪姦計畫：美麗辦公室女郎版",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "綁架",
-      "OL",
-      "強姦",
-      "黑絲",
-      "中出",
-      "制服",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787ff60478d611da77522e0/cover.jpg",
-    "actress": [
-      "三尾惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-084"
-  },
-  {
-    "id": 17457,
-    "IDcode": "SAME-085",
-    "title": "母亲的再婚对象-五芭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "繼父",
-      "強姦",
-      "乱伦",
-      "女兒",
-      "中出",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787e2f8c179ffb1db907e5f/cover.jpg",
-    "actress": [
-      "五芭"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-085"
-  },
-  {
-    "id": 17421,
-    "IDcode": "SAME-086",
-    "title": "潛入强奸巨乳美少女 沉浸在性愛中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潛入",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "監禁",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6d618f1cbfc7a9c7dc5f/cover.jpg",
-    "actress": [
-      "星乃夏月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-086"
-  },
-  {
-    "id": 89850,
-    "IDcode": "SAME-087",
-    "title": "在女儿面前像母狗一样被激插",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "母亲",
-      "戏剧"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "泉莉音",
-      "織田真子"
+      "佐々木恋海",
+      "未来ひかり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-325"
   },
   {
-    "id": 16940,
-    "IDcode": "SAME-088",
-    "title": "被绑架监禁的OL-前田美波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "綁架",
-      "殘忍畫面",
-      "OL",
-      "淫亂",
-      "羞恥",
-      "拘束・拷問",
-      "自拍性愛",
-      "強姦",
-      "緊縛",
-      "黑絲",
-      "中出",
-      "制服",
-      "監禁",
-      "按摩棒",
-      "口交",
-      "劇情",
-      "打屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d798f9a2e9b1d4a53014/cover.jpg",
-    "actress": [
-      "前田美波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-088"
-  },
-  {
-    "id": 16941,
-    "IDcode": "SAME-089",
-    "title": "被父親強奸直至懷孕。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "亂倫",
-      "父女",
-      "女學生",
-      "強姦",
-      "JK校服",
-      "女兒",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a61298f1cbfc7a9c7dbe8/cover.jpg",
-    "actress": [
-      "響乃詩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-089"
-  },
-  {
-    "id": 16936,
-    "IDcode": "SAME-090",
-    "title": "抑制不住思绪-七海蒂娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "辦公室",
-      "加班",
-      "OL",
-      "出軌",
-      "女上司",
-      "中出",
-      "制服",
-      "黑絲",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787da4bf9a2e9b1d4a5302b/cover.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-090"
-  },
-  {
-    "id": 103693,
-    "IDcode": "SAME-091",
-    "title": "美巨乳代課女教師被侵犯連插高潮上癮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "巨乳",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c588f9a2e9b1d4a52fb0/cover.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-091"
-  },
-  {
-    "id": 16412,
-    "IDcode": "SAME-092",
-    "title": "發不出聲音，容易服從的護士絕頂高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "護士",
-      "醫院・診所",
-      "強姦",
-      "羞恥",
-      "女看護",
-      "脅迫做愛",
-      "中出",
-      "護士制服",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787d991f9a2e9b1d4a53020/cover.jpg",
-    "actress": [
-      "織本せりの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-092"
-  },
-  {
-    "id": 16411,
-    "IDcode": "SAME-093",
-    "title": "被鬼畜義父肏到怀孕的美少女  小栗美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "父女",
-      "繼父",
-      "美少女電影",
-      "女學生",
-      "老頭子",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "羞恥",
-      "中文字幕",
-      "自宅",
-      "女兒",
-      "中出",
-      "口交",
-      "劇情",
-      "不倫"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787dadaf9a2e9b1d4a5302e/cover.jpg",
-    "actress": [
-      "小栗美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-093"
-  },
-  {
-    "id": 16422,
-    "IDcode": "SAME-094",
-    "title": "我唯一可以幹到千金美女的方法",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "凌辱",
-      "辦公室",
-      "美少女",
-      "OL",
-      "強姦",
-      "羞恥",
-      "制服",
-      "口交",
-      "性感",
-      "兩男一女",
-      "性騷擾",
-      "淫亂",
-      "中出",
-      "輪姦",
-      "美少女電影",
-      "脅迫做愛",
-      "劇情",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d54522cf22ae3e043cb98b/cover.jpg",
-    "actress": [
-      "遠藤沙耶",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
-  },
-  {
-    "id": 16417,
-    "IDcode": "SAME-095",
-    "title": "女員工剛搬到東京不久就遭到暴力強奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "強姦",
-      "羞恥",
-      "脅迫做愛",
-      "黑絲",
-      "中出",
-      "制服",
-      "飯店",
-      "口交",
-      "劇情",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d544fecf22ae3e043cb98a/cover.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-095"
-  },
-  {
-    "id": 16410,
-    "IDcode": "SAME-096",
-    "title": "輪奸計劃招募版",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "凌辱",
-      "美少女電影",
-      "緊縛",
-      "OL",
-      "淫亂",
-      "羞恥",
-      "真實拍攝",
-      "中出",
-      "制服",
-      "後入",
-      "口交",
-      "劇情",
-      "暗黑系"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787d98bf9a2e9b1d4a5301f/cover.jpg",
-    "actress": [
-      "響乃詩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-096"
-  },
-  {
-    "id": 15968,
-    "IDcode": "SAME-097",
-    "title": "被学生们支配的教育实习生-小栗美由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "凌辱",
-      "女教師",
-      "淫亂",
-      "強姦",
-      "巨乳",
-      "劇情",
-      "學校"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302084431475475.jpg",
-    "actress": [
-      "小栗美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-097"
-  },
-  {
-    "id": 15967,
-    "IDcode": "SAME-098",
-    "title": "被绑架监禁的接待小姐-木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "苗條",
-      "職員",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "綁架",
-      "拘束・拷問",
-      "羞恥",
-      "美腳",
-      "美乳",
-      "制服",
-      "口交",
-      "暗黑系",
-      "淫亂",
-      "中出",
-      "後入",
-      "美少女電影",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787cc49f9a2e9b1d4a52fd6/cover.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-098"
-  },
-  {
-    "id": 15966,
-    "IDcode": "SAME-099",
-    "title": "你可以花1000日元和这位老师做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "凌辱",
-      "美少女電影",
-      "女教師",
-      "強姦",
-      "脅迫做愛",
-      "中出",
-      "劇情",
-      "學校"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a230dac813dc779d96082/cover.jpg",
-    "actress": [
-      "遠藤沙耶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-099"
-  },
-  {
-    "id": 15740,
-    "IDcode": "SAME-100",
-    "title": "包含3段本番，全新拍攝。女人被強奸的恐怖事件",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "辦公室",
-      "OL",
-      "強姦",
-      "羞恥",
-      "苗條",
-      "電梯",
-      "中出",
-      "制服",
-      "後入",
-      "性感",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bc7e2a47ebb1a8b4bc70/cover.jpg",
-    "actress": [
-      "西野絵美",
-      "七海蒂娜",
-      "宫泽千春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-100"
-  },
-  {
-    "id": 15965,
-    "IDcode": "SAME-101",
-    "title": "被再婚对象带来的继子留种致孕-爱宝玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "繼父",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "強姦",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cd6bf9a2e9b1d4a52fdb/cover.jpg",
-    "actress": [
-      "愛寶鈴",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-101"
-  },
-  {
-    "id": 15738,
-    "IDcode": "SAME-102",
-    "title": "把新交的女朋友介紹給爸爸-小栗美優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "苗條",
-      "亂倫",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "NTR",
-      "儿子的朋友",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "不倫",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "乳交",
-      "無毛",
-      "偷竊",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c10d2a47ebb1a8b4c7d3/cover.jpg",
-    "actress": [
-      "小栗美優",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-102"
-  },
-  {
-    "id": 15741,
-    "IDcode": "SAME-103",
-    "title": "被要求淫蕩接客服務的我-七海蒂娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "拘束・拷問",
-      "飯店小姐・援交妹",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c4102a47ebb1a8b4cf4e/cover.jpg",
-    "actress": [
-      "七海蒂娜",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-103"
-  },
-  {
-    "id": 15052,
-    "IDcode": "SAME-104",
-    "title": "【觀看警告】車內強奸 ~ 皆月光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "車震",
-      "凌辱",
-      "美少女電影",
-      "美少女",
-      "綁架",
-      "強姦",
-      "緊縛",
-      "魔鬼系",
-      "羞恥",
-      "拘束・拷問",
-      "真實拍攝",
-      "中出",
-      "監禁",
-      "口交",
-      "劇情",
-      "跳蛋",
-      "苗條"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a91b2a47ebb1a8b48c4c/cover.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-104"
-  },
-  {
-    "id": 104890,
-    "IDcode": "SAME-105",
-    "title": "妻子的淫乱秘事-妃光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "凌辱",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aadb2a47ebb1a8b490a6/cover.jpg",
-    "actress": [
-      "西野絵美",
-      "妃光莉",
-      "一場れいか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-105"
-  },
-  {
-    "id": 104895,
-    "IDcode": "SAME-106",
-    "title": "新婚的静香老师-五芭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "已婚妇女",
-      "白天出轨",
-      "女教师",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787adb92a47ebb1a8b497c8/cover.jpg",
-    "actress": [
-      "五芭"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-106"
-  },
-  {
-    "id": 15051,
-    "IDcode": "SAME-107",
-    "title": "每天都被母亲的再婚对象强奸-白石桃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "清純",
-      "繼父",
-      "美少女電影",
-      "美少女",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "乱伦",
-      "自宅",
-      "中出",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a83c2a47ebb1a8b48a1a/cover.jpg",
-    "actress": [
-      "白石桃",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-107"
-  },
-  {
-    "id": 15010,
-    "IDcode": "SAME-108",
-    "title": "被强制和性骚扰顾问教师共处一室",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "清純",
-      "凌辱",
-      "美少女電影",
-      "女學生",
-      "短髮",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "女上位",
-      "強姦",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787af872a47ebb1a8b49c41/cover.jpg",
-    "actress": [
-      "小栗美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-108"
-  },
-  {
-    "id": 15011,
-    "IDcode": "SAME-109",
-    "title": "用毛巾強奸人妻 ~ 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "美少女電影",
-      "緊縛",
-      "強姦",
-      "魔鬼系",
-      "羞恥",
-      "乳交",
-      "美乳",
-      "中出",
-      "口交",
-      "巨乳",
-      "性感",
-      "劇情",
-      "抹油"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a6f02a47ebb1a8b486eb/cover.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-109"
-  },
-  {
-    "id": 14281,
-    "IDcode": "SAME-110",
-    "title": "对新进员工中出强奸到早上-结月莉亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "美少女電影",
-      "和服・浴衣・喪服",
-      "美少女",
-      "OL",
-      "手指插入",
-      "溫泉",
-      "脅迫做愛",
-      "蒙面・面罩",
-      "中出",
-      "出差",
-      "飯店",
-      "後入",
-      "巨乳",
-      "劇情",
-      "口交",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0fc9ac813dc779d95fb2/cover.jpg",
-    "actress": [
-      "結月莉亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-110"
-  },
-  {
-    "id": 14286,
-    "IDcode": "SAME-111",
-    "title": "在女儿面前被干到像母狗一样-泉莉音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩女一男",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "強姦",
-      "雙飛",
-      "羞恥",
-      "JK校服",
-      "色白",
-      "美乳",
-      "口交",
-      "性感",
-      "熟女",
-      "人妻",
-      "母女",
-      "短髮",
-      "淫妻",
-      "中出",
-      "劇情",
-      "美少女電影",
-      "乱伦",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/12/67f96defcf22ae3e04092f8b/cover.jpg",
-    "actress": [
-      "泉莉音",
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-111"
-  },
-  {
-    "id": 14294,
-    "IDcode": "SAME-112",
-    "title": "街頭強奸綁架女大學生。監控鏡頭被泄露 ~ 白石桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "真實拍攝",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "綁架",
-      "拘束・拷問",
-      "羞恥",
-      "主觀視角",
-      "色白",
-      "監禁",
-      "按摩棒",
-      "口交",
-      "暗黑系",
-      "短髮",
-      "中出",
-      "後入",
-      "劇情",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531030727627627.jpg",
-    "actress": [
-      "白石桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-112"
-  },
-  {
-    "id": 14285,
-    "IDcode": "SAME-113",
-    "title": "办公室轮奸-木下日葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "口爆",
-      "凌辱",
-      "辦公室",
-      "美少女",
-      "美腳",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "OL",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "輪姦",
-      "美少女電影",
-      "手指插入",
-      "69",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a008c179ffb1db907d50/cover.jpg",
-    "actress": [
-      "木下日葵",
-      "タイ",
-      "平井シンジ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-113"
-  },
-  {
-    "id": 13691,
-    "IDcode": "SAME-114",
-    "title": "酒店女子：我被要求提供不雅服務 ~ 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "應召・援交",
-      "凌辱",
-      "老頭子",
-      "風俗娘",
-      "美腳",
-      "蠻橫嬌羞",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "黑絲",
-      "中出",
-      "制服",
-      "飯店",
-      "蕩婦",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a0b0c179ffb1db907d53/cover.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-114"
-  },
-  {
-    "id": 13688,
-    "IDcode": "SAME-115",
-    "title": "脫獄者～工藤由羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "罪犯・逃犯",
-      "凌辱",
-      "美少女電影",
-      "短髮",
-      "美少女",
-      "OL",
-      "肉絲",
-      "強姦",
-      "羞恥",
-      "苗條",
-      "色白",
-      "中出",
-      "口交",
-      "女上位",
-      "少女",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67879de3c179ffb1db907d36/cover.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-115"
-  },
-  {
-    "id": 13694,
-    "IDcode": "SAME-117",
-    "title": "強姦我的討厭男人-妃光莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "人妻",
-      "凌辱",
-      "肉絲",
-      "強姦",
-      "羞恥",
-      "家庭主妇",
-      "美乳",
-      "中出",
-      "黑絲",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67878ab42a47ebb1a8b440bc/cover.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-117"
-  },
-  {
-    "id": 13706,
-    "IDcode": "SAME-118",
-    "title": "新婚的老師鈴乃宇都被迫被學校裏最有問題的孩子操 ~ 鈴乃宇都",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "感官作品",
-      "美少女電影",
-      "女教師",
-      "校園生活",
-      "美少女",
-      "強姦",
-      "蠻橫嬌羞",
-      "羞恥",
-      "色白",
-      "美乳",
-      "中出",
-      "制服",
-      "口交",
-      "美腿",
-      "性感",
-      "學校",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787a264c179ffb1db907d59/cover.jpg",
-    "actress": [
-      "鈴乃宇都"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-118"
-  },
-  {
-    "id": 13684,
-    "IDcode": "SAME-119",
-    "title": "猥褻性感按摩的敏感部的美少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "醫院・診所",
-      "女學生",
-      "感官作品",
-      "美少女",
-      "羞恥",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "按摩・美容店",
-      "中出",
-      "美腿",
-      "抹油",
-      "清純",
-      "美少女電影",
-      "按摩・物理治療・美容",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878d9c2a47ebb1a8b447ea/cover.jpg",
-    "actress": [
-      "透美かなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-119"
-  },
-  {
-    "id": 12989,
-    "IDcode": "SAME-120",
-    "title": "小看她长大的美少女-小栗美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "清純",
-      "凌辱",
-      "感官作品",
-      "小隻馬",
-      "老頭子",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "羞恥",
-      "中出",
-      "變態",
-      "口交",
-      "女上位",
-      "少女",
-      "劇情",
-      "抹油"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678791fb2a47ebb1a8b452ba/cover.jpg",
-    "actress": [
-      "小栗美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-120"
-  },
-  {
-    "id": 12988,
-    "IDcode": "SAME-121",
-    "title": "一名在街頭被綁架強奸的女教師 記錄映像流出 ~ 宮西光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "性虐癖",
-      "苗條",
-      "凌辱",
-      "女教師",
-      "美少女",
-      "肉絲",
-      "強姦",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "綁架",
-      "美腳",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "後入",
-      "劇情",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678790b62a47ebb1a8b44f9d/cover.jpg",
-    "actress": [
-      "宮西光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-121"
-  },
-  {
-    "id": 94075,
-    "IDcode": "SAME-122",
-    "title": "你是我的學生-望月蕾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "制服",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68db01dbd6fbef4e90d26b2c/cover.jpg",
-    "actress": [
-      "望月蕾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-122"
-  },
-  {
-    "id": 12947,
-    "IDcode": "SAME-123",
-    "title": "制服少女監禁凌辱 鬼畜輪姦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "吞精",
-      "多P",
-      "性虐癖",
-      "苗條",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "綁架",
-      "JK校服",
-      "羞恥",
-      "美腳",
-      "監禁",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "輪姦",
-      "舔陰",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878fe82a47ebb1a8b44d9a/cover.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-123"
-  },
-  {
-    "id": 12992,
-    "IDcode": "SAME-124",
-    "title": "每天和义父造人性交-天月杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "繼父",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "蠻橫嬌羞",
-      "羞恥",
-      "色白",
-      "自宅",
-      "美乳",
-      "中出",
-      "巨乳",
-      "口交",
-      "女上位",
-      "少女",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240823-1/2e9f3a1bd4cf24c3b2f1ebc765734d71.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-124"
-  },
-  {
-    "id": 13003,
-    "IDcode": "SAME-125",
-    "title": "前男友甩掉我后在社交平台公布结婚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "形象俱樂部",
-      "美少女電影",
-      "若妻",
-      "美少女",
-      "前女友",
-      "羞恥",
-      "苗條",
-      "脅迫做愛",
-      "黑絲",
-      "中出",
-      "後入",
-      "口交",
-      "女上位",
-      "報復",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787931e2a47ebb1a8b45587/cover.jpg",
-    "actress": [
-      "鈴乃宇都"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-125"
-  },
-  {
-    "id": 12337,
-    "IDcode": "SAME-126",
-    "title": "輪姦計劃美女秘書篇-三岳優奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "口爆",
-      "辣妹/GAL系",
-      "感官作品",
-      "凌辱",
-      "緊縛",
-      "綁架",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "OL",
-      "美乳",
-      "制服",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "深喉",
-      "野性",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "膚黑",
-      "69",
-      "調教",
-      "黑絲",
-      "白眼失神",
-      "女秘書",
-      "肌肉",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787805dc179ffb1db907c8b/cover.jpg",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-126"
-  },
-  {
-    "id": 12341,
-    "IDcode": "SAME-127",
-    "title": "家裏的強奸魔 ~ 五芭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "苗條",
-      "感官作品",
-      "凌辱",
-      "在丈夫面前被操",
-      "美少女",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "自宅",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "深喉",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67877a62c179ffb1db907c61/cover.jpg",
-    "actress": [
-      "五芭"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-127"
-  },
-  {
-    "id": 12322,
-    "IDcode": "SAME-128",
-    "title": "未亡人懷了公公的小孩-鈴乃宇都",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "未亡人・寡婦",
-      "苗條",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "色白",
-      "口交",
-      "兒媳",
-      "形象俱樂部",
-      "人妻",
-      "公公",
-      "中出",
-      "後入",
-      "劇情",
-      "不倫",
-      "脚控・戀足癖",
-      "美少女電影",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67878003c179ffb1db907c89/cover.jpg",
-    "actress": [
-      "鈴乃宇都",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-128"
-  },
-  {
-    "id": 12343,
-    "IDcode": "SAME-129",
-    "title": "光天化日之下闖入的強奸魔 ~ 天馬唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "顏射",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67877bc8c179ffb1db907c70/cover.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-129"
-  },
-  {
-    "id": 12347,
-    "IDcode": "SAME-130",
-    "title": "我父亲会注意到的-长崎雪音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "辦公室",
-      "美少女",
-      "肉絲",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "OL",
-      "美乳",
-      "制服",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "脚控・戀足癖",
-      "美少女電影",
-      "乱伦",
-      "脅迫做愛",
-      "黑絲",
-      "女秘書",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830002942569569.jpg",
-    "actress": [
-      "那賀崎雪音",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-130"
-  },
-  {
-    "id": 11694,
-    "IDcode": "SAME-131",
-    "title": "這一定是不尋常的關係-柏木小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "老頭子",
-      "小隻馬",
-      "苗條",
-      "美少女",
-      "美腳",
-      "強姦",
-      "JK校服",
-      "羞恥",
-      "自宅",
-      "口交",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "不倫",
-      "繼父",
-      "美少女電影",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/e4757356ecf8957a2795e2c3724bff1f.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-131"
-  },
-  {
-    "id": 11650,
-    "IDcode": "SAME-132",
-    "title": "刑期を終えた強●魔が10年ぶりに女を犯した日。 月野江すい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口爆",
-      "性虐癖",
-      "打屁股",
-      "苗條",
-      "牛仔褲",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "美乳",
-      "變態",
-      "口交",
-      "性感",
-      "潛入",
-      "內衣",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/c37d60ecd7145b86cda2cf5a33028eb0.jpg",
-    "actress": [
-      "月野江翠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-132"
-  },
-  {
-    "id": 10917,
-    "IDcode": "SAME-133",
-    "title": "被女上司侵犯的男人们-橘内日向",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "網襪",
-      "凌辱",
-      "辦公室",
-      "加班",
-      "美腳",
-      "OL",
-      "羞恥",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "口交",
-      "女上司",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高跟鞋",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/67874904c179ffb1db907b7f/cover.jpg",
-    "actress": [
-      "橘日向",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-133"
-  },
-  {
-    "id": 10983,
-    "IDcode": "SAME-135",
-    "title": "近所に住んでる美少女をオジサンがねっとり種付けし続ける一部始終。 瀬田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "巨尻",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "強姦",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "監禁",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787656ac179ffb1db907bea/cover.jpg",
-    "actress": [
-      "瀬田一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-135"
-  },
-  {
-    "id": 10260,
-    "IDcode": "SAME-136",
-    "title": "娘の前で雌犬のように激しく突かれて 橘内ひなた 有加里ののか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "巨尻",
-      "兩女一男",
-      "口爆",
-      "性虐癖",
-      "打屁股",
-      "感官作品",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "雙飛",
-      "羞恥",
-      "美腳",
-      "色白",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "母女",
-      "深喉",
-      "明星臉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "SM",
-      "劇情",
-      "顏射",
-      "美臀",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "乳交",
-      "蘿莉控",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128095323780780.jpg",
-    "actress": [
-      "有加里乃乃花",
-      "橘日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-136"
-  },
-  {
-    "id": 10274,
-    "IDcode": "SAME-137",
-    "title": "港区パパ活女子凌● 宮城りえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "媚藥・迷藥",
-      "飯店",
-      "綠茶婊",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "風俗娘",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "應召・援交",
-      "美少女電影",
-      "拜金女",
-      "脅迫做愛",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/67874f1789def9b1b801bb36/cover.jpg",
-    "actress": [
-      "宮城理惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-137"
-  },
-  {
-    "id": 9410,
-    "IDcode": "SAME-138",
-    "title": "耻辱的教育实习生 宫城理惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "老頭子",
-      "多P",
-      "飯店",
-      "苗條",
-      "凌辱",
-      "女教師",
-      "美腳",
-      "癡女",
-      "實習生",
-      "羞恥",
-      "OL",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "健身房",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "兩男一女",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "手指插入",
-      "乳交",
-      "調教",
-      "黑絲",
-      "女上位",
-      "學校",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b0e65d57b64bfdfc2600/cover.jpg",
-    "actress": [
-      "宮城理惠",
-      "宫城理惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-138"
-  },
-  {
-    "id": 10303,
-    "IDcode": "SAME-139",
-    "title": "輪●計画 就活中の大学生編 白石もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "吞精",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "苗條",
-      "痴漢",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "綁架",
-      "美腳",
-      "羞恥",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "舔腳",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787cb248daf6b1db43c33bd/cover.jpg",
-    "actress": [
-      "白石桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-139"
-  },
-  {
-    "id": 72652,
-    "IDcode": "SAME-141",
-    "title": "每天都被母亲再婚对象的叔叔强奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "乱伦",
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b90314cf22ae3e04db566c/cover.jpg",
-    "actress": [
-      "梓光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-141"
-  },
-  {
-    "id": 10278,
-    "IDcode": "SAME-142",
-    "title": "那个爱骚扰人的女社长-七海蒂娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "口爆",
-      "報復",
-      "凌辱",
-      "辦公室",
-      "肉絲",
-      "OL",
-      "強姦",
-      "加班",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "女上司",
-      "性感",
-      "口交",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "深喉",
-      "美人妻",
-      "淫亂",
-      "女王",
-      "中出",
-      "蕩婦",
-      "後入",
-      "顏射",
-      "絕頂高潮",
-      "輪姦",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ec935d57b64bfd10d8fc/cover.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-142"
-  },
-  {
-    "id": 188191,
-    "IDcode": "SAME-143",
-    "title": "単独強●魔 松井日奈子",
+    "id": 211141,
+    "IDcode": "SDDE-326",
+    "title": "经常做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b8945fcf22ae3e04db4fec/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-143"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-326"
   },
   {
-    "id": 9402,
-    "IDcode": "SAME-144",
-    "title": "身为酒店服务生的我，居然被要求提供那种色色的服务 十束流羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "客服小姐",
-      "飯店",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "肉絲",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873d3389def9b1b801ba3b/cover.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-144"
-  },
-  {
-    "id": 8659,
-    "IDcode": "SAME-145",
-    "title": "男を金としか思ってない生意気キャバ嬢に極上のお仕置き監禁レ●プ 春陽モカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "口爆",
-      "港區女子",
-      "插入異物",
-      "綠茶婊",
-      "報復",
-      "苗條",
-      "辣妹/GAL系",
-      "婚紗",
-      "凌辱",
-      "緊縛",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "監禁",
-      "巨乳",
-      "口交",
-      "性感",
-      "心機婊",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "內衣",
-      "傲嬌",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
-      "乳交",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b895214e7d663df48c19cc/cover.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-145"
-  },
-  {
-    "id": 9433,
-    "IDcode": "SAME-146",
-    "title": "父女禁忌性交纪录影像 五芭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女兒",
-      "苗條",
-      "亂倫",
-      "美少女",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "自宅",
-      "變態",
-      "清楚系",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "父女",
-      "高顏值",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8ef7ecf22ae3e04db5542/cover.jpg",
-    "actress": [
-      "五芭"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-146"
-  },
-  {
-    "id": 188008,
-    "IDcode": "SAME-147",
-    "title": "調子に乗ってる自称インフルエンサーを騙してボロ雑巾のように犯した日。 月野江すい",
+    "id": 215501,
+    "IDcode": "SDDE-327",
+    "title": "老师的奇迹走光",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8f024cf22ae3e04db5545/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-147"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-327"
   },
   {
-    "id": 172879,
-    "IDcode": "SAME-148",
-    "title": "侵犯我的那个男人被逮捕的那一天",
+    "id": 216300,
+    "IDcode": "SDDE-329",
+    "title": "3P性交诊断",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873d9889def9b1b801ba3c/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-148"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-329"
   },
   {
-    "id": 7841,
-    "IDcode": "SAME-149",
-    "title": "爸爸因为妈妈怀孕不能做爱-北岡果林",
+    "id": 216299,
+    "IDcode": "SDDE-331",
+    "title": "受欢迎的商店里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-331"
+  },
+  {
+    "id": 216298,
+    "IDcode": "SDDE-332",
+    "title": "現役看護学生-綾瀬ましろ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-332"
+  },
+  {
+    "id": 224747,
+    "IDcode": "SDDE-336",
+    "title": "被春药毒蛇咬过的后遗症",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-336"
+  },
+  {
+    "id": 97712,
+    "IDcode": "SDDE-338",
+    "title": "「常に性交」メンズエステ 濃密",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "美少女",
-      "美腳",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "JK校服",
-      "自宅",
-      "美乳",
-      "寢取",
-      "變態",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "清純",
-      "舔陰",
-      "繼父",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "女上位",
-      "騎乗位"
+      "按摩",
+      "美容院",
+      "企画",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c617534e7d663df4cd2f68/cover.jpg",
+    "company": "SOD",
+    "publish_date": "2014-01-09",
+    "cover_url": "http://15.155250922.com/upload/vod/20221104/1sdde00338pl.jpg",
     "actress": [
-      "北岡果林"
+      "大槻响",
+      "佐藤遥希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-149"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-338"
   },
   {
-    "id": 10262,
-    "IDcode": "SAME-150",
-    "title": "「…やっと見つけた」会いたくなかった男に会ってしまった。8年前、私はこの男にレ●プされた。 鳳みゆ",
+    "id": 578639,
+    "IDcode": "SDDE-339",
+    "title": "“制服・下着・全裸”でおもてなし またがりオマ○コ航空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-339"
+  },
+  {
+    "id": 216297,
+    "IDcode": "SDDE-341",
+    "title": "密着巨乳洗体",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "倉庫",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "深喉",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "脚控・戀足癖",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f6395d57b64bfd1a5851/cover.jpg",
-    "actress": [
-      "鳳美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-150"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-341"
   },
   {
-    "id": 8658,
-    "IDcode": "SAME-151",
-    "title": "不行会被爸爸发现的-神木蘭",
+    "id": 217044,
+    "IDcode": "SDDE-342",
+    "title": "性欲处理SEX医院的中出科",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-342"
+  },
+  {
+    "id": 216296,
+    "IDcode": "SDDE-344",
+    "title": "慢速性交沙龙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-344"
+  },
+  {
+    "id": 215633,
+    "IDcode": "SDDE-347",
+    "title": "护士SEX教室",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-347"
+  },
+  {
+    "id": 88209,
+    "IDcode": "SDDE-354",
+    "title": "壁！机！椅子！から飛び出る生チ○ポが人気の進学校『都立しゃぶりながら高校』",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "感官作品",
-      "凌辱",
-      "鄰居",
-      "美少女",
-      "肉絲",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "自宅",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "清純",
-      "美少女電影",
-      "乱伦",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
+      "其他恋物癖",
+      "企画",
+      "高中女生",
+      "水手服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8dd36cf22ae3e04db5370/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/80b2cf5cbe785988751a5c3eaea06116.jpg",
     "actress": [
-      "神木蘭"
+      "辻井悠",
+      "早瀬ありす",
+      "迦纳绫子",
+      "有本纱世",
+      "早坂リア",
+      "野々宫ここみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
+  },
+  {
+    "id": 578918,
+    "IDcode": "SDDE-355",
+    "title": "“制服・下着・全裸”でおもてなしまたがりオマ○コ航空2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-355"
+  },
+  {
+    "id": 97718,
+    "IDcode": "SDDE-359",
+    "title": "答弁中に！政見放送中に！記者会見中に！おま○こを責められる姿で支持率上昇中の政党 自由にオマ○コいじられ党",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企画",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2014-07-10",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdde00359pl.jpg",
+    "actress": [
+      "川上優",
+      "二宫ナナ",
+      "星川麻纪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-359"
+  },
+  {
+    "id": 214497,
+    "IDcode": "SDDE-362",
+    "title": "街头性交咨询会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-362"
+  },
+  {
+    "id": 526255,
+    "IDcode": "SDDE-363",
+    "title": "“常に性交”デザイン事务所（株）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221104/1sdde00363pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-363"
+  },
+  {
+    "id": 530574,
+    "IDcode": "SDDE-367",
+    "title": "女教官在严密训练的同时竖立男顾客",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250219-1/383107b15b9416ea89a84826961fd1d1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-367"
   }
 ];

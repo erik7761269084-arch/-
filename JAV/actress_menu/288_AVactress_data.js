@@ -232,7 +232,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2024-11-22",
       "cover_url": "",
       "actress": [
@@ -585,7 +585,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/b3b0c6bcfdb8286058d61c294e2a78fa.jpg",
       "actress": [

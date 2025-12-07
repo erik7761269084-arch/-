@@ -362,7 +362,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-05-21",
       "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517035150359359.jpg",
       "actress": [
@@ -1541,7 +1541,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2b72d109823a469faaea60398b5a4bb6.jpg",
       "actress": [
@@ -1916,7 +1916,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-2/8f2bbcaac56ce6ebe6e732736e8ef27e.jpg",
       "actress": [
@@ -2704,7 +2704,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea3ee51572686be784cbc3/cover.jpg",
       "actress": [
@@ -3224,7 +3224,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/978aee56/vod.jpg",
       "actress": [

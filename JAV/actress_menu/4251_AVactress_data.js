@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2024-11-22",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a0e1af8da79126a7b2b90b1d440b9d26.jpg",
       "actress": [
@@ -118,7 +118,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d95056e0cf1d51d004ca4b01176a57c5.jpg",
       "actress": [

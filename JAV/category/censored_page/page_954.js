@@ -1,109 +1,23 @@
 window.PAGE_DATA = [
   {
-    "id": 81834,
-    "IDcode": "MXGS-1132",
-    "title": "魅惑誘惑ナイスバディのスタイリストがヤラせてくれる猥褻美容室 凛音とうか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "美少女电影",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2020-02-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/a185c1d0770251b5212cb4ffdd3cd0b6.jpg",
-    "actress": [
-      "凛音とうか",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1132"
-  },
-  {
-    "id": 83717,
-    "IDcode": "MXGS-1133",
-    "title": "現役女子学生の性感開発 新人 双葉ひより20才 Gカップ AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "首次亮相"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2020-03-16",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "双叶ひより"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1133"
-  },
-  {
-    "id": 83761,
-    "IDcode": "MXGS-1134",
-    "title": "僕の彼女はY●uTuber！撮影内容はまさかのNTR…裏切り行為にショックなはずなのに鬱勃起した僕 森本つぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/62b20a62a746c92fbce0503fc4978bb7.jpg",
-    "actress": [
-      "大岛丈",
-      "森本つぐみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1134"
-  },
-  {
-    "id": 579142,
-    "IDcode": "MXGS-1136",
-    "title": "彼女に内绪でイケナイ関系 诱惑してくる彼女の妹はかわいい女子学生 笠木いちか",
+    "id": 535310,
+    "IDcode": "NACX-119",
+    "title": "全编オール裸！！全裸図鉴49人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201010-1/d0e202926127e1e5b97c7e2a5072bfbd.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240428/h_237nacx119pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1136"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-119"
   },
   {
-    "id": 529926,
-    "IDcode": "MXGS-1137",
-    "title": "Gカップ巨乳女子大生 寝取られオイルマッサージ 双叶ひより",
+    "id": 531295,
+    "IDcode": "NACX-121",
+    "title": "パイズリと杭打ち骑乘位で责めてくる！爆乳痴女14人",
     "year": "",
     "country": "",
     "genre": "",
@@ -111,209 +25,47 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220708-1/9ee01066b2626122f9113392098be286.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/5WrKrJ5A/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1137"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-121"
   },
   {
-    "id": 516095,
-    "IDcode": "MXGS-1138",
-    "title": "辣妹系美人造型師工作的猥褻美容",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0b85f31a2714f1c5bbc0f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1138"
-  },
-  {
-    "id": 102309,
-    "IDcode": "MXGS-1141",
-    "title": "新人 椎名紗百合 キュッと引き締まったアスリートボディの女子学生 AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/cc97b93d4e9299eaf0c8ea3acc60efcc.jpg",
-    "actress": [
-      "大岛丈",
-      "椎名纱百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1141"
-  },
-  {
-    "id": 465878,
-    "IDcode": "MXGS-1147",
-    "title": "現役OL美乳棉花糖胸部 永原夏樹 AV出道",
+    "id": 87131,
+    "IDcode": "NACX-122",
+    "title": "パイパン熟女12人BEST VOL.05 パンティと生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec24ce52c12b4e6846e226/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1147"
-  },
-  {
-    "id": 465843,
-    "IDcode": "MXGS-1152",
-    "title": "遠距工作中無垢新入社員濃厚接觸超M開發 加賀美沙羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef4b1631a2714f1c599cc7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1152"
-  },
-  {
-    "id": 520994,
-    "IDcode": "MXGS-1173",
-    "title": "瀬名ひかり- 络み合う体液～浓厚接吻 情热中出しセックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20250930/j7PRetfB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1173"
-  },
-  {
-    "id": 79168,
-    "IDcode": "MXGS-1182",
-    "title": "何も知らない人気AV女優に即ハメ即尺SEX 枢木あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "立即口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "枢木葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1182"
-  },
-  {
-    "id": 79158,
-    "IDcode": "MXGS-1183",
-    "title": "成人祝いの飲み会でほろ酔い気分の女友達とたくさんえっちした記録 姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "精选，综合",
       "巨乳",
-      "口交"
+      "无毛",
+      "4小时以上作品",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "",
+    "publish_date": "2023-06-05",
+    "cover_url": "https://tuaskbgnekr.com/20230921/aWzhyQjG/1.jpg",
     "actress": [
-      "姫咲華"
+      "美園和花",
+      "森澤佳奈",
+      "吉根柚莉爱",
+      "大槻响",
+      "二宮和香",
+      "佐々木咲和",
+      "安倍亜沙美",
+      "新井爱丽",
+      "瞳リョウ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1183"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-122"
   },
   {
-    "id": 79179,
-    "IDcode": "MXGS-1184",
-    "title": "絡み合う体液～濃厚接吻 互いに求め合う密着中出しセックス 若宮穂乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d956aa3ea776702a37c25c4e8bfdd288.jpg",
-    "actress": [
-      "タツ",
-      "若宫穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1184"
-  },
-  {
-    "id": 79177,
-    "IDcode": "MXGS-1185",
-    "title": "インパクト抜群のKカップ爆乳が激しく揺れるイチャラブSEX 麻倉ゆあ",
+    "id": 563356,
+    "IDcode": "NACX-123",
+    "title": "ピストンするたび豊満ボディが踊り暴れる！爆乳熟女に中出し20人VOL.04",
     "year": "",
     "country": "",
     "genre": "",
@@ -321,276 +73,1176 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230921/n3FD8wgj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-123"
+  },
+  {
+    "id": 563355,
+    "IDcode": "NACX-124",
+    "title": "美熟女たちがお风吕で手コキ·パイズリフェラ発射！20人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230921/AkCQCJNA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-124"
+  },
+  {
+    "id": 563354,
+    "IDcode": "NACX-125",
+    "title": "お尻を突き出すポーズがエロすぎる！后背位ばかりの动画集64人 VOL.04",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230921/oxQhIwlF/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-125"
+  },
+  {
+    "id": 563353,
+    "IDcode": "NACX-126",
+    "title": "ピストンするたび豊満ボディが踊り暴れる！爆乳熟女に中出し20人VOL.05",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230921/E3rmIwZL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-126"
+  },
+  {
+    "id": 548102,
+    "IDcode": "NACX-127",
+    "title": "美熟女たちがお风吕で手コキ·パイズリフェラ発射！23人VOL.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230922/V427ywKR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-127"
+  },
+  {
+    "id": 547797,
+    "IDcode": "NACX-128",
+    "title": "ムラムラがもう我慢できない！美熟女の絶顶オナニー24人 VOL.03 新村あかり 羽咲美亜 艶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231005/b5kxNb0c/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-128"
+  },
+  {
+    "id": 547617,
+    "IDcode": "NACX-129",
+    "title": "ぽっちゃり美熟女12人BEST VOL.04",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231026/wHP3gYkg/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-129"
+  },
+  {
+    "id": 562903,
+    "IDcode": "NACX-130",
+    "title": "デカ乳轮！スペシャル50人のおっぱい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231107/ktG9NPjq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-130"
+  },
+  {
+    "id": 544151,
+    "IDcode": "NACX-131",
+    "title": "四十路·五十路スレンダー熟女に中出し12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250907/tqjZrJVf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-131"
+  },
+  {
+    "id": 547229,
+    "IDcode": "NACX-132",
+    "title": "未亡人の义母と嫁の留守を狙い禁断の中出し性交5人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/xxivRZt4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-132"
+  },
+  {
+    "id": 546927,
+    "IDcode": "NACX-133",
+    "title": "逃亡者と私 総集编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240106/bQkTnxjF/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-133"
+  },
+  {
+    "id": 546687,
+    "IDcode": "NACX-134",
+    "title": "全编オール裸！！全裸図鉴39人VOL.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240124/1zygo8JH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-134"
+  },
+  {
+    "id": 546489,
+    "IDcode": "NACX-135",
+    "title": "巨乳美女BEST12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240207/eVIdw7x9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-135"
+  },
+  {
+    "id": 545987,
+    "IDcode": "NACX-136",
+    "title": "パイパンで绮丽なマ〇コの美女に中出し12人BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240323/kkabavsX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-136"
+  },
+  {
+    "id": 561160,
+    "IDcode": "NACX-137",
+    "title": "スレンダー巨乳美女中出しBEST14人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/vgvEKOJ9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-137"
+  },
+  {
+    "id": 545669,
+    "IDcode": "NACX-138",
+    "title": "唾液を垂らしてしゃぶる姿がエロすぎる！！フェラチオばかりの动画集 美熟女编20人VOL.03",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240424/TNgUHigK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-138"
+  },
+  {
+    "id": 545547,
+    "IDcode": "NACX-139",
+    "title": "むっちむち弾力ボディ！爆乳女优厳选20人！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240509/JOtH4G97/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-139"
+  },
+  {
+    "id": 14575,
+    "IDcode": "NACX-140",
+    "title": "可愛的臉蛋和狂野的一面！ 剛毛美女8人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "鬃毛",
+      "接吻",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "顏射",
+      "69",
+      "騎乗位",
+      "精選總編集",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "口交",
+      "乳交",
+      "女上位",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/dcd59d080312bd978e52060bc741d676.jpg",
+    "actress": [
+      "鈴木真夕",
+      "花音うらら",
+      "结城乃乃",
+      "宝生めい",
+      "有坂深雪",
+      "樋口三葉",
+      "夏目りょうこ",
+      "詩音乃らん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-140"
+  },
+  {
+    "id": 93379,
+    "IDcode": "NACX-141",
+    "title": "義父を誘惑！とんでも嫁の見せつけオナニー25人 生写真とパンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "已婚妇女",
+      "自慰",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/e6c5aeb5870b6a992d3db82c4859c458.jpg",
+    "actress": [
+      "森澤佳奈",
+      "AIKA",
+      "鈴木真夕",
+      "七草千歲",
+      "夏希栗",
+      "川上優",
+      "竹内夏希",
+      "川菜美铃",
+      "如月夏希",
+      "安倍亜沙美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-141"
+  },
+  {
+    "id": 93378,
+    "IDcode": "NACX-142",
+    "title": "かわいいお顔に野性味あふれるVIO！剛毛美女9人VOL.02 生写真とパンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "恋物癖",
+      "中出",
+      "美少女电影",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/c2a12624e94839da7a9e94888033aca6.jpg",
+    "actress": [
+      "月野香澄",
+      "葵玲奈",
+      "乃木蛍",
+      "希望美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-142"
+  },
+  {
+    "id": 560202,
+    "IDcode": "NACX-143",
+    "title": "腰振るたびに踊り暴れる爆乳！杭打ち骑乘位48人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241008/YEY3BYm9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-143"
+  },
+  {
+    "id": 11128,
+    "IDcode": "NACX-144",
+    "title": "旦那が横で寝ていてもお構いなし！背徳の性交に溺れた人妻9人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選綜合",
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "小隻馬",
+      "美臀",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "企畫",
+      "美人妻",
+      "騎乗位",
+      "精選總編集",
+      "美乳",
+      "美腿",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "4小時以上作品",
+      "後入",
+      "在丈夫面前被操",
+      "性感",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241020/3284df72-f513-4540-ba73-0e6813183d6c.jpg",
+    "actress": [
+      "大槻响",
+      "二宮和香",
+      "羽生ありさ",
+      "奏自由",
+      "椎名空",
+      "水原さな",
+      "成宮潤",
+      "高杉麻里",
+      "中山尚美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-144"
+  },
+  {
+    "id": 95096,
+    "IDcode": "NACX-145",
+    "title": "未亡人の義母と嫁の留守を狙い禁断の中出し性交5人VOL.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "寡妇",
+      "中出",
+      "4小时以上作品",
+      "婆婆"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250105/jwjeYub2/1.jpg",
+    "actress": [
+      "久保今日子",
+      "加山なつ子",
+      "音羽文子",
+      "円城ひとみ",
+      "柏木舞子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
+  },
+  {
+    "id": 76087,
+    "IDcode": "NACX-146",
+    "title": "21人の美女がデカ乳を揺らし、グチョグチョいやらしい音をたてながらGスポット絶頂オナニー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "玩具",
+      "自慰",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "麻仓ゆあ"
+      "沙月惠奈",
+      "本田瞳",
+      "川上優",
+      "二宮和香",
+      "瀨名光",
+      "新村晶",
+      "安倍亜沙美",
+      "浜崎真绪",
+      "椎叶みくる"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-146"
   },
   {
-    "id": 556650,
-    "IDcode": "MXGS-1200",
-    "title": "勉强咬入丰富的饼性交 Hana Himesaki - 姬咲华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251010-1/c18920e1065e827e9f0f02f410d21f42.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1200"
-  },
-  {
-    "id": 556688,
-    "IDcode": "MXGS-1204",
-    "title": "立即鞍立即规模 SEX 木下 Himari - 木下日葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/9f441a1e6215ef05f6f1bae8d9c21160.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1204"
-  },
-  {
-    "id": 556683,
-    "IDcode": "MXGS-1205",
-    "title": "突破极限！风暴潮 Kimeseku FUCK 天然水木用壮阳药拔出 - 天然美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/baebd2b06f466633c4d989984d46d0ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1205"
-  },
-  {
-    "id": 556729,
-    "IDcode": "MXGS-1206",
-    "title": "时隔多年第1次重逢的女朋友长成了情色肉体，好淫荡……伊藤梅鲁 - 伊东める",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250927-1/9c3e51b76dfabbc542e2c66647858b3a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1206"
-  },
-  {
-    "id": 79993,
-    "IDcode": "MXGS-1208",
-    "title": "素人初撮りドキュメント・渚 青果売り場で働きながらはじめてのAV出演 広瀬渚",
+    "id": 72436,
+    "IDcode": "NACX-148",
+    "title": "【オイルマニア総集編】光り輝く肉感ボディ！ぬるぬるオイルセックス10人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "素人",
-      "首次亮相",
-      "中出",
-      "单体作品"
+      "精选，综合",
+      "巨乳",
+      "巨大屁股",
+      "乳液",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "姫咲華",
+      "沙月芽衣",
+      "松本菜奈実",
+      "鳳美優",
+      "春菜华",
+      "佐知子",
+      "一宫みかり"
     ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/63df6f5582cb26b99ed8d39fbaa28393.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-148"
   },
   {
-    "id": 80019,
-    "IDcode": "MXGS-1209",
-    "title": "親の再婚で突然できた義妹はエロい体で挑発してくるセックス大好きの巨乳娘だった 神楽りん",
+    "id": 71522,
+    "IDcode": "NACX-149",
+    "title": "パイパン熟女12人BEST VOL.06",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "乳交",
+      "精选，综合",
+      "巨大屁股",
+      "无毛",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "本田瞳",
+      "夏川步美",
+      "新村晶",
+      "安倍亜沙美",
+      "东希美",
+      "中野七绪",
+      "羽咲美亜",
+      "蓝川みれい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-149"
+  },
+  {
+    "id": 70613,
+    "IDcode": "NACX-150",
+    "title": "泌尿器科の美人女医8人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "荡妇",
+      "女医生",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "AIKA",
+      "七草千歲",
+      "春菜华",
+      "羽生ありさ",
+      "佐佐木明希",
+      "伊织凉子",
+      "谷原希美",
+      "管野静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-150"
+  },
+  {
+    "id": 69381,
+    "IDcode": "NACX-151",
+    "title": "巨乳輪熟女10人BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "恋物癖",
+      "胖女人",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "武藤彩香",
+      "谷梓",
+      "高光真子",
+      "牧村彩香",
+      "北川真由香",
+      "菅野真穂",
+      "响りん",
+      "叶月奈穂",
+      "青木りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
+  },
+  {
+    "id": 68236,
+    "IDcode": "NACX-152",
+    "title": "Icup以上のデカパイオンリー！大きく熟れた乳を持つ熟女14人 （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "巨大屁股",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "山瀬美紀",
+      "寺島志保",
+      "愛咲りんか",
+      "松坂美纪",
+      "安倍亜沙美",
+      "今藤雾子",
+      "时田こずえ",
+      "樱井夕树",
+      "白鸟寿美礼",
+      "秋吉多恵子",
+      "有沢実纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-152"
+  },
+  {
+    "id": 5981,
+    "IDcode": "NACX-153",
+    "title": "愛する夫の為に、私は彼の上司と寝ます。総集編花狩まい 広瀬なるみ 天馬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "精選綜合",
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "身體換業務",
+      "小隻馬",
+      "口爆",
+      "人妻",
+      "下屬女友・妻子",
+      "舔陰",
+      "淫亂",
       "中出",
+      "舔腳",
+      "貧乳",
+      "美少女電影",
+      "家庭主妇",
+      "絕頂高潮",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "美人妻",
+      "顏射",
+      "若妻",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "羞恥",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
       "口交",
       "巨乳",
-      "妹妹",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/d90b080030ee0ff483b2f57cbb6fb088.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1209"
-  },
-  {
-    "id": 79992,
-    "IDcode": "MXGS-1210",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 枢木あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "中出",
-      "玩具",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8c6b9854ece2aa5a6a88ea7af045ec59.jpg",
-    "actress": [
-      "枢木葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1210"
-  },
-  {
-    "id": 79989,
-    "IDcode": "MXGS-1211",
-    "title": "拘束絶頂 ～身動きが取れない状況で痙攣イキするえっちなオマ○コ 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "拘束",
-      "玩具",
-      "深喉",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/100b10a2918c586ec713a4ac24d88ea8.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1211"
-  },
-  {
-    "id": 79995,
-    "IDcode": "MXGS-1212",
-    "title": "ギリギリ食い込み濃厚中出し性交 小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "玩具",
-      "单体作品",
-      "自慰"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250927-1/a8902756f113797cf027e8bbbfba750b.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1212"
-  },
-  {
-    "id": 79988,
-    "IDcode": "MXGS-1213",
-    "title": "コスプレ企画と偽り、即ハメ即尺SEX 冨安れおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
+      "潮吹",
       "乳交",
-      "立即口交",
-      "拘束",
-      "角色扮演者",
-      "单体作品"
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "寢取",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233153945945_thumbnail.webp",
+    "actress": [
+      "天馬唯",
+      "花狩舞",
+      "廣瀨成美"
     ],
-    "publish_date": "2021-11-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/27b338c16c454f3dd235845a3251b652.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-153"
   },
   {
-    "id": 556647,
-    "IDcode": "MXGS-1214",
-    "title": "第1个以轻松的感觉达到对金钱的渴望的爸爸katsu。女大学生 - 松本一香",
+    "id": 66423,
+    "IDcode": "NACX-154",
+    "title": "ぶらんぶらんと揺れ動く垂れ乳熟女20人VOL.02翔田千里 寺島志保 折原ゆかり 藤下梨花 村上涼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "胖女人",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/cc97c92201337e68beb8ec179d0df055.jpg",
+    "actress": [
+      "吉根柚莉爱",
+      "七草千歲",
+      "翔田千里",
+      "谷梓",
+      "村上涼子",
+      "寺島志保",
+      "安倍亜沙美",
+      "上岛美都子",
+      "折原ゆかり",
+      "藤下梨花",
+      "大石忍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
+  },
+  {
+    "id": 5130,
+    "IDcode": "NACX-155",
+    "title": "上司老婆露出豐滿胸部誘惑我精選 ~ 小早川怜子 波多野結衣 寶田萌奈美 武藤彩香 愛寶鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "精選綜合",
+      "美腳",
+      "芸能人",
+      "高妹",
+      "蕩婦",
+      "野性",
+      "人妻",
+      "舔陰",
+      "女神",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "劇情",
+      "家庭主妇",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "貴婦",
+      "苗條",
+      "企畫",
+      "美人妻",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "故事集",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "上司女友・妻子",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "4小時以上作品",
+      "綠茶婊",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092127569569_thumbnail.webp",
+    "actress": [
+      "波多野结衣",
+      "宝田萌奈美",
+      "小早川怜子",
+      "愛寶鈴",
+      "武藤彩香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-155"
+  },
+  {
+    "id": 4226,
+    "IDcode": "NACX-156",
+    "title": "ロケットおっぱいの美女と本気セックス12人BESTVOL.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "精選綜合",
+      "美腳",
+      "芸能人",
+      "小隻馬",
+      "美臀",
+      "舔陰",
+      "奇聞趣事",
+      "女神",
+      "中出",
+      "極品美人",
+      "美少女",
+      "明星臉",
+      "後入",
+      "無毛",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "女優",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "故事集",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "清純",
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "女上位",
+      "4小時以上作品",
+      "OL",
+      "大奶头",
+      "寫真女郎",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720023424571571_27614_thumbnail.webp",
+    "actress": [
+      "美園和花",
+      "新村朱里",
+      "田中寧寧",
+      "藤森里穂",
+      "小花暖",
+      "沙月芽衣",
+      "水原みその",
+      "神坂朋子",
+      "朝日凜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-156"
+  },
+  {
+    "id": 3450,
+    "IDcode": "NACX-157",
+    "title": "前戯で高まった興奮を抑えきれずオチ〇ポにしゃぶりつく！フェラチオ20人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "精選綜合",
+      "美腳",
+      "二次元",
+      "高妹",
+      "小隻馬",
+      "口爆",
+      "深喉",
+      "人妻",
+      "貧乳",
+      "美少女電影",
+      "美少女",
+      "女優",
+      "企畫",
+      "苗條",
+      "顏射",
+      "阪道系",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "無做愛場面",
+      "美人",
+      "美乳",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "清純",
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "網路紅人",
+      "熟女",
+      "寫真女郎",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/202508200827344343_78720_thumbnail.webp",
+    "actress": [
+      "小花暖",
+      "東條夏",
+      "齋藤亞美里",
+      "宝田萌奈美",
+      "上坂芽衣",
+      "神坂朋子",
+      "青田悠華",
+      "月見伊織",
+      "安部未華子",
+      "安西天",
+      "朝日凜",
+      "野咲美桜",
+      "三舩美鈴",
+      "夜空亞美",
+      "堀沢茉由"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-157"
+  },
+  {
+    "id": 2541,
+    "IDcode": "NACX-158",
+    "title": "中出し＆顔射をキメる不倫人妻ハメ撮り25人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "精選綜合",
+      "蠻橫嬌羞",
+      "出軌",
+      "美腳",
+      "高妹",
+      "蕩婦",
+      "美臀",
+      "野性",
+      "癡女",
+      "人妻",
+      "舔陰",
+      "奇聞趣事",
+      "女神",
+      "中出",
+      "極品美人",
+      "美少女",
+      "辣妹/GAL系",
+      "偷竊",
+      "港區女子",
+      "企畫",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "角色扮演",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "約炮",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "綠茶婊",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "木下日葵",
+      "藤森里穂",
+      "黑川堇",
+      "水原みその",
+      "鈴木真夕",
+      "七草千歲",
+      "塚田詩織",
+      "夏希栗",
+      "紗紗原百合",
+      "八乃翼",
+      "川菜美铃",
+      "黒川晴美",
+      "如月夏希",
+      "若槻みづな",
+      "神ユキ",
+      "大橋里緒",
+      "東希美",
+      "飞鸟铃",
+      "遥彩音",
+      "川原かなえ",
+      "水穀葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-158"
+  },
+  {
+    "id": 557081,
+    "IDcode": "NACZ-001",
+    "title": "新入侵者新村明里 - 新村晶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/01ab62c111943352965ad8a2cd2cf74b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACZ-001"
+  },
+  {
+    "id": 595038,
+    "IDcode": "NAD-001",
+    "title": "今天就来一整晚一直玩弄你的奶头直到天明",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191026-1/b85d246a044cbb1fab61b48917ca3d6f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-001"
+  },
+  {
+    "id": 93556,
+    "IDcode": "NAD-003",
+    "title": "このギャル、俺の乳首係り 氷堂りりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "汽车性爱",
+      "颜射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/b08cf15759ec834547517cccd3dc0513.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-003"
+  },
+  {
+    "id": 215247,
+    "IDcode": "NAD-005",
+    "title": "这个女孩是我的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-005"
+  },
+  {
+    "id": 216131,
+    "IDcode": "NAD-007",
+    "title": "我的乳头男人-皇ゆず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-007"
+  },
+  {
+    "id": 548105,
+    "IDcode": "NAD-009",
+    "title": "このギャル、俺の乳首系り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230922/UHlBacgl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-009"
+  },
+  {
+    "id": 16064,
+    "IDcode": "NAD-010",
+    "title": "喜歡舔男人乳頭的和久井美兎",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "自拍性愛",
+      "辣妹/GAL系",
+      "護士",
+      "車震"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240226/c469d4b2-13a1-4fbb-9f03-4c25e7c113bf.jpg",
+    "actress": [
+      "和久井美兎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAD-010"
+  },
+  {
+    "id": 409780,
+    "IDcode": "NADE-266",
+    "title": "僕のお母さんは高校教師 川原小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2ba155f13d063bcde5b03/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-266"
+  },
+  {
+    "id": 409493,
+    "IDcode": "NADE-614",
+    "title": "大嫂 優",
     "year": "",
     "country": "",
     "genre": "",
@@ -598,250 +1250,812 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251009-1/b2e8a7a7c819de1b5b15119dc5d196e6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e501a1e4a73d4f15c2924a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-614"
   },
   {
-    "id": 556635,
-    "IDcode": "MXGS-1217",
-    "title": "克制高潮-Hana Himesaki - 姬咲华",
+    "id": 516467,
+    "IDcode": "NADE-772",
+    "title": "弟弟的媳婦 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251007-1/23879f52dece06d0bcbcf7c88892dbf3.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901171dd6fbef4e90155b1b/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-772"
   },
   {
-    "id": 556680,
-    "IDcode": "MXGS-1219",
-    "title": "会员帮手-如果您通过预订任命已经等待3个月的管家...... Hono Wakamiya - 若宫穗乃",
+    "id": 218748,
+    "IDcode": "NADE-926",
+    "title": "素顔の女優-管野しずか 雨宮真貴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/0917d276831a03242cbad99b549e9f71.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/379dcf9a74c254f867d5060f3454c064.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1219"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-926"
   },
   {
-    "id": 539845,
-    "IDcode": "MXGS-1223",
-    "title": "コスプレ企画と伪り、即ハメ即尺SEX 森日向子",
+    "id": 516327,
+    "IDcode": "NADE-959",
+    "title": "兒子的老婆 音羽蕾恩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240229/h_068mxgs1223pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912723fc2496a27fd075010/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1223"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-959"
   },
   {
-    "id": 565755,
-    "IDcode": "MXGS-1228",
-    "title": "Kカップ美巨乳美女が动く猥亵美容室 小梅えな",
+    "id": 524563,
+    "IDcode": "NAEN-112",
+    "title": "[中出○交换]这是奖励！ ??用大叔活塞晃动H罩杯，仿佛能撕下运动服的巨乳少女被扑灭！姬咲花 - 姬咲华",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1e640c9e5f3779bba0274472fdf3a4b6.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1228"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAEN-112"
   },
   {
-    "id": 80865,
-    "IDcode": "MXGS-1229",
-    "title": "想要輕鬆賺錢初次找乾爹。女大生飛鳥 case.3 百瀨飛鳥",
+    "id": 590210,
+    "IDcode": "NAFI-001",
+    "title": "为了你… 湿透堕落献身人妻 美咲佳奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "女大学生",
-      "玩具",
-      "单体作品"
+      "人妻",
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-03-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/cffcca0549eab80ec036eecb138b7a5b.jpg",
-    "actress": [
-      "小栗操"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1229"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20220504-1/575acfbdd63116eff19cb24722963a29.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAFI-001"
   },
   {
-    "id": 80875,
-    "IDcode": "MXGS-1230",
-    "title": "誰都無法幫忙 長身美人OL被盯上冷酷無比強暴 木下日葵",
+    "id": 212985,
+    "IDcode": "NAFI-013",
+    "title": "美人妻-碧しの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "高",
-      "玩具",
-      "单体作品"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-03-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ed3d2fb78072876f514808e52b0e21ad.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1230"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAFI-013"
   },
   {
-    "id": 80874,
-    "IDcode": "MXGS-1231",
-    "title": "假裝是專題企劃、馬上抽插馬上吹做愛 兒玉玲奈",
+    "id": 210832,
+    "IDcode": "NAFI-014",
+    "title": "奴隶倶楽部-神宮寺ナオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAFI-014"
+  },
+  {
+    "id": 208035,
+    "IDcode": "NAFZ-001",
+    "title": "为了老公坚贞的妻子-君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAFZ-001"
+  },
+  {
+    "id": 82813,
+    "IDcode": "NAGE-001",
+    "title": "「若かりし頃の妻によく似た美女との純愛」",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演者",
-      "玩具",
-      "立即口交",
-      "单体作品"
+      "已婚妇女",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-03-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/212abb055c68536f0b68a710509ece74.jpg",
+    "company": "",
+    "publish_date": "2012-10-18",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "儿玉玲奈"
+      "青木美空"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1231"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGE-001"
   },
   {
-    "id": 80864,
-    "IDcode": "MXGS-1232",
-    "title": "漂亮可愛美女 密著愛愛性愛 藤森里穗",
+    "id": 567592,
+    "IDcode": "NAGE-004",
+    "title": "“孙の习い事の先生知性あふれる高岭の花を虏にさせる爱抚の作法”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGE-004"
+  },
+  {
+    "id": 448540,
+    "IDcode": "NAGST-004",
+    "title": "最棒的年轻妻子的身体 姬咲华 精选 姬咲华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250105/tIOUBpqs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGST-004"
+  },
+  {
+    "id": 2236,
+    "IDcode": "NAGST-014",
+    "title": "見事なボディがたまらない！弥生みづき ベスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "凌辱",
+      "精選綜合",
+      "老頭子",
+      "美腳",
+      "私房攝影",
+      "脅迫做愛",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "NTR",
+      "感官作品",
+      "人妻",
+      "職場",
+      "大乳暈",
+      "兩男一女",
+      "淫亂",
+      "下屬女友・妻子",
+      "中出",
+      "舔陰",
+      "舔腳",
+      "極品美人",
+      "猥褻穿著",
+      "自宅",
+      "接吻",
+      "牛仔褲",
+      "家庭主妇",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "強姦",
+      "色白",
+      "高顏值",
+      "企畫",
+      "女優",
+      "美人妻",
+      "若妻",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "故事集",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "4K",
+      "清純",
+      "女上位",
+      "內衣",
+      "4小時以上作品",
+      "後入",
+      "性感",
+      "寢取",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "彌生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGST-014"
+  },
+  {
+    "id": 11175,
+    "IDcode": "NAIAD-001",
+    "title": "这位美少女是谁-二阶堂MERO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "蘿莉控",
+      "二次元",
+      "小隻馬",
+      "美臀",
+      "奇異的",
+      "奇聞趣事",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "AI女優",
+      "明星臉",
+      "學校",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "特效",
+      "騎乗位",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "校花",
+      "清純",
+      "女上位",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017100858972972.jpg",
+    "actress": [
+      "二階堂めろ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-001"
+  },
+  {
+    "id": 95060,
+    "IDcode": "NAIAD-002",
+    "title": "新人 剛毛アイドルAI 国体まで行くほどバドミントン一筋の圧倒的カワイイ18歳。初めてのえっちでイキまくりAVデビュー 本望きらり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "首次亮相",
+      "美少女电影",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "本望きらり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-002"
+  },
+  {
+    "id": 9750,
+    "IDcode": "NAIAD-003",
+    "title": "黒ギャルAI最強☆まいちょすしか勝たん！えろオイル全身ヌルヌルまみれ！SEXって最高AVデビュー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "野性",
+      "癡女",
+      "膚黑",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "抹油",
+      "美少女",
+      "AI女優",
+      "按摩棒",
+      "明星臉",
+      "辣妹/GAL系",
+      "高顏值",
+      "企畫",
+      "特效",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "肌肉",
+      "乳交",
+      "女上位",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241220/202412200518416161.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-003"
+  },
+  {
+    "id": 8816,
+    "IDcode": "NAIAD-004",
+    "title": "癒しの贅沢淫語と神乳フワとろGカップでねっとり挟んでくれる極パイズリメイドさぽーと 神崎リゼ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "主觀視角",
+      "美腳",
+      "蘿莉控",
+      "女僕",
+      "小隻馬",
+      "淫語",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "美少女",
+      "AI女優",
+      "明星臉",
+      "白絲",
+      "色白",
+      "高顏值",
+      "苗條",
+      "特效",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "清純",
+      "女上位",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250125/20250125072747232232.jpg",
+    "actress": [
+      "神崎リゼ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-004"
+  },
+  {
+    "id": 8116,
+    "IDcode": "NAIAD-005",
+    "title": "这世上最色情的人妻-栗林藍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "清楚系",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "出道作品",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "美少女電影",
+      "美少女",
+      "AI女優",
+      "明星臉",
+      "絕頂高潮",
+      "女優",
+      "高顏值",
+      "企畫",
+      "黑絲",
+      "美人妻",
+      "特效",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "足交",
+      "後入",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220191739896896.jpg",
+    "actress": [
+      "栗林藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-005"
+  },
+  {
+    "id": 70528,
+    "IDcode": "NAIAD-006",
+    "title": "新人 早乙女もも 現世に舞い降りた無垢な天然男の娘 AV Debut",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "中出",
-      "第一人称摄影",
-      "口交"
+      "首次亮相",
+      "变性者",
+      "女装人妖",
+      "制服",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-03-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/2ea6b396694367a608a75f52e082e864.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/24/68307b9f8c4b3b91d760af89/cover.jpg",
     "actress": [
-      "藤森里穂"
+      "タイ",
+      "早乙女もも"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1232"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-006"
   },
   {
-    "id": 80866,
-    "IDcode": "MXGS-1233",
-    "title": "親人再婚突然來的可愛繼妹誘惑讓我無法忍耐 花音麗",
+    "id": 5872,
+    "IDcode": "NAIAD-007",
+    "title": "AI実写化 義父と妹のヤバすぎる写真",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
+      "少女",
+      "主觀視角",
+      "美腳",
+      "蘿莉控",
+      "小隻馬",
+      "美臀",
+      "奇異的",
+      "舔陰",
+      "淫亂",
       "中出",
+      "極品美人",
+      "美少女電影",
+      "自宅",
+      "繼父",
+      "美少女",
+      "AI女優",
+      "明星臉",
+      "後入",
+      "無毛",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "特效",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
       "口交",
-      "手淫",
-      "妹妹",
-      "单体作品"
+      "蘿莉",
+      "清純",
+      "女上位",
+      "大奶头",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-03-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/300b42c895b5ec6015be4046ec80e7f2.jpg",
-    "actress": [
-      "花音うらら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1233"
+    "company": "DASDAS",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68902ff3c92318f97d73bfd7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-007"
   },
   {
-    "id": 565754,
-    "IDcode": "MXGS-1234",
-    "title": "谁も助けてくれない 巨乳美人OLが狙われた冷酷无比レ●プ 姫咲はな",
+    "id": 5177,
+    "IDcode": "NAIAD-008",
+    "title": "メルダの伝承 ペニス ヴァギナ ワイルド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "神話故事",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
+      "二次元",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "亂交 • 群P",
+      "美臀",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "AI女優",
+      "女鬼・女妖",
+      "明星臉",
+      "後入",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "特效",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "輪姦",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "仙女",
+      "口交",
+      "巨乳",
+      "清純",
+      "自慰",
+      "女上位",
+      "大奶头",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092253164164_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-008"
+  },
+  {
+    "id": 4333,
+    "IDcode": "NAIAD-010",
+    "title": "ストリートヴァギナー STREET VAGINA 旬梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "二次元",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "亂交 • 群P",
+      "美臀",
+      "深喉",
+      "癡女",
+      "搞笑・模仿",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔陰",
+      "中囯服裝",
+      "舔腳",
+      "極品美人",
+      "美少女電影",
+      "原作改編",
+      "接吻",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "角色扮演",
+      "黑絲",
+      "傲嬌",
+      "游戲COSPLAY",
+      "特效",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "乳交",
+      "清純",
+      "女格鬥家",
+      "女上位",
+      "足交",
+      "綠茶婊",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033121519519_36099_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-010"
+  },
+  {
+    "id": 3341,
+    "IDcode": "NAIAD-011",
+    "title": "ERODEN MANG CROWN OF THE ERODE",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "神話故事",
+      "美腳",
+      "二次元",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "亂交 • 群P",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "猥褻穿著",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "AI女優",
+      "女鬼・女妖",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "辣妹/GAL系",
+      "高顏值",
+      "苗條",
+      "女王",
+      "企畫",
+      "黑絲",
+      "傲嬌",
+      "特效",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "肌肉",
+      "慾求不滿",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "大奶头",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4010ad6fbef4e90e441af/cover.jpg",
+    "actress": [
+      "じゅうもんじ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD-011"
+  },
+  {
+    "id": 504901,
+    "IDcode": "NAIAD007A",
+    "title": "I実写化義父と妹のヤバすぎる写真",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/6da2d2939886c4b608ce7f547b21bd3d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAIAD007A"
+  },
+  {
+    "id": 591367,
+    "IDcode": "NAKA-008",
+    "title": "街で噂の言いなり巨乳のファミレス店员 清城ゆき",
     "year": "",
     "country": "",
     "genre": "",
@@ -849,127 +2063,305 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/GT1LwghE.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230616-1/1071a7f83add041fdd33754d1a4ddb0c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1234"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-008"
   },
   {
-    "id": 565753,
-    "IDcode": "MXGS-1235",
-    "title": "拘束絶顶 ～身动きが取れない状况で痉挛イキするえっちなオマ○コ 川北メイサ",
+    "id": 216980,
+    "IDcode": "NAKA-009",
+    "title": "naka-009 猥褻RQ-春原未来",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/bSH9qVzB.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1235"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-009"
   },
   {
-    "id": 565752,
-    "IDcode": "MXGS-1236",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生すみれ case．4",
+    "id": 539282,
+    "IDcode": "NAKA-013",
+    "title": "猥亵RQ ～美しすぎるオ・ン・ナの熟した股",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/fpHPtoAz.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230616-1/f7b255cd78389fed74e7efdb707cf4bb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1236"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-013"
   },
   {
-    "id": 565751,
-    "IDcode": "MXGS-1237",
-    "title": "俺の部屋で饮み直さない？酔った亲友の彼女を寝取ってハメまくった 松本いちか",
+    "id": 591366,
+    "IDcode": "NAKA-015",
+    "title": "猥亵RQ～刚毛マン毛にくい込むハイレグ～ メイメイ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/NLIFiwjs.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230723-1/15c4e7a784c0383fef2ee92ac380e713.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1237"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-015"
   },
   {
-    "id": 565750,
-    "IDcode": "MXGS-1238",
-    "title": "酔った亲友の彼女を寝取ってハメまくった 木下ひまり",
+    "id": 196290,
+    "IDcode": "NAKA-017",
+    "title": "淫荡车模痴女水谷心音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/25L8KvxQ.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1238"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-017"
   },
   {
-    "id": 565749,
-    "IDcode": "MXGS-1240",
-    "title": "谁も助けてくれない イマドキJ●が狙われた冷酷无比レ●プ 松本いちか",
+    "id": 208943,
+    "IDcode": "NAKA-018",
+    "title": "高身長美女-黒川すみれ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/KrF0N8aZ.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-018"
   },
   {
-    "id": 565748,
-    "IDcode": "MXGS-1242",
-    "title": "新人 飞鸟美音 21歳 初体験したばかりの初心なカラダ",
+    "id": 215291,
+    "IDcode": "NAKA-020",
+    "title": "猥褻RQ-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-020"
+  },
+  {
+    "id": 529758,
+    "IDcode": "NAKA-DASHI",
+    "title": "アラサーヒトヅマ ドット ナカダシ Mrs 35age",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230412-1/5e5740edd4b7dfc9d79512366c8bf815.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKA-DASHI"
+  },
+  {
+    "id": 67258,
+    "IDcode": "NAKADASHI",
+    "title": "十二位四十多岁的美丽熟女  VOL.04-北川礼子,水上由纪恵,天野るみ等演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKADASHI"
+  },
+  {
+    "id": 559406,
+    "IDcode": "NAKAMATE-CHAN",
+    "title": "022718_651 Tokimeki ~ 我的女朋友是 Sukehei ~",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKAMATE-CHAN"
+  },
+  {
+    "id": 595051,
+    "IDcode": "NAKB-003",
+    "title": "猥亵RQ BEST COLLECTION Vol",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKB-003"
+  },
+  {
+    "id": 524887,
+    "IDcode": "NAKED",
+    "title": "Nozomi Momoki Asian blow",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKED"
+  },
+  {
+    "id": 571562,
+    "IDcode": "NAKED-24518795",
+    "title": "hot man in the audience gets",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKED-24518795"
+  },
+  {
+    "id": 525130,
+    "IDcode": "NAKEDANGEL",
+    "title": "ナツキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAKEDANGEL"
+  },
+  {
+    "id": 547667,
+    "IDcode": "NAMH-001",
+    "title": "はじめての真正中出しNTR 子宫に本物ザーメン12発 まい（妻）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231017/HUqYhqNJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-001"
+  },
+  {
+    "id": 562687,
+    "IDcode": "NAMH-002",
+    "title": "保育士さんを初真正中出し撮影 子宫に本物ザーメン9発 みなみ（彼氏持ち）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/oBIBBAhr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-002"
+  },
+  {
+    "id": 546690,
+    "IDcode": "NAMH-004",
+    "title": "淫乱妻ちゃん真正中出し撮影 子宫に本物ザーメン11発 まち（结婚2年目）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240124/8ZrN80wT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-004"
+  },
+  {
+    "id": 546502,
+    "IDcode": "NAMH-005",
+    "title": "はじめての真正中出し13発 最低な元カレと生奸NTR すず（大学生）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240207/pna6pocy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-005"
+  },
+  {
+    "id": 546182,
+    "IDcode": "NAMH-006",
+    "title": "ドキュメント30ml 24时间本物ザーメン膣奥発射チャレンジ 百瀬あすか（AV女优） 日森一（",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240307/icvYnwPq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-006"
+  },
+  {
+    "id": 561164,
+    "IDcode": "NAMH-007",
+    "title": "ボクの彼女を寝取って下さい 初の真正中出し解禁10発 めい（大学生）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/HjxeXE6y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-007"
+  },
+  {
+    "id": 93350,
+    "IDcode": "NAMH-008",
+    "title": "真正中出しAVデビュー 折原由真（21歳）",
     "year": "",
     "country": "",
     "genre": "",
@@ -977,1432 +2369,218 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/07810a284cb4ede10d734987f6afa891.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/a3b6251e377345b1b23cca30933ea5d5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1242"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-008"
   },
   {
-    "id": 565747,
-    "IDcode": "MXGS-1243",
-    "title": "终电ないならうちきなよ？酔った亲友の彼女を寝取ってハメまくった 姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/029e05002b31b018ac9a7f9353ae72bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1243"
-  },
-  {
-    "id": 565746,
-    "IDcode": "MXGS-1244",
-    "title": "川北メイサ×ボンテージQUEEN",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6cb9fcf08e9974a6ee2e7285f7581fbd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1244"
-  },
-  {
-    "id": 565744,
-    "IDcode": "MXGS-1245",
-    "title": "谁も助けてくれない ゲス野郎に狙われた冷酷无比中出しレ●プ 児玉れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/99fddea418e53581fadfee601cc19ac0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1245"
-  },
-  {
-    "id": 565743,
-    "IDcode": "MXGS-1246",
-    "title": "Jカップ仏乳美女がハマる性感ぬるぬる絶顶オイルマッサージ 水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aa773d551f145b36ae88cc1995e7d575.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1246"
-  },
-  {
-    "id": 565742,
-    "IDcode": "MXGS-1247",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生みいろ case．5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/61949d813443a1f180f175351d0db164.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1247"
-  },
-  {
-    "id": 565741,
-    "IDcode": "MXGS-1248",
-    "title": "谁も助けてくれない ゲス野郎に狙われた冷酷无比中出しレ●プ 小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7eaba8a3fa430f601d92145cefb291d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1248"
-  },
-  {
-    "id": 565740,
-    "IDcode": "MXGS-1249",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 青田悠华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d29d3be6c15a41d6f0939ae21b5bbaa2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1249"
-  },
-  {
-    "id": 565739,
-    "IDcode": "MXGS-1250",
-    "title": "ドスケベ潮吹きギャルが动く猥亵美容室 寺田ここの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/88701e9ea6902f88c8659dfb1f55b588.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1250"
-  },
-  {
-    "id": 565738,
-    "IDcode": "MXGS-1251",
-    "title": "Gカップ巨乳美女がハマる性感ぬるぬるオイルマッサージ 白石椿",
+    "id": 14198,
+    "IDcode": "NAMH-009",
+    "title": "真正的中出解禁 子宮本物射入8発 清巳れの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "真實拍攝",
+      "紀念作",
+      "白絲",
+      "主觀視角",
+      "淫亂",
+      "女優",
+      "企畫",
+      "黑絲",
+      "網襪",
+      "蕩婦",
+      "亂交 • 群P",
+      "多P",
+      "3P・4P",
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5a5229f88b2372f232014234fe2d20ba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1251"
-  },
-  {
-    "id": 565737,
-    "IDcode": "MXGS-1252",
-    "title": "ウソの企画で呼び出した巨乳美女 姫咲はなに即ハメ即尺SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/22845bc8b154ce3e66541cfe8685e6f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1252"
-  },
-  {
-    "id": 565736,
-    "IDcode": "MXGS-1253",
-    "title": "淫乱美女が动く猥亵美容室 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/HvrTbC1K.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1253"
-  },
-  {
-    "id": 565735,
-    "IDcode": "MXGS-1254",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生あい case．6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/w1MWCATt.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1254"
-  },
-  {
-    "id": 565734,
-    "IDcode": "MXGS-1255",
-    "title": "拘束絶顶 ～身动きが取れない状况で痉挛イキするえっちなオマ○コ 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/ko7czVtx.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1255"
-  },
-  {
-    "id": 565733,
-    "IDcode": "MXGS-1256",
-    "title": "初めてお酒を饮んで酔った亲友の彼女を寝取ってハメまくった 堀沢茉由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/QC7ZS2wn.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1256"
-  },
-  {
-    "id": 347435,
-    "IDcode": "MXGS-1257",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生まゆ case.7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250903/fBf4Lh6y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1257"
-  },
-  {
-    "id": 565732,
-    "IDcode": "MXGS-1258",
-    "title": "BAKU乳！DEKA尻！圧迫浓厚セックス 宝生めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/278feabe439d30b12dd8827aa880709b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1258"
-  },
-  {
-    "id": 565731,
-    "IDcode": "MXGS-1259",
-    "title": "ウソの企画で呼び出した美乳美女に即ハメ即尺SEX 奥井枫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1a96065244bf8f896cc754486bf9258d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1259"
-  },
-  {
-    "id": 565730,
-    "IDcode": "MXGS-1260",
-    "title": "拘束絶顶 ～身动きが取れない状况で痉挛イキするえっちなオマ○コ 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/zQ4ifLcH.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1260"
-  },
-  {
-    "id": 565729,
-    "IDcode": "MXGS-1261",
-    "title": "谁も助けてくれない ゲス野郎に狙われた冷酷无比中出しレ●プ 桃瀬くるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/clzO2CeQ.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1261"
-  },
-  {
-    "id": 565728,
-    "IDcode": "MXGS-1262",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e8f2c015c082292fdb06ecb55046fe3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1262"
-  },
-  {
-    "id": 565726,
-    "IDcode": "MXGS-1263",
-    "title": "拘束絶顶 ～身动きが取れない状况で痉挛イキするえっちなオマ○コ 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a2efb96568ec28778c5b9df85deb1f9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1263"
-  },
-  {
-    "id": 565724,
-    "IDcode": "MXGS-1264",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生かすみ case．8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e9312b62c6b01ad786ceeec5223adffb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1264"
-  },
-  {
-    "id": 565723,
-    "IDcode": "MXGS-1265",
-    "title": "BAKU乳！DEKA尻！圧迫浓厚セックス 菊池まや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cdb486ad7dd7902952882c2e4998ed41.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1265"
-  },
-  {
-    "id": 565721,
-    "IDcode": "MXGS-1266",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。女子大生ののか case．9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dae6bca7e82aee26fef2304d1a4b670a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1266"
-  },
-  {
-    "id": 565720,
-    "IDcode": "MXGS-1267",
-    "title": "超优良、リピート确実！エッチで可爱い松本いちかちゃんがおもてなすSpecial风俗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f86f6999f2780ce8be355859b9dcfb72.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1267"
-  },
-  {
-    "id": 565719,
-    "IDcode": "MXGS-1268",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 月见伊织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/840b213a22d629f21163918144ac48ba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1268"
-  },
-  {
-    "id": 565718,
-    "IDcode": "MXGS-1269",
-    "title": "初めてお酒を饮んで酔った亲友の彼女を寝取ってハメまくった 仓本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9dd20c5e6a557417d81c16afad12102c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1269"
-  },
-  {
-    "id": 564851,
-    "IDcode": "MXGS-1270",
-    "title": "【FANZA限定】イッた直后の感度100％のおま●こを更にメッタ突き无限ループピストン 若宫穂乃 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221225/V8fPmcfO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1270"
-  },
-  {
-    "id": 100431,
-    "IDcode": "MXGS-1271",
-    "title": "ナンパした娘がくそ生意気なメスガキでエロマンガのような逆レ●プ搾精されてしまった 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "手淫",
-      "中出",
-      "荡妇",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-12-16",
-    "cover_url": "https://tuaskbgnekr.com/20221227/KMJvt6PL/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/32727106c08cacd7f4dc3b4ffe9988ed.jpg",
     "actress": [
-      "松本一香"
+      "清巳麗乃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-009"
   },
   {
-    "id": 100436,
-    "IDcode": "MXGS-1272",
-    "title": "BAKU乳！DEKA尻！圧迫濃厚セックス 乙アリス",
+    "id": 93337,
+    "IDcode": "NAMH-010",
+    "title": "感度変態の貪欲マゾ娘ちゃん 本物真正中出し解禁10発 日向ひかげ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "巨大屁股",
-      "女生",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-12-16",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1272"
-  },
-  {
-    "id": 100463,
-    "IDcode": "MXGS-1273",
-    "title": "誰も助けてくれない ゲス野郎に狙われた冷酷無比中出しレ●プ 岬さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "拘束",
       "中出",
-      "魔鬼系",
-      "单体作品"
+      "第一人称摄影",
+      "美少女电影",
+      "苗条",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2022-12-16",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/b7dc5ea22a35464f66765a73d423db1c.jpg",
     "actress": [
-      "岬櫻"
+      "日向ひかげ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1273"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-010"
   },
   {
-    "id": 530188,
-    "IDcode": "MXGS-1275",
-    "title": "超优良、リピート确実！Iカップ美巨乳で可爱い姫咲はなちゃんがおもてなすSpecial风俗♪",
+    "id": 12720,
+    "IDcode": "NAMH-011",
+    "title": "超酷金發女郎的13發大量精子的中出內射 ~ 鳳可怜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241125-1/01392104459aa0453e16538e8ffcab16.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1275"
-  },
-  {
-    "id": 530186,
-    "IDcode": "MXGS-1276",
-    "title": "何も知らない超人気AV女优に即ハメ即尺SEX 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241125-1/c78d1cf15b436412abdce1a56c350ecd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1276"
-  },
-  {
-    "id": 535145,
-    "IDcode": "MXGS-1282",
-    "title": "Gカップ巨乳美女がハマる性感ぬるぬるオイルマッサージ 伊织羽音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1282"
-  },
-  {
-    "id": 535144,
-    "IDcode": "MXGS-1285",
-    "title": "超优良、リピート确実！Hカップ爆乳であなたをおもてなす Special风俗◇ 小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230531/b9eceed53c9b9c8cb32464b76b07c04b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1285"
-  },
-  {
-    "id": 539511,
-    "IDcode": "MXGS-1290",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 结城りの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250903/C3LOyOfi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1290"
-  },
-  {
-    "id": 531296,
-    "IDcode": "MXGS-1291",
-    "title": "お金欲しさに軽い気持ちで临んだパパ活。巨乳女子大生あんな case.12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250904/RmckVtTE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1291"
-  },
-  {
-    "id": 563534,
-    "IDcode": "MXGS-1292",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/kHFFSEBv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1292"
-  },
-  {
-    "id": 563531,
-    "IDcode": "MXGS-1293",
-    "title": "【FANZA限定】ナンパした娘がくそ生意気なメスガキでエロマンガのような逆レ○プ榨精されてし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/PyrPcou6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1293"
-  },
-  {
-    "id": 563533,
-    "IDcode": "MXGS-1294",
-    "title": "初めてお酒を饮んで酔った亲友の彼女を寝取って中出ししまくった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/tjALwWlm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1294"
-  },
-  {
-    "id": 563532,
-    "IDcode": "MXGS-1295",
-    "title": "唾液ダラダラのとろけるベロキスと寸止め生杀し射精コントロール",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/n35UcPfn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1295"
-  },
-  {
-    "id": 470293,
-    "IDcode": "MXGS-1296",
-    "title": "緊身衣皇后 若宮穗乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68890ed898bc99dfddbda66b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1296"
-  },
-  {
-    "id": 563529,
-    "IDcode": "MXGS-1297",
-    "title": "超优良、リピート确実！高身长美脚美女がおもてなす Special风俗◆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/qh79a5sb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1297"
-  },
-  {
-    "id": 563528,
-    "IDcode": "MXGS-1298",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/obWlKKjK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1298"
-  },
-  {
-    "id": 18982,
-    "IDcode": "MXGS-1299",
-    "title": "我可愛的女友是地雷少女◆松本一香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "打手槍",
-      "多P",
-      "中出",
-      "口交",
-      "少女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-08-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20230816/20230816091352776776.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1299"
-  },
-  {
-    "id": 563368,
-    "IDcode": "MXGS-1300",
-    "title": "ナンパした娘がタトゥーだらけのクソ生意気なメスガキでエロマンガのように逆レ○プ榨精されてしまった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/9PhdAAWs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1300"
-  },
-  {
-    "id": 563367,
-    "IDcode": "MXGS-1301",
-    "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/VosMuzV5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1301"
-  },
-  {
-    "id": 18680,
-    "IDcode": "MXGS-1302",
-    "title": "把水潑在松本一香身上 和濕濕的松本一香做愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "女友・妻子",
-      "貧乳",
-      "純粹的慾望",
-      "性感",
-      "抹油",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-09-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20230917/545f928b-f659-4ec5-aec8-10957eb1734f.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1302"
-  },
-  {
-    "id": 18678,
-    "IDcode": "MXGS-1303",
-    "title": "拘束絶頂 ～身体无法动弹的情况下的痉挛绝对高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "凌辱",
-      "多P",
-      "緊縛",
-      "羞恥",
-      "拘束・拷問",
-      "監禁",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-09-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20230917/20230917020016209209.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1303"
-  },
-  {
-    "id": 18302,
-    "IDcode": "MXGS-1304",
-    "title": "【FANZA限定】G 罩杯大胸美女沉迷於感性、黏滑的高潮精油按摩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "羞恥",
-      "乳交",
-      "按摩・物理治療・美容",
-      "中出",
-      "按摩棒",
-      "口交",
-      "巨乳",
-      "性感",
+      "美腳",
+      "兔女郎妝扮",
+      "蕩婦",
       "亂交 • 群P",
-      "劇情",
-      "抹油"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-10-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016084637791791.jpg",
-    "actress": [
-      "流川莉央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1304"
-  },
-  {
-    "id": 18303,
-    "IDcode": "MXGS-1305",
-    "title": "【FANZA限定】寢取中出我最好朋友的醉酒女友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "朋友女友・妻子",
-      "出軌",
-      "中出",
-      "酒醉"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-10-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016084715482482.jpg",
-    "actress": [
-      "尾崎惠梨香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1305"
-  },
-  {
-    "id": 18300,
-    "IDcode": "MXGS-1306",
-    "title": "突破極限！ 姫咲華被催情藥達到高潮，精液過多以致失去知覺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "兩男一女",
-      "3P・4P",
-      "打手槍",
-      "中出",
-      "按摩棒",
-      "口交",
-      "性感",
-      "跳蛋",
-      "絕頂高潮",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-10-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016085123567567.jpg",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1306"
-  },
-  {
-    "id": 18301,
-    "IDcode": "MXGS-1307",
-    "title": "高潮後100%敏感度的小穴繼續被無限循環抽插",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "多P",
-      "羞恥",
-      "拘束・拷問",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "跳蛋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-10-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016085400717717.jpg",
-    "actress": [
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1307"
-  },
-  {
-    "id": 17793,
-    "IDcode": "MXGS-1308",
-    "title": "像色情漫畫裡的劇情一樣，我把馬路上撿回來的蘿莉狠狠的幹了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "舔陰",
-      "小隻馬",
-      "獵豔",
       "淫亂",
-      "蘿莉",
       "中出",
-      "亂交 • 群P",
-      "大小姐",
-      "劇情",
-      "口交",
-      "奇異的"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-11-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231117/ef755a4d-29c9-4ea0-a989-c450187b2869.jpg",
-    "actress": [
-      "円井萌華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1308"
-  },
-  {
-    "id": 17794,
-    "IDcode": "MXGS-1309",
-    "title": "黏滑的高潮油壓按摩與柔軟的 G 罩杯豐滿美女 綾瀬こころ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "比基尼",
-      "舔陰",
-      "按摩・美容店",
-      "紀錄片",
-      "按摩・物理治療・美容",
-      "中出",
-      "口交",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "辣妹/GAL系",
       "企畫",
-      "性感",
+      "飯店",
+      "素人作品",
+      "金髮",
+      "騎乗位",
+      "口交",
       "巨乳",
-      "抹油",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-11-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231117/026292f5-3a2c-4cc0-a71d-946aaa5f6956.jpg",
-    "actress": [
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1309"
-  },
-  {
-    "id": 17795,
-    "IDcode": "MXGS-1310",
-    "title": "同學會上將喝醉的人妻同學寢取中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "同學聚會",
-      "吞精",
-      "羞恥",
-      "偷竊",
-      "出軌",
-      "中出",
-      "按摩棒",
-      "口交",
-      "性感",
-      "劇情",
-      "酒醉",
-      "學姐・學妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-11-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231117/862c9d37-fe97-416d-a463-ef8a4c706287.jpg",
-    "actress": [
-      "岬櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1310"
-  },
-  {
-    "id": 17796,
-    "IDcode": "MXGS-1311",
-    "title": "谁来救救我!倉本菫被送货员无情中出强奸!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "凌辱",
-      "辦公室",
-      "手指插入",
-      "OL",
-      "強姦",
-      "中出",
-      "口交",
-      "性感",
-      "女同事",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-11-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116092221451451.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1311"
-  },
-  {
-    "id": 17223,
-    "IDcode": "MXGS-1312",
-    "title": "[FANZA獨家] 我撿到一個小女孩綾瀨心，她直接坐上了我的鸡巴，就像色情漫畫中的一样",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
+      "潮吹",
+      "4K",
       "情趣內衣",
-      "獵豔",
-      "乳交",
-      "原作改編",
-      "美乳",
-      "中出",
-      "撿尸",
-      "口交",
+      "女上位",
+      "多P",
       "後入",
-      "巨乳",
-      "美臀"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
-    "publish_date": "2023-12-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20231216/acc0e830-3c3e-4c13-bb60-32deff17193e.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/42c8da87918ce8c8e5e4df158b5ce322.jpg",
     "actress": [
-      "绫濑心"
+      "鳳可怜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1312"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-011"
   },
   {
-    "id": 562603,
-    "IDcode": "MXGS-1313",
-    "title": "【FANZA限定】むっちりIカップ爆乳美女がハマる性感ぬるぬる絶顶オイルマッサージ 爱瀬ゆう",
+    "id": 93407,
+    "IDcode": "NAMH-012",
+    "title": "膣キュン巨乳美少女に12発 はじめての真正中出し撮影 乙羽あむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "纪录片",
+      "中出",
+      "第一人称摄影",
+      "4K",
+      "素人作品",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/04ee9bf503ffd655f05c89748c7b53ed.jpg",
+    "actress": [
+      "乙羽あむ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-012"
+  },
+  {
+    "id": 12540,
+    "IDcode": "NAMH-013",
+    "title": "真正的中出解禁 - 子宮內的本物11發中出 ~ 酒井莉乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "風俗夜場",
+      "亂交 • 群P",
+      "癡女",
+      "3P・4P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "飯店",
+      "素人作品",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "潮吹",
+      "4K",
+      "情趣內衣",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "後入",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-09-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20240821/910e9a4a-ebe3-4868-a7d9-38bd92ea850f.jpg",
+    "actress": [
+      "酒井莉乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-013"
+  },
+  {
+    "id": 525390,
+    "IDcode": "NAMH-014",
+    "title": "歯科卫生士さんを初真正中出し 子宫に本物ザーメン11発 りあ（贮金大好き）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241009/o9VJJu5S/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-014"
+  },
+  {
+    "id": 525388,
+    "IDcode": "NAMH-015",
+    "title": "はじめての真正中出しNTR 子宫に本物ザーメン13発 わか菜（妻）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241009/PaLLIRAs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-015"
+  },
+  {
+    "id": 466325,
+    "IDcode": "NAMH-016",
+    "title": "新壽險OO第一次真實中出,子宮內真實精液11槍,諾亞（巨乳受虐變態）Amaharu Noa",
     "year": "",
     "country": "",
     "genre": "",
@@ -2410,16 +2588,25 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GOGOS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
-        "works_count": 929
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231220/uFGszf2H/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/e69881a533e56bab0ce16be273517337.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1313"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-016"
+  },
+  {
+    "id": 176274,
+    "IDcode": "NAMH-017",
+    "title": "微乳スレンダー美女に12発 はじめての真正中出し撮影 篠咲らら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/21/c872b9e1/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-017"
   }
 ];

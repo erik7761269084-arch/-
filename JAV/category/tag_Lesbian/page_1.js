@@ -7,14 +7,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱交",
-      "女同",
       "一本道",
-      "无码"
+      "女同",
+      "乱交",
+      "无码",
+      "素人"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/19/685402333ed39b57c0a6133a/cover.jpg",
     "actress": [],
@@ -28,12 +28,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/0399500869182d0e78ee9535797a4d0f.jpg",
     "actress": [
@@ -49,12 +49,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250211-1/c077326fdb87cb9350c339c39ea92671.jpg",
     "actress": [],
@@ -68,12 +68,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/01/68136e9c5b6f25c16960d89b/cover.jpg",
     "actress": [],
@@ -87,12 +87,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250131-1/3c81406c463332f3834a6f9af7f54c3a.jpg",
     "actress": [],
@@ -106,12 +106,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250128-1/9142124c91a4784248b22058e8f06808.jpg",
     "actress": [],
@@ -125,14 +125,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱交",
-      "女同",
       "一本道",
-      "无码"
+      "女同",
+      "乱交",
+      "无码",
+      "素人"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/19/685400f83ed39b57c0a612cb/cover.jpg",
     "actress": [],
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250211-1/ccb691bd7a4d9d019d7e40a9dbd90922.jpg",
     "actress": [],
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250211-1/a5156b60c93a452c431df3cfd0108fc4.jpg",
     "actress": [],
@@ -183,7 +183,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/c65a75a16f6bb1f4eca0d193c7fce0b1.jpg",
     "actress": [],
@@ -200,7 +200,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230927-1/1b11188b02ea43043b6add0d069993ca.jpg",
     "actress": [],
@@ -218,7 +218,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -232,13 +232,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "街头采访",
       "女同",
-      "素人企画",
-      "街头采访"
+      "素人",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b46890d749e029f53fd96bc621eacefa.jpg",
     "actress": [],
@@ -252,17 +252,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "女同"
+      "女同",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/d7fd45a011700c365a044c3da04a31bf.jpg",
     "actress": [],
@@ -279,7 +273,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec214352c12b4e6846c36b/cover.jpg",
     "actress": [],
@@ -293,35 +287,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "和服・浴衣・喪服",
-      "OL",
-      "勾引・誘惑",
-      "美乳",
-      "女同",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "潮吹",
-      "NTR",
-      "淫妻",
       "出軌",
+      "淫妻",
       "中出",
-      "後入",
+      "按摩棒",
+      "勾引・誘惑",
+      "和服・浴衣・喪服",
+      "女同",
       "女優",
-      "乳交",
-      "女上位",
+      "苗條",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "OL",
+      "後入",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240203-1/481809fe05ee24ba3c30078ccbc68185.jpg",
     "actress": [
@@ -340,13 +328,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f4de698bc99dfdd126f11/cover.jpg",
     "actress": [],
@@ -363,7 +345,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240501-1/34584153336977418fbea5ee3bdec675.jpg",
     "actress": [],
@@ -381,7 +363,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/ddcccdb90b7a0c99cc32b3539c15d1d7.jpg",
     "actress": [],
@@ -399,7 +381,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804b859ae37d45b9e3ec08a/cover.jpg",
     "actress": [],
@@ -416,7 +398,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b07098bc99dfddb226ab/cover.jpg",
     "actress": [],
@@ -434,7 +416,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/87964_cover_2025-09-10_003805.jpg",
     "actress": [],
@@ -451,7 +433,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/30363b4e26f04f3f857be8bd94d55697.jpg",
     "actress": [],
@@ -468,7 +450,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250921-1/1496b1a81d21ac5927694a0b10e3ff86.jpg",
     "actress": [],
@@ -482,22 +464,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女僕制服",
-      "無做愛場面",
-      "女僕",
-      "女同性戀",
       "女性向",
+      "女僕制服",
       "女同",
-      "企畫"
+      "企畫",
+      "女僕",
+      "無做愛場面",
+      "女同性戀"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a474fac813dc779d96225/cover.jpg",
     "actress": [
@@ -515,26 +491,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "無做愛場面",
-      "美腿",
-      "女同性戀",
-      "色白",
       "女性向",
-      "美乳",
       "女同",
+      "美乳",
+      "色白",
       "企畫",
-      "性感"
+      "美少女電影",
+      "性感",
+      "形象俱樂部",
+      "無做愛場面",
+      "女同性戀",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce46489def9b1b8bebec5/cover.jpg",
     "actress": [
@@ -554,7 +524,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc39b95f13d063bcd2e40f/cover.jpg",
     "actress": [],
@@ -572,7 +542,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -589,7 +559,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888ae0198bc99dfddb1d2e4/cover.jpg",
     "actress": [],
@@ -606,7 +576,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888aebc98bc99dfddb1fe12/cover.jpg",
     "actress": [],
@@ -624,7 +594,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b0a698bc99dfddb226ac/cover.jpg",
     "actress": [],
@@ -641,7 +611,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896c3798bc99dfddc3a8fa/cover.jpg",
     "actress": [],
@@ -658,7 +628,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688971c7c92318f97d1d67ad/cover.jpg",
     "actress": [],
@@ -675,7 +645,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688971eec92318f97d1d67ae/cover.jpg",
     "actress": [],
@@ -689,15 +659,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女教师",
-      "舔阴",
-      "女同",
       "学校作品",
-      "女同性恋",
-      "高中女生"
+      "女同",
+      "高中女生",
+      "舔阴",
+      "女教师",
+      "女同性恋"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -717,7 +687,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -731,11 +701,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同",
-      "巨乳"
+      "巨乳",
+      "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd10b04e7d663df4d75a1a/cover.jpg",
     "actress": [],
@@ -754,7 +724,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd107d4e7d663df4d75a14/cover.jpg",
     "actress": [],
@@ -768,33 +738,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "飯店",
-      "苗條",
-      "美少女",
-      "羞恥",
-      "女同性戀",
-      "美乳",
-      "女同",
-      "按摩棒",
-      "口交",
-      "性感",
-      "跳蛋",
-      "接吻",
-      "內衣",
-      "企畫",
-      "美腿",
       "少女",
       "美臀",
-      "脚控・戀足癖",
       "美少女電影",
+      "接吻",
+      "美少女",
+      "按摩棒",
+      "女同性戀",
+      "女同",
       "無毛",
+      "企畫",
+      "飯店",
+      "苗條",
       "69",
+      "羞恥",
+      "無做愛場面",
+      "美乳",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "情趣內衣",
       "偷窺",
-      "情趣內衣"
+      "內衣",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688ca19598bc99dfddea63e9/cover.jpg",
     "actress": [
@@ -813,7 +783,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888ae0e98bc99dfddb1d2e6/cover.jpg",
     "actress": [],
@@ -830,7 +800,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b11f98bc99dfddb226cf/cover.jpg",
     "actress": [],
@@ -848,7 +818,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b1aa98bc99dfddb23171/cover.jpg",
     "actress": [],
@@ -865,7 +835,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/17/68010da2cf22ae3e044c98ad/cover.jpg",
     "actress": [],
@@ -882,7 +852,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6fc95f03a092cf71d2c6/cover.jpg",
     "actress": [],
@@ -896,15 +866,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "戏剧",
-      "乳房",
       "女同",
+      "乳房",
       "姐姐",
-      "女同性恋"
+      "苗条",
+      "女同性恋",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/01/68135a195b6f25c1695efd4f/cover.jpg",
     "actress": [
@@ -923,7 +893,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68145fa0c57e2706695c326f/cover.jpg",
     "actress": [],
@@ -940,7 +910,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/07/83921_cover_2025-06-07_120537.jpg",
     "actress": [],
@@ -954,48 +924,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "慾求不滿",
-      "蒙面・面罩",
-      "女僕制服",
-      "美少女",
-      "主觀視角",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "處男",
-      "女同",
-      "口交",
-      "形象俱樂部",
-      "校花",
-      "中出",
-      "口罩",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
+      "蒙面・面罩",
+      "主觀視角",
+      "脅迫做愛",
+      "女學生",
+      "蕩婦",
+      "處男",
+      "中出",
       "美少女電影",
       "校園生活",
-      "脅迫做愛",
-      "足交",
-      "同學",
-      "女上位",
+      "劇情",
+      "美少女",
+      "口罩",
+      "絕頂高潮",
+      "女同",
       "學校",
-      "騎乗位"
+      "色白",
+      "同學",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美腿",
+      "女僕制服",
+      "巨尻",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "清純",
+      "女上位",
+      "足交",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3ebe62cbbe464027d393b/cover.jpg",
     "actress": [
@@ -1014,7 +978,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/JpnBSf46.jpg",
     "actress": [],
@@ -1032,13 +996,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804baccae37d45b9e3f18c7/cover.jpg",
     "actress": [],
@@ -1055,13 +1013,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1079,13 +1031,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/873d6b7bba3c58de32537aff0ef129a8.jpg",
     "actress": [],
@@ -1099,23 +1045,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "戏剧",
-      "女同接吻",
-      "女同",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "女同",
+      "流汗",
+      "女同接吻",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a39644b53637fde28bac61cd97457ddc.jpg",
     "actress": [
@@ -1133,21 +1073,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "女同接吻",
-      "舔阴",
       "女同",
+      "舔阴",
+      "OL",
       "女同性恋",
-      "接吻"
+      "接吻",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f23a5918d4e17b973a99249d3ebc53cb.jpg",
     "actress": [
@@ -1164,23 +1098,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "女同接吻",
-      "女检察官",
-      "女同",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "女同",
+      "女同接吻",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "戏剧",
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/16a43ce6cd8feb896cd8e994ccc0d794.jpg",
     "actress": [
@@ -1201,13 +1129,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-10-07",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/32ce80bb00b43c64de032c7cc8250c7a.jpg",
     "actress": [
@@ -1227,13 +1149,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902888779f1ac4ec4c9fd4b/poster2.jpg",
     "actress": [],
@@ -1251,13 +1167,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/17/680108d4cf22ae3e044c9875/cover.jpg",
     "actress": [],
@@ -1274,13 +1184,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/10/19/17e6a1a08cbfc68939a55b5aef0ac76e.jpg",
     "actress": [],
@@ -1297,13 +1201,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd85289def9b1b8bebe16/cover.jpg",
     "actress": [],
@@ -1317,20 +1215,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "女同接吻",
       "女同",
+      "捆绑",
+      "SM",
       "女同性恋",
-      "SM"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-6/8ffea35c6382e22a16845f6ad8abc4a4.jpg",
     "actress": [
@@ -1350,13 +1242,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1373,13 +1259,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c973d89def9b1b8bebcba/cover.jpg",
     "actress": [],
@@ -1396,13 +1276,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd0f544e7d663df4d75a0e/cover.jpg",
     "actress": [],
@@ -1419,13 +1293,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb790d4e7d663df4ca25a5/cover.jpg",
     "actress": [],
@@ -1442,13 +1310,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb78cccf22ae3e041a69e2/cover.jpg",
     "actress": [],
@@ -1465,13 +1327,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897e0f555337d7f7bbc78f0/cover.jpg",
     "actress": [],
@@ -1485,22 +1341,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服・浴衣・喪服",
-      "無做愛場面",
-      "淫語",
-      "女同性戀",
       "女性向",
+      "和服・浴衣・喪服",
+      "女同",
       "美乳",
-      "女同"
+      "無做愛場面",
+      "女同性戀",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce12889def9b1b8bebea1/cover.jpg",
     "actress": [
@@ -1517,24 +1367,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "感官作品",
-      "深喉",
-      "無做愛場面",
-      "緊縛",
-      "拘束・拷問",
-      "女同性戀",
+      "人妻",
+      "女同",
       "按摩棒",
-      "女同"
+      "拘束・拷問",
+      "緊縛",
+      "深喉",
+      "女同性戀",
+      "無做愛場面"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd9c22a47ebb1a86840d9/cover.jpg",
     "actress": [
@@ -1554,13 +1398,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888af4098bc99dfddb22623/cover.jpg",
     "actress": [],
@@ -1577,7 +1415,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0c32e31a2714f1c5bff44/cover.jpg",
     "actress": [],
@@ -1594,7 +1432,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888afb598bc99dfddb22645/cover.jpg",
     "actress": [],
@@ -1612,7 +1450,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/29/68107e2b5b6f25c169406037/cover.jpg",
     "actress": [],
@@ -1629,7 +1467,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/30/68119e615b6f25c16953db15/cover.jpg",
     "actress": [],
@@ -1643,23 +1481,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "礼仪小姐",
-      "女同",
-      "素人作品",
       "口交",
-      "淫语",
+      "女同",
+      "礼仪小姐",
+      "素人作品",
       "女生",
-      "精选，综合"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678744465d57b64bfdda2c96/cover.jpg",
     "actress": [
@@ -1678,7 +1510,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f24a1cf22ae3e0498ed3c/cover.jpg",
     "actress": [],
@@ -1695,7 +1527,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/c1cf97e94b67ce9df824329dd38812be.jpg",
     "actress": [],
@@ -1712,7 +1544,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd2bd97de28f4edea673d3/poster2.jpg",
     "actress": [],
@@ -1726,18 +1558,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "女同",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250120-1/7d5ac58be5d4ff899627b752c2349bea.jpg",
     "actress": [],
@@ -1751,36 +1577,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "多P",
-      "兩女一男",
-      "戀物癖",
-      "OL",
-      "雙飛",
-      "勾引・誘惑",
-      "女同",
-      "口交",
-      "性感",
-      "淫亂",
-      "內衣",
-      "中出",
       "蕩婦",
       "美臀",
-      "絕頂高潮",
-      "黑絲",
+      "兩女一男",
+      "淫亂",
+      "中出",
       "劇情",
+      "戀物癖",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同",
       "女同事",
-      "情趣內衣"
+      "黑絲",
+      "艷遇",
+      "雙飛",
+      "巨尻",
+      "口交",
+      "情趣內衣",
+      "內衣",
+      "OL",
+      "多P",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2023-11-07",
     "cover_url": "https://picture.yoshiclub.xyz/20231105/09a99a5f-64d0-4da4-8ab8-9631d48924f3.jpg",
     "actress": [
@@ -1798,35 +1618,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "多P",
+      "出軌",
+      "亂交 • 群P",
       "兩女一男",
       "溫泉",
-      "出差",
-      "飯店",
-      "OL",
-      "勾引・誘惑",
-      "女同",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "NTR",
       "淫亂",
-      "出軌",
       "中出",
       "劇情",
-      "女同事"
+      "勾引・誘惑",
+      "女同",
+      "女同事",
+      "飯店",
+      "艷遇",
+      "出差",
+      "口交",
+      "巨乳",
+      "OL",
+      "多P",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
     "actress": [
@@ -1848,13 +1662,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f2451cf22ae3e0498ed33/cover.jpg",
     "actress": [],
@@ -1871,13 +1679,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e043d279f1ac4ec48be751/cover.jpg",
     "actress": [],
@@ -1894,13 +1696,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4b1615f03a092cf66d5c3/cover.jpg",
     "actress": [],
@@ -1914,34 +1710,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "插入異物",
-      "女同性戀",
+      "美臀",
+      "舔陰",
       "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "女同",
       "按摩棒",
+      "女同性戀",
+      "絕頂高潮",
+      "女同",
+      "企畫",
+      "插入異物",
+      "手指插入",
+      "無做愛場面",
+      "美乳",
       "口交",
       "巨乳",
-      "性感",
-      "跳蛋",
+      "女上位",
+      "胸控・戀乳癖",
       "熟女",
-      "企畫",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "女上位"
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2024-06-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240624/41658761-3a4c-44d4-b79c-08e9b2cca5de.jpg",
     "actress": [
@@ -1961,13 +1751,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899737455337d7f7bd1c205/cover.jpg",
     "actress": [],
@@ -1984,13 +1768,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896c6b98bc99dfddc3a8fb/cover.jpg",
     "actress": [],
@@ -2004,15 +1782,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
       "荡妇",
-      "姐姐",
       "女同",
+      "女上位",
       "足交",
-      "女上位"
+      "姐姐",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2015-01-13",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2031,7 +1809,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230718/cesd444pl.jpg!320x216.jpg",
     "actress": [],
@@ -2045,15 +1823,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "白天出轨",
       "女同",
-      "成熟的女人",
+      "放尿",
       "女同性恋",
-      "放尿"
+      "女同接吻",
+      "成熟的女人",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2020-04-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2074,7 +1852,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fca3b2944bbe4ef05a235d/poster2.jpg",
     "actress": [],
@@ -2091,7 +1869,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240226-1/772ca5659fec772948968a8d9d8265f6.jpg",
     "actress": [],
@@ -2108,7 +1886,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1e4252c12b4e6846b2e3/cover.jpg",
     "actress": [],
@@ -2125,7 +1903,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/8507248897b05af35473e3c48354eaed.jpg",
     "actress": [],
@@ -2139,17 +1917,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱交",
-      "女同"
+      "女同",
+      "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "変態紳士倶楽部",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
-        "works_count": 439
-      }
-    ],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dec529631cc64eb5933299/cover.jpg",
     "actress": [],
@@ -2163,33 +1935,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "母親",
-      "溫泉",
-      "和服・浴衣・喪服",
-      "美少女",
+      "少女",
       "美腳",
-      "羞恥",
-      "女同性戀",
-      "胸控・戀乳癖",
-      "美乳",
-      "女同",
-      "口交",
-      "巨乳",
-      "性感",
-      "熟女",
+      "美臀",
+      "溫泉",
+      "舔陰",
       "淫亂",
       "中出",
-      "少女",
-      "美臀",
-      "舔陰",
       "美少女電影",
-      "手指插入",
+      "美少女",
+      "女同性戀",
+      "女性向",
+      "和服・浴衣・喪服",
+      "女同",
       "無毛",
-      "女性向"
+      "手指插入",
+      "羞恥",
+      "無做愛場面",
+      "美乳",
+      "口交",
+      "巨乳",
+      "胸控・戀乳癖",
+      "母親",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240509/20240509020804868868.jpg",
     "actress": [
@@ -2210,7 +1982,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2227,7 +1999,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2241,15 +2013,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "乱伦",
-      "白天出轨",
-      "美少女电影",
       "女同",
-      "女同性恋"
+      "乱伦",
+      "美少女电影",
+      "淫乱，真实",
+      "女同性恋",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0a81e1f34ed408e2ce7ccfb0a9d6a5fa.jpg",
     "actress": [
@@ -2269,13 +2041,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc3b4f9a2e9b1d45c6846/cover.jpg",
     "actress": [],

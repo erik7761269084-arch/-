@@ -118,7 +118,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "2020-09-01",
       "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/90c4a60479a59af9c6c9c0f039ebbbbd.jpg",
       "actress": [

@@ -1,485 +1,591 @@
 window.PAGE_DATA = [
   {
-    "id": 3040,
-    "IDcode": "MGOLD-043",
-    "title": "性過敏症の看護師をアクメ依存にさせるお漏らし無制限病棟 宮野桜",
+    "id": 590742,
+    "IDcode": "MIAD-678",
+    "title": "[miad00678] AVオタクの仆ん家に巨乳同级生がやってきて谷间チラで挑発 浜崎真绪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "醫院・診所",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "豐滿",
-      "護士制服",
-      "職場",
-      "鬼畜片",
-      "臀控",
-      "護士",
-      "凌辱",
-      "阪道系",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "色白",
-      "美乳",
-      "寢取",
-      "變態",
-      "清楚系",
-      "按摩棒",
-      "亂交 • 群P",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "高顏值",
-      "性騷擾",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "脅迫做愛",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203803610610_48867_thumbnail.webp",
-    "actress": [
-      "宮野櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-043"
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230519-1/667c2cb23ba6506cf0c71f4b320634b5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-678"
   },
   {
-    "id": 3924,
-    "IDcode": "MGOLD-045",
-    "title": "新人 電マ女王 澪奈あすみ AVdebut-澪奈あすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "3P・4P",
-      "小隻馬",
-      "口爆",
-      "慾求不滿",
-      "真實拍攝",
-      "苗條",
-      "網路紅人",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "出道作品",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "女王",
-      "蠻橫嬌羞",
-      "女主持・主播",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/09ca30e37d38dc1c971c7bb94c154903.jpg",
-    "actress": [
-      "澪奈明日見",
-      "鲛岛",
-      "羽田貴史",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-045"
-  },
-  {
-    "id": 3041,
-    "IDcode": "MGOLD-046",
-    "title": "焦らし・目隠し・服破り・拘束・玩具責め期待汁だらっだらおチ〇ポおねだり-奈あすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "三十路",
-      "真實拍攝",
-      "蒙面・面罩",
-      "港區女子",
-      "辣妹/GAL系",
-      "臀控",
-      "阪道系",
-      "感官作品",
-      "凌辱",
-      "流汗",
-      "美腳",
-      "癡女",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "大乳暈",
-      "潮吹",
-      "高顏值",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "御姐系",
-      "調教",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203745249249_74314_thumbnail.webp",
-    "actress": [
-      "澪奈明日見"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-046"
-  },
-  {
-    "id": 2353,
-    "IDcode": "MGOLD-047",
-    "title": "電マ女王を電マ持参でお貸しします。 澪奈あすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "口爆",
-      "真實拍攝",
-      "粉絲福利",
-      "苗條",
-      "辣妹/GAL系",
-      "美腳",
-      "真人秀",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "粉丝",
-      "形象俱樂部",
-      "深喉",
-      "高顏值",
-      "女王",
-      "內衣",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "絕頂高潮",
-      "女優",
-      "上門福利",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "素人",
-      "舔腳",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "澪奈明日見"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-047"
-  },
-  {
-    "id": 562592,
-    "IDcode": "MGP-002",
-    "title": "MGS动画 ”お気に入り登录数TOP10”～何度でも见たい！！皆に选ばれし神回达8时间～",
+    "id": 202261,
+    "IDcode": "MIAD-679",
+    "title": "新晋浴女郎-愛実れい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/Ybr53W7z/1.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/6cc5f37095f548f212e2af1087e11237.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGP-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-679"
   },
   {
-    "id": 546196,
-    "IDcode": "MGR-003",
-    "title": "マグロ男 男が楽して気持ちぃプレイだけ厳选！ 骑乘位",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/vbf8nxpy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGR-003"
-  },
-  {
-    "id": 546198,
-    "IDcode": "MGR-004",
-    "title": "マグロ男 男が楽して気持ちぃプレイだけ厳选！ フェラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/vFFlyILq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGR-004"
-  },
-  {
-    "id": 82157,
-    "IDcode": "MGR-2001",
-    "title": "人妻ナンパ 12人 4時間 高円寺 荻窪 下井草 目白 光ヶ丘 三軒茶屋 八王子 大宮 エロそうな人妻に声掛けてホテルにイン！チンチ○インして 大量ザーメン中出し発射！",
+    "id": 35438,
+    "IDcode": "MIAD-680",
+    "title": "女教師与女子校生-神波多一花 桜井あゆ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "数位马赛克",
+      "荡妇",
+      "无码破解",
+      "高中女生",
+      "两女一男",
+      "女教师",
+      "主观视角",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/12/29/0bead804c4f6d4c7e1d664eeeb36954b.jpg",
+    "actress": [
+      "神波多一花",
+      "樱井步"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-680"
+  },
+  {
+    "id": 591162,
+    "IDcode": "MIAD-681",
+    "title": "逆3Pソープ天国 山手刊 浜崎真绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230702-1/58c8c8089636f2b81539c2bfa63c80c5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-681"
+  },
+  {
+    "id": 35440,
+    "IDcode": "MIAD-682",
+    "title": "被狂瞪的強暴人妻編-神波多一花 大場唯 樱井步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
       "人妻",
       "已婚妇女",
-      "4小时以上作品",
-      "猎艳",
-      "中出"
+      "其他恋物癖",
+      "无码破解",
+      "企画",
+      "强奸",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-01-31",
-    "cover_url": "https://tuaskbgnekr.com/20221126/Pe5CNxFi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGR-2001"
-  },
-  {
-    "id": 409804,
-    "IDcode": "MGSD-12",
-    "title": "陵辱アパート 4 ～義父に犯されて～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c27dd85f13d063bcdd5c32/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGSD-12"
-  },
-  {
-    "id": 579092,
-    "IDcode": "MGSREV-006",
-    "title": "【期间限定贩売】MGS动画 ユーザーレビュー 高评価SELECT Vol.6 ～星4以上！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230516/BtVd1WOh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGSREV-006"
-  },
-  {
-    "id": 543958,
-    "IDcode": "MGSSLND-001",
-    "title": "【期间限定贩売】【美体】“キレイなお姊様は好きですか？”美スレンダー美お姊さん祭スレンダー×美人スレンダー×美尻スレンダー×美脚…Etc",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic52.anzise.com/pic/20230427/d1fc5ebed464b20f045787d0f8d065ac/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGSSLND-001"
-  },
-  {
-    "id": 77653,
-    "IDcode": "MGT-018",
-    "title": "街角シロウトナンパ！vol.01～昼呑み人妻編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "人妻",
-      "猎艳",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "優月真裡奈",
-      "桐岛莉乃"
+      "大场唯",
+      "神波多一花",
+      "樱井步"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-682"
   },
   {
-    "id": 77667,
-    "IDcode": "MGT-019",
-    "title": "街角シロウトナンパ！vol.02～ガールズバー編～",
+    "id": 539254,
+    "IDcode": "MIAD-683",
+    "title": "着衣ソープランド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221022/5vUv9ZND/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-683"
+  },
+  {
+    "id": 523295,
+    "IDcode": "MIAD-686",
+    "title": "波多野结衣- 爆乳人妻の胜手に诱惑ノーブラ生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "业余",
-      "猎艳"
+      "人妻",
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/91e1ca78461702c626143dc3f21a5e04.jpg",
-    "actress": [
-      "水谷心音",
-      "坂咲美穗",
-      "爱花みちる",
-      "内川桂帆",
-      "长瀬望美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-019"
+    "cover_url": "https://sex8sex8sex8.com/20250524/K7RqjRqd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-686"
   },
   {
-    "id": 77750,
-    "IDcode": "MGT-020",
-    "title": "街角シロウトナンパ！vol.03～占い女子編～",
+    "id": 35448,
+    "IDcode": "MIAD-693",
+    "title": "喝醉后发情暴露出了淫贱本性超喜欢所以想要做爱-樱井步",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "业余",
-      "猎艳"
+      "数位马赛克",
+      "荡妇",
+      "单体作品",
+      "乳房",
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0af01bf01cecc5df173a6ac0c85b73eb.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230519-1/b35228069007f1addae3dbb38e6103ee.jpg",
     "actress": [
-      "桐香悠裡",
-      "佐倉陽菜",
-      "琴水せいら",
-      "纱々原ゆり",
-      "池内凉子"
+      "樱井步"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-693"
   },
   {
-    "id": 591743,
-    "IDcode": "MGT-029",
-    "title": "搭讪街头素人妹！11兼职正妹篇",
+    "id": 211641,
+    "IDcode": "MIAD-698",
+    "title": "被强奸的女孩-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/02/02/5a7cbf452bb1d239990029eb22b9d08b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-698"
+  },
+  {
+    "id": 165026,
+    "IDcode": "MIAD-701",
+    "title": "無理やり強制射精！Wギャルソープ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/2oqssfrnaif.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-701"
+  },
+  {
+    "id": 104415,
+    "IDcode": "MIAD-704",
+    "title": "女教師-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "眼镜",
+      "女教师",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/02/02/83e5c67f7e2c0d3e26554392cca99d70.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-704"
+  },
+  {
+    "id": 206273,
+    "IDcode": "MIAD-705",
+    "title": "穿着紧身包臀裙的黑丝女教-司ミコト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2024/05/11/c3c55464b30ee250dcb1e3e660db7fe8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-705"
+  },
+  {
+    "id": 35282,
+    "IDcode": "MIAD-709",
+    "title": "强奸训练-椎名ゆな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "单体作品",
+      "轮奸",
+      "调教",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250331-1/be6661021a58d2d582213da1d7866d60.jpg",
+    "actress": [
+      "椎名由奈",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-709"
+  },
+  {
+    "id": 222438,
+    "IDcode": "MIAD-711",
+    "title": "黑丝紧身超短裙痴女教-蓮実クレア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/9ddc37460d188c93e7f12cc3455087c7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-711"
+  },
+  {
+    "id": 35447,
+    "IDcode": "MIAD-712",
+    "title": "逆3P痴女大姐姐 跨越一线的诱惑姐妹-板垣梓 樱井步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "荡妇",
+      "乱伦",
+      "无码破解",
+      "姐姐",
+      "多P",
+      "妹妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/3b7d6bc0/vod.jpg",
+    "actress": [
+      "樱井步",
+      "板垣あずさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-712"
+  },
+  {
+    "id": 218173,
+    "IDcode": "MIAD-714",
+    "title": "家政婦-海野空詩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/2d01762a6c57e06ec4f0f718a0a249ab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-714"
+  },
+  {
+    "id": 591163,
+    "IDcode": "MIAD-718",
+    "title": "もの凄い発射とケイレン絶顶で一绪にイクSEX 川村まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230702-1/3ff835e3ad3868cb03a5e9956e02935b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-718"
+  },
+  {
+    "id": 518561,
+    "IDcode": "MIAD-719",
+    "title": "這…這種肉棒還是第一次！ 佐倉惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f7bf137de28f4ede9c11a6/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-719"
+  },
+  {
+    "id": 35419,
+    "IDcode": "MIAD-724",
+    "title": "不良搜查官-樱井步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "凌辱",
+      "单体作品",
+      "水手服",
+      "无码破解",
+      "女检察官",
+      "拘束",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/19/9ab44666a40d5e3c29d7dd23f4e4169b.jpg",
+    "actress": [
+      "樱井步"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-724"
+  },
+  {
+    "id": 105320,
+    "IDcode": "MIAD-727",
+    "title": "出差时我的老婆-広瀬奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "已婚妇女",
+      "潮吹",
+      "主观视角",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/eec2290538c1b8340a01465d9add3dd5.jpg",
+    "actress": [
+      "堀口奈津美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-727"
+  },
+  {
+    "id": 35359,
+    "IDcode": "MIAD-733",
+    "title": "变态的妹妹-桜井あゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "荡妇",
+      "单体作品",
+      "乱伦",
+      "淫乱，真实",
+      "女上位",
+      "妹妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/f8690fcd1e9bb6af44860d76fd212533.jpg",
+    "actress": [
+      "樱井步"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-733"
+  },
+  {
+    "id": 524102,
+    "IDcode": "MIAD-734",
+    "title": "miad00734-男を惑わす美脚美女のパンスト 槇原爱菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230523-1/49537be286189b0433bfa065813ad08b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-734"
+  },
+  {
+    "id": 211928,
+    "IDcode": "MIAD-736",
+    "title": "美少女密着-川村まや 紺野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/e11a4d7d03d8a908db8cb6c1dd281a5f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-736"
+  },
+  {
+    "id": 211935,
+    "IDcode": "MIAD-739",
+    "title": "修学旅行-本田莉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/f9a9a4365846ce95b2b04052d00f6043.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-739"
+  },
+  {
+    "id": 211933,
+    "IDcode": "MIAD-741",
+    "title": "咖啡店员-大場ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/638604367954179ce53fab38716c1e2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-741"
+  },
+  {
+    "id": 217082,
+    "IDcode": "MIAD-744",
+    "title": "女子校生-愛須心亜 椿かなり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/ba91e75c72b92801555eda2905e9515a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-744"
+  },
+  {
+    "id": 211934,
+    "IDcode": "MIAD-746",
+    "title": "早泄改善项目-かすみ果穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/3a835b8c1ea89cd86023951e575741ba.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-746"
+  },
+  {
+    "id": 469624,
+    "IDcode": "MIAD-748",
+    "title": "逆OO美OO跟蹤者 川村麻耶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ee966852c12b4e684aeda4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-748"
+  },
+  {
+    "id": 212371,
+    "IDcode": "MIAD-751",
+    "title": "巨乳家庭教師-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/23/7b448d34e696a9cfdd8d4dd3bf0e583c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-751"
+  },
+  {
+    "id": 523301,
+    "IDcode": "MIAD-756",
+    "title": "波多野结衣- 気持ちよ～く锻えるヘボち○ぽ改善テクニック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250524/HTJ9vAKh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-756"
+  },
+  {
+    "id": 590745,
+    "IDcode": "MIAD-759",
+    "title": "女教师 勤务中の声を押し杀す絶顶 春原未来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230519-1/384a295f224f7b7b3649b8b02184fafa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-759"
+  },
+  {
+    "id": 518597,
+    "IDcode": "MIAD-760",
+    "title": "電梯女郎密室集團OO 千乃安曇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1ceafce5a404e9be68b8f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-760"
+  },
+  {
+    "id": 590748,
+    "IDcode": "MIAD-761",
+    "title": "素人にイカされまくる凑りく",
     "year": "",
     "country": "",
     "genre": "",
@@ -487,838 +593,31 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221109-1/26eeaef7b374f5271ad5a8cea17213b9.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230519-1/64ae7826b2673335ffdf57652540d9f2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-029"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-761"
   },
   {
-    "id": 164945,
-    "IDcode": "MGT-030",
-    "title": "街角シロウトナンパ！vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200806/118mgt030pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-030"
-  },
-  {
-    "id": 77651,
-    "IDcode": "MGT-031",
-    "title": "街角シロウトナンパ！vol.13～ネットで噂のHな説検証編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "按摩棒",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/29b77c27ce504036184051d7622e350e.jpg",
-    "actress": [
-      "寶生莉莉",
-      "香苗レノン",
-      "天野美优",
-      "河北彩未"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-031"
-  },
-  {
-    "id": 164946,
-    "IDcode": "MGT-032",
-    "title": "街角シロウトナンパ！vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200806/118mgt032pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-032"
-  },
-  {
-    "id": 77076,
-    "IDcode": "MGT-034",
-    "title": "街角シロウトナンパ！vol.16仕事帰りの女上司と男部下を直撃！！上下関係の壁を超えてどこまでヤレる！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "4小时以上作品",
-      "猎艳",
-      "业余"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6c85bf082f71f431fb81253ae1cf8083.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-034"
-  },
-  {
-    "id": 77749,
-    "IDcode": "MGT-037",
-    "title": "街角シロウトナンパ！vol.18～ガールズバー編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "业余",
-      "立即口交",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/777f41b81fecfd54302d9cc0909b04ad.jpg",
-    "actress": [
-      "美咲佳奈",
-      "七瀬あいり",
-      "凉美ほのか",
-      "藤咲ななお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-037"
-  },
-  {
-    "id": 521731,
-    "IDcode": "MGT-047",
-    "title": "街角シロウトナンパ！vol",
+    "id": 213081,
+    "IDcode": "MIAD-762",
+    "title": "美少女密着逆3P-愛須心亜 さとう愛理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tutu1.space/images/2021/08/29/3d86bdf80355ad97983fa7038fa0f1d3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-047"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-762"
   },
   {
-    "id": 88434,
-    "IDcode": "MGT-052",
-    "title": "＃浮気サレ妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "业余",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2b72d109823a469faaea60398b5a4bb6.jpg",
-    "actress": [
-      "黑川堇",
-      "本多成実",
-      "爱乃零",
-      "三岛奈津子",
-      "山本铃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-052"
-  },
-  {
-    "id": 88416,
-    "IDcode": "MGT-053",
-    "title": "街角シロウトナンパ！ vol.31ウブなJDの人生初逆ナン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "业余",
-      "女大学生",
-      "倒追"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/5f0f5b6002fa6fd0bc3916c8b36dc405.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-053"
-  },
-  {
-    "id": 77666,
-    "IDcode": "MGT-068",
-    "title": "街角シロウトナンパ！ vol.43 女子大生をガチ口説き。3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2dfbdbe94c8f114cf6b10102f4940c8b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-068"
-  },
-  {
-    "id": 592733,
-    "IDcode": "MGT-069",
-    "title": "街角シロウトナンパ vol44 あなたよりエロい友达を绍介して下さい 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic35.anzise.com/pic/20220804/e36e5ee3292b3ad11e4627ed5fc9482d/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-069"
-  },
-  {
-    "id": 534150,
-    "IDcode": "MGT-071",
-    "title": "街角シロウトナンパ！vol.46 女子大生をガチ口说き。4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-071"
-  },
-  {
-    "id": 523616,
-    "IDcode": "MGT-072",
-    "title": "街角シロウトナンパ！vol.47 ＃パパ活女子の実态",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3caa25a7cb2066c905bd6e13ee874565.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-072"
-  },
-  {
-    "id": 589490,
-    "IDcode": "MGT-078",
-    "title": "街角业馀接机！ vol.53 请介绍一个比你更色情的朋友（Yariman）！ 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/57900_cover_2025-07-06_054703.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-078"
-  },
-  {
-    "id": 523708,
-    "IDcode": "MGT-080",
-    "title": "街角シロウトナンパ！ vol.55 あなたよりエロい友达（ヤリマン）を绍介して下さい！ 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190825-1/0658efa4603d4127fd4e3aaa20ec0d08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-080"
-  },
-  {
-    "id": 589549,
-    "IDcode": "MGT-081",
-    "title": "街角业馀接机！ vol.56 宇部JD人生第1逆南2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/10516_cover_2025-07-03_054005.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-081"
-  },
-  {
-    "id": 592550,
-    "IDcode": "MGT-083",
-    "title": "街角业馀接机！ vol.58 美丽的妻子被说服了。 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/07/88243_cover_2025-06-07_210521.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-083"
-  },
-  {
-    "id": 592551,
-    "IDcode": "MGT-084",
-    "title": "街角业馀接机！ vol.59 请介绍一个比你更色情的朋友（Yariman）！五",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/07/30802_cover_2025-06-07_220857.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-084"
-  },
-  {
-    "id": 523789,
-    "IDcode": "MGT-085",
-    "title": "街角シロウトナンパ！ vol.60 女子大生をガチ口说き。7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191126-1/e72db90bd29ba543b2fb2f82b00959a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-085"
-  },
-  {
-    "id": 469137,
-    "IDcode": "MGT-086",
-    "title": "街角シロウトナンパ！ vol.61 新社会人をガチ口説き。1 宮澤千治 望月理沙 奥菜詠美 天音莉音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/678290d2c179ffb1db75fdb6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-086"
-  },
-  {
-    "id": 469127,
-    "IDcode": "MGT-087",
-    "title": "街角シロウトナンパ！ vol.62 東京23區パコる女たち 2 美谷朱里 工藤真奈美 藤白桃羽 河北恵美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67828d9ac179ffb1db75fd97/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-087"
-  },
-  {
-    "id": 78143,
-    "IDcode": "MGT-091",
-    "title": "搭訕街角素人 VOL.66～請介紹你的破麻朋友吧 7[有碼高清]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "素人",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "中出",
-      "素人作品",
-      "巨乳",
-      "企画",
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1328052bb48ffe1deb9cd102567d498e.jpg",
-    "actress": [
-      "七海雛",
-      "寶生莉莉",
-      "稻场流花",
-      "河北麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-091"
-  },
-  {
-    "id": 78499,
-    "IDcode": "MGT-092",
-    "title": "街角シロウトナンパ！ vol.67女子大生をガチ口説き。9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d95056e0cf1d51d004ca4b01176a57c5.jpg",
-    "actress": [
-      "永瀬ゆい",
-      "早美怜夢",
-      "野野原薺",
-      "东条有希",
-      "菊川みつ叶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-092"
-  },
-  {
-    "id": 78284,
-    "IDcode": "MGT-093",
-    "title": "街角シロウトナンパ！ vol.68美人妻をガチ口説き。2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/24d2f9c8744311cbc7fa42fcebddab6d.jpg",
-    "actress": [
-      "永野司",
-      "白咲花",
-      "吉泽ひかり",
-      "河北麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-093"
-  },
-  {
-    "id": 78414,
-    "IDcode": "MGT-094",
-    "title": "搭訕街角素人 69～東京23區抽插的女人們 3[有碼高清]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "4小时以上作品",
-      "素人",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "素人作品",
-      "巨乳",
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8ba9cc090ed6aa0757bcf26ee4af6cf.jpg",
-    "actress": [
-      "美園和花",
-      "雾岛里绪菜",
-      "今井夏帆",
-      "爱菜ゆう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-094"
-  },
-  {
-    "id": 78205,
-    "IDcode": "MGT-095",
-    "title": "街角シロウトナンパ！vol.70ナイトプール編3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品",
-      "泳装",
-      "女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a0e1af8da79126a7b2b90b1d440b9d26.jpg",
-    "actress": [
-      "百瀬凛花",
-      "东条有希",
-      "河北恵美",
-      "菊川みつ叶",
-      "悠月リアナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-095"
-  },
-  {
-    "id": 78069,
-    "IDcode": "MGT-096",
-    "title": "街角シロウトナンパ！ vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/03b243c7101faad7a8c05f0ddc9e2b3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-096"
-  },
-  {
-    "id": 78419,
-    "IDcode": "MGT-097",
-    "title": "街角シロウトナンパ！ vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/58daf75bc980d8329fff3413d87c6d60.jpg",
-    "actress": [
-      "ゆうき",
-      "鲛岛",
-      "市川润"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-097"
-  },
-  {
-    "id": 78416,
-    "IDcode": "MGT-098",
-    "title": "街角シロウトナンパ！ vol.73 女子大生をガチ口説き。10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dda8c22bf78c9593d5dcddd78b0e7531.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-098"
-  },
-  {
-    "id": 78140,
-    "IDcode": "MGT-099",
-    "title": "街角シロウトナンパ！ vol.74 ナイトプール編 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "素人作品",
-      "泳装"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0046603608935676234eb31a474d7ee1.jpg",
-    "actress": [
-      "深田詠美",
-      "永野司",
-      "七海雛",
-      "ゆうき",
-      "东条有希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-099"
-  },
-  {
-    "id": 81812,
-    "IDcode": "MGT-100",
-    "title": "街角シロウトナンパ！ vol.75 美人妻をガチ口説き。3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "猎艳",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2020-01-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/fc5ee1193f4b494231e6535ce5e1b683.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-100"
-  },
-  {
-    "id": 164936,
-    "IDcode": "MGT-101",
-    "title": "街角シロウトナンパ！ vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-101"
-  },
-  {
-    "id": 461791,
-    "IDcode": "MGT-103",
-    "title": "街角シロウトナンパ！ vol.78美人妻をガチ口説き。4",
+    "id": 223616,
+    "IDcode": "MIAD-765",
+    "title": "像牲畜一样轮奸调教的人妻-大場ゆい",
     "year": "",
     "country": "",
     "genre": "",
@@ -1326,1251 +625,1054 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ef1658848009c8e2e1cf08e9f68c3718.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/a700a0b42d1058f316bc8ff456bf7fdb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-765"
   },
   {
-    "id": 75646,
-    "IDcode": "MGT-105",
-    "title": "街角シロウトナンパ！ vol.80 女子大生をガチ口説き。12",
+    "id": 218208,
+    "IDcode": "MIAD-768",
+    "title": "离婚后的家庭窥探者的前父亲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "业余",
-      "女大学生",
-      "猎艳"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/4aff4ed01e5fa350c14c31716ff02838.jpg",
-    "actress": [
-      "胡桃圓",
-      "鲛岛",
-      "インフィニティ",
-      "大原结莉",
-      "近藤れおな",
-      "舞岛あかり",
-      "夜空せいら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/a30e083604b08fa3ea87894daaeaf4ae.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-768"
   },
   {
-    "id": 83624,
-    "IDcode": "MGT-106",
-    "title": "街角シロウトナンパ！ vol.81 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 10",
+    "id": 189545,
+    "IDcode": "MIAD-772",
+    "title": "蛇舌夹击-大槻响 樱井步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/05/05c60296938ab3c9ae520502f6d9f881.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-772"
+  },
+  {
+    "id": 218232,
+    "IDcode": "MIAD-784",
+    "title": "大胸女性接受采访时被插入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e2e3494b3e1db97fa271d601b3208ef7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-784"
+  },
+  {
+    "id": 521730,
+    "IDcode": "MIAD-787",
+    "title": "抵抗できずに何度もイカされ潮吹き堕ち 绀野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-787"
+  },
+  {
+    "id": 218289,
+    "IDcode": "MIAD-795",
+    "title": "個人撮影会-倉多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/6eae736e8271a0d6b45d181250035fac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-795"
+  },
+  {
+    "id": 218211,
+    "IDcode": "MIAD-799",
+    "title": "阴道清洗诊所-川村まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/206fbd9caf6b41a004d721fff2b9f2b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-799"
+  },
+  {
+    "id": 216974,
+    "IDcode": "MIAD-803",
+    "title": "一群调戏者-乙葉ななせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/c845bf6a201270b3af4e3fd337a5bc8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-803"
+  },
+  {
+    "id": 211036,
+    "IDcode": "MIAD-804",
+    "title": "美少女密着逆3P-大場ゆい 水野朝陽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/11/26/b3be4afb5031ab1f3461a79a8fc48f80.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-804"
+  },
+  {
+    "id": 524101,
+    "IDcode": "MIAD-805",
+    "title": "miad00805-超ハイレグマニアックス 仓多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230523-1/0547a60c06a4e716598d3ba05048b57a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-805"
+  },
+  {
+    "id": 591168,
+    "IDcode": "MIAD-807",
+    "title": "大冢で隠れ人気！！花びら回転専门ごっくんピンサロ店",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230703-1/8fffac91cebccce90e22791e7f90f087.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-807"
+  },
+  {
+    "id": 523304,
+    "IDcode": "MIAD-811",
+    "title": "波多野结衣- 縄狂い不伦妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250525/7ODdPVGL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-811"
+  },
+  {
+    "id": 212367,
+    "IDcode": "MIAD-814",
+    "title": "超硬勃起-本田莉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/23/d40c0d10d4b511a384979f57ee775174.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-814"
+  },
+  {
+    "id": 218857,
+    "IDcode": "MIAD-817",
+    "title": "女性専用",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/fffa9a004accbb7318e365268f943f20.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-817"
+  },
+  {
+    "id": 221587,
+    "IDcode": "MIAD-822",
+    "title": "伪装成不良少女潜入校园调查毒品的秘密搜查官",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/0b290bc02a0899ffe9f844d31ce305dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-822"
+  },
+  {
+    "id": 198589,
+    "IDcode": "MIAD-823",
+    "title": "我的妻子佳澄果穗一边被人玩弄一边发来视频邮件让我观赏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/06/10/abd7e0ad0aea4742381c39f0059bd680.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-823"
+  },
+  {
+    "id": 591169,
+    "IDcode": "MIAD-824",
+    "title": "スローなハンドテクでもの凄い射精、フル勃起エステサロン 仓多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230703-1/4c0a6e8dc919ab14e0fd465cdc4aad67.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-824"
+  },
+  {
+    "id": 523305,
+    "IDcode": "MIAD-839",
+    "title": "波多野结衣- 头が狂っちゃうほど生が好き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250525/7Bcz4LEw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-839"
+  },
+  {
+    "id": 517542,
+    "IDcode": "MIAD-841",
+    "title": "從今成為大叔性玩具 坂口美穗乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914f36446d2372859bc00f3/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-841"
+  },
+  {
+    "id": 211938,
+    "IDcode": "MIAD-843",
+    "title": "年轻妻子-推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/901496db2953121038315d1bd21007f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-843"
+  },
+  {
+    "id": 215860,
+    "IDcode": "MIAD-847",
+    "title": "被侄女弄到数次射精的我-大島美緒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "业余",
-      "中出",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/136b2f6962fbc8c2b2c990fdf8e6b595.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-847"
+  },
+  {
+    "id": 202195,
+    "IDcode": "MIAD-849",
+    "title": "进行电车痴汉-北川爱莉香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20241113-1/0095784d520eb45bb69d881f004fc3ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-849"
+  },
+  {
+    "id": 211930,
+    "IDcode": "MIAD-850",
+    "title": "你能带我老婆睡觉吗-樹里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/ebbae61bea3c57e22eb9a2552cfddd89.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-850"
+  },
+  {
+    "id": 469849,
+    "IDcode": "MIAD-852",
+    "title": "噴精專用奴隸犬 水野朝陽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4a3dfe4a73d4f15a183d0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-852"
+  },
+  {
+    "id": 572460,
+    "IDcode": "MIAD-853",
+    "title": "あいなっつ子宫レンタル女子校生 仆の彼女は谁とでも中出しセックスをするッ なつめ爱莉 new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic40.anzise.com/pic/20230121/556949d401d5bc482a7b14fd5284d23e/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-853"
+  },
+  {
+    "id": 517581,
+    "IDcode": "MIAD-854",
+    "title": "5男2女中出亂交之旅 彩城友理奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690eb39f6b81af1f853e4ecb/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-854"
+  },
+  {
+    "id": 218753,
+    "IDcode": "MIAD-855",
+    "title": "与社会强人性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/b2cdccfb34fedd92815bde314cfdde89.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-855"
+  },
+  {
+    "id": 211589,
+    "IDcode": "MIAD-856",
+    "title": "痙攣絶頂-みなみ菜々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/01/27/f4008be894aa0e7d36c8caeb2771c2f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-856"
+  },
+  {
+    "id": 469810,
+    "IDcode": "MIAD-863",
+    "title": "讓她瘋狂的子宮頸大改造 卯水咲流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d701d2944bbe4ef015e4cb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-863"
+  },
+  {
+    "id": 214477,
+    "IDcode": "MIAD-864",
+    "title": "褐色少女-サリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/15/8e0c6e893af3c26174acca34359c565d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-864"
+  },
+  {
+    "id": 469911,
+    "IDcode": "MIAD-865",
+    "title": "口枷OO調教 川上優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdc907958ac04f27f909bb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-865"
+  },
+  {
+    "id": 590765,
+    "IDcode": "MIAD-866",
+    "title": "せっくすごっこ～あのコとこのコのかわいい交尾～ 土屋あさみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230521-1/d88804561fbede1bbd29c430709f50f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-866"
+  },
+  {
+    "id": 221567,
+    "IDcode": "MIAD-867",
+    "title": "身为家里的长女要负责所有哥哥弟弟们的肉棒问题",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/655b6e384e95c92c3e68d1a6b65bb994.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-867"
+  },
+  {
+    "id": 217468,
+    "IDcode": "MIAD-868",
+    "title": "女子校生-大島美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/6c84ff8982a252624770eb437c185947.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-868"
+  },
+  {
+    "id": 469909,
+    "IDcode": "MIAD-869",
+    "title": "黒辣妹玩弄大叔到跪求讓他插！ AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdc876958ac04f27f9099b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-869"
+  },
+  {
+    "id": 212380,
+    "IDcode": "MIAD-872",
+    "title": "女子校生-早川伊織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/23/77dc2bb1921a7e088095ae2a0fb7ad32.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-872"
+  },
+  {
+    "id": 469877,
+    "IDcode": "MIAD-880",
+    "title": "讓她瘋狂的子宮頸大改造 美波菜菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05f29eb67774efbace853/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-880"
+  },
+  {
+    "id": 469891,
+    "IDcode": "MIAD-882",
+    "title": "一插就墮落女教師",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68d01130eb67774efbac3acd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-882"
+  },
+  {
+    "id": 517604,
+    "IDcode": "MIAD-886",
+    "title": "大膽校內露出 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690b07f8457fbf33fcfcff90/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-886"
+  },
+  {
+    "id": 591170,
+    "IDcode": "MIAD-888",
+    "title": "日サロで动く生意気ギャル店员がバイトをサボって胜手に日焼け三昧！お仕置きとしてサンオイルに媚薬を混入したら何でも言いなりの従顺ビッチに！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230703-1/086e0a84a5b9325fd267315156c2fea9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-888"
+  },
+  {
+    "id": 88433,
+    "IDcode": "MIAD-889",
+    "title": "私立后宫淫语学院的小痴女们全校师生的肉棒都只不过是她们的玩物罢了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "无码破解",
+      "高中女生",
+      "两女一男",
+      "女教师",
+      "淫语",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a5bfad18c88c05485ed84f6923aac781.jpg",
+    "actress": [
+      "波多野结衣",
+      "大槻响",
+      "佳苗瑠華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-889"
+  },
+  {
+    "id": 212353,
+    "IDcode": "MIAD-891",
+    "title": "时间停止的女厕所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/23/7bb2a8e43d8ff79c0a5cdfd62d6d2744.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-891"
+  },
+  {
+    "id": 212322,
+    "IDcode": "MIAD-895",
+    "title": "衣装専門爆乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/21/f8b05caaf81a287728543478aa70e72e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-895"
+  },
+  {
+    "id": 591172,
+    "IDcode": "MIAD-897",
+    "title": "絶顶微乳スレンダーA 迹美しゅり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230703-1/c87590dee62c5d713dd6a6361ffe0df1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-897"
+  },
+  {
+    "id": 211941,
+    "IDcode": "MIAD-900",
+    "title": "被困在两个大屁股里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/8b861a14d92ea28599d053f56ed5ae0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-900"
+  },
+  {
+    "id": 517669,
+    "IDcode": "MIAD-904",
+    "title": "新手女主播的淫蕩外拍！ 琴羽雫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69013065d6fbef4e9015e9c1/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-904"
+  },
+  {
+    "id": 199079,
+    "IDcode": "MIAD-907",
+    "title": "包臀超短裙女教师卯水咲流的诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d74a62a47ebb1a870c6d9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-907"
+  },
+  {
+    "id": 78067,
+    "IDcode": "MIAD-908",
+    "title": "面对傲慢无礼的妹妹安部未华子就得抓着双马尾强制深喉再狠狠抽插才解气",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "美少女",
+      "乱伦",
+      "高中女生",
+      "调教",
+      "苗条",
+      "深喉"
     ],
-    "publish_date": "2020-03-13",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a45ac2e3f254a3c5f8d635cbeb28393d.jpg",
     "actress": [
-      "香澄せな",
-      "香坂みりな",
-      "鲛岛",
-      "新井爱丽",
-      "鹰宫ゆい",
-      "夜空せいら"
+      "安部未華子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-106"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-908"
   },
   {
-    "id": 533598,
-    "IDcode": "MGT-108",
-    "title": "A 街角シロウトナンパ！ vol",
+    "id": 576051,
+    "IDcode": "MIAD-909",
+    "title": "【日本女优】他V引退ラストラン体力限界ヌキまくり3本番Maika2016-05-08MaikaMEW单女他优他-112",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-108"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-909"
   },
   {
-    "id": 529305,
-    "IDcode": "MGT-115",
-    "title": "素人变态革命 vol",
+    "id": 211939,
+    "IDcode": "MIAD-911",
+    "title": "近親相姦同棲生活-あおいれな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/03/19/cefde8114159ac45cdd4aca0f320e764.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-911"
+  },
+  {
+    "id": 210549,
+    "IDcode": "MIAD-917",
+    "title": "戴绿帽直播视频-水野朝陽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/abdf040cf7722b1ca9b34706357d4471.jpg",
+    "cover_url": "https://tutu1.space/images/2020/10/15/9712e77511001d358a316cabe129ed3f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-917"
   },
   {
-    "id": 465873,
-    "IDcode": "MGT-117",
-    "title": "街角素人搭訕！ vol.89 新社會人真實搭訕。2",
+    "id": 224614,
+    "IDcode": "MIAD-922",
+    "title": "为了庆祝生日的学生妹-跡美しゅり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/b730b69a3f8a9493229e038ede22d8a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-922"
+  },
+  {
+    "id": 591174,
+    "IDcode": "MIAD-923",
+    "title": "理性の吹き飞んだお姊さんと中出し性交 佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230704-1/e8b86808faae5c3de6f3fecd1ea6dd66.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-923"
+  },
+  {
+    "id": 587828,
+    "IDcode": "MIAD-924",
+    "title": "来互换妹妹肏看看哪个较爽？ 迹美朱里 阿部美佳子 迹美朱里,安部未华子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec23ee52c12b4e6846e221/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-117"
-  },
-  {
-    "id": 192434,
-    "IDcode": "MGT-140",
-    "title": "しろうと変態革命 vol.05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/7b480d2232e2943055ae41a94d602121.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-140"
-  },
-  {
-    "id": 192392,
-    "IDcode": "MGT-141",
-    "title": "えろコスリレーバトン Vol.03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/fa2ed16764f5f4493908df7a8714645f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-141"
-  },
-  {
-    "id": 192362,
-    "IDcode": "MGT-142",
-    "title": "関東ギャラ飲み連盟 vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/e9664aaced2187021634b24fb89f7d67.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-142"
-  },
-  {
-    "id": 194201,
-    "IDcode": "MGT-148",
-    "title": "関東ギャラ飲み連盟 vol.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-148"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-924"
   },
   {
-    "id": 540487,
-    "IDcode": "MGT-149",
-    "title": "なまハメT★kTok Vol.03",
+    "id": 212317,
+    "IDcode": "MIAD-925",
+    "title": "学生時代-向井藍",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250823/Wf3QxTox/1.jpg",
+    "cover_url": "https://tutu1.space/images/2021/07/21/90fc94b6be2eee106aa3c8bdd358c032.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-149"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-925"
   },
   {
-    "id": 192134,
-    "IDcode": "MGT-150",
-    "title": "街角シロウトナンパ！ Vol.106 女子大生をガチ口説き。20",
+    "id": 210479,
+    "IDcode": "MIAD-926",
+    "title": "被流氓带走的女孩-大島美緒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/11e2dc55cf45e77fcb1d7c0be30120ba.jpg",
+    "cover_url": "https://tutu1.space/images/2020/10/08/dd1e344b9ad565e0dd9851130afc80d8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-150"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-926"
   },
   {
-    "id": 192137,
-    "IDcode": "MGT-151",
-    "title": "寝取らせぇぇぇeeそうだ！今からお前ん家でSEXしない？Vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/15756fb7ad2bf5e7adae9ad41b4b36f1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-151"
-  },
-  {
-    "id": 192108,
-    "IDcode": "MGT-155",
-    "title": "街角シロウトナンパ！ vol.108 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 18",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-155"
-  },
-  {
-    "id": 278449,
-    "IDcode": "MGT-157",
-    "title": "極上しろうと総本山まるなげ屋 vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250823/IhP9JWLd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-157"
-  },
-  {
-    "id": 195121,
-    "IDcode": "MGT-160",
-    "title": "なまハメT★kTok Vol.05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/d6df86bd/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-160"
-  },
-  {
-    "id": 195133,
-    "IDcode": "MGT-161",
-    "title": "寝取らせぇぇぇeeそうだ！今からお前ん家でSEXしない？Vol.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/22/1c82886b8f86e4b30386ab211d59849d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-161"
-  },
-  {
-    "id": 195100,
-    "IDcode": "MGT-162",
-    "title": "充電させてくれませんか vol.04",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-162"
-  },
-  {
-    "id": 195114,
-    "IDcode": "MGT-163",
-    "title": "ざわつく日曜日 Vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-163"
-  },
-  {
-    "id": 278609,
-    "IDcode": "MGT-164",
-    "title": "盛りマンビッチはYORU★like vol.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-164"
-  },
-  {
-    "id": 195895,
-    "IDcode": "MGT-165",
-    "title": "街角シロウトナンパ! vol.110 あなたよりエロい友達(ヤリマン)を紹介して下さい! 20",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/4f7dda30/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-165"
-  },
-  {
-    "id": 195815,
-    "IDcode": "MGT-166",
-    "title": "充電させてくれませんか vol.05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-166"
-  },
-  {
-    "id": 195911,
-    "IDcode": "MGT-167",
-    "title": "極上しろうと総本山まるなげ屋 vol.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-167"
-  },
-  {
-    "id": 199034,
-    "IDcode": "MGT-168",
-    "title": "なまハメT★kTok Vol.06蓮見天 宝生めい 乃木ののか 高橋りほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/13/b70994f8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-168"
-  },
-  {
-    "id": 198539,
-    "IDcode": "MGT-169",
-    "title": "ざわつく日曜日 Vol.02七瀬アリス 前島絵菜 雪崎みなと 桜田梨加",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/09/bddaa4bf/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-169"
-  },
-  {
-    "id": 198554,
-    "IDcode": "MGT-170",
-    "title": "盛りマンビッチはYORU★like vol.03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/09/dcd0afee5fb71e8adb0c54920827f610.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-170"
-  },
-  {
-    "id": 62710,
-    "IDcode": "MGT-171",
-    "title": "リアル痴態を超激写!!なま撮りJD。vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-171"
-  },
-  {
-    "id": 63352,
-    "IDcode": "MGT-172",
-    "title": "寝取らせぇぇぇeeそうだ！ 今からお前ん家でSEXしない？ Vol.03神楽あまね 菅原かんな 富安れおな 西野桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/07/f851458b73be56e03b11d161f34a0999.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-172"
-  },
-  {
-    "id": 63421,
-    "IDcode": "MGT-173",
-    "title": "ざわつく日曜日 Vol.03神咲まい 星咲リサ 結城りの 七瀬いおり",
+    "id": 211929,
+    "IDcode": "MIAD-928",
+    "title": "无与伦比的父亲-水野朝陽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "猎艳",
-      "业余",
-      "中出",
-      "巨乳",
-      "精选，综合"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/5ddda9b1/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2021/03/19/4ef373a10326a7468e838fde7b77263f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-173"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-928"
   },
   {
-    "id": 63408,
-    "IDcode": "MGT-174",
-    "title": "なまハメT★kTok Vol.07るるちゃ。 水谷心音（藤崎りお） 森日向子 朝日奈かれん",
+    "id": 217035,
+    "IDcode": "MIAD-931",
+    "title": "女学生痴汉电车-大岛美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/0b2d896e/vod.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/f2c5134f3f6529d9099c2aefb017c03e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-931"
   },
   {
-    "id": 63523,
-    "IDcode": "MGT-176",
-    "title": "街角シロウトナンパ！ vol.111 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 21皆川るい あさみ潤 水原みその 天音恋愛",
+    "id": 212742,
+    "IDcode": "MIAD-935",
+    "title": "淫語逆痴-篠田あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/11/b1e85c7767dc836dfe87c898cfcf27d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-935"
+  },
+  {
+    "id": 106833,
+    "IDcode": "MIAD-937",
+    "title": "淫乱女王-佐々木あき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "4小时以上作品",
-      "乳交",
-      "业余",
-      "中出",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-176"
-  },
-  {
-    "id": 63411,
-    "IDcode": "MGT-178",
-    "title": "リアル痴態を超激写！！なま撮りJD。vol.02有村のぞみ 夜空あみ 天音恋愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/8da36239/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-178"
-  },
-  {
-    "id": 413480,
-    "IDcode": "MGT-180",
-    "title": "ざわつく日曜日Vol.04",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/19f02164191004cf19f2511b6ea4c895.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-180"
-  },
-  {
-    "id": 63469,
-    "IDcode": "MGT-181",
-    "title": "いいなりMさん～Please Panty～ vol.01るるちゃ。 七瀬アリス 皇ゆず 加藤レイラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/b45291ea5d9b0df42313ff762fd8b797.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-181"
-  },
-  {
-    "id": 195620,
-    "IDcode": "MGT-182",
-    "title": "街角シロウトナンパ！ vol.112 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 22悠月リアナ 木下ひまり（花沢ひまり） 綾瀬のあ 泉あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-182"
-  },
-  {
-    "id": 35623,
-    "IDcode": "MGT-183",
-    "title": "エロのスジガネ vol.01北野未奈 香澄せな 結城りの 東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-183"
-  },
-  {
-    "id": 35624,
-    "IDcode": "MGT-184",
-    "title": "なまハメT★kTok Vol.09西條みりな 夏向ここの（寺田ここの） 生田みく 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/04/5d69cb2e/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-184"
-  },
-  {
-    "id": 413483,
-    "IDcode": "MGT-185",
-    "title": "ざわつく日曜日Vol.05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/44d13165b31ac2c970b99fe57ec75142.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-185"
-  },
-  {
-    "id": 63790,
-    "IDcode": "MGT-186",
-    "title": "いいなりMさん vol.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "4小时以上作品",
-      "业余",
-      "中出",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-186"
-  },
-  {
-    "id": 63789,
-    "IDcode": "MGT-187",
-    "title": "エロのスジガネ vol.02弥生みづき 新村あかり 丹羽すみれ 水川スミレ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
+      "数位马赛克",
       "荡妇",
-      "4小时以上作品",
-      "业余",
-      "中出",
-      "巨乳",
-      "精选，综合"
+      "单体作品",
+      "无码破解",
+      "淫乱，真实",
+      "滥交",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/5523e89d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-187"
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/91de9bf0c2e09c29d6ccfe1255688df5.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-937"
   },
   {
-    "id": 63067,
-    "IDcode": "MGT-188",
-    "title": "女子大生のツボぶっこみます！！ Vol.01",
+    "id": 589919,
+    "IDcode": "MIAD-938",
+    "title": "慢速手技厉害射精、完全勃起按摩店 川上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/12/3622be79/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-188"
-  },
-  {
-    "id": 63407,
-    "IDcode": "MGT-189",
-    "title": "街角シロウトナンパ！ vol.113 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 23水川スミレ 皇ゆず 星川まい 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/584f7b659861e5561549dda2969cad01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-189"
-  },
-  {
-    "id": 63412,
-    "IDcode": "MGT-190",
-    "title": "激ウブちゃんを連れてきた。 vol.02江本あやみ 希咲アリス 南乃そら 岩弘麻里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/ccdcd552/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-190"
-  },
-  {
-    "id": 403154,
-    "IDcode": "MGT-191",
-    "title": "街角シロウトナンパ！vol.114あなたよりエロい友達（ヤリマン）を紹介して下さい！24",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/d1ce4e8b398eda8690fc23d83cd4c23c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-191"
-  },
-  {
-    "id": 564829,
-    "IDcode": "MGT-193",
-    "title": "给料明细 vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230102/81yar1SR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-193"
-  },
-  {
-    "id": 413479,
-    "IDcode": "MGT-194",
-    "title": "街角シロウトナンパ！vol.114あなたよりエロい友達（ヤリマン）を紹介して下さい！24",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/a01544ade7e9c4a3f5d24a01df69b005.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-194"
-  },
-  {
-    "id": 63070,
-    "IDcode": "MGT-195",
-    "title": "なまハメT★kTok Vol.11天馬ゆい 深月めい 天然美月（天然かのん）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/12/cd0aa35a605f1a7fade8db902f391b8b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-195"
-  },
-  {
-    "id": 192930,
-    "IDcode": "MGT-196",
-    "title": "エロのスジガネ vol.03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-938"
   },
   {
-    "id": 7102,
-    "IDcode": "MGT-198",
-    "title": "街頭素人搭訕！Vol.115 給我介紹比你更色的朋友（騷貨）吧！Vol. 25 ~ 本田瞳 最上一花 藤井蘭々 上阪芽衣",
+    "id": 97728,
+    "IDcode": "MIAD-939",
+    "title": "地元のDQN達に彼女を奪われて何も出来ない僕。 さくらみゆき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "形象俱樂部",
-      "美少女電影",
-      "獵豔",
-      "搭訕",
-      "素人",
-      "癡女",
-      "精選綜合",
-      "真人秀",
-      "真實拍攝",
-      "4小時以上作品",
-      "中出",
-      "美人",
-      "巨乳",
-      "業餘"
+      "数位马赛克",
+      "美少女",
+      "轮奸",
+      "戏剧",
+      "深喉",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2023-01-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20250402/c9a3728f-3c91-4182-8c2a-39c9fdc19e8c.jpg",
+    "company": "",
+    "publish_date": "2016-08-13",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230704-1/9c394708efbdca6e5045c85e09f2e6c9.jpg",
     "actress": [
-      "本田瞳",
-      "藤井蘭々",
-      "上坂芽衣",
-      "最上一花"
+      "樱美雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-939"
   },
   {
-    "id": 7097,
-    "IDcode": "MGT-199",
-    "title": "女大學生敏感點大突襲！！Vol.03 ~ 戶川奈美 深月芽衣 吉岡日和 逢見梨花",
+    "id": 104186,
+    "IDcode": "MIAD-941",
+    "title": "强奸偶像-あべみかこ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "女學生",
-      "獵豔",
-      "小隻馬",
-      "真實拍攝",
-      "4小時以上作品",
-      "素人作品",
-      "辣妹/GAL系",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "羞恥",
-      "JK校服",
-      "真人秀",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "業餘",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "極品美人",
-      "蠻橫嬌羞",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "美腿",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "蘿莉控"
+      "数位马赛克",
+      "凌辱",
+      "艺人",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/1d411c7ba54cb989b1be84602bddde6c.jpg",
+    "cover_url": "https://tutu1.space/images/2021/07/21/fbb82b7b3c0d23dca9ef5f55f71626ea.jpg",
     "actress": [
-      "逢見梨花",
-      "戶川奈美",
-      "深月芽衣",
-      "吉岡日和"
+      "安部未華子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-199"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-941"
   },
   {
-    "id": 62034,
-    "IDcode": "MGT-200",
-    "title": "ざわつく日曜日 Vol.06",
+    "id": 214093,
+    "IDcode": "MIAD-946",
+    "title": "互相亲吻- さとう愛理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/24/ded5418c77d6fc1380ac48ac31e92428.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-946"
+  },
+  {
+    "id": 318504,
+    "IDcode": "MIAD-948",
+    "title": "字典里没有拒绝完全服从的契约巨乳性欲处理女仆水野朝阳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-948"
   },
   {
-    "id": 444798,
-    "IDcode": "MGT-201",
-    "title": "エロのスジガネvol.04",
+    "id": 219583,
+    "IDcode": "MIAD-952",
+    "title": "淫荡巨乳后妈-水野朝陽 跡美しゅり",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
+    "genres": [
+      "巨乳",
+      "乱伦"
     ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250721-1/5db40c216536bf0dead2b85fe002a158.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-201"
-  },
-  {
-    "id": 444799,
-    "IDcode": "MGT-204",
-    "title": "なまハメT★kTokVol.12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250721-1/1523b2b83b131dec1520279cabf0b8e4.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/30848718ff46a7dd12efb3fe6858c543.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-204"
-  },
-  {
-    "id": 194545,
-    "IDcode": "MGT-205",
-    "title": "ざわつく日曜日 Vol.07",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-952"
   }
 ];

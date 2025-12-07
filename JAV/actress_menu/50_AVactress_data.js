@@ -1319,7 +1319,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/f3ffb6f2088d3101a73ed5858f32f4fc.jpg",
       "actress": [
@@ -1860,7 +1860,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://1.15250719pic.com/upload/vod/20241118-1/78b648ec5a02bf87f02678a0141e1efe.jpg",
       "actress": [
@@ -3370,7 +3370,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/08/26/65970cc90cdebd103e71725fd6b66f1d.jpg",
       "actress": [

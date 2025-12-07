@@ -63,7 +63,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2024-08-20",
       "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816003627380380.jpg",
       "actress": [
@@ -208,7 +208,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2024-03-05",
       "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042351289289.jpg",
       "actress": [
@@ -323,7 +323,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250425-1/684595fe21c4a155dd3dcc41f6b23b68.jpg",
       "actress": [
@@ -462,7 +462,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240706-1/0b5240fceb7b2e10f8a50695ac5ecdda.jpg",
       "actress": [
@@ -512,7 +512,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2d5e8dbf24d4ed31fbc1d/cover.jpg",
       "actress": [
@@ -528,7 +528,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240928-1/1394d15d51038d420b4e36450d289c20.jpg",
       "actress": [
@@ -545,7 +545,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678948115d57b64bfd867e60/cover.jpg",
       "actress": [
@@ -561,7 +561,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787cad18daf6b1db43c33bc/cover.jpg",
       "actress": [
@@ -579,7 +579,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064746958958.jpg",
       "actress": [
@@ -595,7 +595,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250202-1/3dfb87688f4591181a6116132a1f07d5.jpg",
       "actress": [
@@ -612,7 +612,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250302-1/7e85d7633f3aab47fdb925e90305b060.jpg",
       "actress": [
@@ -628,7 +628,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e6bbf54e7d663df4482f22/cover.jpg",
       "actress": [

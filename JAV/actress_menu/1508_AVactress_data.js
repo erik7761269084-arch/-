@@ -359,7 +359,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d95056e0cf1d51d004ca4b01176a57c5.jpg",
       "actress": [

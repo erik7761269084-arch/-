@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/bb721e8812ebdf27fc5f1c8f807e8fb2.jpg",
       "actress": [

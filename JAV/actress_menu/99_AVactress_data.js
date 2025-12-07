@@ -1239,7 +1239,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/c8efabab5d42da6aff7fbf3b077e2ecd.jpg",
       "actress": [

@@ -168,7 +168,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211065703563563.jpg",
       "actress": [
@@ -184,7 +184,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116073238614614.jpg",
       "actress": [
@@ -200,7 +200,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4f950e4a73d4f15c27547/cover.jpg",
       "actress": [

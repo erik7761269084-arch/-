@@ -430,7 +430,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -1302,7 +1302,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250410/add8e096-9928-456e-991b-75bb96340895.jpg",
       "actress": [
@@ -1318,7 +1318,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250703-1/e8c6ee82afa9408157838ed5a8446670.jpg",
       "actress": [
@@ -1418,7 +1418,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250703-2/670aeb5325194c5bff0e83af233d76c6.jpg",
       "actress": [
@@ -1502,7 +1502,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040147168168_17077_thumbnail.webp",
       "actress": [
@@ -1578,7 +1578,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/08/26/11e1cab84e57275463a476d06980b6e2.jpg",
       "actress": [
@@ -1595,7 +1595,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034816292292_87279_thumbnail.webp",
       "actress": [
@@ -1632,7 +1632,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/978aee56/vod.jpg",
       "actress": [
@@ -1736,7 +1736,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/22/0b586482ae391b694d5514632da93ce6.jpg",
       "actress": [
@@ -1753,7 +1753,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/0a09c1a7/vod.jpg",
       "actress": [

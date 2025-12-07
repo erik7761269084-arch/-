@@ -512,7 +512,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a7e679f1ac4ec45a57d9/cover.jpg",
       "actress": [

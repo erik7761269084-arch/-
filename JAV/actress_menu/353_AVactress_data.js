@@ -176,7 +176,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
       "actress": [
@@ -495,7 +495,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2022-03-16",
       "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/cffcca0549eab80ec036eecb138b7a5b.jpg",
       "actress": [
@@ -1235,7 +1235,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -1368,7 +1368,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/978aee56/vod.jpg",
       "actress": [

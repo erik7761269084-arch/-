@@ -252,7 +252,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2024-02-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240216/f0f847db-e3e2-446f-a33c-7c9a5b9f0fe3.jpg",
       "actress": [
@@ -268,7 +268,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2023-12-16",
       "cover_url": "https://picture.yoshiclub.xyz/20231216/bbe5674f-e065-40d8-95c3-b8ca015f595b.jpg",
       "actress": [

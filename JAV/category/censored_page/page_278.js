@@ -1,51 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 173592,
-    "IDcode": "BKD-340",
-    "title": "母子交尾～谷川岳路～ 初音みのり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7e6b979f1ac4ec45ae925/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-340"
-  },
-  {
-    "id": 560093,
-    "IDcode": "BKD-341",
-    "title": "母子交尾～三国法师温泉路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241019/reQmLJWD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-341"
-  },
-  {
     "id": 176481,
     "IDcode": "BKD-342",
     "title": "母子交尾～有馬温泉路～ 島津かおる",
@@ -56,13 +10,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -76,39 +24,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "母親",
+      "母子",
+      "美腳",
+      "蕩婦",
       "溫泉",
       "旅行",
-      "亂倫",
-      "美腳",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
       "人妻",
-      "美人妻",
-      "母子",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
       "劇情",
       "絕頂高潮",
       "乱伦",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "亂倫",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
       "女上位",
-      "騎乗位"
+      "母親",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba9b11006939637673f6ce/cover.jpg",
     "actress": [
@@ -127,13 +69,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -150,13 +86,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b438db5fdaf263a25cc876/cover.jpg",
     "actress": [],
@@ -170,41 +100,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "母親",
-      "慾求不滿",
-      "亂倫",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "人妻",
-      "美人妻",
       "母子",
+      "蕩婦",
+      "美臀",
+      "人妻",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
+      "自宅",
       "劇情",
-      "乱伦",
-      "乳交",
       "家庭主妇",
+      "乱伦",
+      "變態",
+      "美人妻",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "母親",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b59d3b2cbbe4640280659f/cover.jpg",
     "actress": [
@@ -220,41 +144,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "母親",
-      "性感睡衣",
-      "亂倫",
-      "色白",
-      "自宅",
+      "母子",
       "母親的朋友",
-      "美乳",
+      "人妻",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "無毛",
+      "乱伦",
+      "色白",
       "變態",
+      "美人妻",
+      "騎乗位",
+      "亂倫",
+      "性感睡衣",
+      "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "人妻",
-      "美人妻",
-      "母子",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "劇情",
-      "乱伦",
       "乳交",
-      "無毛",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "母親",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab82fd31eb0592de6323a1/cover.jpg",
     "actress": [
@@ -273,13 +191,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b174d65f13d063bcc34388/cover.jpg",
     "actress": [],
@@ -293,42 +205,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "母親",
+      "母子",
+      "美腳",
+      "蕩婦",
       "溫泉",
       "旅行",
-      "亂倫",
-      "和服・浴衣・喪服",
-      "美腳",
-      "色白",
-      "美乳",
-      "變態",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
       "人妻",
-      "美人妻",
-      "母子",
-      "明星臉",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
       "劇情",
+      "明星臉",
+      "和服・浴衣・喪服",
       "乱伦",
+      "色白",
+      "變態",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "亂倫",
+      "美乳",
+      "巨尻",
+      "口交",
       "乳交",
       "女上位",
-      "騎乗位"
+      "母親",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa3e6f9550e292a78600ea/cover.jpg",
     "actress": [
@@ -344,21 +250,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
+      "巨乳",
+      "单体作品",
       "乱伦",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -374,21 +274,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
+      "巨乳",
+      "单体作品",
       "乱伦",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a035a02cca7792b25baca7/cover.jpg",
     "actress": [],
@@ -403,20 +297,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
+      "巨乳",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "母亲"
+      "母亲",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a7b0c7a0063c92fbabaf1d/cover.jpg",
     "actress": [
@@ -432,21 +320,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
       "单体作品",
       "乱伦",
       "中出",
+      "母亲",
       "成熟的女人",
-      "母亲"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897e6926ccb447f8c5e81ad/cover.jpg",
     "actress": [
@@ -462,21 +344,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "母亲"
+      "苗条",
+      "母亲",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e673b98bc99dfdd0329a9/cover.jpg",
     "actress": [
@@ -492,21 +368,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
       "单体作品",
       "乱伦",
       "中出",
+      "母亲",
       "成熟的女人",
-      "母亲"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c7c3a98bc99dfdde7c07d/cover.jpg",
     "actress": [
@@ -522,21 +392,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
+      "巨乳",
+      "单体作品",
       "乱伦",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b4ee298bc99dfddd730df/cover.jpg",
     "actress": [
@@ -552,21 +416,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
+      "巨乳",
+      "单体作品",
       "乱伦",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -582,21 +440,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "母亲"
+      "苗条",
+      "母亲",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -615,13 +467,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -638,13 +484,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "RUBY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
-        "works_count": 292
-      }
-    ],
+    "company": "RUBY",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -661,7 +501,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250112-1/d95319a9a2febe6bf76a03d75b199682.jpg",
     "actress": [],
@@ -678,7 +518,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/bkh00307pl.jpg!320x216.jpg",
     "actress": [],
@@ -695,7 +535,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250112-1/b1f3260fbaac44a3e0ec4a9efa43737f.jpg",
     "actress": [],
@@ -710,12 +550,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "女同接吻",
-      "成熟的女人",
       "巨乳",
+      "成熟的女人",
       "女同性恋"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-04-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -732,14 +572,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "女同接吻",
       "舔阴",
-      "成熟的女人",
-      "女同性恋"
+      "苗条",
+      "女同性恋",
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-12-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -757,7 +597,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -771,15 +611,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "白天出轨",
+      "精选，综合",
       "舔阴",
-      "成熟的女人",
       "女同性恋",
-      "精选，综合"
+      "女同接吻",
+      "成熟的女人",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-02-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -797,7 +637,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -812,7 +652,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -829,7 +669,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685af0d03ed39b57c0e6d366/cover.jpg",
     "actress": [],
@@ -844,7 +684,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -859,7 +699,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cedfe34e7d663df4e2a7d3/cover.jpg",
     "actress": [],
@@ -874,7 +714,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68905840c92318f97d76444a/cover.jpg",
     "actress": [],
@@ -889,7 +729,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1384e7d663df4e2a7f4/cover.jpg",
     "actress": [],
@@ -904,7 +744,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688ddd09c92318f97d50b213/cover.jpg",
     "actress": [],
@@ -919,7 +759,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/17/67b337734e7d663df4815cb9/cover.jpg",
     "actress": [],
@@ -934,7 +774,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc22e92ee23a639b1c580c/cover.jpg",
     "actress": [],
@@ -949,7 +789,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7e19779f1ac4ec45adc3a/cover.jpg",
     "actress": [],
@@ -964,7 +804,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -979,7 +819,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -994,7 +834,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230820/JFDbkJoO/1.jpg",
     "actress": [],
@@ -1009,7 +849,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231126/5Sr0dFvS/1.jpg",
     "actress": [],
@@ -1026,7 +866,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/AA2ZVbrA/1.jpg",
     "actress": [],
@@ -1041,7 +881,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240121/TO7QOYVq/1.jpg",
     "actress": [],
@@ -1056,7 +896,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/T1U3vuUF/1.jpg",
     "actress": [],
@@ -1071,7 +911,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1085,20 +925,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "礼仪小姐",
-      "中出",
-      "素人作品",
+      "单体作品",
       "巨乳",
-      "单体作品"
+      "中出",
+      "礼仪小姐",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2022-10-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/8d369658b48d1577ea6e05852f24a3b6.jpg",
     "actress": [
@@ -1115,13 +949,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1136,13 +964,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231221/gngVMITS/1.jpg",
     "actress": [],
@@ -1157,13 +979,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240107/I5M4lfkc/1.jpg",
     "actress": [],
@@ -1178,13 +994,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230902/rNym2gxG/1.jpg",
     "actress": [],
@@ -1199,13 +1009,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1220,13 +1024,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/OsP3cbSR/1.jpg",
     "actress": [],
@@ -1241,13 +1039,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/MzU9JzK3/1.jpg",
     "actress": [],
@@ -1261,25 +1053,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "口交",
       "ASMR顱内高潮",
-      "淫語",
-      "癡女",
-      "自慰",
+      "巨乳",
+      "潮吹",
       "中出",
+      "自慰",
       "素人作品",
       "蕩婦",
-      "巨乳",
-      "口交"
+      "癡女",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2023-10-06",
     "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010002403221221.jpg",
     "actress": [
@@ -1295,23 +1081,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "角色扮演",
-      "二次元",
+      "巨乳",
       "乳交",
-      "COSPLAY服飾",
+      "潮吹",
       "中出",
       "素人作品",
-      "巨乳"
+      "角色扮演",
+      "二次元",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2023-10-20",
     "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022083120921921.jpg",
     "actress": [
@@ -1327,21 +1107,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "单体作品",
       "潮吹",
       "中出",
       "美少女电影",
-      "素人作品",
-      "巨乳",
-      "单体作品"
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1358,13 +1132,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240206/SHqwsjFp/1.jpg",
     "actress": [],
@@ -1378,30 +1146,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "短髮",
-      "美少女電影",
-      "美腳",
-      "癡女",
-      "猥褻穿著",
-      "辣妹/GAL系",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "巨乳",
-      "企畫",
       "口交",
-      "抹油",
+      "巨乳",
       "絕頂高潮",
-      "女優"
+      "辣妹/GAL系",
+      "中出",
+      "美腳",
+      "企畫",
+      "女優",
+      "猥褻穿著",
+      "美少女電影",
+      "蕩婦",
+      "抹油",
+      "短髮",
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-02-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216043023911911.jpg",
     "actress": [
@@ -1417,32 +1179,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "情趣內衣",
-      "美少女",
-      "OL",
-      "女上位",
+      "少女",
+      "口交",
+      "巨乳",
+      "女同事",
+      "中出",
+      "網襪",
       "苗條",
+      "情趣內衣",
+      "女上位",
       "胸控・戀乳癖",
       "自宅",
-      "美乳",
-      "中出",
-      "後入",
-      "網襪",
-      "性感",
-      "少女",
-      "巨乳",
+      "OL",
       "騎乗位",
-      "口交",
-      "女同事"
+      "後入",
+      "性感",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-02-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202023225199199.jpg",
     "actress": [
@@ -1459,29 +1215,23 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "泡泡浴店",
-      "美少女電影",
       "風俗娘",
-      "美少女",
+      "口交",
+      "乳交",
+      "企畫",
+      "按摩女郎",
+      "美少女電影",
+      "按摩・物理治療・美容",
       "手指插入",
       "水療・泡泡浴",
-      "乳交",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "美乳",
-      "口交",
-      "企畫",
-      "性感",
       "騎乗位",
-      "抹油"
+      "性感",
+      "美少女",
+      "抹油",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-02-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216043303691691.jpg",
     "actress": [
@@ -1497,32 +1247,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "更衣室",
+      "少女",
+      "制服",
+      "口交",
+      "巨乳",
       "舔陰",
+      "乳交",
+      "更衣室",
       "女學生",
       "辦公室",
       "OL",
-      "JK校服",
       "純粹的慾望",
-      "乳交",
       "純愛・戀愛",
-      "制服",
-      "口交",
       "後入",
+      "JK校服",
+      "濕身",
       "劇情",
-      "少女",
-      "巨乳",
       "抹油"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-03-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/9e76e833-64e0-43f2-9458-3194f8dc6eb1.jpg",
     "actress": [
@@ -1538,20 +1282,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
+      "巨乳",
+      "单体作品",
       "中出",
       "素人作品",
-      "巨乳",
-      "单体作品"
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/0ce56098c17def79865a2bef4e76177f.jpg",
     "actress": [
@@ -1567,29 +1305,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
+      "口交",
       "風俗娘",
+      "巨乳",
       "乳交",
-      "胸控・戀乳癖",
-      "按摩・物理治療・美容",
-      "猥褻穿著",
-      "按摩女郎",
-      "美乳",
       "中出",
       "黑絲",
+      "猥褻穿著",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "按摩・物理治療・美容",
       "蕩婦",
-      "口交",
-      "巨乳",
-      "劇情"
+      "劇情",
+      "按摩・美容店",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-03-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/743aafce-8d87-4ca4-9518-e0fbeced0b08.jpg",
     "actress": [
@@ -1605,22 +1337,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美少女电影",
-      "素人作品",
       "巨乳",
       "恋乳癖",
       "单体作品",
+      "中出",
+      "美少女电影",
+      "素人作品",
       "高中女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1634,46 +1360,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
+      "出軌",
       "多P",
+      "美腳",
+      "蕩婦",
       "口爆",
+      "臀控",
+      "美臀",
+      "深喉",
+      "人妻",
+      "淫亂",
+      "中出",
+      "按摩棒",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "緊身衣",
       "飯店",
       "苗條",
-      "臀控",
-      "美腳",
-      "緊身衣",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
+      "手指插入",
+      "騎乗位",
       "美乳",
-      "按摩棒",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
       "潮吹",
-      "人妻",
-      "深喉",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "手指插入",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240405/c9c24c04-e461-4dcc-94cc-3e7738ed27b3.jpg",
     "actress": [
@@ -1690,13 +1410,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240407/QDk9cjoH/1.jpg",
     "actress": [],
@@ -1710,47 +1424,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "口爆",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "胸控・戀乳癖",
-      "美乳",
+      "口爆",
+      "美臀",
       "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "按摩・美容店",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "吞精",
       "巨乳",
-      "性感",
       "口交",
       "潮吹",
-      "按摩・美容店",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "按摩女郎",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
       "乳交",
-      "黑絲",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "內衣",
       "女上位",
-      "騎乗位"
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/bdbc091177499f6a674b4132a5ec14a6.jpg",
     "actress": [
@@ -1766,30 +1474,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "短髮",
+      "重口味",
+      "巨尻",
+      "口交",
+      "絕頂高潮",
+      "叛逆少女",
+      "中出",
       "美少女電影",
       "女學生",
-      "巨尻",
-      "美少女",
-      "JK校服",
-      "叛逆少女",
-      "肛交",
-      "中出",
       "蕩婦",
-      "口交",
       "金髮",
       "劇情",
-      "重口味",
-      "絕頂高潮"
+      "JK校服",
+      "肛交",
+      "美少女",
+      "短髮"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-05-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082346346346.jpg",
     "actress": [
@@ -1805,37 +1507,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
       "凌辱",
-      "美少女",
       "美腳",
-      "強姦",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "變態",
-      "瑜珈·健身",
-      "口交",
-      "性感",
-      "健身教練",
-      "中出",
-      "美腿",
+      "運動服裝",
       "美臀",
-      "脚控・戀足癖",
+      "中出",
       "美少女電影",
+      "瑜珈·健身",
       "劇情",
+      "美少女",
+      "健身教練",
+      "強姦",
+      "色白",
+      "變態",
+      "騎乗位",
+      "羞恥",
+      "脚控・戀足癖",
+      "美乳",
+      "美腿",
+      "口交",
       "上門推銷",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-05-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082440162162.jpg",
     "actress": [
@@ -1851,33 +1547,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "美少女電影",
-      "巨尻",
-      "美少女",
-      "淫亂",
-      "勾引・誘惑",
-      "自宅",
-      "豐滿",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "口交",
-      "後入",
-      "劇情",
       "少女",
+      "勾引・誘惑",
+      "巨尻",
+      "豐滿",
+      "口交",
       "巨乳",
+      "絕頂高潮",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "蕩婦",
       "姐姐・妹妹",
-      "絕頂高潮"
+      "劇情",
+      "後入",
+      "亂倫",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-05-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421051812250250.jpg",
     "actress": [
@@ -1894,13 +1584,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240506/KCsOChmv/1.jpg",
     "actress": [],
@@ -1914,31 +1598,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "護士",
-      "美少女電影",
-      "約炮",
-      "美少女",
-      "女上位",
-      "苗條",
-      "中出",
-      "蕩婦",
-      "護士制服",
       "口交",
+      "絕頂高潮",
+      "約炮",
+      "中出",
       "性感",
+      "護士",
+      "苗條",
+      "女上位",
+      "美少女電影",
+      "蕩婦",
       "騎乗位",
       "劇情",
-      "絕頂高潮",
-      "抹油"
+      "抹油",
+      "護士制服",
+      "形象俱樂部",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035002253253.jpg",
     "actress": [
@@ -1954,30 +1632,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "女上位",
       "情趣飯店",
+      "口交",
+      "巨乳",
       "偷竊",
-      "美乳",
       "中出",
       "飯店",
-      "巨乳",
-      "口交",
+      "女上位",
+      "美少女電影",
+      "女學生",
       "劇情",
-      "抹油"
+      "抹油",
+      "JK校服",
+      "美少女",
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6fdf5944bbe4ef015cc35/cover.jpg",
     "actress": [
@@ -1993,29 +1665,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "手指插入",
-      "野性",
       "膚黑",
-      "女上位",
-      "中出",
-      "蕩婦",
       "口交",
-      "企畫",
-      "性感",
-      "丁字裤",
-      "騎乗位",
-      "辣妹/GAL系",
       "絕頂高潮",
-      "女優"
+      "中出",
+      "辣妹/GAL系",
+      "女優",
+      "企畫",
+      "女上位",
+      "丁字裤",
+      "蕩婦",
+      "手指插入",
+      "騎乗位",
+      "野性",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BonBon",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BonBon",
-        "works_count": 55
-      }
-    ],
+    "company": "BonBon",
     "publish_date": "2024-08-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240707/20240707034851102102.jpg",
     "actress": [
@@ -2032,7 +1698,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1a2e4e7d663df4da3e76/cover.jpg",
     "actress": [],
@@ -2047,7 +1713,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2062,7 +1728,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2077,7 +1743,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2094,13 +1760,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2117,13 +1777,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250220/jCBZv5CA/1.jpg",
     "actress": [
@@ -2139,19 +1793,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "成熟的女人",
       "黑人演员",
-      "已婚妇女"
+      "已婚妇女",
+      "凌辱",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "2021-11-23",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230103-1/4c59546e390b71503232f118eca3a902.jpg",
     "actress": [
@@ -2167,20 +1815,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "黑人演员",
       "人妻",
       "凌辱",
       "已婚妇女",
-      "戏剧",
-      "黑人演员"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "2021-12-28",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230103-1/de63ce8e6df80fafe0862a10cb7ab394.jpg",
     "actress": [
@@ -2196,19 +1838,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "黑人演员",
       "戏剧",
       "凌辱",
-      "黑人演员",
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "2022-01-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2225,13 +1861,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6b718c66d1a36b6ea2ac19338376d303.jpg",
     "actress": [],
@@ -2246,13 +1876,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250605/alqBSyDy/1.jpg",
     "actress": [],
@@ -2267,13 +1891,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230425/OZ6iiAmK/1.jpg",
     "actress": [],
@@ -2288,13 +1906,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2309,13 +1921,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231127/7BCBJNb7/1.jpg",
     "actress": [],
@@ -2329,61 +1935,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "女友・妻子",
-      "小隻馬",
-      "若妻",
-      "美人妻",
-      "三十路",
-      "阪道系",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "按摩棒",
       "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "貴婦",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "黑人男優",
-      "極品美人",
       "出軌",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
+      "美腳",
       "不倫",
-      "清純",
-      "舔陰",
-      "手指插入",
       "高妹",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "黑人男優",
+      "重口味",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "劇情",
       "家庭主妇",
-      "白眼失神",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "女友・妻子",
+      "色白",
+      "貴婦",
+      "高顏值",
+      "美人妻",
+      "若妻",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "三十路",
+      "白眼失神",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2399,61 +1999,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "若妻",
-      "多P",
-      "口爆",
-      "三十路",
-      "港區女子",
-      "苗條",
-      "阪道系",
-      "美腳",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "大奶头",
-      "美乳",
       "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "黑人男優",
-      "深喉",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "風俗娘",
-      "內衣",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "應召・援交",
-      "舔陰",
-      "手指插入",
-      "拜金女",
+      "多P",
+      "美腳",
       "高妹",
+      "口爆",
+      "亂交 • 群P",
+      "單體作品",
+      "深喉",
+      "黑人男優",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
       "御姐系",
-      "白眼失神",
+      "拜金女",
+      "劇情",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "若妻",
+      "阪道系",
+      "應召・援交",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "飯店小姐・援交妹",
+      "風俗娘",
       "女上位",
-      "騎乗位"
+      "三十路",
+      "內衣",
+      "白眼失神",
+      "熟女",
+      "大奶头",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "G.M.E",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GME",
-        "works_count": 96
-      }
-    ],
+    "company": "G.M.E",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2469,22 +2063,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
+      "口交",
       "中文字幕",
       "美少女电影",
       "素人作品",
-      "口交",
       "女上位",
-      "女生"
+      "女生",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b17bdeff9d956c6e002b9573b3a287f9.jpg",
     "actress": [
@@ -2501,23 +2089,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "泳装",
-      "乳交",
-      "素人作品",
       "口交",
+      "乳交",
+      "潮吹",
+      "运动",
       "手淫",
-      "讲师",
-      "运动"
+      "素人作品",
+      "泳装",
+      "讲师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5779e68a44bab4f699ae4de930d9f4a4.jpg",
     "actress": [
@@ -2535,13 +2117,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6fcc206dec27f2fe7601a5a9591b6925.jpg",
     "actress": [],
@@ -2555,24 +2131,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "角色扮演者",
       "单体作品",
-      "偶像",
+      "潮吹",
       "乳房",
       "美少女电影",
-      "按摩棒",
-      "角色扮演者",
+      "女优按摩棒",
+      "偶像",
       "接吻",
-      "女优按摩棒"
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d63de3ed39b57c0af616a/cover.jpg",
     "actress": [
@@ -2588,23 +2158,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "深喉",
-      "貧乳",
-      "偶像",
       "蠻橫嬌羞",
       "無毛",
+      "偶像",
       "苗條",
-      "接吻"
+      "貧乳",
+      "美少女電影",
+      "接吻",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230826/33cf2bcb-ba2b-4edd-b022-0dc1ede6b56b.jpg",
     "actress": [
@@ -2620,71 +2184,65 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "小隻馬",
-      "M男・M女",
-      "口爆",
+      "少女",
       "真實拍攝",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "苗條",
-      "鬼畜片",
-      "凌辱",
-      "4K",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
       "清楚系",
-      "口交",
-      "跳蛋",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "蠻橫嬌羞",
       "正統派",
+      "美腳",
+      "拘束・拷問",
+      "蘿莉控",
+      "小隻馬",
+      "口爆",
+      "SM",
+      "打屁股",
       "單體作品",
       "深喉",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
       "口球",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "極品美人",
       "偶像",
-      "蘿莉",
+      "美少女電影",
+      "接吻",
       "調教",
-      "蘿莉控",
+      "美少女",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "M男・M女",
+      "色白",
+      "緊縛",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "蘿莉",
+      "潮吹",
+      "4K",
+      "清純",
       "女上位",
-      "騎乗位"
+      "大奶头",
+      "JK校服",
+      "唾液敷面",
+      "跳蛋",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "2025-06-28",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629013829249249_thumbnail.webp",
     "actress": [
@@ -2701,7 +2259,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/97204349834a475dd1f4e53cb37b9efb.jpg",
     "actress": [],
@@ -2718,16 +2276,40 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230512/blk026pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-026"
+  },
+  {
+    "id": 531776,
+    "IDcode": "BLK-028",
+    "title": "blk00028 kira☆kira BLACK GAL 即ハメ超泥●GAL☆DRUNKING FUCK 麻木りあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/f694622907fb3e6448740acfb82a0f9c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-028"
+  },
+  {
+    "id": 536210,
+    "IDcode": "BLK-033",
+    "title": "kira☆kira BLACK GAL DOUBLE黒GAL女子校生 ～学校のエロ不思议！缲り返す闷絶アクメ～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230514/blk033pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-033"
   }
 ];

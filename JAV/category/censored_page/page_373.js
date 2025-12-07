@@ -1,174 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 61422,
-    "IDcode": "DOGD-024",
-    "title": "犬嗅ぎ娘 るい編 美女とキモおじ2 音琴るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "4K",
-      "M男",
-      "内衣",
-      "局部特写",
-      "肛交",
-      "素人作品",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "妃月るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOGD-024"
-  },
-  {
-    "id": 412028,
-    "IDcode": "DOGMA2024",
-    "title": "年上半年合集 塩见彩,叶芽遥希,石川云丹等演员 ADD059",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250920-1/cfdc97eb50c385ffc86bfaaa94fcb68e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOGMA2024"
-  },
-  {
-    "id": 578744,
-    "IDcode": "DOHI-025",
-    "title": "未婚で彼氏もいないアラサー女教师は、溜まった欲求不満を男子生徒の生チ○ポで解消",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-025"
-  },
-  {
-    "id": 578401,
-    "IDcode": "DOHI-027",
-    "title": "全国から続々と患者が集まる超人気病院は、ナースのおち○",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-027"
-  },
-  {
-    "id": 166379,
-    "IDcode": "DOHI-046",
-    "title": "パツパツのタイトスカートがピタッと密着していやらしさを強調",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-046"
-  },
-  {
-    "id": 166380,
-    "IDcode": "DOHI-047",
-    "title": "超夢幻學生傳播妹內射後宮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-047"
-  },
-  {
-    "id": 166381,
-    "IDcode": "DOHI-053",
-    "title": "甥っ子の朝勃チ○ポに大興奮！実家に集まった親戚のおばさん達は久々に見るガチガチに勃起した活きの良い若いチ○ポに欲情！近親チ○ポに群がり逆レイプ中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-053"
-  },
-  {
-    "id": 544465,
-    "IDcode": "DOHI-059",
-    "title": "勾引姐姐男朋友做爱的色妹妹（下）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-059"
-  },
-  {
-    "id": 540889,
-    "IDcode": "DOHI-061",
-    "title": "女性経験が少なそうな高学历で真面目な家庭教师第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOHI-061"
-  },
-  {
-    "id": 175334,
-    "IDcode": "DOJN-009",
-    "title": "858 冷たい視線のツンとしたクール系のギャルだと思っていたら、、、みな - 藍瀬ミナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOJN-009"
-  },
-  {
     "id": 174988,
     "IDcode": "DOJN-010",
     "title": "858 Z世代大学生色白おっぱい美少女ちせちゃん無責任ノーピル中出し- 蓮実ちせ",
@@ -177,7 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -192,7 +23,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -207,7 +38,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -222,7 +53,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -239,7 +70,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -256,7 +87,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -271,7 +102,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -285,13 +116,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "纪录片",
+      "介绍影片",
       "偶像",
-      "介绍影片"
+      "素人作品",
+      "纪录片"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2017-12-28",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -308,7 +139,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68fa13c5eb67774efbfc2311/poster2.jpg",
     "actress": [],
@@ -323,7 +154,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0b9f831a2714f1c5bc7ae/cover.jpg",
     "actress": [],
@@ -338,7 +169,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -353,7 +184,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/311e15a8be0bd654d96be7168523a645.jpg",
     "actress": [],
@@ -368,7 +199,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf11ca7de28f4ede50f198/cover.jpg",
     "actress": [],
@@ -383,7 +214,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -398,7 +229,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e51134e4a73d4f15c2cfdc/cover.jpg",
     "actress": [],
@@ -413,7 +244,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -428,7 +259,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d59d8feb67774efbb8493f/cover.jpg",
     "actress": [],
@@ -443,7 +274,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da02a6631cc64eb58a5c5f/cover.jpg",
     "actress": [],
@@ -458,7 +289,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/09/c311d16079244faf2a5a57c452986ff9.jpg",
     "actress": [],
@@ -472,17 +303,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "介绍影片",
+      "护士",
       "恶作剧",
       "羞耻",
       "乱伦",
-      "偶像",
-      "护士",
       "手淫",
-      "口交",
-      "介绍影片"
+      "偶像"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/4a675652122ef283bb646a00a7472c5c.jpg",
     "actress": [
@@ -502,7 +333,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d825643d6972716f1165e/cover.jpg",
     "actress": [],
@@ -517,7 +348,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230222/EPlpCCtP/1.jpg",
     "actress": [],
@@ -532,7 +363,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/yMu4WZxV/1.jpg",
     "actress": [],
@@ -547,7 +378,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231221/DTEuDelo/1.jpg",
     "actress": [],
@@ -562,7 +393,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -577,7 +408,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250514/NihmDjSQ/1.jpg",
     "actress": [],
@@ -592,7 +423,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -609,7 +440,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -627,7 +458,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/d24241f80a15557841c756b9e825bec8.jpg",
     "actress": [],
@@ -642,7 +473,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/d9bc7e81d46bbc161b9c017b2c564a77.jpg",
     "actress": [],
@@ -657,7 +488,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250709-1/c825908841894fc5efcd8e348ad196f6.jpg",
     "actress": [],
@@ -672,7 +503,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250709-1/7fe91b71e456888bc83f0238231ad5f4.jpg",
     "actress": [],
@@ -687,13 +518,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902856879f1ac4ec4c9f519/poster2.jpg",
     "actress": [],
@@ -708,13 +533,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230803/h_139doks216pl.jpg!320x216.jpg",
     "actress": [],
@@ -729,13 +548,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230920/h_139doks235pl.jpg!320x216.jpg",
     "actress": [],
@@ -750,13 +563,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/7YzuybFz/1.jpg",
     "actress": [],
@@ -771,13 +578,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/s80lzJ7P/1.jpg",
     "actress": [],
@@ -792,13 +593,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230929/h_139doks268pl.jpg!320x216.jpg",
     "actress": [],
@@ -813,13 +608,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231005/h_139doks271pl.jpg!320x216.jpg",
     "actress": [],
@@ -834,13 +623,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230818/h_139doks285pl.jpg!320x216.jpg",
     "actress": [],
@@ -855,13 +638,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231009/h_139doks288pl.jpg!320x216.jpg",
     "actress": [],
@@ -876,13 +653,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230818/h_139doks292pl.jpg!320x216.jpg",
     "actress": [],
@@ -897,13 +668,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230818/h_139doks295pl.jpg!320x216.jpg",
     "actress": [],
@@ -918,13 +683,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230819/h_139doks303pl.jpg!320x216.jpg",
     "actress": [],
@@ -943,13 +702,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2014-08-14",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -969,13 +722,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230917/h_139doks340pl.jpg!320x216.jpg",
     "actress": [],
@@ -990,13 +737,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231104/h_139doks344pl.jpg!320x216.jpg",
     "actress": [],
@@ -1011,13 +752,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231113/h_139doks368pl.jpg!320x216.jpg",
     "actress": [],
@@ -1032,13 +767,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230917/h_139doks395pl.jpg!320x216.jpg",
     "actress": [],
@@ -1053,13 +782,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231124/h_139doks396pl.jpg!320x216.jpg",
     "actress": [],
@@ -1074,13 +797,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231130/h_139doks410pl.jpg!320x216.jpg",
     "actress": [],
@@ -1095,13 +812,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/h_139doks414pl.jpg!320x216.jpg",
     "actress": [],
@@ -1116,13 +827,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231010/h_139doks416pl.jpg!320x216.jpg",
     "actress": [],
@@ -1137,13 +842,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/h_139doks423pl.jpg!320x216.jpg",
     "actress": [],
@@ -1158,13 +857,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/MpPBtXHP/1.jpg",
     "actress": [],
@@ -1179,13 +872,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/hkpCbwIj/1.jpg",
     "actress": [],
@@ -1200,13 +887,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/4cfa67fc616ed04780ac1f5add46af05.jpg",
     "actress": [],
@@ -1221,13 +902,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/a80d3a1f90eb10a3e5ea89e4f5e52743.jpg",
     "actress": [],
@@ -1241,21 +916,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "制服",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "高中女生"
+      "巨乳",
+      "素人作品",
+      "高中女生",
+      "4小时以上作品",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2019-04-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/8bf9fc45c55ab86b6f2caa080ea3c28d.jpg",
     "actress": [
@@ -1279,13 +948,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/418c477ad7fd1303aa5d58638515d6e0.jpg",
     "actress": [],
@@ -1299,25 +962,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
       "恋腿癖",
-      "OL",
-      "女教师",
       "护士",
-      "足交",
-      "素人作品",
       "巨乳",
-      "赛车女郎"
+      "赛车女郎",
+      "素人作品",
+      "足交",
+      "女教师",
+      "苗条",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/f02e140e2add371aa1313a48ec6f8ce8.jpg",
     "actress": [
@@ -1334,13 +991,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1c8e5aad1b5f5074e13401f7501f1b7b.jpg",
     "actress": [],
@@ -1357,13 +1008,7 @@ window.PAGE_DATA = [
       "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2020-01-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1383,13 +1028,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1403,17 +1042,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "颜射"
+      "颜射",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2020-02-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1429,20 +1062,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
       "荡妇",
-      "饮尿",
       "骑乗位",
+      "饮尿",
+      "屁股",
       "放尿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2020-03-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/a228cad14025761d367655ae6e96c7d5.jpg",
     "actress": [
@@ -1462,20 +1089,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "肌肉",
       "恋物癖",
       "姐姐",
-      "成熟的女人",
-      "肌肉"
+      "苗条",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2020-03-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1489,20 +1110,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "局部特写",
-      "制服",
       "巨乳",
-      "高中女生"
+      "高中女生",
+      "制服",
+      "局部特写",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2020-03-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1518,19 +1133,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "凌辱",
       "肛交",
       "姐姐",
-      "凌辱",
       "手淫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/2255762e2f9b1ea007aad9184758bb70.jpg",
     "actress": [
@@ -1547,13 +1156,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0b53831a2714f1c5baf6d/cover.jpg",
     "actress": [],
@@ -1568,13 +1171,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/04/58490_cover_2025-06-04_185538.jpg",
     "actress": [],
@@ -1589,13 +1186,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f35bf1eb67774efbf003e7/cover.jpg",
     "actress": [],
@@ -1610,13 +1201,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240626/h_139doks522pl.jpg!320x216.jpg",
     "actress": [],
@@ -1631,13 +1216,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1652,13 +1231,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240626/h_139doks525pl.jpg!320x216.jpg",
     "actress": [],
@@ -1672,20 +1245,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "局部特写",
       "恋物癖",
       "美少女电影",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "局部特写"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2021-05-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1702,13 +1269,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://pic31.anzise.com/pic/20220530/12fd9e89fcaac3b7ca0740a24b2f3d42/1.jpg",
     "actress": [],
@@ -1723,13 +1284,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231028/h_139doks549pl.jpg!320x216.jpg",
     "actress": [],
@@ -1743,21 +1298,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "吞精",
+      "单体作品",
       "纪录片",
       "美少女电影",
-      "单体作品"
+      "淫乱，真实"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2022-06-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b7e564ce996c9d5d8649815fd0855ccd.jpg",
     "actress": [],
@@ -1772,13 +1321,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1787,7 +1330,7 @@ window.PAGE_DATA = [
   {
     "id": 576083,
     "IDcode": "DOKS-564",
-    "title": "[] 刚毛おま○こ制服美少女 本田さとみ",
+    "title": "刚毛おま○こ制服美少女 本田さとみ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1795,13 +1338,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230416/36doks00564pl.jpg",
     "actress": [],
@@ -1815,22 +1352,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
+      "单体作品",
       "屁股",
       "4K",
-      "局部特写",
       "美少女电影",
-      "单体作品",
-      "连裤袜"
+      "连裤袜",
+      "高中女生",
+      "局部特写"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/ce5da7fdf85ea7f641869f094e9df846.jpg",
     "actress": [
@@ -1847,13 +1378,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250428-1/344b951aa89302c89490202da81a3981.jpg",
     "actress": [],
@@ -1867,20 +1392,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "平胸",
+      "巨乳",
       "乳房",
       "美少女电影",
-      "巨乳"
+      "淫乱，真实",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "2022-08-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/73cf6a28befa9736b2af0914d5e563c7.jpg",
     "actress": [
@@ -1899,27 +1418,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "潮吹",
       "荡妇",
       "吞精",
       "已婚妇女",
-      "内衣",
-      "自慰",
-      "肛交",
+      "潮吹",
       "纪录片",
-      "成熟的女人",
-      "女优按摩棒"
+      "女优按摩棒",
+      "淫乱，真实",
+      "自慰",
+      "苗条",
+      "内衣",
+      "肛交",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/ae0a37c45cd514385baef8ef9c61b686.jpg",
     "actress": [],
@@ -1935,20 +1448,14 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "恋腿癖",
-      "OL",
+      "单体作品",
+      "连裤袜",
       "自慰",
       "姐姐",
-      "单体作品",
-      "连裤袜"
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1963,13 +1470,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20250425-1/da3be3835889b5a04c379c988d934a47.jpg",
     "actress": [],
@@ -1984,13 +1485,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2005,13 +1500,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/qQ8xynPH/1.jpg",
     "actress": [],
@@ -2025,27 +1514,217 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "屁股",
       "4K",
       "美少女电影",
-      "制服",
       "连裤袜",
-      "单体作品",
-      "高中女生"
+      "高中女生",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "OFFICE K’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
-        "works_count": 173
-      }
-    ],
+    "company": "OFFICE K’S",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/9cf22622afd65acd7464e4ad2074e9bd.jpg",
     "actress": [
       "南見つばさ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-579"
+  },
+  {
+    "id": 548582,
+    "IDcode": "DOKS-580",
+    "title": "【水责め快楽#窒息溺れイキ】トラウマが私の性癖を拗らせました 苦しくて濡れるMマ●コ 雨依つばめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230801/roobiXkO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-580"
+  },
+  {
+    "id": 563510,
+    "IDcode": "DOKS-581",
+    "title": "爱液出まくり！女子校生のイキ过ぎピストンディルドオナニー 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230905/fOYuqH7Y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-581"
+  },
+  {
+    "id": 18821,
+    "IDcode": "DOKS-582",
+    "title": "潮！潮！潮吹小麥色皮膚的性感女孩NATSUKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "膚黑",
+      "潮吹",
+      "局部特寫",
+      "紀錄片",
+      "蕩婦",
+      "美臀"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2023-09-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903202532796796.jpg",
+    "actress": [
+      "NATSUKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-582"
+  },
+  {
+    "id": 563509,
+    "IDcode": "DOKS-583",
+    "title": "挑発煽りスパイダー骑乘位で贡ぎマゾ调教する女子校生りお ゴムありキス无しツバ吐き10万円-“キ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230905/vD905j6L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-583"
+  },
+  {
+    "id": 547247,
+    "IDcode": "DOKS-585",
+    "title": "欲求不満妻たちのセンズリ鉴赏 総集编 美人でドスケベな奥様だけを厳选した浓厚5时间コレクション",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/5ZwUNWjz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-585"
+  },
+  {
+    "id": 18070,
+    "IDcode": "DOKS-586",
+    "title": "美人OL的性感黑絲美腳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同事",
+      "舔腳",
+      "黑絲",
+      "足交",
+      "辦公室",
+      "OL",
+      "蕩婦",
+      "性感",
+      "脚控・戀足癖",
+      "淫語"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2023-11-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20231102/3d51406a-756c-4365-9f2a-5d32627ab906.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-586"
+  },
+  {
+    "id": 547546,
+    "IDcode": "DOKS-587",
+    "title": "Flying Bitch 完全振り切ってるAV女优のSEXドキュメンタリー＃3 死ぬほど痛めつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231102/PlCWkrDi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-587"
+  },
+  {
+    "id": 18068,
+    "IDcode": "DOKS-588",
+    "title": "叛逆的刺青少女 全身刺青的癡女 喜歡被性虐的M女老師",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "刺青紋身",
+      "蕩婦",
+      "劇情",
+      "羞恥",
+      "深喉",
+      "淫語"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2023-11-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20231102/202311020013588585.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-588"
+  },
+  {
+    "id": 91274,
+    "IDcode": "DOKS-589",
+    "title": "美尻お漏らし顔面騎乗（DOKS-589）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "屁股",
+      "4K",
+      "素人作品",
+      "放尿",
+      "姐姐",
+      "淫语",
+      "局部特写"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240425-1/19081a191be4012956d0e2340db75f15.jpg",
+    "actress": [
+      "加藤桃香",
+      "望月綾香",
+      "瀬那瑠美奈",
+      "小栗操",
+      "岬梓沙",
+      "希望美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-589"
+  },
+  {
+    "id": 547251,
+    "IDcode": "DOKS-590",
+    "title": "絶伦オナニーモンスター5 今までイキ足りたことがない、底なし无限性欲少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/gcl0cecR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-590"
   }
 ];

@@ -573,7 +573,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

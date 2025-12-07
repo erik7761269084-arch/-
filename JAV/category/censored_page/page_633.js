@@ -1,460 +1,985 @@
 window.PAGE_DATA = [
   {
-    "id": 83564,
-    "IDcode": "HIKR-156",
-    "title": "チェコから医者を目指しハンガリーにやってきた世間知らずで性格良し子の巨乳留学生をホテルに連れ込み生中出し性交！",
+    "id": 71720,
+    "IDcode": "HND-576",
+    "title": "すんごい乳首責めで中出しを誘う連続膣搾り痴女お姉さん 篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
-      "业余",
-      "中出",
-      "素人作品",
+      "数位马赛克",
+      "荡妇",
       "巨乳",
-      "白人",
-      "精选，综合"
+      "女上位",
+      "M男",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-03-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/abb82a441828d5e8a346e475dc578ef6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-156"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5e93fdd43b5534ad36923e9de095dd9c.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-576"
   },
   {
-    "id": 81609,
-    "IDcode": "HIKR-157",
-    "title": "アメリカン・ポルノスター図鑑 スプラッシャー: ウィットニー・ライト",
+    "id": 82656,
+    "IDcode": "HND-577",
+    "title": "俺の友達全員集めて強制腰振らせ騎乗位輪姦で隣人ギャルを孕ませた。 AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "中出",
+      "轮奸",
+      "女上位",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-09-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "AIKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-577"
+  },
+  {
+    "id": 567212,
+    "IDcode": "HND-578",
+    "title": "出逢ったその日に即中出しさせてくれる出会い系アプリで话题の女神がAV出演 椿井えみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-578"
+  },
+  {
+    "id": 211422,
+    "IDcode": "HND-580",
+    "title": "騎乗位-河南実里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-580"
+  },
+  {
+    "id": 183142,
+    "IDcode": "HND-581",
+    "title": "现役女大学生兼职拍AV和比父亲还大的老头深吻缠绵内射做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-581"
+  },
+  {
+    "id": 534469,
+    "IDcode": "HND-582",
+    "title": "大阪へ行けば生本番できるギャルデリヘル嬢AVデビュー！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-582"
+  },
+  {
+    "id": 207512,
+    "IDcode": "HND-584",
+    "title": "小恶魔美谷朱里跳着舞蹈随着音乐全力内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-584"
+  },
+  {
+    "id": 534500,
+    "IDcode": "HND-585",
+    "title": "絶対にナマで连射させてくれる连続中出しソープ 込山りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-585"
+  },
+  {
+    "id": 82638,
+    "IDcode": "HND-586",
+    "title": "献身风俗界的美人随意内射只有你想不到的服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "已婚妇女",
+      "中出",
+      "偷窥",
+      "妓女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/20241028/5VKiqf0H/1.jpg",
+    "actress": [
+      "风花くれは"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-586"
+  },
+  {
+    "id": 82650,
+    "IDcode": "HND-587",
+    "title": "趁最好的兄弟不在家我强行霸占了他的妻子疯狂内射停不下来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "潮吹",
+      "中出",
+      "高",
+      "接吻",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "真琴",
+      "宫村ななこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-587"
+  },
+  {
+    "id": 82685,
+    "IDcode": "HND-588",
+    "title": "我可爱的女朋友参加同学聚会惨遭闺蜜设计那天变成了针对她的轮奸内射派对",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "轮奸",
+      "女大学生",
+      "颜射",
+      "强奸"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677ffff189def9b1b8cf337b/cover.jpg",
+    "actress": [
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-588"
+  },
+  {
+    "id": 595623,
+    "IDcode": "HND-591",
+    "title": "新人（自称）日本一キスが好きな现役女子大生AVデビュー 松下ひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/79C2EUhq.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-591"
+  },
+  {
+    "id": 82640,
+    "IDcode": "HND-593",
+    "title": "本能潮吹禁欲性交49次射精无限内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女",
+      "滥交",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "河南実里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-593"
+  },
+  {
+    "id": 82604,
+    "IDcode": "HND-595",
+    "title": "绝伦人妻被要求禁欲在家里也不能和老公做爱一个月后释放欲望和男优们疯狂解禁内射性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "荡妇",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "中出",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "河北麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-595"
+  },
+  {
+    "id": 534602,
+    "IDcode": "HND-596",
+    "title": "Fカップ超美肌妻がNTRマニアの夫のために生ハメ＆中出し解禁！ 1回目は若いヤリチン男优と同时",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/adfda52f9471c5dea4fa50b60d053a42.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-596"
+  },
+  {
+    "id": 595624,
+    "IDcode": "HND-597",
+    "title": "絶対にナマで连射させてくれる连続中出しソープ 黒川サリナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/N0Z6dlpu.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-597"
+  },
+  {
+    "id": 82666,
+    "IDcode": "HND-598",
+    "title": "大学同学会变成了妻子的轮奸内射聚会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "中出",
+      "轮奸",
+      "女大学生",
+      "滥交",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-598"
+  },
+  {
+    "id": 210315,
+    "IDcode": "HND-599",
+    "title": "跟踪者的威胁-枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-599"
+  },
+  {
+    "id": 213703,
+    "IDcode": "HND-600",
+    "title": "絶倫中年-山本麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-600"
+  },
+  {
+    "id": 82662,
+    "IDcode": "HND-601",
+    "title": "时间停止能力少女-神宮寺ナオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "荡妇",
+      "中出",
+      "校服",
+      "高中女生",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神宫寺奈绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-601"
+  },
+  {
+    "id": 82668,
+    "IDcode": "HND-602",
+    "title": "对出轨给我臭脸的妻子强迫后入内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大屁股",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ea846a1f19f2c959f3b98d86e28b142e.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-602"
+  },
+  {
+    "id": 526471,
+    "IDcode": "HND-604",
+    "title": "新人-18歳 南の岛からやってきた性の知识がほとんどない纯真无垢な日焼け美少女AVデビュー くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-604"
+  },
+  {
+    "id": 71711,
+    "IDcode": "HND-605",
+    "title": "禁欲女×絶倫男 ナマで覚醒！本能剥き出し真正中出し解禁！！ 松田美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "艺人",
+      "苗条",
+      "多P",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4c166606001a1e83f59200e775789539.jpg",
+    "actress": [
+      "松田美子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-605"
+  },
+  {
+    "id": 215286,
+    "IDcode": "HND-606",
+    "title": "一个出轨的人妻对她丈夫的忏悔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-606"
+  },
+  {
+    "id": 215362,
+    "IDcode": "HND-607",
+    "title": "半夜里射精-佐久間恵美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-607"
+  },
+  {
+    "id": 71707,
+    "IDcode": "HND-608",
+    "title": "巨乳女教師と男子生徒禁断の純愛NTR中出し日記 河北麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学校作品",
+      "巨乳",
+      "淫妻",
+      "中出",
+      "女教师",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/db9bef2c078dd9c4f81d29859f7088a9.jpg",
+    "actress": [
+      "蓝井优太",
+      "河北麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-608"
+  },
+  {
+    "id": 71713,
+    "IDcode": "HND-609",
+    "title": "はじめてのナマ中出し 岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "美少女",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b82329015e2d87d272f0e16f42b8cb0c.jpg",
+    "actress": [
+      "岬梓沙",
+      "森林原人",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-609"
+  },
+  {
+    "id": 595537,
+    "IDcode": "HND-613",
+    "title": "至近距离に彼女がいるのに耳元でコソコソ口说いてくるささやき诱惑中出し 高杉麻里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/74b0335e3387bb8c547ce5e9e2485fc6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-613"
+  },
+  {
+    "id": 71212,
+    "IDcode": "HND-614",
+    "title": "早泄巨乳人妻肥皂浴凛音桃花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "乳交",
+      "中出",
+      "妓女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1a87cc068ef8202a1e7bdf2ac52d717c.jpg",
+    "actress": [
+      "凛音とうか",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-614"
+  },
+  {
+    "id": 71710,
+    "IDcode": "HND-615",
+    "title": "おい、幼馴染「もうイッてるってばぁ！」状態で追撃ピストン中出しの快感教えろッ！ 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "童年朋友",
+      "中出",
+      "自慰",
+      "调教",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c9de96def77fdbbf541b563b4f1da4e5.jpg",
+    "actress": [
+      "麻里梨夏",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-615"
+  },
+  {
+    "id": 71171,
+    "IDcode": "HND-617",
+    "title": "「AV男優に抱かれてほしい-」ネトラセラレ本物人妻AVデビュー 花咲里菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "人妻",
+      "已婚妇女",
+      "首次亮相",
+      "中出",
+      "多P",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a12e9c460550eea7c9b5a51ceda82a0e.jpg",
+    "actress": [
+      "鲛岛",
+      "花咲里菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-617"
+  },
+  {
+    "id": 534817,
+    "IDcode": "HND-618",
+    "title": "昼と夜のお店を挂け持ちする 本番中出しさせてくれる噂の巨乳エステティシャンAVデビュー 日向恵美さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231014/hnd618pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-618"
+  },
+  {
+    "id": 71708,
+    "IDcode": "HND-619",
+    "title": "学生結婚で休学中の現役女子大生母乳幼妻 同級生の夫に内緒で大人の男根と初不倫！ かな20歳 産後直後で感度抜群の子宮に子作り中出しAV出演ドキュメント",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "已婚妇女",
+      "母乳",
+      "女大学生",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/136478db2be3c681a166d6ce6f9cd0bc.jpg",
+    "actress": [
+      "鲛岛",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-619"
+  },
+  {
+    "id": 211626,
+    "IDcode": "HND-620",
+    "title": "射出大量的精液-あいだ飛鳥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-620"
+  },
+  {
+    "id": 82621,
+    "IDcode": "HND-621",
+    "title": "控制不住扭腰内射H高潮-神宮寺ナオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "女上位",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神宫寺奈绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-621"
+  },
+  {
+    "id": 106089,
+    "IDcode": "HND-622",
+    "title": "新任女教師-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "中出",
+      "轮奸",
+      "女教师",
+      "苗条",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-622"
+  },
+  {
+    "id": 99387,
+    "IDcode": "HND-623",
+    "title": "彼女の妹に愛されすぎてこっそり子作り性活 茜はるか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "美少女",
+      "中出",
+      "妹妹",
+      "制服",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-01-25",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hnd623/hnd623pl.jpg",
+    "actress": [
+      "茜はるか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-623"
+  },
+  {
+    "id": 212540,
+    "IDcode": "HND-624",
+    "title": "大学饮酒聚会-枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-624"
+  },
+  {
+    "id": 595385,
+    "IDcode": "HND-628",
+    "title": "新人大人に憧れて下着屋でバイトする脱いだらスゴい究极裸体のむっつり文系女子大生真正中出しAV出演！！ 东条苍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/45a5129e96436ce9be974e7a31ec2aed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-628"
+  },
+  {
+    "id": 97579,
+    "IDcode": "HND-630",
+    "title": "清纯学生妹美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "女上位",
+      "苗条",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-630"
+  },
+  {
+    "id": 64123,
+    "IDcode": "HND-631",
+    "title": "斯文人妻筱田优偷偷对我说骚话诱惑我内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "巨大屁股",
+      "中出",
+      "素人作品",
+      "眼镜",
+      "出轨",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/6780232989def9b1b8d2765d/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-631"
+  },
+  {
+    "id": 82646,
+    "IDcode": "HND-632",
+    "title": "人气播音女主播-有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "苗条",
+      "女大学生",
+      "轮奸"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/6780250989def9b1b8d2e72e/cover.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-632"
+  },
+  {
+    "id": 71706,
+    "IDcode": "HND-633",
+    "title": "小弟弟从后面插入她的阴道深处而受孕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "潮吹",
-      "深喉",
       "中出",
-      "素人作品",
-      "白人",
-      "精选，综合"
+      "美少女电影",
+      "性骚扰",
+      "轮奸"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-03-07",
-    "cover_url": "https://tuaskbgnekr.com/20221126/jtL1xtu1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-157"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/32cbd75e23235f5cedc999bfdbe82ac1.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-633"
   },
   {
-    "id": 81621,
-    "IDcode": "HIKR-158",
-    "title": "半年前ロスでナンパした笑顔の素敵な超美巨乳学生が前回いいSEXを見せてくれたので頼み込んでの緊急中出しAV出演！ バニー（20歳）",
+    "id": 71721,
+    "IDcode": "HND-634",
+    "title": "被色魔侵犯的女高中生-星奈あい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "大小姐",
-      "猎艳",
-      "业余",
       "中出",
-      "白人",
-      "巨乳"
+      "美少女电影",
+      "轮奸",
+      "苗条",
+      "制服"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/f37aad9110bbbcda7a205d7b1fdeba6a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-158"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1d1062a45aced28781c45ea56054e0b2.jpg",
+    "actress": [
+      "星奈爱",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-634"
   },
   {
-    "id": 81599,
-    "IDcode": "HIKR-159",
-    "title": "ロスでナンパしたビバリーヒルズのお嬢様大学生が日本の中年オヤジのギャグに神対応で可愛くエッチにAVデビュー ライリー（21歳）",
+    "id": 71783,
+    "IDcode": "HND-635",
+    "title": "玩弄乳头诱惑内射连续做爱的痴女水野朝阳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "猎艳",
-      "业余",
-      "中出",
-      "白人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/5fb909fbb7d47e894514564a8b6e70c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-159"
-  },
-  {
-    "id": 81607,
-    "IDcode": "HIKR-161",
-    "title": "フェラが大好きすぎる！ ジュエル21歳AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "业余",
-      "中出",
-      "制服",
+      "荡妇",
       "巨乳",
-      "白人"
+      "美少女电影",
+      "M男",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://tuaskbgnekr.com/20221126/Ia56PxW4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-161"
-  },
-  {
-    "id": 563910,
-    "IDcode": "HIKR-191",
-    "title": "ロスでナンパした塩対応の长身モデル美女が実は●●●でくそエロかった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230726/wii7yn93/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-191"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/87228c9471702524ede9c22eea5c10b2.jpg",
+    "actress": [
+      "水野朝陽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-635"
   },
   {
-    "id": 563907,
-    "IDcode": "HIKR-192",
-    "title": "ロスでナンパしたビバリーヒルズのお嬢様が処女なのに中出しAVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230726/ig3t05x3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-192"
-  },
-  {
-    "id": 548451,
-    "IDcode": "HIKR-193",
-    "title": "ロスでナンパした爱娇抜群のショップ店员が経験人数120人超えのヤリマンだった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230817/SEheGFeD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-193"
-  },
-  {
-    "id": 548450,
-    "IDcode": "HIKR-194",
-    "title": "ロスでナンパした性格良し子のバリスタがお金に困っていたので援助した结果",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230817/B7fSg8TU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-194"
-  },
-  {
-    "id": 548278,
-    "IDcode": "HIKR-195",
-    "title": "ロスでナンパしたやわ巨乳のインテリ女子大生を强引に口说いて胜手にAVデビュー クロエ（24）",
+    "id": 523640,
+    "IDcode": "HND-636",
+    "title": "邻人にいてほしい人妻 男优の自宅に一泊お泊り中出しデビュー 末永ありさ（仮）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230904/3azn1dKo/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/f70b905920419f1c715b833789a32bc8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-636"
   },
   {
-    "id": 548277,
-    "IDcode": "HIKR-196",
-    "title": "ロスでナンパした天真烂漫なブロンド美女を强引に口说いて胜手にAVデビュー スカーレット（25）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230904/zMfRWtwZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-196"
-  },
-  {
-    "id": 548275,
-    "IDcode": "HIKR-198",
-    "title": "ロスでナンパした失恋したばかりの女子大生が美乳ぷるるん中出しAVデビュー ヘーゼル（22）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230904/Dslu3OMC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-198"
-  },
-  {
-    "id": 547681,
-    "IDcode": "HIKR-200",
-    "title": "ロスでナンパした合法ロリがT●kT●kでバズるためにAVデビュー ココ（23）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/NdDU6bap/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-200"
-  },
-  {
-    "id": 562982,
-    "IDcode": "HIKR-201",
-    "title": "ロスでナンパした高身长美女が超ど级エロモンスターだった カトリーナ（34）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/tZ6zU2j5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-201"
-  },
-  {
-    "id": 545282,
-    "IDcode": "HIKR-202",
-    "title": "ロスでナンパした美ボディ美少女がお金のために日本のキモおじさんとAVデビュー メラニー（19）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/Uw9bemUN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-202"
-  },
-  {
-    "id": 545283,
-    "IDcode": "HIKR-203",
-    "title": "ロスで出会った超美巨乳なハイスクール教师が刺激とジャパンディックを求めて ジゼル（27歳）",
+    "id": 164765,
+    "IDcode": "HND-637",
+    "title": "都内の大学目指す美少女予備校生が受験",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/yyK449WW/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-637"
   },
   {
-    "id": 525568,
-    "IDcode": "HIKR-204",
-    "title": "ロスでナンパした美女ウエイトレスが￥に钓られて日本のおじさんに中出しされちゃった サハラ（21歳）",
+    "id": 71641,
+    "IDcode": "HND-638",
+    "title": "ワケありGカップ美容師さんが脱いだ！！！！ 夢を叶えるために上京して一年、地元の全員に内緒で真正中出しAV出演！！ 須崎まどか（仮）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹"
+      "精选，综合",
+      "巨乳",
+      "乳交",
+      "中出",
+      "美少女电影",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/EVvhmWQZ/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/00f35143cb7a11cd0adca727b5422f69.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-204"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-638"
   },
   {
-    "id": 525567,
-    "IDcode": "HIKR-205",
-    "title": "ロスで出会った190センチ超えのモデル级スタイルのバスケット选手が性欲解消の相手としてジャパン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/ElHo4RTS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-205"
-  },
-  {
-    "id": 560518,
-    "IDcode": "HIKR-206",
-    "title": "ロスでナンパした年商5亿の美人経営者がまさかの吉村卓ファン？！で舐めつくされる ヴィーナス（34）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240819/U6xGjd7K/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-206"
-  },
-  {
-    "id": 560517,
-    "IDcode": "HIKR-207",
-    "title": "ロスで出会ったモデル志望のブロンドヘア巨乳が日本の撮影に兴味あり！？日本で有名になって姊妹を支",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240819/mjoR4Aii/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-207"
-  },
-  {
-    "id": 493018,
-    "IDcode": "HIKR-208",
-    "title": "我尝试与在洛杉矶一家超市认识的一位美丽的已婚女士谈判，看看我能走多远，结果我甚至最终 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/e87cb0f8f32ecf7913022b9439440a0a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-208"
-  },
-  {
-    "id": 173577,
-    "IDcode": "HIKR-209",
-    "title": "ロスで出会った●●航空のヤリマンCAがAVデビュー！！スカーレット（24歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/ec4e521511931d41ac48be56d52652b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-209"
-  },
-  {
-    "id": 493320,
-    "IDcode": "HIKR-210",
-    "title": "洛杉矶反向接送！？饭店泳池边的神秘金发美女利用吉村卓的手相预测未来！死亡还是性！艾未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/5660fb2327f4699de6216681a9788603.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-210"
-  },
-  {
-    "id": 493237,
-    "IDcode": "HIKR-211",
-    "title": "在爱达荷州丰富的大自然中长大的朴素的雀斑女大学生意外地出现在AV中！莱尼（21岁）未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/435fd67043f0f262117310ac4e9f9659.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-211"
-  },
-  {
-    "id": 443779,
-    "IDcode": "HIKR-212",
-    "title": "洛杉矶运动设施搭讪的黑人运动员是桌球选手！？我要尽情享受她那强壮又美丽的身体！！尼可 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251002-1/73450497771a1eff49916f824fec8758.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-212"
-  },
-  {
-    "id": 456561,
-    "IDcode": "HIKR-213",
-    "title": "与洛杉矶认识的房仲公司美女社长秘书在社长室约会！？与社长搞不伦的婊子美女激烈抽插中出 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/423268dfe82a0d011b93f29b652ba691.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-213"
-  },
-  {
-    "id": 440178,
-    "IDcode": "HIKR-214",
-    "title": "与在洛杉矶街头相遇的爆乳女子摔角选手的性爱对决！艾希莉（24岁） 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250919-1/4f8a58dd4697bb83131d0bcaa053feed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-214"
-  },
-  {
-    "id": 443972,
-    "IDcode": "HIKR-215",
-    "title": "擅自让洛杉矶大学正妹大学生出道！天空（23） 未知演员",
+    "id": 515633,
+    "IDcode": "HND-639",
+    "title": "不是背后位就不干的可爱苗条美女大学生AV出道 可爱美久",
     "year": "",
     "country": "",
     "genre": "",
@@ -462,1268 +987,1127 @@ window.PAGE_DATA = [
       "出道作"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250917-1/70480fa62ec38a2c3e6599704212a6fd.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/01d6fdd4a16ede3cb182c656775441c7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-215"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-639"
   },
   {
-    "id": 443941,
-    "IDcode": "HIKR-216",
-    "title": "这是帮助一位美丽的金发纹身师在洛杉矶开了一家纹身店的结果！灰色 (25) 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250919-1/198eb800a300db70a6dbf25af3fb06e7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-216"
-  },
-  {
-    "id": 443942,
-    "IDcode": "HIKR-217",
-    "title": "在洛杉矶咖啡馆接她的超可爱亲密协调员崇拜日本传奇AV演员吉村拓？意想不到的日本叔叔和 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250919-1/4c12eeac87b52276f93c9b146cf1158e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-217"
-  },
-  {
-    "id": 412428,
-    "IDcode": "HIKR-218",
-    "title": "ロスの軍基地でナンパしたアメリカ軍人とハードセックスミーガン（28）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/c3a8b1623d12d036e748d1e429d3d54b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-218"
-  },
-  {
-    "id": 73665,
-    "IDcode": "HIKR-219",
-    "title": "ロスの高級住宅街のカラバサスでナンパしたビッチなセレブお嬢様と日本のおじさんが中出し性交！？シャネル（23）",
+    "id": 82675,
+    "IDcode": "HND-640",
+    "title": "AV男優さんの事-冬愛ことね",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
-      "业余",
+      "精选，综合",
+      "首次亮相",
       "中出",
-      "白人",
-      "大小姐"
+      "美少女电影",
+      "素人作品",
+      "女生",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/17265834fe511fef6bd298046bd86745.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-219"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "冬爱琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-640"
   },
   {
-    "id": 402280,
-    "IDcode": "HIKR-220",
-    "title": "ロスのゴルフ場でナンパした10頭身モデル美女と5頭身おじさんがまさかの中出しセックス！？アリア（25）",
+    "id": 164766,
+    "IDcode": "HND-642",
+    "title": "淫荡女人-松永さな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/327eb9600a7b3228ba2dbe80707c79c8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-220"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-642"
   },
   {
-    "id": 402282,
-    "IDcode": "HIKR-221",
-    "title": "ロスの公園でT●kT●k撮影していた女子大生をナンパして生ハメのコラボ撮影！？ジル（20）",
+    "id": 164767,
+    "IDcode": "HND-643",
+    "title": "濃密中出-美谷朱里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/db6d314dcd7f3334e800be9c25f9ea11.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-221"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-643"
   },
   {
-    "id": 402286,
-    "IDcode": "HIKR-222",
-    "title": "ハンガリーのブダペストでナンパした金髪美女とロスのカフェで奇跡の再会！？チェリー（31）",
+    "id": 222849,
+    "IDcode": "HND-644",
+    "title": "假想拍摄自己引退之后的生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/c3a3b3da20b27dd0f32c7c595314d183.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-222"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-644"
   },
   {
-    "id": 444302,
-    "IDcode": "HIKR-223",
-    "title": "1年前にロスでナンパした弁護士志望のクロエがたまたま入ったカフェでバイトしてる奇跡！！クロエ（26）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/48640794d046253c38fea38d6c68bc78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-223"
-  },
-  {
-    "id": 449055,
-    "IDcode": "HIKR-224",
-    "title": "ロスにいる吉村卓に自慢の妻を寝取ってほしいと逆オファー！？マヤ（28）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250325/ZKYBMjIu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-224"
-  },
-  {
-    "id": 440444,
-    "IDcode": "HIKR-225",
-    "title": "昨年ロスで出会った美巨乳なハイスクール教師が研究員になって再登場！ジゼル（28）",
+    "id": 82624,
+    "IDcode": "HND-645",
+    "title": "文科女孩深田咏美偷偷插入诱惑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "校服",
+      "学校泳装"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e7383b631cc64eb5a25ab0/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-645"
+  },
+  {
+    "id": 82631,
+    "IDcode": "HND-646",
+    "title": "在校园活动室被迫做风俗服务的校花有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "礼仪小姐",
+      "苗条",
+      "轮奸"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有坂深雪",
+      "蓝井优太",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-646"
+  },
+  {
+    "id": 71640,
+    "IDcode": "HND-648",
+    "title": "絶対にナマで連射させてくれる連続中出しソープ 黒崎みか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/21dec6bd96fedb22ee1411d2ddb13d7b.jpg",
+    "actress": [
+      "黒崎みか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-648"
+  },
+  {
+    "id": 164768,
+    "IDcode": "HND-650",
+    "title": "大学であのグラドル四●王に似てると話題！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-650"
+  },
+  {
+    "id": 535150,
+    "IDcode": "HND-652",
+    "title": "お嬢様大学に通いながら高级ソープに出勤する美乳女子大生デビュー かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-652"
+  },
+  {
+    "id": 566262,
+    "IDcode": "HND-653",
+    "title": "解禁真正内射超浓厚接吻特辑 二宫光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/e92a2ea875a190dc9680930490295d76.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-653"
+  },
+  {
+    "id": 534196,
+    "IDcode": "HND-654",
+    "title": "絶対にナマで连射させてくれる连続中出しソープ 松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/1ac2ccdae6971fead4d08929f877d731.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-654"
+  },
+  {
+    "id": 595253,
+    "IDcode": "HND-655",
+    "title": "我找到了偶像的住宅 松田美子 瞄准家人不在家的3天时间入侵住宅，持续强制内射 偶像生涯被迫结束的全过程。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/8d726d7ca298b09c5c44c5e2aeec35c4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-655"
+  },
+  {
+    "id": 82555,
+    "IDcode": "HND-656",
+    "title": "和女朋友妹妹深田绘美的秘密做爱内射生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "妹妹",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-656"
+  },
+  {
+    "id": 212302,
+    "IDcode": "HND-657",
+    "title": "淫荡的女士-八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-657"
+  },
+  {
+    "id": 71781,
+    "IDcode": "HND-658",
+    "title": "缓急有序的大姐开苞内射骑乘位",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "女上位",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e8c9f2d1e8aa5a6b7d9d16009ac3e6d5.jpg",
+    "actress": [
+      "美谷朱里",
+      "森林原人",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-658"
+  },
+  {
+    "id": 71782,
+    "IDcode": "HND-659",
+    "title": "爆乳妓女是自己曾经暗恋的老师-凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
+      "礼仪小姐",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4a20d30c4bc1a60eff371024d5fc4dbb.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-659"
+  },
+  {
+    "id": 84804,
+    "IDcode": "HND-660",
+    "title": "在一个危险的日子里-岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "巨大屁股",
+      "美少女电影",
+      "性骚扰",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7024e7d663df4b3fa63/cover.jpg",
+    "actress": [
+      "岬梓沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-660"
+  },
+  {
+    "id": 82545,
+    "IDcode": "HND-661",
+    "title": "有坂深雪被面无表情的男人强奸怀孕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女电影",
+      "苗条",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f5b8789def9b1b8cf3074/cover.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-661"
+  },
+  {
+    "id": 71709,
+    "IDcode": "HND-662",
+    "title": "篠田ゆう、M男ペットを飼う。寸止め、焦らしの連続で30日間禁欲監視生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "荡妇",
+      "巨乳",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/af5ab23dd4d77555543c17fdd1233f6a.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-662"
+  },
+  {
+    "id": 82760,
+    "IDcode": "HND-663",
+    "title": "18歳の初めて。ナマ中出しで覚醒 ～密室ホテルでひたすらセックス～ 加賀美まり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "女上位",
+      "苗条",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-05-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/95915ebb15c6eafcaffb0eb20310bd7f.jpg",
+    "actress": [
+      "しみけん",
+      "Qべぇ",
+      "加贺美まり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-663"
+  },
+  {
+    "id": 595185,
+    "IDcode": "HND-664",
+    "title": "绝对让人无套连射的连续中出泡浴 日晒Ｇ奶辣妹—今井夏帆在人气泡浴系列里登场。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/u10IBDgK.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-664"
+  },
+  {
+    "id": 535234,
+    "IDcode": "HND-665",
+    "title": "全身イクイク敏感体质の早漏巨乳人妻だけが动く无制限中出しソープランド 篠崎かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/3c53283ae3b79f90b846bf7b12cdd745.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240322/1616657962-hnd665pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-225"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-665"
   },
   {
-    "id": 440758,
-    "IDcode": "HIKR-226",
-    "title": "ロスで有名なイン●●トバーガーの痩せ巨乳ウエイトレスを待ち伏せナンパして謝礼交渉でどこまでやっ",
+    "id": 71639,
+    "IDcode": "HND-666",
+    "title": "被侵犯的女学生-有村のぞみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "中出",
+      "深喉",
+      "高中女生",
+      "校服"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/bb43b22c6a144830618caa10d5fd5afb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-226"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ae7e4736fcb2cf450906f86a78bb6547.jpg",
+    "actress": [
+      "有村希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-666"
   },
   {
-    "id": 440757,
-    "IDcode": "HIKR-227",
-    "title": "ロスのバス停でナンパした巨乳黒人ガールと日本のおじさんの中出しセックス！リリー（22）",
+    "id": 71703,
+    "IDcode": "HND-667",
+    "title": "挤奶的淫荡妹妹-深田えいみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "荡妇",
+      "乱伦",
+      "中出",
+      "姐姐",
+      "接吻",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/3270dd18b3a61deb2ae1ef2e33f8a99c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-227"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6cdad4fa1b8531ac24ccc04ce7d58790.jpg",
+    "actress": [
+      "深田詠美",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-667"
   },
   {
-    "id": 402842,
-    "IDcode": "HIKR-228",
-    "title": "吉村卓がロスで高身長モデルとBu●b●eでマッチングしたらバイセクシャルのドエロだった！ディラ",
+    "id": 82556,
+    "IDcode": "HND-668",
+    "title": "出轨的妻子-八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大屁股",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-668"
+  },
+  {
+    "id": 566261,
+    "IDcode": "HND-669",
+    "title": "在女友旁偷偷呢喃诱惑中出 小恶魔呢喃淫语的关西腔版！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/0404604b72f50bfadeb64e5f574d4360.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/ZlCOyAWs.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-228"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-669"
   },
   {
-    "id": 402848,
-    "IDcode": "HIKR-229",
-    "title": "吉村卓がロスで入院先の主治医をナンパして御礼に食事に誘ったらセックスまでできちゃった！チャーリ",
+    "id": 82569,
+    "IDcode": "HND-670",
+    "title": "总是和我作对的小恶魔女友-篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "屁股",
+      "中出",
+      "姐姐",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67803e962a47ebb1a88491c1/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-670"
+  },
+  {
+    "id": 71172,
+    "IDcode": "HND-671",
+    "title": "一つ屋根の下で愛する夫に一ヶ月の禁欲中に全力誘惑！ 限界まで我慢させ続けた後の性欲剥き出し孕ませ巨乳妻 凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "已婚妇女",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bf291c03a44c39e4a22e4c194c8e10bc.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-671"
+  },
+  {
+    "id": 401478,
+    "IDcode": "HND-672",
+    "title": "背後から膣奧深く侵入する鬼畜チ○ポにイキ墮ちる危険日孕ませバック癡漢 美谷朱里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/39f817604d143fdc88525a05a02ef9ff.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678511e38daf6b1db43be99c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-229"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-672"
   },
   {
-    "id": 440755,
-    "IDcode": "HIKR-230",
-    "title": "ロス滞在中の巨乳ハウスキーパーにチップ多く払ったらセックスまでしちゃった！エヴァ（30）",
+    "id": 104470,
+    "IDcode": "HND-673",
+    "title": "文学系痴女-麻里梨夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "眼镜",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/562a02874f4d7a611b7c55b31e505832.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-230"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-673"
   },
   {
-    "id": 457877,
-    "IDcode": "HIKR-231",
-    "title": "マイアミでナンパした黒人美女がすごいアスリート候補生なのにセックス大好きでまさかのAV出演！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/688683a8bcf56707788474a4e5ff6d7e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-231"
-  },
-  {
-    "id": 440756,
-    "IDcode": "HIKR-232",
-    "title": "マイアミビーチでナンパした巨乳インフルエンサーを酔わせてお持ち帰りセックス！カタリーナ（27）",
+    "id": 71645,
+    "IDcode": "HND-674",
+    "title": "彼女の妹に愛されすぎてこっそり子作り性活 藤波さとり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "中出",
+      "美少女电影",
+      "校服",
+      "眼镜",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/8aec52cb4d626425884b84d3a35e554e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-232"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c973f6f404fbfb73c9e0f50396ff34fe.jpg",
+    "actress": [
+      "幸田ユマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-674"
   },
   {
-    "id": 449523,
-    "IDcode": "HIKR-233",
-    "title": "マイアミのカフェでナンパしたスパニッシュ系セレブ人妻にサムライディックで国際交流！サンディー（40）",
+    "id": 71784,
+    "IDcode": "HND-675",
+    "title": "浓烈的亲吻-有坂深雪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "潮吹",
+      "中出",
+      "美少女电影",
+      "苗条",
+      "接吻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250713-1/6547587a3e5c30237c592d3303ddc646.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-233"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d4f3fd880d4d53e7ca1c51403378a7ae.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-675"
   },
   {
-    "id": 198241,
-    "IDcode": "HIKR-234",
-    "title": "ロスの高級住宅街でナンパしたパーソナルアシスタント美女に日本のおじさんが生中出し！キャサリン（31）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/e65d67bd/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-234"
-  },
-  {
-    "id": 64074,
-    "IDcode": "HIKR-235",
-    "title": "ロスのカフェでナンパした元CIA職員がセクシー過ぎてアメリカ亡命決定！！ニーナ（27）",
+    "id": 74010,
+    "IDcode": "HND-676",
+    "title": "働く本当にスケベな素人お姉さん発掘！！結婚式の日の夜は新郎でオナニーしてしまう現役ウェディングプランナーAVデビュー！！ 若月ありさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "猎艳",
-      "业余",
+      "精选，综合",
+      "首次亮相",
       "中出",
       "乳房",
+      "美少女电影",
+      "自慰",
       "素人作品",
-      "白人",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/464ac1fbcfbdb15d8698a6f6741a8c5f.jpg",
+    "actress": [
+      "小田切ジュン",
+      "しみけん",
+      "若月ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-676"
+  },
+  {
+    "id": 74575,
+    "IDcode": "HND-677",
+    "title": "外神田の本物アイドルはじめてのナマ中出し 永瀬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "精选，综合",
+      "中出",
+      "美少女电影",
+      "偶像",
+      "素人作品",
+      "女生",
+      "颜射",
+      "瘦小身型"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/39044b9113162e6eeceb26a1c842a2d2.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-677"
+  },
+  {
+    "id": 74577,
+    "IDcode": "HND-678",
+    "title": "六本木超有名店人気No.1超高級キャバ嬢AV出演！！ 悠月リアナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "第一人称摄影",
+      "美少女电影",
+      "礼仪小姐",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7a79b2bc901a1ff62d6606bc16dbc806.jpg",
+    "actress": [
+      "森林原人",
+      "玉木玲",
+      "悠月リアナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-678"
+  },
+  {
+    "id": 82758,
+    "IDcode": "HND-679",
+    "title": "Hカップ着エロ現役女子大生が最高級中出しソープに体験入店 石原理央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "乳交",
+      "中出",
+      "素人作品",
+      "女生",
+      "瘦小身型"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "石原理央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-679"
+  },
+  {
+    "id": 71712,
+    "IDcode": "HND-680",
+    "title": "男子校の保健体育女教師が生徒と保護者に内緒で初めてのナマ中出し 中条あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "学校泳装",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e7767efd4e531caa8d0c149e6d77e2a7.jpg",
+    "actress": [
+      "中条あおい",
+      "鲛岛",
+      "しみけん",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-680"
+  },
+  {
+    "id": 74576,
+    "IDcode": "HND-681",
+    "title": "●校卒業後、即、制服着てオヤジと初中出し円光ごっこ 双葉ゆず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "中出",
+      "素人作品",
+      "校服",
+      "无毛",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/ed63ccdf8219c934e9eab339f35b46e7.jpg",
+    "actress": [
+      "双叶ゆず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-681"
+  },
+  {
+    "id": 74510,
+    "IDcode": "HND-682",
+    "title": "すんごい乳首責めで中出しを誘う連続膣搾り痴女お姉さん 秋山祥子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "荡妇",
+      "中出",
+      "素人作品",
+      "女上位",
+      "姐姐",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0200e541a31c8c6a603c6e8defc58471.jpg",
+    "actress": [
+      "秋山祥子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-682"
+  },
+  {
+    "id": 74563,
+    "IDcode": "HND-683",
+    "title": "出轨的妻子-松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "已婚妇女",
+      "屁股",
+      "中出",
+      "素人作品",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/678163c589def9b1b8dbccbe/cover.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-683"
+  },
+  {
+    "id": 82767,
+    "IDcode": "HND-684",
+    "title": "同学聚会被闺蜜和渣男们一起灌醉-深田咏美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "素人作品",
+      "轮奸",
+      "苗条",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67814f5a89def9b1b8dbcc1f/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-684"
+  },
+  {
+    "id": 74519,
+    "IDcode": "HND-685",
+    "title": "今日のあなたAV男優みたいですごい！倦怠期にセックスレスで悩む夫がそれを打開する為、AV男優の真似をして妻に絡んでみた。 凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "中出",
+      "第一人称摄影",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/e7a608f84df2fabd4bdc06d37400961a.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-685"
+  },
+  {
+    "id": 74578,
+    "IDcode": "HND-686",
+    "title": "人妻筱田优为了情妇精心打扮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "屁股",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6781501189def9b1b8dbcc23/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-686"
+  },
+  {
+    "id": 71646,
+    "IDcode": "HND-687",
+    "title": "太爽不由得叫出来了 对不起 G点持续扭腰高潮的骑乘位内射 有村望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乳房",
+      "美少女电影",
+      "女上位",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/88b1d309ddb5487c50d37aa2d481d410.jpg",
+    "actress": [
+      "有村希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-687"
+  },
+  {
+    "id": 70421,
+    "IDcode": "HND-688",
+    "title": "为了父亲的病情找同学假扮男朋友最后假戏真做内射了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "中出",
+      "乱伦",
+      "美少女电影",
+      "校服",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/edf364113a052f79a80aa500133d3802.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-688"
+  },
+  {
+    "id": 74640,
+    "IDcode": "HND-689",
+    "title": "至近距離に彼女がいるのに耳元でコソコソ口説いてくるささやき誘惑中出し 星奈あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "故事集",
+      "荡妇",
+      "中出",
+      "淫语",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/65dd9543c65304dc9a79752be504b3f0.jpg",
+    "actress": [
+      "星奈爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-689"
+  },
+  {
+    "id": 74877,
+    "IDcode": "HND-690",
+    "title": "彼女の妹に愛されすぎてこっそり子作り性活 岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨大屁股",
+      "中出",
+      "妹妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4cb4943392c5dcd7e2bf8b9fab37e2dc.jpg",
+    "actress": [
+      "岬梓沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-690"
+  },
+  {
+    "id": 74586,
+    "IDcode": "HND-691",
+    "title": "背後から膣奥深く侵入する鬼畜チ○ポにイキ堕ちる危険日孕ませバック痴漢 藤波さとり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "中出",
+      "美少女电影",
+      "性骚扰",
+      "校服",
+      "轮奸"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/81bf558ddf87b4714b967b953f573826.jpg",
+    "actress": [
+      "幸田ユマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-691"
+  },
+  {
+    "id": 74584,
+    "IDcode": "HND-692",
+    "title": "時間停止中出しに興味深々です…と応募してきた 地方のゆるふわグルメキャスター食べ歩き中出ししまくりAVデビュー！！ 小坂しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "女主播",
+      "首次亮相",
+      "中出",
+      "美少女电影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/cc475320a4ab608ccac82925454c7635.jpg",
+    "actress": [
+      "長峰志保",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-692"
+  },
+  {
+    "id": 74567,
+    "IDcode": "HND-693",
+    "title": "制服美少女と初めてのナマ中出し 立浪花恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "校服",
+      "舔阴",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/957605a5d7f451123b5f5f93afd9f348.jpg",
+    "actress": [
+      "森林原人",
+      "玉木玲",
+      "近藤れおな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-693"
+  },
+  {
+    "id": 74521,
+    "IDcode": "HND-694",
+    "title": "ゆるふわ現役リケジョ初めてのナマ中出し 奏音かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "女大学生",
       "颜射"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-235"
-  },
-  {
-    "id": 449815,
-    "IDcode": "HIKR-236",
-    "title": "マッチングアプリで知り合ったロス在住の美人セレブ妻がまさかのAV出演？レキシー（26）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250625-1/a1f68ba5508f58591f5e429c1e09d849.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-236"
-  },
-  {
-    "id": 403216,
-    "IDcode": "HIKR-237",
-    "title": "ロスでナンパした176センチ9頭身モデルと高身長タワーファックエリン（31）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250619-1/04f9dd9c699ad3ce7961171c45afc153.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-237"
-  },
-  {
-    "id": 519503,
-    "IDcode": "HIKR-238",
-    "title": "ロスでナンパした美女インフルエンサー二人组がガチエロで生ハメコラボ実现！？パリス（27）＆ラッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250806/cyc51zcb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-238"
-  },
-  {
-    "id": 60709,
-    "IDcode": "HIKR-240",
-    "title": "「ショ～太の大冒険」少年みたいな僕がロスでパスポートと童心を落とした日 ベラ（29）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "正太控",
-      "业余",
-      "中出",
-      "白人",
-      "高"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/03/774f7f198cc99e56b6a9df69485af53c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-240"
-  },
-  {
-    "id": 62387,
-    "IDcode": "HIKR-241",
-    "title": "LAの高級車ディーラーで働く美肌の赤毛女子に生ハメセックス！！スカーレット（27）LAの高級車ディーラーで働く美肌の赤毛女子に生ハメセックス！！スカーレット（27）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "4K",
-      "猎艳",
-      "业余",
-      "中出",
-      "素人作品",
-      "白人",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250806/jCgvuEGc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-241"
-  },
-  {
-    "id": 61874,
-    "IDcode": "HIKR-242",
-    "title": "ロスでN●Lのチアリーダーをナンパしたらアジア人好きのヤリマンだった！！リリー（29）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "巨大屁股",
-      "业余",
-      "中出",
-      "乳房",
-      "素人作品",
-      "白人",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-242"
-  },
-  {
-    "id": 61873,
-    "IDcode": "HIKR-243",
-    "title": "ロスでナンパしたセックスポテンシャル高めの大学生2人組を勝手にAVデビュー！！ピクシ―（23）＆レイナ（21）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "4K",
-      "巨大屁股",
-      "猎艳",
-      "业余",
-      "中出",
-      "素人作品",
-      "巨乳",
-      "白人",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-243"
-  },
-  {
-    "id": 61402,
-    "IDcode": "HIKR-244",
-    "title": "「ショ～太の大冒険」童顔＆チビの僕がロスで迷子になって助けられた美人女医におもてなしされちゃった件 クロエ（25）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女医生",
-      "4K",
-      "巨大屁股",
-      "业余",
-      "中出",
-      "素人作品",
-      "白人",
-      "精选，综合",
-      "倒追"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-244"
-  },
-  {
-    "id": 61408,
-    "IDcode": "HIKR-245",
-    "title": "ロスに来て太ってしまった吉村卓がミルキーボディのパーソナルトレーナーとセクササイズ！？ジェイド（28）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "巨大屁股",
-      "猎艳",
-      "业余",
-      "中出",
-      "乳房",
-      "素人作品",
-      "白人",
-      "精选，综合",
-      "讲师"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-245"
-  },
-  {
-    "id": 183426,
-    "IDcode": "HIKR-246",
-    "title": "ロスの大学に潜入してナンパしたLAガールズに高収入バイトの依頼 ニコール（21）＆ジル（20）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-246"
-  },
-  {
-    "id": 183406,
-    "IDcode": "HIKR-247",
-    "title": "LA在住の吉村卓推しがセフレを寝取られ希望！？インテリ系ビッチの腰使いにリアルカムショット ジプシー（25）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-247"
-  },
-  {
-    "id": 186658,
-    "IDcode": "HIKR-248",
-    "title": "「ショ～太の大冒険」合法童顔男子な僕がマッチング美女とLAで生本番できちゃった！ミーガン（29）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-248"
-  },
-  {
-    "id": 177133,
-    "IDcode": "HIKR-249",
-    "title": "ロスのベニスビーチで休憩中の爆乳アパレル店員が逆ナンパ！？USA産直輸入中出しドキュメント アレクサ（21）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-249"
-  },
-  {
-    "id": 177413,
-    "IDcode": "HIKR-250",
-    "title": "2年振りの再会で覚醒！？合法ロリT●kT●kerが淫乱化して限界スプラッシュ！！ ココ（25）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-250"
-  },
-  {
-    "id": 177431,
-    "IDcode": "HIKR-251",
-    "title": "ロスの有名ホットドッグ店の看板美女がオモチャのモニターからまさかの絶頂生ハメSEXに！！アナ（25）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-251"
-  },
-  {
-    "id": 174722,
-    "IDcode": "HIKR-253",
-    "title": "超グラマラスボティの人妻がスーパーで逆ナン！？自宅に誘われ大胆濃厚SEX！！ オクタビア（24）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIKR-253"
-  },
-  {
-    "id": 77915,
-    "IDcode": "HIMA-087",
-    "title": "真・母子姦通居无定所的母子禁断种付性交里崎爱佳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-087"
-  },
-  {
-    "id": 164709,
-    "IDcode": "HIMA-089",
-    "title": "真・母子姦通 拠り所なき母と息子の禁断種付け",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-089"
-  },
-  {
-    "id": 452993,
-    "IDcode": "HIMA-090",
-    "title": "真母子姦通 拠り所なき母と息子の禁断種付け性交 岡村麻友子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241118-1/5af603a1ad29e120ba99f2106445dc2d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-090"
-  },
-  {
-    "id": 214978,
-    "IDcode": "HIMA-096",
-    "title": "母子姦通-三谷ちあき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/10/ee633cede23d78aa7d2e2020d5a4d639.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-096"
-  },
-  {
-    "id": 67594,
-    "IDcode": "HIMA-098",
-    "title": "激情相姦-鈴村みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7e4f43d6972716f0ede2/cover.jpg",
+    "company": "",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/242efb8a22f694e151f13d58a8ce2cfc.jpg",
     "actress": [
-      "鈴村みなみ",
-      "柚木ひおり"
+      "奏音花音",
+      "森林原人",
+      "しみけん",
+      "玉木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098"
-  },
-  {
-    "id": 517018,
-    "IDcode": "HIMA-098-C",
-    "title": "铃村美波 母爱变质！禁断情热",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bbf6543d6972716db59ad/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098-C"
-  },
-  {
-    "id": 222421,
-    "IDcode": "HIMA-099",
-    "title": "激情相姦-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/2a850452900ad8ce8b38b238196e3c9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-099"
-  },
-  {
-    "id": 590194,
-    "IDcode": "HIMA-86",
-    "title": "[] 近亲相奸 母子受精 本多由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220422-1/6238725f859a3ee78b4bf1ff432fdddf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-86"
-  },
-  {
-    "id": 595715,
-    "IDcode": "HIMA-87",
-    "title": "真・母子奸通 居无定所的母子禁断种付性交 里崎爱佳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-87"
-  },
-  {
-    "id": 550784,
-    "IDcode": "HIMA-89",
-    "title": "真母子奸通 拠り所なき母と息子の禁断种付け性交 深田芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/78e64e037ec2fd6860d8ed950b0dbe13.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-89"
-  },
-  {
-    "id": 550785,
-    "IDcode": "HIMA-90",
-    "title": "真母子奸通 拠り所なき母と息子の禁断种付け性交 冈村麻友子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230310/6r63l9Jq/1.jpg?t=1679994193",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-90"
-  },
-  {
-    "id": 541551,
-    "IDcode": "HIMA-98",
-    "title": "[] 母亲を爱しすぎて―。性欲が尽き果てるまで终わらない激情相奸 铃村みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230702/h_086hima98pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-98"
-  },
-  {
-    "id": 541665,
-    "IDcode": "HIMA-99",
-    "title": "[] 母亲を爱しすぎて―。性欲が尽き果てるまで终わらない激情相奸 北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230909/h_086hima99pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-99"
-  },
-  {
-    "id": 543160,
-    "IDcode": "HIMA90",
-    "title": "真・母子奸通 拠り所なき母と息子の禁断种付け性交 冈村麻友子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241211-1/3e4b9898b244c6e17e34c6870b97d076.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA90"
-  },
-  {
-    "id": 590098,
-    "IDcode": "HIMARI3",
-    "title": "真夏の记忆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230215-1/e385925c2f8bb9075a9b4bae80663631.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMARI3"
-  },
-  {
-    "id": 65013,
-    "IDcode": "HIMEDOTLOVEO",
-    "title": "的希望18岁正式SM解禁-おののぞみ。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240815-1/537e2db45a5d7206a472bc7383250be9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMEDOTLOVEO"
-  },
-  {
-    "id": 524905,
-    "IDcode": "HINA",
-    "title": "Maeda, Kyouko Maki and Yu",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221006/gQXMLHut/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HINA"
-  },
-  {
-    "id": 408252,
-    "IDcode": "HINT-0677",
-    "title": "たまき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6fc558cce1a927afe88e6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HINT-0677"
-  },
-  {
-    "id": 481736,
-    "IDcode": "HIP100C",
-    "title": "mtall040 m下半神デカ尻アクメ开発 黒木逢梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b15b7f65dd3a752c694bd48f60b6ca22.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIP100C"
-  },
-  {
-    "id": 558789,
-    "IDcode": "HIROKO-TANAKA",
-    "title": "要求工作因为我可以来地下标志性的下游秘密",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIROKO-TANAKA"
-  },
-  {
-    "id": 76223,
-    "IDcode": "HISN-001",
-    "title": "【配信専属】SOD新人AVデビュー りお（20）T:167 B:86（D） W:59 H:88",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "女大学生",
-      "首次亮相",
-      "素人作品",
-      "女上位",
-      "高"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HISN-001"
-  },
-  {
-    "id": 75755,
-    "IDcode": "HISN-002",
-    "title": "【配信専属】SOD新人AVデビュー まりあ（20）T:158 B:84（D） W:55 H:85",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "自慰",
-      "首次亮相",
-      "素人作品",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "タツ",
-      "一色まりあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HISN-002"
-  },
-  {
-    "id": 539233,
-    "IDcode": "HISN-006",
-    "title": "【配信専属】SOD新人AVデビュー 纱雾ひなた（21）T162 B102（H） W68 H90 纱雾雏田",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HISN-006"
-  },
-  {
-    "id": 522129,
-    "IDcode": "HIT30",
-    "title": "月刊センビレモニターアンケート番外编2020高评価熟女优BEST 人8时间2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230202-1/29f93830dc0e18f0cfb4f7f692696634.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIT30"
-  },
-  {
-    "id": 547171,
-    "IDcode": "HITMA-095",
-    "title": "という訳で、话题沸腾必至の“Layers；Gate”はブルーレイソフトも同日発売决定です",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231213/ZBw2M8NY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-095"
-  },
-  {
-    "id": 66704,
-    "IDcode": "HITMA-165",
-    "title": "我妻子的乳房下垂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "婆婆"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/LOSqDRGJ/1.jpg",
-    "actress": [
-      "本真友里",
-      "杏美月",
-      "长泽あずさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-165"
-  },
-  {
-    "id": 531378,
-    "IDcode": "HITMA-165-C",
-    "title": "本真友里×杏美月×长泽あずさ 爆乳人妻の淫语诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-165-C"
-  },
-  {
-    "id": 576020,
-    "IDcode": "HITMA-227",
-    "title": "【日本女优】波他多野结衣BESTSELECTION4时间2014-04-11波他多野结衣单女他优他-075",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-227"
-  },
-  {
-    "id": 467831,
-    "IDcode": "HIVL-001",
-    "title": "人妻痴漢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "痴汉"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1644e7d663df4e2a7f8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIVL-001"
-  },
-  {
-    "id": 526569,
-    "IDcode": "HIZ-003",
-    "title": "ひたすら汗 三原ほのか ひたすらシリーズNo",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIZ-003"
-  },
-  {
-    "id": 176960,
-    "IDcode": "HIZ-010",
-    "title": "巨乳美女河北春菜的高潮性爱绝顶痉挛138回",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIZ-010"
-  },
-  {
-    "id": 574463,
-    "IDcode": "HJ-008",
-    "title": "友达以上恋人未满！油光水滑的素股按摩体验，有男友的闺蜜情断直击胯下极致诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250729-1/96ed92e371b94c51cb2bde06a5fcddb4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJ-008"
-  },
-  {
-    "id": 85051,
-    "IDcode": "HJ-082",
-    "title": "超舌！ベロベロランド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "恋物癖",
-      "女生",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2007-08-18",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230119-1/e23793547a5a37dd2cb331e52363095e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJ-082"
-  },
-  {
-    "id": 85184,
-    "IDcode": "HJ-087",
-    "title": "いたずらウォッチング 21",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "户外",
-      "迷你裙",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2008-01-01",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJ-087"
-  },
-  {
-    "id": 85257,
-    "IDcode": "HJ-088",
-    "title": "THE テレフォンSEX 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "户外",
-      "女大学生",
-      "口交",
-      "连裤袜"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2008-02-12",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJ-088"
-  },
-  {
-    "id": 81349,
-    "IDcode": "HJ-090",
-    "title": "自身まんまんコレクション 7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2008-03-05",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJ-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-694"
   }
 ];

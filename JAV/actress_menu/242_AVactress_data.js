@@ -119,7 +119,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
       "actress": [
@@ -185,7 +185,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-08-20",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/c9443efb1b53d005b01dfcec3d3dfb3b.jpg",
       "actress": [
@@ -244,7 +244,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2023-01-06",
       "cover_url": "https://picture.yoshiclub.xyz/20250402/c9a3728f-3c91-4182-8c2a-39c9fdc19e8c.jpg",
       "actress": [
@@ -376,7 +376,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/72d0ac8947f4db0b16ef4264331f0b7b.jpg",
       "actress": [
@@ -399,7 +399,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/363b42314ffa780108846a945d4b7e38.jpg",
       "actress": [
@@ -811,7 +811,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/5598e4289d417a36622e459d793d9eaa.jpg",
       "actress": [

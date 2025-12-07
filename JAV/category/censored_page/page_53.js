@@ -1,56 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 538581,
-    "IDcode": "241GAREA-506",
-    "title": "さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240601/1616571277-pb_e_241garea-506.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=241GAREA-506"
-  },
-  {
-    "id": 538580,
-    "IDcode": "241GAREA-508",
-    "title": "ほにょ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240601/1616668850-pb_e_241garea-508.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=241GAREA-508"
-  },
-  {
-    "id": 538499,
-    "IDcode": "241GAREA-510",
-    "title": "めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240509/pb_e_241garea-510.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=241GAREA-510"
-  },
-  {
     "id": 538488,
     "IDcode": "241GAREA-516",
     "title": "のん",
@@ -61,7 +10,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240502/pb_e_241garea-516.jpg!320x216.jpg",
     "actress": [],
@@ -78,7 +27,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240502/pb_e_241garea-517.jpg!320x216.jpg",
     "actress": [],
@@ -95,7 +44,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240502/pb_e_241garea-518.jpg!320x216.jpg",
     "actress": [],
@@ -112,7 +61,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240402/pb_e_241garea-524.jpg!320x216.jpg",
     "actress": [],
@@ -129,7 +78,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240402/pb_e_241garea-525.jpg!320x216.jpg",
     "actress": [],
@@ -146,7 +95,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240115/pb_e_241garea-550.jpg!320x216.jpg",
     "actress": [],
@@ -163,7 +112,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/NS7M2VU1/1.jpg",
     "actress": [],
@@ -180,7 +129,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/EzkBZ7FF/1.jpg",
     "actress": [],
@@ -197,7 +146,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/Axj90HUf/1.jpg",
     "actress": [],
@@ -214,7 +163,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/IbTxZGuJ/1.jpg",
     "actress": [],
@@ -231,7 +180,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/KTrIyoUV/1.jpg",
     "actress": [],
@@ -248,7 +197,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/o97N1jMf/1.jpg",
     "actress": [],
@@ -265,7 +214,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/2RlwWbuX/1.jpg",
     "actress": [],
@@ -282,7 +231,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/qop4ioUa/1.jpg",
     "actress": [],
@@ -299,7 +248,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/wIUf91Rk/1.jpg",
     "actress": [],
@@ -316,7 +265,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/DyIgY95m/1.jpg",
     "actress": [],
@@ -333,7 +282,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/6Prsihri/1.jpg",
     "actress": [],
@@ -350,7 +299,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/vp1W1Ojm/1.jpg",
     "actress": [],
@@ -367,7 +316,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/4O2RbvwQ/1.jpg",
     "actress": [],
@@ -384,7 +333,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/b61f4fac55d6efffde8aabd95e949077.jpg",
     "actress": [],
@@ -393,7 +342,7 @@ window.PAGE_DATA = [
   {
     "id": 529208,
     "IDcode": "241GAREA-574",
-    "title": "【】ふう",
+    "title": "ふう",
     "year": "",
     "country": "",
     "genre": "",
@@ -401,7 +350,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240303-1/e9c317d1f007bfb4d711dcdef7d055fe.jpg",
     "actress": [],
@@ -418,7 +367,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/wI0T61uP/1.jpg",
     "actress": [],
@@ -435,7 +384,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250803/tsI3Ub75/1.jpg",
     "actress": [],
@@ -452,7 +401,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250804/MuuV5ZRO/1.jpg",
     "actress": [],
@@ -469,7 +418,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250804/pg9c5QJW/1.jpg",
     "actress": [],
@@ -486,7 +435,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250804/4saxburP/1.jpg",
     "actress": [],
@@ -503,7 +452,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250804/auY3DJdf/1.jpg",
     "actress": [],
@@ -520,7 +469,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250804/0qxYk3Hq/1.jpg",
     "actress": [],
@@ -537,7 +486,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/1cnXiL3w/1.jpg",
     "actress": [],
@@ -554,7 +503,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/tQeI1o4T/1.jpg",
     "actress": [],
@@ -571,7 +520,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/EYBqT0TB/1.jpg",
     "actress": [],
@@ -588,7 +537,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/j8U20x0Z/1.jpg",
     "actress": [],
@@ -605,7 +554,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/bclaeCVC/1.jpg",
     "actress": [],
@@ -622,7 +571,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/1JAUC8F7/1.jpg",
     "actress": [],
@@ -639,7 +588,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/FslaMrm1/1.jpg",
     "actress": [],
@@ -656,7 +605,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/osazTHI7/1.jpg",
     "actress": [],
@@ -673,7 +622,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240327/JTmD2xk8/1.jpg",
     "actress": [],
@@ -690,7 +639,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240327/pDuT1H82/1.jpg",
     "actress": [],
@@ -707,7 +656,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240327/HblFMtrG/1.jpg",
     "actress": [],
@@ -724,7 +673,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240327/zMzG8krW/1.jpg",
     "actress": [],
@@ -741,7 +690,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20220926/jaLJfDHn/1.jpg",
     "actress": [],
@@ -755,11 +704,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -776,7 +725,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -793,7 +742,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230530-1/ecdac174421e618af73806dd6e446828.jpg",
     "actress": [],
@@ -810,7 +759,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c8bf40820adfeb8af7a2d547205fc44c.jpg",
     "actress": [],
@@ -827,7 +776,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/34eff16ee4bebc9875e0db178028b062.jpg",
     "actress": [],
@@ -842,7 +791,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -857,7 +806,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -872,7 +821,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231022/adO2wfbr/1.jpg",
     "actress": [],
@@ -887,7 +836,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/v1IZePeN/1.jpg",
     "actress": [],
@@ -902,13 +851,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250310/xAV064Mo/1.jpg",
     "actress": [],
@@ -923,13 +866,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250310/sukjrsRv/1.jpg",
     "actress": [],
@@ -943,11 +880,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -962,7 +899,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/udSNhkSM/1.jpg",
     "actress": [],
@@ -977,7 +914,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231022/pu7WgSuZ/1.jpg",
     "actress": [],
@@ -992,7 +929,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231023/uKhQoJLX/1.jpg",
     "actress": [],
@@ -1007,7 +944,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231109/I94iqmYq/1.jpg",
     "actress": [],
@@ -1022,7 +959,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/MiveBbwU/1.jpg",
     "actress": [],
@@ -1037,7 +974,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/e13Srzf7/1.jpg",
     "actress": [],
@@ -1052,7 +989,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240327/fkJv6nEx/1.jpg",
     "actress": [],
@@ -1067,7 +1004,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240126/PpHOtmnz/1.jpg",
     "actress": [],
@@ -1082,7 +1019,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/b4ioHSRH/1.jpg",
     "actress": [],
@@ -1097,7 +1034,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/OIvIRxJ1/1.jpg",
     "actress": [],
@@ -1112,7 +1049,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231023/ZTH1EXiN/1.jpg",
     "actress": [],
@@ -1127,7 +1064,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1142,7 +1079,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221230-1/86dc46ed4de40def8878d4799a77d360.jpg",
     "actress": [],
@@ -1157,7 +1094,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1172,7 +1109,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1187,7 +1124,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1202,7 +1139,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240523/1617172328-pb_e_254hon-193.jpg!320x216.jpg",
     "actress": [],
@@ -1217,7 +1154,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c6dc029b188e06fe5d17b3861f50bd0f.jpg",
     "actress": [],
@@ -1232,7 +1169,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c70675f0f1c3d4674e427fefb30e0e3.jpg",
     "actress": [],
@@ -1247,7 +1184,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/6ab3f8acb19ffee15b2b15d50dd3908e.jpg",
     "actress": [],
@@ -1262,7 +1199,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240606/1615709712-pb_e_255vond-p58.jpg!320x216.jpg",
     "actress": [],
@@ -1276,18 +1213,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/89751b64f29c427ed8e68b498d253319.jpg",
     "actress": [],
@@ -1301,18 +1232,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/a04729f6c46d46e4d3e9c204f4d0de70.jpg",
     "actress": [],
@@ -1326,18 +1251,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/5dc11c589be26738f1a2bc943611882f.jpg",
     "actress": [],
@@ -1351,18 +1270,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/677ac3703f55e4ce664406d7360bd7d1.jpg",
     "actress": [],
@@ -1376,18 +1289,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/5fea70d467a8f1a15234d3ed0c5596be.jpg",
     "actress": [],
@@ -1401,18 +1308,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/44a9702c4b65c142a4adcdcfff9fc557.jpg",
     "actress": [],
@@ -1426,18 +1327,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/b76869cf68fcd934b8d64c543aa727d0.jpg",
     "actress": [],
@@ -1451,18 +1346,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/65e1cc009f6c02684f6a2ffdbd7daa16.jpg",
     "actress": [],
@@ -1476,18 +1365,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/fb8c98c18d7ccf87abced73ff860736f.jpg",
     "actress": [],
@@ -1501,18 +1384,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/5ac3ed45fdf51e2817785046caba18ab.jpg",
     "actress": [],
@@ -1526,18 +1403,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/b8dbef86b74912d0f25edef20248f0b8.jpg",
     "actress": [],
@@ -1551,18 +1422,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/453e63ae46739e77d2faca53e6419da1.jpg",
     "actress": [],
@@ -1576,18 +1441,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/4c34a34d041dcd14f589ce9cce107c63.jpg",
     "actress": [],
@@ -1601,18 +1460,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/be8fdb6d9ecd502618dc74a0480ed854.jpg",
     "actress": [],
@@ -1626,18 +1479,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/605285172d1feb5de80d1fef18f10234.jpg",
     "actress": [],
@@ -1651,18 +1498,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/aff825c172df3d74c6f3dc836132bd18.jpg",
     "actress": [],
@@ -1676,18 +1517,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/274a98c3208d65ca79291348e8837bf2.jpg",
     "actress": [],
@@ -1701,18 +1536,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/2aa72de250afe65fb5edf4dea9bc4f67.jpg",
     "actress": [],
@@ -1726,18 +1555,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/6cf5e8a83a0afe1a80c6b45a7fde1ce3.jpg",
     "actress": [],
@@ -1751,18 +1574,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/ab139242599be1240dae06ae43cb9103.jpg",
     "actress": [],
@@ -1776,18 +1593,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/2581f330417928ff825753a30ff473c5.jpg",
     "actress": [],
@@ -1801,18 +1612,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/81e4fc940f2178bc5858570acddf4461.jpg",
     "actress": [],
@@ -1826,21 +1631,72 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/17b6e960e055dbd2c3a14020c85301c3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0028"
+  },
+  {
+    "id": 552755,
+    "IDcode": "259LUXU-0029",
+    "title": "豪华电视028",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/cf51684e8f5d81b1f7d109e014f04065.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0029"
+  },
+  {
+    "id": 552740,
+    "IDcode": "259LUXU-0030",
+    "title": "豪华电视037",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/349d780888367daa68a9e59bcbad5442.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0030"
+  },
+  {
+    "id": 553439,
+    "IDcode": "259LUXU-0031",
+    "title": "豪华电视034",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/e00c0811d47e8253d6fd6d6b4e7da3f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0031"
   }
 ];

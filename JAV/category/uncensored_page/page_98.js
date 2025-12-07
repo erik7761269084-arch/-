@@ -1,32 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 571595,
-    "IDcode": "FC2-PPV-4628293",
-    "title": "FC2 PPV 4628293 巨乳オナクラ嬢の里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/01/d887a3cdec6ec7339508445b54c91699.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4628293"
-  },
-  {
-    "id": 571594,
-    "IDcode": "FC2-PPV-4628474",
-    "title": "FC2 PPV 4628474 [无修正・完全素人",
+    "id": 528212,
+    "IDcode": "FC2-PPV-4571331",
+    "title": "FC2 PPV 4571331 ♡迄半额【无修正・完全素人】",
     "year": "",
     "country": "",
     "genre": "",
@@ -35,1067 +11,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4628474"
-  },
-  {
-    "id": 571592,
-    "IDcode": "FC2-PPV-4628713",
-    "title": "FC2 PPV 4628713 エロ过ぎる身体を持",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/01/288340bfebed36ccdeb2d94476d92ab4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4628713"
-  },
-  {
-    "id": 571599,
-    "IDcode": "FC2-PPV-4630005",
-    "title": "FC2 PPV 4630005 310迄990pt",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630005"
-  },
-  {
-    "id": 571603,
-    "IDcode": "FC2-PPV-4630370",
-    "title": "FC2 PPV 4630370 279_【レズエッチ＆责め3P】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/26/422d2d6c70bfada748d0da48e27eeeea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630370"
-  },
-  {
-    "id": 528562,
-    "IDcode": "FC2-PPV-4630559",
-    "title": "FC2 PPV 4630559 3日间！70OFF【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630559"
-  },
-  {
-    "id": 528564,
-    "IDcode": "FC2-PPV-4630573",
-    "title": "FC2 PPV 4630573 【个人】身胜手な极意の奥さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630573"
-  },
-  {
-    "id": 571602,
-    "IDcode": "FC2-PPV-4630656",
-    "title": "FC2 PPV 4630656 颜出し素人さんがえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630656"
-  },
-  {
-    "id": 528569,
-    "IDcode": "FC2-PPV-4630764",
-    "title": "FC2 PPV 4630764 11日まで990pt",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4630764"
-  },
-  {
-    "id": 571606,
-    "IDcode": "FC2-PPV-4631394",
-    "title": "FC2 PPV 4631394 【遂に见纳め】黒髪美人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4631394"
-  },
-  {
-    "id": 571613,
-    "IDcode": "FC2-PPV-4631737",
-    "title": "FC2 PPV 4631737 【无】【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4631737"
-  },
-  {
-    "id": 571609,
-    "IDcode": "FC2-PPV-4632091",
-    "title": "FC2 PPV 4632091 280_【のんちゃん调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/27/562d097a11b0f2188eb85ca9f8b41c27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4632091"
-  },
-  {
-    "id": 528570,
-    "IDcode": "FC2-PPV-4632290",
-    "title": "FC2 PPV 4632290 313迄990pt",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4632290"
-  },
-  {
-    "id": 571610,
-    "IDcode": "FC2-PPV-4632365",
-    "title": "FC2 PPV 4632365 [即ハメ中出し素人妻］",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4632365"
-  },
-  {
-    "id": 528580,
-    "IDcode": "FC2-PPV-4632746",
-    "title": "FC2 PPV 4632746 【无修正ｘ个人撮影】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4632746"
-  },
-  {
-    "id": 571614,
-    "IDcode": "FC2-PPV-4632924",
-    "title": "FC2 PPV 4632924 【无】至高のGカッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/28/3efb10c0b8c28736ce296977c7ab611b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4632924"
-  },
-  {
-    "id": 571617,
-    "IDcode": "FC2-PPV-4633039",
-    "title": "FC2 PPV 4633039 ※完全素人18歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4633039"
-  },
-  {
-    "id": 571618,
-    "IDcode": "FC2-PPV-4633293",
-    "title": "FC2 PPV 4633293 中出し解禁！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4633293"
-  },
-  {
-    "id": 571623,
-    "IDcode": "FC2-PPV-4633775",
-    "title": "FC2 PPV 4633775 【素人初撮り】はづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4633775"
-  },
-  {
-    "id": 571622,
-    "IDcode": "FC2-PPV-4633859",
-    "title": "FC2 PPV 4633859 50OFF【新作】Hカッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4633859"
-  },
-  {
-    "id": 528587,
-    "IDcode": "FC2-PPV-4633963",
-    "title": "FC2 PPV 4633963 はづき(18)高身长",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4633963"
-  },
-  {
-    "id": 528596,
-    "IDcode": "FC2-PPV-4635617",
-    "title": "FC2 PPV 4635617 【限定価格",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/21/5a0c799a44d89ea47b7ce95c5dd3c67e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4635617"
-  },
-  {
-    "id": 571627,
-    "IDcode": "FC2-PPV-4635799",
-    "title": "FC2 PPV 4635799 颜出し素人さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4635799"
-  },
-  {
-    "id": 528602,
-    "IDcode": "FC2-PPV-4635809",
-    "title": "FC2 PPV 4635809 3日间！70OFF【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/22/078f24558ea58daa2db83183d78478b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4635809"
-  },
-  {
-    "id": 528616,
-    "IDcode": "FC2-PPV-4635833",
-    "title": "FC2 PPV 4635833 【无】清楚系なのにエ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/22/27b4004c13a37d4ec8aee1673e7e9dab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4635833"
-  },
-  {
-    "id": 528600,
-    "IDcode": "FC2-PPV-4635862",
-    "title": "FC2 PPV 4635862 ♡39迄半额",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4635862"
-  },
-  {
-    "id": 528609,
-    "IDcode": "FC2-PPV-4636503",
-    "title": "FC2 PPV 4636503 35まで80OFF",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4636503"
-  },
-  {
-    "id": 571638,
-    "IDcode": "FC2-PPV-4636513",
-    "title": "FC2 PPV 4636513 天然阴毛の残る素朴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4636513"
-  },
-  {
-    "id": 528608,
-    "IDcode": "FC2-PPV-4636518",
-    "title": "FC2 PPV 4636518 【无修正ｘ个人撮影】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4636518"
-  },
-  {
-    "id": 528613,
-    "IDcode": "FC2-PPV-4636550",
-    "title": "FC2 PPV 4636550 【无修正・迫力主観メン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4636550"
-  },
-  {
-    "id": 528621,
-    "IDcode": "FC2-PPV-4637749",
-    "title": " [无修正・完全素人・中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4637749"
-  },
-  {
-    "id": 528629,
-    "IDcode": "FC2-PPV-4638724",
-    "title": "【初回限定セール！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4638724"
-  },
-  {
-    "id": 571646,
-    "IDcode": "FC2-PPV-4639893",
-    "title": "ロケット乳の会社员25歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/18/ce176bf353ad99fb0c02e66e1b0e08a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4639893"
-  },
-  {
-    "id": 571682,
-    "IDcode": "FC2-PPV-4640380",
-    "title": "323まで990p",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4640380"
-  },
-  {
-    "id": 571648,
-    "IDcode": "FC2-PPV-4640581",
-    "title": "颜出し素人さんがえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://lust103.cc/upload/vod/20250420-1/50b3ad9b7a1c941f25a5b60aa625ab70.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4640581"
-  },
-  {
-    "id": 571653,
-    "IDcode": "FC2-PPV-4641097",
-    "title": "ギリ合法パッツン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4641097"
-  },
-  {
-    "id": 571652,
-    "IDcode": "FC2-PPV-4641432",
-    "title": "15日まで80OFF",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4641432"
-  },
-  {
-    "id": 528780,
-    "IDcode": "FC2-PPV-4641637",
-    "title": "【无・人妻】限定割",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4641637"
-  },
-  {
-    "id": 528689,
-    "IDcode": "FC2-PPV-4641935",
-    "title": "【もう无理イキ死ぬ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4641935"
-  },
-  {
-    "id": 571661,
-    "IDcode": "FC2-PPV-4642311",
-    "title": "白衣の天使",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/15/e2150aa2d9d8804418dbdd995e205483.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4642311"
-  },
-  {
-    "id": 571669,
-    "IDcode": "FC2-PPV-4647864",
-    "title": " ギャップがエロい美容师27歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4647864"
-  },
-  {
-    "id": 528666,
-    "IDcode": "FC2-PPV-4654005",
-    "title": "不伦妻に无远虑种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/06/73ec6954b76b0547fd14c20716e1d4d3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4654005"
-  },
-  {
-    "id": 528860,
-    "IDcode": "FC2-PPV-4657464",
-    "title": "【无・个撮】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/08/4d2ac1a0c86444d6d2481b0ed3fbd659.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4657464"
-  },
-  {
-    "id": 528823,
-    "IDcode": "FC2-PPV-4657517",
-    "title": "【无・个撮】先着割",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4657517"
-  },
-  {
-    "id": 528782,
-    "IDcode": "FC2-PPV-4657519",
-    "title": "【无・个撮】限定割",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4657519"
-  },
-  {
-    "id": 571994,
-    "IDcode": "FC2-PPV-4659438",
-    "title": "【无・制服コス】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-06",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4659438"
-  },
-  {
-    "id": 528717,
-    "IDcode": "FC2-PPV-4660850",
-    "title": "[无修正・完全素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4660850"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4571331"
   },
   {
-    "id": 528786,
-    "IDcode": "FC2-PPV-4666067",
-    "title": "【天真烂漫】笑颜が可爱",
+    "id": 528224,
+    "IDcode": "FC2-PPV-4571724",
+    "title": "FC2 PPV 4571724 素朴で120信用できる美⚫︎女",
     "year": "",
     "country": "",
     "genre": "",
@@ -1103,739 +28,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "2025-06-28",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4666067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4571724"
   },
   {
-    "id": 571780,
-    "IDcode": "FC2-PPV-4666210",
-    "title": "长⚪︎ねる似アイドル研修生！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4666210"
-  },
-  {
-    "id": 571775,
-    "IDcode": "FC2-PPV-4667639",
-    "title": " [期间限定で大放出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/24/8b47da8fa28278695d2a231ce2adcd82.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4667639"
-  },
-  {
-    "id": 528781,
-    "IDcode": "FC2-PPV-4668049",
-    "title": "日迄新作セール半额！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4668049"
-  },
-  {
-    "id": 571788,
-    "IDcode": "FC2-PPV-4668448",
-    "title": "まで初回80OFF",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/24/54cacd1e21b8efc312fe509115b7364d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4668448"
-  },
-  {
-    "id": 528783,
-    "IDcode": "FC2-PPV-4668527",
-    "title": " 294_【愈し系爆乳の诱惑】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4668527"
-  },
-  {
-    "id": 528792,
-    "IDcode": "FC2-PPV-4668750",
-    "title": "3日间！70OFF【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/22/f894b2200f5460d23d68bd129fa8150e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4668750"
-  },
-  {
-    "id": 528794,
-    "IDcode": "FC2-PPV-4668947",
-    "title": "初颜出し1980pt明日まで！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/22/090e5b801edf706241c24bc7729f28c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4668947"
-  },
-  {
-    "id": 528810,
-    "IDcode": "FC2-PPV-4669209",
-    "title": " [到今天为止980分！ 】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4669209"
-  },
-  {
-    "id": 571789,
-    "IDcode": "FC2-PPV-4669227",
-    "title": "才色兼备まゆみちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/23/bdfd9e436cba474c8f40a7bd1e8277e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4669227"
-  },
-  {
-    "id": 528798,
-    "IDcode": "FC2-PPV-4669351",
-    "title": "17 可爱过ぎる美人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4669351"
-  },
-  {
-    "id": 528885,
-    "IDcode": "FC2-PPV-4669377",
-    "title": "【无・个撮】真面目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/13/651f24239d77c76cb1b7eb695e080f1f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4669377"
-  },
-  {
-    "id": 571807,
-    "IDcode": "FC2-PPV-4670042",
-    "title": "まで初回80OFF",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4670042"
-  },
-  {
-    "id": 528809,
-    "IDcode": "FC2-PPV-4670050",
-    "title": "被帅气老公出轨后单身努力的H杯美女应援！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/23/c9c7b2719627a6ebe3d7af1839306671.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4670050"
-  },
-  {
-    "id": 571803,
-    "IDcode": "FC2-PPV-4670208",
-    "title": "雑鱼マン“あ”あ”ぁ…イ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/24/a98f22031c7d931d93518e886da0c029.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4670208"
-  },
-  {
-    "id": 571801,
-    "IDcode": "FC2-PPV-4670652",
-    "title": "3日间！70OFF【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4670652"
-  },
-  {
-    "id": 528839,
-    "IDcode": "FC2-PPV-4670904",
-    "title": "13日まで990pt",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4670904"
-  },
-  {
-    "id": 571802,
-    "IDcode": "FC2-PPV-4671070",
-    "title": "【初回70オフ・初撮り】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671070"
-  },
-  {
-    "id": 528815,
-    "IDcode": "FC2-PPV-4671077",
-    "title": "【特典有】第18弾 りえ21歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671077"
-  },
-  {
-    "id": 571815,
-    "IDcode": "FC2-PPV-4671112",
-    "title": "5迄990pt",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/26/f6936590bfe9c6e02740deadb8d96a53.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671112"
-  },
-  {
-    "id": 528818,
-    "IDcode": "FC2-PPV-4671391",
-    "title": "【初撮り】ショー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671391"
-  },
-  {
-    "id": 528824,
-    "IDcode": "FC2-PPV-4671409",
-    "title": "FC2 PPV 4671409 【颜出しリマスター】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/26/3b694761383e3c0506d209f212619bc3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671409"
-  },
-  {
-    "id": 571806,
-    "IDcode": "FC2-PPV-4671528",
-    "title": "FC2 PPV 4671528 【乃〇坂】方言が可爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/26/84a8b9d77593b5415b480eed2a65653c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671528"
-  },
-  {
-    "id": 571823,
-    "IDcode": "FC2-PPV-4671867",
-    "title": "FC2 PPV 4671867 【ぱ.3日限定】合法",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/28/860c5471ab1acab2b6c8ac37a0164404.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671867"
-  },
-  {
-    "id": 528830,
-    "IDcode": "FC2-PPV-4672029",
-    "title": "FC2 PPV 4672029 【不定期贩売】19歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672029"
-  },
-  {
-    "id": 528838,
-    "IDcode": "FC2-PPV-4672039",
-    "title": "FC2 PPV 4672039 29日まで初回85OFF",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672039"
-  },
-  {
-    "id": 528831,
-    "IDcode": "FC2-PPV-4672092",
-    "title": "FC2 PPV 4672092 【颜出し】性欲解放",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672092"
-  },
-  {
-    "id": 571812,
-    "IDcode": "FC2-PPV-4672466",
-    "title": "FC2 PPV 4672466 美尻 美脚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672466"
-  },
-  {
-    "id": 528829,
-    "IDcode": "FC2-PPV-4672467",
-    "title": "FC2 PPV 4672467 【2カメ个撮无修正】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/27/12f58b16f28cb8664c4d8f8bfe5a3309.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672467"
-  },
-  {
-    "id": 571818,
-    "IDcode": "FC2-PPV-4672695",
-    "title": "FC2 PPV 4672695 【无修正】【颜出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672695"
-  },
-  {
-    "id": 528837,
-    "IDcode": "FC2-PPV-4672729",
-    "title": "FC2 PPV 4672729 295_【超ぬるぬるテカテカ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/28/c21840ed00573f0c45f891ade5963de8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672729"
-  },
-  {
-    "id": 528836,
-    "IDcode": "FC2-PPV-4672939",
-    "title": "FC2 PPV 4672939 【个撮112】完全颜出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672939"
-  },
-  {
-    "id": 571817,
-    "IDcode": "FC2-PPV-4672943",
-    "title": "FC2 PPV 4672943 颜出し素人",
+    "id": 528225,
+    "IDcode": "FC2-PPV-4572232",
+    "title": "FC2 PPV 4572232 [无修正・完全素人・中出し・潮吹き]",
     "year": "",
     "country": "",
     "genre": "",
@@ -1844,22 +46,204 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/29/bc2a468e7a288703c3e8f63e757ce17d.jpg",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/5b81f87471f5d3119329e4335359f39f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672943"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4572232"
   },
   {
-    "id": 571820,
-    "IDcode": "FC2-PPV-4672970",
-    "title": "FC2 PPV 4672970 [无修正・完全素人・中出し",
+    "id": 528226,
+    "IDcode": "FC2-PPV-4572297",
+    "title": "FC2 PPV 4572297 色白美乳の卓球◯。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-28",
+    "cover_url": "https://tutu1.space/images/2025/06/27/c1db8b5ba7de1b239081614be8f28bb7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4572297"
+  },
+  {
+    "id": 528220,
+    "IDcode": "FC2-PPV-4572401",
+    "title": "FC2 PPV 4572401 【颜出し】Fカップ美巨乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/b4e25c035ea0982f6b8663735ea29ddc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4572401"
+  },
+  {
+    "id": 528222,
+    "IDcode": "FC2-PPV-4572404",
+    "title": "FC2 PPV 4572404 3日间！70OFF【初撮り】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-28",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/e784da309d6ccfc4796056a82bd895d3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4572404"
+  },
+  {
+    "id": 528240,
+    "IDcode": "FC2-PPV-4572428",
+    "title": "FC2 PPV 4572428 3日间！70OFF【颜出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/3bc0abe1fc91fd2dc147d3cefd04ed9b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4572428"
+  },
+  {
+    "id": 528234,
+    "IDcode": "FC2-PPV-4574733",
+    "title": "FC2 PPV 4574733 ※初回数量限定",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-07-08",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4574733"
+  },
+  {
+    "id": 528237,
+    "IDcode": "FC2-PPV-4575136",
+    "title": "FC2 PPV 4575136 あさひ(18) 2回目",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/76081fe6052174d4f7f8a9c783401e22.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575136"
+  },
+  {
+    "id": 528238,
+    "IDcode": "FC2-PPV-4575356",
+    "title": "FC2 PPV 4575356 かなり上玉色白",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575356"
+  },
+  {
+    "id": 528246,
+    "IDcode": "FC2-PPV-4575500",
+    "title": "FC2 PPV 4575500 ★特典で无修正",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575500"
+  },
+  {
+    "id": 528328,
+    "IDcode": "FC2-PPV-4575620",
+    "title": "FC2 PPV 4575620 迄990pt初撮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://tutu1.space/images/2025/06/12/ca2c48a93c5bb119b4cf28e1e2e06b86.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575620"
+  },
+  {
+    "id": 528248,
+    "IDcode": "FC2-PPV-4575711",
+    "title": "FC2 PPV 4575711 清楚系狸颜合法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575711"
+  },
+  {
+    "id": 571180,
+    "IDcode": "FC2-PPV-4575756",
+    "title": "FC2 PPV 4575756 【３発射】有名学习塾讲师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575756"
+  },
+  {
+    "id": 528247,
+    "IDcode": "FC2-PPV-4575782",
+    "title": "FC2 PPV 4575782 [无修正・完全素人・中出し",
     "year": "",
     "country": "",
     "genre": "",
@@ -1868,22 +252,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575782"
   },
   {
-    "id": 571842,
-    "IDcode": "FC2-PPV-4672972",
-    "title": "FC2 PPV 4672972 レビュー特典藻梨",
+    "id": 571200,
+    "IDcode": "FC2-PPV-4575806",
+    "title": "FC2 PPV 4575806 （个撮・限定）3人仲良",
     "year": "",
     "country": "",
     "genre": "",
@@ -1891,22 +269,33 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241223-1/023dd233fec56cb4419714c23f920487.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575806"
+  },
+  {
+    "id": 571182,
+    "IDcode": "FC2-PPV-4575845",
+    "title": "FC2 PPV 4575845 【変态カップル】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
     ],
-    "publish_date": "2025-05-19",
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672972"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4575845"
   },
   {
-    "id": 571816,
-    "IDcode": "FC2-PPV-4673039",
-    "title": "FC2 PPV 4673039 大学 2 年！",
+    "id": 528344,
+    "IDcode": "FC2-PPV-4576419",
+    "title": "FC2 PPV 4576419 初撮身长145㎝小柄",
     "year": "",
     "country": "",
     "genre": "",
@@ -1914,45 +303,34 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/29/92296ad8a5e56d6e5efcd24b31e1d2af.jpg",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/06/09/981e738f62727a846b9f91d6177eb54e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4576419"
   },
   {
-    "id": 571821,
-    "IDcode": "FC2-PPV-4673074",
-    "title": "FC2 PPV 4673074 【本日迄！初回限定",
+    "id": 571190,
+    "IDcode": "FC2-PPV-4577136",
+    "title": "FC2 PPV 4577136 1980円！254_【自己肯定感低め素人】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/01/cb3f41d22f3fdc83160e4c6b94881af1.jpg",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/3b26625c/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673074"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577136"
   },
   {
-    "id": 571822,
-    "IDcode": "FC2-PPV-4673397",
-    "title": "FC2 PPV 4673397 【月末まで・再编集版・薄颜モザイク】",
+    "id": 571187,
+    "IDcode": "FC2-PPV-4577253",
+    "title": "FC2 PPV 4577253 【无】S级レベルの1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1960,22 +338,52 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/afb56ea7/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577253"
+  },
+  {
+    "id": 571186,
+    "IDcode": "FC2-PPV-4577289",
+    "title": "FC2 PPV 4577289 らら保健室の巨乳な先生22歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码"
     ],
-    "publish_date": "2025-05-19",
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/e01580ec/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577289"
+  },
+  {
+    "id": 571185,
+    "IDcode": "FC2-PPV-4577295",
+    "title": "FC2 PPV 4577295 迄半额【无修正・完全素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673397"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577295"
   },
   {
-    "id": 528898,
-    "IDcode": "FC2-PPV-4673457",
-    "title": "FC2 PPV 4673457 【个人撮影】さつき37歳",
+    "id": 571189,
+    "IDcode": "FC2-PPV-4577313",
+    "title": "FC2 PPV 4577313 ※まで75OFF※【ハメ撮り】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1983,22 +391,118 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/81636ac2/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577313"
+  },
+  {
+    "id": 571188,
+    "IDcode": "FC2-PPV-4577331",
+    "title": "FC2 PPV 4577331 【実录】仕事のストレスで色白美乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
     ],
-    "publish_date": "2025-05-21",
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/d68fe11e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577331"
+  },
+  {
+    "id": 195585,
+    "IDcode": "FC2-PPV-4577447",
+    "title": "太色了全裸无遮挡无修正",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/15/bf284c5c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577447"
+  },
+  {
+    "id": 571193,
+    "IDcode": "FC2-PPV-4577695",
+    "title": "FC2 PPV 4577695 ※まで80OFF※【颜出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241215-1/8674e568c4e8918ab244dc39df998672.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4577695"
+  },
+  {
+    "id": 117939,
+    "IDcode": "FC2-PPV-4578319",
+    "title": "帅气大根肌肉男无码生中出性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://tutu1.space/images/2025/06/22/e776a7bef4cb972c18d10218de62371f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578319"
+  },
+  {
+    "id": 571198,
+    "IDcode": "FC2-PPV-4578327",
+    "title": "FC2 PPV 4578327 ※1まで80OFF※ぶっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241211-1/39543e4b4df875657079a930b23d8fcd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578327"
+  },
+  {
+    "id": 571195,
+    "IDcode": "FC2-PPV-4578408",
+    "title": "FC2 PPV 4578408 ※まで80OFF※【颜出し・ハメ撮り】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673457"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578408"
   },
   {
-    "id": 571824,
-    "IDcode": "FC2-PPV-4673724",
-    "title": "FC2 PPV 4673724 [期间限定で大放出",
+    "id": 571196,
+    "IDcode": "FC2-PPV-4578415",
+    "title": "FC2 PPV 4578415 容姿端丽なS级美女",
     "year": "",
     "country": "",
     "genre": "",
@@ -2006,22 +510,68 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "FC2",
+    "publish_date": "2025-06-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-1/f42923b3d1b167906884886fb68e6656.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578415"
+  },
+  {
+    "id": 571199,
+    "IDcode": "FC2-PPV-4578467",
+    "title": "FC2 PPV 4578467 ナンパした人妻と3P",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
     ],
-    "publish_date": "2025-05-19",
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241210-1/30f1eff8a41e5aece4faabf4100637b7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578467"
+  },
+  {
+    "id": 571204,
+    "IDcode": "FC2-PPV-4578588",
+    "title": "FC2 PPV 4578588 超美人再び！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241209-1/5330bf6091c0c9a70dea1e759d6d2bb8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578588"
+  },
+  {
+    "id": 528256,
+    "IDcode": "FC2-PPV-4578755",
+    "title": "FC2 PPV 4578755 ※初回数量限定※",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673724"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578755"
   },
   {
-    "id": 571830,
-    "IDcode": "FC2-PPV-4673805",
-    "title": "FC2 PPV 4673805 【无修正ｘ个人撮影】",
+    "id": 528257,
+    "IDcode": "FC2-PPV-4578778",
+    "title": "FC2 PPV 4578778 神作】最强！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2029,45 +579,962 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/04/615ed8c725fce9fda1f3b111eaedf95b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673805"
-  },
-  {
-    "id": 528849,
-    "IDcode": "FC2-PPV-4673872",
-    "title": "FC2 PPV 4673872 日迄新作セール半额！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673872"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578778"
   },
   {
-    "id": 528853,
-    "IDcode": "FC2-PPV-4673949",
-    "title": "FC2 PPV 4673949 [即ハメ中出し素人妻］",
+    "id": 528259,
+    "IDcode": "FC2-PPV-4578804",
+    "title": "FC2 PPV 4578804 【テンションアゲ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4578804"
+  },
+  {
+    "id": 571205,
+    "IDcode": "FC2-PPV-4579051",
+    "title": "FC2 PPV 4579051 【无・制服コス】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579051"
+  },
+  {
+    "id": 528857,
+    "IDcode": "FC2-PPV-4579088",
+    "title": "【无修正】スレンダーちっぱい1. 8. サイ！献身的ドスケベフェラ奉仕 家庭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241207-1/b49902e67dbdc1b9141b03e7685b1b0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579088"
+  },
+  {
+    "id": 571202,
+    "IDcode": "FC2-PPV-4579126",
+    "title": "FC2 PPV 4579126 秘蔵映像】Hカップ爆乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579126"
+  },
+  {
+    "id": 571206,
+    "IDcode": "FC2-PPV-4579320",
+    "title": "FC2 PPV 4579320 17日まで1290pt",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579320"
+  },
+  {
+    "id": 528265,
+    "IDcode": "FC2-PPV-4579330",
+    "title": "FC2 PPV 4579330 元S○○2024卒业紧急発売",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/2dbb462d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579330"
+  },
+  {
+    "id": 571203,
+    "IDcode": "FC2-PPV-4579334",
+    "title": "FC2 PPV 4579334 【个人】またも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/b5a1782a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579334"
+  },
+  {
+    "id": 528260,
+    "IDcode": "FC2-PPV-4579386",
+    "title": "FC2 PPV 4579386 ※初回数量限定※【素人・中出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579386"
+  },
+  {
+    "id": 528266,
+    "IDcode": "FC2-PPV-4579394",
+    "title": "FC2 PPV 4579394 【本日迄7980pt→1980pt】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579394"
+  },
+  {
+    "id": 528268,
+    "IDcode": "FC2-PPV-4579962",
+    "title": "FC2 PPV 4579962 【半额セール】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4579962"
+  },
+  {
+    "id": 528297,
+    "IDcode": "FC2-PPV-4580300",
+    "title": "FC2 PPV 4580300 一周间限定",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4580300"
+  },
+  {
+    "id": 62709,
+    "IDcode": "FC2-PPV-4580470",
+    "title": "Ayame18 岁生面部又瘦又矮娃娃脸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "FC2",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4580470"
+  },
+  {
+    "id": 528277,
+    "IDcode": "FC2-PPV-4581466",
+    "title": "FC2 PPV 4581466 “昔ブスで2军でした・・”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/ebae9878/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4581466"
+  },
+  {
+    "id": 528284,
+    "IDcode": "FC2-PPV-4581921",
+    "title": "FC2 PPV 4581921 まで半额！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4581921"
+  },
+  {
+    "id": 528294,
+    "IDcode": "FC2-PPV-4582084",
+    "title": "FC2 PPV 4582084 500円！258",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/54e63d9a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582084"
+  },
+  {
+    "id": 528279,
+    "IDcode": "FC2-PPV-4582115",
+    "title": "FC2 PPV 4582115 【个撮・不伦温泉×2ハメ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-23",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/9f6aea17/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582115"
+  },
+  {
+    "id": 528283,
+    "IDcode": "FC2-PPV-4582289",
+    "title": "FC2 PPV 4582289 【素人ハメ撮り021】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582289"
+  },
+  {
+    "id": 528280,
+    "IDcode": "FC2-PPV-4582291",
+    "title": "FC2 PPV 4582291 【正真正铭ギャル】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582291"
+  },
+  {
+    "id": 528281,
+    "IDcode": "FC2-PPV-4582295",
+    "title": "FC2 PPV 4582295 颜出し素人さんがえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/eaa71b17/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582295"
+  },
+  {
+    "id": 528282,
+    "IDcode": "FC2-PPV-4582323",
+    "title": "FC2 PPV 4582323 【无・个撮】迄限定割",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582323"
+  },
+  {
+    "id": 193457,
+    "IDcode": "FC2-PPV-4582583",
+    "title": "H罩杯巨乳面包店招牌艾丽卡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-29",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/28/d23ae8eb/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582583"
+  },
+  {
+    "id": 528290,
+    "IDcode": "FC2-PPV-4582985",
+    "title": "FC2 PPV 4582985 【本日迄1490pt！】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/1c36c99a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4582985"
+  },
+  {
+    "id": 528292,
+    "IDcode": "FC2-PPV-4583027",
+    "title": "FC2 PPV 4583027 24日まで990pt",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583027"
+  },
+  {
+    "id": 528286,
+    "IDcode": "FC2-PPV-4583106",
+    "title": "FC2 PPV 4583106 迄半额【无修正・完全素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583106"
+  },
+  {
+    "id": 528288,
+    "IDcode": "FC2-PPV-4583129",
+    "title": "FC2 PPV 4583129 【初・颜出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583129"
+  },
+  {
+    "id": 571214,
+    "IDcode": "FC2-PPV-4583175",
+    "title": "FC2 PPV 4583175 【本日迄7980pt→1980pt】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583175"
+  },
+  {
+    "id": 528296,
+    "IDcode": "FC2-PPV-4583183",
+    "title": "FC2 PPV 4583183 【本日迄！初回限定セール8980pt→1980pt】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583183"
+  },
+  {
+    "id": 528317,
+    "IDcode": "FC2-PPV-4583186",
+    "title": "FC2 PPV 4583186 【期间限定：年末大特価】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583186"
+  },
+  {
+    "id": 528298,
+    "IDcode": "FC2-PPV-4583275",
+    "title": "FC2 PPV 4583275 【完全颜出し】国际",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583275"
+  },
+  {
+    "id": 528295,
+    "IDcode": "FC2-PPV-4583296",
+    "title": "FC2 PPV 4583296 【半额セール】20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/26/eddf41c7/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583296"
+  },
+  {
+    "id": 571213,
+    "IDcode": "FC2-PPV-4583399",
+    "title": "FC2 PPV 4583399 ショート美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/26/6383fc23/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583399"
+  },
+  {
+    "id": 528330,
+    "IDcode": "FC2-PPV-4583758",
+    "title": "FC2 PPV 4583758 ※初回数量限定",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/12/c75cde75/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583758"
+  },
+  {
+    "id": 528300,
+    "IDcode": "FC2-PPV-4584123",
+    "title": "FC2 PPV 4584123 ※初回数量限定※【个撮・中出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-18",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/6465f392/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4584123"
+  },
+  {
+    "id": 528311,
+    "IDcode": "FC2-PPV-4584769",
+    "title": "FC2 PPV 4584769 【个人】债権案件",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/0dd7a470/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4584769"
+  },
+  {
+    "id": 528305,
+    "IDcode": "FC2-PPV-4584798",
+    "title": "FC2 PPV 4584798 [期间限定で大放出20000pt",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/2a7bd7fd/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4584798"
+  },
+  {
+    "id": 528309,
+    "IDcode": "FC2-PPV-4584825",
+    "title": "FC2 PPV 4584825 ※３日间限定1680pt颜出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/20/ccbf0a35/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4584825"
+  },
+  {
+    "id": 528313,
+    "IDcode": "FC2-PPV-4584850",
+    "title": "FC2 PPV 4584850 デカチンをフェ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/20/97e99601/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4584850"
+  },
+  {
+    "id": 571247,
+    "IDcode": "FC2-PPV-4585298",
+    "title": "FC2 PPV 4585298 【まで特别価格】卒业",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/09/b6b22654/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4585298"
+  },
+  {
+    "id": 528318,
+    "IDcode": "FC2-PPV-4585314",
+    "title": "FC2 PPV 4585314 ※15日まで70OFF※【ハメ撮り】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4585314"
+  },
+  {
+    "id": 528324,
+    "IDcode": "FC2-PPV-4585777",
+    "title": "FC2 PPV 4585777 ※藻梨特典有",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/12/5734ca64/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4585777"
+  },
+  {
+    "id": 571704,
+    "IDcode": "FC2-PPV-4586114",
+    "title": "FC2 PPV 4586114 【无】先着割780pt",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4586114"
+  },
+  {
+    "id": 528331,
+    "IDcode": "FC2-PPV-4586738",
+    "title": "FC2 PPV 4586738 ‘今のみ大特别価格’",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/13/5721f208/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4586738"
+  },
+  {
+    "id": 528332,
+    "IDcode": "FC2-PPV-4586840",
+    "title": "FC2 PPV 4586840 黒髪ポニテの美形の优等生。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4586840"
+  },
+  {
+    "id": 581539,
+    "IDcode": "FC2-PPV-4587527",
+    "title": "前人气偶像，绝对中心”震撼亮相FC2，真面目彻底暴露。顶级偶像的性爱视频。 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/15/98b0c2bd/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4587527"
+  },
+  {
+    "id": 528334,
+    "IDcode": "FC2-PPV-4587530",
+    "title": "FC2 PPV 4587530 【个人】地味な眼镜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/06/15/fcd3395d124b772204312e707689a3d0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4587530"
+  },
+  {
+    "id": 571222,
+    "IDcode": "FC2-PPV-4587869",
+    "title": "FC2 PPV 4587869 【半额セール】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4587869"
+  },
+  {
+    "id": 571219,
+    "IDcode": "FC2-PPV-4587928",
+    "title": "FC2 PPV 4587928 颜出し素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/15/eb340fa0/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4587928"
+  },
+  {
+    "id": 571218,
+    "IDcode": "FC2-PPV-4587930",
+    "title": "FC2 PPV 4587930 初回数量限定",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4587930"
+  },
+  {
+    "id": 571217,
+    "IDcode": "FC2-PPV-4588138",
+    "title": "FC2 PPV 4588138 300円！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/15/030795b9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588138"
+  },
+  {
+    "id": 571220,
+    "IDcode": "FC2-PPV-4588359",
+    "title": "FC2 PPV 4588359 迄半额【无修正・完全素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588359"
+  },
+  {
+    "id": 571228,
+    "IDcode": "FC2-PPV-4588423",
+    "title": "FC2 PPV 4588423 ※颜出し※素人の可爱い",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588423"
+  },
+  {
+    "id": 528340,
+    "IDcode": "FC2-PPV-4588448",
+    "title": "FC2 PPV 4588448 【无】アイドル并の清楚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-18",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/6af2dfc3/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588448"
+  },
+  {
+    "id": 571231,
+    "IDcode": "FC2-PPV-4588536",
+    "title": "FC2 PPV 4588536 [无修正・完全素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-18",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588536"
+  },
+  {
+    "id": 528339,
+    "IDcode": "FC2-PPV-4588567",
+    "title": "FC2 PPV 4588567 【モ无】全フォロワ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588567"
+  },
+  {
+    "id": 571227,
+    "IDcode": "FC2-PPV-4588714",
+    "title": "FC2 PPV 4588714 500円！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/db0ba23e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588714"
+  },
+  {
+    "id": 571223,
+    "IDcode": "FC2-PPV-4588720",
+    "title": "FC2 PPV 4588720 [即ハメ中出し素人妻］",
     "year": "",
     "country": "",
     "genre": "",
@@ -2077,22 +1544,34 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673949"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588720"
   },
   {
-    "id": 571828,
-    "IDcode": "FC2-PPV-4673985",
-    "title": "FC2 PPV 4673985 スレンダーで足",
+    "id": 571229,
+    "IDcode": "FC2-PPV-4588771",
+    "title": "FC2 PPV 4588771 関西美人妻！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/aa1c8226/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588771"
+  },
+  {
+    "id": 528337,
+    "IDcode": "FC2-PPV-4588885",
+    "title": "FC2 PPV 4588885 【本日迄！初回限定",
     "year": "",
     "country": "",
     "genre": "",
@@ -2100,46 +1579,50 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "FC2",
+    "publish_date": "2025-06-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/f311fe5a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588885"
+  },
+  {
+    "id": 571238,
+    "IDcode": "FC2-PPV-4588898",
+    "title": "FC2 PPV 4588898 【无修正ｘ个人撮影】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
     ],
-    "publish_date": "2025-05-19",
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-06-20",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673985"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588898"
   },
   {
-    "id": 528855,
-    "IDcode": "FC2-PPV-4674037",
-    "title": "FC2 PPV 4674037 【无修正】21歳Eカッ",
+    "id": 571239,
+    "IDcode": "FC2-PPV-4588969",
+    "title": "FC2 PPV 4588969 まで1240pt【无修正】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4588969"
   },
   {
-    "id": 571827,
-    "IDcode": "FC2-PPV-4674054",
-    "title": "FC2 PPV 4674054 “中出しマ●コにダ",
+    "id": 571234,
+    "IDcode": "FC2-PPV-4589051",
+    "title": "FC2 PPV 4589051 [期间限定で大放出",
     "year": "",
     "country": "",
     "genre": "",
@@ -2147,22 +1630,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "2025-06-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4589051"
   },
   {
-    "id": 571837,
-    "IDcode": "FC2-PPV-4674234",
-    "title": "FC2 PPV 4674234 【初回70オフ】",
+    "id": 528346,
+    "IDcode": "FC2-PPV-4589209",
+    "title": "FC2 PPV 4589209 まで85OFF",
     "year": "",
     "country": "",
     "genre": "",
@@ -2170,46 +1647,33 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674234"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4589209"
   },
   {
-    "id": 571838,
-    "IDcode": "FC2-PPV-4674306",
-    "title": "FC2 PPV 4674306 迄半额【无・完全素人】",
+    "id": 571237,
+    "IDcode": "FC2-PPV-4589248",
+    "title": "FC2 PPV 4589248 【颜晒し】あの美人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "2025-06-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674306"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4589248"
   },
   {
-    "id": 571835,
-    "IDcode": "FC2-PPV-4674762",
-    "title": "FC2 PPV 4674762 【计11発射",
+    "id": 571235,
+    "IDcode": "FC2-PPV-4589294",
+    "title": "FC2 PPV 4589294 ※期间限定1980pt【颜出し】",
     "year": "",
     "country": "",
     "genre": "",
@@ -2217,22 +1681,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674762"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4589294"
   },
   {
-    "id": 571836,
-    "IDcode": "FC2-PPV-4674793",
-    "title": "FC2 PPV 4674793 【奇迹の50歳】",
+    "id": 528345,
+    "IDcode": "FC2-PPV-4590323",
+    "title": "FC2 PPV 4590323 【无】【颜出し】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
@@ -2240,22 +1698,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
+    "company": "FC2",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674793"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4590323"
   },
   {
-    "id": 571834,
-    "IDcode": "FC2-PPV-4675245",
-    "title": "FC2 PPV 4675245 初回数量限定",
+    "id": 571251,
+    "IDcode": "FC2-PPV-4590421",
+    "title": "FC2 PPV 4590421 まで80OFF【颜出し】",
     "year": "",
     "country": "",
     "genre": "",
@@ -2263,62 +1715,10 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250111-1/73790ed9c0b31d6e3948a14f8d9abecc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4675245"
-  },
-  {
-    "id": 571845,
-    "IDcode": "FC2-PPV-4675293",
-    "title": "FC2 PPV 4675293 【期间限定50オフ・中出し】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/08/edc3716c3d6371f39e7338dc6444df79.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4675293"
-  },
-  {
-    "id": 571843,
-    "IDcode": "FC2-PPV-4675453",
-    "title": "FC2 PPV 4675453 【続中出し＆口内発射】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/08/ff453ab51994389188db17f066f8df97.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4675453"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4590421"
   }
 ];

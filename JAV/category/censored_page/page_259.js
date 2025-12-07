@@ -1,47 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 579378,
-    "IDcode": "BANK-141",
-    "title": "ドスケベギャル露天温泉3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230909/IVRZwt33/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-141"
-  },
-  {
-    "id": 579390,
-    "IDcode": "BANK-142",
-    "title": "中出し露天温泉 性欲が强すぎるムチムチKカップ淫乱お姊さん 春菜はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230909/SaNmATTp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-142"
-  },
-  {
     "id": 579400,
     "IDcode": "BANK-143",
     "title": "巨乳人妻によるギンギンの童贞君を优しく笔おろし“本当に私でいいのかしら？”4",
@@ -53,13 +11,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/apjMW8SK/1.jpg",
     "actress": [],
@@ -76,13 +28,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/ikX6OyR4/1.jpg",
     "actress": [],
@@ -100,13 +46,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231014/MDjzyjCD/1.jpg",
     "actress": [],
@@ -123,13 +63,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231014/CMICpZM1/1.jpg",
     "actress": [],
@@ -144,13 +78,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231029/Qy8MZ4C5/1.jpg",
     "actress": [],
@@ -167,13 +95,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/QXJ4rNDx/1.jpg",
     "actress": [],
@@ -191,13 +113,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/Dcs77njU/1.jpg",
     "actress": [],
@@ -214,13 +130,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240719/4Nw1Oqwq/1.jpg",
     "actress": [],
@@ -238,13 +148,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/9Q8bldx1/1.jpg",
     "actress": [],
@@ -261,13 +165,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/tLiu6a03/1.jpg",
     "actress": [],
@@ -282,13 +180,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/TkGCPLHZ/1.jpg",
     "actress": [],
@@ -306,13 +198,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/cnSyL9Or/1.jpg",
     "actress": [],
@@ -327,13 +213,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/sHAxtEqO/1.jpg",
     "actress": [],
@@ -348,13 +228,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/NvfmiDdI/1.jpg",
     "actress": [],
@@ -372,13 +246,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240128/cuyUoBVn/1.jpg",
     "actress": [],
@@ -395,13 +263,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/A8iZKliu/1.jpg",
     "actress": [],
@@ -416,13 +278,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/Zu8unoac/1.jpg",
     "actress": [],
@@ -437,13 +293,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240225/Iu1ZfOQF/1.jpg",
     "actress": [],
@@ -461,13 +311,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/0BjKHner/1.jpg",
     "actress": [],
@@ -482,13 +326,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/xWaJjpmB/1.jpg",
     "actress": [],
@@ -506,13 +344,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/k97eFDB6/1.jpg",
     "actress": [],
@@ -527,13 +359,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/yffTDDiq/1.jpg",
     "actress": [],
@@ -548,13 +374,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/4zZH1Dae/1.jpg",
     "actress": [],
@@ -571,13 +391,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/edkhAAn6/1.jpg",
     "actress": [],
@@ -594,13 +408,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -615,13 +423,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/vxptbAhK/1.jpg",
     "actress": [],
@@ -638,13 +440,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/jcuE3sQ4/1.jpg",
     "actress": [],
@@ -662,13 +458,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/4sQQY8Ke/1.jpg",
     "actress": [],
@@ -683,13 +473,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240616/7tTDhAO3/1.jpg",
     "actress": [],
@@ -706,13 +490,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240616/NzWVnXGi/1.jpg",
     "actress": [],
@@ -727,13 +505,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906af6371eb543bb0e0fd57/poster2.jpg",
     "actress": [],
@@ -750,13 +522,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c1d3eb67774efbb8f54b/cover.jpg",
     "actress": [],
@@ -771,13 +537,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0ca9b631cc64eb5b33831/cover.jpg",
     "actress": [],
@@ -794,13 +554,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240728/6D5Evmb5/1.jpg",
     "actress": [],
@@ -817,13 +571,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d314e5ce5a404e9bad0abc/cover.jpg",
     "actress": [
@@ -840,13 +588,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/TbsuTl08/1.jpg",
     "actress": [],
@@ -861,13 +603,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/zpYoLCLw/1.jpg",
     "actress": [],
@@ -885,13 +621,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/19/68cd37882c5ed64ee9ac3ff6/cover.jpg",
     "actress": [],
@@ -909,13 +639,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/a213b29ad50fb6bc9aa4ec930739bc88.jpg",
     "actress": [],
@@ -932,13 +656,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/3dc60fe03f6593f1dc541331111846b8.jpg",
     "actress": [],
@@ -952,24 +670,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "潮吹",
+      "巨乳",
+      "浴衣",
+      "骑乗位",
       "乳交",
       "中出",
-      "制服",
-      "骑乗位",
-      "巨乳",
+      "潮吹",
+      "淫乱，真实",
       "颜射",
-      "浴衣"
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/d8785b00ca8dc6f3d98d71129113aeec.jpg",
     "actress": [
@@ -986,13 +698,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/dbcbcbbab62c8a8608142226b81087cb.jpg",
     "actress": [],
@@ -1010,13 +716,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/a9581f71df4c6e03522da0fa959f0588.jpg",
     "actress": [],
@@ -1033,13 +733,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/b7990c2d9328d13f5dae766453e950aa.jpg",
     "actress": [],
@@ -1054,13 +748,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/898d1bfa46ca7e80f082a8ba34da1f05.jpg",
     "actress": [],
@@ -1075,13 +763,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250122/y8Xngfxg/1.jpg",
     "actress": [],
@@ -1099,13 +781,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250922-1/02b568c046f49404f7ffdee67ca3982f.jpg",
     "actress": [],
@@ -1120,13 +796,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250923-1/b1b28c52b66b6f5c607c60b0a7b5c74a.jpg",
     "actress": [],
@@ -1144,13 +814,7 @@ window.PAGE_DATA = [
       "少妇"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250122/NbtRKI4C/1.jpg",
     "actress": [],
@@ -1164,48 +828,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "巨尻",
-      "慾求不滿",
-      "溫泉",
-      "豐滿",
-      "旅行",
-      "4小時以上作品",
-      "故事集",
-      "和服・浴衣・喪服",
-      "癡女",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
       "清楚系",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "淫亂",
-      "超爆乳",
+      "豐滿",
+      "精選綜合",
       "出軌",
+      "濕身",
+      "癡女",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "淫亂",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "絕頂高潮",
-      "乳交",
       "家庭主妇",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "美人妻",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "故事集",
+      "巨尻",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f5f6cf22ae3e04396908/cover.jpg",
     "actress": [],
@@ -1219,48 +877,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "多P",
-      "慾求不滿",
-      "戀物癖",
-      "真實拍攝",
-      "臀控",
       "肉絲",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "短髮",
-      "淫亂",
-      "地味",
+      "真實拍攝",
       "蠻橫嬌羞",
-      "中出",
       "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
-      "重口味",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
+      "臀控",
       "二穴同入",
-      "肛交",
+      "亂交 • 群P",
+      "奇異的",
+      "重口味",
+      "人妻",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "戀物癖",
+      "絕頂高潮",
+      "地味",
+      "企畫",
       "黑絲",
+      "顏射",
       "金髮",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "口交",
+      "巨乳",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "多P",
+      "後入",
+      "肛交",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4f804e4a73d4f15c27508/cover.jpg",
     "actress": [
@@ -1277,38 +929,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "獵豔",
-      "慾求不滿",
-      "溫泉",
       "豐滿",
+      "獵豔",
+      "蕩婦",
+      "重口味",
+      "溫泉",
       "旅行",
-      "和服・浴衣・喪服",
-      "胖女人",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
       "人妻",
       "淫亂",
-      "超爆乳",
       "中出",
-      "蕩婦",
-      "後入",
-      "重口味",
-      "乳交",
+      "胖女人",
       "家庭主妇",
+      "和服・浴衣・喪服",
+      "騎乗位",
+      "超爆乳",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "2025-02-14",
     "cover_url": "https://picture.yoshiclub.xyz/20250214/fcdd2eb9-b0ce-41ce-8603-822ea85167c9.jpg",
     "actress": [],
@@ -1322,20 +968,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
+      "精选，综合",
       "业余",
       "中出",
-      "精选，综合",
-      "女生"
+      "女生",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1349,23 +989,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
       "和服・浴衣・喪服",
-      "多P",
-      "JK校服",
+      "潮吹",
       "中出",
+      "辣妹/GAL系",
       "顏射",
-      "辣妹/GAL系"
+      "美少女電影",
+      "多P",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d846a6d6fbef4e90ccfb1b/cover.jpg",
     "actress": [
@@ -1386,13 +1020,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250706-1/fbafd0f21092a0ff7534a9a86741458a.jpg",
     "actress": [],
@@ -1409,13 +1037,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250710-1/4841de750336e5efe9edcda1b908fe7b.jpg",
     "actress": [],
@@ -1433,13 +1055,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250706-1/6d3f233414a7cf1e04ba251d61b49767.jpg",
     "actress": [],
@@ -1456,13 +1072,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994ffc55337d7f7bcfa9c4/cover.jpg",
     "actress": [],
@@ -1476,42 +1086,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "純粹的慾望",
-      "慾求不滿",
-      "溫泉",
-      "故事集",
-      "臀控",
       "精選綜合",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
+      "臀控",
       "美臀",
-      "絕頂高潮",
+      "濕身",
+      "溫泉",
+      "人妻",
       "舔陰",
-      "乳交",
+      "中出",
       "家庭主妇",
+      "絕頂高潮",
+      "企畫",
+      "美人妻",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "故事集",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426012533568568_thumbnail.webp",
     "actress": [
@@ -1529,49 +1133,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
-      "溫泉",
-      "豐滿",
-      "旅行",
-      "苗條",
-      "鄰居",
-      "和服・浴衣・喪服",
-      "流汗",
-      "癡女",
-      "美乳",
       "清楚系",
+      "豐滿",
+      "出軌",
+      "美臀",
+      "濕身",
+      "癡女",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "鄰居",
+      "中出",
+      "劇情",
+      "家庭主妇",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
       "口交",
+      "流汗",
+      "慾求不滿",
+      "女上位",
+      "後入",
       "性感",
       "跳蛋",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
       "NTR",
-      "高顏值",
-      "出軌",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "不倫",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015133779779_thumbnail.webp",
     "actress": [
@@ -1588,13 +1186,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c293bac6d1004ed42997ba/cover.jpg",
     "actress": [],
@@ -1612,13 +1204,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/53ffda194c21c3118c669c398b1b27f3.jpg",
     "actress": [],
@@ -1632,20 +1218,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
+      "精选，综合",
       "口交",
       "手淫",
-      "精选，综合",
+      "4小时以上作品",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/01/1e219d2782aa49ef0aa7e5d10b9f2303.jpg",
     "actress": [],
@@ -1659,49 +1239,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "三十路",
-      "溫泉",
-      "素人作品",
-      "護士制服",
-      "阪道系",
-      "和服・浴衣・喪服",
-      "美腳",
-      "色白",
-      "大奶头",
-      "美乳",
       "清楚系",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
+      "美腳",
+      "姐姐・妹妹",
+      "溫泉",
       "人妻",
-      "美人妻",
-      "後宮系",
-      "高顏值",
+      "舔陰",
+      "中出",
       "極品美人",
       "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "美腿",
       "後入",
-      "舔陰",
+      "和服・浴衣・喪服",
+      "色白",
+      "高顏值",
+      "企畫",
+      "素人作品",
+      "美人妻",
+      "阪道系",
       "手指插入",
+      "騎乗位",
+      "護士制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
       "乳交",
       "女上位",
-      "騎乗位"
+      "三十路",
+      "後宮系",
+      "大奶头",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/05/689189d5c92318f97d7f97df/cover.jpg",
     "actress": [
@@ -1718,50 +1292,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "出軌",
+      "美臀",
       "濕身",
-      "奇聞趣事",
-      "巨尻",
-      "若妻",
-      "三十路",
       "溫泉",
-      "阪道系",
-      "和服・浴衣・喪服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
+      "人妻",
+      "舔陰",
+      "奇聞趣事",
+      "中出",
+      "御姐系",
+      "劇情",
       "寢取",
+      "家庭主妇",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "高顏值",
+      "美人妻",
+      "若妻",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "約炮",
-      "高顏值",
-      "出軌",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
       "乳交",
-      "御姐系",
-      "家庭主妇",
+      "約炮",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "三十路",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "2025-06-13",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071500686686_thumbnail.webp",
     "actress": [
@@ -1777,69 +1345,63 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "泳裝",
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "M男・M女",
-      "溫泉",
-      "豐滿",
-      "旅行",
-      "素人作品",
-      "故事集",
-      "臀控",
-      "阪道系",
-      "凌辱",
-      "和服・浴衣・喪服",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
       "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
+      "豐滿",
+      "凌辱",
+      "美腳",
+      "臀控",
       "美臀",
-      "絕頂高潮",
-      "清純",
+      "亂交 • 群P",
+      "癡女",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "舔陰",
-      "脚控・戀足癖",
+      "極品美人",
       "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
       "丁字裤",
-      "騎乗位"
+      "劇情",
+      "性感",
+      "美少女",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "M男・M女",
+      "色白",
+      "高顏值",
+      "素人作品",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "故事集",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "大奶头",
+      "濕身",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "2025-06-27",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034759622622_thumbnail.webp",
     "actress": [
@@ -1857,49 +1419,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "艷遇",
-      "小隻馬",
-      "若妻",
-      "純粹的慾望",
-      "口爆",
-      "溫泉",
       "真實拍攝",
       "豐滿",
-      "素人作品",
-      "苗條",
-      "和服・浴衣・喪服",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "制服",
       "清楚系",
-      "口交",
-      "形象俱樂部",
-      "人妻",
-      "極品美人",
-      "中出",
-      "美人",
-      "後入",
+      "美腳",
+      "小隻馬",
+      "口爆",
       "美臀",
-      "顏射",
-      "絕頂高潮",
+      "溫泉",
+      "人妻",
       "舔陰",
-      "手指插入",
+      "中出",
+      "極品美人",
       "調教",
+      "美少女",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "色白",
+      "苗條",
+      "顏射",
+      "素人作品",
+      "若妻",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
       "女上位",
-      "騎乗位"
+      "後入",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "2025-06-27",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034733712712_thumbnail.webp",
     "actress": [],
@@ -1913,53 +1469,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
-      "溫泉",
       "豐滿",
+      "出軌",
+      "蕩婦",
+      "美臀",
+      "濕身",
+      "溫泉",
       "旅行",
+      "人妻",
+      "大乳暈",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "家庭主妇",
       "和服・浴衣・喪服",
-      "胸控・戀乳癖",
+      "絕頂高潮",
+      "偷竊",
       "色白",
+      "企畫",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
       "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "大乳暈",
-      "形象俱樂部",
-      "NTR",
-      "人妻",
-      "約炮",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "手指插入",
+      "慾求不滿",
       "乳交",
-      "偷竊",
-      "家庭主妇",
+      "約炮",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d76155337d7f7bbc2556/cover.jpg",
     "actress": [
@@ -1975,63 +1525,57 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "純粹的慾望",
+      "清楚系",
+      "出軌",
+      "美腳",
       "口爆",
+      "臀控",
+      "濕身",
+      "美臀",
       "溫泉",
       "旅行",
-      "苗條",
-      "臀控",
-      "阪道系",
-      "和服・浴衣・喪服",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
       "人妻",
-      "美人妻",
-      "NTR",
-      "約炮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "超爆乳",
-      "出軌",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
-      "清純",
       "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "無毛",
-      "乳交",
-      "偷竊",
+      "中出",
+      "極品美人",
       "御姐系",
+      "美少女電影",
+      "劇情",
+      "明星臉",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "無毛",
+      "偷竊",
+      "色白",
+      "高顏值",
+      "苗條",
+      "美人妻",
+      "阪道系",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "乳交",
+      "約炮",
+      "清純",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d71955337d7f7bbc2532/cover.jpg",
     "actress": [
@@ -2047,54 +1591,48 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
+      "少女",
+      "美腳",
+      "蘿莉控",
       "女學生",
       "小隻馬",
+      "亂交 • 群P",
+      "惡搞",
       "兩女一男",
-      "M男・M女",
-      "純粹的慾望",
       "溫泉",
       "旅行",
-      "苗條",
-      "女僕制服",
-      "和服・浴衣・喪服",
-      "美少女",
-      "惡搞",
-      "美腳",
-      "雙飛",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
+      "舔陰",
       "淫亂",
       "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
       "美少女電影",
-      "手指插入",
+      "劇情",
+      "美少女",
+      "後入",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
       "無毛",
-      "蘿莉控",
+      "M男・M女",
+      "高顏值",
+      "苗條",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
+      "雙飛",
+      "女僕制服",
+      "口交",
+      "校花",
+      "清純",
       "女上位",
-      "騎乗位"
+      "大奶头",
+      "濕身",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688aca9398bc99dfddd173b7/cover.jpg",
     "actress": [
@@ -2111,24 +1649,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "人妻",
-      "和服，丧服",
       "单体作品",
       "已婚妇女",
-      "平胸",
+      "浴衣",
       "中出",
+      "苗条",
       "颜射",
-      "浴衣"
+      "平胸",
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2144,23 +1676,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
       "人妻",
+      "巨乳",
       "已婚妇女",
-      "自慰",
+      "浴衣",
       "乳交",
       "中出",
-      "巨乳",
-      "浴衣"
+      "自慰",
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251007/0sEwkx99/1.jpg",
     "actress": [],
@@ -2178,13 +1704,7 @@ window.PAGE_DATA = [
       "少妇"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2198,49 +1718,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "口爆",
-      "慾求不滿",
-      "溫泉",
       "豐滿",
-      "辣妹/GAL系",
-      "阪道系",
-      "胖女人",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
+      "高妹",
+      "蕩婦",
+      "口爆",
       "亂交 • 群P",
+      "溫泉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "比基尼",
+      "胖女人",
+      "丁字裤",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "色白",
+      "企畫",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "形象俱樂部",
-      "比基尼",
-      "淫亂",
-      "超爆乳",
-      "中出",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "高妹",
+      "慾求不滿",
       "乳交",
       "女上位",
-      "丁字裤",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "濕身",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022549502502_84932_thumbnail.webp",
     "actress": [
@@ -2257,39 +1771,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
+      "美腳",
+      "高妹",
       "口爆",
       "溫泉",
-      "苗條",
-      "阪道系",
-      "美腳",
-      "美乳",
-      "口交",
-      "熟女",
-      "形象俱樂部",
       "人妻",
-      "美人妻",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "絕頂高潮",
       "舔陰",
-      "手指插入",
-      "高妹",
+      "中出",
       "家庭主妇",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "美人妻",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
       "女上位",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913085612923923_29282_thumbnail.webp",
     "actress": [
@@ -2308,13 +1816,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2329,13 +1831,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ま○こ銀行",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ま○こ銀行",
-        "works_count": 154
-      }
-    ],
+    "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2352,7 +1848,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://la.lashayu.com/upload/vod/20251013-1/e7348d1200865bea40187988cceacd5c.jpg",
     "actress": [],
@@ -2369,7 +1865,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://la.lashayu.com/upload/vod/20251011-1/38483c2d6ce9317dde25e043e072e4ef.jpg",
     "actress": [],
@@ -2386,7 +1882,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250711-1/238a02e4431be06bb7a8107f7296a482.jpg",
     "actress": [],
@@ -2404,7 +1900,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://le.lefhao20250923.top/upload/vod/20250710-1/9524471388fcc21677cc8201ab18c973.jpg",
     "actress": [],
@@ -2419,7 +1915,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20f17cf22ae3e04a81f3c/cover.jpg",
     "actress": [],
@@ -2434,7 +1930,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230725/9pBDFVUa/1.jpg",
     "actress": [],
@@ -2449,7 +1945,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/LiD7q3Sc/1.jpg",
     "actress": [],
@@ -2464,13 +1960,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/kRFoIgDM/1.jpg",
     "actress": [],
@@ -2485,13 +1975,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/hhqn3o7y/1.jpg",
     "actress": [],
@@ -2506,13 +1990,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241019/Lqe8OfYP/1.jpg",
     "actress": [],
@@ -2527,13 +2005,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240708/knNDyYlo/1.jpg",
     "actress": [],
@@ -2548,13 +2020,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240812/oPJXOw4l/1.jpg",
     "actress": [],
@@ -2569,13 +2035,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240812/gxsUvWAH/1.jpg",
     "actress": [],
@@ -2589,41 +2049,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "4小時以上作品",
-      "故事集",
-      "感官作品",
-      "凌辱",
-      "緊縛",
-      "美腳",
       "精選綜合",
-      "拘束・拷問",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "淫亂",
+      "凌辱",
       "蠻橫嬌羞",
-      "中出",
+      "美腳",
+      "拘束・拷問",
       "蕩婦",
-      "後入",
-      "女優",
+      "亂交 • 群P",
+      "感官作品",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "調教",
+      "女優",
+      "緊縛",
+      "騎乗位",
+      "形象俱樂部",
+      "故事集",
+      "口交",
+      "巨乳",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "4小時以上作品",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240813/e562accb-677a-4b6a-905d-732f290cd867.jpg",
     "actress": [
@@ -2640,13 +2094,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/cT6BdCOa/1.jpg",
     "actress": [],
@@ -2661,13 +2109,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/semlr20X/1.jpg",
     "actress": [],
@@ -2682,13 +2124,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/YH20RQTB/1.jpg",
     "actress": [],
@@ -2703,13 +2139,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/44d43abfd86488d10a6d0a4482affb15.jpg",
     "actress": [],
@@ -2724,13 +2154,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241019/aRpsrSgV/1.jpg",
     "actress": [],
@@ -2745,13 +2169,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241119/YJwBTzbv/1.jpg",
     "actress": [],
@@ -2766,16 +2184,94 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/9c340d7af756bdd3ac125619437a5e84.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASB-014"
+  },
+  {
+    "id": 411689,
+    "IDcode": "BASB-015",
+    "title": "我就喜欢指责男人！小荡妇特别合辑！ 安部未华子,永濑唯,西田卡莉娜等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "BALTAN",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/20c0110153386b5c891876299fcff23c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASB-015"
+  },
+  {
+    "id": 9160,
+    "IDcode": "BASB-016",
+    "title": "我想要被職業OL寢取！！ 嚴選癡女OL 4小時 特輯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "網襪",
+      "女秘書",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "兩女一男",
+      "癡女",
+      "眼鏡",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "美少女電影",
+      "辦公室",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "地味",
+      "色白",
+      "高顏值",
+      "企畫",
+      "黑絲",
+      "騎乗位",
+      "艷遇",
+      "精選總編集",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "高跟鞋",
+      "4小時以上作品",
+      "OL",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "BALTAN",
+    "publish_date": "2025-01-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250113/e443dc4f-a29d-45c1-bb80-6d2f65fc2aad.jpg",
+    "actress": [
+      "花狩舞",
+      "妃光莉",
+      "萌波鈴",
+      "八乃翼",
+      "緒川春",
+      "辻芽愛里",
+      "瀬名未来",
+      "優木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASB-016"
   }
 ];

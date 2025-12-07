@@ -317,7 +317,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/e9a212766c04b4ae229ce363e188161d.jpg",
       "actress": [

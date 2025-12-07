@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-08-20",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/c9443efb1b53d005b01dfcec3d3dfb3b.jpg",
       "actress": [
@@ -49,7 +49,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-06-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/5fff8219a42e2873595e71e2ab558b93.jpg",
       "actress": [

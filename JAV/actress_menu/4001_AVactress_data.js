@@ -87,7 +87,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2019-12-05",
       "cover_url": "",
       "actress": [

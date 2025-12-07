@@ -1,8 +1,38 @@
 window.PAGE_DATA = [
   {
-    "id": 565964,
-    "IDcode": "LULU-169",
-    "title": "残业中、2人きりの社内でパツパツスーツの人妻女上司のデカ尻挑発に乘せられ尻テクで何度もサービスぶっかけ射精させられた。",
+    "id": 566920,
+    "IDcode": "MBMA-005",
+    "title": "あなたのスマホ大丈夫？ 天才ハッカーがスマホから抜き取った 一般人のエロ动画がヤバすぎる3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/a5e4178123cf89b544d224599da31702.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-005"
+  },
+  {
+    "id": 566923,
+    "IDcode": "MBMA-008",
+    "title": "家族の绊は固かった！？“お父さんには言わないで”とか言いながら、娘の前でもお构いなし、欲求不満",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/be8c87f409c8c7caaa85882655752caa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-008"
+  },
+  {
+    "id": 566926,
+    "IDcode": "MBMA-009",
+    "title": "旅先で开放的になったところをすかさずナンパ 奥様の性欲爆発！ 本能むき出しエッチ 人妻旅先不伦",
     "year": "",
     "country": "",
     "genre": "",
@@ -10,586 +40,309 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5155bda77c6b31ae4ee70cef4a6e6af.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/96a3b3df67cae71848af900de03133c9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-009"
   },
   {
-    "id": 565963,
-    "IDcode": "LULU-170",
-    "title": "天真烂漫な彼女の妹の乳首に媚薬を涂りたくって敏感チクイキ部活女子に仕上げキメセクで中出ししまくった。",
+    "id": 566930,
+    "IDcode": "MBMA-010",
+    "title": "ノンフィクション ハメられた女たち 20名-污れた人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/049827caf664f116a2463545b1dbee3a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-010"
+  },
+  {
+    "id": 566929,
+    "IDcode": "MBMA-011",
+    "title": "ほとばしる熟女のエロチズム 乳首ビンビン五十路熟女 使い込まれ肥大化したデカ乳首をフル勃起させ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5528957996f1bb42247510eb5b0822a6.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20250725-1/855525e2c66f549999424c174bc70ff1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-170"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-011"
   },
   {
-    "id": 85268,
-    "IDcode": "LULU-171",
-    "title": "【FANZA限定】父親の再婚で突然できたナマイキなデカ尻ネオギャル姉の無自覚挑発パンチラに我慢できず勇気を出して全力即ハメ童貞ピストンで何度も中出しした。 木下ひまり パンティとチェキ付き",
+    "id": 566928,
+    "IDcode": "MBMA-013",
+    "title": "麻縄快楽 里 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250725-1/3c0c8964c3cd9f4a48f0bbce1981b8a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-013"
+  },
+  {
+    "id": 566924,
+    "IDcode": "MBMA-016",
+    "title": "イキっぷりのクセがスゴイ 五十路ゴザ掻き布団掻きむしり 痉挛絶顶熟女20人4时间16",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/e9a7ac8e3a4dd0a0301c061d9231657c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-016"
+  },
+  {
+    "id": 566932,
+    "IDcode": "MBMA-017",
+    "title": "ムスコのあそこがデカ过ぎて…。性欲旺盛！禁断の情欲が治まらない 完熟お母さんのド痴女セックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250725-1/d23f1b261145ab9944d32d45e718347e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-017"
+  },
+  {
+    "id": 6588,
+    "IDcode": "MBMA-018",
+    "title": "肉感爆棚超騷身材！短裙熟女欲求不滿！12人4小時",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
+      "故事集",
+      "人妻",
+      "精選綜合",
+      "淫蕩・硬核",
+      "貴婦",
+      "企畫",
+      "美人妻",
+      "短裙・迷你裙",
+      "4小時以上作品",
+      "騎乗位",
+      "熟女",
+      "精選總編集",
+      "美人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426023613352352_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-018"
+  },
+  {
+    "id": 566927,
+    "IDcode": "MBMA-019",
+    "title": "センズリ特化！思わず股间が热くなる！どしろーとの人妻が魅せるフェラチオがエロ过ぎる！口腔SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250724-1/c99cc30634c139c0ed2de21368e5f905.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-019"
+  },
+  {
+    "id": 6590,
+    "IDcode": "MBMA-021",
+    "title": "極致高潮！潮吹噴射！人妻溼身大爆發深層高潮 12人4小時 Vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "精選綜合",
+      "巨乳",
+      "潮吹",
+      "企畫",
+      "美人妻",
+      "4小時以上作品",
+      "蕩婦",
+      "劇情",
+      "熟女",
+      "精選總編集",
+      "形象俱樂部",
+      "美人",
+      "癡女",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426022421232232_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-021"
+  },
+  {
+    "id": 566933,
+    "IDcode": "MBMA-023",
+    "title": "ウ、ウソだろ…？こんなにごく普通の奥さんが…。豹変！激変！狂い咲き！！目を疑う、惊愕のイキッぷ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20250725-1/41e35710491111c23424d61425172c93.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-023"
+  },
+  {
+    "id": 6595,
+    "IDcode": "MBMA-024",
+    "title": "不能出聲的場景下…高潮不斷的妹子們 爽到不行卻拼命忍住呻吟聲瘋狂扭動 12人4小時 Vol.4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選綜合",
+      "巨乳",
+      "淫蕩・硬核",
+      "企畫",
+      "4小時以上作品",
+      "劇情",
+      "熟女",
+      "精選總編集",
+      "形象俱樂部"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426020914202202_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-024"
+  },
+  {
+    "id": 566931,
+    "IDcode": "MBMA-025",
+    "title": "いくつになってもオンナです（ハート） 浓厚でエロすぎるSEX！ グイグイ自ら求めるマエムキ熟女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250725-1/4b1e1bc085d5d9a4e9df18c050a54c6c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-025"
+  },
+  {
+    "id": 6594,
+    "IDcode": "MBMA-026",
+    "title": "真實記錄 被套路迷奸的妹子們20人-網咖·大學廁所·夜行巴士",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "精選綜合",
       "中出",
-      "女生",
-      "单体作品",
-      "高中女生"
+      "美少女電影",
+      "強姦",
+      "企畫",
+      "素人作品",
+      "騎乗位",
+      "巴士",
+      "精選總編集",
+      "形象俱樂部",
+      "美乳",
+      "迷姦",
+      "口交",
+      "巨乳",
+      "魔鬼系",
+      "女上位",
+      "厠所",
+      "4小時以上作品",
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2022-10-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/d5b872afa36c99b0e2d251739a7f1183.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-171"
+    "company": "MBM",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426020935508508_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-026"
   },
   {
-    "id": 565962,
-    "IDcode": "LULU-172",
-    "title": "妊活のため嫁にオナ禁を强いられ暴れ精子で金玉パンパンの爆発寸前状态で理性を失いデカ尻义母に特浓孕ませ汁をありったけ中出ししてしまった…。",
+    "id": 438679,
+    "IDcode": "MBMA-032",
+    "title": "匹配Goo软件约到的淫乱欲女！随性狂啪高潮迭起干到爽翻天！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/97cbb9780649fc048d8b0a1cc4d3126d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/de566b01148093b8e0de91476ce3fe26.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-172"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-032"
   },
   {
-    "id": 565961,
-    "IDcode": "LULU-173",
-    "title": "“口だけならいいよ…”性欲旺盛なデカチンの甥っ子にお愿いされ仕方なく13発おしゃぶりごっくんする元ヤリマンの若硬ち○ぽ大好きなギャル叔母さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/378784fd860e06c2010169a6aa3417c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-173"
-  },
-  {
-    "id": 530180,
-    "IDcode": "LULU-174",
-    "title": "对见面会枕营业的可爱地下偶像下春药展现粉丝从未看过翻白眼疯狂高潮模样成为中出肉便器。 仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241123-1/d7560f8ee8e4e9512a72c00ee9404a53.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-174"
-  },
-  {
-    "id": 565960,
-    "IDcode": "LULU-175",
-    "title": "単身赴任先アパートの世话焼きな大家の奥さんの巨乳に勃起したら何度も乳テクぶっかけ射精で寂ち○ぽの面倒も见てくれた。",
+    "id": 438623,
+    "IDcode": "MBMA-033",
+    "title": "人妻出轨疯狂高潮！在他人肉棒下淫靡呻吟…丈夫从未知晓的私密时刻…被NTR人妻4话全收录240分钟",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "人妻",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/71dab909a793cc53a3315120ad172c0e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c0da243d697271691d9cc/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-175"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-033"
   },
   {
-    "id": 92418,
-    "IDcode": "LULU-177",
-    "title": "因为她把我当取款机来勒索，所以让心地善良的苗条巨乳妹用小胖墩追求大胖墩的变态肉便桶完成1发10万-穂花爱里。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240903-1/ac236b5596493528353d80604b9f288e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-177"
-  },
-  {
-    "id": 532662,
-    "IDcode": "LULU-184",
-    "title": "[] 早漏すぎて初めての彼女にフラれた仆を见かねた心优しい巨乳姊の超スローピストンから",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230611/lulu184pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-184"
-  },
-  {
-    "id": 550010,
-    "IDcode": "LULU-185",
-    "title": "自宅で预かったチクビッ痴な小悪魔デカ尻侄っ子J系に乳首をいじられ连続射精しても许されず男潮が出るまで追撃手コキされ続けたチクシャ记录",
+    "id": 449768,
+    "IDcode": "MBMA-036",
+    "title": "THEFUCK絶叫痙攣止まらない絶頂の嵐超絶感度の早漏妻が魅せるド派手なイキッ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230124/JGWnEgvQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-185"
-  },
-  {
-    "id": 550005,
-    "IDcode": "LULU-186",
-    "title": "再婚して一绪に暮らし始めた人见知りで纯真无垢な色白J 系连れ子を乳首ハラスメントで敏感早漏体质に仕立てあげ何度も乳首イキさせまくった。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230125/sD7bqx0Y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-186"
-  },
-  {
-    "id": 550003,
-    "IDcode": "LULU-187",
-    "title": "欲求不満を隠す気がない真性どすけべデカ尻叔母さんに甥っ子ヤングち○ぽを狙われ下品な舌使いで精子の制造が追いつかないほど何度もザーメンをおしゃぶりごっくんされた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230125/feNDMJcU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-187"
-  },
-  {
-    "id": 532671,
-    "IDcode": "LULU-188",
-    "title": "[] 欲求不満を隠せない天然どすけべ巨乳叔母さんの豊満ムチムチボディに我慢できず近亲勃起し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230620/lulu188pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-188"
-  },
-  {
-    "id": 550004,
-    "IDcode": "LULU-189",
-    "title": "汗だく巨汉オヤジ顾问の自宅に呼びだされ种付け特化プレスで何度も抜かずのデカチン孕ませ中出しされる○○県立名门野球部の色白デカ尻女子マネージャー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230125/L1pa9TdJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-189"
-  },
-  {
-    "id": 541664,
-    "IDcode": "LULU-190",
-    "title": "[] 仆のことが好きすぎる侄っ子J系に溺れるほどヨダレを饮まされフル勃起！とろっとろ唾液ベロちゅうで理性を溶か",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230909/lulu190pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-190"
-  },
-  {
-    "id": 532910,
-    "IDcode": "LULU-192",
-    "title": "[] 性欲旺盛ビンビン甥っ子の突撃即ハメSEXをいなしてスローな射精コントロールでじっくり盛りち○ぽを弄ぶ元ヤリマン巨乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-036"
   },
   {
-    "id": 222738,
-    "IDcode": "LULU-194",
-    "title": "当我在公司的酒会上-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-194"
-  },
-  {
-    "id": 533097,
-    "IDcode": "LULU-196",
-    "title": "[] 妻では味わえない絶品フェラで呼び出せばごっくんしてくれる都合の良い最高の精饮爱人 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu196pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-196"
-  },
-  {
-    "id": 533096,
-    "IDcode": "LULU-197",
-    "title": "[] 残业中、2人きりの社内でパツパツスーツの絶伦アラサー巨乳上司の婚活おっぱいトラップにハマり孕むまで何度も中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu197pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-197"
-  },
-  {
-    "id": 589282,
-    "IDcode": "LULU-200",
-    "title": "敏感虾曲率极限J系丸井萌香长成乳头折磨中年父亲带著奶爸主动恩子去见异地恋男友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/38723_cover_2025-09-10_044055.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-200"
-  },
-  {
-    "id": 533095,
-    "IDcode": "LULU-201",
-    "title": "[] 同じマンションに住む年上巨乳ギャルお姊さんに何発でも射精できる絶伦若硬ニートち○ぽに目をつけられ何度も中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu201pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-201"
-  },
-  {
-    "id": 572353,
-    "IDcode": "LULU-202",
-    "title": "弥生みづきフラれた童贞弟を见かねた巨乳姊が【真似すれば必ずイカせられる】【女性が絶対に気持ちいいSEX】を伝授したら想定外に上达しすぎて近",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230605/fb0ccf59f79bbfd7b37b1c84167a4c89/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-202"
-  },
-  {
-    "id": 572388,
-    "IDcode": "LULU-203",
-    "title": "仓多まお饮み会で酔い溃れたアラサー女上司のデカ尻に我慢できず即ハメしたら8年ぶりのSEXだったらしく即イキ连続潮射ガッチリ尻振りホールドで new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230605/ad2a2617ad069e4a9bd2f3635a2e8238/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-203"
-  },
-  {
-    "id": 572375,
-    "IDcode": "LULU-206",
-    "title": "田原凛花“大人になっても皮かぶったままだから、しっかり洗ってあげるね”世话好きな子なし巨乳叔母にお风吕场で耻ずかしすぎる包茎ち○ぽを优しく new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230605/148e5c7fabfd3cc42a4304ef18437f27/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-206"
-  },
-  {
-    "id": 549160,
-    "IDcode": "LULU-208",
-    "title": "バイト先の黒デカ尻ギャルママに必死の童贞恳愿デカチン交渉で笔おろししてもらったら子育てと仕事で",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/pCQuvf6S/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-208"
-  },
-  {
-    "id": 564401,
-    "IDcode": "LULU-209",
-    "title": "自宅に预けられた隠れヤリマン巨乳侄っ子J系のおっぱいに勃起したらデカチンがバレてパイズリフェラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/n489CHUa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-209"
-  },
-  {
-    "id": 549159,
-    "IDcode": "LULU-210",
-    "title": "残业中、2人きりの社内で人妻女上司のペロペロ诱惑に乘ったら何度射精しても浓厚接吻で勃起させられ",
+    "id": 449764,
+    "IDcode": "MBMA-037",
+    "title": "あなた誤解してますよ黒髪清楚な人妻って、実は隠れヤリマンだったりします。。。清楚系エロギャッ",
     "year": "",
     "country": "",
     "genre": "",
@@ -597,420 +350,49 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/pDA2LVnT/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-210"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-037"
   },
   {
-    "id": 549158,
-    "IDcode": "LULU-211",
-    "title": "ムチムチ天然巨乳叔母の无自覚おっぱい挑発に我慢できずヤング甥っ子ち○ぽで甘えたら乳テクで何度も",
+    "id": 438694,
+    "IDcode": "MBMA-039",
+    "title": "素人搭讪实录：12位美巨乳少女衣下丰满若现，可爱爆表4小时诱惑盛宴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/mTApCX6P/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/526b2ad856e4d8f1c8f3acfe0f094ac8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-039"
   },
   {
-    "id": 516876,
-    "IDcode": "LULU-212",
-    "title": "被學年最漂亮的坂道系白皙巨臀OO",
+    "id": 438700,
+    "IDcode": "MBMA-040",
+    "title": "浓情熟女融化湿身交欢，淫汁泛滥高潮迭起尖叫不断",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690fa924165f1917e3c1c679/poster2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/bc00b117b7486ced0adc1a68fbb753a9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-212"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-040"
   },
   {
-    "id": 564400,
-    "IDcode": "LULU-213",
-    "title": "オフパコ枕営业撮影会で过激水着姿の巨乳むっちり地下グラドルに媚薬を仕込んでファンには见せられな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/v4ogGrm8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-213"
-  },
-  {
-    "id": 548694,
-    "IDcode": "LULU-214",
-    "title": "近所に住むデカ尻キャビンアテンダントのアラサー性欲挑発に押されヤング即勃起したら尻テクで何度も",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-214"
-  },
-  {
-    "id": 516900,
-    "IDcode": "LULU-215",
-    "title": "白皙嫩肌巨乳姪女的膨脹胸部讓變態",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690adaa01fcdee36fa761ab1/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-215"
-  },
-  {
-    "id": 548692,
-    "IDcode": "LULU-216",
-    "title": "“先っぽだけなら…”邻人の欲求不満デカ尻妻に先っぽ1cm笔下ろし挿入を童贞恳愿交渉したら元ヤリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-216"
-  },
-  {
-    "id": 548695,
-    "IDcode": "LULU-217",
-    "title": "欲求不満を隠せない巨乳エステティシャン妻が経営する自宅サロンでハミ出し勃起ち○ぽをしつこく押し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-217"
-  },
-  {
-    "id": 548693,
-    "IDcode": "LULU-218",
-    "title": "父亲の再婚で突然できたナマイキなデカ尻ネオギャルJ系妹がパンチラ挑発で仆のち○ぽをイラつかせて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-218"
-  },
-  {
-    "id": 516901,
-    "IDcode": "LULU-219",
-    "title": "在家裡與巨乳女教師叔母兩人獨處對",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690add791fcdee36fa7628b4/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-219"
-  },
-  {
-    "id": 539058,
-    "IDcode": "LULU-220",
-    "title": "新村あかり- 朝起きたら下着姿のデカ尻女上司が邻に！！社内では厳しいバリキャリ独女なのに思いもよらず甘えられ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250508/CcnWeane/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-220"
-  },
-  {
-    "id": 548691,
-    "IDcode": "LULU-221",
-    "title": "仆のことが好きすぎて邻室にまで引っ越してきたメンヘラ巨乳爱人に嫉妒乳首责めで骨抜きにされ妻に隠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-221"
-  },
-  {
-    "id": 516886,
-    "IDcode": "LULU-222",
-    "title": "通透內褲巨臀叔母無自覺挑逗被大肉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690edba26b81af1f853f00f3/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-222"
-  },
-  {
-    "id": 548690,
-    "IDcode": "LULU-223",
-    "title": "“口だけならいいよ…”性欲旺盛なデカチンの甥っ子にお愿いされ仕方なく13発おしゃぶりごっくんす",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-223"
-  },
-  {
-    "id": 548689,
-    "IDcode": "LULU-225",
-    "title": "亲友の彼女のデカ尻ギャルの无防备パンチラに我慢できず彼氏より大きい嫉妒勃起デカち○ぽで何度もN",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-225"
-  },
-  {
-    "id": 548687,
-    "IDcode": "LULU-226",
-    "title": "邻人の心优しいデカパイ看护师に病人のフリして性処理をお愿いしたらヨダレだらだら巨乳パイズリ挟射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-226"
-  },
-  {
-    "id": 563857,
-    "IDcode": "LULU-227",
-    "title": "“絶対に擦るだけだからね…”くびれ巨乳叔母さんの股间に素股でグリグリしつこく若硬ち○ぽを擦りつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/7ScBgs7V/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-227"
-  },
-  {
-    "id": 563856,
-    "IDcode": "LULU-228",
-    "title": "仕事に厳しい女上司に休日デートに诱われ怯えていたら仆にだけ见せる无邪気なオフの颜に思わずキュン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/ZVJjpjom/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-228"
-  },
-  {
-    "id": 563854,
-    "IDcode": "LULU-229",
-    "title": "家出中の生意気なメスガキ巨乳教え子J系が妻の目を盗みおっぱい押し当て诱惑で教师失格勃起させて家",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/K0wz7tX3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-229"
-  },
-  {
-    "id": 563853,
-    "IDcode": "LULU-230",
-    "title": "风吕上がりの濡れ髪美人妻にあざとくデカ尻挑発されガテン系ギンギン勃起が抑えられず昼下がりに何度",
+    "id": 198751,
+    "IDcode": "MBMA-041",
+    "title": "【清楚で品良くセレブな人妻たち】 ナンパ中出し ラグジュアリーエロス 12人4時間SP2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1018,1005 +400,990 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/lNs9POUJ/1.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/55147e0b0798b9dee46f3ee3e40d4378.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-230"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-041"
   },
   {
-    "id": 563855,
-    "IDcode": "LULU-231",
-    "title": "欲求不満なムチムチ巨乳叔母が若硬ち○ぽ欲しさにバレないと思ってド痴女マスクで袭ってきたのでお望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/ocjWwv2c/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-231"
-  },
-  {
-    "id": 563852,
-    "IDcode": "LULU-232",
-    "title": "配信者の彼女になりたくて自宅にリア凸してきたメンヘラ美乳ガチ恋女子に何度射精しても终わらない粘",
+    "id": 438624,
+    "IDcode": "MBMA-042",
+    "title": "真实旅途艳遇：20名美女惨遭玩弄，风险性爱实录！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/0fqPoIcz/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/efa4afeffc2c33d7de08e23a18fd344a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-232"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-042"
   },
   {
-    "id": 563850,
-    "IDcode": "LULU-233",
-    "title": "“舐めるだけだから！！”性欲旺盛でデカチン大好きな黒デカ尻侄っ子におねだりされ仕方なく叔父ち○",
+    "id": 438695,
+    "IDcode": "MBMA-043",
+    "title": "绝对首选！12位地方熟女240分钟激情淫乱盛宴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/NEf6SYfW/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/5055af2b9decb5bfd6abe8cde0e2f29d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-233"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-043"
   },
   {
-    "id": 106518,
-    "IDcode": "LULU-234",
-    "title": "黑丝巨尻熟母-森泽佳奈",
+    "id": 519420,
+    "IDcode": "MBMA-046",
+    "title": "いい歳して耻ずかしいんですが…私だってセックスしたい！我慢出来ないどしろーと 肉欲淫乱妻 12",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/FePUutD4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-046"
+  },
+  {
+    "id": 519422,
+    "IDcode": "MBMA-047",
+    "title": "発掘！ ヤリたがり女 街角ナンパでマッチンGoo！ 街で见つけたむっつり美女とホテルIN！ ノ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/Lv2RCkdL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-047"
+  },
+  {
+    "id": 519416,
+    "IDcode": "MBMA-048",
+    "title": "私、まだまだイケるわ…！ 五十路の性爱は限界知らず 更年期エクスタシーを堪能するアラフィフ熟女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/HNaokxqc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-048"
+  },
+  {
+    "id": 519417,
+    "IDcode": "MBMA-050",
+    "title": "地味娘だってエッチはしたい！！ 大人しく真面目な娘ほど性的好奇心を隠し持つ！？ ナンパするなら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/v1o2YDj3/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-050"
+  },
+  {
+    "id": 519421,
+    "IDcode": "MBMA-054",
+    "title": "ラグジュアリーエロス 清楚で品良くセレブな熟女たち ナンパ中出し12人4时间SP15",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/9pCJRs7N/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-054"
+  },
+  {
+    "id": 519424,
+    "IDcode": "MBMA-055",
+    "title": "“あの人（旦那）が相手してくれないから…” 言い訳妻の浮気心 女盛りの肉体を持て余す我慢出来な",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/xCDO8H2a/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-055"
+  },
+  {
+    "id": 519418,
+    "IDcode": "MBMA-056",
+    "title": "旅先で开放的になったところをすかさずナンパ 奥様の性欲爆発！ 本能むき出しエッチ 人妻旅先不伦",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/F1Q6EX8Q/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-056"
+  },
+  {
+    "id": 519423,
+    "IDcode": "MBMA-057",
+    "title": "ノンフィクション ハメられた女たち 20名-盛られて狂ってイキまくり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/LCKZ2hVi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-057"
+  },
+  {
+    "id": 519419,
+    "IDcode": "MBMA-058",
+    "title": "密かに欲求不満を抱えながら闷々と暮らしている 一见真面目な地方のおばさん 12人4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250820/nP6OaxTn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-058"
+  },
+  {
+    "id": 4355,
+    "IDcode": "MBMA-059",
+    "title": "媽媽我想擁有！不行啦，這種事… 禁忌之戀家庭內瘋狂愛戀第12集第10幕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選綜合",
+      "母子",
+      "高妹",
+      "口爆",
+      "重口味",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "自宅",
+      "四十路",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "羞恥",
+      "亂倫",
+      "美人",
+      "素人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "4小時以上作品",
+      "母親",
+      "熟女",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716083601253253_65397_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-059"
+  },
+  {
+    "id": 525220,
+    "IDcode": "MBMA-060",
+    "title": "人妻 里 露出 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250821/22vbWZNv/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-060"
+  },
+  {
+    "id": 190663,
+    "IDcode": "MBMA-061",
+    "title": "お義母さん…素敵です… あんな小娘よりも私の方が良いでしょ？ 美しき義母の色香に惑わされ 禁断の愛を受け入れてしまった母 12人4時間4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-061"
+  },
+  {
+    "id": 62595,
+    "IDcode": "MBMA-062",
+    "title": "麻縄の甘美な快楽に堕ちていく美熟女たち 厳選映像六話収録 240分マニアSPECIAL4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
       "已婚妇女",
       "中出",
-      "单体作品",
-      "连裤袜"
+      "SM",
+      "4小时以上作品",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-234"
-  },
-  {
-    "id": 563502,
-    "IDcode": "LULU-235",
-    "title": "“1発の射精だけじゃ満足しないですよね…？”妊娠中の妻がすぐ傍にいるのに密着ささやき淫语で何度",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/gNwgAp83/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-235"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-062"
   },
   {
-    "id": 563501,
-    "IDcode": "LULU-236",
-    "title": "侄っ子デカ尻J系と思いがけずキメセクをしてしまい叔父デカチ○ポで生唾液ダラダラアヘ颜白目ガンギ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/wwmh0Cov/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-236"
-  },
-  {
-    "id": 90918,
-    "IDcode": "LULU-237",
-    "title": "「口だけならいいよ...」性欲旺盛なデカチンの甥っ子にお願いされ仕方なく13発おしゃぶりごっくんする元ヤリマンの若硬ち○ぽ大好きな叔母さん 美咲かんな",
+    "id": 62594,
+    "IDcode": "MBMA-063",
+    "title": "無防備すぎる母がチラ見せする乳首がエロすぎて…僕はもう我慢出来ない！黒乳首を見られて発情する女たち 8人4時間SP",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
       "口交",
+      "巨乳",
+      "已婚妇女",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-063"
+  },
+  {
+    "id": 190711,
+    "IDcode": "MBMA-064",
+    "title": "遅咲き熟女 良き妻・良き母を務めてきた遊びを知らないお堅い女が…過呼吸になるほどの濃密なSEX 20人4時間10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/0073ebd712f2365c15af08d9c3fc4b01.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-064"
+  },
+  {
+    "id": 62593,
+    "IDcode": "MBMA-065",
+    "title": "【人生最大の大悲報】 知らぬ間に自慢の彼女がネトラレまして…。 大好きだった彼女の知らなかったウラの顔 6人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "业余",
+      "猎艳",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-065"
+  },
+  {
+    "id": 190146,
+    "IDcode": "MBMA-066",
+    "title": "「うちの母がエロ過ぎて困ってます…」誰にも言えない僕の悩み 旺盛な性欲を全力で振りかざしてくる母とガマンの限界が近づくボクの物語12話4時間6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-066"
+  },
+  {
+    "id": 62592,
+    "IDcode": "MBMA-067",
+    "title": "「俺のサオが吸い上げられるぅぅぅ～」絡まり吸い付く至高の密壺！濃厚熟女騎乗位FUCK 12人4時間11",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "女上位",
+      "舔阴",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-067"
+  },
+  {
+    "id": 190097,
+    "IDcode": "MBMA-069",
+    "title": "こういう女を狙え！！ 絶対ヤレる人妻ナンパ ヤリたい盛りの既婚者たち ナンパ中出し12人4時間@08",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-069"
+  },
+  {
+    "id": 62591,
+    "IDcode": "MBMA-070",
+    "title": "SEXするなら絶対 地方の人妻！！ヤリたい盛りの奧さんたち 平日昼間はイケない浮気タイム 清楚に見えて…実はヤリマン？旦那は知らない愛妻の淫らな性癖12名240分@11batch",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "潮吹",
+      "4小时以上作品",
+      "成熟的女人",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-070"
+  },
+  {
+    "id": 190660,
+    "IDcode": "MBMA-072",
+    "title": "「絶対に内緒にして下さいね？」あなたの知り合いが絶対います…うっかりナンパされ、流されてセックス…まさかのAV流出 魔が差したご近所妻 12人240分8",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-072"
+  },
+  {
+    "id": 190172,
+    "IDcode": "MBMA-074",
+    "title": "いくつになってもオンナです（ハート） 濃厚でエロすぎるSEX！ グイグイ自ら求めるマエムキ熟女 12人240分3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-074"
+  },
+  {
+    "id": 62590,
+    "IDcode": "MBMA-075",
+    "title": "ノンフィクション ハメられた女たち 20名-知らぬ間に撮影された痴態",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "乳房",
+      "4小时以上作品",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-075"
+  },
+  {
+    "id": 190586,
+    "IDcode": "MBMA-076",
+    "title": "百姓だってセックスはしてえだよ！ 抑え切れない欲求不満がついに爆発！ 我慢出来ない農家のおばさん12人4時間2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-076"
+  },
+  {
+    "id": 62589,
+    "IDcode": "MBMA-077",
+    "title": "ほとばしる熟女のエロチズム 乳首ビンビン五十路熟女 使い込まれ肥大化したデカ乳首をフル勃起させて快感に没入していく 20人4時間15",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "已婚妇女",
+      "成熟的女人",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-077"
+  },
+  {
+    "id": 182980,
+    "IDcode": "MBMA-078",
+    "title": "黒人にナンパされた熟女さんはデカマラに興味津々 想像以上の巨根を膣奥まで突っ込まれ狂ったようにイキまくる 黒人マラで昇天する素人熟女12人4時間SP4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1499115c08d63a9907ab9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-078"
+  },
+  {
+    "id": 61668,
+    "IDcode": "MBMA-080",
+    "title": "中高年夫婦の愛ある濃厚中出し交尾 長年連れ添った熟年夫婦だからこその ねっとり密着情交 12組4時間DX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "中出",
+      "乳房",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-080"
+  },
+  {
+    "id": 182970,
+    "IDcode": "MBMA-081",
+    "title": "熟れ頃垂れパイ 超絶感度の爆乳熟女 12人4時間3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-081"
+  },
+  {
+    "id": 61667,
+    "IDcode": "MBMA-082",
+    "title": "隣の奥さんがエロすぎて困ってます…溜まりに溜まった欲求不満をご近所肉棒で解消する人妻たち12名4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "人妻",
+      "已婚妇女",
+      "中出",
+      "淫乱，真实",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/23/3bc6b4d3f26eea920f14859f4d00d3f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-082"
+  },
+  {
+    "id": 61666,
+    "IDcode": "MBMA-083",
+    "title": "ムスコのあそこがデカ過ぎて…。性欲旺盛！禁断の情欲が治まらない 完熟お母さんのド痴女セックス 12人4時間3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "骑乗位",
+      "中出",
+      "舔阴",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21d6afbe7fd63de7f71fd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-083"
+  },
+  {
+    "id": 61665,
+    "IDcode": "MBMA-086",
+    "title": "絶頂！潮吹き！大噴射！ダダ漏れお漏らし美人妻の潮吹き膣奥オーガズム 12人4時間3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "潮吹",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-086"
+  },
+  {
+    "id": 182967,
+    "IDcode": "MBMA-088",
+    "title": "声だけで抜けるってマジっすか！？可愛すぎるハニーマイルドなアエギ声に激シコ！甘く切なくイキまくる人妻12人4時間10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-088"
+  },
+  {
+    "id": 182988,
+    "IDcode": "MBMA-090",
+    "title": "【清楚で品良くセレブな人妻たち】 ナンパ中出し ラグジュアリーエロス 12人4時間SP3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-090"
+  },
+  {
+    "id": 61664,
+    "IDcode": "MBMA-092",
+    "title": "超ド級爆乳！メガトン級おばさん 性豪熟女とドすけべカーニバル 今夜もザーメンタンク残量ゼロ…12人4時間7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "超乳",
+      "已婚妇女",
+      "乳交",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-092"
+  },
+  {
+    "id": 61663,
+    "IDcode": "MBMA-093",
+    "title": "セフレにするなら絶対 五十路の母親！！ ムラムラしたら、いつでも中出し放題！ 母と貪る肉欲セックス 12人4時間7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "4小时以上作品",
+      "母亲",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-093"
+  },
+  {
+    "id": 59929,
+    "IDcode": "MBMA-094",
+    "title": "爆乳美熟女中出しソープ これぞ桃源郷 極上のおもてなしで果てしなく男を奮い立たせる巨乳美熟女12人4時間SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "超乳",
+      "已婚妇女",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6d225e4a73d4f15a627b6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-094"
+  },
+  {
+    "id": 178796,
+    "IDcode": "MBMA-095",
+    "title": "大人の為の逸品 美しき還暦熟女が魅せる 味わい深く濃厚なエロスシネマ 厳選映像六話収録240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-095"
+  },
+  {
+    "id": 178791,
+    "IDcode": "MBMA-096",
+    "title": "麻縄遊戯 古びた蔵の中で、密かにマゾ快楽に堕ちていく年端もいかぬ娘たち 六話収録240分マニアSPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-096"
+  },
+  {
+    "id": 178474,
+    "IDcode": "MBMA-097",
+    "title": "イイじゃない！減るモンじゃないんだから！ムラムラ熟女の肉棒狩り 淫乱大爆発！！迫られた男達13人240分6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-097"
+  },
+  {
+    "id": 59791,
+    "IDcode": "MBMA-098",
+    "title": "【若年格安○○事情】○さゆえの何でもあり！！ト○横○○○ 中出し本番アルバイト 家出○○たちのリアルな実態 12人4時間@07",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "无毛",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-098"
+  },
+  {
+    "id": 59923,
+    "IDcode": "MBMA-100",
+    "title": "あなた誤解してますよ！黒髪清楚な人妻って、実は隠れヤリマンだったりします。。。清楚系エロギャップ最強説！ 12人240分8",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "人妻",
+      "4小时以上作品",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-100"
+  },
+  {
+    "id": 178062,
+    "IDcode": "MBMA-101",
+    "title": "あなたのスマホ大丈夫？ 天才ハッカーがスマホから抜き取った 一般人のエロ動画がヤバすぎる4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/08/f3fb4bf84a7cd2d9e7d1d531920c5f7a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-101"
+  },
+  {
+    "id": 59928,
+    "IDcode": "MBMA-103",
+    "title": "声の出せない状況で…絶頂するオンナたち おかしくなるほど気持ちイイのに…漏れ出る喘ぎ声を必死に堪えながら悶絶…イキまくり！12人4時間5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "成熟的女人",
+      "护士",
+      "4小时以上作品",
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240301-1/07f14b8a5e718bce2528b355beaea51d.jpg",
-    "actress": [
-      "美咲佳奈",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-237"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-103"
   },
   {
-    "id": 18837,
-    "IDcode": "LULU-238",
-    "title": "【ASMR】在公司加班，屁股很大的女職員不斷在耳邊說著些淫蕩的話，差點就讓我射了出來",
+    "id": 59787,
+    "IDcode": "MBMA-104",
+    "title": "素人ナンパドキュメント 服の上からでもわかる膨らみ＆可愛さMAX！ 美巨乳娘 12人4時間8",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "ASMR顱内高潮",
-      "淫語",
-      "巨尻",
-      "辦公室",
-      "OL",
-      "勾引・誘惑",
-      "黑絲",
-      "中出",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903010725916916.jpg",
-    "actress": [
-      "蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-238"
-  },
-  {
-    "id": 563499,
-    "IDcode": "LULU-239",
-    "title": "“安全日だから中に出して大丈夫ですよ”爱妻が旅行中、自宅に刚毛ムチムチ巨乳部下を连れ込み絶伦上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/VtGkW4As/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-239"
-  },
-  {
-    "id": 563498,
-    "IDcode": "LULU-240",
-    "title": "彼氏にデートをドタキャンされたデカ尻女友达のヤケクソ宅饮みに付き合ったら酔った势いでヨダレとろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/Mxgkoent/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-240"
-  },
-  {
-    "id": 563241,
-    "IDcode": "LULU-241",
-    "title": "“ねぇ、昨日の続きしない？”夜の颜しか知らないNo.1デカ尻风俗嬢と朝まで2人っきり…普段はそ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/wuV05KkY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-241"
-  },
-  {
-    "id": 516963,
-    "IDcode": "LULU-242",
-    "title": "性欲旺盛大肉棒弟弟拜託下沒辦法讓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9508d6fbef4e9008e78b/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-242"
-  },
-  {
-    "id": 539059,
-    "IDcode": "LULU-243",
-    "title": "新村あかり- 旦那が出张中、2人きりの自宅でデカ尻叔母さんのお扫除尻に我慢できず即ハメデカチンピストンでケツ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250508/CUCBB7gd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-243"
-  },
-  {
-    "id": 563240,
-    "IDcode": "LULU-244",
-    "title": "いつも仆をバカにする彼女の妹の関西メスガキ巨乳J系を彻底乳首调教で敏感早漏体质に仕立てあげ乳首",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/Ps7h76q0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-244"
-  },
-  {
-    "id": 550757,
-    "IDcode": "LULU-245",
-    "title": "婚礼前一天，我的大屁股大屁股青梅竹马的朋友（前女友）来找我，很嫉妒，把我抱成女牛仔的姿势，摇著屁股不让我走，所以我被逼了掠夺和射精，直到第1晚制造婴儿的精子消失。柊佑希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250116-1/e76e6df6e9202d57b4740f84169d499a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-245"
-  },
-  {
-    "id": 563238,
-    "IDcode": "LULU-246",
-    "title": "“あなたM男なの？”妻に仆の性癖をバラされ眠っていた痴女心に火がついた元SM女王様の巨乳义姊に",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/g5HVEAGs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-246"
-  },
-  {
-    "id": 563237,
-    "IDcode": "LULU-247",
-    "title": "强がりボーイッシュな彼女の妹の部活女子デカ尻J系に媚薬を饮ませ先っぽ1cm挿入で焦らし続けて膣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/GVRTU7it/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-247"
-  },
-  {
-    "id": 563673,
-    "IDcode": "LULU-248",
-    "title": "透けパンデカ尻妻の无自覚挑発に乘せられデカチン即ハメでイキ果てるまで鬼ピストンしまくって何回も",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/BA1E3h4f/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-248"
-  },
-  {
-    "id": 17982,
-    "IDcode": "LULU-249",
-    "title": "大屁股人妻-美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "脚控・戀足癖",
-      "艷遇",
-      "辦公室",
-      "OL",
-      "舔腳",
-      "勾引・誘惑",
-      "黑絲",
-      "中出",
-      "制服",
-      "足交",
-      "女上司",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105232939948948.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-249"
-  },
-  {
-    "id": 563702,
-    "IDcode": "LULU-250",
-    "title": "自慢の美人妻は父亲のおしゃぶり爱人でした…。仆にはしてくれない絶品フェラで朝から晩まで中年精子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/uT4UKEbL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-250"
-  },
-  {
-    "id": 563711,
-    "IDcode": "LULU-251",
-    "title": "周3でママさんバレーに通う欲求不満を隠せない絶伦叔母の无自覚デカ尻トラップに诱惑され我慢できず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/JPGdO4DS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-251"
-  },
-  {
-    "id": 563710,
-    "IDcode": "LULU-252",
-    "title": "饮み会帰りに自宅へ泊めてくれた経理の天然巨乳地味おばさんに若手部下チンで甘えてみたらむっつり絶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/M59tSPmv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-252"
-  },
-  {
-    "id": 17983,
-    "IDcode": "LULU-253",
-    "title": "隔壁屋內總是傳來淫蕩的喘息聲~鄰居肉感性慾人妻欲求不滿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "鄰居",
-      "巨尻",
-      "猥褻穿著",
-      "勾引・誘惑",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105232815872872.jpg",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-253"
-  },
-  {
-    "id": 563736,
-    "IDcode": "LULU-254",
-    "title": "残业中、2人きりの社内でほろ酔いのパツパツ巨乳女上司にまたがられド迫力な密着乳テクで何度もサー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/ipfeJbIZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-254"
-  },
-  {
-    "id": 562698,
-    "IDcode": "LULU-255",
-    "title": "结婚直前で破局した邻人デカ尻アラサーOLの心の隙间を狙って童贞だけど慰めSEXに挑戦したら初め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231204/2ALiqpIq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-255"
-  },
-  {
-    "id": 17428,
-    "IDcode": "LULU-256",
-    "title": "當巨乳美人阿姨看到我在自慰時，她緊緊的握住了我硬挺的雞巴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "打手槍",
-      "乳交",
-      "小姨・姑姑",
-      "中出",
-      "口交",
+      "业余",
       "巨乳",
-      "性感",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/3d3c3f8d-1ca2-48cf-aeda-506e8e6c7f26.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-256"
-  },
-  {
-    "id": 17433,
-    "IDcode": "LULU-257",
-    "title": "可以肛交的風俗妹 可愛大屁股等著被你調教成肉便器喲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "應召・援交",
-      "巨尻",
-      "風俗娘",
-      "偶像",
-      "飯店小姐・援交妹",
-      "COSPLAY服飾",
-      "肛交",
-      "中出",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/f681f19b-7fce-4ce3-9356-8af4ca0f09ff.jpg",
-    "actress": [
-      "蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-257"
-  },
-  {
-    "id": 17436,
-    "IDcode": "LULU-258",
-    "title": "上班遲到被大屁股女上司罵了 加班時我忍不住就強行操了她",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "辦公室",
-      "巨尻",
-      "OL",
-      "加班",
       "乳交",
-      "女上司",
-      "中出",
-      "制服",
-      "口交",
-      "劇情",
-      "美臀"
+      "乳房",
+      "猎艳",
+      "4小时以上作品",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/5238343d-c352-4fe2-823f-a2d4c84f2264.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-258"
-  },
-  {
-    "id": 562696,
-    "IDcode": "LULU-259",
-    "title": "出产してから一度も抱いていなかった巨乳妻が邻人の性欲勃起学生にセーラー服#スク水#ブルマ#デー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231204/FifUZ6SO/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/01/c106c81ebfcb0b48034b248c32cfee03.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-259"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-104"
   },
   {
-    "id": 453880,
-    "IDcode": "LULU-260",
-    "title": "嫉妬初次交到女友的我弟控巨乳姊姊強硬玩弄乳頭到成為乳頭高潮持續略奪搾精。 月妃沙羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef2e8331a2714f1c59126d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-260"
-  },
-  {
-    "id": 562693,
-    "IDcode": "LULU-261",
-    "title": "东京都港区六本木在住の肉感ハーフデカ尻お姊さんにキメセクを付き合わされ絶叫イキ狂い中出しSEX",
+    "id": 178839,
+    "IDcode": "MBMA-106",
+    "title": "ノンフィクション ハメられた女たち 20名-OLお持ち帰り",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231204/zixyuSoO/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-261"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-106"
   },
   {
-    "id": 453903,
-    "IDcode": "LULU-262",
-    "title": "睽違數年見面的三字頭巨乳尼特姊姊無防備胸部讓社會人弟弟肉棒火熱起來成為觸感最棒的真人自慰套持續懷孕中出植入責任感。 吉根柚莉愛",
+    "id": 178486,
+    "IDcode": "MBMA-107",
+    "title": "SEXするなら絶対 地方のおばさん！！12人240分7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-107"
+  },
+  {
+    "id": 175349,
+    "IDcode": "MBMA-109",
+    "title": "お義母さん…素敵です… あんな小娘よりも私の方が良いでしょ？ 美しき義母の色香に惑わされ 禁断の愛を受け入れてしまった母 12人4時間5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/23/520b99981b2f09429724b9cb6a7bcabe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-109"
+  },
+  {
+    "id": 174249,
+    "IDcode": "MBMA-110",
+    "title": "麻縄の甘美な快楽に堕ちていく美熟女たち 厳選映像六話収録 240分マニアSPECIAL5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-110"
+  },
+  {
+    "id": 174301,
+    "IDcode": "MBMA-111",
+    "title": "無防備すぎる母がチラ見せする乳首がエロすぎて…僕はもう我慢出来ない！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/31/da4dbb33144c92edbe163b3425e8785a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-111"
+  },
+  {
+    "id": 175620,
+    "IDcode": "MBMA-112",
+    "title": "配信サイトで驚異の売り上げを叩き出した伝説的コンテンツをDVD化！ ザワつく素人熟女神動画10 控えめ熟女の人生初浮気×受精セックスが熱い！ 12人240分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8d25a79f1ac4ec49c46c8/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-262"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-112"
   },
   {
-    "id": 16935,
-    "IDcode": "LULU-263",
-    "title": "在約會APP上遇到的一位美麗人妻 從我第一次見到她時就要和我立即肛交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "約炮",
-      "肛交",
-      "中出",
-      "蕩婦",
-      "亂交 • 群P",
-      "劇情",
-      "美臀"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2024-01-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073448914914.jpg",
-    "actress": [
-      "石川雲丹"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-263"
-  },
-  {
-    "id": 16937,
-    "IDcode": "LULU-264",
-    "title": "可愛大屁股COSPLAYER開發了深喉，成爲最可愛的肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "深喉",
-      "吞精",
-      "COSPLAY服飾",
-      "劇情",
-      "美臀"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2024-01-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073352331331.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-264"
-  },
-  {
-    "id": 546995,
-    "IDcode": "LULU-265",
-    "title": "旦那の出张中、排卵日前で高まる性欲を持て余すデカ尻叔母の无自覚挑発に我慢できず甥っ子若ち○ぽで",
+    "id": 175627,
+    "IDcode": "MBMA-113",
+    "title": "セックスしたくて色々考えてみたら… 1番簡単にやれるオンナは母だった！ 家庭内濃密肉欲セックス 4時間12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240101/laEC37Sp/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-265"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-113"
   },
   {
-    "id": 546996,
-    "IDcode": "LULU-266",
-    "title": "妹が连れてきた美乳友达にマルチ商法に勧诱され“入会するから挿れさせて”とグリグリしつこく押し当",
+    "id": 174320,
+    "IDcode": "MBMA-114",
+    "title": "むっちむちドすけべボディ！ ミニスカおばさん ミニスカート熟女は欲求不満 私だってまだまだオンナよ！！12人4時間3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240101/P064LtNi/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/31/c28ecca4a3b298883ca6723e1718c153.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-266"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-114"
   },
   {
-    "id": 546997,
-    "IDcode": "LULU-267",
-    "title": "“オジさん、ぜ～んぶ饮んでねw”自宅で预かったデカ尻小悪魔侄っ子J系の 【唾液·汗·爱液·潮·",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240101/PuqoHv4e/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-267"
-  },
-  {
-    "id": 561962,
-    "IDcode": "LULU-268",
-    "title": "妊活中で性欲を持て余した现役ミセスモデル叔母の筋トレデカ尻无自覚诱惑に我慢できず即ハメピストン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/TAN5AXq7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-268"
-  },
-  {
-    "id": 453891,
-    "IDcode": "LULU-269",
-    "title": "為了孕活被妻子禁止自慰即將爆發看到眼前大胸部受不了馬上插入中出後持續抽插發現是巨乳婆婆確實懷孕…。 寶田萌奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1ccb52c12b4e6846adbb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-269"
-  },
-  {
-    "id": 453893,
-    "IDcode": "LULU-270",
-    "title": "對偷拍被發現的叔父大肉棒持續挑逗露內褲斥責射精的清楚系雌小鬼姪女巨臀女OO 倉本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1d8152c12b4e6846b2be/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-270"
-  },
-  {
-    "id": 561972,
-    "IDcode": "LULU-271",
-    "title": "残业中、2人きりの社内で闭経前のパツパツスーツ絶伦巨乳人妻上司の妊活おっぱいトラップにハマり孕",
+    "id": 175678,
+    "IDcode": "MBMA-116",
+    "title": "人妻爆乳祭10 この乳を見ずにデカパイを語るな！ 12人240分Bestセレクション",
     "year": "",
     "country": "",
     "genre": "",
@@ -2025,106 +1392,93 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/Wcmqq23e/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-116"
   },
   {
-    "id": 561973,
-    "IDcode": "LULU-272",
-    "title": "淫魔サキュバスだと言い张る厨二病の长ベロ姊をからかうつもりでち○ぽを差しだしたら强がり榨精フェ",
+    "id": 173430,
+    "IDcode": "MBMA-117",
+    "title": "こういう女を狙え！！ 絶対ヤレる人妻ナンパ ヤリたい盛りの既婚者たち ナンパ中出し12人4時間@09",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MBM",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-117"
+  },
+  {
+    "id": 175690,
+    "IDcode": "MBMA-121",
+    "title": "ラグジュアリーエロス 清楚で品良くセレブな熟女たち ナンパ中出し12人4時間SP16",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/9TZ8O6N2/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/25/0f74915d7918af3ca097cacfa50a7165.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-272"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-121"
   },
   {
-    "id": 561974,
-    "IDcode": "LULU-273",
-    "title": "皮フ科医のデカ尻叔母に包茎ち○ぽの悩み相谈したら优しく见つめながら触诊手コキで焦らされたまらず",
+    "id": 173418,
+    "IDcode": "MBMA-122",
+    "title": "ノンフィクション ハメられた女たち 20名-奪われた尊厳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/Jxz5xdMY/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-273"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-122"
   },
   {
-    "id": 530597,
-    "IDcode": "LULU-275",
-    "title": "当我和我的青梅竹马的朋友一起去练习时，我开始在色情行业做性玩偶，我无法假装没有反应，也无法抗拒泄漏出来的呻吟声，所以我狠狠地干了她！她的子宫深处被刺穿，她在阴户内射精。自然美",
+    "id": 175636,
+    "IDcode": "MBMA-123",
+    "title": "密かに欲求不満を抱えながら悶々と暮らしている 一見真面目な地方のおばさん 12人4時間2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/ajPaxEhs/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-275"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-123"
   },
   {
-    "id": 561687,
-    "IDcode": "LULU-276",
-    "title": "玄関开けたら2秒で即尺フェラ不伦する都合のいい絶伦デカ尻爱人にデカチン丸饮みセメラチオで何度も",
+    "id": 173396,
+    "IDcode": "MBMA-124",
+    "title": "母さんがほしい！！ いけないわ、そんな事… 一度は遮り、口を突いた言葉とは裏腹に、 互いの想いが交錯する 一線を越えた家庭内狂愛 12編第11幕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240304/J4azD8eL/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-276"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-124"
   },
   {
-    "id": 561686,
-    "IDcode": "LULU-277",
-    "title": "“絶対にコスるだけですよ…？”彼女の巨乳妹の无自覚パンチラ诱惑に我慢できず大人デカチンをパンツ",
+    "id": 173410,
+    "IDcode": "MBMA-125",
+    "title": "極上美爆乳フェスティバル！心揺さぶる厳選デカパイ美女12人4時間SUPERSELECTION",
     "year": "",
     "country": "",
     "genre": "",
@@ -2132,261 +1486,269 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240304/2CWAIJT5/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-277"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-125"
   },
   {
-    "id": 542060,
-    "IDcode": "LULU-278",
-    "title": "[] 部活女子侄っ子J系の色白美乳おっぱいに我慢できず即ハメしたら初めての中年叔父デカち○ぽピストンにどハマりしお漏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240407/lulu278pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-278"
-  },
-  {
-    "id": 546195,
-    "IDcode": "LULU-279",
-    "title": "“お尻の穴ならHしたことにならないよね…？”性欲が强すぎる変态教え子にデカチンケツ穴拡张され中",
+    "id": 567409,
+    "IDcode": "MBMH-001",
+    "title": "绮丽なおばさんは好きですか【奇迹のAV出演】耻じらい五十路セックス品良く乱れる熟熟5人第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/b9Z5mMwj/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-279"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-001"
   },
   {
-    "id": 546194,
-    "IDcode": "LULU-280",
-    "title": "息子の友だち○ぽを爆乳の暴力テクで金玉が热暴走するほどヤング精子を何度も一滴残らずキチ榨りする",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/CYwNzwwH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-280"
-  },
-  {
-    "id": 546193,
-    "IDcode": "LULU-281",
-    "title": "“店长、奥さんより気持ちいいでしょ？”常にち○ぽを舐めたがるオジサン大好きメンヘラ巨乳バイトJ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/8LMqrs6c/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-281"
-  },
-  {
-    "id": 15725,
-    "IDcode": "LULU-282",
-    "title": "我不要結婚，把孩子給我就行 ~ 我的老板，大奶子女人，她接受了我，但她不同意內射懷孕，我不負責任地射了她一遍又一遍，直到她懷孕 ~ 新村朱裏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口爆",
-      "苗條",
-      "OL",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "女上司",
-      "性感",
-      "熟女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "顏射",
-      "不倫",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2024-04-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331101556574574.jpg",
-    "actress": [
-      "新村朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-282"
-  },
-  {
-    "id": 15736,
-    "IDcode": "LULU-283",
-    "title": "加班的時候，兼職的人妻清潔工利用她的大屁股對我進行顏射性騷擾，她用女上位的姿勢讓我反復中出，直到我的睾丸空了 ~ 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "臀控",
-      "辦公室",
-      "加班",
-      "勾引・誘惑",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "家政婦",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "手指插入",
-      "無毛",
-      "偷竊",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
-    "publish_date": "2024-04-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240331/202403311004154747.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-283"
-  },
-  {
-    "id": 560944,
-    "IDcode": "LULU-284",
-    "title": "彼氏のレギュラーの座を守るためにデカチン顾问にケツ穴开発され尻振りアナルセックスで肛门イキにド",
+    "id": 567408,
+    "IDcode": "MBMH-003",
+    "title": "极美味ボンレスボディ！スーツぱっつんぱっつん！とんでもなくムチム第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240507/GXyPugle/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-284"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-003"
   },
   {
-    "id": 560941,
-    "IDcode": "LULU-285",
-    "title": "“挟むだけならいいですよ…”ハウスクリーニングで呼んだ家事代行巨乳人妻の汗だく透けパイに我慢で",
+    "id": 541060,
+    "IDcode": "MBMH-006",
+    "title": "墓まで持ってゆく淫らな情事…溺爱する息子と肌を重ねてしま第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-006"
+  },
+  {
+    "id": 541059,
+    "IDcode": "MBMH-007",
+    "title": "墓まで持ってゆく秘め事…抗えず息子に犯されたあの日から肌第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-007"
+  },
+  {
+    "id": 536063,
+    "IDcode": "MBMH-009",
+    "title": "_A 狂おしいエロスのブラックホール 极美味ボンレスボディのねっとり激レ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200730/118mbmh009pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-009"
+  },
+  {
+    "id": 541058,
+    "IDcode": "MBMH-011",
+    "title": "墓まで持ってゆく淫らな情事…気付いていた息子の気持ち第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-011"
+  },
+  {
+    "id": 547564,
+    "IDcode": "MBMH-013",
+    "title": "[第1集]告白 五十路母の黒历史 息子の友人に犯されて感じてしまったが最后 とめどない调教を受け若い男の性癖に染められる… バレたら人生崩壊の6人240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191211-1/d911b8b9d0c74b3d67655415883c8945.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-013"
+  },
+  {
+    "id": 567541,
+    "IDcode": "MBMH-015",
+    "title": "绮丽なおばさんは好きですか？【奇迹のAV出演】耻じらい五十路セックス3品良く乱れる熟女5人第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-015"
+  },
+  {
+    "id": 536266,
+    "IDcode": "MBMH-016",
+    "title": "_B 狂おしいエロスのブラックホール 组んずほぐれつ3P熟女レズ！ 四六时中乱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-016"
+  },
+  {
+    "id": 560791,
+    "IDcode": "MBMH-049",
+    "title": "大発掘！ブラジル人！容姿が可爱い过ぎてデビュー！超絶美人の美尻！ど素人ムスメ初撮り！ アリス·",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240612/5WdPq0W8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-049"
+  },
+  {
+    "id": 454027,
+    "IDcode": "MBMH-050",
+    "title": "我的兒子回家後變成了一個美麗的變性人！ 米蘭達美優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d97f63ce5a404e9bbb2dd7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-050"
+  },
+  {
+    "id": 563847,
+    "IDcode": "MBMH-059",
+    "title": "実は仆···ニューハーフになりました！ニューハーフの巨根にハマる家族のガチイキ连発の近亲相●物语！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230801/abMmnB43/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-059"
+  },
+  {
+    "id": 563848,
+    "IDcode": "MBMH-060",
+    "title": "奇迹的にSNSで知り合ったオルチャン女子と韩国で待ち合わせしてオフパコ！ セボンちゃん＆ジョア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230801/EDlfpQmX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-060"
+  },
+  {
+    "id": 548405,
+    "IDcode": "MBMH-061",
+    "title": "ヨーロッパ観光ついでにナンパ！ 东欧で巨乳长身美女からフィットネスチャンピオンまで…まさかの！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240507/O9Tn25nx/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230821/udKhNuf0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-285"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-061"
+  },
+  {
+    "id": 411321,
+    "IDcode": "MBMH-062",
+    "title": "反向变性搭讪！体内射精！琥珀与凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd11994e7d663df4d75a1d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-062"
+  },
+  {
+    "id": 563489,
+    "IDcode": "MBMH-063",
+    "title": "奇迹的にSNSで知り合ったオルチャン女子と韩国で待ち合わせしてオフパコ！ イスゥちゃん＆トーヒ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230907/W2iR6968/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-063"
+  },
+  {
+    "id": 563488,
+    "IDcode": "MBMH-064",
+    "title": "熟年同窗会～30年振りに再会したクラスのマドンナに媚薬を盛って海老反りセックス～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230907/gwmxGPJk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-064"
   }
 ];

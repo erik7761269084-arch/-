@@ -152,7 +152,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/182ee67afeb3c3115f2981a85fb7a793.jpg",
       "actress": [
@@ -170,7 +170,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678906115d57b64bfd8ef53c/cover.jpg",
       "actress": [

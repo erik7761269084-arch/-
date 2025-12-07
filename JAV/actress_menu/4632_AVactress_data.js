@@ -49,7 +49,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-08-20",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/c9443efb1b53d005b01dfcec3d3dfb3b.jpg",
       "actress": [
@@ -72,7 +72,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-07-16",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/6e3798d98ce788c96b7f311454ba3b07.jpg",
       "actress": [
@@ -95,7 +95,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-06-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/5fff8219a42e2873595e71e2ab558b93.jpg",
       "actress": [
@@ -183,7 +183,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/9d41cc7aaf7446a64430d470015ea46d.jpg",
       "actress": [
@@ -271,7 +271,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/8716234b4b04e30d402470455741f197.jpg",
       "actress": [
@@ -290,7 +290,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/d83c7f10037b207c640ac509d9d626d2.jpg",
       "actress": [
@@ -312,7 +312,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/ab0e977c589f213f258fdc379df1d528.jpg",
       "actress": [
@@ -333,7 +333,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/7b577691c89094a622580713fa7cf142.jpg",
       "actress": [
@@ -355,7 +355,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
       "actress": [
@@ -380,7 +380,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/4bdf11dda33ccc96d6916f6d488511cd.jpg",
       "actress": [

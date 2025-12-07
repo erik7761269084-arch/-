@@ -1,2418 +1,2824 @@
 window.PAGE_DATA = [
   {
-    "id": 199045,
-    "IDcode": "HNTRZ-010",
-    "title": "「弟くん、可愛いね」スレンダー巨乳と、すけべタトゥーとショタ好きセフレ姉ちゃんズ 鳳カレン 柊ゆうき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32ed25f13d063bcdf7cca/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-010"
-  },
-  {
-    "id": 159375,
-    "IDcode": "HNTRZ-011",
-    "title": "迷失在超肉感男性美容院的色情油-藤沢麗央 本真ゆり 星明日菜",
+    "id": 561627,
+    "IDcode": "HSODA-009",
+    "title": "オナニー中毒、セックス相手にお困りの方は一度ご相谈ください。SEX外来～性欲が强过ぎるSEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250520-1/302b64b8078a7e8ea24188751b886f3e.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240310/vQvTsUMP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-009"
   },
   {
-    "id": 182147,
-    "IDcode": "HNTRZ-012",
-    "title": "比帥哥的軟雞巴更強的無限射精巨根-虹村ゆみ 白石もも",
+    "id": 561629,
+    "IDcode": "HSODA-010",
+    "title": "唇だけじゃもの足りない。ねっとり舌を络ませる浓厚唾液性交。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240310/UftEyBTA/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-010"
   },
   {
-    "id": 182151,
-    "IDcode": "HNTRZ-013",
-    "title": "失忆后与人妻发小发生关系-五芭 天美めあ",
+    "id": 561626,
+    "IDcode": "HSODA-012",
+    "title": "谁にでも定额かけ放题！授业中、昼休み、いつでもどこでも校内の女子に…ぶっかけまくり！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b44b8a5fdaf263a25d2c4d/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240310/vohGHdC5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-012"
   },
   {
-    "id": 4566,
-    "IDcode": "HNTRZ-014",
-    "title": "變成姐妹丼了-姬咲華 玉木久留美",
+    "id": 14828,
+    "IDcode": "HSODA-013",
+    "title": "護士學校的極其色情的實踐課。護理訓練涉及這麼多嗎？",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "奇聞趣事",
-      "女學生",
-      "巨尻",
-      "兩女一男",
-      "艷遇",
-      "M男・M女",
-      "慾求不滿",
-      "豐滿",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "胸控・戀乳癖",
-      "自宅",
-      "色白",
-      "美乳",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "後宮系",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "明星臉",
-      "極品美人",
-      "超爆乳",
-      "文藝女",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
+      "口交",
+      "凌辱",
+      "護士制服",
+      "奇聞趣事",
+      "美少女",
+      "中出",
+      "護士",
+      "清純",
+      "美少女電影",
       "劇情",
+      "奇異的",
+      "羞恥",
+      "形象俱樂部",
+      "醫院・診所"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240511/20240511005019423423.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-013"
+  },
+  {
+    "id": 15561,
+    "IDcode": "HSODA-014",
+    "title": "巨乳叔母和童真姪子激情做愛-妃ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "蕩婦",
       "美臀",
-      "絕頂高潮",
+      "深喉",
       "舔陰",
+      "淫亂",
+      "中出",
+      "自宅",
+      "按摩棒",
+      "絕頂高潮",
+      "苗條",
+      "黑絲",
       "手指插入",
+      "騎乗位",
+      "羞恥",
+      "亂倫",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "小姨・姑姑",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407231254751751.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-014"
+  },
+  {
+    "id": 15559,
+    "IDcode": "HSODA-015",
+    "title": "時間停止。你可以隨時使時間停止下來，做任何事情，學校裏的美少女都是你的玩物了。。。。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "女學生",
+      "美臀",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "時間停止",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "同學",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "2024-04-09",
+    "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407230806439439.jpg",
+    "actress": [
+      "上坂芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-015"
+  },
+  {
+    "id": 545360,
+    "IDcode": "HSODA-016",
+    "title": "ヤリサー合宿旅行 10名の女子大生とバカハメ大乱交！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240610/UFUQktZk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-016"
+  },
+  {
+    "id": 14801,
+    "IDcode": "HSODA-017",
+    "title": "白皙肌膚姊姊允許任憑渴求激烈狂插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "姐姐・妹妹",
+      "美臀",
+      "亂交 • 群P",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "口交",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240511/20240511062206925925.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-017"
+  },
+  {
+    "id": 14824,
+    "IDcode": "HSODA-019",
+    "title": "入侵歐洲最強成人娛樂產業FKK！現場中出！狂歡！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "傳播妹",
+      "一男多女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "大亂交",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "女優",
+      "企畫",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "酒吧",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510045828311311.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-019"
+  },
+  {
+    "id": 466290,
+    "IDcode": "HSODA-020",
+    "title": "射精管理治療中心 醫療財團 旨在治療個人無法控制的性慾過剩患者的醫療機構。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba8173489841641838514d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-020"
+  },
+  {
+    "id": 545362,
+    "IDcode": "HSODA-021",
+    "title": "乳首イキ豊胸エステ。缲り返すエビ反り絶顶にひん曲がる発育途上の华奢ボディ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240610/7mw2lvLP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-021"
+  },
+  {
+    "id": 15558,
+    "IDcode": "HSODA-022",
+    "title": "隔魔鏡按摩男女朋友各自偷插做愛中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "多P",
+      "美腳",
+      "蕩婦",
+      "姐姐・妹妹",
+      "美臀",
+      "淫亂",
+      "中出",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "無毛",
+      "偷竊",
+      "苗條",
+      "飯店",
+      "短裙・迷你裙",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7b43edc101930b4b5742/cover.jpg",
-    "actress": [
-      "姫咲華",
-      "大島愛里亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-014"
-  },
-  {
-    "id": 4584,
-    "IDcode": "HNTRZ-015",
-    "title": "世界を揺るがすバグ技を見つけた俺は、時間を止めたり、感度をあげたり、設定を書き換えたり…無双状態に突入しました。 さわり放題！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "苗條",
-      "職員",
-      "美少女",
-      "美腳",
       "胸控・戀乳癖",
-      "芸能人",
-      "巨乳",
-      "性感",
-      "口交",
-      "寫真女郎",
-      "極品美人",
-      "超爆乳",
-      "時間停止",
-      "寫真偶像",
-      "美人",
+      "熟女",
       "後入",
-      "少女",
-      "劇情",
-      "舔陰",
-      "女神",
-      "手指插入",
-      "高妹",
-      "女上位",
-      "騎乗位"
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7977edc101930b4b4d52/cover.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407230701701701.jpg",
     "actress": [
-      "大槻响",
-      "辻井穗乃果"
+      "美咲佳奈",
+      "通野未帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-022"
   },
   {
-    "id": 62604,
-    "IDcode": "HNTRZ-016",
-    "title": "毕业典礼结束后-黒川すみれ 葵百合香",
+    "id": 560531,
+    "IDcode": "HSODA-023",
+    "title": "昼は健全な名门女子校の文化祭、夜はオトナのエッチな文化祭 いつもは知的で上品なお嬢様たちが、",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240814/iVbbbgdp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-023"
+  },
+  {
+    "id": 560684,
+    "IDcode": "HSODA-024",
+    "title": "山间の温泉旅馆で遭遇した奇迹！とても爱らしい修学旅行生たちといっぱいエッチな思い出作っちゃいました。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240707/mU6SnKwU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-024"
+  },
+  {
+    "id": 14822,
+    "IDcode": "HSODA-025",
+    "title": "從學校回家的路很長，跳蛋在我的陰戶，我要堅持住 ~ 北川まほ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "荡妇",
+      "少女",
+      "美腳",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "濕身",
+      "深喉",
+      "舔陰",
       "中出",
+      "美少女電影",
+      "自宅",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "美乳",
+      "口交",
+      "潮吹",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "後入",
+      "JK校服",
+      "性感",
+      "跳蛋",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240511/20240511055156651651.jpg",
+    "actress": [
+      "北川まほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-025"
+  },
+  {
+    "id": 545363,
+    "IDcode": "HSODA-026",
+    "title": "尻振动がデニム越しでも伝わる究极デカ尻お姊さんの诱惑。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240610/YjkkhhLm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-026"
+  },
+  {
+    "id": 545357,
+    "IDcode": "HSODA-027",
+    "title": "ママには内绪だよ。爱すべき娘达にパパパパ中出し溺爱教育。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240610/BIIeFJB7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-027"
+  },
+  {
+    "id": 560685,
+    "IDcode": "HSODA-029",
+    "title": "突拍子もないことを言いますが、うちに住み着くアラサー丧女ニートがノーブラでふらつくから乳首と",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240707/YrHkbEvB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-029"
+  },
+  {
+    "id": 560686,
+    "IDcode": "HSODA-030",
+    "title": "ねぇ母さん、セックスしよっ！私と息子との暑い热っつい中出し夏休み。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240707/NtAP7cCS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-030"
+  },
+  {
+    "id": 96265,
+    "IDcode": "HSODA-031",
+    "title": "严苛的高压教育妈妈-川上忧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "乱伦",
+      "中出",
+      "淫乱，真实",
       "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0848c52c12b4e68100ae9/cover.jpg",
     "actress": [
-      "黑川堇",
-      "葵百合香",
-      "明里友香"
+      "川上優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-031"
   },
   {
-    "id": 187392,
-    "IDcode": "HNTRZ-017",
-    "title": "肉便器に大量放尿！机に喉凹イラマ！衣服かけに濃厚中出し！家具は全部オンナ！",
+    "id": 560678,
+    "IDcode": "HSODA-032",
+    "title": "妻には内绪。ふたりの娘たちとの歪んだ爱の结晶。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3f8b4d6fbef4e90e42f6c/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240707/SVnRPLaU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-032"
   },
   {
-    "id": 2960,
-    "IDcode": "HNTRZ-018",
-    "title": "请享用肉棒吧国内现最强投诉应对头等舱痴女空姐-美谷朱音",
+    "id": 96233,
+    "IDcode": "HSODA-033",
+    "title": "温暖中射精-本真友里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "奇聞趣事",
-      "巨尻",
-      "艷遇",
-      "口爆",
-      "港區女子",
-      "飯店",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "阪道系",
-      "美腳",
-      "癡女",
-      "色白",
-      "謝罪",
-      "大奶头",
-      "美乳",
-      "過膝襪・小腿襪",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "空姐制服",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "空姐",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高跟鞋",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "公共場所"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdcc6b006939637679a379/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-018"
-  },
-  {
-    "id": 177301,
-    "IDcode": "HNTRZ-019",
-    "title": "我这辈子第一次在校外教学中这么受欢迎-冬爱琴音 市井结夏 萌波铃 牧野怜奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2d705ce5a404e9bac0d23/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-019"
-  },
-  {
-    "id": 62603,
-    "IDcode": "HNTRZ-020",
-    "title": "因为无法消除疲劳请了出差脊椎按摩师-辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "淫乱，真实",
-      "荡妇",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "淫乱，真实",
+      "女上位",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
+      "本真友里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-033"
+  },
+  {
+    "id": 12136,
+    "IDcode": "HSODA-034",
+    "title": "植入器官-葵中城",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "女學生",
+      "運動服裝",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "大亂交",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "色白",
+      "顏射",
+      "同學",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "清純",
+      "女上位",
+      "多P",
+      "後入",
+      "JK校服",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240907/20240907025112163163.jpg",
+    "actress": [
+      "中城葵",
+      "レンジャー鏑木",
+      "マサムー"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-034"
+  },
+  {
+    "id": 11476,
+    "IDcode": "HSODA-035",
+    "title": "憑依炎上ネキ。全裸自転車でコンビニ乗り込んで、大暴れ。他人の身体だからやりたいこと全部やっちゃえSP 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "便利商店",
+      "公共場所",
+      "美腳",
+      "網襪",
+      "男女互換",
+      "惡搞",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "變態",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "短髮",
+      "美乳",
+      "口交",
+      "職員",
+      "情趣內衣",
+      "女上位",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/9253b7f7a79e82e2a5c4a41031a00fbb.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-035"
+  },
+  {
+    "id": 12159,
+    "IDcode": "HSODA-036",
+    "title": "魔镜NTR美容-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "蠻橫嬌羞",
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "奇異的",
+      "感官作品",
+      "3P・4P",
+      "淫妻",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "抹油",
+      "按摩・美容店",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "女友・妻子",
+      "若妻",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "潮吹",
+      "乳交",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "女上位",
+      "後入",
+      "性感",
+      "NTR",
+      "兩男兩女"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906012203608608.jpg",
+    "actress": [
+      "胡桃櫻花",
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-036"
+  },
+  {
+    "id": 155816,
+    "IDcode": "HSODA-037",
+    "title": "时间停止学级3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240919-1/13b176f2fc5412198901d81a1c281f4a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-037"
+  },
+  {
+    "id": 11462,
+    "IDcode": "HSODA-038",
+    "title": "時間停止オフィス。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "美腳",
+      "報復",
+      "美臀",
+      "奇異的",
+      "人妻",
+      "奇聞趣事",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "時間停止",
+      "劇情",
+      "美少女",
+      "女同事",
+      "M男・M女",
+      "黑絲",
+      "變態",
+      "痴漢",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/188ad9b9db4e5ebc68a51eea34ecccd9.jpg",
+    "actress": [
+      "木下日葵",
+      "百永纱里奈",
+      "若宮葉月",
+      "本田桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-038"
+  },
+  {
+    "id": 72839,
+    "IDcode": "HSODA-040",
+    "title": "子供と旦那が帰ってくるまで1時間 「妊娠してもいいから…中にいっぱい下さい」自宅で間男と中出しセックスを何度もしちゃう変態ママさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "淫乱，真实",
+      "出轨",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-040"
+  },
+  {
+    "id": 12134,
+    "IDcode": "HSODA-041",
+    "title": "暴露不可抗拒的本能-水川润",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "偷竊",
+      "飯店",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美乳",
+      "美腿",
+      "口交",
+      "女上位",
+      "純愛・戀愛",
+      "後入",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908000642985985.jpg",
+    "actress": [
+      "水川潤",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-041"
+  },
+  {
+    "id": 11472,
+    "IDcode": "HSODA-044",
+    "title": "ハン・透明人間 透き通るような美肌になれるというその温泉の効能を極限までに高めた結果、本当に透けちゃった！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "美臀",
+      "奇異的",
+      "溫泉",
+      "旅行",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "和服・浴衣・喪服",
+      "強姦",
+      "變態",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "迷姦",
+      "口交",
+      "乳交",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/e953888abb0bd4e687e46e1c1ad13633.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-044"
+  },
+  {
+    "id": 493279,
+    "IDcode": "HSODA-046",
+    "title": "谁都能定额尽情喷！2上课中、午休中、不论何时何处对校内的女学生…尽情喷发！未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/74a16208496b924843b70d7ef5fb6562.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-046"
+  },
+  {
+    "id": 175478,
+    "IDcode": "HSODA-047",
+    "title": "肛門セックスするためだけにAV出演。身バレは怖いけど、アナル絶頂のためなら何でもします。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/b06795441d6fe797ecf7c59b84e84c8e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-047"
+  },
+  {
+    "id": 10783,
+    "IDcode": "HSODA-048",
+    "title": "迷奸！清純纖細美少女被灌醉後不斷被輪奸…… ~ 月野江翠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "亂交 • 群P",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "酒後亂性",
+      "苗條",
+      "黑絲",
+      "媚藥・迷藥",
+      "手指插入",
+      "騎乗位",
+      "輪姦",
+      "形象俱樂部",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "流汗",
+      "慾求不滿",
+      "潮吹",
+      "魔鬼系",
+      "女上位",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P",
+      "聚會・PARTY"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/236e4212d7a3c741c2e6728f5cda0b9f.jpg",
+    "actress": [
+      "月野江翠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-048"
+  },
+  {
+    "id": 10782,
+    "IDcode": "HSODA-049",
+    "title": "お母さんが好きで好きでしょうがない息子とのSEXに沼っていく濃厚母汁セックス。 浜辺栞帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母子",
+      "出軌",
+      "人妻",
+      "中出",
+      "猥褻穿著",
+      "自宅",
+      "劇情",
+      "家庭主妇",
+      "色白",
+      "變態",
+      "美人妻",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "母親",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107095420808808.jpg",
+    "actress": [
+      "浜辺栞帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-049"
+  },
+  {
+    "id": 10128,
+    "IDcode": "HSODA-050",
+    "title": "時間停止病棟。ナースコールがまさかの時間を止めれる神装置で好きな時に挿れたり、止めたりし放題",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "奇異的",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "時間停止",
+      "劇情",
+      "美少女",
+      "強姦",
+      "色白",
+      "護士",
+      "變態",
+      "看病・住院",
+      "手指插入",
+      "騎乗位",
+      "護士制服",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "醫院・診所",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/14/68c6bced79f1ac4ec4597ff0/cover.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-050"
+  },
+  {
+    "id": 10162,
+    "IDcode": "HSODA-051",
+    "title": "マジックミラーNTRエステ 隣で美乳スレンダーな彼女が寝取られているのに、僕は巨乳お姉さんの凄テクに抗えず、生中セックスしてしまった。 辻井ほのか 木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "兩女一男",
+      "癡女",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔陰",
+      "美少女電影",
+      "劇情",
+      "按摩・美容店",
+      "美少女",
+      "絕頂高潮",
+      "女友・妻子",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "潮吹",
+      "乳交",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "女上位",
+      "多P",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205084555357357.jpg",
+    "actress": [
+      "木下日葵",
       "辻井穗乃果"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-051"
   },
   {
-    "id": 2959,
-    "IDcode": "HNTRZ-021",
-    "title": "スレンダー巨乳な女子大生ギャルに自主制作AVを作らないかと巻き込まれてしまった僕。 佐々木かんな 鳥楽ひな 上坂めい",
+    "id": 9222,
+    "IDcode": "HSODA-052",
+    "title": "時間停止学級4。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "3P・4P",
-      "白絲",
-      "艷遇",
+      "少女",
+      "清楚系",
+      "美腳",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "奇異的",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "貧乳",
+      "美少女電影",
+      "校園生活",
+      "時間停止",
+      "劇情",
+      "美少女",
+      "強姦",
+      "學校",
+      "苗條",
+      "顏射",
+      "同學",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美腿",
+      "迷姦",
+      "口交",
+      "校花",
+      "潮吹",
+      "女上位",
+      "後入",
+      "JK校服",
+      "一男多女",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074856941941.jpg",
+    "actress": [
+      "白石渚",
+      "千川とわ",
+      "滝ゆいな",
+      "藤田梢",
+      "天美めあ",
+      "川栄結愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-052"
+  },
+  {
+    "id": 10113,
+    "IDcode": "HSODA-053",
+    "title": "壁尻×女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "臀控",
+      "美臀",
+      "惡搞",
+      "亂交 • 群P",
+      "奇異的",
+      "癡女",
+      "加班",
+      "搞笑・模仿",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "大亂交",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "女同事",
+      "色白",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241206/20241206072652873873.jpg",
+    "actress": [
+      "有栖舞衣",
+      "市川りく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-053"
+  },
+  {
+    "id": 9223,
+    "IDcode": "HSODA-054",
+    "title": "タオル一枚男湯チャレンジ！温泉街のおひとり様美女が賞金目当てに男湯でエッチなミッションに挑戦！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "老頭子",
+      "口爆",
+      "美臀",
+      "濕身",
+      "亂交 • 群P",
+      "癡女",
+      "溫泉",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "綜藝",
+      "色白",
+      "企畫",
+      "女優",
+      "顏射",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074421932932.jpg",
+    "actress": [
+      "藤井蕾菈",
+      "美丘さとみ",
+      "星七奈奈美",
+      "天宮かすみ",
+      "沙優七羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-054"
+  },
+  {
+    "id": 183626,
+    "IDcode": "HSODA-055",
+    "title": "SEXのハードルが低すぎる世界線！2 目の前で当たり前のようにSEX！朝の挨拶からSEX！授業中もSEX！休み時間も放課後もとにかくオープンSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-055"
+  },
+  {
+    "id": 9228,
+    "IDcode": "HSODA-056",
+    "title": "ヌキなし触りなしなのに、彼氏にバレたくないから料金以上のOPでセックスまでさせちゃう親友の彼女。お、値段以上。NTR 逢沢みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "脅迫做愛",
+      "美臀",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "絕頂高潮",
+      "無毛",
+      "女友・妻子",
+      "色白",
+      "苗條",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "內衣",
+      "女上位",
+      "後入",
+      "性感",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109073914879879.jpg",
+    "actress": [
+      "逢澤美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-056"
+  },
+  {
+    "id": 72793,
+    "IDcode": "HSODA-057",
+    "title": "時間停止シェアハウス。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "妄想",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤田梢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-057"
+  },
+  {
+    "id": 69573,
+    "IDcode": "HSODA-058",
+    "title": "【完まく】濃厚精子ごっくんだいすき美園和花の毎日ザーメン健康生活【ちょめめ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单体作品",
+      "巨乳",
+      "乳交",
+      "手淫",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-058"
+  },
+  {
+    "id": 72856,
+    "IDcode": "HSODA-059",
+    "title": "放課後全身舐めまわしハーレム。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "学校作品",
+      "淫乱，真实",
+      "校服",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-059"
+  },
+  {
+    "id": 7640,
+    "IDcode": "HSODA-060",
+    "title": "可以時間停止的神奇學生宿舍 用神器隨時插進拔出想停就停 ~ 柏木小夏 五十嵐清華 皆瀨明里 愛瀨優里 鬆丸香澄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "女學生",
+      "搞笑・模仿",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "時間停止",
+      "劇情",
+      "美少女",
+      "強姦",
+      "學校",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "迷姦",
+      "口交",
+      "校花",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dedd4fdbf24d4ed317eadf/cover.jpg",
+    "actress": [
+      "柏木小夏",
+      "皆瀨明里",
+      "五十嵐清華",
+      "愛瀬優里",
+      "松丸香澄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-060"
+  },
+  {
+    "id": 191001,
+    "IDcode": "HSODA-061",
+    "title": "マジックミラーNTRエステ 隣で美乳スレンダーな彼女が寝取られているのに、僕は巨乳お姉さんの凄テクに抗えず、生中セックスしてしまった。 月野かすみ 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-061"
+  },
+  {
+    "id": 69572,
+    "IDcode": "HSODA-062",
+    "title": "時間停止温泉旅館。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "妄想"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-062"
+  },
+  {
+    "id": 69571,
+    "IDcode": "HSODA-064",
+    "title": "脱いだら凄い豪快肝っ玉母ちゃんに勃起バレしてしまい、口説いたら女になったかーちゃんと種付けセックス 葵百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "巨乳",
+      "乱伦",
+      "中出",
+      "母亲"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "葵百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-064"
+  },
+  {
+    "id": 199029,
+    "IDcode": "HSODA-065",
+    "title": "ヤリサー合宿旅行 2【ヤリサー】と噂のテニスサークルで乱交体験！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32d8d5f13d063bcdf758e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-065"
+  },
+  {
+    "id": 199026,
+    "IDcode": "HSODA-066",
+    "title": "SEXしないと出られない部屋 突然気を失い気がつくと部屋に閉じ込められていた男女。扉はすべて施錠されていて、殺風景な部屋にはベッ出られない部屋」とだけ書いてある",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-066"
+  },
+  {
+    "id": 195646,
+    "IDcode": "HSODA-067",
+    "title": "あなたが興奮する設定の笑顔がオーダーできる新感覚カフェ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7dcaa682e2e92819a4864/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-067"
+  },
+  {
+    "id": 195644,
+    "IDcode": "HSODA-068",
+    "title": "うちの息子は普通なのかしら？性に無知すぎる心配性ママと性教育。 藤咲紫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e69e698bc99dfdd032a9f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-068"
+  },
+  {
+    "id": 198414,
+    "IDcode": "HSODA-069",
+    "title": "マジックミラーNTRエステ 隣で美乳スレンダーな彼女が寝取られているのに、僕は巨乳お姉さんの凄テクに抗えず、生中セックスしてしまった。 美谷朱音 倉木しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b2a0e0a681bb640dae22fd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-069"
+  },
+  {
+    "id": 198404,
+    "IDcode": "HSODA-070",
+    "title": "着床器官 逢沢みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b948f3489841641836e35c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-070"
+  },
+  {
+    "id": 198409,
+    "IDcode": "HSODA-071",
+    "title": "寝取り性癖のあるおばさんと一緒に居たかった僕は彼女がいると嘘を吐いた。 明里ともか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-071"
+  },
+  {
+    "id": 4580,
+    "IDcode": "HSODA-072",
+    "title": "誰にでも定額かけ放題！OL編 仕事中、昼休み、いつでもどこでも社内の女性社員に…ぶっかけまくり！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "清楚系",
+      "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "高妹",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "職場",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "劇情",
+      "大亂交",
+      "性感",
+      "美少女",
+      "女同事",
+      "M男・M女",
+      "色白",
+      "黑絲",
+      "變態",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "多P",
+      "後入",
+      "唾液敷面"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "一条美緒",
+      "小野寺舞",
+      "岡本莉里",
+      "二宮桃",
+      "沙優七羽",
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-072"
+  },
+  {
+    "id": 4596,
+    "IDcode": "HSODA-073",
+    "title": "我不会忘记你告白的那一天两情相悦的我们擦肩而过-虹村ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "單體作品",
+      "舔陰",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "女友・妻子",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "青梅竹馬",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "清純",
+      "女上位",
+      "純愛・戀愛",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "虹村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-073"
+  },
+  {
+    "id": 4385,
+    "IDcode": "HSODA-074",
+    "title": "未来科学SEXPO20XX 時間を止められたり、透明人間になれたり、人類の夢がついに実現！？現在開発中の未来の神アイテムが実際に体験できちゃう、オトナの未来科学博がついに開催！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
+      "小隻馬",
+      "美臀",
+      "惡搞",
+      "亂交 • 群P",
+      "奇異的",
+      "人妻",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "時間停止",
+      "劇情",
+      "美少女",
+      "M男・M女",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/2025070305590100_thumbnail.webp",
+    "actress": [
+      "皆月光",
+      "望月蕾",
+      "宇流木沙羅",
+      "大浦真奈美",
+      "椎菜える"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-074"
+  },
+  {
+    "id": 61751,
+    "IDcode": "HSODA-076",
+    "title": "着床器官-天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学校作品",
+      "妄想",
+      "水手服",
+      "高中女生",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3f869d6fbef4e90e42f6b/cover.jpg",
+    "actress": [
+      "天羽梨梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-076"
+  },
+  {
+    "id": 177299,
+    "IDcode": "HSODA-077",
+    "title": "魔镜NTR按摩旁边的美乳苗条女友被寝取-黒川すみれ 柏木こなつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-077"
+  },
+  {
+    "id": 3626,
+    "IDcode": "HSODA-078",
+    "title": "学生が体験入社。淫ターンシップ 耳元でエロい事囁かれるとか、お尻に軽くタッチされるとか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
+      "脅迫做愛",
       "女學生",
       "小隻馬",
       "口爆",
-      "貓耳裝飾",
-      "護士制服",
-      "網襪",
-      "苗條",
-      "辣妹/GAL系",
-      "阪道系",
-      "美少女",
-      "中囯服裝",
-      "美腳",
-      "眼鏡",
-      "色白",
-      "美乳",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "鬃毛",
-      "形象俱樂部",
-      "正統派",
-      "後宮系",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "明星臉",
-      "私房攝影",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "一男多女",
-      "極品美人",
-      "中出",
-      "口罩",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "顔面騎乘",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072859692692_87084_thumbnail.webp",
-    "actress": [
-      "上坂芽衣",
-      "鳥楽ひな",
-      "小森舞",
-      "トイボーイ相沢",
-      "伊崎悠人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
-  },
-  {
-    "id": 2475,
-    "IDcode": "HNTRZ-022",
-    "title": "随便找了个像前女友的女孩交往结果竟然是她亲妹妹-西野絵美 西尾まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "兩女一男",
-      "純粹的慾望",
-      "慾求不滿",
-      "豐滿",
       "臀控",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "胸控・戀乳癖",
+      "亂交 • 群P",
+      "美臀",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "美少女電影",
+      "辦公室",
+      "接吻",
+      "劇情",
+      "大亂交",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "女同事",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
       "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
       "巨乳",
       "口交",
-      "形象俱樂部",
-      "後宮系",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "內衣",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "西野絵美",
-      "西尾真里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-022"
-  },
-  {
-    "id": 181391,
-    "IDcode": "HNTRZ-023",
-    "title": "男を虜にするハーレム小悪魔ギャル宮城。 有星あおり 柚木ひなた 瀬那ルミナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-023"
-  },
-  {
-    "id": 175996,
-    "IDcode": "HNTRZ-024",
-    "title": "彼氏の目の前で！羞恥ガニ股クレーンゲーム！ 豪華景品目指して成功しなければ即エロ罰ゲームで中出しヤリ放題！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-024"
-  },
-  {
-    "id": 174489,
-    "IDcode": "HNTRZ-025",
-    "title": "世界を揺るがすバグ技を見つけた俺は時間を止めたり、感度をあげたり、設定を書き換えたり…無双状態に突入しました。さわり放題！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "HUNTER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HUNTER",
-        "works_count": 606
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-025"
-  },
-  {
-    "id": 574505,
-    "IDcode": "HNTV-002",
-    "title": "【日本女优】冲撃女他优他崩壊観察ドキュメント絶叫即中他出他しきもだめしツアー2016-01-23凉川绚音宫崎あや浜崎真绪あべみかこ仓多まお初美沙希AIKA上原亜衣大槻ひびき波他多野结衣10位女他优他-070",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTV-002"
-  },
-  {
-    "id": 517638,
-    "IDcode": "HNTV-005",
-    "title": "100人×中出逃走中2015 為",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903d2b0d6fbef4e901a78e6/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTV-005"
-  },
-  {
-    "id": 516484,
-    "IDcode": "HNU-021",
-    "title": "促進分手委員會 用聯誼來試探男友的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffc7257de28f4edeab6c2a/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNU-021"
-  },
-  {
-    "id": 468095,
-    "IDcode": "HNVR-00076",
-    "title": "【VR】來玩全裸玩法吧？ 與班上的嬌小妹子、不被人發現般全裸做愛的放學後 永野一夏 C",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bc49c54e7d663df4a17b9b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNVR-00076"
-  },
-  {
-    "id": 523164,
-    "IDcode": "HOB-001",
-    "title": "波多野结衣- 高桥浩一のヒトヅマブログ ＃01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250505/xmurXQsQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOB-001"
-  },
-  {
-    "id": 467887,
-    "IDcode": "HODV-20409",
-    "title": "野外萌え！見られて燃えたい！ 倖田梨紗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc19cd4e7d663df4da3e52/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20409"
-  },
-  {
-    "id": 409883,
-    "IDcode": "HODV-20433",
-    "title": "変態飼育『犯してほしいの。』 愛沢ひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/26/68acb4c25f03a092cf747fb5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20433"
-  },
-  {
-    "id": 409759,
-    "IDcode": "HODV-20513",
-    "title": "極Style 澄川ロア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c927b9d6fbef4e90aea9e7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20513"
-  },
-  {
-    "id": 523167,
-    "IDcode": "HODV-20537",
-    "title": "波多野结衣- 犯され体质のドMギャル☆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250505/UOMJm8RL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20537"
-  },
-  {
-    "id": 523168,
-    "IDcode": "HODV-20544",
-    "title": "波多野结衣- 絶対コス！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250505/5gtGD4DA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20544"
-  },
-  {
-    "id": 523166,
-    "IDcode": "HODV-20551",
-    "title": "波多野结衣- やりすぎ家庭教师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250505/rF28A5Ry/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20551"
-  },
-  {
-    "id": 523171,
-    "IDcode": "HODV-20557",
-    "title": "波多野结衣- 限界☆羞耻コア！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250506/EYbu8dIk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20557"
-  },
-  {
-    "id": 409611,
-    "IDcode": "HODV-20565",
-    "title": "最高級ドM 失禁×号泣×OO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84d00d6fbef4e90cd20f0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20565"
-  },
-  {
-    "id": 104193,
-    "IDcode": "HODV-20657",
-    "title": "巨乳カメラ おっぱいアングル満載SEX 相澤リナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "潮吹",
-      "第一人称摄影",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "OL",
       "多P",
-      "巨乳"
+      "後入",
+      "性感",
+      "寢取",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "2010-08-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3fe10d6fbef4e90e44154/cover.jpg",
     "actress": [
-      "月本みほの"
+      "末広純",
+      "皆瀨明里",
+      "五十嵐清華",
+      "市川りく",
+      "櫻木繪里香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20657"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-078"
   },
   {
-    "id": 1638,
-    "IDcode": "HODV-20666",
-    "title": "暗恋的学姐秋山祥子居然成了我的继母",
+    "id": 4386,
+    "IDcode": "HSODA-079",
+    "title": "ねぇ母さん、セックスしよっ！私と息子との暑い熱っつい中出し夏休み。 吹石れな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "無碼流出",
-      "新娘"
+      "母子",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "自宅",
+      "四十路",
+      "劇情",
+      "牛仔褲",
+      "家庭主妇",
+      "後入",
+      "打手槍",
+      "港區女子",
+      "變態",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
+      "自慰",
+      "女上位",
+      "母親",
+      "熟女",
+      "大奶头",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230404/445f0be3-ad8b-4055-93eb-54be3232aa22.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b585b98bc99dfddd7cd6a/cover.jpg",
     "actress": [
-      "秋山祥子"
+      "吹石玲奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20666"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-079"
   },
   {
-    "id": 550399,
-    "IDcode": "HODV-20668",
-    "title": "近亲相奸 ～犯られる爱娘～ 工场长の太く污れた魔指 あずみ恋",
+    "id": 198403,
+    "IDcode": "HSODA-080",
+    "title": "時間停止コンビニ。 時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240510/41hodv20668pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e786498bc99dfdd03302a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20668"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-080"
   },
   {
-    "id": 210176,
-    "IDcode": "HODV-20669",
-    "title": "巨乳痴女-相澤リナ",
+    "id": 2907,
+    "IDcode": "HSODA-081",
+    "title": "スレンダー巨乳の彼女は、ブライダルエステで何度もポルチオ絶頂を繰り返し寝取られました。 都月るいさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "蠻橫嬌羞",
+      "美腳",
+      "口爆",
+      "臀控",
+      "濕身",
+      "美臀",
+      "單體作品",
+      "野性",
+      "NTR",
+      "癡女",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "接吻",
+      "劇情",
+      "抹油",
+      "按摩・美容店",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "女友・妻子",
+      "高顏值",
+      "苗條",
+      "美人妻",
+      "按摩・物理治療・美容",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "肌肉",
+      "潮吹",
+      "乳交",
+      "誘騙女性",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "大奶头",
+      "性感",
+      "寢取"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "HUNTER",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/09/ca15a85b2e7c4df52398fbd48700c773.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20669"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035145767767_22422_thumbnail.webp",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-081"
   },
   {
-    "id": 516406,
-    "IDcode": "HODV-20674",
-    "title": "超淫蕩肉體 相澤里奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69094dcfe264e6282dff67de/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20674"
-  },
-  {
-    "id": 550407,
-    "IDcode": "HODV-20681",
-    "title": "妹の巨乳がいやらしすぎてムラムラを抑えきれない！ 篠原杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240520/41hodv20681pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20681"
-  },
-  {
-    "id": 223820,
-    "IDcode": "HODV-20694",
-    "title": "我将喝下所有释放的精子-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20694"
-  },
-  {
-    "id": 550432,
-    "IDcode": "HODV-20700",
-    "title": "妹の成熟がとまらない！！ ～近亲相奸～ もう処女じゃないもん 大岛みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240601/41hodv20700pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20700"
-  },
-  {
-    "id": 529927,
-    "IDcode": "HODV-20701",
-    "title": "初恋少女 瀬乃ゆいか 4时间デビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220710-1/fb620234dca41f0f798c0902a931cbfe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20701"
-  },
-  {
-    "id": 523859,
-    "IDcode": "HODV-20752",
-    "title": "都合のいいカラダ 堀江クララ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221129-1/7c4de20f03af40b6c5e4c13e44cd6727.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20752"
-  },
-  {
-    "id": 462385,
-    "IDcode": "HODV-20759",
-    "title": "初恋OO みかん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68def536ce5a404e9bc6f124/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20759"
-  },
-  {
-    "id": 531669,
-    "IDcode": "HODV-20765",
-    "title": "♀尻 光月まや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221128-1/2c8b29cb8d9660b96b768f3185796acd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20765"
-  },
-  {
-    "id": 181483,
-    "IDcode": "HODV-20817",
-    "title": "不合格的新任女教师星野娜美总喜欢用身体来教育学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20817"
-  },
-  {
-    "id": 217153,
-    "IDcode": "HODV-20833",
-    "title": "职场新人的淫乱性行为-今村楓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20833"
-  },
-  {
-    "id": 217502,
-    "IDcode": "HODV-20834",
-    "title": "公司里的员工-秋山祥子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20834"
-  },
-  {
-    "id": 531668,
-    "IDcode": "HODV-20846",
-    "title": "やりすぎ家庭教师 春原未来",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221115-1/d8de32c18838ee5a3afc9af3153fa918.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20846"
-  },
-  {
-    "id": 518453,
-    "IDcode": "HODV-20905",
-    "title": "肥胖中年濃厚性交 神谷真由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/6905606e72c0032a43e257ee/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20905"
-  },
-  {
-    "id": 523860,
-    "IDcode": "HODV-20995",
-    "title": "新人・有村千佳デビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221203-1/8c007bdc30bed4dd24fe21920e9d1b4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-20995"
-  },
-  {
-    "id": 521723,
-    "IDcode": "HODV-21016",
-    "title": "ど天然変态美女のローションまみれデカチン堪能セックス 星野遥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21016"
-  },
-  {
-    "id": 523851,
-    "IDcode": "HODV-21023",
-    "title": "地味な引きこもり腐女子 メガネを外して意外にエロいカラダ曝け出しAVデビュー 星空もあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220729-1/b4eb506a4a50435eb645daf08d260b9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21023"
-  },
-  {
-    "id": 523172,
-    "IDcode": "HODV-21025",
-    "title": "波多野结衣- 新人·波多野结衣デビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250506/a9PFD6MF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21025"
-  },
-  {
-    "id": 531674,
-    "IDcode": "HODV-21032",
-    "title": "私Mかも… 神尾舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230119-1/9c7bd2fbfeca8c979b8d6e9297b93a78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21032"
-  },
-  {
-    "id": 521722,
-    "IDcode": "HODV-21033",
-    "title": "动く美女の过激性交～职场にはナイショですよ～ 星野遥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21033"
-  },
-  {
-    "id": 536782,
-    "IDcode": "HODV-21034",
-    "title": "レズッチ！ ちかっち＆さきっぽ。ふたり合わせて‘ちかっぽ’の仲良し汤けむりレズビアン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231215/1607176233-41hodv21034pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21034"
-  },
-  {
-    "id": 518605,
-    "IDcode": "HODV-21039",
-    "title": "肥胖中年濃厚調教 星空萌愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f06b4c31a2714f1c5ac81b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21039"
-  },
-  {
-    "id": 531676,
-    "IDcode": "HODV-21050",
-    "title": "里ドM ～私は本当はド変态マゾなんです。～ 水野朝阳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230131-1/ffc389e7a9fea6eb6b2f0cdf7a69ea97.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21050"
-  },
-  {
-    "id": 544474,
-    "IDcode": "HODV-21056",
-    "title": "成海丽是我的妹妹～偷看危险的淫妹妹后…",
+    "id": 2905,
+    "IDcode": "HSODA-083",
+    "title": "和男人单独在一起就无法抑制撸管欲望的超级淫乱-白峰郁美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "肉絲",
+      "蕩婦",
+      "口爆",
+      "阿姨・侄子",
+      "單體作品",
+      "野性",
+      "重口味",
+      "舔陰",
+      "中出",
+      "四十路",
+      "劇情",
+      "勾引・誘惑",
+      "黑絲",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "熟女",
+      "後入",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdcc23ce3e366423d34074/cover.jpg",
+    "actress": [
+      "白峰郁美",
+      "マサムー"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-083"
+  },
+  {
+    "id": 2902,
+    "IDcode": "HSODA-085",
+    "title": "猥琐继父得到洗脑软件后继女变妓女-皆月ひかる 小野坂ゆいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "蠻橫嬌羞",
+      "老頭子",
+      "美腳",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "兩女一男",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "自宅",
+      "接吻",
+      "劇情",
+      "繼父",
+      "美少女",
+      "後入",
+      "催眠",
+      "絕頂高潮",
+      "無毛",
+      "乱伦",
+      "色白",
+      "高顏值",
+      "苗條",
+      "變態",
+      "傲嬌",
+      "純粹的慾望",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
+      "流汗",
+      "迷姦",
+      "慾求不滿",
+      "潮吹",
+      "清純",
+      "女上位",
+      "足交",
+      "大奶头",
+      "濕身",
+      "跳蛋",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c250dfa681bb640dc35993/cover.jpg",
+    "actress": [
+      "皆月光",
+      "小野坂唯香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-085"
+  },
+  {
+    "id": 175988,
+    "IDcode": "HSODA-086",
+    "title": "時間停止学級5。時間を止める事が出来る神装置で、好きな時に挿れたり、止めたりし放題。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/19/3b63a12944adabb7f021e25a5f374aab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-086"
+  },
+  {
+    "id": 517335,
+    "IDcode": "HSODA-087",
+    "title": "製作部門 入社1年目AD 東畑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0ce04631cc64eb5b3509c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-087"
+  },
+  {
+    "id": 308231,
+    "IDcode": "HSODA-088",
+    "title": "乳首イキ豊胸エステ。繰り返すエビ反り絶頂にひん曲がる発育途上の華奢ボディ。 ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-088"
+  },
+  {
+    "id": 175971,
+    "IDcode": "HSODA-089",
+    "title": "着床器官 那津乃ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-089"
+  },
+  {
+    "id": 175997,
+    "IDcode": "HSODA-090",
+    "title": "乳首イキ豊胸エステ。繰り返すエビ反り絶頂にひん曲がる発育途上の華奢ボディ。 かりん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-090"
+  },
+  {
+    "id": 2894,
+    "IDcode": "HSODA-091",
+    "title": "時間停止ジム。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "凌辱",
+      "蠻橫嬌羞",
+      "正統派",
+      "美腳",
+      "運動服裝",
+      "口爆",
+      "臀控",
+      "美臀",
+      "職場",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "時間停止",
+      "劇情",
+      "後入",
+      "健身教練",
+      "無毛",
+      "辣妹/GAL系",
+      "運動女孩",
+      "色白",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "健身房",
+      "阪道系",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdcc66ce3e366423d34075/cover.jpg",
+    "actress": [
+      "若宮葉月",
+      "小松杏",
+      "花衣つばき",
+      "西尾真里奈",
+      "瀧川蓳",
+      "園田ひなの",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
+  },
+  {
+    "id": 308236,
+    "IDcode": "HSODA-092",
+    "title": "脱いだら凄い豪快肝っ玉母ちゃんに勃起バレしてしまい、口説いたら女になったかーちゃんと種付けセックス 工藤ゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "HUNTER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-092"
+  },
+  {
+    "id": 518354,
+    "IDcode": "HSR-009",
+    "title": "秘藏！素人OO社團的真相 FILE",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/69110e482a997527cfd899d2/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSR-009"
+  },
+  {
+    "id": 518371,
+    "IDcode": "HSR-015",
+    "title": "秘藏！素人OO社團的真相 FILE",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f27751fcdee36fa7fe162/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSR-015"
+  },
+  {
+    "id": 540849,
+    "IDcode": "HTB-05",
+    "title": "ヒロイン讨伐Vol.105 刑捜戦队セキュアレンジャー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250628/5dTy4YXB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-05"
+  },
+  {
+    "id": 548709,
+    "IDcode": "HTB-06",
+    "title": "ヒロイン讨伐Vol.106 仮面美圣女戦士エクリプス ～美圣女破壊阿鼻叫换～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230722/HxZJWkjc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-06"
+  },
+  {
+    "id": 540850,
+    "IDcode": "HTB-07",
+    "title": "ヒロイン讨伐Vol.107 ～マグナピンク桃木爱奈 孤高の戦い～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250628/Jc2fYsSs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-07"
+  },
+  {
+    "id": 546504,
+    "IDcode": "HTB-08",
+    "title": "ヒロイン讨伐Vol.108 フォンテーヌ·セイントナイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240207/UrodahoJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-08"
+  },
+  {
+    "id": 525823,
+    "IDcode": "HTB-10",
+    "title": "ヒロイン讨伐Vol.110 阿仁丸戦队ジンジュウガー ジンバニーの咆哮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250327/Di1gZvGi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-10"
+  },
+  {
+    "id": 566914,
+    "IDcode": "HTB-11",
+    "title": "ヒロイン讨伐Vol.111 New Tales Ep_3.2.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250526/JWvk01Wb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB-11"
+  },
+  {
+    "id": 444352,
+    "IDcode": "HTB10",
+    "title": "ヒロイン討伐Vol.110阿仁丸戦隊ジンジュウガージンバニーの咆哮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250818-1/33b34041ccfb5e9b06280de9351a468c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB10"
+  },
+  {
+    "id": 532219,
+    "IDcode": "HTB10-110",
+    "title": "：阿仁丸战队仁铳牙兔女郎惨遭讨伐，淫荡咆哮汁液飞溅！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250824-1/4f0d772a4612bc0a96f7058ceeec40f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTB10-110"
+  },
+  {
+    "id": 568969,
+    "IDcode": "HTBM01",
+    "title": "变态性爱番号 女优空空化身爱欲天使 疯狂骑乘诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTBM01"
+  },
+  {
+    "id": 538909,
+    "IDcode": "HTD-001",
+    "title": "河北春菜- ねぇ先生、いっつもチヤホヤされてお高く留まってるアナタが毎日ボロ雑巾のようにイジめられてる仆の臭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241123/4Km0okFr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTD-001"
+  },
+  {
+    "id": 560267,
+    "IDcode": "HTD-002",
+    "title": "ねぇ先生、いっつもチヤホヤされてお高く留まってるアナタが毎日ボロ雑巾のようにイジめられてる仆の臭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240930/n2tpoj4Y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTD-002"
+  },
+  {
+    "id": 409939,
+    "IDcode": "HTDD-020",
+    "title": "通学痴漢電車 腰くだけ女子校生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e7347f3b7c929073bdd2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTDD-020"
+  },
+  {
+    "id": 546338,
+    "IDcode": "HTER-005",
+    "title": "高级SPAモニター骗しハメ中出し盗撮 5 M.Kさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240222/5gmeE8Qu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTER-005"
+  },
+  {
+    "id": 560268,
+    "IDcode": "HTER-007",
+    "title": "高级SPAモニター骗しハメ中出し盗撮 7（媚薬ver） M.Mさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240930/t5u4l7i6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTER-007"
+  },
+  {
+    "id": 591440,
+    "IDcode": "HTHD-140",
+    "title": "友达の母亲～最终章～ 山崎澄代",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "中文字幕",
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-140"
   },
   {
-    "id": 91729,
-    "IDcode": "HODV-21058",
-    "title": "レズ・オーガズム",
+    "id": 164830,
+    "IDcode": "HTHD-143",
+    "title": "友達の母親～最終章～ 白山葉子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "SM",
-      "女同性恋"
+      "熟女",
+      "中文字幕",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "2015-04-03",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "春原未来",
-      "小口田桂子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21058"
-  },
-  {
-    "id": 523880,
-    "IDcode": "HODV-21059",
-    "title": "壮絶発狂M调教！濒死の中出しセックス 浜崎真绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230202-1/11075cc002ff99a6b79af11a6c05ae9f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-143"
   },
   {
-    "id": 531678,
-    "IDcode": "HODV-21065",
-    "title": "脂ぎった中年男とのドロドロ性交 美月あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230210-1/352fdfac009f9189ffb9d4c4ceb39747.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21065"
-  },
-  {
-    "id": 219740,
-    "IDcode": "HODV-21067",
-    "title": "受人妻之托派遣好色女神-波多野結衣",
+    "id": 98050,
+    "IDcode": "HTHD-148",
+    "title": "友達の母親～最終章～ 長谷川ユリア",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/cf107abe2b5715537c5d99a7a3e5bc81.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21067"
-  },
-  {
-    "id": 567047,
-    "IDcode": "HODV-2108",
-    "title": "どうしようもなくエッチな美女。耻ずかしながらAVデビュ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-2108"
-  },
-  {
-    "id": 529930,
-    "IDcode": "HODV-21087",
-    "title": "ド変态ツアー2015夏 极上豊満ボディーの七草ちとせが本能のままにヤリ放题！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221129-1/dfc3a3e2dfd730f018faf9555fa72b7e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21087"
-  },
-  {
-    "id": 523852,
-    "IDcode": "HODV-21099",
-    "title": "‘え～っ！ぼ、仆の部屋に星空もあがやってきた！！’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220905-1/f43530e3a6a10bf6c26de85850461039.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21099"
-  },
-  {
-    "id": 81389,
-    "IDcode": "HODV-21107",
-    "title": "レズッチ！仲良しふたり組初めてのレズ共演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同接吻",
-      "第一人称摄影",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "2015-10-02",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "美泉咲",
-      "しずく"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21107"
-  },
-  {
-    "id": 531679,
-    "IDcode": "HODV-21109",
-    "title": "Super Idol Super Shot！！ ～カワイイ颜して凄まじい射精へ导くスーパーアイドル～ 爱须心亜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230217-1/b95e83afc9a2efa952cba9c235c7f3c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21109"
-  },
-  {
-    "id": 217975,
-    "IDcode": "HODV-21110",
-    "title": "M字痴女-神波多一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21110"
-  },
-  {
-    "id": 469790,
-    "IDcode": "HODV-21111",
-    "title": "自願被虐女 屁眼鮑魚兩穴內射調教 水原佐奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d95a21631cc64eb588a1df/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21111"
-  },
-  {
-    "id": 535891,
-    "IDcode": "HODV-21120",
-    "title": "_Aレズ・オーガズムPart1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21120"
-  },
-  {
-    "id": 98359,
-    "IDcode": "HODV-21141",
-    "title": "むきだし 生ハメ中出し本気セックス 上原亜衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "2016-02-05",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "上原亞衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21141"
-  },
-  {
-    "id": 536088,
-    "IDcode": "HODV-21150",
-    "title": "レズ・オーガズム かすみ果穂 春原未来",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21150"
-  },
-  {
-    "id": 100215,
-    "IDcode": "HODV-21154",
-    "title": "メスころがし 夏希みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "深喉",
-      "第一人称摄影",
-      "荡妇"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "2016-03-04",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "森林原人",
-      "鲛岛",
-      "夏希みなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21154"
-  },
-  {
-    "id": 540929,
-    "IDcode": "HODV-21191",
-    "title": "やりすぎ家庭教师精液をやたらに第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21191"
-  },
-  {
-    "id": 171281,
-    "IDcode": "HODV-21194",
-    "title": "妄想でムラムラしてるOL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250629-10/b02db4bc99b643103428e44db4790926.webp",
-    "actress": [
-      "水野朝陽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21194"
-  },
-  {
-    "id": 539316,
-    "IDcode": "HODV-21203",
-    "title": "中出し爱人契约 痴女でもドMでもイケる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21203"
-  },
-  {
-    "id": 533490,
-    "IDcode": "HODV-21204",
-    "title": "生ハメ中出し淫语痴女 见せつけおあずけお下劣セック",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21204"
-  },
-  {
-    "id": 526105,
-    "IDcode": "HODV-21206",
-    "title": "上京ヤンキーAV出演あゆな虹恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21206"
-  },
-  {
-    "id": 526104,
-    "IDcode": "HODV-21208",
-    "title": "_A初美沙希ベスト4时间vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21208"
-  },
-  {
-    "id": 533489,
-    "IDcode": "HODV-21212",
-    "title": "中出し寝取られ妻 ‘あなたに见られながらまたイキます…’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21212"
-  },
-  {
-    "id": 526103,
-    "IDcode": "HODV-21214",
-    "title": "メスころがしケツ穴＆オ○○コ2穴中出し调教南梨央奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21214"
-  },
-  {
-    "id": 100063,
-    "IDcode": "HODV-21222",
-    "title": "为了改善夫妻生活人妻-佐々木あき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
       "已婚妇女",
-      "多P",
-      "自慰",
-      "白天出轨",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21222"
-  },
-  {
-    "id": 539322,
-    "IDcode": "HODV-21232",
-    "title": "寝取られ人妻ドロドロ浓密SEX4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21232"
-  },
-  {
-    "id": 539314,
-    "IDcode": "HODV-21233",
-    "title": "2016年AV総决算 ザ・ベスト10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21233"
-  },
-  {
-    "id": 539323,
-    "IDcode": "HODV-21237",
-    "title": "佐々木あきベスト4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21237"
-  },
-  {
-    "id": 592111,
-    "IDcode": "HODV-21242",
-    "title": "[]妖精尾巴尾巴＆肛门塞！初玩菊花肏翻肉穴异次元高潮西条妃莉第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21242"
-  },
-  {
-    "id": 591445,
-    "IDcode": "HODV-21243",
-    "title": "[] フェアリーテイル しっぽ×アナルプラグ！黒猫の尻尾をアナルにぶっ刺したら急に発情しだした！欲しがるままに连続バーストアクメさせて中出し种付け 横山夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21243"
-  },
-  {
-    "id": 186804,
-    "IDcode": "HODV-21245",
-    "title": "用性感的身体作为奖励刺激复读生学习的家庭教师若菜奈央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21245"
-  },
-  {
-    "id": 72625,
-    "IDcode": "HODV-21266",
-    "title": "爱与酒与SEX-月本愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "烂醉如泥的",
-      "乳交",
+      "首次亮相",
       "纪录片",
-      "巨乳",
-      "企画",
-      "单体作品"
+      "中出",
+      "乱伦",
+      "熟女",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
+    "company": "熟女人妻最強廠",
+    "publish_date": "2018-01-18",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "鲛岛",
-      "月本爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21266"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-148"
   },
   {
-    "id": 71101,
-    "IDcode": "HODV-21270",
-    "title": "若菜奈央ベスト4時間",
+    "id": 470015,
+    "IDcode": "HTHD-149",
+    "title": "肏朋友她媽 ～最終章～ 三浦惠理子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "眼镜",
-      "4小时以上作品",
-      "内衣",
-      "制服"
+      "熟女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e15a944202f1478a23720180c69fa7af.jpg",
-    "actress": [
-      "若菜奈央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21270"
-  },
-  {
-    "id": 218550,
-    "IDcode": "HODV-21271",
-    "title": "色情和危险的关系-星奈あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd16ad006939637678613e/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-149"
   },
   {
-    "id": 534195,
-    "IDcode": "HODV-21284",
-    "title": "“邻の中出しムッチリおっぱい変态お姊さんがやってくる” 笹仓杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21284"
-  },
-  {
-    "id": 534194,
-    "IDcode": "HODV-21286",
-    "title": "悩杀ランジェリーナ 美国沙耶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21286"
-  },
-  {
-    "id": 71100,
-    "IDcode": "HODV-21296",
-    "title": "フェアリーテイル しっぽ×アナルプラグ お人好しな性格で可愛らしい見た目と相反してサセ子な乙女ちゃんはアナルプラグも断れないままなし崩し中出しされちゃう！ 杏璃さや",
+    "id": 469998,
+    "IDcode": "HTHD-150",
+    "title": "肏朋友她媽 ～最終章～ 小野幸子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "肛交",
-      "猫耳女"
+      "熟女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5eba747a5d0f0bbd08cdf48fcca32b2f.jpg",
-    "actress": [
-      "杏璃さや"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21296"
-  },
-  {
-    "id": 225256,
-    "IDcode": "HODV-21299",
-    "title": "痴女姐妹花-佐々木あき 花咲いあん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68be5a56735bb663f77334eb/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21299"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-150"
   },
   {
-    "id": 197709,
-    "IDcode": "HODV-21301",
-    "title": "公司女员工",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21301"
-  },
-  {
-    "id": 208039,
-    "IDcode": "HODV-21326",
-    "title": "依靠和中年大叔援交-瀬名きらり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21326"
-  },
-  {
-    "id": 526567,
-    "IDcode": "HODV-21327",
-    "title": "町内会のお祭りの帰りに浴衣のまま我が家に集まった近所の美人な奥様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221017-1/01864feb212846091debc491e7984e0e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21327"
-  },
-  {
-    "id": 70995,
-    "IDcode": "HODV-21331",
-    "title": "性感発育中のピュア女子○生 膣内開発で人生初の中イキ絶頂でハメ潮大噴射 皆月ひかる",
+    "id": 470057,
+    "IDcode": "HTHD-152",
+    "title": "肏朋友她媽 ～最終章～ 牧村彩香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "萝莉塔",
-      "水手服"
+      "熟女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/427a97075dcf33617e34d23a5d8ec981.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21331"
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b57a312cbbe464027fc246/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-152"
   },
   {
-    "id": 70952,
-    "IDcode": "HODV-21332",
-    "title": "素っぴん ホントの姫川ゆうな AVでまだ見せてないガチ性交",
+    "id": 470061,
+    "IDcode": "HTHD-153",
+    "title": "肏朋友她媽 ～最終章～ 小林慧",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "纪录片",
-      "萝莉塔",
-      "平胸"
+      "熟女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
-    ],
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9fbd0ee8783c7d3ceae028cc19844326.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b57ad02cbbe464027fc988/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-153"
+  },
+  {
+    "id": 470022,
+    "IDcode": "HTHD-154",
+    "title": "肏朋友她媽 ～最終章～ 中邑美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bbbed1a681bb640db931e1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-154"
+  },
+  {
+    "id": 77973,
+    "IDcode": "HTHD-159",
+    "title": "友達の母親～最終章～ 川上ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "熟女",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "姬川优奈"
+      "川上優",
+      "望月"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21332"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-159"
   },
   {
-    "id": 531663,
-    "IDcode": "HODV-21333",
-    "title": "射精管理はマネージャーに任せなさいっ！！ 若月まりあ",
+    "id": 77972,
+    "IDcode": "HTHD-160",
+    "title": "友達の母親～最終章～ 君嶋かほる",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "素人作品",
+      "熟女",
+      "戏剧",
+      "成熟的女人"
     ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220905-1/ff13b8b276950f7874b8e0be314a1e7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21333"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君嶋かほる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-160"
   },
   {
-    "id": 531664,
-    "IDcode": "HODV-21334",
-    "title": "超ミニスカ＆ニーハイ太ももの絶対领域からパンチラ尻 学校で一番小っちゃくて一番かわいいクラスメイト 桃尻かのん",
+    "id": 453001,
+    "IDcode": "HTHD-163",
+    "title": "幹朋友她媽 ～最終章～ 海藤瑞穗",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "H.M.P 芳友舍",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HMP_芳友舍",
-        "works_count": 596
-      }
+    "genres": [
+      "熟女"
     ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220915-1/a6154d524966cc5b03928434f294eb19.jpg",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/3463f636f3283757fac9833402004278.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21334"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-163"
   }
 ];

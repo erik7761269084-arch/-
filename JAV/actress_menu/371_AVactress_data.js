@@ -338,7 +338,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082534824824_18893_thumbnail.webp",
       "actress": [

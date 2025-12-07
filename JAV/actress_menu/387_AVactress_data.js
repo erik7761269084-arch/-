@@ -1019,7 +1019,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/39959f579c99f16e9c4ff5f91493dbf4.jpg",
       "actress": [
@@ -1841,7 +1841,7 @@ window.actressData = {
     {
       "id": 67026,
       "IDcode": "ECB-116",
-      "title": "[]早泄君家里的早泄狩猎 大浦真奈美 ECB[]早泄君家里的早泄狩猎 大浦真奈美",
+      "title": "早泄君家里的早泄狩猎 大浦真奈美 ECB早泄君家里的早泄狩猎 大浦真奈美",
       "year": "",
       "country": "",
       "genre": "",
@@ -1917,7 +1917,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e03da979f1ac4ec48bc09d/cover.jpg",
       "actress": [

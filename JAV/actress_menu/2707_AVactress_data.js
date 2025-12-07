@@ -53,7 +53,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "SUPER MODEL",
       "publish_date": "",
       "cover_url": "",
       "actress": [

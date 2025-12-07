@@ -1,642 +1,625 @@
 window.PAGE_DATA = [
   {
-    "id": 224543,
-    "IDcode": "SCPX-362",
-    "title": "我的继媳妇已经再婚",
+    "id": 409900,
+    "IDcode": "SDMS-098",
+    "title": "ぬきたい顔",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/52fae3c9a91621e009d1878e3dca20bb.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7ec631eb0592de630bae/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-362"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-098"
   },
   {
-    "id": 76863,
-    "IDcode": "SCPX-365",
-    "title": "絶対にヤれる本番交渉術！人妻回春マッサージ",
+    "id": 409949,
+    "IDcode": "SDMS-173",
+    "title": "調教完了。 中出し陵辱病棟[牝奴隷ナース誕生編]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7eb1d9550e292a782398f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-173"
+  },
+  {
+    "id": 218318,
+    "IDcode": "SDMS-407",
+    "title": "大家族石川家編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e4d82ee3176406dd08b708dd4581d6af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-407"
+  },
+  {
+    "id": 409772,
+    "IDcode": "SDMS-428",
+    "title": "触手アクメ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7f51779f1ac4ec45b37f0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-428"
+  },
+  {
+    "id": 409763,
+    "IDcode": "SDMS-466",
+    "title": "触手アクメ 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c91cf6d6fbef4e90ae793e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-466"
+  },
+  {
+    "id": 409731,
+    "IDcode": "SDMS-543",
+    "title": "Black Sod 女性アスリートアクメ地獄 VOL.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce350f79f1ac4ec4657b19/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-543"
+  },
+  {
+    "id": 409718,
+    "IDcode": "SDMS-558",
+    "title": "女性アスリートアクメ地獄　VOL.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfa5c8eb67774efbab8bcf/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-558"
+  },
+  {
+    "id": 530569,
+    "IDcode": "SDMS-584",
+    "title": "兽人钢棒极致 - 泉まりん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250214-1/b09882220a13e32ee4f549a79333ea2e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-584"
+  },
+  {
+    "id": 550691,
+    "IDcode": "SDMS-593",
+    "title": "触手燕子顶点 - 真田春香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250214-1/4d80c57a1c91a5eca4ff84af2545f70a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-593"
+  },
+  {
+    "id": 409635,
+    "IDcode": "SDMS-656",
+    "title": "痴漢エステティシャン10人隊がイクっ！！ -R-E-T-U-R-N-S",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a294eb67774efbb857ef/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-656"
+  },
+  {
+    "id": 223299,
+    "IDcode": "SDMS-734",
+    "title": "触手人-神谷莉乃 浅冈沙希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-734"
+  },
+  {
+    "id": 409572,
+    "IDcode": "SDMS-742",
+    "title": "長澤鶫 香澄果穂 2片裝8小時完整精選",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbc601ce5a404e9bc10265/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-742"
+  },
+  {
+    "id": 531969,
+    "IDcode": "SDMS-839",
+    "title": "把女人当家禽一样集中养殖，男人需要的时候购买回家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250120-1/0afd7fcf2ceb414f113794173075f1db.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-839"
+  },
+  {
+    "id": 550716,
+    "IDcode": "SDMS-846",
+    "title": "'09秋季SOD女社员（羞耻）腮红节",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250225-1/4722a8de03467f28b7ff80bd23261ffb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-846"
+  },
+  {
+    "id": 409504,
+    "IDcode": "SDMS-879",
+    "title": "超高級會員制 美臀俱樂部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e3b14fbf45974ea6154158/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMS-879"
+  },
+  {
+    "id": 521456,
+    "IDcode": "SDMT-039",
+    "title": "波多野结衣- 超高级王様ゲーム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250623/i9LfqQkj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-039"
+  },
+  {
+    "id": 224106,
+    "IDcode": "SDMT-043",
+    "title": "告诉我们为什么流眼泪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-043"
+  },
+  {
+    "id": 459061,
+    "IDcode": "SDMT-043-C",
+    "title": "请告诉我流泪的理由… 早乙女露依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250404-1/22a310d55c888dda3526485ff5e2b687.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-043-C"
+  },
+  {
+    "id": 516511,
+    "IDcode": "SDMT-055",
+    "title": "R- 她們絕對不可能××！！ 機器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fc99011572686be7a4e1d5/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-055"
+  },
+  {
+    "id": 105731,
+    "IDcode": "SDMT-096",
+    "title": "和已经结婚的人妻-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "苗条",
-      "偷窥",
-      "乳液",
-      "业余",
-      "中出",
-      "纪录片",
-      "素人作品",
-      "巨乳",
-      "恋乳癖"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8402506de9917b853a556e685dd18278.jpg",
-    "actress": [
-      "水川蓳",
-      "春菜华",
-      "君岛美绪",
-      "真城杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-365"
-  },
-  {
-    "id": 224542,
-    "IDcode": "SCPX-367",
-    "title": "和我朋友的母亲单独在一起",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/7eed9e6f798ce475e94e079157c0bc30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-367"
-  },
-  {
-    "id": 578920,
-    "IDcode": "SCPX-368",
-    "title": "夜勤明けの解放感でHモードになった新人ナースの性欲マジ半端无い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-368"
-  },
-  {
-    "id": 76789,
-    "IDcode": "SCPX-371",
-    "title": "微笑店員",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "中出",
-      "巨乳",
-      "各种职业",
-      "女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4c1f19072af1ee579e9c82b5579676c.jpg",
-    "actress": [
-      "星咲ひな",
-      "REN(月乃なつき)",
-      "南なつき",
-      "黒石ジュリア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
-  },
-  {
-    "id": 165402,
-    "IDcode": "SCPX-373",
-    "title": "我意外地与一位大胸的同事同住一室",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/40f06d14de67dcbb2e0c578693002f39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-373"
-  },
-  {
-    "id": 547528,
-    "IDcode": "SCPX-374A",
-    "title": "[第1集]“ねぇ、お姊ちゃんに兴奋したの？”姊の発育したカラダに兴奋した弟の勃起チ○ポを可爱く不悯に思った姊が取った行动は近亲相奸発情した姊のリードで姐弟SEX中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191112-1/5a294137a44bce2d0f70e81b487dafc4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-374A"
-  },
-  {
-    "id": 165403,
-    "IDcode": "SCPX-375",
-    "title": "某都内で流行の【繁華街】裏の歩き方",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-375"
-  },
-  {
-    "id": 95037,
-    "IDcode": "SCPX-382",
-    "title": "「うちの嫁とヤッたんだから お前の嫁とヤラせろ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "白天出轨",
-      "中文字幕",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f08bc3732f45af6f6101fe11fc7625fc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-382"
-  },
-  {
-    "id": 165405,
-    "IDcode": "SCPX-385",
-    "title": "「こんな母でごめんなさい…。」 私、あなたの連れ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/88b0d73b6b6564870a37ab4f7e610d57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-385"
-  },
-  {
-    "id": 533840,
-    "IDcode": "SCPX-386",
-    "title": "彼氏とケンカして部屋着のまま家を追い出された邻の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-386"
-  },
-  {
-    "id": 83158,
-    "IDcode": "SCPX-388",
-    "title": "「息子とのSEXを残しておきたい…。」母と息子の近親相姦メモリアル撮影が一転息子より相当グロい極太デカチンを目の前にした母親が我が子の目の前で…。寝取らせ調査",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "第一人称摄影",
-      "乱伦",
-      "白天出轨",
-      "情侣",
-      "中出",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/6c0dd317333e2937b0f40f079acc8e8f.jpg",
-    "actress": [
-      "七海雛",
-      "音海里奈",
-      "新海なお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-388"
-  },
-  {
-    "id": 516060,
-    "IDcode": "SCPX-390",
-    "title": "身為客人的我在試衣間讓女店員看到",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f87d3bdbf24d4ed3430305/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-390"
-  },
-  {
-    "id": 97721,
-    "IDcode": "SCPX-391",
-    "title": "優しい姉とモテない僕が禁断の近親相姦SEX 子供出来ちゃう生中出し 12名5時間スペシャル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "乱伦",
-      "中出",
-      "妹妹",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2020-04-24",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-391"
-  },
-  {
-    "id": 76875,
-    "IDcode": "SCPX-394",
-    "title": "你在偷我姑姑的内衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "已婚妇女",
-      "内衣",
-      "中出",
-      "巨乳",
-      "处男"
+      "羞耻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8ca1dceaf5072b2586a4b71e816fb4fd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "伊吹彩",
-      "爱乃零",
-      "豊田爱菜",
-      "高树あすか"
+      "波多野结衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-096"
   },
   {
-    "id": 214353,
-    "IDcode": "SCPX-400",
-    "title": "我已经哄好了我的小姨子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-400"
-  },
-  {
-    "id": 214360,
-    "IDcode": "SCPX-403",
-    "title": "喜欢年长的女人",
+    "id": 224168,
+    "IDcode": "SDMT-107",
+    "title": "思春期の女子校生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/fc14445d96677339c2990d842651748e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-403"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-107"
   },
   {
-    "id": 214147,
-    "IDcode": "SCPX-409",
-    "title": "学校里经常欺负我的女孩",
+    "id": 524336,
+    "IDcode": "SDMT-130",
+    "title": "人间家畜牧场 3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250120-1/8e74377539b9604405259a0a6422c60d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-409"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-130"
   },
   {
-    "id": 213894,
-    "IDcode": "SCPX-411",
-    "title": "母亲和妹妹听从我的吩咐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-411"
-  },
-  {
-    "id": 214144,
-    "IDcode": "SCPX-415",
-    "title": "脱衣舞",
+    "id": 574580,
+    "IDcode": "SDMT-134",
+    "title": "手コキエアラインSP",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-415"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-134"
   },
   {
-    "id": 203873,
-    "IDcode": "SCPX-427",
-    "title": "老婆的妹妹",
+    "id": 516454,
+    "IDcode": "SDMT-156",
+    "title": "集體霸凌班級 雫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902873479f1ac4ec4c9f561/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-156"
+  },
+  {
+    "id": 516472,
+    "IDcode": "SDMT-167",
+    "title": "2010 夏日 40名SOD女社",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69011a8fd6fbef4e90156e2b/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-167"
+  },
+  {
+    "id": 595111,
+    "IDcode": "SDMT-213",
+    "title": "ＪＵＬＩＡ 露出×羞耻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4f014dab2df2d2195b0f2b1fbe8a239f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-213"
+  },
+  {
+    "id": 81396,
+    "IDcode": "SDMT-268",
+    "title": "おっぱいが3つあるオンナノコ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "其他恋物癖",
+      "企画",
+      "女大学生",
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
+    "company": "TMA",
+    "publish_date": "2010-11-18",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐藤みく"
     ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-268"
+  },
+  {
+    "id": 556941,
+    "IDcode": "SDMT-286",
+    "title": "JULIA-chan 你为什么不带毛巾进入男士浴室？难的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/efbcd3f9baefbd3a056da86cba53c80d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-286"
+  },
+  {
+    "id": 516372,
+    "IDcode": "SDMT-300",
+    "title": "50根勃起大屌摩擦現役偶像！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d2e6571eb543bb0ee8d16/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-300"
+  },
+  {
+    "id": 516364,
+    "IDcode": "SDMT-309",
+    "title": "集體霸凌班級 純子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f5e6e71eb543bb0f3377a/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-309"
+  },
+  {
+    "id": 224309,
+    "IDcode": "SDMT-312",
+    "title": "受女性欢迎的第一大温泉的全貌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-427"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-312"
   },
   {
-    "id": 79652,
-    "IDcode": "SCPX-431",
-    "title": "押しに弱そうなショップ店員が超タイプ パンツの裾上げで試着室に2人っきりでフル勃起 自慢のデカチンから目を離せず「お客様…困ります…ここはそんな所じゃ…。」って言ったくせに…。",
+    "id": 209952,
+    "IDcode": "SDMT-316",
+    "title": "妻子班主任-雨宮琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-316"
+  },
+  {
+    "id": 531965,
+    "IDcode": "SDMT-339",
+    "title": "人间家畜牧场 SUPER STAR 大沢美加",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250225-1/f69e3a55d92da3bf80a9d5a393d74002.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-339"
+  },
+  {
+    "id": 217343,
+    "IDcode": "SDMT-348",
+    "title": "極痴女-一ノ瀬アメリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-348"
+  },
+  {
+    "id": 222449,
+    "IDcode": "SDMT-385",
+    "title": "年轻AV男优哥哥回忆录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-385"
+  },
+  {
+    "id": 222166,
+    "IDcode": "SDMT-444",
+    "title": "美爆乳生徒会長女子校生-長澤あずさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "各种职业",
-      "业余",
-      "中出",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2021-08-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/15ab276aa6eefcdf9c07f66eb5579df1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-431"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-444"
   },
   {
-    "id": 215506,
-    "IDcode": "SCPX-434",
-    "title": "护士是我喜欢的类型",
+    "id": 177960,
+    "IDcode": "SDMT-489",
+    "title": "痴汉妇产科医师10人队内射治疗男朋友只能在一旁看着",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/e0c2f5f54886ac7917bb11d9da9b6ac1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/07/10d594f5b3504edd7f8709c9693d8904.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-434"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-489"
   },
   {
-    "id": 216263,
-    "IDcode": "SCPX-436",
-    "title": "她的公公把她吻得死去活来",
+    "id": 574579,
+    "IDcode": "SDMT-515",
+    "title": "ロリっ娘制服女学生がカメラ目线で骂りながら手コキしてきて",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-436"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-515"
   },
   {
-    "id": 216262,
-    "IDcode": "SCPX-440",
-    "title": "你妻子的奶子",
+    "id": 526791,
+    "IDcode": "SDMT-549",
+    "title": "木下若菜・北川瞳・前田优希・哀川りん×逆ナンパ@マジックミラー号",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdmt00549pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-440"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-549"
   },
   {
-    "id": 86161,
-    "IDcode": "SCPX-441",
-    "title": "在我和她做爱的时候",
+    "id": 567686,
+    "IDcode": "SDMT-611",
+    "title": "マジックミラー号妇人科検诊车で主妇の‘性’态调查",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "羞耻",
-      "出轨",
-      "白天出轨",
-      "中出"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/fe01fe70f56f53a454e80b6f8ae85285.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-441"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-611"
   },
   {
-    "id": 217511,
-    "IDcode": "SCPX-444",
-    "title": "诱人的大屁股妈妈",
+    "id": 224540,
+    "IDcode": "SDMT-624",
+    "title": "我的妹妹不可能在风俗店里工作",
     "year": "",
     "country": "",
     "genre": "",
@@ -644,323 +627,76 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-444"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-624"
   },
   {
-    "id": 80733,
-    "IDcode": "SCPX-445",
-    "title": "本当にあった近親相姦 久しぶりの母はオンナ 成長した息子はオトコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "乱伦",
-      "中出",
-      "口交",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2022-03-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/2d8c32bcd279ddb24a0a17eae373b173.jpg",
-    "actress": [
-      "塩见彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-445"
-  },
-  {
-    "id": 86126,
-    "IDcode": "SCPX-449",
-    "title": "嫩肤和洗体美学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乳液",
-      "巨乳",
-      "偷窥"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/02d2c863fcdfc5d99645d30cd781c8b4.jpg",
-    "actress": [
-      "宝生めい",
-      "浅仓真凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-449"
-  },
-  {
-    "id": 219364,
-    "IDcode": "SCPX-452",
-    "title": "母亲和儿子一起看色情片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-452"
-  },
-  {
-    "id": 67312,
-    "IDcode": "SCPX-453",
-    "title": "发起的突然之吻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "新娘，年轻妻子",
-      "白天出轨",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "爱乃零"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-453"
-  },
-  {
-    "id": 69150,
-    "IDcode": "SCPX-455",
-    "title": "把她误认为是他的母亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "已婚妇女",
-      "乱伦",
-      "立即口交",
-      "中出",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-455"
-  },
-  {
-    "id": 89567,
-    "IDcode": "SCPX-456",
-    "title": "寝取られドキュメント夏祭り帰り彼氏＆彼女＋彼友での宅飲みパが盛り上がり つい…彼氏が酔い潰れてしまうと寝てる彼氏の隣で酔った彼女が浮気する確率120％",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "口交",
-      "情侣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2022-08-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-456"
-  },
-  {
-    "id": 89598,
-    "IDcode": "SCPX-458",
-    "title": "優しい現役保育士さんにお願いしてみました。 「童貞君の皮かむりチ○ポを洗ってくれませんか？」 勃起が抑えきれない童貞チ○ポを見捨てれない心優しい保母さんが自ら進んで中出しを許した筆おろしSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "中出",
-      "猎艳",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2022-09-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "中園めいな",
-      "高梨有纱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-458"
-  },
-  {
-    "id": 68518,
-    "IDcode": "SCPX-460",
-    "title": "与顾客在试衣间发生性关系",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "中出",
-      "女上位",
-      "偷窥"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250411-1/19604d5a6886a9a2969b6f4e9e023b72.jpg",
-    "actress": [
-      "高梨有纱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-460"
-  },
-  {
-    "id": 69317,
-    "IDcode": "SCPX-461",
-    "title": "一对夫妇正在一起进行美容护理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230430/scpx00461pl.jpg",
-    "actress": [
-      "真田さな",
-      "篠原りこ",
-      "弘崎ゆみな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-461"
-  },
-  {
-    "id": 97175,
-    "IDcode": "SCPX-464",
-    "title": "赤面ノンケ女子を完全レズ覚醒させる！！いやらしい女同士の濃厚レズエステ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "女同接吻",
-      "业余",
-      "女同",
-      "女同性恋",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b438365fdaf263a25cc874/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-464"
-  },
-  {
-    "id": 167302,
-    "IDcode": "SCPX-465",
-    "title": "连续射精的美学效果",
+    "id": 526385,
+    "IDcode": "SDMT-743",
+    "title": "（ド）M・（ド）スケベ・（ド）変态“覚醒”SHOWライブ 现役女性マジシャン AYUM",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230714/scpx465pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-465"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-743"
   },
   {
-    "id": 549604,
-    "IDcode": "SCPX-467",
-    "title": "固定バイブ羞耻アクメ 人妻モデルに“下着に挟むだけ…”のバイブをどさくさ纷れにズボっと挿入したらTバックで固定さ！",
+    "id": 533833,
+    "IDcode": "SDMT-831",
+    "title": "_A AV女优即ズボ选手権！！ 何も知らずに来た",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-831"
+  },
+  {
+    "id": 533832,
+    "IDcode": "SDMT-841",
+    "title": "“寝取られ愿望” 爱する妻が目の前の他人チ○ポに戸惑い！欲情！生中出し！！自慢の妻をハダカで男汤へ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-841"
+  },
+  {
+    "id": 533831,
+    "IDcode": "SDMT-844",
+    "title": "B AV女优の姊VS弟 西条るり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-844"
+  },
+  {
+    "id": 533830,
+    "IDcode": "SDMT-857",
+    "title": "地方でウワサの美人妻を旦那に内绪でこっそりAV出演させます 宇都宫在住人妻・Hカップ・美绪33歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -968,43 +704,16 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://pic54.anzise.com/pic/20230520/ff1567b162f44019b91260f231078a6a/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-467"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-857"
   },
   {
-    "id": 549375,
-    "IDcode": "SCPX-469",
-    "title": "【盗撮】真面目な男性客をワザと勃起させて喜ぶ确信犯的诱惑を仕挂けてくるメンエス嬢はマジ天使！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230420/AMyr7YPW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-469"
-  },
-  {
-    "id": 225225,
-    "IDcode": "SCPX-471",
-    "title": "意外的两个人与朋友的母亲",
+    "id": 217046,
+    "IDcode": "SDMT-874",
+    "title": "挚爱的儿子和两个孩子的母亲",
     "year": "",
     "country": "",
     "genre": "",
@@ -1012,395 +721,31 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-471"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-874"
   },
   {
-    "id": 564417,
-    "IDcode": "SCPX-472",
-    "title": "ご无沙汰奥様の発情センズリ鉴赏",
+    "id": 217258,
+    "IDcode": "SDMT-881",
+    "title": "家族旅行中-篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230515/J3YfmjiP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-472"
-  },
-  {
-    "id": 89571,
-    "IDcode": "SCPX-473",
-    "title": "初対面のウブな素人男女が密着添い寝リフレにチャレンジ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "素人",
-      "业余",
-      "中出",
-      "口交",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-05-23",
-    "cover_url": "https://xing.sex8sex833.com/20251010/y3eOLkbd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-473"
-  },
-  {
-    "id": 89573,
-    "IDcode": "SCPX-475",
-    "title": "女友達が突然訪問して来て「ちょっと雨宿りさせてよー。」全身びしょ濡れ下着スケスケ 安アパートで二人っきりで過ごしたゲリラ豪雨の夜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "业余",
-      "中出",
-      "口交",
-      "猥亵穿着"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "まーち",
-      "あすお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-475"
-  },
-  {
-    "id": 89570,
-    "IDcode": "SCPX-476",
-    "title": "メンエス講習 裏オプ教えちゃいましたwww",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "业余",
-      "中出",
-      "手淫",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "まーち",
-      "あすお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-476"
-  },
-  {
-    "id": 89583,
-    "IDcode": "SCPX-477",
-    "title": "女子大学＆専門学校に通う地方出身のウブな素人娘さんにお願いしました！！ラップ越しならクンニやキス出来ませんか？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "羞耻",
-      "素人",
-      "舔阴",
-      "中出",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-07-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-477"
-  },
-  {
-    "id": 89581,
-    "IDcode": "SCPX-479",
-    "title": "初めての責め体験でウブなのにノリ最高の女子大生たちがM男君のリアクションに連鎖発情しちゃってどスケベ痴女覚醒！！全身の性感帯を刺激してチ○ポを徹底的にエロ遊び倒したら騎乗位ズボ挿入で気持ちイイ所に亀頭グリグリ擦りつけ中出しするまで終わらない生ハメSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "荡妇",
-      "M男",
-      "业余",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-08-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-479"
-  },
-  {
-    "id": 89597,
-    "IDcode": "SCPX-480",
-    "title": "偶然目にして思わずガン見していると勃起を誘発され理性が狂ってしまう無防備なパンチラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乱伦",
-      "美少女电影",
-      "中出",
-      "妹妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-08-22",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffd1b97de28f4edeab99e5/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-480"
-  },
-  {
-    "id": 89582,
-    "IDcode": "SCPX-481",
-    "title": "美尻トレーニングで鍛えた姉妹のマ●コは締りが最高の超名器 絶対不可避の即ズボ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "巨大屁股",
-      "乱伦",
-      "中出",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-09-26",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa93ced6fbef4e9008e786/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-481"
-  },
-  {
-    "id": 89568,
-    "IDcode": "SCPX-482",
-    "title": "近親相姦 義父と娘 「おとうさんダメです…」 6人収録250分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "乱伦",
-      "新娘，年轻妻子",
-      "白天出轨",
-      "中出",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-09-26",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9263d6fbef4e9008e764/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-482"
-  },
-  {
-    "id": 89586,
-    "IDcode": "SCPX-483",
-    "title": "寝取られドキュメント彼氏＆彼女＋彼友での宅飲みパが盛り上がり つい…彼氏が酔い潰れてしまうと寝てる彼氏の隣で酔った彼女が浮気する確率120％",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "偷窥",
-      "情侣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/7a6174a02ad2402b224e59967747b596.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-483"
-  },
-  {
-    "id": 89585,
-    "IDcode": "SCPX-484",
-    "title": "「おばさんで興奮しないで…」女を忘れた保険のおばさんが1人暮らし男子と密室で2人っきり自分で発情した勃起チ〇ポで迫られたらご無沙汰エロ展開に内心うれしくて赤面照れつつヤラせてくれた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "中出",
-      "成熟的女人",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/c9e28a8476d052abd928d0945c38c1da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-484"
-  },
-  {
-    "id": 89572,
-    "IDcode": "SCPX-485",
-    "title": "優しい現役保育士さんに再びお願いしてみました。 「童貞君の皮かむりチ〇ポを洗ってくれませんか？」 勃起が抑えきれない童貞チ〇ポを見捨てれない心優しい保母さんが自ら進んで中出しを許した筆おろしSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "猎艳",
-      "处男",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20231208/4jq7mloN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-485"
-  },
-  {
-    "id": 89569,
-    "IDcode": "SCPX-486",
-    "title": "普通のお店として紹介され風俗じゃ無いマッサージ店のはずが制限時間いっぱい裏オプで噂の回春エステは中出しOK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "荡妇",
-      "4小时以上作品",
-      "中出",
-      "手淫",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20231208/N40y3S8s/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-486"
-  },
-  {
-    "id": 208213,
-    "IDcode": "SCPX-487",
-    "title": "故意露出乳沟和美尻是在诱惑我吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-487"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-881"
   },
   {
-    "id": 208215,
-    "IDcode": "SCPX-488",
-    "title": "把女友母亲错当成女友",
+    "id": 216321,
+    "IDcode": "SDMT-893",
+    "title": "同学母亲是一个性教育的材料",
     "year": "",
     "country": "",
     "genre": "",
@@ -1408,1349 +753,821 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-488"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-893"
   },
   {
-    "id": 550334,
-    "IDcode": "SCPX-489",
-    "title": "母と一绪にAV鉴赏してて 目の前でリアルに仆の勃起チ〇ポを见た母は エグい程兴奋してヤバい近亲相奸に発展しちゃいました。",
+    "id": 578921,
+    "IDcode": "SDMT-905",
+    "title": "SOFT ON DEMAND 年度末SOD女子社员（耻）お仕事 赤裸々（秘）决算大报告会",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-489"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-905"
   },
   {
-    "id": 546667,
-    "IDcode": "SCPX-490",
-    "title": "盗撮 宅饮み中寝てしまった彼氏の38cm 邻で口说いて寝取って中出しSEXしちゃいました",
+    "id": 521493,
+    "IDcode": "SDMT-906-CD1",
+    "title": "波多野结衣- 触手アクメ 13",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250623/JHdsQLMO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-906-CD1"
+  },
+  {
+    "id": 521494,
+    "IDcode": "SDMT-906-CD2",
+    "title": "波多野结衣- 触手アクメ 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250623/xLvZwKZu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-906-CD2"
+  },
+  {
+    "id": 524582,
+    "IDcode": "SDMT-915",
+    "title": "在他心爱的新娘身上睡着的家伙的妻子......“回去睡觉！”返回5次真正的阴道射精！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/08/80594_cover_2025-09-08_225555.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-915"
+  },
+  {
+    "id": 217423,
+    "IDcode": "SDMT-916",
+    "title": "我想学习性爱的感觉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/450a2efb8511fac0b0a724f923fdbfe5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-916"
+  },
+  {
+    "id": 518394,
+    "IDcode": "SDMT-925",
+    "title": "媽媽的味道 3 恭代（假名） 4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d13f42ca07a2826e04b16/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-925"
+  },
+  {
+    "id": 536047,
+    "IDcode": "SDMT-926",
+    "title": "上原亜衣ちゃんとレズれる！DVD",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-490"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-926"
   },
   {
-    "id": 105370,
-    "IDcode": "SCPX-491",
-    "title": "下屬老婆走光露內褲忍不住插入連續高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "白天出轨",
-      "中出",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-491"
-  },
-  {
-    "id": 561559,
-    "IDcode": "SCPX-492",
-    "title": "赤面人妻モニタリング 优しい子持ちの奥様にアダルトグッズのカタログ撮影バイト中こっそりバイブで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240315/ud2FlHLO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-492"
-  },
-  {
-    "id": 545914,
-    "IDcode": "SCPX-493",
-    "title": "マッサージエステ嬢隠し撮り Vol.1",
+    "id": 539876,
+    "IDcode": "SDMT-938",
+    "title": "北海道・盛冈・仙台・静冈・大阪・博多・熊本・冲縄 地方で见つけたあなたの身近な一般女性をAV出演させます！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240331/4AozOXvF/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240308/1sdmt938pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-493"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-938"
   },
   {
-    "id": 545915,
-    "IDcode": "SCPX-494",
-    "title": "もう目が离せない！！ 试着室で2人っきりの状态で裾上げ中に客の勃起チ〇ポを目の前で见てしまった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240331/eGFNPglq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-494"
-  },
-  {
-    "id": 545658,
-    "IDcode": "SCPX-496",
-    "title": "※ノーカット 盗撮 人妻整体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240426/WcGCnUOp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-496"
-  },
-  {
-    "id": 104939,
-    "IDcode": "SCPX-497",
-    "title": "男女友情监测",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "偷窥",
-      "情侣",
-      "业余",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240528-1/1abdf8f95f1c0e611ea50dd856fdfebd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-497"
-  },
-  {
-    "id": 94173,
-    "IDcode": "SCPX-498",
-    "title": "お触り禁止本番NGのエステ店に在籍する神メンエス嬢たちの生挿入生中出し 裏オプ完全盗撮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "偷窥",
-      "中出",
-      "恋乳癖",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/f4d8049e6ab1c1b2bc12627fba25f800.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-498"
-  },
-  {
-    "id": 94184,
-    "IDcode": "SCPX-499",
-    "title": "这个大鸡巴感觉太棒了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d85097d6fbef4e90cd377a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-499"
-  },
-  {
-    "id": 94193,
-    "IDcode": "SCPX-500",
-    "title": "アパート連れ込み 年頃カップルが盛り上がる生ハメSEX 2枚組330分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "4小时以上作品",
-      "情侣",
-      "舔阴",
-      "中出",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/bf5adcaf070c239477f6057b147808f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-500"
-  },
-  {
-    "id": 94171,
-    "IDcode": "SCPX-501",
-    "title": "「パパとママには絶対に秘密だからね…」姉妹×兄弟がバレちゃいけない秘密の近親相姦中出しエッチBEST20",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "4小时以上作品",
-      "巨乳",
-      "妹妹",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/9e08eb1d0ce8ea60ac1381aff314a3ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-501"
-  },
-  {
-    "id": 94158,
-    "IDcode": "SCPX-502",
-    "title": "美尻トレーニングで鍛えた姉のマ●コは締りが最高の超名器 絶対不可避の即ズボ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "乱伦",
-      "中出",
-      "恋乳癖",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dd0d49bf45974ea6098e97/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-502"
-  },
-  {
-    "id": 94153,
-    "IDcode": "SCPX-503",
-    "title": "姉のヤリマン友達と2人きり 童貞の僕を見透かして「私とヤンない？」と誘惑挑発 断れないラッキー神展開SEX筆おろし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "美少女电影",
-      "女生",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-06-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241021-1/ab9bbff837516d487316d82bd9b3c1b3.jpg",
-    "actress": [
-      "河合乃乃花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-503"
-  },
-  {
-    "id": 94150,
-    "IDcode": "SCPX-504",
-    "title": "昔ボクの事をイジめてたヤンキー同級生と風俗で再会 こっそりゴム外してリベンジ中出ししちゃいました！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "女生",
-      "偷窥",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-07-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/dc547ba510dcb69c53e15b674059f20a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-504"
-  },
-  {
-    "id": 94190,
-    "IDcode": "SCPX-506",
-    "title": "お触り禁止本番NGのエステ店に在籍する神メンエス嬢たちの生挿入生中出し 裏オプ完全●撮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "偷窥",
-      "中出",
-      "恋乳癖",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-07-23",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241021-1/1b18781d2858428a4e3e36ac297dc830.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-506"
-  },
-  {
-    "id": 544602,
-    "IDcode": "SCPX-507",
-    "title": "初めての责め体験でウブなのにノリ最高の女子大生たちがM男君のリアクションに连锁発情しちゃってど",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241013/Gry8e7Cn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-507"
-  },
-  {
-    "id": 544601,
-    "IDcode": "SCPX-508",
-    "title": "本当にあったNTRドキュメント 会社の上司に见られた妻の絶品フェラ尻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241013/m6dNyfUr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-508"
-  },
-  {
-    "id": 493144,
-    "IDcode": "SCPX-509",
-    "title": "我问了一位女大学生。这不是猫，所以没关系！ ？让我舔你的肛门好吗？ X 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/89f5dfe08c2dbd7ef03ef47ea09a0252.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-509"
-  },
-  {
-    "id": 493173,
-    "IDcode": "SCPX-510",
-    "title": "邻居女士因为我的勃起而变得性欲 7 人 340 分钟 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/c4c58eac1c9dcf22aa736ab3329c2bf8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-510"
-  },
-  {
-    "id": 454212,
-    "IDcode": "SCPX-511",
-    "title": "内裤走光诱惑 ♯翘臀 ♯妹妹 ♯无套 ♯中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba8d6a4898416418389014/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-511"
-  },
-  {
-    "id": 77819,
-    "IDcode": "SCPX-512",
-    "title": "义母与儿子的巨根-真木今日子",
+    "id": 81382,
+    "IDcode": "SDMT-948",
+    "title": "安静的女学生来书店",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "中出",
-      "乱伦",
-      "口交"
+      "药物",
+      "高中女生",
+      "企画",
+      "立即口交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "真木今日子"
+      "西川りおん",
+      "吉美さあや",
+      "入江爱美",
+      "山本美羽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-512"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-948"
   },
   {
-    "id": 550588,
-    "IDcode": "SCPX-513",
-    "title": "エロ兴味津々で超ノリが良い素人女子大生にお愿いしました。クンニ我慢チャレンジ1000ペロ耐えた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250111/bOZDhez9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-513"
-  },
-  {
-    "id": 550589,
-    "IDcode": "SCPX-514",
-    "title": "优しい现役保育士さんにお愿いしてみました。“童贞君の皮かむりチ○ポを洗ってくれませんか？”童贞",
+    "id": 217190,
+    "IDcode": "SDMT-953",
+    "title": "世田谷区在住",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250111/3eNIKY5i/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-514"
-  },
-  {
-    "id": 74279,
-    "IDcode": "SCPX-515",
-    "title": "对处男很温柔的天使护士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "护士",
-      "中出",
-      "巨乳",
-      "手淫",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-515"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-953"
   },
   {
-    "id": 9667,
-    "IDcode": "SCPX-516",
-    "title": "我问了保险小姐我要签一份合同",
+    "id": 586532,
+    "IDcode": "SDMT-960",
+    "title": "AV女优 滨崎真绪 SOD中途入社！！“真绪从今天起就要成为SOD社员…” 浜崎真绪",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "巨尻",
-      "M男・M女",
-      "豐滿",
-      "女業務",
-      "美腳",
-      "OL",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美臀",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "拜金女",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "身體換業務"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/2d53347e-4d2e-4914-836c-7bf0e54b285c.jpg",
-    "actress": [
-      "真木今日子",
-      "宮ノ木しゅんか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-516"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-960"
   },
   {
-    "id": 9684,
-    "IDcode": "SCPX-517",
-    "title": "禁止本番NG的風俗店在籍神風俗技師被客人生插中出 ~ 小野寺舞 有棲奏羽 百仁花",
+    "id": 224538,
+    "IDcode": "SDMT-977",
+    "title": "替代她丈夫的色情演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-977"
+  },
+  {
+    "id": 522116,
+    "IDcode": "SDMTCD1",
+    "title": "SDMTcd1 触手アクメ 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230128-1/68033dfc41fdfbe0af3c8ae68825da45.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMTCD1"
+  },
+  {
+    "id": 522117,
+    "IDcode": "SDMTCD2",
+    "title": "SDMTcd2 触手アクメ 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230128-1/096ba52d860695abae63fdb4fbf09bd5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMTCD2"
+  },
+  {
+    "id": 522118,
+    "IDcode": "SDMTCD3",
+    "title": "SDMTcd3 射精公众便女 催眠凌辱オフィス 瀬名あゆむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230128-1/931f09003d6fe95e3be5c67415d20bd4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMTCD3"
+  },
+  {
+    "id": 69032,
+    "IDcode": "SDMU-004",
+    "title": "処女喪失-夏海葵",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "故事集",
       "美少女",
-      "美腳",
-      "JK校服",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "按摩・美容店",
-      "風俗娘",
-      "按摩女郎",
-      "中出",
-      "後入",
-      "劇情",
-      "美少女電影",
-      "拜金女",
-      "按摩・物理治療・美容",
-      "女上位",
-      "偷窺",
-      "騎乗位"
+      "处女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/bc9be0d1-638d-4f34-9b60-27511ebb73e4.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250402-1/82a78a57416858f90663b45e4afb6477.jpg",
     "actress": [
-      "小野寺舞",
-      "有棲奏羽",
-      "百仁花"
+      "夏海葵"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-517"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-004"
   },
   {
-    "id": 566305,
-    "IDcode": "SCPX-518",
-    "title": "女子大生Hチャレンジ 极薄ラップ素股で耻じらい発情 絶対入れない约束なのに…うっかりラップがズ",
+    "id": 536534,
+    "IDcode": "SDMU-017",
+    "title": "夏の终わりにお友达同士で赤面Deep Kiss初体験！パン染み溢れて兴奋抑えきれず爱抚しあって・・・ 大好きな亲友の手",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/32Vb0FIq/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231008/1sdmu017pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-518"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-017"
   },
   {
-    "id": 8764,
-    "IDcode": "SCPX-519",
-    "title": "和媽媽一起看AV系列 - 6親子女優 300分鍾",
+    "id": 218789,
+    "IDcode": "SDMU-025",
+    "title": "一位在超市购物的年轻妻子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "亂倫",
-      "奇聞趣事",
-      "母子",
-      "母親",
-      "精選總編集",
-      "4小時以上作品",
-      "中出",
-      "朋友母親",
-      "口交",
-      "企畫",
-      "奇異的"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b17b2c5f13d063bcc3602f/cover.jpg",
-    "actress": [
-      "一条美緒",
-      "杉崎みさき",
-      "永原夏樹",
-      "中園めいな",
-      "木下彩芽",
-      "園田かのこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-519"
-  },
-  {
-    "id": 454480,
-    "IDcode": "SCPX-520",
-    "title": "畢業典禮當天……這是母親對成年兒子的成年象徵。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a033412cca7792b25ba018/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-520"
-  },
-  {
-    "id": 69215,
-    "IDcode": "SCPX-521",
-    "title": "对我这样的阿姨你会那样想吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "中出",
-      "成熟的女人",
-      "家教",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-521"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-025"
   },
   {
-    "id": 566306,
-    "IDcode": "SCPX-522",
-    "title": "絶対ヤレると噂の神メンエス嬢たちに里オプ交渉！生挿入生中出し 完全●撮",
+    "id": 518492,
+    "IDcode": "SDMU-066",
+    "title": "從順中出 在溫泉旅行時小穴接受陌",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/tJ7rW3UY/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffe7127de28f4edeabf9dc/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-522"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-066"
   },
   {
-    "id": 466620,
-    "IDcode": "SCPX-523",
-    "title": "歐巴桑家政婦故意露出胸部V領時絕對可以搞定的！！",
+    "id": 578641,
+    "IDcode": "SDMU-069",
+    "title": "介护福祉士を目指す心优しい18歳娘が60歳以上の老人宅で初めての下半身介",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689abbab55337d7f7be48963/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-523"
-  },
-  {
-    "id": 587910,
-    "IDcode": "SCPX-524",
-    "title": "误把女朋友当成她的母亲 结果突然就中出去了 素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250804-1/cb1ec4feb633ae368b1d066369857aa0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-524"
-  },
-  {
-    "id": 68368,
-    "IDcode": "SCPX-525",
-    "title": "1人暮らしの僕を見かねてありがた嬉しいおせっかいで自ら家事を手伝ってくれた近所の美人シングルマザーの…誘惑尻にガマン出来ない！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "屁股",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-525"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-069"
   },
   {
-    "id": 6685,
-    "IDcode": "SCPX-526",
-    "title": "突如其來的暴雨讓全身溼透的女性友人來我家避雨",
+    "id": 526384,
+    "IDcode": "SDMU-082",
+    "title": "清楚でうぶな美人姊とかわいくてHな妹と梦のハーレム姊妹丼3P",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-082"
+  },
+  {
+    "id": 218332,
+    "IDcode": "SDMU-088",
+    "title": "入社1年目",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-088"
+  },
+  {
+    "id": 218463,
+    "IDcode": "SDMU-100",
+    "title": "我每天忙于做家务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-100"
+  },
+  {
+    "id": 526729,
+    "IDcode": "SDMU-104",
+    "title": "现役看护师をお昼休みにマジックミラー号でAVデビューさせます！ 白井友香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230608/1sdmu104pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-104"
+  },
+  {
+    "id": 567649,
+    "IDcode": "SDMU-111",
+    "title": "SOD女子社员入社16年目后藤さつき38歳狂った雌のように…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-111"
+  },
+  {
+    "id": 526852,
+    "IDcode": "SDMU-125",
+    "title": "60歳のワシ（余命半年）が5人の爆乳女子に囲まれながら过ごす、‘精子空っぽになるまで抜かれる’赘沢6P生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "艷遇",
-      "巨尻",
-      "精選總編集",
-      "純粹的慾望",
-      "慾求不滿",
-      "豐滿",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/a1859bfc7daacf302b6dcafbdb02dbd7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-125"
+  },
+  {
+    "id": 539688,
+    "IDcode": "SDMU-133",
+    "title": "夏休みにマジックミラー号初乘车！温泉街で见つけた女子大生を电マ初体験で4回イカせて…マン汁グチョグチョにな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240111/1sdmu133pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-133"
+  },
+  {
+    "id": 536046,
+    "IDcode": "SDMU-148",
+    "title": "マジックミラー号レズナンパSP！女子大生が初体験の唾液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-148"
+  },
+  {
+    "id": 88226,
+    "IDcode": "SDMU-152",
+    "title": "一般人カップル×真正中出し×連続射精ゲーム 「動かない彼氏を何回イカせてあげられる？」 ‘一切動いちゃいけない彼氏’を60分間で5回発射できたら100万円！！ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "企画",
+      "情侣"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/13df0d325c1dc682ed90825b3440d201.jpg",
+    "actress": [
+      "水玉檸檬",
+      "橘咲良",
+      "星川麻纪",
+      "石原みさと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-152"
+  },
+  {
+    "id": 97847,
+    "IDcode": "SDMU-169",
+    "title": "一般人カップル×真正中出し×連続射精ゲーム 愛する彼氏の目の前で、いつ他人精子が暴発するか分からない！？ 彼氏を中出し発射することができれば100万円！！ ハラハラドキドキ中出しロシアンルーレット",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "企画",
+      "情侣",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2015-01-22",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdmu169/1sdmu169pl.jpg",
+    "actress": [
+      "水野葵",
+      "凉宫琴音",
+      "冲野るり",
+      "水沢あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-169"
+  },
+  {
+    "id": 469631,
+    "IDcode": "SDMU-170",
+    "title": "懷孕館 播種報導 嬌小美OO們被巨大醜惡大叔坐上無法逃離OO中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ee971f52c12b4e684af49c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-170"
+  },
+  {
+    "id": 88210,
+    "IDcode": "SDMU-189",
+    "title": "声ダメ！動いちゃダメ！ぜったい！なりきりダッチワイフカップルゲーム！彼氏が見ている目の前で一流AV男優に激ピストンされても彼女が動かなければ100万円！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企画",
+      "情侣",
       "素人作品",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "心機婊",
-      "形象俱樂部",
-      "高顏值",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "膚黑",
-      "女上位",
-      "騎乗位"
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b94c52489841641836f2b3/cover.jpg",
-    "actress": [
-      "瀬那瑠美奈",
-      "桐谷すずね",
-      "野上しおり",
-      "希和みこと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-526"
-  },
-  {
-    "id": 68463,
-    "IDcode": "SCPX-527",
-    "title": "赤面人妻モニタリング ご無沙汰オマ〇コが疼いてしょうがない人妻モデルの下着にバイブを挟んだら どうなるか徹底検証！！優しい子持ちの奥様の即ズボ公開不倫中出しSEX2枚組310分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "业余",
-      "按摩棒",
-      "中出",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-527"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-189"
   },
   {
-    "id": 5823,
-    "IDcode": "SCPX-528",
-    "title": "下着モデルの母の溢れ出る色気に我慢できず中出しSEXに没頭した息子たち",
+    "id": 544124,
+    "IDcode": "SDMU-209",
+    "title": "娘の告白を断り切れず、妻の目を盗んでごっくん近亲相奸宇佐美まい第01集",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "巨尻",
-      "母親",
-      "口爆",
-      "網襪",
-      "亂倫",
-      "自宅",
-      "大奶头",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "母子",
-      "高顏值",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
-      "美臀",
-      "劇情",
-      "舔陰",
-      "手指插入",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c79db98bc99dfdde6ce5e/cover.jpg",
-    "actress": [
-      "上田紗奈",
-      "澤乃明日香",
-      "城咲京花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
-  },
-  {
-    "id": 589234,
-    "IDcode": "SCPX-529",
-    "title": "美丽的朋友的母亲 意外地两人在房间里独处 这屁股一定是在诱惑我 收录6人 280分钟 素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20250705-1/ffb9cace355543523ec5371cd4e9924c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-529"
-  },
-  {
-    "id": 4831,
-    "IDcode": "SCPX-530",
-    "title": "醉酒妹子被帶回家 翻白眼爽到潮吹失控 ~ 美泉咲 安堂はるの 優梨舞奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "口爆",
-      "真實拍攝",
-      "苗條",
-      "痴漢",
-      "凌辱",
-      "美腳",
-      "自宅",
-      "美乳",
-      "變態",
-      "早漏",
-      "口交",
-      "性感",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "酒醉",
-      "輪姦",
-      "舔陰",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "魔鬼系",
-      "舔腳",
-      "乳交",
-      "酒後亂性",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081351821821_thumbnail.webp",
-    "actress": [
-      "優梨舞奈",
-      "美泉咲",
-      "安堂はるの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-530"
-  },
-  {
-    "id": 63491,
-    "IDcode": "SCPX-531",
-    "title": "「こんなおばさんのお尻に興味あるの？」自分で興奮する男子チ〇ポが愛おしくてエロ尻見せつけて誘惑してくる…麗しの家政婦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "已婚妇女",
-      "中出",
-      "口交",
-      "各种职业"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/yNODyUPX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-531"
-  },
-  {
-    "id": 5039,
-    "IDcode": "SCPX-532",
-    "title": "淫棍天堂！五反田隱藏風俗店的黑暗內幕大揭祕 ~ 月野香澄 辻井穗乃果 辻いまる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "打手槍",
-      "獵豔",
-      "M男・M女",
-      "口爆",
-      "兔女郎妝扮",
-      "真實拍攝",
-      "港區女子",
-      "網襪",
-      "辣妹/GAL系",
-      "女僕制服",
-      "4K",
-      "癡女",
-      "美乳",
-      "風俗夜場",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "風俗娘",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "按摩女郎",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "拜金女",
-      "高妹",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081513212212_thumbnail.webp",
-    "actress": [
-      "月野香澄",
-      "辻井穗乃果",
-      "辻いまる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-532"
-  },
-  {
-    "id": 62456,
-    "IDcode": "SCPX-533",
-    "title": "いつも自分勝手に漫画を読みに部屋に入り浸って来てて 僕の事を雑魚キャラ認定で男として見てなかったくせに…ギャル友が僕のデカ〇ンに興味津々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "手淫",
-      "中出",
-      "女生",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-533"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-209"
   },
   {
-    "id": 4184,
-    "IDcode": "SCPX-534",
-    "title": "素人女子大生クンニ我慢チャレンジ1000ペロ耐えたら100万円 イッたら罰ゲーム即生中出しSEX 2枚組6人",
+    "id": 544095,
+    "IDcode": "SDMU-236",
+    "title": "ソフト・オン・デマンド调查队教え子をHなイ第04集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-236"
+  },
+  {
+    "id": 579094,
+    "IDcode": "SDMU-238",
+    "title": "美乳・巨乳・高感度おっぱい大集合！総势21名出演！！SOD女子社员 业务中にイキナリ乳もみ感度",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "真實拍攝",
-      "臀控",
-      "惡搞",
-      "美腳",
-      "羞恥",
-      "真人秀",
-      "色白",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "短髮",
-      "校花",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "高妹",
-      "綜藝",
-      "女上位",
-      "騎乗位",
-      "公共場所"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221245451451_77003_thumbnail.webp",
-    "actress": [
-      "天乃のあ",
-      "弘中優",
-      "宇佐美みおん",
-      "相沢澪",
-      "春日惠奈",
-      "上白美央"
+    "cover_url": "http://15.155250922.com/upload/vod/20230608/1sdmu238pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-238"
+  },
+  {
+    "id": 579102,
+    "IDcode": "SDMU-253",
+    "title": "SOD女子社员 夏季ボーナス倍増チャンス！社内宝探しゲーム 美尻丸出し！四つん这い！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-253"
+  },
+  {
+    "id": 526880,
+    "IDcode": "SDMU-256",
+    "title": "子供と旦那が帰宅するまで1时间“赤ちゃんできてもいい…もっともっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdmu00256pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-256"
+  },
+  {
+    "id": 218475,
+    "IDcode": "SDMU-261",
+    "title": "奇跡の処女喪失-長谷川翔子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-261"
+  },
+  {
+    "id": 579108,
+    "IDcode": "SDMU-263",
+    "title": "帰る直前に仕事を赖まれても快く引き受けるタイプの真面目",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230617/1sdmu263pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-263"
+  },
+  {
+    "id": 578928,
+    "IDcode": "SDMU-264",
+    "title": "2015年度ソフト・オン・デマンド社内健康诊断",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-264"
+  },
+  {
+    "id": 517548,
+    "IDcode": "SDMU-268",
+    "title": "SOD女員工 巨乳百戰百勝水上野",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6913ead372c0032a4300db43/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-268"
+  },
+  {
+    "id": 539438,
+    "IDcode": "SDMU-276",
+    "title": "帰国子女 水沢美海 20歳 処女丧失",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230624/1sdmu276pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-276"
+  },
+  {
+    "id": 579110,
+    "IDcode": "SDMU-277",
+    "title": "SOD女子社员 第34回 王様ゲーム 社内でも一际目立つモデル级长身美脚女子社员6名 长～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230620/1sdmu277pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-277"
+  },
+  {
+    "id": 549252,
+    "IDcode": "SDMU-279",
+    "title": "姊へのしつけ ～弟のいいなり奴隶になるまでの5日间～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230624/1sdmu279pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-279"
+  },
+  {
+    "id": 579117,
+    "IDcode": "SDMU-287",
+    "title": "“童贞くんのセックスの练习相手になっていただけませんか！？”街中で声を挂けた绮丽で心优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230621/1sdmu287pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-287"
+  },
+  {
+    "id": 579116,
+    "IDcode": "SDMU-289",
+    "title": "SOD女子社员新春わっしょい！SOD人気企画3本立て240分 羞耻初め！2016年も耻ずかしさ全开でイキますよ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-289"
+  },
+  {
+    "id": 579115,
+    "IDcode": "SDMU-292",
+    "title": "SOD女子社员 〈缔め切りは破った事ないです〉が自慢で、业务态度はいたって勤勉が",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-292"
+  },
+  {
+    "id": 549289,
+    "IDcode": "SDMU-296",
+    "title": "成熟した姊の裸に触れた童贞弟はイケない事と知りつつもチ●ポを勃起させて“禁断の近亲相奸”してしまうのか！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230701/1sdmu296pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-296"
+  },
+  {
+    "id": 531919,
+    "IDcode": "SDMU-305",
+    "title": "普通情侣x正宗阴道射精x连续射精游戏在我心爱的男朋友面前，不知道什么时候其他精子会爆炸！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250214-1/170ca9b94629908eb95206842541239d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-305"
+  },
+  {
+    "id": 526884,
+    "IDcode": "SDMU-308",
+    "title": "マジックミラー号 どうしても卒业できなかった童贞救済シリーズ “无料マッサージ体験",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-308"
+  },
+  {
+    "id": 526840,
+    "IDcode": "SDMU-309",
+    "title": "“妊娠しても构いません…大量の精子を膣奥に流し込んでください！”SNSに自ら投稿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdmu00309pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-309"
   }
 ];

@@ -1,2264 +1,814 @@
 window.PAGE_DATA = [
   {
-    "id": 90800,
-    "IDcode": "MRHP-028",
-    "title": "同じマンションに住む押しに弱いデカ尻人妻お姉さん 無自覚に誘惑してくるピタピタジーパン姿に我慢できず連日中出し 夏川あゆみ",
+    "id": 99531,
+    "IDcode": "MVSD-407",
+    "title": "制服美少女 罵倒！蔑み！中出しチ○ポいじめ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "荡妇",
+      "中文字幕",
+      "中出",
+      "手淫",
+      "素人作品",
+      "高中女生",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mvsd407/mvsd407pl.jpg",
+    "actress": [
+      "枢木葵",
+      "高杉麻里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-407"
+  },
+  {
+    "id": 76048,
+    "IDcode": "MVSD-408",
+    "title": "人妻永井玛丽亚的催眠暗示吞精调教",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "屁股",
-      "4K",
+      "催眠",
       "已婚妇女",
-      "巨大屁股",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/dce7c1548349bb5cd4dc8e9413d1df41.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-028"
-  },
-  {
-    "id": 562502,
-    "IDcode": "MRHP-029",
-    "title": "欲求不満な女上司は仆に袭ってほしいらしくあの手この手で诱惑してくるが、超奥手の仆は何もできず、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240102/mt74x2qw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-029"
-  },
-  {
-    "id": 561925,
-    "IDcode": "MRHP-030",
-    "title": "既にトンデモない美尻のクセにパーソナルジムで美尻トレーニングに励む人妻にはトレーナーの仆でも我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/ZHRn2xoa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-030"
-  },
-  {
-    "id": 561799,
-    "IDcode": "MRHP-031",
-    "title": "家事代行サービスを赖んだらおばさんが来ると思ってたのに、デカ尻の美人妻が来た！お尻をムチムチさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240221/DUQaSsXn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-031"
-  },
-  {
-    "id": 105678,
-    "IDcode": "MRHP-032",
-    "title": "无法抵抗温泉旅行中年轻妻子美丽的美尻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "已婚妇女",
-      "巨大屁股",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240329-1/9ba15a318aa7ee5d670b9a17d1c928fc.jpg",
-    "actress": [
-      "黒木逢夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-032"
-  },
-  {
-    "id": 15689,
-    "IDcode": "MRHP-033",
-    "title": "住在同一棟公寓樓裏的一個咄咄逼人的大屁股人妻無法抗拒她的緊身牛仔褲在不知不覺中的誘惑，所以她整天都在高潮。恵沙也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "臀控",
-      "鄰居",
-      "勾引・誘惑",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
+      "吞精",
       "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美臀",
-      "絕頂高潮",
-      "偷竊",
-      "黑絲",
-      "女上位",
-      "騎乗位"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2024-04-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401085533500500.jpg",
-    "actress": [
-      "恵沙也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-033"
-  },
-  {
-    "id": 14202,
-    "IDcode": "MRHP-034",
-    "title": "年輕人妻的美麗屁股-夏木鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "溫泉",
-      "飯店",
-      "苗條",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240604/f6e24e65-5efd-4767-a5f9-5e905628a744.jpg",
-    "actress": [
-      "凰華鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-034"
-  },
-  {
-    "id": 13626,
-    "IDcode": "MRHP-035",
-    "title": "無法忍受人妻隔着衣服都能看到的大屁股，所以他每天都插入她體內並射精。天馬唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "巨尻",
-      "插入異物",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "人妻",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240702/4301c350-9d23-4ddd-94d6-be06a1b8699b.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-035"
-  },
-  {
-    "id": 13308,
-    "IDcode": "MRHP-036",
-    "title": "【不動產AV】帶我去看房的美人妻地產經紀，在房間裏揉她的大奶子然後中出她 ~ 川栄結愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "短髮",
-      "巨尻",
-      "性騷擾",
-      "OL",
-      "看房",
-      "蠻橫嬌羞",
-      "色白",
-      "房產中介",
-      "美乳",
-      "中出",
-      "制服",
-      "巨乳",
-      "口交",
-      "劇情",
-      "美臀"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240714/ebfa60dc-f115-4a50-8474-f41b5a93e354.jpg",
-    "actress": [
-      "川栄結愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-036"
-  },
-  {
-    "id": 13312,
-    "IDcode": "MRHP-037",
-    "title": "住在同一棟公寓樓裏的大屁股人妻，無法忍受她緊身牛仔褲的誘惑，連日中出 ~ 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "臀控",
-      "感官作品",
-      "鄰居",
-      "羞恥",
-      "色白",
-      "自宅",
-      "美乳",
-      "過膝襪・小腿襪",
-      "口交",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "抹油",
-      "美臀",
-      "不倫",
-      "絕頂高潮",
-      "乳交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240714/20e37d35-662c-4d83-a158-c9dace19aad5.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-037"
-  },
-  {
-    "id": 12574,
-    "IDcode": "MRHP-038",
-    "title": "來了個大屁股的漂亮家政保姆！無法忍受她做家務時不停抽動的屁股，抓住並中出她 ~ 五十嵐清華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "M男・M女",
-      "臀控",
-      "美少女",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "家政婦",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "美少女電影",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240818/67ed9a84-0f7d-4bf1-8274-4397da9a798a.jpg",
-    "actress": [
-      "五十嵐清華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-038"
-  },
-  {
-    "id": 12278,
-    "IDcode": "MRHP-039",
-    "title": "大音量看AV引来隔壁美尻人妻的投诉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "臀控",
-      "鄰居",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "丁字裤",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/ec46d06c4c29079edaf82493b7a6b647.jpg",
-    "actress": [
-      "松本梨穂",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-039"
-  },
-  {
-    "id": 11946,
-    "IDcode": "MRHP-040",
-    "title": "大屁股人妻祕書。社長有特權中出她 ~ 玉城夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "臀控",
-      "辦公室",
-      "肉絲",
-      "美腳",
-      "OL",
-      "羞恥",
-      "美乳",
-      "制服",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "短髮",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "黑絲",
-      "女秘書",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20240916/0d92c5b2-0ce2-429e-8c11-04a45680c369.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-040"
-  },
-  {
-    "id": 11940,
-    "IDcode": "MRHP-041",
-    "title": "【不動産AV】デカい尻 部屋の内見に付き合ってくれた人妻OLのデカケツを密室で揉みしだいて生ハメ中出し 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "臀控",
-      "辦公室",
-      "美少女",
-      "美腳",
-      "OL",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "房產中介",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "美少女電影",
-      "看房",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/09/824d8f085899ff2990b150f561ed14f3.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-041"
-  },
-  {
-    "id": 175508,
-    "IDcode": "MRHP-042",
-    "title": "パーソナルジムにぷりっぷりのデカ尻人妻がやって来た！なるべくお尻を見ないように美尻トレーニングを教えるけど我慢できず襲って中出し 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/d745cf1c/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-042"
-  },
-  {
-    "id": 11072,
-    "IDcode": "MRHP-043",
-    "title": "隣に住む押しに弱いデカ尻人妻お姉さん 無自覚に誘惑してくるタイトワンピ姿に我慢できず連日中出し 幾野まち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "慾求不滿",
-      "戀物癖",
-      "鄰居",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "口交",
-      "美人妻",
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/c04e1d489ede304c1ce03f429a14857e.jpg",
-    "actress": [
-      "幾田真知"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-043"
-  },
-  {
-    "id": 10861,
-    "IDcode": "MRHP-044",
-    "title": "宅配トラブルにご注意！服の上からでもわかる人妻の大きなお尻に我慢できなくなり、連日生挿入して中出しした悪徳運送屋 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "苗條",
-      "臀控",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "中出",
-      "後入",
-      "抹油",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/8f6228961cb48dcc7d745761b75d5d7b.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-044"
-  },
-  {
-    "id": 186077,
-    "IDcode": "MRHP-045",
-    "title": "大音量でAV見てたら隣の家に住むデカ尻美人妻がクレーム入れに押しかけて来た。欲求不満の人妻は僕の勃起チ●ポに発情して逆レ搾精 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/2a4a0eff/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-045"
-  },
-  {
-    "id": 10233,
-    "IDcode": "MRHP-046",
-    "title": "人妻部下と連日の不倫SEX！アナルが敏感なドスケベ巨尻OLにダンナは絶対してくれない変態プレイ アナルの匂いと味を堪能しイカせまくる！！ 都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "若妻",
-      "慾求不滿",
-      "兔女郎妝扮",
-      "女僕制服",
-      "辦公室",
-      "美腳",
-      "OL",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "淫亂",
-      "COSPLAY服飾",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "不倫",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "無毛",
-      "肛交",
-      "黑絲",
-      "劇情",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/db14b697/vod.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-046"
-  },
-  {
-    "id": 9391,
-    "IDcode": "MRHP-047",
-    "title": "部屋の内見に付き添ってくれた不動産屋のOLさん ブリンブリンの巨尻が気になって部屋が目に入りません！ 斎藤あみり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "戀物癖",
-      "苗條",
-      "女業務",
-      "美少女",
-      "肉絲",
-      "癡女",
-      "美腳",
-      "羞恥",
-      "色白",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "明星臉",
-      "蠻橫嬌羞",
-      "房產中介",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "看房",
-      "舔腳",
-      "脅迫做愛",
-      "黑絲",
-      "足交",
-      "女上位",
-      "丁字裤",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bea1e0ce3e366423d41917/cover.jpg",
-    "actress": [
-      "齋藤亞美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-047"
-  },
-  {
-    "id": 75087,
-    "IDcode": "MRHP-048",
-    "title": "パーソナルジムで美尻トレーニングに励む人妻のプリプリのデカ尻に大量中出し！ 優梨まいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "屁股",
-      "已婚妇女",
-      "巨大屁股",
-      "中出",
-      "运动",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bea688ce3e366423d42bfc/cover.jpg",
-    "actress": [
-      "优梨まいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-048"
-  },
-  {
-    "id": 572220,
-    "IDcode": "MRJJ-013",
-    "title": "出会って4秒で合体 麻美ゆま 完全リモザイク",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic29.anzise.com/pic/20220529/280accf72052f22ddfbfddb93ec7de51/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRJJ-013"
-  },
-  {
-    "id": 523320,
-    "IDcode": "MRMM-031",
-    "title": "波多野结衣- 【复刻版】丸の内OL决戦は金曜日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRMM-031"
-  },
-  {
-    "id": 101159,
-    "IDcode": "MRPA-001",
-    "title": "搬來樓下的人妻胸部也太大了吧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "乳交",
-      "中出",
-      "巨乳",
-      "恋乳癖",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240118-1/1f9b93ce942c90af17cb3e4881d4b82d.jpg",
     "actress": [
-      "並木愛奈"
+      "永井瑪麗亞"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-408"
   },
   {
-    "id": 561923,
-    "IDcode": "MRPA-002",
-    "title": "ジムにやってきた爆乳人妻！汗だくのスポブラおっぱいをメチャクチャに揉みしだいて中出し",
+    "id": 465392,
+    "IDcode": "MVSD-410",
+    "title": "姉ちゃん！頼むから勉強のジャマするのヤメてくれ！！ 姉貴のフェラチオの練習台にされたボク 誤爆中出し編 深田えいみ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/G0pDKJOu/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787585b5d57b64bfde1fab8/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-410"
   },
   {
-    "id": 16158,
-    "IDcode": "MRPA-003",
-    "title": "被無良美容院俘獲的巨乳人妻。 天野碧沉迷於大奶子塗上高度成癮的春藥的快感，整天乞求精液",
+    "id": 77112,
+    "IDcode": "MVSD-412",
+    "title": "风雨交加的夜晚刚毕业的女大学生居然要求和我做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
-      "胸控・戀乳癖",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240221/2b602898-da5d-4c50-90c7-703ece8bd72b.jpg",
-    "actress": [
-      "天野碧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-003"
-  },
-  {
-    "id": 561446,
-    "IDcode": "MRPA-004",
-    "title": "下の阶に引っ越してきた人妻が巨乳すぎる！押しの弱さに付け込んで大きくてやわらかいおっぱいを堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/oi3Ud273/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-004"
-  },
-  {
-    "id": 15666,
-    "IDcode": "MRPA-005",
-    "title": "搬下樓的人妻是個巨乳！上白美央用她微弱的壓力到高潮，同時享受她又大又軟的胸部。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "苗條",
-      "凌辱",
-      "鄰居",
       "流汗",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "出軌",
       "中出",
-      "蕩婦",
-      "後入",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "偷竊",
-      "調教",
-      "黑絲",
+      "OL",
+      "淫语",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/01d7f45075e90ca15d9b0f03daf58f96.jpg",
+    "actress": [
+      "根尾朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-412"
+  },
+  {
+    "id": 77106,
+    "IDcode": "MVSD-413",
+    "title": "性感姐妹人妻逆3P内射性交被痴女持续榨干精液的我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "人妻",
+      "口交",
+      "已婚妇女",
+      "中出",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/634a8ee7bb3d3da0717283832d142678.jpg",
+    "actress": [
+      "通野未帆",
+      "吉泽ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-413"
+  },
+  {
+    "id": 77113,
+    "IDcode": "MVSD-414",
+    "title": "オス豚じじいを悶絶射精で極楽堕とし！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "吞精",
+      "中文字幕",
+      "中出",
+      "女生",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2019-12-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/92c710f11172c7e0152d785873ba99ac.jpg",
+    "actress": [
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-414"
+  },
+  {
+    "id": 77123,
+    "IDcode": "MVSD-415",
+    "title": "麻里梨夏史上、最もハード！（本人談） 美少女ハードコア3穴ごっくんファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "二穴同时挿入",
+      "中出",
+      "美少女电影",
+      "拘束",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/79d28b5c2db1cdf101e8baea14d348cd.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-415"
+  },
+  {
+    "id": 77132,
+    "IDcode": "MVSD-416",
+    "title": "让侄女对内射上瘾-永瀬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "中出",
+      "潮吹",
+      "美少女电影",
+      "自慰",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-416"
+  },
+  {
+    "id": 77416,
+    "IDcode": "MVSD-417",
+    "title": "失禁しながら嬉しそうに腰を振るデン尻娘の重圧騎乗位中出しピストン 川原かなえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "中出",
+      "屁股",
+      "胖女人",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7ccbfedb540400a4876479ed2cd0783a.jpg",
+    "actress": [
+      "川原かなえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-417"
+  },
+  {
+    "id": 82992,
+    "IDcode": "MVSD-418",
+    "title": "教え子のたわわに実った白桃は蜜の味 湯上りの火照ったおっぱいを舐めて吸って揉みまくるお忍び中出し温泉旅行 小梅えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "浴衣",
+      "巨乳",
+      "中出",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2020-01-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/ec8ec93a13fdccc5183225b8a99c5b89.jpg",
+    "actress": [
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-418"
+  },
+  {
+    "id": 81852,
+    "IDcode": "MVSD-419",
+    "title": "10代最後のプレミア剛毛オマ○コいただきまぁ～す クンニマスターおじさんの舐めテクでアクメ堕ち！ついでに無許可中出し！ 奏音かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "第一人称摄影",
+      "美少女电影",
+      "高中女生",
+      "舔阴"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "奏音花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-419"
+  },
+  {
+    "id": 81870,
+    "IDcode": "MVSD-420",
+    "title": "美人女教師超ハードコア3穴調教輪●ファック マ●コ！ノドマ●コ！ケツマ●コ！すべてのマゾ穴に問答無用の鬼畜中出し20連発！ 赤瀬尚子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "二穴同时挿入",
+      "中出",
+      "女教师",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e227489def9b1b8c764e8/cover.jpg",
+    "actress": [
+      "赤瀬尚子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-420"
+  },
+  {
+    "id": 97488,
+    "IDcode": "MVSD-421",
+    "title": "老爸再婚对象-高坂あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "中出",
+      "淫乱，真实",
+      "婆婆"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/ec87a1492fd593b5964b2cd6ebab4d32.jpg",
+    "actress": [
+      "高坂あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-421"
+  },
+  {
+    "id": 81858,
+    "IDcode": "MVSD-422",
+    "title": "のど射ごっくん涙目鬼イラマチオ！ 御坂りあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "美少女电影",
+      "淫乱，真实",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/2948e1e6adc905c69f1506cb0167dcdd.jpg",
+    "actress": [
+      "鲛岛",
+      "御坂莉亚"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-422"
+  },
+  {
+    "id": 435926,
+    "IDcode": "MVSD-423",
+    "title": "ザーメンごっくん研究サークル 我がサークルでは精子量に自信があるザーメンドナーを随時募集しております！ 冬愛琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/3cd2e125b50a2030d6a60117f237fa99.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-423"
+  },
+  {
+    "id": 203791,
+    "IDcode": "MVSD-424",
+    "title": "洗脑监禁-根尾明里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/6d2725db4edff6ad83ad77b6274ed3cc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-424"
+  },
+  {
+    "id": 222647,
+    "IDcode": "MVSD-425",
+    "title": "可爱的制服美少女-花音うらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/9ab4c016b4074bed4a33643fd788d748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-425"
+  },
+  {
+    "id": 97534,
+    "IDcode": "MVSD-427",
+    "title": "淫乱乳首だこと 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "中出",
+      "美少女电影",
       "女上位"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2024-04-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401092957269269.jpg",
-    "actress": [
-      "上白美央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-005"
-  },
-  {
-    "id": 15383,
-    "IDcode": "MRPA-006",
-    "title": "我無法抗拒一個大奶子人妻的誘惑，她來找我做家政服務，當我向她展示我的雞雞時，她變得飢渴起來，從那以後，她每天都來，把我的精子從裏面擠出來。她。美丘さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "苗條",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "家政婦",
-      "內衣",
-      "出軌",
-      "中出",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-04-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414082107745745.jpg",
-    "actress": [
-      "美丘さとみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-006"
-  },
-  {
-    "id": 14958,
-    "IDcode": "MRPA-007",
-    "title": "搬下楼的已婚女人胸太大了-流川莉央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "巨尻",
-      "苗條",
-      "凌辱",
-      "鄰居",
-      "美少女",
-      "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "邻居",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "偷竊",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240819-1/a2821a8ea7631eaad14c5d0e990d174f.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/0c2d49c3b4053256b8cce42100392ec9.jpg",
     "actress": [
-      "流川莉央"
+      "松本一香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-427"
   },
   {
-    "id": 14079,
-    "IDcode": "MRPA-008",
-    "title": "被惡德理療師俘獲的爆乳妻，沉迷於在巨乳上被塗令人上癮的春藥的快感，整天乞求插入 ~ 櫻茉日",
+    "id": 77414,
+    "IDcode": "MVSD-428",
+    "title": "美少女妄想脳内-久留木玲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "媚藥・迷藥",
-      "苗條",
-      "美腳",
-      "羞恥",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
       "口交",
-      "潮吹",
-      "人妻",
-      "按摩・美容店",
-      "淫亂",
-      "出軌",
       "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
+      "美少女电影",
+      "苗条",
+      "美容院"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/be960740194bccb15ad1b1ca57895fc9.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e3fe86c862c77f012368a4066c5f9da3.jpg",
     "actress": [
-      "堀北実来"
+      "久留木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-428"
   },
   {
-    "id": 13899,
-    "IDcode": "MRPA-009",
-    "title": "搬到樓下的人妻奶子太大了！美波汐裏利用她又大又軟的奶子強迫我射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗條",
-      "凌辱",
-      "鄰居",
-      "美腳",
-      "羞恥",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/69d460bcf33a13edcae9caac5046cf46.jpg",
-    "actress": [
-      "美波汐里",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-009"
-  },
-  {
-    "id": 13286,
-    "IDcode": "MRPA-010",
-    "title": "來家事代工服務的美乳F罩杯人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "明星臉",
-      "家政婦",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/b51eda6f912041bd598187d9983fd5b2.jpg",
-    "actress": [
-      "宮西光",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-010"
-  },
-  {
-    "id": 12584,
-    "IDcode": "MRPA-011",
-    "title": "樓下的已婚人妻的奶子太大了！ 享受她又大又軟的胸部 ~ 百永紗裏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "慾求不滿",
-      "辣妹/GAL系",
-      "鄰居",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "過膝襪・小腿襪",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "短髮",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "調教",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/6a494656126e59dc46df9695bdb5a427.jpg",
-    "actress": [
-      "百永纱里奈",
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-011"
-  },
-  {
-    "id": 11579,
-    "IDcode": "MRPA-012",
-    "title": "悪徳出張エステの餌食になった爆乳妻 依存性の高いとろっとろの媚薬を大きなおっぱいに塗り付けられる快楽にハマって連日中出し懇願 宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "媚藥・迷藥",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "抹油",
-      "不倫",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "迷姦",
-      "乳交",
-      "按摩・物理治療・美容",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/42d72cdfadb85ad4a172acdb1c6e3dab.jpg",
-    "actress": [
-      "宝田萌奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-012"
-  },
-  {
-    "id": 176133,
-    "IDcode": "MRPA-013",
-    "title": "俺好みの美乳人妻がジムにやってきてしまい、汗だくの透け乳スポブラおっぱいをがむしゃらに揉みしだいて中出し 西野絵美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/43b46809bd7e91979709905819c56c7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-013"
-  },
-  {
-    "id": 10863,
-    "IDcode": "MRPA-014",
-    "title": "下の階に引っ越してきた人妻が巨乳すぎる！押しの弱さに付け込んで大きくてやわらかいおっぱいを堪能しながら中出し 水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "鄰居",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/11/ee137c1e/vod.jpg",
-    "actress": [
-      "水原みその"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-014"
-  },
-  {
-    "id": 406373,
-    "IDcode": "MRSC-003",
-    "title": "偷阿姨内裤被发现",
+    "id": 225638,
+    "IDcode": "MVSD-429",
+    "title": "菊花小穴全部-春咲りょう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/ec25adc77d2a49fa15a05843d5b58177.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/facfa4a375854d7ce96c7e03440063c0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSC-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-429"
   },
   {
-    "id": 70094,
-    "IDcode": "MRSC-006",
-    "title": "「竟然偷了大嬸的內褲 要拿去自慰嗎…？」2 和老公很久沒性愛的人妻",
+    "id": 97217,
+    "IDcode": "MVSD-430",
+    "title": "羅莉女×敏感A罩杯×蕾絲邊噴射 冬愛琴音 渚光希",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "恋物癖",
-      "中出",
-      "成熟的女人",
-      "口交"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "MVG GROUP",
     "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1891e1f09dbbf6ec2e49dfe91ee5f6bb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSC-006"
-  },
-  {
-    "id": 523325,
-    "IDcode": "MRSS-001",
-    "title": "波多野结衣- 美女×生中出し×缔りマン 排卵日なのにナマ挿入、ナマ中出しOK美女を彻底的にヤリまくる！きつきつマンコで有名な波多野结衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-430"
   },
   {
-    "id": 535170,
-    "IDcode": "MRSS-004",
-    "title": "美尻×美妻×美肛门 ドM人妻のナマ中出し妊娠确定ファック！モロ见えアナルをヒクつかせる肉便器オンナ SEX中毒で有名",
+    "id": 209418,
+    "IDcode": "MVSD-431",
+    "title": "鬼畜DQNごっくん中出し-舞原聖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2020/06/26/QQ20200626233210bd337.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-431"
+  },
+  {
+    "id": 209928,
+    "IDcode": "MVSD-432",
+    "title": "性処理肉便器-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/12/5ae0436f7527055da449d2a0a678e17c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-432"
+  },
+  {
+    "id": 209854,
+    "IDcode": "MVSD-433",
+    "title": "変態乳首-晶エリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/07/ee538faac6b5cb0db9aa373d1d3873c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-433"
+  },
+  {
+    "id": 535002,
+    "IDcode": "MVSD-434",
+    "title": "风俗トゥナイト AV女优今井夏帆が噂のガチ风俗にガチ潜入！素人さん相手に生ハメ中出し体験リポート！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231221/1595005940-mvsd434pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-434"
   },
   {
-    "id": 535185,
-    "IDcode": "MRSS-005",
-    "title": "长身×巨乳×美唇 Gカップ美女生中出し！绮丽なマンコとぷるぷるの口唇に激臭チンポ捩じ込んでザーメン渍",
+    "id": 210267,
+    "IDcode": "MVSD-435",
+    "title": "不停做爱的女孩-吉良りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/18/0999e45eaac1133e6beb800be5593437.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-435"
+  },
+  {
+    "id": 529295,
+    "IDcode": "MVSD-436",
+    "title": "我的女友追寻梦想从乡下来到东京 却不知不觉为公司的帅气花花公子的肉棒完全堕落。 远距离NTR 椿莉香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240302/mrss005pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-005"
-  },
-  {
-    "id": 526176,
-    "IDcode": "MRSS-006",
-    "title": "高身长×ハメ潮×イラマチオ 排卵日直撃！淫乱メス犬に真正中出し！玩具责め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-006"
-  },
-  {
-    "id": 535204,
-    "IDcode": "MRSS-007",
-    "title": "爆乳×クビレ×美尻 淫乱のIcupメス犬に拘束调教 电マ责めパックリまんこに生中出し注入！代理妊娠OKで有名な篠田あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240309/mrss007pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-007"
-  },
-  {
-    "id": 535211,
-    "IDcode": "MRSS-008",
-    "title": "巨乳×3P×口内射精 肢体拘束され身动き取れないお口＆おまんこを同时责め！首轮ハメた四つん这い犬妻に种付中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240312/mrss008pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-008"
-  },
-  {
-    "id": 539397,
-    "IDcode": "MRSS-011",
-    "title": "絶対凌他辱他有名単体女他优他を犯すSUPERBEST4时间潮他吹他き拘他束他奴隶生中他出他し2015-02-16神波他多一花堀内秋美かすみりさ浅井舞香波他多野结衣加山なつこ6位女他优他-095",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-011"
-  },
-  {
-    "id": 526175,
-    "IDcode": "MRSS-012",
-    "title": "生意気巨乳女にWフェラで强制中出しFUCK！美ッ痴で有名な莲実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-012"
-  },
-  {
-    "id": 523324,
-    "IDcode": "MRSS-016",
-    "title": "波多野结衣- 中出しされる感覚が忘れられず、凌辱されに帰ってきたマゾ変态美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-016"
-  },
-  {
-    "id": 535238,
-    "IDcode": "MRSS-017",
-    "title": "ぷっくり乳首を无茶苦茶イジられ、潮を吹きまくる便器女に精子种付け 香山美桜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240323/mrss017pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-017"
-  },
-  {
-    "id": 535267,
-    "IDcode": "MRSS-018",
-    "title": "モデルのオファーを断ってまで変态オヤジの中出し性奴隶になった理由 司ミコト",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240407/mrss018pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-018"
-  },
-  {
-    "id": 535283,
-    "IDcode": "MRSS-019",
-    "title": "人间便器にされた美人インストラクター 中出しジムでチ●ポ指导中 西条沙罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240414/mrss019pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-019"
-  },
-  {
-    "id": 535311,
-    "IDcode": "MRSS-022",
-    "title": "Hカップ×美女×ハーフ 旦那にも教えてやりたい爆乳Hカップの正しい使い方 哀れな中出し人形と化した松本メイ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240430/mrss022pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-022"
-  },
-  {
-    "id": 535317,
-    "IDcode": "MRSS-023",
-    "title": "Mっ気全开のHカップ妻 种付けされながら白目を剥いちゃう正真正铭の便器女 水元恵梨香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240509/mrss023pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-023"
-  },
-  {
-    "id": 535339,
-    "IDcode": "MRSS-027",
-    "title": "中出しネトラレ调教记录 爱する妻の失踪翌日、送られてきたビデオレター 桐岛美奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240523/mrss027pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-027"
-  },
-  {
-    "id": 535352,
-    "IDcode": "MRSS-028",
-    "title": "中出し残业ネトラレール（株） 爱する妻と一绪に就职した会社が超ブラック企业だった 尾上若叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240529/mrss028pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-028"
-  },
-  {
-    "id": 535370,
-    "IDcode": "MRSS-030",
-    "title": "爆乳すぎるJカップ美人社长小西みか 寝取られてパイパンま○こに中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240609/mrss030pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-030"
-  },
-  {
-    "id": 535369,
-    "IDcode": "MRSS-031",
-    "title": "中出し町内会 都会育ちの妻が田舎でマワされ寝取られました 高瀬杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240609/mrss031pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-031"
-  },
-  {
-    "id": 535398,
-    "IDcode": "MRSS-032",
-    "title": "軽蔑していた近所のDQN达に妻が寝取られ中出しされまくっていた かなで自由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240626/mrss032pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-032"
-  },
-  {
-    "id": 532000,
-    "IDcode": "MRSS-033",
-    "title": "妻子来帮看护却被睡了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241107-1/44dbd412bec5f688aed96748c0a6b7f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-033"
-  },
-  {
-    "id": 216924,
-    "IDcode": "MRSS-043",
-    "title": "mrss-043 城里长大的妻子在乡下被群P了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/18fefc1a8fc0131823c269b99ffb9a38.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-043"
-  },
-  {
-    "id": 166721,
-    "IDcode": "MRSS-045",
-    "title": "新任教師-天野美優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/08/d54f35703dda07a6f7b9a90603497037.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-045"
-  },
-  {
-    "id": 165074,
-    "IDcode": "MRSS-049",
-    "title": "同窓会で泥酔し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-049"
-  },
-  {
-    "id": 77331,
-    "IDcode": "MRSS-052",
-    "title": "从混混手上保护我的妻子成了肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "白天出轨",
-      "拘束",
-      "中出",
-      "轮奸"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/348031897621fd2a2aace42d00b538ec.jpg",
-    "actress": [
-      "佐佐波绫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-052"
-  },
-  {
-    "id": 165075,
-    "IDcode": "MRSS-053",
-    "title": "中出し学級崩壊 新任教師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-053"
-  },
-  {
-    "id": 220649,
-    "IDcode": "MRSS-054",
-    "title": "在公司旅行被灌醉的人妻OL-谷原希美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/b9e9199586296c00234e98119ac2b4c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-054"
-  },
-  {
-    "id": 591341,
-    "IDcode": "MRSS-056",
-    "title": "中出し町内会 都会育ちの妻が田舎でパコられ寝取られました あけみみう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230721-1/757f9fa5ac341ee2b4a4a79246e3e04e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-056"
-  },
-  {
-    "id": 594523,
-    "IDcode": "MRSS-058",
-    "title": "仆の爱する妻が大嫌いなジジイに寝取られている现场に遭遇したが、あまりにも気持ちよさそうに 喘いでたから中出しされても何も出来なかった 永井みひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240301-1/da7e975b6b22ea2ad4e6f434a76fc0e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-058"
-  },
-  {
-    "id": 526676,
-    "IDcode": "MRSS-059",
-    "title": "邻人の騒音が酷いので妻とクレーム言いに行ったらそこはDQNのたまり场だった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/pLhsjEMU.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-059"
-  },
-  {
-    "id": 174915,
-    "IDcode": "MRSS-060",
-    "title": "三十岁的妻子已经进入了大学她说要认真学习但却被三十岁的人轻易骗了她去了一个乱交派对",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b160275f13d063bcc2beec/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-060"
-  },
-  {
-    "id": 174945,
-    "IDcode": "MRSS-062",
-    "title": "社团旅行NTR我的OL上司老婆筱田优一边和我通话一边被社员抽插内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/cbf8c2a8e776fe0e88bd5848f8a29cce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-062"
-  },
-  {
-    "id": 526477,
-    "IDcode": "MRSS-063",
-    "title": "野球部で鬼监督と呼ばれてる仆の妻が、ゴムの付け方もわからない童贞部员たちに无茶苦茶にハメられて中出しされました 久保今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-436"
   },
   {
-    "id": 594524,
-    "IDcode": "MRSS-064",
-    "title": "爱する妻をジジイに寝取られた介护の现场 あんなに老人を毛嫌いしてた妻がベロチューしながら自ら腰振って中出しを哀愿するなんて… 桐谷なお",
+    "id": 210396,
+    "IDcode": "MVSD-437",
+    "title": "最強肉便器大天使妹-田中ねね",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240301-1/ff12c618d2c6e87afe72679a2a5eec71.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/28/ade4d6576e2e840b3c9d9b5f04b97a0c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-064"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-437"
   },
   {
-    "id": 539019,
-    "IDcode": "MRSS-065",
-    "title": "新村あかり- 軽蔑していた近所のDQN达に爱する妻が寝取られ中出しされまくっていた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250413/idKM9JIP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-065"
-  },
-  {
-    "id": 77332,
-    "IDcode": "MRSS-066",
-    "title": "中出し学級崩壊 保健室の先生である僕の妻がDQN生徒たちの性処理玩具にされ、白衣1枚で廊下に放り出されて校内強制露出 水野朝陽",
+    "id": 62531,
+    "IDcode": "MVSD-440",
+    "title": "洋溢下流氣氛誘惑內向學生的淫亂女教師吞食肉棒溫泉旅行！ 葉優莉亞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "女教师",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4d7cd583e27f778f76be13014dc11019.jpg",
-    "actress": [
-      "水野朝陽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-066"
-  },
-  {
-    "id": 595175,
-    "IDcode": "MRSS-067",
-    "title": "我的心爱太太、在几年前被上司调教 是中古的射肉便器 莲实克蕾儿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XBmcFyD7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-067"
-  },
-  {
-    "id": 468065,
-    "IDcode": "MRSS-068",
-    "title": "內射里民會 都市嬌妻下鄉在野外被人輪姦寢取啦 中村知惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7504e7d663df4b3fa6c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-068"
-  },
-  {
-    "id": 595105,
-    "IDcode": "MRSS-070",
-    "title": "NTS员工旅行～在自己的面前让妻子被部下们中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/WmIRdUya.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-070"
-  },
-  {
-    "id": 73699,
-    "IDcode": "MRSS-071",
-    "title": "潔癖症だった妻が汗まみれの肉体労働者たちに寝取られて中出し汚便器にされました 八乃つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "多P",
-      "白天出轨",
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "浴衣",
       "中出",
+      "正太控"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/33b65c269e21d5cd77d1ad46c05705e4.jpg",
+    "actress": [
+      "叶ユリア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-440"
+  },
+  {
+    "id": 69620,
+    "IDcode": "MVSD-444",
+    "title": "肉棒バリカタ精液濃いめ脂マシマシ 絶倫おやじの汁だくこってり種付けピストン 永澤ゆきの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "中出",
+      "美少女电影",
+      "滥交",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ac0fffa62b1bf3579cda1223cc9f40f0.jpg",
+    "actress": [
+      "岩下たろう",
+      "永泽ゆきの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-444"
+  },
+  {
+    "id": 87647,
+    "IDcode": "MVSD-445",
+    "title": "合宿先の温泉旅館で豹変した教え子に焦らされ焦らされ痴女られて迎える最高に深い射精 あおいれな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "流汗",
+      "中出",
+      "手淫",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/320d42e0e9b3c821e47b146f45a42f81.jpg",
+    "actress": [
+      "葵玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-445"
+  },
+  {
+    "id": 70696,
+    "IDcode": "MVSD-446",
+    "title": "乳首小悪魔-花音うらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "手淫",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/84b1fb95a4d57d96a17ef8381990d3b4.jpg",
+    "actress": [
+      "花音うらら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-446"
+  },
+  {
+    "id": 435654,
+    "IDcode": "MVSD-447",
+    "title": "呼べば速攻チ○ポをしゃぶりに来てくれる舐めマンフェラビッチ！ 堀北灣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/07cda14f28581449e8458c5b10306d6c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-447"
+  },
+  {
+    "id": 535115,
+    "IDcode": "MVSD-448",
+    "title": "ボクの地味子が壊された。 クズ男达に轮●されイカされ过ぎてメス豚化していく大好きな彼女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240128/1608172616-mvsd448pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-448"
+  },
+  {
+    "id": 535132,
+    "IDcode": "MVSD-449",
+    "title": "耻じらいのミルクライン コンプレックスのデカパイを揉みしだかれ耻ずかしもじもじ失禁乳アクメ！ 神坂朋子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240204/1608172706-mvsd449pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-449"
+  },
+  {
+    "id": 211878,
+    "IDcode": "MVSD-450",
+    "title": "刚毕业的女员工-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2021/03/06/0e41a4cbbc5289df760d6169efcc1ee6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-450"
+  },
+  {
+    "id": 211879,
+    "IDcode": "MVSD-452",
+    "title": "魔鬼三明治-凪沙ゆきの 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2021/03/06/52f2f02f8e290014cdbae9cfcb87ab1b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-452"
+  },
+  {
+    "id": 211880,
+    "IDcode": "MVSD-453",
+    "title": "爆乳振-吉根ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/c7612b45aa9888a8ef48e5150ab245d6.jpg",
-    "actress": [
-      "八乃翼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-071"
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efbd454e7d663df47d3c72/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-453"
   },
   {
-    "id": 209785,
-    "IDcode": "MRSS-072",
-    "title": "社員旅行-倉多まお",
+    "id": 104062,
+    "IDcode": "MVSD-454",
+    "title": "無套抽插泡泡浴墮落的女大學生被討厭到死的講師強迫肉體奉仕中出的我。 久留木玲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/30/f6167ae3532d20b1f64964ff8767eba1.jpg",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-072"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-454"
   },
   {
-    "id": 590243,
-    "IDcode": "MRSS-073",
-    "title": "[]教师妻遭不良学生肏成肉便器还强制露出 加濑七穗",
+    "id": 213263,
+    "IDcode": "MVSD-455",
+    "title": "母狗天堂-REMI 瀬崎彩音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2021/09/07/9d7c2b86a3da8d58c436c8cbb35c5cd2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-455"
+  },
+  {
+    "id": 535203,
+    "IDcode": "MVSD-456",
+    "title": "邻の爆乳オタク美少女に性癖を特定され胁され痴女られ続けたワタシ。 初爱ねんね",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-456"
   },
   {
-    "id": 595004,
-    "IDcode": "MRSS-074",
-    "title": "姐姐型妻子为了从混混手中保护我而被盯上…",
+    "id": 594850,
+    "IDcode": "MVSD-458",
+    "title": "堕落成底层垃圾亲子的肉便器的上级国民美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3c97f8eb7b3699a22f1415545d66cc53.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-458"
+  },
+  {
+    "id": 592413,
+    "IDcode": "MVSD-461",
+    "title": "沉溺于打工处年轻老二的敏感母乳妈妈的末路",
     "year": "",
     "country": "",
     "genre": "",
@@ -2266,490 +816,1258 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/39fc51e6e9142888c7b76398e7fd5208.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-074"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-461"
   },
   {
-    "id": 592631,
-    "IDcode": "MRSS-075",
-    "title": "Rei Takatsuki 的妻子开始这个角色在工作中被年轻的男大学生兼职工人带走并被阴道射精",
+    "id": 524389,
+    "IDcode": "MVSD-462",
+    "title": "転校生はおしゃぶりアイドル 风纪の乱れは性器の乱れ！现役アイドルが自慢のフェラチオで学园世直し 白桃はな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-075"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-462"
   },
   {
-    "id": 211877,
-    "IDcode": "MRSS-076",
-    "title": "戴绿帽之旅-大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/2e8252743e9cd6ecaa0183dfa8210c95.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-076"
-  },
-  {
-    "id": 592668,
-    "IDcode": "MRSS-077",
-    "title": "Creampie Class Collapse 我在健康室当老师的妻子被做成了DQN学生的性处理玩具，",
+    "id": 559545,
+    "IDcode": "MVSD-465",
+    "title": "只要叫她就会马上来口交的舔舐bitch七濑爱丽丝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-465"
   },
   {
-    "id": 77662,
-    "IDcode": "MRSS-078",
-    "title": "中出し町内会 僕だけが知らない故郷の風習で愛する妻が村人全員に寝取られてしまいました 星あめり",
+    "id": 594162,
+    "IDcode": "MVSD-468",
+    "title": "女友姐姐是情色写真偶像诱惑我勃起偷插内射 朝日奈花恋",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "中出"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5457ec8007bd3321293faeeeebdb6847.jpg",
-    "actress": [
-      "雨村梨花",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-078"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-468"
   },
   {
-    "id": 76539,
-    "IDcode": "MRSS-079",
-    "title": "老人苦手 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241121-1/af50c5d3004d82630ee05cc329eea7f4.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-079"
-  },
-  {
-    "id": 76496,
-    "IDcode": "MRSS-080",
-    "title": "寝取られ社員旅行 女上司と一発ヤリたがる部下達にどんどん飲まされ泥●した妻 僕とビデオ通話してる最中に中出しされていたなんて… 大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "和服，丧服",
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241121-1/92ebcc3214be6fae4d71285ad47b5721.jpg",
-    "actress": [
-      "大浦真奈美",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-080"
-  },
-  {
-    "id": 526174,
-    "IDcode": "MRSS-081",
-    "title": "中出し学级崩壊 教员历17年のプライドが高い妻がDQNクラスの担任になっ",
+    "id": 550762,
+    "IDcode": "MVSD-471",
+    "title": "Remote Control NTS Indecent Pant Of My Beloved Wife Drowning In Another Stick Michiru Kujo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240120/m6NIvZ3r/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-081"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-471"
   },
   {
-    "id": 76541,
-    "IDcode": "MRSS-082",
-    "title": "上大学的妻子-黒川さりな",
+    "id": 93554,
+    "IDcode": "MVSD-472",
+    "title": "白衣小悪魔-宮崎リン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "多P",
-      "白天出轨",
+      "荡妇",
+      "护士",
+      "美少女电影",
+      "淫语",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/7cd10498681a3dd47e4e90c5004355d2.jpg",
+    "actress": [
+      "宫崎リン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-472"
+  },
+  {
+    "id": 555545,
+    "IDcode": "MVSD-473",
+    "title": "院内淫交 溜まった患者に有料マ○コ贷し出し吐精サービス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-473"
+  },
+  {
+    "id": 79419,
+    "IDcode": "MVSD-474",
+    "title": "新卒女子社員-初川みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "流汗",
       "中出",
-      "巨乳"
+      "美少女电影",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241121-1/dc25bf1e3f8b52b3d748584b23497155.jpg",
+    "cover_url": "https://tutu1.space/images/2021/08/23/8fdde79dd39a58eccd665a22c3530979.jpg",
     "actress": [
-      "黑川纱里奈"
+      "初川南"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-082"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-474"
   },
   {
-    "id": 526173,
-    "IDcode": "MRSS-083",
-    "title": "“来年、3人でまた游园地行こうね…”息子の手术费用を稼ぐために、爱する",
+    "id": 64052,
+    "IDcode": "MVSD-475",
+    "title": "相部屋病室-妃ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "护士",
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "连裤袜",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/23/bcdeb2423d7605cfc65b184eb8e3e70d.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-475"
+  },
+  {
+    "id": 79442,
+    "IDcode": "MVSD-476",
+    "title": "売れたいんだろ？ モデルを夢見るボクの彼女はクズおやじに洗脳され中出し肉便器になっていました。 朝倉ここな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "巨乳",
+      "中出",
+      "偶像",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-08-19",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221015-1/9713947ea0a2aab68579fa72623ea797.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-476"
+  },
+  {
+    "id": 212972,
+    "IDcode": "MVSD-477",
+    "title": "老师太可爱了-広瀬みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e6ba25ed19a1f28ee8fb75b7838f3f15.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-477"
   },
   {
-    "id": 100464,
-    "IDcode": "MRSS-084",
-    "title": "こっそり妻の授業を覗いてみたら、あの凶悪なDQN達が真面目に授業聞いてたから感心したんだけどこの話には続きがあって… 加藤ももか",
+    "id": 79366,
+    "IDcode": "MVSD-478",
+    "title": "超ハードコア3穴ごっくん輪●ファック！ マ○コ！ノドマ○コ！ケツマ○コ！制服美少女の全てのメス穴に鬼畜中出し30連発！ 武田エレナ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "吞精",
+      "二穴同时挿入",
+      "中出",
+      "美少女电影",
+      "淫乱，真实",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1e923939fb0161378254078a18aa4e23.jpg",
+    "actress": [
+      "夏目未來"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-478"
+  },
+  {
+    "id": 79247,
+    "IDcode": "MVSD-480",
+    "title": "暴淫棒食 お局女上司はとんでもない酩酊ドスケベSEXモンスター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "流汗",
+      "中出",
+      "淫乱，真实",
+      "两男一女"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d186f7f05a9813b0a09485fa152deb48.jpg",
+    "actress": [
+      "イセドン内村",
+      "有沢実纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-480"
+  },
+  {
+    "id": 79310,
+    "IDcode": "MVSD-481",
+    "title": "マザコンおやじに来る日も来る日も乳首をもてあそばれ開発され乳首イキを覚えてしまったワタシ。 花狩まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "放尿",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-481"
+  },
+  {
+    "id": 80040,
+    "IDcode": "MVSD-482",
+    "title": "絶倫兄弟-瀬田一花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
       "已婚妇女",
-      "多P",
-      "白天出轨",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/2b4ab8605ff760ea4558f8b61380b4cb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-482"
+  },
+  {
+    "id": 435957,
+    "IDcode": "MVSD-483",
+    "title": "呼べば速攻チ○ポをしゃぶりに来てくれる舐めマンフェラビッチ！ 山口葉瑠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/bb026357d9d9237760347539d531fff1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-483"
+  },
+  {
+    "id": 80112,
+    "IDcode": "MVSD-485",
+    "title": "勃起薬チ○ポVS媚薬マ○コ！ ちんビン！まんトロ！W暴走中出しFUCK！ 彼女に飲ませるはずの媚薬を彼女のお姉ちゃんが飲んじゃった（汗） 乃木蛍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "淫乱，真实",
+      "姐姐",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c46ae9b5a1ce2b89d400b73bb933b6f7.jpg",
+    "actress": [
+      "乃木蛍",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-485"
+  },
+  {
+    "id": 80138,
+    "IDcode": "MVSD-486",
+    "title": "風俗トゥナイト AV女優初川みなみが噂のガチ風俗にガチ潜入！素人さん相手に生ハメ中出し体験リポート！ 初川みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "纪录片",
+      "中出",
+      "礼仪小姐",
+      "滥交",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8d3b9e080e0112a1e9d47883775446cc.jpg",
+    "actress": [
+      "初川南"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-486"
+  },
+  {
+    "id": 80176,
+    "IDcode": "MVSD-487",
+    "title": "卒業まで恋人になってあげる 女性不信になったボクのハートとチ○ポをボインで包み込んでくれるりの先生の癒しいやらし密着スローセックス 結城りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "中出",
+      "女上位",
+      "眼镜",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/5064557189cff4e41fb6e70f56f9d3fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-487"
+  },
+  {
+    "id": 79929,
+    "IDcode": "MVSD-488",
+    "title": "濃厚ベロキスでオヤジのエキスを吸い尽くす小悪魔接吻ハーレム 大量生ツバ注入！チ○ポがみなぎるジューシーリップサンド逆3P さつき芽衣 百瀬あすか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "女上位",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/4120000e5c27004f94faf071c250a203.jpg",
+    "actress": [
+      "沙月芽衣",
+      "小栗操"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-488"
+  },
+  {
+    "id": 85617,
+    "IDcode": "MVSD-489",
+    "title": "このデカパイ女教師 俺の校内肉便器（笑） 美波もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫乱，真实",
+      "学校泳装",
       "女教师",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-12-21",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230303-1/d01f87135e3a9836f550810e5876243a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-489"
+  },
+  {
+    "id": 215268,
+    "IDcode": "MVSD-490",
+    "title": "去天堂吧-松本いちか さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/26/b35a6fe012e6cdd93b13008c9ab9b0a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-490"
+  },
+  {
+    "id": 85653,
+    "IDcode": "MVSD-492",
+    "title": "我很抱歉-川北メイサ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "美少女电影",
+      "美容院",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/27/150a11aac867251d4f965420a4fbef76.jpg",
+    "actress": [
+      "鳳美優",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-492"
+  },
+  {
+    "id": 556430,
+    "IDcode": "MVSD-493",
+    "title": "因为我吸了很多",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230319-1/8c4330b12199ef9f934d8ba46a5ed271.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-493"
+  },
+  {
+    "id": 85631,
+    "IDcode": "MVSD-494",
+    "title": "上級国民美人妻-三尾めぐ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "凌辱",
+      "已婚妇女",
+      "中出",
+      "多P",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/cd57a2e25ea3f4f90ba10a1ee5310d30.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-494"
+  },
+  {
+    "id": 155924,
+    "IDcode": "MVSD-495",
+    "title": "欲求不満-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/6a6b15915a24ee9161e07f5d2ee20827.jpg",
+    "actress": [
+      "根尾明里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-495"
+  },
+  {
+    "id": 85645,
+    "IDcode": "MVSD-496",
+    "title": "一个糟糕的老师-白桃はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "美少女电影",
+      "手淫",
+      "高中女生",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/fe9f5cee20a10c584e105ccfee15f38f.jpg",
+    "actress": [
+      "白桃はな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-496"
+  },
+  {
+    "id": 80809,
+    "IDcode": "MVSD-497",
+    "title": "女の肉体-冨安れおな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "潮吹",
+      "中出",
+      "美容院",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/14ac4c8c1b8215a42df84437d0ad99ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-497"
+  },
+  {
+    "id": 80815,
+    "IDcode": "MVSD-499",
+    "title": "性教育-宝田もなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "眼镜",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/98a9e027d9f3a5e482bcc43331b6dd8b.jpg",
+    "actress": [
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-499"
+  },
+  {
+    "id": 81220,
+    "IDcode": "MVSD-500",
+    "title": "マザコンおやじに来る日も来る日も乳首をもてあそばれ開発され乳首イキを覚えてしまったワタシ。 真白みくる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "羞耻",
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-03-15",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e8c0662d387de91fef6e6ca1999d3e71.jpg",
+    "actress": [
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-500"
+  },
+  {
+    "id": 81202,
+    "IDcode": "MVSD-501",
+    "title": "通奸的妻子-推川ゆうり 有岡みう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "中出",
+      "淫乱，真实",
+      "两女一男"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a309af5dd54a1c6ae9aab9cb7cf7bc98.jpg",
+    "actress": [
+      "推川悠里",
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-501"
+  },
+  {
+    "id": 81183,
+    "IDcode": "MVSD-502",
+    "title": "头号歌舞女郎-川北メイサ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "单体作品",
+      "潮吹",
+      "中出",
+      "礼仪小姐",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/d7b910d6a6373a53a70e51816b62906b.jpg",
+    "actress": [
+      "鳳美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-502"
+  },
+  {
+    "id": 85649,
+    "IDcode": "MVSD-503",
+    "title": "我醉醺醺地醒来-あおいれな 向井藍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "女上位",
+      "两女一男",
+      "苗条",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/3cd3c51af3c80fc440d4c810cfd9b00c.jpg",
+    "actress": [
+      "向井藍",
+      "葵玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-503"
+  },
+  {
+    "id": 85666,
+    "IDcode": "MVSD-504",
+    "title": "Rose FUCK Bunny オマ○コ！ノドマ○コ！ケツマ○コ！イクイクは～どこあFUCK！3穴でザーメンごっくん！ビックリ19発！ 乙アリス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "肛交",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-04-19",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/MTVfd54W.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-504"
+  },
+  {
+    "id": 85611,
+    "IDcode": "MVSD-505",
+    "title": "快速性交的护士-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "单体作品",
+      "护士",
       "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-02-19",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mrss084/mrss084pl.jpg",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/f61ea58db6a5dfd6eb385dcada3f73f3.jpg",
     "actress": [
-      "加藤桃香"
+      "根尾朱里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-084"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-505"
   },
   {
-    "id": 102703,
-    "IDcode": "MRSS-085",
-    "title": "寝取られ子作り旅行僕と妻の赤ちゃんを授かるために排卵日を狙って来たら、男子大学生たちに妻が寝取られて中出しされまくった稲場るか",
+    "id": 85625,
+    "IDcode": "MVSD-506",
+    "title": "爱妻的淫荡呻吟-川上奈々美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "单体作品",
       "已婚妇女",
-      "多P",
-      "白天出轨",
-      "中文字幕",
       "中出",
-      "巨乳"
+      "手淫",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/myzn22lbsge.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/3a41ef79214a743520c8e0112848c963.jpg",
     "actress": [
-      "岩下たろう",
-      "稻场流花"
+      "川上奈奈美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-506"
   },
   {
-    "id": 165278,
-    "IDcode": "MRSS-086",
-    "title": "合理的で絶対権力に屈しない性格の妻が腐った町内会に服従してしまった 今井夏帆",
+    "id": 85626,
+    "IDcode": "MVSD-507",
+    "title": "丰满的胸部-穂花あいり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "巨乳",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/cf21919a8dc14ba118ec7f060d998a7f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-507"
   },
   {
-    "id": 102694,
-    "IDcode": "MRSS-087",
-    "title": "真面目すぎる妻は介護職に向いてない 葵百合香",
+    "id": 85612,
+    "IDcode": "MVSD-508",
+    "title": "奇葩性交-根尾あかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "荡妇",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "女上位",
+      "女佣"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e27314146649f98a4e47b5047c83b566.jpg",
+    "actress": [
+      "根尾朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-508"
+  },
+  {
+    "id": 85646,
+    "IDcode": "MVSD-509",
+    "title": "叔叔的大鸡巴-佐野なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "潮吹",
+      "中出",
+      "高中女生",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/accc2427765abfe26331a19cee147da8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-509"
+  },
+  {
+    "id": 85638,
+    "IDcode": "MVSD-510",
+    "title": "【FANZA限定】たった1人の大好きな姉は10日後、ひくほど壊れてました。 俺の身代わりのつもりがセックスが好き過ぎて絶倫極道の極太チ○ポに即堕ちした隠れ淫乱姉 百瀬あすか 生写真3枚付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "流汗",
+      "潮吹",
+      "中出",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-05-18",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/FnfIceTL.jpg",
+    "actress": [
+      "小栗操"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-510"
+  },
+  {
+    "id": 85669,
+    "IDcode": "MVSD-511",
+    "title": "美しき女マッスル捜査官媚薬アクメに堕ちる！ 孕ませ！輪●！快楽拷問！淫謀の媚薬シンジゲート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "潮吹",
+      "中出",
+      "淫乱，真实",
+      "女检察官"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/91ad2f9b505da092ca137f02eb1d6edd.jpg",
+    "actress": [
+      "三岳祐奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-511"
+  },
+  {
+    "id": 85621,
+    "IDcode": "MVSD-512",
+    "title": "看起來妻子從以前就被調教的樣子。 不知道的妻子過去…誰都會嫉妒的愛妻是超S大肉棒鄰居的中出M寵物 蜜美杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
       "已婚妇女",
-      "多P",
-      "白天出轨",
+      "单体作品",
+      "无码破解",
       "中出",
-      "巨乳"
+      "淫乱，真实",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-04-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mrss087/mrss087pl.jpg",
+    "company": "MVG GROUP",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230127-1/3bde0aefd13af25f38471bbd63a562dd.jpg",
     "actress": [
-      "葵百合香"
+      "藤井蘭々"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-512"
   },
   {
-    "id": 87922,
-    "IDcode": "MRSS-088",
-    "title": "大学に社会人入学したアラサーの妻 一切遊ばずに真面目に勉強すると言ってたのにヤリサーに簡単に騙され中出し乱交パーティ 神咲まい",
+    "id": 67835,
+    "IDcode": "MVSD-513",
+    "title": "我的乳头感觉很疯狂-根尾あかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
+      "口交",
+      "单体作品",
+      "潮吹",
+      "中出",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/2523203a08884a712d824960e7bc0fbf.jpg",
+    "actress": [
+      "根尾朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-513"
+  },
+  {
+    "id": 63325,
+    "IDcode": "MVSD-514",
+    "title": "姐姐柔软的奶子-小花のん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "乱伦",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/22/687f03a93ed39b57c0749222/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-514"
+  },
+  {
+    "id": 67993,
+    "IDcode": "MVSD-515",
+    "title": "遠距離恋愛-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/34662ff02e2eb5b0ba9af52983cab1ac.jpg",
+    "actress": [
+      "根尾朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-515"
+  },
+  {
+    "id": 67771,
+    "IDcode": "MVSD-516",
+    "title": "甜蜜的口交-白桃はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "吞精",
+      "口交",
+      "单体作品",
+      "美少女电影",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a999e8a021cb0f24a299cd5c05bb4d94.jpg",
+    "actress": [
+      "白桃はな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-516"
+  },
+  {
+    "id": 61862,
+    "IDcode": "MVSD-517",
+    "title": "制服美少女-上坂めい 川北メイサ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "潮吹",
+      "美少女电影",
+      "高中女生",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/c32bf6e944b96917b0c35c573694d1c0.jpg",
+    "actress": [
+      "鳳美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-517"
+  },
+  {
+    "id": 66609,
+    "IDcode": "MVSD-518",
+    "title": "魔鬼般的小手口交者-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
+      "美少女电影",
+      "手淫",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/86955655a08c0a0df891ea56c8962f6e.jpg",
+    "actress": [
+      "根尾朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-518"
+  },
+  {
+    "id": 85661,
+    "IDcode": "MVSD-519",
+    "title": "Wロ○っ娘尻デビル ぷりっぷりの生尻でチ○ポを仲良くパックン小悪魔サンドイッチ 倉本すみれ 幾田まち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "屁股",
+      "中出",
+      "美少女电影",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3bf566be46cd49e370c2f94485321dfe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-519"
+  },
+  {
+    "id": 85618,
+    "IDcode": "MVSD-520",
+    "title": "乳犯 陰湿おやじに小麦色のスポーツ爆乳を来る日も来る日も揉みしだかれて… 南条いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "单体作品",
+      "巨乳",
+      "乳交",
+      "中出",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230303-1/11128e9b4deef21b941fc52c2c5925d8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-520"
+  },
+  {
+    "id": 85668,
+    "IDcode": "MVSD-521",
+    "title": "Lets雌性高潮GOtoHEAVEN被假屌妹抽插悶絶肛門叫喊一整晚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "M男",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/b13eaafe6f644f837b3120b93142643a.jpg",
+    "actress": [
+      "沙月惠奈",
+      "花狩舞",
+      "向理来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-521"
+  },
+  {
+    "id": 68243,
+    "IDcode": "MVSD-522",
+    "title": "想和你的老师练习接吻吗-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
+      "中出",
+      "女上位",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/930b482a905b3f66874410bc2fa22bb7.jpg",
+    "actress": [
+      "根尾朱里",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-522"
+  },
+  {
+    "id": 68723,
+    "IDcode": "MVSD-523",
+    "title": "年轻的已婚美容师-末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
       "已婚妇女",
-      "多P",
-      "白天出轨",
       "中出",
-      "乱交"
+      "按摩",
+      "美容院",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "神咲舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-088"
-  },
-  {
-    "id": 559918,
-    "IDcode": "MRSS-090",
-    "title": "通过视频通话直播的地狱生野光如何在公司旅行期间被醉酒的老板性骚扰新员工的妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/18/6879a7cd43d697271675c77f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-523"
   },
   {
-    "id": 559920,
-    "IDcode": "MRSS-091",
-    "title": "ALT的妻子NTR到DQNJuneLovejoy-朱丽拉布乔伊",
+    "id": 85632,
+    "IDcode": "MVSD-524",
+    "title": "終電肉便器 補習班結束的最終電車…被骯髒癡漢集團連日玩弄無垢肉體覺醒癡漢高潮的我。 花狩舞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "凌辱",
+      "单体作品",
+      "羞耻",
+      "中出",
+      "美少女电影",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "MVG GROUP",
+    "publish_date": "2022-10-19",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230329-1/1b294edd98071e8645c59a63ba8436b8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-524"
   },
   {
-    "id": 211996,
-    "IDcode": "MRSS-093",
-    "title": "爱妻的合同-波多野結衣",
+    "id": 68905,
+    "IDcode": "MVSD-525",
+    "title": "传闻中的大奶子-綾瀬こころ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "美少女电影",
+      "偶像"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/9591d954089ccd3038b7bba646f4fc98.jpg",
+    "actress": [
+      "绫濑心",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-525"
+  },
+  {
+    "id": 85629,
+    "IDcode": "MVSD-526",
+    "title": "私人教练NTR-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "淫妻",
+      "中出",
+      "美少女电影",
+      "苗条",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/717ee2b60f6581217647dac8fed088e7.jpg",
+    "actress": [
+      "根尾朱里",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-526"
+  },
+  {
+    "id": 556345,
+    "IDcode": "MVSD-527",
+    "title": "极致硬核三孔吞精环●操！合作○马！诺玛公司！ Ketsuma○Co！在一个穿着制服的漂亮女孩的所有受虐狂洞中进行了 30 次残酷的阴道射精！铃音杏花 - 铃音杏夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/04/15/690ab0dc66f01243281a9164d407e1e3.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/36053941eda05986bd412a7639fb9f1a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-527"
   },
   {
-    "id": 210478,
-    "IDcode": "MRSS-094",
-    "title": "发现了妻子出轨的证据-広瀬結香",
+    "id": 68095,
+    "IDcode": "MVSD-529",
+    "title": "父亲的再婚情人-白川みなみ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "白天出轨"
     ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/08/d38a38c0e8231481e6b0a1917ea08c9f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-094"
-  },
-  {
-    "id": 211189,
-    "IDcode": "MRSS-095",
-    "title": "妻子的故事-河北はるな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "MVG GROUP",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/11/30bb3cb85b589cf86756e706b3dc55e5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-095"
+    "cover_url": "https://lust103.cc/upload/vod/20250512-6/0efbe60465a8e9b75d2d36e4e9bb4ca1.jpg",
+    "actress": [
+      "夏目玲香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-529"
   }
 ];

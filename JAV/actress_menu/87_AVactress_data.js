@@ -81,7 +81,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-01-21",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080140815815.jpg",
       "actress": [
@@ -128,7 +128,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075920746746.jpg",
       "actress": [
@@ -217,7 +217,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-07-16",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/6e3798d98ce788c96b7f311454ba3b07.jpg",
       "actress": [
@@ -291,7 +291,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2024-04-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240416/79f7dcac-b135-44ad-ba3e-43b433c0162a.jpg",
       "actress": [
@@ -553,7 +553,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/8716234b4b04e30d402470455741f197.jpg",
       "actress": [
@@ -686,7 +686,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/363b42314ffa780108846a945d4b7e38.jpg",
       "actress": [
@@ -707,7 +707,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/4bdf11dda33ccc96d6916f6d488511cd.jpg",
       "actress": [
@@ -1175,7 +1175,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/25/2d4b0149cb4c37cf9a9c4b175562fb72.jpg",
       "actress": [
@@ -1334,7 +1334,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/50fb61f4-23bf-4cc4-a477-37238399ff7c.jpg",
       "actress": [
@@ -1398,7 +1398,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d20356e4a73d4f159b5a8e/cover.jpg",
       "actress": [

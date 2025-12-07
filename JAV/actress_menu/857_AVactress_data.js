@@ -83,7 +83,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/eaa8961d-1fcd-42da-8048-60eb5d567e3b.webp",
       "actress": [
@@ -99,7 +99,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/af05c406-13ea-45c2-8706-41ce9463cf7d.webp",
       "actress": [

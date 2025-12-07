@@ -1,555 +1,130 @@
 window.PAGE_DATA = [
   {
-    "id": 166995,
-    "IDcode": "SNIS-952",
-    "title": "天使もえファン感謝祭",
+    "id": 467714,
+    "IDcode": "SORA-095",
+    "title": "新手女主播初次外景漏尿野砲 星空萌愛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993444e7d663df4047b80/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-952"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-095"
   },
   {
-    "id": 71329,
-    "IDcode": "SNIS-953",
-    "title": "奶葵的浴场完美服务",
+    "id": 469879,
+    "IDcode": "SORA-096",
+    "title": "人妻露出狂 青木玲 4小時",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "温泉",
-      "乳交",
-      "妓女",
-      "巨乳",
-      "薄马赛克"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "小野夕子",
-      "森林原人",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-953"
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05fe2eb67774efbace857/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-096"
   },
   {
-    "id": 73029,
-    "IDcode": "SNIS-954",
-    "title": "「みはるはキスが好きでたまらないの…」舌と唇と唾液が濃厚に絡み合う涎ダラダラ全身ベロベロ性交 羽咲みはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "美少女",
-      "中文字幕",
-      "巨乳",
-      "口交",
-      "薄马赛克",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/654c42416d73f45c8d9fc78a198c9195.jpg",
-    "actress": [
-      "羽笑美晴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-954"
-  },
-  {
-    "id": 219884,
-    "IDcode": "SNIS-956",
-    "title": "童年朋友的JK女友-辻本杏",
+    "id": 469884,
+    "IDcode": "SORA-097",
+    "title": "野外肏翻欠幹辣妹到沉淪！  一条莉音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d06066eb67774efbace85a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-956"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-097"
   },
   {
-    "id": 205396,
-    "IDcode": "SNIS-957",
-    "title": "让人痴迷的大屌的疯狂性交",
+    "id": 536297,
+    "IDcode": "SORA-098",
+    "title": "野外お下劣レズヤリ舍てレイプ游戏 三喜本のぞみ×美星るか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230617/sora098pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-098"
   },
   {
-    "id": 591472,
-    "IDcode": "SNIS-959",
-    "title": "[]巨屌狂肏写真偶像高潮爽翻天瀬野雅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-959"
-  },
-  {
-    "id": 166551,
-    "IDcode": "SNIS-960",
-    "title": "敏感大奶全套肏爽3小時 水卜櫻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-960"
-  },
-  {
-    "id": 106374,
-    "IDcode": "SNIS-963",
-    "title": "エグい程の肉感AV-RION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "局部特写",
-      "超乳",
-      "乳房",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/gOrE481l.jpg",
-    "actress": [
-      "安斋拉拉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-963"
-  },
-  {
-    "id": 166996,
-    "IDcode": "SNIS-964",
-    "title": "汗水唾液淫汁融合国民偶像三上悠亚",
+    "id": 467699,
+    "IDcode": "SORA-100",
+    "title": "不倫露出肉食妻之旅 水嶋杏樹",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230323-1/e6bbee7e8d28dd2d8b346c013412b22a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d994494e7d663df4047bff/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-964"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-100"
   },
   {
-    "id": 556713,
-    "IDcode": "SNIS-965",
-    "title": "被透明内裤线和皮塔饼屁股所诱惑...星野奈美 - 星野娜美",
+    "id": 469934,
+    "IDcode": "SORA-101",
+    "title": "春藥中毒超M高潮調教 川菜美鈴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251002-1/4a801058511dc0b3bab60a0e4760a621.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/19/68cd148d2c5ed64ee9ab9e55/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-965"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-101"
   },
   {
-    "id": 166552,
-    "IDcode": "SNIS-966",
-    "title": "大小便失禁-小島みなみ",
+    "id": 467719,
+    "IDcode": "SORA-102",
+    "title": "超M女主播害羞失禁外景野砲 和泉潤",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993594e7d663df4047b86/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-966"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-102"
   },
   {
-    "id": 166553,
-    "IDcode": "SNIS-967",
-    "title": "跟男友出席同學會被灌醉輪姦連肏6天 葵司",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-967"
-  },
-  {
-    "id": 166554,
-    "IDcode": "SNIS-968",
-    "title": "巨乳若妻-奥田咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-968"
-  },
-  {
-    "id": 166555,
-    "IDcode": "SNIS-969",
-    "title": "H罩杯爆乳亂交夾射31連發 夢乃愛華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交",
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-969"
-  },
-  {
-    "id": 104726,
-    "IDcode": "SNIS-970",
-    "title": "桥本有菜最爱大肉棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "巨大阴茎",
-      "美少女",
-      "女上位",
-      "薄马赛克"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "新有菜",
-      "森林原人",
-      "鲛岛",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-970"
-  },
-  {
-    "id": 166494,
-    "IDcode": "SNIS-971",
-    "title": "禁慾・挑逗・焦躁後的絕頂高潮幹砲 柳美憂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-971"
-  },
-  {
-    "id": 166495,
-    "IDcode": "SNIS-973",
-    "title": "激情猛肏顏射口爆！初體驗幹4砲 日菜菜彩音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-973"
-  },
-  {
-    "id": 67796,
-    "IDcode": "SNIS-974",
-    "title": "新米教師-吉沢明歩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "强奸",
-      "女教师",
-      "轮奸",
-      "薄马赛克",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250419-1/c68d8aaafd307d2214c47d66e9d9b315.jpg",
-    "actress": [
-      "吉沢明歩",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-974"
-  },
-  {
-    "id": 73454,
-    "IDcode": "SNIS-976",
-    "title": "狂妄后辈天使萌不停责备直到高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蛮横娇羞",
-      "薄马赛克",
-      "美少女",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-976"
-  },
-  {
-    "id": 97758,
-    "IDcode": "SNIS-977",
-    "title": "强制连结加强版通勤痴汉电车-葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "羞耻",
-      "OL",
-      "性骚扰",
-      "巨乳",
-      "薄马赛克"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/678018f7c179ffb1db6133ca/cover.jpg",
-    "actress": [
-      "小野夕子",
-      "鲛岛",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-977"
-  },
-  {
-    "id": 166999,
-    "IDcode": "SNIS-978",
-    "title": "ノーブラおっぱいで全力アピールしてくる彼女の妹と、誘惑に負けちゃう最低な僕。 羽咲みはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230509/snis00978pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-978"
-  },
-  {
-    "id": 556710,
-    "IDcode": "SNIS-979",
-    "title": "在性用品商店遇到姐姐的我（哥哥）。有幸有一个暖心的发展，看起来很尴尬，从他们的妹妹那里微笑的阴郁兄弟们是幸运的。凑里库 - 凑莉久",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251002-1/030f17d217f85edba235d0769aba1d22.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-979"
-  },
-  {
-    "id": 166642,
-    "IDcode": "SNIS-980",
-    "title": "被迫训练到喉部-辻本杏",
+    "id": 517653,
+    "IDcode": "SORA-103",
+    "title": "偷情成癮妻瞞著老公去不倫溫泉之旅",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/690274cd79f1ac4ec4c99635/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-980"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-103"
   },
   {
-    "id": 208866,
-    "IDcode": "SNIS-981",
-    "title": "宅飲みNTR-夏川あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-981"
-  },
-  {
-    "id": 590336,
-    "IDcode": "SNIS-982",
-    "title": "[]色情写真偶像放尿解禁 羞耻快感漏尿学生妹 瀬野雅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251002-1/2479990e04c90f227f05954f735dec16.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-982"
-  },
-  {
-    "id": 73030,
-    "IDcode": "SNIS-983",
-    "title": "交わる体液、濃密セックス 水卜さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "乳交",
-      "巨乳",
-      "薄马赛克",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/660c2feeb89fb94e8f86448e9473a5d3.jpg",
-    "actress": [
-      "水卜櫻",
-      "森林原人",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-983"
-  },
-  {
-    "id": 166991,
-    "IDcode": "SNIS-985",
-    "title": "被前辈们NTR的青梅竹马女朋友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230509/snis00985pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-985"
-  },
-  {
-    "id": 73451,
-    "IDcode": "SNIS-986",
-    "title": "禁欲一个月后-三上悠亜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "艺人",
-      "巨乳",
-      "流汗"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1f2f10f2d8ccff92f95367ef8d78525f.jpg",
-    "actress": [
-      "三上悠亜",
-      "望月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-986"
-  },
-  {
-    "id": 211532,
-    "IDcode": "SNIS-987",
-    "title": "带走荡妇-星野ナミ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-987"
-  },
-  {
-    "id": 203570,
-    "IDcode": "SNIS-988",
-    "title": "大乱交解禁-小島みなみ",
+    "id": 467670,
+    "IDcode": "SORA-105",
+    "title": "新手主播為了收視率而和巨屌野砲亂交！ 向井藍",
     "year": "",
     "country": "",
     "genre": "",
@@ -557,104 +132,187 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993954e7d663df4047b9a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-988"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-105"
   },
   {
-    "id": 544100,
-    "IDcode": "SNIS-989",
-    "title": "既婚男性限定ファン感谢祭葵つかさと第01集",
+    "id": 467673,
+    "IDcode": "SORA-106",
+    "title": "拼選戰時漏尿發情女候選員 廣瀨奈奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/6ca143422f03f78fc0dd7938549e169c.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993954e7d663df4047b9b/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-989"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-106"
   },
   {
-    "id": 193618,
-    "IDcode": "SNIS-990",
-    "title": "巨乳人妻奥田咲被老公带回家的大屌正太所吸引了",
+    "id": 467668,
+    "IDcode": "SORA-107",
+    "title": "露出調教噴聖水蕾絲邊 中里美穗 神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993f94e7d663df4047bcf/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-107"
+  },
+  {
+    "id": 517711,
+    "IDcode": "SORA-108",
+    "title": "爆乳黑辣妹想來當你的愛奴 西村妮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fb4ce2bf45974ea64059aa/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-990"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-108"
   },
   {
-    "id": 218271,
-    "IDcode": "SNIS-991",
-    "title": "今天在学校被修理-夢乃あいか",
+    "id": 467722,
+    "IDcode": "SORA-112",
+    "title": "太妹媽想離婚卻被混混輪番內射到爆 通野未帆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993bd4e7d663df4047bb0/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-991"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-112"
   },
   {
-    "id": 74308,
-    "IDcode": "SNIS-992",
-    "title": "学生会长连遭鬼畜轮奸沦为泄欲机器",
+    "id": 467703,
+    "IDcode": "SORA-113",
+    "title": "肉感巨尻幼稚園阿姨 江上志保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993d14e7d663df4047bc1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-113"
+  },
+  {
+    "id": 467700,
+    "IDcode": "SORA-116",
+    "title": "露出調教愛反派的宅妹 仁美(26)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9945d4e7d663df4047c11/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-116"
+  },
+  {
+    "id": 467696,
+    "IDcode": "SORA-117",
+    "title": "露出調教噴聖水蕾絲邊 蘆名由利亞 美織舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d994714e7d663df4047c21/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-117"
+  },
+  {
+    "id": 467689,
+    "IDcode": "SORA-121",
+    "title": "露出拘束 受囚運動妹 蓮實克蕾兒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d994994e7d663df4047c41/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-121"
+  },
+  {
+    "id": 467679,
+    "IDcode": "SORA-124",
+    "title": "肏到H罩杯隱藏版巨乳銀行妹墮落吧！ 若槻水菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "强奸",
-      "魔鬼系",
-      "轮奸",
-      "薄马赛克",
-      "高中女生"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "新有菜",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-992"
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d994b04e7d663df4047c45/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-124"
   },
   {
-    "id": 556705,
-    "IDcode": "SNIS-993",
-    "title": "Miyu Yanagi，一个湿漉漉的丰满天才，将为您提供汗水和酸味的游戏 - 柳美忧",
+    "id": 517754,
+    "IDcode": "SORA-125",
+    "title": "在實況網站發現的幹砲直播！ 緒方",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251002-1/ec2769d2b2d6df69b59f3f8a362536d5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f630f6631cc64eb5bc9379/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-993"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-125"
   },
   {
-    "id": 556706,
-    "IDcode": "SNIS-994",
-    "title": "正品人妻母乳提拉交汇体液密集性爱完全未切割特辑相叶里里 - 爱叶りり",
+    "id": 517747,
+    "IDcode": "SORA-131",
+    "title": "巨乳主婦3P肏翻天！ 成澤日並",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8442ddbf24d4ed3428724/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-131"
+  },
+  {
+    "id": 517740,
+    "IDcode": "SORA-133",
+    "title": "神尻露出 人妻羞辱調教 高谷皐月",
     "year": "",
     "country": "",
     "genre": "",
@@ -662,756 +320,220 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251002-1/234fa3d0d2db6ed9ac69b95deac15127.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8442cdbf24d4ed3428723/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-994"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-133"
   },
   {
-    "id": 556566,
-    "IDcode": "SNIS-995",
-    "title": "请告诉我喷出 Hanon Hinana Hanon 的乐趣 - 日菜菜彩音",
+    "id": 465861,
+    "IDcode": "SORA-140",
+    "title": "淫亂熟女野外露出幹砲 KAORI",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230530-1/a744fe1d188934aeea27e65f5f481770.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef161652c12b4e684b8438/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-995"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-140"
   },
   {
-    "id": 556568,
-    "IDcode": "SNIS-996",
-    "title": "激烈壹岐104次！抽搐3900次！壹岐潮2700cc！ J Cup Gravure Eros Awakening First Big / Spatula / Convulsions Special Nanami Matsumoto - 松本菜奈实",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230530-1/685a0db74920145d8e24a69e3706ef2c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-996"
-  },
-  {
-    "id": 166539,
-    "IDcode": "SNIS-997",
-    "title": "新人NO.1 STYLE 新社会人OL‘折原ゆら’さんが仕事帰りにまさかのAVデビュー！エロ過ぎて本業と掛け持ちでS1シロウト専属になっちゃいました。",
+    "id": 467683,
+    "IDcode": "SORA-143",
+    "title": "拘束肏翻野外露出巨乳妹 理奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d995124e7d663df4049985/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-143"
+  },
+  {
+    "id": 465856,
+    "IDcode": "SORA-144",
+    "title": "變態覺醒 紗紗原百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef1719bf45974ea627bb08/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-144"
+  },
+  {
+    "id": 517803,
+    "IDcode": "SORA-165",
+    "title": "野外自慰變態肉感M女 尾上若葉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8ba7a79f1ac4ec49bd815/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-165"
+  },
+  {
+    "id": 526776,
+    "IDcode": "SORA-169",
+    "title": "野外マゾ开眼。 笹仓杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230401/sora00169pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-169"
+  },
+  {
+    "id": 526885,
+    "IDcode": "SORA-172",
+    "title": "野外マゾ开眼。 南ゆき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-997"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-172"
   },
   {
-    "id": 73053,
-    "IDcode": "SNIS-998",
-    "title": "美人弁護士-吉沢明歩",
+    "id": 465885,
+    "IDcode": "SORA-173",
+    "title": "就是愛露出 KAORI 4小時精選 第一集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec15b952c12b4e6846873c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-173"
+  },
+  {
+    "id": 526824,
+    "IDcode": "SORA-177",
+    "title": "公开野外羞耻。 青山はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-177"
+  },
+  {
+    "id": 465924,
+    "IDcode": "SORA-186",
+    "title": "就是愛露出 武藤彩香 4小時精選 第二集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e599dbf24d4ed3200b67/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-186"
+  },
+  {
+    "id": 465920,
+    "IDcode": "SORA-187",
+    "title": "肉穴露出影片 百合花 3OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e86cdbf24d4ed3201dcd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-187"
+  },
+  {
+    "id": 465907,
+    "IDcode": "SORA-195",
+    "title": "清純OO妹是淫亂婊子！狂玩敏感乳頭野外噴汁高潮絕頂！ 泉莉音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c0144a4e7d663df4b50786/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-195"
+  },
+  {
+    "id": 521682,
+    "IDcode": "SORA-197",
+    "title": "阴キャM少女と野外身笼り合宿 H",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-197"
+  },
+  {
+    "id": 72514,
+    "IDcode": "SORA-203",
+    "title": "高慢セレブを野外で恥辱調教！露出ポルノでドM快楽の虜に…鈴木さとみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "凌辱",
-      "强奸",
       "调教",
-      "薄马赛克"
+      "户外",
+      "已婚妇女",
+      "羞耻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/26fb08404ad2d30ba0f298765d6b9f00.jpg",
     "actress": [
-      "吉沢明歩",
-      "田渊正浩"
+      "铃木里美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-998"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-203"
   },
   {
-    "id": 208857,
-    "IDcode": "SNIS-999",
-    "title": "誘惑回春マッサージ 天使もえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-999"
-  },
-  {
-    "id": 83315,
-    "IDcode": "SNKH-001",
-    "title": "黒人と遊びたいビッチちゃん 黒デカマラに憧れるハメ盛り美少女がそのデカさとパワーにガチハマりアクメしちゃう！ 一条みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-001"
-  },
-  {
-    "id": 82012,
-    "IDcode": "SNKH-002",
-    "title": "黒人と遊びたいビッチちゃん 黒髪華奢美少女は黒人チ●ポにぶっ壊された！ 小西まりえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2020-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-002"
-  },
-  {
-    "id": 544413,
-    "IDcode": "SNKH-006",
-    "title": "スレンダー美少女は黒人に犯●れたい 天真烂漫な少女が极太ペニスでメスにされる あおいれな new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/lRFXzpH6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-006"
-  },
-  {
-    "id": 539721,
-    "IDcode": "SNKH-017",
-    "title": "ショートカットの绮丽なおねえさんは黒人チ●ポに兴味アリ 激しすぎるブラックピストン叩き込まれガチでイった！ 叶月もえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240122/h_687snkh017pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-017"
-  },
-  {
-    "id": 565453,
-    "IDcode": "SNKH-022",
-    "title": "あざと可爱いおっとりOLさんは黒人さんと交尾がしたい 黒太巨根で絶叫イキ狂い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2d655a0a047aa05eebe77007ca86e86a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-022"
-  },
-  {
-    "id": 565452,
-    "IDcode": "SNKH-023",
-    "title": "シャイでドMなおねえさんは黒人さんとガチハメしたい 黒人巨根に完全屈服",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/42b9c502f7d1c839930a0a081af0607b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-023"
-  },
-  {
-    "id": 156816,
-    "IDcode": "SNKH-024",
-    "title": "一個放棄男友粗糙雞巴的巨乳女孩想和一個黑人做愛天野碧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241004-1/f7db0ec7cec42689a9ca168b7f54b65a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-024"
-  },
-  {
-    "id": 549062,
-    "IDcode": "SNKH-027",
-    "title": "デカチン求めて来た元気ギャル 黒人さんと初交尾 ガン突かれガチイキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230606/m8KSridW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-027"
-  },
-  {
-    "id": 546742,
-    "IDcode": "SNKH-028",
-    "title": "好奇心旺盛エロ女子 黒人さんと初遭遇 黒巨根にドハマりする",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/8wNpdqeS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-028"
-  },
-  {
-    "id": 546739,
-    "IDcode": "SNKH-029",
-    "title": "巨乳ギャルと黒人 デカさとタフさ违いすぎ…絶叫イキ狂い轰沈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/rluHmG7L/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-029"
-  },
-  {
-    "id": 546741,
-    "IDcode": "SNKH-031",
-    "title": "ドM黒ギャルと黒人 大阪弁チャキチャキの巨乳ギャルが激ピスでマジ轰沈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/BAeoQBCL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKH-031"
-  },
-  {
-    "id": 563310,
-    "IDcode": "SNKP-002",
-    "title": "黒人サプライズ2 极太チ●ポを爱した女たち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230925/ZUbuaAHX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNKP-002"
-  },
-  {
-    "id": 561038,
-    "IDcode": "SNO-003",
-    "title": "ガチ中ドキュメント！！【さんじのガチなか！】本物半外半中！！全てノーカットでお届けの嘘无し！骗し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240426/z5ksRTA0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNO-003"
-  },
-  {
-    "id": 544368,
-    "IDcode": "SNQ-03",
-    "title": "",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNQ-03"
-  },
-  {
-    "id": 66872,
-    "IDcode": "SNS",
-    "title": "欺骗在捉到的无知的宅cos美少女孕育的绝伦配种调教10 cos 10正式演出。子宫射出18射精。-牧野未央奈。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNS"
-  },
-  {
-    "id": 538732,
-    "IDcode": "SNTH-019",
-    "title": "河北春菜- ナンパ连れ込みSEX隠し撮り·そのまま胜手にAV発売。する23才まで童贞 Vol.19",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240924/P4ei80LV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTH-019"
-  },
-  {
-    "id": 77124,
-    "IDcode": "SNTJ-004",
-    "title": "ナンパ連れ込みSEX隠し撮り・そのまま勝手にAV発売。する元ラグビー選手 Vol.4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "业余",
-      "美少女电影",
-      "乳房",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/843a849c2cf87d7e8260b83bb5836b10.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTJ-004"
-  },
-  {
-    "id": 83288,
-    "IDcode": "SNTJ-006",
-    "title": "ナンパ連れ込みSEX隠し撮り・そのまま勝手にAV発売。する元ラグビー選手 Vol.6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "护士",
-      "业余",
-      "美少女电影",
-      "乳房"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTJ-006"
-  },
-  {
-    "id": 82197,
-    "IDcode": "SNTJ-007",
-    "title": "ナンパ連れ込みSEX隠し撮り・そのまま勝手にAV発売。する元ラグビー選手 Vol.7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "猎艳",
-      "业余",
-      "美少女电影",
-      "乳房"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/9d9be5eb5b3256686ecfc8dfdced77f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTJ-007"
-  },
-  {
-    "id": 220307,
-    "IDcode": "SNTJ-008",
-    "title": "勾搭女人与她发生性关系",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTJ-008"
-  },
-  {
-    "id": 529277,
-    "IDcode": "SNTJ-011",
-    "title": "ナンパ连れ込みSEX隠し撮り-そのまま胜手にAV発売。する元ラグビー选手 Vol．11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTJ-011"
-  },
-  {
-    "id": 523545,
-    "IDcode": "SNTL-017",
-    "title": "ナンパ连れ込みSEX隠し撮り・そのまま胜手にAV発売。する别格イケメン Vol.17",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/b48e27d0a97389a4f15bd922979e6baa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTL-017"
-  },
-  {
-    "id": 523546,
-    "IDcode": "SNTL-018",
-    "title": "ナンパ连れ込みSEX隠し撮り・そのまま胜手にAV発売。する别格イケメンの旧友 Vol.18",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/1f34fe4186fa1ba4d5f85b3bf18f9301.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTL-018"
-  },
-  {
-    "id": 523547,
-    "IDcode": "SNTL-019",
-    "title": "ナンパ连れ込みSEX隠し撮り・そのまま胜手にAV発売。する别格イケメン Vol.19",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTL-019"
-  },
-  {
-    "id": 70354,
-    "IDcode": "SNTL-020",
-    "title": "把妹回去干砲偷拍再擅自卖给片商的型男 Vol.20",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "猎艳",
-      "业余",
-      "美少女电影",
-      "乳房"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/01ba3707a1f7a95636860e0818f387d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTL-020"
-  },
-  {
-    "id": 415190,
-    "IDcode": "SNTL020",
-    "title": "把妹回去干砲偷拍再擅自卖给片商的型男Vol.う20",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250303-1/28f59a43010e83d3bde85b405ee5c6ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTL020"
-  },
-  {
-    "id": 555681,
-    "IDcode": "SNTR-001",
-    "title": "ナンパ连れ込みSEX隠し撮り-そのまま胜手にAV発売。する鬼畜な年下くん Vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2022/08/iv03psy5ckh.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTR-001"
-  },
-  {
-    "id": 523548,
-    "IDcode": "SNTR-006",
-    "title": "ナンパ连れ込みSEX隠し撮り・そのまま胜手にAV発売。するドSな年下くん Vol.6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/b8cbe824c090db57cb4b4d83509251c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTR-006"
-  },
-  {
-    "id": 535323,
-    "IDcode": "SNTX-018",
-    "title": "ナンパ连れ込みSEX隠し撮り・そのまま胜手にAV発売。するサラリーマン Vol.18",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240116/sntx018pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTX-018"
-  },
-  {
-    "id": 546735,
-    "IDcode": "SNTX-021",
-    "title": "ナンパ连れ込みSEX隠し撮り·そのまま胜手にAV発売。するサラリーマン Vol.21",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/Dwhu7EUI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTX-021"
-  },
-  {
-    "id": 546736,
-    "IDcode": "SNTX-022",
-    "title": "ナンパ连れ込みSEX隠し撮り·そのまま胜手にAV発売。するサラリーマン Vol.22",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/NOm1Sbl4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNTX-022"
-  },
-  {
-    "id": 463737,
-    "IDcode": "SNWD-027",
-    "title": "女子校生SEX STYLE’07 お嬢様●校の場合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68884ea4c92318f97d00902b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNWD-027"
-  },
-  {
-    "id": 531453,
-    "IDcode": "SNYZ-007",
-    "title": "G子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221105-1/b164afd383f3c564d32266ba102461e4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNYZ-007"
-  },
-  {
-    "id": 517719,
-    "IDcode": "SOAN-001",
-    "title": "屁眼塗春藥兩穴肏翻家長會長 水原",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9965d6fbef4e900913e8/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-001"
-  },
-  {
-    "id": 517712,
-    "IDcode": "SOAN-002",
-    "title": "嫁去鄉下妻被肏成眾人堆精屁眼 篠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fb4df2bf45974ea64059ab/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-002"
-  },
-  {
-    "id": 517762,
-    "IDcode": "SOAN-017",
-    "title": "肏菊花連射4發欲求不滿淫亂辣妹媽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31cd1dd88d14f063f1f42/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-017"
-  },
-  {
-    "id": 517767,
-    "IDcode": "SOAN-018",
-    "title": "慢跑妹緊實淫肉體雙穴幹砲絕頂出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31bd1dd88d14f063f16a3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-018"
-  },
-  {
-    "id": 469990,
-    "IDcode": "SOAN-026",
-    "title": "四十歲M女砲友菊花解禁 天野彌生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bde176735bb663f7731258/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-026"
-  },
-  {
-    "id": 470136,
-    "IDcode": "SOAN-037",
-    "title": "求職OO肛門觸診&amp;雙穴OO到高潮 美由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a703db8cce1a927afea4ca/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-037"
-  },
-  {
-    "id": 470113,
-    "IDcode": "SOAN-038",
-    "title": "笑著獻上菊花&amp;漏尿調教人妻雙穴絕頂中出！ 天音由梨花",
+    "id": 468036,
+    "IDcode": "SORA-208",
+    "title": "找乾爹而被調教成變態M女偷情人妻 皆瀨杏樹",
     "year": "",
     "country": "",
     "genre": "",
@@ -1419,169 +541,254 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af2e44d7791f92730df3da/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef65f4e7d663df4b3fa53/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-208"
   },
   {
-    "id": 468047,
-    "IDcode": "SOAN-040",
-    "title": "打破那個性格嚴肅不知變通OL的愚蠢肛門 高梨里乃",
+    "id": 534282,
+    "IDcode": "SORA-212",
+    "title": "优月まりなは注文の多いマゾ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef6b14e7d663df4b3fa5b/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-212"
   },
   {
-    "id": 410031,
-    "IDcode": "SOAN-041",
-    "title": "屁眼不倫調教 森下美緒",
+    "id": 468025,
+    "IDcode": "SORA-213",
+    "title": "就是愛露出 紗紗原百合 4小時精選",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6897467455337d7f7bb62a50/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef5d44e7d663df4b3fa45/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-041"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-213"
   },
   {
-    "id": 410023,
-    "IDcode": "SOAN-042",
-    "title": "被後輩肉棒OO高潮墮落的妻子…黑洞屁眼中出！！新村晶",
+    "id": 468033,
+    "IDcode": "SORA-214",
+    "title": "第一次露出調教M覺醒的女人！優木伊織與一般男性妄想成真 優木伊織",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d9aa55337d7f7bbc723d/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef6254e7d663df4b3fa4e/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-042"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-214"
   },
   {
-    "id": 77115,
-    "IDcode": "SOAN-045",
-    "title": "肛虐NTR-浅見せな",
+    "id": 534281,
+    "IDcode": "SORA-215",
+    "title": "若妻セクハラ妊活トレーニング子宫激突き孕ませザーメン渍け黒川ゆきな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-215"
+  },
+  {
+    "id": 468041,
+    "IDcode": "SORA-216",
+    "title": "分享奴隷 上傳神等級豐腴貴婦露出3P瘋狂高潮影片 逢澤真里亞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef6754e7d663df4b3fa56/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-216"
+  },
+  {
+    "id": 468044,
+    "IDcode": "SORA-217",
+    "title": "「服從老公以外的男人、背德感與M快樂最興奮了」人妻麗香26歲 橋本麗香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "NTR",
-      "流汗",
-      "白天出轨",
-      "淫妻",
-      "女教师",
-      "肛交",
-      "单体作品"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1549f6a7f799ae4c586a9b1398037f5f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef6884e7d663df4b3fa57/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-217"
+  },
+  {
+    "id": 589637,
+    "IDcode": "SORA-218",
+    "title": "【受虐狂萌】“我不能告诉任何人。我想像牲畜一样在户外接受训练，",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/29/59280_cover_2025-06-29_231904.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-218"
+  },
+  {
+    "id": 468051,
+    "IDcode": "SORA-219",
+    "title": "憤怒與屈辱的高傲OL凌辱成肉奴隸 宮川亞里沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef6ec4e7d663df4b3fa61/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-219"
+  },
+  {
+    "id": 70279,
+    "IDcode": "SORA-220",
+    "title": "性奴隶的原石 理衣奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "户外",
+      "羞耻"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b202a08f2c2052a2ccf38998c4cf3a19.jpg",
     "actress": [
-      "岩下たろう",
-      "爱乃零"
+      "逢澤理衣奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-045"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-220"
   },
   {
-    "id": 82007,
-    "IDcode": "SOAN-046",
-    "title": "お嬢様ロリ少女が肛則違反の学校FUCK！鬼畜チ●ポで腸内をかき回されアナル3Pでくぱくぱよがり狂い従順な尻穴ペット堕ち！！まりえちゃん",
+    "id": 468057,
+    "IDcode": "SORA-221",
+    "title": "下藥露出調教 川菜美鈴4小時-上",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "瘦小身型",
-      "多P",
-      "肛交",
-      "二穴同时挿入",
-      "高中女生"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/2dcec0205bdc178a0cee99361a653bb1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-046"
-  },
-  {
-    "id": 565451,
-    "IDcode": "SOAN-075",
-    "title": "小6男子のお母さんは今日2穴夜ふかししてきます…寝取らせ性癖の旦那を思って胜手に出演した本物ガチ素人妻さん専业主妇・叶月もえ（仮名）寝取らせアナル承诺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1b1384782419a5e7c1cea571345291cd.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7284e7d663df4b3fa67/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-075"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-221"
   },
   {
-    "id": 565450,
-    "IDcode": "SOAN-076",
-    "title": "成年女子肛门嗜癖せいねんじょしこうもんしへき 白沢比吕21歳",
+    "id": 468059,
+    "IDcode": "SORA-222",
+    "title": "憤怒屈辱高潮的新人OL懲戒汚辱。成為性處理母豬奴隸的影片 菜菜子（22歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7294e7d663df4b3fa68/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-222"
+  },
+  {
+    "id": 74001,
+    "IDcode": "SORA-223",
+    "title": "じんかくそうさ洗脳催眠～男を下に見る高慢女上司を催眠で主従逆転人格操作編～蓮実クレア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "催眠",
+      "OL",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2019-07-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/2a15c7eb0c404c7568eae0380cae55b3.jpg",
+    "actress": [
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-223"
+  },
+  {
+    "id": 73949,
+    "IDcode": "SORA-224",
+    "title": "巨乳新人ナースは患者イジメする糞ビッチ！嬲り尽しイカセ調教で、人格崩壊ギリギリの下克上レ●プ！！ 今では患者の輪姦チ●ポを悦んで丸呑みする 森下美怜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "魔鬼系",
+      "调教",
+      "巨乳",
+      "护士"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2019-07-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5ef0bccc4757675301b2bee75507c9e7.jpg",
+    "actress": [
+      "相沢夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-224"
+  },
+  {
+    "id": 74052,
+    "IDcode": "SORA-225",
+    "title": "調教済みJ● お披露目輪姦パーティー 天然Fカップのマジメお嬢様J●をDQN達の乱交現場に強制連行。野外晒し者輪姦でヨガリ狂いドM快楽堕ち！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "户外",
+      "乱交",
+      "高中女生",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2019-07-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/ceb7e18aa8bbc84123e60c56fb4b39eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-225"
+  },
+  {
+    "id": 592569,
+    "IDcode": "SORA-227",
+    "title": "一个自告奋勇户外受虐，害羞发情的业馀暴露狂兽本性，吞下大公鸡，吞下瑜伽！ !!莉卡（20岁",
     "year": "",
     "country": "",
     "genre": "",
@@ -1589,271 +796,884 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/48L7MDgt.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/60679_cover_2025-06-09_063239.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-076"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-227"
   },
   {
-    "id": 468311,
-    "IDcode": "SOAN-079",
-    "title": "肛門全頭頭罩 持續違反道德性欲奴隸玲乃再臨",
+    "id": 578659,
+    "IDcode": "SORA-228",
+    "title": "外见と性格はボーイッシュだけど、制服の下はナイスバディ思春期真っ只中のボクっ娘を辱め露出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20c0cdb8c77d79bb69656/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-079"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-228"
   },
   {
-    "id": 565449,
-    "IDcode": "SOAN-080",
-    "title": "热肛门子园 2穴マン塁2バット4ボール 现役野球部マネージャー光岛辽花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cb37ece99785759c2b0ea9525134e191.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-080"
-  },
-  {
-    "id": 220468,
-    "IDcode": "SOAN-083",
-    "title": "让我年轻的丈夫实现自私的NTR",
+    "id": 74351,
+    "IDcode": "SORA-229",
+    "title": "「スマホ1つで月収50万なんだけどwww」と出会い系アプリで￥交詐欺を繰り返す生意気シロート娘を辱め調教したら、アヘ顔デレ堕ちして…ドM覚醒！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "业余",
+      "调教",
+      "户外",
+      "羞耻"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2019-08-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250115-1/ab54110820d8ead89c0d6e5568d889af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-229"
+  },
+  {
+    "id": 213090,
+    "IDcode": "SORA-231",
+    "title": "支配的觉醒-新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-231"
+  },
+  {
+    "id": 410033,
+    "IDcode": "SORA-232",
+    "title": "原宿竹下通打工的巨乳辣妹野外露出性愛墮落為自慰套婊子！！ 果步（19歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689743e555337d7f7bb5c662/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-232"
+  },
+  {
+    "id": 218465,
+    "IDcode": "SORA-233",
+    "title": "人格测试洗脑催眠-川菜美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-233"
+  },
+  {
+    "id": 410022,
+    "IDcode": "SORA-234",
+    "title": "性奴隸的原石 特別編 佐久間惠美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897da5f55337d7f7bbc7261/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-234"
+  },
+  {
+    "id": 465961,
+    "IDcode": "SORA-236",
+    "title": "居酒屋工作的素人娘、是店員・熟客・都是婊兄弟的婊子辣妹！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcaed4ce5a404e9bc310fc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-236"
+  },
+  {
+    "id": 465959,
+    "IDcode": "SORA-238",
+    "title": "歡迎來到密着豐滿野外天體渡假勝地 藤白桃羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcb212ce5a404e9bc31b2b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-238"
+  },
+  {
+    "id": 86239,
+    "IDcode": "SORA-239",
+    "title": "让她暴露",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "户外",
+      "放尿",
+      "调教",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/be76befcc6f6329105b7c4d5b9202a34.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-239"
+  },
+  {
+    "id": 83295,
+    "IDcode": "SORA-241",
+    "title": "元レゲエダンサー現役英語教師なお28歳。引き返せない不倫露出調教にハマり、ケツ振りのけ反りFUCKでアヘ堕ち！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女教师",
+      "巨乳",
+      "户外",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-241"
+  },
+  {
+    "id": 78970,
+    "IDcode": "SORA-242",
+    "title": "【拡散希望】某SNSサイトにイラストを投稿する成人向け漫画家見習い腐オタ女子が、「私の絵、全然バズらなくて…。誰にも真似できない表現の絵を描",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "户外",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a709d2a47ebb1a85c14a9/cover.jpg",
+    "actress": [
+      "野野原薺"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-242"
+  },
+  {
+    "id": 470765,
+    "IDcode": "SORA-243",
+    "title": "ちんシャブ大好きイラマ奴● 体験人数1名だけど、フェラヌキしたチ●ポは300本オーバー。口淫の天才、地味っ娘リケジョまり（20歳） 加賀美真理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a73002a47ebb1a85c14c4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-243"
+  },
+  {
+    "id": 83290,
+    "IDcode": "SORA-244",
+    "title": "精飲調教で肉便器堕ちしたド淫乱ザーメン女教師 大沢カスミ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "女教师",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大沢カスミ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-244"
+  },
+  {
+    "id": 83797,
+    "IDcode": "SORA-246",
+    "title": "僕の許嫁は、親父のお古だった。久しぶりの再会で寝取られ野外調教され、「こんな関係ダメ…」と言いながらも抗えないマゾ快楽で、メス奴●堕ち。柊るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "放尿",
+      "户外",
+      "羞耻",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柊留衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-246"
+  },
+  {
+    "id": 83305,
+    "IDcode": "SORA-247",
+    "title": "性獣の霊を閉じ込めた封印を解かれたメス堕ち巫女 南野あさひ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "放尿",
+      "荡妇",
+      "女祭司",
+      "户外"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-247"
+  },
+  {
+    "id": 82011,
+    "IDcode": "SORA-249",
+    "title": "【父と息子のNTR】僕の婚約者は、親父の愛人奴●だった。毎日、親父に種付け屋外調教されヨガリ狂う婚約者を見て僕はフル勃起が治まらず、、、結婚を決めました。 南野あさひ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "淫妻",
+      "羞耻",
+      "放尿",
       "NTR",
-      "淫妻"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/17/6878a44f3ed39b57c02b3e17/cover.jpg",
+    "company": "妄想族",
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221105-1/522e89945d836bc5b770102403105869.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-249"
   },
   {
-    "id": 550056,
-    "IDcode": "SOAN-086",
-    "title": "肛门カウンセリング 学校终わりに気軽に屋上浣肠飞散 无麻酔による2穴拡张挿入いたします 被験番号007",
+    "id": 81998,
+    "IDcode": "SORA-250",
+    "title": "インテリOL露出調書知的エリート女が公然わいせつ輪●で常時発情メス化！理性失いマゾ覚醒！！佐伯由美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "OL",
+      "羞耻",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221105-1/2bedc4562b6a743e9d2616fc0ab6b3bd.jpg",
+    "actress": [
+      "佐伯由美香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-250"
+  },
+  {
+    "id": 86202,
+    "IDcode": "SORA-252",
+    "title": "大胸妻子-有末香織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "已婚妇女",
+      "户外",
+      "羞耻",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d83992d6fbef4e90ccbbe7/cover.jpg",
+    "actress": [
+      "篠原友香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-252"
+  },
+  {
+    "id": 86234,
+    "IDcode": "SORA-253",
+    "title": "卖身少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "女生",
+      "放尿",
+      "多P",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "本桥実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-253"
+  },
+  {
+    "id": 465995,
+    "IDcode": "SORA-255",
+    "title": "前地下偶像L.T是愛好者之間有名的露出狂肉食女。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230118/tPHzEcEN/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d85fdbd6fbef4e90cd7f30/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-255"
   },
   {
-    "id": 549994,
-    "IDcode": "SOAN-087",
-    "title": "ふじゅんにあなこうかん不纯2穴肛奸 未成熟なマ●コよりも先にアナル快楽に目覚めた女子◎生の记录",
+    "id": 529276,
+    "IDcode": "SORA-258",
+    "title": "在原宿珍奶店打工的淫乱女孩人妻（好相处（笑）喜欢精液（笑）） 男人的梦想就是和美丽的巨乳色情妹在野外自由自在 喜欢露出的炮友妹七濑日向",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-258"
+  },
+  {
+    "id": 466083,
+    "IDcode": "SORA-261",
+    "title": "露出狂的女ネ申。讓人看的露出癖好野外做愛的素人們",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d050f2eb67774efbacad73/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-261"
+  },
+  {
+    "id": 466087,
+    "IDcode": "SORA-262",
+    "title": "OO會長是真性露出狂 ～特別拍攝真人版～若宮穗乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230127/mwqwktvw/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04e49eb67774efbaca7dd/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-262"
   },
   {
-    "id": 564306,
-    "IDcode": "SOAN-090",
-    "title": "はじめての2穴ごっくん",
+    "id": 466075,
+    "IDcode": "SORA-263",
+    "title": "有著貓耳的她說著「把我當寵物吧」不管地點對我撒嬌懇球打野砲◆神咲舞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230608/vmYQIzLm/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05279eb67774efbacafdb/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-263"
   },
   {
-    "id": 546734,
-    "IDcode": "SOAN-091",
-    "title": "トー横生まれ地雷系アナルちゃん ワタシのアヌス爱は谁にも负けないよ キミの心の病気…ぼくにもください",
+    "id": 466065,
+    "IDcode": "SORA-265",
+    "title": "露出狂的女ネ申。害羞般露出癖好野外做愛的素人們",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d19b3131a2714f1c201a12/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-265"
+  },
+  {
+    "id": 466069,
+    "IDcode": "SORA-266",
+    "title": "讓人看的露出日記 大原優莉亞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/QHVDutl3/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1997b31a2714f1c200fe1/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-266"
   },
   {
-    "id": 546732,
-    "IDcode": "SOAN-092",
-    "title": "野球大好きどノーマルすけべ主妇が自身のストライクゾーンを広げるためアナル出演をケツ意！！絶伦2",
+    "id": 211071,
+    "IDcode": "SORA-267",
+    "title": "露出狂女教師 凛音とうか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/k9sFSso5/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d17ea331a2714f1c1fac0d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-092"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-267"
   },
   {
-    "id": 401250,
-    "IDcode": "SOAN-093",
-    "title": "全舌罩2孔肛门主演代号008",
+    "id": 466066,
+    "IDcode": "SORA-268",
+    "title": "敏感過頭的纖瘦微乳寵物 美緒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/682098fe197cffa350f8b98b/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d19d1831a2714f1c201a32/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-268"
   },
   {
-    "id": 546730,
-    "IDcode": "SOAN-094",
-    "title": "No anal No life アナルのない人生なんて意味がない 肛门性交が好きだってだけで変",
+    "id": 466054,
+    "IDcode": "SORA-270",
+    "title": "露出狂的女神。喜歡露出到做愛早洩的巨乳素人們 上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d30bdf79f1ac4ec4701718/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-270"
+  },
+  {
+    "id": 466056,
+    "IDcode": "SORA-272",
+    "title": "密着舔吻 與淫亂症的我私滿滿接吻青姦約會 大原優莉亞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/645LJ5KB/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2d7f5ce5a404e9bac0d2d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-272"
   },
   {
-    "id": 546731,
-    "IDcode": "SOAN-095",
-    "title": "肛门カウンセリング学校に驯染めない生意気生徒を浣肠折槛无麻酔による2穴拡张挿入いたします 被験",
+    "id": 466045,
+    "IDcode": "SORA-273",
+    "title": "新任巨乳女教師被不良們帶到野外裸體速描視姦OO害羞絶頂。屈辱快楽嗚咽愉悅肉便器墮落… 若宮穗乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/17/67d70b714e7d663df4f8431c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-273"
+  },
+  {
+    "id": 536796,
+    "IDcode": "SORA-277",
+    "title": "スレンダー巨根ガールが痴女レズに学园アナル调教 スケベ肉棒を鬼勃起させながら何度も雌イキし… ベアトリクス 星空もあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/X3RUk7GO/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231218/1604741258-sora277pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-095"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-277"
   },
   {
-    "id": 546729,
-    "IDcode": "SOAN-096",
-    "title": "肛门カウンセリング课外授业の目玉は野外浣肠飞散 人外による2穴拡张挿入いたします 被験番号0",
+    "id": 213141,
+    "IDcode": "SORA-278",
+    "title": "妻子被强奸了-凛音とうか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240120/LvjvgWkZ/1.jpg",
+    "cover_url": "https://tutu1.space/images/2021/09/02/89acbcd3454fe0ddc063336f2becd90e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-278"
+  },
+  {
+    "id": 466051,
+    "IDcode": "SORA-279",
+    "title": "優等生OO妹喜歡全裸露出！！放學後露出姿泰被偷窺的OO妹、全裸冒險指令讓自己成為玩物、視姦快樂顫抖絶頂◆ 宮澤千春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d30eeb1572686be7581e13/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-279"
+  },
+  {
+    "id": 461778,
+    "IDcode": "SORA-291",
+    "title": "浮気常習妻 不貞交尾に興奮し連続潮吹きしまくる絶倫早漏マ●コ奥さん。旦那の目を盗みセフレと1泊2日不倫旅行。露出好きの血が騒ぎ驚愕の34回絶頂！！かよ35歳 岩澤香代",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/cd55c1cb64fb0273f9c82f67bea149ae.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-291"
+  },
+  {
+    "id": 516800,
+    "IDcode": "SORA-298",
+    "title": "人格操作洗腦催眠！！佐藤愛理 星",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb30e61572686be78663c6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-298"
+  },
+  {
+    "id": 72493,
+    "IDcode": "SORA-299",
+    "title": "はめキャン泥●ギガ性欲痴女にチ●ポ敗北宣言（嬉泣）岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "放尿",
+      "户外",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9260e2b0eb4e6b57aec5b78e7ed88acf.jpg",
+    "actress": [
+      "有村希",
+      "岬梓沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-299"
+  },
+  {
+    "id": 72511,
+    "IDcode": "SORA-300",
+    "title": "フェラ友ごっくん一泊二日デート 蘭々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "户外",
+      "第一人称摄影",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8c2084a53cd4768ff22af1ca3b8edf9e.jpg",
+    "actress": [
+      "蘭々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-300"
+  },
+  {
+    "id": 88237,
+    "IDcode": "SORA-301",
+    "title": "淫語の天才で見せたがり露出狂J系が「野外だったらヤラせてあげる」と、ノーマルな僕を垂らし込んでマゾ勃起させ、バレたら人生終了の露出快楽でイキ悦ぶ 竹田まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "第一人称摄影",
+      "户外",
+      "吞精"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fd107fb509fe686764eb718155f1be4a.jpg",
+    "actress": [
+      "今井まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-301"
+  },
+  {
+    "id": 435954,
+    "IDcode": "SORA-302",
+    "title": "はめキャン つるぺた清楚娘は見せたがり変態マゾ 八尋麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/d43ec253cffe859960e8b9a519a096b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-302"
+  },
+  {
+    "id": 468117,
+    "IDcode": "SORA-304",
+    "title": "【J罩杯×白虎】有3歳與5歳小孩的母親喜歡露出 歐巴桑露出超下流出租 羽生亞里沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b62382cf22ae3e04d3e247/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-304"
+  },
+  {
+    "id": 435981,
+    "IDcode": "SORA-305",
+    "title": "はめキャン 「恥ずかしい姿見て」変態ドM公開宣言！葉月桃 有村望 岬梓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/cd2baea653cacecf86401dd1caaed515.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-305"
+  },
+  {
+    "id": 468116,
+    "IDcode": "SORA-310",
+    "title": "池袋女子酒吧勤務H.K（23歳）、是超淫亂M女巨臀辣妹。肉食辣妹受孕瘋狂、肉棒快樂無法控制",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b62396cf22ae3e04d3e24d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-310"
+  },
+  {
+    "id": 79163,
+    "IDcode": "SORA-312",
+    "title": "学校が終わるとヘンタイに変身！Hカップ露出好きJ系 小梅えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "户外",
+      "羞耻",
+      "校服",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/a3b339ac7ea6383428a1190548107974.jpg",
+    "actress": [
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-312"
+  },
+  {
+    "id": 435919,
+    "IDcode": "SORA-315",
+    "title": "都合のいいセフレと野外でヤリたい放題。りさ（22歳） 九条里紗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/216d48236eea656147ce4e765f6b0fca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-315"
+  },
+  {
+    "id": 435949,
+    "IDcode": "SORA-316",
+    "title": "学校が終わるとヘンタイに変身！イキ潮ダダ漏らしJ系 放課後のセルフ露出姿を覗き男に視姦されマ●コが疼きっぱなし！ 志木茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/97beec972ce18f23b87b294941b10def.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-316"
+  },
+  {
+    "id": 468175,
+    "IDcode": "SORA-317",
+    "title": "失敗的女主角從不氣餒 黑川紗里奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/17/67b338a14e7d663df4815d76/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-317"
+  },
+  {
+    "id": 468656,
+    "IDcode": "SORA-323",
+    "title": "與超淫蕩巨大乳暈垂乳肉食痴女如同野獸般野外交尾約會 優木伊織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20ec7cf22ae3e04a81ee8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-323"
+  },
+  {
+    "id": 468299,
+    "IDcode": "SORA-324",
+    "title": "超M同胞夫妻…看見被主人公認的炮友王子們肉棒4P抽插沉溺的我肚爛勃起的老公今日也在等待著… 水森惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20b91db8c77d79bb6964a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-324"
+  },
+  {
+    "id": 468664,
+    "IDcode": "SORA-325",
+    "title": "露出狂蘿莉塔在野外是痴女 花音麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20f3ecf22ae3e04a81f57/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-325"
   }
 ];

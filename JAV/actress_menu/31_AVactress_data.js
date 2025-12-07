@@ -965,7 +965,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250801-1/228b46077a758e597b3b54f66190876f.jpg",
       "actress": [
@@ -1140,7 +1140,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/1d9701f3-0526-41e7-b8f9-c48f6cd7d715_thumbnail.webp",
       "actress": [
@@ -1671,7 +1671,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025658856856_36991_thumbnail.webp",
       "actress": [

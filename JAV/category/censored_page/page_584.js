@@ -1,230 +1,74 @@
 window.PAGE_DATA = [
   {
-    "id": 215833,
-    "IDcode": "GVG-147",
-    "title": "gvg-147 搞笑恶作剧-星野ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-147"
-  },
-  {
-    "id": 82428,
-    "IDcode": "GVG-148",
-    "title": "平时高高在上的黑丝女会长莲实克蕾儿被不良学生们轮奸内射调教成校园男厕肉便器",
+    "id": 82607,
+    "IDcode": "HAVD-837",
+    "title": "狂乱的接吻与性交新婚妻子-水嶋あずみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳房",
-      "正太控",
-      "轮奸",
-      "戏剧"
+      "已婚妇女",
+      "企画",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "蓮実クレア"
+      "水嶋杏美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-148"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-837"
   },
   {
-    "id": 174131,
-    "IDcode": "GVG-153",
-    "title": "禁断介护-初美沙希",
+    "id": 216553,
+    "IDcode": "HAVD-840",
+    "title": "父親の借金-宮地由梨香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-840"
   },
   {
-    "id": 97464,
-    "IDcode": "GVG-154",
-    "title": "お姉ちゃんのリアル性教育 紺野ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
-      "乱伦",
-      "妹妹",
-      "戏剧"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/703189ab8de6af475adb63e7ecee8aae.jpg",
-    "actress": [
-      "绀野光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-154"
-  },
-  {
-    "id": 215804,
-    "IDcode": "GVG-157",
-    "title": "gvg-157 性欲処理係-逢沢はるか",
+    "id": 523144,
+    "IDcode": "HAVD-841-CD1",
+    "title": "波多野结衣- 美しき大人のレズビアン双头バイブエクスタシー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250502/oeWnjoL8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-841-CD1"
   },
   {
-    "id": 579048,
-    "IDcode": "GVG-159",
-    "title": "断わりきれないパートさんのいる吃茶店",
+    "id": 523145,
+    "IDcode": "HAVD-841-CD2",
+    "title": "波多野结衣- 美しき大人のレズビアン双头バイブエクスタシー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230509/13gvg159pl.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250503/3GLby8jV/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-159"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-841-CD2"
   },
   {
-    "id": 225943,
-    "IDcode": "GVG-160",
-    "title": "巨乳美女家庭教师-折原ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-160"
-  },
-  {
-    "id": 531950,
-    "IDcode": "GVG-164",
-    "title": "SEX OF THE DEAD 巨乳僵尸辣妹3 莲实克蕾儿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250222-1/adf2a146505273b6acc021c17da817a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-164"
-  },
-  {
-    "id": 82636,
-    "IDcode": "GVG-179",
-    "title": "医院内缠满绷带的可爱女生-みづなれい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "残忍画面",
-      "多P",
-      "其他恋物癖",
-      "调教",
-      "魔鬼系"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "水菜丽",
-      "徳田重男"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-179"
-  },
-  {
-    "id": 212531,
-    "IDcode": "GVG-180",
-    "title": "禁断介護-水樹りさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-180"
-  },
-  {
-    "id": 216431,
-    "IDcode": "GVG-182",
-    "title": "被软禁的房间-香山美桜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e05e6a1572686be773fc60/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-182"
-  },
-  {
-    "id": 213692,
-    "IDcode": "GVG-188",
-    "title": "坏小子学生会-KAORI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-188"
-  },
-  {
-    "id": 212257,
-    "IDcode": "GVG-192",
-    "title": "禁断介護-百合川さら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-192"
-  },
-  {
-    "id": 517569,
-    "IDcode": "GVG-203",
-    "title": "人妻恥悅旅行 円城瞳",
+    "id": 212902,
+    "IDcode": "HAVD-842",
+    "title": "美人妻的義父-RYU",
     "year": "",
     "country": "",
     "genre": "",
@@ -232,576 +76,863 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/691105446b81af1f854428a3/poster2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-842"
   },
   {
-    "id": 71270,
-    "IDcode": "GVG-204",
-    "title": "被变态大叔们侵犯调教的人妻-みほの",
+    "id": 523153,
+    "IDcode": "HAVD-848-CD1",
+    "title": "波多野结衣- 美人温泉若女将 ～色白美肌に群がる男汁～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250503/Q4GbthVc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-848-CD1"
+  },
+  {
+    "id": 523146,
+    "IDcode": "HAVD-848-CD2",
+    "title": "波多野结衣- 美人温泉若女将 ～色白美肌に群がる男汁～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250503/P8KXmOi6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-848-CD2"
+  },
+  {
+    "id": 523147,
+    "IDcode": "HAVD-852-CD1",
+    "title": "波多野结衣- 生徒に亲切で优しい保健室の先生の手コキと父兄の陵辱セックスと接吻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250503/jjVc29Ck/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-852-CD1"
+  },
+  {
+    "id": 523151,
+    "IDcode": "HAVD-852-CD2",
+    "title": "波多野结衣- 生徒に亲切で优しい保健室の先生の手コキと父兄の陵辱セックスと接吻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250503/yGrpIznM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-852-CD2"
+  },
+  {
+    "id": 98278,
+    "IDcode": "HAVD-878",
+    "title": "思春期姉妹 家族に内緒の舐め合いレスビアン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
+      "女同接吻",
+      "女同性恋",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2014-02-20",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1havd878/1havd878pl.jpg",
+    "actress": [
+      "夏目优希",
+      "藤嶋唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-878"
+  },
+  {
+    "id": 35367,
+    "IDcode": "HAVD-881",
+    "title": "被轮奸的人妻樱井步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "凌辱",
-      "多P",
-      "猫耳女",
-      "性骚扰"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/aa59ef1193977f74240bbd7afd470f13.jpg",
-    "actress": [
-      "坂咲美穗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-204"
-  },
-  {
-    "id": 212528,
-    "IDcode": "GVG-206",
-    "title": "强奸村",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-206"
-  },
-  {
-    "id": 517568,
-    "IDcode": "GVG-207",
-    "title": "美熟女ハメまくりイキまくり淫乱ヒッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/691105c56b81af1f8544298c/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-207"
-  },
-  {
-    "id": 82437,
-    "IDcode": "GVG-208",
-    "title": "拜托我的美女老婆-かすみ果穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "其他恋物癖",
-      "戏剧",
-      "乱伦",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "香澄果穗",
-      "徳田重男"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-208"
-  },
-  {
-    "id": 225953,
-    "IDcode": "GVG-210",
-    "title": "拘束调教强上内射社长-松井優子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-210"
-  },
-  {
-    "id": 517556,
-    "IDcode": "GVG-214",
-    "title": "运动短裤妹激情集训",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912865872c0032a43fe65e6/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-214"
-  },
-  {
-    "id": 82419,
-    "IDcode": "GVG-216",
-    "title": "滥用职权的PTA会长-かすみ果穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "正太控",
+      "单体作品",
+      "已婚妇女",
       "轮奸",
-      "戏剧"
+      "多P",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/aa094e6c9fc98970415a1212662eb4eb.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "香澄果穗"
+      "樱井步"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-216"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-881"
   },
   {
-    "id": 82627,
-    "IDcode": "GVG-230",
-    "title": "为了报杀父之仇的人妻-坂口れな",
+    "id": 215781,
+    "IDcode": "HAVD-894",
+    "title": "肉体巨乳若妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-894"
+  },
+  {
+    "id": 526561,
+    "IDcode": "HAVD-905",
+    "title": "失业中の冴えない仆の激しいベロチューに腰を抜かした邻の若妻 噂を",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-905"
+  },
+  {
+    "id": 220528,
+    "IDcode": "HAVD-912",
+    "title": "淫乱的接吻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/29/686056ff3ed39b57c02096bc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-912"
+  },
+  {
+    "id": 160343,
+    "IDcode": "HAVD-912-C",
+    "title": "不倫接吻 24時間の情事 若妻は夫の目を盗んで朝から晩まで背徳セックスに酔いしれる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250425-1/0f2168cf3bbb8bab3d6438b18d24ff2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-912-C"
+  },
+  {
+    "id": 215795,
+    "IDcode": "HAVD-913",
+    "title": "接吻夫婦交換",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "夫妻交换"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-913"
+  },
+  {
+    "id": 589345,
+    "IDcode": "HAVD-914",
+    "title": "接吻乱伦在一个屋檐下，年轻的妻子们在内疚和快乐之间燃烧到高潮 - 大槻响",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/51462_cover_2025-09-10_150216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-914"
+  },
+  {
+    "id": 526560,
+    "IDcode": "HAVD-922",
+    "title": "☆紧急発売☆グラビアアイドル志愿・今井初音どさくさ纷れに犯されAVデビュ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-922"
+  },
+  {
+    "id": 98777,
+    "IDcode": "HAVD-924",
+    "title": "若妻レズビアン 舌と唇と唾液まみれの濃厚接吻 舐めて求めて貪って…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同性恋",
+      "企画",
+      "接吻",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2016-03-17",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1havd924/1havd924pl.jpg",
+    "actress": [
+      "羽月希",
+      "しずく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-924"
+  },
+  {
+    "id": 98197,
+    "IDcode": "HAVD-927",
+    "title": "人妻姉妹レズビアン 涼香とエリ 唾液まみれの濃厚接吻に溺れて",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
       "已婚妇女",
-      "其他恋物癖",
-      "戏剧",
-      "各种职业"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "坂口れな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-230"
-  },
-  {
-    "id": 97320,
-    "IDcode": "GVG-233",
-    "title": "肉棒制裁-今藤霧子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "其他恋物癖",
-      "调教",
-      "多P",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d31bcfce5a404e9bad3029/cover.jpg",
-    "actress": [
-      "今藤雾子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-233"
-  },
-  {
-    "id": 216390,
-    "IDcode": "GVG-234",
-    "title": "大胸教员致力于射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-234"
-  },
-  {
-    "id": 216475,
-    "IDcode": "GVG-237",
-    "title": "他喜欢臀部-初美沙希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-237"
-  },
-  {
-    "id": 212535,
-    "IDcode": "GVG-241",
-    "title": "变态的舌吻-夏希みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-241"
-  },
-  {
-    "id": 318595,
-    "IDcode": "GVG-242",
-    "title": "禁断介护-涉谷果步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-242"
-  },
-  {
-    "id": 216571,
-    "IDcode": "GVG-243",
-    "title": "gvg-243 喜欢巨乳的男孩-西村ニーナ 繭村めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-243"
-  },
-  {
-    "id": 82407,
-    "IDcode": "GVG-256",
-    "title": "会長と悪ガキ生徒会 卯水咲流",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "戏剧",
-      "正太控",
-      "各种职业",
-      "轮奸"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "卯水咲流"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-256"
-  },
-  {
-    "id": 216572,
-    "IDcode": "GVG-257",
-    "title": "gvg-257 喜欢臀部-小泉まり 美咲エリカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-257"
-  },
-  {
-    "id": 548841,
-    "IDcode": "GVG-258",
-    "title": "姑の卑猥过ぎる巨乳を狙う娘婿寺岛志保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-258"
-  },
-  {
-    "id": 549247,
-    "IDcode": "GVG-260",
-    "title": "母子奸 夫から赠られたミニスカートをはく母 三浦恵理子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230622/13gvg260pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-260"
-  },
-  {
-    "id": 523121,
-    "IDcode": "GVG-262",
-    "title": "波多野结衣- ベロちゅう キモ患者が集うオゲレツな病院で波多野结衣が猥亵ベロキス诊察に没头する！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250429/LZ7NgP0k/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-262"
-  },
-  {
-    "id": 469893,
-    "IDcode": "GVG-265",
-    "title": "被淫兄盪妹肏翻的從順繼母 吹石玲奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf1b3b7de28f4ede5121f4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-265"
-  },
-  {
-    "id": 523652,
-    "IDcode": "GVG-270",
-    "title": "禁断介护 夏希みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/7be47fa75228c4a8c45f7b446dc36057.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-270"
-  },
-  {
-    "id": 216573,
-    "IDcode": "GVG-271",
-    "title": "gvg-271 喜欢巨乳的男孩-成宮はるあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-271"
-  },
-  {
-    "id": 549286,
-    "IDcode": "GVG-273",
-    "title": "母子奸 末っ子を溺爱しすぎる母 原ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230630/13gvg273pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-273"
-  },
-  {
-    "id": 210212,
-    "IDcode": "GVG-274",
-    "title": "操主人家老婆-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-274"
-  },
-  {
-    "id": 540906,
-    "IDcode": "GVG-277",
-    "title": "思春期チ○ポに兴奋する猥亵女家庭教师第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-277"
-  },
-  {
-    "id": 469875,
-    "IDcode": "GVG-278",
-    "title": "被淫兄盪妹肏翻的從順繼母 高嶋由花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d17c9231a2714f1c1fabe6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-278"
-  },
-  {
-    "id": 225922,
-    "IDcode": "GVG-284",
-    "title": "我那高傲的会长老妈-吹石れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-284"
-  },
-  {
-    "id": 82629,
-    "IDcode": "GVG-286",
-    "title": "当着儿子女友的面和儿子内射做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "单体作品",
-      "戏剧",
-      "乱伦",
-      "无码破解",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802ec0f9a2e9b1d4755f1c/cover.jpg",
-    "actress": [
-      "佐佐木明希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-286"
-  },
-  {
-    "id": 82628,
-    "IDcode": "GVG-292",
-    "title": "被撞见做爱现场-森はるら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
+      "接吻",
+      "女同性恋",
       "妹妹",
-      "戏剧"
+      "企画"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
+    "company": "",
+    "publish_date": "2016-04-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "森春流"
+      "峰ゆり香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-292"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-927"
   },
   {
-    "id": 549364,
-    "IDcode": "GVG-293",
-    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 桐岛美奈子",
+    "id": 102900,
+    "IDcode": "HAVD-929",
+    "title": "女と女の唇と舌が絡み合う…若妻接吻レズビアン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "女同性恋",
+      "女同接吻",
+      "企画",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230711/13gvg293pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-293"
+    "company": "",
+    "publish_date": "2016-05-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "羽田璃子",
+      "あいだ飞鸟"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-929"
   },
   {
-    "id": 211976,
-    "IDcode": "GVG-296",
-    "title": "禁断介護-吉川あいみ",
+    "id": 540917,
+    "IDcode": "HAVD-930",
+    "title": "接吻家庭内相奸一つ屋根の下、浓厚第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-296"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-930"
   },
   {
-    "id": 216520,
-    "IDcode": "GVG-297",
-    "title": "喜欢巨乳的男孩-保志美あすか",
+    "id": 535958,
+    "IDcode": "HAVD-933",
+    "title": "人妻姊妹レズビアン女と女でヤル浓厚接吻と背徳性行为",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-933"
   },
   {
-    "id": 469938,
-    "IDcode": "GVG-298",
-    "title": "被淫兄盪妹肏翻的從順繼母 小早川怜子",
+    "id": 536146,
+    "IDcode": "HAVD-952",
+    "title": "接吻レズビアン 义母と娘の淫らな関系 唾液まみれの唇と舌が浓厚に络み合う",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-952"
+  },
+  {
+    "id": 98617,
+    "IDcode": "HAVD-957",
+    "title": "発情人妻 接吻フィットネス・レズ 禁断の肉体関係",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "运动",
+      "女同性恋",
+      "女同接吻",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2017-07-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "真木今日子",
+      "二阶堂ゆり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-957"
+  },
+  {
+    "id": 535967,
+    "IDcode": "HAVD-962",
+    "title": "浓厚接吻レズビアン义母と娘爱し合って求め合ってイカせ合う",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-962"
+  },
+  {
+    "id": 98298,
+    "IDcode": "HAVD-964",
+    "title": "接吻レズビアン禁断の女友達-舐めて愛して貪って",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企画",
+      "接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2017-12-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "奏自由",
+      "藤川れいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-964"
+  },
+  {
+    "id": 535966,
+    "IDcode": "HAVD-968",
+    "title": "爱欲浓厚接吻レズビアン义母と娘女同士の淫らな游戏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-968"
+  },
+  {
+    "id": 98827,
+    "IDcode": "HAVD-972",
+    "title": "接吻レズビアン 卑猥なクチビルと舌で快楽を貪り合う若妻たち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同性恋",
+      "企画",
+      "接吻",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1havd972/1havd972pl.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-972"
+  },
+  {
+    "id": 535965,
+    "IDcode": "HAVD-973",
+    "title": "家庭内接吻レズビアン唾液と爱液にまみれて爱し合う义母と娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-973"
+  },
+  {
+    "id": 103071,
+    "IDcode": "HAVD-974",
+    "title": "濃厚接吻 同棲レズビアンの淫らな性生活 女同士の底なしの快楽の溺れて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "女同",
+      "女同性恋",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "日向澪",
+      "月下あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-974"
+  },
+  {
+    "id": 103032,
+    "IDcode": "HAVD-977",
+    "title": "肉欲接吻レズビアン 人妻セラピストの淫らなマッサージで女同士の快楽に堕とされて",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "女同",
+      "按摩",
+      "女同性恋",
+      "女同接吻",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1havd977/1havd977pl.jpg",
+    "actress": [
+      "葵百合香",
+      "彩奈莉娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-977"
+  },
+  {
+    "id": 99027,
+    "IDcode": "HAVD-980",
+    "title": "接吻レズビアン・女教師と女子生徒 女子生徒に快楽を教え込まれる女教師の熟れた肉体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "高中女生",
+      "女教师",
+      "女同性恋",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-03-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "绀野さゆり",
+      "野々宫みさと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-980"
+  },
+  {
+    "id": 98678,
+    "IDcode": "HAVD-982",
+    "title": "接吻姉妹レズビアン ギャルの姉と地味っ娘の妹 女と女の肉体関係",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妹妹",
+      "女同接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "長谷川玲",
+      "南凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-982"
+  },
+  {
+    "id": 76722,
+    "IDcode": "HAVD-984",
+    "title": "濡れ肌接吻・温泉旅館レズビアン 同性愛に火照る淫らなカラダ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "浴衣",
+      "女优按摩棒",
+      "素人作品",
+      "女同性恋",
+      "女同接吻",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-05-23",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/6c7f7b65b952bebf8e2853e62f6096b7.jpg",
+    "actress": [
+      "若槻みづな",
+      "绫部のあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-984"
+  },
+  {
+    "id": 102945,
+    "IDcode": "HAVD-985",
+    "title": "濃厚接吻枕営業レズ契約を取るためにカラダを差し出す生保レディ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-06-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桐谷奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-985"
+  },
+  {
+    "id": 536111,
+    "IDcode": "HAVD-986",
+    "title": "ご近所若妻の接吻レズビアン・夫に内绪の禁断の快楽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-986"
+  },
+  {
+    "id": 77101,
+    "IDcode": "HAVD-988",
+    "title": "濃密接吻レズビアン 義母と娘の唾液と愛液にまみれた濃厚すぎる快楽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "女同性恋",
+      "婆婆"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "今井栞菜",
+      "御坂莉亚"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-988"
+  },
+  {
+    "id": 98483,
+    "IDcode": "HAVD-989",
+    "title": "濃厚接吻媚薬レズ 隣の部屋に越してき隣人に媚薬を盛られて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "药物",
+      "女同接吻",
+      "女同性恋",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-10-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "乃木ちはる",
+      "佐久间恵美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-989"
+  },
+  {
+    "id": 76725,
+    "IDcode": "HAVD-990",
+    "title": "放課後接吻レズビアン 教え子にレズられて… 新任女教師と女子生徒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "高中女生",
+      "女教师",
+      "女同性恋",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a58ca1402fff66edb52018a2b1394834.jpg",
+    "actress": [
+      "岬梓沙",
+      "叶月桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-990"
+  },
+  {
+    "id": 75744,
+    "IDcode": "HAVD-991",
+    "title": "誘惑接吻人妻レズビアン 初めての同性愛SEXで絶頂！ 理性を失くしレズに目覚める新妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-12-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/8f096f74a95e614d3286e05adc5c23d5.jpg",
+    "actress": [
+      "铃木里美",
+      "凉城りおな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-991"
+  },
+  {
+    "id": 103137,
+    "IDcode": "HAVD-992",
+    "title": "濃厚接吻禁断の枕営業レズ～契約と引き換えに若妻にレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "女同接吻",
+      "女同性恋",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-01-23",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6911509d312f492881526dcd/poster2.jpg",
+    "actress": [
+      "香苗レノン",
+      "桜井萌"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-992"
+  },
+  {
+    "id": 516645,
+    "IDcode": "HAVD-993",
+    "title": "深愛的兩人是蕾絲邊情侶同棲中 接",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907a514e264e6282dfcb7ea/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-993"
+  },
+  {
+    "id": 91716,
+    "IDcode": "HAVD-994",
+    "title": "濃厚接吻禁断姉妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妹妹",
+      "接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690aeaa91fcdee36fa7687cb/poster2.jpg",
+    "actress": [
+      "神楽アイネ",
+      "堀口美衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-994"
+  },
+  {
+    "id": 98651,
+    "IDcode": "HAVD-995",
+    "title": "イチャLOVE若妻接吻レズビアン大人の女は見つめ合って",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-04-23",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69027ac579f1ac4ec4c9b369/poster2.jpg",
+    "actress": [
+      "桃井杏南",
+      "水谷あおい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-995"
+  },
+  {
+    "id": 71182,
+    "IDcode": "HAVD-996",
+    "title": "感じる接吻 相思相愛レズビアン ～イカセ合う女同士の淫らな性生活～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0148d7975477c0c3b4a06d694a7ce4b7.jpg",
+    "actress": [
+      "阿部乃美久",
+      "东条有希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-996"
+  },
+  {
+    "id": 516712,
+    "IDcode": "HAVD-997",
+    "title": "因為喜歡妳所以…接吻同居蕾絲邊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fc974d1572686be7a4e186/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-997"
+  },
+  {
+    "id": 516690,
+    "IDcode": "HAVD-998",
+    "title": "官能接吻蕾絲邊 光看著你的臉我就",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe71c8dd88d14f06564274/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-998"
+  },
+  {
+    "id": 516687,
+    "IDcode": "HAVD-999",
+    "title": "濃厚接吻特別編・12位卑猥蕾絲邊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffcf867de28f4edeab9322/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-999"
+  },
+  {
+    "id": 477122,
+    "IDcode": "HAWA_335",
+    "title": "性欲极强！与因工作和育儿而没有时间自慰的单亲妈妈中出性爱Azumi27岁未知演员",
     "year": "",
     "country": "",
     "genre": "",
@@ -809,144 +940,186 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/18/68cbd3debf45974ea6e52d90/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/6f88ae6a2e08e496f36b40d5d005b98b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-298"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA_335"
   },
   {
-    "id": 549363,
-    "IDcode": "GVG-299",
-    "title": "母子奸 息子の巨根に欲情した巨乳母 篠田あゆみ",
+    "id": 103217,
+    "IDcode": "HAWA-005",
+    "title": "愛する妻だからナンパして下さい VOL.1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "猎艳",
+      "成熟的女人",
+      "已婚妇女",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230711/13gvg299pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-299"
-  },
-  {
-    "id": 106985,
-    "IDcode": "GVG-303",
-    "title": "色气PTA会长和坏小孩学生会-成宫彩叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "正太控",
-      "巨乳",
-      "各种职业",
-      "轮奸",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
+    "company": "Cosmos 映像",
+    "publish_date": "2013-11-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-303"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-005"
   },
   {
-    "id": 549362,
-    "IDcode": "GVG-305",
-    "title": "お姊ちゃんのリアル性教育 幸田ユマ",
+    "id": 526388,
+    "IDcode": "HAWA-035",
+    "title": "夫に内绪で他人棒SEX“一度は経験してみたかった”初対面の人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230711/13gvg305pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-305"
-  },
-  {
-    "id": 210872,
-    "IDcode": "GVG-306",
-    "title": "爆乳奥様-日向あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/14/bafcce01666cd7abc324062e0c96b914.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-306"
-  },
-  {
-    "id": 549457,
-    "IDcode": "GVG-313",
-    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 朝雾ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/13gvg313pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-313"
-  },
-  {
-    "id": 82422,
-    "IDcode": "GVG-314",
-    "title": "放学后被小学生们调教侵犯的女老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "连裤袜",
-      "正太控",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-314"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-035"
   },
   {
-    "id": 544477,
-    "IDcode": "GVG-315",
-    "title": "変态性一家伦 长谷川夏树",
+    "id": 526559,
+    "IDcode": "HAWA-044",
+    "title": "夫に内绪でAVデビュー“25歳の时、主人に処女を捧げました…”初め",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-315"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-044"
   },
   {
-    "id": 526486,
-    "IDcode": "GVG-317",
-    "title": "完全复活“ナイスですねぇ！”村西とおるの素人熟女",
+    "id": 526558,
+    "IDcode": "HAWA-046",
+    "title": "掟破りの追迹スペシャル DANDYさんに内绪で中出しSEX DANDYが本屋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-046"
+  },
+  {
+    "id": 567664,
+    "IDcode": "HAWA-052",
+    "title": "2周年记念作品50歳すぎて初めての大量精饮33発安野由美51歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-052"
+  },
+  {
+    "id": 99700,
+    "IDcode": "HAWA-068",
+    "title": "夫に内緒で他人棒SEX「実は主人の精液も飲んだことないんです」40歳すぎて初めての精飲 早漏敏感妻 みさこさん41歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "吞精",
+      "已婚妇女",
+      "户外",
+      "淫乱，真实",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2016-04-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "城崎桐子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-068"
+  },
+  {
+    "id": 517727,
+    "IDcode": "HAWA-074",
+    "title": "瞞著老公被他人肉棒插 沒喝過老公",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa99d8d6fbef4e900913eb/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-074"
+  },
+  {
+    "id": 71482,
+    "IDcode": "HAWA-127",
+    "title": "夫に内緒で他人棒SEX「実は主人の精液も飲んだことないんです」30歳すぎて初めての精飲 超変態超ドMな美人妻 のぞみさん32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "吞精",
+      "已婚妇女",
+      "企画",
+      "4小时以上作品",
+      "拘束",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/24645e3fe54b0a748f13e7e6fb43d5a2.jpg",
+    "actress": [
+      "桐岛莉乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-127"
+  },
+  {
+    "id": 71420,
+    "IDcode": "HAWA-138",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう 騎乗位が得意なちょいSスレンダー妻 かほさん32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "已婚妇女",
+      "中出",
+      "女上位",
+      "苗条",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9fa8078fdfce76fe037abb155ae6574e.jpg",
+    "actress": [
+      "宮下華奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-138"
+  },
+  {
+    "id": 539081,
+    "IDcode": "HAWA-141",
+    "title": "新村あかり- “こんな场所で舐めるんですか？”おしゃぶり好きの素人奥さんにアポなし访问！その场で面接·フェラ",
     "year": "",
     "country": "",
     "genre": "",
@@ -954,393 +1127,705 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250516/sEpGrpOx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-317"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-141"
   },
   {
-    "id": 71199,
-    "IDcode": "GVG-318",
-    "title": "色欲会长和不良学生之会-瀬田奏惠",
+    "id": 567739,
+    "IDcode": "HAWA-144",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム奸では満足できず宿泊中2度もガチ中出しを许してしまう ピストン骑乘位でデカ尻が波打つ清楚妻 ゆきえさん34歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "已婚妇女",
-      "正太控",
-      "中出",
-      "各种职业",
-      "轮奸",
-      "高"
+      "人妻",
+      "少妇",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8ffa12ae6dd7bdb1511f824460119f43.jpg",
-    "actress": [
-      "松冈香纯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-318"
-  },
-  {
-    "id": 211977,
-    "IDcode": "GVG-325",
-    "title": "禁断介護-星井笑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-325"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-144"
   },
   {
-    "id": 216552,
-    "IDcode": "GVG-326",
-    "title": "gvg-326 男孩的恶作剧-香乃まどか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-326"
-  },
-  {
-    "id": 549448,
-    "IDcode": "GVG-327",
-    "title": "淫乱兄妹に犯されるいいなり义母 二阶堂ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230727/13gvg327pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-327"
-  },
-  {
-    "id": 218216,
-    "IDcode": "GVG-328",
-    "title": "母子姦-彩奈リナ",
+    "id": 71211,
+    "IDcode": "HAWA-148",
+    "title": "我想让你一丝不挂地离开",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-328"
-  },
-  {
-    "id": 549480,
-    "IDcode": "GVG-333",
-    "title": "お姊ちゃんのリアル性教育 乙叶ななせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230812/13gvg333pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-333"
-  },
-  {
-    "id": 348025,
-    "IDcode": "GVG-337",
-    "title": "禁断介护 羽田璃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-337"
-  },
-  {
-    "id": 82644,
-    "IDcode": "GVG-339",
-    "title": "和年长的老头结婚-吉川あいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "调教",
-      "乱伦",
-      "婆婆",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "吉川爱美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-339"
-  },
-  {
-    "id": 549485,
-    "IDcode": "GVG-340",
-    "title": "母子奸 风间ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230812/13gvg340pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-340"
-  },
-  {
-    "id": 540890,
-    "IDcode": "GVG-341",
-    "title": "思春期チ○ポに兴奋する猥亵女家庭教师第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-341"
-  },
-  {
-    "id": 467674,
-    "IDcode": "GVG-343",
-    "title": "這些被帶來人煙稀少地方的巨乳妹都很正、她們被全身扒光後綁在深山柱子上、慘遭淫亂輪姦SM猛肏、大家幹完後就直接放著她們不管回家啦&amp;hellip;",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9940d4e7d663df4047bd8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-343"
-  },
-  {
-    "id": 209680,
-    "IDcode": "GVG-345",
-    "title": "悪ガキ生徒会 佐々木あき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-345"
-  },
-  {
-    "id": 549508,
-    "IDcode": "GVG-346",
-    "title": "お姊ちゃんのリアル性教育 凉海みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230815/13gvg346pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-346"
-  },
-  {
-    "id": 214431,
-    "IDcode": "GVG-352",
-    "title": "禁断介護-香乃まどか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-352"
-  },
-  {
-    "id": 534470,
-    "IDcode": "GVG-353",
-    "title": "ママのリアル性教育 吹石れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-353"
-  },
-  {
-    "id": 225946,
-    "IDcode": "GVG-354",
-    "title": "老公和女儿不在的时候-葉月奈穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-354"
-  },
-  {
-    "id": 215227,
-    "IDcode": "GVG-358",
-    "title": "不戴胸罩勾引我-斉藤みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-358"
-  },
-  {
-    "id": 216618,
-    "IDcode": "GVG-359",
-    "title": "gvg-359 喜欢臀部-さくらみゆき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-359"
-  },
-  {
-    "id": 523123,
-    "IDcode": "GVG-362",
-    "title": "波多野结衣- 老动者に轮奸され性奴隶と化す巨乳未亡人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250430/HBxofLaY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-362"
-  },
-  {
-    "id": 96248,
-    "IDcode": "GVG-365",
-    "title": "禁断介护-本田岬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "其他恋物癖",
-      "乱伦",
-      "无码破解",
-      "中出",
+      "业余",
+      "口交",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "企画",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ca6b419c2cafc4166519d122ee474462.jpg",
     "actress": [
-      "本田岬"
+      "寶生莉莉"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-365"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-148"
   },
   {
-    "id": 216574,
-    "IDcode": "GVG-366",
-    "title": "gvg-366 好色正太的色情恶作剧",
+    "id": 515855,
+    "IDcode": "HAWA-154",
+    "title": "瞒着老公用别的男人肉棒S 超过30岁初次饮精志愿凌辱的辣妹人妻 梨梨花33岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0e28e840cdc4084433d87c7d3fe5b7f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-154"
+  },
+  {
+    "id": 595655,
+    "IDcode": "HAWA-155",
+    "title": "オクチがマ○コのように感じるフェラチオ中毒の人妻 せりなさん32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bd3258c6d9e872711e7ff0dc74dd3a84.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-155"
+  },
+  {
+    "id": 578415,
+    "IDcode": "HAWA-163",
+    "title": "_A 夫に内绪で他人棒SEX“実は主人の精液も饮んだことない",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-366"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-163"
   },
   {
-    "id": 82425,
-    "IDcode": "GVG-367",
-    "title": "母子姦-KAORI",
+    "id": 71184,
+    "IDcode": "HAWA-167",
+    "title": "高潮在你的生活中的第一次",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
+      "礼仪小姐",
+      "空中小姐",
+      "高",
+      "苗条",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c9f1f2351598d23b30b2984a7294fff7.jpg",
+    "actress": [
+      "内海みう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-167"
+  },
+  {
+    "id": 566300,
+    "IDcode": "HAWA-168",
+    "title": "夫は知らないぶっかけ愿望 セクハラ上司に精子で污される妄想をしながら会社のトイレでオナニーしまくる変态OL妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/19927575fcb70c0fdeab97d5fc7614dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-168"
+  },
+  {
+    "id": 534176,
+    "IDcode": "HAWA-170",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム奸では満足",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-170"
+  },
+  {
+    "id": 73455,
+    "IDcode": "HAWA-171",
+    "title": "名古屋有名千金小姐人妻-深田咏美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "口交",
+      "已婚妇女",
+      "大小姐",
+      "素人作品",
+      "眼镜"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7f1a0bb679e2aea4bb109ccba896191b.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-171"
+  },
+  {
+    "id": 535894,
+    "IDcode": "HAWA-172",
+    "title": "_A刺激を求める敏感素人妻に男にも女にもイカされる混合SEXPart1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-172"
+  },
+  {
+    "id": 593264,
+    "IDcode": "HAWA-173",
+    "title": "CN 拝启/童贞様。その秽れの无きち○ぽで妻を寝取ってください。（できれば中出し）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/5e25de2a408ec962d25909bfe85fb3d2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-173"
+  },
+  {
+    "id": 566299,
+    "IDcode": "HAWA-174",
+    "title": "瞒着老公 用其他人肉棒SEX“其实没有吃过老公的精液”超过40 初次的精饮特别编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c79fb6e2fcdfec08b2d3e44fe517445a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-174"
+  },
+  {
+    "id": 515658,
+    "IDcode": "HAWA-175",
+    "title": "素人妻与大学生戴套做爱还不够直接再次内射 在骑乘位用关西腔喘息着的G罩杯妻子 优香28歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d26d206d1dcb50dac64f04c63ad351de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-175"
+  },
+  {
+    "id": 97487,
+    "IDcode": "HAWA-176",
+    "title": "浮活で知り合ったチ○ポが大きい男性と気が狂うほどに生性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "潮吹",
+      "中出",
+      "素人作品",
+      "苗条",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2019-05-23",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1hawa176/1hawa176pl.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-176"
+  },
+  {
+    "id": 595135,
+    "IDcode": "HAWA-177",
+    "title": "私通检证‘想留下漂亮裸体’在拍摄纪念裸照时 看着一起拍摄的年轻模特儿的肉棒 人妻不断流出爱液 之后、要SEX了吗？VOL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/x5ZDBhYA.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-177"
+  },
+  {
+    "id": 408551,
+    "IDcode": "HAWA-178",
+    "title": "CHINASES SUB  間男の好みに合わせて髪を30cm切った妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221119/aToyMd24/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-178"
+  },
+  {
+    "id": 589508,
+    "IDcode": "HAWA-179",
+    "title": "戴绿帽子验证 被不喜欢的中年父亲责备的妻子，最坏的情况会活下来吗？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/05/54705_cover_2025-07-05_235734.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-179"
+  },
+  {
+    "id": 590263,
+    "IDcode": "HAWA-180",
+    "title": "隐瞒老公与他人做爱 30岁第1次吞精 小桃30歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-180"
+  },
+  {
+    "id": 515512,
+    "IDcode": "HAWA-184",
+    "title": "给素人人妻一个保险套在普通大学生家住一晚 做完一次还不满足 在当晚进行第2次真实内射 高速骑乘位疯狂高潮的G罩杯苗条人妻 依美36岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "少妇",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/599cce4d546385ce186f50cc03c0ba62.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-184"
+  },
+  {
+    "id": 566298,
+    "IDcode": "HAWA-186",
+    "title": "寻求刺激的敏感素人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200312-1/18d914c29f6445a82eceeb7507543a21.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-186"
+  },
+  {
+    "id": 76344,
+    "IDcode": "HAWA-192",
+    "title": "抜け出せない中出し不倫 嫁より年下で可愛い人妻の愛人 ももこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "中出",
+      "素人作品",
+      "出轨",
+      "深喉",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/22ee4aee5e4317496bdff9fd6da3965f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-192"
+  },
+  {
+    "id": 526097,
+    "IDcode": "HAWA-193",
+    "title": "_A“出产直后の‘羽月希ママ’が俺らの精子を旦那よりも爱おしく饮んで",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-193"
+  },
+  {
+    "id": 538907,
+    "IDcode": "HAWA-194",
+    "title": "河北春菜- “女性用アダルトグッズを体験してもらう简単なお仕事です”感じすぎた奥様がガニ股骑乘位でケダモノに！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241122/PicjFFWl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-194"
+  },
+  {
+    "id": 76026,
+    "IDcode": "HAWA-195",
+    "title": "ヤリマンに憧れて… 一日で何人もの男とエッチしまくりたい経験の浅いオクテ妻 ひかるさん34歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "少妇",
+      "素人作品",
+      "舔阴",
       "内衣",
-      "乱伦",
-      "巨乳",
-      "母亲"
+      "平胸"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/f1f771d869b096710b6cd83a37c4727a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-195"
+  },
+  {
+    "id": 76236,
+    "IDcode": "HAWA-196",
+    "title": "夫に内緒で他人棒SEX「実は主人の精液も飲んだことないんです」30歳すぎて初めての精飲 拡大版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "已婚妇女",
+      "潮吹",
+      "4小时以上作品",
+      "拘束",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2019-12-26",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/1edd63b43d8a0146e2d9655af3f40041.jpg",
+    "actress": [
+      "河北春菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-196"
+  },
+  {
+    "id": 75796,
+    "IDcode": "HAWA-197",
+    "title": "バックでひたすら犯し続ける寝バックビデオレター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称摄影",
+      "已婚妇女",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2019-12-26",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/42b15de945ac11a90e72df6e5c481f41.jpg",
+    "actress": [
+      "赤瀬尚子",
+      "加濑七穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-197"
+  },
+  {
+    "id": 592680,
+    "IDcode": "HAWA-198",
+    "title": "奇闻趣事视频泄露到网上，被世间男人拍成啜饮的快感令人难忘的美乳妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/15/19087_cover_2025-06-15_032751.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-198"
+  },
+  {
+    "id": 516623,
+    "IDcode": "HAWA-199",
+    "title": "追求刺激敏感素人妻不分男女高潮的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6911509e312f492881526dce/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-199"
+  },
+  {
+    "id": 533476,
+    "IDcode": "HAWA-200",
+    "title": "_B 寝取らせ検证‘绮丽な裸を残しておきたい’メモリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-200"
+  },
+  {
+    "id": 533475,
+    "IDcode": "HAWA-201",
+    "title": "_A 寝取らせ検证‘夫妇のセックスを记念に残すはずが代役",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-201"
+  },
+  {
+    "id": 76208,
+    "IDcode": "HAWA-203",
+    "title": "妻に内緒で産後マッサージと称してポルチオ開発 「本当にあそこの中から指圧するんですか？」ねっとりと膣内を刺激されても嫌だと言えず膣中イキしまくる新米ママたち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乳液",
+      "美容院",
+      "子宫颈",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2020-02-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-203"
+  },
+  {
+    "id": 83558,
+    "IDcode": "HAWA-204",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう 騎乗位で性感帯のケツ穴を自分でほじくり回し妻 しずかさん36歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "少妇",
+      "女上位",
+      "无毛",
+      "肛交",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2020-03-12",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "桃田香織"
+      "天野弥生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-367"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-204"
   },
   {
-    "id": 534617,
-    "IDcode": "GVG-368",
-    "title": "スケベじじいと巨乳ギャルの中出しSEX 5 橘咲良",
+    "id": 76237,
+    "IDcode": "HAWA-205",
+    "title": "バックでひたすら犯し続ける寝バックビデオレター VOL.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称摄影",
+      "已婚妇女",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2020-03-12",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/8495e4b16ac42d7e4ed6d70e6dbf2a83.jpg",
+    "actress": [
+      "藤森里穂",
+      "志田雪奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-205"
+  },
+  {
+    "id": 533474,
+    "IDcode": "HAWA-207",
+    "title": "嫁交奸 田舎のムッツリ変态妻×都会のムチムチ肉感妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-207"
+  },
+  {
+    "id": 547880,
+    "IDcode": "HAWA-210",
+    "title": "抜け出せない中出し不伦 嫁より年下で可爱い人妻の爱人 りな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200901-1/8c18ab3b7bea34427037c23096365295.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-210"
+  },
+  {
+    "id": 102597,
+    "IDcode": "HAWA-217",
+    "title": "素人妻與大學生戴套做愛還不夠直接再次內射在騎乘位玩弄屁眼的妻子 奈奈子 29歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-217"
+  },
+  {
+    "id": 563358,
+    "IDcode": "HAWA-223",
+    "title": "“浓厚なセックスがしてみたい”自分の魅力に気づかないオクテな恵体妻がオッサンとの接吻しまくり性交でビッチ化した一日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Cosmos 映像",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210810-1/16edf69bcb34d60fea24f70417171ac4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-223"
+  },
+  {
+    "id": 466046,
+    "IDcode": "HAWA-225",
+    "title": "無法拒絕拜託精飲與性交的巨乳妻30歳初次露出 雌化般帶走青姦絶頂優花3OOGcup",
     "year": "",
     "country": "",
     "genre": "",
@@ -1348,352 +1833,40 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230706/13gvg368pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d30caa79f1ac4ec4702149/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-368"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-225"
   },
   {
-    "id": 534636,
-    "IDcode": "GVG-370",
-    "title": "ノーブラで仆を诱惑する邻に引っ越してきたエッチな巨乳奥さん 日比乃さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230716/13gvg370pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-370"
-  },
-  {
-    "id": 534656,
-    "IDcode": "GVG-371",
-    "title": "骗奸凌辱 香乃まどか",
+    "id": 521012,
+    "IDcode": "HAWA-232",
+    "title": "瀬名ひかり- 寝取らせ検证‘夫妇のセックスを记念に残すはずが代役との疑似SEXに…’プライベートAV制作で他",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230730/13gvg371pl.jpg!320x216.jpg",
+    "cover_url": "https://xing.sex8sex833.com/20250927/TB4rtGE5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-371"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-232"
   },
   {
-    "id": 209829,
-    "IDcode": "GVG-372",
-    "title": "二階に潜むレプ魔 松本メイ",
+    "id": 544293,
+    "IDcode": "HAWA-234",
+    "title": "寝取らせ検证‘绮丽な裸を残しておきたい’メモリアルヌード撮影で共演した夫よりも若いモデルの他人棒を见て爱液を垂らした妻はその后、SEXしてしまうのか？ VOL11 中出しSP",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "Cosmos 映像",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/04/3248816a78b9ec9cef9bedd51168e3d3.jpg",
+    "cover_url": "https://pic23.anzise.com/pic/20220513/54c136ecfafe0f5b523709e2338d0cd6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-372"
-  },
-  {
-    "id": 534673,
-    "IDcode": "GVG-373",
-    "title": "お色気P●A会长と悪ガキ生徒会 たかせ由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230812/13gvg373pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-373"
-  },
-  {
-    "id": 534707,
-    "IDcode": "GVG-377",
-    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 彩奈リナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/13gvg377pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-377"
-  },
-  {
-    "id": 216609,
-    "IDcode": "GVG-379",
-    "title": "gvg-379 亲爱的爷爷-大場ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-379"
-  },
-  {
-    "id": 534732,
-    "IDcode": "GVG-380",
-    "title": "いいなり巨乳娘フィストファック 斉藤みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230919/13gvg380pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-380"
-  },
-  {
-    "id": 549564,
-    "IDcode": "GVG-381",
-    "title": "禁断介护 吹石れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-381"
-  },
-  {
-    "id": 549563,
-    "IDcode": "GVG-382",
-    "title": "母子奸 一条绮美香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-382"
-  },
-  {
-    "id": 589676,
-    "IDcode": "GVG-383",
-    "title": "大姐真枪实弹性教育AIKA第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-383"
-  },
-  {
-    "id": 534766,
-    "IDcode": "GVG-384",
-    "title": "ホームステイにやってきた黒人さんのデカち○ぽに発情した母さん 桐岛美奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230930/13gvg384pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-384"
-  },
-  {
-    "id": 540922,
-    "IDcode": "GVG-385",
-    "title": "思○期チ○ポに兴奋する猥亵女家庭教师第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-385"
-  },
-  {
-    "id": 549562,
-    "IDcode": "GVG-388",
-    "title": "従顺でドMな姊と挑発的でドSな妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-388"
-  },
-  {
-    "id": 549561,
-    "IDcode": "GVG-389",
-    "title": "ママのリアル性教育 日比乃さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-389"
-  },
-  {
-    "id": 534849,
-    "IDcode": "GVG-390",
-    "title": "生中恳愿 赤ちゃん出来てもいいから膣中に出して 浅田结梨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231026/13gvg390pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-390"
-  },
-  {
-    "id": 534892,
-    "IDcode": "GVG-394",
-    "title": "オイルまみれデカパイ変态女 若槻みづな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231110/13gvg394pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-394"
-  },
-  {
-    "id": 549574,
-    "IDcode": "GVG-395",
-    "title": "禁断介护 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230914/13gvg395pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-395"
-  },
-  {
-    "id": 534928,
-    "IDcode": "GVG-396",
-    "title": "ボイン大好きしょう太くんのHなイタズラ ERIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231121/13gvg396pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-396"
-  },
-  {
-    "id": 549573,
-    "IDcode": "GVG-397",
-    "title": "お姊ちゃんのリアル性教育 大岛美绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230914/13gvg397pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-397"
-  },
-  {
-    "id": 549572,
-    "IDcode": "GVG-398",
-    "title": "母子奸 泽村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250917-1/bf4e785835e760efa1c2c3d6c3ef3492.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-398"
-  },
-  {
-    "id": 540921,
-    "IDcode": "GVG-399",
-    "title": "思○期チ○ポに兴奋する猥亵女家庭教师がした事の第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-399"
-  },
-  {
-    "id": 534966,
-    "IDcode": "GVG-400",
-    "title": "ノーブラで仆を诱惑する邻に引っ越してきたエッチな巨乳奥さん 伊东真绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231201/13gvg400pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-400"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-234"
   }
 ];

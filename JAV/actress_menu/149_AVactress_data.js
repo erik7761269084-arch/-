@@ -109,7 +109,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-06-13",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614104743306306_thumbnail.webp",
       "actress": [
@@ -211,7 +211,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075920746746.jpg",
       "actress": [
@@ -475,7 +475,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2021-11-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/08312bc8fa29e63b907f284c20323348.jpg",
       "actress": [
@@ -537,7 +537,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2020-02-20",
       "cover_url": "",
       "actress": [
@@ -553,7 +553,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/9d41cc7aaf7446a64430d470015ea46d.jpg",
       "actress": [
@@ -918,7 +918,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/ed73bd132b3162be46a6895f4034cae4.jpg",
       "actress": [
@@ -941,7 +941,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/156116d1ea92b53077a79478bd6d2303.jpg",
       "actress": [
@@ -1638,7 +1638,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-5/ab454f3c6f348c1cc7c8fc2c1229e85f.jpg",
       "actress": [
@@ -1671,7 +1671,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2021/11/28/17aa06e75b951d4c3af3772b302d9299.jpg",
       "actress": [

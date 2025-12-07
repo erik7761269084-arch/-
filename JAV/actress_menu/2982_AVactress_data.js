@@ -2708,7 +2708,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240624-1/4534508ab7d83afb1a1f03cf0a3ae53f.jpg",
       "actress": [
@@ -3603,7 +3603,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240313-1/ff03a9a34efe51d4dfe751b51de18068.jpg",
       "actress": [
@@ -3897,7 +3897,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250511-1/0aff81fbe7f67658ded78bfd0b6ed9fc.jpg",
       "actress": [
@@ -4570,7 +4570,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fad992cf22ae3e0412abf3/cover.jpg",
       "actress": [
@@ -5483,7 +5483,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250122-1/33a16aea2ea6273c8d14b3b4cbb351a5.jpg",
       "actress": [
@@ -5839,7 +5839,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/fc38b3c9d3968634618911b5019d12fd.jpg",
       "actress": [
@@ -7022,7 +7022,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/28723c6002c361597884f40b6b158d7c.jpg",
       "actress": [
@@ -8054,7 +8054,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/0d3dfea69b3ff3586d20573141dd39a5.jpg",
       "actress": [

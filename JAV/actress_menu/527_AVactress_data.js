@@ -108,7 +108,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/6cf0a6732484bb537c1fa5c512411fc9.jpg",
       "actress": [

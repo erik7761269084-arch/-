@@ -689,7 +689,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2023-09-16",
       "cover_url": "https://picture.yoshiclub.xyz/20230917/20230917020016209209.jpg",
       "actress": [
@@ -1605,7 +1605,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-05-16",
       "cover_url": "https://sex8sex8sex8.com/20250531/pRQVGh1F/1.jpg",
       "actress": [
@@ -1766,7 +1766,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2018-05-16",
       "cover_url": "https://sex8sex8sex8.com/20250531/6Vo9xEPy/1.jpg",
       "actress": [
@@ -1864,7 +1864,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2016-03-16",
       "cover_url": "https://picture.yoshiclub.xyz/20230330/9694b0df-831e-40a3-88f2-6a75487670e6.jpg",
       "actress": [
@@ -2055,19 +2055,19 @@ window.actressData = {
     },
     {
       "id": 143668,
-      "IDcode": "050611-690",
+      "IDcode": "050611-690-CARIBPR",
       "title": "加勒比可爱Vol.20波多野结衣",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "",
+      "company": "加勒比系",
       "publish_date": "",
       "cover_url": "https://thjpg10.top/upload/vod/20250207-1/141564b753525def2c08f260c7dcffc0.jpg",
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=050611-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=050611-690-CARIBPR"
     },
     {
       "id": 143544,
@@ -2778,7 +2778,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2020/08/05/990a79827d1930a6f14503245c405e26.jpg",
       "actress": [
@@ -3093,7 +3093,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/e84684d19d2a9264711d6d2a85715a26.jpg",
       "actress": [
@@ -3303,7 +3303,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a37fa33853c117d66551902bed97123d.jpg",
       "actress": [
@@ -3418,7 +3418,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/5d2e01d5b90780f0b8e6912504ca7c9c.jpg",
       "actress": [
@@ -4295,7 +4295,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/d316f7c20c14c9475e17cc89ea0dbbc2.jpg",
       "actress": [
@@ -4349,7 +4349,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f882c8a945238609da577f50ce377a2c.jpg",
       "actress": [
@@ -4833,7 +4833,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/28723c6002c361597884f40b6b158d7c.jpg",
       "actress": [
@@ -5192,7 +5192,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/2afd4c572c88b7432139b3a7d7fc67fd.jpg",
       "actress": [
@@ -5370,7 +5370,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/ebfe8c60d16e2dd37d3c4bdf5325c0f2.jpg",
       "actress": [
@@ -5418,7 +5418,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/cd5a7c26a68aeda50b95902162025608.jpg",
       "actress": [
@@ -5450,7 +5450,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240916/0456e6e5-313e-47af-9b77-eee5048e4fd7.jpg",
       "actress": [
@@ -6049,7 +6049,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250723-1/10fad218dd5c9f60a8723c997c1711fa.jpg",
       "actress": [
@@ -6120,7 +6120,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a52b5e8cce1a927afca0db/cover.jpg",
       "actress": [
@@ -6178,7 +6178,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515095442936936_thumbnail.webp",
       "actress": [
@@ -6265,7 +6265,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2f3c682e2e9281a548ef/cover.jpg",
       "actress": [
@@ -6600,7 +6600,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082721478478_65539_thumbnail.webp",
       "actress": [
@@ -6710,7 +6710,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d98cecce5a404e9bbb67b8/cover.jpg",
       "actress": [
@@ -6939,7 +6939,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e0addbf24d4ed31ff6d0/cover.jpg",
       "actress": [
@@ -7003,7 +7003,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "LAFORET GIRL",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250511-2/30f56c187ec24e2fc6babf0f3cd66def.jpg",
       "actress": [

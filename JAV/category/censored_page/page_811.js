@@ -1,967 +1,1521 @@
 window.PAGE_DATA = [
   {
-    "id": 545198,
-    "IDcode": "KTRA-642",
-    "title": "仆と彼女のNTR契约",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240710/hcO78R50/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-642"
-  },
-  {
-    "id": 545195,
-    "IDcode": "KTRA-643",
-    "title": "ちびっこ中出しBEST 4时间",
+    "id": 447275,
+    "IDcode": "MAME001",
+    "title": "本生！スマホ縦撮りハメ動画",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240710/tKVi5o6I/1.jpg",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/777f99f8daf59fe2d7653cf969afb84d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-643"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAME001"
   },
   {
-    "id": 545194,
-    "IDcode": "KTRA-644",
-    "title": "デカ乳！！桃尻！！むっちり巨乳女子と连続セックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240710/PRNP4hlr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-644"
-  },
-  {
-    "id": 545193,
-    "IDcode": "KTRA-645",
-    "title": "従顺ドM美少女たちの下品极まりないSEX2 4时间",
+    "id": 524891,
+    "IDcode": "MAN",
+    "title": "enjoys with babe&#039;",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240710/SygycEjK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-645"
-  },
-  {
-    "id": 560603,
-    "IDcode": "KTRA-646",
-    "title": "おねがい！おしゃガール Vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/uiqz5sA6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-646"
-  },
-  {
-    "id": 560600,
-    "IDcode": "KTRA-647",
-    "title": "絶対无毛宣言！！パイパンロリ美少女コレクション3 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/PQh7W7gA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-647"
-  },
-  {
-    "id": 560598,
-    "IDcode": "KTRA-648",
-    "title": "极细ぺちゃぱい（ハート）魅惑の贫乳スレンダー美少女たち 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/PxhWNZgF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-648"
-  },
-  {
-    "id": 560599,
-    "IDcode": "KTRA-649",
-    "title": "かわいすぎる妹たちといちゃラブセックスして中出し！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/UyXh2Pot/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-649"
-  },
-  {
-    "id": 545038,
-    "IDcode": "KTRA-650",
-    "title": "仆と彼女のNTR契约 Vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240816/h3R0EIjR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-650"
-  },
-  {
-    "id": 545035,
-    "IDcode": "KTRA-651",
-    "title": "つるぺた娘 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240816/YLN8ckav/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-651"
-  },
-  {
-    "id": 545039,
-    "IDcode": "KTRA-652",
-    "title": "痴女いもうとたちのイケナイ诱惑 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240816/rU6fSIH3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-652"
-  },
-  {
-    "id": 454119,
-    "IDcode": "KTRA-653",
-    "title": "爸爸和女兒的恩愛性愛系列！ ！ 4小時",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d085a252c12b4e68100aec/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-653"
-  },
-  {
-    "id": 544713,
-    "IDcode": "KTRA-654",
-    "title": "＃オナホ女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/NxwR474L/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-654"
-  },
-  {
-    "id": 544708,
-    "IDcode": "KTRA-655",
-    "title": "ぺたんこラブ（ハート）爱すべき贫乳いもうとたち 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/hSRw38rD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-655"
-  },
-  {
-    "id": 544707,
-    "IDcode": "KTRA-656",
-    "title": "美少女たちのデカパイ大集合スペシャル 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/je0AOxFW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-656"
-  },
-  {
-    "id": 544706,
-    "IDcode": "KTRA-657",
-    "title": "ぬるぬるテカテカ！美少女たちのいやらしいオイルセックス2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/Ea6lvLGL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-657"
-  },
-  {
-    "id": 544711,
-    "IDcode": "KTRA-658",
-    "title": "おねがい！おしゃガール Vol.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/4ECfc4iT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-658"
-  },
-  {
-    "id": 544705,
-    "IDcode": "KTRA-659",
-    "title": "贫乳特化！！ぺちゃぱい美少女コレクション2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/IBfSk6aX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-659"
-  },
-  {
-    "id": 544704,
-    "IDcode": "KTRA-660",
-    "title": "キュートなぷにぷにボディー！！むちむち美少女たちと连続セックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/HvbnmnJM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-660"
-  },
-  {
-    "id": 544703,
-    "IDcode": "KTRA-661",
-    "title": "パイパン妹たちとのラブラブ家庭内性交（ハート） 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-661"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAN"
   },
   {
-    "id": 308237,
-    "IDcode": "KTRA-662",
-    "title": "少子化問題はこれで解決？！種付け民●委員のお仕事 美園和花",
+    "id": 569099,
+    "IDcode": "MAN-003",
+    "title": "钟宛冰×言嘉佑 禁忌之恋办公室激情 冷艳OL无套中出上司下属秘密缠绵",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/77efd843a99c5672cd5c6c9ceef5ba05.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-662"
-  },
-  {
-    "id": 544530,
-    "IDcode": "KTRA-663",
-    "title": "ち〇ぽ大好き！！変态ビッチCollection 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20241031/4XjzvztO/1.jpg?t=1730408932",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-663"
-  },
-  {
-    "id": 499318,
-    "IDcode": "KTRA-664",
-    "title": "Echiechi巨乳美少女2 4小时 胡桃さくら,佐藤爱理,舞桜あめり等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/9b9cf702bce112e52957d8249d66e887.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-664"
-  },
-  {
-    "id": 544529,
-    "IDcode": "KTRA-665",
-    "title": "清楚なカノジョのエッチな本性 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20241031/lHxMPReC/1.jpg?t=1730411359",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-665"
-  },
-  {
-    "id": 493017,
-    "IDcode": "KTRA-666",
-    "title": "我和女友的NTR契约 Vol.3 小波彩 小那海あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/559392bd4afb72d50d79c70db2899c4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-666"
-  },
-  {
-    "id": 544528,
-    "IDcode": "KTRA-667",
-    "title": "パイパン特化！！つるまん美少女コレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20241031/pCA1maWC/1.jpg?t=1730412994",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-667"
-  },
-  {
-    "id": 499291,
-    "IDcode": "KTRA-668",
-    "title": "平胸萝莉妹的特别聚会！ ！ 4小时 市井结夏,永濑唯,八寻麻衣等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/916ba5a520b8c620c306918e38a89869.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-668"
-  },
-  {
-    "id": 499274,
-    "IDcode": "KTRA-669",
-    "title": "真想被骂多了…（心）闷骚巨乳美少女4小时 富田优衣,朝日凛,若本あん等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/b90ac037133ee69963f86f3f011e8769.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-669"
-  },
-  {
-    "id": 493417,
-    "IDcode": "KTRA-670",
-    "title": "＃オナホ女子2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/53d55212350dd32d4b1e21cad053251d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-670"
-  },
-  {
-    "id": 483726,
-    "IDcode": "KTRA-671",
-    "title": "挑発ロリビッチ24時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/25e967fa5be36cbc71743281ffb64a3c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-671"
-  },
-  {
-    "id": 493423,
-    "IDcode": "KTRA-672",
-    "title": "処女まん最高！！ウブないもうとたちのはじめてセックス4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/541340ecaaa4eb17af249bfcdebde20b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-672"
-  },
-  {
-    "id": 499451,
-    "IDcode": "KTRA-673",
-    "title": "喪女なあの子は隠れ巨乳4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-673"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAN-003"
   },
   {
-    "id": 10704,
-    "IDcode": "KTRA-674",
-    "title": "人類播種委員會仕事 2 ~ 小那海綾",
+    "id": 556700,
+    "IDcode": "MAN-107",
+    "title": "Kirara Asuka 明天就要来我们学校了！ ！！ - 明日花绮罗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251001-1/335609d500ae7fd1e2f9533478aeddc6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAN-107"
+  },
+  {
+    "id": 553610,
+    "IDcode": "MANA-CHAN",
+    "title": "[No] 带着可爱的笑容。一个刚高中毕业的女孩。小剃毛猫馅饼♡精子溢出♡可查看福利",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANA-CHAN"
+  },
+  {
+    "id": 214935,
+    "IDcode": "MANE-003",
+    "title": "M男遊戯-卯水咲流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-003"
+  },
+  {
+    "id": 166027,
+    "IDcode": "MANE-005",
+    "title": "新入社员の阴湿な复仇リクルートスーツ着",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "艷遇",
-      "多P",
-      "其他職業",
-      "網襪",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "自宅",
-      "美乳",
-      "過膝襪・小腿襪",
-      "亂交 • 群P",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-005"
+  },
+  {
+    "id": 590204,
+    "IDcode": "MANE-013",
+    "title": "[M男游戏 训斥套房 尾随M男诱惑搜查 碧诗乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20220503-1/2c6655cfaf0add8175d037714411bd49.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-013"
+  },
+  {
+    "id": 590190,
+    "IDcode": "MANE-014",
+    "title": "M男游戏 训斥家里蹲重生指导 阿部美佳子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20220423-1/c7586ba3dafebff3d3623582621ddcda.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-014"
+  },
+  {
+    "id": 218336,
+    "IDcode": "MANE-016",
+    "title": "美丽的空姐训练-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-016"
+  },
+  {
+    "id": 104833,
+    "IDcode": "MANE-018",
+    "title": "像女王一样把全班师生调教成变态M男",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "大小姐",
+      "高中女生",
+      "调教",
+      "足交",
+      "M男",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-018"
+  },
+  {
+    "id": 74694,
+    "IDcode": "MANE-024",
+    "title": "完全M男化的生活-吉川あいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳",
-      "性感",
-      "口交",
+      "调教",
+      "足交",
+      "M男",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吉川爱美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-024"
+  },
+  {
+    "id": 595650,
+    "IDcode": "MANE-029",
+    "title": "SNSで诱いだした男を监禁・调教している美人OL 水野朝阳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8c521418957786506102ba5b5da9b0e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-029"
+  },
+  {
+    "id": 73113,
+    "IDcode": "MANE-030",
+    "title": "完全M男化同棲生活2 ～愛してるから調教するの！～ 星奈あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "放尿",
+      "调教",
+      "足交",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/ee2dd293dac1dbc41249e5ebd0368339.jpg",
+    "actress": [
+      "星奈爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-030"
+  },
+  {
+    "id": 213755,
+    "IDcode": "MANE-032",
+    "title": "巨乳妻-三島奈津子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-032"
+  },
+  {
+    "id": 534144,
+    "IDcode": "MANE-035",
+    "title": "完全M男化水泳生活 ～ドSなIcup极上BODY～ 凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-035"
+  },
+  {
+    "id": 578447,
+    "IDcode": "MANE-036",
+    "title": "完全M男化～新入社员の阴湿な复雠～さくらみゆき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-036"
+  },
+  {
+    "id": 464995,
+    "IDcode": "MANE-038",
+    "title": "完全M男化隣人生活 ～お向かいさんに調教されて…～ 彩葉美織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677d64af89def9b1b8c1d21e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-038"
+  },
+  {
+    "id": 77758,
+    "IDcode": "MANE-039",
+    "title": "葉月レイラと七人のM男",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/97fe2e8b2eec18f31db43b85942d8d3f.jpg",
+    "actress": [
+      "向理来",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-039"
+  },
+  {
+    "id": 469238,
+    "IDcode": "MANE-041",
+    "title": "精子が溜まっちゃうから悪いことしちゃうんでしょ？可愛い巨乳彼女の無制限射精生活 若月美衣奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67835a3af9a2e9b1d486c3f0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-041"
+  },
+  {
+    "id": 78282,
+    "IDcode": "MANE-042",
+    "title": "黑丝美女OL卯水咲流的育才调教用严厉的性爱考验来筛选人才",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "连裤袜",
+      "OL",
+      "素人作品",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2670eac719a0da786477ea8ed5d3a67f.jpg",
+    "actress": [
+      "卯水咲流"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-042"
+  },
+  {
+    "id": 83671,
+    "IDcode": "MANE-043",
+    "title": "M男与你约定射精玩弄脚部-永井玛利亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "骑乗位",
+      "素人作品",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841c47f9a2e9b1d4988989/cover.jpg",
+    "actress": [
+      "永井瑪麗亞",
+      "向理来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-043"
+  },
+  {
+    "id": 81773,
+    "IDcode": "MANE-044",
+    "title": "強●入院病棟 ～退院させてくれない看護師たち～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "饮尿"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/03aa2d7315b291e0d0ad8895e60fbbee.jpg",
+    "actress": [
+      "望月綾香",
+      "冲田里绪",
+      "今井まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-044"
+  },
+  {
+    "id": 97546,
+    "IDcode": "MANE-045",
+    "title": "円光ギャルの恐喝調教生活 ～クソカワJ●に家ごと奪われちゃった俺～ 渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "制服",
+      "美少女电影",
+      "恋腿癖"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-03-12",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/LtsO9wV7.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-045"
+  },
+  {
+    "id": 82173,
+    "IDcode": "MANE-046",
+    "title": "罵倒でオナニーサポート 馬鹿にされるだけでチ○コしごけるなんてどんだけ変態なんだよ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主观视角",
+      "足交",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-04-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221109-1/e15b96d871ae6644ec2ae0a874f5685d.jpg",
+    "actress": [
+      "渚光希",
+      "葵百合香",
+      "永井瑪麗亞",
+      "卯水咲流",
+      "凛音とうか",
+      "若槻みづな",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-046"
+  },
+  {
+    "id": 589694,
+    "IDcode": "MANE-05",
+    "title": "新入社员の阴湿な复仇リクルートスーツ着第05集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-05"
+  },
+  {
+    "id": 67066,
+    "IDcode": "MANIAX",
+    "title": "MANIAX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2022-12-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANIAX"
+  },
+  {
+    "id": 166019,
+    "IDcode": "MANN-019",
+    "title": "高感度乳首の爆乳Jカップドスケベお姊さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANN-019"
+  },
+  {
+    "id": 493416,
+    "IDcode": "MANX_004",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感ポーズ貴方に向かって淫語を連発する豊満美女編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/814b53847bfdae1c70de9e51f9978131.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX_004"
+  },
+  {
+    "id": 15418,
+    "IDcode": "MANX-001",
+    "title": "沾滿愛情汁的大奶子女同接吻～三個花癡爭奪沾滿口水、汗水、潮水的伴侶～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "網襪",
+      "美臀",
+      "亂交 • 群P",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "女同性戀",
+      "女性向",
+      "絕頂高潮",
+      "女同",
+      "無毛",
+      "飯店",
+      "苗條",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
       "形象俱樂部",
+      "無做愛場面",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688ca21d98bc99dfddea642d/cover.jpg",
+    "actress": [
+      "彌生美月",
+      "新村朱里",
+      "有岡みう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-001"
+  },
+  {
+    "id": 12249,
+    "IDcode": "MANX-002",
+    "title": "像野兽一样交尾的女人-美园和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主觀視角",
+      "美腳",
+      "網襪",
+      "女學生",
+      "口爆",
+      "蕩婦",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "感官作品",
       "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "上門福利",
-      "脚控・戀足癖",
+      "猥褻穿著",
       "美少女電影",
+      "劇情",
+      "抹油",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "顏射",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "吞精",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
+      "情趣內衣",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241110/05db59ff-6ab0-4cc5-bafc-d4d83a4fc66a.jpg",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240921-1/6099e8d2c6507d9b39820fd544d3d81b.jpg",
     "actress": [
-      "小那海綾"
+      "美園和花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-674"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-002"
   },
   {
-    "id": 499450,
-    "IDcode": "KTRA-675",
-    "title": "ちっぱいあつまれ！！貧乳スレンダーガールズ4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/85bed67bde9c398959499108cf6f2be9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-675"
-  },
-  {
-    "id": 454275,
-    "IDcode": "KTRA-676",
-    "title": "貼心妹妹的奉仕性愛精選2 4小時",
+    "id": 11700,
+    "IDcode": "MANX-003",
+    "title": "超淫蕩的姿勢，讓你打飛機打到死。淫語連發巨臀美女特別編 ~ 北野未奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "主觀視角",
+      "網襪",
+      "美臀",
+      "癡女",
+      "淫語",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "抹油",
+      "美少女",
+      "按摩棒",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "局部特寫",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc29675f13d063bcd29d8c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-676"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/9c90a72d51283ee86377a392a208261f.jpg",
+    "actress": [
+      "北野未奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-003"
   },
   {
-    "id": 493413,
-    "IDcode": "KTRA-677",
-    "title": "制服が眩しい！！美少女J○連続なまハメ中出し4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/64910dddeb737f2fbb4c5773b03a369b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-677"
-  },
-  {
-    "id": 443753,
-    "IDcode": "KTRA-678",
-    "title": "与憧憬的上司在地方出差…我故意订同房，因为我真的很想与他做爱 菊池はる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/d368263214e25f863e9838ff0a6154ca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-678"
-  },
-  {
-    "id": 411772,
-    "IDcode": "KTRA-679",
-    "title": "与矮小美少女做爱！！ 小只马精选 4小时 冬爱琴音,花音丽,伊藤春等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/e50f7cd33276a5f199c640f971f9167c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-679"
-  },
-  {
-    "id": 401810,
-    "IDcode": "KTRA-680",
-    "title": "听话的超M女们中出！！ 4小时 如月ましろ,铃音杏夏,一条美绪等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/6770a4d255e16f7e2f552969af393e1f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-680"
-  },
-  {
-    "id": 411826,
-    "IDcode": "KTRA-681",
-    "title": "丰满身材的大奶妹妹肉感性爱 4小时 冢田诗织,清冢那奈,宮原かれん等演员",
+    "id": 10974,
+    "IDcode": "MANX-004",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感ポーズ 貴方に向かって淫語を連発する豊満美女編 永井マリア",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "主觀視角",
+      "網襪",
+      "蕩婦",
+      "臀控",
+      "美臀",
+      "奇異的",
+      "人妻",
+      "中出",
+      "猥褻穿著",
+      "絕頂高潮",
+      "女優",
+      "企畫",
+      "美人妻",
+      "騎乗位",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251001-1/9d0726fe46906d02f8c97cc293bee41a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-681"
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e121dbf24d4ed31ff70d/cover.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-004"
   },
   {
-    "id": 411876,
-    "IDcode": "KTRA-682",
-    "title": "#Onaho Girls 3 菊田春 菊池はる",
+    "id": 179063,
+    "IDcode": "MANX-005",
+    "title": "エロ美脚Wオフィスレディ蒸れパンスト舐め愛レズビアン 都月るいさ 黒木奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/2fa11c1e6b2d62e383f79fc4d6d1971a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ee5e5d57b64bfd10da0d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-682"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-005"
   },
   {
-    "id": 440043,
-    "IDcode": "KTRA-683",
-    "title": "我喜欢大胸部！ ！与丰满巨乳美少女连续做爱4小时 弥生美月,横宫七海,飞鸟里伊奈等演员",
+    "id": 9954,
+    "IDcode": "MANX-006",
+    "title": "新 究極主観JOI 7日間淫語コントロールされるCEI特化ver 新村あかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "真實拍攝",
+      "主觀視角",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "惡搞",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "美少女",
+      "明星臉",
+      "M男・M女",
+      "辣妹/GAL系",
+      "色白",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "女優",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "吞精",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/56d6e8d0f02afa9c77c5bb70113b73cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-683"
+    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064646138138.jpg",
+    "actress": [
+      "新村朱里",
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-006"
   },
   {
-    "id": 411812,
-    "IDcode": "KTRA-684",
-    "title": "甜蜜小姐妹的热度（心）4小时 伊东爱瑠,山井すず,神坂ひなの等演员",
+    "id": 8705,
+    "IDcode": "MANX-007",
+    "title": "新 究極主観JOI 7日間淫語コントロールされる チクニー特化ver 永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "主觀視角",
+      "網襪",
+      "蕩婦",
+      "野性",
+      "淫語",
+      "感官作品",
+      "淫亂",
+      "胖女人",
+      "按摩棒",
+      "M男・M女",
+      "女優",
+      "企畫",
+      "黑絲",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "慾求不滿",
+      "胸控・戀乳癖",
+      "抹油",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080032358358.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-007"
+  },
+  {
+    "id": 190171,
+    "IDcode": "MANX-008",
+    "title": "兜合わせ接吻狂 シーメールレズビアン 極太ぺ二クリWニューハーフ 愛瀬めい 平手志帆梨",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/f5ce15d3a044e6b7db6ff8cf64550411.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c1674e7e672bea5f7686e/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-684"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-008"
   },
   {
-    "id": 565060,
-    "IDcode": "KTRA-685",
-    "title": "ヌける素人！！ヘンタイ美少女ベスト 4时间",
+    "id": 68964,
+    "IDcode": "MANX-009",
+    "title": "チ●ポ女 敏感クリチ●ポを刺激して連続射精で脳バグ絶頂 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "手淫",
+      "自慰"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-009"
+  },
+  {
+    "id": 6176,
+    "IDcode": "MANX-010",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感ポーズ 貴方に向かって淫語を連発する巨乳美女編 菊乃らん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "主觀視角",
+      "網襪",
+      "蕩婦",
+      "美臀",
+      "單體作品",
+      "淫語",
+      "按摩棒",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "無做愛場面",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "局部特寫",
+      "自慰",
+      "真人秀",
+      "抹油",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043253512512_thumbnail.webp",
+    "actress": [
+      "菊乃らん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-010"
+  },
+  {
+    "id": 4520,
+    "IDcode": "MANX-011",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感ポーズ 貴方に向かって淫語を連発する巨尻美女編 美谷朱音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "清楚系",
+      "主觀視角",
+      "網襪",
+      "口爆",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "奇異的",
+      "癡女",
+      "淫語",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "後入",
+      "女優",
+      "高顏值",
+      "企畫",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "局部特寫",
+      "自慰",
+      "女上位",
+      "真人秀",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032243426426_70507_thumbnail.webp",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-011"
+  },
+  {
+    "id": 5727,
+    "IDcode": "MANX-012",
+    "title": "全新極致主觀JOI 七天淫語調教寸止專屬版 ~ 美谷朱音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "主觀視角",
+      "網襪",
+      "美臀",
+      "單體作品",
+      "奇異的",
+      "癡女",
+      "淫語",
+      "感官作品",
+      "舔陰",
+      "極品美人",
+      "調教",
+      "明星臉",
+      "後入",
+      "女優",
+      "高顏值",
+      "企畫",
+      "特效",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "女上位",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075501829829_thumbnail.webp",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-012"
+  },
+  {
+    "id": 6101,
+    "IDcode": "MANX-013",
+    "title": "エグいオナニー特化アングルで国宝級の美ヒップを味わい尽くす 肉感巨尻マニアックス 海老咲あお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "女優",
+      "高顏值",
+      "飯店",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "顔面騎乘",
+      "巨尻",
+      "口交",
+      "流汗",
+      "乳交",
+      "自慰",
+      "女上位",
+      "高跟鞋",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150446382525_thumbnail.webp",
+    "actress": [
+      "海老咲碧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-013"
+  },
+  {
+    "id": 5335,
+    "IDcode": "MANX-014",
+    "title": "チクビで一緒に気持ち良くなりましょう 乳首マニアックス 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "美腳",
+      "網襪",
+      "美臀",
+      "濕身",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "抹油",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "色白",
+      "高顏值",
+      "企畫",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "風俗娘",
+      "慾求不滿",
+      "乳交",
+      "局部特寫",
+      "情趣內衣",
+      "自慰",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "女上位",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612071033292292_thumbnail.webp",
+    "actress": [
+      "新村朱里",
+      "鲛岛",
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-014"
+  },
+  {
+    "id": 5330,
+    "IDcode": "MANX-015",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感ポーズ 貴方に向かって淫語を連発する爆乳美女編 吉根ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "網襪",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "淫語",
+      "舔陰",
+      "抹油",
+      "女優",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "局部特寫",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061553636636_thumbnail.webp",
+    "actress": [
+      "吉根柚莉爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-015"
+  },
+  {
+    "id": 4932,
+    "IDcode": "MANX-016",
+    "title": "我的受虐奴隶-都月るいさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "豐滿",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
+      "口爆",
+      "臀控",
+      "SM",
+      "美臀",
+      "單體作品",
+      "野性",
+      "深喉",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "紋身刺字",
+      "劇情",
+      "抹油",
+      "調教",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "色白",
+      "緊縛",
+      "苗條",
+      "高顏值",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "吞精",
+      "巨尻",
+      "流汗",
+      "巨乳",
+      "慾求不滿",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "白眼失神",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032152813813_thumbnail.webp",
+    "actress": [
+      "都月楓",
+      "都月琉衣纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-016"
+  },
+  {
+    "id": 3972,
+    "IDcode": "MANX-017",
+    "title": "緊縛クラブ SMフェティシズム劇場 美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "清楚系",
+      "鬼畜片",
+      "凌辱",
+      "ASMR顱内高潮",
+      "美腳",
+      "拘束・拷問",
+      "女學生",
+      "口爆",
+      "SM",
+      "美臀",
+      "打屁股",
+      "單體作品",
+      "深喉",
+      "口球",
+      "舔陰",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "御姐系",
+      "紀錄片",
+      "抹油",
+      "調教",
+      "蠟燭",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "白絲",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "色白",
+      "緊縛",
+      "護士",
+      "高顏值",
+      "企畫",
+      "暗黑系",
+      "阪道系",
+      "顏射",
+      "女優",
+      "角色扮演",
+      "手指插入",
+      "騎乗位",
+      "護士制服",
+      "形象俱樂部",
+      "泳裝",
+      "短髮",
+      "唾液敷面",
+      "美乳",
+      "美人",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "魔鬼系",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "大奶头",
+      "JK校服",
+      "濕身",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084720189189_19459_thumbnail.webp",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-017"
+  },
+  {
+    "id": 3568,
+    "IDcode": "MANX-018",
+    "title": "エグ過ぎるオナニー特化アングルで 黒ギャルビッチの肉感を味わい尽くす ケツ穴剥き出し美巨尻マニアックス 黒咲華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主觀視角",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "臀控",
+      "濕身",
+      "美臀",
+      "單體作品",
+      "野性",
+      "癡女",
+      "感官作品",
+      "膚黑",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "接吻",
+      "抹油",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "企畫",
+      "女優",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "流汗",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "肌肉",
+      "乳交",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "大奶头",
+      "性感",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025350843843_21330_thumbnail.webp",
+    "actress": [
+      "黒咲華",
+      "コグレハルト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
+  },
+  {
+    "id": 2778,
+    "IDcode": "MANX-019",
+    "title": "チクビで一緒に気持ち良くなりましょう 乳首マニアックス 海老咲あお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "美腳",
+      "網襪",
+      "小隻馬",
+      "美臀",
+      "濕身",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "拜金女",
+      "抹油",
+      "過膝襪・小腿襪",
+      "後入",
+      "絕頂高潮",
+      "女優",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "黑絲",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
+      "自慰",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "寫真偶像",
+      "女上位",
+      "大奶头",
+      "寫真女郎",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020003787787_47263_thumbnail.webp",
+    "actress": [
+      "海老咲碧",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-019"
+  },
+  {
+    "id": 2781,
+    "IDcode": "MANX-020",
+    "title": "新 究極主観JOI 7日間淫語コントロールされるSPH特化ver 吉根ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "ASMR顱内高潮",
+      "主觀視角",
+      "網襪",
+      "濕身",
+      "單體作品",
+      "癡女",
+      "淫語",
+      "大乳暈",
+      "舔陰",
+      "淫亂",
+      "胖女人",
+      "抹油",
+      "調教",
+      "無毛",
+      "女優",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014727808808_35380_thumbnail.webp",
+    "actress": [
+      "吉根柚莉爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-020"
+  },
+  {
+    "id": 524894,
+    "IDcode": "MAOMI",
+    "title": "Nagasawa&#039;s asia",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAOMI"
+  },
+  {
+    "id": 444456,
+    "IDcode": "MAQQ-001",
+    "title": "群馬のピッキング工場で働く血沸き肉躍るハーフの豊満Kカップ素人さん衝撃出演。派手な顔をしてます",
     "year": "",
     "country": "",
     "genre": "",
@@ -969,2457 +1523,859 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241229/60uAGByl/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250814-1/7320a69c25e593127ac48892afa95e3e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-685"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-001"
   },
   {
-    "id": 9690,
-    "IDcode": "KTRA-686",
-    "title": "ホテルで兄妹2人きりになったら妹の発情が止まらなくなり、金玉がからっぽになるまでヤリまくった。 伊織ひなの",
+    "id": 68790,
+    "IDcode": "MAQQ-002",
+    "title": "現役の保険外交員はセックスレスのシングルマザー、服の上からも分かるハチきれんばかりの超乳K-cupは欲求不満の証、電撃DEBUT！沙月さん（38歳）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "小隻馬",
-      "慾求不滿",
-      "飯店",
-      "苗條",
-      "亂倫",
-      "美少女",
-      "美腳",
-      "癡女",
-      "姐弟・兄妹",
-      "JK校服",
-      "主觀視角",
-      "色白",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "貧乳",
-      "淫亂",
-      "中出",
-      "姐姐・妹妹",
-      "後入",
-      "企畫",
-      "少女",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787d91c5d57b64bfd103bd7/cover.jpg",
-    "actress": [
-      "伊織雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-686"
-  },
-  {
-    "id": 9598,
-    "IDcode": "KTRA-687",
-    "title": "未成熟的身體！ A罩杯貧乳最佳美少女大集合3 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "口爆",
-      "4小時以上作品",
-      "飯店",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "羞恥",
-      "色白",
-      "自宅",
-      "口交",
-      "接吻",
-      "潮吹",
-      "深喉",
-      "貧乳",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "蘿莉控",
-      "女上位",
-      "學校",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241226/b4e02e70-1c26-4861-823e-3835a6f87195.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-687"
-  },
-  {
-    "id": 9605,
-    "IDcode": "KTRA-688",
-    "title": "娃娃臉美女被剃光陰戶中出大合集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "慾求不滿",
-      "4小時以上作品",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
       "巨乳",
-      "性感",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "黑絲",
-      "蘿莉控",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "超乳",
+      "已婚妇女",
+      "胖女人",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241225/406db518-e771-4f6e-a42e-0a438438dda4.jpg",
-    "actress": [
-      "矢澤美々",
-      "星咲凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-688"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-002"
   },
   {
-    "id": 454313,
-    "IDcode": "KTRA-689",
-    "title": "以恋人的心情亲密做爱！ ！甜蜜的恩爱性爱 4 小时",
+    "id": 198790,
+    "IDcode": "MAQQ-003",
+    "title": "マニアが歓喜する鮮度バツグン肉厚ぽっちゃり熟女、入荷しました。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b95fd82ee23a639b17b3c0/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-689"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-003"
   },
   {
-    "id": 8930,
-    "IDcode": "KTRA-690",
-    "title": "新入女子社員が出張中、わざと相部屋にして上司のオレを誘惑してきた…。 伊織ひなの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "小隻馬",
-      "出差",
-      "飯店",
-      "綠茶婊",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "OL",
-      "勾引・誘惑",
-      "口交",
-      "心機婊",
-      "形象俱樂部",
-      "潮吹",
-      "同住一屋・相部屋",
-      "蠻橫嬌羞",
-      "中出",
-      "蕩婦",
-      "美人",
-      "劇情",
-      "美少女電影",
-      "舔腳",
-      "蘿莉控",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250121/accd96bb-0b64-4d9b-aeb2-7fb44a3c0ab2.jpg",
-    "actress": [
-      "伊織雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-690"
-  },
-  {
-    "id": 8929,
-    "IDcode": "KTRA-691",
-    "title": "天使與淫亂！蘿莉特輯2 4小時 ~ 市井結夏 八尋麻衣 あまね彌生 橘ひなの 永瀬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "清純",
-      "美少女電影",
-      "小隻馬",
-      "貧乳",
-      "精選總編集",
-      "美少女",
-      "JK校服",
-      "眼鏡",
-      "精選綜合",
-      "蘿莉",
-      "4小時以上作品",
-      "蘿莉控",
-      "企畫",
-      "少女",
-      "苗條"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250121/f61357a8-d22e-47c8-bf20-171a5cb18082.jpg",
-    "actress": [
-      "市井結夏",
-      "永瀬ゆい",
-      "八尋麻衣",
-      "橘ひなの",
-      "あまね弥生"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-691"
-  },
-  {
-    "id": 8914,
-    "IDcode": "KTRA-692",
-    "title": "爆乳美少女圖鑑 4小時 ~ 綾瀨心 日和ももか 小此木雛乃 篠崎環奈 原花音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "美少女",
-      "精選總編集",
-      "癡女",
-      "精選綜合",
-      "超爆乳",
-      "乳交",
-      "胸控・戀乳癖",
-      "美乳",
-      "4小時以上作品",
-      "美人",
-      "企畫",
-      "性感",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250122/0024950c-ca2c-46c9-b3af-579e143ba58c.jpg",
-    "actress": [
-      "绫濑心",
-      "篠崎環奈",
-      "原花音",
-      "日和ももか",
-      "小此木雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-692"
-  },
-  {
-    "id": 8913,
-    "IDcode": "KTRA-693",
-    "title": "心跳加速 家庭內亂倫 4小時合集 ~ 花狩舞 希咲那奈 純真かれん 幾田真知",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "亂倫",
-      "美少女電影",
-      "美少女",
-      "精選總編集",
-      "姐弟・兄妹",
-      "精選綜合",
-      "4小時以上作品",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "少女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acbf6731eb0592de65bd32/cover.jpg",
-    "actress": [
-      "希咲那奈",
-      "花狩舞",
-      "幾田真知",
-      "仲村りお",
-      "純真かれん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-693"
-  },
-  {
-    "id": 457285,
-    "IDcode": "KTRA-694",
-    "title": "ち○ぽ大好き美少女たちの無邪気なえっち！！4時間",
+    "id": 458226,
+    "IDcode": "MAQQ-004",
+    "title": "【出現·マニア熟女】ミミズ千匹タコつぼ膣を動かせる名器と噂の四十路マダムと出会えました潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/fd5cdb39a37f8d0d990ee5f510557653.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/825762105f538ff9f696506653d92272.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-694"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-004"
   },
   {
-    "id": 412459,
-    "IDcode": "KTRA-695",
-    "title": "つるつるマ〇コでイこう！！ロリマン中出しコレクション2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/0ad4a906c0506ea3f97fdfd1dfcb5bd2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-695"
-  },
-  {
-    "id": 454365,
-    "IDcode": "KTRA-696",
-    "title": "清醒可愛！ ！思科與我的秘密姊妹做愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b232f29bce0063d6f410db/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-696"
-  },
-  {
-    "id": 8367,
-    "IDcode": "KTRA-697",
-    "title": "和豐滿巨乳妹連續做愛4小時 ~ 莉莉遙香 川口葉純 塚田詩織 河音くるみ 優梨舞奈",
+    "id": 61256,
+    "IDcode": "MAQQ-005",
+    "title": "エゲつない腰つき！揺れまくる熟成肉！人妻巨乳ベリーダンサー、電撃DEBUT！早苗さん（45歳）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "校花",
-      "美少女",
-      "精選總編集",
-      "精選綜合",
-      "乳交",
-      "胸控・戀乳癖",
-      "蘿莉",
-      "美乳",
-      "4小時以上作品",
-      "清楚系",
-      "美人",
-      "企畫",
-      "性感",
-      "少女",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250210/463ad33e-2771-45d8-a8cb-45d6fd286ab3.jpg",
-    "actress": [
-      "優梨舞奈",
-      "莉莉遙香",
-      "塚田詩織",
-      "川口葉純",
-      "河音くるみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-697"
-  },
-  {
-    "id": 8368,
-    "IDcode": "KTRA-698",
-    "title": "和可愛JK女孩的中出性愛24小時記錄 2 ~ 花音うらら 萌波鈴 佐々木夏菜 永作ねね 柊留衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "女學生",
-      "校花",
-      "美少女",
-      "精選總編集",
-      "癡女",
-      "JK校服",
-      "蠻橫嬌羞",
-      "精選綜合",
-      "蘿莉",
-      "中出",
-      "4小時以上作品",
-      "清楚系",
-      "美人",
-      "企畫",
-      "空姐制服",
-      "少女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a900307f3b7c92907443b6/cover.jpg",
-    "actress": [
-      "花音うらら",
-      "萌波鈴",
-      "永作ねね",
-      "佐々木夏菜",
-      "柊留衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-698"
-  },
-  {
-    "id": 8336,
-    "IDcode": "KTRA-699",
-    "title": "無毛蘿莉娘 4小時 合集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "清純",
-      "美少女電影",
-      "小隻馬",
-      "貧乳",
-      "精選總編集",
-      "美少女",
-      "JK校服",
-      "無毛",
-      "精選綜合",
-      "蘿莉",
-      "中出",
-      "4小時以上作品",
-      "蘿莉控",
-      "企畫",
-      "少女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250212/94867588-f1d5-4dd4-a805-8a14e5de99aa.jpg",
-    "actress": [
-      "工藤拉拉",
-      "夏原唯",
-      "涼宮うるは",
-      "小島りりか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-699"
-  },
-  {
-    "id": 402300,
-    "IDcode": "KTRA-700",
-    "title": "激かわシロウト生中淫行ベスト！！4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/10dda076de2853951c4441005a6fae6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-700"
-  },
-  {
-    "id": 457267,
-    "IDcode": "KTRA-701",
-    "title": "ぺたぱい＆スレンダー美少女マニア4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/619e412f88d9d7ca1072a9950f433a29.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-701"
-  },
-  {
-    "id": 7945,
-    "IDcode": "KTRA-702",
-    "title": "喜歡姐弟戀的集合了 姐弟近親相姦 4小時 大合集 ~ 河奈亜依 朝海凪咲 牧野未央奈 泉莉音 本田さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "亂倫",
-      "美少女電影",
-      "校花",
-      "美少女",
-      "精選總編集",
-      "癡女",
-      "姐弟・兄妹",
-      "乱伦",
-      "精選綜合",
-      "蘿莉",
-      "4小時以上作品",
-      "姐姐・妹妹",
-      "美人",
-      "清楚系",
-      "少女",
-      "故事集"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0366c2cca7792b25bb336/cover.jpg",
-    "actress": [
-      "泉莉音",
-      "河奈亜依",
-      "朝海凪咲",
-      "本田さとみ",
-      "牧野未央奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-702"
-  },
-  {
-    "id": 413021,
-    "IDcode": "KTRA-703",
-    "title": "たわわに実った巨乳妹たちと連続SEX！！24時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/bbe47e45b5671e1d9d00019253646665.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-703"
-  },
-  {
-    "id": 7659,
-    "IDcode": "KTRA-704",
-    "title": "光溜溜的小穴中出！！無毛美少女合集 4小時 ~ 皆瀨明裏 早美憐夢 佐倉陽菜 池內遙 平花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "精選總編集",
-      "4小時以上作品",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "清楚系",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "少女",
-      "清純",
-      "美少女電影",
-      "無毛",
-      "蘿莉控"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-03-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250309/32ae1c43-9db5-4e79-8f01-d1dff85cc769.jpg",
-    "actress": [
-      "皆瀨明里",
-      "佐倉陽菜",
-      "池内遥",
-      "早美怜夢",
-      "平花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-704"
-  },
-  {
-    "id": 7660,
-    "IDcode": "KTRA-705",
-    "title": "誘惑小惡魔（心）甜蜜色色精選集 4小時 ~ 東條夏 美衣みかな 百咲未色 真白みのり 愛野ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "女學生",
-      "校花",
-      "美少女",
-      "精選總編集",
-      "精選綜合",
-      "JK校服",
-      "4小時以上作品",
-      "過膝襪・小腿襪",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "清楚系",
-      "少女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-03-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250309/ef9f736c-4614-426b-a78e-adcd417592ee.jpg",
-    "actress": [
-      "東條夏",
-      "花衣つばき",
-      "真白みのり",
-      "百咲未色",
-      "愛野ひなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-705"
-  },
-  {
-    "id": 444813,
-    "IDcode": "KTRA-706",
-    "title": "ぺったりおっぱい！！ロリっ娘すぺしゃる4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/03ce9c2cf51ac5bb983a9456795c4e40.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-706"
-  },
-  {
-    "id": 402774,
-    "IDcode": "KTRA-707",
-    "title": "従順マ○コに中出し！！むっつり美少女たちのお下品性交4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/279e2a014f738d1168fa206036ba68d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-707"
-  },
-  {
-    "id": 444818,
-    "IDcode": "KTRA-708",
-    "title": "ホントはドスケベ！！陰キャなメガネっ娘たちのむっつりセックス24時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/930e8edd1a5502a75734481be8de53ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-708"
-  },
-  {
-    "id": 402773,
-    "IDcode": "KTRA-709",
-    "title": "極細ぺちゃぱい（ハート）魅惑の貧乳スレンダー美少女たち2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/cc51e4ceafe8479917db876e2a59da51.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-709"
-  },
-  {
-    "id": 457810,
-    "IDcode": "KTRA-710",
-    "title": "ぷるるんおっぱい大集合！！スケベでボインな美少女に中出し！！4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/861f02f965bfb4da89207f1488dea1ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-710"
-  },
-  {
-    "id": 454519,
-    "IDcode": "KTRA-711",
-    "title": "哥哥专属（心）太可爱的服从妹妹收藏！！4小时",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899574a55337d7f7bcfae65/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-711"
-  },
-  {
-    "id": 6696,
-    "IDcode": "KTRA-712",
-    "title": "制服美少女圖鑑2 四小時全開誘惑 ~ 愛名光莉 有棲舞衣 富田優衣 鬆本一香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "4小時以上作品",
-      "女僕制服",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "JK校服",
-      "色白",
-      "制服",
-      "清楚系",
-      "形象俱樂部",
-      "貧乳",
-      "極品美人",
-      "企畫",
-      "少女",
-      "清純",
-      "美少女電影",
-      "高妹",
-      "蘿莉",
-      "蘿莉控"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689acc9555337d7f7be4903a/cover.jpg",
-    "actress": [
-      "松本一香",
-      "有栖舞衣",
-      "富田优衣",
-      "愛名光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-712"
-  },
-  {
-    "id": 402776,
-    "IDcode": "KTRA-713",
-    "title": "ミニマムロリな少女たちのえっちな秘密4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/67ec785364bbfb81039d2d833d7f3eb9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-713"
-  },
-  {
-    "id": 6690,
-    "IDcode": "KTRA-714",
-    "title": "戀人以上，家庭未滿！？超甜蜜家庭內中出大作戰 4小時合集 ~ Nia 鈴音杏夏 仲村りお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "4小時以上作品",
-      "美腳",
-      "精選綜合",
-      "色白",
-      "清楚系",
-      "形象俱樂部",
-      "貧乳",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "清純",
-      "美少女電影",
-      "蘿莉",
-      "蘿莉控",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac70a55337d7f7be48e04/cover.jpg",
-    "actress": [
-      "Nia",
-      "鈴音杏夏",
-      "逢澤理衣奈",
-      "仲村りお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-714"
-  },
-  {
-    "id": 6222,
-    "IDcode": "KTRA-715",
-    "title": "無毛貧乳少女的極致誘惑4小時全集 ~ 夏原唯 跡美珠裏 日泉舞香 市井結夏 小島りりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "女學生",
-      "小隻馬",
-      "精選總編集",
-      "4小時以上作品",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "貧乳",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "劇情",
-      "清純",
-      "美少女電影",
-      "無毛",
-      "舔腳",
-      "御姐系",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-05-10",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101839517517_thumbnail.webp",
-    "actress": [
-      "日泉舞香",
-      "市井結夏",
-      "迹美珠里",
-      "夏原唯",
-      "小島りりか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-715"
-  },
-  {
-    "id": 6218,
-    "IDcode": "KTRA-716",
-    "title": "和肉乎乎的可愛超爆乳蘿莉們的激情四小時 ~ 莉莉遙香 川口葉純 篠崎環奈 あず希 すなお恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "4小時以上作品",
-      "女僕制服",
-      "美少女",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "超爆乳",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "企畫",
-      "少女",
-      "美臀",
-      "女優",
-      "清純",
-      "美少女電影",
-      "乳交",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-05-10",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505101025077575_thumbnail.webp",
-    "actress": [
-      "莉莉遙香",
-      "篠崎環奈",
-      "蒼空なつき",
-      "川口葉純",
-      "あず希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-716"
-  },
-  {
-    "id": 6161,
-    "IDcode": "KTRA-717",
-    "title": "順從抖M小妹被狂灌滿！第二彈4小時合集 ~ 冬愛琴音 夏目涼子 白城梨紗 本田さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "M男・M女",
-      "叛逆少女",
-      "純粹的慾望",
-      "故事集",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "舔腳",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-05-10",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102505966966_thumbnail.webp",
-    "actress": [
-      "冬愛琴音",
-      "白城梨紗",
-      "本田さとみ",
-      "夏目りょうこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-717"
-  },
-  {
-    "id": 438981,
-    "IDcode": "KTRA-718",
-    "title": "巨乳控天堂！弹力十足美少女24小时连续激情做爱盛宴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/1561b101d61c9981be48b44b753509fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-718"
-  },
-  {
-    "id": 458228,
-    "IDcode": "KTRA-719",
-    "title": "背の小さなロリ少女たちとラブラブえっち4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/d2733f37f14380b74e14b9e8f3fb237f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-719"
-  },
-  {
-    "id": 5744,
-    "IDcode": "KTRA-720",
-    "title": "調皮小惡魔的種付狂操 4小時 ~ 雙葉胡桃 朝日滴 泉莉音 加賀美さら 永作ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "口爆",
-      "慾求不滿",
-      "4小時以上作品",
-      "苗條",
-      "美少女",
-      "惡搞",
-      "癡女",
-      "精選綜合",
-      "美腳",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "校花",
-      "貧乳",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "舔腳",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529084855706706_thumbnail.webp",
-    "actress": [
-      "泉莉音",
-      "加賀美さら",
-      "雙葉胡桃",
-      "永作ねね",
-      "朝日滴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-720"
-  },
-  {
-    "id": 5216,
-    "IDcode": "KTRA-721",
-    "title": "平胸小妹的誘惑：可愛貧乳妹妹的4小時狂歡 ~ 森日向子 渚光希 工藤拉拉 如月真白 ~ 森日向子 渚光希 工藤拉拉 如月真白",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "JK校服",
-      "大奶头",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "貧乳",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "角色扮演",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "無毛",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618214322517517_thumbnail.webp",
-    "actress": [
-      "森日向子",
-      "渚光希",
-      "工藤拉拉",
-      "如月真白"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-721"
-  },
-  {
-    "id": 5438,
-    "IDcode": "KTRA-722",
-    "title": "無毛嫩穴被中出爆汁！4小時特別大合輯 ~ 橘ひなの 齋藤南 佐倉陽菜 早美憐夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "故事集",
-      "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "JK校服",
-      "色白",
-      "美乳",
-      "清楚系",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "明星臉",
-      "貧乳",
-      "蠻橫嬌羞",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "蘿莉",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609002718947947_thumbnail.webp",
-    "actress": [
-      "佐倉陽菜",
-      "橘ひなの",
-      "早美怜夢",
-      "齋藤南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-722"
-  },
-  {
-    "id": 5416,
-    "IDcode": "KTRA-723",
-    "title": "順從素人娘的大膽激情啪啪 4小時合集 ~ 萌波鈴 永瀨唯 茉宮渚希 鬆下雛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "二次元",
-      "M男・M女",
-      "慾求不滿",
-      "4小時以上作品",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "大奶头",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "高顏值",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/20250611095650229229_thumbnail.webp",
-    "actress": [
-      "萌波鈴",
-      "永瀬ゆい",
-      "茉宮渚希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-723"
-  },
-  {
-    "id": 5077,
-    "IDcode": "KTRA-724",
-    "title": "極致誘惑細腰辣妹精選 4小時 ~ 神宮寺奈緒 東條夏 胡桃多惠 日向澪 まなかかな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精選總編集",
-      "4小時以上作品",
-      "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "清楚系",
-      "口交",
-      "巨乳",
-      "形象俱樂部",
-      "高顏值",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "女優",
-      "角色扮演",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623075745305305_thumbnail.webp",
-    "actress": [
-      "東條夏",
-      "神宫寺奈緒",
-      "胡桃多惠",
-      "日向澪",
-      "まなかかな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-724"
-  },
-  {
-    "id": 5067,
-    "IDcode": "KTRA-725",
-    "title": "巨乳女神中出特輯2 超長4小時 ~ 真白湖子 橫宮七海 逢咲由愛 雙葉良香 安部藍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "小隻馬",
-      "精選總編集",
-      "豐滿",
-      "4小時以上作品",
-      "故事集",
-      "辣妹/GAL系",
-      "局部特寫",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "淫亂",
-      "極品美人",
-      "超爆乳",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623090730728728_thumbnail.webp",
-    "actress": [
-      "横宮七海",
-      "安部藍",
-      "逢咲由愛",
-      "真白湖子",
-      "双葉良香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-725"
-  },
-  {
-    "id": 5074,
-    "IDcode": "KTRA-726",
-    "title": "溼滑誘惑浴室合集 4小時 ~ 花狩舞 北乃麥 矢澤美々 向井藍 栄川乃亜 涼宮うるは 野原もも 木野香織 蒼空なつき このは結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "無做愛場面",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "中性",
-      "胸控・戀乳癖",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "貧乳",
-      "極品美人",
-      "超爆乳",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "劇情",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623081231288288_thumbnail.webp",
-    "actress": [
-      "花狩舞",
-      "向井藍",
-      "栄川乃亜",
-      "矢澤美々",
-      "蒼空なつき",
-      "涼宮うるは",
-      "青山みるか",
-      "このは結衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-726"
-  },
-  {
-    "id": 4633,
-    "IDcode": "KTRA-727",
-    "title": "妹妹小穴被灌滿！兄妹中出激戰精選2 4小時 ~ 桐谷奈緒 優梨舞奈 富田優衣 星咲凜 如月真白",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "M男・M女",
-      "精選總編集",
-      "4小時以上作品",
-      "故事集",
-      "亂倫",
-      "阪道系",
-      "美少女",
-      "惡搞",
-      "癡女",
-      "姐弟・兄妹",
-      "美腳",
-      "中性",
-      "自宅",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "貧乳",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/202507070334438686_15072_thumbnail.webp",
-    "actress": [
-      "優梨舞奈",
-      "富田优衣",
-      "如月真白",
-      "星咲凛",
-      "桐谷奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-727"
-  },
-  {
-    "id": 4646,
-    "IDcode": "KTRA-728",
-    "title": "小惡魔痴女的致命勾引 4小時 ~ 希咲那奈 皆瀨明里 花衣椿 沖田里緒 守永葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "港區女子",
-      "故事集",
-      "苗條",
-      "美少女",
-      "惡搞",
-      "癡女",
-      "精選綜合",
-      "美腳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "貧乳",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "不倫",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103943563563_92993_thumbnail.webp",
-    "actress": [
-      "皆瀨明里",
-      "希咲那奈",
-      "花衣つばき",
-      "沖田里緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-728"
-  },
-  {
-    "id": 4635,
-    "IDcode": "KTRA-729",
-    "title": "童顏巨乳少女的性愛合集4小時 ~ 飛鳥裏伊奈 若宮穂乃 淺田結梨 河音くるみ 柊留衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "精選總編集",
-      "豐滿",
-      "4小時以上作品",
-      "童顔",
-      "故事集",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "極品美人",
-      "超爆乳",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "蘿莉",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2025-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033038189189_28414_thumbnail.webp",
-    "actress": [
-      "若宮穂乃",
-      "浅田結梨",
-      "飛鳥里伊奈",
-      "河音くるみ",
-      "柊留衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-729"
-  },
-  {
-    "id": 4202,
-    "IDcode": "KTRA-730",
-    "title": "可愛さ反則級！エロカワ美少女に中出し 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "4小時以上作品",
-      "故事集",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "極品美人",
-      "超爆乳",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221748935935_77168_thumbnail.webp",
-    "actress": [
-      "花音うらら",
-      "河奈亜依",
-      "優月せら",
-      "逢澤理衣奈",
-      "佐久間恵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-730"
-  },
-  {
-    "id": 4092,
-    "IDcode": "KTRA-731",
-    "title": "従順少女たちと家庭内セックス 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "口爆",
-      "4小時以上作品",
-      "故事集",
-      "苗條",
-      "亂倫",
-      "美少女",
-      "美腳",
-      "癡女",
-      "姐弟・兄妹",
-      "精選綜合",
-      "羞恥",
-      "JK校服",
-      "自宅",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "正統派",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "貧乳",
-      "蠻橫嬌羞",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "舔腳",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892fccec92318f97d87fbf5/cover.jpg",
-    "actress": [
-      "彌生美月",
-      "星宮菜奈",
-      "白夜みくる",
-      "成田紬",
-      "愛名光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-731"
-  },
-  {
-    "id": 4203,
-    "IDcode": "KTRA-732",
-    "title": "無毛なロリっ娘2 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "故事集",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "大奶头",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "貧乳",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221733135135_82108_thumbnail.webp",
-    "actress": [
-      "琴音華",
-      "愛野ひなた",
-      "神野雛",
-      "熊野あゆ",
-      "山井鈴香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-732"
-  },
-  {
-    "id": 3663,
-    "IDcode": "KTRA-734",
-    "title": "全員Gcup以上！！デカパイ女子と連続セックス 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "慾求不滿",
-      "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "故事集",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
+      "业余",
       "人妻",
-      "野性",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "拜金女",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093718231231_23903_thumbnail.webp",
-    "actress": [
-      "绫濑心",
-      "宝田萌奈美",
-      "花柳杏奈",
-      "篠崎環奈",
-      "相沢夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-734"
-  },
-  {
-    "id": 3664,
-    "IDcode": "KTRA-735",
-    "title": "華奢なスレンダーガールズと中出し性交 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "4小時以上作品",
-      "苗條",
-      "美少女",
-      "美腳",
-      "精選綜合",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "貧乳",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "女優",
-      "角色扮演",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093456314314_33087_thumbnail.webp",
-    "actress": [
-      "希咲那奈",
-      "Nia",
-      "坂咲美穗",
-      "百葉花音",
-      "二葉あかり",
-      "百叶花音",
-      "二叶あかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-735"
-  },
-  {
-    "id": 184045,
-    "IDcode": "KTRA-736",
-    "title": "ケートライブ いもうとアイドルコレクション 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-736"
-  },
-  {
-    "id": 3218,
-    "IDcode": "KTRA-737",
-    "title": "童顔美少女たちのパイパンま○こに中出し2 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "泳裝",
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "精選總編集",
-      "純粹的慾望",
-      "口爆",
-      "4小時以上作品",
-      "童顔",
-      "網襪",
-      "綠茶婊",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "JK校服",
-      "色白",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "清楚系",
       "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "雙馬尾",
-      "形象俱樂部",
+      "已婚妇女",
+      "胖女人",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-005"
+  },
+  {
+    "id": 177590,
+    "IDcode": "MAQQ-006",
+    "title": "ガンギマリK-cup爆乳Tatooキメセク☆ラリラフィー ＃媚薬シーシャ ＃怪しいオイル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/5878ce26/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-006"
+  },
+  {
+    "id": 469524,
+    "IDcode": "MAQQH-001",
+    "title": "超级可爱！像小动物一样可爱的女孩，她的第一次肛交协奏曲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d755f7e1ae1e49a435f90/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQH-001"
+  },
+  {
+    "id": 92671,
+    "IDcode": "MAR-032",
+    "title": "MAR032まるっと！篠田優。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/4e2774207d1610d522f38eb75ddc706a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAR-032"
+  },
+  {
+    "id": 433289,
+    "IDcode": "MAR-2022",
+    "title": "不倫の果てにTheBest 2020..Dec的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240410-1/1909489d166c1629160cb8b3f2035ec5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAR-2022"
+  },
+  {
+    "id": 1937,
+    "IDcode": "MARA-018",
+    "title": "JAV最大爆乳劇場！ K~cup ~ 澀谷果步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "巨乳",
+      "乳交",
       "潮吹",
-      "正統派",
-      "寫真女郎",
-      "高顏值",
-      "校花",
-      "貧乳",
-      "極品美人",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "猥褻穿著",
-      "傲嬌",
-      "寫真偶像",
+      "胸控・戀乳癖",
+      "按摩・物理治療・美容",
+      "無碼流出"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2017-01-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/9c391b4d-aa37-4c6b-a0f9-d2fcb92fbae5.jpg",
+    "actress": [
+      "澁谷果歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-018"
+  },
+  {
+    "id": 77761,
+    "IDcode": "MARA-043",
+    "title": "塚田詩織の爆乳劇場 VOL.2 Jcup101cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
       "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "角色扮演",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
-      "無毛",
-      "舔腳",
-      "蘿莉",
-      "黑絲",
-      "蘿莉控",
+      "礼仪小姐",
+      "素人作品",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/17d6671f20687e82c302cb64ad1112fd.jpg",
+    "actress": [
+      "塚田詩織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-043"
+  },
+  {
+    "id": 534143,
+    "IDcode": "MARA-044",
+    "title": "宝田もなみの爆乳剧场Icup！100cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-044"
+  },
+  {
+    "id": 77675,
+    "IDcode": "MARA-045",
+    "title": "凛音とうかの爆乳劇場Icup98cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "按摩"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b6cc192ee23a639b1646af/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/712a82392fb26bcfbb395ca6968d7084.jpg",
     "actress": [
-      "皆月光",
-      "朝日凜",
-      "迹美珠里",
-      "原花音"
+      "凛音とうか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-737"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-045"
   },
   {
-    "id": 184078,
-    "IDcode": "KTRA-738",
-    "title": "わがままボディのむっちり娘ベスト 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-738"
-  },
-  {
-    "id": 184741,
-    "IDcode": "KTRA-739",
-    "title": "スレンダーいもうと5人連続セックス 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-739"
-  },
-  {
-    "id": 60849,
-    "IDcode": "KTRA-740",
-    "title": "じみ～な陰キャに中出し！！ 4時間",
+    "id": 74786,
+    "IDcode": "MARA-046",
+    "title": "逢沢りいなの爆乳劇場 Hcup97cm",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "4小时以上作品",
+      "恋乳癖",
+      "巨乳",
+      "乳交",
+      "中出",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/3ea1c247f8d4a32ac91ba97166c38a24.jpg",
+    "actress": [
+      "逢澤理衣奈",
+      "ゆうき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-046"
+  },
+  {
+    "id": 74788,
+    "IDcode": "MARA-048",
+    "title": "音海里奈の爆乳劇場 Hcup！100cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
+      "礼仪小姐",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/a3f36eb2b223000c2d01f56071f6c991.jpg",
+    "actress": [
+      "音海里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-048"
+  },
+  {
+    "id": 590256,
+    "IDcode": "MARA-049",
+    "title": "叶月美音的爆乳剧场！VOL.02 Jcup97cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20220901-1/ab3911bb1023c278c303180e67c746e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-049"
+  },
+  {
+    "id": 77731,
+    "IDcode": "MARA-050",
+    "title": "​​奈槻れいらの爆乳剧场Hcup101cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中文字幕",
+      "中出",
+      "乳交",
+      "礼仪小姐",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/405a99aabd5ed09c30844ebef6558634.jpg",
+    "actress": [
+      "奈槻れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-050"
+  },
+  {
+    "id": 78255,
+    "IDcode": "MARA-052",
+    "title": "の爆乳劇場 Jcup！105cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
       "中出",
       "美少女电影",
-      "精选，综合"
+      "礼仪小姐",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/208c61b3bbee39897c15c4de781913b5.jpg",
     "actress": [
-      "日泉舞香",
-      "如月真白",
-      "加贺美さら",
-      "藤森朱音"
+      "佐知子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-740"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-052"
   },
   {
-    "id": 184754,
-    "IDcode": "KTRA-741",
-    "title": "はたらくシロウトボインちゃん 4時間",
+    "id": 559903,
+    "IDcode": "MARA-054",
+    "title": "的巨乳剧场Hcup100厘米-生野光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/e7606efef98fcdeaa658d26a0e5375b8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-054"
+  },
+  {
+    "id": 72731,
+    "IDcode": "MARA-055",
+    "title": "小梅えなの爆乳劇場Kcup",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "故事集",
+      "巨乳",
+      "乳交",
+      "中出",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/6adda45b4a8e59679994ff0a2270384b.jpg",
+    "actress": [
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-055"
+  },
+  {
+    "id": 79772,
+    "IDcode": "MARA-061",
+    "title": "爆乳劇場-有岡みう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋乳癖",
+      "巨乳",
+      "乳交",
+      "中出",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d8eb75772a0e63459f39b984430e1f86.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-061"
+  },
+  {
+    "id": 565951,
+    "IDcode": "MARA-063",
+    "title": "美波桃的爆乳剧场 Jcup！96cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/iYfe4tlp.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-063"
+  },
+  {
+    "id": 218129,
+    "IDcode": "MARA-064",
+    "title": "爆乳劇場-姫咲はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-064"
+  },
+  {
+    "id": 220246,
+    "IDcode": "MARA-065",
+    "title": "爆乳劇場-水原みその",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/9d49bcf211fbb2d97aa1b7a2787d943c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-065"
+  },
+  {
+    "id": 565950,
+    "IDcode": "MARA-066",
+    "title": "桃濑胡桃的爆乳剧场 Jcup！98cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/01e9e1a1b4a04756edf5a8394141826c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-066"
+  },
+  {
+    "id": 219168,
+    "IDcode": "MARA-067",
+    "title": "爆乳劇場-小野崎りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/1ef0d8b9759cd2583176221a06a5f903.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-067"
+  },
+  {
+    "id": 225068,
+    "IDcode": "MARA-068",
+    "title": "爆乳剧场-三田樱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-068"
+  },
+  {
+    "id": 176788,
+    "IDcode": "MARA-070",
+    "title": "ちなみんの爆乳劇場Gcup！97cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/b94c5db1fe21fb2b17296d7e3002564c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-070"
+  },
+  {
+    "id": 557251,
+    "IDcode": "MARA-199",
+    "title": "妹尾真衣半裸诱惑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250626-1/37d7835ca29e87dbde22dc1de0b0df74.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-741"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-199"
   },
   {
-    "id": 60376,
-    "IDcode": "KTRA-744",
-    "title": "低身長パイパン少女たちと淫行 4時間",
+    "id": 88059,
+    "IDcode": "MARAA-016",
+    "title": "星那美月 白とピンク",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "瘦小身型",
-      "4小时以上作品",
-      "无毛",
-      "美少女电影",
-      "精选，综合",
-      "女生"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1831131a2714f1c1fbc1c/cover.jpg",
-    "actress": [
-      "工藤拉拉",
-      "小岛りりか",
-      "纯真かれん",
-      "矢泽美々",
-      "くるみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-744"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/4627fbb88bc8529540011a9f6b139f1c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-016"
+  },
+  {
+    "id": 88082,
+    "IDcode": "MARAA-023",
+    "title": "美脚・くびれ・お尻とアナル 宮崎南央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/8e8d41055d8a90fce88ad9dca476a28e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-023"
+  },
+  {
+    "id": 544065,
+    "IDcode": "MARAA-147",
+    "title": "有坂そら 清楚系美女子の耻じらいアナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20230508/502gGCDI/1.jpg?t=1683532996",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-147"
+  },
+  {
+    "id": 544069,
+    "IDcode": "MARAA-148",
+    "title": "西沢千佳 XXX制服ヌードXXX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20230508/uMu5e1XM/1.jpg?t=1683534211",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-148"
+  },
+  {
+    "id": 544067,
+    "IDcode": "MARAA-149",
+    "title": "川名美瑠 新＊美少女のアナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20230508/mdJ8cIzJ/1.jpg?t=1683534183",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-149"
+  },
+  {
+    "id": 563933,
+    "IDcode": "MARAA-150",
+    "title": "椎木爱菜 新＊美少女のアナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-150"
+  },
+  {
+    "id": 563931,
+    "IDcode": "MARAA-151",
+    "title": "峯田なの びくびくばいんばいん！～BIGBAN～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-151"
+  },
+  {
+    "id": 563932,
+    "IDcode": "MARAA-152",
+    "title": "春菜咲茉 びくびくばいんばいん！～BIGBAN～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-152"
+  },
+  {
+    "id": 548567,
+    "IDcode": "MARAA-155",
+    "title": "渡邉日向 ヨガリ舞ウ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230802/aTIZ3Btz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-155"
+  },
+  {
+    "id": 563485,
+    "IDcode": "MARAA-157",
+    "title": "一戸真帆 津軽弁に恋して！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230907/ZHv8vQ9y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-157"
+  },
+  {
+    "id": 547516,
+    "IDcode": "MARAA-159",
+    "title": "渡邉日向 渡邉日向のキケンなアルバイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231106/z5YpM9yw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-159"
+  },
+  {
+    "id": 547517,
+    "IDcode": "MARAA-161",
+    "title": "仲田未漓 恋する制フレ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231106/vkzKe0my/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-161"
+  },
+  {
+    "id": 547244,
+    "IDcode": "MARAA-164",
+    "title": "潮见晴香 清楚なくせに生イキだ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/ry4R4NIB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-164"
+  },
+  {
+    "id": 546906,
+    "IDcode": "MARAA-165",
+    "title": "皆见悠佳 清楚なくせに生イキだ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240110/IW77MyVx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-165"
+  },
+  {
+    "id": 546907,
+    "IDcode": "MARAA-166",
+    "title": "宫田千寻 恋する制フレ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240110/jXAgfN1P/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-166"
+  },
+  {
+    "id": 545861,
+    "IDcode": "MARAA-170",
+    "title": "伊东爱沙 ショート美女子の耻ずかしアナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240406/Djf5NcJP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-170"
+  },
+  {
+    "id": 560788,
+    "IDcode": "MARAA-172",
+    "title": "御殿坂くるみ·月见るい ふたりえっち！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240612/ifCCEs2r/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-172"
+  },
+  {
+    "id": 560789,
+    "IDcode": "MARAA-173",
+    "title": "渡邉日向 全力！全チャプ！マッサージ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240612/GjplgNuY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-173"
+  },
+  {
+    "id": 560790,
+    "IDcode": "MARAA-174",
+    "title": "谷村千雪 侵せよ圣域（サンクチュアリ）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240612/Gmq1tm3w/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-174"
+  },
+  {
+    "id": 560577,
+    "IDcode": "MARAA-177",
+    "title": "福田ましまろ ましまろ様のHカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240803/KEyMNPdB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-177"
+  },
+  {
+    "id": 560574,
+    "IDcode": "MARAA-178",
+    "title": "岛谷ゆみな 侵せよ圣域（サンクチュアリ）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240803/YzgFrynb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-178"
   }
 ];

@@ -93,7 +93,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-2/f8b163b4ad18bf512c06de1ebed1a615.jpg",
       "actress": [
@@ -948,7 +948,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240706-1/0b5240fceb7b2e10f8a50695ac5ecdda.jpg",
       "actress": [
@@ -1089,7 +1089,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a2b9478d611da77519af/cover.jpg",
       "actress": [
@@ -1194,7 +1194,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075941695695.jpg",
       "actress": [

@@ -214,7 +214,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/a9230827b9571f786b0d045e9feb3ae3.jpg",
       "actress": [
@@ -781,7 +781,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "",
       "actress": [

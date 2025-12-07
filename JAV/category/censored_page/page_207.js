@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 225099,
-    "IDcode": "ADZ-215",
-    "title": "网络募集的处男们-黑川绮罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/22c52f59b7178b2db5c725d9a90275be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADZ-215"
-  },
-  {
-    "id": 213270,
-    "IDcode": "ADZ-221",
-    "title": "试着玩NG-並木優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/08/6748bd18eae33c99048ae0f4adba7d29.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADZ-221"
-  },
-  {
     "id": 226513,
     "IDcode": "ADZ-276",
     "title": "我的可爱妹妹被别的男人睡走了",
@@ -40,7 +10,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/a539d7e6a2d6bd116b018df8410f559f.jpg",
     "actress": [],
@@ -55,7 +25,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/08/331d0c842fe54f21281bef6356bd831a.jpg",
     "actress": [],
@@ -70,7 +40,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/4065dfbea065661bf231c45b899ae11b.jpg",
     "actress": [],
@@ -85,7 +55,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690553c772c0032a43e2212e/poster2.jpg",
     "actress": [],
@@ -100,7 +70,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -115,7 +85,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/521ec24db7048d5daaa1f25d6283fb48.jpg",
     "actress": [],
@@ -130,7 +100,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e6070d631cc64eb5a1d516/cover.jpg",
     "actress": [],
@@ -145,7 +115,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed4536958ac04f2736f613/cover.jpg",
     "actress": [],
@@ -160,7 +130,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240514-1/5fe58fb73fd2f26c314aa2f1658e88a9.jpg",
     "actress": [],
@@ -175,7 +145,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240620-1/e0a747ce1a69d7f9f159b593a8c19196.jpg",
     "actress": [],
@@ -190,7 +160,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -205,7 +175,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -220,7 +190,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -235,7 +205,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/08-03/12/ogbqix2vnhg1203ogbqix2vnhg43397.jpg",
     "actress": [],
@@ -249,12 +219,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "荡妇",
       "成熟的女人",
-      "乱伦",
-      "荡妇"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2020-04-07",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/cd5439c205ad61017a07512aa8cfd7f7.jpg",
     "actress": [
@@ -271,7 +241,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200809-1/bf9ceda7d6ac8aa180cf6a4d5b90218d.jpg",
     "actress": [],
@@ -286,7 +256,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231211/1599665549-aed185sopl.jpg!320x216.jpg",
     "actress": [],
@@ -301,7 +271,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic35.anzise.com/pic/20221024/3cdaf7c2c9ed7538bb2cb5ff5bc3332d/1.jpg",
     "actress": [],
@@ -316,7 +286,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -331,7 +301,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230704/aed211pl.jpg!320x216.jpg",
     "actress": [],
@@ -346,7 +316,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230718/aed212pl.jpg!320x216.jpg",
     "actress": [],
@@ -361,7 +331,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230208/cH8tTBDy/1.jpg",
     "actress": [],
@@ -376,7 +346,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230920/aed214pl.jpg!320x216.jpg",
     "actress": [],
@@ -391,7 +361,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231005/aed215pl.jpg!320x216.jpg",
     "actress": [],
@@ -405,14 +375,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "已婚妇女",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "按摩",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/cb7f6393ab64381588cddd249c444e9e.jpg",
     "actress": [
@@ -428,14 +398,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "单体作品",
       "已婚妇女",
+      "潮吹",
       "中出",
-      "成熟的女人",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/1218ff87691bbca62ab3f1c7ec237c97.jpg",
     "actress": [],
@@ -449,14 +419,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/03265c039251bc17f3c4c5954633c887.jpg",
     "actress": [
@@ -472,14 +442,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "已婚妇女",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "按摩",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/5ca5faff83932cd747636f237a9e1177.jpg",
     "actress": [
@@ -495,14 +465,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "已婚妇女",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "按摩",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/3f35d25070c7041174f89d424dd5f0eb.jpg",
     "actress": [
@@ -518,14 +488,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "单体作品",
       "已婚妇女",
+      "潮吹",
       "中出",
-      "成熟的女人",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/60b1ccb938f083f54bb88f7fa95042e8.jpg",
     "actress": [
@@ -541,14 +511,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "已婚妇女",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "按摩",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/e983423cfaef9fa9c6148c426204629b.jpg",
     "actress": [],
@@ -562,15 +532,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/476e3da728dffcde92c3fad4e9810bfe.jpg",
     "actress": [
@@ -587,14 +557,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/f1545fec651c46a8e6b426657ed5ab4d.jpg",
     "actress": [
@@ -612,7 +582,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240506/a2IchKc5/1.jpg",
     "actress": [],
@@ -627,7 +597,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240506/aj9p6beN/1.jpg",
     "actress": [],
@@ -642,7 +612,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240609/H9G9hjTL/1.jpg",
     "actress": [],
@@ -659,7 +629,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/30/690291e779f1ac4ec4ca26e5/poster2.jpg",
     "actress": [],
@@ -674,7 +644,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240921/VEaoZtKa/1.jpg",
     "actress": [],
@@ -689,7 +659,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -706,7 +676,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -720,14 +690,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "拘束",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "拘束",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/44ac82c2/vod.jpg",
     "actress": [
@@ -746,7 +716,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250120/3xnJHWqV/1.jpg",
     "actress": [],
@@ -763,7 +733,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/5a882d677505dc80847a14275a977961.jpg",
     "actress": [],
@@ -780,7 +750,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250831-1/75882c1366bfc236b7094f3b37f7cd9a.jpg",
     "actress": [],
@@ -795,7 +765,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/d100fbe6bc0f5812fffb3fcab7913d89.jpg",
     "actress": [],
@@ -809,14 +779,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "无毛",
       "中出",
-      "成熟的女人",
-      "单体作品"
+      "无毛",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -833,7 +803,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250504/HMYSImkc/1.jpg",
     "actress": [],
@@ -847,14 +817,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "平胸",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -871,7 +841,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/27/68855e9098bc99dfdd913afe/cover.jpg",
     "actress": [],
@@ -886,7 +856,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -901,7 +871,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250713/iGNomb2f/1.jpg",
     "actress": [],
@@ -915,14 +885,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "已婚妇女",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "按摩",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/3ff27a58a0b46d09fa5d9a3d72d5a1ab.jpg",
     "actress": [
@@ -939,7 +909,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -954,7 +924,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/15c28379/vod.jpg",
     "actress": [],
@@ -969,7 +939,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -984,7 +954,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200813-1/8de6ae1f10595fa235ed5bf1efdbfb3c.jpg",
     "actress": [],
@@ -999,7 +969,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/22/303c46ade78880c2ba35708959f315bf.jpg",
     "actress": [],
@@ -1016,13 +986,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20641db8c77d79bb695b7/cover.jpg",
     "actress": [],
@@ -1039,13 +1003,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250908/DYtZ07X3/1.jpg",
     "actress": [],
@@ -1059,20 +1017,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "黑人演员",
-      "纪录片",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "纪录片",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/1c73cf089d3b826a6e52ab255b0be1c9.jpg",
     "actress": [],
@@ -1087,13 +1039,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/rDxCWPNW/1.jpg",
     "actress": [],
@@ -1108,13 +1054,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230623/DFNqy7CU/1.jpg",
     "actress": [],
@@ -1129,13 +1069,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230623/7WCZ6CYI/1.jpg",
     "actress": [],
@@ -1150,13 +1084,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230721/2sW9jgy1/1.jpg",
     "actress": [],
@@ -1171,13 +1099,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230721/jVNlIOu6/1.jpg",
     "actress": [],
@@ -1194,13 +1116,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678942d389def9b1b809624d/cover.jpg",
     "actress": [],
@@ -1215,13 +1131,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789408e89def9b1b809623b/cover.jpg",
     "actress": [],
@@ -1235,27 +1145,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "女王",
-      "M男・M女",
-      "強姦",
-      "魔鬼系",
-      "猥褻穿著",
-      "按摩・物理治療・美容",
-      "監禁",
-      "白眼失神",
       "巨乳",
+      "強姦",
+      "M男・M女",
+      "魔鬼系",
+      "監禁",
+      "女王",
+      "猥褻穿著",
+      "暗黑系",
+      "美少女電影",
+      "按摩・物理治療・美容",
       "SM",
-      "暗黑系"
+      "白眼失神"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2023-09-21",
     "cover_url": "https://picture.yoshiclub.xyz/20230922/cfbca047-8631-4d4c-bb84-9c0111ca7100.jpg",
     "actress": [
@@ -1272,13 +1176,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230921/xLVD3IJz/1.jpg",
     "actress": [],
@@ -1293,13 +1191,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231026/JKrsHQoP/1.jpg",
     "actress": [],
@@ -1313,32 +1205,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "凌辱",
-      "緊縛",
-      "強姦",
-      "M男・M女",
-      "魔鬼系",
-      "羞恥",
-      "監獄",
-      "猥褻穿著",
-      "拘束・拷問",
-      "中出",
-      "監禁",
-      "蕩婦",
       "口交",
-      "性感",
+      "凌辱",
       "女奴",
-      "劇情"
+      "M男・M女",
+      "強姦",
+      "魔鬼系",
+      "中出",
+      "拘束・拷問",
+      "緊縛",
+      "監禁",
+      "猥褻穿著",
+      "性感",
+      "蕩婦",
+      "劇情",
+      "熟女",
+      "羞恥",
+      "監獄"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231123/cc34ecf0-284f-4370-885b-0e4e5f6362ca.jpg",
     "actress": [
@@ -1354,37 +1240,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "殘忍畫面",
-      "報復",
       "凌辱",
-      "女搜查官",
-      "緊縛",
-      "緊身衣",
-      "羞恥",
-      "黑幫",
-      "監禁",
-      "口交",
-      "性感",
-      "暗黑系",
-      "兩男一女",
+      "報復",
       "深喉",
+      "兩男一女",
       "淫亂",
       "中出",
-      "劇情",
-      "輪姦",
       "美少女電影",
-      "魔鬼系",
+      "殘忍畫面",
+      "劇情",
       "調教",
-      "監獄"
+      "緊身衣",
+      "緊縛",
+      "暗黑系",
+      "輪姦",
+      "羞恥",
+      "女搜查官",
+      "監獄",
+      "口交",
+      "監禁",
+      "魔鬼系",
+      "黑幫",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231124/fa35d775-2db7-4a69-ab87-9915e7485242.jpg",
     "actress": [
@@ -1400,25 +1280,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "殘忍畫面",
-      "緊縛",
-      "魔鬼系",
-      "肛交",
-      "灌腸",
-      "監禁",
-      "後入",
       "重口味",
-      "暗黑系"
+      "監禁",
+      "魔鬼系",
+      "緊縛",
+      "暗黑系",
+      "殘忍畫面",
+      "多P",
+      "後入",
+      "肛交",
+      "灌腸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2023-12-21",
     "cover_url": "https://picture.yoshiclub.xyz/20231221/e713780b-26fc-4b37-ac4c-b967dcb72a18.jpg",
     "actress": [
@@ -1435,13 +1309,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/1P6Dq8Ur/1.jpg",
     "actress": [],
@@ -1457,23 +1325,17 @@ window.PAGE_DATA = [
     "genres": [
       "和服・浴衣・喪服",
       "吞精",
-      "羞恥",
-      "野外露天",
+      "口交",
+      "巨乳",
+      "露出",
       "乳交",
       "中出",
-      "口交",
       "企畫",
-      "巨乳",
-      "露出"
+      "羞恥",
+      "野外露天"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc88ce2544b92b9a97187/cover.jpg",
     "actress": [
@@ -1489,43 +1351,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "脅迫做愛",
       "女學生",
-      "吞精",
-      "殘忍畫面",
       "口爆",
-      "苗條",
+      "深喉",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "殘忍畫面",
+      "調教",
       "美少女",
       "強姦",
-      "JK校服",
-      "胸控・戀乳癖",
-      "美乳",
+      "學校",
+      "苗條",
+      "顏射",
+      "手指插入",
       "制服",
+      "美乳",
+      "吞精",
       "口交",
       "巨乳",
-      "性感",
       "潮吹",
-      "深喉",
-      "中出",
-      "少女",
-      "顏射",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
       "魔鬼系",
       "乳交",
-      "脅迫做愛",
-      "調教",
       "女上位",
-      "學校"
+      "胸控・戀乳癖",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/63b29b0a-0bf7-4d08-b3d2-72158c54969f.jpg",
     "actress": [
@@ -1544,13 +1400,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af3843d7791f92730e0fc9/cover.jpg",
     "actress": [],
@@ -1564,20 +1414,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "灌肠",
-      "肛交",
       "中出",
       "素人作品",
-      "单体作品"
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/8959fdf098e9a759522768664bc58d67.jpg",
     "actress": [
@@ -1594,13 +1438,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/KfsXA3at/1.jpg",
     "actress": [],
@@ -1615,13 +1453,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1638,13 +1470,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1658,27 +1484,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "口交",
+      "巨乳",
+      "乳交",
       "約炮",
+      "中出",
       "美少女電影",
+      "劇情",
       "艷遇",
       "美少女",
       "深喉",
-      "乳交",
-      "美乳",
-      "中出",
-      "口交",
-      "巨乳",
-      "劇情",
-      "少女"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522233244524524.jpg",
     "actress": [
@@ -1697,13 +1517,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f4de698bc99dfdd126f11/cover.jpg",
     "actress": [],
@@ -1718,13 +1532,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/ZBxcU6eZ/1.jpg",
     "actress": [],
@@ -1739,13 +1547,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/orlPZUTi/1.jpg",
     "actress": [],
@@ -1760,13 +1562,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d859acd6fbef4e90cd5f85/cover.jpg",
     "actress": [],
@@ -1783,13 +1579,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d218e0e4a73d4f159bc6b6/cover.jpg",
     "actress": [],
@@ -1803,45 +1593,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "口爆",
-      "苗條",
-      "臀控",
-      "感官作品",
       "凌辱",
+      "多P",
+      "蕩婦",
+      "口爆",
+      "臀控",
+      "美臀",
       "亂交 • 群P",
-      "性感",
-      "熟女",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "黑人男優",
       "深喉",
+      "黑人男優",
+      "感官作品",
+      "重口味",
+      "人妻",
+      "舔陰",
+      "兩男一女",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "重口味",
-      "美臀",
       "絕頂高潮",
       "女優",
-      "舔陰",
+      "企畫",
+      "苗條",
       "手指插入",
-      "肛交",
+      "騎乗位",
+      "巨尻",
+      "潮吹",
       "白眼失神",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "性感",
+      "肛交",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240822/d6238854-d8a0-4b40-973e-e18188ac70ef.jpg",
     "actress": [
@@ -1857,51 +1641,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "殘忍畫面",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "放尿",
-      "凌辱",
       "肉絲",
-      "緊縛",
-      "心理驚悚",
+      "凌辱",
+      "性虐癖",
       "拘束・拷問",
-      "羞恥",
-      "美乳",
-      "變態",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "深喉",
-      "中出",
-      "後入",
-      "企畫",
-      "重口味",
+      "口爆",
       "SM",
-      "顏射",
+      "打屁股",
       "奇異的",
-      "女優",
-      "魔鬼系",
-      "按摩・物理治療・美容",
+      "深喉",
+      "重口味",
+      "中出",
+      "殘忍畫面",
       "調教",
-      "白眼失神",
+      "女優",
+      "緊縛",
+      "企畫",
+      "變態",
+      "顏射",
+      "插入異物",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "導尿",
+      "羞恥",
+      "形象俱樂部",
+      "唾液敷面",
+      "美乳",
+      "口交",
       "拳擊交",
+      "潮吹",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "放尿",
+      "白眼失神",
+      "後入",
+      "性感",
+      "心理驚悚"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240822/5ce095b2-c725-4fa6-861f-66daee59cb6e.jpg",
     "actress": [
@@ -1920,13 +1698,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/5ab3c256/vod.jpg",
     "actress": [],
@@ -1940,25 +1712,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "巨大阴茎",
-      "深喉",
-      "多P",
-      "魔鬼系",
-      "女检察官",
       "黑人演员",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "魔鬼系",
+      "中出",
+      "女检察官",
+      "苗条",
+      "多P",
+      "巨大阴茎",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/abbca2652d779adec073b072748e6c6f.jpg",
     "actress": [
@@ -1974,25 +1740,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "巨大阴茎",
-      "深喉",
+      "黑人演员",
+      "单体作品",
       "已婚妇女",
-      "多P",
       "平胸",
       "魔鬼系",
-      "黑人演员",
       "中出",
-      "单体作品"
+      "苗条",
+      "多P",
+      "巨大阴茎",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/3275c74691a5cd100c5029c17b67d07d.jpg",
     "actress": [
@@ -2009,13 +1769,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/19/96724b0fdc87bda22a6b4a9071b0bcc8.jpg",
     "actress": [],
@@ -2029,58 +1783,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "若妻",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "痴漢",
       "凌辱",
-      "緊縛",
-      "綁架",
-      "強姦",
       "美腳",
       "拘束・拷問",
-      "羞恥",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "監禁",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "暗黑系",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "深喉",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
+      "口爆",
       "SM",
       "美臀",
-      "絕頂高潮",
+      "深喉",
+      "人妻",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "魔鬼系",
+      "淫亂",
+      "中出",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "M男・M女",
+      "綁架",
+      "強姦",
+      "色白",
+      "緊縛",
+      "變態",
+      "美人妻",
+      "暗黑系",
+      "若妻",
+      "插入異物",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "監禁",
+      "潮吹",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "白眼失神",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/8a33f630/vod.jpg",
     "actress": [
@@ -2096,63 +1844,57 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "吞精",
-      "多P",
-      "殘忍畫面",
-      "M男・M女",
-      "口爆",
       "真實拍攝",
-      "飯店",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "臀控",
-      "美腳",
-      "OL",
-      "真人秀",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
       "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "深喉",
+      "性虐癖",
       "ASMR顱内高潮",
+      "美腳",
+      "口爆",
+      "臀控",
+      "美臀",
+      "打屁股",
+      "亂交 • 群P",
+      "深喉",
+      "重口味",
+      "人妻",
+      "兩男一女",
       "淫亂",
       "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "重口味",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "自慰",
-      "魔鬼系",
       "御姐系",
+      "殘忍畫面",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "女優",
+      "企畫",
+      "飯店",
+      "變態",
+      "顏射",
+      "插入異物",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "唾液敷面",
+      "美腿",
+      "脚控・戀足癖",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "魔鬼系",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "真人秀",
+      "OL",
+      "白眼失神",
+      "多P",
+      "後入",
+      "濕身",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/816335e6bad2177450bca8ee5f74b97d.jpg",
     "actress": [
@@ -2169,25 +1911,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "巨大阴茎",
-      "偷窥",
-      "已婚妇女",
-      "出轨",
       "黑人演员",
-      "猎艳",
+      "人妻",
       "业余",
-      "成熟的女人",
-      "第一人称摄影"
+      "已婚妇女",
+      "第一人称摄影",
+      "偷窥",
+      "猎艳",
+      "出轨",
+      "巨大阴茎",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250306-1/75b09852c43f0e73d1de43dd62f48ec9.jpg",
     "actress": [],
@@ -2201,60 +1937,54 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "吞精",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "唾液敷面",
-      "苗條",
-      "感官作品",
       "凌辱",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "美人妻",
-      "深喉",
       "ASMR顱内高潮",
+      "美腳",
+      "口爆",
+      "美臀",
+      "濕身",
+      "亂交 • 群P",
+      "深喉",
+      "感官作品",
+      "人妻",
+      "兩男一女",
       "淫亂",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
       "舔腳",
-      "乳交",
+      "美少女電影",
+      "接吻",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "企畫",
+      "苗條",
+      "變態",
+      "美人妻",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "唾液敷面",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "魔鬼系",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "白眼失神",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250806-1/f171f31bf31764a2b5b793ea1590c521.jpg",
     "actress": [
@@ -2270,64 +2000,122 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "吞精",
-      "M男・M女",
-      "叛逆少女",
-      "口爆",
-      "性虐癖",
-      "唾液敷面",
-      "苗條",
+      "少女",
       "鬼畜片",
+      "性虐癖",
       "凌辱",
-      "美少女",
-      "緊縛",
       "拘束・拷問",
-      "羞恥",
-      "早漏",
-      "口交",
-      "暗黑系",
-      "形象俱樂部",
-      "潮吹",
+      "口爆",
+      "SM",
       "單體作品",
-      "兩男一女",
       "深喉",
-      "高顏值",
-      "明星臉",
+      "重口味",
+      "兩男一女",
       "淫亂",
       "中出",
-      "美人",
-      "後入",
-      "少女",
-      "重口味",
-      "SM",
+      "美少女電影",
       "劇情",
       "抹油",
-      "絕頂高潮",
-      "脚控・戀足癖",
       "繼父",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
       "調教",
-      "白眼失神",
+      "美少女",
+      "早漏",
+      "明星臉",
+      "絕頂高潮",
+      "M男・M女",
+      "叛逆少女",
+      "緊縛",
+      "苗條",
+      "高顏值",
+      "暗黑系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "唾液敷面",
+      "脚控・戀足癖",
+      "吞精",
+      "口交",
+      "潮吹",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "白眼失神",
+      "後入",
+      "濕身",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/6d7b2105ed0a84bc2a610fdaaf1a044e.jpg",
     "actress": [
       "伊織雛乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-046"
+  },
+  {
+    "id": 70124,
+    "IDcode": "AEGE-047",
+    "title": "HowTo首絞め あなたは安全な首絞めしてますか？誰も教えてくれなかった『愛ある首絞め』 清美れの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "教学"
+    ],
+    "type": "有码",
+    "company": "AEGEAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "清美れの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-047"
+  },
+  {
+    "id": 6577,
+    "IDcode": "AEGE-048",
+    "title": "黑人の巨チンにハマってしまった美人OL2人 前乃菜々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "單體作品",
+      "黑人男優",
+      "大雞巴",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "素人作品",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "口交",
+      "清純",
+      "女上位",
+      "OL",
+      "白眼失神",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "AEGEAN",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003038364364_thumbnail.webp",
+    "actress": [
+      "前乃菜菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-048"
   }
 ];

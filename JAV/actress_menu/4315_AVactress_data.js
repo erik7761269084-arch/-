@@ -62,7 +62,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/02/4b4ef27efae208232bdd4d3601f9dd47.jpg",
       "actress": [

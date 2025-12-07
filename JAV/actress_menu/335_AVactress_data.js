@@ -49,7 +49,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-01-21",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080140815815.jpg",
       "actress": [
@@ -279,7 +279,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "",
       "actress": [

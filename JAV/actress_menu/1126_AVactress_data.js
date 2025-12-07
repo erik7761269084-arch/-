@@ -59,7 +59,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075920746746.jpg",
       "actress": [
@@ -312,7 +312,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-07-16",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/11a06ea1b8e8144e9a97d612298cdeb5.jpg",
       "actress": [
@@ -672,7 +672,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "",
       "actress": [

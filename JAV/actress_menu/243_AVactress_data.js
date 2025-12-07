@@ -88,7 +88,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "2024-06-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240624/d339c584-6308-47ee-95ce-9ae24b0a5e1a.jpg",
       "actress": [

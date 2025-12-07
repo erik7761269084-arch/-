@@ -1,2392 +1,1932 @@
 window.PAGE_DATA = [
   {
-    "id": 213776,
-    "IDcode": "JKSR-244",
-    "title": "美乳美人-月島ゆめ 仁美まどか",
+    "id": 99106,
+    "IDcode": "JUFD-988",
+    "title": "接吻乳首責めレズビアン ～先輩レースクイーンの卑猥なレズキスニップル調教～ 初乃ふみか 美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "淫乱，真实",
+      "调教",
+      "女同性恋",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "2018-12-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里",
+      "初乃文香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-988"
+  },
+  {
+    "id": 595594,
+    "IDcode": "JUFD-991",
+    "title": "もがくほど抜け出せない吐息と热気が充満する汗だく密室性交 织田真子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/06/35d60a0569eaba6ca7246542799dfe25.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0394b0e4dce49c5cd25ede6d110e6d50.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-991"
   },
   {
-    "id": 166656,
-    "IDcode": "JKSR-272",
-    "title": "真實中出！露臉！搭訕人妻in築地",
+    "id": 213953,
+    "IDcode": "JUFD-992",
+    "title": "大奶子女老板-風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-272"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-992"
   },
   {
-    "id": 166584,
-    "IDcode": "JKSR-280",
-    "title": "臉正到太好認正人妻…搭訕16素人妻回去幹4小時不倫特",
+    "id": 73068,
+    "IDcode": "JUFD-994",
+    "title": "糞ムカつく美人秘書は俺のデカチンに絶対服従肉オナホ 本田岬",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "素人",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-280"
-  },
-  {
-    "id": 166657,
-    "IDcode": "JKSR-291",
-    "title": "狩獵淫亂肉奴人妻肏到連續高潮變性奴隸真緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-291"
-  },
-  {
-    "id": 166585,
-    "IDcode": "JKSR-292",
-    "title": "搭訕G罩杯巨乳人妻來幹砲小悠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-292"
-  },
-  {
-    "id": 166658,
-    "IDcode": "JKSR-293",
-    "title": "老公對不起…我被人睡走了…美來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-293"
-  },
-  {
-    "id": 166659,
-    "IDcode": "JKSR-294",
-    "title": "G罩杯幸福愛人契約一色小百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-294"
-  },
-  {
-    "id": 166660,
-    "IDcode": "JKSR-297",
-    "title": "「週8でオナニーしてます…。ヤバイですかね？」天然I（アイ）カップ巨乳妻をナンパ性交 今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2023/02/c33tzt30iw2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-297"
-  },
-  {
-    "id": 218001,
-    "IDcode": "JKSR-304",
-    "title": "jksr-304 自然G罩杯-井上真帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/3cd781b61128dcb5b514de5c16d97576.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-304"
-  },
-  {
-    "id": 98909,
-    "IDcode": "JKSR-369",
-    "title": "「え？これがイ○スタですか！」スマホを触った事がないほど田舎の Gカップ純朴娘に中出し！！ みかちゃんGカップ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "业余",
+      "巨乳",
       "中出",
-      "制服",
-      "纪录片"
+      "第一人称摄影",
+      "调教",
+      "秘书"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b4a590166e2124bb75445680f5424783.jpg",
+    "actress": [
+      "本田岬"
     ],
-    "publish_date": "2018-10-27",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-994"
+  },
+  {
+    "id": 556644,
+    "IDcode": "JUFD-995",
+    "title": "刺激阴蒂并打破它的痉挛性交 大浦真奈美 菜鸟女教师真奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251009-1/99d476c19c1b155dbf6cc7363b545ced.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-995"
+  },
+  {
+    "id": 595596,
+    "IDcode": "JUFD-996",
+    "title": "射精后も精子を欲しがる妊娠したがり発情ボイン！ おねだり神乳メイド 山冈芽衣 三岛奈津子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0c16b898b7eacfd092222a5eb30cdcdd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-996"
+  },
+  {
+    "id": 526908,
+    "IDcode": "JUFD-997",
+    "title": "美女がガックガク痉挛してダメになる追撃性交 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-997"
+  },
+  {
+    "id": 595593,
+    "IDcode": "JUFD-998",
+    "title": "じっくり甘えさせた后に激変！言叶で仆を犯す変态淫语ママ 小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c1f5267df8498aa45f90d4d18adcc4af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-998"
+  },
+  {
+    "id": 207675,
+    "IDcode": "JUFE-002",
+    "title": "臣服于黑人大肉棒的星奈爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-002"
+  },
+  {
+    "id": 99129,
+    "IDcode": "JUFE-003",
+    "title": "寸止め淫語巨尻レズビアン 部長の奥さんに焦らされながら禁断の快楽に引きずりこまれて… 篠田れいこ 神ユキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨大屁股",
+      "淫乱，真实",
+      "女同性恋",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-01-01",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/UzQCDImd.jpg",
+    "actress": [
+      "神ユキ",
+      "宫川ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-003"
+  },
+  {
+    "id": 70896,
+    "IDcode": "JUFE-004",
+    "title": "僕らの性欲をまるごと飲み干す！剛毛ごっくん女教師 牧村柚希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学校作品",
+      "吞精",
+      "口交",
+      "乳交",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "一宫みかり"
+      "牧村柚希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-369"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-004"
   },
   {
-    "id": 103150,
-    "IDcode": "JKSR-382",
-    "title": "○学生の時、朝礼でお漏らししちゃったのがトラウマです… Fカップ純朴娘に中出し！！ りおちゃん146cm Fカップ",
+    "id": 87945,
+    "IDcode": "JUFE-006",
+    "title": "家出娘を自宅に連れ込み朝から晩まで種付け調教 俺専用！爆乳生ハメ奴隷 小栗もなか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "业余",
+      "巨乳",
+      "水手服",
       "中出",
-      "制服",
-      "纪录片"
+      "乳交",
+      "调教"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-01-26",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57jksr382/57jksr382pl.jpg",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/70e56347efd5f432c8124bb777f38983.jpg",
     "actress": [
-      "藤田莉绪"
+      "小栗萌中"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-382"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-006"
   },
   {
-    "id": 70936,
-    "IDcode": "JKSR-384",
-    "title": "露出少な目で清楚！なのに脱いだらスゴイ！メチャクチャHなボディを持つ人妻ばかりをナンパはめ撮り！4時間20人",
+    "id": 595546,
+    "IDcode": "JUFE-007",
+    "title": "【フィッチ】あなた、本当の私を见て下さい… 夫のいない自宅で爆乳妻と紧缚调教ナマ中出し性交 三岛奈津子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e144b4ed426c1cacb62512c3ae6ca12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-007"
+  },
+  {
+    "id": 70980,
+    "IDcode": "JUFE-008",
+    "title": "アナルひくひく汗汁ぐっちょり！ 男に股がり腰振り乱す下品な痴女の肉尻性交 工藤まなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
       "已婚妇女",
-      "4小时以上作品",
+      "流汗",
+      "骑乗位",
+      "屁股"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-008"
+  },
+  {
+    "id": 70836,
+    "IDcode": "JUFE-009",
+    "title": "把高傲的巨尻女社长筱田优一步步调教成公司的肉便器母猪社长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "中出",
+      "潮吹",
+      "调教",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-009"
+  },
+  {
+    "id": 70949,
+    "IDcode": "JUFE-010",
+    "title": "オヤジの濃厚テクでイクイク体質にされた爆乳女子大生 明望萌衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "自慰",
+      "女大学生",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b373b11c6c2f6badeff0000fc36958f6.jpg",
+    "actress": [
+      "宝生めい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-010"
+  },
+  {
+    "id": 595458,
+    "IDcode": "JUFE-013",
+    "title": "オヤジの浓厚テクでイクイク体质にされた爆乳女子大生 松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5bbce765001bf72e680dd1181ffd497a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-013"
+  },
+  {
+    "id": 221241,
+    "IDcode": "JUFE-014",
+    "title": "老婆出去旅游的五天-飛鳥りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af6a8ed7791f92730e9e7d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-014"
+  },
+  {
+    "id": 566085,
+    "IDcode": "JUFE-015",
+    "title": "焦らしのスローピストンから猛烈骑乘位 デカ尻女秘书 美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5b6f0b60232896f639568e85831e0995.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-015"
+  },
+  {
+    "id": 595461,
+    "IDcode": "JUFE-016",
+    "title": "密着して舐め尽くす むしゃぶり唾液痴女 香坂纱梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c32ee0cd26691964ecdc8519b65cd5a3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-016"
+  },
+  {
+    "id": 566084,
+    "IDcode": "JUFE-017",
+    "title": "絶対的上から目线で爆乳痴女が淫语コントロール 射精を支配される究极主観JOI 风间ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ab1190cda026ba6fb8423a5c2bac195.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-017"
+  },
+  {
+    "id": 216838,
+    "IDcode": "JUFE-018",
+    "title": "女社長-KAORI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af6a24d7791f92730e9e7b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-018"
+  },
+  {
+    "id": 566083,
+    "IDcode": "JUFE-020",
+    "title": "淫语で诱い込むおまんホールド 星奈あい ～匂い立つびしょ濡れ女の子シロップ～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b5c8416d437c226ef1e0c53a45ec4d9e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-020"
+  },
+  {
+    "id": 211633,
+    "IDcode": "JUFE-022",
+    "title": "黒人温泉-かなで自由",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/02/02/9399c17e4e2181ddd964885b71e19dc6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-022"
+  },
+  {
+    "id": 193401,
+    "IDcode": "JUFE-023",
+    "title": "对精液贪婪的姐姐们向年幼的弟弟发起不容拒绝的进攻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-023"
+  },
+  {
+    "id": 194972,
+    "IDcode": "JUFE-024",
+    "title": "沾黏着唾液和爱液无套鸡鸡在小穴和喉咙中反覆深插-八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-024"
+  },
+  {
+    "id": 470182,
+    "IDcode": "JUFE-025",
+    "title": "濃厚熱吻玩翻奶頭蕾絲邊 香坂紗梨 春原未來",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-03-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f7dc6edc101930b3820c2/cover.jpg",
+    "actress": [
+      "春原未来",
+      "香坂紗梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-025"
+  },
+  {
+    "id": 595372,
+    "IDcode": "JUFE-026",
+    "title": "あまりのデカマラに目を夺われて… 巨根で贯かれる中出し黒人温泉 优木いおり ～夫の邻で痉挛堕ちする超乳轮妻・いおり～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/W0sBXpNR.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-026"
+  },
+  {
+    "id": 566082,
+    "IDcode": "JUFE-027",
+    "title": "M男の间で话题沸腾！？さんざん勃起させて発射を焦らす金玉充电パブ 美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/VgJIbMAc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-027"
+  },
+  {
+    "id": 105343,
+    "IDcode": "JUFE-028",
+    "title": "爆乳姐姐松永紗奈开玩笑诱惑弟弟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
+      "处男",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802cb8f9a2e9b1d474d3b9/cover.jpg",
+    "actress": [
+      "イセドン内村",
+      "松永纱奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-028"
+  },
+  {
+    "id": 595371,
+    "IDcode": "JUFE-029",
+    "title": "肉感タイトスーツ！ デキる长身美人OLの下品な着衣SEX 黒宫えいみ ～职场に复帰した人妻OL・えいみさん～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-029"
+  },
+  {
+    "id": 595370,
+    "IDcode": "JUFE-030",
+    "title": "おっぱいで犯されたい无能な仆 超优秀なデカ乳女上司の逆セクハラ乳榨りプレス KAORI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/nW90geIt.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-030"
+  },
+  {
+    "id": 208507,
+    "IDcode": "JUFE-031",
+    "title": "無理やり強制射精 篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-031"
+  },
+  {
+    "id": 204500,
+    "IDcode": "JUFE-032",
+    "title": "紧贴后尽情舔弄的大胆扑上唾液色女飞鸟铃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-032"
+  },
+  {
+    "id": 70933,
+    "IDcode": "JUFE-034",
+    "title": "想射不给射的焦躁玩弄的风俗店M男的天堂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨大屁股",
+      "中出",
+      "礼仪小姐",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柳美憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-034"
+  },
+  {
+    "id": 534212,
+    "IDcode": "JUFE-035",
+    "title": "射精直后の敏感チ○ポを追撃シェイク！手コキ痴女の强制スプラッシュ～憧れのお嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-035"
+  },
+  {
+    "id": 165799,
+    "IDcode": "JUFE-036",
+    "title": "肉感タイトスーツ！デキる長身美人O",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-036"
+  },
+  {
+    "id": 88246,
+    "IDcode": "JUFE-037",
+    "title": "禁欲生活で性欲が爆発して男を監禁！ W痴女の逆サンドイッチ種搾りSEX 岬あずさ ひなた澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "中出",
+      "多P",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岬梓沙",
+      "日向澪",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-037"
+  },
+  {
+    "id": 523611,
+    "IDcode": "JUFE-038",
+    "title": "催眠淫语カウンセラー 絶対拘束で自由を夺われ无理やり强制射精 美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/b30e4cdf4b93bc2fabb848e7fcc8abde.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-038"
+  },
+  {
+    "id": 470168,
+    "IDcode": "JUFE-039",
+    "title": "惱人女社長成了絕對服從肉便器 KAORI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a09e7a05de9f92f0d08a10/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-039"
+  },
+  {
+    "id": 523612,
+    "IDcode": "JUFE-040",
+    "title": "高飞车女社长が尻肉ひん剥き失禁谢罪 ～利尿剤を饮まされ羞耻のオシッコ调教～ 黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/42c7eb9a796939561b8e98d5178a5d24.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-040"
+  },
+  {
+    "id": 595311,
+    "IDcode": "JUFE-041",
+    "title": "美しい巨尻妻の猥亵なパンストの香りと性交 要ゆうな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-041"
+  },
+  {
+    "id": 88245,
+    "IDcode": "JUFE-042",
+    "title": "18歳 天然Hcup素人 青森から上京したての純粋な爆乳女子大生AVデビュー 生野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "首次亮相",
+      "乳交",
+      "巨大屁股",
+      "女大学生",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecb0db895dc7bb62ddd84ca45c2a54d1.jpg",
+    "actress": [
+      "生野光",
+      "鲛岛",
+      "しみけん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-042"
+  },
+  {
+    "id": 595236,
+    "IDcode": "JUFE-043",
+    "title": "跨住男人扭腰的下流色女肉臀性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/cf4805b4e444881e79c6b10fc7816cbe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-043"
+  },
+  {
+    "id": 71031,
+    "IDcode": "JUFE-044",
+    "title": "爆乳姉-松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
+      "乱伦",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-044"
+  },
+  {
+    "id": 99128,
+    "IDcode": "JUFE-045",
+    "title": "接吻乳首責めレズビアン ～コーチの卑猥なレズキスニップル調教～ 岬あずさ 神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "淫乱，真实",
+      "调教",
+      "女同性恋",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-05-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岬梓沙",
+      "管野静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-045"
+  },
+  {
+    "id": 595234,
+    "IDcode": "JUFE-046",
+    "title": "温泉旅行NTR乱交～妻子被町内会大叔们灌酒餵春药后的NTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cb83501c5d806e17422e0a409f0a71ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-046"
+  },
+  {
+    "id": 70834,
+    "IDcode": "JUFE-047",
+    "title": "超绝美丝袜人妻本田岬的高级服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "人妻",
+      "巨乳",
+      "中出",
+      "礼仪小姐",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "本田岬",
+      "イセドン内村",
+      "戸川夏也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-047"
+  },
+  {
+    "id": 534556,
+    "IDcode": "JUFE-048",
+    "title": "あなた、本当の私を见て下さい… 夫のいない自宅で爆乳妻と紧缚调教ナマ中出し性交 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-048"
+  },
+  {
+    "id": 218710,
+    "IDcode": "JUFE-049",
+    "title": "変態淫語-大島優香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-049"
+  },
+  {
+    "id": 566081,
+    "IDcode": "JUFE-050",
+    "title": "M男之间的热门话题！？让人充分勃起忍耐发射的睾丸充电酒吧 织田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1b34265805c0672f74804f3c1021b78.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-050"
+  },
+  {
+    "id": 74824,
+    "IDcode": "JUFE-051",
+    "title": "美白美女-加藤ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑人演员",
+      "中出",
+      "校服",
+      "巨大阴茎",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-051"
+  },
+  {
+    "id": 74484,
+    "IDcode": "JUFE-052",
+    "title": "老爸找的年轻后妈-八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "乱伦",
+      "中出",
+      "巨大屁股",
+      "婆婆",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e24a32a47ebb1a871da14/cover.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-052"
+  },
+  {
+    "id": 74821,
+    "IDcode": "JUFE-053",
+    "title": "べっとり愛液と唾液まみれの生チ○ポが繰り返し喉と膣奥に突き刺さるピストン追撃PTMファック 篠田れいこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨大屁股",
+      "中出",
+      "淫乱，真实",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-05-13",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d80e5eb8355142a1e624ad0c52fef924.jpg",
+    "actress": [
+      "宫川ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-053"
+  },
+  {
+    "id": 74823,
+    "IDcode": "JUFE-055",
+    "title": "催眠淫語カウンセラー 絶対拘束で自由を奪われ無理やり強制射精 澤村レイコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "高",
+      "拘束",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-05-13",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8f9f366e2bb5a293c223565f7464daa4.jpg",
+    "actress": [
+      "高坂ますみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-055"
+  },
+  {
+    "id": 470239,
+    "IDcode": "JUFE-056",
+    "title": "愛上無套中出變態運動員正妹 柳美憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899435355337d7f7bcfa31d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-056"
+  },
+  {
+    "id": 566080,
+    "IDcode": "JUFE-058",
+    "title": "著淫荡泳衣的Ｇ奶爆乳吸精淫语色女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/kZ8K5UBv.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-058"
+  },
+  {
+    "id": 566079,
+    "IDcode": "JUFE-061",
+    "title": "射后敏感老二的追击撸管～憧憬的大小姐是超淫色女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/cobVfe0l.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-061"
+  },
+  {
+    "id": 70835,
+    "IDcode": "JUFE-062",
+    "title": "密着して舐め尽くす むしゃぶり唾液痴女 本田岬",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "女主播",
+      "巨乳",
+      "中出",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d899bbd9e375ba0119355aea0bea99d.jpg",
+    "actress": [
+      "本田岬"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-062"
+  },
+  {
+    "id": 71040,
+    "IDcode": "JUFE-063",
+    "title": "爆乳で美人の妻-織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "中出",
+      "调教",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-063"
+  },
+  {
+    "id": 468878,
+    "IDcode": "JUFE-064",
+    "title": "あまりのデカマラに目を奪われて… 巨根で貫かれる中出し黒人溫泉 ～夫の隣で痙攣墮ちする爆乳 凜音桃花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804ba5c179ffb1db6d7612/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-064"
+  },
+  {
+    "id": 595146,
+    "IDcode": "JUFE-065",
+    "title": "老子专用的爆乳无套抽插奴隶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/wXMdk6OZ.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-065"
+  },
+  {
+    "id": 213906,
+    "IDcode": "JUFE-067",
+    "title": "禁欲生活-星奈あい 柏木まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677e4c8ff9a2e9b1d4643a87/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-067"
+  },
+  {
+    "id": 70932,
+    "IDcode": "JUFE-068",
+    "title": "妻の姉が微笑みながらムッチムチ過ぎる肉感BODYで僕を誘惑するんです！ 中村知恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240806-1/2ad2289651b329575617327f55bfbf21.jpg",
+    "actress": [
+      "中村知恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-068"
+  },
+  {
+    "id": 74447,
+    "IDcode": "JUFE-070",
+    "title": "ボディコン女教師痴漢 柳みゆう 卑猥な肉体を強調させる服を選んだばかりに田舎のDQNな生徒達に狙われて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "巨大屁股",
+      "中出",
+      "性骚扰",
+      "胖女人",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-07-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/5ae066ce9a0f0841e74bf6bf8287fac9.jpg",
+    "actress": [
+      "柳美憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-070"
+  },
+  {
+    "id": 165807,
+    "IDcode": "JUFE-071",
+    "title": "绝対的上から目线で巨乳痴女が淫语コ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-071"
+  },
+  {
+    "id": 74227,
+    "IDcode": "JUFE-072",
+    "title": "レ×プされ逃げてきた女子大生を軟禁 犯され全身性器になった肉体を貪る異常な絶頂性交 三船かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "潮吹",
+      "中出",
+      "淫乱，真实",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bc9543ed39b57c09ecbbe/cover.jpg",
+    "actress": [
+      "三船かれん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-072"
+  },
+  {
+    "id": 74819,
+    "IDcode": "JUFE-073",
+    "title": "超絶倫弟にハメられまくる無防備な爆乳姉 童貞弟を誘惑したつもりが…まさかの逆転！ 神咲詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乳交",
+      "中出",
+      "乱伦",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6781540bc179ffb1db6d7b78/cover.jpg",
+    "actress": [
+      "神咲诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-073"
+  },
+  {
+    "id": 73916,
+    "IDcode": "JUFE-074",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 美甘りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "流汗",
+      "中出",
+      "第一人称摄影",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-07-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/33f759d420b79d95c6bc4f90b6a407c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-074"
+  },
+  {
+    "id": 192335,
+    "IDcode": "JUFE-075",
+    "title": "温泉旅行的人妻看到黑人的大鸡巴就春心荡漾了完全忽略了老公只想被黑屌内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678376182a47ebb1a89494eb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-075"
+  },
+  {
+    "id": 209007,
+    "IDcode": "JUFE-076",
+    "title": "爆乳で可愛い妻-稲場るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad6fd55337d7f7be4950f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-076"
+  },
+  {
+    "id": 70994,
+    "IDcode": "JUFE-077",
+    "title": "全裸NTR授業 DQNな生徒に弱みを握られ羞恥という名の快楽を肉体に教えこまれた女教師 八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫妻",
+      "中出",
+      "女教师",
+      "滥交",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-077"
+  },
+  {
+    "id": 566078,
+    "IDcode": "JUFE-079",
+    "title": "高飞车女社长が尻肉ひん剥き失禁谢罪 小早川怜子 ～利尿剤を饮まされ羞耻のオシッコ调教～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7916bd86e6a38f7a2e97190d89ef69bd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-079"
+  },
+  {
+    "id": 73857,
+    "IDcode": "JUFE-080",
+    "title": "競泳歴17年！華々しい受賞歴を持つ21歳の肉体美 長身美人 競泳アスリートAVデビュー 寺川彩音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹",
+      "首次亮相",
+      "中出",
+      "学校泳装",
+      "高"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0af91419b88360737d661a1205e3f1fd.jpg",
+    "actress": [
+      "友光夏华"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-080"
+  },
+  {
+    "id": 73917,
+    "IDcode": "JUFE-081",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 高杉麻里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "流汗",
+      "巨大屁股",
       "中出",
       "第一人称摄影"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-384"
-  },
-  {
-    "id": 534205,
-    "IDcode": "JKSR-385",
-    "title": "ガチンコ中出し！颜出し！人妻ナンパin池袋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-385"
-  },
-  {
-    "id": 590592,
-    "IDcode": "JKSR-389",
-    "title": "[]ガチンコ中出し！颜出し！人妻ナンパin品川",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-389"
-  },
-  {
-    "id": 578852,
-    "IDcode": "JKSR-390",
-    "title": "“学校、どうしたの…？”学校に行ったはずの女子○○生が小さなお口もお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-390"
-  },
-  {
-    "id": 590633,
-    "IDcode": "JKSR-393",
-    "title": "[]ガチンコ中出し！颜出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220716-1/4da744025a358482a15eb58f1c4c671d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-393"
-  },
-  {
-    "id": 523613,
-    "IDcode": "JKSR-395",
-    "title": "“午前10时 学校どうしたの…”ちっぱいミニま○こ少女るるちゃんを绍介します 有栖るる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/02fbd15c8ff5455ad0b6110520e2aa9d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-395"
-  },
-  {
-    "id": 165778,
-    "IDcode": "JKSR-397",
-    "title": "ガチンコ中出し！顔出し！人妻ナンパ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00397pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-397"
-  },
-  {
-    "id": 99146,
-    "IDcode": "JKSR-398",
-    "title": "午前10時 学校どうしたの… りおん 泉りおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "纪录片",
-      "中出",
-      "素人作品",
-      "制服",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-05-25",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57jksr398/57jksr398pl.jpg",
+    "company": "FITCH",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/80e62cc9a72dc82dbea14f03c0e77433.jpg",
     "actress": [
-      "泉莉音"
+      "高杉麻里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-398"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-081"
   },
   {
-    "id": 70934,
-    "IDcode": "JKSR-401",
-    "title": "ガチンコ中出し！顔出し！人妻ナンパ 豊洲パチンコ店編",
+    "id": 74436,
+    "IDcode": "JUFE-082",
+    "title": "レ×プされ逃げてきた女子大生を軟禁 犯され全身性器になった肉体を貪る異常な絶頂性交 真奈りおな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "猎艳",
-      "业余",
       "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-401"
-  },
-  {
-    "id": 70720,
-    "IDcode": "JKSR-402",
-    "title": "中出！露脸！搭讪五十世代 IN 大森",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "猎艳",
-      "业余",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-402"
-  },
-  {
-    "id": 595094,
-    "IDcode": "JKSR-403",
-    "title": "上午十点，怎么没去学校… 发现一个人闲晃在繁华街上的制服女孩。随便聊聊就成功带进旅馆里。抱起小小的肉体，舔著发育途中的奶子，玩弄着白虎小穴。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2c92d290acd0cb82741dc31bb7dfc257.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-403"
-  },
-  {
-    "id": 523732,
-    "IDcode": "JKSR-404",
-    "title": "地方で见つけた！ もみたてほやほや产直巨乳4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190911-1/d00bdbdcd8daa796f1a2fd31677def57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-404"
-  },
-  {
-    "id": 86914,
-    "IDcode": "JKSR-405",
-    "title": "ガチンコ中出し！ 顔出し！ 人妻ナンパ 金券交換妻編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "淫妻",
-      "猎艳",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-07-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-405"
-  },
-  {
-    "id": 86919,
-    "IDcode": "JKSR-406",
-    "title": "午前10時 学校どうしたの… ことね 冬愛ことね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "纪录片",
-      "中出",
-      "素人作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-07-27",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/YoNfGqek.jpg",
-    "actress": [
-      "冬爱琴音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-406"
-  },
-  {
-    "id": 70716,
-    "IDcode": "JKSR-407",
-    "title": "旦那にはしてもらえないマ○コがふやけるほどのクンニで敏感早漏体質になった奥さんの絶頂イキまくりSEX！！4時間20人2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "舔阴",
-      "业余",
-      "素人作品",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-407"
-  },
-  {
-    "id": 98256,
-    "IDcode": "JKSR-410",
-    "title": "勾搭50岁的人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "猎艳",
-      "业余",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/13/b24cd6f32858c75d23cd6c93915f73c1.jpg",
-    "actress": [
-      "平冈里枝子",
-      "樱井夕树",
-      "宫岛优",
-      "天野仁美",
-      "平井雅美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-410"
-  },
-  {
-    "id": 165779,
-    "IDcode": "JKSR-413",
-    "title": "なりきりナンパの職業どうでしょうパティシエ編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00413pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-413"
-  },
-  {
-    "id": 70935,
-    "IDcode": "JKSR-414",
-    "title": "街角五十路スカウト！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "中出",
-      "成熟的女人",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00414pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-414"
-  },
-  {
-    "id": 76458,
-    "IDcode": "JKSR-421",
-    "title": "なりきりナンパの職業どうでしょう保育士編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "素人作品",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/95b8db912348bdebbc1d85162e610aa6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-421"
-  },
-  {
-    "id": 561241,
-    "IDcode": "JKSR-422",
-    "title": "生のおばさま 五十路-四十路 変态熟女全5名",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-422"
-  },
-  {
-    "id": 530413,
-    "IDcode": "JKSR-423A",
-    "title": "[第1集]午前10时 学校どうしたの…5人の少女が体験した悲剧の快楽 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-423A"
-  },
-  {
-    "id": 76013,
-    "IDcode": "JKSR-425",
-    "title": "なりきりナンパの職業どうでしょうスーパー編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中文字幕",
-      "猎艳",
-      "业余",
-      "素人作品",
       "巨乳",
-      "各种职业"
+      "淫乱，真实",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f5e0b6353346e0d03286d16e28e61dbd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-425"
-  },
-  {
-    "id": 75740,
-    "IDcode": "JKSR-426",
-    "title": "凄エグ熟女！！普通のおばさんの変態願望、叶えます。熟女達の知られざる乱痴気変態セックス！さゆり 今日子 智香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "已婚妇女",
-      "业余",
-      "成熟的女人",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/9661cffa2417fd47f3032cae29223c4e.jpg",
+    "company": "FITCH",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/01cf55d6d481e25f4e4467c6638c5be3.jpg",
     "actress": [
-      "久保今日子",
-      "高瀬智香"
+      "心菜りお",
+      "芹沢ゆず"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-426"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-082"
   },
   {
-    "id": 83638,
-    "IDcode": "JKSR-427",
-    "title": "温泉旅館で爆乳妻を夜●いしてみた。 8人4時間 1泊2日の旅行で朝から晩までハメられた人妻たち",
+    "id": 74435,
+    "IDcode": "JUFE-083",
+    "title": "禁欲生活で性欲が爆発して男を監禁！ W痴女の逆サンドイッチ種搾りSEX 渚みつき 美甘りか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "白天出轨",
-      "素人作品",
-      "巨乳",
-      "浴衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2019-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/a9eaf41809e8c77e41d25f798478a6df.jpg",
-    "actress": [
-      "推川悠里",
-      "緒川春",
-      "霧島さくら",
-      "優月真裡奈",
-      "真白湖子",
-      "神咲纱々",
-      "森川杏奈",
-      "令和れい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
-  },
-  {
-    "id": 94985,
-    "IDcode": "JKSR-428",
-    "title": "個撮流出 勝手に撮影無許可で発売！ 昼間からサカっている近所のエロ妻たち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "猎艳",
-      "拘束",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dedd1398f75c2cba01a5adfd7e432007.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-428"
-  },
-  {
-    "id": 533531,
-    "IDcode": "JKSR-431",
-    "title": "_A おばさんと呼ばないで 淫乱熟女全集 16人4时间 あなたの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-431"
-  },
-  {
-    "id": 165882,
-    "IDcode": "JKSR-433",
-    "title": "なりきりナンパの職業どうでしょうフィットネス編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20221007/57jksr00433pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-433"
-  },
-  {
-    "id": 75779,
-    "IDcode": "JKSR-434",
-    "title": "凄エグ熟女！！普通のおばさんの変態願望、叶えます。熟女達の知られざる乱痴気変態セックス！ あや 仁奈 りん 純奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "已婚妇女",
-      "业余",
-      "成熟的女人",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2020-02-22",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/7febcabdbe94a68dbb61369618410fd5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-434"
-  },
-  {
-    "id": 83623,
-    "IDcode": "JKSR-435",
-    "title": "【パパ活の闇】発育中 カラダ おじさん ヤらせた動画 童顔美巨乳12人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
+      "荡妇",
       "中出",
       "美少女电影",
-      "素人作品",
-      "巨乳"
+      "多P",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2020-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-435"
-  },
-  {
-    "id": 82971,
-    "IDcode": "JKSR-436",
-    "title": "ターゲット限定ナンパ 黒パンスト人妻編 黒いヴェールに包まれたエロ尻と美脚に大興奮！ 蒸れ蒸れのおパンツを脱がして生ハメ シロウト妻16人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "猎艳",
-      "素人作品",
-      "连裤袜"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2020-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-436"
-  },
-  {
-    "id": 516063,
-    "IDcode": "JKSR-437",
-    "title": "角色扮演搭訕的職業如何啊 美體師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f86f7edbf24d4ed3429e70/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-437"
-  },
-  {
-    "id": 81727,
-    "IDcode": "JKSR-439",
-    "title": "おとなのおじさんと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2020-03-28",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230111-1/37fe6c7b7394e518710a69d522414756.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67816ad7c179ffb1db6e46e1/cover.jpg",
     "actress": [
-      "皆月光",
-      "泉莉音",
-      "有栖露露",
-      "平花",
-      "冬爱琴音"
+      "渚光希",
+      "蓝井优太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-439"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-083"
   },
   {
-    "id": 533530,
-    "IDcode": "JKSR-440",
-    "title": "A シロウト巨乳ナンパ 人妻编 16人4时间",
+    "id": 74438,
+    "IDcode": "JUFE-084",
+    "title": "研修旅行NTR乱交 春菜はな 会社の研修旅行で酒と媚薬を飲まされた恋人が新入社員達に寝取られてしまいました…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/zmnebkwmmkg.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-440"
-  },
-  {
-    "id": 559962,
-    "IDcode": "JKSR-445",
-    "title": "成切南帕厨师版的职业怎么样",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-445"
-  },
-  {
-    "id": 559892,
-    "IDcode": "JKSR-454",
-    "title": "即时拍摄决定成熟的女人色情采访四十和五十个M性绽放的成熟女人第1枪4人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/0e5532ecc413a4bd8d84aa1f9baf4fc7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-454"
-  },
-  {
-    "id": 572206,
-    "IDcode": "JKSR-486",
-    "title": "“あなたに抱かれたいんです…”无垢な颜してセックスに贪欲 最高の不伦相手を探している人妻たち 14人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic24.anzise.com/pic/20220430/1f415adbfb927b029895b8f3af548594/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-486"
-  },
-  {
-    "id": 539227,
-    "IDcode": "JKSR-506",
-    "title": "午前10时 学校どうしたの… すず 萌波铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250811-1/aa51d324bbd86812ca9c970a7263a46c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-506"
-  },
-  {
-    "id": 84901,
-    "IDcode": "JKSR-509",
-    "title": "【流出映像】人妻派遣社員 慰安旅行セックス 酔わせて乱交・夜●い・職場不倫NTRなど。派遣女子を食い潰すブラック企業の実態",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "已婚妇女",
+      "巨乳",
       "淫妻",
-      "乱交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2021-09-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-509"
-  },
-  {
-    "id": 84897,
-    "IDcode": "JKSR-510",
-    "title": "【流出映像】 女子○生 部活合宿セックス5 和姦・夜●い・襲われ3P・風呂・着替え盗撮…他わいせつ動画多数",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2021-09-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/869559dac54ae589d26998633ac1c6cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-510"
-  },
-  {
-    "id": 530644,
-    "IDcode": "JKSR-514-01",
-    "title": "【个人撮影】小さすぎるJ○ 身长144cm イヤイヤするちびっ子に重量级の种付けプレス ララちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250713/lNtyLNJ5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-514-01"
-  },
-  {
-    "id": 84870,
-    "IDcode": "JKSR-518",
-    "title": "午前10時 学校どうしたの… あすか 百瀬あすか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
+      "乱交",
       "中出",
-      "美少女电影"
+      "OL",
+      "滥交",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2021-11-27",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/dcd2f0b21d56cf83b41af2fa9f73066e.jpg",
+    "company": "FITCH",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9062da64922ba11e65db820627b71d23.jpg",
     "actress": [
-      "小栗操"
+      "春菜华",
+      "蓝井优太",
+      "イセドン内村",
+      "Qべぇ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-518"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-084"
   },
   {
-    "id": 217152,
-    "IDcode": "JKSR-530",
-    "title": "jksr-530 女学生俱乐部营地",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e6035b9176c032340bfa40304cd210e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-530"
-  },
-  {
-    "id": 566103,
-    "IDcode": "JKSR-538",
-    "title": "女子○生 部活合宿セックス 8 和奸・夜这い・袭われ3P・风吕・着替え盗撮…他わいせつ动画多数",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/118fd12ef413ecc15a7a18d2a132a4fd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-538"
-  },
-  {
-    "id": 84903,
-    "IDcode": "JKSR-541",
-    "title": "【流出映像】人妻派遣社員 慰安旅行セックス5 酔わせて乱交・夜●い・職場不倫NTRなど。派遣女子を食い潰すブラック企業の実態",
+    "id": 74538,
+    "IDcode": "JUFE-085",
+    "title": "老婆不在的五天-深田えいみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
-      "人妻",
-      "NTR",
-      "已婚妇女",
-      "淫妻",
-      "乱交"
+      "巨乳",
+      "中出",
+      "美少女电影",
+      "调教",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f15b95f03a092cf5e5669/cover.jpg",
+    "actress": [
+      "深田詠美"
     ],
-    "publish_date": "2022-05-28",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-085"
+  },
+  {
+    "id": 74442,
+    "IDcode": "JUFE-086",
+    "title": "あまりのデカマラに目を奪われて…巨根で貫かれる中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑人演员",
+      "已婚妇女",
+      "中文字幕",
+      "巨大屁股",
+      "中出",
+      "巨大阴茎"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/27935e6d45d8b3b333bb7332b470a31f.jpg",
+    "actress": [
+      "篠崎环奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-086"
+  },
+  {
+    "id": 74235,
+    "IDcode": "JUFE-087",
+    "title": "すぐそばに彼女がいるのに爆乳を密着させて誘惑してくる 文系妹はささやき淫語痴女 稲場るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "中出",
+      "妹妹",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67818b182a47ebb1a89065c5/cover.jpg",
+    "actress": [
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-087"
+  },
+  {
+    "id": 70982,
+    "IDcode": "JUFE-088",
+    "title": "把准备生孩子禁欲的隔壁先生的精子用子宫全部偷走",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2d11faeeeefb619e1c2a61b757176819.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-088"
+  },
+  {
+    "id": 74487,
+    "IDcode": "JUFE-089",
+    "title": "新人元地方局アナウンサー流田みな実AVデビュー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女主播",
+      "巨乳",
+      "首次亮相",
+      "中文字幕",
+      "乳交",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "立花芽衣"
+      "鲛岛",
+      "しみけん",
+      "玉木玲",
+      "流田みな実"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-541"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-089"
   },
   {
-    "id": 87515,
-    "IDcode": "JKSR-549",
-    "title": "【流出映像】人妻派遣社員 慰安旅行セックス6 酔わせて乱交・夜●い・職場不倫NTRなど。派遣女子を食い潰すブラック企業の実態",
+    "id": 74151,
+    "IDcode": "JUFE-090",
+    "title": "アナルひくひく汗汁ぐっちょり！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "已婚妇女",
-      "淫妻",
-      "白天出轨",
-      "乱交"
+      "荡妇",
+      "巨乳",
+      "巨大屁股",
+      "中文字幕",
+      "中出",
+      "屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d66a289def9b1b8c28cee/cover.jpg",
+    "actress": [
+      "佐山爱",
+      "イセドン内村"
     ],
-    "publish_date": "2022-07-23",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Bb1NeWEs.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-549"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-090"
   },
   {
-    "id": 87502,
-    "IDcode": "JKSR-550",
-    "title": "【流出】女子●生 家庭内近親SEX4 これが真実！みんな家族とヤっていた… 父×娘・兄×妹など禁断SEX3家族",
+    "id": 82783,
+    "IDcode": "JUFE-091",
+    "title": "黒人NTR種付けプレス僕の自慢の彼女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "黑人演员",
+      "淫妻",
+      "中文字幕",
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67819e6989def9b1b8e477bf/cover.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-091"
+  },
+  {
+    "id": 74150,
+    "IDcode": "JUFE-092",
+    "title": "为了学生能认真听话故意穿着暴露的爆乳老师凛音桃花没想到在电车上就被轮奸内射了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "性骚扰",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f86ec89def9b1b8cf313a/cover.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-092"
+  },
+  {
+    "id": 74165,
+    "IDcode": "JUFE-093",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 三船かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "流汗",
+      "巨大屁股",
+      "中出",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/6781a3d289def9b1b8e477db/cover.jpg",
+    "actress": [
+      "三船かれん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-093"
+  },
+  {
+    "id": 165811,
+    "IDcode": "JUFE-095",
+    "title": "酪農を営む実家を助けるためソープで働いたら半",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-095"
+  },
+  {
+    "id": 82782,
+    "IDcode": "JUFE-096",
+    "title": "被痴女上司勾引内射-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "中出",
+      "淫语",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-096"
+  },
+  {
+    "id": 410039,
+    "IDcode": "JUFE-097",
+    "title": "趁妻子不在家時對爆乳美人小姨OO中出的5日間調教紀錄 柊留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689745ab55337d7f7bb6296f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-097"
+  },
+  {
+    "id": 592601,
+    "IDcode": "JUFE-098",
+    "title": "当我在酒吧打工赚取生活费时，成为拥有灿烂笑容和美丽大山雀的非常受欢迎的女孩的美容师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/49906_cover_2025-06-10_092952.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-098"
+  },
+  {
+    "id": 592602,
+    "IDcode": "JUFE-099",
+    "title": "被青山的一家健康大美容院收养的同时，我试图在一家男士美容院打工寻找理想的Ji○端口",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/57743_cover_2025-06-10_100225.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-099"
+  },
+  {
+    "id": 63519,
+    "IDcode": "JUFE-101",
+    "title": "插入我的巨乳姐姐-佐山爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
       "乱伦",
-      "妹妹"
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2022-07-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/b8f1b43d0558bdd3f70dbd0412605ed2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-550"
-  },
-  {
-    "id": 87525,
-    "IDcode": "JKSR-551",
-    "title": "「イライラしたからJ○レ〆プ」12人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "中出",
-      "魔鬼系",
-      "深喉"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2022-07-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-551"
-  },
-  {
-    "id": 87528,
-    "IDcode": "JKSR-553",
-    "title": "奥さん、一緒に飲みませんか？ 人妻にお酒とザーメン飲ませてみました マ●コも酩酊状態！ チ●ポを欲しがり生セックスも許す人妻4人 東京の路上で人妻をナンパしてみた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "猎艳",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2022-08-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-553"
-  },
-  {
-    "id": 530646,
-    "IDcode": "JKSR-554",
-    "title": "【流出映像】 女子校生 部活合宿セックス10 アーチェリー部编 和奸·夜●い·袭われ3P·风吕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250712/FiEPj2lN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-554"
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678346bfc179ffb1db75ff8b/cover.jpg",
+    "actress": [
+      "佐山爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-101"
   },
   {
-    "id": 87526,
-    "IDcode": "JKSR-555",
-    "title": "NTR宿 極上爆乳Special 4時間20人",
+    "id": 470260,
+    "IDcode": "JUFE-102",
+    "title": "離家OO自宅調教 專屬無套爆乳奴隸 佐知子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "已婚妇女",
-      "4小时以上作品",
-      "淫妻",
-      "白天出轨",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "2022-08-27",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230730-1/63e1a9eb7dc4dea522668765a7d091d2.jpg",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68974bc655337d7f7bb62e0a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-555"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-102"
   },
   {
-    "id": 566102,
-    "IDcode": "JKSR-557",
-    "title": "人妻派遣社员 慰安旅行セックス 7 酔わせて乱交・夜这い・职场不伦NTRなど。NTR成功率100％人妻ママたちのカラダをハメ放题！！",
+    "id": 524404,
+    "IDcode": "JUFE-103",
+    "title": "超敏感体质のふんわり可爱い北欧ハーフ美少女！パパ活にハマっちゃった19歳お嬢様女子大生AVデビュー 仓田安娜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "乱交",
-      "淫妻"
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca2fb0d4663003cfcd5508859f03c4ec.jpg",
+    "cover_url": "https://ll.lasha250923.top/20241027/huh4XmDM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-557"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-103"
   },
   {
-    "id": 549284,
-    "IDcode": "JKSR-562",
-    "title": "【流出】女子●生 家庭内近亲SEX5 これが真実！みんな家族とヤっていた… 父×娘・兄×妹など禁断SEX3家族",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230630/57jksr562pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-562"
-  },
-  {
-    "id": 566101,
-    "IDcode": "JKSR-565",
-    "title": "人妻派遣社员 慰安旅行セックス 8 酔わせて乱交・夜这い・职场不伦NTRなど。NTR成功率100％人妻ママたちのカラダをハメ放题！！",
+    "id": 590701,
+    "IDcode": "JUFE-104",
+    "title": "実业団所属のFcup陆上选手オッパイが揺れ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "乱交",
-      "淫妻"
+      "巨乳",
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1f274a952acd7aa99dfb1ff19ea7561.jpg",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/5915f4802df16eb7031c7093c8db9e1b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-565"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-104"
   },
   {
-    "id": 566100,
-    "IDcode": "JKSR-566",
-    "title": "女子○生 部活合宿セックス 11 テニス部编 和奸・夜这い・袭われ3P・风吕・着替え盗撮…他わいせつ动画多数",
+    "id": 594984,
+    "IDcode": "JUFE-105",
+    "title": "被超大肉棒吸引目光… 被巨根贯穿的内射黑人温泉 ～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9e712ab2b927465cfdbce91b7c5a0f51.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6a00a8ac0767197c8af0f612e94bcf64.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-566"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-105"
   },
   {
-    "id": 549462,
-    "IDcode": "JKSR-568",
-    "title": "【流出】盗撮被害の実态 5时间 プライベート空间に仕挂けられた卑猥な罠 被害者30人以上",
+    "id": 469212,
+    "IDcode": "JUFE-107",
+    "title": "吸着マ○コでゆ～っくり亀頭をコネ回す女上司のガニ股騎乗位 大浦真奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230715/pb_e_022jksr-568.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678346d0c179ffb1db75ff8d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-568"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-107"
   },
   {
-    "id": 579188,
-    "IDcode": "JKSR-578",
-    "title": "【流出】女子○生を无差别に●す 卑劣おじさんの猥亵记录映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230821/57jksr578pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-578"
-  },
-  {
-    "id": 549417,
-    "IDcode": "JKSR-581",
-    "title": "【流出映像】人妻派遣社员 慰安旅行セックス9 ●わせて乱交·夜●い·职场不伦NTRなど。NTR",
+    "id": 70718,
+    "IDcode": "JUFE-108",
+    "title": "脱いだら凄かった！！19才Hcup 秋葉原で見つけたリアルフィギュアBODY 指原あかねAVデビュー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "乱交",
-      "淫妻"
+      "巨乳",
+      "首次亮相",
+      "乳交",
+      "中出",
+      "屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230414/UIEaYVvl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-581"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c0b6aeb64ca5dc2c941e0f0455ef9057.jpg",
+    "actress": [
+      "指原あかね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-108"
   },
   {
-    "id": 549675,
-    "IDcode": "JKSR-582",
-    "title": "【流出】女子●生 家庭内近亲SEX6 これが真実！みんな家族とヤっていた… 父×娘・兄×妹など禁断SEX3家族",
+    "id": 215204,
+    "IDcode": "JUFE-109",
+    "title": "射精無制限-流田みな実",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "FITCH",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230414/8guILgk2/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-582"
-  },
-  {
-    "id": 549235,
-    "IDcode": "JKSR-585",
-    "title": "奥さん、一绪に饮みませんか？ 人妻にお酒とザーメン饮ませてみました マ●コも酩酊状态！ チ●ポ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/SJd6F6mU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-585"
-  },
-  {
-    "id": 549237,
-    "IDcode": "JKSR-587",
-    "title": "今夜妻が浮気します 2 人妻夜●いツアー 都会を离れた小旅行、彼女は间男に身体を开く… 全10人5时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/xAtrsPvh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-587"
-  },
-  {
-    "id": 579269,
-    "IDcode": "JKSR-589",
-    "title": "【流出】女子○生を无差别に●す2 卑劣おじさんの猥亵记录映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/DmJAVQds/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-589"
-  },
-  {
-    "id": 516851,
-    "IDcode": "JKSR-590",
-    "title": "【OO】女OO 家庭内近親性愛7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6914051b312f492881572b35/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-590"
-  },
-  {
-    "id": 548792,
-    "IDcode": "JKSR-591",
-    "title": "ほろ●い人妻、集めました",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/Fa5cNSew/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-591"
-  },
-  {
-    "id": 548793,
-    "IDcode": "JKSR-593",
-    "title": "新宿妻 东京の路上で人妻をナンパしてみた5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/VObPVLmh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-593"
-  },
-  {
-    "id": 548795,
-    "IDcode": "JKSR-594",
-    "title": "【流出映像】 女子校生 部活合宿セックス13 弓道部の性処理肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/8hZZpoGR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-594"
-  },
-  {
-    "id": 548789,
-    "IDcode": "JKSR-595",
-    "title": "【絶対见ないでください】旅先ナンパでまさかのお持ち帰り！素人美人妻 5时间31人 Special2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/hHd7E0Cx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-595"
-  },
-  {
-    "id": 548790,
-    "IDcode": "JKSR-596",
-    "title": "午前10时 学校どうしたの… 6人の少女が体験した悲剧の快楽 4时间3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/rZ26b0h2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-596"
-  },
-  {
-    "id": 548661,
-    "IDcode": "JKSR-597",
-    "title": "【流出映像】 女子校生 部活合宿セックス14 映画研究部の性処理肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230726/QXFc9dwb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-597"
-  },
-  {
-    "id": 516923,
-    "IDcode": "JKSR-598",
-    "title": "【OO】女OO 家庭内近親性愛8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690541b8a837ba289686a5fa/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-598"
-  },
-  {
-    "id": 548659,
-    "IDcode": "JKSR-599",
-    "title": "奥さん、一绪に饮みませんか？人妻発掘 TOKYO 路上 ナンパ BEST 12人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/AqajjGU8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-599"
-  },
-  {
-    "id": 548655,
-    "IDcode": "JKSR-600",
-    "title": "シン·神SEX 30连発4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/lRdcECf4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-600"
-  },
-  {
-    "id": 579356,
-    "IDcode": "JKSR-602",
-    "title": "【流出】女子○生を无差别に●す3 卑劣おじさんの猥亵记录映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/Q8q3lX8J/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-602"
-  },
-  {
-    "id": 549966,
-    "IDcode": "JKSR-603",
-    "title": "【流出】女子●生 家庭内近亲SEX 5时间9人 お家で実际にあった、酷い话。 第2章 秽れた遗伝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/HA4e9caA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-603"
-  },
-  {
-    "id": 516968,
-    "IDcode": "JKSR-606",
-    "title": "【OO】女OO 家庭内近親性愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9fd47944bbe4ef054c155/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-606"
-  },
-  {
-    "id": 544134,
-    "IDcode": "JKSR-607",
-    "title": "ブラック部活は四六时中マ○コに鬼ファック！！ 女子校生部活合宿セックスBEST4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250713/ZB0rG36c/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-607"
-  },
-  {
-    "id": 544135,
-    "IDcode": "JKSR-608",
-    "title": "今夜妻が浮気します3 人妻夜●いツアー 旦那にヒミツの旅路の果て、背徳が织り成す、びしょ濡れの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250713/hhuqNGNR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-608"
-  },
-  {
-    "id": 547634,
-    "IDcode": "JKSR-609",
-    "title": "池袋妻 东京の路上で人妻をナンパしてみた7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/RQdSvibA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-609"
-  },
-  {
-    "id": 547637,
-    "IDcode": "JKSR-610",
-    "title": "性処理してくれる女子マネージャー！性欲暴走で全员中出し！！【流出映像】 女子校生 部活合宿セックス15",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/rxMiDL6V/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-610"
-  },
-  {
-    "id": 547631,
-    "IDcode": "JKSR-611",
-    "title": "冲撃！！夫の知らない所でSEX三昧！！人妻は昼も夜も発情中！！社员旅行BEST3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/pZVsAuSx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-611"
-  },
-  {
-    "id": 547633,
-    "IDcode": "JKSR-612",
-    "title": "さいかわ2 最高にちいさくてかわいいおんなのこ 12にん4じかん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/4om0NFRL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-612"
-  },
-  {
-    "id": 547314,
-    "IDcode": "JKSR-613",
-    "title": "“巨汉おじさんが中に出してあげる”制服ロ○ータを狙った连れ込みレ〆プ 女子校生を无差别に●す5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231129/JpksNaUY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-613"
-  },
-  {
-    "id": 516973,
-    "IDcode": "JKSR-614",
-    "title": "女OO 家庭内近親性愛10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8605bdbf24d4ed3428888/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-614"
-  },
-  {
-    "id": 547313,
-    "IDcode": "JKSR-615",
-    "title": "エロテクフェラチオで鬼ボッキ！！あざとフェラ＆セックスでチ○ポ升天！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231129/PcX1p2TP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-615"
-  },
-  {
-    "id": 562570,
-    "IDcode": "JKSR-617",
-    "title": "人妻ナンパIN品川！中出し着床するまで帰れまテン！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/DhFMIW6k/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-617"
-  },
-  {
-    "id": 562571,
-    "IDcode": "JKSR-618",
-    "title": "种付け柔道部！时间无制限中出しマ〇コ！【流出映像】女子校生 部活合宿セックス16",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/m9EvUvVF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-618"
-  },
-  {
-    "id": 516986,
-    "IDcode": "JKSR-619",
-    "title": "不停止愛的女兒是性玩具！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f2155952c12b4e68509a0a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-619"
-  },
-  {
-    "id": 562569,
-    "IDcode": "JKSR-620",
-    "title": "中出し50人 特制おち○ぽミルク、素人のキツすぎる膣圧で绞られ大量発射スペシャル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/eCXckS7m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-620"
-  },
-  {
-    "id": 546622,
-    "IDcode": "JKSR-621",
-    "title": "【女子〇生限定】学校サボった马鹿マ〇コに强制中出し指导 孕ませ确定159分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/YnJAEGyT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-621"
-  },
-  {
-    "id": 550356,
-    "IDcode": "JKSR-622",
-    "title": "変态家族 今日も孕ませます！！女子●生 家庭内近亲SEX11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/IS7N5N5b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-622"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-109"
   }
 ];

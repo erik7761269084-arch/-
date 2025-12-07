@@ -1,56 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 566747,
-    "IDcode": "BACJ-021",
-    "title": "童贞を贪り弄んでイキ狂う人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7c69cd03f49bce299e3e0de8b6c80830.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-021"
-  },
-  {
-    "id": 83977,
-    "IDcode": "BACJ-022",
-    "title": "【FANZA限定】私情を挟まず業務的に痴女り抜いてくれるエリート秘書 辻芽愛里 パンティと生写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "秘书",
-      "中出",
-      "荡妇",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e5f0a5d082b7afde827ac5cb13a6d04b.jpg",
-    "actress": [
-      "辻芽爱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-022"
-  },
-  {
     "id": 566746,
     "IDcode": "BACJ-023",
     "title": "浓密またがりベロキスした后にタマが空っぽになるまで杭打ちピストンするデカ尻お姊様",
@@ -59,13 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d37bb94097556eace407e07a1326ed13.jpg",
     "actress": [],
@@ -80,13 +23,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/335d5c0dc729403497d5739a45a603de.jpg",
     "actress": [],
@@ -101,13 +38,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e0f5bde7feffefd72df05f591bc7bb9f.jpg",
     "actress": [],
@@ -121,20 +52,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
-      "M男",
+      "高",
       "舔阴",
-      "高"
+      "苗条",
+      "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2022-09-14",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bacj028/bacj028pl.jpg",
     "actress": [],
@@ -149,19 +74,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
+      "单体作品",
       "骑乗位",
-      "淫语",
-      "单体作品"
+      "M男",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/19dd800e3c4fae81daccbcf3e6e87360.jpg",
     "actress": [
@@ -178,20 +97,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "单体作品",
       "已婚妇女",
-      "出轨",
       "中出",
       "女上位",
-      "单体作品"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/30/68619dc33ed39b57c0307e68/cover.jpg",
     "actress": [],
@@ -206,20 +119,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "流汗",
-      "已婚妇女",
-      "中出",
       "口交",
-      "单体作品"
+      "单体作品",
+      "已婚妇女",
+      "流汗",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685da00f3ed39b57c003fa0f/cover.jpg",
     "actress": [
@@ -236,13 +143,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5afa72155ac63420a37b27a439819195.jpg",
     "actress": [],
@@ -259,13 +160,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/40b025c15ad0cec4eb7d79b3b2a508fa.jpg",
     "actress": [],
@@ -280,13 +175,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2474296ea3efe5ce920286775b8e7a63.jpg",
     "actress": [],
@@ -301,13 +190,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://pic47.anzise.com/pic/20230223/55cb863600f17bbdd5a59e08b14e5b60/1.jpg",
     "actress": [],
@@ -322,13 +205,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221213/0Vs1Q8w5/1.jpg",
     "actress": [],
@@ -337,7 +214,7 @@ window.PAGE_DATA = [
   {
     "id": 532847,
     "IDcode": "BACJ-045",
-    "title": "[] 浓密またがりベロキスした后にタマが空っぽになるまで杭打ちピストンするデカ尻お姊様 永瀬爱菜",
+    "title": "浓密またがりベロキスした后にタマが空っぽになるまで杭打ちピストンするデカ尻お姊様 永瀬爱菜",
     "year": "",
     "country": "",
     "genre": "",
@@ -345,13 +222,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/bacj045pl.jpg!320x216.jpg",
     "actress": [],
@@ -366,13 +237,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/CCfobvss/1.jpg",
     "actress": [],
@@ -387,13 +252,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/8xEpWH0y/1.jpg",
     "actress": [],
@@ -408,13 +267,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/urZyprK7/1.jpg",
     "actress": [],
@@ -429,13 +282,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/kp4vbZIV/1.jpg",
     "actress": [],
@@ -450,13 +297,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/fYyq81te/1.jpg",
     "actress": [],
@@ -471,13 +312,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/9eeeLNgO/1.jpg",
     "actress": [],
@@ -492,13 +327,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250305-1/4e2422b75ba4129e99f6240d7ecf88da.jpg",
     "actress": [],
@@ -513,13 +342,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230806/TadANzqu/1.jpg",
     "actress": [],
@@ -533,21 +356,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "中出",
       "口交",
+      "单体作品",
+      "中出",
+      "美少女电影",
       "手淫",
-      "淫语",
-      "单体作品"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/04db2db8f75f48f3f24e22bef59c3b26.jpg",
     "actress": [
@@ -563,21 +380,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "M男",
-      "白天出轨",
+      "单体作品",
+      "潮吹",
       "中出",
-      "单体作品"
+      "M男",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/abcf323aca16e39623b96a5c9fd8750d.jpg",
     "actress": [],
@@ -592,13 +403,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/mOrc1fdP/1.jpg",
     "actress": [],
@@ -615,13 +420,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/2P5VhH6d/1.jpg",
     "actress": [],
@@ -638,13 +437,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/pGdWDhrP/1.jpg",
     "actress": [],
@@ -659,13 +452,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/3JNSi7Xi/1.jpg",
     "actress": [],
@@ -679,23 +466,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
-      "多P",
-      "淫亂",
+      "絕頂高潮",
       "慾求不滿",
+      "淫亂",
       "中出",
       "蕩婦",
       "亂交 • 群P",
-      "絕頂高潮"
+      "接吻",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a03e472cca7792b25bdab6/cover.jpg",
     "actress": [
@@ -713,13 +494,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/U72Hpe17/1.jpg",
     "actress": [],
@@ -734,20 +509,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
-      "白天出轨",
-      "中出",
       "口交",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "M男",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/c9cf0914fd083d70cf8842895abaaea6.jpg",
     "actress": [
@@ -763,21 +532,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "美少女电影",
-      "中出",
       "口交",
+      "单体作品",
+      "中出",
+      "美少女电影",
       "手淫",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/7c81df42d031a3a14401bb861554b6f6.jpg",
     "actress": [
@@ -794,13 +557,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231008/ZiorIZFV/1.jpg",
     "actress": [],
@@ -814,20 +571,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
+      "乳液",
       "M男",
       "多P",
-      "乳液",
-      "中出",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/1b0bca6a723abc6a9814c10853b89f62.jpg",
     "actress": [
@@ -844,13 +595,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231008/HP7wDvoP/1.jpg",
     "actress": [],
@@ -865,13 +610,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231008/5IZagk2X/1.jpg",
     "actress": [],
@@ -886,13 +625,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/X0c0V4yv/1.jpg",
     "actress": [],
@@ -901,7 +634,7 @@ window.PAGE_DATA = [
   {
     "id": 535812,
     "IDcode": "BACJ-080",
-    "title": "[] NTR属性を持つ妻に仕组まれた甘すぎる罠",
+    "title": "NTR属性を持つ妻に仕组まれた甘すぎる罠",
     "year": "",
     "country": "",
     "genre": "",
@@ -910,13 +643,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240106/bacj080pl.jpg!320x216.jpg",
     "actress": [],
@@ -931,13 +658,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/cDK4eIlM/1.jpg",
     "actress": [],
@@ -952,13 +673,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/5nS9ntm0/1.jpg",
     "actress": [],
@@ -973,13 +688,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/6dOblzD7/1.jpg",
     "actress": [],
@@ -994,13 +703,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231212/eQClm5qL/1.jpg",
     "actress": [],
@@ -1015,13 +718,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231212/Frz6dgqm/1.jpg",
     "actress": [],
@@ -1038,13 +735,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231212/W7vouIuB/1.jpg",
     "actress": [],
@@ -1059,13 +750,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250422/DypLxvTm/1.jpg",
     "actress": [],
@@ -1080,13 +765,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240108/kUNm37nQ/1.jpg",
     "actress": [],
@@ -1101,13 +780,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250422/GOOLMsgq/1.jpg",
     "actress": [],
@@ -1122,13 +795,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250422/lJwAXB1T/1.jpg",
     "actress": [],
@@ -1143,13 +810,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250422/U78ZpFaq/1.jpg",
     "actress": [],
@@ -1164,13 +825,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/CaKJP1fh/1.jpg",
     "actress": [],
@@ -1185,13 +840,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/dx5IYt7W/1.jpg",
     "actress": [],
@@ -1208,13 +857,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/z6lo0Aak/1.jpg",
     "actress": [],
@@ -1229,13 +872,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/auZobovc/1.jpg",
     "actress": [],
@@ -1249,37 +886,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "苗條",
-      "和服・浴衣・喪服",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
+      "裸體圍裙",
+      "蕩婦",
       "人妻",
       "中出",
-      "蕩婦",
-      "後入",
+      "自宅",
+      "按摩棒",
+      "和服・浴衣・喪服",
       "絕頂高潮",
-      "裸體圍裙",
+      "女友・妻子",
+      "苗條",
       "手指插入",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-02-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240213/6cc091dd-fd0b-4602-afa7-2a05352e5d86.jpg",
     "actress": [
@@ -1295,32 +926,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "熟女",
-      "舔陰",
-      "女友・妻子",
-      "美少女",
-      "美腳",
-      "手指插入",
-      "女上位",
-      "苗條",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "後入",
       "口交",
-      "性感",
+      "舔陰",
+      "潮吹",
+      "中出",
+      "女友・妻子",
+      "美腳",
+      "苗條",
+      "女上位",
+      "蕩婦",
       "白眼失神",
-      "騎乗位"
+      "手指插入",
+      "熟女",
+      "後入",
+      "騎乗位",
+      "性感",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e73dcc631cc64eb5a281c6/cover.jpg",
     "actress": [
@@ -1337,13 +962,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/pH1BCs8X/1.jpg",
     "actress": [],
@@ -1358,13 +977,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/4205051c78907a6ca2f4544eb54f1af5.jpg",
     "actress": [],
@@ -1379,13 +992,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/L94mY98r/1.jpg",
     "actress": [],
@@ -1400,13 +1007,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/HIao2KsC/1.jpg",
     "actress": [],
@@ -1421,13 +1022,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/WbBIiCsr/1.jpg",
     "actress": [],
@@ -1442,13 +1037,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/LMBLI7uc/1.jpg",
     "actress": [],
@@ -1463,13 +1052,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/agEfCXJl/1.jpg",
     "actress": [],
@@ -1483,42 +1066,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "苗條",
       "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
+      "蕩婦",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
       "人妻",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美臀",
+      "自宅",
       "絕頂高潮",
-      "手指插入",
-      "乳交",
+      "女友・妻子",
+      "企畫",
+      "苗條",
       "黑絲",
+      "手指插入",
+      "羞恥",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
       "女上位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/dafa676a-9cca-4511-a231-f6104ec1b111.jpg",
     "actress": [
@@ -1534,37 +1111,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "裸體圍裙",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
       "M男・M女",
+      "企畫",
       "飯店",
       "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "裸體圍裙",
-      "美少女電影",
       "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "女上位"
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/739eca09-2792-44a5-b713-dfb0dd6de645.jpg",
     "actress": [
@@ -1581,13 +1152,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/Fo1UIQ2D/1.jpg",
     "actress": [],
@@ -1602,13 +1167,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/nwYLExc3/1.jpg",
     "actress": [],
@@ -1623,13 +1182,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/l4rPsSbe/1.jpg",
     "actress": [],
@@ -1644,13 +1197,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/hRkUMFTk/1.jpg",
     "actress": [],
@@ -1665,13 +1212,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/59V7tZ8h/1.jpg",
     "actress": [],
@@ -1686,13 +1227,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/dAk4ywZr/1.jpg",
     "actress": [],
@@ -1706,38 +1241,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "慾求不滿",
+      "女上司",
+      "蕩婦",
+      "中出",
       "辦公室",
-      "OL",
+      "劇情",
       "勾引・誘惑",
-      "胸控・戀乳癖",
+      "絕頂高潮",
       "色白",
-      "美乳",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
       "制服",
+      "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "女上司",
-      "性感",
-      "老闆娘，女主人",
-      "中出",
-      "蕩婦",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "手指插入",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "OL",
+      "老闆娘，女主人",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-07-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240710/774e7469-2794-40f7-bf64-01797b4a726c.jpg",
     "actress": [
@@ -1754,24 +1283,18 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "巨尻",
+      "豐滿",
+      "巨乳",
       "M男・M女",
       "乳交",
-      "胸控・戀乳癖",
-      "豐滿",
-      "蕩婦",
-      "巨乳",
       "企畫",
       "女上位",
+      "胸控・戀乳癖",
+      "蕩婦",
       "騎乗位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-07-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240709/df64307b-4c2e-46fc-9497-c40bdc52f9f0.jpg",
     "actress": [
@@ -1787,22 +1310,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "局部特寫",
-      "淫語",
       "主觀視角",
+      "局部特寫",
+      "企畫",
       "自慰",
       "蕩婦",
-      "企畫"
+      "形象俱樂部",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-07-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240710/d26dee8e-5e53-4cc1-8d57-11eaee3a0ecc.jpg",
     "actress": [
@@ -1818,32 +1335,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "按摩・美容店",
-      "風俗娘",
-      "手指插入",
-      "女上位",
-      "色白",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "美乳",
-      "中出",
-      "蕩婦",
       "口交",
-      "性感",
+      "風俗娘",
+      "絕頂高潮",
+      "中出",
+      "色白",
+      "女上位",
+      "美少女電影",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "蕩婦",
+      "手指插入",
       "騎乗位",
       "劇情",
-      "絕頂高潮",
-      "抹油"
+      "性感",
+      "按摩・美容店",
+      "抹油",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-07-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240710/f8435552-01d3-4d98-a92c-035d21bcfcbd.jpg",
     "actress": [
@@ -1859,38 +1370,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蕩婦",
+      "人妻",
+      "中出",
+      "劇情",
+      "過膝襪・小腿襪",
+      "勾引・誘惑",
+      "同住一屋・相部屋",
+      "女同事",
+      "飯店",
+      "黑絲",
+      "騎乗位",
       "艷遇",
       "出差",
-      "飯店",
-      "OL",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "過膝襪・小腿襪",
-      "巨乳",
-      "口交",
-      "性感",
       "形象俱樂部",
-      "人妻",
-      "同住一屋・相部屋",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "黑絲",
-      "女上位",
-      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
       "情趣內衣",
-      "女同事"
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/b91d1704-e374-415c-832e-f3963525e055.jpg",
     "actress": [
@@ -1906,35 +1411,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "純粹的慾望",
-      "辣妹/GAL系",
-      "局部特寫",
-      "OL",
-      "主觀視角",
-      "純愛・戀愛",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "短髮",
       "蠻橫嬌羞",
+      "主觀視角",
       "蕩婦",
-      "後入",
-      "企畫",
       "美少女電影",
+      "辣妹/GAL系",
+      "女友・妻子",
+      "色白",
+      "企畫",
+      "純粹的慾望",
+      "騎乗位",
+      "短髮",
+      "美乳",
+      "口交",
+      "巨乳",
+      "局部特寫",
       "自慰",
       "女上位",
-      "騎乗位"
+      "OL",
+      "純愛・戀愛",
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2024-08-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240826/a9adafd3-0f3d-47db-b86a-6b22f71e820f.jpg",
     "actress": [
@@ -1951,13 +1450,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/ie3zFNCG/1.jpg",
     "actress": [],
@@ -1972,13 +1465,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/AZfFpBJ3/1.jpg",
     "actress": [],
@@ -1992,47 +1479,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "純粹的慾望",
-      "慾求不滿",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "JK校服",
-      "純愛・戀愛",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "高顏值",
-      "內衣",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
       "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "女學生",
+      "癡女",
+      "舔陰",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "接吻",
       "劇情",
       "抹油",
+      "美少女",
       "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
+      "高顏值",
+      "苗條",
+      "純粹的慾望",
       "手指插入",
-      "舔腳",
+      "騎乗位",
+      "形象俱樂部",
+      "短髮",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "純愛・戀愛",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241007/4afadbe2-323e-4a15-a55f-433964f55f08.jpg",
     "actress": [
@@ -2048,42 +1529,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "M男・M女",
-      "蒙面・面罩",
       "性虐癖",
-      "美少女",
-      "變態",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "潮吹",
-      "兩男一女",
-      "NTR",
-      "淫亂",
-      "女王",
+      "蒙面・面罩",
       "出軌",
-      "中出",
+      "不倫",
       "蕩婦",
-      "後入",
-      "美腿",
       "SM",
       "美臀",
-      "劇情",
-      "不倫",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "美少女電影",
+      "接吻",
+      "劇情",
       "調教",
+      "美少女",
+      "M男・M女",
+      "女王",
+      "變態",
+      "騎乗位",
+      "美腿",
+      "口交",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "後入",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241007/5b83de00-6f1e-4920-8355-f1e8f497a582.jpg",
     "actress": [
@@ -2099,39 +1574,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
+      "蕩婦",
       "口爆",
-      "慾求不滿",
-      "綠茶婊",
       "臀控",
-      "辦公室",
-      "OL",
-      "勾引・誘惑",
-      "色白",
-      "制服",
-      "口交",
-      "形象俱樂部",
       "人妻",
+      "中出",
+      "辦公室",
+      "劇情",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同事",
+      "色白",
+      "黑絲",
       "美人妻",
       "騎乗位",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "黑絲",
+      "艷遇",
+      "制服",
+      "形象俱樂部",
+      "巨尻",
+      "口交",
+      "慾求不滿",
       "女上位",
-      "女同事"
+      "綠茶婊",
+      "OL",
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/52a4beaf0113cfae6936a48945b3666e.jpg",
     "actress": [
@@ -2147,39 +1616,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "慾求不滿",
-      "苗條",
-      "女教師",
       "美腳",
+      "蕩婦",
+      "美臀",
+      "中出",
+      "接吻",
+      "劇情",
       "勾引・誘惑",
-      "美乳",
+      "學校",
+      "苗條",
+      "黑絲",
+      "騎乗位",
+      "艷遇",
       "制服",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "黑絲",
+      "慾求不滿",
       "女上位",
-      "學校",
-      "騎乗位"
+      "女教師",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241006/d021d2f5-0434-447c-92ab-e318732c9c2c.jpg",
     "actress": [
@@ -2196,13 +1659,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2216,42 +1673,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
-      "苗條",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "明星臉",
       "蠻橫嬌羞",
-      "中出",
+      "美腳",
       "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "抹油",
-      "絕頂高潮",
-      "脚控・戀足癖",
+      "癡女",
+      "感官作品",
+      "中出",
       "美少女電影",
-      "自慰",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "色白",
+      "苗條",
       "按摩・物理治療・美容",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "慾求不滿",
       "誘騙女性",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "抹油",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/644d812149ea794b11c65ff706e8b151.jpg",
     "actress": [
@@ -2267,38 +1718,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "多P",
       "豐滿",
-      "OL",
-      "癡女",
-      "色白",
-      "美乳",
       "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
+      "癡女",
       "大乳暈",
       "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "劇情",
       "美少女電影",
+      "劇情",
+      "女同事",
+      "色白",
       "手指插入",
-      "女上位",
+      "艷遇",
       "騎乗位",
-      "女同事"
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/d6dfd398a102a28a894af72d60706038.jpg",
     "actress": [
@@ -2314,40 +1759,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "主觀視角",
+      "美腳",
+      "蕩婦",
+      "人妻",
+      "中出",
+      "劇情",
+      "勾引・誘惑",
+      "同住一屋・相部屋",
+      "女同事",
+      "色白",
+      "飯店",
+      "美人妻",
+      "騎乗位",
       "艷遇",
       "出差",
-      "飯店",
-      "綠茶婊",
-      "美腳",
-      "OL",
-      "主觀視角",
-      "勾引・誘惑",
-      "色白",
       "美乳",
-      "口交",
-      "性感",
-      "美人妻",
-      "人妻",
-      "同住一屋・相部屋",
-      "中出",
-      "蕩婦",
-      "後入",
       "美腿",
-      "劇情",
+      "口交",
       "乳交",
-      "女上位",
-      "騎乗位",
       "情趣內衣",
-      "女同事"
+      "女上位",
+      "綠茶婊",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/1b0358d929a70a5575b795fe6cf4db8b.jpg",
     "actress": [
@@ -2363,30 +1802,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
       "巨尻",
       "風俗娘",
-      "拜金女",
-      "色白",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
-      "蕩婦",
-      "後入",
       "口交",
+      "中出",
+      "色白",
+      "按摩女郎",
       "女上位",
+      "按摩・物理治療・美容",
+      "拜金女",
+      "蕩婦",
       "騎乗位",
       "劇情",
+      "後入",
+      "按摩・美容店",
       "抹油"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241209/e7ab7fd6-0b00-4930-91aa-e7e74ba5a132.jpg",
     "actress": [
@@ -2402,33 +1835,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
       "巨尻",
-      "貧乳",
-      "癡女",
-      "自慰",
-      "慾求不滿",
-      "苗條",
-      "色白",
-      "按摩・物理治療・美容",
-      "中出",
-      "蕩婦",
-      "後入",
       "口交",
+      "絕頂高潮",
+      "抹油",
+      "慾求不滿",
+      "中出",
+      "色白",
+      "苗條",
+      "自慰",
+      "貧乳",
       "女上位",
+      "按摩・物理治療・美容",
+      "蕩婦",
       "騎乗位",
       "劇情",
-      "絕頂高潮",
-      "抹油"
+      "後入",
+      "按摩・美容店",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241209/69f61b8e-c854-439a-ad57-0a62d31b01cf.jpg",
     "actress": [
@@ -2445,13 +1872,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2465,42 +1886,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "若妻",
-      "招待",
-      "OL",
       "主觀視角",
-      "色白",
-      "美乳",
-      "口交",
+      "美臀",
       "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "形象俱樂部",
-      "兩男一女",
       "人妻",
-      "貴婦",
+      "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "美臀",
       "劇情",
-      "聚會・PARTY",
+      "招待",
+      "色白",
+      "貴婦",
+      "若妻",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "口交",
+      "巨乳",
       "乳交",
-      "女上位",
       "乱交",
-      "騎乗位"
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241209/109f5680-3268-42a7-a1a0-953286e4c16e.jpg",
     "actress": [
@@ -2516,33 +1931,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
       "巨尻",
-      "淫亂",
-      "癡女",
+      "口交",
+      "絕頂高潮",
       "M男・M女",
+      "淫亂",
       "慾求不滿",
-      "內衣",
+      "中出",
       "色白",
       "拘束・拷問",
-      "中出",
-      "美人",
-      "後入",
+      "女優",
       "女上位",
-      "口交",
-      "騎乗位",
+      "內衣",
       "美臀",
-      "絕頂高潮",
-      "女優"
+      "騎乗位",
+      "後入",
+      "形象俱樂部",
+      "美人",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250113/e8769bfa-bf91-4bdb-8103-e039099f276b.jpg",
     "actress": [
@@ -2558,49 +1967,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
       "豐滿",
-      "出差",
-      "飯店",
-      "美少女",
-      "OL",
-      "羞恥",
-      "色白",
       "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
+      "舔陰",
       "兩男一女",
       "淫亂",
       "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "女同事",
+      "色白",
+      "酒後亂性",
+      "飯店",
+      "手指插入",
+      "騎乗位",
+      "出差",
+      "羞恥",
+      "形象俱樂部",
       "美人",
       "美腿",
+      "巨尻",
+      "口交",
       "地雷系",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "聚會・PARTY",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "酒後亂性",
-      "女上位",
+      "潮吹",
       "乱交",
-      "騎乗位",
-      "女同事"
+      "清純",
+      "自慰",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "2025-01-14",
     "cover_url": "https://picture.yoshiclub.xyz/20250113/7d492eda-3169-4d15-afb2-28be448479f2.jpg",
     "actress": [
@@ -2616,21 +2019,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "单体作品",
       "荡妇",
       "口交",
+      "单体作品",
       "手淫",
+      "苗条",
       "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250925-1/610d56742d7307d91846479bcb4d9930.jpg",
     "actress": [
@@ -2646,42 +2043,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "多P",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "色白",
-      "美乳",
       "清楚系",
+      "美腳",
       "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "後宮系",
-      "校花",
-      "淫亂",
-      "一男多女",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "清純",
+      "癡女",
       "幼稚園老師",
+      "淫亂",
+      "中出",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "色白",
+      "苗條",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "雙飛",
+      "口交",
+      "校花",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後宮系",
+      "多P",
+      "後入",
+      "一男多女",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1a94f735bb663f762d996/cover.jpg",
     "actress": [
@@ -2703,13 +2094,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2724,13 +2109,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2745,13 +2124,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2766,13 +2139,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2786,45 +2153,69 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "M男・M女",
       "性虐癖",
-      "苗條",
-      "緊身衣",
-      "色白",
-      "美乳",
+      "蕩婦",
       "亂交 • 群P",
-      "口交",
-      "接吻",
-      "形象俱樂部",
+      "重口味",
       "兩男一女",
       "淫亂",
-      "女王",
-      "內衣",
       "中出",
-      "蕩婦",
-      "美人",
+      "接吻",
+      "M男・M女",
+      "緊身衣",
+      "色白",
+      "女王",
+      "苗條",
       "企畫",
-      "後入",
-      "重口味",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
       "魔鬼系",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BALTAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
-        "works_count": 218
-      }
-    ],
+    "company": "BALTAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d525fc4e7d663df4ec1816/cover.jpg",
     "actress": [
       "香椎佳穂"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-141"
+  },
+  {
+    "id": 190583,
+    "IDcode": "BACJ-142",
+    "title": "おちんちんが生えても愛してくれますか？ 藍瀬ミナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "BALTAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-142"
+  },
+  {
+    "id": 413223,
+    "IDcode": "BACJ-143",
+    "title": "毎日性処理してくれる俺の嫁は奉仕好きで甘え上手な射精マニア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "BALTAN",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250706-1/24b4b490d259a87829cbd4b60e979c63.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-143"
   }
 ];

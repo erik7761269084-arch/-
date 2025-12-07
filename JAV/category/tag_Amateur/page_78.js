@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 541287,
-    "IDcode": "230OREH-028",
-    "title": "ののかさん(27歳)",
+    "id": 100883,
+    "IDcode": "230ORECO-488",
+    "title": "まりさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -10,45 +10,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231010/QWfGixed/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-028"
-  },
-  {
-    "id": 103497,
-    "IDcode": "230OREH-029",
-    "title": "みきさん(32歳)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-029"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-488"
   },
   {
-    "id": 101165,
-    "IDcode": "230OREH-030",
-    "title": "はるちゃん(20代)",
+    "id": 100884,
+    "IDcode": "230ORECO-489",
+    "title": "めいさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -56,22 +27,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-030"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-489"
   },
   {
-    "id": 101166,
-    "IDcode": "230OREH-031",
-    "title": "さとりちゃん(20代)",
+    "id": 100885,
+    "IDcode": "230ORECO-490",
+    "title": "みなみさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -79,22 +44,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-031"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-490"
   },
   {
-    "id": 520836,
-    "IDcode": "230OREH-034",
-    "title": "はるみさん(27歳)",
+    "id": 66692,
+    "IDcode": "230ORECO-491",
+    "title": "もえかちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -102,22 +61,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/okCtbDvR/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/f859e24835dbeda10ef40f39817319ea.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-034"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-491"
   },
   {
-    "id": 103713,
-    "IDcode": "230OREH-036",
-    "title": "あいかさん(32歳)",
+    "id": 170583,
+    "IDcode": "230ORECO-492",
+    "title": "みつきちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -125,22 +78,33 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/1fca5e1347d4a04690e7a0ae9d1d57dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-492"
+  },
+  {
+    "id": 100886,
+    "IDcode": "230ORECO-493",
+    "title": "みくちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-036"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-493"
   },
   {
-    "id": 103714,
-    "IDcode": "230OREH-037",
-    "title": "まいちゃん(20歳)",
+    "id": 578274,
+    "IDcode": "230ORECO-494",
+    "title": "ゆきちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -148,22 +112,50 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231106/82sjgqRD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-494"
+  },
+  {
+    "id": 578276,
+    "IDcode": "230ORECO-495",
+    "title": "なつきちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231106/ZrxlGHP3/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-495"
+  },
+  {
+    "id": 100892,
+    "IDcode": "230ORECO-496",
+    "title": "ゆらちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREH-037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-496"
   },
   {
-    "id": 575389,
-    "IDcode": "230OREJ-001",
-    "title": "すわん",
+    "id": 578275,
+    "IDcode": "230ORECO-497",
+    "title": "らんちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -171,22 +163,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250709/QDyWHlQC/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231106/Q0J5fG2P/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREJ-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-497"
   },
   {
-    "id": 533208,
-    "IDcode": "230OREJ-002",
-    "title": "さら (月妃さら)",
+    "id": 578277,
+    "IDcode": "230ORECO-498",
+    "title": "まみさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -194,22 +180,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231107/MRpmyGuJ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREJ-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-498"
   },
   {
-    "id": 533238,
-    "IDcode": "230OREJ-003",
-    "title": "りまっち",
+    "id": 578278,
+    "IDcode": "230ORECO-499",
+    "title": "HOTARU",
     "year": "",
     "country": "",
     "genre": "",
@@ -217,22 +197,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250709/3t11daKc/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231107/ifyeri60/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREJ-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-499"
   },
   {
-    "id": 576057,
-    "IDcode": "230OREJ-004",
-    "title": "ユイ",
+    "id": 100893,
+    "IDcode": "230ORECO-500",
+    "title": "あおい&れいあ",
     "year": "",
     "country": "",
     "genre": "",
@@ -240,438 +214,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230525/d2pK8DUh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREJ-004"
-  },
-  {
-    "id": 541294,
-    "IDcode": "230OREMO-001",
-    "title": "女子200m走出场R※准々决胜败退",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/sfyBvP0M/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-001"
-  },
-  {
-    "id": 541295,
-    "IDcode": "230OREMO-002",
-    "title": "女子400m走出场S※6位入赏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/9fDHSWBk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-002"
-  },
-  {
-    "id": 541293,
-    "IDcode": "230OREMO-003",
-    "title": "女子5000m竞歩出场K※准决胜败退",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/ikqNfDhR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-003"
-  },
-  {
-    "id": 541296,
-    "IDcode": "230OREMO-004",
-    "title": "女子800m走出场I※准决胜败退",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/dj6VB9Gs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-004"
-  },
-  {
-    "id": 541299,
-    "IDcode": "230OREMO-005",
-    "title": "Tちゃん＆Kちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/hmUymVMh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-005"
-  },
-  {
-    "id": 541300,
-    "IDcode": "230OREMO-006",
-    "title": "Sちゃん＆Nちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/PVeDouWh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-006"
-  },
-  {
-    "id": 541297,
-    "IDcode": "230OREMO-007",
-    "title": "Tさん＆Hさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/eJXKYbQ3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-007"
-  },
-  {
-    "id": 541298,
-    "IDcode": "230OREMO-008",
-    "title": "Aちゃん＆Mちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/lZBYwZiZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-008"
-  },
-  {
-    "id": 541301,
-    "IDcode": "230OREMO-009",
-    "title": "まいやん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/UvKXKtMZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-009"
-  },
-  {
-    "id": 541304,
-    "IDcode": "230OREMO-010",
-    "title": "ハシカン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/SyGUwNOv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-010"
-  },
-  {
-    "id": 541303,
-    "IDcode": "230OREMO-011",
-    "title": "みずにゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/E42NseuE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-011"
-  },
-  {
-    "id": 541302,
-    "IDcode": "230OREMO-012",
-    "title": "あかりん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/VSqQpDvB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-012"
-  },
-  {
-    "id": 541305,
-    "IDcode": "230OREMO-013",
-    "title": "シンジュクフサフサ阴毛泣き虫ちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/WwpAPazt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-013"
-  },
-  {
-    "id": 541306,
-    "IDcode": "230OREMO-014",
-    "title": "ブクロパイパンくびれ巨乳娘ちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/QgAUg4ZQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-014"
-  },
-  {
-    "id": 541307,
-    "IDcode": "230OREMO-015",
-    "title": "シブヤデカ尻敏感娘ちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231018/DfGrsQKt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-015"
-  },
-  {
-    "id": 541308,
-    "IDcode": "230OREMO-016",
-    "title": "エビス逃げれない刚毛マン毛巨乳美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231018/1NLH2zFR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-016"
-  },
-  {
-    "id": 541309,
-    "IDcode": "230OREMO-029",
-    "title": "自称アイドルM",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231018/2mtIGl01/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-029"
-  },
-  {
-    "id": 100762,
-    "IDcode": "230OREMO-030",
-    "title": "自称インフルエンサーA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-030"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-500"
   },
   {
-    "id": 100774,
-    "IDcode": "230OREMO-032",
-    "title": "自称グラドルR",
+    "id": 576477,
+    "IDcode": "230ORECO-501",
+    "title": "りか&はな",
     "year": "",
     "country": "",
     "genre": "",
@@ -679,137 +231,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-032"
-  },
-  {
-    "id": 100775,
-    "IDcode": "230OREMO-033",
-    "title": "あかねちゃん&ゆうりちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-033"
-  },
-  {
-    "id": 100766,
-    "IDcode": "230OREMO-034",
-    "title": "ゆらちゃん&りこちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-034"
-  },
-  {
-    "id": 100767,
-    "IDcode": "230OREMO-035",
-    "title": "課長&M主任",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-035"
-  },
-  {
-    "id": 100781,
-    "IDcode": "230OREMO-036",
-    "title": "部長&N課長",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-036"
-  },
-  {
-    "id": 541347,
-    "IDcode": "230OREMO-037",
-    "title": "さくらん＆ひまりん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231107/UoXBXPnt/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240103/pb_e_230oreco-501.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-501"
   },
   {
-    "id": 100782,
-    "IDcode": "230OREMO-038",
-    "title": "あずにゃん&まいまい",
+    "id": 100887,
+    "IDcode": "230ORECO-503",
+    "title": "ちはるちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -817,22 +248,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-503"
   },
   {
-    "id": 103498,
-    "IDcode": "230OREMO-039",
-    "title": "サッカー部マネージャーK",
+    "id": 100889,
+    "IDcode": "230ORECO-504",
+    "title": "みこちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -840,22 +265,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-504"
   },
   {
-    "id": 541348,
-    "IDcode": "230OREMO-040",
-    "title": "陆上部マネージャーE",
+    "id": 100890,
+    "IDcode": "230ORECO-505",
+    "title": "うみちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -863,45 +282,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231108/qqE328eo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-040"
-  },
-  {
-    "id": 103499,
-    "IDcode": "230OREMO-041",
-    "title": "バスケ部マネージャーH",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-041"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-505"
   },
   {
-    "id": 541349,
-    "IDcode": "230OREMO-042",
-    "title": "ラグビー部マネージャーN",
+    "id": 511133,
+    "IDcode": "230ORECO-506",
+    "title": "まい",
     "year": "",
     "country": "",
     "genre": "",
@@ -909,22 +299,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231108/Tme1dsMR/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/8853a1183954d608ffb2d78620627716.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-042"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-506"
   },
   {
-    "id": 103500,
-    "IDcode": "230OREMO-043",
-    "title": "大学リクスー就活生Y",
+    "id": 578279,
+    "IDcode": "230ORECO-507",
+    "title": "いろは",
     "year": "",
     "country": "",
     "genre": "",
@@ -932,22 +316,84 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231215/4Tqyi2V7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-507"
+  },
+  {
+    "id": 511139,
+    "IDcode": "230ORECO-508",
+    "title": "りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/ac486758a154ba9fde2231cce02ec2cf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-508"
+  },
+  {
+    "id": 511135,
+    "IDcode": "230ORECO-509",
+    "title": "みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/3d53a91ad5706275fb5ca37c182477a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-509"
+  },
+  {
+    "id": 486615,
+    "IDcode": "230ORECO-510",
+    "title": "じゅんさん＆えりかさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/a1184bf4ecfb1699eec1887745cc53ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-510"
+  },
+  {
+    "id": 100963,
+    "IDcode": "230ORECO-511",
+    "title": "ゆいさん&みなみさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-043"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-511"
   },
   {
-    "id": 541350,
-    "IDcode": "230OREMO-045",
-    "title": "T大学リクスー就活生S",
+    "id": 100964,
+    "IDcode": "230ORECO-512",
+    "title": "こなつさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -955,68 +401,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231109/EWLh1ODm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-045"
-  },
-  {
-    "id": 541351,
-    "IDcode": "230OREMO-048",
-    "title": "K大学リクスー就活生M",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231109/IHuYu81k/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-048"
-  },
-  {
-    "id": 103501,
-    "IDcode": "230OREMO-049",
-    "title": "ヤマシタユウキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-512"
   },
   {
-    "id": 103509,
-    "IDcode": "230OREMO-050",
-    "title": "カタヤマジュリ",
+    "id": 100970,
+    "IDcode": "230ORECO-513",
+    "title": "かんなさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1024,22 +418,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-513"
   },
   {
-    "id": 170587,
-    "IDcode": "230OREMO-051",
-    "title": "ワタナベミナ",
+    "id": 578280,
+    "IDcode": "230ORECO-514",
+    "title": "あずささん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1047,22 +435,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/13d1f7cd3fadf6c1d71127323fed8383.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231217/mHauYdUy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-051"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-514"
   },
   {
-    "id": 520850,
-    "IDcode": "230OREMO-052",
-    "title": "サカガミエナ",
+    "id": 100971,
+    "IDcode": "230ORECO-515",
+    "title": "さつきさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1070,22 +452,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-052"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-515"
   },
   {
-    "id": 541411,
-    "IDcode": "230OREMO-053",
-    "title": "A053ちゃん",
+    "id": 100972,
+    "IDcode": "230ORECO-516",
+    "title": "三田先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1093,22 +469,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/I6UZSlay/1.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-516"
   },
   {
-    "id": 541410,
-    "IDcode": "230OREMO-054",
-    "title": "K054ちゃん",
+    "id": 578281,
+    "IDcode": "230ORECO-517",
+    "title": "皆瀬先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1116,22 +486,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/Us88wzV0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231217/Fx9D277k/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-517"
   },
   {
-    "id": 520863,
-    "IDcode": "230OREMO-055",
-    "title": "女子1500m走出场K",
+    "id": 100973,
+    "IDcode": "230ORECO-518",
+    "title": "小野寺先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1139,22 +503,203 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-518"
+  },
+  {
+    "id": 100974,
+    "IDcode": "230ORECO-519",
+    "title": "有栖先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-519"
+  },
+  {
+    "id": 100978,
+    "IDcode": "230ORECO-520",
+    "title": "かなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-520"
+  },
+  {
+    "id": 578282,
+    "IDcode": "230ORECO-521",
+    "title": "さあやさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231218/pPGjlAZu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-521"
+  },
+  {
+    "id": 100979,
+    "IDcode": "230ORECO-522",
+    "title": "あんなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-522"
+  },
+  {
+    "id": 578283,
+    "IDcode": "230ORECO-523",
+    "title": "さとみさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250619/devqndr2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-523"
+  },
+  {
+    "id": 100980,
+    "IDcode": "230ORECO-524",
+    "title": "ゆいさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-524"
+  },
+  {
+    "id": 578284,
+    "IDcode": "230ORECO-525",
+    "title": "まゆさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250620/NiDjX7qm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-525"
+  },
+  {
+    "id": 100982,
+    "IDcode": "230ORECO-526",
+    "title": "りえさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-526"
+  },
+  {
+    "id": 100981,
+    "IDcode": "230ORECO-527",
+    "title": "れなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-527"
+  },
+  {
+    "id": 100983,
+    "IDcode": "230ORECO-528",
+    "title": "みなみ&ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-528"
+  },
+  {
+    "id": 520817,
+    "IDcode": "230ORECO-529",
+    "title": "なみか&さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-529"
   },
   {
-    "id": 520854,
-    "IDcode": "230OREMO-056",
-    "title": "女子100m走出场A",
+    "id": 578285,
+    "IDcode": "230ORECO-532",
+    "title": "りこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1162,22 +707,254 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231220/f93SV2sr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-532"
+  },
+  {
+    "id": 578287,
+    "IDcode": "230ORECO-533",
+    "title": "みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240105/zUTr9FpZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-533"
+  },
+  {
+    "id": 101018,
+    "IDcode": "230ORECO-534",
+    "title": "ゆずか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-534"
+  },
+  {
+    "id": 578286,
+    "IDcode": "230ORECO-535",
+    "title": "ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240106/5oyShQsI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-535"
+  },
+  {
+    "id": 101017,
+    "IDcode": "230ORECO-536",
+    "title": "まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-536"
+  },
+  {
+    "id": 520831,
+    "IDcode": "230ORECO-537",
+    "title": "さちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240106/l425pwDn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-537"
+  },
+  {
+    "id": 541430,
+    "IDcode": "230ORECO-538",
+    "title": "れい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240106/He6S0Zpd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-538"
+  },
+  {
+    "id": 101015,
+    "IDcode": "230ORECO-539",
+    "title": "ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-539"
+  },
+  {
+    "id": 495914,
+    "IDcode": "230ORECO-540",
+    "title": "富士本",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/378006674695d9e46498db73d4ad4dc7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-540"
+  },
+  {
+    "id": 101016,
+    "IDcode": "230ORECO-541",
+    "title": "村瀬",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-541"
+  },
+  {
+    "id": 67106,
+    "IDcode": "230ORECO-542",
+    "title": "長谷河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/94c4c976d221d1914cf182de046ef9ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-542"
+  },
+  {
+    "id": 541435,
+    "IDcode": "230ORECO-543",
+    "title": "星乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/eRGJun3F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-543"
+  },
+  {
+    "id": 66806,
+    "IDcode": "230ORECO-544",
+    "title": "ゆりさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/6d5b0c3d9f856b771b4a8ce9a7308ec5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-544"
+  },
+  {
+    "id": 486610,
+    "IDcode": "230ORECO-545",
+    "title": "きよかさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/441c863ac763a3ccad1c7ccb5b604dd8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-545"
+  },
+  {
+    "id": 541438,
+    "IDcode": "230ORECO-546",
+    "title": "しおんさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-546"
   },
   {
-    "id": 520851,
-    "IDcode": "230OREMO-057",
-    "title": "女子100mハードル出场M",
+    "id": 541546,
+    "IDcode": "230ORECO-548",
+    "title": "あかり＆うた",
     "year": "",
     "country": "",
     "genre": "",
@@ -1185,22 +962,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240304/w9voDLcU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-548"
   },
   {
-    "id": 541412,
-    "IDcode": "230OREMO-058",
-    "title": "女子200m走出场N",
+    "id": 541437,
+    "IDcode": "230ORECO-549",
+    "title": "しおん＆なのは",
     "year": "",
     "country": "",
     "genre": "",
@@ -1208,22 +979,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231222/IQD2H2RU/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914f86f46d2372859bc011f/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-058"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-549"
   },
   {
-    "id": 541413,
-    "IDcode": "230OREMO-059",
-    "title": "ひかるちん",
+    "id": 67105,
+    "IDcode": "230ORECO-550",
+    "title": "まひるさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1231,22 +996,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231222/ZUSIkBhm/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/7cbaa7b322dae3acaecc2982cb84fbab.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-550"
   },
   {
-    "id": 541414,
-    "IDcode": "230OREMO-060",
-    "title": "ゆいゆい",
+    "id": 101031,
+    "IDcode": "230ORECO-553",
+    "title": "まゆみさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1254,22 +1013,152 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-553"
+  },
+  {
+    "id": 101144,
+    "IDcode": "230ORECO-554",
+    "title": "あかりちゃん&ひなのちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-554"
+  },
+  {
+    "id": 101143,
+    "IDcode": "230ORECO-555",
+    "title": "まどかちゃん&かのんちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-555"
+  },
+  {
+    "id": 101151,
+    "IDcode": "230ORECO-558",
+    "title": "めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-558"
+  },
+  {
+    "id": 101150,
+    "IDcode": "230ORECO-560",
+    "title": "さら&おさむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-560"
+  },
+  {
+    "id": 101149,
+    "IDcode": "230ORECO-561",
+    "title": "ゆり&まさお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-561"
+  },
+  {
+    "id": 101148,
+    "IDcode": "230ORECO-562",
+    "title": "まいな&てつや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-562"
+  },
+  {
+    "id": 101163,
+    "IDcode": "230ORECO-563",
+    "title": "せりな&ともき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-563"
+  },
+  {
+    "id": 541472,
+    "IDcode": "230ORECO-564",
+    "title": "あんな＆まさとVSゆうり＆かねひろ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/NExogNv0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240203/B22RBBeJ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-564"
   },
   {
-    "id": 541415,
-    "IDcode": "230OREMO-061",
-    "title": "らんたん",
+    "id": 66670,
+    "IDcode": "230ORECO-565",
+    "title": "りか&ひろしVSりな&たけし",
     "year": "",
     "country": "",
     "genre": "",
@@ -1277,22 +1166,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/G2dDKLox/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/2debc2070ba02da0d890efd8a14510ca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-565"
   },
   {
-    "id": 541416,
-    "IDcode": "230OREMO-062",
-    "title": "ゆいぴ",
+    "id": 101179,
+    "IDcode": "230ORECO-569",
+    "title": "みこ先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1300,160 +1183,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/DSHdpg13/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-062"
-  },
-  {
-    "id": 520843,
-    "IDcode": "230OREMO-065",
-    "title": "オナホRちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231224/2bLFO1wZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-065"
-  },
-  {
-    "id": 520844,
-    "IDcode": "230OREMO-066",
-    "title": "オナホHちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231224/gYc0aZRz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-066"
-  },
-  {
-    "id": 520861,
-    "IDcode": "230OREMO-070",
-    "title": "A大学リクスー女子大生F",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231224/nxNSP4vw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-070"
-  },
-  {
-    "id": 520862,
-    "IDcode": "230OREMO-071",
-    "title": "R大学リクスー女子大生Y",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240116/jBDOk1Rl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-071"
-  },
-  {
-    "id": 541439,
-    "IDcode": "230OREMO-075",
-    "title": "エビスA075",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240116/sXlVfwNJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-075"
-  },
-  {
-    "id": 101023,
-    "IDcode": "230OREMO-076",
-    "title": "ロッポンギH076",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-076"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-569"
   },
   {
-    "id": 541440,
-    "IDcode": "230OREMO-077",
-    "title": "M＆E",
+    "id": 101180,
+    "IDcode": "230ORECO-571",
+    "title": "あやめちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1461,68 +1200,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240116/uLFqPZKi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-077"
-  },
-  {
-    "id": 541441,
-    "IDcode": "230OREMO-078",
-    "title": "S＆M",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240116/H4h0JeVb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-078"
-  },
-  {
-    "id": 101022,
-    "IDcode": "230OREMO-079",
-    "title": "O079",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-079"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-571"
   },
   {
-    "id": 101025,
-    "IDcode": "230OREMO-080",
-    "title": "M080",
+    "id": 101181,
+    "IDcode": "230ORECO-572",
+    "title": "みなみちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1530,22 +1217,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-080"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-572"
   },
   {
-    "id": 101024,
-    "IDcode": "230OREMO-081",
-    "title": "J081",
+    "id": 101184,
+    "IDcode": "230ORECO-573",
+    "title": "つきのちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1553,22 +1234,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-081"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-573"
   },
   {
-    "id": 541442,
-    "IDcode": "230OREMO-082",
-    "title": "A082",
+    "id": 101186,
+    "IDcode": "230ORECO-574",
+    "title": "るいささん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1576,45 +1251,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240117/sLHHTKt2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-082"
-  },
-  {
-    "id": 101026,
-    "IDcode": "230OREMO-083",
-    "title": "K&A",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-574"
   },
   {
-    "id": 101030,
-    "IDcode": "230OREMO-084",
-    "title": "A&Y",
+    "id": 58996,
+    "IDcode": "230ORECO-576",
+    "title": "【破解精品】 Kana-San",
     "year": "",
     "country": "",
     "genre": "",
@@ -1622,505 +1268,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-084"
-  },
-  {
-    "id": 101029,
-    "IDcode": "230OREMO-085",
-    "title": "元友だちH&K",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-085"
-  },
-  {
-    "id": 101028,
-    "IDcode": "230OREMO-086",
-    "title": "元友だちY&M",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-086"
-  },
-  {
-    "id": 66695,
-    "IDcode": "230OREMO-093",
-    "title": "ヤマザキアヤ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/edd25c1c984339510c36c06154937827.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-093"
-  },
-  {
-    "id": 103579,
-    "IDcode": "230OREMO-095",
-    "title": "アズマユミ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-095"
-  },
-  {
-    "id": 103581,
-    "IDcode": "230OREMO-097",
-    "title": "テニス部マネR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-097"
-  },
-  {
-    "id": 103580,
-    "IDcode": "230OREMO-098",
-    "title": "サッカー部マネМ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-098"
-  },
-  {
-    "id": 103590,
-    "IDcode": "230OREMO-099",
-    "title": "陸上部マネK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-099"
-  },
-  {
-    "id": 103592,
-    "IDcode": "230OREMO-100",
-    "title": "卓球部マネO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-100"
-  },
-  {
-    "id": 103591,
-    "IDcode": "230OREMO-103",
-    "title": "なのはちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-103"
-  },
-  {
-    "id": 103594,
-    "IDcode": "230OREMO-104",
-    "title": "しおんちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-104"
-  },
-  {
-    "id": 103593,
-    "IDcode": "230OREMO-105",
-    "title": "中野区・●害者N",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-105"
-  },
-  {
-    "id": 103601,
-    "IDcode": "230OREMO-109",
-    "title": "練馬区・●害者H",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-109"
-  },
-  {
-    "id": 541473,
-    "IDcode": "230OREMO-110",
-    "title": "中野区·●害者H",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/ulKYO0bz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-110"
-  },
-  {
-    "id": 103602,
-    "IDcode": "230OREMO-111",
-    "title": "●害者・女子大生・Nさん(仮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-111"
-  },
-  {
-    "id": 541474,
-    "IDcode": "230OREMO-112",
-    "title": "●害者·女子大生·Mさん(仮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240207/51oMe1FT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-112"
-  },
-  {
-    "id": 66763,
-    "IDcode": "230OREMO-113",
-    "title": "害者・女子大生・Kさん(仮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/145c369c76955820dc775921d5838125.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-113"
-  },
-  {
-    "id": 103603,
-    "IDcode": "230OREMO-114",
-    "title": "害者・女子大生・Sさん(仮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-114"
-  },
-  {
-    "id": 103604,
-    "IDcode": "230OREMO-115",
-    "title": "普通科2年：(仮)Mさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-115"
-  },
-  {
-    "id": 103608,
-    "IDcode": "230OREMO-116",
-    "title": "普通科1年：(仮)Aさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-116"
-  },
-  {
-    "id": 101199,
-    "IDcode": "230OREMO-118",
-    "title": "普通科2年：(仮)Rさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-118"
-  },
-  {
-    "id": 59028,
-    "IDcode": "230OREMO-120",
-    "title": "【破解精品】 可爱漂亮的制服女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-16",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c360b6b81af1f8538d7f9/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-576"
   },
   {
-    "id": 59052,
-    "IDcode": "230OREMO-127",
-    "title": "【破解精品】 已售朋友Y&amp;C",
+    "id": 101196,
+    "IDcode": "230ORECO-577",
+    "title": "つかささん",
     "year": "",
     "country": "",
     "genre": "",
@@ -2128,22 +1285,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-16",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-577"
   },
   {
-    "id": 517986,
-    "IDcode": "230OREMO-128",
-    "title": "被出賣的朋友們 R&am",
+    "id": 101187,
+    "IDcode": "230ORECO-579",
+    "title": "こころ",
     "year": "",
     "country": "",
     "genre": "",
@@ -2151,21 +1302,202 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-579"
+  },
+  {
+    "id": 101188,
+    "IDcode": "230ORECO-580",
+    "title": "みさき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-580"
+  },
+  {
+    "id": 486613,
+    "IDcode": "230ORECO-581",
+    "title": "くみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69091e854a81c2286fb27dec/poster2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/f96d713af7150b44a182b93283c49a77.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-581"
   },
   {
-    "id": 101340,
-    "IDcode": "230OREMO-129",
+    "id": 505569,
+    "IDcode": "230ORECO-582",
+    "title": "みこちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/71cea347492ae7a6972bce2826e9d759.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-582"
+  },
+  {
+    "id": 101252,
+    "IDcode": "230ORECO-584",
+    "title": "みつきちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-584"
+  },
+  {
+    "id": 101251,
+    "IDcode": "230ORECO-585",
+    "title": "りつちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-585"
+  },
+  {
+    "id": 101250,
+    "IDcode": "230ORECO-586",
+    "title": "のぞみ&たけし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-586"
+  },
+  {
+    "id": 101249,
+    "IDcode": "230ORECO-587",
+    "title": "もなみ&ゆきや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-587"
+  },
+  {
+    "id": 66866,
+    "IDcode": "230ORECO-588",
+    "title": "はな&たいち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/20f6c50f5c90c4c18dcb3adc626a6b62.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-588"
+  },
+  {
+    "id": 66787,
+    "IDcode": "230ORECO-589",
+    "title": "みう&はやと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/c3ba72dbd823c9877e43862239938961.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-589"
+  },
+  {
+    "id": 57923,
+    "IDcode": "230ORECO-590",
+    "title": "もにかちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/fd1e51b30d811080813b0f28f862c9ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-590"
+  },
+  {
+    "id": 57924,
+    "IDcode": "230ORECO-591",
+    "title": "【破解精品】 樱花陈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/71bab7abbf4e9841f412a46515514ccc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-591"
+  },
+  {
+    "id": 520757,
+    "IDcode": "230ORECO-592",
     "title": "みとちゃん",
     "year": "",
     "country": "",
@@ -2174,22 +1506,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240306/NcJthQKZ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-592"
   },
   {
-    "id": 101338,
-    "IDcode": "230OREMO-130",
-    "title": "陸上部M130",
+    "id": 59044,
+    "IDcode": "230ORECO-595",
+    "title": "【破解精品】 葵桑",
     "year": "",
     "country": "",
     "genre": "",
@@ -2197,22 +1523,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-16",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-595"
   },
   {
-    "id": 101339,
-    "IDcode": "230OREMO-131",
-    "title": "陸上部A131",
+    "id": 101288,
+    "IDcode": "230ORECO-596",
+    "title": "えまさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -2220,22 +1540,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-131"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-596"
   },
   {
-    "id": 101361,
-    "IDcode": "230OREMO-132",
-    "title": "陸上部H132",
+    "id": 101289,
+    "IDcode": "230ORECO-597",
+    "title": "しずなさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -2243,22 +1557,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-597"
   },
   {
-    "id": 101363,
-    "IDcode": "230OREMO-133",
-    "title": "えみさん",
+    "id": 520755,
+    "IDcode": "230ORECO-598",
+    "title": "うららちゃん",
     "year": "",
     "country": "",
     "genre": "",
@@ -2266,22 +1574,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240307/Mc3BgvpS/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-598"
   },
   {
-    "id": 101362,
-    "IDcode": "230OREMO-135",
-    "title": "はなさん",
+    "id": 59047,
+    "IDcode": "230ORECO-600",
+    "title": "【破解精品】 Chiharu-Chan",
     "year": "",
     "country": "",
     "genre": "",
@@ -2289,16 +1591,112 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "俺の素人-Z-SECONDIMPACT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
-        "works_count": 1738
-      }
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-600"
+  },
+  {
+    "id": 59046,
+    "IDcode": "230ORECO-601",
+    "title": "【破解精品】 Yui-Chan",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-601"
+  },
+  {
+    "id": 59051,
+    "IDcode": "230ORECO-602",
+    "title": "【破解精品】 Shiori-San",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-602"
+  },
+  {
+    "id": 59050,
+    "IDcode": "230ORECO-603",
+    "title": "【破解精品】 Yui-San",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-603"
+  },
+  {
+    "id": 101292,
+    "IDcode": "230ORECO-605",
+    "title": "みとちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREMO-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-605"
+  },
+  {
+    "id": 101299,
+    "IDcode": "230ORECO-607",
+    "title": "ゆいさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-607"
+  },
+  {
+    "id": 101298,
+    "IDcode": "230ORECO-608",
+    "title": "ゆうなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-608"
   }
 ];

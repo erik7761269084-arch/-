@@ -1,224 +1,1532 @@
 window.PAGE_DATA = [
   {
-    "id": 182912,
-    "IDcode": "FC2PPV-4743911",
-    "title": "白皙黑发19岁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/22/95b44defbf5c7a9e33f3df923c19e8ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4743911"
-  },
-  {
-    "id": 182840,
-    "IDcode": "FC2PPV-4743913",
-    "title": "SS级极品美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4743913"
-  },
-  {
-    "id": 182855,
-    "IDcode": "FC2PPV-4744026",
-    "title": "超感H罩杯",
+    "id": 71903,
+    "IDcode": "FJIN-062",
+    "title": "汚部屋住みの淫キャにも優しい日焼けギャルは… デカ尻で挑発してくるパート家政婦 蘭華",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "单体作品",
+      "屁股",
+      "淫乱，真实",
+      "女生",
+      "晒黑",
+      "各种职业"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/a991f52f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744026"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蘭華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-062"
   },
   {
-    "id": 182846,
-    "IDcode": "FC2PPV-4744051",
-    "title": "温泉旅店长女",
+    "id": 71902,
+    "IDcode": "FJIN-063",
+    "title": "合算12発抜き！！親の再婚でできた義姉は喪女 だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…藤沢麗央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出",
+      "胖女人",
+      "妹妹"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤沢麗央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-063"
+  },
+  {
+    "id": 71901,
+    "IDcode": "FJIN-064",
+    "title": "筆おろし温泉ソープ 親父の再婚で出来た義母さんは絶倫の巨乳泡姫だった！？ ちなみん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "浴衣",
+      "巨乳",
+      "单体作品",
+      "乱伦",
+      "胖女人"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ちなみん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-064"
+  },
+  {
+    "id": 190151,
+    "IDcode": "FJIN-065",
+    "title": "エグすぎる腰振りペニバン男潮吹きメスイキFUCK！！小悪魔ビッチJ系にアナル犯●れメス堕ちした教師たち 宇流木さらら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/6b5e0f1d/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744051"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-065"
   },
   {
-    "id": 525095,
-    "IDcode": "FC2PPV-474415",
-    "title": "_【个人撮影】颜出し 黒髪18歳 低身长な女子大生に、クスコ、中出ししちゃいました",
+    "id": 7802,
+    "IDcode": "FJIN-066",
+    "title": "ねっとりベロチューと乳首舐めで誘惑 涎だらだら淫舌フェラで教師を沼らせる痴女J系 由良かな",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "genres": [
+      "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "更衣室",
+      "蘿莉控",
+      "女學生",
+      "運動服裝",
+      "小隻馬",
+      "口爆",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "辦公室",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "早漏",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "叛逆少女",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "地雷系",
+      "潮吹",
+      "女上位",
+      "後入",
+      "JK校服",
+      "不倫"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/18SEAV-PIC/11463.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-474415"
+    "cover_url": "https://picture.yoshiclub.xyz/20250303/d3cf3877-ab9f-4451-a142-2ce449dcf713.jpg",
+    "actress": [
+      "由良佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-066"
   },
   {
-    "id": 182887,
-    "IDcode": "FC2PPV-4744224",
-    "title": "美女人妻被串烧和NTR",
+    "id": 7133,
+    "IDcode": "FJIN-067",
+    "title": "13發超值套餐：老爸再婚帶來的喪女繼姐太色，巨乳無防備騎我狂射 ~ 星明日菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "癡女",
+      "眼鏡",
+      "表姐・表妹",
+      "中出",
+      "胖女人",
+      "劇情",
+      "勾引・誘惑",
+      "色白",
+      "騎乗位",
+      "艷遇",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "宅男・宅女",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330052318232232.jpg",
+    "actress": [
+      "星明日菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-067"
+  },
+  {
+    "id": 7132,
+    "IDcode": "FJIN-068",
+    "title": "7發乳交+1發射 神乳進化論：鄉下巨乳妹性欲爆棚，夏日猛訓揉舔夾到爽 ~ 小阪ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "濕身",
+      "田舍娘",
+      "癡女",
+      "大乳暈",
+      "中出",
+      "劇情",
+      "抹油",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "色白",
+      "騎乗位",
+      "艷遇",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "鄉下",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小坂ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-068"
+  },
+  {
+    "id": 69780,
+    "IDcode": "FJIN-069",
+    "title": "FJIN-069 エグすぎる腰振りペニバン男潮吹きメスイキFUCK！！ 生意気ナースにアナル犯●れメス堕ちした男たち 白崎水麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
+      "护士",
+      "M男",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "白崎水麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-069"
+  },
+  {
+    "id": 7131,
+    "IDcode": "FJIN-070",
+    "title": "肉感爆棚I罩杯巨乳：白領西裝OL的泡泡浴服務 ~ 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "豐滿",
+      "蠻橫嬌羞",
+      "獵豔",
+      "素股",
+      "主觀視角",
+      "口爆",
+      "美臀",
+      "水療・泡泡浴",
+      "癡女",
+      "感官作品",
+      "中出",
+      "抹油",
+      "性感",
+      "泡泡浴店",
+      "絕頂高潮",
+      "白絲",
+      "色白",
+      "企畫",
+      "黑絲",
+      "泡姬",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "後入",
+      "濕身"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330053333646646.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-070"
+  },
+  {
+    "id": 7130,
+    "IDcode": "FJIN-071",
+    "title": "素人吞精 File.001：住在郊外的清楚系人妻被無職男的濃精治愈，巨根口交吞精2天1夜喉嚨猛幹之旅 ~ 五十嵐清華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "不倫",
+      "口爆",
+      "美臀",
+      "文藝女",
+      "深喉",
+      "癡女",
+      "旅行",
+      "眼鏡",
+      "人妻",
+      "淫亂",
+      "中出",
+      "劇情",
+      "家庭主妇",
+      "絕頂高潮",
+      "地味",
+      "高顏值",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "女僕制服",
+      "吞精",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "後入",
+      "濕身",
+      "NTR",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330053725219219.jpg",
+    "actress": [
+      "五十嵐清華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-071"
+  },
+  {
+    "id": 67390,
+    "IDcode": "FJIN-072",
+    "title": "パイ活！！オイルぬるぬるおっぱい温泉おもてなしデート 椿りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋乳癖",
+      "户外",
+      "巨乳",
+      "单体作品",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-072"
+  },
+  {
+    "id": 6373,
+    "IDcode": "FJIN-073",
+    "title": "与隔壁不爱交际的大屁股女孩进行一周的完全勃起挤奶性爱-水川潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "蕩婦",
+      "臀控",
+      "姐姐・妹妹",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "眼鏡",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "御姐系",
+      "大姐姐",
+      "自宅",
+      "劇情",
+      "明星臉",
+      "高顏值",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "4K",
+      "自慰",
+      "女上位",
+      "後入",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cd6d9ed5b270bc921274/cover.jpg",
+    "actress": [
+      "水川潤",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-073"
+  },
+  {
+    "id": 67364,
+    "IDcode": "FJIN-074",
+    "title": "筆おろし温泉ソープ 親父が再婚して― Hカップ巨乳の義母さんができた。家族旅行で僕が童貞だとわかると淫乱な義母さんに狙われて…逢見リカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "浴衣",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e676398bc99dfdd0329aa/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-074"
+  },
+  {
+    "id": 6376,
+    "IDcode": "FJIN-075",
+    "title": "素人吞精檔案002 結婚4年人妻趁老公出差偷腥，首次不倫爽到爆 大屌口交吞精一泊兩日喉嚨猛幹之旅 ~ 北村海智",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "淫妻"
+      "吞精",
+      "旅行",
+      "口交",
+      "主觀視角",
+      "中出",
+      "企畫",
+      "不倫",
+      "素人作品",
+      "口爆",
+      "劇情",
+      "單體作品",
+      "素人",
+      "野外露天"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/632444d6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744224"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102422943943_thumbnail.webp",
+    "actress": [
+      "北村海智"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-075"
   },
   {
-    "id": 182888,
-    "IDcode": "FC2PPV-4744251",
-    "title": "我爱你抱抱我",
+    "id": 5591,
+    "IDcode": "FJIN-076",
+    "title": "パイ活！！オイルぬるぬるくびれボイン温泉デート 九十九メイ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "高妹",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "溫泉",
+      "旅行",
+      "舔陰",
+      "中出",
+      "御姐系",
+      "美少女電影",
+      "拜金女",
+      "劇情",
+      "抹油",
+      "性感",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "素人作品",
+      "阪道系",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "約炮",
+      "女上位",
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "大奶头",
+      "濕身"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/a85ba7d9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744251"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042200241241_thumbnail.webp",
+    "actress": [
+      "九十九メイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-076"
   },
   {
-    "id": 524596,
-    "IDcode": "FC2PPV-4744289",
-    "title": "【コスパイズリ中出し】崩壊スタ〇〇イル・キャ〇**ス(2周年限定キャラ)",
+    "id": 5615,
+    "IDcode": "FJIN-077",
+    "title": "ねっとりベロチューと乳首舐めで誘惑 涎だらだら淫舌フェラで教師を沼らせる痴女J系 倉木しおり",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "勾引・誘惑",
+      "打手槍",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "叛逆少女",
+      "高顏值",
+      "苗條",
+      "素人作品",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "口交",
+      "4K",
+      "清純",
+      "女上位",
+      "足交",
+      "後入",
+      "JK校服"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250819-1/83d9fab1566a906d3d71cca36473701f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744289"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531035056517517_thumbnail.webp",
+    "actress": [
+      "倉木詩織",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-077"
   },
   {
-    "id": 182841,
-    "IDcode": "FC2PPV-4744331",
-    "title": "胸部丰满的游戏迷大学四年级生",
+    "id": 5613,
+    "IDcode": "FJIN-078",
+    "title": "シロートごっくんFile003浮気された実家暮チンおしゃぶり口淫スペルマごっくん1泊2日喉ハメ旅行 有馬美玖",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "genres": [
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "美腳",
+      "二次元",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "深喉",
+      "癡女",
+      "旅行",
+      "舔陰",
+      "露出",
+      "中出",
+      "美少女電影",
+      "絕頂高潮",
+      "白絲",
+      "高顏值",
+      "飯店",
+      "企畫",
+      "素人作品",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "性感睡衣",
+      "美人",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "OL",
+      "後入",
+      "性感",
+      "野外露天"
     ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531040301605605_thumbnail.webp",
+    "actress": [
+      "有馬美玖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-078"
+  },
+  {
+    "id": 5612,
+    "IDcode": "FJIN-079",
+    "title": "串刺し3Pイキ潰し 生意気な巨乳OLを媚薬レ×プしてアヘ顔でドンギマって白目剥くまでマワして遊ぶwww 天晴乃愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "口爆",
+      "SM",
+      "濕身",
+      "亂交 • 群P",
+      "單體作品",
+      "美臀",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "鬃毛",
+      "劇情",
+      "尾行",
+      "調教",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "招待",
+      "綁架",
+      "媚藥・迷藥",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "超爆乳",
+      "短髮",
+      "美乳",
+      "美人",
+      "輪姦",
+      "迷姦",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "魔鬼系",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "白眼失神",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531040302239239_thumbnail.webp",
+    "actress": [
+      "天晴乃愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-079"
+  },
+  {
+    "id": 5616,
+    "IDcode": "FJIN-080",
+    "title": "乳首こねくり失禁 卑劣おとなチ●ポで輪●されているのにお漏らし絶頂してしまう敏感乳首J系 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "蒙面・面罩",
+      "美腳",
+      "更衣室",
+      "拘束・拷問",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "SM",
+      "亂交 • 群P",
+      "單體作品",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "調教",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "學校",
+      "緊縛",
+      "苗條",
+      "高顏值",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "輪姦",
+      "吞精",
+      "口交",
+      "校花",
+      "潮吹",
+      "4K",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "JK校服",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/202505310350552222_thumbnail.webp",
+    "actress": [
+      "小那海綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-080"
+  },
+  {
+    "id": 5595,
+    "IDcode": "FJIN-081",
+    "title": "合算12発抜き！！親の再婚でできた義姉は喪女！だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…南天音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "高妹",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "表姐・表妹",
+      "淫亂",
+      "中出",
+      "胖女人",
+      "劇情",
+      "絕頂高潮",
+      "色白",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "羞恥",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "4K",
+      "宅男・宅女",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "跳蛋",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042155804804_thumbnail.webp",
+    "actress": [
+      "南天音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-081"
+  },
+  {
+    "id": 4920,
+    "IDcode": "FJIN-082",
+    "title": "合算15発 親の再婚でできた義姉は喪女 だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…御影れみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "蠻橫嬌羞",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "眼鏡",
+      "舔陰",
+      "表姐・表妹",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "自宅",
+      "劇情",
+      "後入",
+      "勾引・誘惑",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "宅男・宅女",
+      "女上位",
+      "胸控・戀乳癖",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224423492492_thumbnail.webp",
+    "actress": [
+      "御影れみ",
+      "じゅうもんじ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-082"
+  },
+  {
+    "id": 4884,
+    "IDcode": "FJIN-083",
+    "title": "W人妻拉致マチオ チ○ポの虜になるまでむちむち熟女を徹底的に中出し交遊を繰り返し痙攣イキを何度もさせたところ…佐久間楓 徳島理子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "鬼畜片",
+      "凌辱",
+      "熟女",
+      "美腳",
+      "不倫",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "野性",
+      "深喉",
+      "3P・4P",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "四十路",
+      "劇情",
+      "調教",
+      "家庭主妇",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "綁架",
+      "地味",
+      "色白",
+      "緊縛",
+      "貴婦",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "輪姦",
+      "巨尻",
+      "巨乳",
+      "流汗",
+      "口交",
+      "乳交",
+      "魔鬼系",
+      "女上位",
+      "胸控・戀乳癖",
+      "白眼失神",
+      "多P",
+      "後入",
+      "性感",
+      "兩男兩女"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224212610610_thumbnail.webp",
+    "actress": [
+      "佐久間楓",
+      "徳島理子",
+      "徳岛理子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-083"
+  },
+  {
+    "id": 63223,
+    "IDcode": "FJIN-084",
+    "title": "悶絶アヘ顔快楽堕ちレズエステ 逢見リカ 橘内ひなた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "舔阴",
+      "乳液",
+      "女同性恋",
+      "美容院",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "橘日向"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-084"
+  },
+  {
+    "id": 4919,
+    "IDcode": "FJIN-085",
+    "title": "お漏らし露出狂 変態性癖こじらせ女教師 水川潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "多P",
+      "美腳",
+      "更衣室",
+      "蕩婦",
+      "口爆",
+      "臀控",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "野性",
+      "奇異的",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "奇聞趣事",
+      "露出",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "校園生活",
+      "劇情",
+      "抹油",
+      "性感",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "學校",
+      "辣妹/GAL系",
+      "高顏值",
+      "黑絲",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "4K",
+      "女上位",
+      "三十路",
+      "放尿",
+      "女教師",
+      "大奶头",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888bac398bc99dfddb3822d/cover.jpg",
+    "actress": [
+      "水川潤",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-085"
+  },
+  {
+    "id": 4918,
+    "IDcode": "FJIN-086",
+    "title": "キメセクの巣 アヘ顔オホ声連発！！ヤリたい盛りの汁まみれトランスFUCK！！似鳥日菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "濕身",
+      "單體作品",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "比基尼",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "早漏",
+      "明星臉",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "媚藥・迷藥",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "乳交",
+      "情趣內衣",
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "女上位",
+      "白眼失神",
+      "後入",
+      "寫真女郎",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224350337337_thumbnail.webp",
+    "actress": [
+      "似鳥日菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-086"
+  },
+  {
+    "id": 4917,
+    "IDcode": "FJIN-087",
+    "title": "乳首こねくり失禁 卑劣おとなチ●ポで輪●されているのにお漏らし白目アヘイキする敏感乳首J系 泉りおん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "更衣室",
+      "二次元",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "調教",
+      "美少女",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "學校",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "4K",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "JK校服",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac86c92318f97d4a7977/cover.jpg",
+    "actress": [
+      "泉莉音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-087"
+  },
+  {
+    "id": 63219,
+    "IDcode": "FJIN-088",
+    "title": "エグすぎる腰振りペニバン男潮吹きメスイキFUCK！！痴女インストラクターにアナル犯●れメス堕ちしたM男会員たち 美波こづえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
+      "潮吹",
+      "M男",
+      "肛交",
+      "讲师"
+    ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744331"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-088"
   },
   {
-    "id": 181246,
-    "IDcode": "FC2PPV-4744486",
-    "title": "偶然降临的偶像莉莉卡",
+    "id": 3850,
+    "IDcode": "FJIN-089",
+    "title": "親の再婚でできた義姉はW喪女 だらしないのにエロすぎた無防備巨乳な姉たちに杭打ち中出しされた僕…夕美しおん 愛川すず",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "蠻橫嬌羞",
+      "廢青",
+      "不倫",
+      "二次元",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "兩女一男",
+      "野性",
+      "癡女",
+      "人妻",
+      "眼鏡",
+      "大乳暈",
+      "舔陰",
+      "表姐・表妹",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "高顏值",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "風俗娘",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "宅男・宅女",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/6b6d11ac7ae9aae4f49696379996476f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744486"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032445105105_69125_thumbnail.webp",
+    "actress": [
+      "夕美紫苑",
+      "愛川鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-089"
   },
   {
-    "id": 183106,
-    "IDcode": "FC2PPV-4744626",
-    "title": "SSS级F罩杯纯美人",
+    "id": 3942,
+    "IDcode": "FJIN-090",
+    "title": "乳首こねくり失禁 卑劣おとなチ●ポで輪●されているのに失神寸前アヘ顔でお漏らしイキするJ系 池内遥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "凌辱",
+      "熟女",
+      "蠻橫嬌羞",
+      "美腳",
+      "更衣室",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "重口味",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "校園生活",
+      "調教",
+      "美少女",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "學校",
+      "緊縛",
+      "苗條",
+      "高顏值",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "素人",
+      "吞精",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "潮吹",
+      "4K",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "JK校服",
+      "濕身",
+      "跳蛋",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032740242242_61586_thumbnail.webp",
+    "actress": [
+      "池内遥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-090"
+  },
+  {
+    "id": 3933,
+    "IDcode": "FJIN-091",
+    "title": "キメセクの巣 アヘ顔オホ声連発！！ヤリたい盛りの潮吹きトランスFUCK！！ 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "眼鏡",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "猥褻穿著",
+      "比基尼",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "貓耳裝飾",
+      "白絲",
+      "淫蕩・硬核",
+      "絕頂高潮",
+      "無毛",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "港區女子",
+      "媚藥・迷藥",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "流汗",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "女上位",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032448285285_92117_thumbnail.webp",
+    "actress": [
+      "小那海綾",
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-091"
+  },
+  {
+    "id": 62073,
+    "IDcode": "FJIN-092",
+    "title": "悶絶アヘ顔快楽堕ちレズエステ2 小那海あや 倉木しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "舔阴",
+      "乳液",
+      "女同性恋",
+      "美容院",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐波绫",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-092"
+  },
+  {
+    "id": 3110,
+    "IDcode": "FJIN-093",
+    "title": "メロディー・雛・マークスのM男くん逆ナンパ ファンタスティック騎乗位で男潮吹くまで痴女られた僕たち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "美臀",
+      "搭訕",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "被妹子搭訕",
+      "丁字裤",
+      "白人女優",
+      "勾引・誘惑",
+      "打手槍",
+      "M男・M女",
+      "色白",
+      "高顏值",
+      "企畫",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "4K",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/202508302007062121_18537_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-093"
+  },
+  {
+    "id": 3063,
+    "IDcode": "FJIN-094",
+    "title": "まいんどふぁっかー洗脳啓発 第一回「極度の潔癖ヅマの徒然づるママに普段着パーカーおじさんの逆襲人格操作」尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "後入",
+      "少女",
+      "人妻",
+      "口交",
+      "舔陰",
+      "淫蕩・硬核",
+      "中出",
+      "4K",
+      "美腳",
+      "美人",
+      "女上位",
+      "手指插入",
+      "劇情",
+      "單體作品",
+      "騎乗位",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210731790790_50200_thumbnail.webp",
+    "actress": [
+      "尾崎惠梨香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-094"
+  },
+  {
+    "id": 186021,
+    "IDcode": "FJIN-095",
+    "title": "合算13発 親の再婚でできた義姉は喪女 だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…九井スナオ",
     "year": "",
     "country": "",
     "genre": "",
@@ -226,43 +1534,453 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/681b209cd19879ab5dfffc38e45ea9b3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744626"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-095"
   },
   {
-    "id": 182890,
-    "IDcode": "FC2PPV-4744660",
-    "title": "纤细D杯",
+    "id": 186018,
+    "IDcode": "FJIN-096",
+    "title": "悶絶アヘ顔快楽堕ちレズエステ3 椿りか 美澄玲衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/e532bb54/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744660"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-096"
   },
   {
-    "id": 183067,
-    "IDcode": "FC2PPV-4744752",
-    "title": "初次捆绑全裸露脸G罩杯超美纯种插入式性爱",
+    "id": 3106,
+    "IDcode": "FJIN-097",
+    "title": "乳首こねくり失禁 卑劣おとなチ●ポに犯●れ白目アヘ堕ち大量失禁お漏らしイキする敏感乳首J系 由良かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
+      "脅迫做愛",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "SM",
+      "亂交 • 群P",
+      "單體作品",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "貧乳",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "校園生活",
+      "調教",
+      "美少女",
+      "早漏",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "強姦",
+      "無毛",
+      "高顏值",
+      "苗條",
+      "變態",
+      "顏射",
+      "插入異物",
+      "傲嬌",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
+      "流汗",
+      "蘿莉",
+      "潮吹",
+      "魔鬼系",
+      "4K",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "JK校服",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830201806174174_93000_thumbnail.webp",
+    "actress": [
+      "由良佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-097"
+  },
+  {
+    "id": 2704,
+    "IDcode": "FJIN-098",
+    "title": "キメセクの巣「日本チ◎ポ大好き」北欧美女が俺んちでガンギマリFUCK！！ メロディー・雛・マークス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "粉絲福利",
+      "網襪",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "野性",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "猥褻穿著",
+      "比基尼",
+      "美少女電影",
+      "丁字裤",
+      "接吻",
+      "抹油",
+      "性感",
+      "美少女",
+      "按摩棒",
+      "白人女優",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "港區女子",
+      "色白",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "女優",
+      "上門福利",
+      "媚藥・迷藥",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "流汗",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "白眼失神",
+      "後入",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045814842842_10274_thumbnail.webp",
+    "actress": [
+      "メロディー・雛・マークス",
+      "ナイアガラ翔",
+      "メロディー・雏・マークス"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-098"
+  },
+  {
+    "id": 2288,
+    "IDcode": "FJIN-099",
+    "title": "洗脳啓発まいんどふぁっかー 第弐回「母の記録という呪縛に縛られたアスリート二世を催●ブルマ指導してみたw」北岡果林",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "豐滿",
+      "鬼畜片",
+      "老頭子",
+      "正統派",
+      "女學生",
+      "運動服裝",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "調教",
+      "美少女",
+      "催眠",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "強姦",
+      "無毛",
+      "運動女孩",
+      "高顏值",
+      "變態",
+      "傲嬌",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "迷姦",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "雙馬尾",
+      "乳交",
+      "4K",
+      "魔鬼系",
+      "清純",
+      "女上位",
+      "母親",
+      "後入",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北岡果林"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-099"
+  },
+  {
+    "id": 2287,
+    "IDcode": "FJIN-100",
+    "title": "キメセクの巣 アヘ顔オホ声連発！！涎だらだらイキ潰しトランスFUCK！！ 花衣つばき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "網襪",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "圣诞衣",
+      "舔腳",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "抹油",
+      "性感",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "無毛",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "媚藥・迷藥",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "吞精",
+      "巨乳",
+      "口交",
+      "DJ",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "白眼失神",
+      "大奶头",
+      "濕身",
+      "聚會・PARTY"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "花衣つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-100"
+  },
+  {
+    "id": 2241,
+    "IDcode": "FJIN-101",
+    "title": "息子ほど年の離れたバイト先の男子学生達と一泊二日の温泉旅行に来た元ギャルパート 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "熟女",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "野性",
+      "膚黑",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "接吻",
+      "劇情",
+      "性感",
+      "按摩棒",
+      "後入",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "無毛",
+      "女同事",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "顔面騎乘",
+      "口交",
+      "巨乳",
+      "肌肉",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "多P",
+      "大奶头",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吹石玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-101"
+  },
+  {
+    "id": 2267,
+    "IDcode": "FJIN-102",
+    "title": "乳首こねくり失禁 卑劣な大人に敏感乳首を開発され失禁絶頂 校内共同便女堕ちしてしまった優等生J系 北山憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "後入",
+      "少女",
+      "口交",
+      "舔陰",
+      "4K",
+      "美人",
+      "空姐制服",
+      "女上位",
+      "阪道系",
+      "小隻馬",
+      "手指插入",
+      "騎乗位",
+      "單體作品",
+      "劇情",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北山憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-102"
+  },
+  {
+    "id": 174818,
+    "IDcode": "FJIN-103",
+    "title": "外人ガチャ追いかけ回しレ〇プ 日本観光している白人美女を眠剤拉致 抵抗したら喉奥イラマと巨根鬼ピスでわからせ 予想以上にドM堕ちして追姦懇願 メロディー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-103"
+  },
+  {
+    "id": 173792,
+    "IDcode": "FJIN-104",
+    "title": "悶絶アヘ顔快楽堕ちレズエステ4 メロディー・雛・マークス 橘内ひなた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-104"
+  },
+  {
+    "id": 173782,
+    "IDcode": "FJIN-105",
+    "title": "洗脳啓発まいんどふぁっかー 第参回「書いた物が物を言う「催●契約書」かく語りき。不感症で巨乳なんてもったいない」 似鳥日菜",
     "year": "",
     "country": "",
     "genre": "",
@@ -270,758 +1988,115 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/c5b792d5/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744752"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-105"
   },
   {
-    "id": 183066,
-    "IDcode": "FC2PPV-4744774",
-    "title": "在东京服装界工作的Sara酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/8c384b42/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744774"
-  },
-  {
-    "id": 183060,
-    "IDcode": "FC2PPV-4744883",
-    "title": "与一位被愚蠢丈夫虐待的已婚妇女重逢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/a2deff92/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744883"
-  },
-  {
-    "id": 183102,
-    "IDcode": "FC2PPV-4745269",
-    "title": "巨乳色情BODY美女2人与3P中出SEX",
+    "id": 173791,
+    "IDcode": "FJIN-106",
+    "title": "息子ほど年の離れたバイト先の男子学生達と一泊二日の温泉旅行に来た美熟女パート主婦は優しくて欲求不満で…俺たちみんな36歳パート主婦まみさんのガチ恋勢 長瀬麻美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "少妇"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/bf2ce1f464209bcb4c6115460b32f42f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745269"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-106"
   },
   {
-    "id": 184595,
-    "IDcode": "FC2PPV-4745324",
-    "title": "极品整洁苗条美人妻小百合3P",
+    "id": 173855,
+    "IDcode": "FJIN-107",
+    "title": "乳首こねくり失禁 敏感な乳首を開発されてお漏らし失禁癖がエスカレートしたJ系は白目アヘ顔絶頂し…三葉やよい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-107"
+  },
+  {
+    "id": 173822,
+    "IDcode": "FJIN-108",
+    "title": "キメセクの巣 アヘ顔オホ声連発！！オイルまみれガンギマリFUCK！！椿りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-108"
+  },
+  {
+    "id": 521055,
+    "IDcode": "FJIN054 20",
+    "title": "20歳天然油乳温泉密着！小坂ひまりのむちむち身体で浴衣からはみ出る生々しい肉弾三昧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250920-1/1a6b24606c67c688b339f6bd3799c4e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN054 20"
+  },
+  {
+    "id": 99170,
+    "IDcode": "FJL-008",
+    "title": "女装レズエステ 人材リサイクル課 女装レズ係 特別研修編 竹内紗里奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "美容院",
+      "姐姐",
+      "女同性恋",
+      "女装人妖"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/6baaa38b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745324"
-  },
-  {
-    "id": 181600,
-    "IDcode": "FC2PPV-4745328",
-    "title": "极品苗条性欲受挫的淫荡熟女惠子小姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/7efe819e/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745328"
-  },
-  {
-    "id": 179258,
-    "IDcode": "FC2PPV-4745333",
-    "title": "干净利落的剃光超纤细美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
+    "company": "",
+    "publish_date": "2014-03-29",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745333"
+    "actress": [
+      "竹内纱里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJL-008"
   },
   {
-    "id": 183056,
-    "IDcode": "FC2PPV-4745371",
-    "title": "中出实验",
+    "id": 561131,
+    "IDcode": "FJPK-001",
+    "title": "J系パコパコ001 J系マニアが选んだ超ウブでスケベな激レア！！（秘）円光映像 おまたのゆる～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240414/HKbIT2HN/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745371"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJPK-001"
   },
   {
-    "id": 186164,
-    "IDcode": "FC2PPV-4745529",
-    "title": "D罩杯纤细身材的水濑酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-09",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/6e0b0577/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745529"
-  },
-  {
-    "id": 183053,
-    "IDcode": "FC2PPV-4745587",
-    "title": "拥有火箭般巨乳和粉嫩乳头的女高中生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/d6449a5f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745587"
-  },
-  {
-    "id": 184196,
-    "IDcode": "FC2PPV-4745637",
-    "title": "H罩杯OL下班后来找我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-08-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745637"
-  },
-  {
-    "id": 527507,
-    "IDcode": "FC2PPV-4745975",
-    "title": "【个撮・野外フェラ&amp;セックス】〈超美人の介护レディ&gt;至れり尽くせり、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250826-1/afbee43c5de8d909307097a7ff788397.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745975"
-  },
-  {
-    "id": 527508,
-    "IDcode": "FC2PPV-4746060",
-    "title": "【肉食Sギャル】クラブでナンパした巨乳Sッ気ギャルとクラブトイレでxxxお持ち帰りフ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250826-1/134cc199fb643a003ae9a4eefaaea8a1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746060"
-  },
-  {
-    "id": 183027,
-    "IDcode": "FC2PPV-4746064",
-    "title": "喜欢大屌的快感狂野女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746064"
-  },
-  {
-    "id": 183265,
-    "IDcode": "FC2PPV-4746070",
-    "title": "大多数男人都对她那紧致曲线玲珑的身体感到兴奋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/25/95e36420/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746070"
-  },
-  {
-    "id": 183262,
-    "IDcode": "FC2PPV-4746182",
-    "title": "一位身材苗条的黑发美女意外被射精而且还是巨量内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746182"
-  },
-  {
-    "id": 183274,
-    "IDcode": "FC2PPV-4746202",
-    "title": "调情高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746202"
-  },
-  {
-    "id": 183260,
-    "IDcode": "FC2PPV-4746345",
-    "title": "H罩杯丰满少女诱惑男友用大量中出让他一次又一次地高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/25/a9196e2d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746345"
-  },
-  {
-    "id": 183261,
-    "IDcode": "FC2PPV-4746389",
-    "title": "白皙苗条美女空姐Cosplay变身4P性奴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746389"
-  },
-  {
-    "id": 184663,
-    "IDcode": "FC2PPV-4746392",
-    "title": "在夜店遇到的漂亮女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746392"
-  },
-  {
-    "id": 183276,
-    "IDcode": "FC2PPV-4746837",
-    "title": "我用甜蜜的中出性爱安慰了她",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4746837"
-  },
-  {
-    "id": 527530,
-    "IDcode": "FC2PPV-4747086",
-    "title": "モ无/フェラ/□り/ 18歳ユウカちゃん・ふとした瞬间に大胆に",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250824-1/7b4ff3aa8d7a135bfd12296152328b47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747086"
-  },
-  {
-    "id": 184170,
-    "IDcode": "FC2PPV-4747200",
-    "title": "脸小身材好的漂亮小姐姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/8013d297/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747200"
-  },
-  {
-    "id": 184160,
-    "IDcode": "FC2PPV-4747357",
-    "title": "天真的童颜的业余摄影师24岁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/12e16f15/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747357"
-  },
-  {
-    "id": 184144,
-    "IDcode": "FC2PPV-4747433",
-    "title": "开朗可爱的D杯女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/b0c76141/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747433"
-  },
-  {
-    "id": 185033,
-    "IDcode": "FC2PPV-4747469",
-    "title": "F罩杯美胸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/ef8aeae8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747469"
-  },
-  {
-    "id": 185050,
-    "IDcode": "FC2PPV-4747572",
-    "title": "昔日偶像创造奇迹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/2d6498d8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747572"
-  },
-  {
-    "id": 184305,
-    "IDcode": "FC2PPV-4747789",
-    "title": "拥有黑色长发的漂亮偶像少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747789"
-  },
-  {
-    "id": 184384,
-    "IDcode": "FC2PPV-4747857",
-    "title": "无脂乳男士按摩女郎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/568597f0b5c0617b8e861192443d8ab3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4747857"
-  },
-  {
-    "id": 527435,
-    "IDcode": "FC2PPV-4748662",
-    "title": "【初撮】美巨乳の可爱い美人が3Pで乱れる！巨根2本に突かれまくり、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250830-1/fba1e4d2c14346f561a8f8edc7413246.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4748662"
-  },
-  {
-    "id": 184333,
-    "IDcode": "FC2PPV-4748684",
-    "title": "拥有奇迹般柔韧度的美人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4748684"
-  },
-  {
-    "id": 184322,
-    "IDcode": "FC2PPV-4748901",
-    "title": "与黑濑教授的第二次秘密约会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4748901"
-  },
-  {
-    "id": 184395,
-    "IDcode": "FC2PPV-4749065",
-    "title": "她们的身体在产后非常敏感",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/69bcb5f955493f2f37941bd0162005ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749065"
-  },
-  {
-    "id": 184389,
-    "IDcode": "FC2PPV-4749192",
-    "title": "黑色情趣护士制服",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/d1e57b0c97b2830f228d69571645f623.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749192"
-  },
-  {
-    "id": 185062,
-    "IDcode": "FC2PPV-4749494",
-    "title": "按摩妹太漂亮了让我射了很多精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/5a21a6d7245bdd0a005bc7850aec68b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749494"
-  },
-  {
-    "id": 185067,
-    "IDcode": "FC2PPV-4749728",
-    "title": "性格阴郁的素人",
+    "id": 545505,
+    "IDcode": "FJPK-002",
+    "title": "J系パコパコ002 円光だけのつもりが中出しついでに映像まで撮らせてくれたww 素人J系のスケ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1029,1016 +2104,898 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/d39545d3ec77a0d321918b2e3569551b.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240514/lEK6P2Io/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749728"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJPK-002"
   },
   {
-    "id": 186135,
-    "IDcode": "FC2PPV-4749795",
-    "title": "极品火箭H杯巨乳",
+    "id": 462362,
+    "IDcode": "FJPK-003",
+    "title": "J系抽插003 令和的可愛J系們超淫蕩性愛！！素人限定罕見映像！4名325分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e058261572686be773df3e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJPK-003"
+  },
+  {
+    "id": 462535,
+    "IDcode": "FJPK-004",
+    "title": "J系抽插004 朗報☆難見到的！素人個人攝影◆神美OOJ系的無套抽插動畫GET！！【18禁】打槍注意w淫蕩可愛◆炮友4名整理325分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c285eb67774efbb8f54d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJPK-004"
+  },
+  {
+    "id": 525529,
+    "IDcode": "FJPK-005",
+    "title": "J系パコパコ005 円光J系の贵重な生ハメ动画！若さだけが取柄のぴちぴちマ●コがおじさんのチ●",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240814/2Ayr8YZz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJPK-005"
+  },
+  {
+    "id": 174687,
+    "IDcode": "FKAW-004",
+    "title": "無許可でドピュ!フェラうま素人娘にいきなり口内射精!4 18名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749795"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKAW-004"
   },
   {
-    "id": 524566,
-    "IDcode": "FC2PPV-4749953",
-    "title": "【永久保存版】ネイリストの美巨乳の子と大手メーカー経理部の地味な子とラン交パ",
+    "id": 63598,
+    "IDcode": "FKOU-001",
+    "title": "筋肉マニアの肛門性交八神のえみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "凌辱",
+      "单体作品",
+      "插入异物",
+      "多P",
+      "肛交",
+      "讲师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250924-1/5df1c09e872aa7c4225f62bfa8611b6a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749953"
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1ad63735bb663f762e57a/cover.jpg",
+    "actress": [
+      "八神乃惠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-001"
   },
   {
-    "id": 186179,
-    "IDcode": "FC2PPV-4749992",
-    "title": "公司最美下属经理酒后带她去酒店",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4749992"
-  },
-  {
-    "id": 185020,
-    "IDcode": "FC2PPV-4750117",
-    "title": "G罩杯巨乳制服妹",
+    "id": 4896,
+    "IDcode": "FKOU-002",
+    "title": "アナルをぼっこぼこにされた顔面優等生アヘ顔2穴五段活用 花狩まい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "少女",
+      "清楚系",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "女學生",
+      "口爆",
+      "美臀",
+      "文藝女",
+      "亂交 • 群P",
+      "單體作品",
+      "二穴同入",
+      "眼鏡",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "按摩棒",
+      "M男・M女",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "輪姦",
+      "女僕制服",
+      "口交",
+      "校花",
+      "潮吹",
+      "魔鬼系",
+      "清純",
+      "女上位",
+      "後入",
+      "JK校服",
+      "肛交",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-03",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750117"
-  },
-  {
-    "id": 527200,
-    "IDcode": "FC2PPV-4750130",
-    "title": "おどおど初めての精液采取❤素朴な地元产* 衣叶(20歳 Dカップ)追撃ハメ撮り！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250917-1/e59b59c5cb17cee6f2286fad4921f01d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750130"
-  },
-  {
-    "id": 185038,
-    "IDcode": "FC2PPV-4750193",
-    "title": "粉红色的紧致阴道被生生插入",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68aea01081bce592e9c18d86/cover.jpg",
+    "actress": [
+      "花狩舞",
+      "岩下たろう"
     ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/6f1420f9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750193"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-002"
   },
   {
-    "id": 185074,
-    "IDcode": "FC2PPV-4750542",
-    "title": "G罩杯巨乳的性感开关",
+    "id": 4904,
+    "IDcode": "FKOU-003",
+    "title": "汚部屋住民に媚薬漬けにされ、アナルSEX依存化。隣人ガチャに、失敗した人妻。八神のえみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/0c464091575b29bd619a3c79a7d47ec8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750542"
-  },
-  {
-    "id": 184688,
-    "IDcode": "FC2PPV-4750553",
-    "title": "虔诚的年轻妻子被变成了肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/6b131831/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750553"
-  },
-  {
-    "id": 185036,
-    "IDcode": "FC2PPV-4750594",
-    "title": "性感舞蹈教练",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750594"
-  },
-  {
-    "id": 186128,
-    "IDcode": "FC2PPV-4750595",
-    "title": "拥有美乳丰臀的精英高中女生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750595"
-  },
-  {
-    "id": 527420,
-    "IDcode": "FC2PPV-4750610",
-    "title": "【番外编・女同士】熟する手前の若妻2人 そして、攻守交替してバイブ挿入で絶顶へ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250831-1/5ec7788b0ff8d702a3404cc1ed05238f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750610"
-  },
-  {
-    "id": 185053,
-    "IDcode": "FC2PPV-4750671",
-    "title": "巨乳超美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "少女",
+      "清楚系",
+      "鬼畜片",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "打屁股",
+      "亂交 • 群P",
+      "單體作品",
+      "野性",
+      "美臀",
+      "深喉",
+      "二穴同入",
       "人妻",
-      "巨乳"
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "劇情",
+      "調教",
+      "家庭主妇",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "M男・M女",
+      "辣妹/GAL系",
+      "苗條",
+      "變態",
+      "美人妻",
+      "顏射",
+      "若妻",
+      "刺青紋身",
+      "媚藥・迷藥",
+      "插入異物",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "乳釘、穿孔、乳環",
+      "吞精",
+      "巨尻",
+      "口交",
+      "肌肉",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "性感",
+      "跳蛋",
+      "寢取",
+      "3P・4P",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/82290a99/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750671"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628094704354354_thumbnail.webp",
+    "actress": [
+      "八神乃惠美",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-003"
   },
   {
-    "id": 184997,
-    "IDcode": "FC2PPV-4750684",
-    "title": "出轨的妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750684"
-  },
-  {
-    "id": 527406,
-    "IDcode": "FC2PPV-4750699",
-    "title": "【83】ガチ◯◯卫生士がお仕事终わりにセックスしにやってきた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250901-1/0cb1b0298fce758648534a941125699f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750699"
-  },
-  {
-    "id": 185017,
-    "IDcode": "FC2PPV-4750702",
-    "title": "可爱与性感的巅峰之作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/e19dbaec/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750702"
-  },
-  {
-    "id": 185026,
-    "IDcode": "FC2PPV-4750707",
-    "title": "喷奶释放欲望45岁丰满人妻",
+    "id": 62043,
+    "IDcode": "FKOU-004",
+    "title": "ROSE 贖罪アナル薔薇トリアム 池内遥",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "单体作品",
+      "插入异物",
+      "OL",
+      "多P",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/afa221e9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750707"
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/689975ed55337d7f7bd1fbd7/cover.jpg",
+    "actress": [
+      "池内遥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-004"
   },
   {
-    "id": 185041,
-    "IDcode": "FC2PPV-4750727",
-    "title": "和朋友做爱的美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750727"
-  },
-  {
-    "id": 527407,
-    "IDcode": "FC2PPV-4750733",
-    "title": "特典！【肉便器と化したマミコの后背位调⚪︎！逝ってもイっても突かれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250901-1/bd60c6c21929898026e614728ac6ed8d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750733"
-  },
-  {
-    "id": 185296,
-    "IDcode": "FC2PPV-4750969",
-    "title": "隔壁房间的投诉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/246c52262ef901afb289c3560078cad2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750969"
-  },
-  {
-    "id": 185230,
-    "IDcode": "FC2PPV-4751055",
-    "title": "运动部锻炼出来的紧致身材",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751055"
-  },
-  {
-    "id": 527419,
-    "IDcode": "FC2PPV-4751066",
-    "title": "】アイドルｘ２・初心者レイヤー特别フェラチオ３SETレ●ラム",
+    "id": 2226,
+    "IDcode": "FKOU-005",
+    "title": "【有給休暇はアナル解禁】 あおい23歳 片道2時間10分 地方零細OLさん あおい藍",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质"
+      "真實拍攝",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "拘束・拷問",
+      "口爆",
+      "SM",
+      "二穴同入",
+      "亂交 • 群P",
+      "單體作品",
+      "深喉",
+      "重口味",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "調教",
+      "按摩棒",
+      "淫蕩・硬核",
+      "M男・M女",
+      "企畫",
+      "顏射",
+      "插入異物",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "解禁作",
+      "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "清純",
+      "女上位",
+      "OL",
+      "白眼失神",
+      "後入",
+      "跳蛋",
+      "3P・4P",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250831-1/711136fedcf67102eb22304d19c2f953.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751066"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "あおい藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-005"
   },
   {
-    "id": 185248,
-    "IDcode": "FC2PPV-4751119",
-    "title": "从事美容行业的漂亮妻子",
+    "id": 173876,
+    "IDcode": "FKOU-006",
+    "title": "肛門ハ〇スクール 学校帰りにタコ部屋居残り浣腸無麻酔による2穴拡張言語道断 海野いくら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-006"
   },
   {
-    "id": 527212,
-    "IDcode": "FC2PPV-4751235",
-    "title": "【潜入调查】 スレンダーで里オプ确定のあのセラピ ガードの缓いこ",
+    "id": 189332,
+    "IDcode": "FKRU-001",
+    "title": "フェラ活ギャルビッチ！ 乙アリス",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250916-1/b95e849a165f15bd29d1227e36bf74be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751235"
-  },
-  {
-    "id": 184691,
-    "IDcode": "FC2PPV-4751355",
-    "title": "偷偷和性欲旺盛的打工女学生发生性关系",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/8ce965c81c4068ea53e7a30111123c14.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751355"
-  },
-  {
-    "id": 185234,
-    "IDcode": "FC2PPV-4751440",
-    "title": "美腿高挑纤细美少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751440"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-001"
   },
   {
-    "id": 185295,
-    "IDcode": "FC2PPV-4751534",
-    "title": "超级可爱F罩杯巨乳18岁少女",
+    "id": 444242,
+    "IDcode": "FKRU-002",
+    "title": "初めてのアナル舐められ恥じらいJ系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250828-1/4ef4cd32b317110689f526f33214a6ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-002"
+  },
+  {
+    "id": 7263,
+    "IDcode": "FKRU-003",
+    "title": "讓我舔你吧臭老頭！臭老頭勾搭的女孩給她來一炮 ~ 星野夏月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "少女",
+      "豐滿",
+      "蠻橫嬌羞",
+      "獵豔",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "過膝襪・小腿襪",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "叛逆少女",
+      "高顏值",
+      "飯店",
+      "企畫",
+      "顏射",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "校花",
+      "蘿莉",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
+    "company": "妄想族",
+    "publish_date": "2025-03-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20250326/4d62dc0a-323a-4ef8-9343-0ea8a8a68ad6.jpg",
+    "actress": [
+      "星乃夏月"
     ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/54e0ff138fce52d15b98c183d46ba077.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751534"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-003"
   },
   {
-    "id": 186187,
-    "IDcode": "FC2PPV-4751544",
-    "title": "与40多岁已婚女性美铃的婚外情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/057d4252180c6c86c2b825f6f6f826fc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751544"
-  },
-  {
-    "id": 186158,
-    "IDcode": "FC2PPV-4751586",
-    "title": "白皙肌肤纤细的美胸还有饱满的蜜桃臀的尊贵女士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751586"
-  },
-  {
-    "id": 186161,
-    "IDcode": "FC2PPV-4751636",
-    "title": "对穿水手服的女人进行灌肠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/c20e3b63/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751636"
-  },
-  {
-    "id": 186141,
-    "IDcode": "FC2PPV-4751638",
-    "title": "内射训练4中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/35363be5/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751638"
-  },
-  {
-    "id": 524586,
-    "IDcode": "FC2PPV-4751684",
-    "title": "※榨乳あり【巨尻选手権】鸣〇长〇Icupまりなちゃんの巨尻上手く触れた人が中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250905-1/cbf412a8bebb665b730706a384e65045.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751684"
-  },
-  {
-    "id": 186140,
-    "IDcode": "FC2PPV-4751686",
-    "title": "拥有洋娃娃般容貌的18岁少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/23223918/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751686"
-  },
-  {
-    "id": 186155,
-    "IDcode": "FC2PPV-4751782",
-    "title": "一位酷炫的超S级混血美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/bbbddcf4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751782"
-  },
-  {
-    "id": 186186,
-    "IDcode": "FC2PPV-4751834",
-    "title": "气质优雅的播音员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/8f506674f04bdd19c1093e2f115f0e08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751834"
-  },
-  {
-    "id": 527300,
-    "IDcode": "FC2PPV-4751882",
-    "title": "底なしの性欲モンスター人妻 ゆみさん 久しぶりのおチ○ポが気持ち良す",
+    "id": 7129,
+    "IDcode": "FKRU-004",
+    "title": "初次臀部舔舐羞恥體驗：J系萌妹2 ~ 桜木美音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "清楚系",
+      "美腳",
+      "女學生",
+      "臀控",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "色白",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "校花",
+      "潮吹",
+      "清純",
+      "誘騙女性",
+      "女上位",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250911-1/42b15cc89e12ac508473415d6e60a82a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751882"
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6896525355337d7f7babb0c4/cover.jpg",
+    "actress": [
+      "桜木美音",
+      "ラヴズ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-004"
   },
   {
-    "id": 186172,
-    "IDcode": "FC2PPV-4751887",
-    "title": "超可爱Cosplayer的激烈夜战性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/5a8cbae4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751887"
-  },
-  {
-    "id": 186341,
-    "IDcode": "FC2PPV-4752079",
-    "title": "宛如偶像声优般的可爱美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/9c253c32/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4752079"
-  },
-  {
-    "id": 181293,
-    "IDcode": "FC2PPV-4753513",
-    "title": "身上散发着清新香味的苗条女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/22/6d8cb6d19ab937b13ac14fc7d17b5430.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4753513"
-  },
-  {
-    "id": 184709,
-    "IDcode": "FC2PPV-4753521",
-    "title": "终极偶像脸庞的美人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/4547e9b26dae3ea1d3670f8b29639c6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4753521"
-  },
-  {
-    "id": 184658,
-    "IDcode": "FC2PPV-4753693",
-    "title": "高学历的女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/50b6da9a/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4753693"
-  },
-  {
-    "id": 184705,
-    "IDcode": "FC2PPV-4753720",
-    "title": "疯狂的性爱体验",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/eaa048005ede666a903b22175fd72fbf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4753720"
-  },
-  {
-    "id": 184597,
-    "IDcode": "FC2PPV-4753903",
-    "title": "在工作日的白天尽情享受其他男人的棒棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4753903"
-  },
-  {
-    "id": 184623,
-    "IDcode": "FC2PPV-4754017",
-    "title": "巨屌快感瞬间NTR",
+    "id": 69372,
+    "IDcode": "FKRU-005",
+    "title": "ナースコールでおっぱいまみれ爆乳看護の入院生活 姫咲はな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "淫妻"
+      "恋乳癖",
+      "护士",
+      "巨乳",
+      "单体作品",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754017"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250711-1/2499f26b91926d7cf6c5e0ba98289380.jpg",
+    "actress": [
+      "姫咲華",
+      "ラヴズ",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-005"
   },
   {
-    "id": 527311,
-    "IDcode": "FC2PPV-4754052",
-    "title": "フェラチオ口内発射(19歳のハルカちゃんパート２\\)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754052"
-  },
-  {
-    "id": 184626,
-    "IDcode": "FC2PPV-4754076",
-    "title": "F罩杯内衣被挤压后过紧的淫荡女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-12",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754076"
-  },
-  {
-    "id": 184689,
-    "IDcode": "FC2PPV-4754463",
-    "title": "超苗条少女潜入日式房间",
+    "id": 457921,
+    "IDcode": "FKRU-006",
+    "title": "嗅いでみる？無洗ムレムレ女体臭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/c40f9192/vod.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250711-1/eeccb1ac42f3c41fc482c3b994606035.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754463"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-006"
   },
   {
-    "id": 184624,
-    "IDcode": "FC2PPV-4754481",
-    "title": "肤色白皙的爆乳和巨乳的好朋友两人组",
+    "id": 6856,
+    "IDcode": "FKRU-007",
+    "title": "「おじさん舐めさせて！」 臭いおじさん逆ナンパ即尺2 逢月ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "老頭子",
+      "美腳",
+      "女學生",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "重口味",
+      "舔陰",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "美少女",
+      "過膝襪・小腿襪",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "高顏值",
+      "黑絲",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "校花",
+      "慾求不滿",
+      "清純",
+      "女上位",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250413/20250413112611456456.jpg",
+    "actress": [
+      "逢月日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-007"
+  },
+  {
+    "id": 67362,
+    "IDcode": "FKRU-008",
+    "title": "ガニ股痙攣イキ 足腰ガクガク連続アクメ中だし生徒指導 透美かなた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "恋物癖",
+      "中出",
+      "校服",
+      "高"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "透美かなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-008"
+  },
+  {
+    "id": 198785,
+    "IDcode": "FKRU-009",
+    "title": "初めてのアナル舐められ 恥じらいJ系3 天馬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-009"
+  },
+  {
+    "id": 5581,
+    "IDcode": "FKRU-010",
+    "title": "フェラ活ギャルビッチ！2 高瀬りな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "主觀視角",
+      "高妹",
+      "兔女郎妝扮",
+      "口爆",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "明星臉",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "高顏值",
+      "企畫",
+      "素人作品",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "4K",
+      "情趣內衣",
+      "女上位",
+      "後入",
+      "性感",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042524101101_thumbnail.webp",
+    "actress": [
+      "高瀬りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-010"
+  },
+  {
+    "id": 5036,
+    "IDcode": "FKRU-011",
+    "title": "聞聞看？無洗悶騷女體香2 ~ 胡桃櫻花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "二次元",
+      "女學生",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "巨乳",
+      "校花",
+      "4K",
+      "女上位",
+      "後入",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688da9e6c92318f97d49fd2f/cover.jpg",
+    "actress": [
+      "胡桃櫻花",
+      "ラヴズ",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-011"
+  },
+  {
+    "id": 4660,
+    "IDcode": "FKRU-012",
+    "title": "強●中だしメンズエステ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "素股",
+      "美腳",
+      "高妹",
+      "臀控",
+      "美臀",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "劇情",
+      "抹油",
+      "按摩・美容店",
+      "美少女",
+      "苗條",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "風俗娘",
+      "乳交",
+      "4K",
+      "清純",
+      "按摩女郎",
+      "女上位",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103824485485_27112_thumbnail.webp",
+    "actress": [
+      "木下日葵",
+      "幾田真知"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-012"
+  },
+  {
+    "id": 3495,
+    "IDcode": "FKRU-013",
+    "title": "嗅いでみる？無洗ムレムレ女体臭3 尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "少女",
+      "蠻橫嬌羞",
+      "獵豔",
+      "美腳",
+      "私房攝影",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "搭訕",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "辦公室",
+      "接吻",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "乳交",
+      "4K",
+      "女上位",
+      "OL",
+      "大奶头",
+      "性感",
+      "肛交",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032240250250_27172_thumbnail.webp",
+    "actress": [
+      "尾崎惠梨香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-013"
+  },
+  {
+    "id": 181522,
+    "IDcode": "FKRU-014",
+    "title": "初めてのアナル舐められ 恥じらいJ系4 高瀬りな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-014"
+  },
+  {
+    "id": 409871,
+    "IDcode": "FLAA-25",
+    "title": "もしも僕が透明人間だったら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b448a65fdaf263a25d256c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAA-25"
+  },
+  {
+    "id": 560306,
+    "IDcode": "FLAB-006",
+    "title": "下品なオナホ颜でジュボジュボしゃぶりつく！フェラチオが上手すぎる素人娘10名6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240927/hhAIg5Kr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAB-006"
+  },
+  {
+    "id": 531632,
+    "IDcode": "FLAV-116",
+    "title": "日焼けあと 素人グラマラスボディー（）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240314-1/a09509f2882ceeeb08cf5cd516143694.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-116"
+  },
+  {
+    "id": 572378,
+    "IDcode": "FLAV-198",
+    "title": "诱惑アスリート 巨乳デカ尻ブルマー クビレ肉感ヒップ100cm 水野朝阳 new",
     "year": "",
     "country": "",
     "genre": "",
@@ -2046,125 +3003,333 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "DIGITALARK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/4c610adb/vod.jpg",
+    "cover_url": "https://pic37.anzise.com/pic/20221019/6b7b0377333456cca7c0b618b8454c53/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754481"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-198"
   },
   {
-    "id": 180728,
-    "IDcode": "FC2PPV-4754487",
-    "title": "冲击变形夫妇J杯火箭巨乳美女奥様",
+    "id": 83083,
+    "IDcode": "FLAV-234",
+    "title": "HYPER FETISH ハイレグいやらしクィーン 葉月美音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/6a04edf740d6f4ac60a596b7bd20347a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-234"
+  },
+  {
+    "id": 81570,
+    "IDcode": "FLAV-239",
+    "title": "ベロチュー大好き変態デカ尻スク水女子校生ぶっかけ倶楽部 高美はるか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e2efd8d2632cd5e12efef2d416f25074.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-239"
+  },
+  {
+    "id": 566402,
+    "IDcode": "FLAV-294",
+    "title": "悩杀淫乱バニーガールは肉食系マゾ痴女ビッチ 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f3f54283efee1f9310fefcd363a43ef4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-294"
+  },
+  {
+    "id": 566401,
+    "IDcode": "FLAV-302",
+    "title": "HYPER FETISH ハイレグいやらしクィーン 佐伯由美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8b980884b943c8f6cb79aea574947f53.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-302"
+  },
+  {
+    "id": 348007,
+    "IDcode": "FLAV-303",
+    "title": "诱惑ご奉仕ドスケベメイドは発情マゾ痴女ビッチ ご主人様専属ムッチムチデカ尻ギャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250602/i7Hib1vl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-303"
+  },
+  {
+    "id": 348008,
+    "IDcode": "FLAV-304",
+    "title": "诱惑ご奉仕ドスケベメイドは発情マゾ痴女ビッチ ご主人様専属ぷっくり卑猥乳轮デカ尻ギャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250602/aPLtI8wH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-304"
+  },
+  {
+    "id": 566400,
+    "IDcode": "FLAV-306",
+    "title": "HYPER FETISH 诱惑バニーガールはドスケベ小悪魔痴女 木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e107febcd9fed64cfa740f7858d922dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-306"
+  },
+  {
+    "id": 566399,
+    "IDcode": "FLAV-307",
+    "title": "ドスケベ女子校生快楽中毒デカ尻性欲モンスター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/61b40989590eeec6521b35512a6710ea.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-307"
+  },
+  {
+    "id": 566398,
+    "IDcode": "FLAV-310",
+    "title": "ドスケベアスリート女子校生快楽中毒デカ尻性欲モンスター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/16361680e061f8b6fab0a4cc8d1dbaab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-310"
+  },
+  {
+    "id": 564792,
+    "IDcode": "FLAV-313",
+    "title": "HYPER FETISH ハイレグいやらしクィーン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230120/ND4pLynU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-313"
+  },
+  {
+    "id": 222269,
+    "IDcode": "FLAV-315",
+    "title": "荡妇兔女郎-若宮はずき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-315"
+  },
+  {
+    "id": 67439,
+    "IDcode": "FLAV-316",
+    "title": "肉感爆乳-美波もも",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "荡妇",
+      "巨乳",
+      "恋乳癖",
+      "单体作品",
+      "连裤袜",
+      "高中女生",
+      "运动短裤"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "DIGITALARK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/58c20ee7/vod.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/16f30e241814edbdce3badb21b551320.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754487"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-316"
   },
   {
-    "id": 184616,
-    "IDcode": "FC2PPV-4754559",
-    "title": "已婚女性在从事性行业前接受培训",
+    "id": 564471,
+    "IDcode": "FLAV-322",
+    "title": "ドスケベトレーニングママの発情诱惑デカ尻フィットネス",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "DIGITALARK",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230505/N5e5I9VR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754559"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-322"
   },
   {
-    "id": 184665,
-    "IDcode": "FC2PPV-4754567",
-    "title": "混血19岁JD",
+    "id": 564382,
+    "IDcode": "FLAV-323",
+    "title": "HYPER FETISH ハイレグいやらしクィーン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "DIGITALARK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/e1449132/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230521/N2YzSa7W/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754567"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-323"
   },
   {
-    "id": 181612,
-    "IDcode": "FC2PPV-4754649",
-    "title": "美乳牙医25岁的助理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754649"
-  },
-  {
-    "id": 184603,
-    "IDcode": "FC2PPV-4754669",
-    "title": "错过末班车的170cm完美身材美女",
+    "id": 549146,
+    "IDcode": "FLAV-324",
+    "title": "ドスケベ女子校生敏感早漏オマ○コ快楽中毒エロ尻潮吹きビッチギャル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230521/qAE848UL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-324"
+  },
+  {
+    "id": 549077,
+    "IDcode": "FLAV-325",
+    "title": "変态デカ尻アスリートは仆达の性欲処理肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230604/tGSsq25E/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-325"
+  },
+  {
+    "id": 564190,
+    "IDcode": "FLAV-326",
+    "title": "変态デカ尻フィットネスママは仆达の性欲処理肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230627/DNAQ5a3H/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-326"
+  },
+  {
+    "id": 564143,
+    "IDcode": "FLAV-327",
+    "title": "変态デカ尻女子校生は仆达の性欲処理肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230703/vE3jdcDE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-327"
+  },
+  {
+    "id": 443080,
+    "IDcode": "FLAV-328",
+    "title": "乳首ビンビンドスケベデカ尻スイミングママは僕達の性欲処理肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4754669"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-328"
+  },
+  {
+    "id": 548758,
+    "IDcode": "FLAV-329",
+    "title": "ドスケベ黒ギャル女子校生快楽中毒デカ尻性欲モンスター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230717/0IZtVmRt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-329"
+  },
+  {
+    "id": 405839,
+    "IDcode": "FLAV-330",
+    "title": "変態デカ尻フィットネスママは僕達の性欲処理肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DIGITALARK",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-330"
   }
 ];

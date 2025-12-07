@@ -1,5 +1,438 @@
 window.PAGE_DATA = [
   {
+    "id": 82222,
+    "IDcode": "CAWD-073",
+    "title": "雪白巨乳美肌女优-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "乳交",
+      "乳房",
+      "感谢祭",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-073"
+  },
+  {
+    "id": 82246,
+    "IDcode": "CAWD-075",
+    "title": "宅男的我-根尾あか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "美少女电影",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-075"
+  },
+  {
+    "id": 82281,
+    "IDcode": "CAWD-079",
+    "title": "巨乳痴女-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "处男",
+      "美少女电影",
+      "巨乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-079"
+  },
+  {
+    "id": 107243,
+    "IDcode": "CAWD-091",
+    "title": "禁断不倫 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "接吻",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://pic21.anzise.com/pic/20220331/4cf4ef1951a3a4054ec8f0e7f08f0d53/1.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-091"
+  },
+  {
+    "id": 173970,
+    "IDcode": "CAWD-101",
+    "title": "温泉内射旅行见证巨乳AV女优伊藤舞雪在两年间的变化",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-101"
+  },
+  {
+    "id": 210202,
+    "IDcode": "CAWD-109",
+    "title": "爆乳痴女子-稲場るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-109"
+  },
+  {
+    "id": 211718,
+    "IDcode": "CAWD-172",
+    "title": "巨乳女子-初愛ねんね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-172"
+  },
+  {
+    "id": 86818,
+    "IDcode": "CAWD-175",
+    "title": "巨乳誘惑-百田くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "乳交",
+      "接吻",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/5c936593e8ce3db0cbbee573113f9dea.jpg",
+    "actress": [
+      "百田胡桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-175"
+  },
+  {
+    "id": 535455,
+    "IDcode": "CAWD-219",
+    "title": "[日本] 绀野美衣奈破坏版AV～可爱巨乳女大生在跳阿波舞时被男伴盯上了！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-219"
+  },
+  {
+    "id": 594792,
+    "IDcode": "CAWD-220",
+    "title": "在出差地点拼房 被精力旺盛上司不断插入… 沉迷部长持续爱抚和浓厚SEX的巨乳新妻OL 朝仓心奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-220"
+  },
+  {
+    "id": 593966,
+    "IDcode": "CAWD-222",
+    "title": "居然和霸凌我的同期巨乳女社员出差住同房",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-222"
+  },
+  {
+    "id": 86828,
+    "IDcode": "CAWD-268",
+    "title": "姉妹で見た目も性格も正反対なのに好みは一緒！？彼女の妹（Gcup！！）と怖いもの知らずの声我慢エッチッチ 結城りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "流汗",
+      "乳交",
+      "妹妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/89992c4f526cf306f45383567181fa56.jpg",
+    "actress": [
+      "浅宫ちなつ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-268"
+  },
+  {
+    "id": 84041,
+    "IDcode": "CAWD-271",
+    "title": "新人巨乳OL-水原みその",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "巨乳",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-271"
+  },
+  {
+    "id": 79600,
+    "IDcode": "CAWD-274",
+    "title": "俺をゴミクズ扱いしイジめた野球部マネージャーがデリヘル嬢に成り下がり…ククッ！錆びついた俺のバットで特濃中出し大逆転ホームランを打ってやった話。 深月めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2021-08-25",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/23dd40801a006aae982bf23097b45337.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-274"
+  },
+  {
+    "id": 79658,
+    "IDcode": "CAWD-281",
+    "title": "「円周率100桁言えます！」ノリよし！笑顔よし！将来先生かAV女優かお悩み中！ 理学部に通うエロかしこい現役女子大生‘森玲奈’ AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "首次亮相",
+      "4K",
+      "美少女电影",
+      "女大学生",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2021-10-05",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/7488be9e50d59ac29e6d03a7750b70b5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-281"
+  },
+  {
+    "id": 79730,
+    "IDcode": "CAWD-285",
+    "title": "我是来强奸你的-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "手淫",
+      "接吻",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-285"
+  },
+  {
+    "id": 79665,
+    "IDcode": "CAWD-294",
+    "title": "結婚式直前パーソナルジムNTR 彼にはない男らしさと細マッチョの肉体に魅せられ性欲解消するまで中出ししまくった絶倫性交 三舩みすず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫妻",
+      "中出",
+      "出轨",
+      "戏剧",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-294"
+  },
+  {
+    "id": 84081,
+    "IDcode": "CAWD-297",
+    "title": "ママの血を引き継ぐ手淫技！満足するまで笑顔で男たちを弄ぶ制服小悪魔サラブレッドチクビッチ 泉あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "M男",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-297"
+  },
+  {
+    "id": 86880,
+    "IDcode": "CAWD-305",
+    "title": "娇媚的肉体角度-有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "巨大屁股",
+      "4K",
+      "胖女人",
+      "接吻",
+      "局部特写"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/773976ef1001eeeef0676b126111d4d3.jpg",
+    "actress": [
+      "有村希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-305"
+  },
+  {
+    "id": 80222,
+    "IDcode": "CAWD-309",
+    "title": "大奶子AV首秀-真宮ともか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "首次亮相",
+      "纪录片",
+      "潮吹",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/20241202/QCbb1fmv/1.jpg",
+    "actress": [
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-309"
+  },
+  {
+    "id": 80197,
+    "IDcode": "CAWD-313",
+    "title": "同僚女子社員-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "OL",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-313"
+  },
+  {
     "id": 84043,
     "IDcode": "CAWD-321",
     "title": "有气味的治疗师-伊藤舞雪",
@@ -7,20 +440,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "中出",
       "巨乳",
+      "中出",
       "女上位",
+      "乳液",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -38,18 +465,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "礼仪小姐",
-      "巨乳",
       "乳交",
-      "接吻"
+      "接吻",
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -65,20 +486,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
       "口交",
       "巨乳",
       "接吻",
-      "颜射"
+      "颜射",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ad82599190a355d2c5b37b84d56c51de.jpg",
     "actress": [
@@ -94,19 +509,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "苗条",
       "美少女电影",
-      "巨乳"
+      "巨乳",
+      "苗条",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -124,21 +533,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
+      "单体作品",
       "乳交",
       "无码破解",
       "中出",
-      "巨乳",
-      "淫语",
-      "单体作品"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -154,20 +557,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
+      "淫乱，真实",
       "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3d26cd3482467b6d62402b2f92cb9071.jpg",
     "actress": [
@@ -183,21 +580,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "乳交",
-      "拘束",
-      "美少女电影",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "美少女电影",
+      "淫乱，真实",
+      "拘束"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -211,21 +602,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "巨大阴茎",
-      "OL",
-      "白天出轨",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "苗条",
+      "OL",
+      "巨大阴茎",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -241,21 +626,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "乳交",
-      "女教师",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出",
+      "女教师",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -271,21 +650,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "单体作品",
-      "主观视角",
       "巨乳",
+      "苗条",
+      "接吻",
       "淫语",
-      "接吻"
+      "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -300,19 +673,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "多P",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/bb76aa1b49e50d1264cc18e937afa6fb.jpg",
     "actress": [
@@ -330,21 +697,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "乳交",
       "中出",
-      "两女一男",
-      "巨乳",
-      "女上位"
+      "淫乱，真实",
+      "女上位",
+      "两女一男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -361,22 +722,16 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "屁股",
-      "4K",
-      "无码破解",
-      "中出",
-      "妹妹",
       "巨乳",
-      "接吻"
+      "屁股",
+      "无码破解",
+      "4K",
+      "中出",
+      "接吻",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -393,23 +748,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
       "荡妇",
-      "多P",
-      "无码破解",
-      "中出",
       "巨乳",
-      "兔女郎",
-      "美容院"
+      "中出",
+      "无码破解",
+      "按摩",
+      "多P",
+      "美容院",
+      "兔女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/079dc4db2b4eafdf63fa667403abb856.jpg",
     "actress": [
@@ -427,20 +776,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "接吻",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "潮吹",
+      "中出",
+      "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2022-07-05",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a70018f060c0c11af026e9940495edaf.jpg",
     "actress": [
@@ -456,21 +799,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "多P",
-      "偶像",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "潮吹",
+      "偶像",
+      "淫乱，真实",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2022-08-02",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/dd32c7351a1065fca8785b21f7e82666.jpg",
     "actress": [
@@ -486,20 +823,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "美少女电影",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "美少女电影",
+      "淫乱，真实",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2022-08-02",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/76d92ddc092862cb37f54f5acfb90e49.jpg",
     "actress": [
@@ -515,21 +846,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "OL",
-      "乳交",
-      "白天出轨",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "OL",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2022-08-02",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/9769f9bcae797caad6c1c2f7e3faa6d9.jpg",
     "actress": [
@@ -546,19 +871,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乳交",
       "巨乳",
-      "淫语",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/2e29dbe6a7b43473fb75c623875b4484.jpg",
     "actress": [],
@@ -572,22 +891,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "白天出轨",
-      "无码破解",
-      "中出",
       "巨乳",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "无码破解",
+      "中出",
+      "出轨",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/8c8fe28c5d2e26ff6c871423e38c15b2.jpg",
     "actress": [
@@ -603,21 +916,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "乳交",
-      "首次亮相",
       "巨乳",
+      "单体作品",
+      "首次亮相",
+      "乳交",
       "颜射",
-      "单体作品"
+      "巨大阴茎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2022-09-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/420eb2f8a8733ecd2892488fe1f69d4b.jpg",
     "actress": [
@@ -634,19 +941,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乳交",
       "童年朋友",
-      "中出",
-      "巨乳"
+      "巨乳",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/3d4973aa7bafe2f3c5d00f3a33aa2af4.jpg",
     "actress": [
@@ -664,21 +965,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "4K",
-      "戏剧",
-      "白天出轨",
-      "中出",
       "巨乳",
-      "接吻"
+      "中出",
+      "4K",
+      "接吻",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7fe743d6972716f105ac/cover.jpg",
     "actress": [
@@ -695,20 +990,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "戏剧",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "接吻"
+      "接吻",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -726,20 +1015,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "戏剧",
-      "中出",
-      "制服",
       "巨乳",
-      "接吻"
+      "中出",
+      "戏剧",
+      "接吻",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2023-02-03",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/6eefdc959067133a81316ef25eeb0bd7.jpg",
     "actress": [
@@ -755,21 +1038,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "荡妇",
-      "中出",
+      "单体作品",
       "巨乳",
+      "中出",
       "淫语",
       "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -785,21 +1062,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "OL",
-      "白天出轨",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "OL",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -815,23 +1086,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "NTR",
-      "淫妻",
-      "白天出轨",
-      "美少女电影",
       "巨乳",
       "单体作品",
-      "高中女生"
+      "淫妻",
+      "美少女电影",
+      "高中女生",
+      "苗条",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682859e65d899f636104a701/cover.jpg",
     "actress": [
@@ -851,13 +1116,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a62ee89def9b1b80daf68/cover.jpg",
     "actress": [],
@@ -871,26 +1130,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "中出",
+      "無碼破解",
+      "苗條",
       "角色扮演",
       "美少女電影",
       "游戲COSPLAY",
-      "JK校服",
-      "COSPLAY服飾",
       "兔女郎妝扮",
-      "中出",
       "白眼失神",
-      "巨乳",
-      "無碼破解",
-      "苗條"
+      "JK校服",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230913/20230913041636437437.jpg",
     "actress": [
@@ -907,21 +1160,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
+      "单体作品",
       "乳交",
       "中出",
       "美少女电影",
-      "巨乳",
-      "单体作品"
+      "淫乱，真实"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -938,22 +1185,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "OL",
-      "苗條",
-      "中出",
       "巨乳",
       "女同事",
-      "酒醉"
+      "中出",
+      "4K",
+      "酒醉",
+      "苗條",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002221424418418.jpg",
     "actress": [
@@ -969,21 +1210,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "乳交",
-      "情侣",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出",
+      "情侣",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -999,23 +1234,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "荡妇",
-      "4K",
-      "戏剧",
-      "无码破解",
-      "中出",
+      "单体作品",
       "巨乳",
-      "接吻"
+      "无码破解",
+      "4K",
+      "中出",
+      "接吻",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1031,26 +1260,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
+      "口交",
       "風俗娘",
-      "青梅竹馬",
+      "巨乳",
       "中出",
       "飯店",
-      "蕩婦",
-      "巨乳",
-      "性感",
-      "口交",
       "苗條",
-      "劇情"
+      "美少女電影",
+      "蕩婦",
+      "劇情",
+      "青梅竹馬",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104084445158158.jpg",
     "actress": [
@@ -1066,20 +1289,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "多P",
-      "中出",
       "巨乳",
-      "女上位"
+      "中出",
+      "女上位",
+      "美少女電影",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222931685685.jpg",
     "actress": [
@@ -1095,20 +1312,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "護士",
-      "中出",
-      "蕩婦",
       "巨乳",
-      "女上位"
+      "中出",
+      "護士",
+      "女上位",
+      "蕩婦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231202/7eab3b1f-af15-4d6b-a690-447c75f6f402.jpg",
     "actress": [
@@ -1125,29 +1336,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女學生",
-      "老頭子",
-      "美少女",
-      "淫亂",
-      "強姦",
-      "JK校服",
-      "中出",
-      "制服",
-      "變態",
-      "巨乳",
       "口交",
+      "凌辱",
+      "巨乳",
+      "老頭子",
+      "強姦",
+      "淫亂",
+      "中出",
+      "女奴",
+      "變態",
+      "女學生",
       "劇情",
-      "女奴"
+      "JK校服",
+      "制服",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67880051478d611da775233e/cover.jpg",
     "actress": [
@@ -1163,27 +1368,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "美少女電影",
-      "女學生",
-      "艷遇",
+      "勾引・誘惑",
+      "巨乳",
+      "職員",
       "美少女",
       "乳交",
-      "勾引・誘惑",
       "中出",
-      "巨乳",
-      "性感",
+      "美少女電影",
+      "女學生",
       "劇情",
-      "職員"
+      "艷遇",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104083348960960.jpg",
     "actress": [
@@ -1199,36 +1398,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女優訪談",
-      "3P・4P",
-      "女學生",
-      "兩女一男",
-      "粉絲福利",
-      "苗條",
-      "雙飛",
       "拘束・拷問",
-      "羞恥",
-      "口交",
+      "粉絲福利",
+      "女學生",
       "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "COSPLAY服飾",
+      "兩女一男",
+      "3P・4P",
+      "舔陰",
       "中出",
-      "企畫",
+      "劇情",
       "絕頂高潮",
       "女優",
-      "舔陰",
+      "企畫",
+      "苗條",
+      "羞恥",
+      "雙飛",
+      "口交",
+      "巨乳",
       "乳交",
-      "劇情"
+      "女優訪談",
+      "性感",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231105/b026a4f7-8fb4-4223-956c-4100ccba828b.jpg",
     "actress": [
@@ -1245,27 +1438,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "兩女一男",
-      "淫亂",
       "雙飛",
-      "乱伦",
-      "純粹的慾望",
-      "中出",
-      "姐姐・妹妹",
-      "巨乳",
       "口交",
+      "巨乳",
+      "乱伦",
+      "淫亂",
+      "女友・妻子",
+      "中出",
+      "情趣內衣",
+      "純粹的慾望",
+      "姐姐・妹妹",
       "劇情",
-      "情趣內衣"
+      "兩女一男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231203/1afdf18d-a5f4-4dec-a598-3864f8ed8ba9.jpg",
     "actress": [
@@ -1283,22 +1470,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "慾求不滿",
       "巨乳",
-      "企畫",
-      "苗條",
       "絕頂高潮",
-      "女優"
+      "慾求不滿",
+      "潮吹",
+      "女優",
+      "企畫",
+      "苗條"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4e7dac813dc779d96260/cover.jpg",
     "actress": [
@@ -1314,29 +1495,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "凌辱",
-      "女學生",
-      "美少女",
-      "手指插入",
-      "強姦",
-      "JK校服",
-      "原作改編",
-      "厠所",
-      "中出",
       "制服",
-      "巨乳",
       "口交",
-      "劇情"
+      "凌辱",
+      "巨乳",
+      "強姦",
+      "中出",
+      "厠所",
+      "女學生",
+      "原作改編",
+      "手指插入",
+      "劇情",
+      "JK校服",
+      "濕身",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787fc7bf9a2e9b1d4a531cb/cover.jpg",
     "actress": [
@@ -1352,22 +1527,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "口交",
+      "巨乳",
       "出軌",
       "中出",
       "蕩婦",
-      "巨乳",
-      "口交",
-      "劇情"
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e575cc7de28f4ede7ed7f4/cover.jpg",
     "actress": [
@@ -1384,23 +1553,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "OL",
-      "偷竊",
-      "出軌",
       "巨乳",
+      "出軌",
+      "偷竊",
       "女上司",
+      "OL",
       "劇情",
-      "接吻"
+      "接吻",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044222717717.jpg",
     "actress": [
@@ -1416,35 +1579,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "多P",
+      "出軌",
+      "亂交 • 群P",
       "兩女一男",
       "溫泉",
-      "出差",
-      "飯店",
-      "OL",
-      "勾引・誘惑",
-      "女同",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "NTR",
       "淫亂",
-      "出軌",
       "中出",
       "劇情",
-      "女同事"
+      "勾引・誘惑",
+      "女同",
+      "女同事",
+      "飯店",
+      "艷遇",
+      "出差",
+      "口交",
+      "巨乳",
+      "OL",
+      "多P",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
     "actress": [
@@ -1463,44 +1620,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
+      "少女",
+      "出軌",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "空姐",
       "美少女",
       "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "出軌",
-      "中出",
-      "後入",
-      "空姐制服",
-      "少女",
-      "不倫",
       "絕頂高潮",
-      "空姐",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "乳交",
+      "女同事",
+      "飯店",
+      "苗條",
       "黑絲",
-      "女上位",
+      "手指插入",
       "騎乗位",
-      "女同事"
+      "制服",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "空姐制服",
+      "自慰",
+      "胸控・戀乳癖",
+      "女上位",
+      "後入",
+      "性感",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/202403011054484444.jpg",
     "actress": [
@@ -1516,39 +1667,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "口爆",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
+      "蘿莉控",
+      "姐姐・妹妹",
+      "口爆",
+      "深喉",
+      "舔陰",
+      "中出",
       "自宅",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "乱伦",
+      "苗條",
+      "手指插入",
+      "騎乗位",
       "美乳",
       "口交",
       "巨乳",
-      "性感",
       "潮吹",
-      "深喉",
-      "內衣",
-      "中出",
-      "姐姐・妹妹",
-      "少女",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "乱伦",
       "乳交",
-      "無毛",
-      "蘿莉控",
-      "騎乗位"
+      "自慰",
+      "內衣",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093227397397.jpg",
     "actress": [
@@ -1565,38 +1710,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "苗條",
-      "放尿",
-      "美少女",
-      "拘束・拷問",
-      "胸控・戀乳癖",
-      "美乳",
-      "監禁",
-      "過膝襪・小腿襪",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
+      "拘束・拷問",
+      "淫亂",
+      "中出",
+      "美少女",
+      "過膝襪・小腿襪",
       "絕頂高潮",
       "女優",
-      "手指插入",
+      "苗條",
       "黑絲",
-      "監獄"
+      "手指插入",
+      "監獄",
+      "美乳",
+      "口交",
+      "巨乳",
+      "監禁",
+      "胸控・戀乳癖",
+      "內衣",
+      "放尿",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301064450862862.jpg",
     "actress": [
@@ -1613,24 +1752,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "美少女",
-      "出道作",
-      "出道作品",
-      "中出",
-      "巨乳",
-      "企畫",
       "口交",
-      "女優"
+      "巨乳",
+      "出道作",
+      "中出",
+      "女優",
+      "企畫",
+      "美少女電影",
+      "出道作品",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204072321935935.jpg",
     "actress": [
@@ -1646,43 +1779,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "接吻",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
       "出道作",
-      "乳交",
-      "女上位",
+      "女優",
+      "飯店",
+      "苗條",
+      "顏射",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301092545200200.jpg",
     "actress": [
@@ -1698,45 +1825,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "放尿",
-      "凌辱",
-      "鄰居",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "監禁",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
       "少女",
+      "凌辱",
+      "拘束・拷問",
+      "女學生",
       "SM",
-      "劇情",
-      "絕頂高潮",
+      "淫亂",
+      "鄰居",
+      "中出",
       "美少女電影",
-      "手指插入",
-      "無毛",
+      "自宅",
+      "劇情",
       "調教",
-      "女上位"
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "強姦",
+      "緊縛",
+      "苗條",
+      "手指插入",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "監禁",
+      "潮吹",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "放尿",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a2f5fac813dc779d96114/cover.jpg",
     "actress": [
@@ -1752,46 +1873,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "放尿",
+      "少女",
       "凌辱",
-      "美少女",
-      "JK校服",
-      "胸控・戀乳癖",
+      "脅迫做愛",
+      "女學生",
+      "舔陰",
+      "中出",
+      "美少女電影",
       "自宅",
-      "美乳",
+      "調教",
+      "美少女",
       "過膝襪・小腿襪",
       "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "跳蛋",
-      "潮吹",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
       "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "自慰",
       "無毛",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "脅迫做愛",
-      "調教",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "放尿",
+      "後入",
+      "JK校服",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bdd62a47ebb1a8b4bfc3/cover.jpg",
     "actress": [
@@ -1807,39 +1922,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "女學生",
-      "飯店",
-      "美少女",
-      "JK校服",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "過膝襪・小腿襪",
-      "口交",
-      "巨乳",
-      "性感",
-      "潮吹",
+      "舔陰",
       "淫亂",
       "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "舔陰",
       "美少女電影",
-      "手指插入",
+      "美少女",
+      "過膝襪・小腿襪",
+      "絕頂高潮",
       "無毛",
+      "飯店",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330084913560560.jpg",
     "actress": [
@@ -1855,34 +1964,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
+      "少女",
       "深喉",
       "淫亂",
-      "內衣",
       "中出",
-      "少女",
+      "美少女",
+      "按摩棒",
       "絕頂高潮",
       "女優",
+      "飯店",
+      "苗條",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "女上位"
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093054147147.jpg",
     "actress": [
@@ -1898,45 +2001,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
-      "美少女",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
       "少女",
       "美臀",
+      "出道作品",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "美少女",
+      "按摩棒",
       "絕頂高潮",
       "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
+      "企畫",
+      "飯店",
+      "苗條",
       "69",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301092618516516.jpg",
     "actress": [
@@ -1953,46 +2050,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
       "少女",
+      "美腳",
       "美臀",
+      "出道作品",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女",
+      "按摩棒",
       "絕頂高潮",
       "女優",
-      "舔陰",
+      "企畫",
+      "苗條",
+      "飯店",
       "手指插入",
-      "乳交",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "制服",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093022542542.jpg",
     "actress": [
@@ -2008,52 +2099,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "女友・妻子",
-      "巨尻",
+      "出軌",
       "多P",
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "模特兒",
+      "女友・妻子",
       "飯店",
       "苗條",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "模特兒",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "美少女電影",
       "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "泳裝",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/16/68271a2ffd7201c48dd96e4d/cover.jpg",
     "actress": [
@@ -2069,48 +2154,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "苗條",
-      "女業務",
-      "美少女",
-      "美腳",
-      "飯店小姐・援交妹",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
+      "美腳",
+      "身體換業務",
       "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "自宅",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "女業務",
+      "絕頂高潮",
       "無毛",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "飯店小姐・援交妹",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位",
-      "身體換業務"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503031500555555.jpg",
     "actress": [
@@ -2126,39 +2205,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "女學生",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "比基尼",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
       "飯店",
       "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "比基尼",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
       "手指插入",
-      "無毛",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/9e6aa5d278f3c3fae0b3bf3577774d7c.jpg",
     "actress": [
@@ -2174,45 +2247,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "拘束・拷問",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "跳蛋",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
+      "拘束・拷問",
+      "女學生",
       "美臀",
-      "絕頂高潮",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "自宅",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
       "無毛",
-      "乳交",
-      "女上位",
+      "強姦",
+      "緊縛",
+      "苗條",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/8821db78c19a3fe3a1af0a8d758e15b4.jpg",
     "actress": [
@@ -2229,46 +2296,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "飯店",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
+      "高妹",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
+      "舔陰",
       "淫亂",
       "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
       "美少女電影",
-      "手指插入",
-      "高妹",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "白絲",
       "無毛",
-      "乳交",
-      "女上位",
+      "女優",
+      "飯店",
+      "苗條",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/2071c94e828f488d8965970f6ea74ba7.jpg",
     "actress": [
@@ -2285,33 +2346,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "美少女",
-      "主觀視角",
-      "女上位",
-      "乳交",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "中出",
-      "蕩婦",
       "巨乳",
-      "企畫",
-      "性感",
-      "後入",
-      "偷拍・盜撮",
       "絕頂高潮",
-      "女優"
+      "主觀視角",
+      "乳交",
+      "中出",
+      "偷拍・盜撮",
+      "色白",
+      "企畫",
+      "女優",
+      "女上位",
+      "美少女電影",
+      "胸控・戀乳癖",
+      "蕩婦",
+      "後入",
+      "性感",
+      "形象俱樂部",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503232139631631.jpg",
     "actress": [
@@ -2327,41 +2382,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
+      "少女",
+      "美腳",
+      "美臀",
+      "出道作品",
+      "舔陰",
+      "中出",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
       "飯店",
       "苗條",
-      "美少女",
-      "美腳",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "內衣",
-      "女主持・主播",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
       "手指插入",
-      "無毛",
+      "騎乗位",
+      "泳裝",
+      "美乳",
+      "女主持・主播",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330085618432432.jpg",
     "actress": [
@@ -2378,42 +2427,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "飯店",
-      "苗條",
-      "美少女",
+      "少女",
       "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
       "兩男一女",
       "淫亂",
-      "內衣",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
+      "美少女",
+      "按摩棒",
       "絕頂高潮",
-      "女優",
-      "手指插入",
       "無毛",
+      "女優",
+      "企畫",
+      "苗條",
+      "飯店",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-04-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330084747560560.jpg",
     "actress": [
@@ -2429,35 +2472,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "出軌",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
       "M男・M女",
       "苗條",
-      "美少女",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
       "形象俱樂部",
-      "淫亂",
-      "內衣",
-      "出軌",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
+      "美乳",
+      "口交",
+      "巨乳",
+      "宅男・宅女",
       "女上位",
-      "宅男・宅女"
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628001317247247.jpg",
     "actress": [
@@ -2473,35 +2510,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "網襪",
-      "美少女",
       "美腳",
+      "網襪",
       "癡女",
-      "強姦",
-      "羞恥",
-      "色白",
-      "自宅",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
+      "小姨子",
       "中出",
-      "美腿",
       "美少女電影",
-      "乱伦",
+      "自宅",
       "劇情",
+      "美少女",
+      "強姦",
+      "乱伦",
+      "色白",
       "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美腿",
+      "口交",
+      "巨乳",
       "情趣內衣",
-      "小姨子"
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67879d51c179ffb1db907d27/cover.jpg",
     "actress": [
@@ -2518,41 +2549,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "純粹的慾望",
-      "慾求不滿",
-      "飯店",
-      "苗條",
-      "美少女",
+      "蠻橫嬌羞",
       "美腳",
       "癡女",
-      "純愛・戀愛",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "蠻橫嬌羞",
       "中出",
-      "後入",
-      "美腿",
-      "絕頂高潮",
       "美少女電影",
-      "手指插入",
-      "69",
+      "接吻",
       "劇情",
-      "騎乗位"
+      "美少女",
+      "絕頂高潮",
+      "女友・妻子",
+      "色白",
+      "飯店",
+      "苗條",
+      "69",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "純愛・戀愛",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503083520194194.jpg",
     "actress": [
@@ -2568,47 +2593,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "按摩・美容店",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
+      "美腳",
+      "女學生",
       "美臀",
-      "劇情",
-      "絕頂高潮",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "劇情",
+      "按摩・美容店",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
       "無毛",
-      "乳交",
-      "按摩・物理治療・美容",
+      "苗條",
       "黑絲",
-      "女上位",
+      "按摩・物理治療・美容",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/3f0d25ec44d0185a1d72ca9f6b48187b.jpg",
     "actress": [
@@ -2624,33 +2643,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "按摩・美容店",
+      "口交",
       "風俗娘",
-      "中囯服裝",
-      "美少女",
+      "巨乳",
       "乳交",
-      "胸控・戀乳癖",
-      "按摩・物理治療・美容",
+      "中出",
+      "中囯服裝",
       "色白",
       "按摩女郎",
-      "美乳",
-      "中出",
+      "美少女電影",
+      "胸控・戀乳癖",
+      "按摩・物理治療・美容",
       "蕩婦",
-      "口交",
-      "巨乳",
-      "性感",
       "劇情",
-      "抹油"
+      "抹油",
+      "性感",
+      "按摩・美容店",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240504/20240503231805383383.jpg",
     "actress": [
@@ -2666,31 +2679,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
       "感官作品",
-      "美少女電影",
-      "美少女",
-      "色白",
       "女主持・主播",
-      "猥褻穿著",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "巨乳",
-      "企畫",
-      "性感",
       "口交",
+      "巨乳",
+      "中出",
+      "色白",
+      "企畫",
+      "女優",
+      "猥褻穿著",
       "情趣內衣",
-      "女優"
+      "美少女電影",
+      "蕩婦",
+      "性感",
+      "形象俱樂部",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240531/202405310256224646.jpg",
     "actress": [
@@ -2707,30 +2714,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "口交",
+      "巨乳",
+      "絕頂高潮",
       "兩男一女",
-      "3P・4P",
-      "美少女電影",
-      "美少女",
-      "色白",
-      "美乳",
       "中出",
       "按摩棒",
-      "蕩婦",
-      "巨乳",
+      "色白",
       "企畫",
-      "口交",
-      "少女",
-      "絕頂高潮",
-      "女優"
+      "女優",
+      "美少女電影",
+      "蕩婦",
+      "美少女",
+      "3P・4P",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503093949454454.jpg",
     "actress": [
@@ -2746,43 +2747,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "M男・M女",
-      "飯店",
-      "放尿",
-      "美少女",
+      "少女",
       "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
       "兩男一女",
       "淫亂",
-      "內衣",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "女優",
       "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "女優",
+      "企畫",
+      "飯店",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "放尿",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-04-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330084836593593.jpg",
     "actress": [
@@ -2798,26 +2793,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "巨乳",
+      "美少女",
+      "中出",
       "護士",
       "美少女電影",
-      "美少女",
-      "素人",
-      "癡女",
       "口爆",
+      "劇情",
       "羞恥",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情"
+      "素人",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503094340427427.jpg",
     "actress": [],
@@ -2831,47 +2820,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
       "少女",
+      "美腳",
       "美臀",
-      "絕頂高潮",
-      "女優",
+      "出道作品",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
       "無毛",
       "出道作",
+      "色白",
+      "企畫",
+      "飯店",
+      "苗條",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503024033435435.jpg",
     "actress": [
@@ -2887,32 +2870,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "短髮",
-      "美少女電影",
-      "小隻馬",
-      "美少女",
+      "口交",
+      "巨乳",
+      "絕頂高潮",
       "無毛",
       "出道作",
-      "出道作品",
-      "網襪",
-      "美乳",
       "中出",
-      "蕩婦",
-      "巨乳",
+      "女優",
+      "網襪",
       "企畫",
-      "口交",
+      "美少女電影",
+      "蕩婦",
+      "小隻馬",
       "騎乗位",
-      "絕頂高潮",
-      "女優"
+      "出道作品",
+      "美少女",
+      "短髮",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503023208777777.jpg",
     "actress": [
@@ -2928,45 +2905,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "出道作品",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
       "飯店",
       "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
       "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
       "黑絲",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d5c2cf22ae3e04a02430/cover.jpg",
     "actress": [
@@ -2982,58 +2953,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "多P",
-      "兩女一男",
-      "慾求不滿",
-      "旅行",
-      "出差",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "OL",
-      "雙飛",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
+      "少女",
       "女上司",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
+      "美腳",
       "蕩婦",
       "姐姐・妹妹",
-      "企畫",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
       "美臀",
+      "亂交 • 群P",
+      "兩女一男",
+      "深喉",
+      "旅行",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
+      "劇情",
+      "美少女",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同事",
+      "企畫",
+      "飯店",
+      "苗條",
+      "顏射",
       "手指插入",
+      "艷遇",
+      "騎乗位",
+      "出差",
+      "形象俱樂部",
+      "美乳",
+      "脚控・戀足癖",
+      "雙飛",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位",
-      "女同事"
+      "胸控・戀乳癖",
+      "內衣",
+      "OL",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/10/67f75379cf22ae3e04fbfc59/cover.jpg",
     "actress": [
@@ -3051,1182 +3016,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "美腳",
       "更衣室",
       "女學生",
-      "純粹的慾望",
-      "美少女",
-      "美腳",
       "癡女",
-      "JK校服",
-      "純愛・戀愛",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
       "淫亂",
       "中出",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
       "美少女電影",
       "校園生活",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "學校",
+      "顏射",
+      "純粹的慾望",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
       "女上位",
-      "學校"
+      "純愛・戀愛",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802003735356356.jpg",
     "actress": [
       "設樂夕日"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-677"
-  },
-  {
-    "id": 14328,
-    "IDcode": "CAWD-680",
-    "title": "即使婚约破局也仍想继续的梦般大乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "多P",
-      "若妻",
-      "口爆",
-      "慾求不滿",
-      "流汗",
-      "美少女",
-      "美腳",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "聚會・PARTY",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "69",
-      "女上位",
-      "乱交",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531030932745745.jpg",
-    "actress": [
-      "佐々木みゆ",
-      "鲛岛",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-680"
-  },
-  {
-    "id": 12348,
-    "IDcode": "CAWD-681",
-    "title": "每次做愛，她的乳頭就硬起，陰道沸騰，衝向我，地味爆乳M女的下品的交配訓練 ~ 辻いまる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "M男・M女",
-      "緊縛",
-      "主觀視角",
-      "羞恥",
-      "眼鏡",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "企畫",
-      "SM",
-      "抹油",
-      "女優",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678960c35d57b64bfd9bcfc9/cover.jpg",
-    "actress": [
-      "辻いまる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-681"
-  },
-  {
-    "id": 13670,
-    "IDcode": "CAWD-693",
-    "title": "便利商店非钟点工人佐佐木美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "商店",
-      "職員",
-      "美少女",
-      "強姦",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "無毛",
-      "女上位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004041934934.jpg",
-    "actress": [
-      "佐々木みゆ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-693"
-  },
-  {
-    "id": 13669,
-    "IDcode": "CAWD-697",
-    "title": "AI被破解得讓人心煩意亂，想成爲人工智能研究員的小妹，有着極度高潮的覺醒高潮。赤名いと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "美少女",
-      "淫亂",
-      "羞恥",
-      "女上位",
-      "胸控・戀乳癖",
-      "內衣",
-      "美乳",
-      "中出",
-      "飯店",
-      "巨乳",
-      "亂交 • 群P",
-      "性感",
-      "少女",
-      "口交",
-      "劇情",
-      "絕頂高潮",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0edbac813dc779d95fab/cover.jpg",
-    "actress": [
-      "赤名いと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-697"
-  },
-  {
-    "id": 13690,
-    "IDcode": "CAWD-699",
-    "title": "新人！Kawaii首次亮相農村女孩川上しずく，充滿活力的農村女孩 AV 首次亮相",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美少女",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628001903377377.jpg",
-    "actress": [
-      "川上しずく"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-699"
-  },
-  {
-    "id": 12975,
-    "IDcode": "CAWD-701",
-    "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！VOL 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "真實拍攝",
-      "感謝祭",
-      "苗條",
-      "美少女",
-      "JK校服",
-      "真人秀",
-      "色白",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "大亂交",
-      "潮吹",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "綜藝",
-      "女上位",
-      "學校",
-      "乱交",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a93ee4a73d4f159aaee4/cover.jpg",
-    "actress": [
-      "天馬唯",
-      "柏木小夏",
-      "沙月惠奈",
-      "望月蕾",
-      "沙月芽衣",
-      "小野寺舞",
-      "日向夏",
-      "設樂夕日",
-      "觀月愛菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-701"
-  },
-  {
-    "id": 12974,
-    "IDcode": "CAWD-702",
-    "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "真實拍攝",
-      "感謝祭",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "真人秀",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "大亂交",
-      "潮吹",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "美少女電影",
-      "綜藝",
-      "女上位",
-      "學校",
-      "乱交",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a711e4a73d4f159aa8fb/cover.jpg",
-    "actress": [
-      "天馬唯",
-      "柏木小夏",
-      "沙月惠奈",
-      "望月蕾",
-      "沙月芽衣",
-      "小野寺舞",
-      "日向夏",
-      "觀月愛菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-702"
-  },
-  {
-    "id": 12248,
-    "IDcode": "CAWD-706",
-    "title": "交了一个温柔又稳定的男友-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "同事女友・妻子",
-      "在丈夫面前被操",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829231839759759.jpg",
-    "actress": [
-      "伊藤舞雪",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-706"
-  },
-  {
-    "id": 12351,
-    "IDcode": "CAWD-708",
-    "title": "看起来很成熟的女友妹妹-设乐悠日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "美少女",
-      "美腳",
-      "巨乳",
-      "口交",
-      "心機婊",
-      "形象俱樂部",
-      "NTR",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "乱伦",
-      "偷竊",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "小姨子"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830001549759759.jpg",
-    "actress": [
-      "設樂夕日"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-708"
-  },
-  {
-    "id": 12945,
-    "IDcode": "CAWD-718",
-    "title": "21发颜射在美少女脸上-小坂七香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "苗條",
-      "美少女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "紀念作",
-      "絕頂高潮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802000522995995.jpg",
-    "actress": [
-      "小坂七香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-718"
-  },
-  {
-    "id": 11687,
-    "IDcode": "CAWD-729",
-    "title": "性欲旺盛的前女友-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "純粹的慾望",
-      "慾求不滿",
-      "飯店",
-      "美少女",
-      "癡女",
-      "純愛・戀愛",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "短髮",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "前女友",
-      "女上位",
-      "丁字裤",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926063930863863.jpg",
-    "actress": [
-      "伊藤舞雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-729"
-  },
-  {
-    "id": 12330,
-    "IDcode": "CAWD-732",
-    "title": "新人出道！喜歡自慰的金發女子四年來第一次享受只有雞巴才能體驗的深度快感 AV DEBUT ~ 櫻木繪里香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "叛逆少女",
-      "飯店",
-      "辣妹/GAL系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美臀",
-      "女優",
-      "美少女電影",
-      "拜金女",
-      "出道作",
-      "黑絲",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "2024-09-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014351389389.jpg",
-    "actress": [
-      "櫻木繪里香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-732"
-  },
-  {
-    "id": 10314,
-    "IDcode": "CAWD-739",
-    "title": "看似普通的宅男朋友-設楽ゆうひ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "純粹的慾望",
-      "慾求不滿",
-      "飯店",
-      "網襪",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "眼鏡",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "猥褻穿著",
-      "文藝女",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣",
-      "宅男・宅女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787fa4a5d57b64bfd1a6110/cover.jpg",
-    "actress": [
-      "設樂夕日"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-739"
-  },
-  {
-    "id": 10964,
-    "IDcode": "CAWD-740",
-    "title": "嫉妒发狂的女性朋友-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "口爆",
-      "插入異物",
-      "報復",
-      "唾液敷面",
-      "感官作品",
-      "凌辱",
-      "流汗",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "大亂交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "舔腳",
-      "乳交",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/984140a5c9322164861ddbc44bf8f944.jpg",
-    "actress": [
-      "伊藤舞雪",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-740"
-  },
-  {
-    "id": 12246,
-    "IDcode": "CAWD-745",
-    "title": "新人出道！來自大阪的腰圍51cm、F罩杯上翹的曲線美少女緊急AV出道！ AV DEBUT ~ 日向理亞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "比基尼",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "抹油",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "2024-09-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829230159686686.jpg",
-    "actress": [
-      "日向理亜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-745"
-  },
-  {
-    "id": 11621,
-    "IDcode": "CAWD-746",
-    "title": "アイドルフェイスの裏に隠したもう一つの私…息苦しくてダークな世界 新人！kawaiiデビュー 桃瀬ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "M男・M女",
-      "口爆",
-      "性虐癖",
-      "打屁股",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "色白",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "SM",
-      "美臀",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "調教",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926070254189189.jpg",
-    "actress": [
-      "桃瀨日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-746"
-  },
-  {
-    "id": 10299,
-    "IDcode": "CAWD-749",
-    "title": "出道7年后终于完全了解女性身体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "巨尻",
-      "慾求不滿",
-      "美腳",
-      "癡女",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "舔陰",
-      "美少女電影",
-      "出道作",
-      "舔腳",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128090030583583.jpg",
-    "actress": [
-      "伊藤舞雪",
-      "田渊正浩",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-749"
-  },
-  {
-    "id": 10930,
-    "IDcode": "CAWD-757",
-    "title": "身バレ絶対NGのため1本限定販売！AV男優にイカされてみたくて応募してきたドスケベGカップ保育士さんデビュー 長門りほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "3P・4P",
-      "小隻馬",
-      "真實拍攝",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "兩男一女",
-      "短髮",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "抹油",
-      "女優",
-      "退休作品",
-      "清純",
-      "幼稚園老師",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/f61255cfa266f52a1161f026bb2ad55e.jpg",
-    "actress": [
-      "長門里穗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-757"
-  },
-  {
-    "id": 9438,
-    "IDcode": "CAWD-762",
-    "title": "和性感火辣的辣妹家教合体后-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "慾求不滿",
-      "家庭教師",
-      "苗條",
-      "辣妹/GAL系",
-      "美腳",
-      "癡女",
-      "自宅",
-      "美乳",
-      "處男",
-      "巨乳",
-      "口交",
-      "性感",
-      "心機婊",
-      "形象俱樂部",
-      "明星臉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "御姐系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/202501020742008383.jpg",
-    "actress": [
-      "伊藤舞雪",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-762"
-  },
-  {
-    "id": 10279,
-    "IDcode": "CAWD-766",
-    "title": "超爱笑的甜美技师-桃瀬ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "獵豔",
-      "小隻馬",
-      "美少女",
-      "中囯服裝",
-      "癡女",
-      "美腳",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "按摩・美容店",
-      "風俗娘",
-      "淫亂",
-      "COSPLAY服飾",
-      "按摩女郎",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "抹油",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "拜金女",
-      "乳交",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128103020796796.jpg",
-    "actress": [
-      "桃瀨日葵",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-766"
-  },
-  {
-    "id": 10298,
-    "IDcode": "CAWD-771",
-    "title": "【緊急AV発売】グラビアアイドル…それともAV女優…次世代グラビアスター 新人 天羽りりか AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "3P・4P",
-      "小隻馬",
-      "口爆",
-      "慾求不滿",
-      "真實拍攝",
-      "苗條",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "出道作品",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "寫真女郎",
-      "短髮",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "企畫",
-      "少女",
-      "模特兒",
-      "美臀",
-      "顏射",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "偶像",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128091854930930.jpg",
-    "actress": [
-      "天羽梨梨花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-771"
   }
 ];

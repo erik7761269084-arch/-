@@ -7,11 +7,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-02-29",
     "cover_url": "https://tuaskbgnekr.com/20241011/PKUh2NIW/1.jpg",
     "actress": [
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ed18a552c12b4e6848a7b4/cover.jpg",
     "actress": [],
@@ -45,11 +45,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241013/3JXy1YIB/1.jpg",
     "actress": [],
@@ -63,11 +63,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/v5eY7Zlo/1.jpg",
     "actress": [],
@@ -81,11 +81,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240514/DZZeiui6/1.jpg",
     "actress": [],
@@ -99,11 +99,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240715/Kx9BXihB/1.jpg",
     "actress": [],
@@ -117,11 +117,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240921/07fn9rS8/1.jpg",
     "actress": [],
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200716/348NTR-005.jpg",
     "actress": [],
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -189,7 +189,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2023-01-07",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/dbdc8261671b14949f24a9dbdb56c583.jpg",
     "actress": [],
@@ -198,7 +198,7 @@ window.PAGE_DATA = [
   {
     "id": 532637,
     "IDcode": "348NTR-047",
-    "title": "[] ＜F乳JDに胸粪中出し＞平穏な日々终了w金とデカチンで完堕ち！池袋のゲーセンで若いカップルを物色",
+    "title": "＜F乳JDに胸粪中出し＞平穏な日々终了w金とデカチンで完堕ち！池袋のゲーセンで若いカップルを物色",
     "year": "",
     "country": "",
     "genre": "",
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230523/pb_e_348ntr-047.jpg!320x216.jpg",
     "actress": [],
@@ -225,7 +225,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/07/06/5552a496094dfbb6d77cc4e21a7dd363.jpg",
     "actress": [],
@@ -242,7 +242,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241014/S2wykCbd/1.jpg",
     "actress": [],
@@ -256,11 +256,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241016/PbBJtLaQ/1.jpg",
     "actress": [],
@@ -274,17 +274,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "木曜日！全員集合！！",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_木曜日_全員集合",
-        "works_count": 45
-      }
-    ],
+    "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b79af36ac118189d02bdc8d8cd2e4052.jpg",
     "actress": [],
@@ -302,7 +296,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/21/64a2a37fb66b926de7b4e0994e7df2ed.jpg",
     "actress": [],
@@ -319,7 +313,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ec0be56bdf2bbe7bfc41c3995892e97c.jpg",
     "actress": [],
@@ -336,7 +330,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200210-1/5849e283754560745ba8c60d8558d359.jpg",
     "actress": [],
@@ -353,7 +347,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/e83afdd1/vod.jpg",
     "actress": [],
@@ -371,7 +365,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -389,7 +383,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240319/sgETEjvy/1.jpg",
     "actress": [],
@@ -403,11 +397,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240319/2GPeS6Ox/1.jpg",
     "actress": [],
@@ -424,7 +418,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240319/miIPJ2xj/1.jpg",
     "actress": [],
@@ -438,11 +432,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230728/x3mtDSZM/1.jpg",
     "actress": [],
@@ -456,11 +450,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230929/7jzHj7EJ/1.jpg",
     "actress": [],
@@ -474,11 +468,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231230/a4YE0kJ3/1.jpg",
     "actress": [],
@@ -492,11 +486,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240331/PucUbJba/1.jpg",
     "actress": [],
@@ -510,11 +504,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240727/UedaU3fv/1.jpg",
     "actress": [],
@@ -531,7 +525,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -545,11 +539,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -566,7 +560,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -583,7 +577,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -600,7 +594,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -617,7 +611,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240801/d7YS0ReY/1.jpg",
     "actress": [],
@@ -634,7 +628,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20240920/psslinT9/1.jpg?t=1726862299",
     "actress": [],
@@ -651,7 +645,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/YQe5Elbv/1.jpg",
     "actress": [],
@@ -668,7 +662,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/zFrqPV8P/1.jpg",
     "actress": [],
@@ -685,7 +679,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251001/sUc1hW7Z/1.jpg",
     "actress": [],
@@ -699,11 +693,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20241106/Ei5tvB7Q/1.jpg?t=1730947199",
     "actress": [],
@@ -717,11 +711,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20241106/Rv9gwIeN/1.jpg?t=1730947199",
     "actress": [],
@@ -735,11 +729,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241107/OVxBkFVL/1.jpg",
     "actress": [],
@@ -753,11 +747,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241108/yZDb7dFD/1.jpg",
     "actress": [],
@@ -771,11 +765,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c2e006b81af1f8538a87e/poster2.jpg",
     "actress": [],
@@ -789,11 +783,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -807,11 +801,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/79e0e92d81d8b0efefdfc090efae541a.jpg",
     "actress": [],
@@ -825,11 +819,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -843,11 +837,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/65f6912c7023732d8a9a9eb5a3f3a41b.jpg",
     "actress": [],
@@ -861,11 +855,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/e9e02ab8c18347038e2eb469dc1ca9ad.jpg",
     "actress": [],
@@ -879,11 +873,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/76785e65d8f987958dd56dabe5fb4408.jpg",
     "actress": [],
@@ -897,17 +891,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191019-1/c1fa50a687e3fb9d75ce310ae9afe9cd.jpg",
     "actress": [],
@@ -921,17 +909,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -945,17 +927,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230707/1616566577-pb_e_390jac-022.jpg!320x216.jpg",
     "actress": [],
@@ -969,17 +945,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "2022-12-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/def23fca025f25d386dc47e7efafd3a2.jpg",
     "actress": [],
@@ -993,17 +963,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "2023-04-09",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1017,17 +981,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/f843eb14e2c3ca299fd6e6d3c90d4533.jpg",
     "actress": [],
@@ -1041,17 +999,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1065,17 +1017,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/6150905a27b31d9fe7ec6c07bbdf25a9.jpg",
     "actress": [],
@@ -1089,17 +1035,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_390jac-155.jpg!320x216.jpg",
     "actress": [],
@@ -1113,17 +1053,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240228/pb_e_390jac-161.jpg!320x216.jpg",
     "actress": [],
@@ -1137,17 +1071,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1161,17 +1089,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/fTMbmHhP/1.jpg",
     "actress": [],
@@ -1185,17 +1107,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/jS2ZRCP8/1.jpg",
     "actress": [],
@@ -1209,17 +1125,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/bRsu5Fak/1.jpg",
     "actress": [],
@@ -1233,17 +1143,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ee9ab2bff98de413f146fbee2a830cba.jpg",
     "actress": [],
@@ -1257,17 +1161,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/988b083a686d43e2848e584dc6b7b12f.jpg",
     "actress": [],
@@ -1281,17 +1179,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/3AzFyXVR/1.jpg",
     "actress": [],
@@ -1305,18 +1197,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/TPdH0hik/1.jpg",
     "actress": [],
@@ -1330,17 +1216,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/ofskUbsA/1.jpg",
     "actress": [],
@@ -1354,17 +1234,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/jybeWCJm/1.jpg",
     "actress": [],
@@ -1379,17 +1253,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1403,17 +1271,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Jackson Stars",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Jackson_Stars",
-        "works_count": 161
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250718-1/5b633eafb62ee79e5f23f66d167845bd.jpg",
     "actress": [],
@@ -1430,13 +1292,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/c0465fbd2f8b7e54f22c0ba26435b674.jpg",
     "actress": [],
@@ -1453,13 +1309,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241228/V0SKrJC7/1.jpg",
     "actress": [],
@@ -1476,13 +1326,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/3c55135b2a8f8aba458e00039c90c6db.jpg",
     "actress": [],
@@ -1499,13 +1343,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230707/pb_e_390jnt-052.jpg!320x216.jpg",
     "actress": [],
@@ -1522,13 +1360,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231218/pb_e_390jnt-053.jpg!320x216.jpg",
     "actress": [],
@@ -1545,13 +1377,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240525/pb_e_390jnt-055.jpg!320x216.jpg",
     "actress": [],
@@ -1568,13 +1394,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241116/YQdt846u/1.jpg",
     "actress": [],
@@ -1591,13 +1411,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241117/NQvFXuer/1.jpg",
     "actress": [],
@@ -1615,13 +1429,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241117/1i7dmdZu/1.jpg",
     "actress": [],
@@ -1635,11 +1443,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/765c7f19331b255ef2f682db1e3e7a7d.jpg",
     "actress": [],
@@ -1653,11 +1461,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1671,11 +1479,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230415/pb_e_393otim-136.jpg!320x216.jpg",
     "actress": [],
@@ -1689,11 +1497,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/b0547187caed8a863ab81b78b38c2cc9.jpg",
     "actress": [],
@@ -1707,11 +1515,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241118/VytRQsSr/1.jpg",
     "actress": [],
@@ -1725,11 +1533,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241206/MrpoXIph/1.jpg",
     "actress": [],
@@ -1743,11 +1551,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241206/nwsqEAoS/1.jpg",
     "actress": [],
@@ -1761,11 +1569,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241206/FLJEaQSE/1.jpg",
     "actress": [],
@@ -1779,11 +1587,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241207/LACTtgki/1.jpg",
     "actress": [],
@@ -1800,7 +1608,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1817,7 +1625,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/37d32ded35ceaef8a21ba42e5c10807e.jpg",
     "actress": [],
@@ -1834,7 +1642,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dd10cfb011e5baef20180749f4816205.jpg",
     "actress": [],
@@ -1848,11 +1656,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c708890aac0e47368c588b8cf2a5ec6b.jpg",
     "actress": [],
@@ -1869,7 +1677,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/20/c076dbfdc0cbd34b1a459477f61d4136.jpg",
     "actress": [],
@@ -1886,7 +1694,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Heydouga",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20241118-1/41d2e9464e1ab5eeb7a5316bf70cdd66.jpg",
     "actress": [],
@@ -1903,7 +1711,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/22/93142b358dae4f7fc3f7ba76ccf3216f.jpg",
     "actress": [],
@@ -1920,7 +1728,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "Heydouga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1939,7 +1747,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "Heydouga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1953,17 +1761,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200312-1/2b5c90a4f7a03b274e00f75e27c31ef1.jpg",
     "actress": [],

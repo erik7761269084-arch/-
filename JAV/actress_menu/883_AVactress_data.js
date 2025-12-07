@@ -130,7 +130,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/886e8d3f/vod.jpg",
       "actress": [

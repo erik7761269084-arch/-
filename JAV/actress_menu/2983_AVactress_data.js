@@ -391,7 +391,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2015-03-01",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mimk030/mimk030pl.jpg",
       "actress": [
@@ -2819,7 +2819,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/3dd2aa7d38baefa13ecb6302ed9a06a2.jpg",
       "actress": [
@@ -4685,7 +4685,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/05/19/228ecfd89ff3fc37078dd5bbf6101412.jpg",
       "actress": [
@@ -5135,7 +5135,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/09/22/85c60f875c3d17ae880926ca679be480.jpg",
       "actress": [
@@ -5289,7 +5289,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/a288bbd4d5866b230c8926fca12fa6ae.jpg",
       "actress": [
@@ -5443,7 +5443,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787cb2c8daf6b1db43c33be/cover.jpg",
       "actress": [
@@ -5460,7 +5460,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202505/14/6824a7af66c0176549fc810f/cover.jpg",
       "actress": [
@@ -5716,7 +5716,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e6bbf54e7d663df4482f22/cover.jpg",
       "actress": [
@@ -5922,7 +5922,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/06/01/5742299ee6c4a8ff4e50a547bb8a3e12.jpg",
       "actress": [

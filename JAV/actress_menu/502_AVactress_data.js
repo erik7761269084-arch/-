@@ -82,7 +82,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "NEXT",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/25/7466475f551de4d0e778d898a0d93ec8.jpg",
       "actress": [
@@ -220,7 +220,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240706-1/0ed547766c7af09528ca792db1618ead.jpg",
       "actress": [

@@ -7,21 +7,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -37,20 +31,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "白天出轨",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "成熟的女人",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/0b306c8a4066cb7ee5b4505481e1b81c.jpg",
     "actress": [
@@ -66,21 +54,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
+      "已婚妇女",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/0162c9a2557ea0b7e309310cf23d9d84.jpg",
     "actress": [
@@ -96,21 +78,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/14/6874424d3ed39b57c0fa5756/cover.jpg",
     "actress": [
@@ -126,20 +102,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/a7aa00911db6862bd007d97e5a91dcc6.jpg",
     "actress": [
@@ -155,21 +125,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -186,21 +150,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/9e4ac6a1465acb6ad268effeabb5bd0e.jpg",
     "actress": [
@@ -216,20 +174,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/e4e775a72cefb0fd9e45753dcffc0d6c.jpg",
     "actress": [
@@ -245,21 +197,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250508-1/bedf7d81b63ab9714fe39e088b85fdc4.jpg",
     "actress": [
@@ -277,21 +223,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/d3ff0746e76e6321534db0fa2099f9cc.jpg",
     "actress": [
@@ -307,40 +247,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
       "多P",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "中出",
+      "絕頂高潮",
+      "乱伦",
       "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
       "亂倫",
       "美乳",
-      "巨乳",
       "口交",
-      "性感",
-      "熟女",
+      "巨乳",
       "潮吹",
-      "兩男一女",
-      "人妻",
-      "內衣",
-      "中出",
-      "後入",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "乱伦",
       "乳交",
-      "黑絲",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240213/6a667752-842e-464c-a70c-6af0f78407d1.jpg",
     "actress": [
@@ -357,21 +291,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -387,21 +315,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/29797101fd453e51428e2f39ad97e275.jpg",
     "actress": [
@@ -417,30 +339,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "人妻",
-      "熟女",
-      "手指插入",
-      "美腳",
-      "女上位",
-      "苗條",
-      "美乳",
+      "巨乳",
+      "口交",
+      "潮吹",
       "中出",
       "按摩棒",
+      "美腳",
+      "苗條",
+      "女上位",
+      "手指插入",
+      "熟女",
       "後入",
-      "巨乳",
+      "騎乗位",
       "性感",
-      "口交",
-      "騎乗位"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/23/68586d9f43d69727160fa276/cover.jpg",
     "actress": [
@@ -456,21 +372,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/7c23b4062220ad5cbf26a7e714a376d7.jpg",
     "actress": [
@@ -486,32 +396,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "熟女",
-      "舔陰",
-      "和服・浴衣・喪服",
-      "美少女",
-      "美腳",
-      "手指插入",
-      "女上位",
-      "溫泉",
-      "美乳",
-      "中出",
-      "後入",
-      "巨乳",
-      "性感",
       "少女",
+      "和服・浴衣・喪服",
+      "溫泉",
+      "巨乳",
+      "舔陰",
       "口交",
-      "苗條"
+      "潮吹",
+      "中出",
+      "美腳",
+      "苗條",
+      "女上位",
+      "手指插入",
+      "熟女",
+      "後入",
+      "性感",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/ae3087a8e20dfe1f95ed9251db483211.jpg",
     "actress": [
@@ -527,21 +431,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "巨大屁股",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/5d38004f17443365189148596fb63f71.jpg",
     "actress": [
@@ -557,21 +455,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/b54e22a3cfbf97dc212b6dd76f1958ab.jpg",
     "actress": [],
@@ -585,22 +477,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/2bc249be631d10234c4fa4baaf1d8a74.jpg",
     "actress": [
@@ -616,21 +502,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240315-1/40d027dbb0ddcef3d0af82f2c1cf1908.jpg",
     "actress": [
@@ -647,22 +527,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/932698ecf60a70f9a0c0dc1b87aed1de.jpg",
     "actress": [
@@ -678,21 +552,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686c9de83ed39b57c0aa4783/cover.jpg",
     "actress": [
@@ -708,21 +576,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/d425ec4e99f8d0dcc331c3ddd480369a.jpg",
     "actress": [
@@ -738,21 +600,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/d280df3e0428876363064a94c5159bd1.jpg",
     "actress": [
@@ -768,21 +624,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/94f9f7a76c9df2db0c32a061225d6712.jpg",
     "actress": [],
@@ -796,21 +646,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68ded4f3dbf24d4ed317b932/cover.jpg",
     "actress": [
@@ -827,21 +671,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
+      "已婚妇女",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/288a9d2e75b6c21ba857de8776e7cc9e.jpg",
     "actress": [],
@@ -855,21 +693,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/c16c9e81a38648be63960e199589fec2.jpg",
     "actress": [
@@ -885,21 +717,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
+      "已婚妇女",
       "单体作品",
-      "浴衣"
+      "浴衣",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250508-1/025c8c34650f6b09e485fbb1d32a19e6.jpg",
     "actress": [
@@ -916,21 +742,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -947,20 +767,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/23/68586e9743d69727160fb461/cover.jpg",
     "actress": [
@@ -976,20 +790,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/13cd4e16cf2abf0cc87d35b1b3a57b52.jpg",
     "actress": [
@@ -1005,21 +813,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/1ba109e387fb9c40d21f41a0542452ca.jpg",
     "actress": [
@@ -1035,20 +837,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250508-1/bfbb2f94040f1bf8fd5a0772a2080aed.jpg",
     "actress": [
@@ -1064,21 +860,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1095,22 +885,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
-      "白天出轨",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/28/685f170243d6972716524cc9/cover.jpg",
     "actress": [
@@ -1127,22 +911,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
-      "白天出轨",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/26492fb02a02ffaf25f3ff876d7e8ad8.jpg",
     "actress": [],
@@ -1156,20 +934,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/f5134578a843800c52968596c9a98836.jpg",
     "actress": [
@@ -1185,20 +957,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/021961a03f9d6c78b20183165e9bcf4a.jpg",
     "actress": [
@@ -1214,20 +980,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/4faeaeb64fba63838812c4bc94fd52ff.jpg",
     "actress": [
@@ -1243,21 +1003,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1274,20 +1028,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250508-1/e6ee376bb92a4ddff48c16742178363d.jpg",
     "actress": [
@@ -1304,21 +1052,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/0aa608e2796c551571182ba2927b3b90.jpg",
     "actress": [],
@@ -1332,44 +1074,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "按摩棒",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "無毛",
+      "企畫",
       "飯店",
       "苗條",
-      "和服・浴衣・喪服",
-      "美腳",
-      "胸控・戀乳癖",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
       "美乳",
-      "按摩棒",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
       "潮吹",
-      "人妻",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "無毛",
       "乳交",
-      "黑絲",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/62cc766aafc2c0c089db5a0fd852c25c.jpg",
     "actress": [
@@ -1385,37 +1121,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "苗條",
-      "和服・浴衣・喪服",
       "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
       "人妻",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "美臀",
+      "和服・浴衣・喪服",
       "絕頂高潮",
+      "企畫",
+      "飯店",
+      "苗條",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "女上位"
+      "女上位",
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512041920329329.jpg",
     "actress": [
@@ -1431,37 +1161,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
       "美腳",
-      "純愛・戀愛",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
       "人妻",
-      "內衣",
       "中出",
-      "後入",
-      "美腿",
+      "美少女電影",
+      "自宅",
       "劇情",
       "絕頂高潮",
-      "美少女電影",
+      "女友・妻子",
       "69",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "純愛・戀愛",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/c8a4f66e-7d99-4868-8fd8-459e3863bb13.jpg",
     "actress": [
@@ -1478,44 +1202,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "亂倫",
       "美腳",
-      "繼母",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "淫亂",
-      "內衣",
-      "中出",
       "蕩婦",
-      "後入",
-      "企畫",
       "美臀",
-      "顏射",
-      "絕頂高潮",
+      "亂交 • 群P",
+      "人妻",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
+      "自宅",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "顏射",
+      "繼母",
       "手指插入",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/2928924c-6340-4bcb-91c5-80ecd3a7aa4d.jpg",
     "actress": [
@@ -1531,35 +1249,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "朋友女友・妻子",
-      "胸控・戀乳癖",
+      "出軌",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
       "自宅",
+      "朋友女友・妻子",
+      "絕頂高潮",
+      "企畫",
+      "手指插入",
+      "騎乗位",
       "美乳",
       "口交",
       "巨乳",
-      "性感",
-      "熟女",
-      "人妻",
-      "NTR",
-      "淫亂",
+      "胸控・戀乳癖",
       "內衣",
-      "出軌",
-      "中出",
+      "熟女",
       "後入",
-      "企畫",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "騎乗位"
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/798e4600-459b-4c25-be4d-6bfec6ff037d.jpg",
     "actress": [
@@ -1575,21 +1287,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1605,21 +1311,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/13/684bf9103ed39b57c0528095/cover.jpg",
     "actress": [
@@ -1636,20 +1336,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1663,31 +1357,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
-      "亂倫",
-      "NTR",
-      "公公",
       "肉絲",
-      "內衣",
-      "出軌",
-      "黑絲",
-      "中出",
-      "蕩婦",
+      "人妻",
       "巨乳",
+      "口交",
+      "公公",
+      "出軌",
+      "中出",
+      "黑絲",
+      "內衣",
+      "蕩婦",
       "兒媳",
       "劇情",
-      "口交",
+      "熟女",
+      "亂倫",
+      "NTR",
       "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686c9b453ed39b57c0aa466b/cover.jpg",
     "actress": [
@@ -1704,22 +1392,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
-      "白天出轨",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/28/685f191643d6972716525ae9/cover.jpg",
     "actress": [
@@ -1735,21 +1417,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1765,21 +1441,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d981b0ce5a404e9bbb3ff1/cover.jpg",
     "actress": [
@@ -1795,21 +1465,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1825,21 +1489,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dd0bbbbf45974ea6098e95/cover.jpg",
     "actress": [
@@ -1856,21 +1514,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2e195ce5a404e9bac1ad2/cover.jpg",
     "actress": [
@@ -1886,42 +1538,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "網襪",
-      "苗條",
-      "臀控",
       "凌辱",
       "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "人妻",
-      "淫亂",
-      "內衣",
-      "中出",
+      "網襪",
       "蕩婦",
+      "臀控",
       "美臀",
+      "亂交 • 群P",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "自宅",
       "劇情",
       "絕頂高潮",
-      "舔陰",
-      "手指插入",
+      "女友・妻子",
+      "苗條",
       "黑絲",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240801-1/93f8c34d45300a6e0b13582e5ec94f1f.jpg",
     "actress": [
@@ -1938,21 +1584,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbd2dace5a404e9bc131f0/cover.jpg",
     "actress": [
@@ -1969,21 +1609,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2000,21 +1634,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbd36dce5a404e9bc131f2/cover.jpg",
     "actress": [
@@ -2030,21 +1658,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d42c4edbf24d4ed3010b5d/cover.jpg",
     "actress": [
@@ -2060,25 +1682,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "老頭子",
-      "乱伦",
-      "慾求不滿",
-      "自宅",
-      "中出",
-      "巨乳",
       "口交",
+      "巨乳",
+      "老頭子",
+      "慾求不滿",
+      "乱伦",
+      "中出",
       "女上位",
-      "劇情"
+      "自宅",
+      "劇情",
+      "熟女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43efadd88d14f0604d018/cover.jpg",
     "actress": [
@@ -2095,43 +1711,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
       "豐滿",
-      "飯店",
-      "辦公室",
-      "加班",
-      "OL",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "NTR",
       "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "絕頂高潮",
-      "乳交",
-      "黑絲",
       "女秘書",
+      "蕩婦",
+      "加班",
+      "中出",
+      "辦公室",
       "劇情",
-      "女同事"
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同事",
+      "色白",
+      "飯店",
+      "黑絲",
+      "制服",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240710/385f70d6-02d2-42fc-a219-ba9db3f81919.jpg",
     "actress": [
@@ -2147,38 +1757,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "純粹的慾望",
-      "慾求不滿",
-      "朋友女友・妻子",
-      "純愛・戀愛",
-      "自宅",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "淫亂",
       "出軌",
-      "中出",
       "蕩婦",
-      "美腿",
+      "人妻",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "朋友女友・妻子",
       "劇情",
       "絕頂高潮",
-      "美少女電影",
-      "青梅竹馬",
       "黑絲",
-      "女上位"
+      "純粹的慾望",
+      "青梅竹馬",
+      "形象俱樂部",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "女上位",
+      "純愛・戀愛",
+      "熟女",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240709/f0a2db11-dbe1-4aaa-9117-3956ef66f977.jpg",
     "actress": [
@@ -2196,20 +1800,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2226,22 +1824,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d8564dd6fbef4e90cd46f1/cover.jpg",
     "actress": [
@@ -2257,21 +1849,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6eafedbf24d4ed3074a93/cover.jpg",
     "actress": [
@@ -2287,21 +1873,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6e2c3e4a73d4f15a67f96/cover.jpg",
     "actress": [
@@ -2318,21 +1898,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8145379f1ac4ec45bcbbd/cover.jpg",
     "actress": [
@@ -2348,21 +1922,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca90eaeb67774efba39fc2/cover.jpg",
     "actress": [
@@ -2379,20 +1947,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c93bdbdbf24d4ed3ec750a/cover.jpg",
     "actress": [
@@ -2408,21 +1970,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8107779f1ac4ec45bb7d9/cover.jpg",
     "actress": [
@@ -2438,20 +1994,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c93800d6fbef4e90aedc7d/cover.jpg",
     "actress": [
@@ -2467,22 +2017,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "出轨",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "出轨",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c9381ad6fbef4e90aedc7e/cover.jpg",
     "actress": [
@@ -2499,21 +2043,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2529,33 +2067,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "熟女",
       "人妻",
-      "美腿",
       "巨尻",
+      "巨乳",
+      "口交",
       "慾求不滿",
-      "女上位",
-      "胸控・戀乳癖",
-      "美乳",
       "中出",
       "黑絲",
+      "女上位",
+      "胸控・戀乳癖",
       "蕩婦",
-      "後入",
-      "巨乳",
-      "性感",
-      "口交",
       "騎乗位",
-      "劇情"
+      "熟女",
+      "後入",
+      "劇情",
+      "性感",
+      "形象俱樂部",
+      "美乳",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240828/72c2b0a1-ad35-4b55-898a-7eca9eff6211.jpg",
     "actress": [
@@ -2572,21 +2104,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2602,21 +2128,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2633,46 +2153,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "若妻",
-      "性感睡衣",
-      "純粹的慾望",
-      "慾求不滿",
       "臀控",
+      "美臀",
       "癡女",
-      "純愛・戀愛",
+      "人妻",
+      "中出",
       "自宅",
-      "胸控・戀乳癖",
+      "劇情",
+      "家庭主妇",
+      "明星臉",
+      "絕頂高潮",
+      "女友・妻子",
       "色白",
+      "美人妻",
+      "若妻",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "性感睡衣",
+      "美人",
       "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "明星臉",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "家庭主妇",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "純愛・戀愛",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241230/1db439ab-f309-4447-98cc-118b692f727f.jpg",
     "actress": [
@@ -2689,47 +2203,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "感官作品",
-      "在丈夫面前被操",
       "肉絲",
-      "美腳",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "淫亂",
+      "前女友",
       "出軌",
-      "中出",
+      "美腳",
       "蕩婦",
-      "後入",
-      "美腿",
+      "亂交 • 群P",
+      "感官作品",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "劇情",
       "絕頂高潮",
-      "脚控・戀足癖",
-      "前女友",
-      "乳交",
+      "色白",
       "黑絲",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "在丈夫面前被操",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240909/6e455bd1-06f1-478c-9ed8-29b2276d9907.jpg",
     "actress": [
@@ -2745,22 +2253,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2776,21 +2278,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/85bfe5b540b66f39386dd4ab6dcff5e6.jpg",
     "actress": [
@@ -2806,21 +2302,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/2ced093a599b9637ab7a1bbc70e0c8e3.jpg",
     "actress": [
@@ -2836,44 +2326,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "鄰居",
       "美腳",
-      "胸控・戀乳癖",
+      "蕩婦",
+      "美臀",
+      "人妻",
+      "鄰居",
+      "中出",
+      "劇情",
+      "家庭主妇",
+      "絕頂高潮",
+      "無毛",
       "色白",
+      "企畫",
+      "黑絲",
+      "美人妻",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
       "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "無毛",
       "乳交",
-      "家庭主妇",
-      "黑絲",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240923/5fb32150-605e-46b0-a8f8-6a1c88f1f5a0.jpg",
     "actress": [
@@ -2890,21 +2374,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2921,43 +2399,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
-      "嫂嫂",
-      "美腳",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "明星臉",
       "出軌",
-      "中出",
+      "美腳",
       "蕩婦",
-      "後入",
-      "美腿",
       "美臀",
+      "人妻",
+      "中出",
       "劇情",
-      "不倫",
-      "絕頂高潮",
       "家庭主妇",
+      "嫂嫂",
+      "明星臉",
+      "絕頂高潮",
+      "色白",
       "黑絲",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240922/cfcbb0e4-5a63-44fd-96b9-eb3c981bfaf1.jpg",
     "actress": [
@@ -2973,21 +2445,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/a3184bb577c039173d3e2cdfe0363460.jpg",
     "actress": [
@@ -3003,40 +2469,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
-      "純愛・戀愛",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "內衣",
-      "中出",
       "蕩婦",
-      "後入",
+      "人妻",
+      "中出",
+      "自宅",
       "劇情",
       "絕頂高潮",
-      "乳交",
+      "女友・妻子",
       "黑絲",
+      "美人妻",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "純愛・戀愛",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241007/2d2961ab-5b53-4077-82a9-061910767c4b.jpg",
     "actress": [
@@ -3052,44 +2512,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "慾求不滿",
-      "嫂嫂",
-      "感官作品",
-      "美腳",
-      "羞恥",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "內衣",
       "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
+      "美腳",
       "不倫",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "感官作品",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "劇情",
+      "嫂嫂",
       "絕頂高潮",
+      "美人妻",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
       "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "熟女",
+      "後入",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241006/6483339a-ff28-43f3-bd21-ebfd69725854.jpg",
     "actress": [
@@ -3106,21 +2560,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3137,28 +2585,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "NTR",
-      "乱伦",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "巨乳",
       "口交",
+      "巨乳",
+      "出軌",
+      "乱伦",
+      "中出",
       "女上位",
+      "蕩婦",
       "騎乗位",
+      "熟女",
       "劇情",
+      "NTR",
       "不倫",
       "岳母"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241020/a6b1a4eb-b7ff-466a-9a00-81b67b691b46.jpg",
     "actress": [
@@ -3175,21 +2617,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba8caa4898416418389013/cover.jpg",
     "actress": [
@@ -3205,40 +2641,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
-      "勾引・誘惑",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "淫亂",
       "出軌",
-      "中出",
       "蕩婦",
-      "後入",
-      "美腿",
       "美臀",
+      "人妻",
+      "淫亂",
+      "中出",
       "劇情",
-      "不倫",
-      "乱伦",
       "家庭主妇",
-      "女上位",
+      "勾引・誘惑",
+      "乱伦",
+      "美人妻",
       "騎乗位",
-      "岳母"
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "岳母",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "女上位",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/b546995a4b88373fc146d71f967261fb.jpg",
     "actress": [
@@ -3256,22 +2686,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
-      "白天出轨",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3287,21 +2711,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3317,21 +2735,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
+      "单体作品",
       "中出",
       "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3347,21 +2759,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
+      "单体作品",
       "乱伦",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc2bbf5f13d063bcd2b428/cover.jpg",
     "actress": [
@@ -3377,36 +2783,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "慾求不滿",
-      "勾引・誘惑",
+      "出軌",
+      "蕩婦",
+      "中出",
       "自宅",
+      "劇情",
+      "家庭主妇",
+      "勾引・誘惑",
+      "騎乗位",
       "美乳",
+      "岳母",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "NTR",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "不倫",
+      "慾求不滿",
       "乳交",
-      "家庭主妇",
       "女上位",
-      "騎乗位",
-      "岳母"
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TAKARA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TAKARA",
-        "works_count": 516
-      }
-    ],
+    "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/143190e81c6426b59ee511ff7da05ebe.jpg",
     "actress": [

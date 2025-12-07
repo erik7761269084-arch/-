@@ -1,81 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 80743,
-    "IDcode": "300MAAN-0744",
-    "title": "【超绝ド级潮吹き23発超え！推定1000ml出し尽くす！世界レベルの淫獣光临！】圧倒的な美貌と超美乳G乳！常轨を逸した鬼性欲が猛威を振るう！一级品のエロテク连発でチ○ポは常に暴発寸前！「止まらないいィィ！！」敏感マ○コからイキ潮&amp;ハメ潮大放出！「もう何回イッたかわかんないッ！」限界突破の无限イキSEX！Amazing Splash TSUNAMI Girl【なまハメT☆kTok Report.36】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
-    "publish_date": "2022-05-04",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/888cc231367330c4c69820ed080c3e3d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0744"
-  },
-  {
-    "id": 532952,
-    "IDcode": "300MAAN-0745",
-    "title": "【祝100人突破记念！！W极上巨乳美女とクリパで大乱交】垢BANスレスレの过激なエロ动画を配信",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231209/pb_e_300maan-745.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0745"
-  },
-  {
-    "id": 519850,
-    "IDcode": "300MAAN-0746",
-    "title": "离家出走的妻子开火3日游播种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/46bf1192bbb55acd57c6ba01272b0e54.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0746"
-  },
-  {
     "id": 144184,
     "IDcode": "300MAAN-0747",
     "title": "做华丽的白gal和除夕除夕夜在倒计时现场发现介绍让您长舌口交和训练有素的屁股的色情MaxJD公主的开始000完美新年快乐3发射女大学生的穴位06",
@@ -83,17 +7,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bbd013044dc7a42ac6537d0e56fe3103.jpg",
     "actress": [],
@@ -107,17 +25,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/016186466f80a51e701d154c83436d60.jpg",
     "actress": [],
@@ -131,17 +43,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231214/pb_e_300maan-749.jpg!320x216.jpg",
     "actress": [],
@@ -155,17 +61,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/8f05c92a664c53f52d6ffed6ef6761e0.jpg",
     "actress": [],
@@ -179,17 +79,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20f66db8c77d79bb69715/cover.jpg",
     "actress": [],
@@ -203,17 +97,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2b204c9501d50ffe16b35092c21ca838.jpg",
     "actress": [],
@@ -228,18 +116,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2022-12-13",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/fdcd7b8817cd7583ad050ddecb4b56bc.jpg",
     "actress": [],
@@ -253,17 +135,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d03ac87bbe53a0bf92900236bca1555.jpg",
     "actress": [],
@@ -277,17 +153,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a21006db8c77d79bb69724/cover.jpg",
     "actress": [],
@@ -301,17 +171,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c453157dffbb412f18bf4b78242c6c9a.jpg",
     "actress": [],
@@ -325,18 +189,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/1964d9a472f6d3baa4ae4a406d1e332c.jpg",
     "actress": [],
@@ -350,17 +208,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4e5d7998fa72e127c3bdd1904fb27cf5.jpg",
     "actress": [],
@@ -374,17 +226,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/74f40d8eb2440d89607dbd5712ba9a2d.jpg",
     "actress": [],
@@ -398,18 +244,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d86a6e1937010ec8d24784897ed970e.jpg",
     "actress": [],
@@ -423,17 +263,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ed/cover.jpg",
     "actress": [],
@@ -447,17 +281,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ee/cover.jpg",
     "actress": [],
@@ -471,17 +299,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b098d5f7f87f038b15a852b9593bbd37.jpg",
     "actress": [],
@@ -495,17 +317,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20c82db8c77d79bb6966e/cover.jpg",
     "actress": [],
@@ -519,17 +335,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2e191e672bd7da5d7ae195b229bd36a0.jpg",
     "actress": [],
@@ -543,17 +353,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/eabce36671c7f63d2be13fa6985f6756.jpg",
     "actress": [],
@@ -567,18 +371,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2022-12-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/2e9a0658b8e521c1b569046179785127.jpg",
     "actress": [],
@@ -592,20 +390,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "素人",
+      "巨乳",
       "淫妻",
       "街头采访",
-      "巨乳"
+      "NTR",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-02-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/77b2522e1ee4d55851f2acf72c0ca034.jpg",
     "actress": [],
@@ -619,17 +411,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2022-12-02",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -643,17 +429,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20bcecf22ae3e04a81cb8/cover.jpg",
     "actress": [],
@@ -667,18 +447,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2022-07-20",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -693,17 +467,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-08-29",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/974a28bd7114c7f330708e45e2166f18.jpg",
     "actress": [],
@@ -717,17 +485,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5c95502906000fae1b3782b9721684a1.jpg",
     "actress": [],
@@ -741,18 +503,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/279c4466b4c1c042547d0745d555b8e2.jpg",
     "actress": [],
@@ -766,18 +522,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9ecfce4ad6d6b88d2aa3f4511921cecd.jpg",
     "actress": [],
@@ -791,18 +541,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f1e370f730e7367299bb4416ab82b45a.jpg",
     "actress": [],
@@ -816,17 +560,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -840,18 +578,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "街头采访",
       "淫妻",
-      "街头采访"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://pic40.anzise.com/pic/20230122/5a3b679cd40279812af43a76cba88df2/1.jpg",
     "actress": [],
@@ -865,17 +597,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221205/E7dAfEQL/1.jpg",
     "actress": [],
@@ -889,17 +615,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221212/WLUO9wXR/1.jpg",
     "actress": [],
@@ -913,18 +633,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f5a31a713b25e990a15f5708f8757078.jpg",
     "actress": [],
@@ -938,17 +652,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f3e9649cdb1fc4d05abf515268261990.jpg",
     "actress": [],
@@ -962,17 +670,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a6c08c128979c67d27443e03ef0c549e.jpg",
     "actress": [],
@@ -986,18 +688,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/890d9ba8c5079310729bdeba58bf44c0.jpg",
     "actress": [],
@@ -1011,18 +707,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/St712LMc.jpg",
     "actress": [],
@@ -1037,17 +727,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230608/pb_e_maan-836.jpg!320x216.jpg",
     "actress": [],
@@ -1061,18 +745,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_maan-837.jpg!320x216.jpg",
     "actress": [],
@@ -1086,18 +764,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Hy34F0k8.jpg",
     "actress": [],
@@ -1111,17 +783,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Nt7sgiT8.jpg",
     "actress": [],
@@ -1135,17 +801,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2035ddb8c77d79bb694f0/cover.jpg",
     "actress": [],
@@ -1159,24 +819,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "角色扮演",
-      "潮吹",
-      "女大学生",
-      "素人",
-      "娃娃",
-      "街头采访",
       "业余",
-      "中出"
+      "潮吹",
+      "中出",
+      "娃娃",
+      "角色扮演",
+      "苗条",
+      "女大学生",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1192,17 +846,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230223/6hcn0WOY/1.jpg",
     "actress": [],
@@ -1216,18 +864,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240107/pb_e_maan-851.jpg!320x216.jpg",
     "actress": [],
@@ -1241,17 +883,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/IEfVrsuG.jpg",
     "actress": [],
@@ -1265,17 +901,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1289,17 +919,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/XpqLW8hT.jpg",
     "actress": [],
@@ -1313,17 +937,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20475db8c77d79bb69568/cover.jpg",
     "actress": [],
@@ -1337,17 +955,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20476db8c77d79bb69569/cover.jpg",
     "actress": [],
@@ -1361,17 +973,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/tUiYAmhC/1.jpg",
     "actress": [],
@@ -1385,18 +991,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "街头采访",
       "素人",
-      "乱交",
-      "街头采访"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/7ZgksZoC/1.jpg",
     "actress": [],
@@ -1410,17 +1010,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/YF8gIM9o/1.jpg",
     "actress": [],
@@ -1434,17 +1028,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/BYDPWnGx/1.jpg",
     "actress": [],
@@ -1458,18 +1046,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/VUB0HopN/1.jpg",
     "actress": [],
@@ -1483,17 +1065,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/ZeYhcium/1.jpg",
     "actress": [],
@@ -1507,17 +1083,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/QYjS3n7I/1.jpg",
     "actress": [],
@@ -1531,17 +1101,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1555,17 +1119,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/cGtX2EFx/1.jpg",
     "actress": [],
@@ -1579,17 +1137,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/tHpp17so/1.jpg",
     "actress": [],
@@ -1603,17 +1155,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/PimSr4fB/1.jpg",
     "actress": [],
@@ -1628,17 +1174,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/08/18921_cover_2025-06-08_221257.jpg",
     "actress": [],
@@ -1652,18 +1192,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/vJHEJ7fP/1.jpg",
     "actress": [],
@@ -1677,17 +1211,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/iYr7SMGq/1.jpg",
     "actress": [],
@@ -1701,17 +1229,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/JV5sVghM/1.jpg",
     "actress": [],
@@ -1725,17 +1247,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/7cfa9a4347bede3b8abd773331a6af3a.jpg",
     "actress": [],
@@ -1749,17 +1265,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/PiO1XCDd/1.jpg",
     "actress": [],
@@ -1773,17 +1283,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/16/684fa53043d6972716bd9613/cover.jpg",
     "actress": [],
@@ -1797,17 +1301,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1822,17 +1320,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1846,17 +1338,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1870,17 +1356,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1894,24 +1374,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "人妻",
-      "已婚妇女",
-      "内衣",
-      "素人",
-      "街头采访",
       "业余",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "潮吹",
       "中出",
-      "巨乳"
+      "内衣",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-09",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1927,25 +1401,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "人妻",
-      "素人",
-      "街头采访",
       "业余",
+      "人妻",
+      "潮吹",
       "中出",
       "乱交",
+      "苗条",
       "滥交",
-      "颜射"
+      "颜射",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-10",
     "cover_url": "https://tuaskbgnekr.com/20240504/PerQ5IcT/1.jpg",
     "actress": [],
@@ -1959,23 +1427,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "素人",
-      "乳交",
-      "街头采访",
-      "拘束",
       "业余",
+      "巨乳",
+      "乳交",
       "中出",
-      "巨乳"
+      "苗条",
+      "拘束",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-16",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1991,23 +1453,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "玩具",
-      "素人",
-      "街头采访",
       "业余",
+      "玩具",
+      "潮吹",
       "中出",
-      "女优按摩棒"
+      "女优按摩棒",
+      "苗条",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2023,23 +1479,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "业余",
       "玩具",
-      "素人",
+      "中出",
+      "乳房",
+      "苗条",
       "乳液",
       "街头采访",
-      "业余",
-      "中出",
-      "乳房"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-23",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2056,24 +1506,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "人妻",
-      "玩具",
-      "已婚妇女",
-      "素人",
-      "街头采访",
       "业余",
+      "人妻",
+      "已婚妇女",
+      "玩具",
+      "潮吹",
       "中出",
-      "母乳"
+      "母乳",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-24",
     "cover_url": "https://tuaskbgnekr.com/20240504/1uLYbeNA/1.jpg",
     "actress": [],
@@ -2087,22 +1531,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "素人",
-      "乳液",
-      "街头采访",
       "业余",
+      "屁股",
       "中出",
-      "颜射"
+      "乳液",
+      "颜射",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-09-30",
     "cover_url": "https://tuaskbgnekr.com/20240506/oMECIucg/1.jpg",
     "actress": [
@@ -2118,24 +1556,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "女大学生",
-      "玩具",
-      "素人",
-      "乳交",
-      "街头采访",
       "业余",
+      "巨乳",
+      "玩具",
+      "乳交",
+      "潮吹",
       "中出",
-      "巨乳"
+      "女大学生",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2151,22 +1583,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人",
-      "乳交",
-      "街头采访",
       "业余",
+      "巨乳",
+      "乳交",
+      "潮吹",
       "无毛",
-      "巨乳"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2182,23 +1608,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "已婚妇女",
-      "素人",
-      "街头采访",
       "业余",
+      "已婚妇女",
+      "潮吹",
       "中出",
-      "无毛"
+      "无毛",
+      "苗条",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-08",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2212,23 +1632,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "户外",
-      "潮吹",
-      "玩具",
-      "素人",
-      "街头采访",
       "业余",
+      "户外",
+      "玩具",
+      "潮吹",
       "中出",
-      "乳房"
+      "乳房",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b152645f13d063bcc27af9/cover.jpg",
     "actress": [
@@ -2245,23 +1659,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人",
-      "乳液",
-      "乳交",
-      "街头采访",
       "业余",
+      "巨乳",
+      "乳交",
+      "潮吹",
       "中出",
-      "巨乳"
+      "乳液",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-15",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2275,23 +1683,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "素人",
-      "街头采访",
       "业余",
-      "中出",
       "巨乳",
-      "泳装"
+      "潮吹",
+      "中出",
+      "泳装",
+      "苗条",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2307,23 +1709,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "玩具",
-      "素人",
-      "街头采访",
       "业余",
+      "玩具",
+      "潮吹",
       "中出",
-      "乳房"
+      "乳房",
+      "苗条",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-22",
     "cover_url": "https://tuaskbgnekr.com/20240507/J3HJOGLm/1.jpg",
     "actress": [
@@ -2339,24 +1735,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "业余",
+      "乱交",
+      "中出",
       "苗条",
       "女大学生",
+      "滥交",
       "多P",
-      "素人",
       "街头采访",
-      "业余",
-      "中出",
-      "乱交",
-      "滥交"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-10-28",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2372,23 +1762,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "素人",
-      "街头采访",
-      "情侣",
       "业余",
+      "巨乳",
       "中出",
       "乳房",
-      "巨乳"
+      "情侣",
+      "女大学生",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/17/68505f0d3ed39b57c081705c/cover.jpg",
     "actress": [],
@@ -2402,26 +1786,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "角色扮演",
-      "多P",
-      "素人",
-      "乳交",
-      "街头采访",
       "业余",
-      "中出",
       "巨乳",
+      "乳交",
+      "潮吹",
+      "中出",
       "乱交",
-      "滥交"
+      "角色扮演",
+      "滥交",
+      "多P",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-03",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2439,24 +1817,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人",
-      "乳液",
+      "业余",
+      "巨乳",
       "巨大屁股",
       "乳交",
-      "街头采访",
-      "业余",
+      "潮吹",
       "中出",
-      "巨乳"
+      "乳液",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-04",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2473,26 +1845,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "角色扮演",
-      "女大学生",
-      "多P",
-      "素人",
-      "街头采访",
       "业余",
+      "潮吹",
       "中出",
       "乱交",
+      "女优按摩棒",
+      "角色扮演",
+      "女大学生",
       "滥交",
-      "女优按摩棒"
+      "多P",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-05",
     "cover_url": "https://tuaskbgnekr.com/20240508/KXhVBXbc/1.jpg",
     "actress": [],
@@ -2506,23 +1872,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
       "荡妇",
-      "美少女",
-      "素人",
-      "街头采访",
       "业余",
-      "中出"
+      "潮吹",
+      "中出",
+      "苗条",
+      "街头采访",
+      "美少女",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-11",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2538,23 +1898,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人",
-      "街头采访",
       "业余",
+      "巨乳",
+      "潮吹",
       "中出",
       "无毛",
-      "巨乳",
-      "讲师"
+      "街头采访",
+      "讲师",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-12",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2568,17 +1922,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240509/SW9JTYrl/1.jpg",
     "actress": [],
@@ -2592,29 +1940,102 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "屁股",
-      "玩具",
-      "素人",
-      "街头采访",
       "业余",
+      "玩具",
+      "屁股",
+      "潮吹",
       "中出",
-      "乳房"
+      "乳房",
+      "苗条",
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2023-11-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "まや"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0924"
+  },
+  {
+    "id": 100998,
+    "IDcode": "300MAAN-0925",
+    "title": "【ゆるカワの極みッめんこい無双】色白PERFECT美乳美尻！その可愛さにドキドキが止まらない！見た目とは裏腹に激ビッチ！叩けば響く(尻)敏感グラドルはイキ潮放出！脱水注意！突けば突くほど濡れまくり快感ピストンまさに沼マ●コ！中出し連発、超エキサイティング乱交！！【なまハメT☆kTok】【しお】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "屁股",
+      "潮吹",
+      "中出",
+      "乱交",
+      "苗条",
+      "街头采访",
+      "素人",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "しお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0925"
+  },
+  {
+    "id": 100999,
+    "IDcode": "300MAAN-0926",
+    "title": "【スレンダーすけべ美乳】貸し切り露天風呂でラッキースケベ！？スリルを楽しみ性欲を満たせッ！美乳美尻なスレンダー美人と洗いっこ→フェラ抜き！ホテルに移動してからもエロスは続く！シックスナインで上下気持ちよくなっちゃって！中に出してもコスチェン2回戦！！趣(おもむき)しか感じられない浴衣セックスはイキすぎ注意www【もしも。】【みさき】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "玩具",
+      "屁股",
+      "中出",
+      "第一人称摄影",
+      "苗条",
+      "街头采访",
+      "素人",
+      "洗澡"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-26",
+    "cover_url": "https://tuaskbgnekr.com/20240509/KrXwVZHc/1.jpg",
+    "actress": [
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0926"
+  },
+  {
+    "id": 103553,
+    "IDcode": "300MAAN-0927",
+    "title": "【男のチ●ポを弄ぶ美しき変態お姉さん】狙った男は逃さない『プレデター美女』降臨！！口だけでイカせる連続バキュームフェラチオ！！激しい腰振りで更に抜かせにかかる必殺グラインド騎乗位！！バニーコスでエチ美ボディをフル活用！！中出ししたのに腰振りが止まらない絶倫淫乱セックス！！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～＞【かな】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "业余",
+      "中出",
+      "角色扮演",
+      "街头采访",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "かな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0927"
   }
 ];

@@ -91,7 +91,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4391a144e94b59ee14a4aff304530676.jpg",
       "actress": [

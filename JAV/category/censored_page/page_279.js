@@ -1,47 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 531776,
-    "IDcode": "BLK-028",
-    "title": "blk00028 kira☆kira BLACK GAL 即ハメ超泥●GAL☆DRUNKING FUCK 麻木りあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/f694622907fb3e6448740acfb82a0f9c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-028"
-  },
-  {
-    "id": 536210,
-    "IDcode": "BLK-033",
-    "title": "kira☆kira BLACK GAL DOUBLE黒GAL女子校生 ～学校のエロ不思议！缲り返す闷絶アクメ～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230514/blk033pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-033"
-  },
-  {
     "id": 531775,
     "IDcode": "BLK-052",
     "title": "blk00052 kira☆kira BLACK GAL RESORT Gcup极エロ爆乳☆黒GAL青奸露出 ERIKA",
@@ -52,13 +10,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/4db6fc68b42b2620068d069ef7efd517.jpg",
     "actress": [],
@@ -73,13 +25,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/311f0e6300e13849eb9425ca8b9bd309.jpg",
     "actress": [],
@@ -94,13 +40,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250328/2rNAf6w9/1.jpg",
     "actress": [],
@@ -117,13 +57,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230620-1/3216b058fd51d2cda6c554d4ee2e9063.jpg",
     "actress": [],
@@ -137,17 +71,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "痴汉",
-      "巨乳"
+      "巨乳",
+      "痴汉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59d7bcf22ae3e0418df36/cover.jpg",
     "actress": [],
@@ -164,13 +92,7 @@ window.PAGE_DATA = [
       "出道作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1966cf22ae3e0427d29b/cover.jpg",
     "actress": [],
@@ -185,13 +107,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1967cf22ae3e0427d29c/cover.jpg",
     "actress": [],
@@ -208,13 +124,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d299/cover.jpg",
     "actress": [],
@@ -229,13 +139,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d29a/cover.jpg",
     "actress": [],
@@ -250,20 +154,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "无码破解",
-      "中出",
       "巨乳",
       "单体作品",
+      "无码破解",
+      "中出",
       "高中女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -282,13 +180,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -305,13 +197,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -326,13 +212,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240420/blk241pl.jpg!320x216.jpg",
     "actress": [],
@@ -347,13 +227,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240521/blk245pl.jpg!320x216.jpg",
     "actress": [],
@@ -368,13 +242,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240531/blk247pl.jpg!320x216.jpg",
     "actress": [],
@@ -388,20 +256,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
-      "艺人",
       "中出",
-      "滥交",
-      "女生"
+      "艺人",
+      "角色扮演",
+      "女生",
+      "滥交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2015-10-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -420,13 +282,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -441,13 +297,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -462,13 +312,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -483,13 +327,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230721/blk262pl.jpg!320x216.jpg",
     "actress": [],
@@ -504,13 +342,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -525,13 +357,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230822/blk266pl.jpg!320x216.jpg",
     "actress": [],
@@ -546,13 +372,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230926/blk272pl.jpg!320x216.jpg",
     "actress": [],
@@ -567,13 +387,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/08/06/d681efd3836f09382f544a1f7a474932.jpg",
     "actress": [],
@@ -588,13 +402,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231001/blk274pl.jpg!320x216.jpg",
     "actress": [],
@@ -609,13 +417,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -632,13 +434,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231007/blk276pl.jpg!320x216.jpg",
     "actress": [],
@@ -653,13 +449,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -674,13 +464,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231103/blk281pl.jpg!320x216.jpg",
     "actress": [],
@@ -697,13 +481,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/04/10/a6c605ef889fa49139dc72c8528f100f.jpg",
     "actress": [],
@@ -718,13 +496,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231123/blk287pl.jpg!320x216.jpg",
     "actress": [],
@@ -739,13 +511,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231201/blk290pl.jpg!320x216.jpg",
     "actress": [],
@@ -760,13 +526,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230622-1/16602602be619e1bf8699d9a6bb9538d.jpg",
     "actress": [],
@@ -781,13 +541,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -802,19 +556,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "妹妹",
+      "高中女生",
       "女生",
-      "主观视角",
-      "高中女生"
+      "妹妹",
+      "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -831,13 +579,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9bbb431a2714f1c698154/poster2.jpg",
     "actress": [],
@@ -852,19 +594,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "妹妹",
+      "高中女生",
       "女生",
-      "主观视角",
-      "高中女生"
+      "妹妹",
+      "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d7a97f14d136371d2f24b02819f0e455.jpg",
     "actress": [
@@ -881,13 +617,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a60229744c3757ff001fb631fa0a7b84.jpg",
     "actress": [],
@@ -902,13 +632,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/ed78779c20ef1f35566da73a73b25231.jpg",
     "actress": [],
@@ -925,13 +649,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/a64f1bab0925b014e48bbd57c2ad2679.jpg",
     "actress": [],
@@ -946,13 +664,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -967,13 +679,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -988,19 +694,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "美少女",
       "中出",
+      "高中女生",
       "女生",
-      "高中女生"
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/18b7b679211cb0b8882c883c49e60597.jpg",
     "actress": [
@@ -1020,13 +720,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7f984c900233ac0b835fe7e233fe70e2.jpg",
     "actress": [],
@@ -1041,13 +735,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/ca1504bbd6001c82c13944dce1ac05d4.jpg",
     "actress": [],
@@ -1062,13 +750,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/219b11ff7dd401c1612335fb553ab48e.jpg",
     "actress": [],
@@ -1082,20 +764,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "强奸",
       "中出",
-      "滥交",
+      "高中女生",
       "女生",
-      "高中女生"
+      "滥交",
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1112,13 +788,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a545f9ca17b4c3b45cb2cc582926d1d7.jpg",
     "actress": [],
@@ -1133,13 +803,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231004/blk322pl.jpg!320x216.jpg",
     "actress": [],
@@ -1154,13 +818,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240322/blk324pl.jpg!320x216.jpg",
     "actress": [],
@@ -1175,13 +833,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/07/02/56360c65dfca7231d009682ec3e97bbb.jpg",
     "actress": [],
@@ -1198,13 +850,7 @@ window.PAGE_DATA = [
       "出道作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/45acf3fed4b80afeaba201b1d9a24cca.jpg",
     "actress": [],
@@ -1219,13 +865,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/f6c18e2fb762043b97a6348f45aeb6a9.jpg",
     "actress": [],
@@ -1240,13 +880,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/abb8c6cfc59e00233a486874cca25107.jpg",
     "actress": [],
@@ -1263,13 +897,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/9d75f3f28801c1fb9ae9e596266dfb74.jpg",
     "actress": [],
@@ -1284,13 +912,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1304,17 +926,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "淫妻"
+      "淫妻",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/50c37d5ca434e08e7253f8c8e65f086a.jpg",
     "actress": [],
@@ -1329,13 +945,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f650d08369ec832aa55081e8baf3721a.jpg",
     "actress": [],
@@ -1350,13 +960,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/0354da138ab99d4eab5a20fa2d9347a5.jpg",
     "actress": [],
@@ -1371,13 +975,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1392,13 +990,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/8243ca860a67ce8f1ac9d2bff7f3bc0e.jpg",
     "actress": [],
@@ -1413,13 +1005,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/8a387f8bccffbdd20a063311522afb0c.jpg",
     "actress": [],
@@ -1434,13 +1020,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f4d792dbd8773ccd497edb80b3ee1a6c.jpg",
     "actress": [],
@@ -1454,17 +1034,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "出道作"
+      "出道作",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7fb4169fd708f01464cc9834461fb5fc.jpg",
     "actress": [],
@@ -1479,13 +1053,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1500,13 +1068,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/cf26943cb57f118d4514f98d5abeb275.jpg",
     "actress": [],
@@ -1521,13 +1083,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/b7420003960a47027a05183f55c4324f.jpg",
     "actress": [],
@@ -1542,13 +1098,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/129274ea448cb6c52c75350ec5611b52.jpg",
     "actress": [],
@@ -1565,13 +1115,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1586,13 +1130,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/51a8b20d2a402e92c96f9498e6575488.jpg",
     "actress": [],
@@ -1606,20 +1144,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "白天出轨",
-      "无毛",
       "巨乳",
-      "滥交"
+      "无毛",
+      "滥交",
+      "出轨",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1636,20 +1168,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "其他恋物癖",
       "中出",
-      "巨乳",
       "女生",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2f38ba1a756de18e224d47eb381165b9.jpg",
     "actress": [
@@ -1666,19 +1192,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "女教师",
-      "中出",
       "巨乳",
+      "中出",
+      "女教师",
       "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1695,13 +1215,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231009/blk362pl.jpg!320x216.jpg",
     "actress": [],
@@ -1718,13 +1232,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1738,19 +1246,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女佣",
       "中出",
       "女生",
+      "女佣",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1767,13 +1269,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/7KDuiIte.jpg",
     "actress": [],
@@ -1788,13 +1284,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1811,17 +1301,11 @@ window.PAGE_DATA = [
       "荡妇",
       "口交",
       "女上位",
-      "晒黑",
-      "女生"
+      "女生",
+      "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1a4e04224cbf6f89a7c0d74b86e095bc.jpg",
     "actress": [],
@@ -1835,21 +1319,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "人妻",
-      "已婚妇女",
       "业余",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
       "中出",
-      "巨乳"
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678370a42a47ebb1a89488ed/cover.jpg",
     "actress": [
@@ -1865,20 +1343,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "乳交",
       "口交",
       "巨乳",
-      "女生"
+      "乳交",
+      "女生",
+      "女大学生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/68c6bffc91426b985ebb0f3b81810cad.jpg",
     "actress": [],
@@ -1892,20 +1364,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "乳交",
       "中出",
-      "制服",
-      "巨乳",
-      "女生"
+      "女生",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2018-12-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1922,13 +1388,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200724/blk393pl.jpg",
     "actress": [],
@@ -1942,22 +1402,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
+      "精选，综合",
       "口交",
       "巨乳",
-      "精选，综合",
-      "晒黑",
+      "素人作品",
       "泳装",
-      "女生"
+      "女生",
+      "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1988c7283bf8a19e0c187f9c7f349744.jpg",
     "actress": [
@@ -1975,13 +1429,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1996,13 +1444,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2017,13 +1459,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2037,21 +1473,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "精选，综合",
       "中出",
       "素人作品",
-      "精选，综合",
       "轮奸",
+      "校服",
       "滥交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804789c179ffb1db6d75d5/cover.jpg",
     "actress": [
@@ -2070,13 +1500,7 @@ window.PAGE_DATA = [
       "出道作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/25359_cover_2025-07-02_020815.jpg",
     "actress": [],
@@ -2091,13 +1515,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/3a2cad36b5cb400d87cc28e5e652ddfa.jpg",
     "actress": [],
@@ -2111,22 +1529,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "荡妇",
-      "业余",
-      "素人作品",
-      "口交",
       "精选，综合",
+      "荡妇",
+      "口交",
+      "业余",
+      "潮吹",
+      "素人作品",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/090b4ec9b60ae091eea189bc10dde1f6.jpg",
     "actress": [
@@ -2142,22 +1554,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "晒黑",
+      "巨乳",
+      "潮吹",
+      "第一人称摄影",
+      "素人作品",
       "女生",
-      "第一人称摄影"
+      "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fc611f00a12816d19ccbc2b93c38feef.jpg",
     "actress": [
@@ -2173,20 +1579,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "凌辱",
-      "深喉",
+      "潮吹",
       "女生",
-      "接吻"
+      "接吻",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5a2e5c7a1c604b9b8e6013d4f5f235f5.jpg",
     "actress": [
@@ -2202,20 +1602,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "苗条",
-      "平胸",
       "恋物癖",
-      "女生"
+      "潮吹",
+      "女生",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4e28d3394aeeace0890b68473ba6d98a.jpg",
     "actress": [
@@ -2231,19 +1625,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "晒黑",
-      "巨大屁股",
       "女生",
-      "巨乳"
+      "巨乳",
+      "晒黑",
+      "巨大屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e6dd5280558d4db2249b576589a3b465.jpg",
     "actress": [],
@@ -2257,19 +1645,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "监禁",
       "中出",
       "女生",
-      "高中女生"
+      "高中女生",
+      "监禁"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2285,19 +1667,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "晒黑",
       "中出",
       "女生",
-      "巨乳"
+      "巨乳",
+      "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/1aae96aa69fe336c6f3695b9b19a8c53.jpg",
     "actress": [],
@@ -2311,24 +1687,67 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "调教",
+      "精选，综合",
       "中出",
       "素人作品",
-      "精选，综合",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "调教"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad78e55337d7f7be49533/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-409"
+  },
+  {
+    "id": 75130,
+    "IDcode": "BLK-410",
+    "title": "姉ちゃんが家にいない間に勝手に転がり込ん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中文字幕",
+      "中出",
+      "素人作品",
+      "高中女生",
+      "女生",
+      "妹妹",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-410"
+  },
+  {
+    "id": 71152,
+    "IDcode": "BLK-411",
+    "title": "デカ尻ヤンキー！ケツ穴広げられブチギレ状態で子宮追撃バック鬼ピストンまさかの超乙女モード堕ちでAV出演！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "骑乗位",
+      "屁股",
+      "素人作品",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c898c37ea9283297abdcf12bb02d1482.jpg",
+    "actress": [
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-411"
   }
 ];

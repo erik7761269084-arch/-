@@ -7,20 +7,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
-      "中出",
       "口交",
       "巨乳",
-      "女上位"
+      "中出",
+      "女上位",
+      "猎艳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/82524c5af109cda4272883b178001c4f.jpg",
     "actress": [
@@ -36,19 +30,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "中出",
       "荡妇",
-      "巨乳"
+      "巨乳",
+      "淫乱，真实"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e3c12f7b431e1a44718b7ced9eaecb81.jpg",
     "actress": [
@@ -65,20 +53,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "口交",
       "第一人称摄影"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2024-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/29fddd34d2bea3d0e717ff9064c1b149.jpg",
     "actress": [
@@ -95,19 +77,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乳交",
-      "中出",
+      "口交",
       "巨乳",
-      "口交"
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/0cd63c3dee15a58cbfd9d38346d99d5a.jpg",
     "actress": [
@@ -123,21 +99,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
+      "巨乳",
       "乳交",
       "无码破解",
       "中出",
-      "巨乳",
+      "巨大屁股",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/0740e69e2c4147775b36e17fbcfc63ed.jpg",
     "actress": [
@@ -154,20 +124,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "中出",
       "巨乳",
-      "女生",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "淫乱，真实",
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/54848e0049a54f716afbfe69c09a206e.jpg",
     "actress": [
@@ -183,19 +147,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "礼仪小姐",
       "荡妇",
-      "巨乳",
-      "美容院"
+      "美容院",
+      "礼仪小姐",
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2021-08-19",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221021-1/c41e1fbbfc7f17bcf5ab3e939a207789.jpg",
     "actress": [
@@ -212,20 +170,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "巨大屁股",
       "口交",
-      "巨乳"
+      "巨乳",
+      "巨大屁股",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2021-09-21",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/f22c3bc3ceedf9e06d41145d9f8d011d.jpg",
     "actress": [
@@ -241,20 +193,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "M男",
-      "中出",
       "巨乳",
+      "中出",
       "手淫",
-      "女生"
+      "女生",
+      "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/019f2b68e81d4645e8e51e2f44c48817.jpg",
     "actress": [
@@ -270,20 +216,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "巨乳",
-      "淫语",
-      "第一人称摄影"
+      "第一人称摄影",
+      "淫乱，真实",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2021-09-21",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9c1337b0148f55b407f2ecd2c927747f.jpg",
     "actress": [
@@ -301,18 +241,12 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "业余",
-      "中出",
       "巨乳",
+      "中出",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241202/cGVk290E/1.jpg",
     "actress": [],
@@ -327,19 +261,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "巨大屁股",
+      "巨乳",
       "纪录片",
       "中出",
-      "巨乳"
+      "巨大屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/50255ec4dcd90df25827035e0ed38a9c.jpg",
     "actress": [
@@ -355,20 +283,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
       "巨大屁股",
-      "肛交",
       "中出",
-      "巨乳"
+      "多P",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -385,20 +307,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "礼仪小姐",
-      "中出",
       "巨乳",
+      "潮吹",
+      "中出",
+      "礼仪小姐",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/06/68427552bea44e0606187c6d/cover.jpg",
     "actress": [
@@ -415,21 +331,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "口交",
+      "巨乳",
       "中出",
       "药物",
-      "巨乳",
-      "口交",
-      "精选，综合",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230103-1/3195c85260b9de76c08ef77c05aa660a.jpg",
     "actress": [],
@@ -443,20 +353,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
+      "淫乱，真实",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -474,18 +378,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "巨大屁股",
       "女生",
-      "巨乳"
+      "巨乳",
+      "巨大屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -501,20 +399,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "中出",
       "口交",
       "巨乳",
-      "高"
+      "中出",
+      "高",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -531,22 +423,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "超乳",
       "恋物癖",
       "乳交",
-      "超乳",
       "中出",
       "两女一男",
-      "巨乳",
       "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-02-15",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -565,20 +451,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "业余",
-      "中出",
       "巨乳",
+      "潮吹",
+      "中出",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -596,20 +476,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "中出",
       "巨乳",
-      "靴子",
+      "中出",
+      "第一人称摄影",
       "女生",
-      "第一人称摄影"
+      "靴子"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-03-15",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/46b0fe799122ab5dc198ac28280241f5.jpg",
     "actress": [],
@@ -623,21 +497,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "巨乳",
       "已婚妇女",
-      "巨大屁股",
       "乱伦",
       "中出",
-      "巨乳"
+      "巨大屁股",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -654,21 +522,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
+      "巨乳",
       "乱伦",
       "中出",
-      "巨乳",
+      "淫乱，真实",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -684,20 +546,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
       "业余",
-      "中出",
       "巨乳",
+      "乳交",
+      "中出",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -713,21 +569,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "乳交",
-      "两女一男",
       "巨乳",
-      "女生"
+      "乳交",
+      "淫乱，真实",
+      "女生",
+      "两女一男",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -741,21 +591,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "吞精",
+      "巨乳",
       "中出",
-      "两女一男",
-      "巨乳"
+      "淫乱，真实",
+      "两女一男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5e36cd815bd6251c829898259aa0e793.jpg",
     "actress": [
@@ -772,21 +616,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "内衣",
+      "巨乳",
+      "单体作品",
       "巨大屁股",
       "中出",
-      "巨乳",
-      "单体作品"
+      "潮吹",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-04-19",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b11a2fab767d75e3ac5d8a3608c8b7cd.jpg",
     "actress": [
@@ -802,20 +640,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "无毛",
       "巨乳",
+      "巨大屁股",
       "手淫",
-      "女生"
+      "女生",
+      "无毛"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-04-19",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230104-1/c249da44aa88a35e096e155e21bef9df.jpg",
     "actress": [
@@ -831,21 +663,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "角色扮演者",
+      "巨乳",
+      "单体作品",
       "乳交",
       "中出",
-      "巨乳",
-      "角色扮演者",
-      "女生",
-      "单体作品"
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/fc146f0a59cf05df76f94207b25e6fb5.jpg",
     "actress": [
@@ -863,21 +689,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "巨大屁股",
-      "首次亮相",
       "巨乳",
+      "单体作品",
+      "首次亮相",
+      "巨大屁股",
       "女上位",
-      "女生",
-      "单体作品"
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -894,20 +714,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "拘束",
       "巨乳",
+      "单体作品",
       "女上位",
       "女生",
-      "单体作品"
+      "拘束"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -921,21 +735,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "业余",
-      "中出",
-      "首次亮相",
       "巨乳",
-      "女生"
+      "首次亮相",
+      "中出",
+      "女生",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/6cb05335f621d696328d93b001a57dc1.jpg",
     "actress": [],
@@ -949,20 +757,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "中出",
-      "巨乳",
       "角色扮演者",
-      "女生"
+      "巨乳",
+      "中出",
+      "女生",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -978,21 +780,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "乳交",
-      "巨乳",
       "角色扮演者",
-      "兔女郎",
-      "女生"
+      "荡妇",
+      "巨乳",
+      "乳交",
+      "女生",
+      "兔女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2bdf96a97d09d4a8f84e9adb9caf7f87.jpg",
     "actress": [],
@@ -1006,21 +802,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "猎艳",
       "业余",
-      "中出",
       "巨乳",
-      "女生"
+      "嫩妹",
+      "中出",
+      "女生",
+      "猎艳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-06-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1037,19 +827,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "中出",
       "巨乳",
-      "女生",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0ef74b18bea4044e6c3e06d185135130.jpg",
     "actress": [],
@@ -1064,18 +848,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "第一人称摄影",
-      "女生",
+      "荡妇",
       "巨乳",
-      "荡妇"
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/bdebb555afb73331f9d59781973d6b72.jpg",
     "actress": [
@@ -1092,20 +870,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "巨乳",
-      "讲师",
+      "单体作品",
+      "中出",
       "女生",
-      "单体作品"
+      "讲师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-07-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250111-1/5d3b5be7f443c7cd83ff717db0465c04.jpg",
     "actress": [],
@@ -1119,20 +891,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/052d781c93aa6beed7e6f8aac4d1f1d6.jpg",
     "actress": [],
@@ -1146,21 +912,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
-      "女生",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-08-16",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f9ec227fe2b1bf0178751f5cf32f886f.jpg",
     "actress": [
@@ -1177,20 +937,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-08-16",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/ab6ea6774d0799be9df81321a2055665.jpg",
     "actress": [
@@ -1213,13 +967,7 @@ window.PAGE_DATA = [
       "荡妇"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/0dff75e9a46b866edc2c84222285d1e6.jpg",
     "actress": [],
@@ -1233,21 +981,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "首次亮相",
       "巨乳",
+      "单体作品",
+      "首次亮相",
+      "第一人称摄影",
       "手淫",
-      "女生",
-      "单体作品"
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/76b6dfe617b61f4a21888a2778c3c65a.jpg",
     "actress": [
@@ -1264,20 +1006,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "巨乳",
-      "兔女郎",
-      "女生"
+      "淫乱，真实",
+      "女生",
+      "兔女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2022-09-20",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230124-1/942ea533d320ac4af8043093d322b510.jpg",
     "actress": [
@@ -1294,19 +1030,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "出轨",
-      "中出",
       "巨乳",
-      "女生"
+      "中出",
+      "女生",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/6ba0583d03eaa19a08a08ece882cf2eb.jpg",
     "actress": [
@@ -1322,20 +1052,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "业余",
-      "中出",
       "巨乳",
+      "潮吹",
+      "中出",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/05890c867b55576abab2d529939abf7f.jpg",
     "actress": [],
@@ -1349,20 +1073,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "中出",
       "巨乳",
-      "女生"
+      "中出",
+      "淫乱，真实",
+      "女生",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1379,19 +1097,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "巨大屁股",
       "中出",
-      "巨乳",
       "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/f2f5cb48a5d0a1483fd66b6066ae464d.jpg",
     "actress": [
@@ -1409,19 +1121,13 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "巨乳",
+      "单体作品",
       "手淫",
-      "淫语",
       "女生",
-      "单体作品"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/596e4f24aebb4f4e3116212df5052aa6.jpg",
     "actress": [
@@ -1440,13 +1146,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3ffa653941766f573a6d7d439c235eb1.jpg",
     "actress": [],
@@ -1460,20 +1160,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泡泡袜",
-      "中出",
-      "制服",
       "巨乳",
-      "女生"
+      "中出",
+      "女生",
+      "泡泡袜",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1490,20 +1184,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
+      "单体作品",
       "巨大屁股",
       "中出",
-      "巨乳",
-      "女生",
-      "单体作品"
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/91f578fef2bc96f3dab930065745af86.jpg",
     "actress": [
@@ -1519,21 +1207,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
+      "巨乳",
+      "单体作品",
       "玩具",
       "中出",
-      "巨乳",
-      "女生",
-      "单体作品"
+      "第一人称摄影",
+      "女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1547,21 +1229,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "中出",
-      "两女一男",
       "巨乳",
-      "女生"
+      "中出",
+      "淫乱，真实",
+      "女生",
+      "两女一男",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6833052035d00134fb893f45/cover.jpg",
     "actress": [
@@ -1578,32 +1254,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "潮吹",
-      "舔陰",
-      "深喉",
-      "口爆",
-      "乳交",
-      "美乳",
-      "中出",
-      "蕩婦",
+      "少女",
       "口交",
+      "巨乳",
+      "白絲",
+      "舔陰",
+      "潮吹",
+      "乳交",
+      "中出",
       "網襪",
       "女上位",
-      "少女",
-      "後入",
+      "蕩婦",
+      "口爆",
       "騎乗位",
-      "巨乳",
-      "亂交 • 群P"
+      "亂交 • 群P",
+      "後入",
+      "深喉",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2024-01-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240115/2aef1658-a29f-41a2-83ee-9ed1bdd6f870.jpg",
     "actress": [],
@@ -1617,50 +1287,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "飯店",
-      "護士",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
       "少女",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "美腳",
+      "亂交 • 群P",
+      "出道作品",
+      "感官作品",
       "膚黑",
-      "自慰",
-      "乳交",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "護士",
+      "飯店",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
       "肌肉",
+      "潮吹",
+      "乳交",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001954582582.jpg",
     "actress": [
@@ -1676,48 +1340,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "叛逆少女",
-      "慾求不滿",
-      "純粹的慾望",
-      "飯店",
-      "辣妹/GAL系",
-      "臀控",
-      "美少女",
       "美腳",
+      "臀控",
+      "美臀",
+      "野性",
       "癡女",
+      "膚黑",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "飯店",
+      "純粹的慾望",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
       "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "約炮",
-      "野性",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "膚黑",
+      "慾求不滿",
       "乳交",
-      "金髮",
+      "約炮",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2024-09-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240913/20240913015049395395.jpg",
     "actress": [
@@ -1736,13 +1394,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/7079125268f7650eb0ba155b3227b926.jpg",
     "actress": [],
@@ -1756,46 +1408,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
+      "野性",
+      "癡女",
+      "感官作品",
+      "膚黑",
+      "舔陰",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "絕頂高潮",
       "M男・M女",
       "辣妹/GAL系",
-      "感官作品",
-      "癡女",
-      "真人秀",
-      "胸控・戀乳癖",
+      "女優",
+      "企畫",
+      "上門福利",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "素人",
       "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
       "潮吹",
-      "野性",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "企畫",
-      "絕頂高潮",
-      "女優",
-      "上門福利",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "膚黑",
       "乳交",
-      "金髮",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "真人秀",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
     "actress": [
@@ -1812,56 +1458,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "醫院・診所",
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "港區女子",
-      "護士制服",
-      "網襪",
-      "辣妹/GAL系",
-      "護士",
       "美腳",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
+      "網襪",
+      "口爆",
+      "美臀",
       "野性",
+      "膚黑",
+      "舔陰",
       "淫亂",
       "中出",
-      "肌肉",
-      "美人",
-      "後入",
-      "美臀",
+      "丁字裤",
       "劇情",
+      "勾引・誘惑",
       "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "膚黑",
-      "乳交",
+      "白絲",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "護士",
       "看病・住院",
       "金髮",
-      "女上位",
-      "丁字裤",
+      "手指插入",
+      "艷遇",
       "騎乗位",
-      "情趣內衣"
+      "護士制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "肌肉",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "醫院・診所"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/16/67d6adc5cf22ae3e04414602/cover.jpg",
     "actress": [
@@ -1879,20 +1519,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
-      "中出",
       "巨乳",
+      "单体作品",
+      "中出",
       "女生",
-      "单体作品"
+      "猎艳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250922-1/19fb6f68d9b4e3fad228f2af90df474a.jpg",
     "actress": [
@@ -1909,47 +1543,41 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "獵豔",
-      "叛逆少女",
-      "情趣飯店",
-      "港區女子",
-      "辣妹/GAL系",
-      "感官作品",
       "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
+      "情趣飯店",
+      "感官作品",
+      "膚黑",
+      "舔陰",
       "兩男一女",
-      "約炮",
       "淫亂",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "絕頂高潮",
-      "舔陰",
       "美少女電影",
+      "按摩棒",
+      "絕頂高潮",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "港區女子",
+      "企畫",
       "手指插入",
-      "素人",
-      "膚黑",
-      "乳交",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "約炮",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2025-02-18",
     "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075931785785.jpg",
     "actress": [
@@ -1965,71 +1593,65 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "泳裝",
-      "3P・4P",
-      "奇聞趣事",
-      "艷遇",
-      "巨尻",
-      "情趣飯店",
-      "口爆",
       "真實拍攝",
       "豐滿",
-      "港區女子",
-      "網襪",
-      "辣妹/GAL系",
-      "感官作品",
-      "癡女",
-      "JK校服",
-      "傳播妹",
-      "飯店小姐・援交妹",
-      "真人秀",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
       "風俗夜場",
+      "網襪",
+      "高妹",
+      "口爆",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "大乳暈",
-      "潮吹",
-      "兩男一女",
-      "高顏值",
-      "風俗娘",
+      "傳播妹",
       "野性",
+      "癡女",
+      "情趣飯店",
+      "感官作品",
+      "膚黑",
+      "大乳暈",
+      "奇聞趣事",
+      "兩男一女",
       "淫亂",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "聚會・PARTY",
       "舔陰",
       "美少女電影",
-      "手指插入",
-      "拜金女",
-      "高妹",
-      "膚黑",
-      "乳交",
-      "金髮",
-      "女上位",
       "丁字裤",
+      "拜金女",
+      "抹油",
+      "性感",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "金髮",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "飯店小姐・援交妹",
+      "巨乳",
+      "口交",
+      "風俗娘",
+      "潮吹",
+      "乳交",
       "乱交",
-      "騎乗位"
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "大奶头",
+      "JK校服",
+      "濕身",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515092438588588_thumbnail.webp",
     "actress": [
@@ -2045,54 +1667,48 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
+      "蠻橫嬌羞",
+      "美腳",
+      "網襪",
       "小隻馬",
       "口爆",
-      "慾求不滿",
-      "網襪",
-      "苗條",
-      "辣妹/GAL系",
-      "美腳",
+      "亂交 • 群P",
       "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "地雷系",
+      "約炮",
+      "乳交",
+      "情趣內衣",
+      "女上位",
       "胸控・戀乳癖",
       "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
       "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "約炮",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "地雷系",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072843346346_thumbnail.webp",
     "actress": [
@@ -2108,64 +1724,58 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "3P・4P",
+      "豐滿",
+      "蠻橫嬌羞",
       "獵豔",
+      "美腳",
+      "網襪",
+      "口爆",
+      "美臀",
+      "神待娘",
+      "亂交 • 群P",
+      "搭訕",
+      "癡女",
+      "情趣飯店",
+      "膚黑",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "酒醉",
+      "美少女電影",
+      "拜金女",
+      "劇情",
+      "絕頂高潮",
+      "白絲",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "苗條",
+      "顏射",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "顔面騎乘",
       "吞精",
       "巨尻",
-      "叛逆少女",
-      "慾求不滿",
-      "情趣飯店",
-      "口爆",
-      "豐滿",
-      "網襪",
-      "苗條",
-      "辣妹/GAL系",
-      "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
       "巨乳",
-      "性感",
       "口交",
-      "形象俱樂部",
+      "慾求不滿",
       "潮吹",
-      "兩男一女",
-      "搭訕",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
       "肌肉",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "酒醉",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
-      "顔面騎乘",
-      "膚黑",
       "乳交",
-      "神待娘",
-      "金髮",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120626184848_thumbnail.webp",
     "actress": [
@@ -2181,74 +1791,68 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "獵豔",
-      "M男・M女",
-      "口爆",
       "豐滿",
-      "網襪",
-      "性虐癖",
       "鬼畜片",
-      "辣妹/GAL系",
+      "獵豔",
+      "性虐癖",
       "凌辱",
-      "緊縛",
-      "癡女",
-      "拘束・拷問",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
       "風俗夜場",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "野性",
-      "淫亂",
-      "極品美人",
-      "風俗娘",
-      "女王",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
+      "拘束・拷問",
+      "網襪",
+      "口爆",
       "SM",
-      "劇情",
       "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "拜金女",
-      "顔面騎乘",
-      "無毛",
-      "舔腳",
-      "乳交",
-      "高跟鞋",
+      "亂交 • 群P",
+      "野性",
+      "癡女",
       "膚黑",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "猥褻穿著",
       "御姐系",
+      "拜金女",
+      "接吻",
+      "劇情",
       "調教",
-      "足交",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "辣妹/GAL系",
+      "緊縛",
+      "高顏值",
+      "女王",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
+      "顔面騎乘",
+      "口交",
+      "巨乳",
+      "風俗娘",
       "肌肉",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "足交",
+      "大奶头",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "2025-08-11",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710033058896896_94352_thumbnail.webp",
     "actress": [
@@ -2266,50 +1870,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
-      "辣妹/GAL系",
+      "出軌",
       "美腳",
+      "單體作品",
+      "野性",
+      "混血",
       "癡女",
+      "膚黑",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "女友姐姐",
+      "後入",
       "勾引・誘惑",
+      "絕頂高潮",
+      "乱伦",
+      "辣妹/GAL系",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "肌肉",
+      "慾求不滿",
+      "女上位",
       "胸控・戀乳癖",
       "大奶头",
-      "美乳",
-      "巨乳",
-      "女友姐姐",
       "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "單體作品",
       "NTR",
-      "野性",
-      "淫亂",
-      "出軌",
-      "中出",
-      "美人",
-      "後入",
-      "混血",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "膚黑",
-      "乱伦",
-      "黑絲",
-      "肌肉",
-      "女上位",
-      "騎乗位"
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042825637637_thumbnail.webp",
     "actress": [
@@ -2325,69 +1923,63 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女優訪談",
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
       "真實拍攝",
       "豐滿",
-      "港區女子",
-      "網襪",
-      "綠茶婊",
-      "辣妹/GAL系",
-      "臀控",
-      "流汗",
-      "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "大亂交",
-      "接吻",
-      "形象俱樂部",
-      "比基尼",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
       "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
+      "美腳",
+      "網襪",
+      "口爆",
+      "臀控",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
+      "亂交 • 群P",
+      "癡女",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "拜金女",
-      "顔面騎乘",
-      "無毛",
+      "淫亂",
+      "中出",
       "舔腳",
-      "乳交",
+      "極品美人",
       "御姐系",
-      "女上位",
+      "比基尼",
+      "拜金女",
+      "接吻",
+      "大亂交",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "無毛",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "顔面騎乘",
+      "吞精",
+      "巨尻",
+      "流汗",
+      "巨乳",
+      "慾求不滿",
+      "口交",
+      "乳交",
       "乱交",
-      "騎乗位"
+      "女優訪談",
+      "胸控・戀乳癖",
+      "女上位",
+      "綠茶婊",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040424680680_86608_thumbnail.webp",
     "actress": [
@@ -2403,58 +1995,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "更衣室",
-      "艷遇",
-      "巨尻",
-      "倉庫",
-      "慾求不滿",
-      "口爆",
-      "港區女子",
-      "網襪",
-      "辣妹/GAL系",
-      "女教師",
       "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
+      "更衣室",
+      "網襪",
+      "口爆",
+      "美臀",
       "單體作品",
       "野性",
+      "混血",
+      "癡女",
+      "膚黑",
+      "舔陰",
       "淫亂",
       "中出",
-      "肌肉",
-      "美人",
-      "美腿",
-      "後入",
-      "混血",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "校園生活",
-      "手指插入",
-      "膚黑",
-      "乳交",
       "御姐系",
-      "金髮",
-      "女上位",
+      "校園生活",
+      "劇情",
+      "後入",
+      "勾引・誘惑",
+      "絕頂高潮",
       "學校",
-      "騎乗位"
+      "辣妹/GAL系",
+      "港區女子",
+      "金髮",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "肌肉",
+      "慾求不滿",
+      "乳交",
+      "倉庫",
+      "女上位",
+      "胸控・戀乳癖",
+      "女教師",
+      "大奶头",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032245513513_29001_thumbnail.webp",
     "actress": [
@@ -2470,66 +2056,60 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "3P・4P",
-      "艷遇",
-      "小隻馬",
-      "情趣飯店",
-      "口爆",
-      "綠茶婊",
-      "苗條",
-      "辣妹/GAL系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "口交",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "接吻",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
-      "劇情",
+      "蠻橫嬌羞",
+      "主觀視角",
+      "美腳",
+      "蕩婦",
+      "小隻馬",
+      "口爆",
       "美臀",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
-      "無毛",
-      "舔腳",
+      "亂交 • 群P",
+      "單體作品",
       "神待娘",
-      "女上位",
+      "癡女",
+      "情趣飯店",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "猥褻穿著",
+      "美少女電影",
+      "拜金女",
+      "接吻",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "白絲",
+      "無毛",
+      "辣妹/GAL系",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "艷遇",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "清純",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "大奶头",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023418666666_49664_thumbnail.webp",
     "actress": [
@@ -2545,77 +2125,71 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女優訪談",
-      "3P・4P",
-      "打手槍",
-      "小隻馬",
-      "游戲COSPLAY",
-      "口爆",
-      "慾求不滿",
-      "真實拍攝",
-      "苗條",
-      "辣妹/GAL系",
-      "放尿",
-      "流汗",
-      "美少女",
-      "美腳",
-      "癡女",
-      "JK校服",
-      "羞恥",
-      "真人秀",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "早漏",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "口交",
-      "接吻",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "雙馬尾",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
       "少女",
-      "後入",
-      "美臀",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "美腳",
       "高妹",
-      "無毛",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "舔腳",
-      "乳交",
+      "極品美人",
+      "美少女電影",
+      "接吻",
       "調教",
-      "足交",
+      "美少女",
+      "早漏",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "打手槍",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "無毛",
+      "辣妹/GAL系",
+      "女優",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "傲嬌",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "流汗",
+      "慾求不滿",
+      "潮吹",
+      "雙馬尾",
+      "乳交",
+      "清純",
+      "女優訪談",
       "女上位",
-      "騎乗位"
+      "放尿",
+      "真人秀",
+      "足交",
+      "大奶头",
+      "JK校服",
+      "性感",
+      "3P・4P",
+      "紀念作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032538574574_18458_thumbnail.webp",
     "actress": [
@@ -2632,66 +2206,60 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "3P・4P",
-      "口爆",
-      "慾求不滿",
-      "兔女郎妝扮",
-      "港區女子",
-      "飯店",
-      "網襪",
-      "靴子",
-      "綠茶婊",
-      "辣妹/GAL系",
-      "女教師",
+      "蠻橫嬌羞",
       "美腳",
+      "網襪",
+      "兔女郎妝扮",
+      "口爆",
+      "蕩婦",
+      "美臀",
+      "靴子",
+      "亂交 • 群P",
+      "野性",
+      "一男多女",
       "癡女",
       "眼鏡",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "約炮",
-      "高顏值",
-      "野性",
-      "淫亂",
-      "蠻橫嬌羞",
-      "一男多女",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "美臀",
-      "絕頂高潮",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "丁字裤",
       "拜金女",
-      "高跟鞋",
-      "乳交",
+      "後入",
+      "絕頂高潮",
+      "白絲",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "飯店",
+      "企畫",
       "黑絲",
       "金髮",
-      "女上位",
-      "丁字裤",
-      "乱交",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "約炮",
+      "乳交",
+      "乱交",
+      "情趣內衣",
+      "女上位",
+      "高跟鞋",
+      "綠茶婊",
+      "女教師",
+      "大奶头",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/202509110207595858_11592_thumbnail.webp",
     "actress": [
@@ -2708,59 +2276,53 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "小隻馬",
-      "慾求不滿",
-      "苗條",
-      "辣妹/GAL系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "相親",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
+      "蠻橫嬌羞",
+      "美腳",
       "高妹",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "相親",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "色白",
+      "高顏值",
+      "苗條",
+      "傲嬌",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "大奶头",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020125954954_48985_thumbnail.webp",
     "actress": [
@@ -2776,17 +2338,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2800,15 +2356,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "制服",
-      "素人作品",
       "巨乳",
+      "乳交",
+      "素人作品",
+      "高中女生",
       "颜射",
-      "高中女生"
+      "制服"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/aec9fe887151f3557f7c8af20394127b.jpg",
     "actress": [
@@ -2828,7 +2384,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240503-1/aa97713b6f93f8ca76cabc2213b5d991.jpg",
     "actress": [],
@@ -2843,12 +2399,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "巨大阴茎",
       "巨乳",
+      "巨大阴茎",
       "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2016-06-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/618998598a003fe55f63bb6b2f308b15.jpg",
     "actress": [
@@ -2867,7 +2423,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20220927/blor00081pl.jpg",
     "actress": [],
@@ -2884,7 +2440,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/blor095pl.jpg",
     "actress": [],
@@ -2901,7 +2457,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191215-1/902c26deaad80f0cdb29b3865dc8acf8.jpg",
     "actress": [],
@@ -2918,7 +2474,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240503-1/ed64992a58801d66d5283cb4baefaaa6.jpg",
     "actress": [],
@@ -2935,7 +2491,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dae76bd6fbef4e90d1e01c/cover.jpg",
     "actress": [],
@@ -2952,7 +2508,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca9459eb67774efba3b327/cover.jpg",
     "actress": [],
@@ -2969,7 +2525,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a2ec03930dcd3343feb8e7ba5e1baf9f.jpg",
     "actress": [],
@@ -2986,7 +2542,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230401/3HvaV3KT/1.jpg",
     "actress": [],
@@ -3003,7 +2559,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231216/blor211pl.jpg!320x216.jpg",
     "actress": [],
@@ -3020,7 +2576,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230621/vhJIlKQZ/1.jpg",
     "actress": [],
@@ -3037,7 +2593,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230725/4uXaan6D/1.jpg",
     "actress": [],
@@ -3054,7 +2610,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231023/7Wjw40bH/1.jpg",
     "actress": [],
@@ -3071,7 +2627,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240226/b6gbKlXK/1.jpg",
     "actress": [],
@@ -3088,7 +2644,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240422/bSx1YiJg/1.jpg",
     "actress": [],
@@ -3105,7 +2661,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240422/XNWYum64/1.jpg",
     "actress": [],
@@ -3122,7 +2678,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240527/pxZGCA5r/1.jpg",
     "actress": [],
@@ -3139,7 +2695,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240624/b8cX0XeU/1.jpg",
     "actress": [],
@@ -3153,11 +2709,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/a67c657d209544093f070dfcaf545c39.jpg",
     "actress": [],
@@ -3174,7 +2730,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/e0332b7154fc5a78c40f02b7e4b219ff.jpg",
     "actress": [],
@@ -3188,12 +2744,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
       "巨乳",
-      "颜射"
+      "颜射",
+      "巨大屁股"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/0e6c33da66e9397a7c59e6a1164fbd93.jpg",
     "actress": [],
@@ -3207,14 +2763,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "流汗",
       "巨乳",
-      "颜射",
-      "女优按摩棒"
+      "流汗",
+      "女优按摩棒",
+      "按摩",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/3fd506b09acd3a9e29d5beee8d61a375.jpg",
     "actress": [],
@@ -3228,14 +2784,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "胖女人",
-      "乳房",
       "巨乳",
+      "乳房",
+      "胖女人",
+      "按摩",
       "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -3252,7 +2808,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],

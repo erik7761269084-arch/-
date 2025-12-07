@@ -556,7 +556,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2023-05-11",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8a9f0fe6d288b19a23c82f00c3c6efce.jpg",
       "actress": [

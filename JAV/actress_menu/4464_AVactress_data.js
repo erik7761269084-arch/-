@@ -20,7 +20,7 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 119664,
-      "IDcode": "FC2PPV-1285363",
+      "IDcode": "FC2-PPV-1285363",
       "title": "【个人撮影】淫乱 教师ふたたび！37歳 浮気にハマる人妻 巨根にまたがり欲望の限り腰を振ってアクメ堕ち 强烈な",
       "year": "",
       "country": "",
@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-1285363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1285363"
     },
     {
       "id": 99249,

@@ -179,7 +179,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2022-03-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/212abb055c68536f0b68a710509ece74.jpg",
       "actress": [
@@ -276,7 +276,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2020-03-19",
       "cover_url": "",
       "actress": [

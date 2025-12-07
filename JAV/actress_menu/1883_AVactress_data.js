@@ -56,7 +56,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2010-04-16",
       "cover_url": "https://picture.yoshiclub.xyz/20230403/c3e860de-1282-4b4f-acb8-58c2cf34bd0a.jpg",
       "actress": [

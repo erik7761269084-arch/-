@@ -146,7 +146,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-05-21",
       "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517035150359359.jpg",
       "actress": [
@@ -259,7 +259,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2022-03-16",
       "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/300b42c895b5ec6015be4046ec80e7f2.jpg",
       "actress": [
@@ -745,7 +745,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/ce6ce7e00e199bacdde314cc990bffc8.jpg",
       "actress": [
@@ -930,7 +930,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e03e8d79f1ac4ec48bc0bc/cover.jpg",
       "actress": [
@@ -1000,7 +1000,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515095444449449_thumbnail.webp",
       "actress": [

@@ -358,7 +358,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/94be851f02a0b3ac1a783b1eda2f84a4.jpg",
       "actress": [
@@ -1392,7 +1392,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250723-1/2ddbffb7f88a43056e281b349c6c4194.jpg",
       "actress": [

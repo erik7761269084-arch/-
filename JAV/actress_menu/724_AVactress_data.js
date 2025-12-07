@@ -54,7 +54,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2025-03-20",
       "cover_url": "https://picture.yoshiclub.xyz/20250320/b08f9f58-3f76-4a43-8ddc-a682ad6b161c.jpg",
       "actress": [
@@ -70,7 +70,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "2025-02-20",
       "cover_url": "https://picture.yoshiclub.xyz/20250220/01d9d84d-2da6-46bb-8ba9-1fb6b984c8de.jpg",
       "actress": [
@@ -102,7 +102,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/7bc8e0f1-b2d5-49f6-8d11-3e56254e7165_thumbnail.webp",
       "actress": [
@@ -118,7 +118,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/2ff36721ea59d0fa15cf8cb0a190ba38.jpg",
       "actress": [
@@ -134,7 +134,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68aebaea81bce592e9c18e60/cover.jpg",
       "actress": [
@@ -151,7 +151,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033049149149_34441_thumbnail.webp",
       "actress": [
@@ -184,7 +184,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/10/01/2a45db866ffe38478a38e9a32dd61ffd.jpg",
       "actress": [

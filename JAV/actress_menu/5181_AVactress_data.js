@@ -58,7 +58,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2021/12/05/0b43f61aecd80815cda7fc290358252d.jpg",
       "actress": [

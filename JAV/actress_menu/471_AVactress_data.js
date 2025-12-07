@@ -589,7 +589,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-1/f5f6c3a3ac379da54f706fee5b177e41.jpg",
       "actress": [
@@ -764,7 +764,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2bea4d59368ba9eefeede8841e59a3d9.jpg",
       "actress": [
@@ -1179,7 +1179,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240706-1/5d523b94a4bfff74ef27c82b7d89694f.jpg",
       "actress": [

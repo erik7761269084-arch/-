@@ -116,7 +116,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "NEXT",
       "publish_date": "2025-06-20",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622045922929929_thumbnail.webp",
       "actress": [
@@ -672,7 +672,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250303/b82250ea-b892-4ffd-b420-89ccb358764d.jpg",
       "actress": [
@@ -904,7 +904,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/978aee56/vod.jpg",
       "actress": [

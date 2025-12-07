@@ -1362,7 +1362,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2020/09/30/d8f19725b8abf1158b72a22759936a2f.jpg",
       "actress": [
@@ -1378,7 +1378,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230405/66075507-b846-4594-aa12-4585dc602b15.jpg",
       "actress": [

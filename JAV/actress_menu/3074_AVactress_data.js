@@ -644,7 +644,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2020-02-16",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/5576e148031da81426701a9c02d67410.jpg",
       "actress": [
@@ -2404,7 +2404,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d956aa3ea776702a37c25c4e8bfdd288.jpg",
       "actress": [
@@ -2441,7 +2441,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://fm.sl25914.com/upload/vod/20230317-1/8b89d85693d731129a339acfec5a8305.jpg",
       "actress": [
@@ -2541,7 +2541,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/d316f7c20c14c9475e17cc89ea0dbbc2.jpg",
       "actress": [
@@ -3941,7 +3941,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/05/19/228ecfd89ff3fc37078dd5bbf6101412.jpg",
       "actress": [
@@ -3993,7 +3993,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240820-1/c5b636e85cfe55236db247a3e00c8d75.jpg",
       "actress": [
@@ -4718,7 +4718,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522032628928928_thumbnail.webp",
       "actress": [

@@ -218,7 +218,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/01/19/1f70536073438ec3dbebcb0699de0bbe.jpg",
       "actress": [

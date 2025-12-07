@@ -218,7 +218,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "2022-05-24",
       "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/9349f182d7e703ba2149db578d59ac14.jpg",
       "actress": [
@@ -790,7 +790,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "",
       "actress": [

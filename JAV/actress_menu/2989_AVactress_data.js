@@ -538,7 +538,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-4/70d43361f22a72c7eeb670df35c62391.jpg",
       "actress": [
@@ -3495,7 +3495,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250401-1/4ae9f1ce4ab5ed28a97a323ea4a1a6df.jpg",
       "actress": [
@@ -4535,7 +4535,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/22/0b586482ae391b694d5514632da93ce6.jpg",
       "actress": [

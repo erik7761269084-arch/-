@@ -608,7 +608,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -757,7 +757,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250723-1/0d317852381631f930f35895ff3fde56.jpg",
       "actress": [

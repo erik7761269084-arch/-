@@ -1,5 +1,531 @@
 window.PAGE_DATA = [
   {
+    "id": 15843,
+    "IDcode": "CHUC-071",
+    "title": "天真 E 罩杯大奶子女學生喜歡被中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "女學生",
+      "美臀",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "飯店",
+      "苗條",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20240327/20240327073126413413.jpg",
+    "actress": [
+      "橘知花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-071"
+  },
+  {
+    "id": 15840,
+    "IDcode": "CHUC-074",
+    "title": "結婚三年的人妻OL無法停止外遇 玉城夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "人妻",
+      "淫亂",
+      "中出",
+      "按摩棒",
+      "絕頂高潮",
+      "女同事",
+      "偷竊",
+      "飯店",
+      "苗條",
+      "黑絲",
+      "短裙・迷你裙",
+      "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20240327/20240327073500664664.jpg",
+    "actress": [
+      "玉城夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-074"
+  },
+  {
+    "id": 518220,
+    "IDcode": "CHUC-077",
+    "title": "喜歡巡遊咖啡廳的療癒系美巨乳妹子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcbf22ce5a404e9bc367e5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-077"
+  },
+  {
+    "id": 518230,
+    "IDcode": "CHUC-081",
+    "title": "喝酒後就馬上搞的J罩杯美乳咖啡廳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdc442dd88d14f06f62479/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-081"
+  },
+  {
+    "id": 545456,
+    "IDcode": "CHUC-084",
+    "title": "结婚3年目のIカップ爆乳不伦妻 れいか（28）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240529/E8f4WeeS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-084"
+  },
+  {
+    "id": 545117,
+    "IDcode": "CHUC-091",
+    "title": "経験人数3桁を目指す巨乳ヤリ●ンフリーター ゆの（20）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240729/SUTdEAEk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-091"
+  },
+  {
+    "id": 560088,
+    "IDcode": "CHUC-100",
+    "title": "中出し大好きG乳性欲モンスター まお（28）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241020/ksC2dUC2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-100"
+  },
+  {
+    "id": 492956,
+    "IDcode": "CHUC-101",
+    "title": "潮吹超厉害的E罩杯咖啡厅女郎雏子（20） 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/6efadab9bd7ea784a44023abc4981a44.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-101"
+  },
+  {
+    "id": 499389,
+    "IDcode": "CHUC-105",
+    "title": "作家Kaho(26)与H杯内陷乳头未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/7477ed078d17cb1b3774213b8718e84a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-105"
+  },
+  {
+    "id": 401763,
+    "IDcode": "CHUC-111",
+    "title": "F罩杯酒店妹下班后吃事后药中出 杏（23） 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251007-1/28e1ff0162a929665373ed483d7e4d24.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-111"
+  },
+  {
+    "id": 456677,
+    "IDcode": "CHUC-114",
+    "title": "与H罩杯女友恩爱自拍性爱 穗乃（25） 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250927-1/ac077dfe667486b786a78ea70bda5d41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-114"
+  },
+  {
+    "id": 401936,
+    "IDcode": "CHUC-116",
+    "title": "G罩杯关西系炮友 雏乃（23） 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250920-1/9a33cff103c42fcf1172c494bab053be.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-116"
+  },
+  {
+    "id": 440835,
+    "IDcode": "CHUC-126",
+    "title": "焼肉の匂い香る巨乳フリーターは定期セフレさつき（21）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250707-1/507ecc262b08450c808f05ac8b4aa50b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-126"
+  },
+  {
+    "id": 67266,
+    "IDcode": "CHUC-131",
+    "title": "Eカップ激カワ美少女とエロコス中出しSEX のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "中出",
+      "第一人称摄影",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-1/9b3737b61cd80dbe558f3c800774723d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-131"
+  },
+  {
+    "id": 69643,
+    "IDcode": "CHUC-132",
+    "title": "Fカップ生セフレは何でもアリの最優秀ヤリ○ン ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-1/c96304a275280ba3179a45ff93db30c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-132"
+  },
+  {
+    "id": 438529,
+    "IDcode": "CHUC-134",
+    "title": "G罩杯美女ゆい（21）沉沦生中出性爱狂欢！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/d5d5827243edaf1cbcdfe78ee59aaa81.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-134"
+  },
+  {
+    "id": 62301,
+    "IDcode": "CHUC-140",
+    "title": "Gカップ港区女子は最強美尻で中出しを誘ってくる みな（26）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "中出",
+      "第一人称摄影",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/65e4fa236ced061093f1e47f86314436.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-140"
+  },
+  {
+    "id": 62300,
+    "IDcode": "CHUC-141",
+    "title": "マッチングアプリで出会ったペットショップ勤務の隠れ巨乳美女 みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "中出",
+      "第一人称摄影",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-141"
+  },
+  {
+    "id": 61424,
+    "IDcode": "CHUC-142",
+    "title": "元ヤリマンの受付嬢は今では濃厚な方がいいらしい ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "中出",
+      "第一人称摄影",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-142"
+  },
+  {
+    "id": 60307,
+    "IDcode": "CHUC-145",
+    "title": "Hカップ爆乳ヤリ○ン見つけました しゅん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-145"
+  },
+  {
+    "id": 59796,
+    "IDcode": "CHUC-151",
+    "title": "Hカップ就活生は就活終わりに家まで中出ししにくる めい（22）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "中出",
+      "第一人称摄影",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251011/K27BghBl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-151"
+  },
+  {
+    "id": 173771,
+    "IDcode": "CHUC-152",
+    "title": "彼氏に内緒で中出ししに家まで来てくれるピンク乳輪爆乳女子 まりちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-152"
+  },
+  {
+    "id": 568998,
+    "IDcode": "CHUC129 ",
+    "title": "[CHUC129] E罩杯女仆香音(20) 阴蒂一碰就高潮！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC129 "
+  },
+  {
+    "id": 579143,
+    "IDcode": "CIEL-001",
+    "title": "Gカップ彼氏大好き巨乳彼女とコスプレ赤面えっち◆ 放课后イチャラブお家デート スク水＆チャイナでハメまくり 若宫穂乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230711/h_491ciel001pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-001"
+  },
+  {
+    "id": 534851,
+    "IDcode": "CIEL-003",
+    "title": "“お弁当作ってきたよ！”Iカップ爆乳尽くし系彼女の元気になる応援チアリーダーSEXがたわわ过ぎで汗だくになるまでハメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231027/h_491ciel003pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-003"
+  },
+  {
+    "id": 91334,
+    "IDcode": "CIEL-006",
+    "title": "「私の大きいおっぱい好き…？」Hcupイチャコスハメ撮り 爆乳で激甘々な優しい彼女の淫らに乱れるメス堕ちセックス 菊池まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "巨乳",
+      "单体作品",
+      "过膝袜",
+      "第一人称摄影",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/5fb7c6781329e19b3659650d0523cb9c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-006"
+  },
+  {
     "id": 91337,
     "IDcode": "CIEL-007",
     "title": "「ウチのおっぱいマジ気持ちいからw」Fcup巨乳ギャルイチャコスハメ撮り ガチ巨乳で地黒でドエロなギャル彼女と性欲爆発セックス 姫宮すみれ",
@@ -7,15 +533,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "巨乳",
       "角色扮演者",
+      "巨乳",
+      "单体作品",
       "过膝袜",
-      "女生",
-      "单体作品"
+      "第一人称摄影",
+      "女生"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/fe96a3aae803dac5fd76a7f5ed64e034.jpg",
     "actress": [
@@ -31,14 +557,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "巨乳",
       "角色扮演者",
+      "巨乳",
+      "单体作品",
       "过膝袜",
-      "单体作品"
+      "第一人称摄影"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/166357a342e67a664a32fa0aff452a9c.jpg",
     "actress": [
@@ -54,14 +580,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "巨乳",
       "角色扮演者",
+      "巨乳",
+      "单体作品",
       "过膝袜",
-      "单体作品"
+      "第一人称摄影"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/370a853ade78d4585488855fad6b5664.jpg",
     "actress": [
@@ -77,18 +603,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
-      "女友・妻子",
-      "自拍性愛",
-      "乳交",
-      "過膝襪・小腿襪",
-      "中出",
       "口交",
       "巨乳",
-      "抹油"
+      "自拍性愛",
+      "乳交",
+      "中出",
+      "女友・妻子",
+      "角色扮演",
+      "抹油",
+      "過膝襪・小腿襪"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/2be06afac9092a15b11d065090433f6a.jpg",
     "actress": [
@@ -107,7 +633,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231229/eeAMq8TW/1.jpg",
     "actress": [],
@@ -124,7 +650,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240302/7y50rAr1/1.jpg",
     "actress": [],
@@ -138,16 +664,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "精选，综合",
       "荡妇",
-      "4小时以上作品",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "女上位",
-      "精选，综合"
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/5baacc828ea0e7508b8b022021161809.jpg",
     "actress": [
@@ -173,15 +699,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "4小时以上作品",
-      "姐姐",
       "巨乳",
       "手淫",
-      "精选，综合"
+      "姐姐",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/425acd8656ca707a67d4fc6c1212b42e.jpg",
     "actress": [
@@ -207,31 +733,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "飯店",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
       "淫亂",
-      "內衣",
       "中出",
-      "劇情",
-      "絕頂高潮",
       "美少女電影",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "飯店",
       "手指插入",
-      "乳交",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-06-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621021022808808.jpg",
     "actress": [
@@ -257,15 +783,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "4小时以上作品",
-      "中出",
       "巨乳",
+      "中出",
       "女上位",
-      "精选，综合"
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -289,54 +815,54 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "警察制服",
-      "巨尻",
-      "多P",
-      "慾求不滿",
-      "4小時以上作品",
-      "苗條",
-      "流汗",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "後宮系",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "企畫",
       "少女",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "無毛",
-      "乳交",
-      "黑絲",
+      "熟女",
+      "美腳",
       "蘿莉控",
-      "白眼失神",
-      "女上位",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "人妻",
+      "淫亂",
+      "中出",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
       "學校",
+      "警察制服",
+      "色白",
+      "企畫",
+      "苗條",
+      "女優",
+      "黑絲",
       "騎乗位",
-      "情趣內衣"
+      "制服",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "流汗",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "4小時以上作品",
+      "白眼失神",
+      "後宮系",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b69bfd5fdaf263a260214f/cover.jpg",
     "actress": [
@@ -362,49 +888,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "4小時以上作品",
-      "性虐癖",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "後宮系",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
       "少女",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "無毛",
-      "黑絲",
+      "性虐癖",
+      "多P",
+      "公共場所",
+      "美腳",
       "蘿莉控",
-      "女上位",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "人妻",
+      "淫亂",
+      "中出",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "色白",
+      "女優",
+      "苗條",
+      "黑絲",
       "騎乗位",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
       "情趣內衣",
-      "公共場所"
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "4小時以上作品",
+      "後宮系",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-12-24",
     "cover_url": "https://picture.yoshiclub.xyz/20241225/202412250331436969.jpg",
     "actress": [
@@ -428,44 +954,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
-      "性感睡衣",
-      "口爆",
-      "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "苗條",
-      "辣妹/GAL系",
-      "阪道系",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "色白",
       "清楚系",
+      "豐滿",
+      "精選綜合",
+      "美腳",
       "芸能人",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "野性",
+      "癡女",
+      "人妻",
+      "女神",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "劇情",
+      "辣妹/GAL系",
+      "運動女孩",
+      "港區女子",
+      "色白",
+      "苗條",
+      "阪道系",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "性感睡衣",
+      "女主持・主播",
+      "巨尻",
       "巨乳",
       "口交",
-      "形象俱樂部",
-      "人妻",
-      "後宮系",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "女主持・主播",
-      "中出",
-      "美臀",
       "清純",
-      "美少女電影",
-      "女神",
-      "運動女孩",
-      "劇情"
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "後宮系"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417093442966966_thumbnail.webp",
     "actress": [
@@ -496,44 +1022,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "巨尻",
-      "兩女一男",
-      "精選總編集",
-      "口爆",
-      "美少女",
       "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "一男多女",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
+      "蘿莉控",
+      "口爆",
       "美臀",
-      "紀念作",
+      "濕身",
+      "亂交 • 群P",
+      "兩女一男",
+      "一男多女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "明星臉",
       "絕頂高潮",
       "女優",
+      "高顏值",
+      "企畫",
+      "騎乗位",
+      "精選總編集",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
       "脚控・戀足癖",
-      "美少女電影",
-      "蘿莉控",
-      "白眼失神",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "白眼失神",
+      "後入",
+      "性感",
+      "3P・4P",
+      "紀念作"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250125/20250125080056900900.jpg",
     "actress": [
@@ -570,47 +1096,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "精選總編集",
-      "性感睡衣",
-      "口爆",
-      "豐滿",
-      "苗條",
-      "女僕制服",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "色白",
-      "胸控・戀乳癖",
       "清楚系",
+      "豐滿",
+      "精選綜合",
+      "美腳",
       "芸能人",
+      "蘿莉控",
+      "二次元",
+      "高妹",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "野性",
+      "癡女",
+      "人妻",
+      "女神",
+      "極品美人",
+      "貧乳",
+      "紀錄片",
+      "美少女電影",
+      "劇情",
+      "運動女孩",
+      "色白",
+      "企畫",
+      "苗條",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "性感睡衣",
+      "女僕制服",
+      "巨尻",
       "巨乳",
       "口交",
-      "形象俱樂部",
-      "人妻",
-      "寫真女郎",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "寫真偶像",
-      "企畫",
-      "紀錄片",
-      "美臀",
-      "紀念作",
-      "清純",
-      "美少女電影",
-      "女神",
-      "高妹",
-      "運動女孩",
       "蘿莉",
-      "蘿莉控",
-      "劇情"
+      "清純",
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "寫真女郎",
+      "紀念作"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689a9b856ccb447f8c852a50/cover.jpg",
     "actress": [
@@ -636,49 +1162,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
+      "少女",
+      "清楚系",
       "豐滿",
-      "4小時以上作品",
-      "故事集",
-      "苗條",
-      "臀控",
-      "局部特寫",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
       "精選綜合",
       "主觀視角",
+      "美腳",
+      "高妹",
+      "小隻馬",
+      "臀控",
+      "美臀",
+      "野性",
+      "癡女",
       "中性",
-      "胸控・戀乳癖",
-      "清楚系",
+      "舔陰",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "美少女",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "故事集",
+      "巨尻",
       "口交",
       "巨乳",
-      "性感",
-      "形象俱樂部",
-      "寫真女郎",
-      "高顏值",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
+      "局部特寫",
       "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "高妹",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "後入",
+      "寫真女郎",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080536637637_thumbnail.webp",
     "actress": [
@@ -707,55 +1233,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "巨尻",
-      "精選總編集",
-      "慾求不滿",
-      "三十路",
+      "少女",
       "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "故事集",
-      "局部特寫",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
       "精選綜合",
-      "胸控・戀乳癖",
+      "美腳",
+      "美臀",
+      "野性",
+      "癡女",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "大姐姐",
+      "美少女",
+      "打手槍",
+      "港區女子",
       "色白",
+      "貴婦",
+      "高顏值",
+      "美人妻",
+      "企畫",
+      "阪道系",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "短髮",
       "美乳",
+      "故事集",
+      "女主持・主播",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "貴婦",
-      "美人妻",
-      "短髮",
-      "高顏值",
-      "野性",
-      "淫亂",
-      "超爆乳",
-      "大姐姐",
-      "女主持・主播",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
-      "女優",
-      "舔陰",
-      "手指插入",
+      "慾求不滿",
       "乳交",
-      "御姐系",
+      "局部特寫",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "三十路",
+      "4小時以上作品",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092238629629_thumbnail.webp",
     "actress": [
@@ -782,45 +1308,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "精選綜合",
+      "美腳",
+      "蕩婦",
       "小隻馬",
+      "口爆",
+      "美臀",
+      "野性",
+      "癡女",
+      "膚黑",
+      "人妻",
+      "極品美人",
+      "大姐姐",
+      "美少女電影",
+      "美少女",
+      "明星臉",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "女優",
+      "阪道系",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "無做愛場面",
+      "美人",
+      "美乳",
       "吞精",
       "巨尻",
-      "精選總編集",
-      "無做愛場面",
-      "口爆",
-      "4小時以上作品",
-      "港區女子",
-      "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "美乳",
-      "清楚系",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "大姐姐",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "少女",
-      "美臀",
-      "女優",
       "清純",
-      "美少女電影",
-      "膚黑"
+      "4小時以上作品",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033028496496_99183_thumbnail.webp",
     "actress": [
@@ -849,73 +1375,73 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "小隻馬",
-      "巨尻",
-      "兩女一男",
-      "精選總編集",
-      "慾求不滿",
-      "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "故事集",
-      "苗條",
-      "臀控",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "精選綜合",
-      "色白",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
+      "少女",
       "清楚系",
+      "豐滿",
+      "精選綜合",
+      "蠻橫嬌羞",
+      "美腳",
       "芸能人",
+      "蘿莉控",
+      "高妹",
+      "小隻馬",
+      "臀控",
+      "美臀",
       "亂交 • 群P",
-      "性感",
+      "兩女一男",
+      "野性",
+      "混血",
+      "癡女",
+      "舔陰",
+      "女神",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "貧乳",
+      "美少女電影",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "無毛",
+      "港區女子",
+      "色白",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "女優",
+      "阪道系",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "故事集",
+      "雙飛",
+      "巨尻",
       "巨乳",
       "口交",
-      "熟女",
-      "形象俱樂部",
-      "寫真女郎",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "野性",
-      "淫亂",
-      "貧乳",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "極品美人",
-      "寫真偶像",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "混血",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
       "脚控・戀足癖",
-      "美少女電影",
-      "女神",
-      "高妹",
+      "慾求不滿",
       "顔面騎乘",
       "乳交",
-      "無毛",
       "蘿莉",
-      "御姐系",
-      "蘿莉控",
+      "清純",
+      "寫真偶像",
+      "胸控・戀乳癖",
       "女上位",
-      "騎乗位"
+      "4小時以上作品",
+      "熟女",
+      "大奶头",
+      "寫真女郎",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033031848848_14337_thumbnail.webp",
     "actress": [
@@ -960,50 +1486,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "精選總編集",
-      "口爆",
-      "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "苗條",
-      "局部特寫",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "胸控・戀乳癖",
-      "清楚系",
-      "芸能人",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "美人",
-      "企畫",
-      "後入",
       "少女",
+      "清楚系",
+      "豐滿",
+      "精選綜合",
+      "美腳",
+      "芸能人",
+      "二次元",
+      "小隻馬",
+      "口爆",
       "美臀",
-      "角色扮演",
-      "清純",
+      "野性",
+      "癡女",
+      "膚黑",
+      "人妻",
       "舔陰",
       "女神",
+      "極品美人",
+      "貧乳",
+      "美少女",
+      "港區女子",
+      "企畫",
+      "苗條",
+      "角色扮演",
+      "阪道系",
       "手指插入",
-      "膚黑",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "局部特寫",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025115437437_27697_thumbnail.webp",
     "actress": [
@@ -1040,73 +1566,73 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "豐滿",
+      "精選綜合",
+      "蠻橫嬌羞",
+      "正統派",
+      "美腳",
+      "二次元",
+      "蕩婦",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "姐姐・妹妹",
+      "美臀",
+      "野性",
+      "高妹",
+      "深喉",
+      "癡女",
+      "膚黑",
+      "人妻",
+      "大乳暈",
+      "女神",
+      "淫亂",
+      "極品美人",
+      "大姐姐",
+      "貧乳",
+      "拜金女",
+      "美少女",
+      "明星臉",
+      "辣妹/GAL系",
+      "港區女子",
+      "色白",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "阪道系",
+      "女優",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
       "無做愛場面",
+      "美人",
+      "美乳",
+      "美腿",
+      "女主持・主播",
+      "脚控・戀足癖",
       "吞精",
       "巨尻",
-      "二次元",
-      "精選總編集",
-      "小隻馬",
-      "慾求不滿",
-      "口爆",
-      "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "綠茶婊",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "精選綜合",
-      "色白",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "清楚系",
       "巨乳",
       "口交",
-      "性感",
+      "慾求不滿",
       "雙馬尾",
-      "熟女",
-      "大乳暈",
-      "寫真女郎",
-      "正統派",
-      "後宮系",
-      "形象俱樂部",
-      "深喉",
-      "高顏值",
-      "人妻",
-      "野性",
-      "淫亂",
-      "明星臉",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "大姐姐",
-      "女主持・主播",
-      "貧乳",
-      "極品美人",
-      "寫真偶像",
-      "蕩婦",
-      "姐姐・妹妹",
-      "美腿",
-      "企畫",
-      "美人",
-      "少女",
-      "美臀",
-      "顏射",
-      "女優",
+      "乳交",
       "清純",
-      "脚控・戀足癖",
-      "女神",
-      "拜金女",
-      "高妹",
-      "膚黑",
-      "乳交"
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "綠茶婊",
+      "後宮系",
+      "熟女",
+      "大奶头",
+      "寫真女郎",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1150,62 +1676,62 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "打手槍",
-      "小隻馬",
-      "巨尻",
-      "精選總編集",
+      "少女",
+      "清楚系",
       "豐滿",
-      "4小時以上作品",
-      "港區女子",
-      "故事集",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "阪道系",
-      "美少女",
-      "美腳",
       "精選綜合",
       "主觀視角",
+      "美腳",
+      "姐姐・妹妹",
+      "小隻馬",
+      "臀控",
+      "美臀",
+      "野性",
+      "人妻",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "大姐姐",
+      "美少女電影",
+      "接吻",
+      "性感",
+      "美少女",
+      "後入",
+      "打手槍",
+      "絕頂高潮",
+      "無毛",
+      "辣妹/GAL系",
+      "港區女子",
       "色白",
-      "胸控・戀乳癖",
-      "大奶头",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "短髮",
       "美乳",
-      "清楚系",
+      "美腿",
+      "故事集",
+      "脚控・戀足癖",
+      "巨尻",
       "口交",
       "巨乳",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "人妻",
-      "短髮",
-      "高顏值",
-      "貧乳",
-      "野性",
-      "極品美人",
-      "超爆乳",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "美臀",
-      "絕頂高潮",
       "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "白眼失神",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "白眼失神",
+      "大奶头",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d98e66ce5a404e9bbb6ef6/cover.jpg",
     "actress": [
@@ -1235,7 +1761,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1252,13 +1778,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1273,19 +1793,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
       "手淫",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1301,20 +1815,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "拘束",
+      "巨乳",
       "中出",
-      "巨乳"
+      "淫乱，真实",
+      "拘束"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/47a4bc5fa1c78553241e2480b89d0115.jpg",
     "actress": [
@@ -1331,19 +1839,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
-      "巨乳",
       "肌肉",
+      "巨乳",
+      "中出",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b0854a7ca16e4449084f4b1d0c5dce1e.jpg",
     "actress": [],
@@ -1358,20 +1860,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "姐姐",
       "巨乳",
+      "已婚妇女",
       "女上位",
+      "姐姐",
       "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1388,20 +1884,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乱伦",
-      "姐姐",
-      "中出",
       "巨乳",
-      "女上位"
+      "乱伦",
+      "中出",
+      "女上位",
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1419,20 +1909,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乱伦",
+      "巨乳",
       "乳交",
-      "姐姐",
       "中出",
-      "巨乳"
+      "乱伦",
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1449,20 +1933,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "乱伦",
-      "正太控",
-      "礼仪小姐",
       "中出",
-      "巨乳"
+      "礼仪小姐",
+      "正太控"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67801734c179ffb1db60d111/cover.jpg",
     "actress": [
@@ -1478,22 +1956,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "荡妇",
+      "人妻",
+      "巨乳",
       "乱伦",
-      "妓女",
-      "姐姐",
       "中出",
-      "巨乳"
+      "姐姐",
+      "妓女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1509,23 +1981,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "出轨",
+      "精选，综合",
+      "巨乳",
       "乱伦",
       "中出",
       "素人作品",
-      "巨乳",
       "女上位",
-      "精选，综合"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9e118d181f4d43fe557f481d2dcca74d.jpg",
     "actress": [
@@ -1542,22 +2008,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "精选，综合",
       "荡妇",
+      "巨乳",
       "中出",
       "美少女电影",
       "素人作品",
-      "巨乳",
-      "精选，综合"
+      "校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1573,23 +2033,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
+      "巨乳",
       "乱伦",
-      "姐姐",
       "中出",
       "素人作品",
-      "巨乳",
       "女上位",
-      "精选，综合"
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1605,22 +2059,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
+      "巨乳",
       "乳交",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/00130d1380fc926c0aed73a9315d6d63.jpg",
     "actress": [
@@ -1636,22 +2084,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "出轨",
+      "巨乳",
       "中出",
       "美少女电影",
       "素人作品",
-      "巨乳",
-      "精选，综合"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/678040b02a47ebb1a8852631/cover.jpg",
     "actress": [
@@ -1667,22 +2109,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "M男",
-      "肛交",
-      "姐姐",
-      "素人作品",
       "巨乳",
-      "精选，综合"
+      "素人作品",
+      "姐姐",
+      "M男",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6da424d98f5609d4fbdb062561b4681e.jpg",
     "actress": [
@@ -1698,24 +2134,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "精选，综合",
       "荡妇",
-      "多P",
+      "巨乳",
       "无码破解",
       "素人作品",
-      "巨乳",
-      "两女一男",
+      "淫乱，真实",
       "女上位",
-      "精选，综合"
+      "两女一男",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67868a045d57b64bfdbdcefc/cover.jpg",
     "actress": [
@@ -1735,22 +2165,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
+      "巨乳",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合",
       "女生",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781611c89def9b1b8dbcca4/cover.jpg",
     "actress": [
@@ -1766,23 +2190,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "荡妇",
-      "内衣",
-      "姐姐",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "滥交"
+      "荡妇",
+      "人妻",
+      "巨乳",
+      "素人作品",
+      "姐姐",
+      "滥交",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d271efcb306465695380e6594ddbb8ee.jpg",
     "actress": [
@@ -1798,23 +2216,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
+      "巨乳",
       "流汗",
-      "乱伦",
       "乳交",
       "中出",
-      "素人作品",
-      "巨乳",
-      "精选，综合"
+      "乱伦",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/e9b5d7944d9b317fc40243ba1940cbb5.jpg",
     "actress": [
@@ -1832,19 +2244,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "OL",
-      "姐姐",
+      "巨乳",
       "中出",
-      "巨乳"
+      "姐姐",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677ddf7989def9b1b8c76122/cover.jpg",
     "actress": [
@@ -1862,19 +2268,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "口交",
       "巨乳",
+      "中出",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678376872a47ebb1a89495eb/cover.jpg",
     "actress": [
@@ -1890,20 +2290,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "肌肉",
+      "巨乳",
       "流汗",
       "中出",
-      "巨乳",
-      "肌肉",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/a0cce1d5aa3ff22d2632ae10677c3b90.jpg",
     "actress": [
@@ -1920,20 +2314,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "多P",
+      "巨乳",
       "乱伦",
-      "姐姐",
       "中出",
-      "巨乳"
+      "姐姐",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d285fb0e49fd86dc567aa40e38b13bdb.jpg",
     "actress": [
@@ -1952,19 +2340,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "流汗",
-      "白天出轨",
       "中出",
-      "巨乳"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a3a1cf8c9dc145e8a3f5f87ebbc18317.jpg",
     "actress": [
@@ -1981,19 +2363,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "巨乳",
-      "淫语",
-      "美容院"
+      "美容院",
+      "中出",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2c44c628d330c6dbfb9ac577511faacc.jpg",
     "actress": [
@@ -2011,18 +2387,12 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "业余",
-      "中出",
       "巨乳",
+      "中出",
       "手淫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4fd72adfd594bff92253c9fd1e67075e.jpg",
     "actress": [],
@@ -2037,19 +2407,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "流汗",
       "中出",
-      "巨乳",
       "晒黑"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4dece1cc0cb81dc8feeda55a44f9ca68.jpg",
     "actress": [
@@ -2065,20 +2429,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "舔阴",
-      "中出",
       "巨乳",
-      "女生"
+      "流汗",
+      "中出",
+      "女生",
+      "舔阴"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/db62fcef85772a21afdc32cb108889d3.jpg",
     "actress": [
@@ -2094,22 +2452,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "中出",
-      "纪录片",
-      "素人作品",
-      "巨乳",
       "精选，综合",
+      "荡妇",
+      "巨乳",
+      "纪录片",
+      "中出",
+      "素人作品",
       "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2125,17 +2477,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2152,13 +2498,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2173,19 +2513,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "流汗",
       "巨乳",
+      "流汗",
       "手淫",
       "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/5b52376be50acac4c6391bd2f4cf7408.jpg",
     "actress": [
@@ -2201,20 +2535,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/5a9116565f91b7cbace4d0bf2a881824.jpg",
     "actress": [
@@ -2232,23 +2560,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "荡妇",
+      "人妻",
+      "巨乳",
       "流汗",
       "已婚妇女",
-      "白天出轨",
       "中出",
-      "巨乳",
-      "淫语"
+      "淫语",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250419-1/18c6d3c56f9a5463ab8dbd8c45a15aa8.jpg",
     "actress": [
@@ -2265,19 +2587,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
-      "成熟的女人",
       "巨乳",
-      "淫语"
+      "中出",
+      "淫语",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/412c9f9369d5d960e63869addd231f07.jpg",
     "actress": [
@@ -2295,19 +2611,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "流汗",
+      "巨乳",
       "已婚妇女",
-      "中出",
-      "巨乳"
+      "流汗",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/929b2290d4e8c5d261a8ca263168b699.jpg",
     "actress": [
@@ -2326,13 +2636,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2347,19 +2651,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "姐姐",
-      "中出",
       "巨乳",
+      "中出",
+      "姐姐",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8319ae80b647960a1dc6c7b41d66ee09.jpg",
     "actress": [
@@ -2379,13 +2677,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d3804a0feba5b0b87727c00a46ffd39f.jpg",
     "actress": [],
@@ -2399,20 +2691,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "乱伦",
       "中出",
-      "巨乳",
-      "妹妹",
-      "高中女生"
+      "高中女生",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "2024-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/f8e4aceb44e8e38f3826eb5a67bb8f43.jpg",
     "actress": [
@@ -2428,20 +2714,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
       "荡妇",
-      "姐姐",
+      "巨乳",
       "中出",
-      "巨乳"
+      "按摩",
+      "姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/7e90adb2a1115f5b46cf4b2028d0f4e0.jpg",
     "actress": [
@@ -2457,20 +2737,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
       "乳交",
-      "姐姐",
       "中出",
-      "巨乳"
+      "姐姐",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/842bf5309899a6df9f1f8b1178a0075f.jpg",
     "actress": [
@@ -2486,21 +2760,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "荡妇",
+      "人妻",
+      "巨乳",
       "已婚妇女",
       "中出",
-      "巨乳",
       "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/4eb570e58efd3456932e39f08c94492b.jpg",
     "actress": [
@@ -2520,13 +2788,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4a657229953fe681bfff7c447fa1eb39.jpg",
     "actress": [],
@@ -2541,18 +2803,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "乳交",
+      "美容院",
       "巨乳",
-      "美容院"
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/b0b133958bfff0fdafe5617f2d44c825.jpg",
     "actress": [
@@ -2568,23 +2824,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "乳液",
+      "巨乳",
       "乳交",
       "中出",
-      "两女一男",
-      "巨乳",
       "女上位",
+      "两女一男",
+      "眼镜",
+      "乳液",
       "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2602,19 +2852,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "已婚妇女",
-      "出轨",
       "中出",
-      "巨乳"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "2021-09-28",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221027-1/db9338f94e45cf8b46ef4927b971cb12.jpg",
     "actress": [
@@ -2630,21 +2874,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "出轨",
-      "中出",
       "口交",
-      "巨乳"
+      "巨乳",
+      "中出",
+      "淫乱，真实",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/b02e555ecc1bcd548ec302381bb3595d.jpg",
     "actress": [
@@ -2661,20 +2899,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "出轨",
       "乳交",
       "中出",
-      "巨乳"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6ca3498ab52c4dc00517d1b539c2e75e.jpg",
     "actress": [],
@@ -2688,19 +2920,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "感谢祭",
-      "巨乳",
       "荡妇",
-      "口交"
+      "口交",
+      "巨乳",
+      "感谢祭"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2718,20 +2944,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "出轨",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "女上位"
+      "女上位",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "2021-11-23",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/e1824989884d887d9ada53594bf2b20e.jpg",
     "actress": [
@@ -2739,759 +2959,5 @@ window.PAGE_DATA = [
       "鲛岛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-322"
-  },
-  {
-    "id": 80053,
-    "IDcode": "CJOD-323",
-    "title": "逆バニー風俗タワー 連続射精・追撃男潮エロ汁搾り取りコース 姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "礼仪小姐",
-      "巨乳",
-      "女上位",
-      "兔女郎"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2021-11-23",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230124-1/fc5844433ec168229d09ff5f53bbce77.jpg",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-323"
-  },
-  {
-    "id": 84128,
-    "IDcode": "CJOD-325",
-    "title": "她有一个大奶子的身体-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "乳交",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "JULIA",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-325"
-  },
-  {
-    "id": 84123,
-    "IDcode": "CJOD-326",
-    "title": "無制限射精チ○ポの限界突破メンズエステ 手抜き無し！連続射精！追撃男潮！おまけに何度も中出しOK膣内施術ねっちょり全汁搾り取り絶頂悶絶コース 冨安れおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乳交",
-      "巨乳",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/b613e87ce841c88d513325c112b107de.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-326"
-  },
-  {
-    "id": 84114,
-    "IDcode": "CJOD-328",
-    "title": "地味メガネ巨乳無制限射精ソープ 乳首ビンビンでご奉仕してくるW肉感ボディに密着挟まれ15発もイカされる！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "中出",
-      "乳交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/00bbbf71165d6c26278afc8153dc09b0.jpg",
-    "actress": [
-      "推川悠里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-328"
-  },
-  {
-    "id": 80934,
-    "IDcode": "CJOD-334",
-    "title": "GOto不倫トラベル 豊満セレブ妻と濃厚オヤジの中出し交遊浪漫 佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "佐山爱",
-      "鲛岛",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-334"
-  },
-  {
-    "id": 80910,
-    "IDcode": "CJOD-335",
-    "title": "乳頭激凸超下流待客的小吃店媽媽桑 直到早上的下班後中出不倫 JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "乳交",
-      "无码破解",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-02-22",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/68ba6f94ffd10dc11ecd656fc3a2d8f4.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-335"
-  },
-  {
-    "id": 84109,
-    "IDcode": "CJOD-337",
-    "title": "两个肮脏的情妇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "出轨",
-      "中出",
-      "两女一男",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-337"
-  },
-  {
-    "id": 80442,
-    "IDcode": "CJOD-338",
-    "title": "乳首ビンビンで痴女ッてくる豊満ボディ温泉女将の卑猥な中出し接客。 夕季ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "巨大屁股",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-03-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/c3d94f4cf7e7dcb3cc47374ca69060d4.jpg",
-    "actress": [
-      "七草千歲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-338"
-  },
-  {
-    "id": 80421,
-    "IDcode": "CJOD-339",
-    "title": "被男性的潮水弄得傻傻的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "多P",
-      "中出",
-      "巨乳",
-      "女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "AIKA",
-      "小田切ジュン",
-      "REMI"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-339"
-  },
-  {
-    "id": 84105,
-    "IDcode": "CJOD-342",
-    "title": "担任女教師-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "女教师",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-342"
-  },
-  {
-    "id": 217668,
-    "IDcode": "CJOD-344",
-    "title": "cjod-344 爆乳娘二人-姫咲はな 有岡みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-344"
-  },
-  {
-    "id": 84110,
-    "IDcode": "CJOD-346",
-    "title": "【FANZA限定】爆乳ケダモノおばさん 帰省先のド田舎で下品な親戚二人の豊満ボディプレスで汗だく痴女られた僕 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "多P",
-      "中出",
-      "成熟的女人",
-      "两女一男",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-05-25",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d453665d8589793786f9f53b400a8f36.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "塚田詩織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-346"
-  },
-  {
-    "id": 84231,
-    "IDcode": "CJOD-348",
-    "title": "絶倫接客中出-佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "乳交",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "佐山爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-348"
-  },
-  {
-    "id": 84192,
-    "IDcode": "CJOD-349",
-    "title": "【FANZA限定】エグイ程下品なドM痴女―死ぬ程イキまくりアへ顔アクメ痙攣お姉さん― 絶頂531回 痙攣7300回 エロ汁333000cc 水川スミレ 生写真2枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-05-25",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230125-1/b08dea28cbecb59088d82d5ef0bc49b4.jpg",
-    "actress": [
-      "水川蓳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-349"
-  },
-  {
-    "id": 84211,
-    "IDcode": "CJOD-351",
-    "title": "JULIAが自宅に訪問 朝まで中出しお泊りデート",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-06-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/f0db17e457ed45263d6e52b1a543ab0f.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-351"
-  },
-  {
-    "id": 84218,
-    "IDcode": "CJOD-354",
-    "title": "Wスナックママ 豊満ボディ挟み撃ち接客アフター中出し不倫 美波もも 若月みいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "乳交",
-      "中出",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "2022-06-28",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/af7e2bde19530642450cfea2974c245c.jpg",
-    "actress": [
-      "若槻みづな",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-354"
-  },
-  {
-    "id": 84233,
-    "IDcode": "CJOD-357",
-    "title": "性爱单位-美波もも 真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "两女一男",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d55fc39c31ef7dd7a32025502c27133b.jpg",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-357"
-  },
-  {
-    "id": 574533,
-    "IDcode": "CJOD-357-C",
-    "title": "【双熟女无套中出】美波桃×真木今日子 巨乳人妻风俗店极致服务 射精后仍不停歇的肉体碰撞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250424-1/ef6d1f6fc795725c8247817367b02992.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-357-C"
-  },
-  {
-    "id": 84223,
-    "IDcode": "CJOD-360",
-    "title": "無制限射精チ○ポの限界突破メンズエステ 腹筋バリキレ強めお姉さんが拘束囁き淫語で犯してくる逆レ×プコース ERINA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "拘束",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/3fb3d99af17ed5bb94790d8e416a894d.jpg",
-    "actress": [
-      "佐藤あや奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-360"
-  },
-  {
-    "id": 84217,
-    "IDcode": "CJOD-361",
-    "title": "與返鄉再會的下流歐巴桑住同房。被雙人豐滿身軀夾擊密著流汗中出的我。 夕季千歲 寶田萌奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "成熟的女人",
-      "两女一男",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/855304dcc89bda4f796951e74629415a.jpg",
-    "actress": [
-      "七草千歲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-361"
-  },
-  {
-    "id": 84240,
-    "IDcode": "CJOD-363",
-    "title": "【FANZA限定】僕をダメにする爆乳逆バニー女上司 仕事終わりにラブホへ呼び出されデカ乳揺らす暴走腰振りピストンで何度も中出し犯●れる僕 吉根ゆりあ 真木今日子 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "兔女郎",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/132d861cf7539a1817a69f5a429c0fc9.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "真木今日子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-363"
-  },
-  {
-    "id": 84234,
-    "IDcode": "CJOD-364",
-    "title": "JULIA荡技术自慰支持",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/2b8cbf2b210fb92611252502bf0c4402.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-364"
-  },
-  {
-    "id": 91068,
-    "IDcode": "CJOD-367",
-    "title": "無制限射精-本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/b7c0621cbabe812ac0bb97d3285d7399.jpg",
-    "actress": [
-      "本真友里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-367"
-  },
-  {
-    "id": 91067,
-    "IDcode": "CJOD-369",
-    "title": "充满爱意的约会开始-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "乳交",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/2eefb31ea47bcadedb12f564a0b66ee9.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-369"
-  },
-  {
-    "id": 574534,
-    "IDcode": "CJOD-369-C",
-    "title": "【火热约会实录】痴女JULIAの极致宠爱~巨乳人妻全程高能调教！ 极致肉体碰撞の沉沦时刻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250424-1/49dc58e0cf32bc98dd67b1023956818c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-369-C"
-  },
-  {
-    "id": 91066,
-    "IDcode": "CJOD-371",
-    "title": "交遊浪漫-吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-371"
   }
 ];

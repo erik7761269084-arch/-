@@ -1,1988 +1,1898 @@
 window.PAGE_DATA = [
   {
-    "id": 82652,
-    "IDcode": "GG-165",
-    "title": "在哥哥不注意的时候-長澤あずさ",
+    "id": 67296,
+    "IDcode": "GS-447",
+    "title": "歌舞团经验的业余年轻妻子渴望挣钱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "出轨",
       "已婚妇女",
-      "戏剧",
-      "乳交",
-      "白天出轨",
-      "巨乳"
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a0e81f83ef73615debd20126421ce736.jpg",
     "actress": [
-      "长泽あずさ"
+      "望月ゆみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-447"
   },
   {
-    "id": 592836,
-    "IDcode": "GG-167",
-    "title": "家庭教师が巨乳受験生にした事の全记录 隠撮カメラFILE",
+    "id": 87218,
+    "IDcode": "GS-448",
+    "title": "哥哥的女朋友是个喜欢性爱的女人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic54.anzise.com/pic/20230504/de022c9accc501580079ecb196c7b495/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-167"
-  },
-  {
-    "id": 586469,
-    "IDcode": "GG-169",
-    "title": "妈妈的干炮性教育 小早川怜子 小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/3b3c18849808d23578e06e566c0b686d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-169"
-  },
-  {
-    "id": 215655,
-    "IDcode": "GG-170",
-    "title": "gg-170 禁断介護-仲夏ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-170"
-  },
-  {
-    "id": 518405,
-    "IDcode": "GG-171",
-    "title": "人妻恥悦旅行 音無香織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c2aa36b81af1f853891e8/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-171"
-  },
-  {
-    "id": 518397,
-    "IDcode": "GG-176",
-    "title": "私下調教 成宮瑠璃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690ce7df6b81af1f853b37bb/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-176"
-  },
-  {
-    "id": 216477,
-    "IDcode": "GG-182",
-    "title": "妈妈的排球俱乐部训练营",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-182"
-  },
-  {
-    "id": 534169,
-    "IDcode": "GG-186",
-    "title": "地味で巨乳な新人バイト 吉永あかね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-186"
-  },
-  {
-    "id": 220069,
-    "IDcode": "GG-189",
-    "title": "老公去世后单身巨乳母亲森奈奈子独自抚养儿子长大",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-189"
-  },
-  {
-    "id": 586041,
-    "IDcode": "GG-194",
-    "title": "禁忌看护 今村枫 今村枫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240615/13gg194pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-194"
-  },
-  {
-    "id": 522333,
-    "IDcode": "GG-206",
-    "title": "家庭教师が巨乳受験生にした事の全记录 隠撮カメラFILE",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230820-1/aa41668512c93831aa997c4e231f68f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-206"
-  },
-  {
-    "id": 586048,
-    "IDcode": "GG-208",
-    "title": "禁忌看护 小泉真希 小泉真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240615/13gg208pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-208"
-  },
-  {
-    "id": 211020,
-    "IDcode": "GG-209",
-    "title": "太君的恶作剧-さとう遥希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-209"
-  },
-  {
-    "id": 215648,
-    "IDcode": "GG-227",
-    "title": "gg-227 巨乳看板娘-立川理恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-227"
-  },
-  {
-    "id": 556966,
-    "IDcode": "GG-229",
-    "title": "黑色和白种人 FUCK Mao Mizusawa - 水泽真央 (永泽真央美)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/8984083306d8fed64a88cba5ec532294.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-229"
-  },
-  {
-    "id": 174109,
-    "IDcode": "GG-230",
-    "title": "禁断护理-舞咲美娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-230"
-  },
-  {
-    "id": 99022,
-    "IDcode": "GG-237",
-    "title": "親の目の前で犯されて感じる娘 雪本芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "强奸",
-      "凌辱",
-      "戏剧"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2013-09-05",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/13gg237/13gg237pl.jpg",
-    "actress": [
-      "雪本芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-237"
-  },
-  {
-    "id": 523099,
-    "IDcode": "GG-238",
-    "title": "波多野结衣- 禁断介护",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250427/oQbAdWD3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-238"
-  },
-  {
-    "id": 586060,
-    "IDcode": "GG-241",
-    "title": "妈妈的干炮性教育 泷川苏菲亚 泷川索菲亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240618/13gg241pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-241"
-  },
-  {
-    "id": 216518,
-    "IDcode": "GG-242",
-    "title": "喜欢巨乳的男孩-尾上若葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-242"
-  },
-  {
-    "id": 586061,
-    "IDcode": "GG-245",
-    "title": "大姐真枪实弹性教育 有村千佳 有村千佳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240618/13gg245pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-245"
-  },
-  {
-    "id": 215243,
-    "IDcode": "GG-246",
-    "title": "禁断介護-稲川なつめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-246"
-  },
-  {
-    "id": 215662,
-    "IDcode": "GG-248",
-    "title": "gg-248 喜欢恶作剧的好色正太-滨崎真绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-248"
-  },
-  {
-    "id": 214916,
-    "IDcode": "GG-250",
-    "title": "奶子太淫荡了-美神さゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-250"
-  },
-  {
-    "id": 174128,
-    "IDcode": "GG-253",
-    "title": "禁断介护-橘优花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-253"
-  },
-  {
-    "id": 586062,
-    "IDcode": "GG-254",
-    "title": "妈妈的真实性教育 羽田希 羽田希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240618/13gg254pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-254"
-  },
-  {
-    "id": 318600,
-    "IDcode": "GG-260",
-    "title": "禁断介护-浜崎真緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-260"
-  },
-  {
-    "id": 215661,
-    "IDcode": "GG-262",
-    "title": "gg-262 喜欢恶作剧-倉多まお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-262"
-  },
-  {
-    "id": 213094,
-    "IDcode": "GG-264",
-    "title": "禁断介護-神波多一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-264"
-  },
-  {
-    "id": 523098,
-    "IDcode": "GG-266",
-    "title": "波多野结衣- 寝台列车の不伦旅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250427/oMjeXOJ4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-266"
-  },
-  {
-    "id": 215651,
-    "IDcode": "GG-268",
-    "title": "gg-268 搞笑的恶作剧-西條るり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-268"
-  },
-  {
-    "id": 218763,
-    "IDcode": "GG-270",
-    "title": "店内的壮阳药",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-270"
-  },
-  {
-    "id": 216550,
-    "IDcode": "GG-271",
-    "title": "gg-271 禁断介護-仲丘たまき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-271"
-  },
-  {
-    "id": 218123,
-    "IDcode": "GG-275",
-    "title": "喜欢巨乳的男孩-鈴村いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-275"
-  },
-  {
-    "id": 164913,
-    "IDcode": "GG-279",
-    "title": "禁断介护瀬名あゆむ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-279"
-  },
-  {
-    "id": 585899,
-    "IDcode": "GG-280",
-    "title": "姐姐的性教育 沙希 青山沙希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240611/13gg280pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-280"
-  },
-  {
-    "id": 82647,
-    "IDcode": "GG-282",
-    "title": "被侵犯的爆乳人妻-倉多まお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "羞耻",
-      "乳房",
-      "巨乳",
-      "滥交"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "仓多真央",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-282"
-  },
-  {
-    "id": 585900,
-    "IDcode": "GG-287",
-    "title": "大姐真枪实弹性教育 板垣梓 板垣梓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240611/13gg287pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-287"
-  },
-  {
-    "id": 469284,
-    "IDcode": "GGEN-002",
-    "title": "女子がみんな即席セクキャバ嬢になる催眠CDをゲッツしたので俺を格下扱いする武闘派ギャルのまんさんに試してみると… 葉月美音 葉月麗羅 七瀨雛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783cd1cf9a2e9b1d486c6f4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-002"
-  },
-  {
-    "id": 76187,
-    "IDcode": "GGEN-003",
-    "title": "女体化TSFワニ痴●修学旅行で悪友たちに温泉で強●女体化させられた僕はワニチ◎ポで何度も、雌イキさせられて…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "调教",
-      "素人作品",
-      "浴衣"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/bb6b92ab5c96c276eb8aa14cd72bfcc8.jpg",
-    "actress": [
-      "七海雛",
-      "叶月美音",
-      "久远れいら",
-      "黒石ジュリア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-003"
-  },
-  {
-    "id": 76202,
-    "IDcode": "GGEN-005",
-    "title": "美丽的女孩通过催眠变成了性工作者",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "美少女电影",
-      "科幻",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/dee09ec15c13e2eed92cb7007bcdf069.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-005"
-  },
-  {
-    "id": 76183,
-    "IDcode": "GGEN-006",
-    "title": "素人男女モニタリング実験でゲッツ！！ 同じ職場の♀マジメ先輩OL×巨根部下♂がスマホの顔交換アプリで距離を縮めるつもりがカラダが入れ替わってしまった…。しかも、元に戻る方法がお互いのカラダのシンクロ率を上げるという条件になってしまったらどうなる？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大阴茎",
-      "OL",
-      "调教",
-      "素人",
-      "业余",
-      "素人作品",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/86a6037c584b4b0c78dff28d67460fba.jpg",
-    "actress": [
-      "川菜美铃",
-      "岩下たろう",
-      "桥本丽华",
-      "篠崎みお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-006"
-  },
-  {
-    "id": 78694,
-    "IDcode": "GGEN-014",
-    "title": "3次元未満presents 精子を50ml出さないと出られない部屋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "白天出轨",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2021-04-29",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/e785251614ba6930d266857e955f78bb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-014"
-  },
-  {
-    "id": 567037,
-    "IDcode": "GGEN-04",
-    "title": "母性を无限増幅できる催眠ガラガラをゲッツ！健康优良不良少女の妹に使ってみたら…第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-04"
-  },
-  {
-    "id": 567036,
-    "IDcode": "GGEN-05",
-    "title": "サイミンレンサ催●连锁～悪徳教师の自己満足のために催●で性奴●化したJ◎美少女たち～第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-05"
-  },
-  {
-    "id": 546045,
-    "IDcode": "GGG-011",
-    "title": "生意気でスケベなカラダの黒ギャルを全身ヌルテカオイリーガン突きピストンでガチイキなぁぜなぁぜ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240316/0RnC9uCc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGG-011"
-  },
-  {
-    "id": 534929,
-    "IDcode": "GGHX-001",
-    "title": "午后の人妻たち 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic50.anzise.com/pic/20230409/90c621fcea0035459e54e11ce8d46718/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGHX-001"
-  },
-  {
-    "id": 564167,
-    "IDcode": "GGHX-003",
-    "title": "午后の人妻たち 03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230630/1sot79J7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGHX-003"
-  },
-  {
-    "id": 181367,
-    "IDcode": "GGP-004",
-    "title": "お騒がせアイドル、覚醒―。 西元めいさ REStart HMN WORKS専属女優第一号",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGP-004"
-  },
-  {
-    "id": 76429,
-    "IDcode": "GGP-005",
-    "title": "イッてもすぐ勃起する絶倫チ●ポとSEX大好きド淫乱OL3人のクリスマス中出しSEXパーティー！！中出し3連発ハーレム天国",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "滥交",
-      "荡妇"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGP-005"
-  },
-  {
-    "id": 186408,
-    "IDcode": "GGP-006",
-    "title": "西元めいさ イキ地獄 ピストン10000連打100絶頂 中出しぶっかけスペシャル！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGP-006"
-  },
-  {
-    "id": 7934,
-    "IDcode": "GGP-008",
-    "title": "ゼロ距離密着神対応 VIP専用 発射無制限現役アイドル裏風俗生中出し フルコース",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "3P・4P",
-      "獵豔",
-      "多P",
-      "兩女一男",
-      "素人作品",
-      "苗條",
-      "女僕制服",
-      "4K",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "風俗娘",
-      "淫亂",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "脚控・戀足癖",
-      "美少女電影",
-      "拜金女",
-      "偶像",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbb1fcce5a404e9bc0a1a2/cover.jpg",
-    "actress": [
-      "沙月惠奈",
-      "西元美紗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGP-008"
-  },
-  {
-    "id": 100402,
-    "IDcode": "GHAP-007",
-    "title": "GHAP-007",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "多P",
-      "中出",
-      "孕妇",
-      "滥交"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2022-12-27",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250114-1/0c1d7931525a624eb33123d11e63e7d7.jpg",
-    "actress": [
-      "宮下すず"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-007"
-  },
-  {
-    "id": 564173,
-    "IDcode": "GHAP-008",
-    "title": "魅惑のハプニングバー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230630/Bq4QTlwC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-008"
-  },
-  {
-    "id": 91197,
-    "IDcode": "GHAP-009",
-    "title": "【FANZA限定】魅惑のハプニングバー 有村のぞみ パンティと生写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "多P",
-      "中出",
-      "巨乳",
+      "女优按摩棒",
       "口交",
       "颜射"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240410-1/bff25a555c4fdec5701625abd092cddb.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7f5e43d6972716f0ee79/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-448"
+  },
+  {
+    "id": 87217,
+    "IDcode": "GS-449",
+    "title": "梦想中的管家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "手淫",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-449"
+  },
+  {
+    "id": 67181,
+    "IDcode": "GS-450",
+    "title": "純情女子大生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230206/ERX2rcwT/1.jpg",
+    "actress": [
+      "桃香りり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-450"
+  },
+  {
+    "id": 566330,
+    "IDcode": "GS-451",
+    "title": "ノーブラ透け乳首Tシャツでパンチラしまくりのソソる派遣のお姊さん 独身で部屋が污すぎて彼女も出来ない俺は部屋の扫除をしてくれる派遣のお姊さんを呼んだ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e1db2391d129cddd72cdc21bc28256af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-451"
+  },
+  {
+    "id": 67183,
+    "IDcode": "GS-453",
+    "title": "我的表妹穿着丁字裤迷你裙来家里看我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "迷你裙",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/e465d0c04fd5e78b6017823d4463d0f6.jpg",
+    "actress": [
+      "白雪ましろ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-453"
+  },
+  {
+    "id": 67184,
+    "IDcode": "GS-454",
+    "title": "年轻妻子的男士美容院",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手淫",
+      "女上位",
+      "高中女生",
+      "内衣",
+      "美容院",
+      "制服",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/a9cb4a89eb8af7a88d009cbc8344d439.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-454"
+  },
+  {
+    "id": 67231,
+    "IDcode": "GS-455",
+    "title": "一个发情的姐妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "口交",
+      "苗条",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-6/bcc1cdd363cede1663b7778933762da9.jpg",
+    "actress": [
+      "星仲ここみ",
+      "川菜美铃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-455"
+  },
+  {
+    "id": 221116,
+    "IDcode": "GS-456",
+    "title": "新入女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-456"
+  },
+  {
+    "id": 167206,
+    "IDcode": "GS-457",
+    "title": "年轻的妻子穿着大胆的迷你裙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/29/6860537c43d697271661393d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-457"
+  },
+  {
+    "id": 67220,
+    "IDcode": "GS-458",
+    "title": "我在一家男士美容院完全勃起了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "口交",
+      "乳液",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/6020358a325aeba472b457340d2a3320.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-458"
+  },
+  {
+    "id": 222372,
+    "IDcode": "GS-459",
+    "title": "丈夫经常出差我很孤独寂寞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-459"
+  },
+  {
+    "id": 409757,
+    "IDcode": "GS-505",
+    "title": "ドクターハラスメント 昏睡治療室012",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c92a22d6fbef4e90aeaa08/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-505"
+  },
+  {
+    "id": 548911,
+    "IDcode": "GSAD-26",
+    "title": "SUPER HEROINE アクションウォーズ26 サイバー守备队ジュレル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/jvjZJ47c/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSAD-26"
+  },
+  {
+    "id": 548910,
+    "IDcode": "GSD-018",
+    "title": "妊娠専用ギャル子宫中出し 空山みく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/cron9Rmf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-018"
+  },
+  {
+    "id": 548908,
+    "IDcode": "GSD-019",
+    "title": "ヤリ舍て非道调教超ドM子宫ギャル 森川来未",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/aKIKX7sy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-019"
+  },
+  {
+    "id": 548909,
+    "IDcode": "GSD-020",
+    "title": "いなか者马鹿ギャル孕ませ子宫中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/1h7J3nUR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-020"
+  },
+  {
+    "id": 548906,
+    "IDcode": "GSD-022",
+    "title": "生奸中出し里バイト17",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/jchSez0p/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-022"
+  },
+  {
+    "id": 548904,
+    "IDcode": "GSD-023",
+    "title": "生奸中出し里バイト18 佐々木まこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/3WGk5myi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-023"
+  },
+  {
+    "id": 548907,
+    "IDcode": "GSD-024",
+    "title": "生奸中出し里バイト19 渋谷あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/x40IBAXw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-024"
+  },
+  {
+    "id": 548903,
+    "IDcode": "GSD-025",
+    "title": "生奸中出し里バイト20 瑞野れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/KH1Unl08/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-025"
+  },
+  {
+    "id": 548901,
+    "IDcode": "GSD-026",
+    "title": "生奸妊娠里バイト21",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/Agkx9QrW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-026"
+  },
+  {
+    "id": 548899,
+    "IDcode": "GSD-028",
+    "title": "生奸妊娠里バイト23",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/Qa7gf07Q/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-028"
+  },
+  {
+    "id": 548900,
+    "IDcode": "GSD-029",
+    "title": "生奸妊娠里バイト24",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/ZMZetvc8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-029"
+  },
+  {
+    "id": 548897,
+    "IDcode": "GSD-030",
+    "title": "生奸妊娠里バイト25 大咲まゆあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/ddjIM4Bh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-030"
+  },
+  {
+    "id": 548896,
+    "IDcode": "GSD-031",
+    "title": "生奸妊娠里バイト26",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/knwLFqWl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-031"
+  },
+  {
+    "id": 548895,
+    "IDcode": "GSD-032",
+    "title": "生奸中出し里バイト27",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/Y3lqivnj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-032"
+  },
+  {
+    "id": 564136,
+    "IDcode": "GSD-033",
+    "title": "小悪魔娘里中出しバイト 橘川リマ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/4nukMUGA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-033"
+  },
+  {
+    "id": 564131,
+    "IDcode": "GSD-034",
+    "title": "淫乱巨乳 里中出しバイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/QCnOOKrR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-034"
+  },
+  {
+    "id": 564135,
+    "IDcode": "GSD-035",
+    "title": "小悪魔娘里中出しバイト2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/7hKaF9qE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-035"
+  },
+  {
+    "id": 410090,
+    "IDcode": "GSD-074",
+    "title": "リアルフェイス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896dc198bc99dfddc3a9f3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-074"
+  },
+  {
+    "id": 467826,
+    "IDcode": "GSD-099",
+    "title": "極感！騎乗位４５人　騎って揺られてハ○狂い",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1244e7d663df4e2a7f2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSD-099"
+  },
+  {
+    "id": 530165,
+    "IDcode": "GSHR-106",
+    "title": "第1个裸体处女裸体 Reona Kasai",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241119-1/c508f73fff586972fdcb90232f281151.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSHR-106"
+  },
+  {
+    "id": 564134,
+    "IDcode": "GSM-003",
+    "title": "バスケ部変态选手AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/HDACrrT9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSM-003"
+  },
+  {
+    "id": 564133,
+    "IDcode": "GSM-005",
+    "title": "长身美女巨乳バスケ部AVデビュー女子大生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/HuwKZuI3/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSM-005"
+  },
+  {
+    "id": 61063,
+    "IDcode": "GSXFE-007",
+    "title": "ゆうか 俺のセフレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSXFE-007"
+  },
+  {
+    "id": 177200,
+    "IDcode": "GSY-035",
+    "title": "デカ乳首のドM薬剤師さん 狩集留美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e077dbf24d4ed31ff18e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSY-035"
+  },
+  {
+    "id": 518629,
+    "IDcode": "GTAL-010",
+    "title": "SEX GAME 2位巨乳美人姊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb35e81572686be7867744/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTAL-010"
+  },
+  {
+    "id": 523122,
+    "IDcode": "GTAL-011",
+    "title": "波多野结衣- 最低10回抜きたくなる美しいW魔女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250429/FMbwhG7o/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTAL-011"
+  },
+  {
+    "id": 469741,
+    "IDcode": "GTAL-017",
+    "title": "女體OO研究所 BAD SEQUENCE 秘密諜報員慘劇 篠田步美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defec7631cc64eb5942e1e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTAL-017"
+  },
+  {
+    "id": 517561,
+    "IDcode": "GTAL-021",
+    "title": "老公半公认 两天一夜干炮温泉之旅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/691285c072c0032a43fe5c2b/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTAL-021"
+  },
+  {
+    "id": 99863,
+    "IDcode": "GTAL-031",
+    "title": "世間知らずな18歳現役OLひかりちゃんが、休憩時間の度に呼び出され、会社に内緒でAV撮影！え、職場に来るんですか？！それは…興奮しちゃいます！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "户外",
+      "OL",
+      "多P",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2016-03-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/gtal031/gtal031pl.jpg",
+    "actress": [
+      "优姫ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTAL-031"
+  },
+  {
+    "id": 466800,
+    "IDcode": "GTD-019",
+    "title": "高級クラブ美人ママ からだの本音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896e1598bc99dfddc3b6de/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTD-019"
+  },
+  {
+    "id": 82427,
+    "IDcode": "GTJ-061",
+    "title": "水野朝阳的捆绑SM体验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "巨乳",
+      "SM",
+      "捆绑",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水野朝陽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-061"
+  },
+  {
+    "id": 71327,
+    "IDcode": "GTJ-065",
+    "title": "宫崎彩鬼畜捆绑冲刺阴道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "萝莉塔",
+      "捆绑",
+      "SM",
+      "洗澡"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宫崎彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-065"
+  },
+  {
+    "id": 218226,
+    "IDcode": "GTJ-066",
+    "title": "処刑拷問-神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-066"
+  },
+  {
+    "id": 210316,
+    "IDcode": "GTJ-068",
+    "title": "串刺し拷問 七海ゆあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-068"
+  },
+  {
+    "id": 589506,
+    "IDcode": "GTJ-071",
+    "title": "串烧叶月桃子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/62077_cover_2025-07-06_015543.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-071"
+  },
+  {
+    "id": 75058,
+    "IDcode": "GTJ-072",
+    "title": "絶対服従 拷問イラマチオ 七海ゆあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "素人作品",
+      "捆绑",
+      "SM",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2019-07-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/595cfaededc2fa8756060cf168a864e3.jpg",
+    "actress": [
+      "七海ゆあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-072"
+  },
+  {
+    "id": 75124,
+    "IDcode": "GTJ-073",
+    "title": "絶対服従 拷問イラマチオ 葉月桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "中出",
+      "素人作品",
+      "捆绑",
+      "SM",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2019-08-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/fd4b80138d0c9c7ee002dbd32f303773.jpg",
+    "actress": [
+      "叶月桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-073"
+  },
+  {
+    "id": 536960,
+    "IDcode": "GTJ-074",
+    "title": "有坂深雪- 串刺し拷问 有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250801/dz97SuaX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-074"
+  },
+  {
+    "id": 536099,
+    "IDcode": "GTJ-077",
+    "title": "解禁 紧缚レズフィスト 七海ゆあ 美咲结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-077"
+  },
+  {
+    "id": 76201,
+    "IDcode": "GTJ-079",
+    "title": "串刺し拷問 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "捆绑",
+      "SM",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2019-12-19",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/a6d04ea0f9116c1ffc3bb6bf1b6efc25.jpg",
     "actress": [
       "有村希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-079"
   },
   {
-    "id": 547428,
-    "IDcode": "GHAP-010",
-    "title": "魅惑のハプニングバー ニューハーフ编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-010"
-  },
-  {
-    "id": 14799,
-    "IDcode": "GHAP-011",
-    "title": "魅惑酒吧 ~ 葵百合香",
+    "id": 82978,
+    "IDcode": "GTJ-080",
+    "title": "七海ゆあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "兩男兩女",
-      "美少女",
-      "傳播妹",
-      "過膝襪・小腿襪",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "兩男一女",
-      "風俗娘",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "聚會・PARTY",
-      "舔陰",
-      "酒吧",
-      "69",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512022734488488.jpg",
-    "actress": [
-      "葵百合香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-011"
-  },
-  {
-    "id": 545347,
-    "IDcode": "GHAP-012",
-    "title": "魅惑のハプニングバー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240613/HC1XjHbb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-012"
-  },
-  {
-    "id": 8748,
-    "IDcode": "GHAP-013",
-    "title": "魅惑のハプニングバー 佐久間楓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "豐滿",
-      "KTV夜總會",
-      "插入異物",
-      "網襪",
-      "性虐癖",
-      "辣妹/GAL系",
-      "臀控",
-      "凌辱",
-      "緊縛",
-      "拘束・拷問",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "風俗夜場",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "人妻",
-      "深喉",
-      "美人妻",
-      "風俗娘",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
+      "羞耻",
       "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "聚會・PARTY",
-      "舔陰",
-      "手指插入",
-      "御姐系",
-      "黑絲",
+      "捆绑",
       "肛交",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "深喉"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250127/be99e68f-eb8e-42a0-91ac-518947dcc985.jpg",
+    "company": "DOGMA",
+    "publish_date": "2020-01-19",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/4aa4920c1e37b0184adecd595b9d1f3b.jpg",
     "actress": [
-      "佐久間楓"
+      "七海ゆあ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-080"
   },
   {
-    "id": 190579,
-    "IDcode": "GHAP-014",
-    "title": "魅惑のハプニングバー 寺島志保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-014"
-  },
-  {
-    "id": 194627,
-    "IDcode": "GHAP-015",
-    "title": "魅惑のハプニングバー 沙月ふみの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68aeae2f81bce592e9c18e01/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAP-015"
-  },
-  {
-    "id": 164908,
-    "IDcode": "GHAT-062",
-    "title": "住みたい街No",
+    "id": 76197,
+    "IDcode": "GTJ-081",
+    "title": "拷問淫夢 神納花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "灌肠",
+      "羞耻",
+      "SM",
+      "捆绑",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
+    "company": "DOGMA",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/5d9a25f9767dccae7ca77ae252a02ca9.jpg",
+    "actress": [
+      "管野静香"
     ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-062"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-081"
   },
   {
-    "id": 518553,
-    "IDcode": "GHAT-068",
-    "title": "素人共同制作。寬裕世代團體對無知",
+    "id": 76198,
+    "IDcode": "GTJ-083",
+    "title": "串刺し拷問 早川瑞希",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9aa51e4a73d4f15e5daa1/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-068"
-  },
-  {
-    "id": 166473,
-    "IDcode": "GHAT-135",
-    "title": "不倫妻ハメ撮り 汚い男の部屋に主婦が通いSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-135"
-  },
-  {
-    "id": 218396,
-    "IDcode": "GHAT-136",
-    "title": "已婚妇女约会援助",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/50c64d7fe5d9abfbb481ee0829d5d5c1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-136"
-  },
-  {
-    "id": 534943,
-    "IDcode": "GHAT-138",
-    "title": "新妇の友人を二次会からお持ち帰り朦胧奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230222/d5WpvcpF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-138"
-  },
-  {
-    "id": 548719,
-    "IDcode": "GHAT-141",
-    "title": "新妇の友人を二次会からお持ち帰り朦胧奸3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/PCzbMoFL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-141"
-  },
-  {
-    "id": 563588,
-    "IDcode": "GHAT-142",
-    "title": "●っぱらいOLお持ち帰り朦胧奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/1vM8XX5X/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-142"
-  },
-  {
-    "id": 563019,
-    "IDcode": "GHAT-144",
-    "title": "●っぱらいOLお持ち帰り朦胧奸2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231022/6xbMyNFt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-144"
-  },
-  {
-    "id": 547119,
-    "IDcode": "GHAT-145",
-    "title": "イチャラブ身内喰い 姊贵编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/rxBaRvO7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-145"
-  },
-  {
-    "id": 547123,
-    "IDcode": "GHAT-146",
-    "title": "制服 个人撮影 天使のマン娘 カリブトに苦闷の表情を浮かべる低身长ゆずなちゃんにハメたった映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/u14kpOqp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-146"
-  },
-  {
-    "id": 562070,
-    "IDcode": "GHAT-147",
-    "title": "制服 个人撮影 天使のマン娘 デカチン挿入で“裂けちゃうよ～”初めてのラブホではしゃぐ小柄なみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/klqZycBR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-147"
-  },
-  {
-    "id": 561796,
-    "IDcode": "GHAT-148",
-    "title": "制服 个人撮影 天使のマン娘 くすぐったがりのAカップバストは発达中 小柄なかのんちゃんにハメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/F0I2c07Q/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-148"
-  },
-  {
-    "id": 561427,
-    "IDcode": "GHAT-149",
-    "title": "制服 个人撮影 天使のマン娘 可爱い颜したスレンダーなバドミントン部 ももちゃんにハメたった映",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/pRfCGrdQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-149"
-  },
-  {
-    "id": 545473,
-    "IDcode": "GHAT-150",
-    "title": "イチャラブ身内喰い 嫁の妹编 vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240522/DLrWEH60/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-150"
-  },
-  {
-    "id": 462480,
-    "IDcode": "GHAT-151",
-    "title": "制服,個人拍攝,天使般的陰戶女OO,小臉,豐滿的屁股,大乳房,Minori 與色情動漫身體發生性關係的鏡頭,當然,中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d9964ace5a404e9bbba252/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-151"
-  },
-  {
-    "id": 560616,
-    "IDcode": "GHAT-152",
-    "title": "个人撮影 先辈と隙だらけの押しに弱い后辈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240722/ISXj3IKv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-152"
-  },
-  {
-    "id": 493044,
-    "IDcode": "GHAT-153",
-    "title": "接一个喝多了没赶上末班车的女孩，迷迷糊糊地送她回家。 真白实里,朝海凪咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/6dc0d32791f280a4b987d02f415586d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-153"
-  },
-  {
-    "id": 95087,
-    "IDcode": "GHAT-155",
-    "title": "制服個人撮影 天使のマン娘 みつきちゃん 五十嵐美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "恶作剧",
-      "第一人称摄影",
+      "魔鬼系",
       "中出",
+      "捆绑",
+      "SM",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/186a0141ddea9f5d16d0e80745aabc78.jpg",
+    "actress": [
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-083"
+  },
+  {
+    "id": 76199,
+    "IDcode": "GTJ-084",
+    "title": "七海ゆあMemories",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "捆绑",
+      "4小时以上作品",
+      "SM",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/5bf90c9a1fc3ab1519d50ba9a82f0b2e.jpg",
+    "actress": [
+      "七海ゆあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-084"
+  },
+  {
+    "id": 592707,
+    "IDcode": "GTJ-088",
+    "title": "紧缚レズフィストW美巨乳 かなで自由 美咲结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://pic25.anzise.com/pic/20220428/79e0ef6dbf8235ab8006750a21cab4e6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-088"
+  },
+  {
+    "id": 572226,
+    "IDcode": "GTJ-092",
+    "title": "制服少女 串刺し拷问 河奈亜依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://pic24.anzise.com/pic/20220424/dc36b56bf2fe4a2e42aaae0a43bb5518/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-092"
+  },
+  {
+    "id": 572452,
+    "IDcode": "GTJ-093",
+    "title": "拷问・肉达磨 塩见彩 new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://pic24.anzise.com/pic/20220424/d0d52a68f84a116ca4067fbd39a7567f/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-093"
+  },
+  {
+    "id": 536662,
+    "IDcode": "GTJ-096",
+    "title": "拷问フィスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231105/gtj096pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-096"
+  },
+  {
+    "id": 536567,
+    "IDcode": "GTJ-100",
+    "title": "Threeビアン フィストゲーム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231017/gtj100pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-100"
+  },
+  {
+    "id": 535751,
+    "IDcode": "GTJ-103",
+    "title": "いたくて、きもちいいこと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM",
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230928/gtj103pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-103"
+  },
+  {
+    "id": 535676,
+    "IDcode": "GTJ-104",
+    "title": "解禁レズフィスト 星あめり 美咲结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM",
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230517/gtj104pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-104"
+  },
+  {
+    "id": 87213,
+    "IDcode": "GTJ-106",
+    "title": "いやな女 不法侵入・浣腸レ●プ 塩見彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "灌肠",
+      "食粪",
       "单体作品",
-      "高中女生"
+      "排便",
+      "SM",
+      "多P",
+      "粪便",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/25/7466475f551de4d0e778d898a0d93ec8.jpg",
+    "company": "DOGMA",
+    "publish_date": "2022-07-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230720-1/d2935fb96a76660e5a2fbcbddf2472a6.jpg",
     "actress": [
-      "五十嵐美月"
+      "塩见彩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-106"
   },
   {
-    "id": 9601,
-    "IDcode": "GHAT-156",
-    "title": "接到一個喝多了的家庭主婦並發生性關系",
+    "id": 87203,
+    "IDcode": "GTJ-107",
+    "title": "縄がないと、生きれない女 塩見彩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
-      "獵豔",
-      "酒醉",
-      "流汗",
-      "美腳",
-      "肉絲",
-      "酒後亂性",
-      "家庭主妇",
-      "美乳",
+      "单体作品",
+      "4K",
+      "捆绑",
+      "SM",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/XJhb8745.jpg",
+    "actress": [
+      "塩见彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-107"
+  },
+  {
+    "id": 535689,
+    "IDcode": "GTJ-110",
+    "title": "乱れる メス紧缚メスSM 塩见彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM",
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230629/gtj110pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-110"
+  },
+  {
+    "id": 564790,
+    "IDcode": "GTJ-112",
+    "title": "Mドラッグ 女体肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230121/zSdWKhqN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-112"
+  },
+  {
+    "id": 468291,
+    "IDcode": "GTJ-115",
+    "title": "綁縛 鹽見彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20731db8c77d79bb695dc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-115"
+  },
+  {
+    "id": 572343,
+    "IDcode": "GTJ-117",
+    "title": "铃音杏夏制服M少女 串刺し拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://pic56.anzise.com/pic/20230605/f480fbee9425f90de082fac3cc9ed652/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-117"
+  },
+  {
+    "id": 556978,
+    "IDcode": "GTJ-118",
+    "title": "灌肠剂 Guy Aya Shiomi - 塩见彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/d4b1c40dc97a1163c1baa18bff5559c3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-118"
+  },
+  {
+    "id": 549137,
+    "IDcode": "GTJ-119",
+    "title": "タトゥーエンジェル串刺し拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230522/YialC4OD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-119"
+  },
+  {
+    "id": 549136,
+    "IDcode": "GTJ-120",
+    "title": "缚イキ拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230522/egjnr3Y2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-120"
+  },
+  {
+    "id": 564132,
+    "IDcode": "GTJ-121",
+    "title": "女教师监禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230704/RoLPrXuK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-121"
+  },
+  {
+    "id": 541820,
+    "IDcode": "GTJ-122",
+    "title": "しゅら-縄の姊妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM",
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-122"
+  },
+  {
+    "id": 564003,
+    "IDcode": "GTJ-123",
+    "title": "デカ乳首美人 串刺し拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230717/FJuWqBRI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-123"
+  },
+  {
+    "id": 411299,
+    "IDcode": "GTJ-124",
+    "title": "束缚女同拳头",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cdb6a2a47ebb1a86842f7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-124"
+  },
+  {
+    "id": 548461,
+    "IDcode": "GTJ-125",
+    "title": "Mドラッグ 女体肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230816/KGPo5ooq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-125"
+  },
+  {
+    "id": 18647,
+    "IDcode": "GTJ-126",
+    "title": "混蛋串酷刑Anka Suzune",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "凌辱",
+      "女奴",
+      "監禁",
       "中出",
+      "性感",
+      "拘束・拷問",
+      "緊縛",
+      "暗黑系",
+      "SM",
+      "羞恥",
+      "心理驚悚"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20230919/20230919221137846846.jpg",
+    "actress": [
+      "鈴音杏夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-126"
+  },
+  {
+    "id": 563076,
+    "IDcode": "GTJ-127",
+    "title": "缚る",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231015/q4jXMTIA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-127"
+  },
+  {
+    "id": 547320,
+    "IDcode": "GTJ-128",
+    "title": "串刺し拷问 犯罪的ミクロ少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231128/TBwRN4Se/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-128"
+  },
+  {
+    "id": 91178,
+    "IDcode": "GTJ-129",
+    "title": "拘束レズフィスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "拳交",
+      "SM",
+      "女同性恋",
+      "拘束",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/7da008b1baa6bdb7052e755e09cb729c.jpg",
+    "actress": [
+      "塩见彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-129"
+  },
+  {
+    "id": 91179,
+    "IDcode": "GTJ-130",
+    "title": "Mドラッグ 女体肉便器 前乃菜々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "中出",
+      "调教",
+      "捆绑",
+      "SM",
+      "拘束",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/c545d0c8b508c72dcfec2c7718410dbf.jpg",
+    "actress": [
+      "前乃菜菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-130"
+  },
+  {
+    "id": 546819,
+    "IDcode": "GTJ-131",
+    "title": "拷问通夜 罚当たり丧服の女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/mzaR35NV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-131"
+  },
+  {
+    "id": 546817,
+    "IDcode": "GTJ-132",
+    "title": "解禁アナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/JClAU5UL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-132"
+  },
+  {
+    "id": 561807,
+    "IDcode": "GTJ-133",
+    "title": "下劣紧缚宙吊りぶっこむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240219/jTOKkqRM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-133"
+  },
+  {
+    "id": 561801,
+    "IDcode": "GTJ-134",
+    "title": "拷问ドラッグ Gカップ美女完全支配",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240219/qJpXCs0n/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-134"
+  },
+  {
+    "id": 544282,
+    "IDcode": "GTJ-135",
+    "title": "拷问肉达磨 第ニ章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250615/zsztzb4T/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-135"
+  },
+  {
+    "id": 561474,
+    "IDcode": "GTJ-137",
+    "title": "缚る×3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240319/qnQaqmaq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-137"
+  },
+  {
+    "id": 15365,
+    "IDcode": "GTJ-138",
+    "title": "捆綁岬梓沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "性虐癖",
+      "拘束・拷問",
       "蕩婦",
-      "巨乳",
-      "飯店",
-      "性感",
-      "苗條",
-      "劇情",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2024-12-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20241225/fb232691-a816-431e-971c-af8c45d62f42.jpg",
-    "actress": [
-      "浅海なな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-156"
-  },
-  {
-    "id": 402277,
-    "IDcode": "GHAT-157",
-    "title": "終電までには帰れるよね？飲みすぎちゃった主婦連れ込みナンパSEX3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250824-1/128b9afa1b98b26266b69462e36a9ca7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-157"
-  },
-  {
-    "id": 402864,
-    "IDcode": "GHAT-158",
-    "title": "飲み過ぎて終電逃した子をナンパしてお持ち帰り朦朧姦2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/19d1c32d4ddb29095a405ed6a4407da7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-158"
-  },
-  {
-    "id": 5104,
-    "IDcode": "GHAT-159",
-    "title": "醉酒辣妹帶回家迷糊開幹 ~ 一条美緒 椎名琪琪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "獵豔",
-      "巨尻",
-      "小隻馬",
-      "港區女子",
-      "素人作品",
-      "綠茶婊",
-      "鬼畜片",
-      "辣妹/GAL系",
-      "美腳",
-      "大奶头",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "高顏值",
-      "野性",
+      "口爆",
+      "SM",
+      "美臀",
+      "深喉",
+      "舔陰",
       "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "酒醉",
-      "美臀",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "拜金女",
+      "接吻",
+      "抹油",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "緊縛",
+      "飯店",
+      "企畫",
+      "顏射",
+      "騎乗位",
+      "無做愛場面",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "酒後亂性",
-      "金髮",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "放尿",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622045922929929_thumbnail.webp",
+    "company": "DOGMA",
+    "publish_date": "2024-04-16",
+    "cover_url": "https://picture.yoshiclub.xyz/20240416/996605d1-2534-4b35-8539-aa809b1a0674.jpg",
     "actress": [
-      "一条美緒",
-      "椎名琪琪"
+      "岬梓沙"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-159"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-138"
   },
   {
-    "id": 3230,
-    "IDcode": "GHAT-160",
-    "title": "泥●巨乳ギャルをナンパお持ち帰り！終電逃して意識朦朧…ムチムチ巨尻ギャルを犯しまくり朦朧姦",
+    "id": 549756,
+    "IDcode": "GTJ-140",
+    "title": "串刺し拷问 地下アイドルの仮面を剥ぐ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "真實拍攝",
-      "豐滿",
-      "素人作品",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240520/ZRo8Ozi9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-140"
+  },
+  {
+    "id": 549759,
+    "IDcode": "GTJ-141",
+    "title": "雨宿り 紧缚レズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240520/WoTXjPqc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-141"
+  },
+  {
+    "id": 462359,
+    "IDcode": "GTJ-142",
+    "title": "M認證考試",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e056681572686be773df3b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-142"
+  },
+  {
+    "id": 560637,
+    "IDcode": "GTJ-143",
+    "title": "Mドラッグ 女体肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240716/IBAda9q6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-143"
+  },
+  {
+    "id": 560636,
+    "IDcode": "GTJ-144",
+    "title": "拘束レズフィスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240716/fGNj1yPO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-144"
+  },
+  {
+    "id": 545015,
+    "IDcode": "GTJ-145",
+    "title": "Mドラッグ 女体肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240819/o8PXsxpv/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-145"
+  },
+  {
+    "id": 11950,
+    "IDcode": "GTJ-147",
+    "title": "串刺し拷問 巨乳＆剛毛エンジェル 天晴乃愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "性虐癖",
+      "美腳",
+      "拘束・拷問",
+      "口爆",
+      "SM",
+      "亂交 • 群P",
+      "深喉",
+      "感官作品",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "殘忍畫面",
+      "鬃毛",
+      "調教",
+      "蠟燭",
+      "和服・浴衣・喪服",
+      "M男・M女",
       "辣妹/GAL系",
-      "臀控",
-      "OL",
-      "胸控・戀乳癖",
+      "女優",
+      "緊縛",
+      "企畫",
+      "變態",
+      "顏射",
+      "暗黑系",
+      "插入異物",
+      "手指插入",
+      "導尿",
+      "騎乗位",
+      "短髮",
       "美乳",
-      "清楚系",
+      "美腿",
+      "吞精",
       "巨乳",
       "口交",
-      "撿尸",
-      "中出",
-      "後入",
-      "企畫",
-      "美臀",
-      "酒醉",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "素人",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "白眼失神",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827105509694694_28221_thumbnail.webp",
+    "cover_url": "https://picture.yoshiclub.xyz/20240916/022510ed-0380-4906-bbc8-eebbd8d0fc60.jpg",
     "actress": [
-      "大原理央",
-      "藤沢ユリア"
+      "天晴乃愛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-160"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-147"
   },
   {
-    "id": 568942,
-    "IDcode": "GHAT156",
-    "title": "末班车捡尸醉酒人妻双飞盛宴！泽乃かのか＆浅海なな",
+    "id": 11952,
+    "IDcode": "GTJ-148",
+    "title": "緊縛ラプソディー 塩見彩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "凌辱",
+      "性虐癖",
+      "美腳",
+      "拘束・拷問",
+      "蕩婦",
+      "口爆",
+      "SM",
+      "美臀",
+      "野性",
+      "深喉",
+      "人妻",
+      "淫亂",
+      "中出",
+      "劇情",
+      "調教",
+      "蠟燭",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "色白",
+      "緊縛",
+      "變態",
+      "顏射",
+      "暗黑系",
+      "插入異物",
+      "手指插入",
+      "導尿",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "唾液敷面",
+      "美腿",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "白眼失神",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250923-1/4227b043ad288a003e4515859352184d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT156"
+    "cover_url": "https://picture.yoshiclub.xyz/20240916/dd4423cd-2090-4ce7-b152-21018c1f8f94.jpg",
+    "actress": [
+      "塩見彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-148"
   },
   {
-    "id": 572252,
-    "IDcode": "GHKO-73",
-    "title": "ふたなりヒロイン ~ザーメン彻底榨取作戦~ 莲実クレア",
+    "id": 503254,
+    "IDcode": "GTJ-149",
+    "title": "酷刑药物二泉舞香 新美かりん",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "type": "有码",
-    "companys": [],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://pic30.anzise.com/pic/20220612/a797bf0bb3bc6401c920a56d846580b8/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/8bcbee25ae4f6131cf3d0c6e6e4013b5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHKO-73"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-149"
   },
   {
-    "id": 536962,
-    "IDcode": "GHKQ-66",
-    "title": "有坂深雪- ヒロイン彻底凌●08 机铳特捜ガンセイバー 有坂深雪",
+    "id": 493026,
+    "IDcode": "GTJ-150",
+    "title": "束缚女同拳头  千石もなか,塩见彩",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "女同",
+      "SM"
+    ],
     "type": "有码",
-    "companys": [],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250731/0C82nKQm/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/394d3459c629e137086987be45f874c6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHKQ-66"
-  },
-  {
-    "id": 536601,
-    "IDcode": "GHLS-01",
-    "title": "スーパーヒロイン里切りレズ凌● 护星戦士スターエンジェル 爱に狂ったペガサス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231014/h_173ghls01pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHLS-01"
-  },
-  {
-    "id": 210109,
-    "IDcode": "GHLS-70",
-    "title": "騎神戦隊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/31/d15c1262b0f9526e53bebbe147df7ea9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHLS-70"
-  },
-  {
-    "id": 531932,
-    "IDcode": "GHNU-033",
-    "title": "圣心特种部队Saint Force Memories",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250209-1/79457834353dfe0ae0f2c7abd4d3657b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-033"
-  },
-  {
-    "id": 414545,
-    "IDcode": "GHNU-051",
-    "title": "水手水瓶座 - 绑架，神圣水晶 未知演员 -C",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/9021159df5d5093f479892971ec6fbec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-051"
-  },
-  {
-    "id": 530573,
-    "IDcode": "GHNU-067",
-    "title": "触手穿越地狱 8 美少女水手薄荷 触手怪物的恐惧 间宫绫奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250209-1/5a59a8bbdee89d99171f36bc19a01c91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-067"
-  },
-  {
-    "id": 536663,
-    "IDcode": "GHNU-27",
-    "title": "ヒロインくすぐり地狱 美少女戦士セーラーアクアス 二人の魔女の指が！舌が！セーラーアクアスを责め立てる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231105/h_173ghnu27pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-27"
-  },
-  {
-    "id": 592873,
-    "IDcode": "GHNU-45",
-    "title": "神木まほろスケベ怪人エロエロ攻撃 カメラ怪人ノゾキング new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic45.anzise.com/pic/20230214/d4d7dbf9c5d1762ad8394dc794a9a500/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-45"
-  },
-  {
-    "id": 221081,
-    "IDcode": "GHNU-51",
-    "title": "被绑架的圣晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230203/JaNLFOF1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-51"
-  },
-  {
-    "id": 536544,
-    "IDcode": "GHNU-78",
-    "title": "黒き魔装の诱惑15 私たちメルピュア！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231010/h_173ghnu78pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-78"
-  },
-  {
-    "id": 536523,
-    "IDcode": "GHNU-92",
-    "title": "戦队ヒロインふたなり化 レズ地狱 银河特捜デイトナレンジャー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231005/h_173ghnu92pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHNU-92"
-  },
-  {
-    "id": 544262,
-    "IDcode": "GHOR-21",
-    "title": "SPANDEXER4 ～三姊妹壊灭编～ 后编 三姊妹全灭！溃れた最后の希望！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250611/UZZBncBG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHOR-21"
-  },
-  {
-    "id": 544261,
-    "IDcode": "GHOR-22",
-    "title": "ヒロインピンチ11～ラバーヒロインと闭じた空间～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250611/xUWEyRbm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHOR-22"
-  },
-  {
-    "id": 544264,
-    "IDcode": "GHOR-23",
-    "title": "魔法科学美少女フォンテーヌ·ネオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250611/nCOdCgHN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHOR-23"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-150"
   }
 ];

@@ -1,65 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 99133,
-    "IDcode": "BBAN-027",
-    "title": "レズビアン熟女～40代から始まるディープでハードなレズビアン～ 宮部涼花 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同接吻",
-      "成熟的女人",
-      "巨乳",
-      "女同性恋",
-      "各种职业"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
-    "publish_date": "2015-01-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "翔田千里",
-      "宫部凉花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-027"
-  },
-  {
-    "id": 99123,
-    "IDcode": "BBAN-029",
-    "title": "家庭教師レズビアン 私、教え子の女子校生にレズ調教されています。 桜木優希音 佳苗るか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "美少女",
-      "女同接吻",
-      "女同性恋",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
-    "publish_date": "2015-02-07",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban029pl.jpg",
-    "actress": [
-      "佳苗瑠華",
-      "桜木优希音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-029"
-  },
-  {
     "id": 98085,
     "IDcode": "BBAN-030",
     "title": "同棲姉妹レズビアン飯岡かなこ野宮さとみ",
@@ -67,20 +7,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "女同接吻",
       "乱伦",
+      "女同性恋",
       "妹妹",
-      "女同性恋"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-02-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -97,20 +31,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "女同接吻",
-      "白天出轨",
       "舔阴",
-      "女同性恋"
+      "女同性恋",
+      "女同接吻",
+      "美少女",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-03-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban032pl.jpg",
     "actress": [
@@ -128,20 +56,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "女同接吻",
       "乳房",
+      "高",
       "女同性恋",
-      "高"
+      "多P",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-03-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -160,19 +82,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "校服",
-      "女同接吻",
-      "女同性恋",
+      "高中女生",
       "滥交",
-      "高中女生"
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-04-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban034pl.jpg",
     "actress": [
@@ -194,13 +110,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -214,20 +124,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "战斗行动",
+      "女同性恋",
       "多P",
       "女同接吻",
       "女检察官",
-      "女同性恋"
+      "战斗行动"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-04-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -246,13 +150,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -266,20 +164,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "肛交",
       "巨乳",
+      "轮奸",
       "女同性恋",
-      "轮奸"
+      "女同接吻",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/a23788404a62135d859d1ecbb89ea798.jpg",
     "actress": [
@@ -299,13 +191,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ebfc4e52c12b4e6845fb1a/cover.jpg",
     "actress": [],
@@ -320,13 +206,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -341,19 +221,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "调教",
-      "女同接吻",
+      "女同性恋",
       "婆婆",
-      "成熟的女人",
-      "女同性恋"
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-06-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -371,13 +245,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-06-04",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban043/bban043pl.jpg",
     "actress": [],
@@ -392,13 +260,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -413,19 +275,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "女同接吻",
-      "姐姐",
       "巨乳",
-      "女同性恋"
+      "姐姐",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-07-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -449,13 +305,7 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -469,20 +319,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "女同接吻",
-      "成熟的女人",
       "巨乳",
-      "女同性恋"
+      "女同接吻",
+      "女同性恋",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-08-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban050/bban050pl.jpg",
     "actress": [
@@ -500,13 +344,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -521,13 +359,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -542,13 +374,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -562,21 +388,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "荡妇",
+      "人妻",
       "已婚妇女",
-      "女同接吻",
       "女同性恋",
-      "淫语"
+      "淫语",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-09-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -594,13 +414,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -616,19 +430,13 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉",
       "屁股",
-      "OL",
-      "女同接吻",
       "性骚扰",
-      "女同性恋"
+      "OL",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-10-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -646,20 +454,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "调教",
-      "女同接吻",
-      "婆婆",
       "巨乳",
-      "女同性恋"
+      "调教",
+      "女同性恋",
+      "婆婆",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-10-07",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d96c84ce5a404e9bbaf708/cover.jpg",
     "actress": [
@@ -677,19 +479,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "女同接吻",
-      "白天出轨",
       "乳房",
-      "女同性恋"
+      "女同性恋",
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-10-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban058/bban058pl.jpg",
     "actress": [
@@ -706,20 +502,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "恶作剧",
-      "女同接吻",
-      "女同性恋",
+      "故事集",
       "巨乳",
-      "故事集"
+      "恶作剧",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-10-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -738,20 +528,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
       "戏剧",
-      "美少女",
+      "女大学生",
+      "女同性恋",
       "女同接吻",
-      "女同性恋"
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-11-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban061/bban061pl.jpg",
     "actress": [
@@ -768,20 +552,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
       "巨乳",
-      "女同性恋",
       "泳装",
-      "女生"
+      "女生",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-11-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -799,13 +577,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -819,20 +591,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "运动短裤",
-      "女同接吻",
       "巨乳",
+      "滥交",
       "女同性恋",
-      "滥交"
+      "运动短裤",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-12-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -853,20 +619,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "女同接吻",
-      "女同性恋",
       "巨乳",
-      "妹妹"
+      "女同性恋",
+      "多P",
+      "妹妹",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-12-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -885,20 +645,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "女同接吻",
       "巨乳",
+      "已婚妇女",
       "女同性恋",
-      "淫语"
+      "淫语",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-12-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -915,20 +669,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "OL",
-      "女同接吻",
       "巨乳",
-      "女同性恋"
+      "OL",
+      "女大学生",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2015-12-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -949,13 +697,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -970,13 +712,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -990,20 +726,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "多P",
       "女同接吻",
-      "成熟的女人",
-      "女同性恋"
+      "女同性恋",
+      "多P",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2016-01-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban071/bban071pl.jpg",
     "actress": [
@@ -1022,13 +752,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6d20ae4a73d4f15a62291/cover.jpg",
     "actress": [],
@@ -1042,20 +766,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "女检察官",
-      "拘束",
       "巨乳",
-      "女同性恋"
+      "女同性恋",
+      "拘束",
+      "女同接吻",
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2016-02-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1075,20 +793,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "情侣",
       "纪录片",
+      "接吻",
+      "情侣",
       "女同性恋",
-      "接吻"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2016-04-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1106,13 +818,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1129,13 +835,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1150,19 +850,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "已婚妇女",
-      "女同接吻",
-      "白天出轨",
       "女教师",
-      "女同性恋"
+      "女同性恋",
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2016-07-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1185,13 +879,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804baccae37d45b9e3f18c7/cover.jpg",
     "actress": [],
@@ -1206,19 +894,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "调教",
-      "女同接吻",
-      "白天出轨",
+      "女同性恋",
       "婆婆",
-      "女同性恋"
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2016-08-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban103/bban103pl.jpg",
     "actress": [
@@ -1236,20 +918,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "已婚妇女",
-      "戏剧",
       "女同接吻",
-      "女同性恋"
+      "苗条",
+      "女同性恋",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1267,13 +943,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1290,13 +960,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1311,13 +975,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1331,20 +989,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "婆婆",
       "巨乳",
+      "接吻",
       "女同性恋",
-      "接吻"
+      "婆婆",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2017-06-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1362,13 +1014,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1385,13 +1031,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://pic28.anzise.com/pic/20220602/dbac97676ff9527f00eaef84b7521739/1.jpg",
     "actress": [],
@@ -1406,13 +1046,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1430,13 +1064,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/873d6b7bba3c58de32537aff0ef129a8.jpg",
     "actress": [],
@@ -1451,19 +1079,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "流汗",
-      "OL",
-      "女同接吻",
       "烂醉如泥的",
-      "女同性恋"
+      "OL",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2017-12-19",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban161/bban161pl.jpg",
     "actress": [
@@ -1481,13 +1103,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1501,20 +1117,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "女同接吻",
-      "新娘，年轻妻子",
+      "女同性恋",
+      "戏剧",
       "成熟的女人",
-      "女同性恋"
+      "新娘，年轻妻子"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-01-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1531,19 +1141,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "女同接吻",
       "女大学生",
-      "女同性恋"
+      "女同性恋",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-03-13",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban171/bban171pl.jpg",
     "actress": [
@@ -1562,13 +1166,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1583,13 +1181,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1604,13 +1196,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1625,13 +1211,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1646,13 +1226,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1669,13 +1243,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1690,13 +1258,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1711,13 +1273,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1732,13 +1288,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1753,13 +1303,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1774,13 +1318,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1797,13 +1335,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1818,13 +1350,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1839,13 +1365,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b696a25fdaf263a2602100/cover.jpg",
     "actress": [],
@@ -1860,13 +1380,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban190pl.jpg",
     "actress": [],
@@ -1880,20 +1394,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "女同接吻",
       "纪录片",
+      "第一人称摄影",
       "女同性恋",
-      "第一人称摄影"
+      "女同接吻",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-08-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban193pl.jpg",
     "actress": [
@@ -1913,13 +1421,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban197pl.jpg",
     "actress": [],
@@ -1935,18 +1437,12 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "已婚妇女",
-      "美少女",
+      "女同性恋",
       "女同接吻",
-      "女同性恋"
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-09-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban198pl.jpg",
     "actress": [
@@ -1966,13 +1462,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/mNEQfk79L.jpg",
     "actress": [],
@@ -1986,19 +1476,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
       "女同接吻",
+      "女同性恋",
       "首次亮相",
-      "女同性恋"
+      "羞耻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-11-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2014,20 +1498,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "女教师",
-      "乳房",
       "巨乳",
-      "女同性恋"
+      "乳房",
+      "女教师",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-12-07",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/aGRfunLN.jpg",
     "actress": [
@@ -2043,19 +1521,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "女同接吻",
+      "女同性恋",
       "妓女",
-      "女同性恋"
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-12-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban208pl.jpg",
     "actress": [
@@ -2072,20 +1544,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "舔阴",
-      "成熟的女人",
       "巨乳",
-      "女同性恋"
+      "舔阴",
+      "女同性恋",
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-12-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200727/bban209pl.jpg",
     "actress": [
@@ -2102,19 +1568,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
       "女同接吻",
       "巨乳",
-      "女同性恋"
+      "女同性恋",
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2018-12-07",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200727/bban210pl.jpg",
     "actress": [
@@ -2131,20 +1591,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "女同接吻",
-      "女检察官",
       "超乳",
-      "女同性恋"
+      "流汗",
+      "女同性恋",
+      "女同接吻",
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-01-07",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/y8bWX3ju.jpg",
     "actress": [
@@ -2162,20 +1616,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "烂醉如泥的",
-      "成熟的女人",
       "巨乳",
-      "女同性恋"
+      "烂醉如泥的",
+      "女同性恋",
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-01-07",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/65b295b83bb1fe45445fb8b9bc7af846.jpg",
     "actress": [
@@ -2193,22 +1641,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "女同接吻",
-      "猎艳",
+      "精选，综合",
       "业余",
       "素人作品",
+      "猎艳",
       "女同性恋",
-      "精选，综合"
+      "女同接吻",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-02-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2224,21 +1666,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "饮尿",
-      "女同接吻",
-      "COSPLAY服饰",
       "素人作品",
       "女同性恋",
-      "精选，综合"
+      "COSPLAY服饰",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-02-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2258,13 +1694,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2278,21 +1708,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "女同接吻",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "潮吹",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ed234bbe205a37375627ef8cd702c57a.jpg",
     "actress": [
@@ -2309,20 +1733,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-04-07",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/67199900864948a09351c4a3822cc1c3.jpg",
     "actress": [
@@ -2340,22 +1758,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "校服",
-      "戏剧",
+      "精选，综合",
       "女同接吻",
       "素人作品",
+      "校服",
+      "眼镜",
       "女同性恋",
-      "精选，综合"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-04-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2373,13 +1785,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2393,21 +1799,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "女同接吻",
-      "女同性恋",
       "乱交",
+      "潮吹",
       "滥交",
-      "接吻"
+      "女同性恋",
+      "接吻",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d094d3cbd632319750b3661fa7560c8e.jpg",
     "actress": [
@@ -2429,21 +1829,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "潮吹",
-      "女同接吻",
       "美少女电影",
       "素人作品",
       "女同性恋",
-      "精选，综合"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-05-07",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/2b77ea9d751336a98139d1cf24222bb0.jpg",
     "actress": [
@@ -2460,21 +1854,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "女同接吻",
-      "素人作品",
-      "女同性恋",
       "精选，综合",
-      "接吻"
+      "素人作品",
+      "校服",
+      "接吻",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-05-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2492,22 +1880,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "流汗",
-      "戏剧",
       "女同接吻",
       "素人作品",
+      "接吻",
       "女同性恋",
-      "精选，综合",
-      "接吻"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-05-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2527,13 +1909,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2547,23 +1923,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "戏剧",
-      "女同接吻",
-      "女同",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "女同",
+      "流汗",
+      "女同接吻",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a39644b53637fde28bac61cd97457ddc.jpg",
     "actress": [
@@ -2581,19 +1951,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
       "女同接吻",
       "巨乳",
+      "捆绑",
       "女同性恋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-06-07",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8bf204798acdc97fd215750e60c42ac8.jpg",
     "actress": [
@@ -2610,22 +1974,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "调教",
-      "肛交",
-      "素人作品",
-      "女同性恋",
       "精选，综合",
-      "SM"
+      "素人作品",
+      "调教",
+      "捆绑",
+      "SM",
+      "女同性恋",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-06-07",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/0304367da7eb0d87d9933d10396d7050.jpg",
     "actress": [
@@ -2642,20 +2000,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
-      "女同接吻",
       "纪录片",
+      "第一人称摄影",
+      "接吻",
       "女同性恋",
-      "第一人称摄影"
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "2019-06-07",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/73898f82ddf9a7e032c0c3e8c78a70aa.jpg",
     "actress": [
@@ -2663,5 +2015,54 @@ window.PAGE_DATA = [
       "柏木まい"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-235"
+  },
+  {
+    "id": 102831,
+    "IDcode": "BBAN-236",
+    "title": "文系女子レズビアン 文学少女を食べちゃいたい文系女流作家。 黒川すみれ 加藤ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "女同接吻",
+      "美少女电影",
+      "素人作品",
+      "女同性恋",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "BIBIAN",
+    "publish_date": "2019-07-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇",
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-236"
+  },
+  {
+    "id": 71759,
+    "IDcode": "BBAN-237",
+    "title": "全身舐めまくりイキまくり汁だくレズビアン。 禁断の年の差 濃密カップル～姪と叔母の秘密の関係～ 有坂深雪 澤村レイコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "接吻",
+      "女同性恋",
+      "女同接吻",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "BIBIAN",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b2fb2e6e66fe74ad40881d242aafbc54.jpg",
+    "actress": [
+      "有坂深雪",
+      "高坂ますみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-237"
   }
 ];

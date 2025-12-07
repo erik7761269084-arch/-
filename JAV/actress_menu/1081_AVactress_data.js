@@ -48,7 +48,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2023-07-25",
       "cover_url": "https://tuaskbgnekr.com/20240910/CbhDZ4kc/1.jpg",
       "actress": [
@@ -97,7 +97,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250811-1/391e8af167d2a4db0de359bd3067cd7e.jpg",
       "actress": [

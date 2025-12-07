@@ -1,1169 +1,688 @@
 window.PAGE_DATA = [
   {
-    "id": 7155,
-    "IDcode": "FRD-017",
-    "title": "眼鏡J系，順從肉便器女孩 ~ 南日菜乃",
+    "id": 544765,
+    "IDcode": "FWAY-032",
+    "title": "甘いヌーディズム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240928/TxwxdVxt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-032"
+  },
+  {
+    "id": 462692,
+    "IDcode": "FWAY-033",
+    "title": "透明感的另一面 泉百華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/6bd17789fe50c9a908fedd4c255438f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-033"
+  },
+  {
+    "id": 503248,
+    "IDcode": "FWAY-034",
+    "title": "今晚与你第三次的亲密时光 九野ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/0bb295cc566cd7253766a5bd4e7575dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-034"
+  },
+  {
+    "id": 477004,
+    "IDcode": "FWAY-035",
+    "title": "成人的周末 長浜みつり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/09acb21714b484eedd1ad536cdda3573.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-035"
+  },
+  {
+    "id": 462694,
+    "IDcode": "FWAY-036",
+    "title": "別看別的女人、絕對 水乃菜乃華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/651d7927210601b0f8dd2868aab4e00c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-036"
+  },
+  {
+    "id": 564950,
+    "IDcode": "FWAY-037",
+    "title": "八月の终わり、性の目覚め",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/fWfzibdx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-037"
+  },
+  {
+    "id": 483676,
+    "IDcode": "FWAY-038",
+    "title": "被心仪对象喜欢烦恼仓木华仓木华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/a9216fc111f9fe48a676d6f86ecf02b3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-038"
+  },
+  {
+    "id": 564952,
+    "IDcode": "FWAY-039",
+    "title": "100カラットの视线",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/h5l6Wd4i/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-039"
+  },
+  {
+    "id": 411729,
+    "IDcode": "FWAY-040",
+    "title": "黄金比例的筱真由 筿真有",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/0bb829908d71cf756a4fcf0abad99132.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-040"
+  },
+  {
+    "id": 402210,
+    "IDcode": "FWAY-041",
+    "title": "嘘だらけの秘め事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/5230e99f15abc9854085ffb9e51582da.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-041"
+  },
+  {
+    "id": 401734,
+    "IDcode": "FWAY-042",
+    "title": "其实有点尴尬。 小月世罗 倖月セラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/4d2b6e295fcb36c76e4995c2af344955.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-042"
+  },
+  {
+    "id": 411733,
+    "IDcode": "FWAY-043",
+    "title": "成人的道路 水卜樱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/d90ece351bdf619fa2a4b9ced2d447f0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-043"
+  },
+  {
+    "id": 402203,
+    "IDcode": "FWAY-044",
+    "title": "なんでこうなった！？小日向みゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/ac7b7214371797ce300c7bccbe0c21a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-044"
+  },
+  {
+    "id": 463064,
+    "IDcode": "FWAY-045",
+    "title": "超多汁的神奈美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21973fbe7fd63de7f6b72/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-045"
+  },
+  {
+    "id": 463424,
+    "IDcode": "FWAY-046",
+    "title": "我等不及你長大了 青山七海",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897ccd955337d7f7bbb244b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-046"
+  },
+  {
+    "id": 444900,
+    "IDcode": "FWAY-047",
+    "title": "MILLIONNUDE百田光稀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/28692034828c70067343667254b9d15f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-047"
+  },
+  {
+    "id": 413131,
+    "IDcode": "FWAY-048",
+    "title": "元カレとラムネ色の備忘録",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/82ed32fd42003078f52fc696dad4be5a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-048"
+  },
+  {
+    "id": 402866,
+    "IDcode": "FWAY-049",
+    "title": "sweetandcutekiss",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/449fab2039b20b911a1fc1171350b412.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-049"
+  },
+  {
+    "id": 444226,
+    "IDcode": "FWAY-050",
+    "title": "おいしいおっぱい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/4bc8b247e5036dac7c540d1488146e26.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-050"
+  },
+  {
+    "id": 463073,
+    "IDcode": "FWAY-051",
+    "title": "為什麼她要脫掉比基尼…Kira Kira",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b2245415c08d63a992ff5a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-051"
+  },
+  {
+    "id": 402862,
+    "IDcode": "FWAY-053",
+    "title": "しろはだオトメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/922d698967c8b709523eadfe9e01d1ee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-053"
+  },
+  {
+    "id": 463285,
+    "IDcode": "FWAY-054",
+    "title": "某人的女友 榊原萌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6ebad8cce1a927afe6689/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-054"
+  },
+  {
+    "id": 176768,
+    "IDcode": "FWAY-055",
+    "title": "ラッキーセブン 七瀬アリス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-055"
+  },
+  {
+    "id": 199043,
+    "IDcode": "FWAY-056",
+    "title": "かわちぃモカワールド 春陽モカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-056"
+  },
+  {
+    "id": 463254,
+    "IDcode": "FWAY-057",
+    "title": "日向優奈的《小小愛情故事》",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7c15b682e2e928199be0c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-057"
+  },
+  {
+    "id": 463441,
+    "IDcode": "FWAY-058",
+    "title": "微笑接力 花守夏步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897cc5255337d7f7bbb2402/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-058"
+  },
+  {
+    "id": 199009,
+    "IDcode": "FWAY-059",
+    "title": "another 宮地莉央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-059"
+  },
+  {
+    "id": 440770,
+    "IDcode": "FWAY-060",
+    "title": "赤かえで乳で驚き落ちにけり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/a0677e21b6b89589dc808236d4289272.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-060"
+  },
+  {
+    "id": 457893,
+    "IDcode": "FWAY-061",
+    "title": "思春期の少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/29978790850a2e8a074f89a55bf30cd0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-061"
+  },
+  {
+    "id": 403239,
+    "IDcode": "FWAY-062",
+    "title": "能動的三分間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/61885a0e65cc3433b1baa48654943796.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-062"
+  },
+  {
+    "id": 199005,
+    "IDcode": "FWAY-065",
+    "title": "指先が覚えている 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-065"
+  },
+  {
+    "id": 540623,
+    "IDcode": "FWAY-066",
+    "title": "いちかがいない世界なんて考えられない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250802/e4YTIZTb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-066"
+  },
+  {
+    "id": 540626,
+    "IDcode": "FWAY-067",
+    "title": "ReHimari",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250802/nxuwbckZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-067"
+  },
+  {
+    "id": 61955,
+    "IDcode": "FWAY-068",
+    "title": "＃彼女とエッチなうに使っていいよ 長浜みつり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "小隻馬",
-      "純粹的慾望",
-      "苗條",
-      "放尿",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "眼鏡",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "校花",
-      "文藝女",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "舔腳",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
-    "publish_date": "2025-04-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20250329/20250329093626325325.jpg",
-    "actress": [
-      "南日菜乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRD-017"
-  },
-  {
-    "id": 193709,
-    "IDcode": "FRD-018",
-    "title": "巨乳ナースの緊急手術（オペ） 内田沙織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DREAMTICKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
-        "works_count": 611
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRD-018"
-  },
-  {
-    "id": 532162,
-    "IDcode": "FRD014",
-    "title": "桑原清罗×安西梨恵 双女优激骚共演！眼镜娘专属J型肉感自慰棒，深入紧致体验高潮痉挛！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/20250922/EIwiqyB7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRD014"
-  },
-  {
-    "id": 520929,
-    "IDcode": "FRD13",
-    "title": "每周两次沦为隔壁老头性玩具 咲音あきのしほ被迫聆听老人“教导” 禁忌の近亲相奸 鬼畜爷の性処理ペット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRD13"
-  },
-  {
-    "id": 524572,
-    "IDcode": "FREE",
-    "title": "JAV BT 中田良子 031324-01 美爆乳でご奉仕パイズリフェラとお扫除フェラ！ 中田良子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FREE"
-  },
-  {
-    "id": 522711,
-    "IDcode": "FREED-048",
-    "title": "兰兰后庭开发觉醒实录：被连续中出时的淫乱哭腔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250513-1/b28b8f5346128c7f52098d8139907b7b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FREED-048"
-  },
-  {
-    "id": 525175,
-    "IDcode": "FRIENDS",
-    "title": "Footlicking",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIENDS"
-  },
-  {
-    "id": 176848,
-    "IDcode": "FRIN-009",
-    "title": "个人摄影作品流出20岁柔肌小姐姐性爱视频",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIN-009"
-  },
-  {
-    "id": 213278,
-    "IDcode": "FRIN-044",
-    "title": "大胸模特",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIN-044"
-  },
-  {
-    "id": 213594,
-    "IDcode": "FRIN-047",
-    "title": "現役大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIN-047"
-  },
-  {
-    "id": 214371,
-    "IDcode": "FRIN-052",
-    "title": "超级苗条的G罩杯大奶子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIN-052"
-  },
-  {
-    "id": 214409,
-    "IDcode": "FRIN-053",
-    "title": "学生情侣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRIN-053"
-  },
-  {
-    "id": 560257,
-    "IDcode": "FS-068",
-    "title": "把我心爱的年轻妻子嫁给我的老板",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/82c3b9e76ab054e56f68a0221ff655c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FS-068"
-  },
-  {
-    "id": 566975,
-    "IDcode": "FSBD-006",
-    "title": "【自助洗衣店小钢炮】电钻式抽插娇嫩肛门！巨穴爆裂贯通玩法 完整破坏实录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250717-1/24374e1739a5b0bc62acc267eeb7ad8c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBD-006"
-  },
-  {
-    "id": 503237,
-    "IDcode": "FSBK-001",
-    "title": "小屁股 未使用肛门无慈悲中出 浣肠大喷出＆二轮插鬼扩张让她绝叫升天！肛门美少女遥 池内遥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/1c1f9613d3e073ba8b21bb0dff1b2fe6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-001"
-  },
-  {
-    "id": 95549,
-    "IDcode": "FSBK-002",
-    "title": "SEXすることでしか生きてる意味を感じられない闇深美少女をM奴●調教「私とSEXしてください…」土下座懇願 闇深美少女［まお］ 三浦まお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "中出",
-      "口交",
+      "介绍影片",
+      "巨乳",
       "单体作品",
-      "高中女生"
+      "美少女电影",
+      "苗条",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/f7c64fb906bc267f27cb9d9b52330314.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "三浦まお"
+      "長濱蜜璃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-068"
   },
   {
-    "id": 8749,
-    "IDcode": "FSBK-003",
-    "title": "バカにしてきたギャル女にアナルガチ掘り仕返しSEX！2穴潮吹き・白目失神アクメで精神崩壊！肉便器化したアナル＆マ◎コに中出し アナル美少女はるの 安堂はるの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "獵豔",
-      "多P",
-      "口爆",
-      "KTV夜總會",
-      "插入異物",
-      "網襪",
-      "報復",
-      "辣妹/GAL系",
-      "美腳",
-      "癡女",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "深喉",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美少女電影",
-      "二穴同入",
-      "拜金女",
-      "肛交",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250127/0709c9d7-db3b-422d-a6cf-0bcdc1d4ff91.jpg",
-    "actress": [
-      "安堂はるの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-003"
-  },
-  {
-    "id": 9557,
-    "IDcode": "FSBK-004",
-    "title": "クリスマスに1人でお留守番している小さなみこちゃんへ…サンタさんから種付けプレゼント お留守番美少女みこ 小島みこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "小隻馬",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "自宅",
-      "變態",
-      "口交",
-      "節日限定",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/3d362cb5/vod.jpg",
-    "actress": [
-      "小島美子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-004"
-  },
-  {
-    "id": 72129,
-    "IDcode": "FSBK-005",
-    "title": "キメセク白目ガンギマリギャル★媚薬でトロトロアナルに中出し！2輪挿し3Pでビシャビシャ潮吹きケツ穴ボコ精子直発射イキ狂いSEX！アナル美少女はるひ 月形はるひ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "肛交",
-      "中出",
-      "口交",
-      "女生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/45b1f6e8536fc6aba180de9721d470dd.jpg",
-    "actress": [
-      "月形はるひ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-005"
-  },
-  {
-    "id": 7602,
-    "IDcode": "FSBK-006",
-    "title": "ちいさなおしり コインランドリ―の放置子はアナルを電動ディルドでガン掘りされ巨穴ブチ壊し貫通中出しヤり捨て！ 生田りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "女學生",
-      "小隻馬",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "自宅",
-      "寢取",
-      "清楚系",
-      "早漏",
-      "口交",
-      "雙馬尾",
-      "形象俱樂部",
-      "深喉",
-      "校花",
-      "中出",
-      "美人",
-      "地雷系",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250312/6902ea54-cee6-4236-ba44-7441343f78f8.jpg",
-    "actress": [
-      "生田りん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-006"
-  },
-  {
-    "id": 6843,
-    "IDcode": "FSBK-007",
-    "title": "偶像特典會大揭秘：被黑心營運出賣，淪為宅男玩物的悲慘小偶像 5P狂歡 ~ 天美めあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "巨尻",
-      "多P",
-      "二次元",
-      "M男・M女",
-      "口爆",
-      "貓耳裝飾",
-      "真實拍攝",
-      "粉絲福利",
-      "女僕制服",
-      "美少女",
-      "羞恥",
-      "美乳",
-      "過膝襪・小腿襪",
-      "亂交 • 群P",
-      "口交",
-      "粉丝",
-      "形象俱樂部",
-      "兩男一女",
-      "高顏值",
-      "貧乳",
-      "淫亂",
-      "COSPLAY服飾",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "角色扮演",
-      "美少女電影",
-      "自慰",
-      "偶像",
-      "蘿莉",
-      "黑絲",
-      "蘿莉控",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "2025-04-12",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/499bbdd7-b17b-4b41-b64e-4fa8a605ba36_thumbnail.webp",
-    "actress": [
-      "天美めあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-007"
-  },
-  {
-    "id": 62381,
-    "IDcode": "FSBK-008",
-    "title": "アジア美少女を監禁喉ボコ開発 4本の肉棒に貫かれ精子と唾液と涙でゴボゴボ喉奥ピストン地獄！精神崩壊！白目ひん剥き！狂人喉奥イラマチオ 喉ボコ美少女いくら 海野いくら",
+    "id": 186487,
+    "IDcode": "FWAY-069",
+    "title": "不義密通のうわさ 八木奈々",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec182252c12b4e68469917/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-069"
+  },
+  {
+    "id": 61954,
+    "IDcode": "FWAY-070",
+    "title": "四畳半背徳ララバイ。 神楽ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "介绍影片",
+      "巨乳",
+      "单体作品",
+      "姐姐",
+      "内衣",
+      "主观视角"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神樂桃果"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-070"
+  },
+  {
+    "id": 187419,
+    "IDcode": "FWAY-071",
+    "title": "暑くてみだらな儚い夏 浅野こころ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-071"
   },
   {
-    "id": 5764,
-    "IDcode": "FSBK-009",
-    "title": "低身長140cmの炉利娘で媚薬拘束痙攣人体実験",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "醫院・診所",
-      "女學生",
-      "奇聞趣事",
-      "小隻馬",
-      "真實拍攝",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "按摩棒",
-      "清楚系",
-      "早漏",
-      "亂交 • 群P",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "校花",
-      "貧乳",
-      "淫亂",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "舔腳",
-      "看病・住院",
-      "蘿莉",
-      "蘿莉控",
-      "誘騙女性",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527114106658658_thumbnail.webp",
-    "actress": [
-      "谷田かりな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-009"
-  },
-  {
-    "id": 5765,
-    "IDcode": "FSBK-010",
-    "title": "クビ寸前だった父親が上司に娘を献上！Gカップ巨乳に育った無垢な生娘の初潮を待ち絶望中出しレ●プ ミニマム美少女るり 小鳩るり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "3P・4P",
-      "女學生",
-      "老頭子",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "豐滿",
-      "痴漢",
-      "凌辱",
-      "流汗",
-      "美少女",
-      "美腳",
-      "父親",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "變態",
-      "欠債肉償",
-      "清楚系",
-      "按摩棒",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "舔腳",
-      "乳交",
-      "蘿莉",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527113516781781_thumbnail.webp",
-    "actress": [
-      "小鳩琉璃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-010"
-  },
-  {
-    "id": 5387,
-    "IDcode": "FSBK-011",
-    "title": "癡戀推し女僕的變態男怒氣爆發強佔子宮種馬play 迷你系美少女 ~ 真白風羽里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "3P・4P",
-      "白絲",
-      "小隻馬",
-      "女僕",
-      "M男・M女",
-      "口爆",
-      "媚藥・迷藥",
-      "女僕制服",
-      "阪道系",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "變態",
-      "美乳",
-      "清楚系",
-      "按摩棒",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "尾行",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "抹油",
-      "角色扮演",
-      "輪姦",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "清純",
-      "手指插入",
-      "自慰",
-      "無毛",
-      "乳交",
-      "魔鬼系",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68adfc3ae2544b92b9ab2a69/cover.jpg",
-    "actress": [
-      "真白風羽里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-011"
-  },
-  {
-    "id": 4391,
-    "IDcode": "FSBK-012",
-    "title": "上納システムの餌食になった新卒不動産営業OL 賄賂は未発達の新鮮なアナル！怒涛の3Pで調教イラマ 3穴ブッ挿し中出し！絶望白目絶頂メス奴●堕ち アナル美少女いくら 海野いくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "招待",
-      "豐滿",
-      "職場",
-      "性虐癖",
-      "鬼畜片",
-      "臀控",
-      "凌辱",
-      "流汗",
-      "美少女",
-      "肉絲",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "OL",
-      "美乳",
-      "制服",
-      "早漏",
-      "亂交 • 群P",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "深喉",
-      "高顏值",
-      "野性",
-      "淫亂",
-      "房產中介",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "二穴同入",
-      "手指插入",
-      "魔鬼系",
-      "肛交",
-      "調教",
-      "女上位",
-      "騎乗位",
-      "身體換業務"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712063414334334_63378_thumbnail.webp",
-    "actress": [
-      "海野いくら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-012"
-  },
-  {
-    "id": 3639,
-    "IDcode": "FSBK-013",
-    "title": "ミニマム美少女キャリー連れ去り集団輪● 顔射イラマ中出し極悪鬼畜5P いいなりFUCK計13発射 一人目あや 月乃あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "苗條",
-      "鬼畜片",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "綁架",
-      "美腳",
-      "羞恥",
-      "變態",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "貧乳",
-      "淫亂",
-      "猥褻穿著",
-      "尾行",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "輪姦",
-      "舔陰",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212628160160_11016_thumbnail.webp",
-    "actress": [
-      "月乃あや"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-013"
-  },
-  {
-    "id": 3246,
-    "IDcode": "FSBK-014",
-    "title": "乳首こねくり調教 変態教師からの’オッパイを小さくする裏技’でチクイキ開発されビクビク痙攣エビ反り絶頂 ミニマム美少女ひなの 原陽菜乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "泳裝",
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "M男・M女",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "清楚系",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "短髮",
-      "貧乳",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "不倫",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "校園生活",
-      "手指插入",
-      "調教",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04677eb67774efbac769a/cover.jpg",
-    "actress": [
-      "原陽菜乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-014"
-  },
-  {
-    "id": 2736,
-    "IDcode": "FSBK-015",
-    "title": "ゴミ屋敷に住む褐色チビ美少女を媚薬で意識朦朧アヘ顔凌●調教 ミニマム美少女まい 北乃まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "小隻馬",
-      "殘忍畫面",
-      "二次元",
-      "叛逆少女",
-      "貓耳裝飾",
-      "媚藥・迷藥",
-      "M男・M女",
-      "插入異物",
-      "性虐癖",
-      "苗條",
-      "鬼畜片",
-      "凌辱",
-      "美少女",
-      "惡搞",
-      "美腳",
-      "羞恥",
-      "大奶头",
-      "清楚系",
-      "早漏",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "貧乳",
-      "野性",
-      "淫亂",
-      "地味",
-      "猥褻穿著",
-      "傲嬌",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "睡衣",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "膚黑",
-      "舔腳",
-      "蘿莉",
-      "調教",
-      "白眼失神",
-      "神待娘",
-      "蘿莉控",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d049d5eb67774efbac8ea9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-015"
-  },
-  {
-    "id": 176316,
-    "IDcode": "FSBK-016",
-    "title": "陰湿な大人の餌食に… 受験に来た初心な田舎娘を民宿いいなり種付けレ×プ 田舎娘はな 平山羽那",
+    "id": 186595,
+    "IDcode": "FWAY-072",
+    "title": "レディの非常識 白岩冬萌",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/b667618960acb37f55bc5cdaed8e20f8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-072"
   },
   {
-    "id": 409956,
-    "IDcode": "FSBT-043",
-    "title": "レズサミット 2",
+    "id": 187391,
+    "IDcode": "FWAY-073",
+    "title": "多様性。 桜ゆの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a536ff8cce1a927afcd2e3/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBT-043"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-073"
   },
   {
-    "id": 522756,
-    "IDcode": "FSDS-513-C",
-    "title": "【小野夕子】暴雨被困旅馆！湿身人妻与陌生男子的肉体取暖",
+    "id": 176676,
+    "IDcode": "FWAY-074",
+    "title": "ロリ巨乳は諦めない あんづ杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-074"
+  },
+  {
+    "id": 176696,
+    "IDcode": "FWAY-075",
+    "title": "VENUS CHANNEL 三澄寧々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-075"
+  },
+  {
+    "id": 308238,
+    "IDcode": "FWAY-077",
+    "title": "あの後のこと 新木希空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-077"
+  },
+  {
+    "id": 186561,
+    "IDcode": "FWAY-080",
+    "title": "オレの推し。 和香なつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-080"
+  },
+  {
+    "id": 467953,
+    "IDcode": "FWDV-004",
+    "title": "野外顏騎的極悅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59b95cf22ae3e0417bf33/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWDV-004"
+  },
+  {
+    "id": 592054,
+    "IDcode": "FWIFE-836",
+    "title": "人妻さくらの诱惑夜～欲求不満な若妻が缲り広げる甘いセックス",
     "year": "",
     "country": "",
     "genre": "",
@@ -1171,1059 +690,51 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250501-1/ca4239ca5eb8f3014132aa7553f79f18.jpg",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250512-1/eb55ba07b13da965084bbbb82a4d78cc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDS-513-C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWIFE-836"
   },
   {
-    "id": 569143,
-    "IDcode": "FSDS-559C",
-    "title": "【百部里程碑】天使萌初体验！真空上阵·百分钟性爱马拉松完全无休 纪念作特别解锁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250425-1/f7bc7c29885d2ec3b9724f7d2dd1eb1a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDS-559C"
-  },
-  {
-    "id": 524398,
-    "IDcode": "FSDSS-001",
-    "title": "新人 FALENO STAR専属 清纯グラビアアイドルAV DEBUT 生田南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/QYfFshHZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-001"
-  },
-  {
-    "id": 465410,
-    "IDcode": "FSDSS-002",
-    "title": "着たまま挿入！コスプレ8 生田南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678760b75d57b64bfde22e7f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-002"
-  },
-  {
-    "id": 82513,
-    "IDcode": "FSDSS-003",
-    "title": "star専属女神-美乃すずめ",
+    "id": 553896,
+    "IDcode": "FWIFE-881",
+    "title": "【人妻出轨】美樱的肉体诱惑 与邻居的禁忌激战",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "无码破解",
-      "首次亮相",
-      "素人作品",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250512-1/59a864f0e80765df140289753b9572eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWIFE-881"
+  },
+  {
+    "id": 562505,
+    "IDcode": "FWTR-003",
+    "title": "ふわとろ熟女デカチンNTR～むっちり巨乳妻が他人棒で快楽に溺れ狂うとき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳",
-      "高"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "美乃雀",
-      "しみけん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-003"
-  },
-  {
-    "id": 76809,
-    "IDcode": "FSDSS-005",
-    "title": "昇天へ誘う女神の3本番 美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "姐姐",
-      "巨乳",
-      "高",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/4bca2c6052c203e42098a881168db539.jpg",
-    "actress": [
-      "美乃雀",
-      "鲛岛",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-005"
-  },
-  {
-    "id": 71732,
-    "IDcode": "FSDSS-007",
-    "title": "重新出发移籍FALENO专属出道-小野夕子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "出道作",
-      "无码破解",
-      "姐姐",
-      "巨乳",
-      "口交",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a2e932a4c6a766d7921bb8e9e5088561.jpg",
-    "actress": [
-      "小野夕子",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-007"
-  },
-  {
-    "id": 76177,
-    "IDcode": "FSDSS-008",
-    "title": "喜欢挑逗勾引学习中学生的家教老师-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "无码破解",
-      "素人作品",
-      "家教",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/51460260ef4f660e37c96b8b86754cb1.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-008"
-  },
-  {
-    "id": 76602,
-    "IDcode": "FSDSS-009",
-    "title": "無鉄砲テレビディレクターvs友田彩也香 AVぶった斬りSHOW 4days",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
-      "纪录片",
-      "素人作品",
-      "巨乳",
-      "第一人称摄影"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/c620e0c552d0c21b363927a1ffec8ada.jpg",
-    "actress": [
-      "友田彩也香",
-      "Qべぇ",
-      "浜口リュウ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-009"
-  },
-  {
-    "id": 76163,
-    "IDcode": "FSDSS-010",
-    "title": "新人 超敏感 コスプレアイドル AV DEBUT 高嶋めいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "首次亮相",
-      "美少女电影",
-      "素人作品",
-      "巨乳",
-      "角色扮演者"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/dbd693855f078bafe9069cc3f2e64037.jpg",
-    "actress": [
-      "田渊正浩",
-      "高嶋めいみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-010"
-  },
-  {
-    "id": 465094,
-    "IDcode": "FSDSS-011",
-    "title": "連続射精させてくれるおもてなし風俗キャッスル 生田南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677def6a89def9b1b8c7613f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-011"
-  },
-  {
-    "id": 556473,
-    "IDcode": "FSDSS-012",
-    "title": "最好的泡泡公主体验肥皂女神Mino Suzume与独家女演员 - 美乃雀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230514-1/59083033963e824dc255bca41079c1a5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-012"
-  },
-  {
-    "id": 100203,
-    "IDcode": "FSDSS-013",
-    "title": "高嶋めいみ完全セルフプロデュース推しコス連続絶頂SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "女佣",
-      "美少女电影",
-      "素人作品",
-      "猥亵穿着"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "2020-02-06",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fsdss013/1fsdss013pl.jpg",
-    "actress": [
-      "高嶋めいみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-013"
-  },
-  {
-    "id": 210066,
-    "IDcode": "FSDSS-014",
-    "title": "邻居是个淫荡的大姐姐-小野夕子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/26/e14b33a126bf89f0208032bab87347eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-014"
-  },
-  {
-    "id": 562203,
-    "IDcode": "FSDSS-015",
-    "title": "新年会NTR仕事先の最低で絶伦な上司に堕ちた仆の妻友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240101/5YwQCda1/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-003"
   },
   {
-    "id": 225117,
-    "IDcode": "FSDSS-016",
-    "title": "曾是写真偶像-生田みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/02750bf91f76e99b987d5e46536e0464.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-016"
-  },
-  {
-    "id": 221381,
-    "IDcode": "FSDSS-017",
-    "title": "温泉旅行-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/25c5fd85617c0dc8f8f16a92182b70a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-017"
-  },
-  {
-    "id": 78519,
-    "IDcode": "FSDSS-018",
-    "title": "びしょ濡れ汗だく3本番 高嶋めいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "美少女电影",
-      "立即口交",
-      "流汗"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/630601584f9b67fe5d495488fdd6e978.jpg",
-    "actress": [
-      "鲛岛",
-      "高嶋めいみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-018"
-  },
-  {
-    "id": 81558,
-    "IDcode": "FSDSS-019",
-    "title": "巨乳介護士-小野夕子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "护士",
-      "姐姐",
-      "口交",
-      "巨乳",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/551b119e11e0a8c73da9f2c061d3cf40.jpg",
-    "actress": [
-      "小野夕子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-019"
-  },
-  {
-    "id": 82536,
-    "IDcode": "FSDSS-020",
-    "title": "AV女優History-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
-      "纪录片",
-      "荡妇",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "友田彩也香",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-020"
-  },
-  {
-    "id": 82537,
-    "IDcode": "FSDSS-021",
-    "title": "想成为女主播的可爱女孩-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "女大学生",
-      "首次亮相",
-      "美少女电影",
-      "大小姐"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-021"
-  },
-  {
-    "id": 81581,
-    "IDcode": "FSDSS-022",
-    "title": "开车回家-吉高寧々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "偶像",
-      "无码破解",
-      "纪录片",
-      "第一人称摄影"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ff52e3bef6f809cdb87b4935781d8434.jpg",
-    "actress": [
-      "吉高寧寧",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-022"
-  },
-  {
-    "id": 547843,
-    "IDcode": "FSDSS-025",
-    "title": "密着してずーっと离してくれないスキスキ甘えん坊 生田みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200823-1/6f8f76382baddcdaa364de6dbb53ecc5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-025"
-  },
-  {
-    "id": 107552,
-    "IDcode": "FSDSS-027",
-    "title": "趁着丈夫出差和猥琐大叔出轨做爱的美女巨乳人妻小野夕子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "荡妇",
-      "已婚妇女",
-      "无码破解",
-      "巨乳",
-      "接吻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "小野夕子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-027"
-  },
-  {
-    "id": 209263,
-    "IDcode": "FSDSS-028",
-    "title": "風俗キャッスル 高嶋めいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-028"
-  },
-  {
-    "id": 82483,
-    "IDcode": "FSDSS-029",
-    "title": "美乳轻熟女-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "内衣",
-      "无码破解",
-      "巨乳",
-      "高"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/37a8defd64e17e1b3563327851828cab.jpg",
-    "actress": [
-      "美乃雀",
-      "小田切ジュン",
-      "大岛丈",
-      "南佳也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-029"
-  },
-  {
-    "id": 82519,
-    "IDcode": "FSDSS-030",
-    "title": "美女姐姐-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "乱伦",
-      "中出",
-      "妹妹",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/81702a9c75ca89d599dd6c296bb0a328.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-030"
-  },
-  {
-    "id": 223506,
-    "IDcode": "FSDSS-031",
-    "title": "诱惑人的美女家庭教师-吉高寧々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/12dc58216982cc57d0c04857801bb280.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-031"
-  },
-  {
-    "id": 82645,
-    "IDcode": "FSDSS-033",
-    "title": "天使一般的美少女-天使もえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "美少女电影",
-      "第一人称摄影",
-      "纪录片"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/52cde3aee2edf81e38d914b1c5c78e96.jpg",
-    "actress": [
-      "天使萌",
-      "イセドン内村",
-      "市川润"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-033"
-  },
-  {
-    "id": 82608,
-    "IDcode": "FSDSS-034",
-    "title": "超可爱的学生妹-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "美少女电影",
-      "制服"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/6f386f17325d0f1757bf6aa25d0fcd93.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-034"
-  },
-  {
-    "id": 226187,
-    "IDcode": "FSDSS-035",
-    "title": "校园制服小恶魔优等生-生田みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8bb63b65a22f763a3e18954fff2396af.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-035"
-  },
-  {
-    "id": 82622,
-    "IDcode": "FSDSS-036",
-    "title": "研究自己身体最舒服的地方-二階堂夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "美少女电影",
-      "多P",
-      "子宫颈"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "森林原人",
-      "しみけん",
-      "玉木玲",
-      "二阶堂梦"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-036"
-  },
-  {
-    "id": 82432,
-    "IDcode": "FSDSS-037",
-    "title": "温泉旅行 小野夕子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "户外",
-      "和服，丧服",
-      "无码破解",
-      "姐姐",
-      "巨乳",
-      "浴衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d85e4ad6fbef4e90cd794c/cover.jpg",
-    "actress": [
-      "小野夕子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-037"
-  },
-  {
-    "id": 208003,
-    "IDcode": "FSDSS-038",
-    "title": "超M美少女-高嶋めいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c30df63c0d50c97e19698d33ad3a7643.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-038"
-  },
-  {
-    "id": 82676,
-    "IDcode": "FSDSS-039",
-    "title": "女神の童貞筆下ろし-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "姐姐",
-      "巨乳",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-039"
-  },
-  {
-    "id": 209342,
-    "IDcode": "FSDSS-040",
-    "title": "頼む…妊娠し-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-040"
-  },
-  {
-    "id": 107197,
-    "IDcode": "FSDSS-041",
-    "title": "极限小恶魔痴女-吉高寧々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "荡妇",
-      "M男",
-      "无码破解",
-      "淫语"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "吉高寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-041"
-  },
-  {
-    "id": 225941,
-    "IDcode": "FSDSS-042",
-    "title": "原S1专属女优-橋本ありな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-042"
-  },
-  {
-    "id": 572401,
-    "IDcode": "FSDSS-043",
-    "title": "新人 FALENO star専属 决意のAV DEBUT 桃尻かなめ new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic24.anzise.com/pic/20220422/6a0eaae432861a8b8b7a78c4c0a1a0f2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-043"
-  },
-  {
-    "id": 209464,
-    "IDcode": "FSDSS-044",
-    "title": "保育士 月乃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-044"
-  },
-  {
-    "id": 208029,
-    "IDcode": "FSDSS-046",
-    "title": "要引退的女神奶葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-046"
-  },
-  {
-    "id": 207998,
-    "IDcode": "FSDSS-047",
-    "title": "爱女友天使萌一天到晚腻在一起的密着性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-047"
-  },
-  {
-    "id": 207949,
-    "IDcode": "FSDSS-048",
-    "title": "巨乳女神-美乃すずめ",
+    "id": 561958,
+    "IDcode": "FWTR-004",
+    "title": "ムチムチ爆乳妻を狙う媚薬エステマッサージ（2）～无理やり淫乱化させられた熟女は复数の肉棒に贯か",
     "year": "",
     "country": "",
     "genre": "",
@@ -2231,508 +742,793 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240205/sX6Ad4vZ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-004"
   },
   {
-    "id": 209687,
-    "IDcode": "FSDSS-049",
-    "title": "ぷり尻コス 二階堂夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-049"
-  },
-  {
-    "id": 569627,
-    "IDcode": "FSDSS-050",
-    "title": "我让一个男人在销魂射精后惹上麻烦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/DoFGLIOh.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-050"
-  },
-  {
-    "id": 210021,
-    "IDcode": "FSDSS-053",
-    "title": "新人身長152cm-有坂真宵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/18/86955d2f32592933c6eb724a61b8ab8b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-053"
-  },
-  {
-    "id": 105585,
-    "IDcode": "FSDSS-054",
-    "title": "用摄影机全程记录下喝醉的她和男优们的淫荡互动",
+    "id": 546211,
+    "IDcode": "FWTR-005",
+    "title": "ふわとろ熟女デカチンNTR～むっちり巨乳妻が他人棒で快楽に溺れ狂うとき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "多P",
-      "荡妇"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240318-1/33c7e7439010b651d3dedd2741c2ab0d.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240304/f2N2VXW1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-005"
+  },
+  {
+    "id": 561263,
+    "IDcode": "FWTR-006",
+    "title": "ムチムチ爆乳妻を狙う媚薬エステマッサージ（3）～无理やり淫乱化させられた熟女は复数の肉棒に贯か",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240402/0UzEz43u/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-006"
+  },
+  {
+    "id": 560952,
+    "IDcode": "FWTR-007",
+    "title": "ふわとろ熟女デカチンNTR～むっちり巨乳妻が他人棒で快楽に溺れ狂うとき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240506/sRPB8LQh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-007"
+  },
+  {
+    "id": 560816,
+    "IDcode": "FWTR-008",
+    "title": "ムチムチ爆乳妻を狙う媚薬エステマッサージ（4）～无理やり淫乱化させられた熟女は复数の肉棒に贯か",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240609/D4Bp9VgM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-008"
+  },
+  {
+    "id": 545231,
+    "IDcode": "FWTR-009",
+    "title": "“えっ、これで本当に痩せるんですか？”豊満巨乳熟女が絶伦マッチョトレーナーの里メニューで马乘り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240701/Whi0SbFt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-009"
+  },
+  {
+    "id": 551231,
+    "IDcode": "FWTR-010",
+    "title": "借金返済の为にAV出演するはずが… 久々のSEXに理性崩壊！撮影を忘れて腰を振り続ける淫乱巨乳妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250223/VFgkxz7g/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-010"
+  },
+  {
+    "id": 476954,
+    "IDcode": "FWTR-012",
+    "title": "为了偿还债务而出演AV，却在久违的性爱中理性崩溃！忘记拍摄，只会不断摆动 长泽里実,松沢ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/8bb1cbbb7ad54bd03373e1cbe483d6f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-012"
+  },
+  {
+    "id": 493388,
+    "IDcode": "FWTR-013",
+    "title": "「欸，真的要靠这个减肥吗？性感大胸成熟女人在令人难以置信的猛男训练师的秘密菜单上骑御子柴美花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/614c41061de0077eef2057cec9110042.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-013"
+  },
+  {
+    "id": 411727,
+    "IDcode": "FWTR-014",
+    "title": "本来是为了还债而出演AV的…但是，许久以来的第一次性爱之后，她失去了理智！忘 南天音,佐久间泉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/c39857b4769add4ccb159d133d5b4953.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-014"
+  },
+  {
+    "id": 440242,
+    "IDcode": "FWTR-015",
+    "title": "「欸，真的要靠这个减肥吗？肉感巨乳熟女骑马，无双猛男训练师的秘密菜单，大汗淋漓的高 足立しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250914-1/0181cec74c2709b5497d51c5bf2ee6cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-015"
+  },
+  {
+    "id": 448978,
+    "IDcode": "FWTR-016",
+    "title": "アパートの隣に住むムッチリすけべな五十路妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250322/m4LCeYco/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-016"
+  },
+  {
+    "id": 440376,
+    "IDcode": "FWTR-017",
+    "title": "ぽっちゃり巨乳のおばちゃん按摩師岡江みどり～癒やしの豊満ボディに包まれながら思いっきり中●ししたい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/b60d26e4cc464aa0cdc81d0339cb5302.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-017"
+  },
+  {
+    "id": 440768,
+    "IDcode": "FWTR-018",
+    "title": "「お前んちの母ちゃんエロすぎだろ！」無防備なモチモチ爆乳ボディで息子の友人を虜にする五十路母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/fe5977393df009bd334c341c960c1428.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-018"
+  },
+  {
+    "id": 67374,
+    "IDcode": "FWTR-019",
+    "title": "汗でじっとり濡れたムチムチ巨乳のアカスリおばちゃん～カチカチの勃起チ●コを見せつけたらSEX出来るはず！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "巨乳",
+      "成熟的女人",
+      "胖女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/3316d95ba702b48f2002dd30f570338e.jpg",
     "actress": [
-      "吉高寧寧"
+      "西島美里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-019"
   },
   {
-    "id": 209533,
-    "IDcode": "FSDSS-055",
-    "title": "超S級女優の手コキ-橋本ありな",
+    "id": 449821,
+    "IDcode": "FWTR-020",
+    "title": "アパートの隣に住むムッチリすけべな五十路妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/07/e8f7d5fb37d57d5ef49e7b30bb94348f.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250802/aYgsotv4/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-020"
   },
   {
-    "id": 209679,
-    "IDcode": "FSDSS-057",
-    "title": "椎名そらの女子旅ド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/19/42a16b9b26e742bc51a68da04a398f32.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-057"
-  },
-  {
-    "id": 594926,
-    "IDcode": "FSDSS-058",
-    "title": "紧急移籍请鉴赏空的作品吧 天川空",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/786f8b5d7b82080ee8f9e6e370c66875.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-058"
-  },
-  {
-    "id": 104498,
-    "IDcode": "FSDSS-059",
-    "title": "嫁の絶倫妹-天使もえ",
+    "id": 540624,
+    "IDcode": "FWTR-021",
+    "title": "ぽっちゃり巨乳のおばちゃん按摩师 山本かをり～愈やしの豊満ボディに包まれながら思いっきり中●ししたい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "荡妇",
-      "妹妹",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250802/bo7jqh54/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-021"
+  },
+  {
+    "id": 61235,
+    "IDcode": "FWTR-022",
+    "title": "「お前んちの母ちゃんエロすぎだろ！」無防備なモチモチ爆乳ボディで息子の友人を虜にする五十路母 鈴河めぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "自慰",
+      "成熟的女人",
       "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/24/bd1d07471ecfaf6afd1bcffae8ba44bb.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/4773c148e80025a9275ae58a95ccdaca.jpg",
     "actress": [
-      "天使萌"
+      "鈴河めぐみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-022"
   },
   {
-    "id": 567040,
-    "IDcode": "FSDSS-06",
-    "title": "友だちの妹はムッツリな言いなり美少女生田みなみ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-06"
-  },
-  {
-    "id": 559863,
-    "IDcode": "FSDSS-060",
-    "title": "连续活塞SEX月野樱即使被抓住也一直注视著高知-月乃樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/18/96376_cover_2025-06-18_094157.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-060"
-  },
-  {
-    "id": 96975,
-    "IDcode": "FSDSS-061",
-    "title": "禁欲一個月後瘋狂高潮！潮吹絶頂4本番！二階堂夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/18/48985_cover_2025-06-18_083450.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-061"
-  },
-  {
-    "id": 209744,
-    "IDcode": "FSDSS-062",
-    "title": "れ続けた人妻 友田彩也香",
+    "id": 61177,
+    "IDcode": "FWTR-023",
+    "title": "汗でじっとり濡れたムチムチ巨乳のアカスリおばちゃん（2）～カチカチの勃起チ●コを見せつけたらSEX出来るはず！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳",
+      "手淫",
+      "胖女人",
+      "各种职业",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/24/8cac5c21f67156ed4615577bd4971cc9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-062"
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd2f370069396376787dd1/cover.jpg",
+    "actress": [
+      "翔田千里",
+      "しみけん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-023"
   },
   {
-    "id": 559864,
-    "IDcode": "FSDSS-063",
-    "title": "如果你能忍受被严重宠坏的调情技术射精你会得到奖励SecchuMeimiTakashima-高嶋明实",
+    "id": 176918,
+    "IDcode": "FWTR-024",
+    "title": "アパートの隣に住むムッチリすけべな五十路妻 安野由美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/18/93264_cover_2025-06-18_091924.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef203d52c12b4e684bb1bc/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-024"
   },
   {
-    "id": 593534,
-    "IDcode": "FSDSS-064",
-    "title": "清爽大小姐嬢女大学生的高贵淫语泡泡浴 东条夏",
+    "id": 410344,
+    "IDcode": "FX-0007",
+    "title": "变态流浪汉强制凌辱虐奸美女志工",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/18/81758_cover_2025-06-18_083450.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-064"
-  },
-  {
-    "id": 209764,
-    "IDcode": "FSDSS-065",
-    "title": "隣の神乳お姉-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/27/f97626ce372bd68323f687dc64ab75a3.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/6835abbad6dba3457516c0dc/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-065"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FX-0007"
   },
   {
-    "id": 211836,
-    "IDcode": "FSDSS-066",
-    "title": "生平第一次-有坂真宵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/02/28/7b83220a1d1c9c3123e84dda224f09d9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-066"
-  },
-  {
-    "id": 210022,
-    "IDcode": "FSDSS-067",
-    "title": "男子排球队爱的妹子-杏羽かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/18/fec161ca830813128f19bed2fc1bac86.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-067"
-  },
-  {
-    "id": 209874,
-    "IDcode": "FSDSS-069",
-    "title": "口淫の流儀-橋本ありな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/08/a016ef4adb89458ffceba485570bea67.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-069"
-  },
-  {
-    "id": 2072,
-    "IDcode": "FSDSS-070",
-    "title": "橄榄球俱乐部成员-吉高寧々",
+    "id": 547871,
+    "IDcode": "FYSD-003",
+    "title": "巨乳コスプレイヤー个撮レコード 3 FG●イシ○タル编",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231002/F1XOAVMW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-003"
+  },
+  {
+    "id": 547526,
+    "IDcode": "FYSD-004",
+    "title": "巨乳コスプレイヤー个撮レコード 4 サキュパス编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231106/CuEKD4vW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-004"
+  },
+  {
+    "id": 547370,
+    "IDcode": "FYSD-005",
+    "title": "巨乳コスプレイヤー个撮レコード 5 チェン○ーマン编 夕美しおん-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/LMXaIxEQ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-005"
+  },
+  {
+    "id": 547188,
+    "IDcode": "FYSD-006",
+    "title": "巨乳コスプレイヤー个撮レコード 6 咒术●戦编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231213/f07FUhag/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-006"
+  },
+  {
+    "id": 547186,
+    "IDcode": "FYSD-007",
+    "title": "巨乳コスプレイヤー个撮レコード 7 炎炎●消防队编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231213/SBco5xwC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-007"
+  },
+  {
+    "id": 562109,
+    "IDcode": "FYSD-008",
+    "title": "巨乳コスプレイヤー个撮レコード 8ぼ●ち·ざ·ろ●く 编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240123/hwuYSx6M/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-008"
+  },
+  {
+    "id": 561851,
+    "IDcode": "FYSD-010",
+    "title": "巨乳コスプレイヤー个撮レコード 10ネココスプレ 编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240213/GHL2Kb92/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-010"
+  },
+  {
+    "id": 546115,
+    "IDcode": "FYSD-011",
+    "title": "巨乳コスプレイヤー个撮レコード 11エッジ●ンナーズ ルー●ー编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240312/U1rVNasp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-011"
+  },
+  {
+    "id": 545696,
+    "IDcode": "FYSD-013",
+    "title": "巨乳コスプレイヤー个撮レコード 13 NI●KEラ●编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240423/vnDZeYBn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-013"
+  },
+  {
+    "id": 545471,
+    "IDcode": "FYSD-014",
+    "title": "巨乳コスプレイヤー个撮レコード 14 原● 绮●々编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240528/cWIyFNG7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-014"
+  },
+  {
+    "id": 13142,
+    "IDcode": "FYSD-015",
+    "title": "巨乳Cosplayer個人拍攝記錄 15 ~ 夕美紫苑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "二次元",
+      "奇異的",
+      "搞笑・模仿",
+      "奇聞趣事",
+      "中出",
+      "劇情",
+      "按摩・美容店",
+      "美少女",
+      "無毛",
+      "素人作品",
+      "按摩・物理治療・美容",
+      "游戲COSPLAY",
+      "美乳",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "乳交",
+      "按摩女郎",
+      "女上位",
+      "抹油",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-07-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20240722/c0810b18-0668-42b0-9efc-54addeaa6c62.jpg",
+    "actress": [
+      "夕美紫苑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-015"
+  },
+  {
+    "id": 560522,
+    "IDcode": "FYSD-016",
+    "title": "巨乳コスプレイヤー个撮レコード 16 NI●KE ア●ス编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240818/w1p2ZLzg/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-016"
+  },
+  {
+    "id": 11934,
+    "IDcode": "FYSD-017",
+    "title": "巨乳コスプレイヤー個撮レコード 17 ホ●ライブ 湊あ●あ編 夕美しおん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "主觀視角",
+      "蘿莉控",
+      "二次元",
+      "小隻馬",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "無毛",
+      "企畫",
+      "素人作品",
+      "角色扮演",
+      "騎乗位",
+      "口交",
+      "巨乳",
+      "蘿莉",
+      "乳交",
+      "女上位",
+      "網路紅人",
+      "後入",
+      "業餘",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/08/e6659e0e/vod.jpg",
+    "actress": [
+      "夕美紫苑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-017"
+  },
+  {
+    "id": 499407,
+    "IDcode": "FYSD-018",
+    "title": "巨乳Cosplayer个人拍摄记录18NI●KE酒吧派对版Yumion夕美紫苑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/a9d947b8ad6d24ece59b87118bdba11a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-018"
+  },
+  {
+    "id": 550562,
+    "IDcode": "FYSD-019",
+    "title": "巨乳コスプレイヤー个撮レコード 19 葬送のフ●ーレン·フ●ルン编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://la.lashayu.com/upload/vod/20251012-1/c2536345c78b0af046ffe07a166024ec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-019"
+  },
+  {
+    "id": 9584,
+    "IDcode": "FYSD-020",
+    "title": "巨乳COS的素人攝影Vol.20 NI●KEのユ●編 ~ 夕美紫苑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "私房攝影",
+      "二次元",
+      "癡女",
+      "中出",
+      "女優",
+      "企畫",
+      "素人作品",
+      "角色扮演",
+      "騎乗位",
+      "素人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-12-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20241226/20241226033331307307.jpg",
+    "actress": [
+      "夕美紫苑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-020"
+  },
+  {
+    "id": 525822,
+    "IDcode": "FYSD-021",
+    "title": "巨乳コスプレイヤー个撮レコード21 GA●TZ·下平●玲花编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250322/jyVO8yYO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-021"
+  },
+  {
+    "id": 7807,
+    "IDcode": "FYSD-022",
+    "title": "巨乳Cosplayer個人攝影記錄22 《五等分的花嫁》中野二乃篇 ~ 夕美紫苑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "蠻橫嬌羞",
+      "亂交 • 群P",
+      "癡女",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "絕頂高潮",
+      "企畫",
+      "素人作品",
+      "角色扮演",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
       "多P",
-      "處男",
-      "苗條",
-      "無碼流出"
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/08/159b15da13d730660bf14c593e5caf6f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbafe7ce5a404e9bc0995c/cover.jpg",
     "actress": [
-      "吉高寧寧"
+      "夕美紫苑"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-070"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FYSD-022"
   },
   {
-    "id": 210023,
-    "IDcode": "FSDSS-071",
-    "title": "街头采访-椎名そら",
+    "id": 497461,
+    "IDcode": "FZR-001",
+    "title": "718V女优顽张ってます 三叶优花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e7732b631cc64eb5a35708/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d546ef6d50b48386f13d011fed6f9127.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-071"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FZR-001"
   },
   {
-    "id": 210024,
-    "IDcode": "FSDSS-072",
-    "title": "敏感美少女-桃尻かなめ",
+    "id": 352600,
+    "IDcode": "G",
+    "title": "G罩杯妹子 让人想玩她的花样太多了",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-072"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=G"
   },
   {
-    "id": 172012,
-    "IDcode": "FSDSS-077",
-    "title": "性骚扰机长-天使もえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "天使萌"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-077"
-  },
-  {
-    "id": 210148,
-    "IDcode": "FSDSS-078",
-    "title": "女友的妹妹受不了了-橋本ありな",
+    "id": 541117,
+    "IDcode": "G-138",
+    "title": "发育期的妹妹在家里半裸转悠引诱我（下）",
     "year": "",
     "country": "",
     "genre": "",
@@ -2740,79 +1536,179 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-078"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=G-138"
   },
   {
-    "id": 566378,
-    "IDcode": "FSDSS-080",
-    "title": "桃尻かなめとイチャラブ学园性活",
+    "id": 64772,
+    "IDcode": "G-BITCH",
+    "title": "ナンパの美学",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0d02b6584127bad09022e041686e5aaa.jpg",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-080"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=G-BITCH"
   },
   {
-    "id": 210326,
-    "IDcode": "FSDSS-081",
-    "title": "湿度100％の接吻性交-友田彩也香",
+    "id": 520339,
+    "IDcode": "G-CUP",
+    "title": "10Musume 091821_01 I Was Introduced To A Busty Girl",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-081"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=G-CUP"
   },
   {
-    "id": 177965,
-    "IDcode": "FSDSS-083",
-    "title": "特殊企划隐瞒的采访过程中安排男优突击插入天然呆美颜女优吉高宁宁看看她会做出什么反应",
+    "id": 557104,
+    "IDcode": "G-MEN",
+    "title": "素人女孩在商店行窃时被抓获 竹内柚叶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=G-MEN"
+  },
+  {
+    "id": 553886,
+    "IDcode": "GA-CD1",
+    "title": "【如果有库存超幸运☆】※天然Icup派斯里。Vtuber戌神子〇在Icup爆成长~ ！音羽酱第1次的",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FALENO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FALENO",
-        "works_count": 971
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GA-CD1"
+  },
+  {
+    "id": 553885,
+    "IDcode": "GA-CD2",
+    "title": "【如果有库存超幸运☆】※天然Icup派斯里。Vtuber戌神子〇在Icup爆成长~ ！音羽酱第1次的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GA-CD2"
+  },
+  {
+    "id": 499124,
+    "IDcode": "GA4030-2249",
+    "title": "HEYDOU 佐々木優奈-土下座懇願 M痴女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a346e1f55e2506231697696dc0ee9c41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GA4030-2249"
+  },
+  {
+    "id": 499121,
+    "IDcode": "GA4030-2250",
+    "title": "HEYDOU 青山はな-洗練された大人のいやし亭でいきなりぶっかけ隊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/0da95e8ab71b4d3057e5fe299f14737a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GA4030-2250"
+  },
+  {
+    "id": 524120,
+    "IDcode": "GACHI-1000",
+    "title": "リナ −曼荼罗性交絵巻25−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230525-1/1f88c7cb90ab49796f850ff3c262971d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1000"
+  },
+  {
+    "id": 551118,
+    "IDcode": "GACHI-1043",
+    "title": "ガチん娘！ ことり －実录ガチ面接",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1043"
+  },
+  {
+    "id": 551119,
+    "IDcode": "GACHI-1047",
+    "title": "ガチん娘！ 絵里子－素人生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1047"
+  },
+  {
+    "id": 521517,
+    "IDcode": "GACHI-1074",
+    "title": "ガチん娘! gachi1074 ミク －Sexyランジェリーの虏66－",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/papachangpian-img/f5a901a82a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1074"
   }
 ];

@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "NOSKINS",
+      "company": "BOTAN",
       "publish_date": "",
       "cover_url": "",
       "actress": [

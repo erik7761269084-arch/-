@@ -78,7 +78,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2022-10-04",
       "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/43b77d55e0210929f4eae44cbf045e00.jpg",
       "actress": [
@@ -94,7 +94,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-2/48a2b16d327ba2e01c6e69f77f5be9f4.jpg",
       "actress": [
@@ -110,7 +110,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/0ddde3fcb14f3e158e11e9ae89d798d3.jpg",
       "actress": [
@@ -160,7 +160,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-2/c8c9e659f96521efb69c8f30400e9ce9.jpg",
       "actress": [
@@ -176,7 +176,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-7/1a4798090208294814c5b8692c4fcd8d.jpg",
       "actress": [
@@ -209,7 +209,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250324-1/09e58a4de39cc6b8f0c645accf9b6ea4.jpg",
       "actress": [

@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 187432,
-    "IDcode": "ALOG-017",
-    "title": "見た目は〇〇 身体は大人 公園でアイスを食べていた美少女と性交した記録",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68accc858cce1a927a09f6d3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALOG-017"
-  },
-  {
-    "id": 467781,
-    "IDcode": "ALOG-018",
-    "title": "和害羞的女孩約會吧♪ 一個樸素,變態的女朋友去參加無內褲,無胸罩的約會",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f5a5cf22ae3e043968fc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALOG-018"
-  },
-  {
     "id": 60293,
     "IDcode": "ALOG-019",
     "title": "ネットで出会った巨乳美少女と性交",
@@ -37,14 +7,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "潮吹",
       "乳房",
       "美少女电影",
-      "巨乳",
       "第一人称摄影"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251005/MJUWlHS7/1.jpg",
     "actress": [],
@@ -58,13 +28,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
       "中出",
-      "猥亵穿着",
-      "按摩棒"
+      "按摩棒",
+      "OL",
+      "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -78,14 +48,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
       "业余",
+      "屁股",
       "中出",
       "各种职业",
       "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897dee455337d7f7bbc77f6/cover.jpg",
     "actress": [],
@@ -100,7 +70,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -115,7 +85,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -132,7 +102,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240306-1/392e9f6495566e6685a16e136ca4c765.jpg",
     "actress": [],
@@ -147,7 +117,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/08/24/QQ2019082503121274f24.jpg",
     "actress": [],
@@ -164,7 +134,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/08/24/QQ201908250312126f494.jpg",
     "actress": [],
@@ -181,7 +151,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Yk6ZE1O0L.jpg",
     "actress": [],
@@ -198,7 +168,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/057e598e0b0a52a8fd7e513dfab2b80d.jpg",
     "actress": [],
@@ -215,7 +185,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/9HNb0CMv.jpg",
     "actress": [],
@@ -232,7 +202,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ff8dd1d49b6d434b227ffaa4774ad072.jpg",
     "actress": [],
@@ -249,7 +219,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9e69b646779bef7369f21d1e438da833.jpg",
     "actress": [],
@@ -264,7 +234,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -281,7 +251,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bc9a639e2ce548cabfdb30fe84b7d591.jpg",
     "actress": [],
@@ -298,7 +268,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -312,17 +282,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "深喉",
-      "玩具",
-      "4小时以上作品",
-      "素人",
       "业余",
+      "巨乳",
+      "玩具",
+      "潮吹",
       "素人作品",
-      "巨乳"
+      "4小时以上作品",
+      "深喉",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/aeb789aedf9d6b491674bd218976e1c0.jpg",
     "actress": [],
@@ -331,7 +301,7 @@ window.PAGE_DATA = [
   {
     "id": 590370,
     "IDcode": "AMA-039",
-    "title": "[]の逸材。ドスケベ素人",
+    "title": "の逸材。ドスケベ素人",
     "year": "",
     "country": "",
     "genre": "",
@@ -340,7 +310,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220623-1/e9c4881863ef166447ae266cfe18d050.jpg",
     "actress": [],
@@ -355,7 +325,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -372,7 +342,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/mrxtykXD.jpg",
     "actress": [],
@@ -387,7 +357,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/38669_cover_2025-07-06_175033.jpg",
     "actress": [],
@@ -402,7 +372,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/mMVUjbkQ.jpg",
     "actress": [],
@@ -417,7 +387,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/27571_cover_2025-06-09_185610.jpg",
     "actress": [],
@@ -426,7 +396,7 @@ window.PAGE_DATA = [
   {
     "id": 590369,
     "IDcode": "AMA-048",
-    "title": "[]の逸材。ドスケベ素人の",
+    "title": "の逸材。ドスケベ素人の",
     "year": "",
     "country": "",
     "genre": "",
@@ -435,7 +405,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -450,7 +420,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/a947741410d45c59895dfd9d0f2eda55.jpg",
     "actress": [],
@@ -459,7 +429,7 @@ window.PAGE_DATA = [
   {
     "id": 590368,
     "IDcode": "AMA-050",
-    "title": "[]の逸材。ドスケベ素人の冲撃的试し撮り",
+    "title": "の逸材。ドスケベ素人の冲撃的试し撮り",
     "year": "",
     "country": "",
     "genre": "",
@@ -468,7 +438,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -482,17 +452,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "玩具",
-      "4小时以上作品",
-      "素人",
       "业余",
-      "无毛",
+      "巨乳",
+      "玩具",
+      "潮吹",
       "素人作品",
-      "巨乳"
+      "无毛",
+      "4小时以上作品",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9e02dfa4a4fdcf64a1b2fdb8f3bef6e.jpg",
     "actress": [
@@ -517,7 +487,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -534,7 +504,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/08/aff0627d8734857f6fca7233c692c7b4.jpg",
     "actress": [],
@@ -551,7 +521,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -568,7 +538,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -585,7 +555,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -602,7 +572,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -617,7 +587,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221230/Ibo3oxIY/1.jpg",
     "actress": [],
@@ -632,12 +602,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "精选，综合",
-      "4小时以上作品",
+      "业余",
       "乳液",
-      "业余"
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/d4665aa5c81fb32444c12a68ae6e0fae.jpg",
     "actress": [
@@ -655,7 +625,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221230/PB8UF1U1/1.jpg",
     "actress": [],
@@ -672,7 +642,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -687,7 +657,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -702,13 +672,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d208071eb543bb0ee29f1/poster2.jpg",
     "actress": [],
@@ -722,22 +686,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "监禁",
-      "平胸",
-      "强奸",
       "魔鬼系",
       "中出",
-      "萝莉塔"
+      "萝莉塔",
+      "平胸",
+      "监禁",
+      "强奸",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -754,13 +712,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -775,13 +727,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://pic44.anzise.com/pic/20230127/ccb23bb540c11b3d6c7599e99b23c624/1.jpg",
     "actress": [],
@@ -796,13 +742,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -816,21 +756,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
+      "口交",
       "中出",
       "美少女电影",
       "素人作品",
-      "口交",
-      "高中女生"
+      "高中女生",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2019-04-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/b5dd724bfa94ccc78693dcb46a075d4e.jpg",
     "actress": [
@@ -846,20 +780,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "乱伦",
       "中出",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/85dd6d9cab6e25c94db853076fedc6a3.jpg",
     "actress": [
@@ -875,20 +803,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
       "纪录片",
+      "第一人称摄影",
       "美少女电影",
-      "第一人称摄影"
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2019-06-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0fc2886126956fa2ae16ce05511930bf.jpg",
     "actress": [
@@ -905,21 +827,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女电影",
-      "中出",
-      "素人作品",
       "口交",
+      "潮吹",
+      "中出",
+      "美少女电影",
+      "素人作品",
       "主观视角"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2019-07-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/cbff8f63ae571618379c351706dbfb88.jpg",
     "actress": [
@@ -936,13 +852,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200109-1/89fdb36c57022ee98cfb4df34f859f55.jpg",
     "actress": [],
@@ -956,20 +866,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "OL",
       "中出",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "OL",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/307278e4779f647b39abe3ae4da262ce.jpg",
     "actress": [
@@ -986,24 +890,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "学校泳装",
-      "多P",
+      "口交",
       "乱伦",
-      "无毛",
       "中出",
       "美少女电影",
       "素人作品",
-      "口交"
+      "校服",
+      "学校泳装",
+      "无毛",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2020-02-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1019,22 +917,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
       "乱伦",
-      "无毛",
       "中出",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "无毛",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2020-03-01",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/68914476624af650a3a4e299029bc75d.jpg",
     "actress": [
@@ -1051,13 +943,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/69b69ae2fb9e6afb1ff45bc180e1e64e.jpg",
     "actress": [],
@@ -1072,13 +958,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1093,13 +973,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1114,13 +988,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1135,13 +1003,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/19/23821_cover_2025-09-19_030246.jpg",
     "actress": [],
@@ -1156,13 +1018,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1177,13 +1033,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1198,13 +1048,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1219,13 +1063,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1239,24 +1077,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
-      "新娘，年轻妻子",
-      "无毛",
-      "中出",
-      "制服",
-      "美少女电影",
       "口交",
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "无毛",
+      "制服",
       "主观视角",
-      "高中女生"
+      "平胸",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/51b85c1acba4caf895535f948c2cdb32.jpg",
     "actress": [
@@ -1273,13 +1105,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2024-07-17",
     "cover_url": "https://tutu1.space/images/2021/08/12/2e7cc5764154dff3d8bfda8c94338963.jpg",
     "actress": [],
@@ -1293,21 +1119,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
-      "新娘，年轻妻子",
       "美少女电影",
+      "高中女生",
+      "苗条",
       "主观视角",
-      "高中女生"
+      "平胸",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9b0edfdb68e2ac196793c1fd40753bdf.jpg",
     "actress": [
@@ -1324,13 +1144,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1345,13 +1159,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1366,13 +1174,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8a18479f1ac4ec49b5715/cover.jpg",
     "actress": [],
@@ -1387,13 +1189,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1407,20 +1203,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
       "中出",
       "美少女电影",
-      "巨乳",
-      "高中女生"
+      "高中女生",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "2021-10-01",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/KmwPLZsS.jpg",
     "actress": [],
@@ -1435,13 +1225,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/CA0hDOVc.jpg",
     "actress": [],
@@ -1456,13 +1240,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1476,20 +1254,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
       "乱伦",
-      "无毛",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "无毛",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1505,20 +1277,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女优按摩棒",
       "乱伦",
       "中出",
+      "女优按摩棒",
       "美少女电影",
       "高中女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/4d6d178147ed25a40eeec6ec94154594.jpg",
     "actress": [
@@ -1535,13 +1301,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7bc8499d01689e6a075090131c6687c6.jpg",
     "actress": [],
@@ -1556,13 +1316,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1576,20 +1330,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
       "乱伦",
-      "制服",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "制服",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1605,21 +1353,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "白天出轨",
+      "单体作品",
       "中出",
       "美少女电影",
-      "单体作品",
-      "高中女生"
+      "高中女生",
+      "瘦小身型",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a83ede46204e9796b7edab213bf82093.jpg",
     "actress": [
@@ -1636,13 +1378,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/17a6d199cb8bfbd16abf880b22e616e5.jpg",
     "actress": [],
@@ -1657,13 +1393,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1680,13 +1410,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/o4bFfuLM.jpg",
     "actress": [],
@@ -1701,13 +1425,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/3976e983fea42da82e827843a8a28c08.jpg",
     "actress": [],
@@ -1722,13 +1440,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1743,13 +1455,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9086650d76546144185a6077c9b2bbc9.jpg",
     "actress": [],
@@ -1764,13 +1470,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/114b9b71fed9911d73fcc43be4534e49.jpg",
     "actress": [],
@@ -1784,22 +1484,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "无毛",
-      "中出",
-      "美少女电影",
       "巨乳",
       "单体作品",
-      "高中女生"
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "无毛"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1813,21 +1507,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
+      "单体作品",
       "中出",
       "美少女电影",
-      "单体作品",
-      "高中女生"
+      "高中女生",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/6291e2ad5c141051e6f37b101ece029f.jpg",
     "actress": [],
@@ -1841,21 +1529,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "无毛",
-      "中出",
-      "美少女电影",
       "口交",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "无毛"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/834a013bfb2c68b963ac908d319585ab.jpg",
     "actress": [],
@@ -1869,21 +1551,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
-      "乱伦",
-      "中出",
       "口交",
       "单体作品",
-      "高中女生"
+      "乱伦",
+      "中出",
+      "高中女生",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/25ae35e13c55dbde9d504073f7efda05.jpg",
     "actress": [],
@@ -1897,21 +1573,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "学校泳装",
+      "单体作品",
       "恋物癖",
-      "无毛",
       "美少女电影",
-      "单体作品"
+      "学校泳装",
+      "无毛",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1925,21 +1595,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳房",
-      "中出",
-      "制服",
-      "美少女电影",
       "口交",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "乳房",
+      "美少女电影",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/62569730a44b2e81e9bd092eff739916.jpg",
     "actress": [
@@ -1955,21 +1619,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "学校泳装",
-      "平胸",
+      "口交",
+      "单体作品",
       "中出",
       "美少女电影",
-      "口交",
-      "单体作品"
+      "学校泳装",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1985,22 +1643,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "乱伦",
-      "美少女电影",
-      "中出",
-      "妹妹",
       "口交",
-      "单体作品"
+      "单体作品",
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "校服",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2016,21 +1668,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "美少女电影",
-      "中出",
       "巨乳",
-      "妹妹",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "校服",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2044,21 +1690,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "单体作品",
       "玩具",
+      "中出",
       "乳房",
       "美少女电影",
-      "中出",
-      "单体作品"
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2074,21 +1714,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "多P",
+      "巨乳",
+      "单体作品",
       "中出",
       "美少女电影",
-      "巨乳",
-      "单体作品"
+      "校服",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/27/683559b6d6dba345750f95fe/cover.jpg",
     "actress": [],
@@ -2102,21 +1736,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
+      "单体作品",
       "乱伦",
-      "美少女电影",
       "中出",
+      "美少女电影",
       "妹妹",
-      "单体作品"
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2134,13 +1762,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230621/Yls0ukKs/1.jpg",
     "actress": [],
@@ -2155,13 +1777,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230707/EEAuNpjo/1.jpg",
     "actress": [],
@@ -2175,26 +1791,66 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
       "吞精",
-      "平胸",
-      "无毛",
+      "单体作品",
       "美少女电影",
-      "单体作品"
+      "校服",
+      "无毛",
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "PLANETPLUS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
-        "works_count": 1099
-      }
-    ],
+    "company": "PLANETPLUS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/04/68400b2f41a147ed1a5562d0/cover.jpg",
     "actress": [
       "七美せな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-173"
+  },
+  {
+    "id": 91532,
+    "IDcode": "AMBI-174",
+    "title": "鬼畜父の性玩具 彼氏との仲を引き裂かれた制服美少女 雪乃える パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "乱伦",
+      "中出",
+      "校服",
+      "女生",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/4ac227a2b3acd619fb66aa176094e089.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-174"
+  },
+  {
+    "id": 91535,
+    "IDcode": "AMBI-175",
+    "title": "和没有血缘关系的妹妹-皆濑明里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "乱伦",
+      "中出",
+      "乳房",
+      "美少女电影",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "PLANETPLUS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/2e895919bc509442282919f1bd6c7c51.jpg",
+    "actress": [
+      "ひょこり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-175"
   }
 ];

@@ -1,227 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 566482,
-    "IDcode": "DORI-069",
-    "title": "パコ撮り No．69",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5246a6412419dd571da0b0ea2e7a2f7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-069"
-  },
-  {
-    "id": 566481,
-    "IDcode": "DORI-070",
-    "title": "パコ撮り No．70",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f65a08b0e92a52a539f5f46072c30ad8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-070"
-  },
-  {
-    "id": 566480,
-    "IDcode": "DORI-071",
-    "title": "パコ撮り No．71",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d9114efe68b501924a2c5f1bfa55c182.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-071"
-  },
-  {
-    "id": 566479,
-    "IDcode": "DORI-072",
-    "title": "パコ撮り No．72",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/66678b002d5a19749b7fad83aefd52e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-072"
-  },
-  {
-    "id": 539460,
-    "IDcode": "DORI-073",
-    "title": "パコ撮りNo.73 “私だけに优しい人が好き◆”と男を翻弄させる小悪魔J●のツルマンに3回中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230812/h_491dori073pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-073"
-  },
-  {
-    "id": 167344,
-    "IDcode": "DORI-076",
-    "title": "我还在射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-076"
-  },
-  {
-    "id": 522609,
-    "IDcode": "DORI-076-C",
-    "title": "娇小敏感体女高生被开发日记 佐久良咲希高潮教学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-076-C"
-  },
-  {
-    "id": 69534,
-    "IDcode": "DORI-078",
-    "title": "与她的赤裸裸的插入",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "中出",
-      "口交",
-      "女生",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-078"
-  },
-  {
-    "id": 534850,
-    "IDcode": "DORI-080",
-    "title": "パコ撮りNo.80 イク时にマン●でチン●をめっちゃ缔め付けて来る爆乳J●に“このチンチ●めっちゃ良い♪”と言わせて3回中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231027/h_491dori080pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-080"
-  },
-  {
-    "id": 535379,
-    "IDcode": "DORI-085",
-    "title": "パコ撮りNo.85 “乳首…凄く硬くなってる◆”Gカップで巨乳なJ●に“ナマでヤリたい♪”と言われて2回も中出しした！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240611/h_491dori085pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-085"
-  },
-  {
     "id": 548993,
     "IDcode": "DORI-091",
     "title": "パコ撮りNo.91 身长143cmのミニマムで可爱らしいJ●に“ちょっとだけなら…♪”と言われ",
@@ -230,13 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/Ot7OTwvs/1.jpg",
     "actress": [],
@@ -251,13 +23,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/s60UpHgM/1.jpg",
     "actress": [],
@@ -274,13 +40,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/AXODFDd0/1.jpg",
     "actress": [],
@@ -295,13 +55,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230713/mUigwYWl/1.jpg",
     "actress": [],
@@ -316,13 +70,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230713/r1u85Sdc/1.jpg",
     "actress": [],
@@ -337,13 +85,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230713/5eyHNCFZ/1.jpg",
     "actress": [],
@@ -358,13 +100,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230814/XCFvLGnx/1.jpg",
     "actress": [],
@@ -379,13 +115,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230814/i9r8qx48/1.jpg",
     "actress": [],
@@ -400,13 +130,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230814/a8kpdJhd/1.jpg",
     "actress": [],
@@ -421,13 +145,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231013/KEBMVoB7/1.jpg",
     "actress": [],
@@ -442,13 +160,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221231/K4nf6lQf/1.jpg",
     "actress": [],
@@ -463,13 +175,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230913/GgTCmk5A/1.jpg",
     "actress": [],
@@ -484,13 +190,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230913/yEok5d6s/1.jpg",
     "actress": [],
@@ -505,13 +205,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231013/inXdrIqG/1.jpg",
     "actress": [],
@@ -526,13 +220,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/Mwvxa8si/1.jpg",
     "actress": [],
@@ -547,13 +235,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231013/yX33zVb7/1.jpg",
     "actress": [],
@@ -568,13 +250,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/DkKFSyO3/1.jpg",
     "actress": [],
@@ -589,13 +265,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240214/cppd2HKR/1.jpg",
     "actress": [],
@@ -610,13 +280,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231114/ELtcVJU9/1.jpg",
     "actress": [],
@@ -631,13 +295,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/V4HPT5Ka/1.jpg",
     "actress": [],
@@ -652,13 +310,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/4eCSgL7C/1.jpg",
     "actress": [],
@@ -673,13 +325,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240214/oqRTQYiT/1.jpg",
     "actress": [],
@@ -694,13 +340,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240214/TgrsbMil/1.jpg",
     "actress": [],
@@ -715,13 +355,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/B2HPYz3W/1.jpg",
     "actress": [],
@@ -736,13 +370,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/14BCrife/1.jpg",
     "actress": [],
@@ -756,27 +384,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "口交",
+      "絕頂高潮",
       "舔陰",
       "約炮",
-      "女學生",
-      "癡女",
-      "JK校服",
       "中出",
       "素人作品",
-      "口交",
       "女上位",
-      "少女",
+      "女學生",
       "劇情",
-      "絕頂高潮"
+      "JK校服",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512024140342342.jpg",
     "actress": [],
@@ -791,13 +413,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/kOrCdney/1.jpg",
     "actress": [],
@@ -811,27 +427,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "口交",
+      "蠻橫嬌羞",
+      "約炮",
+      "女上位",
       "美少女電影",
       "女學生",
-      "約炮",
       "艷遇",
-      "癡女",
-      "JK校服",
-      "蠻橫嬌羞",
-      "女上位",
       "後入",
-      "口交",
+      "JK校服",
       "性感",
-      "少女"
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512023728723723.jpg",
     "actress": [],
@@ -845,32 +455,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "清純",
+      "口交",
+      "巨乳",
+      "絕頂高潮",
       "約炮",
-      "女學生",
-      "美少女電影",
-      "美少女",
-      "艷遇",
-      "癡女",
-      "JK校服",
       "中出",
       "飯店",
-      "巨乳",
-      "口交",
+      "清純",
       "女上位",
+      "美少女電影",
+      "女學生",
       "騎乗位",
+      "艷遇",
       "劇情",
-      "絕頂高潮"
+      "JK校服",
+      "形象俱樂部",
+      "美少女",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512032659531531.jpg",
     "actress": [
@@ -887,13 +491,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240613/fh8xbrS7/1.jpg",
     "actress": [],
@@ -908,13 +506,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240613/KJFjtfnV/1.jpg",
     "actress": [],
@@ -931,13 +523,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240715/31KY1Z7y/1.jpg",
     "actress": [],
@@ -951,26 +537,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "口交",
       "偷拍・盜撮",
-      "女學生",
-      "素人",
-      "JK校服",
       "中出",
+      "企畫",
       "飯店",
       "素人作品",
-      "企畫",
-      "口交",
-      "少女",
+      "女學生",
+      "JK校服",
+      "素人",
       "直播"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2024-07-12",
     "cover_url": "https://picture.yoshiclub.xyz/20240714/0ffc7f5f-dc05-4882-83f4-6847594e7209.jpg",
     "actress": [],
@@ -985,13 +565,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240813/fqgkASkV/1.jpg",
     "actress": [],
@@ -1006,13 +580,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240813/lkR90tdO/1.jpg",
     "actress": [],
@@ -1027,13 +595,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240926/DnYxk53J/1.jpg",
     "actress": [],
@@ -1048,13 +610,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240926/921hO1AA/1.jpg",
     "actress": [],
@@ -1069,13 +625,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/d5ec678884e06d76d5ebb5eef0e77223.jpg",
     "actress": [],
@@ -1092,13 +642,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/0b1542be38c1f6405e8668bbf3e08259.jpg",
     "actress": [],
@@ -1113,13 +657,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/3bbc07d034a62816365f656060ac2b47.jpg",
     "actress": [],
@@ -1136,13 +674,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241122/31X9vbf8/1.jpg",
     "actress": [],
@@ -1159,13 +691,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251007-1/92044930ce6cf1dcdb1eafd98e8513fd.jpg",
     "actress": [],
@@ -1180,13 +706,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251007-1/d4e5021e91590cd2426272513c8d332c.jpg",
     "actress": [],
@@ -1200,36 +720,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "純粹的慾望",
-      "豐滿",
-      "素人作品",
-      "飯店",
-      "美少女",
-      "JK校服",
       "清楚系",
-      "口交",
-      "形象俱樂部",
-      "約炮",
+      "豐滿",
+      "女學生",
       "中出",
-      "後入",
-      "企畫",
-      "絕頂高潮",
-      "清純",
       "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "素人作品",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "巨尻",
+      "口交",
+      "約炮",
+      "清純",
       "自慰",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2025-01-12",
     "cover_url": "https://picture.yoshiclub.xyz/20250114/5aac3fc2-97cd-43d2-8a18-220766c57b03.jpg",
     "actress": [
@@ -1245,37 +759,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "素人作品",
-      "苗條",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "美乳",
       "清楚系",
-      "口交",
-      "形象俱樂部",
-      "校花",
+      "女學生",
+      "癡女",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
       "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "素人作品",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "美乳",
+      "口交",
+      "校花",
+      "清純",
       "自慰",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2025-01-12",
     "cover_url": "https://picture.yoshiclub.xyz/20250114/8176ffb2-d332-4636-b449-eeb384f681f3.jpg",
     "actress": [
@@ -1292,13 +800,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250826-1/026b4ba4b59509a487b85d1ae05f2669.jpg",
     "actress": [],
@@ -1312,47 +814,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "主觀視角",
+      "美腳",
       "女學生",
       "小隻馬",
-      "純粹的慾望",
       "口爆",
-      "素人作品",
+      "美臀",
+      "中出",
+      "接吻",
+      "美少女",
+      "過膝襪・小腿襪",
+      "絕頂高潮",
+      "無毛",
+      "高顏值",
       "飯店",
       "苗條",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "JK校服",
-      "過膝襪・小腿襪",
-      "清楚系",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
+      "素人作品",
       "企畫",
-      "後入",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "清純",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
       "脚控・戀足癖",
+      "口交",
+      "校花",
+      "潮吹",
+      "清純",
       "自慰",
-      "無毛",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250806-2/c7e158c23725de3f7a8adca13d9c745d.jpg",
     "actress": [
@@ -1370,37 +866,31 @@ window.PAGE_DATA = [
     "genres": [
       "真實拍攝",
       "豐滿",
-      "素人作品",
       "癡女",
-      "JK校服",
-      "胸控・戀乳癖",
-      "美乳",
+      "淫亂",
+      "中出",
       "過膝襪・小腿襪",
       "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "約炮",
-      "淫亂",
-      "超爆乳",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
       "絕頂高潮",
-      "自慰",
+      "企畫",
+      "素人作品",
+      "騎乗位",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
       "乳交",
+      "約炮",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250312/1f77b86a-e859-4071-bf56-f4ff307312e2.jpg",
     "actress": [
@@ -1416,38 +906,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "豐滿",
-      "素人作品",
-      "飯店",
-      "美少女",
-      "JK校服",
-      "羞恥",
-      "美乳",
-      "過膝襪・小腿襪",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "約炮",
-      "中出",
-      "美人",
-      "後入",
       "少女",
-      "清純",
+      "清楚系",
+      "豐滿",
+      "女學生",
+      "中出",
       "美少女電影",
+      "美少女",
+      "過膝襪・小腿襪",
+      "飯店",
+      "素人作品",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "約炮",
+      "清純",
       "自慰",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FIRST STAR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
-        "works_count": 254
-      }
-    ],
+    "company": "FIRST STAR",
     "publish_date": "2025-03-27",
     "cover_url": "https://picture.yoshiclub.xyz/20250327/765717a2-eb5c-40bd-ac87-fe1133226f08.jpg",
     "actress": [
@@ -1463,15 +947,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "学校泳装",
-      "校服",
+      "单体作品",
       "乱伦",
-      "妹妹",
-      "单体作品"
+      "校服",
+      "学校泳装",
+      "眼镜",
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829b94dae3235deaa297653/cover.jpg",
     "actress": [],
@@ -1486,7 +970,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/gx9EMixp/1.jpg",
     "actress": [],
@@ -1501,7 +985,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230707/idgqie2n/1.jpg",
     "actress": [],
@@ -1516,7 +1000,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230801/B2nTtXtX/1.jpg",
     "actress": [],
@@ -1531,7 +1015,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231206/8rwTRYaI/1.jpg",
     "actress": [],
@@ -1546,7 +1030,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231206/FwoWKNxh/1.jpg",
     "actress": [],
@@ -1561,7 +1045,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/nEASzgw2/1.jpg",
     "actress": [],
@@ -1576,7 +1060,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240203/95Md9R3Z/1.jpg",
     "actress": [],
@@ -1590,15 +1074,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "无毛",
-      "中出",
       "巨乳",
+      "单体作品",
+      "中出",
       "女生",
-      "单体作品"
+      "无毛",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240609-1/4ec20fbd2d0e2931d67b4e8c444725ae.jpg",
     "actress": [
@@ -1614,44 +1098,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "性虐癖",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
       "少女",
+      "凌辱",
+      "性虐癖",
+      "美腳",
+      "女學生",
+      "蕩婦",
       "SM",
       "美臀",
-      "劇情",
-      "顏射",
+      "亂交 • 群P",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
-      "乳交",
+      "自宅",
+      "劇情",
       "調教",
-      "白眼失神",
-      "女上位",
+      "美少女",
+      "強姦",
+      "緊縛",
+      "苗條",
+      "顏射",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "白眼失神",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-06-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240603/8205e76e-b6f5-442b-a72b-ad0f92580ee1.jpg",
     "actress": [
@@ -1670,7 +1154,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20822cf22ae3e04a81a91/cover.jpg",
     "actress": [],
@@ -1685,7 +1169,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2061adb8c77d79bb695b4/cover.jpg",
     "actress": [],
@@ -1700,7 +1184,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic54.anzise.com/pic/20230504/e98c84a00ab3dbedd97bab97c7a3ff92/1.jpg",
     "actress": [],
@@ -1715,7 +1199,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/1876b31d4f903868f950768eb697a873.jpg",
     "actress": [],
@@ -1730,7 +1214,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2034adb8c77d79bb694ee/cover.jpg",
     "actress": [],
@@ -1745,7 +1229,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/WlTNfGX4/1.jpg",
     "actress": [],
@@ -1760,7 +1244,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230707/Q5cjNuEE/1.jpg",
     "actress": [],
@@ -1775,7 +1259,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230905/3WfzdXoR/1.jpg",
     "actress": [],
@@ -1790,7 +1274,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231002/DTbJTxus/1.jpg",
     "actress": [],
@@ -1805,7 +1289,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231102/zY2Zpitz/1.jpg",
     "actress": [],
@@ -1820,7 +1304,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/nRtIDLFU/1.jpg",
     "actress": [],
@@ -1837,7 +1321,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240203/55J7MLKh/1.jpg",
     "actress": [],
@@ -1852,7 +1336,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240306/JsupqFQG/1.jpg",
     "actress": [],
@@ -1867,7 +1351,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240307/GZod8vUy/1.jpg",
     "actress": [],
@@ -1882,7 +1366,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240403/eqsJmXd3/1.jpg",
     "actress": [],
@@ -1897,7 +1381,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230511/DOTS005.jpg!320x216.jpg",
     "actress": [],
@@ -1912,7 +1396,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1927,7 +1411,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/f0bfe9de33c42b7bdae99802490d9e2d.jpg",
     "actress": [],
@@ -1942,7 +1426,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250426/EGCc0HGO/1.jpg",
     "actress": [],
@@ -1956,15 +1440,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "女检察官",
+      "巨乳",
       "无毛",
       "制服",
-      "巨乳",
-      "精选，综合"
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-04-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1980,14 +1464,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "紧身衣",
       "无码流出",
-      "各种职业",
-      "讲师",
       "连裤袜",
-      "紧身衣"
+      "各种职业",
+      "讲师"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/a65059bdc79a5c8b0c1b8119d9c17a5c.jpg",
     "actress": [
@@ -2004,7 +1488,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/acba1eb218fbc7872b6bb400f5d1c785.jpg",
     "actress": [],
@@ -2021,7 +1505,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2036,7 +1520,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/05/1227079bccc023b5861ed3df8216b936.jpg",
     "actress": [],
@@ -2051,7 +1535,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/08/3bdf90dbe19145c1eb12de348d9a4852.jpg",
     "actress": [],
@@ -2066,7 +1550,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/03/d466617138ce37b660bcdd965088084a.jpg",
     "actress": [],
@@ -2081,13 +1565,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c1f5f21d1ad0dc7d506560f6b8e9d2ee.jpg",
     "actress": [],
@@ -2102,13 +1580,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MILU",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MILU",
-        "works_count": 143
-      }
-    ],
+    "company": "MILU",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688df35198bc99dfddfab04a/cover.jpg",
     "actress": [],
@@ -2123,13 +1595,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MILU",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MILU",
-        "works_count": 143
-      }
-    ],
+    "company": "MILU",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/CfYyCXgW/1.jpg",
     "actress": [],
@@ -2144,13 +1610,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MILU",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MILU",
-        "works_count": 143
-      }
-    ],
+    "company": "MILU",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/84ca8146edcfa2ee6f10121c78fcdbb9.jpg",
     "actress": [],
@@ -2165,16 +1625,217 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MILU",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MILU",
-        "works_count": 143
-      }
-    ],
+    "company": "MILU",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d7c2c2a47ebb1a870d2f1/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-045"
+  },
+  {
+    "id": 81634,
+    "IDcode": "DPMI-046",
+    "title": "レッグマニア 河北恵美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋腿癖",
+      "屁股",
+      "身体意识",
+      "迷你裙",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787769d30833b4bf5e802dd/cover.jpg",
+    "actress": [
+      "河北恵美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-046"
+  },
+  {
+    "id": 83520,
+    "IDcode": "DPMI-048",
+    "title": "ダブルムッチリ 宝田もなみ 彩奈リナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "恋腿癖",
+      "巨乳",
+      "屁股",
+      "身体意识",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/5f3e558c4b33542d740c2282afb66e1a.jpg",
+    "actress": [
+      "彩奈莉娜",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-048"
+  },
+  {
+    "id": 88297,
+    "IDcode": "DPMI-053",
+    "title": "ドM痴女 晶エリー 大浦真奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "紧身衣",
+      "恋腿癖",
+      "屁股",
+      "无码破解",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/daa9197b0789dbf71f3b9d9ed68d7f68.jpg",
+    "actress": [
+      "大浦真奈美",
+      "新井爱丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-053"
+  },
+  {
+    "id": 556538,
+    "IDcode": "DPMI-055",
+    "title": "连裤袜妄想腿W铸 - 波多野结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230517-1/850e81cf91f90531f14d1d9c8a839591.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-055"
+  },
+  {
+    "id": 535458,
+    "IDcode": "DPMI-056",
+    "title": "[日本] 夏希栗破坏版AV～性感肉体赛车皇后紧身衣火辣性爱～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-056"
+  },
+  {
+    "id": 80590,
+    "IDcode": "DPMI-067",
+    "title": "キャンギャル狂想脚 Wキャスト 浜崎真緒 永原なつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋腿癖",
+      "屁股",
+      "赛车女郎",
+      "连裤袜",
+      "展场女孩"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "2022-02-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/50c31e9a09db28d349cd4b94f18f658b.jpg",
+    "actress": [
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-067"
+  },
+  {
+    "id": 80744,
+    "IDcode": "DPMI-068",
+    "title": "挑発タイトイズム 北野未奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋腿癖",
+      "单体作品",
+      "屁股",
+      "身体意识",
+      "迷你裙",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "2022-03-22",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ebadf25d3284c7b9cb6f8889b426c9c0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-068"
+  },
+  {
+    "id": 566478,
+    "IDcode": "DPMI-069",
+    "title": "挑発タイトイズム 蜜美杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/E2KIfYAG.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-069"
+  },
+  {
+    "id": 87441,
+    "IDcode": "DPMI-072",
+    "title": "ワンダフルクイーン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "紧身衣",
+      "恋腿癖",
+      "单体作品",
+      "屁股",
+      "赛车女郎",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/2fd8fdfd4820fb9e047873609fef036d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-072"
+  },
+  {
+    "id": 87431,
+    "IDcode": "DPMI-073",
+    "title": "【FANZA限定】ギャルズカフェ 寺田ここの パンティと生写真とチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋腿癖",
+      "单体作品",
+      "屁股",
+      "连裤袜",
+      "女生",
+      "兔女郎"
+    ],
+    "type": "有码",
+    "company": "MILU",
+    "publish_date": "2022-08-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/ee69dcf48b913e61e1bac819dab130bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-073"
   }
 ];

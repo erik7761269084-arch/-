@@ -84,7 +84,7 @@ window.actressData = {
     },
     {
       "id": 119527,
-      "IDcode": "FC2PPV-1251800",
+      "IDcode": "FC2-PPV-1251800",
       "title": "（モザイク有り）【アイドル声優流出】人気アニメ出演",
       "year": "",
       "country": "",
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "高城ひかる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-1251800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1251800"
     },
     {
       "id": 76380,

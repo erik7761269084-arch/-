@@ -1604,7 +1604,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240928-1/1394d15d51038d420b4e36450d289c20.jpg",
       "actress": [

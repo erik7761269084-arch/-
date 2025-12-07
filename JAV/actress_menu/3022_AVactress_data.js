@@ -669,7 +669,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-5/7f41f8b3be4e5fe873e477311752db8d.jpg",
       "actress": [
@@ -2978,7 +2978,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250126-1/1b2d593fcd8b8e1e215c21ad9458ddd6.jpg",
       "actress": [

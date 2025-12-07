@@ -7,18 +7,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d504034e7d663df4eab238/cover.jpg",
     "actress": [],
@@ -36,13 +30,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "BIBIAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
-        "works_count": 555
-      }
-    ],
+    "company": "BIBIAN",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -60,7 +48,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/29/68107e2b5b6f25c169406037/cover.jpg",
     "actress": [],
@@ -77,7 +65,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250324/J15ow14l/1.jpg",
     "actress": [],
@@ -94,7 +82,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250324/fG43OnLz/1.jpg",
     "actress": [],
@@ -111,7 +99,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250324/Vw1vBV6r/1.jpg",
     "actress": [],
@@ -128,7 +116,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250324/gw1HHzDb/1.jpg",
     "actress": [],
@@ -142,17 +130,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "NTR",
       "流汗",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
+      "潮吹",
       "中出",
-      "药物"
+      "药物",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251008/oSbo9S4Q/1.jpg",
     "actress": [
@@ -174,13 +162,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -198,13 +180,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -222,13 +198,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -245,7 +215,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -260,18 +230,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "白天出轨",
+      "已婚妇女",
       "淫妻",
-      "已婚妇女"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -290,13 +254,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/c247ced15d6b8e6d251bdb9409167d0c.jpg",
     "actress": [],
@@ -313,13 +271,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/688be6bf7d655eaee92eb7cb77c43149.jpg",
     "actress": [],
@@ -333,34 +285,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "慾求不滿",
-      "飯店",
-      "綠茶婊",
-      "美少女",
+      "少女",
+      "出軌",
       "美腳",
+      "女學生",
       "癡女",
-      "JK校服",
+      "淫妻",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
       "色白",
+      "企畫",
+      "飯店",
+      "騎乗位",
+      "形象俱樂部",
       "美乳",
       "口交",
-      "形象俱樂部",
-      "NTR",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "不倫",
-      "絕頂高潮",
+      "慾求不滿",
       "清純",
-      "美少女電影",
       "女上位",
-      "騎乗位"
+      "綠茶婊",
+      "後入",
+      "JK校服",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-12-24",
     "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222015144918918.jpg",
     "actress": [
@@ -376,17 +328,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "淫妻"
+      "淫妻",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KIRAKIRA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
-        "works_count": 362
-      }
-    ],
+    "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/50c37d5ca434e08e7253f8c8e65f086a.jpg",
     "actress": [],
@@ -403,13 +349,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "WANZ FACTORY",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WANZ_FACTORY",
-        "works_count": 569
-      }
-    ],
+    "company": "WANZ FACTORY",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231104/6TpNkn0F/1.jpg",
     "actress": [],
@@ -423,12 +363,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/79ff25d2c4056afb39df9c7cfd2a5429.jpg",
     "actress": [],
@@ -443,12 +383,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240320/u4McD56e/1.jpg",
     "actress": [],
@@ -463,12 +403,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240507/8ofKrjr8/1.jpg",
     "actress": [],
@@ -483,12 +423,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240702/Gd66ko7U/1.jpg",
     "actress": [],
@@ -502,12 +442,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240812/YrImjjlV/1.jpg",
     "actress": [],
@@ -521,12 +461,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c6e85979f1ac4ec459e2b3/cover.jpg",
     "actress": [],
@@ -541,12 +481,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240924/itkhGLE1/1.jpg",
     "actress": [],
@@ -560,12 +500,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241120/bF4bkx7u/1.jpg",
     "actress": [],
@@ -580,12 +520,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241217/UImsTBMX/1.jpg",
     "actress": [],
@@ -600,13 +540,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "日本肉番",
-      "素人",
       "淫妻",
-      "无码"
+      "日本肉番",
+      "无码",
+      "素人"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-11-01",
     "cover_url": "https://tuaskbgnekr.com/20250312/Iy2Lq7j2/1.jpg",
     "actress": [],
@@ -621,12 +561,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250312/SOozjQ2o/1.jpg",
     "actress": [],
@@ -640,12 +580,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250509/VRoCAmEn/1.jpg",
     "actress": [],
@@ -660,12 +600,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -679,12 +619,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/12/bd321bcd76ab3de78438c1fccc8a6247.jpg",
     "actress": [],
@@ -702,7 +642,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -719,7 +659,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251007-1/053c6298b7b0f05b8418ff6f52c9be4a.jpg",
     "actress": [],
@@ -737,7 +677,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -754,7 +694,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250707-1/0cefdbbc396854ee62a67e8c254bffb2.jpg",
     "actress": [],
@@ -771,7 +711,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250712-1/465cc268381362b1e60c4fb97514ff4a.jpg",
     "actress": [],
@@ -789,7 +729,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250713-1/7a380d80130fe328b44e42e872bf3527.jpg",
     "actress": [],
@@ -803,18 +743,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -828,18 +762,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250118/YftWOg1H/1.jpg",
     "actress": [],
@@ -853,18 +781,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250911/48ymuCMo/1.jpg",
     "actress": [],
@@ -878,19 +800,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
-      "巨乳",
-      "无码"
+      "素人",
+      "无码",
+      "巨乳"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/ALUTSE0H/1.jpg",
     "actress": [],
@@ -904,19 +820,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "NTR",
       "淫妻",
+      "NTR",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250220/2GDbyznD/1.jpg",
     "actress": [
@@ -932,18 +842,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/yEMgRN5w/1.jpg",
     "actress": [],
@@ -957,19 +861,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
-      "巨乳",
-      "无码"
+      "素人",
+      "无码",
+      "巨乳"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250121-1/acafb5ec1df15e9281a48b3fad607d68.jpg",
     "actress": [],
@@ -984,19 +882,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "素人",
       "淫妻",
-      "无码"
+      "无码",
+      "NTR",
+      "素人"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250125-1/c6feafbbff29ec5d1dcc866be0143dcd.jpg",
     "actress": [],
@@ -1010,19 +902,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
-      "巨乳",
-      "无码"
+      "素人",
+      "无码",
+      "巨乳"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4b3ce09810df411ae2baf74b96587acd.jpg",
     "actress": [],
@@ -1036,11 +922,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1054,11 +940,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1075,7 +961,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/papachangpian-img/2f9a857b95.jpg",
     "actress": [],
@@ -1092,7 +978,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20231215-1/2f746a7fdce2708386c3a40a1373beb2.jpg",
     "actress": [],
@@ -1110,13 +996,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1130,21 +1010,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
-      "白天出轨",
       "淫妻",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "淫乱，真实",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/32f7698055e6a16507bac67844535c09.jpg",
     "actress": [
@@ -1163,13 +1037,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1187,13 +1055,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1207,22 +1069,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
-      "第一人称摄影",
-      "戏剧",
       "淫妻",
-      "白天出轨",
-      "接吻"
+      "第一人称摄影",
+      "淫乱，真实",
+      "接吻",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/700c8e625cb4d9d840e026c81b7395ec.jpg",
     "actress": [
@@ -1242,13 +1098,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1266,13 +1116,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1289,13 +1133,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210728-1/6867b1eb7512d2f709ed28f09ed040a8.jpg",
     "actress": [],
@@ -1312,13 +1150,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/xicDmLdb.jpg",
     "actress": [],
@@ -1332,22 +1164,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "戏剧",
-      "出轨",
+      "巨乳",
       "淫妻",
-      "白天出轨",
       "中出",
-      "巨乳"
+      "出轨",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1363,22 +1189,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "OL",
-      "白天出轨",
+      "单体作品",
       "淫妻",
       "中出",
       "美少女电影",
-      "单体作品"
+      "OL",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1394,23 +1214,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
       "荡妇",
-      "OL",
-      "白天出轨",
+      "单体作品",
       "淫妻",
       "中出",
-      "单体作品"
+      "淫乱，真实",
+      "OL",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d9bfbe1b9daa7a8faa36292173859a9d.jpg",
     "actress": [
@@ -1427,24 +1241,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
+      "单体作品",
       "流汗",
-      "戏剧",
-      "白天出轨",
       "淫妻",
       "无码破解",
       "中出",
-      "单体作品"
+      "淫乱，真实",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7fd0c307683dc4d23a283efc7209ee8a.jpg",
     "actress": [
@@ -1460,23 +1268,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "单体作品",
-      "NTR",
-      "白天出轨",
       "淫妻",
       "中出",
-      "口交",
       "淫语",
-      "主观视角"
+      "主观视角",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a3482969c5de3d2b1e5a1a8b93d5a037.jpg",
     "actress": [],
@@ -1490,23 +1292,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "NTR",
-      "淫妻",
-      "白天出轨",
-      "美少女电影",
       "巨乳",
       "单体作品",
-      "高中女生"
+      "淫妻",
+      "美少女电影",
+      "高中女生",
+      "苗条",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682859e65d899f636104a701/cover.jpg",
     "actress": [
@@ -1523,50 +1319,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "女友・妻子",
-      "小隻馬",
-      "M男・M女",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "自宅",
-      "謝罪",
-      "美乳",
-      "欠債肉償",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "NTR",
-      "高顏值",
-      "蠻橫嬌羞",
-      "淫妻",
-      "中出",
-      "美人",
-      "後入",
       "少女",
-      "劇情",
-      "清純",
-      "美少女電影",
-      "偶像",
-      "舔腳",
+      "清楚系",
+      "凌辱",
+      "蠻橫嬌羞",
+      "美腳",
       "脅迫做愛",
-      "蘿莉",
       "蘿莉控",
+      "小隻馬",
+      "淫妻",
+      "奇聞趣事",
+      "中出",
+      "舔腳",
+      "偶像",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "M男・M女",
+      "強姦",
+      "女友・妻子",
+      "高顏值",
+      "苗條",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "蘿莉",
+      "謝罪",
+      "欠債肉償",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KAWAII",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
-        "works_count": 729
-      }
-    ],
+    "company": "KAWAII",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083644614614.jpg",
     "actress": [
@@ -1585,13 +1375,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250607/XGtKJwpD/1.jpg",
     "actress": [],
@@ -1605,23 +1389,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
-      "已婚妇女",
-      "白天出轨",
-      "淫妻",
-      "无毛",
       "成熟的女人",
-      "单体作品"
+      "单体作品",
+      "已婚妇女",
+      "淫妻",
+      "淫乱，真实",
+      "无毛",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-09-14",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c175155da6282d9c0a8713858f42559e.jpg",
     "actress": [
@@ -1641,7 +1419,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1655,18 +1433,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "巨大阴茎",
-      "白天出轨",
-      "淫妻",
+      "精选，综合",
       "黑人演员",
-      "中出",
       "成熟的女人",
+      "淫妻",
+      "中出",
       "素人作品",
-      "精选，综合"
+      "巨大阴茎",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-07-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/472f0d7e85615e1638606b38b9f00187.jpg",
     "actress": [
@@ -1682,17 +1460,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "巨大阴茎",
-      "白天出轨",
-      "淫妻",
       "黑人演员",
+      "人妻",
+      "成熟的女人",
+      "淫妻",
       "中出",
-      "成熟的女人"
+      "巨大阴茎",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-12-13",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1708,19 +1486,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "巨大阴茎",
-      "白天出轨",
-      "淫妻",
+      "精选，综合",
       "黑人演员",
-      "中出",
+      "人妻",
       "成熟的女人",
+      "淫妻",
+      "中出",
       "素人作品",
-      "精选，综合"
+      "巨大阴茎",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781892b2a47ebb1a890617f/cover.jpg",
     "actress": [
@@ -1740,13 +1518,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1760,30 +1532,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "兩女一男",
-      "淫亂",
       "雙飛",
+      "人妻",
+      "口交",
       "淫妻",
       "出軌",
+      "淫亂",
       "中出",
       "蕩婦",
-      "口交",
-      "性感",
       "騎乗位",
       "劇情",
+      "兩女一男",
+      "性感",
+      "形象俱樂部",
+      "NTR",
       "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "癡女特化",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
-        "works_count": 427
-      }
-    ],
+    "company": "癡女特化",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419234850660660.jpg",
     "actress": [
@@ -1800,50 +1566,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "純粹的慾望",
-      "慾求不滿",
-      "口爆",
-      "三十路",
       "真實拍攝",
-      "臀控",
-      "淫語",
+      "ASMR顱内高潮",
       "主觀視角",
-      "胸控・戀乳癖",
-      "大奶头",
+      "出軌",
+      "口爆",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "淫語",
+      "人妻",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "御姐系",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "高顏值",
+      "企畫",
+      "黑絲",
+      "美人妻",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
       "美乳",
+      "美腿",
       "口交",
       "巨乳",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "ASMR顱内高潮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "淫妻",
-      "出軌",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "手指插入",
+      "慾求不滿",
       "乳交",
-      "御姐系",
-      "黑絲",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "三十路",
+      "大奶头",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1861,53 +1627,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "巨尻",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "胸控・戀乳癖",
-      "美乳",
+      "口爆",
+      "美臀",
+      "淫妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "按摩・美容店",
+      "美少女",
       "按摩棒",
+      "打手槍",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "女上位",
+      "多P",
+      "後入",
       "性感",
       "跳蛋",
-      "潮吹",
-      "NTR",
-      "按摩・美容店",
-      "淫亂",
-      "淫妻",
-      "按摩女郎",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "無毛",
-      "乳交",
-      "按摩・物理治療・美容",
-      "黑絲",
-      "女上位",
-      "騎乗位"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "変態紳士倶楽部",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
-        "works_count": 439
-      }
-    ],
+    "company": "変態紳士倶楽部",
     "publish_date": "2024-04-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401032544798798.jpg",
     "actress": [
@@ -1926,22 +1686,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "NTR",
-      "巨大阴茎",
-      "偷窥",
       "已婚妇女",
       "淫妻",
+      "偷窥",
+      "按摩",
+      "巨大阴茎",
+      "NTR",
       "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "変態紳士倶楽部",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
-        "works_count": 439
-      }
-    ],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1957,23 +1711,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "NTR",
       "荡妇",
-      "偷窥",
-      "4小时以上作品",
-      "白天出轨",
       "淫妻",
-      "中出"
+      "中出",
+      "偷窥",
+      "按摩",
+      "4小时以上作品",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "変態紳士倶楽部",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
-        "works_count": 439
-      }
-    ],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1990,7 +1738,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230104/h2Dem8ex/1.jpg",
     "actress": [],
@@ -2005,12 +1753,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2024,17 +1772,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "荡妇",
-      "白天出轨",
+      "巨乳",
       "淫妻",
       "中出",
       "素人作品",
-      "巨乳",
-      "女上位"
+      "女上位",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841da1f9a2e9b1d4988c7c/cover.jpg",
     "actress": [
@@ -2053,16 +1801,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "巨大阴茎",
-      "多P",
-      "淫妻",
       "黑人演员",
+      "淫妻",
       "中出",
-      "妹妹"
+      "多P",
+      "妹妹",
+      "巨大阴茎",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67879e035d57b64bfdf5bf43/cover.jpg",
     "actress": [],
@@ -2076,14 +1824,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "已婚妇女",
-      "巨大屁股",
       "淫妻",
-      "成熟的女人",
-      "口交"
+      "巨大屁股",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2100,7 +1848,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5176a098504d3359190384e0d3a635a.jpg",
     "actress": [],
@@ -2117,7 +1865,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c7d5a9b83a72a0622e20dcd50e06d465.jpg",
     "actress": [],
@@ -2131,18 +1879,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "戏剧",
-      "调教",
-      "白天出轨",
+      "精选，综合",
       "淫妻",
+      "第一人称摄影",
       "美少女电影",
       "素人作品",
-      "精选，综合",
-      "第一人称摄影"
+      "调教",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad8cc55337d7f7be49601/cover.jpg",
     "actress": [
@@ -2158,19 +1906,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "已婚妇女",
-      "白天出轨",
-      "淫妻",
+      "精选，综合",
       "黑人演员",
+      "已婚妇女",
+      "淫妻",
       "中文字幕",
-      "无毛",
       "中出",
       "素人作品",
-      "精选，综合"
+      "无毛",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7b232d19d6996207e3d457df595b3413.jpg",
     "actress": [
@@ -2187,12 +1935,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "乱伦",
+      "巨乳",
       "淫妻",
-      "巨乳"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250503-1/5fd0627a6c21613be0274a9721209c00.jpg",
     "actress": [],
@@ -2206,16 +1954,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "戏剧",
-      "偶像",
-      "白天出轨",
       "淫妻",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "偶像",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b83c521922a7b5eff5a9847dbc69bc30.jpg",
     "actress": [
@@ -2231,16 +1979,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "巨大阴茎",
-      "淫妻",
-      "白天出轨",
       "黑人演员",
+      "巨乳",
+      "淫妻",
       "中出",
-      "巨乳"
+      "巨大阴茎",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2260,7 +2008,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2278,7 +2026,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2295,7 +2043,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2313,7 +2061,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-03-21",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241101-1/b683553eb34f22a6eb43822656eef079.jpg",
     "actress": [],
@@ -2330,7 +2078,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250208-1/a66bf29ffe5dea16412d00035043a1ea.jpg",
     "actress": [],
@@ -2344,15 +2092,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偷窥",
-      "戏剧",
       "淫妻",
-      "白天出轨",
+      "中出",
+      "偷窥",
       "姐姐",
-      "中出"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9beeba03925ccb5bf5882957b56262ad.jpg",
     "actress": [
@@ -2372,7 +2120,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2386,14 +2134,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "自慰",
+      "巨乳",
       "淫妻",
-      "白天出轨",
       "中出",
-      "巨乳"
+      "自慰",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2409,17 +2157,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "巨大阴茎",
-      "白天出轨",
-      "淫妻",
       "黑人演员",
+      "单体作品",
+      "淫妻",
       "中出",
       "女生",
-      "单体作品"
+      "巨大阴茎",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],

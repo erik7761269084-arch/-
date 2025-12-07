@@ -250,7 +250,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2019-12-19",
       "cover_url": "",
       "actress": [
@@ -736,7 +736,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/3e8f6c6816d2ba62ef9cbae86f41e4f8.jpg",
       "actress": [
@@ -914,7 +914,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-9/669552021c77dd082f39b5fd62589257.jpg",
       "actress": [
@@ -1605,7 +1605,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/6e8193710eb1f6ec17d94822d5de6865.jpg",
       "actress": [
@@ -1621,7 +1621,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "",
       "actress": [

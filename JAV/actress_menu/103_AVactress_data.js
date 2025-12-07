@@ -666,7 +666,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250627-1/c72ba8f70a5778f4370efe9915879954.jpg",
       "actress": [

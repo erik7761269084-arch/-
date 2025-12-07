@@ -39,7 +39,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2023-12-14",
       "cover_url": "https://picture.yoshiclub.xyz/20231214/cb8795a7-5ca3-4201-be0c-17b1363941a4.jpg",
       "actress": [

@@ -8,11 +8,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b5ae0074f6248d301ad02eb1fc7739d1.jpg",
     "actress": [],
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250224/I3Tl1ZtS/1.jpg",
     "actress": [],
@@ -46,11 +46,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250224/K9MgCEAM/1.jpg",
     "actress": [],
@@ -65,11 +65,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/6a3d1115052dad2ad16c94788ddc7cd4.jpg",
     "actress": [],
@@ -84,11 +84,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250224/dZGdI0El/1.jpg",
     "actress": [],
@@ -103,11 +103,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250206-1/542c226b76617f75f0b8b72db0e88e9d.jpg",
     "actress": [],
@@ -124,13 +124,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231227/1mOy89s6/1.jpg",
     "actress": [],
@@ -147,13 +141,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250428-1/d7302f90535c783d2a8ef96c71647aca.jpg",
     "actress": [],
@@ -171,7 +159,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250217/8y4W5dNN/1.jpg",
     "actress": [],
@@ -190,7 +178,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5a6f7abab37948c7a698a797e8ffe5e7.jpg",
     "actress": [],
@@ -204,11 +192,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -225,7 +213,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -242,7 +230,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -259,7 +247,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250629-19/d90cf5127d8b9aa80025b9752d925c6c.webp",
     "actress": [],
@@ -273,12 +261,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-04-24",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -294,12 +283,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -313,12 +303,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-12-20",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -332,12 +323,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -351,12 +343,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-04-16",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -370,12 +363,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -389,12 +383,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -410,12 +405,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -429,12 +425,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -448,12 +445,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -467,12 +465,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -486,12 +485,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -505,12 +505,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -524,12 +525,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -543,12 +545,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "搭讪素人",
+      "FC2",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -562,13 +565,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦",
       "搭讪素人",
-      "嫩妹"
+      "嫩妹",
+      "乱伦",
+      "FC2",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -585,7 +589,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250629-20/7e34f277f1d7a8e5e115d33bbd0a14d2.webp",
     "actress": [],
@@ -602,7 +606,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240921-1/89d562b77b37f0d10916d89329251cf3.jpg",
     "actress": [],
@@ -616,11 +620,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱交",
-      "嫩妹"
+      "嫩妹",
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250629-19/f453c3c9aa606a223a9c7e4bde78e5df.webp",
     "actress": [],
@@ -634,11 +638,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -652,19 +656,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "嫩妹",
       "素人企画",
-      "高端素人",
-      "嫩妹"
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/86ec73e9d46a2a2a88f6ce05195fb80d.jpg",
     "actress": [],
@@ -678,19 +676,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "嫩妹",
       "素人企画",
-      "高端素人",
-      "嫩妹"
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/3a38271aea18d451c2bf160ce56de67c.jpg",
     "actress": [],
@@ -708,7 +700,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240921-1/27aa7c5481078e127eb9e8073b1414aa.jpg",
     "actress": [],
@@ -725,7 +717,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231120/pb_e_261ara-049.jpg!320x216.jpg",
     "actress": [],
@@ -734,7 +726,7 @@ window.PAGE_DATA = [
   {
     "id": 537426,
     "IDcode": "261ARA-070",
-    "title": "[] 募集ちゃん 070 えみ 21歳 介护士 (诸星エミリー)",
+    "title": "募集ちゃん 070 えみ 21歳 介护士 (诸星エミリー)",
     "year": "",
     "country": "",
     "genre": "",
@@ -743,7 +735,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231014/pb_e_261ara-070.jpg!320x216.jpg",
     "actress": [],
@@ -757,11 +749,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231029/pb_e_261ara-159.jpg!320x216.jpg",
     "actress": [],
@@ -778,7 +770,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231030/pb_e_261ara-164.jpg!320x216.jpg",
     "actress": [],
@@ -795,7 +787,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231030/pb_e_261ara-169.jpg!320x216.jpg",
     "actress": [],
@@ -812,7 +804,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231030/pb_e_261ara-172.jpg!320x216.jpg",
     "actress": [],
@@ -829,7 +821,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231031/pb_e_261ara-175.jpg!320x216.jpg",
     "actress": [],
@@ -846,7 +838,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231031/pb_e_261ara-187.jpg!320x216.jpg",
     "actress": [],
@@ -863,7 +855,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_261ara-191.jpg!320x216.jpg",
     "actress": [],
@@ -880,7 +872,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231026/pb_e_261ara-195.jpg!320x216.jpg",
     "actress": [],
@@ -894,11 +886,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231026/pb_e_261ara-196.jpg!320x216.jpg",
     "actress": [],
@@ -915,7 +907,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/pb_e_261ara-206.jpg!320x216.jpg",
     "actress": [],
@@ -932,7 +924,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231021/pb_e_261ara-209.jpg!320x216.jpg",
     "actress": [],
@@ -949,7 +941,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/pb_e_261ara-217.jpg!320x216.jpg",
     "actress": [],
@@ -966,7 +958,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/pb_e_261ara-220.jpg!320x216.jpg",
     "actress": [],
@@ -980,11 +972,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231020/pb_e_261ara-224.jpg!320x216.jpg",
     "actress": [],
@@ -998,11 +990,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231018/pb_e_261ara-238.jpg!320x216.jpg",
     "actress": [],
@@ -1019,7 +1011,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_261ara-245.jpg!320x216.jpg",
     "actress": [],
@@ -1036,7 +1028,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_261ara-247.jpg!320x216.jpg",
     "actress": [],
@@ -1053,7 +1045,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_261ara-250.jpg!320x216.jpg",
     "actress": [],
@@ -1067,11 +1059,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_261ara-251.jpg!320x216.jpg",
     "actress": [],
@@ -1088,7 +1080,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230622/pb_e_261ara-254.jpg!320x216.jpg",
     "actress": [],
@@ -1105,7 +1097,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230624/pb_e_261ara-260.jpg!320x216.jpg",
     "actress": [],
@@ -1119,11 +1111,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_261ara-301.jpg!320x216.jpg",
     "actress": [],
@@ -1140,7 +1132,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_261ara-302.jpg!320x216.jpg",
     "actress": [],
@@ -1157,7 +1149,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230707/pb_e_261ara-326.jpg!320x216.jpg",
     "actress": [],
@@ -1174,7 +1166,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fadc8297c9c355502c0681585bbbe142.jpg",
     "actress": [],
@@ -1191,7 +1183,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230711/pb_e_261ara-334.jpg!320x216.jpg",
     "actress": [],
@@ -1208,7 +1200,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230714/1603188383-pb_e_261ara-341.jpg!320x216.jpg",
     "actress": [],
@@ -1225,7 +1217,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230714/1604307488-cap_e_7_261ara-343.jpg!320x216.jpg",
     "actress": [],
@@ -1242,7 +1234,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230714/1603962121-pb_e_261ara-346.jpg!320x216.jpg",
     "actress": [],
@@ -1259,7 +1251,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230714/1605705872-cap_e_13_261ara-348.jpg!320x216.jpg",
     "actress": [],
@@ -1276,7 +1268,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20230315/CKhFfsZX/1.jpg?t=1680000024",
     "actress": [],
@@ -1290,11 +1282,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20230315/lBdvChkK/1.jpg?t=1680000024",
     "actress": [],
@@ -1311,7 +1303,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/523cde26835f90e2f90fdb79620bf15f.jpg",
     "actress": [],
@@ -1328,7 +1320,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/fdb44d60b7035f09ca44a65bf49265a5.jpg",
     "actress": [],
@@ -1345,7 +1337,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/a5dcf4c59f20cf6d571a25aeab53ecac.jpg",
     "actress": [],
@@ -1359,11 +1351,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/21e726717ba60be28a46b5967ffb2bbe.jpg",
     "actress": [],
@@ -1380,7 +1372,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/0aee6291fb9d24dd4b4a000d48d4bcbf.jpg",
     "actress": [],
@@ -1397,7 +1389,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191027-1/e59ee74e9bba3c23fb52c7dbd14f3aca.jpg",
     "actress": [],
@@ -1414,7 +1406,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6ab426d0e28a221307ec460cef2db8c1.jpg",
     "actress": [],
@@ -1431,7 +1423,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240509/pb_e_261ara-424.jpg!320x216.jpg",
     "actress": [],
@@ -1445,11 +1437,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/5b62c5a611f532e284d33a8fa97acf47.jpg",
     "actress": [],
@@ -1466,7 +1458,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/90f475ff60d2892b1781beddf6fabcc4.jpg",
     "actress": [],
@@ -1475,17 +1467,17 @@ window.PAGE_DATA = [
   {
     "id": 591513,
     "IDcode": "277DCV-171",
-    "title": "【】柳田21歳女孩酒吧店员",
+    "title": "柳田21歳女孩酒吧店员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "嫩妹",
       "素人",
-      "中文字幕",
-      "嫩妹"
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1503,7 +1495,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/28df16ac1bf9c14270ac034643c5a0f4.jpg",
     "actress": [],
@@ -1521,7 +1513,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2f1630f648a9a32f09921e7051b3f42d.jpg",
     "actress": [],
@@ -1538,7 +1530,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1555,7 +1547,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1572,7 +1564,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1590,7 +1582,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/0c37302e62e157b5d3ed237d42666126.jpg",
     "actress": [],
@@ -1608,7 +1600,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/bedd4b4f9d108f676320769465d70271.jpg",
     "actress": [],
@@ -1626,7 +1618,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/04c0512d0cfab85f949b4932d731edbc.jpg",
     "actress": [],
@@ -1640,18 +1632,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/7a57067fa9d8e2c23931f071200f623c.jpg",
     "actress": [],
@@ -1665,18 +1651,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1690,18 +1670,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/e52428657891fc8b841e25e6b44a1a1f.jpg",
     "actress": [],
@@ -1715,18 +1689,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/a639bc08602fd4ee1cc842cd125e2ad7.jpg",
     "actress": [],
@@ -1740,18 +1708,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/120567cf0acce4cab1be40e2e207f259.jpg",
     "actress": [],
@@ -1765,18 +1727,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/44fa00f7b283e262b4ab210f6c3d0e55.jpg",
     "actress": [],
@@ -1790,19 +1746,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "嫩妹",
       "街头采访",
-      "巨乳",
-      "嫩妹"
+      "素人",
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d17d1a372a223fcf8852b7227c5ddedd.jpg",
     "actress": [],
@@ -1816,18 +1766,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/dcfe91aac54ac95b590576136a275a86.jpg",
     "actress": [],
@@ -1841,18 +1785,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0df2e3e55f75492a0c31f58880b1e54f.jpg",
     "actress": [],
@@ -1866,18 +1804,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOC",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
-        "works_count": 854
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/671d98489ebef205975416c9b6ba28ac.jpg",
     "actress": [],

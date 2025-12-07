@@ -48,7 +48,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "DREAMTICKET",
       "publish_date": "",
       "cover_url": "",
       "actress": [

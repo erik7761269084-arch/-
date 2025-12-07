@@ -427,7 +427,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce2b8b79f1ac4ec4654640/cover.jpg",
       "actress": [

@@ -1,1319 +1,1300 @@
 window.PAGE_DATA = [
   {
-    "id": 212103,
-    "IDcode": "RCT-796",
-    "title": "AV演员的惊人技术喷到",
+    "id": 308154,
+    "IDcode": "REXD-536",
+    "title": "全てが仕込まれていた… 田舎に住もうよ 松本梨穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/790876bceee71a7f95031ac154a79439.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-796"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-536"
   },
   {
-    "id": 210132,
-    "IDcode": "RCT-797",
-    "title": "混浴露天風呂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-797"
-  },
-  {
-    "id": 469863,
-    "IDcode": "RCT-800",
-    "title": "春藥治人妻無性生活體驗 初美沙希 玉城麻衣 葉山美空",
+    "id": 11153,
+    "IDcode": "REXD-537",
+    "title": "黒タイツの女 水端あさみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "凌辱",
+      "美腳",
+      "兔女郎妝扮",
+      "美臀",
+      "文藝女",
+      "亂交 • 群P",
+      "感官作品",
+      "人妻",
+      "眼鏡",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "猥褻穿著",
+      "劇情",
+      "女醫生",
+      "絕頂高潮",
+      "M男・M女",
+      "強姦",
+      "緊縛",
+      "飯店",
+      "黑絲",
+      "美人妻",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "脚控・戀足癖",
+      "美腿",
+      "故事集",
+      "口交",
+      "風俗娘",
+      "慾求不滿",
+      "情趣內衣",
+      "醫生製服",
+      "女上位",
+      "足交",
+      "OL",
+      "女教師",
+      "後入",
+      "醫院・診所",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2c615ce5a404e9babebee/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-800"
-  },
-  {
-    "id": 589283,
-    "IDcode": "RCT-809",
-    "title": "铁管克制！ De M手淫健身俱乐部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/78538_cover_2025-09-10_124536.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-809"
-  },
-  {
-    "id": 517585,
-    "IDcode": "RCT-811",
-    "title": "癡人妻大戰屁OO 歡淫你來癡漢篇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d0aa671eb543bb0eda909/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-811"
-  },
-  {
-    "id": 178435,
-    "IDcode": "RCT-818",
-    "title": "淫语女子主播们在电视荧幕前为大家直播讲解肉棒的划分制度",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-818"
-  },
-  {
-    "id": 531916,
-    "IDcode": "RCT-822",
-    "title": "与母子私下乱伦游戏被炉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/eba11a2a608848198d32543c8a0a0a6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-822"
-  },
-  {
-    "id": 174437,
-    "IDcode": "RCT-823",
-    "title": "被学生当成嘲笑对象的女教师立花仁美老师学生篇-小早川怜子 川越唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-823"
-  },
-  {
-    "id": 217424,
-    "IDcode": "RCT-824",
-    "title": "黑人的大鸡巴-夏希みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-824"
-  },
-  {
-    "id": 578906,
-    "IDcode": "RCT-829",
-    "title": "淫语バスガイドKAORI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-829"
-  },
-  {
-    "id": 526738,
-    "IDcode": "RCT-831",
-    "title": "鉄拘束ケツ拘束 篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230323/1rct00831pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-831"
-  },
-  {
-    "id": 98746,
-    "IDcode": "RCT-841",
-    "title": "私立スペレズ女学院2壁チポ部活動編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学校泳装",
-      "吞精",
-      "女同接吻",
-      "企画",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241020/5ef398e4-730f-489d-bbf8-f9c7ba27e721.jpg",
     "actress": [
-      "凉川绚音",
-      "水城りの",
-      "冈本希"
+      "水端麻美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-841"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-537"
   },
   {
-    "id": 98572,
-    "IDcode": "RCT-846",
-    "title": "デカチンふたなりレズバトル",
+    "id": 11189,
+    "IDcode": "REXD-538",
+    "title": "私…タイムリープしたみたいです。4 末広純",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "双性人",
-      "女同性恋",
+      "凌辱",
+      "美腳",
+      "脅迫做愛",
+      "美臀",
+      "亂交 • 群P",
+      "NTR",
+      "人妻",
+      "下屬女友・妻子",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "白絲",
+      "強姦",
+      "色白",
+      "護士",
+      "變態",
+      "美人妻",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "護士制服",
+      "形象俱樂部",
+      "輪姦",
+      "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2016-04-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "彩音遙菜",
-      "神波多一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-846"
-  },
-  {
-    "id": 318560,
-    "IDcode": "RCT-847",
-    "title": "时间停止手表将无反应女子生插突然痉挛绝顶中出精液各处时间也好像停不下来了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/10/a4ca9c2abb64098d8d6037e636b42101.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-847"
-  },
-  {
-    "id": 98809,
-    "IDcode": "RCT-855",
-    "title": "ガチンコ全裸レズバトル 5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "口交",
       "潮吹",
-      "女同性恋",
-      "舔阴",
-      "肛交",
-      "巨乳",
-      "企画",
-      "接吻"
+      "魔鬼系",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "後入",
+      "性感",
+      "醫院・診所",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "2016-05-12",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rct855/1rct855pl.jpg",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241018/1692ae49-695d-46f8-90fd-f3f2cf5cb868.jpg",
     "actress": [
-      "真木今日子",
-      "霧島さくら",
-      "尾上若叶",
-      "成宮潤",
-      "藤本紫媛"
+      "末広純"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-855"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-538"
   },
   {
-    "id": 549111,
-    "IDcode": "RCT-856",
-    "title": "第1回青空ザーメンダーツ选手権",
+    "id": 175926,
+    "IDcode": "REXD-539",
+    "title": "挿入伝説 勝負師（ギャンブラー）えま 千鶴えま",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-856"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-539"
   },
   {
-    "id": 158704,
-    "IDcode": "RCT-858",
-    "title": "母子俩偷偷在桌子底下玩乱伦游戏",
+    "id": 11211,
+    "IDcode": "REXD-540",
+    "title": "この事は誰にも言わないで… 友達の母ちゃん 松本梨穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "多P",
+      "不倫",
+      "蕩婦",
+      "口爆",
+      "亂交 • 群P",
+      "深喉",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "接吻",
+      "劇情",
+      "家庭主妇",
+      "按摩棒",
+      "勾引・誘惑",
+      "色白",
+      "黑絲",
+      "顏射",
+      "美人妻",
+      "朋友母親",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e2e100693963767df304/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-858"
+    "cover_url": "https://picture.yoshiclub.xyz/20241018/48fec343-e39a-47ad-8782-647398620610.jpg",
+    "actress": [
+      "松本梨穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-540"
   },
   {
-    "id": 211804,
-    "IDcode": "RCT-863",
-    "title": "传说中的电动小马达-丘咲エミリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-863"
-  },
-  {
-    "id": 536029,
-    "IDcode": "RCT-865",
-    "title": "全裸オイルキャットファイト7HANABI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-865"
-  },
-  {
-    "id": 536028,
-    "IDcode": "RCT-867",
-    "title": "ガチンコ素人団地妻レズバトル",
+    "id": 10439,
+    "IDcode": "REXD-541",
+    "title": "罪な女 千鶴えま",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "美腳",
+      "身體換業務",
+      "亂交 • 群P",
+      "人妻",
+      "下屬女友・妻子",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "招待",
+      "M男・M女",
+      "美人妻",
+      "若妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "雙馬尾",
+      "潮吹",
+      "乳交",
+      "謝罪",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-867"
+    "cover_url": "https://picture.yoshiclub.xyz/20241123/27370d06-9b7a-4383-b301-1bc84701270d.jpg",
+    "actress": [
+      "千鶴えま",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-541"
   },
   {
-    "id": 210207,
-    "IDcode": "RCT-870",
-    "title": "少年痴汉队之舞蹈学校",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/12/cdab78dc63c2c48effc52b742a1318d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-870"
-  },
-  {
-    "id": 517720,
-    "IDcode": "RCT-871",
-    "title": "母子烤肉淫亂野砲狂歡！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9ad2d6fbef4e90091a73/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-871"
-  },
-  {
-    "id": 211964,
-    "IDcode": "RCT-873",
-    "title": "摩擦鸡巴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-873"
-  },
-  {
-    "id": 526737,
-    "IDcode": "RCT-878",
-    "title": "の姊妹と贝合わせ素股でハーレム近亲相奸 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230323/1rct00878pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-878"
-  },
-  {
-    "id": 211805,
-    "IDcode": "RCT-883",
-    "title": "脸红的家政任务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-883"
-  },
-  {
-    "id": 210553,
-    "IDcode": "RCT-886",
-    "title": "水泳大会2016",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/15/6fe87a39673189ad31ae6de80dd3ea36.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-886"
-  },
-  {
-    "id": 554507,
-    "IDcode": "RCT-887",
-    "title": "_真时间が止まる腕时计パート6_禁断の寝取り中出しスペシャル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240426/1rct887pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-887"
-  },
-  {
-    "id": 212097,
-    "IDcode": "RCT-890",
-    "title": "家庭内中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e43a00693963767df31d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-890"
-  },
-  {
-    "id": 210142,
-    "IDcode": "RCT-891",
-    "title": "游泳比赛的幕后花絮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-891"
-  },
-  {
-    "id": 318502,
-    "IDcode": "RCT-897",
-    "title": "试着摸出穿着裙巾女儿的裸体-並木杏梨 相泽友梨奈 月本爱",
+    "id": 10453,
+    "IDcode": "REXD-542",
+    "title": "Future Girl Sperman 宮西ひかる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "肉絲",
+      "凌辱",
+      "美臀",
+      "亂交 • 群P",
+      "奇異的",
+      "癡女",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "M男・M女",
+      "變態",
+      "特效",
+      "痴漢",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "美乳",
+      "口交",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-897"
+    "cover_url": "https://picture.yoshiclub.xyz/20241122/ea8e18e7-3e83-41f2-b0be-50f8278a5740.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-542"
   },
   {
-    "id": 211163,
-    "IDcode": "RCT-901",
-    "title": "透明人間女子校編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-901"
-  },
-  {
-    "id": 173952,
-    "IDcode": "RCT-903",
-    "title": "和男友的前辈两人独处被调查开放度的她-星空萌爱 相泽友梨奈 斋藤美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-903"
-  },
-  {
-    "id": 454229,
-    "IDcode": "RCT-904",
-    "title": "母子偷偷在桌子底下的亂倫遊戲2",
+    "id": 10446,
+    "IDcode": "REXD-543",
+    "title": "この事は誰にも言わないで… 友達の母ちゃん2 望月瞳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "凌辱",
+      "熟女",
+      "脅迫做愛",
+      "蕩婦",
+      "口爆",
+      "亂交 • 群P",
+      "NTR",
+      "深喉",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "COSPLAY服飾",
+      "家庭主妇",
+      "按摩棒",
+      "絕頂高潮",
+      "強姦",
+      "色白",
+      "護士",
+      "變態",
+      "美人妻",
+      "顏射",
+      "角色扮演",
+      "朋友母親",
+      "痴漢",
+      "騎乗位",
+      "羞恥",
+      "護士制服",
+      "形象俱樂部",
+      "輪姦",
+      "吞精",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "自慰",
+      "女上位",
+      "多P",
+      "後入",
+      "醫院・診所",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e46800693963767df31e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-904"
+    "cover_url": "https://picture.yoshiclub.xyz/20241122/06a74d44-86c4-4835-b047-523a0c01a6a7.jpg",
+    "actress": [
+      "望月瞳",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-543"
   },
   {
-    "id": 153431,
-    "IDcode": "RCT-906",
-    "title": "家族对抗赛近亲相奸内射乱伦大运动会",
+    "id": 10461,
+    "IDcode": "REXD-544",
+    "title": "男勝りな女の子 転校生まいちゃん 有栖舞衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "凌辱",
+      "女學生",
+      "臀控",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "白絲",
+      "M男・M女",
+      "學校",
+      "黑絲",
+      "變態",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "輪姦",
+      "美乳",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "多P",
+      "後入",
+      "性感",
+      "醫院・診所",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/724bc5479f7897cecaedacee099fd4df.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-906"
+    "cover_url": "https://picture.yoshiclub.xyz/20241122/0a20dc09-c98d-4d48-a5dc-59018d917d0d.jpg",
+    "actress": [
+      "有栖舞衣",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-544"
   },
   {
-    "id": 174424,
-    "IDcode": "RCT-909",
-    "title": "女友的闺蜜在桌子底下偷偷的口交-伊东红 渡边空 春菜惠美 西尾怜梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e4ea00693963767df322/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-909"
-  },
-  {
-    "id": 173969,
-    "IDcode": "RCT-925",
-    "title": "女友试着识别男友的精液-並木杏梨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-925"
-  },
-  {
-    "id": 211230,
-    "IDcode": "RCT-927",
-    "title": "尸体先生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-927"
-  },
-  {
-    "id": 517756,
-    "IDcode": "RCT-928",
-    "title": "媽媽們烤肉大會時我妻被全裸霸凌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f63389631cc64eb5bca1af/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-928"
-  },
-  {
-    "id": 454231,
-    "IDcode": "RCT-931",
-    "title": "母亲和儿子在桌布下近亲相奸",
+    "id": 9723,
+    "IDcode": "REXD-545",
+    "title": "熱血教師 みなみ先生 前田美波",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "凌辱",
+      "蠻橫嬌羞",
+      "老頭子",
+      "多P",
+      "口爆",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "過膝襪・小腿襪",
+      "M男・M女",
+      "強姦",
+      "學校",
+      "黑絲",
+      "變態",
+      "顏射",
+      "媚藥・迷藥",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "美乳",
+      "迷姦",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "女上位",
+      "胸控・戀乳癖",
+      "女教師",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e60d00693963767df40b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-931"
+    "cover_url": "https://picture.yoshiclub.xyz/20241220/670f2853-72fa-4e71-af3b-ef50d8d5db96.jpg",
+    "actress": [
+      "前田美波",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-545"
   },
   {
-    "id": 211679,
-    "IDcode": "RCT-937",
-    "title": "性骚扰调戏团队-澁谷果歩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/02/06/c9b73c3fa160558f3ca6444b3ee9a51a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-937"
-  },
-  {
-    "id": 211680,
-    "IDcode": "RCT-940",
-    "title": "业余情侣上演变态吃鸡戏码",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-940"
-  },
-  {
-    "id": 210897,
-    "IDcode": "RCT-941",
-    "title": "新春宅訪問近親大乱交",
+    "id": 9539,
+    "IDcode": "REXD-546",
+    "title": "みんな恋する5秒前 おじさんと天使 望月つぼみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱交"
+      "少女",
+      "老頭子",
+      "蘿莉控",
+      "二次元",
+      "色誘",
+      "亂交 • 群P",
+      "癡女",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "COSPLAY服飾",
+      "美少女",
+      "貓耳裝飾",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "黑絲",
+      "角色扮演",
+      "游戲COSPLAY",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "女上位",
+      "多P",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/16/352bbdd2531e4283f84a19037e09cb72.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-941"
+    "cover_url": "https://picture.yoshiclub.xyz/20241228/fd338f2d-c57e-48f4-b37b-734bcad9ce9d.jpg",
+    "actress": [
+      "望月蕾",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-546"
   },
   {
-    "id": 174935,
-    "IDcode": "RCT-946",
-    "title": "被学生曝光的女教師2立花仁美先生病院編-尾上若葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-946"
-  },
-  {
-    "id": 175092,
-    "IDcode": "RCT-947",
-    "title": "试着猜出穿着裙子的女儿的裸体游戏3-水泽莉子 河北春菜 西尾伶夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-947"
-  },
-  {
-    "id": 211681,
-    "IDcode": "RCT-949",
-    "title": "親子露天風呂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/02/06/34723fe059c837bd3044853e3c6a3f8c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-949"
-  },
-  {
-    "id": 463260,
-    "IDcode": "RCT-952",
-    "title": "淫語女主播 10 姬川優奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7baeda0063c92fbabd6d9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-952"
-  },
-  {
-    "id": 592102,
-    "IDcode": "RCT-957",
-    "title": "[]妈妈素股磨儿子肉棒近亲相奸2第01集",
+    "id": 9523,
+    "IDcode": "REXD-547",
+    "title": "全てが仕込まれていた… 田舎に住もうよ2 有栖舞衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "中文字幕"
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "老頭子",
+      "美腳",
+      "蘿莉控",
+      "二次元",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "奇異的",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "偶像",
+      "美少女電影",
+      "接吻",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "鄉下",
+      "巨尻",
+      "口交",
+      "地雷系",
+      "潮吹",
+      "女上位",
+      "真人秀",
+      "網路紅人",
+      "多P",
+      "後入",
+      "唾液敷面",
+      "3P・4P",
+      "直播"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-957"
+    "cover_url": "https://picture.yoshiclub.xyz/20241229/bc91d103-f9c4-49b1-a418-91d439891735.jpg",
+    "actress": [
+      "有栖舞衣",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-547"
   },
   {
-    "id": 592101,
-    "IDcode": "RCT-960",
-    "title": "[]变态天气主播大姐也下海啦第01集",
+    "id": 9736,
+    "IDcode": "REXD-548",
+    "title": "私…タイムリープしたみたいです。5 松本梨穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "凌辱",
+      "同事女友・妻子",
+      "亂交 • 群P",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "辦公室",
+      "劇情",
+      "絕頂高潮",
+      "M男・M女",
+      "強姦",
+      "色白",
+      "變態",
+      "美人妻",
+      "若妻",
+      "媚藥・迷藥",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "美乳",
+      "迷姦",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "多P",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-960"
+    "cover_url": "https://picture.yoshiclub.xyz/20241220/e7779a28-3e26-40ec-88cb-1044a434c7b4.jpg",
+    "actress": [
+      "松本梨穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-548"
   },
   {
-    "id": 584192,
-    "IDcode": "RCT-961",
-    "title": "真・时间暂停手表 肏翻办公室 小泉沙和",
+    "id": 8826,
+    "IDcode": "REXD-549",
+    "title": "家庭訪問編 熱血教師 みなみ先生 前田美波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "老頭子",
+      "多P",
+      "美腳",
+      "脅迫做愛",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "變態",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "上門家訪",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "顔面騎乘",
+      "吞精",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "女教師",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250124/d0182c59-2032-4b32-a23c-e909eeb5ca07.jpg",
+    "actress": [
+      "前田美波",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-549"
+  },
+  {
+    "id": 8824,
+    "IDcode": "REXD-550",
+    "title": "本気で恋する5秒前 おじさんと天使 2 宮西ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
+      "女學生",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "自宅",
+      "接吻",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "過膝襪・小腿襪",
+      "貓耳裝飾",
+      "白絲",
+      "絕頂高潮",
+      "叛逆少女",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "清純",
+      "女上位",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250124/ee24c8af-35a2-4eff-a043-e42d174a681b.jpg",
+    "actress": [
+      "宮西光",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-550"
+  },
+  {
+    "id": 8825,
+    "IDcode": "REXD-551",
+    "title": "「私…2072年の津軽からきました…」 未来人あいちゃん 乃々瀬あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "美腳",
+      "脅迫做愛",
+      "女學生",
+      "小隻馬",
+      "亂交 • 群P",
+      "癡女",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "女同事",
+      "學校",
+      "黑絲",
+      "同學",
+      "特效",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "短髮",
+      "美人",
+      "輪姦",
+      "口交",
+      "校花",
+      "清純",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "JK校服",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250124/5bfddbfb-1304-4c1a-b6d7-fb7710926a3b.jpg",
+    "actress": [
+      "乃々瀬あい",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-551"
+  },
+  {
+    "id": 8820,
+    "IDcode": "REXD-552",
+    "title": "future girl sperman 2 有栖舞衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "蠻橫嬌羞",
+      "老頭子",
+      "蒙面・面罩",
+      "公共場所",
+      "美腳",
+      "小隻馬",
+      "亂交 • 群P",
+      "奇異的",
+      "癡女",
+      "搞笑・模仿",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "COSPLAY服飾",
+      "調教",
+      "美少女",
+      "絕頂高潮",
+      "叛逆少女",
+      "苗條",
+      "變態",
+      "游戲COSPLAY",
+      "特效",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "輪姦",
+      "口交",
+      "地雷系",
+      "女上位",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250125/98fad94e-7d20-4688-b9d3-64b3f38b646b.jpg",
+    "actress": [
+      "有栖舞衣",
+      "平井シンジ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-552"
+  },
+  {
+    "id": 8075,
+    "IDcode": "REXD-553",
+    "title": "熱血教師！ ゆいな先生 滝ゆいな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "美腳",
+      "女教師",
+      "美臀",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "M男・M女",
+      "強姦",
+      "學校",
+      "色白",
+      "黑絲",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "迷姦",
+      "口交",
+      "女上位",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e1f184d6fbef4e90e032ce/cover.jpg",
+    "actress": [
+      "滝ゆいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-553"
+  },
+  {
+    "id": 8047,
+    "IDcode": "REXD-554",
+    "title": "転校生ひかるちゃん 宮西ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "凌辱",
+      "美腳",
+      "女學生",
+      "濕身",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "美少女",
+      "早漏",
+      "按摩棒",
+      "M男・M女",
+      "苗條",
+      "變態",
+      "同學",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "白眼失神",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感",
+      "寢取",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e1fc41d6fbef4e90e05bcb/cover.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-554"
+  },
+  {
+    "id": 8067,
+    "IDcode": "REXD-555",
+    "title": "おじさんと天使 3 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "蠻橫嬌羞",
+      "老頭子",
+      "美腳",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "大小姐",
+      "美少女電影",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "過膝襪・小腿襪",
+      "早漏",
+      "按摩棒",
+      "貓耳裝飾",
+      "白絲",
+      "絕頂高潮",
+      "無毛",
+      "叛逆少女",
+      "高顏值",
+      "苗條",
+      "變態",
+      "角色扮演",
+      "傲嬌",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "女僕制服",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "潮吹",
+      "地雷系",
+      "清純",
+      "女上位",
+      "多P",
+      "後入",
+      "JK校服",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e1f19bd6fbef4e90e032cf/cover.jpg",
+    "actress": [
+      "小那海綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-555"
+  },
+  {
+    "id": 7333,
+    "IDcode": "REXD-556",
+    "title": "時をかけるおじさん 前田美波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "美腳",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "辦公室",
+      "接吻",
+      "劇情",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同事",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "OL",
+      "多P",
+      "後入",
+      "JK校服",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4499b1572686be75afea2/cover.jpg",
+    "actress": [
+      "前田美波",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-556"
+  },
+  {
+    "id": 7321,
+    "IDcode": "REXD-557",
+    "title": "5秒以内に跪け！ おじさんと堕天使 桜木美音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
+      "小隻馬",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "丁字裤",
+      "自宅",
+      "劇情",
+      "COSPLAY服飾",
+      "美少女",
+      "明星臉",
+      "貓耳裝飾",
+      "白絲",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "上門福利",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "女僕制服",
+      "口交",
+      "地雷系",
+      "潮吹",
+      "清純",
+      "女上位",
+      "足交",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d3513d631cc64eb57b7be1/cover.jpg",
+    "actress": [
+      "桜木美音",
+      "平井シンジ",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-557"
+  },
+  {
+    "id": 7314,
+    "IDcode": "REXD-558",
+    "title": "我要介绍我的女友了哦-望月蕾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "深喉",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "朋友女友・妻子",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "苗條",
+      "騎乗位",
+      "艷遇",
+      "羞恥",
+      "形象俱樂部",
+      "兒媳",
+      "美人",
+      "口交",
+      "校花",
+      "公公",
+      "潮吹",
+      "清純",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "後入",
+      "JK校服",
+      "濕身",
+      "NTR",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d350fc631cc64eb57b7be0/cover.jpg",
+    "actress": [
+      "望月蕾",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-558"
+  },
+  {
+    "id": 77318,
+    "IDcode": "REZD-226",
+    "title": "レッド突撃隊23周年記念！もう時効でしょ！顔モザ解禁！？ 突撃隊ボインちゃんギャルママ大集合スペシャル 中出し！顔出し！厳選巨乳40名！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "业余",
+      "巨乳",
+      "中出",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/348900f5a143fb859b0aba7170a22ddd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REZD-226"
+  },
+  {
+    "id": 519603,
+    "IDcode": "REZD-318",
+    "title": "BEST版 女のソロテント 5时间50分総集编！350分スペシャル！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250728-1/58e18921da3dda9dda9715e8df4e618a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-961"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REZD-318"
   },
   {
-    "id": 544039,
-    "IDcode": "RCT-962",
-    "title": "家庭内近亲相奸王様ゲーム第01集",
+    "id": 462704,
+    "IDcode": "RGAV-001",
+    "title": "年過60老頭自拍性愛全紀錄豪華兩集精選",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/ebb9281866128f6ec6a08e81af1ebd34.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RGAV-001"
   },
   {
-    "id": 211463,
-    "IDcode": "RCT-963",
-    "title": "业余口交锦标赛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-963"
-  },
-  {
-    "id": 591471,
-    "IDcode": "RCT-964",
-    "title": "[]后宫干炮游泳教室",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-964"
-  },
-  {
-    "id": 166788,
-    "IDcode": "RCT-965",
-    "title": "媽媽讀A書治陽痿兒近親相姦肏翻天",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-965"
-  },
-  {
-    "id": 166789,
-    "IDcode": "RCT-966",
-    "title": "歡淫來到黑辣妹騎著幹航空！2夏樹真里奈長谷川夏樹安室莎莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-966"
-  },
-  {
-    "id": 166790,
-    "IDcode": "RCT-969",
-    "title": "來睡走我妻子吧…寢取混浴溫泉篇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-969"
-  },
-  {
-    "id": 177932,
-    "IDcode": "RCT-971",
-    "title": "妈妈与妹妹的屁股重叠瞒着在魔镜号外等待的爸爸违背道德的双重体内射精3P近亲相奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-971"
-  },
-  {
-    "id": 211682,
-    "IDcode": "RCT-973",
-    "title": "友達同士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-973"
-  },
-  {
-    "id": 211683,
-    "IDcode": "RCT-974",
-    "title": "修学旅行編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-974"
-  },
-  {
-    "id": 211501,
-    "IDcode": "RCT-976",
-    "title": "胴体插孔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-976"
-  },
-  {
-    "id": 178436,
-    "IDcode": "RCT-977",
-    "title": "搭讪良家女计划在通关魔镜号特殊布置的淫语女子屋内让名门女大学生在男朋友面前直播做爱",
+    "id": 463688,
+    "IDcode": "RGD-214",
+    "title": "人妻 美腿+ 絲襪・網襪的貞淑 有澤實紗",
     "year": "",
     "country": "",
     "genre": "",
@@ -1321,68 +1302,127 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/31f3879c40a902053e2d1cc5e6827753.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688967f798bc99dfddc39e85/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-977"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RGD-214"
   },
   {
-    "id": 531915,
-    "IDcode": "RCT-978",
-    "title": "母子偷偷在桌子底下的乱伦游戏3",
+    "id": 463695,
+    "IDcode": "RGD-223",
+    "title": "LEGS＋ IX 絲襪的渴望 麻倉憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/688853a1c92318f97d00925f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RGD-223"
+  },
+  {
+    "id": 523487,
+    "IDcode": "RHE-322",
+    "title": "波多野结衣- 美人教师が嘘みたいな浓密个别指导！？もしも社会人向け个人レッスンで先生が突然生ハメを迫ってきたら··最初は戸惑う一般男性の勃起した兴奋チンコ！精液榨り取りマシーンと化した発情中のエロ先生との即ハメセッ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250620/yplwkBRR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-322"
+  },
+  {
+    "id": 218207,
+    "IDcode": "RHE-496",
+    "title": "出産後の感度抜群人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/6b25ebd7107db9fbba881ed1ebb9c23d.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/08ff4eb89e26547de1bd30d21b423584.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-978"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-496"
   },
   {
-    "id": 211464,
-    "IDcode": "RCT-979",
-    "title": "巨乳看護師",
+    "id": 547485,
+    "IDcode": "RHE-608A",
+    "title": "[第1集]郊外ラブホテル不贞人妻盗撮动画 木更津编12人4时间",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190928-1/b00003d8811ac54855dd5753bcfdcfb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-608A"
+  },
+  {
+    "id": 547445,
+    "IDcode": "RHE-611",
+    "title": "ファーストクラス絶品妻ナンパ 连続イカセFUCK 生中出し 6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190915-1/4d5456099c1e8e4a35b7b6508550f914.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-611"
+  },
+  {
+    "id": 547440,
+    "IDcode": "RHE-612A",
+    "title": "[第1集]狙え！人妻デリヘル嬢 女心や母性をくすぐって禁止行为の本番GET！！14人4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190830-1/0f186f9a26b82dfcb46a66885554f9e1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-612A"
+  },
+  {
+    "id": 567442,
+    "IDcode": "RHE-628",
+    "title": "颜70点身体10点熟熟！！12名4时间PARADISE第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-979"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-628"
   },
   {
-    "id": 211465,
-    "IDcode": "RCT-980",
-    "title": "素人性交対抗赛",
+    "id": 567441,
+    "IDcode": "RHE-629",
+    "title": "游びたかったけど我慢して生きてきた素人熟熟の痉挛絶顶アクメ第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1390,810 +1430,1139 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/13/efbd36e6dfd49fb574736b544b832800.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-980"
-  },
-  {
-    "id": 517787,
-    "IDcode": "RCT-982",
-    "title": "母子烤肉淫亂野砲狂歡！ 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f08af131a2714f1c5b64e6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-982"
-  },
-  {
-    "id": 523469,
-    "IDcode": "RCT-986",
-    "title": "波多野结衣- ガチンコ全裸レズバトル 8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250617/ecry1sJv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-986"
-  },
-  {
-    "id": 522109,
-    "IDcode": "RCTCD1",
-    "title": "RCTcd1 女子アナHなハプニング映像8连発 超过激お宝ハプニング编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230123-1/2049958e1c33a145ac44e74c4aef6039.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTCD1"
-  },
-  {
-    "id": 522110,
-    "IDcode": "RCTCD2",
-    "title": "RCTcd2 女子アナHなハプニング映像8连発 超过激お宝ハプニング编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230123-1/efac20a89d6fcf8bf1950cc65bddb48b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTCD2"
-  },
-  {
-    "id": 522107,
-    "IDcode": "RCTCD3",
-    "title": "RCTcd3 女子アナHなハプニング映像8连発 超过激お宝ハプニング编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230123-1/2f9cf5a89535a67aa18888e780af9f26.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTCD3"
-  },
-  {
-    "id": 522108,
-    "IDcode": "RCTCD4",
-    "title": "RCTcd4 女子アナHなハプニング映像8连発 超过激お宝ハプニング编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230123-1/2ade70409e57167f6d7b2a7868648c49.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTCD4"
-  },
-  {
-    "id": 166861,
-    "IDcode": "RCTD-001",
-    "title": "真・時間が止まる腕時計パート8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230312/1rctd00001pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-001"
-  },
-  {
-    "id": 218187,
-    "IDcode": "RCTD-005",
-    "title": "穿比基尼的大胸妹子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-629"
   },
   {
-    "id": 211178,
-    "IDcode": "RCTD-012",
-    "title": "衆人姦視-水野朝陽",
+    "id": 567440,
+    "IDcode": "RHE-635",
+    "title": "熟熟が耻らうセンズリ鉴赏4时间SP4第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHE-635"
   },
   {
-    "id": 211231,
-    "IDcode": "RCTD-014",
-    "title": "催眠应用",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/17/6ef410195d5658b8dd8bece752a34976.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-014"
-  },
-  {
-    "id": 211203,
-    "IDcode": "RCTD-015",
-    "title": "素人性爱对抗比赛",
+    "id": 560163,
+    "IDcode": "RHG-001",
+    "title": "キレイな人妻の5日分のウンチ まや",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241012/G76QL3V4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHG-001"
+  },
+  {
+    "id": 59656,
+    "IDcode": "RHJ-180",
+    "title": "失去双亲的嫩穴女高中生被变态的一家人领养玩弄陷入地狱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称视角(POV)",
+      "轮奸",
+      "深喉",
+      "首次亮相",
+      "中出",
+      "女体料理",
+      "戏剧",
+      "写真",
+      "美少女",
+      "人气标题",
+      "站立性交",
+      "乱伦",
+      "制服",
+      "萝莉",
+      "口交",
+      "雪白皮肤",
+      "潮吹",
+      "店长推荐",
+      "骑乘位",
+      "性奴",
+      "束缚"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHJ-180"
+  },
+  {
+    "id": 518402,
+    "IDcode": "RHJ-280",
+    "title": "RED HOT JAM Vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c27df6b81af1f853891c2/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHJ-280"
+  },
+  {
+    "id": 70329,
+    "IDcode": "RHN-001",
+    "title": "排卵日ナマ交尾 第壱巻 城戸さぎり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "已婚妇女",
+      "单体作品",
+      "饮尿",
+      "巨大屁股",
+      "中出",
+      "自慰",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "城戸さぎり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHN-001"
+  },
+  {
+    "id": 444701,
+    "IDcode": "RHN001",
+    "title": "排卵日ナマ交尾第壱巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250728-1/484020482986560e3bb337cc06ef6a0e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHN001"
+  },
+  {
+    "id": 217940,
+    "IDcode": "RHTS-018",
+    "title": "rhts-018 肉体関係-河西ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-018"
+  },
+  {
+    "id": 217598,
+    "IDcode": "RHTS-023",
+    "title": "rhts-023 性愛-木村つな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-023"
+  },
+  {
+    "id": 518574,
+    "IDcode": "RHTS-035",
+    "title": "溺愛- 生徒会長M 荒牧栞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/19/68f4472f52c12b4e6854c6c9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-035"
+  },
+  {
+    "id": 217434,
+    "IDcode": "RHTS-036",
+    "title": "rhts-036 溺愛-悪女M",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-036"
+  },
+  {
+    "id": 217715,
+    "IDcode": "RHTS-039",
+    "title": "rhts-039 宠辱不惊的心态-川菜ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-039"
+  },
+  {
+    "id": 217873,
+    "IDcode": "RHTS-041",
+    "title": "rhts-041 三位老师和我-さとう愛理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RHTS-041"
+  },
+  {
+    "id": 139728,
+    "IDcode": "RIAKURUMI-COSPURI-0163",
+    "title": "RiaKurumi-cospuri-0163 20201222",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0163"
   },
   {
-    "id": 539035,
-    "IDcode": "RCTD-016",
-    "title": "新村あかり- おま○こ改札で出発淫行！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/G8vK5ghy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-016"
-  },
-  {
-    "id": 531917,
-    "IDcode": "RCTD-018",
-    "title": "母子偷偷潜入水中的乱伦游戏",
+    "id": 139740,
+    "IDcode": "RIAKURUMI-COSPURI-0168",
+    "title": "RiaKurumi-cospuri-0168 20210108",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/9c102ba073e9e6dda95b3ba758ca0469.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-018"
-  },
-  {
-    "id": 211232,
-    "IDcode": "RCTD-020",
-    "title": "超级辣妹子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0168"
   },
   {
-    "id": 166812,
-    "IDcode": "RCTD-021",
-    "title": "ボディジャック ミステリー 憑依人狼ゲーム",
+    "id": 139738,
+    "IDcode": "RIAKURUMI-COSPURI-0171",
+    "title": "RiaKurumi-cospuri-0171 20210119",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230312/1rctd00021pl.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-021"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0171"
   },
   {
-    "id": 155884,
-    "IDcode": "RCTD-024",
-    "title": "男女逆転して女性だけトップレスの世界",
+    "id": 139725,
+    "IDcode": "RIAKURUMI-COSPURI-0176",
+    "title": "RiaKurumi-cospuri-0176 20210205",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230312/1rctd00024pl.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0176"
   },
   {
-    "id": 591470,
-    "IDcode": "RCTD-025",
-    "title": "[] 筋肉母子マッスル近亲相奸",
+    "id": 139719,
+    "IDcode": "RIAKURUMI-COSPURI-0179",
+    "title": "RiaKurumi-cospuri-0179 20210216",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "中文字幕"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0179"
   },
   {
-    "id": 517764,
-    "IDcode": "RCTD-026",
-    "title": "絕頂電動按摩棒腳踏車",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31391dd88d14f063f0065/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-026"
-  },
-  {
-    "id": 211179,
-    "IDcode": "RCTD-029",
-    "title": "巨乳母親",
+    "id": 139715,
+    "IDcode": "RIAKURUMI-COSPURI-0184",
+    "title": "RiaKurumi-cospuri-0184 20210305",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/09/036e785120d75f2e3d7c43aacb13e97f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-029"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0184"
   },
   {
-    "id": 523465,
-    "IDcode": "RCTD-030",
-    "title": "波多野结衣- いつヌクの？今でしょ！カリスマ美人塾讲师の世界一受けたい変态授业",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250617/rOhJCjyz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-030"
-  },
-  {
-    "id": 211233,
-    "IDcode": "RCTD-031",
-    "title": "巨乳家族",
+    "id": 139710,
+    "IDcode": "RIAKURUMI-COSPURI-0187",
+    "title": "RiaKurumi-cospuri-0187 20210316",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/17/f99aee4814a43046064f6b2a92c62a28.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-031"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0187"
   },
   {
-    "id": 166698,
-    "IDcode": "RCTD-032",
-    "title": "素人カップル対抗！男女混合エロプロレス2",
+    "id": 139727,
+    "IDcode": "RIAKURUMI-COSPURI-0192",
+    "title": "RiaKurumi-cospuri-0192 20210402",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "中文字幕"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230311/1rctd00032pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-032"
-  },
-  {
-    "id": 211260,
-    "IDcode": "RCTD-035",
-    "title": "新人看護師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-035"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0192"
   },
   {
-    "id": 105715,
-    "IDcode": "RCTD-036",
-    "title": "说色情故事并且被抽插的天气女主播们",
+    "id": 139744,
+    "IDcode": "RIAKURUMI-COSPURI-0195",
+    "title": "RiaKurumi-cospuri-0195 20210413",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
-      "女主播",
-      "企画"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "仓多真央",
-      "水野朝陽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-036"
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/5988fb7e506c9268a1e658bd5bd8ce61.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0195"
   },
   {
-    "id": 90059,
-    "IDcode": "RCTD-042",
-    "title": "マジックミラー号 ハロウィン仮装ギャルナンパin渋谷2017",
+    "id": 139726,
+    "IDcode": "RIAKURUMI-COSPURI-0200",
+    "title": "RiaKurumi-cospuri-0200 20210430",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "企画",
-      "猎艳"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/6eb8f3d82d9f7929d249ef5fd57fd50a.jpg",
-    "actress": [
-      "MIRANO",
-      "桜アン",
-      "悠月アイシャ",
-      "一ノ瀬夏摘"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
-  },
-  {
-    "id": 218781,
-    "IDcode": "RCTD-043",
-    "title": "斑驳的紧身衣照片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/ab32eb3e37b1c89b81881eacea699b0a.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-043"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0200"
   },
   {
-    "id": 535832,
-    "IDcode": "RCTD-047",
-    "title": "せっかく女になったのに…不完全な女体化で下半身はふたなり！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-047"
-  },
-  {
-    "id": 526736,
-    "IDcode": "RCTD-049",
-    "title": "変态パンティー仮面女子大生デビュー 金玉子（21）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230323/1rctd00049pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-049"
-  },
-  {
-    "id": 523470,
-    "IDcode": "RCTD-061",
-    "title": "波多野结衣- スーパーガチンコ全裸レズバトル REVENGE WARS2018",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/BxWOchYQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-061"
-  },
-  {
-    "id": 211259,
-    "IDcode": "RCTD-062",
-    "title": "異性に変身",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-062"
-  },
-  {
-    "id": 211258,
-    "IDcode": "RCTD-064",
-    "title": "平然騎乗位対決",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-064"
-  },
-  {
-    "id": 454236,
-    "IDcode": "RCTD-065",
-    "title": "與Pitapan大屁股媽媽和兒子撕裂牛仔褲的亂倫挑戰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0e84b00693963767e065f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-065"
-  },
-  {
-    "id": 531913,
-    "IDcode": "RCTD-068",
-    "title": "母亲和儿子偷偷乱伦游戏 3",
+    "id": 139721,
+    "IDcode": "RIAKURUMI-COSPURI-0203",
+    "title": "RiaKurumi-cospuri-0203 20210511",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "COSPLAY",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/85700df46d87e46e3ccaf92c8f877595.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/eeade5d79863d77a8125d7c7a7d837c4.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-068"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0203"
   },
   {
-    "id": 211272,
-    "IDcode": "RCTD-070",
-    "title": "成人式",
+    "id": 139723,
+    "IDcode": "RIAKURUMI-COSPURI-0208",
+    "title": "RiaKurumi-cospuri-0208 20210508",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
+    "genres": [
+      "COSPLAY",
+      "素人"
     ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/27/cb7ac8bb2b2a1168a9022728d91ada7e.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/284126c8b8898f8705c62b91f63f9278.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-070"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0208"
   },
   {
-    "id": 211271,
-    "IDcode": "RCTD-071",
-    "title": "全裸攻城",
+    "id": 139735,
+    "IDcode": "RIAKURUMI-COSPURI-0211",
+    "title": "RiaKurumi-cospuri-0211 20210608",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
+    "genres": [
+      "COSPLAY",
+      "素人"
     ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/27/2c5238c2e54b84235e0a497678589964.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-071"
-  },
-  {
-    "id": 536027,
-    "IDcode": "RCTD-073",
-    "title": "妄想アイテム究极进化シリーズ 凭依チューバー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0211"
   },
   {
-    "id": 523464,
-    "IDcode": "RCTD-077",
-    "title": "波多野结衣- 波多野结衣のなめんなよ",
+    "id": 139741,
+    "IDcode": "RIAKURUMI-COSPURI-0216",
+    "title": "RiaKurumi-cospuri-0216 20210625",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0216"
+  },
+  {
+    "id": 139742,
+    "IDcode": "RIAKURUMI-COSPURI-0219",
+    "title": "RiaKurumi-cospuri-0219 20210706",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0219"
+  },
+  {
+    "id": 139743,
+    "IDcode": "RIAKURUMI-COSPURI-0224",
+    "title": "RiaKurumi-cospuri-0224 20210723",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0224"
+  },
+  {
+    "id": 139739,
+    "IDcode": "RIAKURUMI-COSPURI-0226",
+    "title": "RiaKurumi-cospuri-0226 20210730",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0226"
+  },
+  {
+    "id": 139736,
+    "IDcode": "RIAKURUMI-COSPURI-0227",
+    "title": "RiaKurumi-cospuri-0227 20210803",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0227"
+  },
+  {
+    "id": 139732,
+    "IDcode": "RIAKURUMI-COSPURI-0229",
+    "title": "RiaKurumi-cospuri-0229 20210810",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/b520b9bc8c85463e680a81c07b2fe762.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0229"
+  },
+  {
+    "id": 139749,
+    "IDcode": "RIAKURUMI-COSPURI-0232",
+    "title": "RiaKurumi-cospuri-0232 20210820",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0232"
+  },
+  {
+    "id": 139746,
+    "IDcode": "RIAKURUMI-COSPURI-0234",
+    "title": "RiaKurumi-cospuri-0234 20210827",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0234"
+  },
+  {
+    "id": 139748,
+    "IDcode": "RIAKURUMI-COSPURI-0235",
+    "title": "RiaKurumi-cospuri-0235 20210831",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/075d2f9eb66cd64aa56d452431628bdc.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0235"
+  },
+  {
+    "id": 139859,
+    "IDcode": "RIAKURUMI-COSPURI-0237",
+    "title": "RiaKurumi-cospuri-0237 20210907",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0237"
+  },
+  {
+    "id": 139747,
+    "IDcode": "RIAKURUMI-COSPURI-0240",
+    "title": "RiaKurumi-cospuri-0240 20210917",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0240"
+  },
+  {
+    "id": 139737,
+    "IDcode": "RIAKURUMI-COSPURI-0242",
+    "title": "RiaKurumi-cospuri-0242 20210924",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0242"
+  },
+  {
+    "id": 139864,
+    "IDcode": "RIAKURUMI-COSPURI-0243",
+    "title": "RiaKurumi-cospuri-0243 20210928",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0243"
+  },
+  {
+    "id": 139751,
+    "IDcode": "RIAKURUMI-COSPURI-0245",
+    "title": "RiaKurumi-cospuri-0245 20211005",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0245"
+  },
+  {
+    "id": 139863,
+    "IDcode": "RIAKURUMI-COSPURI-0248",
+    "title": "RiaKurumi-cospuri-0248 20211015",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0248"
+  },
+  {
+    "id": 139858,
+    "IDcode": "RIAKURUMI-COSPURI-0250",
+    "title": "RiaKurumi-cospuri-0250 20211022",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0250"
+  },
+  {
+    "id": 139752,
+    "IDcode": "RIAKURUMI-COSPURI-0251",
+    "title": "RiaKurumi-cospuri-0251 20211026",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0251"
+  },
+  {
+    "id": 139854,
+    "IDcode": "RIAKURUMI-COSPURI-0253",
+    "title": "RiaKurumi-cospuri-0253 20211102",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0253"
+  },
+  {
+    "id": 139750,
+    "IDcode": "RIAKURUMI-COSPURI-0256",
+    "title": "RiaKurumi-cospuri-0256 20211112",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0256"
+  },
+  {
+    "id": 139855,
+    "IDcode": "RIAKURUMI-COSPURI-0258",
+    "title": "RiaKurumi-cospuri-0258 20211119",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250629-19/523b6189cb0c7d9e59cb0ae5bdf20474.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0258"
+  },
+  {
+    "id": 139745,
+    "IDcode": "RIAKURUMI-COSPURI-0261",
+    "title": "RiaKurumi-cospuri-0261 20211130",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-COSPURI-0261"
+  },
+  {
+    "id": 139722,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-402",
+    "title": "RiaKurumi-fellatiojapan-402 20210403",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-402"
+  },
+  {
+    "id": 139707,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-407",
+    "title": "RiaKurumi-fellatioJapan-407 20210507",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-407"
+  },
+  {
+    "id": 139718,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-412",
+    "title": "RiaKurumi-fellatiojapan-412 20210612",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-412"
+  },
+  {
+    "id": 139734,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-417",
+    "title": "RiaKurumi-fellatiojapan-417 20210717",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-417"
+  },
+  {
+    "id": 139717,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-420",
+    "title": "RiaKurumi-fellatiojapan-420 20210807",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-420"
+  },
+  {
+    "id": 139729,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-424",
+    "title": "RiaKurumi-fellatiojapan-424 20210904",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-424"
+  },
+  {
+    "id": 139730,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-429",
+    "title": "RiaKurumi-fellatiojapan-429 20211009",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-429"
+  },
+  {
+    "id": 139711,
+    "IDcode": "RIAKURUMI-FELLATIOJAPAN-434",
+    "title": "RiaKurumi-fellatiojapan-434 20211113",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-FELLATIOJAPAN-434"
+  },
+  {
+    "id": 139731,
+    "IDcode": "RIAKURUMI-HANDJOBJAPAN-265",
+    "title": "RiaKurumi-handjobjapan-265",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250617/Fm2zRYqD/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-HANDJOBJAPAN-265"
+  },
+  {
+    "id": 139875,
+    "IDcode": "RIAKURUMI-LEGSJAPAN-1159",
+    "title": "RiaKurumi-legsjapan-1159 20211008",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-LEGSJAPAN-1159"
+  },
+  {
+    "id": 139724,
+    "IDcode": "RIAKURUMI-LEGSJAPAN-1163",
+    "title": "RiaKurumi-legsjapan-1163 20211022",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-LEGSJAPAN-1163"
+  },
+  {
+    "id": 139713,
+    "IDcode": "RIAKURUMI-SPERMMANIA-285",
+    "title": "RiaKurumi-spermmania-285 20210416",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-285"
+  },
+  {
+    "id": 139712,
+    "IDcode": "RIAKURUMI-SPERMMANIA-287",
+    "title": "RiaKurumi-Spermmania-287 20210430",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-287"
+  },
+  {
+    "id": 139708,
+    "IDcode": "RIAKURUMI-SPERMMANIA-298",
+    "title": "RiaKurumi-spermmania-298 20210716",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-298"
+  },
+  {
+    "id": 139704,
+    "IDcode": "RIAKURUMI-SPERMMANIA-301",
+    "title": "RiaKurumi-spermmania-301 20210806",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-301"
+  },
+  {
+    "id": 139705,
+    "IDcode": "RIAKURUMI-SPERMMANIA-305",
+    "title": "RiaKurumi-spermmania-305 20210903",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-305"
+  },
+  {
+    "id": 139714,
+    "IDcode": "RIAKURUMI-SPERMMANIA-308",
+    "title": "RiaKurumi-spermmania-308 20210924",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-308"
+  },
+  {
+    "id": 139716,
+    "IDcode": "RIAKURUMI-SPERMMANIA-311",
+    "title": "RiaKurumi-spermmania-311 20211015",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-311"
+  },
+  {
+    "id": 139706,
+    "IDcode": "RIAKURUMI-SPERMMANIA-314",
+    "title": "RiaKurumi-spermmania-314 20211105",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-314"
   }
 ];

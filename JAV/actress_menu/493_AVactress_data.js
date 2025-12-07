@@ -335,7 +335,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240116-1/2fea1a84b91af2fbe4359d4383df560d.jpg",
       "actress": [
@@ -465,7 +465,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/fb211b11005772fc353cac5969c681cc.jpg",
       "actress": [

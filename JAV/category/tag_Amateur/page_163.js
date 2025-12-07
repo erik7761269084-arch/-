@@ -1,80 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 576916,
-    "IDcode": "529STCV-349",
-    "title": "逆NTRで浮気chill！デカチンは女子の共有财产！？“彼氏くんお借りしてま～す♪”マグ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/Tpx5PSKd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-349"
-  },
-  {
-    "id": 576914,
-    "IDcode": "529STCV-350",
-    "title": "【抱拥力MAXのバスト100cmOVER爆乳IカップJDと円光性交】SEX大好きと豪语す",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/MwlebZCB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-350"
-  },
-  {
-    "id": 576920,
-    "IDcode": "529STCV-351",
-    "title": "【勉学とSEXに励むF乳美少女JDと円光性交】奨学金返済の为に円光に勤しむ文武両道の女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/iQnmymSS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-351"
-  },
-  {
-    "id": 537421,
-    "IDcode": "529STCV-352",
-    "title": "【お金で爱を买う推し活女子】推しのバンドに课金しまくる通称《推し活女子》。亲からの仕送りも底を尽きカラダを使",
+    "id": 576123,
+    "IDcode": "518BSKC-016",
+    "title": "教师ウケ抜群 正统派マジメ美少女 バイト禁止のお嬢様をマル秘サポート SEXにハマりすぎて超淫乱にな",
     "year": "",
     "country": "",
     "genre": "",
@@ -82,22 +10,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_529stcv-352.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230622/pb_e_518bskc-016.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-352"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-016"
   },
   {
-    "id": 576921,
-    "IDcode": "529STCV-353",
-    "title": "《YSPされた女【ゆき，23歳，新人社员】》会社にクレームを入れて対応に来た艶のある新人",
+    "id": 519179,
+    "IDcode": "518BSKC-018",
+    "title": "ガリガリ巨乳スレンダー 刚毛マンコから水没レベルの潮吹き！！エロすぎる敏感美少女に中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250823-1/4ec97ebf03a053e3467b93f352da8589.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-018"
+  },
+  {
+    "id": 519178,
+    "IDcode": "518BSKC-019",
+    "title": "チンポに兴味津々！ショートヘア童颜美少女 美ピンク乳首&真っ白スレンダーボディをビックビ",
     "year": "",
     "country": "",
     "genre": "",
@@ -105,22 +45,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/PgYtzmRu/1.jpg",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250823-1/666cb9bd24d12b1dadca63501d0737d7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-353"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-019"
   },
   {
-    "id": 576923,
-    "IDcode": "529STCV-354",
-    "title": "《YSPされた女【のあ，23歳，オフィスレディ】》モデルに憧れる女の子を骗してセクハラ撮",
+    "id": 576125,
+    "IDcode": "518BSKC-020",
+    "title": "モデル级美脚&美尻の高身长スレンダー ショートヘアの似合う美形ギャル SEX大好き",
     "year": "",
     "country": "",
     "genre": "",
@@ -128,22 +62,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/B7W50W36/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230625/pb_e_518bskc-020.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-354"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-020"
   },
   {
-    "id": 576922,
-    "IDcode": "529STCV-355",
-    "title": "真夏の 清纯美 が眩しいフレッシュビキニ美少女！美白乳＆桃尻の花盛りもぎたてBODY！パ",
+    "id": 576129,
+    "IDcode": "518BSKC-021",
+    "title": "Gcup黒髪清楚女子“え…？ここでするの？”お小遣い稼ぎにロリコン男のチンポ串刺し！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230629/pb_e_518bskc-021.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-021"
+  },
+  {
+    "id": 576128,
+    "IDcode": "518BSKC-022",
+    "title": "アニオタ美少女 清楚系ヒロインな不思议ちゃん アニメグッズ购入したくてお小遣いサポ募集中 #制服",
     "year": "",
     "country": "",
     "genre": "",
@@ -151,46 +97,52 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/p03RVGd5/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230629/pb_e_518bskc-022.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-355"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-022"
   },
   {
-    "id": 576924,
-    "IDcode": "529STCV-356",
-    "title": "酒饮んで潮吹いての大乱交4P祭！スタイル最强の阳キャJD2人とひと夏の子作りSEX！！奢",
+    "id": 576137,
+    "IDcode": "518BSKC-024",
+    "title": "现役ロリ天使 男子の间で有名なFcup帰宅部 未成熟ミルク色おっぱい&マ●コはお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱交"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/JdLnH8d7/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230704/pb_e_518bskc-024.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-356"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-024"
   },
   {
-    "id": 576927,
-    "IDcode": "529STCV-357",
-    "title": "超グラマラスBODY＆洗练された责めテクを披露してくれたヤリマン美女が结婚前の最后のお游",
+    "id": 576145,
+    "IDcode": "518BSKC-025",
+    "title": "【グラドル级最强おっぱい】Hcup童颜爆乳娘 先辈に仕込まれたジュポフェラで学费を贮めるGAL 开発済み",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230706/pb_e_518bskc-025.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-025"
+  },
+  {
+    "id": 576182,
+    "IDcode": "518BSKC-026",
+    "title": "【待って赤ちゃん出来ちゃうよ…】奇迹の超ミニマムろり娘。狭すぎて中は真空！",
     "year": "",
     "country": "",
     "genre": "",
@@ -198,46 +150,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/NoAAxvH7/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/pb_e_518bskc-026.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-357"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-026"
   },
   {
-    "id": 576925,
-    "IDcode": "529STCV-358",
-    "title": "长身美脚×巨乳の文句ナシ神スタイル！！耻じらいもお酒が入れば一変！性欲グングン上升でケダ",
+    "id": 576181,
+    "IDcode": "518BSKC-027",
+    "title": "【元・芸能事务所所属】生マンコGET！！！身长149cmのSSS级爆乳デカ尻おっぱい娘！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/TvwoOTIs/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/pb_e_518bskc-027.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-358"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=518BSKC-027"
   },
   {
-    "id": 505529,
-    "IDcode": "529STCV-359",
-    "title": "【立ちバック希望☆欲求不満なスタイル抜群美麗ギャル in 王子】早漏×短小×ワンパタ",
+    "id": 80547,
+    "IDcode": "520SSK-034",
+    "title": "禁止师生恋",
     "year": "",
     "country": "",
     "genre": "",
@@ -245,22 +185,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/4d3a8a940c1180068037e294e39eaed3.jpg",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/33fe76229ffc309d277e75aaecd0926d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-359"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-034"
   },
   {
-    "id": 576926,
-    "IDcode": "529STCV-360",
-    "title": "逆袭のカケコ！美少女フェイスを武器に男を翻弄！诈欺の架け子にさせて设けている激悪GAL！",
+    "id": 519864,
+    "IDcode": "520SSK-035",
+    "title": "神色荡妇",
     "year": "",
     "country": "",
     "genre": "",
@@ -268,46 +202,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/4o64fxHd/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/b75f911df2022d8b635fa22e4545e7bd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-360"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-035"
   },
   {
-    "id": 500900,
-    "IDcode": "529STCV-361",
-    "title": "脅威のH乳ギャルが完全イイナリ復讐FUCK！たわわなお乳で人の男を平気で奪う天然男た",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/8d5ba8346da2b825a457992f0c9698b2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-361"
-  },
-  {
-    "id": 576928,
-    "IDcode": "529STCV-362",
-    "title": "【盗撮】ガールズバー店员‘ももか’が常连客の家に行きSEXをしてしまう様子を盗撮。ねっと",
+    "id": 80294,
+    "IDcode": "520SSK-038",
+    "title": "处女刷批发",
     "year": "",
     "country": "",
     "genre": "",
@@ -315,22 +219,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/nCIkaMON/1.jpg",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/084208f77966bfd65bc76fe51d0f5aea.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-362"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-038"
   },
   {
-    "id": 576933,
-    "IDcode": "529STCV-363",
-    "title": "【引き缔まった腹筋美ボディがめっちゃエロぃアスリート女子と生SEX！！】见てくれと言わん",
+    "id": 73439,
+    "IDcode": "520SSK-069",
+    "title": "伊织",
     "year": "",
     "country": "",
     "genre": "",
@@ -338,22 +236,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/FTR5yI8G/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/927356aca0f74f581ca8f02f5aaca025.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-363"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-069"
   },
   {
-    "id": 576931,
-    "IDcode": "529STCV-364",
-    "title": "【合法ロリ体のプリ尻GAL，るみ(24)】金髪ちっぱいギャルと身长差生ハメ！！ヤリマンパ",
+    "id": 576108,
+    "IDcode": "520SSK-079",
+    "title": "ななみ",
     "year": "",
     "country": "",
     "genre": "",
@@ -361,46 +253,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/xrYmceZf/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230610/pb_e_520ssk-079.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-364"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-079"
   },
   {
-    "id": 500901,
-    "IDcode": "529STCV-365",
-    "title": "ぷるっぷるのH乳で釣ったチ●ポは500本以上！自称チョロマン…だけどキツマン！「中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/4e3ee15099256b6b69019ea6436af1fb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-365"
-  },
-  {
-    "id": 576930,
-    "IDcode": "529STCV-366",
-    "title": "【目隠しプレイが好きなチョイ痴女JDと円光性交】耻ずかしがりやで天然初心なところが可爱ら",
+    "id": 491647,
+    "IDcode": "520SSK-082",
+    "title": "なつ",
     "year": "",
     "country": "",
     "genre": "",
@@ -408,22 +270,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/SdLEG9UQ/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/840c093e90059adefdd0a133897ba308.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-366"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-082"
   },
   {
-    "id": 576935,
-    "IDcode": "529STCV-367",
-    "title": "【マスク越しにも分かる超絶美少女と円光性交】美系のオーラがパナイ激キャワ美少女がハメ撮り",
+    "id": 73413,
+    "IDcode": "520SSK-083",
+    "title": "みづき 2",
     "year": "",
     "country": "",
     "genre": "",
@@ -431,70 +287,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/w8pV1y16/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/1388d0804000f36326454e96b1235d60.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-367"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-083"
   },
   {
-    "id": 576929,
-    "IDcode": "529STCV-368",
-    "title": "【J●时代からP活＆爱人契约していた长身巨乳PJ】おじから毎月30万以上も贳っていたとい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/0jsWiYIz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-368"
-  },
-  {
-    "id": 576934,
-    "IDcode": "529STCV-369",
-    "title": "《YSPされた女【めぐみ，21歳，女子大生】》就活セミナーと称してウブなドM就活生を顶き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/Uni3u6o6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-369"
-  },
-  {
-    "id": 576932,
-    "IDcode": "529STCV-370",
-    "title": "《YSPされた女【あかね，？？歳，配送ドライバー】》仕事中のつなぎ女子を拉○って肉オナホ",
+    "id": 576565,
+    "IDcode": "520SSK-091",
+    "title": "【ブラコン姊とラブラブハメ撮り】スレンダーな激マブ美人お姊ちゃんがスゴテク责め技で弟君を翻弄→仕返し爱抚→ラブラブセックスで爱し合う！！発情しきった生ハメ交尾で生中出し！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -502,1339 +304,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/bWA1bv6D/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20221227/u2GUOH2l/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-370"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-091"
   },
   {
-    "id": 576938,
-    "IDcode": "529STCV-371",
-    "title": "规格外のドエロHcup妻再来！！相変わらずの肉感ボディ！！自慢の乳圧でチ●ポをパイズリ→",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/doKXfUfH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-371"
-  },
-  {
-    "id": 576945,
-    "IDcode": "529STCV-372",
-    "title": "神スタイルを水着で着饰る美巨乳女2人と4P乱交パーリー！！デカチンを爱おしそうに仲良くシ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/bymlEcFT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-372"
-  },
-  {
-    "id": 576941,
-    "IDcode": "529STCV-373",
-    "title": "ハニカミ笑颜の控えめ水着美女が性欲解放！！ビキニが映える美BODYがプールでビショビショ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/p6n6oDHe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-373"
-  },
-  {
-    "id": 576937,
-    "IDcode": "529STCV-374",
-    "title": "【8头身のスタイル神级GAL降临！！】ホス狂イチ可爱いスレンダーGALに复雠セックス！嫌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/xBBXyGQV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-374"
-  },
-  {
-    "id": 576939,
-    "IDcode": "529STCV-375",
-    "title": "【超絶美くびれ极スリムBODYの美人受付嬢が全部ヌク！】人间ドリンクバー开店！？体液フェ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/xtxVyjcs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-375"
-  },
-  {
-    "id": 576936,
-    "IDcode": "529STCV-376",
-    "title": "【盗撮】自宅连れ込んでお构いなしに不贞行为をする浮気现场を盗撮。彼女より自分の方が一枚上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/tWtaT0dL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-376"
-  },
-  {
-    "id": 576940,
-    "IDcode": "529STCV-377",
-    "title": "【毎日SEXが当たり前っ！？】エロ过ぎて経験人数が余裕で100人を超える絶伦美少女降临！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/Yfi5jOUM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-377"
-  },
-  {
-    "id": 576944,
-    "IDcode": "529STCV-378",
-    "title": "【超脚线美！美体が限界エビ反り！甘ロリ声で絶叫するあざカワ変态娘，もも(25)】SSS级",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/sBj8g3fP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-378"
-  },
-  {
-    "id": 576943,
-    "IDcode": "529STCV-379",
-    "title": "Jカップの超重量级おっぱいでチ●ポを抱く！パイズリは前戏なんかじゃない！地球上の全男を振",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/qhO0EKB6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-379"
-  },
-  {
-    "id": 576942,
-    "IDcode": "529STCV-380",
-    "title": "【経験3桁のエッチ大好き女子大生と円光性交】美脚スレンダーで抜群のプロポーションだけど、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/NqsJ419G/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-380"
-  },
-  {
-    "id": 576946,
-    "IDcode": "529STCV-381",
-    "title": "【ミスコンモデル级の神スタイル女子大生と円光性交】耻ずかしがり屋で华奢な感じが可爱いけど",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/G4arEI2l/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-381"
-  },
-  {
-    "id": 576947,
-    "IDcode": "529STCV-382",
-    "title": "【无类のイケメン好きちっぱい合法ロリニート】パパに赖めばなんでも手に入る世间知らずの金髪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/s0ikImAB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-382"
-  },
-  {
-    "id": 576948,
-    "IDcode": "529STCV-383",
-    "title": "《YSPされた女【えま，？？歳，英会话讲师】》色気駄々泄れ美人ハーフ讲师を拉○って拘束强",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/XSUfmg49/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-383"
-  },
-  {
-    "id": 576953,
-    "IDcode": "529STCV-384",
-    "title": "《YSPされた女【しょうこ，？？歳，主妇】》公园で见つけた乳张りママさんを押し挂け强制。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/sL4F3YCq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-384"
-  },
-  {
-    "id": 576949,
-    "IDcode": "529STCV-385",
-    "title": "プリップリの黒肌美尻ハイパーGALがチ●ポを求め再降临ッ！！SEXはご无沙汰と言いつつも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/UVlfXAzJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-385"
-  },
-  {
-    "id": 576950,
-    "IDcode": "529STCV-386",
-    "title": "超ド级WスプラッシュGirl！スタイル抜群G乳ビッチ×E乳ゆるふわ美少女×乱交ハロウィン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/wbViv05o/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-386"
-  },
-  {
-    "id": 576951,
-    "IDcode": "529STCV-387",
-    "title": "激震するGcup巨乳！垂涎モノの柔乳をブルルンッと弾力させ発情する猫娘、现るッ！おしっこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/CCrV7YqA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-387"
-  },
-  {
-    "id": 576954,
-    "IDcode": "529STCV-388",
-    "title": "どちゃエロWナースに榨り取られるッ！！ビジュ最强な発情盛りメス2人とハロウィンコスプレ4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/2NGM1ooQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-388"
-  },
-  {
-    "id": 576955,
-    "IDcode": "529STCV-389",
-    "title": "ほぼ全裸！？爆乳Hcupのメス猫♀グラドルが年に1度のハロウィンで性欲解放！！膣奥届くデ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/JVp1DAKK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-389"
-  },
-  {
-    "id": 576952,
-    "IDcode": "529STCV-390",
-    "title": "冲撃的な裸体！インパクト抜群のデカ乳むちむちBODYをお仕置きファック！デカちち巨尻をチ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/E9OdY4nS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-390"
-  },
-  {
-    "id": 486557,
-    "IDcode": "529STCV-392",
-    "title": "【他人の幸せがなによりの悦び！尽くし体質のウエディングプランナーが全部ヌク！】童貞ク",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/528b0e7712a1e762b2abeb0104a6534a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-392"
-  },
-  {
-    "id": 500894,
-    "IDcode": "529STCV-394",
-    "title": "若さも制服も弾ける美巨乳Gパイ女子が陰キャくんを筆下ろし痴ル！「エッチ、上手になろう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/c298503b75060170f2bd22a234f5b6dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-394"
-  },
-  {
-    "id": 576957,
-    "IDcode": "529STCV-396",
-    "title": "【ギャラ次第で股开くヤリマン白GAL】ギャラ饮みでヤりまくるものの性行为で感じた事もイっ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/TQ5sMeaP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-396"
-  },
-  {
-    "id": 576956,
-    "IDcode": "529STCV-397",
-    "title": "《YSPされた女【さくら，？？歳，ストリーマー】》エロ配信で荒稼ぎするシコボディ痴女を彻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/utFgeaW8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-397"
-  },
-  {
-    "id": 576961,
-    "IDcode": "529STCV-402",
-    "title": "【イジワルな小悪魔后辈JDが童贞チ●ポを全肯定…！！完全主観×甘あまイチャ褒めSEX】‘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/Ivw0UY3h/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-402"
-  },
-  {
-    "id": 500895,
-    "IDcode": "529STCV-439",
-    "title": "【超美体の鬼モテGAL！JDまり】スリム美巨乳なイケイケ彼女と真っ昼間からSEXデー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/f9b24f721a254a725a6d2f5a5403605a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-439"
-  },
-  {
-    "id": 518033,
-    "IDcode": "529STCV-444",
-    "title": "激稀有素人轉蛋搭訕！ 理惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-444"
-  },
-  {
-    "id": 576958,
-    "IDcode": "529STCV-472",
-    "title": "【圧巻のグラインド骑乘位で踊り果てるJDダンサーめあ】ダンス力をSEXで见せつける関西弁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/HNxm32eg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-472"
-  },
-  {
-    "id": 576960,
-    "IDcode": "529STCV-474",
-    "title": "【《完全主観×G乳グラドルと中出し撮影会》マシュマロBODYに钉付け！际どい水着で攻めて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/ZkCOlYf8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-474"
-  },
-  {
-    "id": 576959,
-    "IDcode": "529STCV-475",
-    "title": "【TGR】食べごろ·刚毛·レア#真実（刚毛）#长年付き合った彼氏と别れ伤心中の美巨乳スー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/tXguAO73/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-475"
-  },
-  {
-    "id": 576962,
-    "IDcode": "529STCV-476",
-    "title": "【GAR】グランクリュ·艶女（アデージョ）·レア#礼実（上品）#决まった男は作らず、色ん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/XUvklH9b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-476"
-  },
-  {
-    "id": 576963,
-    "IDcode": "529STCV-477",
-    "title": "【异国の艶感まとう美巨尻コンサル×巨根であへあへ♪彼氏専用マ●コに上书き射精SEX】。○",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/10SS1q7E/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-477"
-  },
-  {
-    "id": 543550,
-    "IDcode": "529STCV-478",
-    "title": "【萌声おじキラーJD×连続中出しレポート交尾】。○☆スケベ确定☆○。置いておいたオモチャ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/jZFWxK3b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-478"
-  },
-  {
-    "id": 543549,
-    "IDcode": "529STCV-484",
-    "title": "【《完全主観×セクシーすぎる女医のイキすぎた诊察》全身使って患者のザーメン榨り取り全肯定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/ywCZiBXV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-484"
-  },
-  {
-    "id": 543552,
-    "IDcode": "529STCV-487",
-    "title": "【天然G乳エステティシャン×周5でオナっても疼く発情マ●コを慰めSEX】。○☆スケベ确定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/nfZ4Bn4C/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-487"
-  },
-  {
-    "id": 543548,
-    "IDcode": "529STCV-489",
-    "title": "《YSPされた女【あすな#24歳#グラビアアイドル】》駆け出し爆乳グラドルをお金で钓って",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/NJQd5DZ4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-489"
-  },
-  {
-    "id": 543555,
-    "IDcode": "529STCV-490",
-    "title": "エッチな身体に宿ったビッチな精神で趣味と実益を兼ねた个撮モデルに挑戦！ハリ感抜群美巨乳×",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/HiIFh4JV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-490"
-  },
-  {
-    "id": 543551,
-    "IDcode": "529STCV-492",
-    "title": "【水着からこぼれる桃巨尻！エステティシャンあや】小悪魔カワいい清纯彼女とプールデート♪ビ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/HPk5grIe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-492"
-  },
-  {
-    "id": 543554,
-    "IDcode": "529STCV-493",
-    "title": "【《完全主観×全肯定》カノジョの姊のデカ乳に诱惑されて…♪】‘内绪にしとくから…###’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/FUA8wftZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-493"
-  },
-  {
-    "id": 543553,
-    "IDcode": "529STCV-494",
-    "title": "【SUMMER】ストロング·ウルトラ·めちゃんこ·水浸し·えちえちギャル·レア#モカ(ア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/KyR5638a/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-494"
-  },
-  {
-    "id": 543556,
-    "IDcode": "529STCV-495",
-    "title": "【CCR】サークル·クラッシャー·レア#ももか(大学生)#性に奔放なグラマラス女子を神引",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/uYURIJeW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-495"
-  },
-  {
-    "id": 543557,
-    "IDcode": "529STCV-496",
-    "title": "【巨乳メガネっ娘×小柄な美体を巨根で躾ける猛パコSEX】｡○☆スケベ确定☆○｡置いておい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/ITHpNe22/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-496"
-  },
-  {
-    "id": 543558,
-    "IDcode": "529STCV-498",
-    "title": "‘SEX楽しんでまぁ～す☆’Wデカパイ娘と乱痴気ナマぱこパーティタイム♪エグ过ぎる潮吹き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/ZgrWVzFX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-498"
-  },
-  {
-    "id": 543560,
-    "IDcode": "529STCV-499",
-    "title": "‘卒业しちゃったネ♪’大人しそうな见た目で童贞キラー！チェリー君のウブな反応におマ●コも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/S92d3KVZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-499"
-  },
-  {
-    "id": 543559,
-    "IDcode": "529STCV-500",
-    "title": "《YSPされた女【りさ#24歳#ホテルスタッフ】》无防备过ぎる美丽ホテルウーマンと勤务中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/HXF4rYdV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-500"
-  },
-  {
-    "id": 543565,
-    "IDcode": "529STCV-502",
-    "title": "弾けんばかりの爆乳で大サービス！甘え上手の责められ上手かと思いきや…精子を注入されたら痴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/XKgtzj19/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-502"
-  },
-  {
-    "id": 543563,
-    "IDcode": "529STCV-504",
-    "title": "【《完全主観×全肯定》巨乳で美尻な女友达の水着に完勃起…！！】‘他にも楽しい思い出、作っ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/oX2xNdA0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-504"
-  },
-  {
-    "id": 543561,
-    "IDcode": "529STCV-505",
-    "title": "【GSR】ギャルビッチ·シコパイ·レア#のぞみ(デザイナー)#颜も身体もバツグン！伤心中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/6gKWvdwG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-505"
-  },
-  {
-    "id": 543564,
-    "IDcode": "529STCV-509",
-    "title": "‘逆ナンはたまにしますよぅ♪’瑞々しい清楚な白ビキニ美女♪その正体はチ●ポ大喰らいの肉欲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/F5Q1WFCS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-509"
-  },
-  {
-    "id": 543562,
-    "IDcode": "529STCV-510",
-    "title": "究极シコぱい娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-510"
-  },
-  {
-    "id": 543566,
-    "IDcode": "529STCV-511",
-    "title": "最高フォルムギャル女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-511"
-  },
-  {
-    "id": 543568,
-    "IDcode": "529STCV-514",
-    "title": "マルチ商法女子大学生【りか、みなみ、みお、まい】～りか＆みなみ编～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-514"
-  },
-  {
-    "id": 543571,
-    "IDcode": "529STCV-517",
-    "title": "ママ友の连帯保证人になってしまった主妇(仮)みく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-517"
-  },
-  {
-    "id": 543567,
-    "IDcode": "529STCV-519",
-    "title": "尽くし系金髪ギャルうるは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-519"
-  },
-  {
-    "id": 543570,
-    "IDcode": "529STCV-521",
-    "title": "某大学ボウリングサークル【みさ、うた、なつ、こはる】～みさ＆うた编～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "素人CLOVER",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
-        "works_count": 344
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-521"
-  },
-  {
-    "id": 537937,
-    "IDcode": "530DG-097",
-    "title": "【产妇人科検诊】诊察に感じてしまう推定Gカップの美巨乳妻。“これって治疗ですか？？”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231220/pb_e_530dg-097.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-097"
-  },
-  {
-    "id": 537936,
-    "IDcode": "530DG-098",
-    "title": "【产妇人科検诊】医师の生中疗法！女性ホルモンバランスの乱れには精子を注入するのが一番效果的ですから、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231220/pb_e_530dg-098.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-098"
-  },
-  {
-    "id": 537935,
-    "IDcode": "530DG-099",
-    "title": "【产妇人科検诊】美人妻のアソコをくぱぁっとして触诊(手マン)潮吹き！！诊察台は水浸し！！",
+    "id": 576564,
+    "IDcode": "520SSK-092",
+    "title": "【人妻不伦温泉旅行】数年ぶりに会う元カノは美人になっていた…会えなかった期间を埋め合わせるように激しく求め合う発情ハメ撮りセックス！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1843,16 +322,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231220/pb_e_530dg-099.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20221227/MRmuHkZl/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-099"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-092"
   },
   {
-    "id": 537934,
-    "IDcode": "530DG-100",
-    "title": "【产妇人科検诊】スレンダー美白妻は超敏感絶叫！“ここは病院ですから、お静かにお愿いします！”",
+    "id": 576454,
+    "IDcode": "520SSK-095",
+    "title": "【加害者】【下克上】【理解らせ】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1860,16 +339,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231220/pb_e_530dg-100.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230113/KqmhrM77/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-100"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-095"
   },
   {
-    "id": 576725,
-    "IDcode": "530DG-153",
-    "title": "美女痉挛媚●逝去！射精后也无法平息的快乐！！最后，我要开始手淫了。",
+    "id": 576413,
+    "IDcode": "520SSK-096",
+    "title": "れな先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1877,16 +356,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221201/ORT0vocg/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230119/mHMfrd1y/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-096"
   },
   {
-    "id": 532630,
-    "IDcode": "530DG-161",
-    "title": "【猥亵诊察】色白美人の人妻に“皮肤を保护する●を涂っていきますからね、”といきなりク",
+    "id": 576350,
+    "IDcode": "520SSK-097",
+    "title": "【人妻不伦】【温泉旅行】【中出し2発】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1895,16 +374,653 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230129/TVCmpaKG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-097"
+  },
+  {
+    "id": 531021,
+    "IDcode": "520SSK-098",
+    "title": "【快楽渍け】【脳破壊】【完堕ち】第02集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-161"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-098"
   },
   {
-    "id": 532629,
-    "IDcode": "530DG-162",
-    "title": "【猥亵诊察】スタイル抜群の人妻に触诊と伪り执拗にGスポットを手マンで刺激！！！",
+    "id": 567144,
+    "IDcode": "520SSK-103",
+    "title": "【おじさん精子大好き】【小悪魔痴女】【连続榨精】污部屋に住まう中年おじさんを全身じゅる舐め！第02集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-103"
+  },
+  {
+    "id": 533122,
+    "IDcode": "520SSK-107",
+    "title": "【社内●●●】【巨乳OL】【デカチン即イキ】超パワハラ上司の性欲処理は巨乳部下のおま●こで。最初はイヤがってた割",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240402/pb_e_520ssk-107.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-107"
+  },
+  {
+    "id": 576876,
+    "IDcode": "520SSK-117",
+    "title": "【连続中出し】【ハメ撮り】【メスガキ诱惑】先生のことが大好きなガチ恋女子校生と甘々诱惑浮気",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/YeDUN2Na/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-117"
+  },
+  {
+    "id": 576883,
+    "IDcode": "520SSK-118",
+    "title": "【乳首イキ中毒】【ドM女】オフパコしたら集団でまわされちゃった最カワ女子校生ちゃん！弱すぎ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/9H2h2hOH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-118"
+  },
+  {
+    "id": 576877,
+    "IDcode": "520SSK-119",
+    "title": "モデル体型(仮称)Mちゃん自宅凸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/WOYZMEmo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-119"
+  },
+  {
+    "id": 576875,
+    "IDcode": "520SSK-120",
+    "title": "【ギャルロリビッチ】チ●ポ大好き淫乱メスガキ袭来！！デリなのに玄関で即ハメ！！ちっちゃな身",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/vNEejHJp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-120"
+  },
+  {
+    "id": 576878,
+    "IDcode": "520SSK-121",
+    "title": "ななみん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/d5YoKswZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-121"
+  },
+  {
+    "id": 576881,
+    "IDcode": "520SSK-122",
+    "title": "みのり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/ssCP49BJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-122"
+  },
+  {
+    "id": 576882,
+    "IDcode": "520SSK-123",
+    "title": "ゆうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/HGLarQDt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-123"
+  },
+  {
+    "id": 576884,
+    "IDcode": "520SSK-124",
+    "title": "ことにゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/FrjnquHj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-124"
+  },
+  {
+    "id": 576879,
+    "IDcode": "520SSK-125",
+    "title": "ななみん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/6Bou7QIC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-125"
+  },
+  {
+    "id": 576880,
+    "IDcode": "520SSK-126",
+    "title": "みのりさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250409/KWWaQgQN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-126"
+  },
+  {
+    "id": 543444,
+    "IDcode": "520SSK-127",
+    "title": "●害者Y",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/pmeJIsMB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-127"
+  },
+  {
+    "id": 543445,
+    "IDcode": "520SSK-128",
+    "title": "●害者K",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/TlHMjvWK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-128"
+  },
+  {
+    "id": 543446,
+    "IDcode": "520SSK-130",
+    "title": "【アイドルの卵】148cmのロリ巨乳…！！アイドルを目指すあやめちゃんとラブホで个人撮影…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/ARf9Di4L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-130"
+  },
+  {
+    "id": 543448,
+    "IDcode": "520SSK-131",
+    "title": "【メンエス嬢】【神テク】うぶな男を诱惑して快楽沼に堕とす魔性のサキュバス…巨乳おっぱい押し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/IEhoqP54/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-131"
+  },
+  {
+    "id": 543449,
+    "IDcode": "520SSK-132",
+    "title": "【トー横キッズ】【地雷系女子】爱情に饥えた家出少女は超ハイスペな塩対応パパ活女子。SNS円",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/BjG4gMOS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-132"
+  },
+  {
+    "id": 543453,
+    "IDcode": "520SSK-133",
+    "title": "#集団×× #性処理肉オナホ #●害者K",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/YkScYm26/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-133"
+  },
+  {
+    "id": 543447,
+    "IDcode": "520SSK-134",
+    "title": "【アイドルの卵】148cmのロリ巨乳…！！パパとママには絶対内绪…！キツキツパイパンミニま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/G1thzY0m/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-134"
+  },
+  {
+    "id": 543451,
+    "IDcode": "520SSK-135",
+    "title": "【メンエス嬢】【潮吹き】超淫乱な痴女メンエス嬢…店长に客との里オプ现场を押さえられたと思い",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/8lRyLznj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-135"
+  },
+  {
+    "id": 543452,
+    "IDcode": "520SSK-136",
+    "title": "【ハメ撮り】【地雷系女子】爱情に饥えた家出少女は巨根絶伦おじさんのガチ恋営业にドハマりする",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/ODeRHl2F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-136"
+  },
+  {
+    "id": 543450,
+    "IDcode": "520SSK-137",
+    "title": "●害者R",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250410/l0i0DlbB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-137"
+  },
+  {
+    "id": 543455,
+    "IDcode": "520SSK-146",
+    "title": "制服白ギャルビッチ卍淫乱痴女とハメ撮り生中セックス！！ りかぴ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/euzIxDlh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-146"
+  },
+  {
+    "id": 576885,
+    "IDcode": "520SSK-149",
+    "title": "【マゾメス女子校生】笑颜が可爱いツルマン女子と生中不纯异性交游 デカチンハードピストンでイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/dWLJbzUJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-149"
+  },
+  {
+    "id": 543454,
+    "IDcode": "520SSK-157",
+    "title": "【100cmオーバーのデカ尻メンエス嬢】神业ハンドテクで血流と感度爆上げ！！蛊惑的な微笑み",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/2hKENIr8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-157"
+  },
+  {
+    "id": 543459,
+    "IDcode": "520SSK-163",
+    "title": "【プライベートハメ撮り】性欲解放！！ミニ巨乳の美女とホテイン宅饮み！！イチャラブ爱抚で濡れ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/zNqUbjMo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=520SSK-163"
+  },
+  {
+    "id": 502744,
+    "IDcode": "521MGFX-071",
+    "title": "借金訳アリ巨乳妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-071"
+  },
+  {
+    "id": 576561,
+    "IDcode": "521MGFX-079",
+    "title": "パパ活女子 凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221228/JRxlJbgY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-079"
+  },
+  {
+    "id": 576412,
+    "IDcode": "521MGFX-084",
+    "title": "女子校生の処女アナル奸通映像",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230119/yUUNS46E/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-084"
+  },
+  {
+    "id": 532724,
+    "IDcode": "521MGFX-086",
+    "title": "地味巨乳のセフレ※流出※",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-086"
+  },
+  {
+    "id": 532802,
+    "IDcode": "521MGFX-087",
+    "title": "地味颜スタイル抜群巨乳素人娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230926/pb_e_521mgfx-087.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-087"
+  },
+  {
+    "id": 533032,
+    "IDcode": "521MGFX-092",
+    "title": "公务员ゆめ_Jカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240118/pb_e_521mgfx-092.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-092"
+  },
+  {
+    "id": 533121,
+    "IDcode": "521MGFX-095",
+    "title": "公务员ゆめ_Jカップ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-095"
+  },
+  {
+    "id": 543457,
+    "IDcode": "521MGFX-102",
+    "title": "Gカップのスタイル抜群な素人さんは名门女子大のお嬢様",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/BtX9gJOx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-102"
+  },
+  {
+    "id": 543462,
+    "IDcode": "521MGFX-103",
+    "title": "ワケあり全身タイツ女 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/i1DVYc3F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-103"
+  },
+  {
+    "id": 543456,
+    "IDcode": "521MGFX-104",
+    "title": "童颜だけど脱いだらすごいカフェ店员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/9tTDXiOT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-104"
+  },
+  {
+    "id": 543460,
+    "IDcode": "521MGFX-105",
+    "title": "Gカップのボーイッシュな人妻と年下男の不伦映像、流出",
     "year": "",
     "country": "",
     "genre": "",
@@ -1913,35 +1029,448 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230522/pb_e_530dg-162.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250411/UsRBsAOj/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-162"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-105"
   },
   {
-    "id": 532628,
-    "IDcode": "530DG-164",
-    "title": "【猥亵诊察】ショートカットの美巨乳美人妻に処方笺(精子)をお出しします。强●？？それってあなたの感想",
+    "id": 543461,
+    "IDcode": "521MGFX-106",
+    "title": "ワケあり全身タイツ女 静河 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/yLjJQDHF/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-106"
+  },
+  {
+    "id": 543458,
+    "IDcode": "521MGFX-107",
+    "title": "グラマーなシンガポールのお姊さんと。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250411/8EHepJq9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-107"
+  },
+  {
+    "id": 543463,
+    "IDcode": "521MGFX-108",
+    "title": "タイの日焼けあとが生々しい女の子と。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/F5EfaQB3/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-108"
+  },
+  {
+    "id": 543464,
+    "IDcode": "521MGFX-109",
+    "title": "Iカップのダンス好きな韩国娘と。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/xT1sjMI6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-109"
+  },
+  {
+    "id": 543468,
+    "IDcode": "521MGFX-111",
+    "title": "タイの褐色健康的乙女と。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/yN6dtr9b/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-111"
+  },
+  {
+    "id": 543465,
+    "IDcode": "521MGFX-115",
+    "title": "Hカップ着エロアイドルまゆちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/qk92ZtOH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-115"
+  },
+  {
+    "id": 520540,
+    "IDcode": "521MGFX-116",
+    "title": "女子校生ストーキング・ドキュメント 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-116"
+  },
+  {
+    "id": 543466,
+    "IDcode": "521MGFX-117",
+    "title": "刺青鬼ギャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/MJReJyUE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-117"
+  },
+  {
+    "id": 543469,
+    "IDcode": "521MGFX-118",
+    "title": "渔师の爆乳素人娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/8L5Zw5MI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-118"
+  },
+  {
+    "id": 543467,
+    "IDcode": "521MGFX-119",
+    "title": "东南アジア ミャオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/sbpa3fk1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-119"
+  },
+  {
+    "id": 511081,
+    "IDcode": "521MGFX-120",
+    "title": "カリスマ素人アイドル みぃ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/333ed0843cbf508a494f95cf820ad349.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-120"
+  },
+  {
+    "id": 543470,
+    "IDcode": "521MGFX-121",
+    "title": "日焼けの18歳 えり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250412/NJHneXme/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-121"
+  },
+  {
+    "id": 543471,
+    "IDcode": "521MGFX-124",
+    "title": "パイパン もか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/Thi0nk1A/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-124"
+  },
+  {
+    "id": 543473,
+    "IDcode": "521MGFX-127",
+    "title": "露出魔ギャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/tFWFT2Md/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-127"
+  },
+  {
+    "id": 543472,
+    "IDcode": "521MGFX-128",
+    "title": "Iカップ むっつり女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/B9Bkw2r7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-128"
+  },
+  {
+    "id": 495877,
+    "IDcode": "521MGFX-133",
+    "title": "ちび痴女 3Pするの巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/9847df01cef93b333413b20fd8e5ddc0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-133"
+  },
+  {
+    "id": 543475,
+    "IDcode": "521MGFX-134",
+    "title": "Iカップ むっつり女子 露出デート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/Kcfitl4R/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-134"
+  },
+  {
+    "id": 543474,
+    "IDcode": "521MGFX-137",
+    "title": "魔性の主妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/8tOBUDRE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-137"
+  },
+  {
+    "id": 543478,
+    "IDcode": "521MGFX-139",
+    "title": "爆乳ボーイッシュ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/IZzHgimF/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-139"
+  },
+  {
+    "id": 101679,
+    "IDcode": "521MGFX-142",
+    "title": "地味なクセに爆乳ちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-142"
+  },
+  {
+    "id": 543476,
+    "IDcode": "521MGFX-143",
+    "title": "ロー活女子の(秘)个撮流出します",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/EwoxFleu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-143"
+  },
+  {
+    "id": 543477,
+    "IDcode": "521MGFX-144",
+    "title": "ボンキュッボン！爆乳ギャル爆诞☆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250413/Xudalucb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-144"
+  },
+  {
+    "id": 517119,
+    "IDcode": "521MGFX-156",
+    "title": "美麗過頭&#039",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffd7907de28f4edeabbcc3/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-156"
+  },
+  {
+    "id": 517164,
+    "IDcode": "521MGFX-157",
+    "title": "神乳K罩杯人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0c9bd631cc64eb5b33812/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-157"
   },
   {
-    "id": 576337,
-    "IDcode": "530DG-165",
-    "title": "【実录】强制わいせつ映像 ＃01",
+    "id": 517229,
+    "IDcode": "521MGFX-177",
+    "title": "K罩杯主婦1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b41f7b5fdaf263a25c5b2b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-177"
+  },
+  {
+    "id": 517203,
+    "IDcode": "521MGFX-192",
+    "title": "一個淫蕩的女人翻白眼,瘋狂",
     "year": "",
     "country": "",
     "genre": "",
@@ -1949,16 +1478,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230130/pMa7SvWw/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8fd4b7f3b7c9290742f5c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=521MGFX-192"
   },
   {
-    "id": 576338,
-    "IDcode": "530DG-166",
-    "title": "【実录】强制わいせつ映像 ＃02",
+    "id": 532779,
+    "IDcode": "529SCBB-018",
+    "title": "005#エロフラグ、ギン立ちしました！_素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1966,16 +1495,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230130/exeBnuff/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230918/pb_e_529scbb-0181.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-166"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-018"
   },
   {
-    "id": 576336,
-    "IDcode": "530DG-167",
-    "title": "【実录】强制わいせつ映像 ＃03",
+    "id": 533009,
+    "IDcode": "529SCBB-021",
+    "title": "006#エロフラグ、ギン立ちしました！_素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1983,16 +1512,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230130/1kWedjUY/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240104/pb_e_529scbb-021.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-167"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-021"
   },
   {
-    "id": 576335,
-    "IDcode": "530DG-168",
-    "title": "【実录】强制わいせつ映像 ＃04",
+    "id": 543513,
+    "IDcode": "529SCBB-026",
+    "title": "006#ダーツナンパin Tokyo，素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2000,16 +1529,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230130/bsC6rHd4/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/sSx6vi7J/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-026"
   },
   {
-    "id": 532564,
-    "IDcode": "530DG-169",
-    "title": "＃露天风吕＃野外レ○プ ＃01",
+    "id": 543510,
+    "IDcode": "529SCBB-027",
+    "title": "007#エロフラグ、ギン立ちしました！，素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2017,16 +1546,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/va8v2xbX/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-027"
   },
   {
-    "id": 532563,
-    "IDcode": "530DG-170",
-    "title": "＃露天风吕＃野外レ○プ ＃02",
+    "id": 543514,
+    "IDcode": "529SCBB-028",
+    "title": "003#M男のち●こ全部ヌク大作戦！，素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2034,16 +1563,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/b9pGkmSD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-170"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-028"
   },
   {
-    "id": 532777,
-    "IDcode": "530DG-177",
-    "title": "夜行バス内强●5名＃01",
+    "id": 543509,
+    "IDcode": "529SCBB-029",
+    "title": "002#GALハメリベンジャーズ，素人CLOVERコンプリートベストッ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2051,16 +1580,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230918/pb_e_530dg-177.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/30dydwNc/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCBB-029"
   },
   {
-    "id": 532776,
-    "IDcode": "530DG-178",
-    "title": "夜行バス内强●5名＃02",
+    "id": 533008,
+    "IDcode": "529SCNN-004",
+    "title": "001#この快感！超エグちすぎっ！チ○ポから精子弾け飞ぶ！パイずりSEXバースト！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2068,16 +1597,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230918/pb_e_530dg-178.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240104/pb_e_529scnn-004.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCNN-004"
   },
   {
-    "id": 532775,
-    "IDcode": "530DG-179",
-    "title": "夜行バス内强●5名＃03",
+    "id": 543511,
+    "IDcode": "529SCNN-007",
+    "title": "ぬるるんっ！どろぉ…ねっばぁ～っ！シコすぎ注意！あんっ♪このぬるぬるッ癖になっちゃう♪ね",
     "year": "",
     "country": "",
     "genre": "",
@@ -2085,16 +1614,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230918/pb_e_530dg-179.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/BRfn7jCm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-179"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCNN-007"
   },
   {
-    "id": 543569,
-    "IDcode": "530DG-210",
-    "title": "JDテニス部合宿。风吕上がり色白の肌を晒してぐっすり、男は弄ぶように女を凌辱！やりたい放题。",
+    "id": 543512,
+    "IDcode": "529SCNN-008",
+    "title": "どぴゅ！びゅるるる！女子のアクメと同时に热々ザーメンを注ぐシンクロ絶顶ナマ中ラッシュ！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2102,16 +1631,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/tXDctJOJ/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/u3Jpf2mP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-210"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCNN-008"
   },
   {
-    "id": 543572,
-    "IDcode": "530DG-211",
-    "title": "J系では？？未○年臭がぷんぷんします。小柄でスレンダーな肢体。大きくはないが形の良い美乳！マ",
+    "id": 543515,
+    "IDcode": "529SCNN-019",
+    "title": "11人の手淫娘のチ○ポこねくりエッチを神厳选！手コキっクス！レボリューション！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2119,16 +1648,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/40MKRDgB/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/x07Ah5zQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529SCNN-019"
   },
   {
-    "id": 543574,
-    "IDcode": "530DG-212",
-    "title": "清楚なお嬢様。大学生とはいえ立派な成人女性！色気がムンムンしてくるイイ女！！まずは大股开きで",
+    "id": 538360,
+    "IDcode": "529STCV-004",
+    "title": "Yayoi (弥生みづき)",
     "year": "",
     "country": "",
     "genre": "",
@@ -2136,33 +1665,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/SStn1pV0/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240324/pb_e_529stcv-004.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-212"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-004"
   },
   {
-    "id": 543573,
-    "IDcode": "530DG-213",
-    "title": "美人JD！ナイススタイル！引き缔まった若い身体！！美しいです。そして刚毛ギャップがえ、えろい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/Oz2MBiAM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-213"
-  },
-  {
-    "id": 543576,
-    "IDcode": "530DG-214",
-    "title": "【盗撮】嫌がる人妻に●亵强要！某スーパー元店长の●行现场",
+    "id": 519834,
+    "IDcode": "529STCV-008",
+    "title": "170cm 8头美人妻度假赤羽猎杀雷曼！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2171,16 +1683,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/TGCZCJTs/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221025-1/d262e94257dba909036b396083ef4b0d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-008"
   },
   {
-    "id": 543575,
-    "IDcode": "530DG-215",
-    "title": "【投稿】地方の闭店したスーパーから见つかったマル秘映像",
+    "id": 519844,
+    "IDcode": "529STCV-009",
+    "title": "还吃过超大演员的热卖gal造型师是总裁夫人！敏感度 三星级模型 品味尽善尽美的完美身材！",
     "year": "",
     "country": "",
     "genre": "",
@@ -2188,10 +1700,27 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/Nq7FUgoF/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/cc865925ee78ab32f6dd3f5bd06002e9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=530DG-215"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-009"
+  },
+  {
+    "id": 519791,
+    "IDcode": "529STCV-012",
+    "title": "【纯真No.1】长得像少女~内容超凡枪男的Roribitchi J系列！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-012"
   }
 ];

@@ -1,234 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 550205,
-    "IDcode": "KAM-121",
-    "title": "“本当に童贞なの…？”家事代行のパートさんに童贞のフリして お愿いしまくり母性本能をくすぐる方向でなんだかんだ人妻とタダマンしまくっている鬼畜ヤリチンバイト君の盗撮NTR素材5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221225/xtHvsipz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-121"
-  },
-  {
-    "id": 534902,
-    "IDcode": "KAM-124",
-    "title": "夫の上司の昇进祝贺会で犯●れまくり NTR人妻ホームパーティー 巨乳嫁が酔ってドスケベ全开でヤリっぱなし 小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/58eapYrt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-124"
-  },
-  {
-    "id": 535391,
-    "IDcode": "KAM-127",
-    "title": "夫の上司の昇进祝いでヤラれっぱなし NTR人妻ホームパーティー 酔った巨乳嫁がエロエロ全开で犯●れまくり 宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240623/kam127pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-127"
-  },
-  {
-    "id": 87167,
-    "IDcode": "KAM-134",
-    "title": "夫の上司の昇進祝賀会でセクハラされまくり NTR人妻ホームパーティー 酔った巨乳尻の嫁が犯●れてイキまくり 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "已婚妇女",
-      "白天出轨",
-      "淫妻",
-      "纪录片",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "2023-06-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230713-1/e8ca5e15999ed9ec0bfb06d475c39d27.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-134"
-  },
-  {
-    "id": 563649,
-    "IDcode": "KAM-144",
-    "title": "旦那の上司の昇进祝いで犯されまくり NTR人妻ホームパーティー 酔った美乳尻嫁がドスケベ全开で乱れまくり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230818/CaYSOZ9b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-144"
-  },
-  {
-    "id": 563082,
-    "IDcode": "KAM-149",
-    "title": "夫の上司の昇进祝いでヤラれっぱなし NTR人妻ホームパーティー 美巨尻嫁が酔っ払ってドスケベ全开",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231014/VIUN6Xov/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-149"
-  },
-  {
-    "id": 562818,
-    "IDcode": "KAM-160",
-    "title": "夫の上司の昇进祝贺会でヤラれまくる NTR人妻ホームパーティー 酔った美巨乳尻妻がドスケベ全开で",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231119/qcRYyoBn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-160"
-  },
-  {
-    "id": 562629,
-    "IDcode": "KAM-166",
-    "title": "旦那の上司の昇进祝いの宴会でヤラれまくる NTR人妻ホームパーティー 美人妻が酔っ払ってドスケベ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231217/YdCzglGJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-166"
-  },
-  {
-    "id": 562321,
-    "IDcode": "KAM-171",
-    "title": "夫の上司の昇进祝贺会でヤラれまくり NTR人妻ホームパーティー 巨乳尻嫁が酔っ払って乱れまくってエロ全开",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/9fP54VVV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-171"
-  },
-  {
     "id": 561817,
     "IDcode": "KAM-177",
     "title": "夫の上司の昇进祝贺会でセクハラされまくり NTR人妻ホームパーティー 美人巨乳尻の嫁が酔ってドス",
@@ -237,17 +8,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240218/TUCKfAvV/1.jpg",
     "actress": [],
@@ -265,13 +30,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240416/JMx1JooZ/1.jpg",
     "actress": [],
@@ -286,17 +45,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240521/aBxTdtGO/1.jpg",
     "actress": [],
@@ -314,13 +67,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240617/iexw5GLb/1.jpg",
     "actress": [],
@@ -334,43 +81,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "老頭子",
-      "多P",
       "凌辱",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "性騷擾",
-      "淫亂",
       "蠻橫嬌羞",
-      "淫妻",
+      "老頭子",
+      "亂交 • 群P",
+      "人妻",
       "下屬女友・妻子",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
       "中出",
-      "絕頂高潮",
-      "輪姦",
-      "聚會・PARTY",
       "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "性騷擾",
+      "色白",
+      "羞恥",
+      "形象俱樂部",
+      "輪姦",
+      "美乳",
+      "口交",
+      "巨乳",
       "乳交",
-      "劇情"
+      "胸控・戀乳癖",
+      "多P",
+      "性感",
+      "NTR",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240713/f97bd482-196f-4880-9a43-94c8179c0330.jpg",
     "actress": [
@@ -386,46 +127,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "媚藥・迷藥",
       "豐滿",
-      "強姦",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "淫妻",
       "出軌",
-      "中出",
       "蕩婦",
-      "後入",
-      "劇情",
+      "亂交 • 群P",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "酒醉",
-      "輪姦",
-      "上司女友・妻子",
-      "迷姦",
-      "乳交",
+      "劇情",
+      "強姦",
       "酒後亂性",
+      "媚藥・迷藥",
+      "騎乗位",
+      "羞恥",
+      "輪姦",
+      "美乳",
+      "迷姦",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "上司女友・妻子",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2cf695f13d063bcdebb08/cover.jpg",
     "actress": [
@@ -442,17 +177,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/09/d8d06f1ffcc9b850515f99cdaf19bedb.jpg",
     "actress": [],
@@ -466,18 +195,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/56302a62871afe2feac66b0e2f1f8a64.jpg",
     "actress": [],
@@ -491,50 +214,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "媚藥・迷藥",
       "豐滿",
       "凌辱",
-      "胖女人",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
+      "蕩婦",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "美人妻",
+      "人妻",
+      "下屬女友・妻子",
       "大乳暈",
       "兩男一女",
-      "NTR",
-      "人妻",
       "淫亂",
       "淫妻",
-      "猥褻穿著",
-      "下屬女友・妻子",
       "中出",
-      "蕩婦",
-      "後入",
       "酒醉",
+      "猥褻穿著",
+      "胖女人",
+      "按摩棒",
       "絕頂高潮",
-      "輪姦",
-      "聚會・PARTY",
-      "乳交",
       "酒後亂性",
-      "女上位",
+      "美人妻",
+      "媚藥・迷藥",
       "騎乗位",
-      "情趣內衣"
+      "輪姦",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "2024-11-19",
     "cover_url": "https://picture.yoshiclub.xyz/20241117/e1daea95-05cd-44d0-9961-05548689de31.jpg",
     "actress": [
@@ -550,23 +267,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "已婚妇女",
-      "胖女人",
-      "淫妻",
-      "中出",
       "巨乳",
+      "已婚妇女",
+      "淫妻",
+      "单体作品",
+      "中出",
+      "胖女人",
       "滥交",
-      "单体作品"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/e4363574/vod.jpg",
     "actress": [
@@ -583,55 +294,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "網襪",
-      "辣妹/GAL系",
       "凌辱",
-      "同事女友・妻子",
-      "在丈夫面前被操",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "大乳暈",
-      "潮吹",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "野性",
-      "淫妻",
-      "猥褻穿著",
-      "下屬女友・妻子",
       "出軌",
-      "中出",
+      "美腳",
+      "同事女友・妻子",
+      "網襪",
       "蕩婦",
-      "美人",
-      "後入",
+      "野性",
+      "人妻",
+      "下屬女友・妻子",
+      "大乳暈",
+      "淫妻",
+      "中出",
+      "猥褻穿著",
       "紀錄片",
       "劇情",
-      "絕頂高潮",
-      "聚會・PARTY",
-      "手指插入",
-      "乳交",
       "家庭主妇",
-      "女上位",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "飯店",
+      "美人妻",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "熟女",
+      "大奶头",
+      "在丈夫面前被操",
+      "性感",
+      "NTR",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/20/a3e98e4a/vod.jpg",
     "actress": [
@@ -647,58 +352,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
       "多P",
-      "口爆",
-      "慾求不滿",
-      "OL",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "明星臉",
-      "淫亂",
-      "淫妻",
-      "中出",
       "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
+      "口爆",
       "美臀",
-      "劇情",
-      "絕頂高潮",
-      "聚會・PARTY",
+      "亂交 • 群P",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "顔面騎乘",
       "舔腳",
-      "乳交",
       "御姐系",
-      "女上位",
+      "接吻",
+      "劇情",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "女同事",
+      "美人妻",
+      "手指插入",
+      "艷遇",
       "騎乗位",
-      "女同事"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "顔面騎乘",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P",
+      "聚會・PARTY"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250801-1/25bf2e7148d7ba84c6543d97e87babd6.jpg",
     "actress": [
@@ -714,23 +413,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
+      "巨乳",
       "已婚妇女",
       "淫妻",
-      "中出",
+      "单体作品",
       "纪录片",
-      "巨乳",
-      "单体作品"
+      "中出",
+      "淫乱，真实",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-1/1d5bb6fe9cac1864b93315885c61954b.jpg",
     "actress": [
@@ -746,54 +439,48 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "小隻馬",
-      "巨尻",
-      "慾求不滿",
       "豐滿",
-      "偷拍・盜撮",
       "凌辱",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "寢取",
-      "巨乳",
-      "兒媳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
+      "小隻馬",
+      "美臀",
       "單體作品",
+      "野性",
       "NTR",
       "人妻",
-      "美人妻",
-      "公公",
-      "野性",
-      "超爆乳",
       "淫妻",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
+      "奇聞趣事",
       "舔陰",
+      "中出",
+      "自宅",
+      "劇情",
+      "絕頂高潮",
+      "美人妻",
       "手指插入",
-      "自慰",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "兒媳",
+      "超爆乳",
+      "美乳",
+      "美人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "偷拍・盜撮",
+      "公公",
       "乳交",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "寢取",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710041747750750_70193_thumbnail.webp",
     "actress": [
@@ -809,60 +496,54 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "老頭子",
-      "巨尻",
-      "口爆",
       "豐滿",
-      "港區女子",
-      "偷拍・盜撮",
-      "辣妹/GAL系",
-      "痴漢",
-      "父親",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "寢取",
-      "變態",
-      "巨乳",
-      "兒媳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "NTR",
-      "公公",
-      "野性",
-      "淫亂",
-      "淫妻",
-      "四十路",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "手指插入",
-      "膚黑",
-      "自慰",
-      "乳交",
+      "老頭子",
       "脅迫做愛",
+      "口爆",
+      "單體作品",
+      "野性",
+      "NTR",
+      "膚黑",
+      "淫妻",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "舔陰",
       "御姐系",
+      "自宅",
+      "四十路",
+      "父親",
+      "劇情",
       "家庭主妇",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "港區女子",
+      "變態",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "兒媳",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "偷拍・盜撮",
+      "公公",
+      "乳交",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "寢取",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022135510510_51905_thumbnail.webp",
     "actress": [
@@ -878,18 +559,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "卍GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_卍GROUP",
-        "works_count": 951
-      }
-    ],
+    "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -907,7 +582,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/d039b6f9ede25292fa574f2269b233e1.jpg",
     "actress": [],
@@ -924,7 +599,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/imgjl/gz5liukn1o0.jpg",
     "actress": [],
@@ -939,28 +614,22 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "舔陰",
-      "NTR",
       "泡泡浴店",
-      "淫妻",
       "溫泉",
-      "偷竊",
+      "淫妻",
+      "舔陰",
       "出軌",
+      "偷竊",
       "旅行",
       "中出",
       "口交",
-      "劇情",
+      "模特兒",
       "SM",
-      "模特兒"
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "2023-11-02",
     "cover_url": "https://picture.yoshiclub.xyz/20231103/58f7312b-cccf-4c1e-92ca-db47793e784f.jpg",
     "actress": [
@@ -976,76 +645,70 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "3P・4P",
-      "AV拍攝現場",
-      "巨尻",
-      "游戲COSPLAY",
-      "口爆",
-      "慾求不滿",
-      "兔女郎妝扮",
-      "真實拍攝",
-      "港區女子",
-      "綠茶婊",
-      "苗條",
-      "辦公室",
       "肉絲",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
+      "真實拍攝",
       "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "接吻",
       "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
       "蠻橫嬌羞",
-      "淫妻",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
+      "美腳",
+      "兔女郎妝扮",
+      "口爆",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "清純",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
+      "極品美人",
       "拜金女",
+      "辦公室",
+      "接吻",
+      "COSPLAY服飾",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "白絲",
       "無毛",
-      "乳交",
-      "高跟鞋",
+      "港區女子",
+      "色白",
+      "苗條",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "女優",
       "黑絲",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "綠茶婊",
+      "AV拍攝現場",
+      "大奶头",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "蚊香社",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
-        "works_count": 1652
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140226467777_83514_thumbnail.webp",
     "actress": [
@@ -1063,20 +726,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
-      "NTR",
-      "温泉",
-      "已婚妇女",
-      "4小时以上作品",
-      "偷窥",
-      "白天出轨",
-      "淫妻",
       "精选，综合",
+      "已婚妇女",
+      "淫妻",
+      "白天出轨",
+      "偷窥",
       "洗澡",
-      "颜射"
+      "4小时以上作品",
+      "颜射",
+      "温泉",
+      "NTR",
+      "和服，丧服"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1097,16 +760,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "戏剧",
-      "多P",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
-      "乱交"
+      "乱交",
+      "多P",
+      "戏剧",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-09-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/eeedf3a49e24f78ab59b4b6fa264b489.jpg",
     "actress": [],
@@ -1120,13 +783,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "NTR",
       "成熟的女人",
-      "淫妻"
+      "NTR",
+      "淫妻",
+      "多P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0ea339564f04106eff02057ab8c3ce4a.jpg",
     "actress": [
@@ -1142,67 +805,61 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "艷遇",
-      "小隻馬",
-      "巨尻",
-      "多P",
-      "美人妻",
-      "慾求不滿",
-      "口爆",
       "豐滿",
-      "飯店",
-      "綠茶婊",
-      "苗條",
-      "流汗",
       "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "約炮",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "超爆乳",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
       "不倫",
-      "舔陰",
-      "手指插入",
       "高妹",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔陰",
+      "極品美人",
+      "接吻",
+      "劇情",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
       "無毛",
-      "乳交",
       "偷竊",
+      "高顏值",
+      "飯店",
+      "苗條",
+      "美人妻",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "流汗",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "約炮",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "多P",
+      "大奶头",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac95155337d7f7be48ed9/cover.jpg",
     "actress": [
@@ -1222,7 +879,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/ada9704b5f1fee663bc38776cfd3f8ae.jpg",
     "actress": [],
@@ -1239,7 +896,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240908-1/f8700f236ba75f5a99964bd91ba66bd7.jpg",
     "actress": [],
@@ -1254,12 +911,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d60455337d7f7bbc24e3/cover.jpg",
     "actress": [],
@@ -1273,19 +930,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "人妻",
-      "NTR",
-      "玩具",
       "已婚妇女",
-      "白天出轨",
+      "玩具",
       "淫妻",
+      "潮吹",
       "中文字幕",
       "中出",
-      "素人作品"
+      "素人作品",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1f7a3e40169c46e928fdc307b4f71a5d.jpg",
     "actress": [],
@@ -1299,19 +956,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "素人",
-      "白天出轨",
-      "淫妻",
-      "猎艳",
+      "精选，综合",
       "业余",
+      "巨乳",
+      "淫妻",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合"
+      "猎艳",
+      "NTR",
+      "素人",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/136f58949fa765a676a5f5fe02290dd3.jpg",
     "actress": [],
@@ -1329,7 +986,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://le.lefhao20250923.top/upload/vod/20250408-1/9e89e2d2c9771f4598111dd311c6202a.jpg",
     "actress": [],
@@ -1346,13 +1003,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1366,22 +1017,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "成熟的女人",
+      "口交",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
       "中出",
-      "成熟的女人",
-      "口交"
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2a70949cdf790a95b0e4157163d4ae0c.jpg",
     "actress": [
@@ -1401,13 +1046,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230722/84Ekezrm/1.jpg",
     "actress": [],
@@ -1424,13 +1063,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/6AnJyCF1/1.jpg",
     "actress": [],
@@ -1445,21 +1078,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "玩具",
+      "单体作品",
       "已婚妇女",
-      "平胸",
       "淫妻",
+      "玩具",
       "中出",
-      "单体作品"
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1475,41 +1102,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "慾求不滿",
-      "同事女友・妻子",
-      "美腳",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "淫妻",
       "出軌",
-      "中出",
+      "美腳",
+      "同事女友・妻子",
       "蕩婦",
-      "後入",
-      "美腿",
       "美臀",
-      "劇情",
+      "人妻",
+      "淫妻",
+      "淫亂",
+      "中出",
       "美少女電影",
+      "劇情",
+      "勾引・誘惑",
+      "色白",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240915/34126c8f-ebd0-41e3-8efe-f338e75a0e8c.jpg",
     "actress": [
@@ -1529,13 +1150,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1553,13 +1168,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "KSB企畫",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KSB企畫",
-        "works_count": 285
-      }
-    ],
+    "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1576,13 +1185,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231130/g5IaOkFL/1.jpg",
     "actress": [],
@@ -1599,13 +1202,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230722/5SoSQchQ/1.jpg",
     "actress": [],
@@ -1622,13 +1219,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200927-1/3cf5b9dcc955de731f1e1f45db141ff3.jpg",
     "actress": [],
@@ -1645,13 +1236,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "K-Tribe",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240710/hcO78R50/1.jpg",
     "actress": [],
@@ -1668,13 +1253,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "K-Tribe",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240816/h3R0EIjR/1.jpg",
     "actress": [],
@@ -1691,13 +1270,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "K-Tribe",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/559392bd4afb72d50d79c70db2899c4a.jpg",
     "actress": [],
@@ -1711,38 +1284,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "小隻馬",
-      "慾求不滿",
-      "素人作品",
-      "偷拍・盜撮",
-      "自宅",
-      "寢取",
-      "口交",
-      "NTR",
-      "淫亂",
-      "地味",
-      "淫妻",
       "出軌",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
-      "不倫",
+      "小隻馬",
+      "淫妻",
       "舔陰",
+      "淫亂",
+      "自宅",
+      "劇情",
+      "寢取",
+      "女友・妻子",
+      "地味",
+      "企畫",
+      "素人作品",
       "手指插入",
+      "騎乗位",
+      "美人",
       "素人",
+      "口交",
+      "偷拍・盜撮",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "後入",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "三和軟體",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_三和軟體",
-        "works_count": 6
-      }
-    ],
+    "company": "三和軟體",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235629548548_67443_thumbnail.webp",
     "actress": [],
@@ -1756,11 +1323,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "淫妻"
+      "淫妻",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1774,52 +1341,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "若妻",
-      "慾求不滿",
-      "苗條",
+      "蠻橫嬌羞",
+      "前女友",
+      "出軌",
       "美腳",
       "癡女",
-      "探親",
-      "胸控・戀乳癖",
-      "鄉下",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
       "人妻",
-      "NTR",
-      "美人妻",
-      "短髮",
-      "地味",
-      "蠻橫嬌羞",
       "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
       "舔陰",
-      "脚控・戀足癖",
+      "中出",
+      "劇情",
+      "探親",
+      "絕頂高潮",
+      "地味",
+      "苗條",
+      "美人妻",
+      "若妻",
       "手指插入",
-      "前女友",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "短髮",
+      "美乳",
+      "鄉下",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
       "乳交",
       "女上位",
+      "胸控・戀乳癖",
       "偷窺",
-      "騎乗位"
+      "後入",
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUCY’S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUCY_S",
-        "works_count": 19
-      }
-    ],
+    "company": "LUCY’S",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/15/6825e7ae130ac02b587f2713/cover.jpg",
     "actress": [
@@ -1838,13 +1399,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241027/lj7h7kif/1.jpg",
     "actress": [],
@@ -1858,22 +1413,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "巨乳",
       "已婚妇女",
       "淫妻",
-      "白天出轨",
+      "单体作品",
       "中出",
-      "巨乳",
-      "单体作品"
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1892,7 +1441,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231218/1605974618-lzbs065pl.jpg!320x216.jpg",
     "actress": [],
@@ -1901,7 +1450,7 @@ window.PAGE_DATA = [
   {
     "id": 590268,
     "IDcode": "LZDM-010",
-    "title": "[]NTR蕾丝边干炮 ～妻子被恶女寝取了～ 桐嶋莉乃 清城雪",
+    "title": "NTR蕾丝边干炮 ～妻子被恶女寝取了～ 桐嶋莉乃 清城雪",
     "year": "",
     "country": "",
     "genre": "",
@@ -1910,7 +1459,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221005-1/0760b58e9e77e2b4bcc21727a4bb4cf9.jpg",
     "actress": [],
@@ -1924,17 +1473,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "偷窥",
-      "已婚妇女",
-      "女同接吻",
-      "白天出轨",
-      "淫妻",
       "巨乳",
-      "女同性恋"
+      "已婚妇女",
+      "淫妻",
+      "偷窥",
+      "女同性恋",
+      "女同接吻",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-07-19",
     "cover_url": "http://15.155250922.com/upload/vod/20220927/lzdm00018pl.jpg",
     "actress": [
@@ -1954,7 +1503,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1969,11 +1518,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "乱伦",
-      "淫妻"
+      "淫妻",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1990,7 +1539,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2007,7 +1556,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/42060_cover_2025-07-06_034252.jpg",
     "actress": [],
@@ -2025,7 +1574,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/11/99915_cover_2025-06-11_081116.jpg",
     "actress": [],
@@ -2040,11 +1589,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250302-1/cf9c5a1514da6bbee79cde691adbc46e.jpg",
     "actress": [],
@@ -2058,44 +1607,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "性感睡衣",
       "真實拍攝",
-      "素人作品",
-      "4K",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "寢取",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
       "高清画质",
+      "亂交 • 群P",
+      "NTR",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "劇情",
+      "按摩棒",
+      "明星臉",
+      "色白",
+      "高顏值",
+      "企畫",
+      "素人作品",
+      "美人妻",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "性感睡衣",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
       "乳交",
+      "4K",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "寢取",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/ff09b9e05c352085a303b35c698934d9.jpg",
     "actress": [
@@ -2111,42 +1660,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "苗條",
-      "OL",
-      "癡女",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "NTR",
-      "高顏值",
-      "淫妻",
       "出軌",
-      "中出",
       "蕩婦",
       "姐姐・妹妹",
       "美臀",
-      "劇情",
-      "不倫",
-      "顏射",
-      "絕頂高潮",
+      "癡女",
+      "淫妻",
       "舔陰",
-      "自慰",
-      "乳交",
+      "中出",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "顏射",
       "黑絲",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "OL",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241111/cba4f9ee-d7ce-4d65-9498-a947ef97cdaa.jpg",
     "actress": [
@@ -2162,51 +1705,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "色白",
-      "美乳",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "NTR",
-      "淫亂",
-      "淫妻",
       "出軌",
-      "中出",
+      "美腳",
       "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
+      "口爆",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "不倫",
+      "癡女",
+      "淫妻",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
-      "乳交",
-      "69",
+      "接吻",
+      "美少女",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "色白",
+      "苗條",
+      "顏射",
       "黑絲",
-      "足交",
+      "69",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "足交",
+      "後入",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250120/7e940509-d248-4b04-94ae-381f7c981962.jpg",
     "actress": [
@@ -2222,63 +1759,57 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "泳裝",
-      "口爆",
-      "綠茶婊",
-      "苗條",
-      "鄰居",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "眼鏡",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "口交",
-      "女友姐姐",
-      "巨乳",
-      "心機婊",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "深喉",
-      "高顏值",
-      "內衣",
-      "淫妻",
       "蠻橫嬌羞",
+      "主觀視角",
       "出軌",
-      "中出",
+      "美腳",
       "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
-      "顏射",
-      "絕頂高潮",
-      "不倫",
+      "口爆",
+      "深喉",
+      "癡女",
+      "人妻",
+      "眼鏡",
+      "淫妻",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "自慰",
-      "無毛",
+      "鄰居",
+      "中出",
       "舔腳",
-      "乳交",
-      "69",
+      "接吻",
+      "女友姐姐",
+      "按摩棒",
+      "絕頂高潮",
+      "白絲",
+      "無毛",
       "偷竊",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "美人妻",
+      "顏射",
+      "69",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "綠茶婊",
+      "後入",
+      "NTR",
+      "不倫",
+      "心機婊"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/20250223061959542542.jpg",
     "actress": [
@@ -2294,68 +1825,62 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "泳裝",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "港區女子",
-      "完全着衣",
-      "綠茶婊",
-      "苗條",
-      "鄰居",
-      "4K",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
       "清楚系",
+      "美腳",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "人妻",
+      "淫妻",
+      "舔陰",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "御姐系",
+      "自宅",
+      "劇情",
+      "完全着衣",
+      "抹油",
+      "性感",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "無毛",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "跳蛋",
-      "形象俱樂部",
+      "慾求不滿",
       "潮吹",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "淫亂",
-      "超爆乳",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "不倫",
-      "抹油",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "自慰",
-      "無毛",
       "乳交",
-      "御姐系",
-      "黑絲",
+      "4K",
+      "清純",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "後入",
+      "濕身",
+      "跳蛋",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524000337805805_thumbnail.webp",
     "actress": [
@@ -2371,45 +1896,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "打手槍",
-      "口爆",
-      "苗條",
-      "4K",
+      "高清画质",
       "美腳",
+      "口爆",
+      "美臀",
+      "單體作品",
       "癡女",
-      "胸控・戀乳癖",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "劇情",
+      "打手槍",
+      "無毛",
       "色白",
-      "巨乳",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "美人",
+      "泳裝",
       "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
       "性感",
       "跳蛋",
-      "單體作品",
-      "NTR",
-      "超爆乳",
-      "淫妻",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "高清画质",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103902758758_62624_thumbnail.webp",
     "actress": [
@@ -2425,53 +1944,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "打手槍",
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
       "豐滿",
-      "綠茶婊",
+      "蠻橫嬌羞",
+      "口爆",
       "臀控",
-      "鄰居",
-      "4K",
+      "美臀",
+      "單體作品",
       "癡女",
-      "胸控・戀乳癖",
+      "淫妻",
+      "舔陰",
+      "鄰居",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "打手槍",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
       "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "後入",
       "性感",
       "跳蛋",
-      "形象俱樂部",
-      "單體作品",
-      "NTR",
-      "蠻橫嬌羞",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "美臀",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21de7fbe7fd63de7f7201/cover.jpg",
     "actress": [
@@ -2488,27 +2001,21 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "NTR",
-      "学校泳装",
-      "出轨",
-      "乳液",
-      "自慰",
-      "白天出轨",
+      "巨乳",
       "淫妻",
       "乳交",
       "中出",
-      "巨乳",
+      "自慰",
       "女上位",
-      "颜射"
+      "学校泳装",
+      "乳液",
+      "颜射",
+      "出轨",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2524,18 +2031,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2552,7 +2053,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic31.anzise.com/pic/20220706/434b6189bf4106bcf617ff6f5af1a7ed/1.jpg",
     "actress": [],
@@ -2570,13 +2071,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "MBM",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c0da243d697271691d9cc/cover.jpg",
     "actress": [],
@@ -2594,7 +2089,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fe0977dd88d14f0655c643/poster2.jpg",
     "actress": [],
@@ -2608,54 +2103,48 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "若妻",
-      "精選總編集",
-      "美人妻",
-      "慾求不滿",
-      "4小時以上作品",
-      "美腳",
-      "癡女",
       "精選綜合",
-      "羞恥",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "NTR",
-      "深喉",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
       "蠻橫嬌羞",
-      "淫妻",
-      "中出",
+      "美腳",
       "蕩婦",
-      "後入",
-      "美腿",
-      "顏射",
-      "絕頂高潮",
-      "手指插入",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
       "家庭主妇",
+      "按摩棒",
+      "明星臉",
+      "絕頂高潮",
+      "色白",
+      "高顏值",
+      "顏射",
+      "美人妻",
+      "若妻",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "4小時以上作品",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "2025-02-18",
     "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214131226776776.jpg",
     "actress": [],
@@ -2669,17 +2158,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2694,17 +2177,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/iqFLdIz8.jpg",
     "actress": [],
@@ -2719,22 +2196,16 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "淫妻",
-      "中出",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "淫妻",
+      "单体作品",
+      "中出",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2753,13 +2224,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250821/5NIPUGxC/1.jpg",
     "actress": [],
@@ -2773,22 +2238,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "荡妇",
-      "白天出轨",
+      "巨乳",
       "淫妻",
       "中出",
-      "巨乳",
-      "女上位"
+      "女上位",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "K.M.P",
     "publish_date": "2022-09-13",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/e36c303118889e2d629250e6a08ffc29.jpg",
     "actress": [
@@ -2809,7 +2268,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfad28eb67774efbaba2ac/cover.jpg",
     "actress": [],
@@ -2827,7 +2286,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d745dddd88d14f060c5227/cover.jpg",
     "actress": [],
@@ -2845,7 +2304,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e3af68bf45974ea61533c8/cover.jpg",
     "actress": [],
@@ -2862,7 +2321,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2880,13 +2339,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2900,22 +2353,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "淫妻",
+      "中出",
       "女教师",
-      "中出"
+      "出轨",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2932,22 +2379,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "凌辱",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
+      "中出",
       "女教师",
-      "中出"
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2967,13 +2408,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250522/htCfORyY/1.jpg",
     "actress": [],
@@ -2990,13 +2425,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -3010,23 +2439,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "淫妻",
-      "新娘，年轻妻子",
-      "无码破解",
-      "白天出轨",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "淫妻",
+      "无码破解",
+      "中出",
+      "苗条",
+      "新娘，年轻妻子",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3042,22 +2465,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "巨乳",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
-      "女教师",
       "中出",
-      "巨乳"
+      "女教师",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -3077,13 +2494,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d493876657937c7978e4ce94c4dffca5.jpg",
     "actress": [],
@@ -3097,21 +2508,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "白天出轨",
-      "中出",
       "巨乳",
+      "淫妻",
+      "中出",
       "轮奸",
-      "滥交"
+      "滥交",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3ea4c58d2c0e8b104e4c71da704234ea.jpg",
     "actress": [
@@ -3132,13 +2537,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6786532a5d57b64bfd93fbf2/cover.jpg",
     "actress": [],
@@ -3156,16 +2555,202 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678656465d57b64bfd9470dd/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-478"
+  },
+  {
+    "id": 595343,
+    "IDcode": "MEYD-480",
+    "title": "爱する夫の目の前で孕ませ追撃ピストンに子宫堕ちした巨乳妻 美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/ZHxmFgKi.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-480"
+  },
+  {
+    "id": 87935,
+    "IDcode": "MEYD-484",
+    "title": "在同学会人妻东凛和前男友给老公戴绿帽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "淫妻",
+      "苗条",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230822-1/4f52c8d9658cb609d689e0dae2f2c608.jpg",
+    "actress": [
+      "小田切ジュン",
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-484"
+  },
+  {
+    "id": 206294,
+    "IDcode": "MEYD-491",
+    "title": "墙那边的NTR-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-491"
+  },
+  {
+    "id": 104679,
+    "IDcode": "MEYD-514",
+    "title": "交换我们的爱妻来互相内射体验不一样的性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "淫妻",
+      "中出",
+      "滥交",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e4ea2f9a2e9b1d4643a97/cover.jpg",
+    "actress": [
+      "黑川堇",
+      "イセドン内村",
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-514"
+  },
+  {
+    "id": 209721,
+    "IDcode": "MEYD-608",
+    "title": "女教師NTR-ジューン・ラブジョイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-608"
+  },
+  {
+    "id": 156820,
+    "IDcode": "MEYD-631",
+    "title": "爱妻交换上司後辈与他们的妻子因他人肉棒燃烧交代制中出4日间的纪录风间由美本真由梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/719cce5a4e13ae5ee94cafd1f49f122a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-631"
+  },
+  {
+    "id": 69152,
+    "IDcode": "MEYD-634",
+    "title": "忘年会NTR-久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "淫妻",
+      "中出",
+      "戏剧",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/24/68812a14f0620ff98b2eecfe/cover.jpg",
+    "actress": [
+      "久留木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-634"
+  },
+  {
+    "id": 88080,
+    "IDcode": "MEYD-640",
+    "title": "忘年会NTR-松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "淫妻",
+      "中出",
+      "苗条",
+      "戏剧",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/02d47e64ef1fcda2b9a1114e46d37068.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-640"
+  },
+  {
+    "id": 162956,
+    "IDcode": "MEYD-659",
+    "title": "大嫌いなボクのチ×ポに跨り避妊具無し中出し気高い人妻を媚薬キメセクNTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "溜池",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250716/Paj55KlY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-659"
   }
 ];

@@ -47,7 +47,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "NEXT",
       "publish_date": "2025-06-20",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622045922929929_thumbnail.webp",
       "actress": [

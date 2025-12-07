@@ -1,266 +1,311 @@
 window.PAGE_DATA = [
   {
-    "id": 412567,
-    "IDcode": "MKD-248",
-    "title": "アンコールにお応えしてというよりどうしても複数プレイがしたくて",
+    "id": 563715,
+    "IDcode": "MOGI-097",
+    "title": "【撮影2回目】乃●坂にいそうな美少女ちゃんと再会。ドMでオシに弱い大学院生を一日中ずーっとおマ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250816-1/2213e09bec48a02f5f9086a7270f2df4.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230812/Im046eiw/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-248"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-097"
   },
   {
-    "id": 457372,
-    "IDcode": "MKD-249",
-    "title": "五十路で初撮り全国のソープランド店渡り鳥性の天使快楽の女王がAVデビュー！",
+    "id": 563564,
+    "IDcode": "MOGI-098",
+    "title": "【初撮り】【中出し了承】クールでおとなしめの美容部员さん。制服脱いだら超美白スレンダーボディ。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250816-1/77dfb41eb9d0276fd6d124b8f093bf14.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230827/6JuTRIMm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-249"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-098"
   },
   {
-    "id": 67344,
-    "IDcode": "MKD-250",
-    "title": "五十路になりました 牧本千幸",
+    "id": 468355,
+    "IDcode": "MOGI-099",
+    "title": "與喜歡無套的女大生再會、猥褻開車約會。野外露出與汽車、按摩浴缸抽插做愛。 莉亞 19歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a202d2cf22ae3e04a81649/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-099"
+  },
+  {
+    "id": 563562,
+    "IDcode": "MOGI-100",
+    "title": "【初撮り】シャイなのに感度エグいジャ○オタ専门学生。ガチど早漏の敏感体质にデカチン激ピス！失神",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230827/dqZ6T7qp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-100"
+  },
+  {
+    "id": 106516,
+    "IDcode": "MOGI-102",
+    "title": "喜欢被干的鲍鱼里面流出浓厚的精子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "中出",
+      "第一人称摄影",
+      "女大学生",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-1/8f8346ab475d162e7b227b0f2e939669.jpg",
+    "actress": [
+      "佐々木ひな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-102"
+  },
+  {
+    "id": 563126,
+    "IDcode": "MOGI-105",
+    "title": "【初撮り】欲求不満なスタイル抜群の长身スレンダー都内アパレル店员。 职场を抜け出してイケないこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231010/rvLKl5ls/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-105"
+  },
+  {
+    "id": 579385,
+    "IDcode": "MOGI-106",
+    "title": "【初撮り】川崎で动くギャルネイリスト 见た目によらずにドM！しかもAVヲタク！？憧れの男优チ○ポにテンション爆上げ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230920/GbP0DMTq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-106"
+  },
+  {
+    "id": 100937,
+    "IDcode": "MOGI-107",
+    "title": "想要刺激的现役沙龙店员-富久永妮娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
       "首次亮相",
+      "纪录片",
       "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "多P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/12/68220196197cffa350001fcc/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-1/c0e0efce57cfcd17fc1e812b890abe4c.jpg",
     "actress": [
-      "つかもと友希"
+      "冨久永にいな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-250"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-107"
   },
   {
-    "id": 438947,
-    "IDcode": "MKD-251",
-    "title": "五十路熟女人妻初尝禁果！笑容下深藏多年的饥渴爆发，AV处女秀激情上演！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250624-1/d0a49c84d8c9645c1153e8903614133a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-251"
-  },
-  {
-    "id": 519374,
-    "IDcode": "MKD-252",
-    "title": "五十路で初撮り AVの男优さんとどうしてもヤリたかった！真性Mの五十路妻がAVデビュー！",
+    "id": 563376,
+    "IDcode": "MOGI-108",
+    "title": "【初撮り】性欲が强い接骨院の受付嬢 职场を抜け出してイケないことしてみたい ピンク乳轮のGカッ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/eMIX1Mk0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230920/w4PoyZvF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-252"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-108"
   },
   {
-    "id": 519375,
-    "IDcode": "MKD-253",
-    "title": "五十路で初撮り えげつないほど潮を吹いて 品の良さそうな淑女がAVデビュー！",
+    "id": 547817,
+    "IDcode": "MOGI-110",
+    "title": "【初撮り】好奇心旺盛な美容师 职场を抜け出してイケないことしてみたい 良く笑い人懐っこい性格",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/jq1BlQqP/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231004/BiCpQ5w3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-253"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-110"
   },
   {
-    "id": 61229,
-    "IDcode": "MKD-254",
-    "title": "五十路で初撮り 夫と子供を持つ ごく普通の五十路の主婦がAVデビューで初潮吹き！ 片桐梓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "已婚妇女",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-2/aedd2a83d1e8e942952b8a7de67551fd.jpg",
-    "actress": [
-      "片桐梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-254"
-  },
-  {
-    "id": 174005,
-    "IDcode": "MKD-255",
-    "title": "五十路で初撮り 数年振りのSEXに燃える！ 童顔のエロ尻五十路がAVデビュー！ 浅倉愛生",
+    "id": 547560,
+    "IDcode": "MOGI-111",
+    "title": "【初撮り】现役2年目看护师が仕事を抜け出して平日アポでさくっとAV 撮影 噛まれながらされると",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231101/CcTLc3Fr/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-255"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-111"
   },
   {
-    "id": 59444,
-    "IDcode": "MKD-S11",
-    "title": "强制爱液-西山希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫荡手淫",
-      "美女",
-      "立即口交",
-      "跳",
-      "雪白皮肤",
-      "中出",
-      "背后插入",
-      "写真",
-      "美乳",
-      "淋浴沐浴",
-      "口爆/吞精",
-      "口交",
-      "骑乘位",
-      "美脚",
-      "无套内射"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/1b3ba00721f185dc6fd25725c086ce52.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-S11"
-  },
-  {
-    "id": 58978,
-    "IDcode": "MKD-S139",
-    "title": "派遣女仆家政妇-白石真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "漂亮屁股",
-      "女佣",
-      "骑乘位",
-      "无套内射",
-      "立即口交",
-      "口交",
-      "口爆/吞精",
-      "知名女优",
-      "店长推荐",
-      "车站性交",
-      "背部骑乘位",
-      "巨乳爆乳",
-      "雪白皮肤",
-      "中出",
-      "写真",
-      "站立性交",
-      "角色扮演",
-      "乳交",
-      "跳",
-      "背后插入",
-      "美女"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/05c929511a9fb94ee5f7f791054294c4.jpg",
-    "actress": [
-      "繪戀空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-S139"
-  },
-  {
-    "id": 59514,
-    "IDcode": "MKD-S41",
-    "title": "KIRARI 41 ～堕ちてゆく女弁護士～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "束缚",
-      "淫荡手淫",
-      "渔网裤袜",
-      "美女",
-      "立即口交",
-      "跳",
-      "雪白皮肤",
-      "中出",
-      "写真",
-      "美乳",
-      "太太",
-      "口交",
-      "口爆/吞精",
-      "骑乘位",
-      "美穴",
-      "美脚",
-      "无套内射"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/cde530ce6a3780e5ad234141f3ca336b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-S41"
-  },
-  {
-    "id": 544417,
-    "IDcode": "MKD00184",
-    "title": "五十路で初撮り 金森なつみ new",
+    "id": 547562,
+    "IDcode": "MOGI-112",
+    "title": "【初撮り】耻じらいながらもHに兴味津々な名古屋在住の现役女子大生。 SEXに兴味津々で自らAV",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://pic20.anzise.com/pic/20220331/6c6ff9ddfb279a13d54d219cfb68fd57/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231101/oUpmiWJ2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD00184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-112"
   },
   {
-    "id": 524302,
-    "IDcode": "MKD00193",
-    "title": "mkd00193 小麦色の肌に真っ白い巨乳 小田原の美人 サーファーがAVデビュー 仓田宏美",
+    "id": 547492,
+    "IDcode": "MOGI-113",
+    "title": "【初撮り】感度MAXな名器持ちの居酒屋スタッフ。 客ウケ抜群の爱娇スマイルですらっとモデル体型",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231108/LWb6Gu6G/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-113"
+  },
+  {
+    "id": 471415,
+    "IDcode": "MOGI-114",
+    "title": "【初撮り】某WEBマガジンの美人ライター 露出癖あり野ションまでしちゃう逸材 拘束プレイに興味がありいつか自分で企画・監督したAVを作ってみたい野望をもつ変態系文学女子 あかり 22歳 涉谷晶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa65cac813dc779d963a8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-114"
+  },
+  {
+    "id": 547407,
+    "IDcode": "MOGI-115",
+    "title": "【初撮り】隠れ美乳の地味メガネ理系大学院生。真面目で地味なメガネ女子と空きコマでアポ取ってその",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231116/xrCumKGN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-115"
+  },
+  {
+    "id": 510662,
+    "IDcode": "MOGI-116",
+    "title": "【初撮り】営業成績が優秀な生保レディ身長170cmロケットIカップのどすけべボディ過去",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/34bb2f592ff7fb5ffca818a7febfcd25.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-116"
+  },
+  {
+    "id": 547234,
+    "IDcode": "MOGI-117",
+    "title": "【初撮り】プロレスファンの美人WEBデザイナー 筋トレが趣味で男性のタイプももちろん巨根マッチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/jDkHGCPA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-117"
+  },
+  {
+    "id": 544148,
+    "IDcode": "MOGI-118",
+    "title": "デカ尻Fカップの恵体持ちな现役保育士。マッチョな男性を见るためにスポーツジムに通い中の筋肉フェ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250829/duEN0K39/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-118"
+  },
+  {
+    "id": 547157,
+    "IDcode": "MOGI-119",
+    "title": "【初撮り】家族想いの美人薬学生 现在彼氏ナシ経験人数少なめ 流行りのマッチングアプリには手を出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231216/PBtsgjmy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-119"
+  },
+  {
+    "id": 547118,
+    "IDcode": "MOGI-120",
+    "title": "【初撮り】スケベすぎるフェロモンIカップ専门学生 凶暴すぎる爆乳と爱娇たっぷり大口の笑颜で男性",
     "year": "",
     "country": "",
     "genre": "",
@@ -268,1213 +313,776 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240606-1/c05319a302d7ad56646ff293aaae2485.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231221/EIwo5jFC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD00193"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-120"
   },
   {
-    "id": 521137,
-    "IDcode": "MKD247",
-    "title": "豪宅熟妇七木弓香欲火焚身下海拍片！饥渴难耐靠AV泄欲",
+    "id": 562566,
+    "IDcode": "MOGI-121",
+    "title": "【初撮り】现役ダンサーの肉食系カフェ店员 溢れんばかりのフェロモンと人懐っこくチャーミングな笑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231228/A84WyJE5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD247"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-121"
   },
   {
-    "id": 517492,
-    "IDcode": "MKD251",
-    "title": "五十路熟女人妻初尝禁果！笑容下深藏多年",
+    "id": 562409,
+    "IDcode": "MOGI-122",
+    "title": "【初撮り】就活を机に上京してきたボイストレーナー 声楽科出身の彼女は“実は、责められるのが好き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240110/u5qHLw3p/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-122"
+  },
+  {
+    "id": 16845,
+    "IDcode": "MOGI-123",
+    "title": "想當AV的咖啡廳店員，回答開朗，笑容溫柔，身高165cm，擁有修長E罩杯身材，喜歡玩玩具。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/05/6868c5ae3ed39b57c077c913/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD251"
-  },
-  {
-    "id": 154593,
-    "IDcode": "MKI-001",
-    "title": "奇闻趣事HRio与大乳房妹妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250413-1/f86ac41a107792b824506c5ef3463b88.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKI-001"
-  },
-  {
-    "id": 154592,
-    "IDcode": "MKI-002",
-    "title": "色情有趣和可爱奇闻趣事HAoi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250413-1/cfcf007d1b1c5a031f35e42fce1a74df.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKI-002"
-  },
-  {
-    "id": 154591,
-    "IDcode": "MKI-003",
-    "title": "强度逐渐增加的奇闻趣事HKou",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250413-1/d6402cbc4dd236fbb33b73170725c50d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKI-003"
-  },
-  {
-    "id": 154608,
-    "IDcode": "MKI-004",
-    "title": "与身著制服的美少女长期交往的奇闻趣事HKanon",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250414-1/877056a1478db3c2240e0356cc3b58f1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKI-004"
-  },
-  {
-    "id": 188864,
-    "IDcode": "MKMP-011",
-    "title": "双重梦想-桜井あゆ 友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/24/fcca9f0e7b3744cb3f38054302820770.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-011"
-  },
-  {
-    "id": 469802,
-    "IDcode": "MKMP-013",
-    "title": "少妻催眠調教 ～人妻在老公前被肏～ 友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d835acd6fbef4e90cca990/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-013"
-  },
-  {
-    "id": 92357,
-    "IDcode": "MKMP-020",
-    "title": "卡哇伊cosplay-綾波ゆめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女佣",
-      "艺人",
-      "制服",
+      "口交",
       "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250320-1/53f7394b576a3fc15d7e6e1c19e6bae4.jpg",
-    "actress": [
-      "绫波ゆめ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-020"
-  },
-  {
-    "id": 216911,
-    "IDcode": "MKMP-023",
-    "title": "一个大阴茎立即插入-星美りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/3970bd72236068613483b42a1ccbad18.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-023"
-  },
-  {
-    "id": 209385,
-    "IDcode": "MKMP-025",
-    "title": "潜入捜査官 水嶋杏樹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/23/QQ2020062317402697ee2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-025"
-  },
-  {
-    "id": 517543,
-    "IDcode": "MKMP-029",
-    "title": "野砲打10發 佐倉絆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914f37a46d2372859bc00f4/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-029"
-  },
-  {
-    "id": 35358,
-    "IDcode": "MKMP-030",
-    "title": "绝对痴女用淫语不断诱惑-樱井步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "流汗",
+      "乳交",
       "中出",
       "女上位",
-      "单体作品"
+      "手指插入",
+      "騎乗位",
+      "後入",
+      "素人",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/1b71ad01017f7445ea457d61ad6b4662.jpg",
-    "actress": [
-      "樱井步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-030"
+    "company": "SOD",
+    "publish_date": "2024-02-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240109/202401090227427575.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-123"
   },
   {
-    "id": 226241,
-    "IDcode": "MKMP-040",
-    "title": "最有人气的AV作品-友田彩也香",
+    "id": 546786,
+    "IDcode": "MOGI-124",
+    "title": "【初撮り】AVに出なそうなパン职人 シャイな小动物系ロリフェイス Cカップスレンダーボディに乘",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/8d2d23fe150a06251e24d382d13dfa3f.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240118/LF2XbRAW/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-124"
   },
   {
-    "id": 35441,
-    "IDcode": "MKMP-042",
-    "title": "紧缚大小姐-樱井步",
+    "id": 562084,
+    "IDcode": "MOGI-125",
+    "title": "【初撮り】エロくびれ尻な関西弁ダンス讲师 ヤバすぎる腰振り骑乘位…清楚に见えてチ〇ポ挿入で肉食",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240125/5bEg4D2F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-125"
+  },
+  {
+    "id": 561905,
+    "IDcode": "MOGI-126",
+    "title": "【初撮り】肉じゃがとカレーが得意料理のホテルスタッフ 女优并みルックスのスレンダーCカップ美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240208/PxRZUwZW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-126"
+  },
+  {
+    "id": 546075,
+    "IDcode": "MOGI-127",
+    "title": "【初撮り】福祉を学ぶ现役女子大3年生 切れ长の瞳と色白美肌のほどよい肉付きDカップ美女 経験人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240314/SyS6Unuz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-127"
+  },
+  {
+    "id": 546184,
+    "IDcode": "MOGI-128",
+    "title": "【初撮り】 AV志愿のガールズバースタッフと出勤前に 162cm スレンダーボディとちっぱいB",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240307/3T0y01zG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-128"
+  },
+  {
+    "id": 15946,
+    "IDcode": "MOGI-129",
+    "title": "【第一炮】G罩杯美女巨乳曲線家庭餐廳店員擁有從衣服上無法想象的絕美身材喜歡微醉性愛，性欲旺盛時就摸自己的身體， 20歲，喜歡看素人AV",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "捆绑",
-      "调教",
-      "大小姐"
+      "國產",
+      "3P・4P",
+      "巨乳",
+      "兩男一女",
+      "淫亂",
+      "企畫",
+      "美少女電影",
+      "抹油",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/13/d6982dba3be9a971c31b39bcd499f667.jpg",
-    "actress": [
-      "小田切ジュン",
-      "樱井步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-042"
-  },
-  {
-    "id": 517631,
-    "IDcode": "MKMP-060",
-    "title": "凱旋回家鄉幹砲 星美梨香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/690677d771eb543bb0dfb149/poster2.jpg",
+    "company": "SOD",
+    "publish_date": "2024-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240319/1fcf68e7-2708-4dce-b594-a3bcb10fbe97.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-129"
   },
   {
-    "id": 530579,
-    "IDcode": "MKMP-088",
-    "title": "强中出巴士性骚扰樱花伤无 - 佐仓绊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/b2420dd08f5455db7912726c2eb71117.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-088"
-  },
-  {
-    "id": 218224,
-    "IDcode": "MKMP-089",
-    "title": "热爱阴茎的妹妹-星美りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e002ca5d8b4871b8fe70a05311dca917.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-089"
-  },
-  {
-    "id": 517718,
-    "IDcode": "MKMP-090",
-    "title": "淫亂售後性服務1日店長 友田彩也",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9a3cd6fbef4e90091a4a/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-090"
-  },
-  {
-    "id": 538843,
-    "IDcode": "MKMP-098",
-    "title": "河北春菜- 新人AVデビュー 河北はるな ～都内某キャバクラ店で2年连続场内指名No.1のはるなちゃんが星",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/OwwJ5xZ7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-098"
-  },
-  {
-    "id": 538895,
-    "IDcode": "MKMP-101",
-    "title": "河北春菜- ピタコス☆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250830/8NqLwrjr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-101"
-  },
-  {
-    "id": 517691,
-    "IDcode": "MKMP-102",
-    "title": "出道兩年來泳池青姦幹砲 佐倉絆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe83b2dd88d14f0656ad01/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-102"
-  },
-  {
-    "id": 537012,
-    "IDcode": "MKMP-109",
-    "title": "河北春菜- もしも河北はるなが仆の彼女だったら…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/uVILqKcS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-109"
-  },
-  {
-    "id": 467669,
-    "IDcode": "MKMP-110",
-    "title": "緊縛調教記錄 友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9940c4e7d663df4047bd7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-110"
-  },
-  {
-    "id": 218197,
-    "IDcode": "MKMP-115",
-    "title": "专业的女仆-星美りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/6cbcfaa91492a8009cb82a23629ed9a7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-115"
-  },
-  {
-    "id": 537011,
-    "IDcode": "MKMP-116",
-    "title": "河北春菜- 超絶快感尽くしの回春マッサージ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/liaD1fCk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-116"
-  },
-  {
-    "id": 590884,
-    "IDcode": "MKMP-120",
-    "title": "突撃！！友田彩也香の自宅に访问して紧急撮影 无茶ぶりエロ指令10（ミッションテン）をクリアせよ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230605-1/fa3b14e9eda7cc0e86cc310969ad263c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-120"
-  },
-  {
-    "id": 216922,
-    "IDcode": "MKMP-121",
-    "title": "女肉便器-星美りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/a92369603b1a6c17a9974db1508f5337.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-121"
-  },
-  {
-    "id": 538897,
-    "IDcode": "MKMP-122",
-    "title": "河北春菜- たっぷり焦らして童贞君を最高の射精で笔おろし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250831/8y1bmBoR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-122"
-  },
-  {
-    "id": 591893,
-    "IDcode": "MKMP-129",
-    "title": "太妹真枪实弹性教育 AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230608-1/359e4b6190d68b08f405796fcdd71ff7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-129"
-  },
-  {
-    "id": 521652,
-    "IDcode": "MKMP-148",
-    "title": "紧缚コスプレ 佐仓绊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-148"
-  },
-  {
-    "id": 220393,
-    "IDcode": "MKMP-150",
-    "title": "喜欢做爱的美人妻-佐々木あき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/eb46507d4a123796959ef5bec5b086a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-150"
-  },
-  {
-    "id": 534411,
-    "IDcode": "MKMP-157",
-    "title": "全部丸见え！超肉眼中出しエロティシズム 莲実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-157"
-  },
-  {
-    "id": 166672,
-    "IDcode": "MKMP-158",
-    "title": "緊縛大小姐AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230305/84mkmp00158pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-158"
-  },
-  {
-    "id": 534472,
-    "IDcode": "MKMP-161",
-    "title": "メーカーの暴挙に耐える専属＆有名女优24人の黒历史！！秘蔵映像4时间BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230416/84mkmp161pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-161"
-  },
-  {
-    "id": 550693,
-    "IDcode": "MKMP-164",
-    "title": "触手觉醒樱花伤无 - 佐仓绊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250213-1/1545ae4eaf805dbccea2074eb11fb257.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-164"
-  },
-  {
-    "id": 534511,
-    "IDcode": "MKMP-166",
-    "title": "全部丸见え！超肉眼中出しエロティシズム NAOMI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230519/84mkmp166pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-166"
-  },
-  {
-    "id": 534544,
-    "IDcode": "MKMP-169",
-    "title": "殿堂！スーパーアイドル4时间 莲実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230524/84mkmp169pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-169"
-  },
-  {
-    "id": 534597,
-    "IDcode": "MKMP-175",
-    "title": "名物“特盛り潮茶渍け” 下町母子の弁当屋 涙の人情ものがたり 后継ぎ编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230625/84mkmp175pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-175"
-  },
-  {
-    "id": 559995,
-    "IDcode": "MKMP-179",
-    "title": "殿堂！スーパーアイドル4时间-cd1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221028/gDLd1Eta/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-179"
-  },
-  {
-    "id": 166351,
-    "IDcode": "MKMP-181",
-    "title": "出道3週年紀念作　京都逆搭訕大挑戰 佐倉絆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-181"
-  },
-  {
-    "id": 166673,
-    "IDcode": "MKMP-182",
-    "title": "潜入捜査官 波木はるか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230305/84mkmp00182pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-182"
-  },
-  {
-    "id": 166616,
-    "IDcode": "MKMP-183",
-    "title": "痴女OL推销员三姐妹一起出动就没有谈不下来的客户",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/62d00190/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-183"
-  },
-  {
-    "id": 590915,
-    "IDcode": "MKMP-184",
-    "title": "帰省したヤリマン3姊妹に絶伦チ●ポをしごかれ続けるご近所中出し物语 大槻ひびき AIKA 叶月七瀬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230608-1/d68ee5bb31f3afec24f11002f6da9be0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-184"
-  },
-  {
-    "id": 534726,
-    "IDcode": "MKMP-191",
-    "title": "超美巨乳风俗嬢のスペシャルおもてなしソープ すみれ美香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-191"
-  },
-  {
-    "id": 534783,
-    "IDcode": "MKMP-196",
-    "title": "円熟味を増した凄腕すぎるいい女たち40人4时间SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231004/84mkmp196pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-196"
-  },
-  {
-    "id": 534806,
-    "IDcode": "MKMP-198",
-    "title": "心润う至福の时间 THE premium SOAP BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231011/84mkmp198pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-198"
-  },
-  {
-    "id": 104865,
-    "IDcode": "MKMP-199",
-    "title": "职场强奸堕落快乐人妻-佐倉絆",
+    "id": 15850,
+    "IDcode": "MOGI-130",
+    "title": "22歲人妻，帶着10個月大的孩子。母乳從她放大的棕色色情乳暈和紅黑色彎曲的乳頭中涌出。喜歡狂歡受虐狂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "戏剧",
-      "OL",
-      "白天出轨"
+      "主觀視角",
+      "兩男一女",
+      "淫亂",
+      "蕩婦",
+      "劇情",
+      "亂交 • 群P",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240601-1/a268e8ad94bd0a997a5f59d1d2c1e1f1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a30a2ac813dc779d96120/cover.jpg",
     "actress": [
-      "佐仓绊"
+      "満島りの"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-199"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-130"
   },
   {
-    "id": 534841,
-    "IDcode": "MKMP-203",
-    "title": "上原亜衣スペシャルコンプリート4时间BEST",
+    "id": 546186,
+    "IDcode": "MOGI-131",
+    "title": "【初撮り】元子役の大学1年生 JAZZダンスに明け暮れる147cm小柄美少女 よく褒められると",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/84mkmp203pl.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240307/S8ESK7Rv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-131"
   },
   {
-    "id": 534865,
-    "IDcode": "MKMP-206",
-    "title": "みりおん学园祭紧急开催！！ ～きずぽん危うし、阿部乃派の野望编～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231101/84mkmp206pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-206"
-  },
-  {
-    "id": 534889,
-    "IDcode": "MKMP-207",
-    "title": "KMP presents みりおん学园BEST～実在するオフ会“みりおん学园”を代表する自慢の生徒たち総出演！！～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231110/84mkmp207pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-207"
-  },
-  {
-    "id": 534919,
-    "IDcode": "MKMP-211",
-    "title": "中出し10连発 三原ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231119/84mkmp211pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-211"
-  },
-  {
-    "id": 534963,
-    "IDcode": "MKMP-214",
-    "title": "新人 沙月とわAVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231201/84mkmp214pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-214"
-  },
-  {
-    "id": 534989,
-    "IDcode": "MKMP-217",
-    "title": "Gカップ巨乳 沙月とわ 初3Pセックス",
+    "id": 15677,
+    "IDcode": "MOGI-132",
+    "title": "【第一槍】在西餐廳打工的女大學生，經驗不足卻對情色感興趣的神奇美少女，顏值好，性格好，作風好，性覺醒是在什麼時候她在智慧型手機上看到了魔鏡的問題。有一天，18歲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "3P・4P",
+      "兩男一女",
+      "淫亂",
+      "綜藝",
+      "公共場所",
+      "企畫",
+      "出道作品",
+      "素人",
+      "KTV夜總會"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32aa0735bb663f77c5ddf/cover.jpg",
+    "actress": [
+      "神代いつか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-132"
+  },
+  {
+    "id": 15541,
+    "IDcode": "MOGI-133",
+    "title": "【初撮】東京的24歲物流公司工作的白領，身高150cm，C罩杯，有着健身房鍛煉出的美麗苗條身材清涼美女身材清涼深喉！陷入受虐狂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "人妻",
+      "口交",
+      "絕頂高潮",
+      "淫亂",
+      "中出",
+      "企畫",
+      "素人作品",
+      "蕩婦",
+      "OL",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-05-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-133"
+  },
+  {
+    "id": 15189,
+    "IDcode": "MOGI-134",
+    "title": "有着八重齒的可愛小胸女大學生，愛好是小提琴，147釐米的娃娃臉，想舔她的乳頭 ~ 紬希ゆら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "口交",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "企畫",
+      "貧乳",
+      "蘿莉控",
+      "癡女",
+      "女學生",
+      "小隻馬",
+      "文藝女",
+      "亂交 • 群P",
+      "羞恥",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-05-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20240423/7cb7d240-c2e5-49d4-a01f-f680d36fee4c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-134"
+  },
+  {
+    "id": 14218,
+    "IDcode": "MOGI-135",
+    "title": "【瞞着男友第一槍】NTR最美臉蛋的白皙女大學生，精液射在臉上，最後中出 ~ し しずか 21歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "出軌",
+      "女學生",
+      "淫妻",
+      "嫩妹",
+      "舔陰",
+      "中出",
+      "美少女",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "飯店",
+      "手指插入",
+      "羞恥",
+      "素人",
+      "美乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "後入",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a06b98cf22ae3e04a017b1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-135"
+  },
+  {
+    "id": 14048,
+    "IDcode": "MOGI-136",
+    "title": "【初撮】酷酷的漁業女孩，從分揀、運輸，她都幹。天真爛漫的笑容，真誠害羞的舉止，九州口音，毛茸茸的小穴，完美的新面孔。実田あのん，20歲。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "亂交 • 群P",
+      "出道作品",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "色白",
+      "企畫",
+      "飯店",
+      "騎乗位",
+      "羞恥",
+      "素人",
+      "短髮",
+      "口交",
+      "女上位",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240611/96e23d09-0449-4c28-b26d-05ba714a0c3c.jpg",
+    "actress": [
+      "実田あのん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-136"
+  },
+  {
+    "id": 93094,
+    "IDcode": "MOGI-137",
+    "title": "【おじさんチ○ポ沼にハマる】神戸美顔JDが彼氏に内緒で生ハメ6発2日！寝取って中出し温泉旅行 しずか 21歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "单体作品",
+      "嫩妹",
+      "白天出轨",
+      "女大学生",
+      "洗澡"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/f9cea9d6b17e04129b300191593dc4e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-137"
+  },
+  {
+    "id": 5050,
+    "IDcode": "MOGI-139",
+    "title": "【彼氏に内緒で初撮り】演劇部大道具の裏方ヲタク女子大生を寝取って中出し 根暗かと思いきや コスプレセックス大好き肉食女子でした ゆな 21歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "清楚系",
+      "正統派",
+      "美腳",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "出道作品",
+      "癡女",
+      "嫩妹",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "貓耳裝飾",
+      "色白",
+      "企畫",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "護士制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "4K",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "後入",
+      "COSPLAY服飾",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-2/462d989b18ea14edb7d90f089785a967.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-139"
+  },
+  {
+    "id": 4187,
+    "IDcode": "MOGI-140",
+    "title": "【おじさんチ〇ポ沼にハマる 】 肉食地味っ子 JD が彼氏に内緒で絶倫おじと1泊6射！こっそりコスプレ中出し温泉旅行！ ゆな 21 歳 由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "清楚系",
+      "單體作品",
+      "溫泉",
+      "旅行",
+      "舔陰",
+      "中出",
+      "和服・浴衣・喪服",
+      "色白",
+      "素人作品",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美腿",
+      "巨尻",
+      "口交",
+      "4K",
+      "女上位",
+      "真人秀",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/2cb066f6261e7fb8c1a562463295ceeb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-140"
+  },
+  {
+    "id": 4816,
+    "IDcode": "MOGI-141",
+    "title": "新人出道！絕對不能讓公司知道的祕密 素人限界初攝 450萬獎學金壓力下的新卒小妹 平凡外表下藏着超肉感漫畫身材 AV DEBUT ~ 佐藤白花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "清楚系",
+      "美臀",
+      "文藝女",
+      "出道作品",
+      "單體作品",
+      "眼鏡",
+      "舔陰",
+      "中出",
+      "自宅",
+      "女業務",
+      "絕頂高潮",
+      "出道作",
+      "色白",
+      "企畫",
+      "素人作品",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "素人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "4K",
+      "清純",
+      "女優訪談",
+      "胸控・戀乳癖",
+      "內衣",
+      "真人秀",
+      "女上位",
+      "後入",
+      "性感",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233513106106_thumbnail.webp",
+    "actress": [
+      "佐藤白花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-141"
+  },
+  {
+    "id": 3856,
+    "IDcode": "MOGI-143",
+    "title": "限界OLちゃん。仕事の合間にナマハメ。平日8時～21時、ずーっとマ。きよか24歳 佐藤白花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "真實拍攝",
+      "清楚系",
+      "蠻橫嬌羞",
+      "文藝女",
+      "亂交 • 群P",
+      "單體作品",
+      "眼鏡",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "按摩棒",
+      "女優",
+      "企畫",
+      "素人作品",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "素人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "清純",
+      "女上位",
+      "真人秀",
+      "OL",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/8e5505755099ac05cbec8f980ef03620.jpg",
+    "actress": [
+      "佐藤白花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-143"
+  },
+  {
+    "id": 592826,
+    "IDcode": "MOJ-039",
+    "title": "女优不详【オイル施术】焦らされ続け延长を申し出る爆乳人妻の素颜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200718/84mkmp217pl.jpg",
+    "cover_url": "https://pic51.anzise.com/pic/20230330/20561fcc93e1c1d1d52d25b6d88717a2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOJ-039"
   },
   {
-    "id": 590934,
-    "IDcode": "MKMP-220",
-    "title": "院内性交 耻辱の背徳ナース 佐仓绊",
+    "id": 102980,
+    "IDcode": "MOKO-003",
+    "title": "訪問営業セールスレディ契約に必死なので、フェラチオをする枕営業",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "巨乳",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-04-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "高城彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-003"
+  },
+  {
+    "id": 98449,
+    "IDcode": "MOKO-007",
+    "title": "人妻生保レディが契約に必死なのでチ○ポ出して隠れてセンズリしたら…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "人妻",
+      "成熟的女人",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-08-20",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_254moko007/h_254moko007pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-007"
+  },
+  {
+    "id": 102877,
+    "IDcode": "MOKO-008",
+    "title": "年増熟女はいつでもどこでも感じちゃう！？掃除のおばさんのムチ尻に痴漢したら2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "各种职业",
+      "痴汉",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2018-09-20",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221105-1/59e2d58140522022aebbee1dc62d2371.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-008"
+  },
+  {
+    "id": 76060,
+    "IDcode": "MOKO-016",
+    "title": "和女业务洽谈时露出老二逼迫陪睡…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "恶作剧",
+      "中文字幕",
+      "偷窥",
+      "手指插入",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/89166b3bbe7fa748299b2c20ed4f63c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-016"
+  },
+  {
+    "id": 165087,
+    "IDcode": "MOKO-017",
+    "title": "試着室で人妻店員にチ○ポ出して裾上げをお願いしたら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-017"
+  },
+  {
+    "id": 594997,
+    "IDcode": "MOKO-018",
+    "title": "总是衣着暴露的母亲是欲求不满吗？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200418-1/d3e7bc058d164255032a54929002f3d9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-018"
+  },
+  {
+    "id": 578866,
+    "IDcode": "MOKO-019",
+    "title": "“ここはそういうトコロじゃありませんので…” 人间ドック特别室で看护师",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230610-1/2dd2bd2f07f9dd85eedc3f0270d4b060.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-220"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-019"
   },
   {
-    "id": 593153,
-    "IDcode": "MKMP-224",
-    "title": "佐仓绊 恍惚の紧缚羞耻 轮奸颜射",
+    "id": 83356,
+    "IDcode": "MOKO-021",
+    "title": "エロ本と電マが散らかった部屋で、ホームヘルパーのおばさんは、オナニーしちゃうのか？",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
+    "genres": [
+      "乱伦",
+      "各种职业",
+      "女优按摩棒",
+      "偷窥",
+      "自慰",
+      "素人作品",
+      "拘束",
+      "母亲",
+      "制服",
+      "成熟的女人"
     ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/ac7b34a5f9ceb3e9daec2add8e17aac3.jpg",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-12-20",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa89ebd6fbef4e9008b9bc/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-224"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-021"
   },
   {
-    "id": 165035,
-    "IDcode": "MKMP-225",
-    "title": "沙月とわ 絶頂×イカセ×性欲覚醒",
+    "id": 165088,
+    "IDcode": "MOKO-024",
+    "title": "完熟おばさんは二度見する！？ 自宅開業したマッサージ店のおばさんに勃起チ○ポ見せたら…3",
     "year": "",
     "country": "",
     "genre": "",
@@ -1482,711 +1090,818 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/4hclinuezag.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-225"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-024"
   },
   {
-    "id": 535025,
-    "IDcode": "MKMP-228",
-    "title": "沙月とわ Gカップボディ オイルマッサージ性感痉挛アクメ",
+    "id": 516056,
+    "IDcode": "MOKO-025",
+    "title": "對隱約可見內褲的幫傭露出勃起肉幫",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231228/1601179735-84mkmp228pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68fa13f8eb67774efbfc2312/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-228"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-025"
   },
   {
-    "id": 76892,
-    "IDcode": "MKMP-229",
-    "title": "大槻ひびき 波多野結衣デビュー10周年記念SPECIAL SELECTION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "4小时以上作品",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e36f5f9e06f285b46de97d567b5b5b70.jpg",
-    "actress": [
-      "波多野结衣",
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-229"
-  },
-  {
-    "id": 105488,
-    "IDcode": "MKMP-230",
-    "title": "佐仓绊动漫COSPLAY角色扮演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "动画人物",
-      "角色扮演",
-      "无毛",
-      "戏剧"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240404-1/e87b5a641abc5068e387e0b49e9892df.jpg",
-    "actress": [
-      "佐仓绊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-230"
-  },
-  {
-    "id": 535116,
-    "IDcode": "MKMP-236",
-    "title": "KMPが赠る カリスマアイドル大量潮吹き BEST 4时间2 SPLASH",
+    "id": 516050,
+    "IDcode": "MOKO-026",
+    "title": "試衣間拜託美熟女店員改短褲管…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240128/84mkmp236pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68fa1617eb67774efbfc2328/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-236"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-026"
   },
   {
-    "id": 76819,
-    "IDcode": "MKMP-237",
-    "title": "佐倉絆 酒酔い巨根乱交 中出し30発4時間",
+    "id": 559915,
+    "IDcode": "MOKO-027",
+    "title": "我可以和你妈妈争论因为我要向Yarichin的朋友借钱吗如果您被告知可以立即...-樱井麻乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "4小时以上作品",
-      "中出",
-      "乱交",
-      "滥交"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/5a3ef446b090264cfa241ea1f7e7afae.jpg",
-    "actress": [
-      "戸川夏也",
-      "佐仓绊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-237"
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/6edec630f2f66465455c0dc5890abaab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-027"
   },
   {
-    "id": 526677,
-    "IDcode": "MKMP-239",
-    "title": "中出し10连発 桥本れいか",
+    "id": 516074,
+    "IDcode": "MOKO-029",
+    "title": "拜託穿著緊身褲的保險女業務搞性騷",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230308/84mkmp00239pl.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/19/68f4c73bd6fbef4e9000e168/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-239"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-029"
   },
   {
-    "id": 536151,
-    "IDcode": "MKMP-240",
-    "title": "_B 佐仓绊 2枚组8时间BEST 36タイトル30SEX Part 2",
+    "id": 516128,
+    "IDcode": "MOKO-031",
+    "title": "緊身裙×大腿情色 讓工作中歐巴桑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e5163852c12b4e683b1beb/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-031"
   },
   {
-    "id": 76820,
-    "IDcode": "MKMP-241",
-    "title": "殿堂！スーパーアイドル4時間 天野美優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "乳交",
-      "巨乳",
-      "潮吹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b935acae9735dbb7e487e7155b9a801.jpg",
-    "actress": [
-      "天野美优"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-241"
-  },
-  {
-    "id": 207342,
-    "IDcode": "MKMP-242",
-    "title": "现场性行为-佐倉絆",
+    "id": 212190,
+    "IDcode": "MOKO-035",
+    "title": "特別看護師",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240329-1/afc3750444de172318c2750f72141a8f.jpg",
+    "cover_url": "https://tutu1.space/images/2021/07/05/07fd853ec26509624480d77822599f28.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-242"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-035"
   },
   {
-    "id": 535186,
-    "IDcode": "MKMP-244",
-    "title": "沙月とわコンプリートベスト完全保存版4时间BEST",
+    "id": 516203,
+    "IDcode": "MOKO-036",
+    "title": "裝好隱藏攝影機放置色情書刊、DV",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240302/84mkmp244pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da020d631cc64eb58a5c50/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-036"
   },
   {
-    "id": 88126,
-    "IDcode": "MKMP-246",
-    "title": "被愤怒的铁粉们轮奸的宅男偶像-佐倉絆",
+    "id": 85548,
+    "IDcode": "MOKO-038",
+    "title": "試着室で美人店員さんにチ○ポ出して裾上げをお願いしたら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "艺人",
-      "轮奸"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cdfcb345e0c031db24aec776c60a1f23.jpg",
-    "actress": [
-      "佐仓绊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-246"
-  },
-  {
-    "id": 77724,
-    "IDcode": "MKMP-247",
-    "title": "在老爸面前爆操他包养的小三美谷朱里对破坏我家庭的女人就是要狠狠的不留情面的内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "口交",
+      "恶作剧",
+      "偷窥",
       "苗条",
-      "乳房",
-      "中出",
-      "戏剧"
+      "各种职业"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d78b325c36ff531cf98a306f711fee7c.jpg",
-    "actress": [
-      "美谷朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-247"
+    "company": "",
+    "publish_date": "2021-12-20",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230126-1/cd58f24d3d21edf9dfd7b2bd83ea5099.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-038"
   },
   {
-    "id": 88127,
-    "IDcode": "MKMP-248",
-    "title": "緊縛令嬢 倉多まお",
+    "id": 224390,
+    "IDcode": "MOKO-041",
+    "title": "房产展示期间的性骚扰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/df98977fc8e598f01e3d8d4d9b75f97f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-041"
+  },
+  {
+    "id": 575565,
+    "IDcode": "MOKO-07",
+    "title": "人妻生保レディが契约に必死なのでチ○ポ出して隠れてセン第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-07"
+  },
+  {
+    "id": 575570,
+    "IDcode": "MOKO-08",
+    "title": "年増熟熟はいつでもどこでも感じちゃう！扫除のおばさん第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-25/06/ahuxfvxvfu40603ahuxfvxvfu40513555.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOKO-08"
+  },
+  {
+    "id": 88117,
+    "IDcode": "MOM-001",
+    "title": "ロリはめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "萝莉塔",
+      "第一人称摄影",
+      "无毛",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星野つぐみ",
+      "长谷川ちひろ",
+      "本田ナミ",
+      "加护由衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-001"
+  },
+  {
+    "id": 98858,
+    "IDcode": "MOM-002",
+    "title": "異常性交-五十路母と子巨乳母の性教育柳留美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "各种职业",
+      "巨乳",
       "捆绑",
-      "调教",
-      "中出",
-      "大小姐",
-      "女优按摩棒"
+      "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a3f6ae4a65e341790c77233a893e5f45.jpg",
+    "company": "",
+    "publish_date": "2009-08-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "仓多真央"
+      "三村佳奈",
+      "有栖川玲奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-248"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-002"
   },
   {
-    "id": 88066,
-    "IDcode": "MKMP-249",
-    "title": "殿堂！スーパーアイドル4時間 推川ゆうり",
+    "id": 589400,
+    "IDcode": "MOM-003",
+    "title": "异常的性交，五十母子从变态的父亲 Misono Waya 那里偷走的母亲的母亲 - 和谷美园",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "姐姐",
-      "中出",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/23/96983_cover_2025-07-23_084414.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-003"
+  },
+  {
+    "id": 88115,
+    "IDcode": "MOM-005",
+    "title": "もしも…私の御姉様が緊縛名人だったら？ 辰神麗子 若林美保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "捆绑",
+      "SM",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "若林美保",
+      "辰神丽子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-005"
+  },
+  {
+    "id": 88118,
+    "IDcode": "MOM-006",
+    "title": "もしも…ハプニングバーでこんなSMがあったら？ みづき桃香 こずえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "紧缚",
+      "捆绑",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f5e7985c17eab0afcbec04e73d6596a9.jpg",
+    "actress": [
+      "みづき桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-006"
+  },
+  {
+    "id": 88060,
+    "IDcode": "MOM-007",
+    "title": "ロリはめ 4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "萝莉塔",
+      "乳房",
+      "第一人称摄影",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "日高ゆりあ",
+      "相沢唯衣",
+      "雪见ほのか",
+      "水内遥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-007"
+  },
+  {
+    "id": 409969,
+    "IDcode": "MOM-020",
+    "title": "ロ○ータ 痴漢バス 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0730405de9f92f0d01a1b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-020"
+  },
+  {
+    "id": 98655,
+    "IDcode": "MOM-024",
+    "title": "異常性交-五十路母と子童貞息子と性の勉強小嶋なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2015-12-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-024"
+  },
+  {
+    "id": 409827,
+    "IDcode": "MOM-049",
+    "title": "ロ○ータ 痴漢バス Collection",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd7bdb0069396376792aa2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-049"
+  },
+  {
+    "id": 589251,
+    "IDcode": "MOM-S003",
+    "title": "异常的性交，五十母子从变态的父亲 Misono Waya 那里偷走的母亲的母亲 -和谷美园13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/14/20666_cover_2025-10-14_082136.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-S003"
+  },
+  {
+    "id": 409730,
+    "IDcode": "MOMJ-005",
+    "title": "奥さんの綺麗なアナル 高坂保奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce5ada79f1ac4ec465f326/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-005"
+  },
+  {
+    "id": 409726,
+    "IDcode": "MOMJ-006",
+    "title": "旦那の同僚に脅されて 南沙也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce600179f1ac4ec4660400/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-006"
+  },
+  {
+    "id": 409728,
+    "IDcode": "MOMJ-007",
+    "title": "兄嫁奴隷 ～出張の間に父と弟達に～ 加藤ツバキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce5ec679f1ac4ec46603ff/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-007"
+  },
+  {
+    "id": 409706,
+    "IDcode": "MOMJ-010",
+    "title": "妻31歳貸出 ～中出しされた妻～ 中村綾乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfae8deb67774efbaba2cb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-010"
+  },
+  {
+    "id": 409688,
+    "IDcode": "MOMJ-013",
+    "title": "巨乳妻は同級生 夏川美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/46bc9f69fb286c46b9e19287da90b1dd.jpg",
-    "actress": [
-      "推川悠里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-249"
-  },
-  {
-    "id": 595557,
-    "IDcode": "MKMP-251",
-    "title": "佐仓绊セルフプロデュース企画 AV监督デビュー！！ 佐仓绊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9eGoiASD.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1fb42e4a73d4f159b2ad3/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-251"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-013"
   },
   {
-    "id": 595558,
-    "IDcode": "MKMP-252",
-    "title": "紧缚令嬢 优月まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/qnA2UyFW.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-252"
-  },
-  {
-    "id": 590932,
-    "IDcode": "MKMP-253",
-    "title": "ドラ息子を里口入学させるためにカラダを捧げるセレブ妻 中村知恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230610-1/b74706eb0a912a166548c915b1aa04a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-253"
-  },
-  {
-    "id": 535231,
-    "IDcode": "MKMP-254",
-    "title": "カリスマ神乳アイドル30人4时间BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240321/84mkmp254pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-254"
-  },
-  {
-    "id": 535249,
-    "IDcode": "MKMP-255",
-    "title": "殿堂！スーパーアイドル4时间 川菜美铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240329/84mkmp255pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-255"
-  },
-  {
-    "id": 85562,
-    "IDcode": "MKMP-257",
-    "title": "时间停止的女播音员-妃月るい",
+    "id": 409684,
+    "IDcode": "MOMJ-016",
+    "title": "人妻Gカップ ～隣のおじさんの虜に～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "恶作剧",
-      "单体作品"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/fd58a0b7d6d95c2d457d1f5a54cc336d.jpg",
-    "actress": [
-      "妃月るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-257"
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d2099ee4a73d4f159b72f3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-016"
   },
   {
-    "id": 565856,
-    "IDcode": "MKMP-258",
-    "title": "感谢感激 最も売れた60タイトル年间BEST2",
+    "id": 409657,
+    "IDcode": "MOMJ-018",
+    "title": "兄嫁奴隷 ～哀しみの生肉便器～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/518cf9f8c9db26d3b9318030e437c03f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d44488d6fbef4e90c40096/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-258"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-018"
   },
   {
-    "id": 565855,
-    "IDcode": "MKMP-259",
-    "title": "殿堂！スーパーアイドル4时间 篠田ゆう2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/98bc0c77ca22d4166704e8b93044b967.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-259"
-  },
-  {
-    "id": 565854,
-    "IDcode": "MKMP-260",
-    "title": "潜入捜查官完全CompleteBEST～美女捜查官たちを袭う戦栗の拷问スペシャル～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/019063062efda0d1a9bb810b3094990c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-260"
-  },
-  {
-    "id": 535331,
-    "IDcode": "MKMP-264",
-    "title": "殿堂！スーパーアイドル4时间 北川エリカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240520/84mkmp264pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-264"
-  },
-  {
-    "id": 595295,
-    "IDcode": "MKMP-266",
-    "title": "一般素人男性モニタリング企画 街头インタビュー中にナイショでご本人登场！！ 波多野结衣 莲実クレア 浜崎真绪と素人さんがご対面中出しSEX",
+    "id": 409648,
+    "IDcode": "MOMJ-020",
+    "title": "美しき人妻の性癖 ～日常の羞恥～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230610-1/42a423b3d43d9642025f19301b1867f0.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d444aad6fbef4e90c40b0c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-266"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-020"
   },
   {
-    "id": 534450,
-    "IDcode": "MKMP-267",
-    "title": "KMP作品より厳选した特别企画ベスト第2弾！！超人気鉄板企画100タイトル超豪华8时",
+    "id": 409633,
+    "IDcode": "MOMJ-022",
+    "title": "兄嫁奴隷 ～卑猥なJカップ～ くるみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/08-19/12/m45kthpvan51207m45kthpvan53918209.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a1ddeb67774efbb857ec/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-267"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-022"
   },
   {
-    "id": 589578,
-    "IDcode": "MKMP-269",
-    "title": "Sakura Kizuna 我爱口交 AV 行业领先的技能组纠结的舌头持续姬 ● 宝舔 - 佐仓绊",
+    "id": 409655,
+    "IDcode": "MOMJ-023",
+    "title": "人妻女教師 生徒達の精液を飲み尽くして",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d445bdd6fbef4e90c40fd7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-023"
+  },
+  {
+    "id": 409631,
+    "IDcode": "MOMJ-026",
+    "title": "友人達に僕の妻が目の前で 柳田やよい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/21188_cover_2025-07-02_070440.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d74546dd88d14f060c5224/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-269"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-026"
   },
   {
-    "id": 534449,
-    "IDcode": "MKMP-271",
-    "title": "水野朝阳スペシャルコンプリート8时间BEST",
+    "id": 409608,
+    "IDcode": "MOMJ-027",
+    "title": "兄嫁奴隷 ～策略の寒村蟻地獄～ nao",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84c38d6fbef4e90cd1f10/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-027"
+  },
+  {
+    "id": 409602,
+    "IDcode": "MOMJ-034",
+    "title": "友人達に僕の妻が目の前で 美神さゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da05f6ce5a404e9bbc9c65/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-034"
+  },
+  {
+    "id": 409569,
+    "IDcode": "MOMJ-038",
+    "title": "被老公的同事威脅 夏木響子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dbc27ece5a404e9bc0f02f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-038"
+  },
+  {
+    "id": 409539,
+    "IDcode": "MOMJ-050",
+    "title": "被老公的同事威脅 櫻滿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0420479f1ac4ec48bdbf4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-050"
+  },
+  {
+    "id": 409540,
+    "IDcode": "MOMJ-051",
+    "title": "想要偷襲那個太太 澤村麻耶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0424979f1ac4ec48bdbf5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-051"
+  },
+  {
+    "id": 516495,
+    "IDcode": "MOMJ-106",
+    "title": "慶祝結婚離職… 竹内結",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68ff1adcdd88d14f0657a3c8/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-106"
+  },
+  {
+    "id": 213839,
+    "IDcode": "MOMJ-149",
+    "title": "我真的想被攻击-星野あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/10/022340334aabfa1708804af9590d13cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-149"
+  },
+  {
+    "id": 516333,
+    "IDcode": "MOMJ-150",
+    "title": "我們家的兩代生活 花木亞乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69126fc31fcdee36fa871b77/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-150"
+  },
+  {
+    "id": 516315,
+    "IDcode": "MOMJ-154",
+    "title": "一妻多夫 AV女優的丈夫 澤村麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6913fd6e312f492881570f38/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-154"
+  },
+  {
+    "id": 557047,
+    "IDcode": "MOMJ-155",
+    "title": "不可饶恕的关系 香川翔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/1749c28c49ff104db2a1a509d13840a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-155"
+  },
+  {
+    "id": 215275,
+    "IDcode": "MOMJ-159",
+    "title": "我想做一件事不能告诉我丈夫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/26/7e1ddb3c05fb741f7139964662879fb7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-159"
+  },
+  {
+    "id": 213436,
+    "IDcode": "MOMJ-198",
+    "title": "悲伤的条件-かすみりさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/17/aadfd9304458d71ecec10665c58bda59.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-198"
+  },
+  {
+    "id": 218680,
+    "IDcode": "MOMJ-200",
+    "title": "被她丈夫的老板威胁-姫川きよは",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/90a8fc122cefc6c01f1e811f971e50bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-200"
+  },
+  {
+    "id": 215263,
+    "IDcode": "MOMJ-204",
+    "title": "妻子与儿子们-結城みさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/26/c49942632e9379c54e56890fb35ebb88.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMJ-204"
+  },
+  {
+    "id": 524886,
+    "IDcode": "MOMOKA",
+    "title": "凛给亚洲口交和乱搞两个帅哥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOMOKA"
   },
   {
-    "id": 565853,
-    "IDcode": "MKMP-272",
-    "title": "殿堂！超级偶像4小时 花咲伊杏",
+    "id": 531061,
+    "IDcode": "MONA-CHAN",
+    "title": "调情！ 业余女孩巅峰之战！ 娇小的乳房和可耻的女孩 - 和美丽的 BODY 色情姐妹 - M!",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/10f7cf0ce8b82d8aa2f42bb32a9f875a.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20231121-1/44ae586c61ea27c9e3f32d74e017006e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-272"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MONA-CHAN"
   },
   {
-    "id": 565852,
-    "IDcode": "MKMP-274",
-    "title": "佐仓绊 时间停止的世界 时间被停止 永远被侵犯著",
+    "id": 157963,
+    "IDcode": "MOND-002",
+    "title": "通夜の後叔母が和尚にヤラれてた 長瀬涼子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
+    "genres": [
+      "中文字幕"
     ],
+    "type": "有码",
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/oj6dqEDW.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241113-1/c367aabd94f614639dc987d646b55d79.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-274"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-002"
   }
 ];

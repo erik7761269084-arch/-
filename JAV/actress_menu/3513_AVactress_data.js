@@ -513,7 +513,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d956aa3ea776702a37c25c4e8bfdd288.jpg",
       "actress": [

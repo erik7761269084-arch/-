@@ -1,53 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 517516,
-    "IDcode": "92DIMY-001",
-    "title": "2流出 魔油诱惑千金大狂乱 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/28/685f0d2943d6972716513a8f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=92DIMY-001"
-  },
-  {
-    "id": 568903,
-    "IDcode": "93-PART",
-    "title": "キチクリンカン 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230326-1/20eb518fa2a6bf3e20559bea3632bbdb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=93-PART"
-  },
-  {
-    "id": 532049,
-    "IDcode": "930-KI200402",
-    "title": "人妻斩り 永桥 香织 19歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/c63ff10b33a01e913db6575f600b5163.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=930-KI200402"
-  },
-  {
     "id": 530828,
     "IDcode": "930-KI200407",
     "title": "人妻斩り 西野 绚実 36歳",
@@ -59,7 +11,7 @@ window.PAGE_DATA = [
       "少妇"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -76,7 +28,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/feb8c9cf6aafd49fdecb59b9f9f393bf.jpg",
     "actress": [],
@@ -91,7 +43,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/30815fbdaaad57ed02467fad512e4fe1.jpg",
     "actress": [],
@@ -106,7 +58,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/964381913af751bec521fbc59956668a.jpg",
     "actress": [],
@@ -121,7 +73,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic28.anzise.com/pic/20220603/167de35584be06d01b9f6a1ff83dcac2/1.jpg",
     "actress": [],
@@ -136,7 +88,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250118-1/5db81d12ccf691be34d9e99ad54cf8ab.jpg",
     "actress": [],
@@ -151,7 +103,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/65ba55f1d98c5388eb917e910c5867ee.jpg",
     "actress": [],
@@ -166,7 +118,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230104-1/4a7e25ce0e7b97ac28b90502338c91bd.jpg",
     "actress": [],
@@ -181,7 +133,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221211-1/7ab526267a0bfaac59617a49b59a18db.jpg",
     "actress": [],
@@ -196,7 +148,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221211-1/9074dc68b5176556b2f4190d3f878724.jpg",
     "actress": [],
@@ -211,7 +163,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -226,7 +178,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -243,7 +195,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -258,7 +210,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -275,7 +227,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20210924-1/b6fb0e297319d982db07ced37f46696f.jpg",
     "actress": [],
@@ -290,7 +242,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://le.lefhao20250923.top/upload/vod/20250611-1/8186be0732821cb71a20fc2f47924506.jpg",
     "actress": [],
@@ -305,7 +257,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fb14d7d80fb5fd90c5b98e3772439167.jpg",
     "actress": [],
@@ -320,7 +272,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/8baf0f7c1f6b47f268bee164e89cc1f4.jpg",
     "actress": [],
@@ -335,7 +287,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240521-1/e989ad0cfb848fe3bdff14908b2ec53e.jpg",
     "actress": [],
@@ -350,7 +302,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240518-1/61bad6b7946a8b53072294735dace8ce.jpg",
     "actress": [],
@@ -365,7 +317,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230529-1/edbec7202ad72657e21f1e801ed48b99.jpg",
     "actress": [],
@@ -382,7 +334,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230529-1/c4370ff910f99da738403ebe21befafe.jpg",
     "actress": [],
@@ -397,7 +349,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -412,7 +364,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -427,7 +379,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -442,7 +394,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -457,7 +409,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -472,7 +424,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -487,7 +439,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -502,7 +454,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -517,7 +469,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -532,7 +484,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -547,7 +499,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -562,7 +514,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -577,7 +529,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -592,7 +544,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -607,7 +559,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59bf9cf22ae3e04181754/cover.jpg",
     "actress": [],
@@ -624,7 +576,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/69066faf71eb543bb0df8d9d/poster2.jpg",
     "actress": [],
@@ -639,7 +591,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690a8b9b2fdf2b287a2acf1b/poster2.jpg",
     "actress": [],
@@ -654,7 +606,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/85df59cec623696cc9ce4531b188ea5b.jpg",
     "actress": [],
@@ -672,7 +624,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/94ec23ab2f5269cf2d4cb90371772745.jpg",
     "actress": [],
@@ -687,7 +639,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/18c0f590727fdf7feac294a95a11f25d.jpg",
     "actress": [],
@@ -704,7 +656,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/03b2f713fe29ae3a121d7e1117c65942.jpg",
     "actress": [],
@@ -719,7 +671,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/c7cf6fff2e247cc5e7dab9983f220eb4.jpg",
     "actress": [],
@@ -734,7 +686,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/693f3cd86569a5286fe8c421d81f35e3.jpg",
     "actress": [],
@@ -749,7 +701,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/da7f4e821656690866bc7e462ce7751b.jpg",
     "actress": [],
@@ -764,7 +716,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/d94406a3afadae80aaa53de7bfe7ffc3.jpg",
     "actress": [],
@@ -782,7 +734,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/1bb39f4c5bfd03d9a822b9504881001b.jpg",
     "actress": [],
@@ -797,7 +749,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/b1cb0dd1869fc7278f33e3f3ae74134e.jpg",
     "actress": [],
@@ -814,7 +766,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191203-1/bf7c9eeda1655a687f072a832d57e371.jpg",
     "actress": [],
@@ -829,7 +781,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/8ebc6be5c3405d52a3387d2d0e266fb2.jpg",
     "actress": [],
@@ -844,7 +796,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/bb09ec91e3e2929405a3b95371bf7f1f.jpg",
     "actress": [],
@@ -859,7 +811,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688df2b798bc99dfddfa7749/cover.jpg",
     "actress": [],
@@ -873,20 +825,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
       "恋腿癖",
+      "迷你裙",
       "足交",
-      "迷你裙"
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/09/34c97b4e0ca9787cd0bcb4e5322c7e91.jpg",
     "actress": [
@@ -903,13 +849,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://pic9.anzise.com/pic/20220105/4a0be3fd2b0dce9d6963f705fbe41827/1.jpg",
     "actress": [],
@@ -923,19 +863,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
       "女生",
       "手淫",
+      "乳液",
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/edec35cb04c1a929dbeb8fd57cfd3495.jpg",
     "actress": [
@@ -952,13 +886,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/06/8534ea8bb0d965c11cb7f3f3c5929ef4.jpg",
     "actress": [],
@@ -972,18 +900,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胖女人",
+      "荡妇",
       "屁股",
-      "荡妇"
+      "胖女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/4d40dc871f587c8bcd705bf687b4ce67.jpg",
     "actress": [
@@ -999,19 +921,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "M男",
       "手淫",
       "接吻",
-      "M男"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/29/3f54d33a9ffc27a2ba56a746bd5f1357.jpg",
     "actress": [
@@ -1034,13 +950,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2022/01/04/98a5b8ef38827d32cbffc02f98c0854a.jpg",
     "actress": [],
@@ -1055,13 +965,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/111ea048a23a3942fdb9c824fa03863e.jpg",
     "actress": [],
@@ -1076,13 +980,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/8c9facbbfd315ed40b252990b08b6f60.jpg",
     "actress": [],
@@ -1097,13 +995,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1122,13 +1014,7 @@ window.PAGE_DATA = [
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1151,13 +1037,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1172,13 +1052,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1193,13 +1067,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1213,21 +1081,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "内衣",
-      "自慰",
-      "手淫",
+      "精选，综合",
       "口交",
-      "精选，综合"
+      "手淫",
+      "自慰",
+      "4小时以上作品",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5273976c79f5e885a4d5cee2cec1583e.jpg",
     "actress": [
@@ -1253,13 +1115,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/dfd06b7d084c626ff2fe44289570f808.jpg",
     "actress": [],
@@ -1274,13 +1130,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1294,20 +1144,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "内衣",
-      "主观视角",
       "自慰",
       "姐姐",
+      "内衣",
+      "主观视角",
       "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/150a08c31fe91b5d14831dda67c4a81d.jpg",
     "actress": [
@@ -1325,13 +1169,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/dad4da244a790281e582f8c0b2016614.jpg",
     "actress": [],
@@ -1346,13 +1184,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/0b44a911340ec4f244b37cd491c6744b.jpg",
     "actress": [],
@@ -1367,13 +1199,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/nsbSfNBL.jpg",
     "actress": [],
@@ -1388,13 +1214,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1409,13 +1229,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1430,13 +1244,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/bfc607a96ffaf6c91259fc8dd9460431.jpg",
     "actress": [],
@@ -1451,13 +1259,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/dtP3i4jB.jpg",
     "actress": [],
@@ -1472,13 +1274,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1493,13 +1289,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1514,13 +1304,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/30c591d209a5808b46b0c776057d15a5.jpg",
     "actress": [],
@@ -1535,13 +1319,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1556,13 +1334,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5be7656ea700286b7b028e59d5971f6f.jpg",
     "actress": [],
@@ -1577,13 +1349,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3fd1f6968532cc6cfc6a642e95a1f291.jpg",
     "actress": [],
@@ -1598,13 +1364,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/93fa82f48c007f4c189b3aa5738d81c7.jpg",
     "actress": [],
@@ -1619,13 +1379,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1640,13 +1394,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1660,20 +1408,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "内衣",
-      "主观视角",
       "美少女电影",
       "女上位",
+      "内衣",
+      "主观视角",
       "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e71ccdd20dd4d9cde8dda2a0dc865039.jpg",
     "actress": [
@@ -1692,19 +1434,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "主观视角",
       "M男",
-      "肛交",
       "淫语",
-      "主观视角"
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/b230af91e827f8fa21a1cf86264850e6.jpg",
     "actress": [
@@ -1723,13 +1459,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9e86290d1a5b2a6f95817a1aaa4e57b8.jpg",
     "actress": [],
@@ -1744,13 +1474,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/fbbcb8e936c95873f9f08e32749bd27f.jpg",
     "actress": [],
@@ -1765,13 +1489,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/axpbgkhq.jpg",
     "actress": [],
@@ -1786,13 +1504,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1bc06aad2a6b9d5404ec3f3a20993eeb.jpg",
     "actress": [],
@@ -1807,13 +1519,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/81e80617775513c24fbba28df2260b33.jpg",
     "actress": [],
@@ -1828,13 +1534,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/df0f382454db6dac1b8a16dfc0cfe5c6.jpg",
     "actress": [],
@@ -1848,20 +1548,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
       "荡妇",
-      "局部特写",
+      "主观视角",
+      "屁股",
       "肛交",
-      "主观视角"
+      "局部特写"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/4541e8cc2b01678cee98661b228f3069.jpg",
     "actress": [
@@ -1883,19 +1577,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "姐姐",
       "内衣",
       "主观视角",
-      "姐姐",
       "猥亵穿着"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2022-07-19",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7a3093d099a5de6f7384ede23b840155.jpg",
     "actress": [
@@ -1903,5 +1591,75 @@ window.PAGE_DATA = [
       "叶月もえ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-103"
+  },
+  {
+    "id": 566887,
+    "IDcode": "AARM-104",
+    "title": "脸埋丰满乳房舔弄的同时被舔奶头、吸老二",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f4f96558943b64b4074ca95c593d71e4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-104"
+  },
+  {
+    "id": 87249,
+    "IDcode": "AARM-105",
+    "title": "Garterbelt！ Highheel！ Bitch！！ 滝川恵理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "恋腿癖",
+      "单体作品",
+      "巨大屁股",
+      "连裤袜",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "2022-07-26",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/76ee3a6c05e9fbe4018199d1dcfc8e1a.jpg",
+    "actress": [
+      "有沢実纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-105"
+  },
+  {
+    "id": 87233,
+    "IDcode": "AARM-106",
+    "title": "♯個人店♯マッサージ♯裏メニュー♯確信犯…でヒットするマッサージ店は、ほぼ「○○あり」が多いと噂の件 ～マッサージで感じちゃった「あるある」BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "恋物癖",
+      "按摩",
+      "4小时以上作品",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230721-1/b0057a61e31b5cd6049fe588d9ad702c.jpg",
+    "actress": [
+      "本真友里",
+      "羽生ありさ",
+      "平野里実",
+      "新村晶",
+      "成泽ひなみ",
+      "伊东真绪",
+      "市川彩香",
+      "池内凉子",
+      "二宫莉央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-106"
   }
 ];

@@ -42,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "FC2",
       "publish_date": "2025-06-06",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fc49ed07b732a005e9329687d1119fdd.jpg",

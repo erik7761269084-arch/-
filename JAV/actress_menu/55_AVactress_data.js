@@ -709,7 +709,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c6495d57b64bfd0ed28b/cover.jpg",
       "actress": [
@@ -999,7 +999,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2f18682e2e9281a548ec/cover.jpg",
       "actress": [

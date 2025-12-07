@@ -217,7 +217,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2024-04-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240416/aaeb392c-cde6-47f3-b0da-a7e5c3e30e41.jpg",
       "actress": [
@@ -475,7 +475,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
       "actress": [
@@ -539,7 +539,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b771298bc99dfddda4569/cover.jpg",
       "actress": [

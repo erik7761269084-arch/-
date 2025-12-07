@@ -532,7 +532,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7b0aca0063c92fbabaf1c/cover.jpg",
       "actress": [

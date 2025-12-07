@@ -566,7 +566,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "2020-10-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220925-1/feec6bf8328888ed7efab55aea42a8d5.jpg",
       "actress": [
@@ -1421,7 +1421,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/777f41b81fecfd54302d9cc0909b04ad.jpg",
       "actress": [
@@ -2752,7 +2752,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250616/202506162222276363_thumbnail.webp",
       "actress": [

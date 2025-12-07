@@ -332,7 +332,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-1/9f0c458a2fbad64ae8a34d1b38e89a30.jpg",
       "actress": [
@@ -710,7 +710,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "溜池",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250408-1/f4ce209bd01e113628249082046da966.jpg",

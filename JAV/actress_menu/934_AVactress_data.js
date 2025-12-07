@@ -174,7 +174,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/cfdd62d4a2187c7e69c5aa361f82d2e0.jpg",
       "actress": [
@@ -257,7 +257,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/91e1ca78461702c626143dc3f21a5e04.jpg",
       "actress": [

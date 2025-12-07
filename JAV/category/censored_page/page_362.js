@@ -1,161 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 523023,
-    "IDcode": "DJSH-014-CD1",
-    "title": "波多野结衣- 人妻 DX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250415/ATObPqsc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-014-CD1"
-  },
-  {
-    "id": 523016,
-    "IDcode": "DJSH-014-CD2",
-    "title": "波多野结衣- 人妻 DX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250415/0X8Im9i9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-014-CD2"
-  },
-  {
-    "id": 523020,
-    "IDcode": "DJSH-041-CD1",
-    "title": "波多野结衣- お母さんのエロボディーをおかずにセンズリをする俺。ビンビンに勃起したチ○ポをシコシコする姿を见せつけたらお母さんは発情してマン汁垂らしまくっちゃいました！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250415/EgoxUTmK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-041-CD1"
-  },
-  {
-    "id": 523018,
-    "IDcode": "DJSH-041-CD2",
-    "title": "波多野结衣- お母さんのエロボディーをおかずにセンズリをする俺。ビンビンに勃起したチ○ポをシコシコする姿を见せつけたらお母さんは発情してマン汁垂らしまくっちゃいました！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250415/Guqf1B0g/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-041-CD2"
-  },
-  {
-    "id": 523025,
-    "IDcode": "DJSH-043-CD1",
-    "title": "波多野结衣- 憧れの近亲相奸！お母さんのカラダにいつもフル勃起する息子のチ○ポ、息子の嫁に介护されムラムラして元気になった义父のカリでかチ○ポで犯りまくり、诱惑、レイプ、中出し、3P当たり前 13名4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250415/B8QvuZE1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-043-CD1"
-  },
-  {
-    "id": 523033,
-    "IDcode": "DJSH-043-CD2",
-    "title": "波多野结衣- 憧れの近亲相奸！お母さんのカラダにいつもフル勃起する息子のチ○ポ、息子の嫁に介护されムラムラして元気になった义父のカリでかチ○ポで犯りまくり、诱惑、レイプ、中出し、3P当たり前 13名4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250416/65fsjiWq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-043-CD2"
-  },
-  {
-    "id": 523030,
-    "IDcode": "DJSH-046-CD1",
-    "title": "波多野结衣- ビッチ艶女 淫乱な美熟女のマニアックプレイ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250416/EuWgdkQ6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-046-CD1"
-  },
-  {
-    "id": 523031,
-    "IDcode": "DJSH-046-CD2",
-    "title": "波多野结衣- ビッチ艶女 淫乱な美熟女のマニアックプレイ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250416/WSX82S7m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-046-CD2"
-  },
-  {
-    "id": 526085,
-    "IDcode": "DJSH-049",
-    "title": "厳选！桜井あゆベスト4时间～痴女プレイ、颜射、口内発射、レイプ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSH-049"
-  },
-  {
-    "id": 523026,
-    "IDcode": "DJSI-051",
-    "title": "波多野结衣- 人妻と相互オナニー鉴赏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250416/btgTRt5k/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJSI-051"
-  },
-  {
     "id": 523028,
     "IDcode": "DJSI-052",
     "title": "波多野结衣- 再婚で家に来たキレイなお母さんは欲求不満で困ってしまいます。仆や祖父のチ○ポを内绪でしゃぶり精子を绞りとるんです。",
@@ -164,7 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/axVcvgot/1.jpg",
     "actress": [],
@@ -181,7 +25,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/LRvmu5kL/1.jpg",
     "actress": [],
@@ -198,7 +42,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/MjZDT2qx/1.jpg",
     "actress": [],
@@ -215,7 +59,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/yV7S1hKw/1.jpg",
     "actress": [],
@@ -230,7 +74,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f633a3631cc64eb5bca1b0/poster2.jpg",
     "actress": [],
@@ -247,7 +91,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230225-1/34416c32fe2991774ddaab63b6cee331.jpg",
     "actress": [],
@@ -264,7 +108,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230225-1/9955f7505c117b6d6d2e2eedd0a37eee.jpg",
     "actress": [],
@@ -279,7 +123,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/ucoN0hYG/1.jpg",
     "actress": [],
@@ -296,7 +140,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/rBWvuFBz/1.jpg",
     "actress": [],
@@ -311,7 +155,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/2mWCLKZa/1.jpg",
     "actress": [],
@@ -326,7 +170,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -341,7 +185,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/Zgkrrqo4/1.jpg",
     "actress": [],
@@ -356,7 +200,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69012eaad6fbef4e9015e04d/poster2.jpg",
     "actress": [],
@@ -371,7 +215,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -386,7 +230,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/UsEWre7F/1.jpg",
     "actress": [],
@@ -401,7 +245,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/cZH2BQFJ/1.jpg",
     "actress": [],
@@ -416,7 +260,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/PFPwJ5tV/1.jpg",
     "actress": [],
@@ -431,7 +275,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/i1k1p0Ho/1.jpg",
     "actress": [],
@@ -446,7 +290,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/LciScfvG/1.jpg",
     "actress": [],
@@ -461,7 +305,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/e3hPeQSQ/1.jpg",
     "actress": [],
@@ -478,7 +322,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/UtZoF1jx/1.jpg",
     "actress": [],
@@ -493,7 +337,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/KIvbqHYm/1.jpg",
     "actress": [],
@@ -508,7 +352,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -523,7 +367,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -537,14 +381,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "女检察官",
-      "制服",
       "成熟的女人",
-      "巨乳"
+      "巨乳",
+      "羞耻",
+      "制服",
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-01-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -561,7 +405,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -576,7 +420,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -590,15 +434,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
+      "精选，综合",
       "凌辱",
       "羞耻",
-      "女检察官",
-      "精选，综合",
-      "连裤袜"
+      "连裤袜",
+      "捆绑",
+      "女检察官"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-06-25",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/f4e316effb216f7fdbb9ea2cabaae135.jpg",
     "actress": [
@@ -615,7 +459,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9a6720682c4d8376903275d5e243e9dd.jpg",
     "actress": [],
@@ -632,7 +476,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -647,7 +491,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -662,13 +506,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "白天出轨",
       "护士",
       "乳房",
-      "制服"
+      "制服",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-12-03",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/fbb57d7b4260d3c63518b52d41ced10f.jpg",
     "actress": [
@@ -685,7 +529,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic29.anzise.com/pic/20220526/3d2f28bad22bc29377a55dc296ef4e72/1.jpg",
     "actress": [],
@@ -700,7 +544,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/efb7a96fd974b3730a177a525474131d.jpg",
     "actress": [],
@@ -709,16 +553,16 @@ window.PAGE_DATA = [
   {
     "id": 541716,
     "IDcode": "DKD-010",
-    "title": "[] 引きこもりで阴キャなくせに巨乳で可爱いウチの姊ちゃんは仆のチ●ポしか舐めない。 月野かすみ",
+    "title": "引きこもりで阴キャなくせに巨乳で可爱いウチの姊ちゃんは仆のチ●ポしか舐めない。 月野かすみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231003/24dkd010pl.jpg!320x216.jpg",
     "actress": [],
@@ -735,7 +579,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240129/24dkd011pl.jpg!320x216.jpg",
     "actress": [],
@@ -749,17 +593,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
-      "平胸",
-      "白天出轨",
+      "单体作品",
       "护士",
+      "苗条",
       "姐姐",
       "制服",
-      "单体作品"
+      "平胸",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/e61f66d7ae43e048e7cf6209f6fd3501.jpg",
     "actress": [
@@ -777,7 +621,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05c13eb67774efbacd4fe/cover.jpg",
     "actress": [],
@@ -792,7 +636,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/2986cfa5d22c3bfa54c57c8cc086707a.jpg",
     "actress": [],
@@ -807,7 +651,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/W7cIQTzQ/1.jpg",
     "actress": [],
@@ -822,7 +666,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/egaLoX4V/1.jpg",
     "actress": [],
@@ -837,7 +681,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/GLfgeQ7z/1.jpg",
     "actress": [],
@@ -852,7 +696,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/3erlWAmS/1.jpg",
     "actress": [],
@@ -867,7 +711,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230226-1/69cf58e68af8641ea84269c88c75af4e.jpg",
     "actress": [],
@@ -882,7 +726,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230226-1/e32eefe159310cca57745ee4fd64003a.jpg",
     "actress": [],
@@ -891,17 +735,17 @@ window.PAGE_DATA = [
   {
     "id": 590346,
     "IDcode": "DKN-001",
-    "title": "[]DOC发掘AV出道！！爱自慰的混血巨乳文青女大生！被大叔舔奶3P狂干。Volume.01",
+    "title": "DOC发掘AV出道！！爱自慰的混血巨乳文青女大生！被大叔舔奶3P狂干。Volume.01",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
+      "巨乳",
       "出道作",
-      "巨乳"
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221119-1/d2762260fbe7ae3129ff940b76da5ce7.jpg",
     "actress": [],
@@ -910,7 +754,7 @@ window.PAGE_DATA = [
   {
     "id": 590398,
     "IDcode": "DKN-002",
-    "title": "[]DOC的密着AV档案 持续交涉让校园选美皇后拍摄AV。",
+    "title": "DOC的密着AV档案 持续交涉让校园选美皇后拍摄AV。",
     "year": "",
     "country": "",
     "genre": "",
@@ -918,7 +762,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230304-1/466232b962f99e5177116e727185e401.jpg",
     "actress": [],
@@ -933,7 +777,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -948,7 +792,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69095677e264e6282dff932e/poster2.jpg",
     "actress": [],
@@ -965,7 +809,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-05-03",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -980,7 +824,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-06-07",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250101-1/85a4a4702800c20e9da5094c0e6b8bbd.jpg",
     "actress": [],
@@ -997,7 +841,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-08-16",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/cefca8a84924e1c194287436e4948bf2.jpg",
     "actress": [],
@@ -1012,7 +856,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1029,7 +873,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241027/CU0AfY5a/1.jpg",
     "actress": [],
@@ -1044,7 +888,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1059,7 +903,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191213-1/756dcc3398494b8ffb1f8bbcb4ebcab6.jpg",
     "actress": [],
@@ -1074,7 +918,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1089,7 +933,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1104,7 +948,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69095bbae264e6282dffa5de/poster2.jpg",
     "actress": [],
@@ -1118,16 +962,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
       "羞耻",
-      "4小时以上作品",
-      "局部特写",
-      "肛交",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "4小时以上作品",
+      "肛交",
+      "局部特写",
+      "瘦小身型"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7e30efd3766af45d2d06e841a4232536.jpg",
     "actress": [
@@ -1147,7 +991,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690af17a1fcdee36fa76b326/poster2.jpg",
     "actress": [],
@@ -1165,7 +1009,7 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1180,7 +1024,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1195,7 +1039,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe7532dd88d14f06564df1/poster2.jpg",
     "actress": [],
@@ -1210,7 +1054,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e2244dd6fbef4e90e094aa/cover.jpg",
     "actress": [],
@@ -1225,7 +1069,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231207/1612269481-dksb-102.jpg!320x216.jpg",
     "actress": [],
@@ -1242,7 +1086,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/nWRCST1b/1.jpg",
     "actress": [],
@@ -1257,7 +1101,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68884e59c92318f97d009008/cover.jpg",
     "actress": [],
@@ -1274,13 +1118,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1295,13 +1133,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1316,13 +1148,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1337,13 +1163,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1358,13 +1178,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e50072c1213ac338d488867cc41f0b8c.jpg",
     "actress": [],
@@ -1378,20 +1192,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "已婚妇女",
-      "自慰",
       "口交",
-      "巨乳"
+      "巨乳",
+      "已婚妇女",
+      "潮吹",
+      "自慰"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2b6d80d1c2cf0f23092cba26598c97ea.jpg",
     "actress": [
@@ -1408,13 +1216,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/07/23/7066fb8b7168e9b5140f6b040d55cd3d.jpg",
     "actress": [],
@@ -1429,13 +1231,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/16/92d5c6088897245efee7bd3814c74271.jpg",
     "actress": [],
@@ -1452,7 +1248,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250504-1/ea26b02239ad389e876aec4db1b43095.jpg",
     "actress": [],
@@ -1469,7 +1265,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250505-1/54a54ce63a0a378b553f74eac0072c1b.jpg",
     "actress": [],
@@ -1486,7 +1282,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1501,7 +1297,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250429-1/22a7ab72921845257bad69326d895caf.jpg",
     "actress": [],
@@ -1518,7 +1314,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1533,7 +1329,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://le.lefhao20250923.top/upload/vod/20250520-1/543eb53008d06e7c623482cc54f3af41.jpg",
     "actress": [],
@@ -1550,13 +1346,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1571,13 +1361,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/6fgm1aYA.jpg",
     "actress": [],
@@ -1591,19 +1375,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "新娘，年轻妻子",
       "巨乳",
-      "已婚妇女"
+      "已婚妇女",
+      "新娘，年轻妻子",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/aea70775c0dfd4f0b06304996d111a21.jpg",
     "actress": [
@@ -1620,13 +1398,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/21335_cover_2025-09-20_082514.jpg",
     "actress": [],
@@ -1640,21 +1412,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "流汗",
       "巨大屁股",
       "无码破解",
       "姐姐",
-      "讲师",
-      "单体作品"
+      "讲师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/4abc128b990492680006cd8264bbb766.jpg",
     "actress": [
@@ -1672,13 +1438,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/53638_cover_2025-09-20_082514.jpg",
     "actress": [],
@@ -1693,13 +1453,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1714,16 +1468,191 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-011"
+  },
+  {
+    "id": 212313,
+    "IDcode": "DLDSS-012",
+    "title": "直到你的身体被掏空-七海ティナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-012"
+  },
+  {
+    "id": 212286,
+    "IDcode": "DLDSS-013",
+    "title": "人妻女社長-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-013"
+  },
+  {
+    "id": 212200,
+    "IDcode": "DLDSS-014",
+    "title": "元薬剤師-我妻里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-014"
+  },
+  {
+    "id": 79293,
+    "IDcode": "DLDSS-015",
+    "title": "社長夫人-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "接吻",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/83a57ed87605ba05421d3d89138ee5d1.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-015"
+  },
+  {
+    "id": 214003,
+    "IDcode": "DLDSS-016",
+    "title": "接吻性交-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/d51b11d04f4de85c2032b08880ebcd09.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-016"
+  },
+  {
+    "id": 79335,
+    "IDcode": "DLDSS-017",
+    "title": "性接客-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "礼仪小姐",
+      "吞精"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/sBThue23.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-017"
+  },
+  {
+    "id": 461771,
+    "IDcode": "DLDSS-019",
+    "title": "こんなピンクの乳首見たことない！近所の人妻さんの浮きブラ乳首に即勃起してしまった僕 七海蒂娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/97ec4712f649749cf9f8cae77d118170.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-019"
+  },
+  {
+    "id": 84258,
+    "IDcode": "DLDSS-020",
+    "title": "超高級旅館-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "接吻",
+      "老板娘，女主人",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-020"
+  },
+  {
+    "id": 79714,
+    "IDcode": "DLDSS-021",
+    "title": "緊急SEX！ M男のチ○ポぜんぶ抜く大作戦 上下のお口で精液摂取SP 東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/1569a70c841bf87a740e1994c7121699.jpg",
+    "actress": [
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-021"
+  },
+  {
+    "id": 213059,
+    "IDcode": "DLDSS-022",
+    "title": "女上司-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-022"
   }
 ];

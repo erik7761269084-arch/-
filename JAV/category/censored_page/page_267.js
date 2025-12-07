@@ -1,52 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 566700,
-    "IDcode": "BBTU-034",
-    "title": "用喉头深处和巨乳疯狂高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/MXcQlGh1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-034"
-  },
-  {
-    "id": 566699,
-    "IDcode": "BBTU-035",
-    "title": "和超大奶女经理抽插的棒球社",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/2rZNoz9s.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-035"
-  },
-  {
     "id": 538140,
     "IDcode": "BBTU-037",
-    "title": "[] デカパイ少女 虐め倶楽部 水原みその",
+    "title": "デカパイ少女 虐め倶楽部 水原みその",
     "year": "",
     "country": "",
     "genre": "",
@@ -54,13 +10,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240118/bbtu037pl.jpg!320x216.jpg",
     "actress": [],
@@ -75,13 +25,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/50f9b31ee3eb9ab6fd279c112aea8565.jpg",
     "actress": [],
@@ -98,13 +42,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/15405b7e53c1269a8cb3d14b9fda3ee0.jpg",
     "actress": [],
@@ -121,13 +59,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250425/wq6KqQyU/1.jpg",
     "actress": [],
@@ -142,13 +74,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ulkyi5ed.jpg",
     "actress": [],
@@ -162,21 +88,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "乳液",
-      "乳交",
-      "拘束",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "乳液",
+      "拘束",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2022-08-16",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/5BQSCFju.jpg",
     "actress": [],
@@ -193,13 +113,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/16d9d392fb8564c23669762b9384e7ca.jpg",
     "actress": [],
@@ -216,13 +130,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250425/wfCxxNYp/1.jpg",
     "actress": [],
@@ -239,13 +147,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d4ec8b598b42421dd888b5d728964b12.jpg",
     "actress": [],
@@ -260,13 +162,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b21cdd2f4cbbd5256eb1c6c18ffa79d5.jpg",
     "actress": [],
@@ -283,13 +179,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b242f432b30c11b89d31157556a9e314.jpg",
     "actress": [],
@@ -304,21 +194,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "4K",
       "巨乳",
       "恋乳癖",
-      "淫语",
+      "单体作品",
+      "4K",
       "泳装",
-      "单体作品"
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/653a2994cf4fa23fbe816173d9451830.jpg",
     "actress": [
@@ -334,23 +218,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "深喉",
-      "4K",
-      "多P",
-      "中文字幕",
-      "拘束",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中文字幕",
+      "潮吹",
+      "4K",
+      "拘束",
+      "多P",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/97ce144a972e151c75017735865bf52b.png",
     "actress": [
@@ -367,21 +245,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "4K",
-      "乳交",
       "巨乳",
       "恋乳癖",
-      "淫语",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "4K",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -397,22 +269,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "4K",
-      "多P",
       "巨乳",
       "恋乳癖",
       "单体作品",
-      "女优按摩棒"
+      "潮吹",
+      "4K",
+      "女优按摩棒",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/7ddd6c3f2b8b59fa180725e67e643f96.jpg",
     "actress": [
@@ -429,21 +295,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乱伦",
       "巨乳",
-      "手淫",
-      "淫语",
       "恋乳癖",
-      "单体作品"
+      "单体作品",
+      "乱伦",
+      "手淫",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d818d43d6972716f10bb0/cover.jpg",
     "actress": [
@@ -459,22 +319,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "乳液",
-      "乳交",
-      "拘束",
       "巨乳",
       "恋乳癖",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "4K",
+      "乳液",
+      "拘束"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -483,22 +337,16 @@ window.PAGE_DATA = [
   {
     "id": 533099,
     "IDcode": "BBTU-056",
-    "title": "[] 闷絶 巨乳アクメ ローションハードファック 宝生めい",
+    "title": "闷絶 巨乳アクメ ローションハードファック 宝生めい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240301/bbtu056pl.jpg!320x216.jpg",
     "actress": [],
@@ -515,13 +363,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/p4LkFaXC/1.jpg",
     "actress": [],
@@ -536,13 +378,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/Wbzbaxba/1.jpg",
     "actress": [],
@@ -557,13 +393,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/MLjytgji/1.jpg",
     "actress": [],
@@ -580,13 +410,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/TVweXzpt/1.jpg",
     "actress": [],
@@ -603,13 +427,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230813/5RC33Tmy/1.jpg",
     "actress": [],
@@ -626,13 +444,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230813/iPraSx0i/1.jpg",
     "actress": [],
@@ -647,13 +459,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/DeMkVZdJ/1.jpg",
     "actress": [],
@@ -670,13 +476,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/Wip5q7NT/1.jpg",
     "actress": [],
@@ -693,13 +493,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231015/T8PiOX6f/1.jpg",
     "actress": [],
@@ -716,13 +510,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231015/dJv5CsKb/1.jpg",
     "actress": [],
@@ -737,13 +525,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa842ac813dc779d963bb/cover.jpg",
     "actress": [],
@@ -760,13 +542,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa6e6ac813dc779d963ae/cover.jpg",
     "actress": [],
@@ -783,13 +559,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231218/YclQLwxC/1.jpg",
     "actress": [],
@@ -806,13 +576,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231218/AXbC9Nor/1.jpg",
     "actress": [],
@@ -827,13 +591,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240115/Q6NRwj9x/1.jpg",
     "actress": [],
@@ -848,13 +606,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5916ac813dc779d962ad/cover.jpg",
     "actress": [],
@@ -869,13 +621,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240219/VhQOP8d9/1.jpg",
     "actress": [],
@@ -892,13 +638,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240319/DtyiekCw/1.jpg",
     "actress": [],
@@ -913,13 +653,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240416/kb0KjwH7/1.jpg",
     "actress": [],
@@ -933,31 +667,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "多P",
-      "淫亂",
-      "JK校服",
+      "口交",
       "蠻橫嬌羞",
-      "癡女",
+      "巨乳",
+      "絕頂高潮",
+      "淫亂",
       "乳交",
       "中出",
-      "口交",
-      "巨乳",
-      "劇情",
-      "亂交 • 群P",
       "辣妹/GAL系",
-      "絕頂高潮"
+      "美少女電影",
+      "女學生",
+      "亂交 • 群P",
+      "劇情",
+      "多P",
+      "JK校服",
+      "美少女",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-05-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/46cb74f8-f865-4208-b5db-7d26a26104ef.jpg",
     "actress": [
@@ -973,34 +701,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "女友・妻子",
-      "多P",
       "凌辱",
       "拘束・拷問",
-      "羞恥",
+      "蕩婦",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "兩男一女",
       "人妻",
+      "兩男一女",
       "淫亂",
       "猥褻穿著",
-      "蕩婦",
       "劇情",
       "絕頂高潮",
+      "女友・妻子",
+      "羞恥",
+      "巨乳",
       "乳交",
+      "情趣內衣",
       "女上位",
-      "情趣內衣"
+      "多P",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-05-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/91ee0309-2fe6-466d-85b7-22e31ee670d4.jpg",
     "actress": [
@@ -1016,35 +738,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "兔女郎妝扮",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "潮吹",
       "淫亂",
       "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
-      "女上位"
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240617/8bed0d57-4b96-4761-a8b9-d25167707a20.jpg",
     "actress": [
@@ -1060,45 +776,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "性虐癖",
-      "打屁股",
-      "苗條",
       "凌辱",
-      "美少女",
-      "緊縛",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
+      "性虐癖",
+      "蕩婦",
+      "SM",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
+      "打屁股",
+      "舔陰",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "SM",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
       "美少女電影",
-      "手指插入",
-      "乳交",
+      "劇情",
       "調教",
+      "美少女",
+      "絕頂高潮",
+      "緊縛",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240617/20240617030117902902.jpg",
     "actress": [
@@ -1114,36 +824,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "辣妹/GAL系",
-      "胸控・戀乳癖",
-      "美乳",
-      "過膝襪・小腿襪",
-      "按摩棒",
-      "巨乳",
-      "口交",
+      "蕩婦",
       "大乳暈",
       "淫亂",
-      "猥褻穿著",
       "中出",
-      "蕩婦",
+      "猥褻穿著",
+      "過膝襪・小腿襪",
+      "按摩棒",
       "後入",
-      "企畫",
-      "抹油",
       "絕頂高潮",
+      "辣妹/GAL系",
       "女優",
-      "乳交",
-      "女上位",
+      "企畫",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "抹油"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240714/9075fa5b-f38a-4af9-81bc-387bc462bb3f.jpg",
     "actress": [
@@ -1159,44 +863,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
       "女學生",
-      "多P",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
       "深喉",
+      "癡女",
+      "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "抹油",
-      "顏射",
-      "絕頂高潮",
-      "清純",
       "美少女電影",
+      "抹油",
+      "美少女",
+      "絕頂高潮",
+      "色白",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-07-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
     "actress": [
@@ -1212,43 +910,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "M男・M女",
-      "性虐癖",
       "凌辱",
-      "美少女",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "變態",
-      "按摩棒",
+      "性虐癖",
+      "蕩婦",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
       "兩男一女",
       "淫亂",
-      "猥褻穿著",
       "中出",
-      "蕩婦",
-      "後入",
+      "猥褻穿著",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "M男・M女",
+      "色白",
       "企畫",
       "女優",
-      "美少女電影",
-      "乳交",
-      "女上位",
+      "變態",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240818/87d4be65-3895-4022-a44a-71299a55db9b.jpg",
     "actress": [
@@ -1267,13 +959,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240819/SJKP6nuD/1.jpg",
     "actress": [],
@@ -1287,59 +973,53 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "女學生",
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "唾液敷面",
-      "蠟燭",
+      "少女",
       "凌辱",
-      "美少女",
-      "緊縛",
-      "癡女",
       "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
+      "女學生",
+      "口爆",
+      "SM",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "暗黑系",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
       "深喉",
+      "癡女",
+      "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "SM",
-      "抹油",
-      "顏射",
-      "絕頂高潮",
       "美少女電影",
-      "手指插入",
-      "乳交",
+      "抹油",
+      "性感",
       "調教",
-      "白眼失神",
+      "美少女",
+      "蠟燭",
+      "絕頂高潮",
+      "M男・M女",
+      "緊縛",
+      "企畫",
+      "變態",
+      "顏射",
+      "暗黑系",
+      "插入異物",
+      "手指插入",
+      "導尿",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "白眼失神",
+      "後入",
+      "唾液敷面",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240916/041b62e0-d3d2-4aad-9121-f0a43573eba0.jpg",
     "actress": [
@@ -1355,40 +1035,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "感官作品",
       "凌辱",
-      "美少女",
-      "癡女",
       "主觀視角",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "形象俱樂部",
+      "癡女",
+      "感官作品",
       "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
       "抹油",
+      "美少女",
+      "按摩棒",
       "女優",
+      "企畫",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
       "乳交",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "跳蛋",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240917/8d2b2868-3382-4fad-b705-0848010f1dbf.jpg",
     "actress": [
@@ -1405,13 +1079,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/f6011eb575f66b4102d95df23d373e50.jpg",
     "actress": [],
@@ -1425,54 +1093,48 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "性虐癖",
-      "辣妹/GAL系",
       "凌辱",
-      "緊縛",
+      "性虐癖",
       "美腳",
       "拘束・拷問",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "跳蛋",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "美腿",
+      "口爆",
       "SM",
       "美臀",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "深喉",
       "膚黑",
-      "高跟鞋",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
       "調教",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "辣妹/GAL系",
+      "女優",
+      "緊縛",
       "金髮",
-      "女上位",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "後入",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/4688af443fdc610a8d7d2f56ecce1a23.jpg",
     "actress": [
@@ -1491,13 +1153,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678882735d57b64bfd2c0a7d/cover.jpg",
     "actress": [],
@@ -1514,13 +1170,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789287a5d57b64bfd161e8a/cover.jpg",
     "actress": [],
@@ -1534,61 +1184,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "M男・M女",
-      "口爆",
       "豐滿",
-      "插入異物",
-      "唾液敷面",
-      "放尿",
-      "痴漢",
       "凌辱",
-      "緊縛",
-      "綁架",
-      "心理驚悚",
-      "胖女人",
       "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "監禁",
-      "按摩棒",
+      "口爆",
+      "SM",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "暗黑系",
-      "形象俱樂部",
-      "兩男一女",
       "深喉",
+      "兩男一女",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "手指插入",
-      "魔鬼系",
-      "乳交",
+      "胖女人",
+      "性感",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "綁架",
+      "女優",
+      "緊縛",
+      "企畫",
+      "變態",
+      "顏射",
+      "暗黑系",
+      "插入異物",
+      "痴漢",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
       "拳擊交",
+      "監禁",
+      "乳交",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "放尿",
+      "白眼失神",
+      "多P",
+      "後入",
+      "唾液敷面",
+      "心理驚悚",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
     "actress": [
@@ -1604,46 +1248,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "3P・4P",
-      "巨尻",
-      "慾求不滿",
       "真實拍攝",
-      "局部特寫",
-      "淫語",
       "主觀視角",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "口交",
+      "蕩婦",
       "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "形象俱樂部",
-      "兩男一女",
+      "淫語",
       "人妻",
-      "美人妻",
+      "兩男一女",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
+      "按摩棒",
       "絕頂高潮",
+      "白絲",
+      "色白",
+      "企畫",
       "女優",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "慾求不滿",
       "乳交",
+      "局部特寫",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241216/2b21decf-1588-4942-a0de-c2f75bc7e2b2.jpg",
     "actress": [
@@ -1660,13 +1298,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1680,21 +1312,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
+      "单体作品",
+      "乳交",
       "胖女人",
       "乳液",
-      "乳交",
-      "巨乳",
-      "单体作品"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1713,13 +1339,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1736,13 +1356,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1756,38 +1370,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
       "豐滿",
-      "局部特寫",
-      "胖女人",
-      "胸控・戀乳癖",
+      "蕩婦",
       "亂交 • 群P",
-      "巨乳",
-      "口交",
+      "重口味",
       "大乳暈",
       "兩男一女",
       "淫亂",
-      "超爆乳",
       "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "重口味",
+      "胖女人",
       "女優",
+      "企畫",
+      "騎乗位",
+      "超爆乳",
+      "巨尻",
+      "巨乳",
+      "口交",
       "乳交",
+      "局部特寫",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250316/8115ce5c-1c20-4663-9789-ef863c69dd5f.jpg",
     "actress": [
@@ -1804,13 +1412,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1fe8fe4a73d4f159b4451/cover.jpg",
     "actress": [],
@@ -1824,22 +1426,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胖女人",
-      "乳液",
-      "乳交",
-      "恋乳癖",
+      "紧身衣",
       "巨乳",
+      "恋乳癖",
       "单体作品",
-      "紧身衣"
+      "乳交",
+      "胖女人",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250521-1/3b0fa5155f932ecdec129a8355d5f724.jpg",
     "actress": [
@@ -1855,49 +1451,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "打手槍",
-      "艷遇",
-      "巨尻",
-      "口爆",
       "豐滿",
-      "4K",
-      "癡女",
       "主觀視角",
-      "羞恥",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
+      "口爆",
+      "單體作品",
+      "癡女",
+      "幼稚園老師",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "劇情",
       "按摩棒",
+      "勾引・誘惑",
+      "打手槍",
+      "絕頂高潮",
+      "色白",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "巨尻",
       "口交",
       "巨乳",
+      "乳交",
+      "4K",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
       "性感",
       "跳蛋",
-      "形象俱樂部",
-      "單體作品",
-      "淫亂",
-      "超爆乳",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "幼稚園老師",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2e7f682e2e9281a548e9/cover.jpg",
     "actress": [
@@ -1913,53 +1503,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "巨尻",
-      "口爆",
       "真實拍攝",
       "豐滿",
-      "4K",
-      "胖女人",
       "拘束・拷問",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "人妻",
-      "淫亂",
-      "超爆乳",
-      "中出",
       "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
+      "口爆",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "抹油",
+      "濕身",
+      "亂交 • 群P",
+      "單體作品",
+      "人妻",
       "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "胖女人",
+      "抹油",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "女優",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
       "乳交",
+      "4K",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024309505505_59469_thumbnail.webp",
     "actress": [
@@ -1975,74 +1559,68 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "M男・M女",
-      "口爆",
       "豐滿",
-      "苗條",
-      "臀控",
-      "阪道系",
       "凌辱",
-      "4K",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "接吻",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "深喉",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
       "蠻橫嬌羞",
-      "超爆乳",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
+      "美腳",
+      "拘束・拷問",
+      "口爆",
+      "臀控",
       "SM",
+      "亂交 • 群P",
+      "單體作品",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "抹油",
+      "深喉",
+      "癡女",
       "舔陰",
-      "脚控・戀足癖",
       "女神",
-      "手指插入",
-      "無毛",
-      "乳交",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "接吻",
+      "抹油",
+      "性感",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "明星臉",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "4K",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "濕身",
+      "跳蛋",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "2025-08-15",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032239619619_38559_thumbnail.webp",
     "actress": [
@@ -2058,67 +1636,61 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "M男・M女",
-      "口爆",
       "豐滿",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
       "鬼畜片",
-      "網路紅人",
-      "阪道系",
+      "性虐癖",
       "凌辱",
-      "4K",
-      "緊縛",
       "拘束・拷問",
-      "羞恥",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "淫蕩・硬核",
-      "暗黑系",
-      "潮吹",
-      "大乳暈",
-      "單體作品",
-      "刑架",
-      "深喉",
-      "高顏值",
-      "淫亂",
-      "超爆乳",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
+      "口爆",
       "SM",
-      "顏射",
-      "絕頂高潮",
-      "女優",
+      "打屁股",
+      "亂交 • 群P",
+      "單體作品",
+      "深喉",
+      "刑架",
+      "重口味",
+      "大乳暈",
       "舔陰",
-      "手指插入",
-      "魔鬼系",
-      "69",
+      "淫亂",
+      "中出",
+      "性感",
       "調教",
-      "白眼失神",
+      "按摩棒",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "色白",
+      "緊縛",
+      "高顏值",
+      "顏射",
+      "女優",
+      "暗黑系",
+      "阪道系",
+      "插入異物",
+      "69",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "魔鬼系",
+      "4K",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "網路紅人",
+      "白眼失神",
+      "後入",
+      "唾液敷面",
+      "跳蛋",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045816969969_59156_thumbnail.webp",
     "actress": [
@@ -2137,13 +1709,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/27/cddb3952fb7d9192cb43a39969700984.jpg",
     "actress": [],
@@ -2158,7 +1724,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic48.anzise.com/pic/20230322/96e846cfffcb3043f7e79931a272b64c/1.jpg",
     "actress": [],
@@ -2173,7 +1739,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2187,13 +1753,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "姐姐",
       "恶作剧",
-      "巨乳"
+      "巨乳",
+      "姐姐",
+      "OL"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/83cbf18963542167e77c208744fdd504.jpg",
     "actress": [
@@ -2209,12 +1775,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "拘束",
-      "胖女人",
-      "巨乳"
+      "胖女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-12-13",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/01ebfb3aa3132ed69463e2562b391e6d.jpg",
     "actress": [
@@ -2232,7 +1798,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1784e7d663df4e2a7fa/cover.jpg",
     "actress": [],
@@ -2247,7 +1813,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e7977f3b7c929073bdd6/cover.jpg",
     "actress": [],
@@ -2264,7 +1830,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d70262944bbe4ef015e4d0/cover.jpg",
     "actress": [],
@@ -2279,7 +1845,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2294,7 +1860,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2311,7 +1877,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2326,13 +1892,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886282c92318f97d01fe1e/cover.jpg",
     "actress": [],
@@ -2347,7 +1907,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2362,13 +1922,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/11/691287a372c0032a43fe6631/poster2.jpg",
     "actress": [],
@@ -2383,13 +1937,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914f48a46d2372859bc00f6/poster2.jpg",
     "actress": [],
@@ -2406,13 +1954,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69051bc22fdf2b287a20bc47/poster2.jpg",
     "actress": [],
@@ -2427,13 +1969,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231231/bda013pl.jpg!320x216.jpg",
     "actress": [],
@@ -2450,13 +1986,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231231/bda014pl.jpg!320x216.jpg",
     "actress": [],
@@ -2471,13 +2001,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231231/bda015pl.jpg!320x216.jpg",
     "actress": [],
@@ -2492,13 +2016,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250322/pNcd21Iy/1.jpg",
     "actress": [],
@@ -2513,13 +2031,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240109/bda019pl.jpg!320x216.jpg",
     "actress": [],
@@ -2534,13 +2046,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9945d4e7d663df4047c12/cover.jpg",
     "actress": [],
@@ -2555,13 +2061,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2576,13 +2076,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250322/mrlqizUe/1.jpg",
     "actress": [],
@@ -2597,19 +2091,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
       "其他恋物癖",
+      "手淫",
       "足交",
-      "手淫"
+      "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2626,13 +2114,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250322/xqTTxzSS/1.jpg",
     "actress": [],
@@ -2647,13 +2129,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240505-1/5b2340755c1a2a7932189644fbe3abd3.jpg",
     "actress": [],
@@ -2668,13 +2144,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2689,13 +2159,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250323/FtTA0942/1.jpg",
     "actress": [],
@@ -2710,13 +2174,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250323/p9bzx6pj/1.jpg",
     "actress": [],
@@ -2731,13 +2189,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2752,13 +2204,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/28d2d8422468f9a92365fd2fa102998c.jpg",
     "actress": [],
@@ -2773,13 +2219,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230622-1/bc25247db9ca215def4268c481f9986c.jpg",
     "actress": [],
@@ -2794,16 +2234,60 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250323/TPCmUpaK/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-071"
+  },
+  {
+    "id": 17282,
+    "IDcode": "BDA-074",
+    "title": "潜入捜査官 星奈あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "凌辱",
+      "打屁股",
+      "舔陰",
+      "緊身衣",
+      "強姦",
+      "中出",
+      "黑幫",
+      "拘束・拷問",
+      "緊縛",
+      "報復",
+      "媚藥・迷藥",
+      "辦公室",
+      "輪姦",
+      "手指插入",
+      "劇情",
+      "女搜查官"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20231213/a95cd73d-4421-4734-802a-b6476d4a210a.jpg",
+    "actress": [
+      "星奈爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-074"
+  },
+  {
+    "id": 523689,
+    "IDcode": "BDA-084",
+    "title": "バミューダ6周年特别企画 触手の生贽 ひなた澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/8be724551c10f986aedebb38db8e3249.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-084"
   }
 ];

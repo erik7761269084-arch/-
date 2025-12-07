@@ -384,7 +384,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68964e0455337d7f7babaee0/cover.jpg",
       "actress": [
@@ -402,7 +402,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250407-1/a97c889e343f58e9089cf5990af9e5e9.jpg",
       "actress": [
@@ -726,7 +726,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/24/c3c96a88/vod.jpg",
       "actress": [
@@ -796,7 +796,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250714-1/e44c0aa2a1dc327b2a887b6d5a5510eb.jpg",
       "actress": [
@@ -870,7 +870,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250718-1/6b1179a06a751ab20dfc7034b80f9f1d.jpg",
       "actress": [

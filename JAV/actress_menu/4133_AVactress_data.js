@@ -88,7 +88,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2020-03-13",
       "cover_url": "",
       "actress": [

@@ -908,7 +908,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0af01bf01cecc5df173a6ac0c85b73eb.jpg",
       "actress": [
@@ -968,7 +968,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/66797500a3cde77b48af123f6029058d.jpg",
       "actress": [

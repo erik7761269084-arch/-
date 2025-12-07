@@ -855,7 +855,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/8f3c99091d51fd034e7d207bbb55b1ab.jpg",
       "actress": [
@@ -1225,7 +1225,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20241127-1/fb6b37e7e3d9a119316f932f0caf02fa.jpg",
       "actress": [
@@ -1966,7 +1966,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/14b5cc9bba171e7ec065f841b2ab4aa6.jpg",
       "actress": [

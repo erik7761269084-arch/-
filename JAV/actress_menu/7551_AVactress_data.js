@@ -42,7 +42,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68418afb0b69f1d816679ef5/cover.jpg",
       "actress": [

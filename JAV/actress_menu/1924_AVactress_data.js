@@ -176,7 +176,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-06-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/cbf58f9f30239e2556c32e92f18395fa.jpg",
       "actress": [
@@ -553,7 +553,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c19f4c92318f97d35b74e/cover.jpg",
       "actress": [

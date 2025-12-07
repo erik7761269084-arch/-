@@ -134,7 +134,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-06-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/e45ef253f89c25418a2563ec18b775ba.jpg",
       "actress": [
@@ -317,7 +317,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2020-01-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/6378fe00feaed7727096efcbabfa4127.jpg",
       "actress": [
@@ -367,7 +367,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/39959f579c99f16e9c4ff5f91493dbf4.jpg",
       "actress": [
@@ -407,7 +407,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/156116d1ea92b53077a79478bd6d2303.jpg",
       "actress": [

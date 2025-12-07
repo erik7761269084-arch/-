@@ -43,7 +43,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "LAFORET GIRL",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250511-2/f59246ef3f796238a8996f4c4625b017.jpg",
       "actress": [

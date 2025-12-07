@@ -243,7 +243,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2024-08-08",
       "cover_url": "https://picture.yoshiclub.xyz/20240711/de55f9b8-7589-4b48-9e13-e45eec6ef3f6.jpg",
       "actress": [
@@ -381,7 +381,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea3ee51572686be784cbc3/cover.jpg",
       "actress": [
@@ -507,7 +507,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/14b5cc9bba171e7ec065f841b2ab4aa6.jpg",
       "actress": [
@@ -1087,7 +1087,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/284c8ab8/vod.jpg",
       "actress": [

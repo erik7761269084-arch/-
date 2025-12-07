@@ -309,7 +309,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2023-11-16",
       "cover_url": "https://picture.yoshiclub.xyz/20231117/ef755a4d-29c9-4ea0-a989-c450187b2869.jpg",
       "actress": [
@@ -658,7 +658,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defaf479f1ac4ec48a070f/cover.jpg",
       "actress": [
@@ -807,7 +807,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f2706a0063c92fb9fa243/cover.jpg",
       "actress": [

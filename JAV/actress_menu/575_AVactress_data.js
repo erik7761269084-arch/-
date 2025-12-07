@@ -315,7 +315,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/f13776bb004d7dea7a7360ed45252115.jpg",
       "actress": [

@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2021/06/30/c3ae02f5929d9580360367b56769c05c.jpg",
       "actress": [
@@ -142,7 +142,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240925-1/3f4b3b0ea76b9975392833c56621da54.jpg",
       "actress": [

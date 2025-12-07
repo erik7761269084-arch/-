@@ -1,2581 +1,1618 @@
 window.PAGE_DATA = [
   {
-    "id": 99802,
-    "IDcode": "JBD-177",
-    "title": "自宅出張SM4 みおり舞",
+    "id": 215008,
+    "IDcode": "JUC-779",
+    "title": "妻子开始在浴场工作-本庄瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/11/b91eedaa6b2c822ea153293a161cf004.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-779"
+  },
+  {
+    "id": 223883,
+    "IDcode": "JUC-781",
+    "title": "美義母-葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/4177d2a326bb25b242dac23af1932835.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-781"
+  },
+  {
+    "id": 215015,
+    "IDcode": "JUC-782",
+    "title": "性教育被暴露在耻辱之下-遥めぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/14/6d4818830f63da3c45357f3fec604403.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-782"
+  },
+  {
+    "id": 215134,
+    "IDcode": "JUC-783",
+    "title": "被强奸的机舱服务员-青木美空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/80b312581c4d7ea4ae5ead2a8d0c672d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-783"
+  },
+  {
+    "id": 549438,
+    "IDcode": "JUC-784",
+    "title": "爱する息子にフィストで贯かれた母 黒谷りょうこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230712/juc784pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-784"
+  },
+  {
+    "id": 536320,
+    "IDcode": "JUC-785",
+    "title": "嫁姑レズ调教 ～忘却の彼方に潜む姑の淫猥な欲望～ 椎名ゆな 翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230627/juc785pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-785"
+  },
+  {
+    "id": 549437,
+    "IDcode": "JUC-787",
+    "title": "义母の告白 ～息子の若い身体に溺れた女～ 高树结奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230712/juc787pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-787"
+  },
+  {
+    "id": 217243,
+    "IDcode": "JUC-788",
+    "title": "母乳義妹-和久井もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/27ad8e430f69a48e393ee7afb2d35f09.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-788"
+  },
+  {
+    "id": 549436,
+    "IDcode": "JUC-793",
+    "title": "Mother【マザー】 ～母と仆、リハビリに明け暮れた日々～ 暮町ゆうこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-793"
+  },
+  {
+    "id": 223756,
+    "IDcode": "JUC-795",
+    "title": "两大美熟女初共演-松本まりな 牧原れい子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/c9aabddb73b070677504bb50e5f5c754.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-795"
+  },
+  {
+    "id": 215125,
+    "IDcode": "JUC-796",
+    "title": "人妻家政婦-愛乃ゆな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/fe53c8e9d521c9f36b7294a9f632cec5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-796"
+  },
+  {
+    "id": 523211,
+    "IDcode": "JUC-801-CD1",
+    "title": "波多野结衣- 监禁されて、犯されて… ～间违えられた人妻～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250511/MbWCkywl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-801-CD1"
+  },
+  {
+    "id": 523206,
+    "IDcode": "JUC-801-CD2",
+    "title": "波多野结衣- 监禁されて、犯されて… ～间违えられた人妻～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250511/mWAgCpsq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-801-CD2"
+  },
+  {
+    "id": 549461,
+    "IDcode": "JUC-802",
+    "title": "近亲相奸 巨尻母スワッピング 加山なつこ 黒沢那智",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic46.anzise.com/pic/20230302/a0db2d9472b5ad14ab6e524d0bc29d2f/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-802"
+  },
+  {
+    "id": 567658,
+    "IDcode": "JUC-805",
+    "title": "人妻ボインめぐみ先生のHな保健体育有奈めぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-805"
+  },
+  {
+    "id": 526490,
+    "IDcode": "JUC-807",
+    "title": "人妻女教师 魅惑の授业 青山葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-807"
+  },
+  {
+    "id": 216897,
+    "IDcode": "JUC-808",
+    "title": "巨乳若妻-さとう遥希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e4e00c7d3171495e840b03e467de977d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-808"
+  },
+  {
+    "id": 574526,
+    "IDcode": "JUC-810",
+    "title": "同事的新娘今井ひろの 新婚之夜被调教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250415-1/bc0a9aaaab6e47054c8d73a73b30722a.jpg",
+    "actress": [
+      "今井ひろの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-810"
+  },
+  {
+    "id": 536334,
+    "IDcode": "JUC-811",
+    "title": "嫁姑レズ调教 ～伪りの遗产を巡る女の争い～ 川上ゆう 沢村麻耶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230702/juc811pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-811"
+  },
+  {
+    "id": 214562,
+    "IDcode": "JUC-812",
+    "title": "人妻予備校講師-西尾かおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/20/cf9bd2b7d8d963779eb67840621d4277.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-812"
+  },
+  {
+    "id": 218934,
+    "IDcode": "JUC-813",
+    "title": "黑道拆迁公司每天都来强奸留在家里的主妇人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/cf42a99bb36f6cadd551a882b3e74f80.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-813"
+  },
+  {
+    "id": 567591,
+    "IDcode": "JUC-815",
+    "title": "美熟女ソープ壶姫御殿北条麻妃第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-815"
+  },
+  {
+    "id": 549447,
+    "IDcode": "JUC-817",
+    "title": "近亲相奸 连休母 上原千寻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-817"
+  },
+  {
+    "id": 549446,
+    "IDcode": "JUC-818",
+    "title": "近亲相奸 母子スワッピング 暮町ゆうこ 岩崎千鹤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230727/juc818pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-818"
+  },
+  {
+    "id": 536342,
+    "IDcode": "JUC-819",
+    "title": "爆乳美熟女レズビアン ～淫らに濡れる复雠の花弁～ 梦野まりあ 风间ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230704/juc819pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-819"
+  },
+  {
+    "id": 218053,
+    "IDcode": "JUC-820",
+    "title": "无毛乱伦-牧原れい子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://cktu02.sbs/images/2022/06/01/814f3772e6b49b256b998d5c48711d11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-820"
+  },
+  {
+    "id": 218179,
+    "IDcode": "JUC-824",
+    "title": "兄嫁売春調教-青木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e02fd88038ca10df09e2199df1124e3f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-824"
+  },
+  {
+    "id": 215292,
+    "IDcode": "JUC-825",
+    "title": "寡妇的第一次肛门强奸-本庄瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/27/567615fa4947aa51cc1d53a58a153bad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-825"
+  },
+  {
+    "id": 215141,
+    "IDcode": "JUC-826",
+    "title": "兄弟の嫁-結城みさ 山本美和子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/922a7d115dfd4c753dd2c417cb715c98.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-826"
+  },
+  {
+    "id": 549492,
+    "IDcode": "JUC-828",
+    "title": "二人の息子に调教された母 ～仕组まれた近亲相奸凌辱～ 持田夏树",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230813/juc828pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-828"
+  },
+  {
+    "id": 215131,
+    "IDcode": "JUC-829",
+    "title": "朋友的妹妹-青木美空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/dd49ff0a1af98b055cb817ee8f54c0d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-829"
+  },
+  {
+    "id": 223521,
+    "IDcode": "JUC-836",
+    "title": "新婚的人妻-爱田奈奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-2/673af933fec4fa26e3ccffd126c5fe64.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-836"
+  },
+  {
+    "id": 69330,
+    "IDcode": "JUC-838",
+    "title": "接受贡品的已婚妇女-北川エリカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
       "羞耻",
-      "SM",
-      "调教",
-      "凌辱"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2014-09-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "美织舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-177"
-  },
-  {
-    "id": 530170,
-    "IDcode": "JBD-183",
-    "title": "奴隶调教 请负人 树花凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241121-1/523be7c26fdf2043f745f50861bceedc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-183"
-  },
-  {
-    "id": 99830,
-    "IDcode": "JBD-185",
-    "title": "奴隷緊縛妻 周防ゆきこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "凌辱",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2015-04-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "周防雪子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-185"
-  },
-  {
-    "id": 96085,
-    "IDcode": "JBD-186",
-    "title": "女教师残虐女体解剖教室-本田岬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
       "无码破解",
-      "单体作品",
-      "女教师"
+      "乳房",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240921-1/fb04db09070a80d1a60826880f8c5975.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/6870537d43d69727160f6ecf/cover.jpg",
     "actress": [
-      "本田岬"
+      "北川爱莉香",
+      "笹木良一"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-186"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-838"
   },
   {
-    "id": 103244,
-    "IDcode": "JBD-197",
-    "title": "緊縛団地妻 希望なき快楽 水原さな 風間ゆみ",
+    "id": 215128,
+    "IDcode": "JUC-840",
+    "title": "只属于我的姐姐-椎名美来",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "强奸",
-      "SM",
-      "凌辱"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2015-12-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jbd197/jbd197pl.jpg",
-    "actress": [
-      "風間由美",
-      "水原さな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-197"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/7fc58c370bf40cce8075dd66d5b782ab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-840"
   },
   {
-    "id": 526136,
-    "IDcode": "JBD-198",
-    "title": "女、贷します。三原ほのか",
+    "id": 224093,
+    "IDcode": "JUC-843",
+    "title": "寡妇与中年男子-折原ゆかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/zf1yme2csyd.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/80698ebc86f876a560fb7fe65b011707.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-843"
   },
   {
-    "id": 99638,
-    "IDcode": "JBD-203",
-    "title": "夫の留守に縛られた人妻 芹沢恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "人妻",
-      "凌辱",
-      "强奸",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2016-03-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "芹沢恋"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-203"
-  },
-  {
-    "id": 100083,
-    "IDcode": "JBD-207",
-    "title": "蟻地獄の誘い 澤村レイコ 丘咲エミリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "调教",
-      "凌辱"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2016-06-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jbd207/jbd207pl.jpg",
-    "actress": [
-      "丘咲愛蜜莉",
-      "高坂ますみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-207"
-  },
-  {
-    "id": 99641,
-    "IDcode": "JBD-208",
-    "title": "堕ちる… 笹本結愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "凌辱"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2016-08-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jbd208/jbd208pl.jpg",
-    "actress": [
-      "爱乃零"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-208"
-  },
-  {
-    "id": 523203,
-    "IDcode": "JBD-211",
-    "title": "波多野结衣- 紧缚女体游戏4",
+    "id": 549525,
+    "IDcode": "JUC-844",
+    "title": "近亲相奸 お母さん、今度は洗濯机が壊れたよ。 暮町ゆうこ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250510/RCu77Z9B/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230430/juc00844pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-844"
   },
   {
-    "id": 88386,
-    "IDcode": "JBD-213",
-    "title": "拷問無残 西田カリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "灌肠",
-      "肛交",
-      "艺人",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/546dff9f5bc58a6806f5b9dff760c0aa.jpg",
-    "actress": [
-      "西田卡莉娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-213"
-  },
-  {
-    "id": 88385,
-    "IDcode": "JBD-223",
-    "title": "マニアの生贄 川崎紀里恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cd1f6ea2eeda01576cb5264efcbd17dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-223"
-  },
-  {
-    "id": 88377,
-    "IDcode": "JBD-224",
-    "title": "慚愧の監獄 妃月るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "SM",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8be7909324d94b54bc54b2d0a6b83cde.jpg",
-    "actress": [
-      "妃月るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-224"
-  },
-  {
-    "id": 70942,
-    "IDcode": "JBD-225",
-    "title": "母娘遊戯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "凌辱"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "風間由美",
-      "河南実里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-225"
-  },
-  {
-    "id": 105250,
-    "IDcode": "JBD-226",
-    "title": "捆绑调教筱田优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "SM",
-      "纪录片",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240502-1/52f3cb621541fc07d604fb80aac6c451.jpg",
-    "actress": [
-      "篠田優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-226"
-  },
-  {
-    "id": 200745,
-    "IDcode": "JBD-227",
-    "title": "沉溺于拳交的神纳花",
+    "id": 224063,
+    "IDcode": "JUC-845",
+    "title": "妻子的肛门-秋野千尋",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250301-1/fff4ddd3eb48c705e6ef45dfb5f20318.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/4ee998c427527f06d98589c8eb0da081.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-227"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-845"
   },
   {
-    "id": 190784,
-    "IDcode": "JBD-228",
-    "title": "被捆绑侵犯的巨乳人妻小向美奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-228"
-  },
-  {
-    "id": 73236,
-    "IDcode": "JBD-229",
-    "title": "マニアの生贄 神納花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "调教",
-      "纪录片",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9b2b60e98f63ce82f8e05f800809ec64.jpg",
-    "actress": [
-      "管野静香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-229"
-  },
-  {
-    "id": 566113,
-    "IDcode": "JBD-230",
-    "title": "蛇缚の絶叫游戏",
+    "id": 215123,
+    "IDcode": "JUC-846",
+    "title": "对不起岳父大人-黒木いちか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/l8V3o6AZ.jpg",
+    "cover_url": "https://tutu1.space/images/2021/12/18/e217e5e1a3d83c8bcdcfc3171afef827.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-230"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-846"
   },
   {
-    "id": 595572,
-    "IDcode": "JBD-231",
-    "title": "紧缚爱奴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/RUivd8qT.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-231"
-  },
-  {
-    "id": 532001,
-    "IDcode": "JBD-233",
-    "title": "拷问无残5 有坂深雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/22a9135bb6df96acc9bb1ff23922d967.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-233"
-  },
-  {
-    "id": 70838,
-    "IDcode": "JBD-234",
-    "title": "被捆绑侵犯的美女主播神咲诗织听译版",
+    "id": 98244,
+    "IDcode": "JUC-849",
+    "title": "義姉妹レズビアン 青木りん 当真ゆき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "调教",
-      "素人作品",
-      "精选，综合",
-      "女主播"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "イセドン内村",
-      "神咲诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-234"
-  },
-  {
-    "id": 595360,
-    "IDcode": "JBD-235",
-    "title": "縄に支配された女教师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/ede0e4d2d1dccdcd565b5ad3b8d7260a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-235"
-  },
-  {
-    "id": 97537,
-    "IDcode": "JBD-237",
-    "title": "プライド狩り 西野翔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "凌辱",
-      "调教",
-      "恋物癖",
-      "素人作品",
-      "精选，综合",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2019-04-07",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/67257_cover_2025-09-21_082644.jpg",
-    "actress": [
-      "西野翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-237"
-  },
-  {
-    "id": 97496,
-    "IDcode": "JBD-238",
-    "title": "调教奴隶-織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "调教",
-      "素人作品",
-      "精选，综合",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/ebf822b6f7894e50a22ff0d616915e19.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-238"
-  },
-  {
-    "id": 88375,
-    "IDcode": "JBD-239",
-    "title": "蛇縛の凌辱賃貸ハウス 有坂深雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "女大学生",
-      "调教",
-      "素人作品",
-      "精选，综合",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cd532c9d83e6b10751650600393e049e.jpg",
-    "actress": [
-      "有坂深雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-239"
-  },
-  {
-    "id": 220522,
-    "IDcode": "JBD-240",
-    "title": "猎骑-松下紗栄子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/f2d55a2b2fd210ca88c50c526e5879c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-240"
-  },
-  {
-    "id": 551386,
-    "IDcode": "JBD-240-C",
-    "title": "PRIDE狩猎 松下纱荣子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250329-1/5d7fe06072e2a2513c0a248b14cc1153.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-240-C"
-  },
-  {
-    "id": 75019,
-    "IDcode": "JBD-242",
-    "title": "拷問無残6 あずみひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "捆绑",
-      "SM",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2019-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/6776578204fa029c92683fcd4e016b4c.jpg",
-    "actress": [
-      "佐倉陽菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-242"
-  },
-  {
-    "id": 75021,
-    "IDcode": "JBD-243",
-    "title": "極限拷問 最上さゆき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "灌肠",
-      "已婚妇女",
-      "肛交",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2019-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/bb1e62538609275b122595bac4bcbd0e.jpg",
-    "actress": [
-      "最上さゆき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-243"
-  },
-  {
-    "id": 75022,
-    "IDcode": "JBD-245",
-    "title": "騙され、縛られ、それなのに…。 岬あずさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "捆绑",
-      "凌辱"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2019-07-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/ba06eb4b1583a1738c1453e60b8b8e0c.jpg",
-    "actress": [
-      "岬梓沙"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-245"
-  },
-  {
-    "id": 75062,
-    "IDcode": "JBD-246",
-    "title": "愛人凌縛-佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "单体作品",
-      "凌辱",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/b098012ea8c53355bdc0fa2b3904f2a0.jpg",
-    "actress": [
-      "佐山爱",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-246"
-  },
-  {
-    "id": 75023,
-    "IDcode": "JBD-247",
-    "title": "冷酷監禁調教-神咲詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "监禁",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/108156519ae9e859ed3ec1ed4b72db05.jpg",
-    "actress": [
-      "神咲诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-247"
-  },
-  {
-    "id": 469082,
-    "IDcode": "JBD-248",
-    "title": "令嬢、浣腸に泣きアナルに堕ちる 神納花 葉月桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781a6f289def9b1b8e477f6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-248"
-  },
-  {
-    "id": 88381,
-    "IDcode": "JBD-249",
-    "title": "拷問無残7 富田優衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "调教",
-      "素人作品",
-      "精选，综合",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d8914b5ec64e90076342b8407b366f37.jpg",
-    "actress": [
-      "富田优衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-249"
-  },
-  {
-    "id": 98293,
-    "IDcode": "JBD-250",
-    "title": "マニアの生贄 有村のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "调教",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2019-11-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "有村希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-250"
-  },
-  {
-    "id": 566112,
-    "IDcode": "JBD-251",
-    "title": "堕とし屋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-251"
-  },
-  {
-    "id": 83659,
-    "IDcode": "JBD-253",
-    "title": "背徳の蟻地獄 緊縛の罠に堕ちた人妻 佐知子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "捆绑",
-      "凌辱",
-      "已婚妇女",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2020-03-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/f3dc108b6d9f5469f01f23528d8c7d1e.jpg",
-    "actress": [
-      "佐知子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-253"
-  },
-  {
-    "id": 81728,
-    "IDcode": "JBD-254",
-    "title": "社長秘書 恥じらいの脱糞6 松ゆきの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "灌肠",
-      "凌辱",
-      "肛交",
-      "秘书",
-      "排便"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230111-1/b7ced32cc6bc955770a4362fbc6d39e0.jpg",
-    "actress": [
-      "松ゆきの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-254"
-  },
-  {
-    "id": 214041,
-    "IDcode": "JBD-256",
-    "title": "極限拷問-松ゆきの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/21/705c615a2cc87e468f58230f83be670d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-256"
-  },
-  {
-    "id": 105717,
-    "IDcode": "JBD-257",
-    "title": "巨乳人妻-織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
+      "数位马赛克",
       "巨乳",
+      "调教",
       "女同性恋",
-      "SM"
+      "妹妹",
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240309-1/1d0d1cc1f84ffa0e02d26fe4553fc430.jpg",
+    "company": "",
+    "publish_date": "2012-06-25",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200730/juc849pl.jpg",
     "actress": [
-      "織田真子",
-      "河南実里",
-      "蓝川美夏"
+      "青木りん",
+      "当真ゆき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-257"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-849"
   },
   {
-    "id": 411415,
-    "IDcode": "JBD-260",
-    "title": "蟷螂画廊 蠢く愛虐の果て 結城乃乃 神納花",
+    "id": 215139,
+    "IDcode": "JUC-850",
+    "title": "充满淫秽的无毛游戏-風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c7f69f9a2e9b1d45c118b/cover.jpg",
+    "cover_url": "https://tutu1.space/images/2021/12/18/413dcf92b0487b3fc36d3863b0c26014.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-260"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-850"
   },
   {
-    "id": 470591,
-    "IDcode": "JBD-261",
-    "title": "淫獄の人体実験バトル マッドサイエンティストVSマッドサイコロジスト 土屋奏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/17/67d8105bcf22ae3e0446eb3d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-261"
-  },
-  {
-    "id": 539095,
-    "IDcode": "JBD-264",
-    "title": "新村あかり- 特捜の女 奈落のワルキューレ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250522/IthPHGzg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-264"
-  },
-  {
-    "id": 84861,
-    "IDcode": "JBD-274",
-    "title": "散り紅 明里ともか",
+    "id": 221521,
+    "IDcode": "JUC-851",
+    "title": "人妻囮捜査員-愛花沙也",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "捆绑",
-      "SM",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/db9ed6b99a12041ab9486a29f791445a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-851"
+  },
+  {
+    "id": 215133,
+    "IDcode": "JUC-852",
+    "title": "替你的丈夫做这件事-水元ゆうな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/e84023ba3db3ad87ac59d5b8a45d9033.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-852"
+  },
+  {
+    "id": 213101,
+    "IDcode": "JUC-853",
+    "title": "人妻監禁飼育-芦名未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/31/0738d45e303a310229918f67344dc261.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-853"
+  },
+  {
+    "id": 224257,
+    "IDcode": "JUC-854",
+    "title": "娘の友人-持田夏樹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/fe578d9c5942b6ba67692c8e8e453432.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-854"
+  },
+  {
+    "id": 218241,
+    "IDcode": "JUC-855",
+    "title": "隔壁的已婚妇女-青山沙希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/48a75026d553b55912dce3281e101771.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-855"
+  },
+  {
+    "id": 224546,
+    "IDcode": "JUC-856",
+    "title": "貧乏相姦-矢部寿恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/a759b802aaaf34d5ec307ae8c842a95e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-856"
+  },
+  {
+    "id": 215136,
+    "IDcode": "JUC-857",
+    "title": "現役人妻-神山智咲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/18/38d141388255cbc76d0749eaae833f84.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-857"
+  },
+  {
+    "id": 534634,
+    "IDcode": "JUC-859",
+    "title": "仕组まれた不伦OL凌辱裁判 ～法廷で弄ばれる卑猥な肉体～ 青山葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230716/juc859pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-859"
+  },
+  {
+    "id": 536379,
+    "IDcode": "JUC-860",
+    "title": "人妻レズスイミングレッスン 爱田奈々 さとう遥希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230711/juc860pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-860"
+  },
+  {
+    "id": 215145,
+    "IDcode": "JUC-861",
+    "title": "慢跑夫人-青山菜々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/20/b6e404e41bdc1413f739d68564f877ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-861"
+  },
+  {
+    "id": 223864,
+    "IDcode": "JUC-863",
+    "title": "家政婦-結城みさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/af66f487218e823297e3b79742a4b41a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-863"
+  },
+  {
+    "id": 212613,
+    "IDcode": "JUC-864",
+    "title": "人妻潜入捜査官-青木美空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/06/c718759eb36ba103a61ff89f43aa7ff1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-864"
+  },
+  {
+    "id": 213142,
+    "IDcode": "JUC-865",
+    "title": "性処理介護-西尾かおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/02/761ebeecc1bec496b055cf25c2ff825c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-865"
+  },
+  {
+    "id": 212618,
+    "IDcode": "JUC-866",
+    "title": "新任女教師-岩佐あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/06/fd3cd8b53122e369c6d18f7fb42f1999.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-866"
+  },
+  {
+    "id": 549575,
+    "IDcode": "JUC-867",
+    "title": "近亲相奸 仆の母さんがこんなにキレイな筈がない 石黒树里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230915/juc867pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-867"
+  },
+  {
+    "id": 549591,
+    "IDcode": "JUC-869",
+    "title": "エロすぎる巨尻 ホットパンツかあさん 暮町ゆうこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230916/juc869pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-869"
+  },
+  {
+    "id": 549590,
+    "IDcode": "JUC-872",
+    "title": "母が、复活します。 露木阳子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230916/juc872pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-872"
+  },
+  {
+    "id": 223891,
+    "IDcode": "JUC-873",
+    "title": "妻の妹-綾瀬みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/c1d04b0f447acb1ed2761a3824ea366e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-873"
+  },
+  {
+    "id": 534792,
+    "IDcode": "JUC-875",
+    "title": "邻家の嫁 成瀬心美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231007/juc875pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-875"
+  },
+  {
+    "id": 534809,
+    "IDcode": "JUC-876",
+    "title": "超ワケあり人妻 理由あってサングラスを挂けてAV出演！！ さゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231011/juc876pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-876"
+  },
+  {
+    "id": 216918,
+    "IDcode": "JUC-877",
+    "title": "性欲旺盛-中森玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/b7051669d6285218281fe66ac9b5c29a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-877"
+  },
+  {
+    "id": 534830,
+    "IDcode": "JUC-878",
+    "title": "不伦旅行 俺は今日凉子とアナルセックスをしようと思っている。 村上凉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231020/juc878pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-878"
+  },
+  {
+    "id": 211426,
+    "IDcode": "JUC-879",
+    "title": "干大舅子的老婆-北川美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/01/09/b55fc289ae640c5f84adcccf43167c6d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-879"
+  },
+  {
+    "id": 216064,
+    "IDcode": "JUC-880",
+    "title": "人妻介護士-高下えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/34fa01d1a67104b4458af3aaf13a0e77.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-880"
+  },
+  {
+    "id": 549589,
+    "IDcode": "JUC-882",
+    "title": "极太近亲相奸 息子のチ○ポが巨大すぎて… 岩崎千鹤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230916/juc882pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-882"
+  },
+  {
+    "id": 536382,
+    "IDcode": "JUC-883",
+    "title": "マドンナ航空presents 人妻CA物语 私はのろまなカメじゃない！ ～美熟女CA养成学校、涙とエロスの猛特训！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230714/juc883pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-883"
+  },
+  {
+    "id": 215147,
+    "IDcode": "JUC-884",
+    "title": "人妻露出旅行-青山葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/20/158ffaf1142cf97d31eb256b36a4e865.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-884"
+  },
+  {
+    "id": 213705,
+    "IDcode": "JUC-885",
+    "title": "緊縛品評会-愛田奈々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-2/e9a2fc0bcfbe093692d23ac0ed9f132c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-885"
+  },
+  {
+    "id": 215150,
+    "IDcode": "JUC-886",
+    "title": "与老板的妻子单独相处-愛乃ゆな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/20/bca6f5e12db8a5aac6c3462e13622b0d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-886"
+  },
+  {
+    "id": 215154,
+    "IDcode": "JUC-887",
+    "title": "下午的人妻-柳朋子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/20/4eef963ccba4e03c44689b2325b82eda.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-887"
+  },
+  {
+    "id": 534949,
+    "IDcode": "JUC-888",
+    "title": "拒みきれない出张エステティシャン ～欲求不満な客への絶顶御奉仕～ 森井智恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231128/juc888pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-888"
+  },
+  {
+    "id": 203579,
+    "IDcode": "JUC-889",
+    "title": "人妻囮捜査員-星野あかり 芹沢恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/04/21/7e92399b4cbf09f26523b459bf4127b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-889"
+  },
+  {
+    "id": 534961,
+    "IDcode": "JUC-890",
+    "title": "爆乳女教师の诱惑家庭访问 伊集院茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2021-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/f0da7203e9b6f57adc12647252a0121e.jpg",
-    "actress": [
-      "明里友香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-274"
-  },
-  {
-    "id": 84878,
-    "IDcode": "JBD-275",
-    "title": "蛇縛の未亡人慕情 忘れ得ぬ夫の遺産 加藤ツバキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "寡妇",
-      "凌辱",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2021-10-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/58bd9327d695ccf1f92d881be97768df.jpg",
-    "actress": [
-      "夏树カオル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-275"
-  },
-  {
-    "id": 84860,
-    "IDcode": "JBD-277",
-    "title": "特捜の女 瞬撃のラクリモーサ 塩見彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "女检察官"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2021-12-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/202e7ead07477615b000a272413762a0.jpg",
-    "actress": [
-      "塩见彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-277"
-  },
-  {
-    "id": 84871,
-    "IDcode": "JBD-278",
-    "title": "緊縛浣腸只能對老公顏面排泄的我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "灌肠",
-      "SM",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/8f406516c08a0355efd760e14337a549.jpg",
-    "actress": [
-      "宫泽千春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-278"
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/juc890pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-890"
   },
   {
-    "id": 84872,
-    "IDcode": "JBD-279",
-    "title": "女教師 蛇縛の肉体献上 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "单体作品",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2022-03-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/851e6a411dc0027f05bbd55b9d622ed3.jpg",
-    "actress": [
-      "向理来",
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-279"
-  },
-  {
-    "id": 84862,
-    "IDcode": "JBD-280",
-    "title": "セーラー服と麻縄と… 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "制服",
-      "凌辱",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2022-04-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/ef2326d98e33471dc3561253941bc7f0.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-280"
-  },
-  {
-    "id": 84895,
-    "IDcode": "JBD-281",
-    "title": "SMドキュメント 君がマゾになったあの日 浅井心晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2022-04-05",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/25f0960f84745529c401554089867b07.jpg",
-    "actress": [
-      "浅井心晴",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-281"
-  },
-  {
-    "id": 84894,
-    "IDcode": "JBD-282",
-    "title": "愛した人は鬼でした…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc48bf9a2e9b1d45c6958/cover.jpg",
-    "actress": [
-      "浅井心晴",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-282"
-  },
-  {
-    "id": 556460,
-    "IDcode": "JBD-283",
-    "title": "新秀女播音员绳妆天野青 - 天野碧",
+    "id": 215148,
+    "IDcode": "JUC-891",
+    "title": "岳父请停止-山城みずほ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6067698f8bf71672fd36905876722a12.jpg",
+    "cover_url": "https://tutu1.space/images/2021/12/20/ab3149604a98a2c7d54d7e35f4b99974.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-283"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-891"
   },
   {
-    "id": 539096,
-    "IDcode": "JBD-284",
-    "title": "新村あかり- 女スパイ 伪りの暗杀指令",
+    "id": 215198,
+    "IDcode": "JUC-893",
+    "title": "理想の母親-神山智咲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/22/4caca87a8530b0a0ac33eeb609c302f9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-893"
+  },
+  {
+    "id": 215912,
+    "IDcode": "JUC-898",
+    "title": "传说中的美人鱼-風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250522/NLzt8m3M/1.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/7df891b4fbb2b035e15145019617d7a7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-284"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-898"
   },
   {
-    "id": 84885,
-    "IDcode": "JBD-285",
-    "title": "貴婦人-広瀬りおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "白天出轨",
-      "单体作品",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/95d2639149645d1ddf55fae2bf582a67.jpg",
-    "actress": [
-      "廣瀨里緒菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-285"
-  },
-  {
-    "id": 84858,
-    "IDcode": "JBD-286",
-    "title": "豔姿浣腸我是哥哥的永遠奴隸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "灌肠",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240922-1/b24ccd0b9f40c6a16f9c26e4381bc406.jpg",
-    "actress": [
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-286"
-  },
-  {
-    "id": 68408,
-    "IDcode": "JBD-287",
-    "title": "蛇縛の肉体献上-松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "凌辱",
-      "制服",
-      "SM",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250403-1/a02b2e3e529dd759082acacfa8af6c59.jpg",
-    "actress": [
-      "松本一香",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-287"
-  },
-  {
-    "id": 516298,
-    "IDcode": "JBD-287-C",
-    "title": "清纯学妹松本一香淫堕实录！",
+    "id": 525349,
+    "IDcode": "JUC-901",
+    "title": "",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68632c8c3ed39b57c04327b7/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-287-C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-901"
   },
   {
-    "id": 566111,
-    "IDcode": "JBD-288",
-    "title": "本当の私を好きになってくれますか？ 天国るる、24歳。",
+    "id": 173520,
+    "IDcode": "JUC-902",
+    "title": "我的新婚妻子夏目优希在我面前被干到高潮不得不接受这个残酷的事实",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
+    "genres": [
+      "淫妻"
     ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3164a6adc4a1f1a978dd58cb76626deb.jpg",
+    "cover_url": "https://tutu1.space/images/2025/11/07/992c5c210109fd5c76eb2a100c5f5a07.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-288"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-902"
   },
   {
-    "id": 556260,
-    "IDcode": "JBD-289",
-    "title": "皇后游戏 - 最上纱由纪",
+    "id": 549627,
+    "IDcode": "JUC-904",
+    "title": "息子を诱惑する爆乳パイパン母 ～禁断の悦びに濡れる无毛相奸～ 折原ゆかり",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221205/fYnxy1rn/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230922/juc904pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-289"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-904"
   },
   {
-    "id": 223204,
-    "IDcode": "JBD-290",
-    "title": "白色皮肤和热蜡-松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/649ae82515df99799552eb0f129eb6d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-290"
-  },
-  {
-    "id": 579290,
-    "IDcode": "JBD-291",
-    "title": "放课后紧缚解放区 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/QXdka761/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-291"
-  },
-  {
-    "id": 106227,
-    "IDcode": "JBD-292",
-    "title": "社长秘书被虐的成熟解禁-生田望美",
+    "id": 535082,
+    "IDcode": "JUC-905",
+    "title": "人妻秘书调教 巨乳妻耻じらいの従顺オフィス 中居ちはる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "SM",
-      "秘书",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240118-1/9bc4aac0c4910f4cded6079a537e0a68.jpg",
-    "actress": [
-      "生田望美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-292"
-  },
-  {
-    "id": 18003,
-    "IDcode": "JBD-293",
-    "title": "墮入了性虐的地獄..回不去了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "殘忍畫面",
-      "M男・M女",
-      "插入異物",
-      "打屁股",
-      "蠟燭",
-      "凌辱",
-      "緊縛",
-      "OL",
-      "心理驚悚",
-      "拘束・拷問",
-      "羞恥",
-      "灌腸",
-      "監禁",
-      "按摩棒",
-      "口交",
-      "性感",
-      "暗黑系",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "SM",
-      "手指插入",
-      "調教",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105084245941941.jpg",
-    "actress": [
-      "竹内夏希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-293"
-  },
-  {
-    "id": 16450,
-    "IDcode": "JBD-294",
-    "title": "出道演藝圈的大學三年級學生，卻在幕後充當奴役女奴……",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "殘忍畫面",
-      "性虐癖",
-      "凌辱",
-      "緊縛",
-      "癡女",
-      "拘束・拷問",
-      "羞恥",
-      "美乳",
-      "芸能人",
-      "口交",
-      "性感",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "後入",
-      "SM",
-      "手指插入",
-      "出道作",
-      "調教",
-      "劇情",
-      "女奴"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a483bac813dc779d96236/cover.jpg",
-    "actress": [
-      "西野絵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-294"
-  },
-  {
-    "id": 15758,
-    "IDcode": "JBD-295",
-    "title": "SM極限訓練 竹內夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "插入異物",
-      "性虐癖",
-      "打屁股",
-      "苗條",
-      "放尿",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "口交",
-      "性感",
-      "深喉",
-      "淫亂",
-      "中出",
-      "美腿",
-      "少女",
-      "SM",
-      "美臀",
-      "脚控・戀足癖",
-      "顔面騎乘",
-      "無毛",
-      "調教",
-      "監獄"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a3107ac813dc779d96128/cover.jpg",
-    "actress": [
-      "竹内夏希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-295"
-  },
-  {
-    "id": 15754,
-    "IDcode": "JBD-296",
-    "title": "SM 調教護士 君野步美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "護士制服",
-      "性虐癖",
-      "苗條",
-      "護士",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "美乳",
-      "監禁",
-      "按摩棒",
-      "口交",
-      "性感",
-      "跳蛋",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "中出",
-      "少女",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "脅迫做愛",
-      "監獄",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a2fe0ac813dc779d96119/cover.jpg",
-    "actress": [
-      "君野步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-296"
-  },
-  {
-    "id": 560964,
-    "IDcode": "JBD-297",
-    "title": "极限调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240505/5hg8yTmG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-297"
-  },
-  {
-    "id": 12959,
-    "IDcode": "JBD-299",
-    "title": "極限拷問",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "蠟燭",
-      "凌辱",
-      "緊縛",
-      "拘束・拷問",
-      "色白",
-      "美乳",
-      "口交",
-      "暗黑系",
-      "潮吹",
-      "深喉",
-      "中出",
-      "後入",
-      "企畫",
-      "SM",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "口球",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802024056558558.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-299"
-  },
-  {
-    "id": 11614,
-    "IDcode": "JBD-300",
-    "title": "極限拷問 鈴音杏夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "殘忍畫面",
-      "口爆",
-      "監獄",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "感官作品",
-      "凌辱",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "暗黑系",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "SM",
-      "顏射",
-      "紀念作",
-      "女優",
-      "退休作品",
-      "美少女電影",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/ce3df5114fe4f6ad1daebd9be4246114.jpg",
-    "actress": [
-      "鈴音杏夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-300"
-  },
-  {
-    "id": 10901,
-    "IDcode": "JBD-301",
-    "title": "女子●生 蛇縛輪● 前乃菜々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "女學生",
-      "吞精",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "苗條",
-      "痴漢",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "黑幫",
-      "美乳",
-      "變態",
-      "制服",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "SM",
-      "劇情",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "美臀",
-      "輪姦",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/6c4c3c68572be7db47c418cc7447b4ee.jpg",
-    "actress": [
-      "前乃菜菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-301"
-  },
-  {
-    "id": 62497,
-    "IDcode": "JBD-302",
-    "title": "蛇縛の女帝拷問 取り違えられた女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "凌辱",
-      "戏剧",
-      "女同性恋",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/097528b972cd08a8a1aa75e661406ac9.jpg",
-    "actress": [
-      "葉月ひな",
-      "二代目乱田舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-302"
-  },
-  {
-    "id": 6177,
-    "IDcode": "JBD-303",
-    "title": "あなた、許して…。緊縛特別版 縄に堕ちた私 澄河美花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "巨尻",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "痴漢",
-      "凌辱",
-      "鄰居",
-      "緊縛",
-      "強姦",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美乳",
-      "寢取",
-      "巨乳",
-      "口交",
-      "熟女",
-      "單體作品",
       "人妻",
-      "美人妻",
-      "四十路",
-      "中出",
-      "後入",
-      "SM",
-      "劇情",
-      "不倫",
-      "魔鬼系",
-      "乳交",
-      "家庭主妇",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043446567567_thumbnail.webp",
-    "actress": [
-      "澄河美花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-303"
-  },
-  {
-    "id": 531707,
-    "IDcode": "JBD158",
-    "title": "女子校生 蛇缚轮奸13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230601-1/071ebeccd65a7459d61c43d492e59ad8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD158"
-  },
-  {
-    "id": 74546,
-    "IDcode": "JBJB-005",
-    "title": "はかなげな黒髪美少女 長～いベロで全身ご奉仕してオジさんの金玉空っぽにしちゃう 倉木しおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bc9133ed39b57c09ec5b1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-005"
-  },
-  {
-    "id": 97566,
-    "IDcode": "JBJB-008",
-    "title": "個人撮影に美女降臨 狂喜するおやじたちにベロベロ奉仕 あとは性欲むき出しヤリ狂い。 美竹すず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2019-10-26",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/13/58909_cover_2025-06-13_204517.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-008"
-  },
-  {
-    "id": 81697,
-    "IDcode": "JBJB-012",
-    "title": "イケメン大好きおっとり美少女がザーメン溜めまくり絶倫おじさんにねっとりセックス仕込まれる撮影会 八尋麻衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2020-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-012"
-  },
-  {
-    "id": 572473,
-    "IDcode": "JBJB-022",
-    "title": "小悪魔すぎる天然ギャルが大はしゃぎしながらドMおじさんの金玉をからっぽにする 堀北わん new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://pic24.anzise.com/pic/20220430/6b3d945e9d241e833d83381e0a188658/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-022"
-  },
-  {
-    "id": 530172,
-    "IDcode": "JBJB-034",
-    "title": "H罩杯长身美脚辣妹 磨练出的极上美体对大叔进行奉仕性爱 星川舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241121-1/a1f69ac209702a3d6a8021eaad701302.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240117/juc905pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-034"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-905"
   },
   {
-    "id": 566110,
-    "IDcode": "JBJB-035",
-    "title": "美意识高い系女子がFカップ细身クビれボディでおじさんにご奉仕セックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/37e1afd613b1d7ea033e91c6222117e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-035"
-  },
-  {
-    "id": 535071,
-    "IDcode": "JBJB-037",
-    "title": "Fカップ格闘技女子健康ボディに超性欲！イキ狂い大量潮吹き交尾 望月あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240114/pb_e_579jbjb-037.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-037"
-  },
-  {
-    "id": 549419,
-    "IDcode": "JBJB-041",
-    "title": "スタイル良すぎ！Gカップ清楚おねえさんがエロ豹変 中年チ●ポでイキまくる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230414/sbCxQBtN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-041"
-  },
-  {
-    "id": 539506,
-    "IDcode": "JBJB-042",
-    "title": "キラキラ一军女子 冴えないけどチ●ポだけはビンビンなダメおじさんと糸引く浓厚セックス 桐香ゆうり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/4VSt8I1T/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-042"
-  },
-  {
-    "id": 548800,
-    "IDcode": "JBJB-043",
-    "title": "激カワ天然美女が降临！おじさんにご奉仕＆ガチ交尾 金玉の精子全部榨り取る！ Nia",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/huKTjec0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-043"
-  },
-  {
-    "id": 563894,
-    "IDcode": "JBJB-044",
-    "title": "ムチムチ天然Fカップ！ドスケベ肉感の愈し系OLさんがおじさんチ●ポでガチイキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/vAjfY34b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBJB-044"
-  },
-  {
-    "id": 99536,
-    "IDcode": "JBS-001",
-    "title": "働くオンナ3 Vol.01",
+    "id": 213161,
+    "IDcode": "JUC-906",
+    "title": "人妻歯科助手-芦名未帆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "各种职业",
-      "制服",
-      "多P"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2013-06-11",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "青木花恋"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-001"
-  },
-  {
-    "id": 575623,
-    "IDcode": "JBS-01",
-    "title": "动くオンナ3Vol…第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tutu1.space/images/2021/09/02/11211e0449bb537f7704867fa8cea5d2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-01"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-906"
   },
   {
-    "id": 225251,
-    "IDcode": "JBS-011",
-    "title": "穿着OL制服的极品工作女郎-芽森滴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/6d3fed97b32cb3e0a80ef98286d646f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-011"
-  },
-  {
-    "id": 217686,
-    "IDcode": "JBS-015",
-    "title": "jbs-015 工作的人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/e3f66ed97f1514fd03e6ab65f09cfda4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-015"
-  },
-  {
-    "id": 107202,
-    "IDcode": "JBS-016",
-    "title": "浑圆美臀黑丝痴女OL-鈴村あいり",
+    "id": 174615,
+    "IDcode": "JUC-907",
+    "title": "黑丝巨乳美女淫荡嫂子筒井真理香的诱惑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/01/69b68ca307605ddaba9c064438266b3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-907"
+  },
+  {
+    "id": 210443,
+    "IDcode": "JUC-908",
+    "title": "近親相姦-伊織涼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/10/02/66fbcb10d3b99b1c169e9ef66a6613d0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-908"
+  },
+  {
+    "id": 549652,
+    "IDcode": "JUC-909",
+    "title": "近亲相奸 初孙母 波木薫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230926/juc909pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-909"
+  },
+  {
+    "id": 223511,
+    "IDcode": "JUC-910",
+    "title": "人妻潜入搜查官-麻生早苗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/15040b0b674b38a59f0cfc17245f934f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-910"
+  },
+  {
+    "id": 535137,
+    "IDcode": "JUC-911",
+    "title": "専属女优豪华共演！！ 人妻ビーチバレー物语～情热の岛～ 青山葵 爱田奈々 山本美和子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240205/juc911pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-911"
+  },
+  {
+    "id": 549651,
+    "IDcode": "JUC-912",
+    "title": "饲育された二人の母亲 ～一子二母凌辱相奸～ 第2章 音无かおり 艶堂しほり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230926/juc912pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-912"
+  },
+  {
+    "id": 535162,
+    "IDcode": "JUC-913",
+    "title": "美熟女レズフィスト～拳の快感で确かめ合う爱情～ 翔田千里 村上凉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230718/juc913pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-913"
+  },
+  {
+    "id": 68695,
+    "IDcode": "JUC-916",
+    "title": "肉食者夫人-柳朋子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "凌辱",
+      "已婚妇女",
+      "单体作品",
+      "羞耻",
+      "无码破解",
+      "调教",
       "苗条",
-      "OL"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/c3b3219d8edf19dbe936d00193326be5.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/0adec7d9a5d926f4458bd798aa475516.jpg",
     "actress": [
-      "鈴村愛里"
+      "森林原人",
+      "柳朋子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-916"
   },
   {
-    "id": 579577,
-    "IDcode": "JBZ-001",
-    "title": "青少女あきら 鸣海あきら",
+    "id": 535206,
+    "IDcode": "JUC-917",
+    "title": "夫の为に身体を差し出した人妻～お愿い、主人には言わないで…～ 爱乃ゆな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240309/juc917pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-917"
+  },
+  {
+    "id": 215914,
+    "IDcode": "JUC-920",
+    "title": "母子入浴相姦-山河ほたる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/a98267d20f28fd3cc1f61307c9df8c2b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-920"
+  },
+  {
+    "id": 549686,
+    "IDcode": "JUC-921",
+    "title": "近亲相奸 昭和 かあちゃん ～あの夏のおもひで～ 暮町ゆうこ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/PKVH0bGU/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231001/juc921pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBZ-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-921"
   },
   {
-    "id": 60860,
-    "IDcode": "JBZ-002",
-    "title": "青少女ちはや 安西ちはや",
+    "id": 211759,
+    "IDcode": "JUC-924",
+    "title": "母親二穴相姦-澤村レイコ 朝桐光",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "单体作品",
-      "吞精",
-      "运动",
-      "无毛",
-      "制服",
-      "中出",
-      "女生",
-      "颜射"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1802931a2714f1c1fad3a/cover.jpg",
-    "actress": [
-      "安西ちはや"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBZ-002"
-  },
-  {
-    "id": 165766,
-    "IDcode": "JCKL-189",
-    "title": "突撃！きれいな若妻さんナンパ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NEXT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NEXT",
-        "works_count": 119
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221004/h_254jckl189pl.jpg",
+    "cover_url": "https://tutu1.space/images/2021/02/16/aa165dce24e97e86edbe8804b3bf7d5a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-924"
   },
   {
-    "id": 103242,
-    "IDcode": "JCKL-192",
-    "title": "浮かれたシロウトwこの娘たち、ぜ～んぶ渋●でナンパしてSEX！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "业余",
-      "立即口交",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NEXT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NEXT",
-        "works_count": 119
-      }
-    ],
-    "publish_date": "2018-10-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-192"
-  },
-  {
-    "id": 184033,
-    "IDcode": "JCKL-194",
-    "title": "街角ナンパ Hな素人お嬢さんを即金で生脱ぎ×フェラ×SEX180分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NEXT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NEXT",
-        "works_count": 119
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-194"
-  },
-  {
-    "id": 174856,
-    "IDcode": "JCKL-195",
-    "title": "飲みすぎた素人奥さんを口説きナンパ！部屋に連れ込み即SEX180分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NEXT",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NEXT",
-        "works_count": 119
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/4a0bb599ca744062e54f57ee136bbb08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-195"
-  },
-  {
-    "id": 69079,
-    "IDcode": "JCUP",
-    "title": "极品爆乳身材！与前glador的情人久违的幽会疯狂24小时不伦SEX-黒木れいな。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCUP"
-  },
-  {
-    "id": 81393,
-    "IDcode": "JD-003",
-    "title": "義母姦 禁断の快楽に溺れる 楠木奏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2020-10-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "楠木奏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JD-003"
-  },
-  {
-    "id": 153093,
-    "IDcode": "JD-103",
-    "title": "提枪上阵为国争光岛国偶遇失恋女神浅野美羽",
+    "id": 535233,
+    "IDcode": "JUC-925",
+    "title": "あなたへ 今晩、しおりの家に泊まります。 白木优子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240921-1/3017d98c031f47c50051ffcee285dbbe.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240322/juc925pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JD-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-925"
   },
   {
-    "id": 461538,
-    "IDcode": "JD-20",
-    "title": "【バンド女子】ショートカットクールベーシスト歳。ライブの打ち上げ帰りの朝にナンパ＆即お。",
+    "id": 535254,
+    "IDcode": "JUC-926",
+    "title": "长身美熟女レズビアン ～繋がり合う悦びに濡れて～ 高下えりか 青山沙希",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240506-1/046d2acf86673c177134e7c1f886870c.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230719/juc926pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JD-20"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-926"
+  },
+  {
+    "id": 213237,
+    "IDcode": "JUC-928",
+    "title": "近親義母相姦-青木美空",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/06/4de8cb7577c35991f20472c047a6d208.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-928"
+  },
+  {
+    "id": 535291,
+    "IDcode": "JUC-929",
+    "title": "人妻密会ドキュメント 良すぎる女 まりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240414/juc929pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-929"
+  },
+  {
+    "id": 535313,
+    "IDcode": "JUC-932",
+    "title": "お宅の息子さんアニヲタじゃありませんわよ。 镜丽子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240430/juc932pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-932"
+  },
+  {
+    "id": 549730,
+    "IDcode": "JUC-935",
+    "title": "近亲相奸 薄着母 汝鸟すみか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231009/juc935pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-935"
+  },
+  {
+    "id": 535341,
+    "IDcode": "JUC-936",
+    "title": "ご近所町内会 レズ调教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230727/juc936pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-936"
   }
 ];

@@ -345,7 +345,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f7f4ae2e1e04e27de8c4f0012858ac2e.jpg",
       "actress": [

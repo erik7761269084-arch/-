@@ -1,531 +1,59 @@
 window.PAGE_DATA = [
   {
-    "id": 6947,
-    "IDcode": "ABF-219",
-    "title": "瀧本雫葉が素人♂を逆ナン！",
+    "id": 574706,
+    "IDcode": "758REFUCK-018",
+    "title": "あやめ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口爆",
-      "兔女郎妝扮",
-      "粉絲福利",
-      "飯店",
-      "網襪",
-      "苗條",
-      "美腳",
-      "色白",
-      "美乳",
-      "口交",
-      "性感",
-      "接吻",
-      "粉丝",
-      "形象俱樂部",
-      "潮吹",
-      "極品美人",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "女優",
-      "角色扮演",
-      "脚控・戀足癖",
-      "美少女電影",
-      "素人",
-      "無毛",
-      "女上位",
-      "騎乗位",
-      "情趣內衣",
-      "公共場所"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250410/4078398a-782f-4af1-b5f2-27acffeb2af3.jpg",
-    "actress": [
-      "瀧本雫葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-219"
+    "cover_url": "https://tuaskbgnekr.com/20251007/GhD67tss/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-018"
   },
   {
-    "id": 6342,
-    "IDcode": "ABF-228",
-    "title": "素人くんと丸1日2人きり。 瀬緒凛 マウスパッドと",
+    "id": 574708,
+    "IDcode": "758REFUCK-019",
+    "title": "めく",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "韓國女優",
-      "小隻馬",
-      "純粹的慾望",
-      "真實拍攝",
-      "粉絲福利",
-      "飯店",
-      "苗條",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "胸控・戀乳癖",
-      "美乳",
-      "過膝襪・小腿襪",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "約炮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "劇情",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "舔腳",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/13/f26a31687c0beb6c6e4c2dbe36466f89.jpg",
-    "actress": [
-      "瀬緒凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-228"
+    "cover_url": "https://tuaskbgnekr.com/20251007/7bY8hTXD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-019"
   },
   {
-    "id": 5748,
-    "IDcode": "ABF-234",
-    "title": "素人くんと丸1日2人きり。 釈アリス",
+    "id": 520550,
+    "IDcode": "758REFUCK-020",
+    "title": "りお_",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "真實拍攝",
-      "粉絲福利",
-      "苗條",
-      "阪道系",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "美乳",
-      "清楚系",
-      "口交",
-      "性感",
-      "粉丝",
-      "形象俱樂部",
-      "單體作品",
-      "寫真女郎",
-      "高顏值",
-      "蠻橫嬌羞",
-      "寫真偶像",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "女優",
-      "上門福利",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "高妹",
-      "女上位",
-      "騎乗位"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529041945867867_thumbnail.webp",
-    "actress": [
-      "釋愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-234"
-  },
-  {
-    "id": 5008,
-    "IDcode": "ABF-242",
-    "title": "只要忍耐10分钟就能奖励内射七嶋舞的限时耐力挑战",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "車震",
-      "口爆",
-      "真實拍攝",
-      "感謝祭",
-      "臀控",
-      "流汗",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "大奶头",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "內衣",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "紀錄片",
-      "街頭福利",
-      "後入",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "按摩・物理治療・美容",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "公共場所"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/9c519217/vod.jpg",
-    "actress": [
-      "七嶋舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-242"
-  },
-  {
-    "id": 3804,
-    "IDcode": "ABF-256",
-    "title": "野々浦暖が素人♂を逆ナン！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "車震",
-      "小隻馬",
-      "M男・M女",
-      "被女孩搭訕",
-      "真實拍攝",
-      "苗條",
-      "阪道系",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "勾引・誘惑",
-      "真人秀",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "口交",
-      "性感",
-      "被妹子搭訕",
-      "形象俱樂部",
-      "單體作品",
-      "搭訕",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "美人",
-      "企畫",
-      "美腿",
-      "街頭福利",
-      "後入",
-      "SM",
-      "美臀",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "拜金女",
-      "女上位",
-      "騎乗位",
-      "情趣內衣",
-      "公共場所"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/3e7bd5b1aee49fb8ce1ea8a228eb823a.jpg",
-    "actress": [
-      "野野浦暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-256"
-  },
-  {
-    "id": 3426,
-    "IDcode": "ABF-260",
-    "title": "神技只需忍耐10分钟就有内射奖励-八掛海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "小隻馬",
-      "口爆",
-      "真實拍攝",
-      "粉絲福利",
-      "網襪",
-      "苗條",
-      "女僕制服",
-      "網路紅人",
-      "美少女",
-      "美腳",
-      "色白",
-      "大奶头",
-      "口交",
-      "粉丝",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "貧乳",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "紀錄片",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/caa29ca6/vod.jpg",
-    "actress": [
-      "八掛海",
-      "八挂うみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-260"
-  },
-  {
-    "id": 2659,
-    "IDcode": "ABF-269",
-    "title": "与素人小哥整整一天的二人独处-中森 ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "口爆",
-      "真實拍攝",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "自宅",
-      "美乳",
-      "清楚系",
-      "口交",
-      "性感",
-      "粉丝",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "貧乳",
-      "極品美人",
-      "內衣",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "女優",
-      "上門福利",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/01/2a45db866ffe38478a38e9a32dd61ffd.jpg",
-    "actress": [
-      "中森七海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-269"
-  },
-  {
-    "id": 2145,
-    "IDcode": "ABF-274",
-    "title": "要忍耐超过10分钟挑逗就能得到无套中出的奖励-凉森玲梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "AV拍攝現場",
-      "打手槍",
-      "小隻馬",
-      "口爆",
-      "慾求不滿",
-      "被女孩搭訕",
-      "真實拍攝",
-      "粉絲福利",
-      "感謝祭",
-      "苗條",
-      "阪道系",
-      "淫語",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "粉丝",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "街頭福利",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "女神",
-      "手指插入",
-      "素人",
-      "乳交",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣",
-      "公共場所"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "涼森玲夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-274"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-020"
   },
   {
-    "id": 174999,
-    "IDcode": "ABF-280",
-    "title": "八掛うみが素人♂を逆ナン！ 八掛うみ",
+    "id": 574710,
+    "IDcode": "758REFUCK-022",
+    "title": "じゅん",
     "year": "",
     "country": "",
     "genre": "",
@@ -533,45 +61,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Baby Entertainment",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
-        "works_count": 710
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/09/13570d5b3e3ce52fac94aeaa28a10916.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20251007/XXPfOMIi/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-280"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-022"
   },
   {
-    "id": 79299,
-    "IDcode": "ABW-115",
-    "title": "唯月優花の極上筆おろし 42 童貞ガチ素人3名全員マ●コで卒業！！射精率100% 【MGSだけのおまけ映像付き+15分】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "素人",
-      "纪录片",
-      "巨乳",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2021-07-08",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/952e45722e22bd39304e7182a6c3b26f.jpg",
-    "actress": [
-      "唯月优花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-115"
-  },
-  {
-    "id": 538915,
-    "IDcode": "ABW-185",
-    "title": "七岛舞- 七嶋舞の极上笔おろし 44 童贞ガチ素人3名全员マ●コで卒业！！射精率120％",
+    "id": 574711,
+    "IDcode": "758REFUCK-023",
+    "title": "りこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -579,101 +78,826 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/LYX0k2Nn/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20251007/aGwVtLHR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-023"
   },
   {
-    "id": 80641,
-    "IDcode": "ABW-195",
-    "title": "乃木絢愛の極上筆おろし 45 童貞ガチ素人3名！！濃厚サポートで童貞感涙！！【MGSだけのおまけ映像付き+10分】",
+    "id": 574709,
+    "IDcode": "758REFUCK-024",
+    "title": "はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251007/NGOvlBDk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-024"
+  },
+  {
+    "id": 540139,
+    "IDcode": "758REFUCK-025",
+    "title": "さな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/vEdrG1sR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-025"
+  },
+  {
+    "id": 540143,
+    "IDcode": "758REFUCK-026",
+    "title": "あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/h6IE0rIw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-026"
+  },
+  {
+    "id": 540140,
+    "IDcode": "758REFUCK-028",
+    "title": "ゆうき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/zebjIRiK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-028"
+  },
+  {
+    "id": 540142,
+    "IDcode": "758REFUCK-029",
+    "title": "みと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/zhgYYc6W/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-029"
+  },
+  {
+    "id": 540144,
+    "IDcode": "758REFUCK-030",
+    "title": "ことね＆すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/2Jmwyqgk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-030"
+  },
+  {
+    "id": 540146,
+    "IDcode": "758REFUCK-031",
+    "title": "しおん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/MeDrxHBA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-031"
+  },
+  {
+    "id": 540148,
+    "IDcode": "758REFUCK-032",
+    "title": "なつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/iq4KSUZm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-032"
+  },
+  {
+    "id": 540147,
+    "IDcode": "758REFUCK-033",
+    "title": "みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/1vPXGEmo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-033"
+  },
+  {
+    "id": 540149,
+    "IDcode": "758REFUCK-034",
+    "title": "みく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/fO463LAy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-034"
+  },
+  {
+    "id": 540150,
+    "IDcode": "758REFUCK-035",
+    "title": "あみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/XYWctvWH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-035"
+  },
+  {
+    "id": 574691,
+    "IDcode": "758REFUCK-036",
+    "title": "ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251009/xdl1qDAM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-036"
+  },
+  {
+    "id": 574690,
+    "IDcode": "758REFUCK-037",
+    "title": "つばめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251009/3DNNlEXe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-037"
+  },
+  {
+    "id": 574694,
+    "IDcode": "758REFUCK-038",
+    "title": "ありす",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20251009/giToVAaT/1.jpg?t=1760066223",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-038"
+  },
+  {
+    "id": 574692,
+    "IDcode": "758REFUCK-039",
+    "title": "めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20251009/vTOjkUVm/1.jpg?t=1760066280",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-039"
+  },
+  {
+    "id": 574693,
+    "IDcode": "758REFUCK-040",
+    "title": "りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251009/a1LGNNRL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-040"
+  },
+  {
+    "id": 479346,
+    "IDcode": "758REFUCK-044",
+    "title": "メアリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/c23fa737f86cd8ab572e5af549c9ace5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-044"
+  },
+  {
+    "id": 574696,
+    "IDcode": "758REFUCK-045",
+    "title": "りく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20251009/Zg05ymyy/1.jpg?t=1760066287",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-045"
+  },
+  {
+    "id": 574695,
+    "IDcode": "758REFUCK-046",
+    "title": "すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20251009/Q86FVxLD/1.jpg?t=1760066288",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-046"
+  },
+  {
+    "id": 479344,
+    "IDcode": "758REFUCK-048",
+    "title": "らんらん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/ebaed85fb55d0de7320b6fb74bdc19f0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-048"
+  },
+  {
+    "id": 479355,
+    "IDcode": "758REFUCK-049",
+    "title": "ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/feabfda77b37e48aaf2d15eef2939844.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-049"
+  },
+  {
+    "id": 540118,
+    "IDcode": "758REFUCK-054",
+    "title": "まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/4hYenXUj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-054"
+  },
+  {
+    "id": 540120,
+    "IDcode": "758REFUCK-055",
+    "title": "もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/EUWsIJ9M/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-055"
+  },
+  {
+    "id": 540121,
+    "IDcode": "758REFUCK-056",
+    "title": "まどか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/PfRC1A7H/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-056"
+  },
+  {
+    "id": 540122,
+    "IDcode": "758REFUCK-075",
+    "title": "ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/XsoUHa1J/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-075"
+  },
+  {
+    "id": 540131,
+    "IDcode": "758REFUCK-082",
+    "title": "かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/BBqQxaGr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-082"
+  },
+  {
+    "id": 540133,
+    "IDcode": "758REFUCK-083",
+    "title": "あやめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/6vMEqzPp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-083"
+  },
+  {
+    "id": 540132,
+    "IDcode": "758REFUCK-085",
+    "title": "なの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251010/ze25PpT4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-085"
+  },
+  {
+    "id": 517228,
+    "IDcode": "758REFUCK-119",
+    "title": "雪音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b420dd5fdaf263a25c665c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=758REFUCK-119"
+  },
+  {
+    "id": 520050,
+    "IDcode": "75MKJM-003",
+    "title": "素人对象模特F罩杯巨乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=75MKJM-003"
+  },
+  {
+    "id": 520475,
+    "IDcode": "761GESY-001",
+    "title": "清楚系美巨乳CAうみ【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-001"
+  },
+  {
+    "id": 540127,
+    "IDcode": "761GESY-002",
+    "title": "むっちり爆乳CAねね【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251011/f4ylm7nY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-002"
+  },
+  {
+    "id": 540129,
+    "IDcode": "761GESY-003",
+    "title": "【乱交】清楚系美巨乳CAうみ＆むっちり爆乳CAねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251011/UKtP2sKa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-003"
+  },
+  {
+    "id": 540130,
+    "IDcode": "761GESY-004",
+    "title": "色白金髪ギャルあかり【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251011/rOEm5wZ9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-004"
+  },
+  {
+    "id": 520493,
+    "IDcode": "761GESY-005",
+    "title": "隠れヤリマンお嬢ゆうき【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-005"
+  },
+  {
+    "id": 540128,
+    "IDcode": "761GESY-006",
+    "title": "【乱交】色白金髪ギャルあかり＆隠れヤリマンお嬢ゆうき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳",
-      "处男"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2022-01-27",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/287f46c607768d82a365bc80333622d7.jpg",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251011/6sojRYEy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-006"
   },
   {
-    "id": 8867,
-    "IDcode": "ACHJ-056",
-    "title": "素人粉丝感谢会-水戸かな",
+    "id": 511075,
+    "IDcode": "761GESY-007",
+    "title": "長身日焼けGALハナピ【意識混濁】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口爆",
-      "慾求不滿",
-      "真實拍攝",
-      "粉絲福利",
-      "感謝祭",
-      "網襪",
-      "美腳",
-      "緊身衣",
-      "真人秀",
-      "色白",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "潮吹",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/6db379d00eac044d6b6b5f483956f1f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-007"
+  },
+  {
+    "id": 574683,
+    "IDcode": "761GESY-008",
+    "title": "美体パリピ女リアナ【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251012/Y2lGqVOb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-008"
+  },
+  {
+    "id": 495871,
+    "IDcode": "761GESY-009",
+    "title": "【乱交】長身日焼けGALハナピ＆美体パリピ女リアナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/1c50faada6b00f34df14be26a08e7282.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-009"
+  },
+  {
+    "id": 537404,
+    "IDcode": "761GESY-010",
+    "title": "【立ちんぼ】もっちり色白モリマン美女￥Gスポ责めに潮吹き连発￥条件次第で中出し许可【もも(21)】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231006/pb_e_761gesy-010.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-010"
+  },
+  {
+    "id": 574684,
+    "IDcode": "761GESY-011",
+    "title": "巨乳、そして何かの坂にいそうなアイドル颜女子ほの【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251012/Gl6bUB1t/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-011"
+  },
+  {
+    "id": 574685,
+    "IDcode": "761GESY-012",
+    "title": "Gカップの歯科卫生士をネムラセてヤる。ノリもよく、おっぱいも美人なヒ害者·めあり【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251012/RH9Tl3mR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-012"
+  },
+  {
+    "id": 551221,
+    "IDcode": "762FAII-001",
+    "title": "はじめての颜射！素人娘のフェラ抜きぶっかけ动画！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230705/d8k1Lzts/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FAII-001"
+  },
+  {
+    "id": 540114,
+    "IDcode": "762FAII-002",
+    "title": "はじめての颜射！素人娘のフェラ抜きぶっかけ动画！ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20251012/DSWFX4xz/1.jpg?t=1760332941",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FAII-002"
+  },
+  {
+    "id": 347891,
+    "IDcode": "762FAMA-001",
+    "title": "暴発！不意打ち射精！素人娘の乳首舐め手コキ！！18名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230705/UPKcZOT0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FAMA-001"
+  },
+  {
+    "id": 531418,
+    "IDcode": "762FKED-001",
+    "title": "里垢男子と密会ハメ撮り 欲求不満な人妻3名。 マッチングアプリ不伦 巨乳·デカ尻·NRT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "美人妻",
-      "淫亂",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "顏射",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "素人",
-      "舔腳",
-      "乳交",
-      "69",
-      "御姐系",
-      "足交",
-      "女上位",
-      "丁字裤",
-      "騎乗位",
-      "情趣內衣"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MADONNA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
-        "works_count": 1095
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072148278278.jpg",
-    "actress": [
-      "水户香奈",
-      "アリト",
-      "カワム"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-056"
+    "cover_url": "https://tuaskbgnekr.com/20230705/trvS32H1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-001"
   },
   {
-    "id": 518776,
-    "IDcode": "ACHJ-B050",
-    "title": "麦当娜独家“风间由美”VS“9个素人男人”，他们对自己无与伦比的性感到自豪，在令人惊叹的技术乳交中射精最多的男人会获得打桩中出性爱的奖励。94",
+    "id": 530708,
+    "IDcode": "762FKED-002",
+    "title": "制服美少女パパ活ハメ撮り 年上とのオトナSEXにハマる思春期マ○コちゃん3名 巨乳·女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230705/hmCH7o93/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-002"
+  },
+  {
+    "id": 551218,
+    "IDcode": "762FKED-003",
+    "title": "地味な见た目で鬼性欲！大人しそうでド変态！巨根に豹変するむっつり娘のバコ突きアヘイキSE",
     "year": "",
     "country": "",
     "genre": "",
@@ -681,22 +905,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MADONNA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
-        "works_count": 1095
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/09/44373_cover_2025-10-09_182822.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230705/vPRr5pzw/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-B050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-003"
   },
   {
-    "id": 536339,
-    "IDcode": "ACZD-067",
-    "title": "素人投稿 セレブ奴●姊妹 妹夫妇の拳でWフィストファックされる社长夫人",
+    "id": 551216,
+    "IDcode": "762FKED-004",
+    "title": "勃ち巨根に兴奋して自分から挿れちゃう痴女メンエス嬢のおねだり生本番！ヌキ无しメンズエステ",
     "year": "",
     "country": "",
     "genre": "",
@@ -704,16 +922,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230704/h_019aczd067pl.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230705/Hn6cVzkv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-004"
   },
   {
-    "id": 536409,
-    "IDcode": "ACZD-110",
-    "title": "素人投稿 双头ペニバンで犯し合う母娘マゾ",
+    "id": 540116,
+    "IDcode": "762FKED-006",
+    "title": "年上とのオトナSEXにハマる思春期マ〇コちゃん 2 女子校生·十代·巨尻·ドM·ガチイキ·2発射",
     "year": "",
     "country": "",
     "genre": "",
@@ -721,16 +939,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230814/h_019aczd110pl.jpg!320x216.jpg",
+    "cover_url": "https://guzwiayz.com/20251012/N2xg1jiE/1.jpg?t=1760332968",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-006"
   },
   {
-    "id": 536442,
-    "IDcode": "ACZD-120",
-    "title": "素人投稿レズ奴●_2",
+    "id": 540117,
+    "IDcode": "762FKED-007",
+    "title": "地味な见た目で鬼性欲！大人しそうでド変态！巨根に豹変するむっつり娘のバコ突きアヘイキSE",
     "year": "",
     "country": "",
     "genre": "",
@@ -738,16 +956,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/Z710pTfc/1.jpg",
+    "cover_url": "https://guzwiayz.com/20251012/bEWBETS0/1.jpg?t=1760333000",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-007"
   },
   {
-    "id": 547209,
-    "IDcode": "ACZD-138",
-    "title": "ガチ素人投稿 本当にいる家畜奴隶",
+    "id": 551219,
+    "IDcode": "762FKED-008",
+    "title": "勃ち巨根に兴奋して自分から挿れちゃう痴女メンエス嬢のおねだり生本番！ヌキ无しメンズエステ",
     "year": "",
     "country": "",
     "genre": "",
@@ -755,199 +973,35 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231210/x5SFfD7j/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231023/A96KEQNp/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-138"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-008"
   },
   {
-    "id": 546419,
-    "IDcode": "ACZD-157",
-    "title": "素人マニア投稿ファイル1调教済み肉便器人妻",
+    "id": 540115,
+    "IDcode": "762FKED-009",
+    "title": "里垢男子と密会ハメ撮り 欲求不満な人妻3名。マッチングアプリ不伦 3 巨乳·デカ尻·NT",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240211/ldM3JsCX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-157"
-  },
-  {
-    "id": 545784,
-    "IDcode": "ACZD-163",
-    "title": "SNS直送146cm超ミニ素人JDせいら 清纯ピュアおむつ极限羞耻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240414/hL2HiRNB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-163"
-  },
-  {
-    "id": 524191,
-    "IDcode": "ADVO-151",
-    "title": "advo00151 超A级素人巨乳マゾ丽奴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240430-1/d40666e18ef0ac583c88150944b1e0f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADVO-151"
-  },
-  {
-    "id": 6577,
-    "IDcode": "AEGE-048",
-    "title": "黑人の巨チンにハマってしまった美人OL2人 前乃菜々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "大雞巴",
-      "真實拍攝",
-      "素人作品",
-      "苗條",
-      "美腳",
-      "OL",
-      "羞恥",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "黑人男優",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "素人",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003038364364_thumbnail.webp",
-    "actress": [
-      "前乃菜菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-048"
-  },
-  {
-    "id": 4020,
-    "IDcode": "AEGE-053",
-    "title": "素人アナル 初撮りドキュメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "真實拍攝",
-      "豐滿",
-      "素人作品",
-      "4K",
-      "羞恥",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
       "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "淫亂",
-      "地味",
-      "美人",
-      "企畫",
-      "後入",
-      "重口味",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "二穴同入",
-      "手指插入",
-      "素人",
-      "肛交",
-      "女上位",
-      "騎乗位"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AEGEAN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AEGEAN",
-        "works_count": 49
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899754455337d7f7bd1fb63/cover.jpg",
+    "cover_url": "https://guzwiayz.com/20251012/pMtKP1DW/1.jpg?t=1760332952",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FKED-009"
   },
   {
-    "id": 83455,
-    "IDcode": "AGAV-016",
-    "title": "【実話】素人泥●女子ホテル連れ込み撮り～酔いつぶれた女子が死ぬほどビッチで結局ヤりまくってしまった時のリアル映像～ 伊吹彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中出",
-      "巨乳",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-03-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "伊吹彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-016"
-  },
-  {
-    "id": 521052,
-    "IDcode": "AGAV-034",
-    "title": "瀬名ひかり- 最高乳～スレンダーHカップの素人新妻が大量マン汁大量唾液で絶伦不伦～",
+    "id": 551220,
+    "IDcode": "762FLAB-001",
+    "title": "下品なオナホ颜でジュボジュボしゃぶりつく！フェラチオが上手すぎる素人娘10名",
     "year": "",
     "country": "",
     "genre": "",
@@ -955,189 +1009,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex822.com/20250921/higPsjhQ/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230705/s7DhzIDo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-034"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FLAB-001"
   },
   {
-    "id": 9695,
-    "IDcode": "AGAV-127",
-    "title": "懇願するまで決してやめない低速愛撫で敏感M女洗脳 池尻みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "M男・M女",
-      "蒙面・面罩",
-      "催眠",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "羞恥",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/eb568d5b-40b8-4d66-b071-f51fb72158e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-127"
-  },
-  {
-    "id": 9657,
-    "IDcode": "AIAV-016",
-    "title": "[3.1次元 AI素人] 豐滿的女僕咖啡廳巨乳女孩Saya（20歲）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "巨尻",
-      "女僕",
-      "二次元",
-      "豐滿",
-      "女僕制服",
-      "AI女優",
-      "感官作品",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "特效",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "素人",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NOSKINS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NOSKINS",
-        "works_count": 135
-      }
-    ],
-    "publish_date": "2025-01-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222114722600600.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-016"
-  },
-  {
-    "id": 6560,
-    "IDcode": "AIAV-024",
-    "title": "潮吹きやばすぎ！170cm高身長港区ラウンジ嬢ちあき（23歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "純粹的慾望",
-      "慾求不滿",
-      "真實拍攝",
-      "港區女子",
-      "苗條",
-      "臀控",
-      "AI女優",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "傳播妹",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "陪酒女",
-      "高顏值",
-      "風俗娘",
-      "極品美人",
-      "特效",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "高妹",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "NOSKINS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NOSKINS",
-        "works_count": 135
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/08/752af828199b7c8686faa4b7a4695a0e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-024"
-  },
-  {
-    "id": 466705,
-    "IDcode": "AKAD-141",
-    "title": "素人娘大図鑑21人 胸・マ○コ・アナル・超接写！",
+    "id": 551225,
+    "IDcode": "762FSEI-001",
+    "title": "“精子全部饮んでください！”素人娘の连続ごっくん大量精饮フェラチオ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1145,149 +1026,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68905c42c92318f97d776b78/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230705/zlbs74gG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKAD-141"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=762FSEI-001"
   },
   {
-    "id": 86652,
-    "IDcode": "AKDL-074",
-    "title": "【素人面接】バレエ留学前にAV出演 ‘軟体SEX’ イギリス行っちゃう前にチ○ポ入れたくて… すわん 20歳 バレエダンサー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "第一人称摄影",
-      "素人",
-      "业余",
-      "乳房",
-      "素人作品",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/945be49fece54c29d16899106e15b312.jpg",
-    "actress": [
-      "白鸟すわん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-074"
-  },
-  {
-    "id": 86668,
-    "IDcode": "AKDL-090",
-    "title": "【素人面接】 会社に黙ってAV出演 ‘マン毛ボボちゃん’ 先刺しグラインド騎乗位好き のの 24歳 歯科衛生士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "素人",
-      "业余",
-      "纪录片",
-      "素人作品",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/2d908f1495a5e2b585bd73e0980d1b10.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-090"
-  },
-  {
-    "id": 2883,
-    "IDcode": "AKDL-340",
-    "title": "按摩師的極限挑逗讓害羞人妻無法抗拒直接淪陷 ~ 三池小春 工藤百合 生田優梨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "吞精",
-      "口爆",
-      "三十路",
-      "阪道系",
-      "4K",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "按摩・美容店",
-      "短髮",
-      "高顏值",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "抹油",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "素人",
-      "無毛",
-      "舔腳",
-      "乳交",
-      "按摩・物理治療・美容",
-      "御姐系",
-      "誘騙女性",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AKNR",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AKNR",
-        "works_count": 170
-      }
-    ],
-    "publish_date": "2025-08-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250909/202509090339015353_44021_thumbnail.webp",
-    "actress": [
-      "工藤百合",
-      "三池小春",
-      "生田優梨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-340"
-  },
-  {
-    "id": 545661,
-    "IDcode": "AKDLD-280",
-    "title": "なま饮みっ子 エステで动くお姊さんは素人なのに手コキ上手すぎ！！ゴム手袋でゆっくりシコられて",
+    "id": 576330,
+    "IDcode": "765ORECS-029",
+    "title": "制服美少女ガチ生盗撮 赤裸々すぎるリアルセックス コンドームもせずに无邪気に中出し まりな&わか",
     "year": "",
     "country": "",
     "genre": "",
@@ -1295,16 +1043,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240525/6DCMLl0O/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231120/pb_e_765orecs-029.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDLD-280"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-029"
   },
   {
-    "id": 214221,
-    "IDcode": "AKYB-012",
-    "title": "夏树（20）作為給我做飯的報酬，我給了她中出♪ あの娘と今日ヤり部屋で,素人",
+    "id": 576329,
+    "IDcode": "765ORECS-030",
+    "title": "制服美少女ガチ生盗撮 赤裸々すぎるリアルセックス セックスに梦中になる性春 青い身体を中出し精子で埋めつくす ち",
     "year": "",
     "country": "",
     "genre": "",
@@ -1312,16 +1060,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/02/96f11beb4fe3fd6d83053129f6719872.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231120/pb_e_765orecs-030.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKYB-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-030"
   },
   {
-    "id": 534239,
-    "IDcode": "ALB-046",
-    "title": "Hカップボイン素人ナマ中出し はるか",
+    "id": 576328,
+    "IDcode": "765ORECS-031",
+    "title": "制服美少女ガチ生盗撮 赤裸々すぎるリアルセックス 十代が魅せるピュアな等身大のSEX 素直に性を求める爱しい身体",
     "year": "",
     "country": "",
     "genre": "",
@@ -1329,16 +1077,67 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231120/pb_e_765orecs-031.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-031"
+  },
+  {
+    "id": 576327,
+    "IDcode": "765ORECS-032",
+    "title": "制服美少女ガチ生盗撮 赤裸々すぎるリアルセックス 心の绮丽な女の子のSEX Hに没头しすぎて中出しOK すず&もな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231120/pb_e_765orecs-032.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-032"
+  },
+  {
+    "id": 576396,
+    "IDcode": "765ORECS-042",
+    "title": "生のまんまハメられちゃった制服美少女ひな&みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231216/pb_e_765orecs-042.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-042"
+  },
+  {
+    "id": 576491,
+    "IDcode": "765ORECS-064",
+    "title": "うぶ女子○生まりな&いちか耻ずかしドキドキ相互オナニーww见つめ合いオナニーで感じすぎちゃったおま○こに生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALB-046"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-064"
   },
   {
-    "id": 524183,
-    "IDcode": "ALB-057",
-    "title": "alb00057 Jカップボイン素人ナマ中出し カンナ",
+    "id": 576493,
+    "IDcode": "765ORECS-065",
+    "title": "うぶ女子○生まい&はな耻ずかしドキドキ相互オナニーww见つめ合いオナニーで感じすぎちゃったおま○こに生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1346,16 +1145,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240429-1/9fa691c623997299e2e3a227b95d10f9.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240106/pb_e_765orecs-065.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALB-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-065"
   },
   {
-    "id": 531789,
-    "IDcode": "ALB-058",
-    "title": "alb00058 Iカップボイン素人ナマ中出し みすず",
+    "id": 517846,
+    "IDcode": "765ORECS-068",
+    "title": "我的素人-Z- 第二衝擊",
     "year": "",
     "country": "",
     "genre": "",
@@ -1363,16 +1162,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240514-1/2f6d075cf3b067e30e2e2dbf5835a449.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21adbfbe7fd63de7f6b94/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALB-058"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-068"
   },
   {
-    "id": 531790,
-    "IDcode": "ALB-078",
-    "title": "alb00078 嫌がりながらも中出しさせちゃうJカップ デカパイ素人 のぞみ",
+    "id": 576511,
+    "IDcode": "765ORECS-069",
+    "title": "絶対堕としたい制服美少女を自宅に诱って胜手に隠し撮り！【発情女子○生ムチムチお尻ちゃん】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1380,211 +1179,85 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240514-1/8c945423241fa4e3592d537d0136e611.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALB-078"
-  },
-  {
-    "id": 531788,
-    "IDcode": "ALB-083",
-    "title": "alb00083 犯●れ中出しされるスキだらけのGカップ 素人 かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240514-1/af7453bca1fe749e2e465a59ef0b3eed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALB-083"
-  },
-  {
-    "id": 208907,
-    "IDcode": "AMA-020",
-    "title": "ドスケベ素人の衝撃的試し撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/24/QQ201908250312126f494.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-020"
-  },
-  {
-    "id": 566832,
-    "IDcode": "AMA-026",
-    "title": "SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。 VOL．26",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Yk6ZE1O0L.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-026"
-  },
-  {
-    "id": 593213,
-    "IDcode": "AMA-027",
-    "title": "SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。 VOL.27",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/057e598e0b0a52a8fd7e513dfab2b80d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-027"
-  },
-  {
-    "id": 595627,
-    "IDcode": "AMA-029",
-    "title": "SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9HNb0CMv.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-029"
-  },
-  {
-    "id": 595581,
-    "IDcode": "AMA-030",
-    "title": "EXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。 VOL．30",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ff8dd1d49b6d434b227ffaa4774ad072.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-030"
-  },
-  {
-    "id": 595543,
-    "IDcode": "AMA-032",
-    "title": "【プレステージ】SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。 VOL．31",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9e69b646779bef7369f21d1e438da833.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-032"
-  },
-  {
-    "id": 595367,
-    "IDcode": "AMA-036",
-    "title": "SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。 VOL．36",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bc9a639e2ce548cabfdb30fe84b7d591.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-036"
-  },
-  {
-    "id": 595336,
-    "IDcode": "AMA-037",
-    "title": "SEXの逸材。ドスケベ素人の冲撃的试し撮り 性癖をこじらせてプレステージ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-069"
   },
   {
-    "id": 72351,
-    "IDcode": "AMA-038",
-    "title": "蚊香社试镜超好色真实素人妹 VOL.38",
+    "id": 576510,
+    "IDcode": "765ORECS-070",
+    "title": "絶対堕としたい制服美少女を自宅に诱って胜手に隠し撮り！キス堕ちパイパンちゃん&ハニカミすけべちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "深喉",
-      "玩具",
-      "4小时以上作品",
-      "素人",
-      "业余",
-      "素人作品",
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/aeb789aedf9d6b491674bd218976e1c0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-070"
   },
   {
-    "id": 590370,
-    "IDcode": "AMA-039",
-    "title": "[]の逸材。ドスケベ素人",
+    "id": 576525,
+    "IDcode": "765ORECS-071",
+    "title": "先生を诱惑して弄ぶナマイキ女子○生のパンチラ尻に反撃即ハメ生中出し まお&ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240120/pb_e_765orecs-071.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-071"
+  },
+  {
+    "id": 542284,
+    "IDcode": "765ORECS-082",
+    "title": "成功秘密拍摄与警卫发生性关系的 JD。让我更多地操你",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-082"
+  },
+  {
+    "id": 576651,
+    "IDcode": "765ORECS-095",
+    "title": "7P大乱交in露天风吕&制服美少女6名超全身舐めハーレムSEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "中文字幕"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220623-1/e9c4881863ef166447ae266cfe18d050.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240301/pb_e_765orecs-095.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-095"
   },
   {
-    "id": 566831,
-    "IDcode": "AMA-041",
-    "title": "SEX的逸材。超淫荡素人的冲撃试拍 揭露性癖好 自己来到舞台的真实素人们的始末。 VOL",
+    "id": 170638,
+    "IDcode": "765ORECS-131",
+    "title": "とっても優しい現役看護師限定「絶倫ち○ぽ診察してくれませんか？」何度射精しても勃起",
     "year": "",
     "country": "",
     "genre": "",
@@ -1592,84 +1265,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/mrxtykXD.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/43bc7526fd9ebc29a7534045b09a0544.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-041"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-131"
   },
   {
-    "id": 590369,
-    "IDcode": "AMA-048",
-    "title": "[]の逸材。ドスケベ素人の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-048"
-  },
-  {
-    "id": 590368,
-    "IDcode": "AMA-050",
-    "title": "[]の逸材。ドスケベ素人の冲撃的试し撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-050"
-  },
-  {
-    "id": 94898,
-    "IDcode": "AMA-052",
-    "title": "SEXの逸材。ドスケベ素人の衝撃的試し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん達の顛末。 VOL.52",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "玩具",
-      "4小时以上作品",
-      "素人",
-      "业余",
-      "无毛",
-      "素人作品",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9e02dfa4a4fdcf64a1b2fdb8f3bef6e.jpg",
-    "actress": [
-      "天音りおん",
-      "森林原人",
-      "小田切ジュン",
-      "玉木玲",
-      "须崎まどか",
-      "东条有希",
-      "竹内麻耶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
-  },
-  {
-    "id": 594964,
-    "IDcode": "AMA-053",
-    "title": "SEX天才。超好色素人的冲击试 拍 性癖特殊主动来PRESTIGE的真正素人们的始末。 VOL",
+    "id": 517834,
+    "IDcode": "765ORECS-132",
+    "title": "與素人美OO遙控按摩棒散",
     "year": "",
     "country": "",
     "genre": "",
@@ -1677,118 +1282,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4ae535f03a092cf66bbbe/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-132"
   },
   {
-    "id": 186232,
-    "IDcode": "AMA-055",
-    "title": "网罗各种性癖的素人给他们体验最满意的拍摄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/aff0627d8734857f6fca7233c692c7b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-055"
-  },
-  {
-    "id": 594942,
-    "IDcode": "AMA-056",
-    "title": "性爱逸材。超淫素人的展露性癖试拍VOL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-056"
-  },
-  {
-    "id": 98283,
-    "IDcode": "AMA-057_ASEX",
-    "title": "の逸材。ドスケベ素人の衝撃的試し撮り性癖をこじらせてプレステージ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-057_ASEX"
-  },
-  {
-    "id": 534036,
-    "IDcode": "AMA-058",
-    "title": "_ASEXの逸材。ドスケベ素人の冲撃的试し撮り性癖をこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-058"
-  },
-  {
-    "id": 534035,
-    "IDcode": "AMA-059",
-    "title": "ASEXの逸材。ドスケベ素人の冲撃的试し撮り性癖をこじらせてプレステージに自らやって来た本物素人さん达の颠末。VOL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-059"
-  },
-  {
-    "id": 56742,
-    "IDcode": "AMATEUR",
-    "title": "素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMATEUR"
-  },
-  {
-    "id": 530039,
-    "IDcode": "AMBX-009",
-    "title": "ambx00009 丽しの素人妻ナンパ生中出し浓厚16连発！ 2",
+    "id": 517122,
+    "IDcode": "765ORECS-180",
+    "title": "漂亮的美麗人妻們！「要不",
     "year": "",
     "country": "",
     "genre": "",
@@ -1797,292 +1300,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/2b3d86432bb4986d64e957568e1f92a4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffd9157de28f4edeabc2fc/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBX-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-180"
   },
   {
-    "id": 467893,
-    "IDcode": "AMCD-54",
-    "title": "街角ナンパくい込み素人パンチー屈辱Tフロント羞恥",
+    "id": 517171,
+    "IDcode": "765ORECS-181",
+    "title": "漂亮的美麗人妻們！「要不",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc19f34e7d663df4da3e5a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMCD-54"
-  },
-  {
-    "id": 81448,
-    "IDcode": "AOI-001",
-    "title": "DOROCOS 雪見紗弥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "荡妇",
-      "多P",
-      "素人",
-      "手淫"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c1b5fb4835099c98bd7cd6828d65490f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-001"
-  },
-  {
-    "id": 556719,
-    "IDcode": "AOI-002",
-    "title": "街头女王 AV 首次亮相！ !!原宿版夏井由里奈聚集全城眼球的街头女王参与AV！ - 夏井友梨奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/f6a9ff6d3749b265a76b85f4b22c972d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-002"
-  },
-  {
-    "id": 556720,
-    "IDcode": "AOI-003",
-    "title": "街头女王 AV 首次亮相！ !!六月拉丁光面屁股 GAL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/188c988c627ed52f555cd1dc23f7dcf9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-003"
-  },
-  {
-    "id": 557069,
-    "IDcode": "AOI-004",
-    "title": "散宴 - 德井唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/262bf9f5444d170bc60926843a6b793d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-004"
-  },
-  {
-    "id": 556631,
-    "IDcode": "AOI-006",
-    "title": "车站便当学园",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251013-1/8893951d656f8565c40b953c071ab621.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-006"
-  },
-  {
-    "id": 556721,
-    "IDcode": "AOI-008",
-    "title": "街头女王 AV 首次亮相 ！ ！！ Ayame Morimoto (22) Freeter # 街上聚集城市目光的女王的 AV 拍摄！ - 森本あやめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/9a9914e085028d0d2eb877a9bf3d62c2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOI-008"
-  },
-  {
-    "id": 576332,
-    "IDcode": "AOZ-040",
-    "title": "[] 素人制服図鉴 03 ゆあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231122/h_308aoz040pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOZ-040"
-  },
-  {
-    "id": 12113,
-    "IDcode": "APGH-021",
-    "title": "放學後美少女H，無垢&貧乳，即時高潮&肉食系女學生 ~ 雨宮あや花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "純粹的慾望",
-      "飯店",
-      "美少女",
-      "JK校服",
-      "純愛・戀愛",
-      "出道作品",
-      "色白",
-      "口交",
-      "貧乳",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
-    "publish_date": "2024-09-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20240909/d1a08faf-deb9-4bdb-ae4d-37ed54eb49e5.jpg",
-    "actress": [
-      "雨宮あや花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-021"
-  },
-  {
-    "id": 5854,
-    "IDcode": "APNS-375",
-    "title": "今、失踪した愛しき妻の輪●レ●プ映像がDVDで送りつけられて来た… 悲劇の寝取られ孕ませ中出し… 三池小春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "三十路",
-      "苗條",
-      "凌辱",
-      "綁架",
-      "美腳",
-      "羞恥",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "NTR",
       "人妻",
-      "美人妻",
-      "短髮",
-      "淫亂",
-      "地味",
-      "內衣",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "輪姦",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "無毛",
-      "魔鬼系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524000440827827_thumbnail.webp",
-    "actress": [
-      "三池小春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-375"
-  },
-  {
-    "id": 551248,
-    "IDcode": "AQSH-090",
-    "title": "パート先でお金を横领したことがバレて见逃してもらう代わりに风俗嬢しか知らない素人童贞店长に初め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250416/sysTwjAv/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0cb82631cc64eb5b34357/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-181"
   },
   {
-    "id": 561966,
-    "IDcode": "ARA-511",
-    "title": "モテ美女かれんちゃん参上！‘セックスに兴味津々です-素人",
+    "id": 517222,
+    "IDcode": "765ORECS-228",
+    "title": "素人太太們與處男緊貼混浴",
     "year": "",
     "country": "",
     "genre": "",
@@ -2090,51 +1335,101 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bac64dce3e366423ce8020/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-228"
+  },
+  {
+    "id": 517226,
+    "IDcode": "765ORECS-241",
+    "title": "湘南海邊散發光輝的兩位泳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b424c65fdaf263a25c780e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-241"
+  },
+  {
+    "id": 517230,
+    "IDcode": "765ORECS-242",
+    "title": "向在湘南大海中閃閃發光的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b426cb5fdaf263a25c7cec/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-242"
+  },
+  {
+    "id": 517339,
+    "IDcode": "765ORECS-328",
+    "title": "乡下电视台女主播真实搭讪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6cb118cce1a927afdf627/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-328"
+  },
+  {
+    "id": 517340,
+    "IDcode": "765ORECS-329",
+    "title": "乡下电视台女主播真实搭讪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6ca768cce1a927afdf60d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-329"
+  },
+  {
+    "id": 59671,
+    "IDcode": "765ORECS-387",
+    "title": "綺麗なお姉さん2人がチ○ポバカになるまでヌイてくれるハーレム合コン かなちゃん&ampさくらちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-511"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-387"
   },
   {
-    "id": 14507,
-    "IDcode": "ARSO-24182",
-    "title": "麻衣人妻～名流俱樂部～182",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "女優訪談",
-      "人妻",
-      "感官作品",
-      "肉絲",
-      "素人",
-      "女上位",
-      "美乳",
-      "中出",
-      "飯店",
-      "口交",
-      "企畫",
-      "性感"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AROUND",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROUND",
-        "works_count": 54
-      }
-    ],
-    "publish_date": "2024-05-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/aa5e3051-fbc3-4ad5-a266-b7e15814d1b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-24182"
-  },
-  {
-    "id": 469533,
-    "IDcode": "ASIA-115",
-    "title": "素人人妖逆袭搭讪！如果你不看那根鸡巴，你永远不会注意到！ ！ 10人4小时中出！ ！",
+    "id": 196866,
+    "IDcode": "765ORECS-399",
+    "title": "現役体育大生が挑戦！1cmハメ！足腰ガクブルビクンビクンイキまくりで、天馬ゆい",
     "year": "",
     "country": "",
     "genre": "",
@@ -2142,104 +1437,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d75c57e1ae1e49a435f9a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-115"
-  },
-  {
-    "id": 587468,
-    "IDcode": "AST-126",
-    "title": "成为母亲玩具的我 痴女继母 12人 4小时特别收藏 vol.6 素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250906-1/784b55a0cefc78f3f99f0d96e4c606e7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-126"
-  },
-  {
-    "id": 547408,
-    "IDcode": "AT-172",
-    "title": "“素人个撮” 女子〇生卑猥ドライブ连れ込み性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231116/3Kp0Q3Qh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-172"
-  },
-  {
-    "id": 525519,
-    "IDcode": "AT-181",
-    "title": "素人ちびはめフレンズ！ 先生とTRYせっくすドキュメンッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240818/B5RJuN7m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-181"
-  },
-  {
-    "id": 540886,
-    "IDcode": "ATOM-087",
-    "title": "母子家庭限定！素人母娘（おやこ）ツイスター第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-399"
   },
   {
-    "id": 531798,
-    "IDcode": "ATOM-251",
-    "title": "素人限定！パンチラ＆マンチラ盛りだくさん！固定バイブリンボーダンス",
+    "id": 260871,
+    "IDcode": "765ORECS-400",
+    "title": "現役体育大生が挑戦！1cmハメ！足腰ガクブルビクンビクンイキまくりで、姫野らん 東城ゆい",
     "year": "",
     "country": "",
     "genre": "",
@@ -2247,16 +1454,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/6d2680c929cd3a63b21f1435a663e083.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31415dd88d14f063f01b2/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-251"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-400"
   },
   {
-    "id": 531528,
-    "IDcode": "ATOM-263",
-    "title": "パンチラ＆ポロリてんこ盛り！素人OL限定！目指せ！赏金100万円！ツイ●ター野球拳",
+    "id": 196702,
+    "IDcode": "765ORECS-401",
+    "title": "問題映像塩対応パ○活おバカなデカパイ娘をガン詰めガン突きして理解らせた",
     "year": "",
     "country": "",
     "genre": "",
@@ -2264,68 +1471,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230606-1/83eb1ae5a7ecfc549e30e64d266c2889.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-263"
-  },
-  {
-    "id": 530006,
-    "IDcode": "ATOM-277",
-    "title": "ポロリ＆マンチラのオンパレード！温泉街で见つけた素人お嬢さん限定！タオル一枚 ツイ●ターゲームしてみませんか‛？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/860a3afcb5303f978377628b22ee2320.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-277"
-  },
-  {
-    "id": 531796,
-    "IDcode": "ATOM-285",
-    "title": "アソコがじゅ～ん！素人限定！目指せ赏金100万円！素股でリモバイ擦ってヌレヌレ我慢ゲーム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240515-1/7a47fb7fee275ffc0579a8139b591c84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-285"
-  },
-  {
-    "id": 591318,
-    "IDcode": "ATOM-290",
-    "title": "[] 素人学生妹走光狂摇计步器！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-290"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-401"
   },
   {
-    "id": 534064,
-    "IDcode": "ATOM-297",
-    "title": "パンチラ确定！ポロリ必至！素人女性限定！ドレス巾着クイズ タイムショック",
+    "id": 196701,
+    "IDcode": "765ORECS-406",
+    "title": "彼氏がいるけど仲良しな友達同士の男女が密着オイルエステぬるぬる素股体験！？ 愛瀬ゆうり 深月めい",
     "year": "",
     "country": "",
     "genre": "",
@@ -2333,16 +1488,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=765ORECS-406"
   },
   {
-    "id": 531797,
-    "IDcode": "ATOM-321",
-    "title": "パンチラ＆胸チラ连発！素人限定！ぐるぐるバット早着替え障害物竞走",
+    "id": 576438,
+    "IDcode": "766ESDX-016",
+    "title": "【个撮】女子○生种付け记录 みいなちゃん_美白美巨乳Fカップ_パイパンマ○コ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231228/pb_e_766esdx-016.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-016"
+  },
+  {
+    "id": 576437,
+    "IDcode": "766ESDX-017",
+    "title": "【个撮】女子○生种付け记录 えるちゃん_Aカップ_低身长145cm",
     "year": "",
     "country": "",
     "genre": "",
@@ -2350,16 +1523,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240515-1/7bd611045af815cee909ee4e416be738.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231228/pb_e_766esdx-017.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-321"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-017"
   },
   {
-    "id": 591015,
-    "IDcode": "ATOM-324",
-    "title": "即ポロリ！素人限定！帯なし浴衣でノーブラリンボーダンス！",
+    "id": 576436,
+    "IDcode": "766ESDX-018",
+    "title": "【个撮】女子○生种付け记录 みいろちゃん_Bカップ_ネカフェ连れ込み_パイパンマ○コ",
     "year": "",
     "country": "",
     "genre": "",
@@ -2367,16 +1540,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230617-1/832d2a7f8963fa327708dd258065c007.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-324"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-018"
   },
   {
-    "id": 591017,
-    "IDcode": "ATOM-325",
-    "title": "目隠しをしてカラダの感覚を研ぎ澄ませ！素人限定！カラダに当ってるのは何！？ゲーム",
+    "id": 576435,
+    "IDcode": "766ESDX-019",
+    "title": "【个撮】女子○生种付け记录 ひかげちゃん_Bカップ_生チ○ポ好き",
     "year": "",
     "country": "",
     "genre": "",
@@ -2384,16 +1557,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230617-1/744c766273c60cb5e1374ae9f30b6caf.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231228/pb_e_766esdx-019.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-325"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-019"
   },
   {
-    "id": 591018,
-    "IDcode": "ATOM-326",
-    "title": "パンチラ＆ポロリ连発！素人限定！拘束声出し我慢ゲーム2",
+    "id": 576433,
+    "IDcode": "766ESDX-020",
+    "title": "【个撮】女子○生种付け记录 りおんちゃん_Bカップ_明るく元気な女の子",
     "year": "",
     "country": "",
     "genre": "",
@@ -2401,16 +1574,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230617-1/408f4fa98e94df347d5398a321051068.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231227/pb_e_766esdx-020.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-326"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-020"
   },
   {
-    "id": 526518,
-    "IDcode": "ATOM-339",
-    "title": "ポロリ确定！マンチラ必至！素人限定！溶ける水着でぬるぬる！ローション相扑",
+    "id": 518017,
+    "IDcode": "766ESDX-040",
+    "title": "猥褻檢查 29歳/預定結婚",
     "year": "",
     "country": "",
     "genre": "",
@@ -2418,45 +1591,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/01/tjv11zj0myh.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69051c332fdf2b287a20bc49/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-339"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-040"
   },
   {
-    "id": 71856,
-    "IDcode": "ATOM-352",
-    "title": "水着が溶けてポロリ確定！マンチラ必至！どさくさ紛れにヌルっと挿入！？素人限定！溶ける水着でぬるぬるソープ体験！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恶作剧",
-      "羞耻",
-      "素人",
-      "乳液",
-      "企画",
-      "泳装"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/93fa05ce502356b685d3777b0b7366ee.jpg",
-    "actress": [
-      "今井由亞",
-      "花笑一杏",
-      "タツ",
-      "池田结爱",
-      "星咲伶美",
-      "岬澪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-352"
-  },
-  {
-    "id": 531529,
-    "IDcode": "ATOM-359",
-    "title": "パンチラ＆マンチラてんこ盛り！素人黒パンストOL限定！！目指せ！赏金100万円！黒ストッキングツイ●ター野球拳",
+    "id": 518016,
+    "IDcode": "766ESDX-042",
+    "title": "猥褻檢查 20歳/新人地味",
     "year": "",
     "country": "",
     "genre": "",
@@ -2464,16 +1608,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230606-1/4d5f6e9ab366c5fd13358cb57d7eed7b.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69051efe28bb452860f886fe/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-359"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-042"
   },
   {
-    "id": 515956,
-    "IDcode": "ATOM-360",
-    "title": "搭訕素人妹來試穿彈性內褲！",
+    "id": 576682,
+    "IDcode": "766ESDX-043",
+    "title": "●せつ検诊 22歳_社会人2年目OL_医院长の巨根を奥までズッポリ咥え込むキツマン",
     "year": "",
     "country": "",
     "genre": "",
@@ -2481,16 +1625,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690ffda671eb543bb0f55047/poster2.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240315/pb_e_766esdx-043.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-360"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-043"
   },
   {
-    "id": 515959,
-    "IDcode": "ATOM-361",
-    "title": "迷你裙素人妹走光平衡木開腿猜謎！",
+    "id": 518045,
+    "IDcode": "766ESDX-044",
+    "title": "摩擦OO妹 朱理",
     "year": "",
     "country": "",
     "genre": "",
@@ -2498,16 +1642,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690ff1d171eb543bb0f53b22/poster2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69029f0f79f1ac4ec4ca6ab9/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-361"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-044"
   },
   {
-    "id": 530151,
-    "IDcode": "ATOM-362",
-    "title": "atom00362 アソコはヌルヌル！潮吹きしまくり！素人カップル限定！彼氏と生电话しながら手マンクイズタイムショック",
+    "id": 576706,
+    "IDcode": "766ESDX-045",
+    "title": "シコスジJ● さら",
     "year": "",
     "country": "",
     "genre": "",
@@ -2515,16 +1659,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240623-1/2cc9e62a26c488fad242b25c86fa827b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-362"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-045"
   },
   {
-    "id": 595393,
-    "IDcode": "ATOM-366",
-    "title": "素人カップル スケベ度モニタリングAV アイマスクとヘッドフォンをした彼氏の横で彼氏よりも大きいデカチンを见せつけられた彼女はいったいどうする！？",
+    "id": 518042,
+    "IDcode": "766ESDX-046",
+    "title": "摩擦OO妹 寧寧",
     "year": "",
     "country": "",
     "genre": "",
@@ -2532,16 +1676,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e6584db1ca719e4a785453240949f3e7.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69029f6279f1ac4ec4ca6aba/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-366"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-046"
   },
   {
-    "id": 515968,
-    "IDcode": "ATOM-380",
-    "title": "素人限定！張腿私處摩擦走鋼索",
+    "id": 518087,
+    "IDcode": "766ESDX-049",
+    "title": "偷東西的代價×懷孕個別指導",
     "year": "",
     "country": "",
     "genre": "",
@@ -2549,16 +1693,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c82c58e8eb72804b279e0/poster2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9c18d6fbef4e90091a7b/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-380"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-049"
   },
   {
-    "id": 515962,
-    "IDcode": "ATOM-381",
-    "title": "素人限定！迷你比基尼跑步機問答",
+    "id": 518091,
+    "IDcode": "766ESDX-052",
+    "title": "偷東西的代價×懷孕個別指導",
     "year": "",
     "country": "",
     "genre": "",
@@ -2566,49 +1710,10 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d2be171eb543bb0ee7ea1/poster2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9c6bd6fbef4e90091a7d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-381"
-  },
-  {
-    "id": 595077,
-    "IDcode": "ATOM-382",
-    "title": "遮眼素股！真正的老二是哪一根？ 素人女挑战性访问、野球拳、用香肠模拟口交等有些色色的任务来拿奖金",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/jekfZqhS.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-382"
-  },
-  {
-    "id": 83060,
-    "IDcode": "ATOM-395",
-    "title": "素人限定！目指せ！高額賞金！リモコンバイブのリモコン探しゲーム2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "羞耻",
-      "OL",
-      "素人",
-      "按摩棒",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/503af3d71339a4664f7d1f1a829b7c04.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-395"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-052"
   }
 ];

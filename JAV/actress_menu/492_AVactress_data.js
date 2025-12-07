@@ -69,7 +69,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO",
       "publish_date": "2024-10-24",
       "cover_url": "https://picture.yoshiclub.xyz/20240917/67da5806-b338-4607-954b-4c6a671e7055.jpg",
       "actress": [

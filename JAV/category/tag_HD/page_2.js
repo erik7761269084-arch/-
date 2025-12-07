@@ -2,17 +2,17 @@ window.PAGE_DATA = [
   {
     "id": 569871,
     "IDcode": "C0930-KI230422",
-    "title": "-自画撮りオナニー特集",
+    "title": "自画撮りオナニー特集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230426/dITHI6B7/1.jpg",
     "actress": [],
@@ -21,17 +21,17 @@ window.PAGE_DATA = [
   {
     "id": 569869,
     "IDcode": "C0930-KI230423",
-    "title": "-纯情そうな颜してエロいです ~ 松居 唯子 26歳",
+    "title": "纯情そうな颜してエロいです ~ 松居 唯子 26歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230425/54V7whgA/1.jpg",
     "actress": [],
@@ -45,12 +45,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -67,7 +67,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -84,7 +84,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -101,7 +101,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/c41379f63169cfe4dc06fe39cb3d8bdb.jpg",
     "actress": [],
@@ -118,7 +118,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -135,7 +135,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -152,7 +152,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/9308387e7a86bd3e4bb0760e994b995d.jpg",
     "actress": [],
@@ -169,7 +169,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/2d88c2da05fe30d9ed83a0e72e2821e4.jpg",
     "actress": [],
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -220,7 +220,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/d565c16755e259937c2303eb9712b0b2.jpg",
     "actress": [],
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -271,7 +271,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -288,7 +288,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230423/D24ox6uf/1.jpg",
     "actress": [],
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/f0275c5a60b67e5aa05e670bd7d24594.jpg",
     "actress": [],
@@ -322,7 +322,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -339,7 +339,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -356,7 +356,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -373,7 +373,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -390,7 +390,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -407,7 +407,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -424,7 +424,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -441,7 +441,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -458,7 +458,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -475,7 +475,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/a0686933ea07391ca6889e9a156563ba.jpg",
     "actress": [],
@@ -492,7 +492,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -509,7 +509,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -526,7 +526,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/ad7124ebbbea80275105178c5aa25533.jpg",
     "actress": [],
@@ -543,7 +543,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -560,7 +560,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/8d0e2dd18a6130bc44837794c3578d7a.jpg",
     "actress": [],
@@ -577,7 +577,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -594,7 +594,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/6553e52a8cffc348f94a122cc46d1d03.jpg",
     "actress": [],
@@ -611,7 +611,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/594029be4b1b1b02ef6d699ceb4ce6eb.jpg",
     "actress": [],
@@ -628,7 +628,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -642,18 +642,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230329/T6WXinCz/1.jpg",
     "actress": [],
@@ -667,18 +661,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230330/R8Kr29Gj/1.jpg",
     "actress": [],
@@ -692,18 +680,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230330/PQNILYmw/1.jpg",
     "actress": [],
@@ -717,18 +699,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230331/yw9UwGjD/1.jpg",
     "actress": [],
@@ -742,18 +718,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230324/Vn5CCEKU/1.jpg",
     "actress": [],
@@ -767,18 +737,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230325/rx4m67tC/1.jpg",
     "actress": [],
@@ -792,18 +756,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230326/rSsHavGS/1.jpg",
     "actress": [],
@@ -817,18 +775,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230401/3lrERjIp/1.jpg",
     "actress": [],
@@ -842,18 +794,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230403/EEUWuYwy/1.jpg",
     "actress": [],
@@ -867,18 +813,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230404/UDKXZgF5/1.jpg",
     "actress": [],
@@ -892,18 +832,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230404/LBEvpvH3/1.jpg",
     "actress": [],
@@ -917,18 +851,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230404/U7dgx2cC/1.jpg",
     "actress": [],
@@ -942,18 +870,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230406/lLOk896E/1.jpg",
     "actress": [],
@@ -967,18 +889,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230412/xfb0Xlys/1.jpg",
     "actress": [],
@@ -992,18 +908,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230408/b80KTaya/1.jpg",
     "actress": [],
@@ -1017,18 +927,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230409/4TL9QR6C/1.jpg",
     "actress": [],
@@ -1042,18 +946,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230411/YSsPdmHT/1.jpg",
     "actress": [],
@@ -1067,18 +965,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230413/mMXtvMmH/1.jpg",
     "actress": [],
@@ -1092,18 +984,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230415/SUIBlAQ8/1.jpg",
     "actress": [],
@@ -1117,18 +1003,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230416/5nFJbuji/1.jpg",
     "actress": [],
@@ -1142,18 +1022,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230420/pEMc7QQk/1.jpg",
     "actress": [],
@@ -1167,18 +1041,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230423/FWIRHDHO/1.jpg",
     "actress": [],
@@ -1192,18 +1060,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230426/7Om2qxBL/1.jpg",
     "actress": [],
@@ -1217,18 +1079,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230425/3QKzeCn5/1.jpg",
     "actress": [],
@@ -1242,18 +1098,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230429/3FPK5cQt/1.jpg",
     "actress": [],
@@ -1267,18 +1117,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230429/XO08nxTA/1.jpg",
     "actress": [],
@@ -1292,18 +1136,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230428/wBT11hTX/1.jpg",
     "actress": [],
@@ -1317,18 +1155,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230430/UJMcsKzO/1.jpg",
     "actress": [],
@@ -1342,18 +1174,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230503/4Kn2wVSH/1.jpg",
     "actress": [],
@@ -1367,18 +1193,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230504/cUeVwFiL/1.jpg",
     "actress": [],
@@ -1392,18 +1212,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230503/Su5WzTbL/1.jpg",
     "actress": [],
@@ -1417,18 +1231,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230505/10NBqagl/1.jpg",
     "actress": [],
@@ -1442,18 +1250,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230506/J9VSoWpN/1.jpg",
     "actress": [],
@@ -1467,18 +1269,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230507/FTOZlLKG/1.jpg",
     "actress": [],
@@ -1492,18 +1288,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230508/bqBKMd93/1.jpg",
     "actress": [],
@@ -1517,18 +1307,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230511/GD20dyml/1.jpg",
     "actress": [],
@@ -1542,19 +1326,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "乱交",
       "高清画质",
-      "无码"
+      "乱交"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230512/EsQjyu2D/1.jpg",
     "actress": [],
@@ -1568,18 +1346,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230513/qEadWmfs/1.jpg",
     "actress": [],
@@ -1593,18 +1365,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230514/ZKlSI19v/1.jpg",
     "actress": [],
@@ -1618,18 +1384,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230606/0u0JGviq/1.jpg",
     "actress": [],
@@ -1643,18 +1403,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/Z1B7JSPI/1.jpg",
     "actress": [],
@@ -1668,18 +1422,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230830/b6zmAj9J/1.jpg",
     "actress": [],
@@ -1693,18 +1441,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221202/TnnMvcqX/1.jpg",
     "actress": [],
@@ -1718,18 +1460,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1743,18 +1479,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "高清画质",
-      "无码"
+      "高清画质"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1763,7 +1493,7 @@ window.PAGE_DATA = [
   {
     "id": 532980,
     "IDcode": "CEAD-471",
-    "title": "[] 完全勃起する主観チクビオナニー！ビンビンの勃起乳首で贵方に迫るオナ娘15人！！",
+    "title": "完全勃起する主観チクビオナニー！ビンビンの勃起乳首で贵方に迫るオナ娘15人！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1771,13 +1501,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231218/cead471pl.jpg!320x216.jpg",
     "actress": [],
@@ -1786,22 +1510,16 @@ window.PAGE_DATA = [
   {
     "id": 535752,
     "IDcode": "CEMD-154",
-    "title": "[] 身长差・レズ解禁！ 皆川るいwith富井美帆 ～凸凹身长差カップルの巨乳女子2人がイキ乱れる！",
+    "title": "身长差・レズ解禁！ 皆川るいwith富井美帆 ～凸凹身长差カップルの巨乳女子2人がイキ乱れる！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230929/cemd154pl.jpg!320x216.jpg",
     "actress": [],
@@ -1810,7 +1528,7 @@ window.PAGE_DATA = [
   {
     "id": 535680,
     "IDcode": "CEMD-178",
-    "title": "[] 性獣たちの最狂レズビアン 望月あやか 新村あかり 春菜はな",
+    "title": "性獣たちの最狂レズビアン 望月あやか 新村あかり 春菜はな",
     "year": "",
     "country": "",
     "genre": "",
@@ -1818,13 +1536,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230517/cemd178pl.jpg!320x216.jpg",
     "actress": [],
@@ -1833,7 +1545,7 @@ window.PAGE_DATA = [
   {
     "id": 535678,
     "IDcode": "CEMD-201",
-    "title": "[] 初レズ解禁！星川まいwith新村あかり",
+    "title": "初レズ解禁！星川まいwith新村あかり",
     "year": "",
     "country": "",
     "genre": "",
@@ -1841,13 +1553,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230530/cemd201pl.jpg!320x216.jpg",
     "actress": [],
@@ -1856,7 +1562,7 @@ window.PAGE_DATA = [
   {
     "id": 532601,
     "IDcode": "CEMD-283",
-    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 高瀬りな 激エロ・4SEX",
+    "title": "～溢れる性冲动に溺れるオンナ～セックス・ドンナ 高瀬りな 激エロ・4SEX",
     "year": "",
     "country": "",
     "genre": "",
@@ -1864,13 +1570,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230420/cemd00283pl.jpg",
     "actress": [],
@@ -1879,7 +1579,7 @@ window.PAGE_DATA = [
   {
     "id": 532846,
     "IDcode": "CEMD-293",
-    "title": "[] 涙のノンストップ激イカせSEX23 唯奈みつき",
+    "title": "涙のノンストップ激イカせSEX23 唯奈みつき",
     "year": "",
     "country": "",
     "genre": "",
@@ -1887,13 +1587,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/cemd293pl.jpg!320x216.jpg",
     "actress": [],
@@ -1902,7 +1596,7 @@ window.PAGE_DATA = [
   {
     "id": 532845,
     "IDcode": "CEMD-296",
-    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 百永さりな 激エロ・4SEX",
+    "title": "～溢れる性冲动に溺れるオンナ～セックス・ドンナ 百永さりな 激エロ・4SEX",
     "year": "",
     "country": "",
     "genre": "",
@@ -1910,13 +1604,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/cemd296pl.jpg!320x216.jpg",
     "actress": [],
@@ -1925,7 +1613,7 @@ window.PAGE_DATA = [
   {
     "id": 533046,
     "IDcode": "CEMD-304",
-    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 新村あかり 激エロ・4SEX",
+    "title": "～溢れる性冲动に溺れるオンナ～セックス・ドンナ 新村あかり 激エロ・4SEX",
     "year": "",
     "country": "",
     "genre": "",
@@ -1933,13 +1621,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/cemd304pl.jpg!320x216.jpg",
     "actress": [],
@@ -1948,7 +1630,7 @@ window.PAGE_DATA = [
   {
     "id": 533045,
     "IDcode": "CEMD-306",
-    "title": "[] キャンピングカーでエッチしようよ！アナルSEXバージョン4 望月あやか",
+    "title": "キャンピングカーでエッチしようよ！アナルSEXバージョン4 望月あやか",
     "year": "",
     "country": "",
     "genre": "",
@@ -1956,13 +1638,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/cemd306pl.jpg!320x216.jpg",
     "actress": [],
@@ -1971,7 +1647,7 @@ window.PAGE_DATA = [
   {
     "id": 535803,
     "IDcode": "CEMD-417",
-    "title": "[] 初レズ解禁！最狂ド淫乱モンスター“望月あやか”がレズ経験ゼロの“前田美波”とレズビアンSEX！！",
+    "title": "初レズ解禁！最狂ド淫乱モンスター“望月あやか”がレズ経験ゼロの“前田美波”とレズビアンSEX！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1979,13 +1655,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20231230/cemd417pl.jpg!320x216.jpg",
     "actress": [],
@@ -1994,7 +1664,7 @@ window.PAGE_DATA = [
   {
     "id": 589939,
     "IDcode": "CHN-148",
-    "title": "[] 新‧出借绝对美少女 ACT.78 黑",
+    "title": "新‧出借绝对美少女 ACT.78 黑",
     "year": "",
     "country": "",
     "genre": "",
@@ -2002,7 +1672,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20220925/Nk17k4pL/1.jpg",
     "actress": [],
@@ -2011,22 +1681,16 @@ window.PAGE_DATA = [
   {
     "id": 532600,
     "IDcode": "CHRV-171",
-    "title": "[] 変态爆裂ダイナマイト！わがままボインちゃん！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Kカップ124cm ふうみな",
+    "title": "変态爆裂ダイナマイト！わがままボインちゃん！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Kカップ124cm ふうみな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230420/chrv00171pl.jpg",
     "actress": [],
@@ -2035,22 +1699,16 @@ window.PAGE_DATA = [
   {
     "id": 532844,
     "IDcode": "CHRV-172",
-    "title": "[] お兄ちゃんのビンビンち○ぽを乳ビンタしてくれ！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Jカップ118cm ゆかちん",
+    "title": "お兄ちゃんのビンビンち○ぽを乳ビンタしてくれ！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Jカップ118cm ゆかちん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/chrv172pl.jpg!320x216.jpg",
     "actress": [],
@@ -2059,22 +1717,16 @@ window.PAGE_DATA = [
   {
     "id": 532842,
     "IDcode": "CHRV-173",
-    "title": "[] お兄ちゃんをダメにする妹のオッパイ！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Iカップ98cm サクちゃん",
+    "title": "お兄ちゃんをダメにする妹のオッパイ！ 妹の爆乳は一见にしかず！セーラー服生中出し！ Iカップ98cm サクちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231022/chrv173pl.jpg!320x216.jpg",
     "actress": [],
@@ -2083,22 +1735,16 @@ window.PAGE_DATA = [
   {
     "id": 533044,
     "IDcode": "CHRV-174",
-    "title": "[] 実は隠し子の妹がいた件、デカパイオーツ・オブ・カリビアン 妹の爆乳は一见にしかず！セーラー服生中出し！",
+    "title": "実は隠し子の妹がいた件、デカパイオーツ・オブ・カリビアン 妹の爆乳は一见にしかず！セーラー服生中出し！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/chrv174pl.jpg!320x216.jpg",
     "actress": [],
@@ -2107,22 +1753,16 @@ window.PAGE_DATA = [
   {
     "id": 533043,
     "IDcode": "CHRV-175",
-    "title": "[] ブーム再来？！B（ボイン）L（ルーズソックス）T（ティーバック） 妹の爆乳は一见にしかず！セーラー服生中出し！",
+    "title": "ブーム再来？！B（ボイン）L（ルーズソックス）T（ティーバック） 妹の爆乳は一见にしかず！セーラー服生中出し！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/chrv175pl.jpg!320x216.jpg",
     "actress": [],
@@ -2131,22 +1771,16 @@ window.PAGE_DATA = [
   {
     "id": 533181,
     "IDcode": "CHRV-176",
-    "title": "[] 官能小说朗読オナニーする妹にお兄ちゃんビンビン太郎！ 妹の爆乳は一见にしかず！セーラー服生中出し！",
+    "title": "官能小说朗読オナニーする妹にお兄ちゃんビンビン太郎！ 妹の爆乳は一见にしかず！セーラー服生中出し！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240522/chrv176pl.jpg!320x216.jpg",
     "actress": [],
@@ -2160,17 +1794,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "已婚妇女",
-      "中文字幕",
       "业余",
-      "素人作品",
+      "人妻",
       "巨乳",
-      "高清画质"
+      "已婚妇女",
+      "高清画质",
+      "中文字幕",
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0c6e2e27825a08e2f8efcb6a2d04d798.jpg",
     "actress": [

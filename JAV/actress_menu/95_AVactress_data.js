@@ -160,7 +160,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064808873873.jpg",
       "actress": [
@@ -589,7 +589,7 @@ window.actressData = {
     {
       "id": 591543,
       "IDcode": "DOCP-214",
-      "title": "内射家庭主妇 【】",
+      "title": "内射家庭主妇",
       "year": "",
       "country": "",
       "genre": "",
@@ -1771,7 +1771,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -2276,7 +2276,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313345454_38232_thumbnail.webp",
       "actress": [
@@ -2448,7 +2448,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

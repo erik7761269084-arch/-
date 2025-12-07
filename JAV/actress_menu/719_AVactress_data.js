@@ -105,7 +105,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "LAFORET GIRL",
       "publish_date": "2014-11-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230123/484de72f-0594-477e-9eca-6ccbf7932670.webp",
       "actress": [

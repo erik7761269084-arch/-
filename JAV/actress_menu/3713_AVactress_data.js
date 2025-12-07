@@ -26,7 +26,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "2024-06-18",
       "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614021124925925.jpg",
       "actress": [
@@ -581,7 +581,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250411/202504112324022020.jpg",
       "actress": [

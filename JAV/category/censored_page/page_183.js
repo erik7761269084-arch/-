@@ -1,68 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 546436,
-    "IDcode": "AARM-214",
-    "title": "马乘りクンニでマン汁ちゅーちゅー吸わされながら乳首弄りフェラチオでち〇ぽじゅるじゅるしゃぶられ続ける",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240210/PzyXqKfP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-214"
-  },
-  {
-    "id": 546434,
-    "IDcode": "AARM-215",
-    "title": "アナル舐めガチ势4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240210/h33TPfFY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-215"
-  },
-  {
-    "id": 546317,
-    "IDcode": "AARM-216",
-    "title": "ラテックスパンツの腿こき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/WhswOjG0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-216"
-  },
-  {
     "id": 546314,
     "IDcode": "AARM-217",
     "title": "やさしさとエロス溢れる极上愈し乳首舐め",
@@ -71,13 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/6x57BACY/1.jpg",
     "actress": [],
@@ -92,13 +23,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240309/83q40XO3/1.jpg",
     "actress": [],
@@ -113,13 +38,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240309/1NVCNKfS/1.jpg",
     "actress": [],
@@ -134,13 +53,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/D9sN6wlF/1.jpg",
     "actress": [],
@@ -155,13 +68,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/gQkfVjb2/1.jpg",
     "actress": [],
@@ -175,33 +82,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "企畫",
-      "情趣內衣",
-      "美腳",
-      "高跟鞋",
+      "故事集",
+      "口交",
       "眼鏡",
-      "猥褻穿著",
+      "絕頂高潮",
       "中出",
+      "美腳",
+      "企畫",
+      "女優",
+      "情趣內衣",
+      "猥褻穿著",
+      "高跟鞋",
       "短裙・迷你裙",
       "蕩婦",
-      "後入",
-      "美腿",
-      "性感",
-      "口交",
       "騎乗位",
-      "故事集",
-      "絕頂高潮",
-      "女優"
+      "後入",
+      "性感",
+      "形象俱樂部",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-04-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240404/20240404053017799799.jpg",
     "actress": [
@@ -218,13 +119,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240406/U2iq2p78/1.jpg",
     "actress": [],
@@ -238,48 +133,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "JK校服",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "按摩棒",
-      "口交",
-      "亂交 • 群P",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "短裙・迷你裙",
       "少女",
+      "主觀視角",
+      "美腳",
+      "蕩婦",
       "美臀",
-      "絕頂高潮",
+      "亂交 • 群P",
       "舔陰",
-      "脚控・戀足癖",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
       "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "苗條",
+      "飯店",
+      "短裙・迷你裙",
       "手指插入",
+      "騎乗位",
+      "制服",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240418/3c1ae54b-5818-4202-a1dd-16aa98cb03d1.jpg",
     "actress": [
@@ -296,42 +185,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "兩女一男",
-      "M男・M女",
+      "少女",
       "口爆",
-      "飯店",
-      "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
+      "兩女一男",
       "深喉",
       "淫亂",
-      "內衣",
       "中出",
-      "企畫",
-      "少女",
-      "美臀",
-      "絕頂高潮",
       "美少女電影",
-      "女上位"
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "企畫",
+      "飯店",
+      "苗條",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240418/6eb6710b-094a-4cb5-a9cf-1e780e55a89a.jpg",
     "actress": [
@@ -349,13 +232,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/dkFXws1i/1.jpg",
     "actress": [],
@@ -370,26 +247,20 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "美少女電影",
       "打手槍",
-      "無做愛場面",
-      "美少女",
-      "淫語",
       "精選綜合",
-      "M男・M女",
-      "蕩婦",
-      "企畫",
       "絕頂高潮",
-      "女優"
+      "美少女",
+      "M男・M女",
+      "女優",
+      "企畫",
+      "美少女電影",
+      "蕩婦",
+      "無做愛場面",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240509/77070cbc-f541-4500-9756-0be30f8565da.jpg",
     "actress": [
@@ -410,31 +281,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
       "人妻",
-      "脚控・戀足癖",
-      "NTR",
-      "美腳",
+      "口交",
+      "絕頂高潮",
       "出軌",
-      "69",
       "中出",
+      "美腳",
+      "69",
       "足交",
       "蕩婦",
-      "後入",
       "美臀",
-      "性感",
-      "口交",
       "劇情",
-      "絕頂高潮"
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "脚控・戀足癖"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/8721ecac2b67e60d9ecede557c2f073d.jpg",
     "actress": [
@@ -450,19 +315,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胖女人",
+      "口交",
       "屁股",
       "猥亵穿着",
-      "口交"
+      "胖女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/c4cbfb9ec4e842f1e8090e8ec298e090.jpg",
     "actress": [
@@ -481,13 +340,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240525/1UqfDKkc/1.jpg",
     "actress": [],
@@ -502,13 +355,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240525/6gcGqoOm/1.jpg",
     "actress": [],
@@ -523,13 +370,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240525/T7MIePWJ/1.jpg",
     "actress": [],
@@ -544,13 +385,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240608/hMq4fEuk/1.jpg",
     "actress": [],
@@ -565,13 +400,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0554979f1ac4ec48c3504/cover.jpg",
     "actress": [],
@@ -586,18 +415,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "角色扮演者",
+      "口交",
       "单体作品",
-      "局部特写",
-      "口交"
+      "局部特写"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/d10bab1d3af67a89943f05d2de93548c.jpg",
     "actress": [],
@@ -612,13 +435,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/OMv1E4qB/1.jpg",
     "actress": [],
@@ -633,13 +450,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/p07EJoty/1.jpg",
     "actress": [],
@@ -654,13 +465,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/jMHkcqYf/1.jpg",
     "actress": [],
@@ -675,13 +480,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240706/6Acm9IyE/1.jpg",
     "actress": [],
@@ -696,13 +495,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240706/Opi4ncaJ/1.jpg",
     "actress": [],
@@ -717,13 +510,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240706/zQ7BjuH9/1.jpg",
     "actress": [],
@@ -737,29 +524,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "無做愛場面",
-      "巨尻",
-      "顔面騎乘",
-      "乱伦",
       "故事集",
-      "黑絲",
-      "制服",
-      "蕩婦",
-      "企畫",
+      "巨尻",
+      "乱伦",
       "性感",
-      "騎乗位",
+      "女優",
+      "企畫",
+      "黑絲",
+      "蕩婦",
+      "運動服裝",
       "美臀",
-      "女優"
+      "騎乗位",
+      "制服",
+      "無做愛場面",
+      "顔面騎乘"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-07-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240722/06f1113d-0628-4856-abdb-7ea93990007e.jpg",
     "actress": [
@@ -780,13 +561,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240720/0aj9NEqH/1.jpg",
     "actress": [],
@@ -801,19 +576,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "恋腿癖",
-      "乳液",
-      "成熟的女人",
       "足交",
-      "美容院"
+      "乳液",
+      "美容院",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240921-1/984de7fa051b0b912c8dee2cc6bd04f4.jpg",
     "actress": [],
@@ -828,13 +597,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250214/ObkJtayT/1.jpg",
     "actress": [],
@@ -849,13 +612,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250214/oIowe7qL/1.jpg",
     "actress": [],
@@ -870,13 +627,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240921/N1Y6knze/1.jpg",
     "actress": [],
@@ -891,13 +642,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240921/kqe8kFS6/1.jpg",
     "actress": [],
@@ -912,13 +657,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240921/JK4BsUwl/1.jpg",
     "actress": [],
@@ -933,19 +672,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "多P",
-      "成熟的女人",
       "口交",
-      "淫语"
+      "多P",
+      "淫语",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -961,19 +694,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
       "迷你裙",
       "手淫",
+      "乳液",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -991,34 +718,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "獵豔",
-      "吞精",
-      "口爆",
-      "美少女",
       "美腳",
+      "口爆",
+      "深喉",
       "癡女",
       "眼鏡",
-      "口交",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩・物理治療・美容",
+      "騎乗位",
       "形象俱樂部",
-      "深喉",
+      "吞精",
+      "口交",
       "風俗娘",
       "按摩女郎",
-      "中出",
-      "少女",
-      "劇情",
-      "美少女電影",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
+      "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919063157344344.jpg",
     "actress": [
@@ -1034,27 +755,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "無做愛場面",
-      "精選總編集",
-      "胖女人",
       "戀物癖",
-      "乳交",
-      "猥褻穿著",
-      "胸控・戀乳癖",
-      "美乳",
-      "蕩婦",
+      "人妻",
       "巨乳",
-      "企畫"
+      "乳交",
+      "企畫",
+      "猥褻穿著",
+      "胖女人",
+      "胸控・戀乳癖",
+      "蕩婦",
+      "精選總編集",
+      "無做愛場面",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240921/bdf3f6ed-8995-40a7-8a5d-3d54092a5af5.jpg",
     "actress": [
@@ -1074,25 +789,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
-      "無做愛場面",
-      "多P",
       "精選綜合",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "黑絲",
-      "4小時以上作品",
       "企畫",
-      "劇情"
+      "黑絲",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "4小時以上作品",
+      "劇情",
+      "多P",
+      "按摩・美容店",
+      "無做愛場面"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240921/50183412-c4ec-4ffc-a13b-2a3fd3509e9a.jpg",
     "actress": [],
@@ -1107,13 +816,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1128,13 +831,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/5bdc9d76489e58a1529e89ffc301bc3a.jpg",
     "actress": [],
@@ -1149,13 +846,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/714b7d51b7a8320052cb6f2623d29377.jpg",
     "actress": [],
@@ -1169,30 +860,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "清純",
-      "美少女電影",
-      "小隻馬",
-      "女學生",
-      "图书馆",
-      "無做愛場面",
-      "主觀視角",
-      "JK校服",
-      "口爆",
-      "學校",
-      "制服",
-      "蘿莉控",
+      "少女",
       "口交",
+      "主觀視角",
+      "學校",
+      "清純",
+      "蘿莉控",
+      "美少女電影",
       "短裙・迷你裙",
-      "少女"
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "图书馆",
+      "JK校服",
+      "制服",
+      "無做愛場面"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/db03a87ccd7387c50d2540b2070f22e0.jpg",
     "actress": [
@@ -1209,45 +894,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
       "美腳",
-      "胸控・戀乳癖",
+      "蕩婦",
+      "美臀",
+      "人妻",
+      "中出",
+      "丁字裤",
+      "接吻",
+      "劇情",
+      "抹油",
+      "按摩・美容店",
+      "絕頂高潮",
+      "美人妻",
+      "短裙・迷你裙",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "形象俱樂部",
       "美乳",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "按摩・美容店",
       "風俗娘",
-      "按摩女郎",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "短裙・迷你裙",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
       "乳交",
-      "按摩・物理治療・美容",
+      "情趣內衣",
+      "按摩女郎",
+      "胸控・戀乳癖",
       "女上位",
-      "丁字裤",
-      "騎乗位",
-      "情趣內衣"
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/6519bc853d7838ad6396b6152f48e7bc.jpg",
     "actress": [
@@ -1270,13 +949,7 @@ window.PAGE_DATA = [
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/b4d6de9bfe6de486602f9abe45f9fcdb.jpg",
     "actress": [
@@ -1297,19 +970,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "成熟的女人",
-      "屁股",
+      "美容院",
       "恋腿癖",
-      "美容院"
+      "成熟的女人",
+      "屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/5dbc856d4a217d54174daa5f8d2bed66.jpg",
     "actress": [],
@@ -1323,48 +990,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "3P・4P",
-      "多P",
-      "兩女一男",
-      "網襪",
-      "辣妹/GAL系",
       "美腳",
-      "雙飛",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "野性",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
+      "網襪",
       "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
+      "亂交 • 群P",
+      "兩女一男",
+      "野性",
+      "人妻",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "接吻",
       "絕頂高潮",
+      "辣妹/GAL系",
       "女優",
-      "脚控・戀足癖",
-      "乳交",
-      "女上位",
+      "企畫",
+      "美人妻",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "泳裝",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241122/7b3baaca-ae1e-4c7a-ab83-b2d2dfbff8e0.jpg",
     "actress": [
@@ -1381,26 +1042,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "脚控・戀足癖",
+      "美腳",
+      "女優",
       "美少女電影",
       "女學生",
-      "無做愛場面",
-      "精選總編集",
-      "美腳",
       "蕩婦",
+      "精選總編集",
       "護士制服",
-      "美腿",
-      "女優"
+      "形象俱樂部",
+      "無做愛場面",
+      "脚控・戀足癖",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c37473735bb663f77ce915/cover.jpg",
     "actress": [
@@ -1421,41 +1076,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "兩女一男",
-      "4小時以上作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
       "精選綜合",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "淫亂",
       "蠻橫嬌羞",
+      "美腳",
+      "亂交 • 群P",
+      "兩女一男",
+      "癡女",
+      "舔陰",
+      "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "美腿",
+      "舔腳",
+      "美少女電影",
+      "美少女",
       "絕頂高潮",
       "女優",
-      "舔陰",
-      "美少女電影",
+      "企畫",
       "手指插入",
-      "舔腳",
-      "足交",
+      "騎乗位",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "口交",
       "女上位",
-      "騎乗位"
+      "4小時以上作品",
+      "足交",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2024-11-26",
     "cover_url": "https://picture.yoshiclub.xyz/20241122/52547920-ee7f-404a-8e9c-785d2001bf2e.jpg",
     "actress": [
@@ -1472,13 +1121,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1492,39 +1135,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蠻橫嬌羞",
+      "蕩婦",
       "運動服裝",
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "故事集",
-      "美少女",
       "癡女",
-      "胸控・戀乳癖",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "M男・M女",
       "大奶头",
+      "企畫",
+      "按摩・物理治療・美容",
+      "騎乗位",
       "美乳",
+      "故事集",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "蠻橫嬌羞",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "絕頂高潮",
-      "美少女電影",
+      "慾求不滿",
       "乳交",
-      "按摩・物理治療・美容",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/db7d812a/vod.jpg",
     "actress": [
@@ -1542,51 +1179,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "綠茶婊",
-      "辣妹/GAL系",
-      "感官作品",
-      "淫語",
       "肉絲",
       "美腳",
-      "美乳",
-      "過膝襪・小腿襪",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "風俗娘",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "模特兒",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "手指插入",
       "高妹",
-      "高跟鞋",
+      "蕩婦",
+      "美臀",
+      "淫語",
+      "感官作品",
+      "人妻",
+      "淫亂",
+      "中出",
       "舔腳",
-      "足交",
-      "女上位",
+      "猥褻穿著",
+      "過膝襪・小腿襪",
+      "絕頂高潮",
+      "白絲",
+      "辣妹/GAL系",
+      "模特兒",
+      "女優",
+      "企畫",
+      "美人妻",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "風俗娘",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "高跟鞋",
+      "足交",
+      "綠茶婊",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/02/6419353396cbce93eac39a165b278004.jpg",
     "actress": [
@@ -1602,35 +1233,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "兩女一男",
-      "精選總編集",
-      "美少女",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "淫亂",
       "蠻橫嬌羞",
+      "美腳",
       "蕩婦",
+      "亂交 • 群P",
+      "兩女一男",
+      "癡女",
+      "淫亂",
+      "美少女電影",
+      "美少女",
       "企畫",
       "短裙・迷你裙",
-      "美少女電影"
+      "精選總編集",
+      "形象俱樂部",
+      "泳裝",
+      "美乳",
+      "雙飛",
+      "巨尻",
+      "口交",
+      "多P",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250120-1/60026e4d596d784d4af1cf75e96fa6f0.jpg",
     "actress": [
@@ -1652,28 +1277,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美人妻",
-      "熟女",
       "人妻",
-      "形象俱樂部",
-      "按摩・美容店",
       "風俗娘",
-      "精選總編集",
       "精選綜合",
-      "按摩・物理治療・美容",
+      "形象俱樂部",
+      "企畫",
+      "美人妻",
       "按摩女郎",
+      "按摩・物理治療・美容",
       "4小時以上作品",
       "蕩婦",
-      "企畫"
+      "熟女",
+      "精選總編集",
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/4f253130/vod.jpg",
     "actress": [
@@ -1696,18 +1315,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "角色扮演者",
-      "单体作品",
       "美少女电影",
+      "单体作品",
       "口交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/ffbeefaa/vod.jpg",
     "actress": [
@@ -1724,18 +1337,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "淫语",
-      "荡妇",
       "恋腿癖",
+      "荡妇",
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/da2d655f/vod.jpg",
     "actress": [
@@ -1755,20 +1362,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
       "荡妇",
       "恋腿癖",
-      "乳液",
-      "泳装"
+      "屁股",
+      "泳装",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1788,19 +1389,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "屁股",
-      "乳液",
-      "手淫",
       "迷你裙",
+      "手淫",
+      "乳液",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250303-1/f6ef83cf02dbc84d76a6d8be02c90d2e.jpg",
     "actress": [
@@ -1816,30 +1411,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "企畫",
-      "美少女電影",
-      "淫語",
-      "打手槍",
-      "無做愛場面",
-      "精選總編集",
       "精選綜合",
-      "自慰",
-      "口爆",
+      "打手槍",
+      "女優",
+      "企畫",
       "黑絲",
-      "蕩婦",
       "網襪",
+      "自慰",
+      "美少女電影",
+      "蕩婦",
+      "口爆",
       "接吻",
-      "女優"
+      "精選總編集",
+      "形象俱樂部",
+      "無做愛場面",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/1f5d89761d8d89fb1f2e3fad9cf1449f.jpg",
     "actress": [
@@ -1860,13 +1449,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250904-1/da5e826b9982903aa85a0cc99a8591fe.jpg",
     "actress": [],
@@ -1880,28 +1463,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "打手槍",
-      "無做愛場面",
-      "淫語",
-      "多P",
-      "精選總編集",
-      "兩女一男",
       "雙飛",
       "精選綜合",
-      "口爆",
-      "蕩婦",
+      "打手槍",
+      "女優",
       "企畫",
-      "女優"
+      "蕩婦",
+      "口爆",
+      "多P",
+      "兩女一男",
+      "精選總編集",
+      "形象俱樂部",
+      "無做愛場面",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/f947872182001426c6a9cc1576b9c8b3.jpg",
     "actress": [
@@ -1923,33 +1500,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "脚控・戀足癖",
-      "局部特寫",
-      "美少女電影",
-      "無做愛場面",
-      "高顏值",
-      "美腳",
-      "舔腳",
       "故事集",
+      "口交",
+      "局部特寫",
+      "美腳",
+      "高顏值",
+      "舔腳",
       "黑絲",
-      "短裙・迷你裙",
-      "足交",
       "美人",
       "企畫",
-      "口交",
+      "美少女電影",
       "苗條",
+      "短裙・迷你裙",
+      "足交",
       "美臀",
-      "女優"
+      "女優",
+      "形象俱樂部",
+      "無做愛場面",
+      "脚控・戀足癖"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250806-1/a982abdcffd4fc1acdc62aeda3969454.jpg",
     "actress": [
@@ -1971,60 +1542,54 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "3P・4P",
-      "白絲",
-      "艷遇",
-      "多P",
-      "兩女一男",
-      "M男・M女",
-      "口爆",
-      "慾求不滿",
-      "完全着衣",
-      "唾液敷面",
-      "苗條",
-      "女僕制服",
-      "美少女",
-      "中囯服裝",
-      "癡女",
-      "雙飛",
       "美腳",
-      "眼鏡",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "後宮系",
-      "深喉",
-      "淫亂",
-      "極品美人",
-      "COSPLAY服飾",
-      "傲嬌",
-      "中出",
       "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
-      "顏射",
+      "運動服裝",
+      "口爆",
+      "亂交 • 群P",
+      "兩女一男",
+      "深喉",
+      "癡女",
+      "眼鏡",
       "舔陰",
+      "淫亂",
+      "中出",
+      "中囯服裝",
+      "極品美人",
       "美少女電影",
-      "顔面騎乘",
-      "高跟鞋",
-      "乳交",
+      "完全着衣",
+      "COSPLAY服飾",
+      "美少女",
+      "白絲",
+      "M男・M女",
+      "企畫",
+      "苗條",
+      "顏射",
       "黑絲",
-      "足交",
+      "傲嬌",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "顔面騎乘",
+      "雙飛",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "高跟鞋",
+      "足交",
+      "後宮系",
+      "多P",
+      "後入",
+      "唾液敷面",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e03fa679f1ac4ec48bc65b/cover.jpg",
     "actress": [
@@ -2042,13 +1607,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2062,39 +1621,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "口爆",
       "豐滿",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "按摩・美容店",
-      "風俗娘",
-      "按摩女郎",
-      "中出",
       "蕩婦",
-      "後入",
-      "美腿",
-      "短裙・迷你裙",
+      "口爆",
       "美臀",
-      "劇情",
-      "按摩・物理治療・美容",
+      "人妻",
+      "中出",
       "御姐系",
+      "劇情",
+      "按摩・美容店",
+      "美人妻",
+      "短裙・迷你裙",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "形象俱樂部",
+      "美腿",
+      "巨尻",
+      "口交",
+      "風俗娘",
+      "潮吹",
+      "按摩女郎",
       "女上位",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250424-1/1fd8fbbeb9f26bebf022988d6fe2698f.jpg",
     "actress": [
@@ -2110,44 +1663,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "警察制服",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "監獄",
       "豐滿",
-      "飯店",
-      "局部特寫",
-      "淫語",
+      "蕩婦",
+      "口爆",
       "癡女",
-      "JK校服",
+      "淫語",
+      "重口味",
+      "淫亂",
+      "中出",
       "胖女人",
-      "胸控・戀乳癖",
+      "警察制服",
+      "女優",
+      "企畫",
+      "飯店",
+      "黑絲",
+      "騎乗位",
+      "美人",
+      "監獄",
       "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "淫亂",
-      "COSPLAY服飾",
-      "中出",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "後入",
-      "重口味",
-      "女優",
-      "黑絲",
+      "慾求不滿",
+      "局部特寫",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250727-1/7b2906a6142a63d92b7761e267a25991.jpg",
     "actress": [
@@ -2163,19 +1710,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "乳液",
       "淫语",
-      "手淫"
+      "手淫",
+      "乳液",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d34e90631cc64eb57b6952/cover.jpg",
     "actress": [
@@ -2196,19 +1737,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "角色扮演者",
       "手淫",
-      "乳液",
-      "角色扮演者"
+      "苗条",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/9bb04a1477e8baf46598b15d42b29b57.jpg",
     "actress": [
@@ -2226,20 +1761,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "M男",
       "4小时以上作品",
-      "淫语",
-      "精选，综合"
+      "M男",
+      "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/b05b84233c8ad95701d3a27af12f968b.jpg",
     "actress": [],
@@ -2253,31 +1782,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
-      "按摩・美容店",
-      "風俗娘",
-      "淫亂",
-      "按摩・物理治療・美容",
       "故事集",
-      "按摩女郎",
+      "人妻",
+      "風俗娘",
+      "口交",
+      "淫亂",
       "中出",
+      "按摩女郎",
+      "女上位",
+      "按摩・物理治療・美容",
       "短裙・迷你裙",
       "蕩婦",
-      "後入",
-      "口交",
-      "女上位",
+      "美臀",
       "騎乗位",
-      "美臀"
+      "熟女",
+      "後入",
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/847196a144d8587486dc9f2d6f2200d4.jpg",
     "actress": [
@@ -2299,59 +1822,53 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "小隻馬",
-      "兩女一男",
-      "素股",
-      "M男・M女",
-      "口爆",
       "真實拍攝",
       "性虐癖",
-      "苗條",
-      "美少女",
+      "素股",
       "美腳",
+      "蕩婦",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "兩女一男",
+      "深喉",
       "癡女",
-      "雙飛",
-      "真人秀",
-      "美乳",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "COSPLAY服飾",
+      "調教",
+      "美少女",
       "過膝襪・小腿襪",
       "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "後宮系",
-      "深喉",
-      "淫亂",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
       "絕頂高潮",
-      "舔陰",
-      "美少女電影",
+      "M男・M女",
+      "企畫",
+      "苗條",
       "手指插入",
-      "顔面騎乘",
-      "調教",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "顔面騎乘",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "真人秀",
+      "後宮系",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce399379f1ac4ec4659519/cover.jpg",
     "actress": [
@@ -2372,43 +1889,37 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "獵豔",
-      "口爆",
-      "感官作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "按摩・美容店",
-      "深喉",
-      "風俗娘",
-      "按摩女郎",
-      "中出",
       "蕩婦",
-      "美人",
-      "企畫",
-      "短裙・迷你裙",
-      "後入",
+      "口爆",
       "美臀",
+      "深喉",
+      "感官作品",
+      "人妻",
+      "中出",
       "抹油",
-      "乳交",
+      "按摩・美容店",
+      "企畫",
+      "美人妻",
+      "短裙・迷你裙",
       "按摩・物理治療・美容",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "潮吹",
+      "乳交",
+      "按摩女郎",
+      "胸控・戀乳癖",
       "女上位",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/b25ab33af5642a4169bfcc69523b762a.jpg",
     "actress": [
@@ -2424,37 +1935,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "巨尻",
-      "二次元",
-      "精選總編集",
-      "性感睡衣",
-      "口爆",
-      "故事集",
-      "苗條",
-      "淫語",
-      "美腳",
-      "色白",
       "清楚系",
-      "口交",
-      "形象俱樂部",
-      "貧乳",
+      "美腳",
+      "二次元",
       "姐姐・妹妹",
-      "企畫",
-      "清純",
+      "口爆",
+      "淫語",
+      "貧乳",
       "美少女電影",
+      "劇情",
       "乱伦",
       "運動女孩",
-      "劇情"
+      "色白",
+      "企畫",
+      "苗條",
+      "精選總編集",
+      "形象俱樂部",
+      "性感睡衣",
+      "無做愛場面",
+      "故事集",
+      "巨尻",
+      "口交",
+      "清純"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2025-04-17",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417054324821821_thumbnail.webp",
     "actress": [
@@ -2474,48 +1979,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "小隻馬",
-      "二次元",
-      "M男・M女",
-      "游戲COSPLAY",
-      "性感睡衣",
-      "警察制服",
-      "無做愛場面",
-      "飯店",
-      "網襪",
-      "故事集",
-      "網路紅人",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "拘束・拷問",
-      "色白",
-      "清楚系",
-      "巨乳",
-      "形象俱樂部",
-      "人妻",
-      "COSPLAY服飾",
       "少女",
+      "清楚系",
+      "美腳",
+      "網襪",
+      "拘束・拷問",
       "女警",
-      "劇情",
-      "清純",
-      "美少女電影",
+      "二次元",
+      "女學生",
+      "小隻馬",
       "高妹",
+      "人妻",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "M男・M女",
+      "學校",
+      "警察制服",
       "運動女孩",
+      "色白",
+      "飯店",
+      "阪道系",
+      "游戲COSPLAY",
+      "形象俱樂部",
+      "性感睡衣",
+      "無做愛場面",
       "監獄",
-      "學校"
+      "故事集",
+      "巨尻",
+      "巨乳",
+      "清純",
+      "網路紅人",
+      "JK校服",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2025-04-17",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417053832605605_thumbnail.webp",
     "actress": [
@@ -2535,59 +2034,53 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "小隻馬",
-      "兩女一男",
-      "M男・M女",
-      "口爆",
+      "少女",
       "真實拍攝",
       "性虐癖",
-      "苗條",
-      "美少女",
       "美腳",
-      "癡女",
-      "雙飛",
-      "眼鏡",
-      "色白",
-      "大奶头",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "後宮系",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "極品美人",
-      "女王",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "高妹",
-      "調教",
       "蘿莉控",
+      "高妹",
+      "小隻馬",
+      "口爆",
+      "亂交 • 群P",
+      "兩女一男",
+      "癡女",
+      "眼鏡",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "COSPLAY服飾",
+      "調教",
+      "美少女",
+      "後入",
+      "絕頂高潮",
+      "M男・M女",
+      "色白",
+      "高顏值",
+      "苗條",
+      "女王",
+      "企畫",
+      "女優",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "雙飛",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後宮系",
+      "大奶头",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/3cad8bff/vod.jpg",
     "actress": [
@@ -2605,34 +2098,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "真實拍攝",
+      "素股",
+      "蕩婦",
+      "口爆",
+      "人妻",
+      "御姐系",
+      "女優",
+      "企畫",
+      "美人妻",
+      "形象俱樂部",
       "無做愛場面",
+      "美乳",
       "吞精",
       "巨尻",
-      "素股",
-      "口爆",
-      "真實拍攝",
-      "局部特寫",
-      "美乳",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
+      "局部特寫",
       "熟女",
-      "人妻",
-      "美人妻",
-      "蕩婦",
-      "企畫",
-      "女優",
-      "御姐系"
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041114701701_thumbnail.webp",
     "actress": [
@@ -2652,22 +2139,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "按摩・美容店",
-      "按摩・物理治療・美容",
       "按摩女郎",
-      "制服",
+      "按摩・物理治療・美容",
       "劇情",
-      "抹油"
+      "熟女",
+      "抹油",
+      "制服",
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/74ae5451/vod.jpg",
     "actress": [
@@ -2686,65 +2167,59 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "清楚系",
+      "蠻橫嬌羞",
       "獵豔",
       "素股",
+      "美腳",
       "二次元",
       "口爆",
-      "港區女子",
-      "故事集",
-      "苗條",
-      "淫語",
-      "辦公室",
-      "美腳",
       "癡女",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "寫真女郎",
-      "按摩・美容店",
-      "高顏值",
-      "明星臉",
-      "風俗娘",
-      "蠻橫嬌羞",
-      "超爆乳",
-      "寫真偶像",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "應召・援交",
-      "角色扮演",
-      "清純",
+      "淫語",
       "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
+      "中出",
       "舔腳",
-      "乳交",
-      "看病・住院",
-      "黑絲",
-      "足交",
-      "女上位",
+      "美少女電影",
+      "拜金女",
+      "辦公室",
+      "劇情",
+      "按摩・美容店",
+      "明星臉",
+      "絕頂高潮",
       "學校",
-      "騎乗位"
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "角色扮演",
+      "應召・援交",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "超爆乳",
+      "美人",
+      "美乳",
+      "美腿",
+      "故事集",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "乳交",
+      "清純",
+      "寫真偶像",
+      "胸控・戀乳癖",
+      "女上位",
+      "足交",
+      "後入",
+      "寫真女郎",
+      "性感",
+      "看病・住院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014259324324_thumbnail.webp",
     "actress": [
@@ -2763,19 +2238,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
-      "多P",
+      "口交",
       "舔阴",
-      "口交"
+      "M男",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/02/ccbc4b8f/vod.jpg",
     "actress": [
@@ -2796,52 +2265,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "素股",
-      "精選總編集",
-      "口爆",
-      "慾求不滿",
-      "三十路",
       "豐滿",
-      "4小時以上作品",
-      "故事集",
-      "臀控",
-      "美腳",
-      "癡女",
       "精選綜合",
-      "胸控・戀乳癖",
-      "大奶头",
+      "素股",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "臀控",
+      "美臀",
+      "癡女",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "御姐系",
+      "四十路",
+      "後入",
+      "絕頂高潮",
+      "企畫",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "形象俱樂部",
+      "美人",
       "美乳",
+      "美腿",
+      "故事集",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "四十路",
-      "蕩婦",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "御姐系",
+      "慾求不滿",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "三十路",
+      "4小時以上作品",
+      "熟女",
+      "大奶头",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/01/4effe5ce34cb2ca973b1c6443881c205.jpg",
     "actress": [],
@@ -2855,70 +2318,64 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "口爆",
-      "慾求不滿",
-      "三十路",
-      "網襪",
-      "綠茶婊",
-      "苗條",
-      "感官作品",
-      "美腳",
-      "癡女",
-      "飯店小姐・援交妹",
-      "大奶头",
-      "美乳",
-      "過膝襪・小腿襪",
       "清楚系",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
+      "美腳",
+      "網襪",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "濕身",
       "單體作品",
+      "混血",
+      "癡女",
+      "感官作品",
       "人妻",
-      "美人妻",
-      "按摩・美容店",
-      "寫真女郎",
-      "高顏值",
-      "風俗娘",
+      "舔陰",
       "淫亂",
+      "中出",
+      "舔腳",
       "極品美人",
       "猥褻穿著",
+      "御姐系",
+      "美少女電影",
+      "拜金女",
+      "按摩・美容店",
+      "過膝襪・小腿襪",
+      "後入",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "美人妻",
+      "顏射",
+      "黑絲",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "飯店小姐・援交妹",
+      "風俗娘",
+      "慾求不滿",
+      "乳交",
+      "情趣內衣",
       "按摩女郎",
       "寫真偶像",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "混血",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "拜金女",
+      "三十路",
       "高跟鞋",
-      "舔腳",
-      "乳交",
-      "按摩・物理治療・美容",
-      "御姐系",
-      "黑絲",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "綠茶婊",
+      "熟女",
+      "大奶头",
+      "寫真女郎",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "2025-06-07",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604210403397397_thumbnail.webp",
     "actress": [
@@ -2939,13 +2396,7 @@ window.PAGE_DATA = [
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250613-1/f598f04b6d8edbfe6faa181d91b663c5.jpg",
     "actress": [
@@ -2963,20 +2414,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "乳液",
-      "足交",
       "迷你裙",
+      "足交",
+      "乳液",
+      "多P",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1aec8735bb663f762e5b9/cover.jpg",
     "actress": [
@@ -2995,40 +2440,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "巨尻",
+      "少女",
+      "清楚系",
+      "美腳",
       "二次元",
       "口爆",
-      "阪道系",
+      "舔陰",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
       "美少女",
-      "美腳",
-      "清楚系",
+      "企畫",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "無做愛場面",
+      "巨尻",
       "口交",
       "巨乳",
-      "形象俱樂部",
-      "寫真女郎",
-      "貧乳",
-      "極品美人",
-      "寫真偶像",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
       "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "寫真偶像",
       "女上位",
-      "騎乗位"
+      "後入",
+      "寫真女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618212743912912_thumbnail.webp",
     "actress": [
@@ -3048,60 +2487,54 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "兩女一男",
-      "慾求不滿",
-      "阪道系",
       "美腳",
+      "高妹",
+      "姐姐・妹妹",
+      "美臀",
+      "兩女一男",
+      "一男多女",
       "癡女",
-      "雙飛",
-      "OL",
-      "胸控・戀乳癖",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "大姐姐",
+      "美少女電影",
+      "明星臉",
+      "絕頂高潮",
       "色白",
+      "高顏值",
+      "企畫",
+      "阪道系",
+      "69",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
       "美乳",
+      "美腿",
+      "雙飛",
+      "脚控・戀足癖",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "後宮系",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "貧乳",
-      "極品美人",
-      "一男多女",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "高妹",
       "顔面騎乘",
+      "慾求不滿",
       "乳交",
-      "高跟鞋",
-      "69",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "高跟鞋",
+      "OL",
+      "後宮系",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/202506182127336767_thumbnail.webp",
     "actress": [
@@ -3119,19 +2552,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "屁股",
       "精选，综合",
-      "荡妇"
+      "荡妇",
+      "4小时以上作品",
+      "屁股"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/iT0AGl5v/1.jpg",
     "actress": [],
@@ -3146,13 +2573,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/f318eb99990f91a8bce1fd52d1a91ce1.jpg",
     "actress": [],
@@ -3166,53 +2587,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "性虐癖",
-      "苗條",
-      "鬼畜片",
-      "淫語",
-      "美少女",
-      "中囯服裝",
-      "癡女",
-      "美腳",
-      "眼鏡",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "女王",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
       "少女",
-      "重口味",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "鬼畜片",
+      "性虐癖",
+      "美腳",
       "高妹",
-      "高跟鞋",
-      "肛交",
+      "運動服裝",
+      "單體作品",
+      "癡女",
+      "淫語",
+      "重口味",
+      "眼鏡",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "中囯服裝",
+      "極品美人",
+      "猥褻穿著",
+      "美少女電影",
       "調教",
+      "美少女",
+      "女優",
+      "高顏值",
+      "苗條",
+      "變態",
+      "女王",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
       "女上位",
-      "騎乗位"
+      "高跟鞋",
+      "後入",
+      "性感",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/ae9effed436866598b06d68462d6812f.jpg",
     "actress": [
@@ -3229,13 +2644,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/d62cd2f44817fd12f72c2db00700d0e0.jpg",
     "actress": [],
@@ -3249,19 +2658,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
       "荡妇",
       "手淫",
+      "乳液",
       "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/7d04fdd4604d93ba3cadda1a06d4458a.jpg",
     "actress": [
@@ -3281,18 +2684,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "淫语",
+      "口交",
       "手淫",
-      "荡妇",
-      "口交"
+      "荡妇"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/571170b2f0eeebe1d341746d84175a5d.jpg",
     "actress": [
@@ -3312,13 +2709,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/278749546e3ec27893ab8691c9df9af7.jpg",
     "actress": [],
@@ -3334,18 +2725,12 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "自慰",
-      "局部特写",
       "淫语",
-      "主观视角"
+      "主观视角",
+      "局部特写"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/5d38448fc734b0fb28b01daeb91248e0.jpg",
     "actress": [
@@ -3363,13 +2748,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -3384,13 +2763,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -3405,13 +2778,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/68dd9405/vod.jpg",
     "actress": [],
@@ -3425,20 +2792,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "M男",
-      "4小时以上作品",
-      "恋物癖",
+      "精选，综合",
       "巨乳",
-      "精选，综合"
+      "恋物癖",
+      "4小时以上作品",
+      "M男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/08/30/3659986b7c53e0f8dac3e838713150d4.jpg",
     "actress": [],
@@ -3453,16 +2814,73 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AROMA PLANNING",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AROMA_PLANNING",
-        "works_count": 258
-      }
-    ],
+    "company": "AROMA PLANNING",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdc994ce3e366423d337bc/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-312"
+  },
+  {
+    "id": 186388,
+    "IDcode": "AARM-313",
+    "title": "完全CFNM 全裸ですけべ椅子に拘束されふたりがかりで耳穴からつま先まで全身ふやけるほど舐められ続ける",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/5853f0ef/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-313"
+  },
+  {
+    "id": 60356,
+    "IDcode": "AARM-314",
+    "title": "口交手淫隔夜密贴舔乳头连续2次射-及川うみ 橘京花 水瀬さな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "手淫",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/0163a6c2/vod.jpg",
+    "actress": [
+      "黒木奈美",
+      "福原美奈",
+      "白石環奈",
+      "爱花みちる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-314"
+  },
+  {
+    "id": 60355,
+    "IDcode": "AARM-315",
+    "title": "无手活塞不让男摇屁股的站姿后入式-紗々原ゆり 若宮はずき 伊東沙蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "屁股",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "AROMA PLANNING",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/28463db1/vod.jpg",
+    "actress": [
+      "有贺みなほ",
+      "纱々原ゆり",
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-315"
   }
 ];

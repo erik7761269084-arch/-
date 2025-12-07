@@ -485,7 +485,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "",
       "actress": [

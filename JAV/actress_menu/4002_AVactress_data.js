@@ -201,7 +201,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2018-08-09",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1mist222/1mist222pl.jpg",
       "actress": [

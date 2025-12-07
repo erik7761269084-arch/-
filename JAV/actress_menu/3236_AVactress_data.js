@@ -1340,7 +1340,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1328052bb48ffe1deb9cd102567d498e.jpg",
       "actress": [
@@ -1985,7 +1985,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68964e0455337d7f7babaee0/cover.jpg",
       "actress": [

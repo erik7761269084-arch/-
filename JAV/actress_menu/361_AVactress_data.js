@@ -40,7 +40,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "2024-11-22",
       "cover_url": "https://lust103.cc/upload/vod/20250806-1/a2e3f6d2d1548afe6c470d40f2839af6.jpg",
       "actress": [

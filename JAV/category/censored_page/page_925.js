@@ -1,8 +1,79 @@
 window.PAGE_DATA = [
   {
-    "id": 523579,
-    "IDcode": "MMGH-162",
-    "title": "ふたば（30）心优しい人妻が男チンの悩みを素股でご奉仕解决！…と思ったら素股でまさかの早漏発射！満足出来なかったむっつり妻はザー",
+    "id": 104874,
+    "IDcode": "MRXD-031",
+    "title": "管野松雪的轻度调教过程收录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "感谢祭",
+      "乳交",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240601-1/cba42b9a0ad736d46c7bbb73984ed519.jpg",
+    "actress": [
+      "菅野松雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-031"
+  },
+  {
+    "id": 166645,
+    "IDcode": "MRXD-032",
+    "title": "借助酒力灌醉肏翻AV女優麻里梨夏！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230301/mrxd00032pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-032"
+  },
+  {
+    "id": 166646,
+    "IDcode": "MRXD-033",
+    "title": "街角挑戰用肉棒挑出小穴膠囊！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230301/mrxd00033pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-033"
+  },
+  {
+    "id": 531885,
+    "IDcode": "MRXD-038",
+    "title": "mrxd00038 お酒の力を借りてどうにかこうにかセックスしたい男たちが出会いが少ないパリピの看护师ちゃん达を饮ませて酔わせてヤリ舍てポイ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/865f9193f260096c8e40b74190a74d3b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-038"
+  },
+  {
+    "id": 166647,
+    "IDcode": "MRXD-045",
+    "title": "欲求不満の人妻を飲ませて酔わ",
     "year": "",
     "country": "",
     "genre": "",
@@ -10,2327 +81,1842 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/a17b3d772dac02ff15bf8bd2b2dd83f6.jpg",
+    "cover_url": "https://tutu1.space/images/2020/08/04/f4c240aa310d02c3b03e6a8c8e19ccda.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-162"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-045"
   },
   {
-    "id": 523580,
-    "IDcode": "MMGH-163",
-    "title": "まいこ拘束おもちゃ体験！新陈代谢抜群！元気モリモリショートカット女子○生がマジックミラー号で大量潮吹き",
+    "id": 166648,
+    "IDcode": "MRXD-046",
+    "title": "尻の性感帯-倉多まお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/f995cc65f407da2fa49131c5f319d0a0.jpg",
+    "cover_url": "https://tutu1.space/images/2021/08/13/5a906606be9b0ecdf152e61d8e925a20.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-163"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-046"
   },
   {
-    "id": 523581,
-    "IDcode": "MMGH-164",
-    "title": "あおい Aカップ くすぐった気持ちいい初体験の拘束おもちゃイカセ！",
+    "id": 209268,
+    "IDcode": "MRXD-047",
+    "title": "兄嫁のけつ-篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/08a6351ed310b9e814458b3c7a066a5e.jpg",
+    "cover_url": "https://tutu1.space/images/2020/05/31/QQ202006010712585fbb6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-047"
   },
   {
-    "id": 523582,
-    "IDcode": "MMGH-165",
-    "title": "みお 透き通るような白い肌！プリップリのおしり！キュッとしまるオマ○コ！拘束おもちゃ初体験！",
+    "id": 594510,
+    "IDcode": "MRXD-052",
+    "title": "ママね…あなたのクラスの达也様に饲われているの…。 AIKA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3efc46a20f7df7290bf7a1075d4c7795.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/eb39d6890d962a8064ff0e709e947a91.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-052"
   },
   {
-    "id": 98153,
-    "IDcode": "MMGH-168",
-    "title": "ともえ先生 20歳豊満な肉体を揉みしだくと恥ずかし汁が溢れ出す！メタボ可愛い素人女の母性にマザコン男子の射精が止まらない！",
+    "id": 590217,
+    "IDcode": "MRXD-055",
+    "title": "发现可爱素人妻来干一炮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20220512-1/6196a19676663da81e02f02794c90e9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-055"
+  },
+  {
+    "id": 594507,
+    "IDcode": "MRXD-077",
+    "title": "あの日、あの时 私があんな过ちを犯さなければ… 君岛みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/7d84f484fb75b1af4b2aeed15cf93179.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-077"
+  },
+  {
+    "id": 470009,
+    "IDcode": "MRXD-083",
+    "title": "女友姊是淫亂癡女 2 日向澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd0ab20069396376782f3a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-083"
+  },
+  {
+    "id": 523335,
+    "IDcode": "MRXD-084",
+    "title": "波多野结衣- デカチン少年ウマオ君の近所のおばさんドマゾ化计画。4 帰省旅行编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250529/skMP7nfW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-084"
+  },
+  {
+    "id": 526896,
+    "IDcode": "MRXD-086",
+    "title": "女子社员は妻のみ… ブラック企业社员旅行NTR 妻のカバンに仕挂けたキーホ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/2023/03/r5lasrixgq5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-086"
+  },
+  {
+    "id": 591342,
+    "IDcode": "MRXD-088",
+    "title": "[mrxd00088]Hey尻！安心してください奥さん…我々けつしか撮ってませんから…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230721-1/b6fb99ca7ba283e5bf30f8219ac2f302.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-088"
+  },
+  {
+    "id": 77281,
+    "IDcode": "MRXD-089",
+    "title": "リアルガチ 激写ドキュメント！あべみかこのプライベートを追跡盗撮 イケメン君とのすべてをAVで暴く！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "偷窥",
       "猎艳",
-      "业余",
-      "制服",
-      "素人作品",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2019-04-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "三苫海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-168"
-  },
-  {
-    "id": 523583,
-    "IDcode": "MMGH-170",
-    "title": "ひより先生 22歳豊満な肉体を揉みしだくと耻ずかし汁が溢れ出す！メタボ可爱い素人女の母性にマザコン男子の射精が止まらない！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3cd5fb174af97b0cf79d3afde28a0e56.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-170"
-  },
-  {
-    "id": 523584,
-    "IDcode": "MMGH-171",
-    "title": "えま 色白むっちりドすけべボディの女子○生が初めての拘束おもちゃ体験で赤面SEX！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/aa343b4d65fd9a2a9e7cabac32038797.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-171"
-  },
-  {
-    "id": 401387,
-    "IDcode": "MMGH-187",
-    "title": "花見客とハーレムプレイ かなえ（21）みく（20） まり（20）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677e4c74f9a2e9b1d4643a85/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-187"
-  },
-  {
-    "id": 589557,
-    "IDcode": "MMGH-191",
-    "title": "东日本 1 情色三重奏我问 Yarichin “请介绍情色赛夫勒”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/69207_cover_2025-07-03_043429.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-191"
-  },
-  {
-    "id": 531201,
-    "IDcode": "MMGH-214",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/01-05/18/vovkywocqjh1839vovkywocqjh313757.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-214"
-  },
-  {
-    "id": 531199,
-    "IDcode": "MMGH-215",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジッ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-215"
-  },
-  {
-    "id": 524403,
-    "IDcode": "MMGH-216",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジックミラー号で中出しSEX ゆみ（20）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/uGh9v7K2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-216"
-  },
-  {
-    "id": 561529,
-    "IDcode": "MMGH-217",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジックミラー号で2连続SEX あい（20）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/01-05/18/nzkhhbkwb2x1837nzkhhbkwb2x563717.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-217"
-  },
-  {
-    "id": 561515,
-    "IDcode": "MMGH-218",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジックミラー号で胜手に中出しSEX りさ（21）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/01-05/18/233omeaumua1837233omeaumua073697.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-218"
-  },
-  {
-    "id": 469260,
-    "IDcode": "MMGH-219",
-    "title": "真夏のビキニ素人娘をおっぱいマッサージで火を付けてマジックミラー号で中出しSEX ゆかり（23）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783750f2a47ebb1a89492a9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-219"
-  },
-  {
-    "id": 81759,
-    "IDcode": "MMGH-240",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのオイルマッサージ体験SP キティ―（20）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "西洋片",
-      "按摩",
-      "乳液",
-      "业余"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2019-12-19",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/aa53066c3cf34acaaea88990e9ed72c5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-240"
-  },
-  {
-    "id": 407194,
-    "IDcode": "MMGH-242",
-    "title": "320 個人撮影inマジックミラー号リホ(21)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e5f6bc041ce380f30f7cd1bd4a4af730.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-242"
-  },
-  {
-    "id": 406744,
-    "IDcode": "MMGH-244",
-    "title": "320 個人撮影inマジックミラー号アン(21)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1b2f31458fbb4b02265295ccfb20ea08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-244"
-  },
-  {
-    "id": 219730,
-    "IDcode": "MMGH-245",
-    "title": "以金钱诱惑让她抛下男友被内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/cb0c0025b0946f3658beb5982ec35354.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-245"
-  },
-  {
-    "id": 219732,
-    "IDcode": "MMGH-247",
-    "title": "韩流帅哥轻松就征服了高颜值美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/eaddc613271d9470050dd91ec0d2b5ca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-247"
-  },
-  {
-    "id": 81910,
-    "IDcode": "MMGH-248",
-    "title": "十年难得一遇的超可爱美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "苗条",
-      "美少女",
-      "猎艳",
-      "业余",
-      "中出"
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/aa6d258572eac670ab9c5fbd7affdf22.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b45cb070b251a9e6daaaabc0c798376f.jpg",
     "actress": [
-      "爱瀬るか"
+      "安部未華子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-248"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-089"
   },
   {
-    "id": 98520,
-    "IDcode": "MMGH-249",
-    "title": "制服少女inNTRマジックミラー号みな(18)",
+    "id": 572258,
+    "IDcode": "MS-838",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic41.anzise.com/pic/20221127/fff2f729095b427e6acaf94cc53ef5e0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MS-838"
+  },
+  {
+    "id": 544339,
+    "IDcode": "MS-889C",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic40.anzise.com/pic/20221229/0804199e433f92f368d0833471ddd30b/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MS-889C"
+  },
+  {
+    "id": 544386,
+    "IDcode": "MS-923",
+    "title": "C",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic52.anzise.com/pic/20230514/dd4e3b916b04abfe46e74199c2b04d0f/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MS-923"
+  },
+  {
+    "id": 522324,
+    "IDcode": "MSAJ-001",
+    "title": "[msaj00001]SEX依存症の女 淫乱美脚セレブ美女 J○L勤务 真由美24歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230616-1/050295c0da38fcc44bff660626a11a0e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-001"
+  },
+  {
+    "id": 529959,
+    "IDcode": "MSAJ-004",
+    "title": "msaj00004-现役汁だく爱液CA 现役CAの真性中出し J○L勤务 横山早苗25歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230524-1/1a35248204a913c29cc97aff31737990.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-004"
+  },
+  {
+    "id": 548334,
+    "IDcode": "MSAJ-010",
+    "title": "SEX依存症の女淫乱现役CA文香27歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230829/hLu2ufzp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-010"
+  },
+  {
+    "id": 548403,
+    "IDcode": "MSAJ-011",
+    "title": "SEX依存症の女変态现役CA翔子25歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230821/TDGeniYc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-011"
+  },
+  {
+    "id": 93217,
+    "IDcode": "MSAJ-013",
+    "title": "SEX依存症の女 A●●現役CA莉乃33歳 笹見莉乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "美少女",
-      "淫妻",
-      "猎艳",
-      "业余",
-      "制服",
+      "吞精",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "空中小姐",
+      "高"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/ad53f5ec754591080b8b7add6c71df57.jpg",
+    "actress": [
+      "桂木春香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-013"
+  },
+  {
+    "id": 565119,
+    "IDcode": "MSAJ-014",
+    "title": "SEX依存症の女 性狂い现役CA莉乃33歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250216/UVdQqlt3/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-014"
+  },
+  {
+    "id": 198912,
+    "IDcode": "MSAJ-015",
+    "title": "SEX依存症の女 J●●現役CA涼子32歳 柿澤涼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/12/050ca686/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-015"
+  },
+  {
+    "id": 190609,
+    "IDcode": "MSAJ-016",
+    "title": "SEX依存症の女 A●●現役CA那奈38歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/52c1dc094de1a9fadfd609b41aa271bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-016"
+  },
+  {
+    "id": 60432,
+    "IDcode": "MSAJ-017",
+    "title": "SEX依存症の女 A●●現役CA千景29歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "潮吹",
+      "中出",
+      "淫乱，真实",
+      "空中小姐"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/8e3e24dc/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-017"
+  },
+  {
+    "id": 174337,
+    "IDcode": "MSAJ-018",
+    "title": "SEX依存症の女 J●●現役CA 冴香26歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/31/a18fa6528b496a5f287df8a12b676410.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-018"
+  },
+  {
+    "id": 403123,
+    "IDcode": "MSAJ015",
+    "title": "SEX依存症の女J●●現役CA涼子32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686e73a33ed39b57c0bab08a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ015"
+  },
+  {
+    "id": 100310,
+    "IDcode": "MSD-025",
+    "title": "赔罪…潜规则 强上下体却湿润的淫妻！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-04-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSD-025"
+  },
+  {
+    "id": 8374,
+    "IDcode": "MSE-001",
+    "title": "マッチングアプリの女 守屋いずみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "奇異的",
+      "淫亂",
+      "中出",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "素人作品",
+      "騎乗位",
+      "羞恥",
+      "美人",
+      "素人",
+      "美乳",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "約炮",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "JEWEL",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/7cc83ecf4e677a247aa81b0cd4ba4d7d.jpg",
+    "actress": [
+      "守屋いずみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSE-001"
+  },
+  {
+    "id": 4888,
+    "IDcode": "MSE-002",
+    "title": "「レズシーン」（2）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "網襪",
+      "高妹",
+      "蕩婦",
+      "口爆",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "御姐系",
+      "抹油",
+      "性感",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "顏射",
+      "素人作品",
+      "美人妻",
+      "若妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "巨尻",
+      "吞精",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "業餘",
+      "約炮",
+      "乳交",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "三十路",
+      "內衣",
+      "高跟鞋",
+      "熟女",
+      "大奶头",
+      "濕身",
+      "跳蛋",
+      "野外露天"
+    ],
+    "type": "有码",
+    "company": "JEWEL",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629012656638638_thumbnail.webp",
+    "actress": [
+      "守屋いずみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSE-002"
+  },
+  {
+    "id": 76388,
+    "IDcode": "MSFH-001",
+    "title": "水沢美心 AV Debut",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "姐姐",
+      "首次亮相",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/d0803b70779ba78bf52536cbca92ab59.jpg",
+    "actress": [
+      "鲛岛",
+      "水沢美心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-001"
+  },
+  {
+    "id": 83727,
+    "IDcode": "MSFH-002",
+    "title": "イッてもイッても足りない超肉食女のおねだり激イキSEX 水沢美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "巨乳",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/pV9IGyrq.jpg",
+    "actress": [
+      "しみけん",
+      "玉木玲",
+      "水沢美心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-002"
+  },
+  {
+    "id": 533643,
+    "IDcode": "MSFH-003",
+    "title": "_B 诗月まどか AV Debut Part 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-003"
+  },
+  {
+    "id": 533642,
+    "IDcode": "MSFH-004",
+    "title": "爆乳を揺らし狂ったように腰を打ち付ける马乘り骑乘位 水",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-02-27",
+    "company": "SOD",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "优梨まいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-249"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-004"
   },
   {
-    "id": 1923,
-    "IDcode": "MMGH-251",
-    "title": "新大久保で見 露天直播做愛的理想女孩 ~ 枢木葵",
+    "id": 533641,
+    "IDcode": "MSFH-005",
+    "title": "_A 唇・胸・膣を彻底的に刺激し未知の世界へ…全身オーガ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/a0df7da888fc69fce32c79cf2aaa66b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-005"
+  },
+  {
+    "id": 551603,
+    "IDcode": "MSFH-006",
+    "title": "芸能人 広瀬りおな AV Debut",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250513/zquCZ9ym/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-006"
+  },
+  {
+    "id": 165060,
+    "IDcode": "MSFH-007",
+    "title": "穿着情趣内衣超美的大姐姐-水沢美心",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "獵豔",
-      "美少女",
-      "中出",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-6/74ebbceaf52e1d66fc182f1f051c5401.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-007"
+  },
+  {
+    "id": 83695,
+    "IDcode": "MSFH-008",
+    "title": "イッても腰振りが止まらない超貪欲美女のグイグイ騎乗位性交 広瀬りおな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "苗条",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-03-12",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200807/1msfh008pl.jpg",
+    "actress": [
+      "廣瀨里緒菜",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-008"
+  },
+  {
+    "id": 81871,
+    "IDcode": "MSFH-009",
+    "title": "夜が来たね。調教の時間だ。欲しがりな君を朝まで犯してあげる。 詩月まどか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-03-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "鲛岛",
+      "小田切ジュン",
+      "诗月圆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-009"
+  },
+  {
+    "id": 2039,
+    "IDcode": "MSFH-010",
+    "title": "前田桃 AV 出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "出道作",
+      "女學生",
       "無碼流出",
-      "業餘"
+      "出道作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20230403/31d9a286-85c5-412c-9186-c8dcc3d26e63.jpg",
+    "company": "SOD",
+    "publish_date": "2020-03-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/fb7f81da-38c4-4e31-a364-10819fb3f978.jpg",
     "actress": [
-      "枢木葵"
+      "前田桃杏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-251"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-010"
   },
   {
-    "id": 81888,
-    "IDcode": "MMGH-252",
-    "title": "新大久保で見つけたオルチャンガール 小動物系！ ゆな(23)",
+    "id": 81848,
+    "IDcode": "MSFH-011",
+    "title": "雪肤可爱女优-水沢美心",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "美少女",
-      "娃娃",
-      "猎艳",
-      "业余"
+      "无毛",
+      "巨乳",
+      "淫乱，真实",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-02-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/a996c50928dfb82ab04aff88a237d83f.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/aee7d782992e9f6037516960b2ca54a2.jpg",
     "actress": [
-      "高城ひかる"
+      "鲛岛",
+      "水沢美心"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-252"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-011"
   },
   {
-    "id": 569041,
-    "IDcode": "MMGH-253",
-    "title": "ゆいな第01集",
+    "id": 180078,
+    "IDcode": "MSFH-012",
+    "title": "禁欲好久的超M系痴女广濑里绪菜背着男友被肉棒干到高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-17/06/5whwqj2obsf06095whwqj2obsf328224.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/e80a0af1/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-253"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-012"
   },
   {
-    "id": 533651,
-    "IDcode": "MMGH-254",
-    "title": "なつみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-254"
-  },
-  {
-    "id": 569040,
-    "IDcode": "MMGH-255",
-    "title": "カップ新米ママに旦那と子供の目の前で连続中出しきょうこさん（38第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-255"
-  },
-  {
-    "id": 533650,
-    "IDcode": "MMGH-256",
-    "title": "宙に浮くほど激ピストン！ 新米ママを旦那と子供の前で寝取っ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-17/06/p50uub4yken0609p50uub4yken248206.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-256"
-  },
-  {
-    "id": 533649,
-    "IDcode": "MMGH-257",
-    "title": "まいこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200807/mmgh-257.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-257"
-  },
-  {
-    "id": 407016,
-    "IDcode": "MMGH-260",
-    "title": "320 幸せいっぱいな新米ママを旦那と子供の目の前で激ピストン！ さとみさん(27)Hカップ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e7537dee6fe01e0c7dafea26dd1b7d56.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-260"
-  },
-  {
-    "id": 174215,
-    "IDcode": "MMGH-285",
-    "title": "320镜子号结束后与素人女性再次撩妹再来一次性爱的偷拍映像擅自出售",
+    "id": 224972,
+    "IDcode": "MSFH-013",
+    "title": "H罩杯王牌小姐-詩月まどか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/30/1ea6cb82/vod.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/1ba8a985a404f384ebd858669a35f4a4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-285"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-013"
   },
   {
-    "id": 547218,
-    "IDcode": "MMGH-296",
-    "title": "マジックミラー号 初めてのDEEP“乳揉み” 久しぶりに感じた优しくて温かい男の手付きに隠して",
+    "id": 88113,
+    "IDcode": "MSFH-014",
+    "title": "Iカップの神乳を揉みしだきじっくり●す性感開発 前田桃杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "玩具",
+      "巨乳",
+      "乳液",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ee0f070ca3e9255c7e852a04c7a4dfbe.jpg",
+    "actress": [
+      "前田桃杏",
+      "森林原人",
+      "鲛岛",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-014"
+  },
+  {
+    "id": 88134,
+    "IDcode": "MSFH-015",
+    "title": "下班后喝醉的美女OL-水沢美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无毛",
+      "巨乳",
+      "OL",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/721f048c3caa00d93ca58461741a76ae.jpg",
+    "actress": [
+      "水沢美心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-015"
+  },
+  {
+    "id": 77327,
+    "IDcode": "MSFH-017",
+    "title": "超敏感Hカップ巨乳-詩月まどか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7b72250dd99d1208f800bdda5f0358a.jpg",
+    "actress": [
+      "诗月圆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-017"
+  },
+  {
+    "id": 225259,
+    "IDcode": "MSFH-019",
+    "title": "从小到大成绩都很优异的美女研究生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/pYJvUAuQ/1.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/5e84b0cfddb9e080253252df2d6e9e46.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-296"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-019"
   },
   {
-    "id": 173306,
-    "IDcode": "MMGH-318",
-    "title": "【スマホ推奨縦動画】オシャレカップルの彼女さん、マジックミラー号の中で100の質問中、いきなりデカチン即ハメしてみた。 おとは（21）",
+    "id": 529297,
+    "IDcode": "MSFH-020",
+    "title": "超高级三星宾馆专属美容师的无限制发射服务 水泽美心",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/e5e3b999e48eea49440fdbb664b99657.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-318"
-  },
-  {
-    "id": 595005,
-    "IDcode": "MMIN-001",
-    "title": "超淫语大姐的超高衩泳装游泳教室",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0ce3dfd535d2f1ea232fe6d00fec5b08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIN-001"
-  },
-  {
-    "id": 567600,
-    "IDcode": "MMIX-007",
-    "title": "ノーパンでお尻の穴と阴部に密着したムレムレ黒パンストプリプリ デカ尻美脚奥様8人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230523-1/df012ea14d470df47b6594c2c1196c91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-007"
-  },
-  {
-    "id": 567641,
-    "IDcode": "MMIX-008",
-    "title": "夫の知らぬまに オナニーじゃ我慢できず他人チ○ポ挿入 7人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-020"
   },
   {
-    "id": 524290,
-    "IDcode": "MMIX-010",
-    "title": "嫁の母 禁断の激情交尾 4时间",
+    "id": 529296,
+    "IDcode": "MSFH-021",
+    "title": "都合の良い爱人と。 Case01-CA りおな 広瀬りおな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/f107d9fb70861336095b7371e0f5ebee.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-021"
   },
   {
-    "id": 88112,
-    "IDcode": "MMIX-012",
-    "title": "半年SEXしていない欲求不満の美熟女とAV観賞していたらしこしこされて発射寸前！我慢汁ぬるんぬるんのチ○ポをじゅぽじゅぽしゃぶられた！",
+    "id": 210323,
+    "IDcode": "MSFH-022",
+    "title": "本能覚醒-希代あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/23/66f1611acb4e7ebbf6a6690005355148.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-022"
+  },
+  {
+    "id": 210169,
+    "IDcode": "MSFH-025",
+    "title": "人生初生中出-水沢美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/08/2b8554ad969d57c37eb5661bea83fa54.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-025"
+  },
+  {
+    "id": 407573,
+    "IDcode": "MSFH-026",
+    "title": "理性飞走全身体液满溢春药嗑药性爱诗月圆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/698fa5f7b4f68ab3f7666b20595eafa9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-026"
+  },
+  {
+    "id": 178202,
+    "IDcode": "MSFH-027",
+    "title": "短发小恶魔广瀬里绪奈在耳边用天使一般的低语诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-027"
+  },
+  {
+    "id": 406371,
+    "IDcode": "MSFH-028",
+    "title": "被希代亚美这样的女人诱惑死而无憾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/336862396096de3efc4eda4c12f32a73.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-028"
+  },
+  {
+    "id": 210700,
+    "IDcode": "MSFH-029",
+    "title": "我爱的男人是个罪犯-水沢美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/10/27/4c92ba7b3685a3c5bdcad13d0cc1e0a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-029"
+  },
+  {
+    "id": 88138,
+    "IDcode": "MSFH-030",
+    "title": "不同的性器观-前田桃杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋乳癖",
+      "流汗",
+      "巨乳",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/db5d6965eac04e0c848eb15aca3daea9.jpg",
+    "actress": [
+      "前田桃杏",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-030"
+  },
+  {
+    "id": 594908,
+    "IDcode": "MSFH-031",
+    "title": "有未婚妻的我 因为禁欲肉棒都快爆发了 青梅竹马诗月圆帮我射精管理NTR 诗月圆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210808-1/84fc7f3636b6c954410dd75035a6d8e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-031"
+  },
+  {
+    "id": 19623,
+    "IDcode": "MSFH-032",
+    "title": "暑假中在體育倉庫被監禁持續被學生輪姦的女教師 廣瀨里緒菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "輪姦",
+      "女教師",
+      "監禁",
+      "學校"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f396a04e7d663df493847d/cover.jpg",
+    "actress": [
+      "廣瀨里緒菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-032"
+  },
+  {
+    "id": 210699,
+    "IDcode": "MSFH-033",
+    "title": "体液漏出-希代あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/10/27/51d6edac1bd346a6d43536557aa7e95d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-033"
+  },
+  {
+    "id": 210698,
+    "IDcode": "MSFH-034",
+    "title": "現役女子大生-前田桃杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/10/26/f18971342091f4b2ba68c5272c05279a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-034"
+  },
+  {
+    "id": 211276,
+    "IDcode": "MSFH-036",
+    "title": "性玩具-希代あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/12/27/4c97a8e4acc67c506b3e2dd2e3c8a621.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-036"
+  },
+  {
+    "id": 176406,
+    "IDcode": "MSFH-037",
+    "title": "没有前台水泽美心和已婚部长的秘密偷情被屌丝男同事发现后成了他的性奴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/21/47c22e18de80cd9f7f59f49895002c7e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-037"
+  },
+  {
+    "id": 88131,
+    "IDcode": "MSFH-039",
+    "title": "高速碰撞-広瀬りおな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
-      "成熟的女人",
       "口交",
+      "女上位",
+      "苗条",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/53d8dd5dc41035589a26075a129292f3.jpg",
+    "actress": [
+      "廣瀨里緒菜",
+      "鲛岛",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-039"
+  },
+  {
+    "id": 70890,
+    "IDcode": "MSFH-040",
+    "title": "交わって15秒で、イク 丸の内で1番エッチなOLと即挿入、即絶頂SEX4本番 吉永このみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "滥交",
+      "姐姐",
+      "OL",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eac7ad9d6b33f7177b281ba8a9d79bb5.jpg",
+    "actress": [
+      "森林原人",
+      "イセドン内村",
+      "南佳也",
+      "吉永このみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-040"
+  },
+  {
+    "id": 70829,
+    "IDcode": "MSFH-041",
+    "title": "エロコス金髪ギャルとブチアゲキメセクパーティ 広瀬りおな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "药物",
+      "女生",
+      "滥交",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b5f41f398457b8fa70bb715b86d9ca6b.jpg",
+    "actress": [
+      "廣瀨里緒菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-041"
+  },
+  {
+    "id": 464799,
+    "IDcode": "MSFH-043",
+    "title": "着衣巨乳で学園中の男を誘惑し強●中出しさせる女教師 水澤美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d0b6290e9c18468f438a51c3702431bd.jpg",
-    "actress": [
-      "円城ひとみ",
-      "如月丽华",
-      "迦纳绫子",
-      "中山香苗",
-      "笠原智美",
-      "叶山弓子",
-      "甲斐ミハル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-012"
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d947064e7d663df402cb7d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-043"
   },
   {
-    "id": 578867,
-    "IDcode": "MMIX-016",
-    "title": "息子の学费を稼ぐ为にパート先で抵抗できず犯された母 6人4时间",
+    "id": 435788,
+    "IDcode": "MSFH-047",
+    "title": "精液射空之前絕不停下的榨精追擊 射精男性沙龍 希代亞美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e25ed1832d77a0e1dccd3f9e9b95ab22.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-047"
+  },
+  {
+    "id": 556547,
+    "IDcode": "MSFH-048",
+    "title": "Miko Mizusawa 阴道射精，直到超然的男人和超然的女人精疲力竭 - 水泽美心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230519-1/30aadf6fc284d1f8b2f8860f5bf28bd3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-048"
+  },
+  {
+    "id": 556551,
+    "IDcode": "MSFH-049",
+    "title": "体液严重汁液达达泄漏马虎泰国人性交 Konomi Yoshinaga - 吉永好美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-049"
   },
   {
-    "id": 531890,
-    "IDcode": "MMIX-018",
-    "title": "じゅぽじゅぽキッチンフェラ 口内発 射 吸って榨って 泡立ちザーメンまみれ お口マ○コベチョベチョ",
+    "id": 594872,
+    "IDcode": "MSFH-050",
+    "title": "出勤率低的公司只有我和女上司…发现我（处男）下体膨胀，上司主动诱惑，内射SEX直到下班 广濑里央奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/61c29e52d7a16fd83433323d90b0e602.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-018"
-  },
-  {
-    "id": 541078,
-    "IDcode": "MMIX-026",
-    "title": "ドスケベ五十路美熟熟がAV観赏しながらねっとり手コキ初体験第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/08-05/06/jxffvt0fvl00603jxffvt0fvl03911720.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-026"
-  },
-  {
-    "id": 531889,
-    "IDcode": "MMIX-027",
-    "title": "五十路おばさんのアナルおマ○コみせつけオナニー20人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/7daacf8d85545d9d50e73e8dc94c5aa2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-027"
-  },
-  {
-    "id": 77714,
-    "IDcode": "MMKN-002",
-    "title": "逆アナにハマった童貞ニューハーフ 椎名みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女装人妖",
-      "变性者",
-      "肛交",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "椎名みう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKN-002"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-050"
   },
   {
-    "id": 81901,
-    "IDcode": "MMKN-003",
-    "title": "ごっくんニューハーフ 咲雪華奈",
+    "id": 593582,
+    "IDcode": "MSFH-052",
+    "title": "被后辈OL无自觉诱惑玩弄的夜晚",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "女装人妖",
-      "变性者",
-      "肛交",
-      "吞精"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-01-19",
+    "company": "SOD",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "咲雪华奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKN-003"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-052"
   },
   {
-    "id": 446883,
-    "IDcode": "MMKN002",
-    "title": "沉溺在逆肛的童贞第三性椎名美羽",
+    "id": 594852,
+    "IDcode": "MSFH-054",
+    "title": "被丈夫带来的继子每天强行内射…精力超级旺盛的肉棒比和丈夫做更爽… 广濑里央奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/206b291f26dedaf331045bd2356a67b0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKN002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-054"
   },
   {
-    "id": 523576,
-    "IDcode": "MMKS-004",
-    "title": "いじわるご奉仕 愈しの巨尻ソープ嬢 水野朝阳",
+    "id": 435870,
+    "IDcode": "MSFH-055",
+    "title": "美人上司和處男的我 越線的那天開始... 每天被口交連射 射精後的連續追擊口交 精液都快要枯竭了... 希代亞美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/57126f507d9cb25a59c2002d83ff56dc.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ae03be1e15d559d3430b104c6eb0270e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-055"
   },
   {
-    "id": 523577,
-    "IDcode": "MMKS-006",
-    "title": "いじわるご奉仕 愈しの巨尻ソープ嬢 仓多まお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/6d9c25f14f0939275e030baa8c24945d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-006"
-  },
-  {
-    "id": 523729,
-    "IDcode": "MMKS-007",
-    "title": "坏心眼侍奉 疗愈系巨尻风俗妹 风间由美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190909-1/2bdbad7f3bfefc1f17a1dea378196ddc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-007"
-  },
-  {
-    "id": 81831,
-    "IDcode": "MMKS-010",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 加藤ももか",
+    "id": 79122,
+    "IDcode": "MSFH-058",
+    "title": "知性溢れるお姉さんがいやらしい焦らしと舌技で極上の射精へと導く無制限発射メンズエステ 吉永このみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "屁股"
+      "按摩",
+      "美容院",
+      "制服",
+      "口交"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/6d7dbf5dd499f6c835c34bea337193f4.jpg",
-    "actress": [
-      "加藤桃香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-010"
-  },
-  {
-    "id": 435901,
-    "IDcode": "MMKS-015",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 凛音桃花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/b72c165b2416ce9f9824ed77f3af4033.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-015"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/cc644a8248772f87d0fbf4bfe8ade044.jpg",
+    "actress": [
+      "鲛岛",
+      "吉永このみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-058"
   },
   {
-    "id": 85543,
-    "IDcode": "MMKS-019",
-    "title": "大屁股女郎-木下ひまり",
+    "id": 79150,
+    "IDcode": "MSFH-059",
+    "title": "ほろ酔いで開放的になった奥手な癒し系お姉さんとつゆだく汁まみれ絶頂SEX 日乃ふわり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/f18e58b2c3b0fbedd3f485c4cdea0b3d.jpg",
-    "actress": [
-      "木下日葵",
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-019"
-  },
-  {
-    "id": 85555,
-    "IDcode": "MMKS-022",
-    "title": "挑逗性服务-本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "巨大屁股",
-      "屁股",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/1a55d009dc519fe8695bf17edbec4886.jpg",
-    "actress": [
-      "本真友里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-022"
-  },
-  {
-    "id": 564770,
-    "IDcode": "MMKS-023",
-    "title": "いじわるご奉仕 愈しの巨尻ソープ嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230125/Cy3o6FRA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-023"
-  },
-  {
-    "id": 92384,
-    "IDcode": "MMKS-024",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "4K",
-      "巨大屁股",
-      "局部特写",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "2023-03-21",
-    "cover_url": "https://tuaskbgnekr.com/20230830/FiLb7d3N/1.jpg",
-    "actress": [
-      "小早川怜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-024"
-  },
-  {
-    "id": 564346,
-    "IDcode": "MMKS-025",
-    "title": "いじわるご奉仕 愈しの巨尻ソープ嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230528/EiRFNdtN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-025"
-  },
-  {
-    "id": 18679,
-    "IDcode": "MMKS-026",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "巨尻",
-      "風俗娘",
-      "中文字幕",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "性感",
-      "美臀"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/30/68394d280b69f1d8162e708c/cover.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-026"
-  },
-  {
-    "id": 561926,
-    "IDcode": "MMKS-027",
-    "title": "いじわるご奉仕 愈しの巨尻ソープ嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/cuelvjGA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-027"
-  },
-  {
-    "id": 14209,
-    "IDcode": "MMKS-028",
-    "title": "挑逗服務 - 治愈系大屁股泡泡浴女孩美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "水療・泡泡浴",
-      "美少女",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
+      "多P",
       "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "風俗娘",
-      "淫亂",
-      "中出",
-      "後入",
+      "流汗",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/5c3e5ccf4b352a9341e8a31c94934e26.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-059"
+  },
+  {
+    "id": 78686,
+    "IDcode": "MSFH-060",
+    "title": "媚薬でガンギマりした身体を容赦なく激ピス！限界突破！ビッチャビチャ失禁絶頂地獄 希代あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "药物",
+      "淫乱，真实",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-05-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "希志亞美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-060"
+  },
+  {
+    "id": 435832,
+    "IDcode": "MSFH-062",
+    "title": "普段はしっかり者のお姉さんだけど2人きりの時は僕にデレMな年上彼女とヤリまくり愛しまくりお泊まりデート 希代亞美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/053afe35878fd1765a6692bd43e649b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-062"
+  },
+  {
+    "id": 212968,
+    "IDcode": "MSFH-064",
+    "title": "温泉宿相部屋-吉永このみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/23/84670afce9ddc4c0af0b278f76ed148e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-064"
+  },
+  {
+    "id": 594243,
+    "IDcode": "MSFH-065",
+    "title": "被丰满H罩杯乳交到射精！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-065"
+  },
+  {
+    "id": 212730,
+    "IDcode": "MSFH-066",
+    "title": "同棲生活-吉永このみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/10/a095fe3561aaa64afbd9ae59039fec40.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-066"
+  },
+  {
+    "id": 547672,
+    "IDcode": "MSMT-001",
+    "title": "わたし黒人さんと交尾がしたい！好奇心旺盛 黒髪おぼこ女子が黒太棒ブチこまれてメスにされちゃいました！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231017/CzHlZoE0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-001"
+  },
+  {
+    "id": 562609,
+    "IDcode": "MSMT-003",
+    "title": "わたし黒人さんと交尾がしたい！ゴツい男に犯されたい！性欲 満タンムッチリお姊さん黒人チ●ポに狂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231220/7lEtWQjr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-003"
+  },
+  {
+    "id": 16176,
+    "IDcode": "MSMT-005",
+    "title": "我想和黑人交配！小個子女生和粗壯男生的身材差距太大了！美麗的女孩有一個大黑雞巴進進出出，高潮尖叫 冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "少女",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "泡泡浴店",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240604/b56f59ef-19c3-463a-97f1-15c2189d21ea.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-028"
-  },
-  {
-    "id": 95209,
-    "IDcode": "MMKS-029",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 尾崎えりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "屁股",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-029"
-  },
-  {
-    "id": 5964,
-    "IDcode": "MMKS-030",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "巨尻",
-      "水療・泡泡浴",
-      "口爆",
-      "豐滿",
-      "苗條",
-      "泡姬",
-      "臀控",
-      "感官作品",
-      "4K",
-      "癡女",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "風俗娘",
+      "凌辱",
+      "女學生",
+      "深喉",
+      "黑人男優",
+      "兩男一女",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
       "劇情",
-      "抹油",
-      "舔陰",
-      "泡泡浴店",
+      "美少女",
+      "按摩棒",
+      "白絲",
+      "飯店",
+      "苗條",
+      "被外國人幹",
       "手指插入",
-      "顔面騎乘",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/9b875d07/vod.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-030"
-  },
-  {
-    "id": 4881,
-    "IDcode": "MMKS-031",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 夕美しおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "獵豔",
-      "巨尻",
-      "素股",
-      "小隻馬",
-      "水療・泡泡浴",
-      "豐滿",
-      "泡姬",
-      "臀控",
-      "辣妹/GAL系",
-      "局部特寫",
-      "4K",
-      "美腳",
-      "胸控・戀乳癖",
-      "大奶头",
+      "騎乗位",
       "美乳",
-      "巨乳",
       "口交",
-      "性感",
       "雙馬尾",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "野性",
-      "淫亂",
-      "極品美人",
-      "超爆乳",
-      "風俗娘",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "泡泡浴店",
-      "手指插入",
-      "膚黑",
-      "顔面騎乘",
-      "拜金女",
-      "乳交",
+      "潮吹",
       "女上位",
-      "丁字裤",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224221473473_thumbnail.webp",
-    "actress": [
-      "夕美紫苑"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-031"
-  },
-  {
-    "id": 3898,
-    "IDcode": "MMKS-032",
-    "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "巨尻",
-      "素股",
-      "水療・泡泡浴",
-      "口爆",
-      "豐滿",
-      "港區女子",
-      "苗條",
-      "泡姬",
-      "臀控",
-      "局部特寫",
-      "4K",
-      "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "巨乳",
-      "口交",
+      "多P",
+      "後入",
       "性感",
-      "接吻",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "風俗娘",
-      "超爆乳",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "脚控・戀足癖",
-      "泡泡浴店",
-      "女神",
-      "手指插入",
-      "拜金女",
-      "無毛",
-      "乳交",
-      "女上位",
-      "丁字裤",
-      "騎乗位"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895cfed55337d7f7ba42ff7/cover.jpg",
+    "company": "TMA",
+    "publish_date": "2024-02-20",
+    "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220094524254254.jpg",
     "actress": [
-      "北野未奈"
+      "冬愛琴音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-005"
   },
   {
-    "id": 348023,
-    "IDcode": "MMKZ-002",
-    "title": "お姊さんの巨尻が猥亵过ぎて秒杀で悩杀！！ 莲実クレア",
+    "id": 545745,
+    "IDcode": "MSMT-006",
+    "title": "わたし黒人さんと交尾がしたい！优しい婚约者と入籍间近だけど黒人チ●ポへの兴味が头から离れない…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240418/73WWjBjL/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-006"
   },
   {
-    "id": 539305,
-    "IDcode": "MMKZ-033",
-    "title": "デカ尻どスケベ淫乱熟女！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-033"
-  },
-  {
-    "id": 539361,
-    "IDcode": "MMKZ-038",
-    "title": "可爱い颜してデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221012/RR2FOVyJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-038"
-  },
-  {
-    "id": 533648,
-    "IDcode": "MMKZ-042",
-    "title": "可爱い颜してデカ尻！！ 天野美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-042"
-  },
-  {
-    "id": 523578,
-    "IDcode": "MMKZ-055",
-    "title": "デカ尻ボインでムッチムチ♪ 中村知恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/2dca4dd17de6b4e35f22e432921b024a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-055"
-  },
-  {
-    "id": 589617,
-    "IDcode": "MMKZ-056",
-    "title": "姐姐大屁股太猥琐，秒杀！ !!筱田优",
+    "id": 93263,
+    "IDcode": "MSMT-007",
+    "title": "【FANZA限定】わたし黒人さんと交尾がしたい！デカチンが好きすぎて応募したギャル黒巨根で中をいっぱいに満たされて想像以上のガチイキくらってしまう！ 春日えな 生写真とパンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/32936_cover_2025-09-21_133610.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-056"
-  },
-  {
-    "id": 567426,
-    "IDcode": "MMKZ-058",
-    "title": "デカ尻どスケベ淫乱熟熟！！羽田つばさ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-058"
-  },
-  {
-    "id": 77863,
-    "IDcode": "MMKZ-059",
-    "title": "可愛い顔してデカ尻！！ 飛鳥りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/eeefcdc4266df684956922bf707cee8a.jpg",
-    "actress": [
-      "飞鸟铃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-059"
-  },
-  {
-    "id": 589498,
-    "IDcode": "MMKZ-060",
-    "title": "可爱的脸蛋和大屁股！ !!加藤桃香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/62797_cover_2025-07-06_031249.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-060"
-  },
-  {
-    "id": 592628,
-    "IDcode": "MMKZ-065",
-    "title": "大屁股淫荡花痴成熟女人！ !!工藤奈奈美 - 工藤真波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/11/56756_cover_2025-06-11_095454.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-065"
-  },
-  {
-    "id": 592600,
-    "IDcode": "MMKZ-066",
-    "title": "可爱的脸蛋和大屁股！ !!高见遥 - 高美春香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/79952_cover_2025-06-10_092422.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-066"
-  },
-  {
-    "id": 530603,
-    "IDcode": "MMKZ-067",
-    "title": "可爱い颜してデカ尻！！ 有村望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/1dv5yzrm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-067"
-  },
-  {
-    "id": 81902,
-    "IDcode": "MMKZ-069",
-    "title": "デカ尻どスケベ淫乱熟女！！ 小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "2020-01-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/5af95234e45763749d5f7fc5a5cd36b7.jpg",
-    "actress": [
-      "小早川怜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-069"
-  },
-  {
-    "id": 76515,
-    "IDcode": "MMKZ-070",
-    "title": "お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！ 高坂あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/143327c50d5ac805b1c33bbc55418e5c.jpg",
-    "actress": [
-      "高坂あいり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-070"
-  },
-  {
-    "id": 81863,
-    "IDcode": "MMKZ-073",
-    "title": "可愛い顔してデカ尻！！ 篠崎里帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "2020-03-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/6c0200f413fe140019f6a78c480c9706.jpg",
-    "actress": [
-      "篠崎里帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-073"
-  },
-  {
-    "id": 81889,
-    "IDcode": "MMKZ-074",
-    "title": "お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！ 晶エリー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "屁股"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "2020-04-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/e8cd7655e4a1313aff190307a040eaa6.jpg",
-    "actress": [
-      "新井爱丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-074"
-  },
-  {
-    "id": 559913,
-    "IDcode": "MMKZ-079",
-    "title": "可爱的脸蛋和大屁股MonamiYuyu-结结萌奈实",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-079"
-  },
-  {
-    "id": 435831,
-    "IDcode": "MMKZ-092",
-    "title": "黒ギャルのエロ過ぎるデカ尻！！ 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e03d37fc8b6779a27d4374acd2691c3c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-092"
-  },
-  {
-    "id": 592959,
-    "IDcode": "MMKZ-097",
-    "title": "初爱ねんねデカ尻ボインでムッチムチ♪ 初爱ねんね new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230531/b29eac1b9cd8ab8311a8ab0629a84ff1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-097"
-  },
-  {
-    "id": 565830,
-    "IDcode": "MMKZ-109",
-    "title": "纤细短发美少女的大臀超淫荡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8c9a75eb5d18245504e427336316889c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-109"
-  },
-  {
-    "id": 565829,
-    "IDcode": "MMKZ-110",
-    "title": "可爱脸蛋加大臀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6702109a1d4179b224efb12af1f08c09.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-110"
-  },
-  {
-    "id": 565828,
-    "IDcode": "MMKZ-111",
-    "title": "姐姐秒速让人神魂颠倒的巨臀超猥亵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/dkPv82cY.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-111"
-  },
-  {
-    "id": 565827,
-    "IDcode": "MMKZ-114",
-    "title": "大臀超色淫熟女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8aa71fe1f93f37f5acb118c77e471730.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-114"
-  },
-  {
-    "id": 536904,
-    "IDcode": "MMKZ-115",
-    "title": "小花暖- 可爱い颜してデカ尻！！ 小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/qo0E39fn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-115"
-  },
-  {
-    "id": 565826,
-    "IDcode": "MMKZ-116",
-    "title": "姐姐的巨臀超猥亵秒速神魂颠倒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/753e516ded324561a84e8c662383bb6f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-116"
-  },
-  {
-    "id": 103959,
-    "IDcode": "MMKZ-117",
-    "title": "【FANZA限定】お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！ 星川まい チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "黑人演员",
       "单体作品",
-      "巨大屁股",
-      "屁股",
-      "巨乳"
+      "女生",
+      "平胸",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/b4b610f2f41f4d4042016300e60cb88b.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/478adc7a0cfdccc549483fe9d14c3d56.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-007"
   },
   {
-    "id": 101868,
-    "IDcode": "MMKZ-118",
-    "title": "お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！ 新村あかり",
+    "id": 93265,
+    "IDcode": "MSMT-008",
+    "title": "【FANZA限定】わたし黒人さんと交尾がしたい！ゴツいオスに犯●れたい！ずっと憧れてた 黒人さんとのセックスマンを持してのイキまくり！ 香澄せな 生写真とパンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "巨大屁股",
-      "屁股",
-      "单体作品"
+      "黑人演员",
+      "巨乳",
+      "单体作品",
+      "无毛",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/fd349a095669e6bae7eddff9ad1d96aa.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/9ec898488b1e7fbc442b7baef3817a4b.jpg",
     "actress": [
-      "新村晶"
+      "香澄せな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-008"
   },
   {
-    "id": 565825,
-    "IDcode": "MMKZ-119",
-    "title": "可爱い颜してデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8ab0bede4a9eee2a45a21276ece06e08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-119"
-  },
-  {
-    "id": 564721,
-    "IDcode": "MMKZ-121",
-    "title": "可爱い颜してデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230216/T2wfYhCQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-121"
-  },
-  {
-    "id": 564345,
-    "IDcode": "MMKZ-126",
-    "title": "デカ尻ボインでムッチムチ♪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230528/krr9WbHh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-126"
-  },
-  {
-    "id": 548507,
-    "IDcode": "MMKZ-127",
-    "title": "黒ギャルのエロ过ぎるデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/EPb10pvt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-127"
-  },
-  {
-    "id": 448107,
-    "IDcode": "MMKZ-128",
-    "title": "可愛い顔してデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/5160ab529085fa16dc094f6ec4e875e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-128"
-  },
-  {
-    "id": 548505,
-    "IDcode": "MMKZ-129",
-    "title": "金髪细身色白ギャルのスケベ过ぎるデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/zQ1peSbh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-129"
-  },
-  {
-    "id": 405888,
-    "IDcode": "MMKZ-130",
-    "title": "可愛い顔してデカ尻！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/c99845fc534a67855b299aa9b8b99223.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-130"
-  },
-  {
-    "id": 461631,
-    "IDcode": "MMKZ-131",
-    "title": "お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/593b24e187220db71c3fcc0dfb6de0ff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-131"
-  },
-  {
-    "id": 563569,
-    "IDcode": "MMKZ-132",
-    "title": "お姊さんの巨尻が猥亵过ぎて秒杀で悩杀！！2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230827/9se6MZFC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-132"
-  },
-  {
-    "id": 18835,
-    "IDcode": "MMKZ-133",
-    "title": "金發、高挑、皮膚白皙以及超大的屁股",
+    "id": 13300,
+    "IDcode": "MSMT-009",
+    "title": "文靜女孩和黑人做！她渴望大雞巴，失去了理智，尖叫起來，發瘋了！~ 上阪芽衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "網路紅人",
-      "巨尻",
-      "美腳",
-      "叛逆少女",
+      "少女",
+      "口交",
+      "絕頂高潮",
+      "淫亂",
+      "中出",
+      "美乳",
+      "色白",
+      "企畫",
+      "黑絲",
+      "女優",
+      "女上位",
+      "美少女電影",
+      "蕩婦",
+      "文藝女",
+      "騎乗位",
+      "形象俱樂部",
+      "美少女",
+      "黑人男優"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/8443ba274881d4890df43da5a2f12ea2.jpg",
+    "actress": [
+      "上坂芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-009"
+  },
+  {
+    "id": 12576,
+    "IDcode": "MSMT-010",
+    "title": "我想被黑人操！緊貼陰莖的苗條美女，壓倒性的存在感讓她的本性暴露無遺，無盡高潮！ ~ 小鬆杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "絕頂高潮",
       "慾求不滿",
-      "高妹",
-      "性感",
-      "美臀"
+      "淫亂",
+      "中出",
+      "美腳",
+      "色白",
+      "企畫",
+      "女優",
+      "貧乳",
+      "女上位",
+      "蕩婦",
+      "騎乗位",
+      "後入",
+      "形象俱樂部",
+      "黑人男優",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
-    "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903011845408408.jpg",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/294f974552e6025e97aa1c09a56aa519.jpg",
     "actress": [
-      "渋谷華"
+      "小松杏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-010"
   },
   {
-    "id": 547836,
-    "IDcode": "MMKZ-134",
-    "title": "可爱い颜してデカ尻！！尾崎えりか",
+    "id": 525391,
+    "IDcode": "MSMT-011",
+    "title": "わたし黒人さんと交尾がしたい！美人でデカチン好きおねえさん！待望の黒人FUCKでメス升天！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MARRION",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MARRION",
-        "works_count": 180
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231003/KbG1wsXe/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241008/BgWdpTRQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-011"
+  },
+  {
+    "id": 176123,
+    "IDcode": "MSMT-012",
+    "title": "わたし黒人さんと交尾がしたい！感度抜群のムチムチHカップ黒人チ●ポへのスケベ妄想で撮影前からヌレヌレ待望のガン突きで期待以上の強烈アクメ喰らう！ 菊池まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-012"
+  },
+  {
+    "id": 9836,
+    "IDcode": "MSMT-013",
+    "title": "わたし黒人さんと交尾がしたい！ 祈山愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "美腳",
+      "蕩婦",
+      "癡女",
+      "黑人男優",
+      "淫亂",
+      "中出",
+      "絕頂高潮",
+      "白絲",
+      "女優",
+      "企畫",
+      "苗條",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "女僕制服",
+      "口交",
+      "慾求不滿",
+      "清純",
+      "女上位",
+      "高跟鞋",
+      "綠茶婊",
+      "後入",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241215/20241215082032879879.jpg",
+    "actress": [
+      "祈山愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-013"
+  },
+  {
+    "id": 8950,
+    "IDcode": "MSMT-014",
+    "title": "我想要被黑人操！瞞着男友被黑人的超大雞巴插入...我以後可能再也不能體驗正常日本男人的尺寸了... ~ 妃月るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "蠻橫嬌羞",
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "小隻馬",
+      "癡女",
+      "黑人男優",
+      "中出",
+      "絕頂高潮",
+      "白絲",
+      "叛逆少女",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "後入",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250120/20250120114327656656.jpg",
+    "actress": [
+      "妃月るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-014"
+  },
+  {
+    "id": 550671,
+    "IDcode": "MSMT-015",
+    "title": "わたし黒人さんと交尾がしたい！“カワイイ”が过ぎる…女子力高めのキラキラ女子がオス力MAXの黒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250317-1/f8486c8908893a1e1d31e998f629dbba.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-015"
+  },
+  {
+    "id": 7464,
+    "IDcode": "MSMT-016",
+    "title": "わたし黒人さんと交尾がしたい！性格いい積極エロおねえさん興味津々で黒デカチ●ポと対戦めちゃくちゃイカされて完全屈服 一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "慾求不滿",
+      "淫亂",
+      "中出",
+      "美乳",
+      "美腳",
+      "美人",
+      "企畫",
+      "性感",
+      "女上位",
+      "美少女電影",
+      "蕩婦",
+      "騎乗位",
+      "後入",
+      "羞恥",
+      "性感睡衣",
+      "癡女",
+      "黑人男優"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316122658960960.jpg",
+    "actress": [
+      "一条美緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-016"
+  },
+  {
+    "id": 562542,
+    "IDcode": "MSPK-001",
+    "title": "里オプの手コキのあと结局最后までしちゃうお股のゆるいJ●たち J●リフレ No.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FIRST STAR",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/mBRQUtmX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-001"
+  },
+  {
+    "id": 562538,
+    "IDcode": "MSPK-002",
+    "title": "里オプの手コキのあと结局最后までしちゃうお股のゆるいJ●たち J●リフレ No.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FIRST STAR",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/r7wGtSOf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-002"
+  },
+  {
+    "id": 562042,
+    "IDcode": "MSPK-003",
+    "title": "里オプの手コキのあと结局最后までしちゃうお股のゆるいJ●たち J●リフレ No.3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FIRST STAR",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240129/VQVxfza5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-003"
+  },
+  {
+    "id": 546238,
+    "IDcode": "MSPK-004",
+    "title": "里オプの手コキのあと结局最后までしちゃうお股のゆるいJ●たち J●リフレ No.4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FIRST STAR",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240302/PcDxWPIn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-004"
   }
 ];

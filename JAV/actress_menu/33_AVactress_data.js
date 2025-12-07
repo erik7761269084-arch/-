@@ -156,7 +156,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "2024-12-17",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064808873873.jpg",
       "actress": [
@@ -401,7 +401,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2023-10-16",
       "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016085400717717.jpg",
       "actress": [
@@ -509,7 +509,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2023-05-11",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230929-1/3c8d7196f7c1899f011e6fbeaea59c83.jpg",
       "actress": [
@@ -1769,7 +1769,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/bb0eddec744233785cea44ffc29b7fbb.jpg",
       "actress": [
@@ -1888,7 +1888,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2bea4d59368ba9eefeede8841e59a3d9.jpg",
       "actress": [
@@ -2353,7 +2353,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/9b97585d27d48c95260fe379aa2f6c95.jpg",
       "actress": [
@@ -2394,7 +2394,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/71b932c7d16cca96049b85ad6802e808.jpg",
       "actress": [
@@ -2559,7 +2559,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/44b665494142969982cec22fb1bd749e.jpg",
       "actress": [
@@ -3032,7 +3032,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/e50f46254ab0a230f59dd26ceb94d77d.jpg",
       "actress": [
@@ -3567,7 +3567,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250816-1/8d1a1f69982df2bd7ce7566a0c1a95f9.jpg",
       "actress": [
@@ -3839,7 +3839,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512092014246246_thumbnail.webp",
       "actress": [
@@ -3886,7 +3886,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526105545395395_thumbnail.webp",
       "actress": [
@@ -4122,7 +4122,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220104510510_91223_thumbnail.webp",
       "actress": [
@@ -4198,7 +4198,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

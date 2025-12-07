@@ -1,75 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 525440,
-    "IDcode": "AGAV-116",
-    "title": "軽蔑睨まれ颜射 弱みを握っていいなりオナホにした兄嫁の颜に浓厚精子をぶっかけるのがニートのボク",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240922/SX6gKNJ6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-116"
-  },
-  {
-    "id": 11772,
-    "IDcode": "AGAV-117",
-    "title": "舌が蠢く淫乱顔女 真白みのり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "苗條",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/930d173f0c844437e1eef7f9739e3dc6.jpg",
-    "actress": [
-      "真白みのり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-117"
-  },
-  {
     "id": 11763,
     "IDcode": "AGAV-118",
     "title": "敏感的M女人被緩慢的愛撫洗腦，她乞求也不會停止 ~ 宮名遙",
@@ -77,47 +7,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "M男・M女",
-      "媚藥・迷藥",
       "豐滿",
-      "催眠",
-      "美少女",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
+      "癡女",
+      "舔陰",
       "兩男一女",
       "淫亂",
-      "猥褻穿著",
       "中出",
-      "後入",
+      "猥褻穿著",
+      "美少女電影",
       "劇情",
       "抹油",
+      "美少女",
+      "催眠",
       "絕頂高潮",
-      "舔陰",
-      "美少女電影",
+      "M男・M女",
+      "強姦",
+      "媚藥・迷藥",
       "手指插入",
-      "迷姦",
-      "乳交",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "迷姦",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/c490a830bd8cba813dec3907c968905a.jpg",
     "actress": [
@@ -133,35 +57,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "女僕制服",
       "凌辱",
-      "綁架",
-      "強姦",
-      "監禁",
+      "蕩婦",
       "亂交 • 群P",
-      "口交",
-      "熟女",
+      "重口味",
       "兩男一女",
       "淫亂",
       "中出",
-      "蕩婦",
-      "後入",
-      "重口味",
       "劇情",
+      "強姦",
+      "綁架",
+      "騎乗位",
       "輪姦",
+      "女僕制服",
+      "口交",
+      "監禁",
       "魔鬼系",
       "女上位",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2024-09-24",
     "cover_url": "https://picture.yoshiclub.xyz/20240921/20240921080929595595.jpg",
     "actress": [
@@ -178,13 +96,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241118/PymsdP44/1.jpg",
     "actress": [],
@@ -199,13 +111,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/afe5883ccea2aca0269c70e3706e26b1.jpg",
     "actress": [],
@@ -220,13 +126,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/14a3105dbe31fb2a443e07867f7e41a5.jpg",
     "actress": [],
@@ -240,21 +140,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "口交",
       "单体作品",
       "已婚妇女",
-      "白天出轨",
-      "口交",
-      "颜射"
+      "潮吹",
+      "颜射",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/21/d72add81a535e5a70bcb5180fd99e5ab.jpg",
     "actress": [
@@ -271,13 +165,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/4d314b5eeb4fe46a3b32b53f9f0c9e93.jpg",
     "actress": [],
@@ -291,43 +179,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
+      "少女",
+      "美腳",
       "女學生",
       "小隻馬",
-      "表姐・表妹",
-      "美少女",
-      "美腳",
+      "美臀",
+      "文藝女",
       "眼鏡",
-      "色白",
+      "舔陰",
+      "表姐・表妹",
+      "中出",
+      "美少女電影",
       "自宅",
+      "劇情",
+      "美少女",
+      "地味",
+      "色白",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
       "美乳",
       "口交",
-      "形象俱樂部",
       "潮吹",
-      "地味",
-      "文藝女",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
       "乳交",
+      "宅男・宅女",
+      "清純",
       "女上位",
-      "騎乗位",
-      "宅男・宅女"
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241221/20241221105418138138.jpg",
     "actress": [
@@ -343,47 +225,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "女友・妻子",
-      "吞精",
-      "若妻",
+      "蠻橫嬌羞",
+      "美腳",
       "二次元",
       "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "癡女",
-      "自宅",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "短髮",
-      "深喉",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
       "美臀",
-      "顏射",
-      "劇情",
       "奇異的",
-      "清純",
+      "深喉",
+      "癡女",
+      "人妻",
       "舔陰",
-      "脚控・戀足癖",
+      "奇聞趣事",
+      "中出",
       "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "女友・妻子",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "若妻",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "短髮",
+      "美乳",
+      "脚控・戀足癖",
+      "吞精",
+      "口交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/4041d334/vod.jpg",
     "actress": [
@@ -399,43 +275,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "M男・M女",
-      "蒙面・面罩",
-      "催眠",
       "凌辱",
-      "美少女",
+      "蒙面・面罩",
       "美腳",
-      "癡女",
       "拘束・拷問",
-      "羞恥",
+      "美臀",
       "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
+      "癡女",
       "兩男一女",
       "淫亂",
-      "內衣",
       "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "絕頂高潮",
-      "女優",
       "美少女電影",
+      "美少女",
+      "催眠",
+      "絕頂高潮",
+      "M男・M女",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
       "素人",
+      "美腿",
+      "口交",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "內衣",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241222/eb568d5b-40b8-4d66-b071-f51fb72158e2.jpg",
     "actress": [],
@@ -450,13 +320,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b22a9515c08d63a9932095/cover.jpg",
     "actress": [],
@@ -471,13 +335,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -491,39 +349,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
+      "美腳",
+      "高妹",
       "口爆",
+      "亂交 • 群P",
+      "癡女",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "御姐控",
+      "女優",
+      "企畫",
       "飯店",
       "苗條",
-      "美腳",
-      "癡女",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
       "美人妻",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "女優",
-      "脚控・戀足癖",
-      "御姐控",
-      "高妹",
-      "舔腳",
       "黑絲",
-      "足交"
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "口交",
+      "足交",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/2cca9da2-d49b-42ec-bf30-8d2c549bc0c4.jpg",
     "actress": [
@@ -539,21 +391,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "深喉",
-      "监禁",
-      "多P",
       "单体作品",
-      "放尿"
+      "潮吹",
+      "放尿",
+      "多P",
+      "深喉",
+      "监禁"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -569,46 +415,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "性感睡衣",
-      "M男・M女",
-      "純粹的慾望",
+      "清楚系",
       "豐滿",
       "臀控",
-      "感官作品",
-      "美少女",
-      "羞恥",
-      "色白",
-      "美乳",
-      "清楚系",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
+      "感官作品",
       "淫亂",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
       "劇情",
+      "美少女",
       "絕頂高潮",
-      "脚控・戀足癖",
-      "乳交",
-      "女上位",
+      "M男・M女",
+      "色白",
+      "純粹的慾望",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "形象俱樂部",
+      "性感睡衣",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250727-1/09f828a4c11a14142dbd55b23df0db95.jpg",
     "actress": [],
@@ -622,36 +462,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "精選總編集",
-      "美少女",
-      "OL",
+      "少女",
       "精選綜合",
       "眼鏡",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "清純",
       "美少女電影",
-      "女上位",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
       "騎乗位",
-      "宅男・宅女"
+      "精選總編集",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "宅男・宅女",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/36574cf34af09c49bec628372442f70b.jpg",
     "actress": [
@@ -667,58 +501,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "3P・4P",
-      "巨尻",
-      "口爆",
-      "飯店",
-      "報復",
-      "辦公室",
-      "加班",
-      "OL",
-      "強姦",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
       "清楚系",
-      "亂交 • 群P",
-      "巨乳",
       "女上司",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
+      "拘束・拷問",
+      "報復",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "加班",
       "兩男一女",
       "淫亂",
-      "傲嬌",
       "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "輪姦",
-      "清純",
-      "手指插入",
       "舔腳",
-      "迷姦",
-      "乳交",
+      "辦公室",
+      "劇情",
+      "性感",
+      "絕頂高潮",
+      "強姦",
+      "色白",
+      "飯店",
       "黑絲",
-      "白眼失神",
+      "傲嬌",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "輪姦",
+      "迷姦",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "OL",
+      "白眼失神",
+      "後入",
+      "濕身",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a20d79f1ac4ec45a462c/cover.jpg",
     "actress": [
@@ -734,31 +562,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "短髮",
-      "醫院・診所",
       "巨尻",
-      "M男・M女",
-      "地味",
-      "羞恥",
       "豐滿",
-      "按摩女郎",
-      "看病・住院",
+      "M男・M女",
       "中出",
+      "地味",
       "美人",
-      "後入",
+      "看病・住院",
+      "按摩女郎",
       "女上位",
       "騎乗位",
-      "劇情"
+      "熟女",
+      "後入",
+      "劇情",
+      "羞恥",
+      "醫院・診所",
+      "短髮"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d76647e1ae1e49a43776f/cover.jpg",
     "actress": [
@@ -774,32 +596,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "人妻",
-      "清純",
-      "美少女電影",
-      "4K",
-      "貧乳",
-      "精選總編集",
-      "美腳",
-      "精選綜合",
-      "色白",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "劇情",
       "清楚系",
+      "人妻",
+      "精選綜合",
+      "4K",
+      "美腳",
+      "色白",
+      "企畫",
+      "清純",
       "苗條",
-      "美臀"
+      "貧乳",
+      "美少女電影",
+      "姐姐・妹妹",
+      "美臀",
+      "劇情",
+      "精選總編集",
+      "形象俱樂部",
+      "美人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420071144726726_thumbnail.webp",
     "actress": [
@@ -815,20 +631,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
-      "美少女电影",
       "口交",
+      "单体作品",
+      "美少女电影",
       "手淫",
-      "单体作品"
+      "平胸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/93f6d229b17cf3d27ff8897f0f3e6a26.jpg",
     "actress": [
@@ -844,80 +654,74 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "M男・M女",
-      "口爆",
       "真實拍攝",
       "豐滿",
-      "素人作品",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "蠟燭",
       "鬼畜片",
-      "網路紅人",
-      "阪道系",
+      "性虐癖",
       "凌辱",
-      "流汗",
-      "4K",
-      "緊縛",
-      "美腳",
-      "即時插入",
       "主觀視角",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "紋身刺字",
-      "美乳",
-      "變態",
-      "制服",
       "清楚系",
-      "口交",
-      "早漏",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "深喉",
-      "高顏值",
-      "淫亂",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "重口味",
+      "美腳",
+      "拘束・拷問",
+      "口爆",
       "SM",
       "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "清純",
+      "打屁股",
+      "亂交 • 群P",
+      "單體作品",
+      "深喉",
+      "重口味",
       "舔陰",
-      "手指插入",
-      "魔鬼系",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "紋身刺字",
       "調教",
-      "白眼失神",
+      "早漏",
+      "蠟燭",
+      "按摩棒",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "色白",
+      "緊縛",
+      "高顏值",
+      "變態",
+      "素人作品",
+      "企畫",
+      "阪道系",
+      "顏射",
+      "插入異物",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "吞精",
+      "巨尻",
+      "流汗",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "即時插入",
+      "4K",
+      "魔鬼系",
       "拳擊交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "網路紅人",
+      "白眼失神",
+      "多P",
+      "後入",
+      "唾液敷面",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031445656656_thumbnail.webp",
     "actress": [
@@ -933,47 +737,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
+      "蠻橫嬌羞",
+      "美腳",
+      "高妹",
       "女學生",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "奇聞趣事",
+      "淫亂",
+      "舔腳",
+      "女優",
+      "企畫",
       "苗條",
+      "顏射",
+      "黑絲",
+      "角色扮演",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
       "局部特寫",
       "4K",
-      "美腳",
-      "癡女",
-      "JK校服",
-      "制服",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "淫亂",
-      "蠻橫嬌羞",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "顏射",
-      "女優",
-      "角色扮演",
       "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高妹",
-      "舔腳",
-      "黑絲",
-      "足交",
       "女上位",
-      "騎乗位"
+      "足交",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524002636564564_thumbnail.webp",
     "actress": [
@@ -989,50 +787,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "小隻馬",
-      "純粹的慾望",
-      "阪道系",
-      "4K",
-      "美腳",
-      "癡女",
-      "色白",
-      "大奶头",
-      "美乳",
       "清楚系",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "短髮",
-      "高顏值",
       "蠻橫嬌羞",
-      "特效",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
+      "美腳",
+      "小隻馬",
       "美臀",
-      "劇情",
+      "單體作品",
       "奇異的",
-      "絕頂高潮",
-      "清純",
+      "癡女",
       "舔陰",
+      "奇聞趣事",
+      "中出",
       "美少女電影",
-      "女機器人",
-      "手指插入",
+      "劇情",
+      "後入",
+      "絕頂高潮",
       "無毛",
+      "色白",
+      "高顏值",
+      "阪道系",
+      "純粹的慾望",
+      "特效",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "口交",
+      "4K",
+      "清純",
       "女上位",
-      "騎乗位"
+      "大奶头",
+      "性感",
+      "女機器人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524011000555555_thumbnail.webp",
     "actress": [
@@ -1048,45 +840,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "口爆",
       "真實拍攝",
-      "苗條",
-      "局部特寫",
-      "感官作品",
-      "4K",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "色白",
       "清楚系",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
+      "美腳",
+      "口爆",
       "美臀",
-      "女優",
+      "單體作品",
+      "癡女",
+      "感官作品",
       "舔陰",
+      "中出",
+      "極品美人",
       "美少女電影",
+      "明星臉",
+      "女友・妻子",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "女優",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "局部特寫",
+      "4K",
       "女上位",
-      "騎乗位"
+      "真人秀",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621072217616616_thumbnail.webp",
     "actress": [
@@ -1102,49 +888,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "小隻馬",
-      "M男・M女",
-      "苗條",
-      "女僕制服",
-      "4K",
-      "美少女",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "後入",
       "少女",
-      "絕頂高潮",
-      "清純",
+      "清楚系",
+      "美腳",
+      "拘束・拷問",
+      "小隻馬",
+      "單體作品",
+      "癡女",
       "舔陰",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
       "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "M男・M女",
+      "高顏值",
+      "苗條",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "女僕制服",
+      "口交",
+      "潮吹",
       "乳交",
+      "4K",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081356474474_thumbnail.webp",
     "actress": [
@@ -1160,58 +940,52 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
-      "口爆",
-      "豐滿",
-      "局部特寫",
-      "4K",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "口交",
-      "亂交 • 群P",
-      "接吻",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
-      "劇情",
+      "清楚系",
+      "豐滿",
+      "蠻橫嬌羞",
+      "主觀視角",
+      "美腳",
+      "姐姐・妹妹",
+      "口爆",
       "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "大姐姐",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "按摩棒",
       "絕頂高潮",
       "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
+      "高顏值",
+      "純粹的慾望",
       "手指插入",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "局部特寫",
+      "4K",
+      "清純",
+      "情趣內衣",
+      "女上位",
+      "後入",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892c9f1c92318f97d87460f/cover.jpg",
     "actress": [
@@ -1228,61 +1002,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "真實拍攝",
-      "完全着衣",
-      "女僕制服",
-      "局部特寫",
-      "感官作品",
-      "4K",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "美乳",
-      "清楚系",
-      "口交",
-      "巨乳",
-      "形象俱樂部",
-      "單體作品",
-      "正統派",
-      "寫真女郎",
-      "高顏值",
-      "校花",
-      "明星臉",
-      "極品美人",
-      "寫真偶像",
-      "美人",
-      "美腿",
-      "企畫",
       "少女",
-      "後入",
+      "真實拍攝",
+      "清楚系",
+      "主觀視角",
+      "正統派",
+      "美腳",
+      "高妹",
+      "小隻馬",
       "美臀",
+      "單體作品",
+      "感官作品",
+      "舔陰",
+      "舔腳",
+      "極品美人",
+      "美少女電影",
+      "完全着衣",
+      "美少女",
+      "明星臉",
+      "色白",
+      "高顏值",
+      "企畫",
       "顏射",
       "女優",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "舔腳",
       "黑絲",
-      "足交",
+      "寫真女郎",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "女僕制服",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "校花",
+      "局部特寫",
+      "4K",
+      "清純",
+      "寫真偶像",
       "女上位",
-      "騎乗位"
+      "足交",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250727-1/9ee629959a6ad5f3ed22da0ea0d368f3.jpg",
     "actress": [
@@ -1298,34 +1066,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "二次元",
-      "女教師",
-      "4K",
-      "美少女",
-      "美腳",
+      "少女",
       "清楚系",
+      "美腳",
+      "二次元",
+      "單體作品",
+      "舔陰",
+      "劇情",
+      "美少女",
+      "手指插入",
+      "騎乗位",
+      "美人",
       "口交",
       "巨乳",
-      "單體作品",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
+      "4K",
       "清純",
-      "舔陰",
-      "手指插入",
       "自慰",
       "女上位",
-      "騎乗位"
+      "女教師",
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823041920230230_32154_thumbnail.webp",
     "actress": [
@@ -1341,57 +1103,51 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "出差",
-      "飯店",
-      "凌辱",
-      "4K",
-      "美少女",
-      "惡搞",
-      "強姦",
-      "OL",
-      "羞恥",
-      "色白",
-      "美乳",
-      "寢取",
-      "變態",
+      "少女",
       "清楚系",
+      "凌辱",
+      "口爆",
+      "美臀",
+      "惡搞",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "女同事",
+      "M男・M女",
+      "強姦",
+      "色白",
+      "酒後亂性",
+      "飯店",
+      "變態",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "出差",
       "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "迷姦",
+      "巨尻",
       "巨乳",
       "口交",
-      "形象俱樂部",
-      "單體作品",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
       "魔鬼系",
-      "舔腳",
-      "迷姦",
-      "酒後亂性",
-      "黑絲",
+      "4K",
+      "清純",
       "女上位",
-      "騎乗位",
-      "女同事"
+      "OL",
+      "後入",
+      "寢取"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033350511511_75430_thumbnail.webp",
     "actress": [
@@ -1407,33 +1163,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "單體作品",
+      "後入",
+      "少女",
+      "口交",
+      "巨乳",
       "舔陰",
       "奇聞趣事",
-      "4K",
-      "小隻馬",
-      "美少女",
-      "手指插入",
       "M男・M女",
       "中出",
+      "4K",
       "美人",
-      "後入",
       "女上位",
-      "少女",
-      "巨乳",
+      "小隻馬",
+      "手指插入",
       "騎乗位",
+      "單體作品",
       "劇情",
-      "口交"
+      "美少女",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1450,13 +1200,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d98ecbce5a404e9bbb7ee5/cover.jpg",
     "actress": [],
@@ -1470,46 +1214,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "真實拍攝",
-      "局部特寫",
-      "4K",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "美乳",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "大姐姐",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
       "少女",
-      "後入",
-      "抹油",
-      "女優",
-      "清純",
+      "真實拍攝",
+      "美腳",
+      "單體作品",
       "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
+      "中出",
       "舔腳",
+      "大姐姐",
+      "美少女電影",
+      "抹油",
+      "美少女",
+      "女優",
+      "企畫",
       "黑絲",
-      "足交",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "4K",
+      "局部特寫",
+      "清純",
       "女上位",
-      "騎乗位"
+      "足交",
+      "後入",
+      "JK校服",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbd998ce5a404e9bc17c47/cover.jpg",
     "actress": [
@@ -1529,13 +1267,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1550,13 +1282,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1571,13 +1297,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1592,7 +1312,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20250619-1/c5c5ad7792ce41968857aebf63027fbd.jpg",
     "actress": [],
@@ -1607,7 +1327,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230130-1/aa17900a5e5f1a1e5f8b846ca8908f0b.jpg",
     "actress": [],
@@ -1622,13 +1342,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/dhhjSDOb/1.jpg",
     "actress": [],
@@ -1643,13 +1357,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/63LPg8cV/1.jpg",
     "actress": [],
@@ -1664,13 +1372,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/2o97SMSG/1.jpg",
     "actress": [],
@@ -1685,13 +1387,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/Qs0rTWJ6/1.jpg",
     "actress": [],
@@ -1706,13 +1402,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/HHinDXxK/1.jpg",
     "actress": [],
@@ -1727,13 +1417,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250313/zDU5mFHR/1.jpg",
     "actress": [],
@@ -1748,13 +1432,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250313/oWzO8Qcv/1.jpg",
     "actress": [],
@@ -1769,13 +1447,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241108/WDfZnT7M/1.jpg",
     "actress": [],
@@ -1790,13 +1462,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241108/QGcamo1H/1.jpg",
     "actress": [],
@@ -1811,13 +1477,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241109/efPlHsSn/1.jpg",
     "actress": [],
@@ -1834,13 +1494,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241109/OTb3W3y9/1.jpg",
     "actress": [],
@@ -1855,13 +1509,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/ItZCLuwq/1.jpg",
     "actress": [],
@@ -1876,13 +1524,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/V3pfCV37/1.jpg",
     "actress": [],
@@ -1897,13 +1539,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/zMUDZab6/1.jpg",
     "actress": [],
@@ -1918,13 +1554,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/c284ea57029c8e5ef35400b31978bdf3.jpg",
     "actress": [],
@@ -1939,13 +1569,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "GLAYz",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLAYz",
-        "works_count": 195
-      }
-    ],
+    "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/51d5e57d338a2d40b0ebc13b5081047b.jpg",
     "actress": [],
@@ -1960,7 +1584,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240527/3eDLP94j/1.jpg",
     "actress": [],
@@ -1975,7 +1599,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240624/J7O8Iq0T/1.jpg",
     "actress": [],
@@ -1990,7 +1614,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240723/DDqPFoJv/1.jpg",
     "actress": [],
@@ -2005,7 +1629,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240922/JWVdEsJe/1.jpg",
     "actress": [],
@@ -2020,7 +1644,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241018/K27hA9TH/1.jpg",
     "actress": [],
@@ -2035,7 +1659,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/df7616bc962ea0d4414235260b6090ae.jpg",
     "actress": [],
@@ -2050,7 +1674,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/5adf06bf97aae95092c9ea2dd6ea4c6c.jpg",
     "actress": [],
@@ -2065,7 +1689,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250927-1/b6b4b1ae00016a5fc04d6d0d23ba8420.jpg",
     "actress": [],
@@ -2080,7 +1704,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/6cecaf37c73d67c2f7b233c66d5ed5d4.jpg",
     "actress": [],
@@ -2095,7 +1719,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/27b0e5834adf1ee420b0c9424c496c38.jpg",
     "actress": [],
@@ -2110,7 +1734,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/877164ac41706a6476896e0b6b873c1a.jpg",
     "actress": [],
@@ -2125,7 +1749,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/f07cb5d0f469fd370fe7433c47be45b3.jpg",
     "actress": [],
@@ -2140,7 +1764,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2155,7 +1779,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/20251001/uI0cIHGf/1.jpg",
     "actress": [],
@@ -2170,7 +1794,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250709-1/cb9554965d9743c2cc9f5de59be1dbba.jpg",
     "actress": [],
@@ -2187,13 +1811,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/57107_cover_2025-07-02_001507.jpg",
     "actress": [],
@@ -2208,13 +1826,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190925-1/e46d64b880d2cdc737a21b5191761769.jpg",
     "actress": [],
@@ -2228,20 +1840,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
       "纪录片",
-      "素人作品",
       "手淫",
-      "精选，综合"
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/076a598585c67761395fa284f6604f38.jpg",
     "actress": [
@@ -2264,13 +1870,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200925-1/65e52c91fb99829f2240b3787be3883f.jpg",
     "actress": [],
@@ -2285,13 +1885,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200925-1/062a34d3e7ec1b6d28b1b24ab30e2c10.jpg",
     "actress": [],
@@ -2306,13 +1900,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200924-1/604cca2bda7436c498dbc2aa6d1b9128.jpg",
     "actress": [],
@@ -2327,13 +1915,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200814-1/49bfd7176917ee27aa37f576538fa57f.jpg",
     "actress": [],
@@ -2348,13 +1930,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200814-1/87a6cb930aedbd9001d314d7ecd2a498.jpg",
     "actress": [],
@@ -2368,20 +1944,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "内衣",
-      "自慰",
-      "乳交",
       "口交",
-      "手淫"
+      "乳交",
+      "手淫",
+      "自慰",
+      "内衣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b295872eaeb9ac169cfc7f303eb42ec1.jpg",
     "actress": [
@@ -2404,19 +1974,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "足交",
       "口交",
       "手淫",
+      "足交",
       "淫语"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/af33a51102190ebe6f1819825232e8b5.jpg",
     "actress": [
@@ -2433,7 +1997,7 @@ window.PAGE_DATA = [
   {
     "id": 538203,
     "IDcode": "AGMX-115",
-    "title": "[] 最高乳と最高尻を弄ぶぬるてか升天オイルマッサージ",
+    "title": "最高乳と最高尻を弄ぶぬるてか升天オイルマッサージ",
     "year": "",
     "country": "",
     "genre": "",
@@ -2441,13 +2005,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/agmx115pl.jpg!320x216.jpg",
     "actress": [],
@@ -2462,13 +2020,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5e6f271919aec20aa54728ffc08574aa.jpg",
     "actress": [],
@@ -2483,13 +2035,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250410/e1tY7a2G/1.jpg",
     "actress": [],
@@ -2504,13 +2050,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250410/9i158j8o/1.jpg",
     "actress": [],
@@ -2525,13 +2065,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250410/JjbdIx3g/1.jpg",
     "actress": [],
@@ -2546,13 +2080,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/02dd1d21f18a26b3fe6bdb8b0d035d87.jpg",
     "actress": [],
@@ -2567,13 +2095,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230423/QUXS38tz/1.jpg",
     "actress": [],
@@ -2588,13 +2110,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230424/7fN4LgdE/1.jpg",
     "actress": [],
@@ -2609,13 +2125,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/tR21JqUN/1.jpg",
     "actress": [],
@@ -2630,13 +2140,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/3NEiJHij/1.jpg",
     "actress": [],
@@ -2651,13 +2155,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230626/A1OYycLQ/1.jpg",
     "actress": [],
@@ -2672,13 +2170,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230626/o0HUsA9X/1.jpg",
     "actress": [],
@@ -2693,13 +2185,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230626/VaD5z9xp/1.jpg",
     "actress": [],
@@ -2714,13 +2200,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2735,13 +2215,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230724/7eB3BVNN/1.jpg",
     "actress": [],
@@ -2756,13 +2230,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2777,13 +2245,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/zmrRsQPk/1.jpg",
     "actress": [],
@@ -2798,13 +2260,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/lBE6Zwts/1.jpg",
     "actress": [],
@@ -2819,13 +2275,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/ELHZYDv6/1.jpg",
     "actress": [],
@@ -2840,16 +2290,40 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230924/MOdKPpp7/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-157"
+  },
+  {
+    "id": 548060,
+    "IDcode": "AGMX-158",
+    "title": "着衣尻ザーメンぶっかけ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230924/SlOfLBT6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-158"
+  },
+  {
+    "id": 548061,
+    "IDcode": "AGMX-159",
+    "title": "腋颜面圧迫手コキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230924/85duuCyg/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-159"
   }
 ];

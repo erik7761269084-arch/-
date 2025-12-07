@@ -99,7 +99,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2021-12-09",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/bf446ec73e39ec0dda817b4da7546119.jpg",
       "actress": [

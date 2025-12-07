@@ -192,7 +192,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2020-03-13",
       "cover_url": "",
       "actress": [
@@ -366,7 +366,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/3e8f6c6816d2ba62ef9cbae86f41e4f8.jpg",
       "actress": [

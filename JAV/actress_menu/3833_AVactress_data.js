@@ -280,7 +280,7 @@ window.actressData = {
     {
       "id": 591543,
       "IDcode": "DOCP-214",
-      "title": "内射家庭主妇 【】",
+      "title": "内射家庭主妇",
       "year": "",
       "country": "",
       "genre": "",
@@ -462,7 +462,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/df366a7efd6ed4d4f39dcefc28edfed7.jpg",
       "actress": [

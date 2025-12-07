@@ -172,7 +172,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-05-16",
       "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/53093c63635e9cecbc90cf89a1e9b8f8.jpg",
       "actress": [

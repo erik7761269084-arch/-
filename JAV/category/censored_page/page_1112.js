@@ -1,31 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 565533,
-    "IDcode": "SAN-080",
-    "title": "结婚生活のストレスでノイローゼになり身も心もやさぐれて廃人になった巨乳妻 浜崎真绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d6c32dcc2a36fd715272018d89f93053.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-080"
-  },
-  {
-    "id": 565532,
-    "IDcode": "SAN-081",
-    "title": "家赁が支払えず鬼畜大家に体を捧げ身も心もやさぐれて廃人になった人妻 有马美玖",
+    "id": 224778,
+    "IDcode": "SDDE-562",
+    "title": "人妻女排队员们",
     "year": "",
     "country": "",
     "genre": "",
@@ -33,2804 +10,1964 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/22d20f74a40987eb56b6a609d7690165.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-081"
-  },
-  {
-    "id": 565531,
-    "IDcode": "SAN-082",
-    "title": "义理の息子にレ●プされ精子中毒の奴●になった継母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/188579d3a4edce59dc079cd72e5ee323.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-082"
-  },
-  {
-    "id": 565530,
-    "IDcode": "SAN-083",
-    "title": "借金を残した旦那が拉致られ蒸発し风俗に売り飞ばされる人妻 千叶あやめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca6cffdc06ccf6307a0498fbb846ae60.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-083"
-  },
-  {
-    "id": 167394,
-    "IDcode": "SAN-092",
-    "title": "姨妈与侄子的汗水激情性爱-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230812/h_796san092pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-092"
-  },
-  {
-    "id": 544364,
-    "IDcode": "SAN-099",
-    "title": "名前も知らない寝取り男の体を求める黒髪ロングヘアーの巨乳奥さん 高瀬りな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/SuTXwBOp.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-099"
-  },
-  {
-    "id": 592842,
-    "IDcode": "SAN-103",
-    "title": "総集编アブナイ素人バレなきゃいいの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic54.anzise.com/pic/20230508/e5707b0d6388cbaaad1e1701ed2590ed/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-103"
-  },
-  {
-    "id": 535227,
-    "IDcode": "SAN-105",
-    "title": "访问贩売员から入手した怪しげな媚薬で精神崩壊して廃人になった巨乳妻 _ 新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230513/qHcdO2B1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-105"
-  },
-  {
-    "id": 549189,
-    "IDcode": "SAN-106",
-    "title": "媚薬の代金を体で払いすぎて廃人になってしまった爆乳妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230513/tqGXXdwM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-106"
-  },
-  {
-    "id": 549179,
-    "IDcode": "SAN-107",
-    "title": "行き过ぎた过保护が原因で新しい爱の形を见つけてしまった后妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230515/laqP1dB1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-107"
-  },
-  {
-    "id": 549186,
-    "IDcode": "SAN-108",
-    "title": "义理の兄に弱みを握られて言いなりになり精神に支障をきたし廃人になった巨乳妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/12e5iJ1G/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-108"
-  },
-  {
-    "id": 535226,
-    "IDcode": "SAN-109",
-    "title": "再就职を愿う夫の为にカラダを捧げどんな凌●行为にも耐える健気な人妻 _ 结城りの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/gatwRPfK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-109"
-  },
-  {
-    "id": 549185,
-    "IDcode": "SAN-110",
-    "title": "夫妇生活のストレスでいけない媚薬に手を出してしまい廃人になった人妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/2CVPwqFD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-110"
-  },
-  {
-    "id": 549184,
-    "IDcode": "SAN-111",
-    "title": "离婚した夫の友人は大学时代の元恋人。开けてはいけないパンドラの箱を开け堕ちてしまったくびれ际立つ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/a6nTqbWh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-111"
-  },
-  {
-    "id": 549183,
-    "IDcode": "SAN-112",
-    "title": "义父の五十路チ○ポに魅了されてしまい三下り半を突き付けられた人妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/q6RP7ptH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-112"
-  },
-  {
-    "id": 549182,
-    "IDcode": "SAN-113",
-    "title": "もう、私を开放して…。たった一度の过ちで人生のどん底に堕ちてしまった人妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/r6MvXdiI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-113"
-  },
-  {
-    "id": 549181,
-    "IDcode": "SAN-114",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/AUwo8UKP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-114"
-  },
-  {
-    "id": 89833,
-    "IDcode": "SAN-127",
-    "title": "妻をピザ屋の配達員に寝取らせて快楽を得る変態夫とその快楽に堕ちてしまった淫乱美巨乳妻 / 三田サクラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-562"
   },
   {
-    "id": 89841,
-    "IDcode": "SAN-128",
-    "title": "【FANZA限定】近所の畜生男に不倫がバレた色ボケ不貞妻は拘束具を付けたまま犯●れ穢されそして壊れてしまう / 緒川はる パンティとチェキ付き",
+    "id": 156262,
+    "IDcode": "SDDE-564",
+    "title": "做飯洗衣服幫9個兒子處理性慾和丈夫連續做愛38山口菜穗",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/E5iXR5ng/1.jpg",
-    "actress": [
-      "緒川春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-128"
-  },
-  {
-    "id": 89832,
-    "IDcode": "SAN-129",
-    "title": "【FANZA限定】親友の奥さんに筆おろしされたら僕のチ●コがよかったみたいで旦那と別れて結婚しました。 / 香澄せな パンティ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/5tjxbSnX/1.jpg",
-    "actress": [
-      "香澄せな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-129"
-  },
-  {
-    "id": 89831,
-    "IDcode": "SAN-130",
-    "title": "【FANZA限定】義父との不倫セックスでストレスを発散する巨乳妻はそのままの勢いで義父の命を散らせてしまう / 伊織羽音 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/67472b2fa7067e9cf9cae52c24e53914.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240926-1/e55c77108ac06183b067b933d7699d43.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-564"
   },
   {
-    "id": 89966,
-    "IDcode": "SAN-131",
-    "title": "どうしようもない男と結婚したせいで義父に犯●れ壊れてしまった巨乳妻 大原あむ",
+    "id": 70667,
+    "IDcode": "SDDE-566",
+    "title": "射精依存改善治療センター2 自宅出張編 射精したくて我慢できない絶倫ち○ぽをサポートします",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "戏剧",
-      "多P",
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
-      "女教师",
-      "素人作品",
-      "巨乳",
-      "故事集",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/V1pdL1XM/1.jpg",
-    "actress": [
-      "绀野沙织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-131"
-  },
-  {
-    "id": 89938,
-    "IDcode": "SAN-132",
-    "title": "メンエス健全店でストーカーの男に媚薬を飲まされ完堕ちした人妻嬢 朝日まこと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "人妻",
-      "戏剧",
-      "多P",
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
+      "口交",
       "护士",
+      "颜射",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7864df00d84c16ddbc9388c23567dc0a.jpg",
+    "actress": [
+      "美谷朱里",
+      "山井すず",
+      "桥本丽华"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-566"
+  },
+  {
+    "id": 70668,
+    "IDcode": "SDDE-567",
+    "title": "痴汉偶像女团的小姐姐们一边被抽插一边努力练习和接待粉丝",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妄想",
+      "乱伦",
+      "潮吹",
+      "中出",
+      "艺人",
+      "企画",
+      "立即口交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b1fc128d476183fecd3286eb2ebca0df.jpg",
+    "actress": [
+      "葵玲奈",
+      "神野雛",
+      "桃尻かのん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-567"
+  },
+  {
+    "id": 191538,
+    "IDcode": "SDDE-570",
+    "title": "乳交天堂一体化的饭店巨乳服务员的贴身私密服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678747995d57b64bfdda727f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-570"
+  },
+  {
+    "id": 68508,
+    "IDcode": "SDDE-571",
+    "title": "射精管理女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "业余",
+      "中出",
       "素人作品",
-      "巨乳",
-      "单体作品"
+      "猎艳",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/gGvtAi2x/1.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/438e6a81ea44ae2a4fe4b90a272ef4f6.jpg",
     "actress": [
-      "朝日まこと"
+      "葵玲奈",
+      "仓木诗织",
+      "生田みく"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-571"
   },
   {
-    "id": 89969,
-    "IDcode": "SAN-133",
-    "title": "信じていた妻の裏切りを目撃した夫は異次元の興奮を覚え新たな性癖が目覚めてしまう 日々樹梨花",
+    "id": 579121,
+    "IDcode": "SDDE-573",
+    "title": "“制服・下着・全裸”でおもてなし またがりオマ○コ航空 10 豪华CA揃い 特别リクエスト企画＋総集编 280分スペシャル便！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "校服",
-      "荡妇",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "素人作品",
-      "巨乳",
-      "单体作品",
-      "高中女生"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/4c1018c30e159aa796049b48a550cf90.jpg",
-    "actress": [
-      "日々樹梨花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-133"
-  },
-  {
-    "id": 89970,
-    "IDcode": "SAN-134",
-    "title": "【FANZA限定】夫のために…悪質雇主の性玩具にされたムチムチ爆乳家政婦妻は決して逃げる事が出来ない地獄に堕ちる / 月見伊織 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/1d30fdf29b6d87a1918005d58ff42519.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/d7ea6da29b341f1b045131f9799e150e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-573"
   },
   {
-    "id": 89937,
-    "IDcode": "SAN-135",
-    "title": "【FANZA限定】親友の妻は昔の元カノ。夫の目を盗んで元カレを誘惑する巨乳妻 / 南ゆうな チェキ付き",
+    "id": 165646,
+    "IDcode": "SDDE-574",
+    "title": "男装纽约分店",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/o1o4Dp1J/1.jpg",
-    "actress": [
-      "南ゆうな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-135"
-  },
-  {
-    "id": 89939,
-    "IDcode": "SAN-136",
-    "title": "【FANZA限定】料理の動画配信が趣味な美人妻が巨根ファンに凸られ寝取られ信じていた夫にも棄てらてしまった悲劇 / 遥奈杏美 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/YXCAbymr/1.jpg",
-    "actress": [
-      "遥奈杏美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-136"
-  },
-  {
-    "id": 89936,
-    "IDcode": "SAN-137",
-    "title": "夫の仏前で男二人に犯●れる未亡人三人のセックス150分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/jk6LhADd/1.jpg",
-    "actress": [
-      "松本痲里奈",
-      "松嶋友里恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-137"
-  },
-  {
-    "id": 89958,
-    "IDcode": "SAN-138",
-    "title": "夫婦で温泉旅行に出かけたら夫が近くにいるのに知らない人にイヤらしいコトされました250分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/u8ZyPgaG/1.jpg",
-    "actress": [
-      "佐佐木明希",
-      "京野美丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-138"
-  },
-  {
-    "id": 89963,
-    "IDcode": "SAN-139",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス9 230分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/17WpcyKo/1.jpg",
-    "actress": [
-      "儿玉玲奈",
-      "爱须みのん",
-      "宫崎リン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-139"
-  },
-  {
-    "id": 89967,
-    "IDcode": "SAN-140",
-    "title": "【FANZA限定】お金のために成金オヤジにセックス動画を記録撮影される幼妻 / 市井結夏 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "平胸",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "市井結夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-140"
-  },
-  {
-    "id": 89972,
-    "IDcode": "SAN-141",
-    "title": "【FANZA限定】夫の暴力に耐えきれず、縋る思いで頼った親方には身体を弄ばれて身も心もやさぐれて廃人になった人妻 / 望月あやか パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "药物",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/405dad25de52c456383715fae0725d13.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-141"
-  },
-  {
-    "id": 89971,
-    "IDcode": "SAN-142",
-    "title": "レ●プの美学 女どもの悲鳴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "户外",
-      "凌辱",
-      "多P",
-      "业余",
-      "按摩棒",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2000-11-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/13a170195b7011322bb3504193721fcf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-142"
-  },
-  {
-    "id": 89960,
-    "IDcode": "SAN-143",
-    "title": "【FANZA限定】夫の出世のために上司をハニトラにかけたら他人の子供を妊娠してしまった美人妻 / 岬さくら パンティ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/elKS8c4c/1.jpg",
-    "actress": [
-      "岬櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-143"
-  },
-  {
-    "id": 89974,
-    "IDcode": "SAN-144",
-    "title": "【FANZA限定】会社の上司に媚薬を飲まされ完堕ちしたイキっぷりが素晴らしすぎる妻 / 美空みく パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/aa3c2d949b9af655c488deb0ff5ebfb2.jpg",
-    "actress": [
-      "美空",
-      "美空みく"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-144"
-  },
-  {
-    "id": 89964,
-    "IDcode": "SAN-145",
-    "title": "【FANZA限定】夫の後輩は●校時代に憧れていた先輩！？久々の再会で芽生えた感情を抑えることが出来ず卑しい女に成り下がった人妻 / 南條みや子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/cMskz9g2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-145"
-  },
-  {
-    "id": 89959,
-    "IDcode": "SAN-146",
-    "title": "【FANZA限定】パチンコにハマり負けまくった負債を援助してくれる常連の男にいつの間にかハマってしまった人妻熟女 / 大島未華子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/Uh9V33N7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-146"
-  },
-  {
-    "id": 89975,
-    "IDcode": "SAN-147",
-    "title": "【FANZA限定】酒に溺れ不倫チンポにも溺れ気が付けば全てを失ってしまった哀れな女の物語 / 高園ゆり子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/dece894e96d2ccfc83867c071766f5a9.jpg",
-    "actress": [
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-147"
-  },
-  {
-    "id": 89973,
-    "IDcode": "SAN-148",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス10 240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/25e82dd20322d0c865ec53a13e3cff26.jpg",
-    "actress": [
-      "碓冰莲",
-      "伊藤くるみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-148"
-  },
-  {
-    "id": 89930,
-    "IDcode": "SAN-149",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス11 280分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/IIAvFzjk/1.jpg",
-    "actress": [
-      "宫泽千春",
-      "大島愛里亞",
-      "新村晶",
-      "平川琴菜",
-      "宫崎リン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-149"
-  },
-  {
-    "id": 89957,
-    "IDcode": "SAN-150",
-    "title": "最近妻子的样子有些奇怪-大槻响",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-150"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-574"
   },
   {
-    "id": 89976,
-    "IDcode": "SAN-151",
-    "title": "【FANZA限定】夫が作った莫大な借金を返済するため自分の身を売り性に覚醒した美人妻 / 百永さりな パンティとチェキ付き",
+    "id": 165642,
+    "IDcode": "SDDE-575",
+    "title": "专门为性欲异常的病人们提供内射治疗的人妻护士们的工作日常采访记录",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/mdZFpDyB/1.jpg",
-    "actress": [
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-151"
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-575"
   },
   {
-    "id": 89961,
-    "IDcode": "SAN-152",
-    "title": "まんぐりベストコレクション",
+    "id": 70764,
+    "IDcode": "SDDE-576",
+    "title": "美少年女体化-枢木あおい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "内衣",
-      "按摩棒",
-      "成熟的女人",
+      "素人作品",
+      "调教",
+      "滥交",
+      "制服",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8feb28159fe5ab522e3950604db2bb9f.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-576"
+  },
+  {
+    "id": 98645,
+    "IDcode": "SDDE-577",
+    "title": "洗脳ドリル ～ふたなり肉体改造化された正義の味方、女弁護士が女性被害者とレズ洗脳プレイ～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "双性人",
+      "催眠",
+      "企画",
       "女同性恋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2000-12-15",
-    "cover_url": "https://tuaskbgnekr.com/20231122/hYx7Dw3n/1.jpg",
+    "company": "SOD",
+    "publish_date": "2019-02-21",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3abaa4e4e449ab3520c0b1f4ccbc12c8.jpg",
     "actress": [
-      "嶋田爱子",
-      "寺田美由纪",
-      "白石雪",
-      "白石美树"
+      "葵玲奈",
+      "纱々原ゆり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-152"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-577"
   },
   {
-    "id": 89965,
-    "IDcode": "SAN-153",
-    "title": "THE 盗撮 プライベートを覗いたれ！！",
+    "id": 1655,
+    "IDcode": "SDDE-578",
+    "title": "主持新聞節目中抽搐~做愛 也能從容讀稿的女播音員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女主持・主播",
+      "潮吹",
+      "企畫",
+      "素人作品",
+      "放尿",
+      "無碼流出"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/20230403081051439439.jpg",
+    "actress": [
+      "黑川堇",
+      "富田优衣",
+      "君野步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-578"
+  },
+  {
+    "id": 595245,
+    "IDcode": "SDDE-580",
+    "title": "在虚拟世界能够化身美少女肉体的ＡＶ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5a8eee9947793750db4840939e4b3eee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-580"
+  },
+  {
+    "id": 565516,
+    "IDcode": "SDDE-581",
+    "title": "真的存在能暂停时间的男人～侵犯所有在公司里让人火大的女人的中出干翻篇！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1eb83dc05b2e673a0d2366bd943b9153.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-581"
+  },
+  {
+    "id": 97752,
+    "IDcode": "SDDE-582",
+    "title": "緊急救命〔即ハメ〕性交センター",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "护士",
-      "业余",
+      "纪录片",
+      "女医生",
+      "企画",
+      "立即口交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-05-09",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdde582/1sdde582pl.jpg",
+    "actress": [
+      "大浦真奈美",
+      "安部未華子",
+      "妃月るい",
+      "成宫いろは"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-582"
+  },
+  {
+    "id": 70657,
+    "IDcode": "SDDE-583",
+    "title": "【擬人化 AV】僕のスマホが敏感な女の子になってしまったのだが 加藤ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "单体作品",
+      "恋物癖",
+      "中出",
+      "无码流出",
+      "处男",
       "自慰",
-      "偷窥"
+      "素人作品",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
+    "company": "SOD",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/339b53c1b1c51ec9805b8d2ec587983c.jpg",
+    "actress": [
+      "加藤桃香"
     ],
-    "publish_date": "2000-12-15",
-    "cover_url": "https://tuaskbgnekr.com/20231122/xAZh6Kt6/1.jpg",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-583"
+  },
+  {
+    "id": 224634,
+    "IDcode": "SDDE-585",
+    "title": "名門女子大生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/722c3c66a1e878a2d3d8ae9c0837f73e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-585"
   },
   {
-    "id": 89962,
-    "IDcode": "SAN-154",
-    "title": "【FANZA限定】マッドドクターに中出しされ誰の子かわからない子供を妊娠した妻 / 千石もなか パンティとチェキ付き",
+    "id": 194324,
+    "IDcode": "SDDE-586",
+    "title": "性交医院的新人护士们的任务就是随便用什么方法取出病人们的精液进行检查",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782a86af9a2e9b1d486bfab/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-586"
+  },
+  {
+    "id": 73740,
+    "IDcode": "SDDE-587",
+    "title": "即将结婚的社长千金",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "凌辱",
+      "催眠",
       "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
+      "企画",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-01",
-    "cover_url": "https://tuaskbgnekr.com/20231122/QqeM8Glc/1.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "千石もなか"
+      "通野未帆",
+      "仓多真央",
+      "持田栞里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-154"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-587"
   },
   {
-    "id": 89931,
-    "IDcode": "SAN-155",
-    "title": "【FANZA限定】フードデリバリーの童貞君を騙して金を取るつもりが逆襲された美人局妻 / 安達ゆら パンティとチェキ付き",
+    "id": 208682,
+    "IDcode": "SDDE-588",
+    "title": "洗脳ドリル 学校編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad64a55337d7f7be494eb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-588"
+  },
+  {
+    "id": 70352,
+    "IDcode": "SDDE-589",
+    "title": "性欲処理-加藤沙季",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
+      "口交",
+      "乱伦",
+      "中出",
+      "素人作品",
+      "母亲",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/JYU6pK31/1.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/03bf9aeaf9d30727158e3f91db6a0fae.jpg",
     "actress": [
-      "安達ゆら"
+      "加藤沙季"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-589"
   },
   {
-    "id": 89951,
-    "IDcode": "SAN-156",
-    "title": "过于严酷的社会现实-藤井蕾拉",
+    "id": 70661,
+    "IDcode": "SDDE-590",
+    "title": "全裸婚活パーティー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
+      "口交",
+      "羞耻",
+      "素人作品",
+      "滥交",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/95486545d41d2fdb4e2571bd40c5eee8.jpg",
+    "actress": [
+      "加藤あやの",
+      "卯水咲流",
+      "井上綾子",
+      "纱々原ゆり"
     ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-590"
+  },
+  {
+    "id": 97814,
+    "IDcode": "SDDE-591",
+    "title": "SEISHIDO デパートで働くセクシーな赤い口紅の美容部員の生フェラごっくんサービス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "性感的",
+      "素人作品",
+      "制服",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆",
+      "妃月るい",
+      "成宫いろは",
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-591"
+  },
+  {
+    "id": 74013,
+    "IDcode": "SDDE-592",
+    "title": "部屋結界～この中だったら僕の思い通りイヒ！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "吞精",
+      "催眠",
+      "淫乱，真实",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e55b289def9b1b8c7b6e6/cover.jpg",
+    "actress": [
+      "仓多真央",
+      "枢木葵",
+      "三原穗香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-592"
+  },
+  {
+    "id": 165643,
+    "IDcode": "SDDE-593",
+    "title": "接受专业培训的护士们专门用来应对那些性欲旺盛无法控制自己的病人们",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782b78cf9a2e9b1d486c007/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-593"
+  },
+  {
+    "id": 565514,
+    "IDcode": "SDDE-594",
+    "title": "没有在意插入的蕾丝情侣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1b56e51cd0068fc94d191f3d8fbfa9e7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-594"
+  },
+  {
+    "id": 70666,
+    "IDcode": "SDDE-595",
+    "title": "筋肉女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肌肉",
+      "中文字幕",
+      "运动",
+      "素人作品",
+      "女上位",
+      "战斗行动"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ef377b18252ff6e7c14857a625bb20ee.jpg",
+    "actress": [
+      "藤白桃羽",
+      "戸川夏也",
+      "佐久间恵美",
+      "沢原佑香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
+  },
+  {
+    "id": 165388,
+    "IDcode": "SDDE-596",
+    "title": "「制服・下着・全裸」でおもてなし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d682a89def9b1b8c3697d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-596"
+  },
+  {
+    "id": 465965,
+    "IDcode": "SDDE-597",
+    "title": "隨插即上比基尼按摩 8 下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbe485ce5a404e9bc1afe5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-597"
+  },
+  {
+    "id": 165390,
+    "IDcode": "SDDE-599",
+    "title": "SHASEIDO 精液・唾液オイル配合 ぶっかけ美容スキンケア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-599"
   },
   {
-    "id": 89921,
-    "IDcode": "SAN-157",
-    "title": "【FANZA限定】家賃が工面できず鬼畜大家に体を捧げ身も心もやさぐれて廃人になった人妻 / 美波こづえ パンティとチェキ付き",
+    "id": 565513,
+    "IDcode": "SDDE-600",
+    "title": "性交总合大学医院 11",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "药物",
-      "单体作品"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-07-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/b3ae2b683f59af528e2511c5e1c2b49d.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9952723a1fa27066c4001fc4a7771376.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-600"
   },
   {
-    "id": 89934,
-    "IDcode": "SAN-158",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス12 250分サブタイトル 巨乳すぎる奥様編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/1e8VsNE2/1.jpg",
-    "actress": [
-      "美園和花",
-      "吉根柚莉爱",
-      "瀨名光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-158"
-  },
-  {
-    "id": 89903,
-    "IDcode": "SAN-159",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス13 260分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-07-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/f110178e47b879bedc5bfc68d62a5dbe.jpg",
-    "actress": [
-      "姫咲華",
-      "三岳祐奈",
-      "七草千歲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-159"
-  },
-  {
-    "id": 89943,
-    "IDcode": "SAN-160",
-    "title": "【FANZA限定】人の良さそうな外国人に拉致監禁され飲まず食わずで犯●れる人妻 / 浜崎真緒 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://tuaskbgnekr.com/20231122/iByCNyGa/1.jpg",
-    "actress": [
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-160"
-  },
-  {
-    "id": 18852,
-    "IDcode": "SAN-161",
-    "title": "對婚姻生活不滿意的年輕妻子與前男友重逢，瞬間火冒三丈/Yuka Ichii",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "慾求不滿"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20230901/20230831235916234234.jpg",
-    "actress": [
-      "市井結夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-161"
-  },
-  {
-    "id": 89954,
-    "IDcode": "SAN-162",
-    "title": "【FANZA限定】エアコン修理業者に拉致監禁され行方不明になった巨乳妻 / 美丘さとみ パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://tuaskbgnekr.com/20231122/bsSM70SR/1.jpg",
-    "actress": [
-      "爱花みちる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-162"
-  },
-  {
-    "id": 89952,
-    "IDcode": "SAN-163",
-    "title": "醜態熟女 ぐちゅぐちゅ大乱舞",
+    "id": 77351,
+    "IDcode": "SDDE-601",
+    "title": "潜入！ メス獣ナイトサファリ ―男性器をヴァギナで",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "荡妇",
-      "多P",
-      "内衣",
-      "业余",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-01-15",
-    "cover_url": "https://tuaskbgnekr.com/20231122/63fdaAXI/1.jpg",
-    "actress": [
-      "原田なつみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-163"
-  },
-  {
-    "id": 89935,
-    "IDcode": "SAN-164",
-    "title": "【FANZA限定】セックス依存症の熟女人妻は夫に隠れ近所の男性を誘惑してセックスへと導く / 姫川礼子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://tuaskbgnekr.com/20231122/cGppfs4q/1.jpg",
-    "actress": [
-      "姫川礼子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-164"
-  },
-  {
-    "id": 89942,
-    "IDcode": "SAN-165",
-    "title": "【FANZA限定】酒に溺れ旦那にも愛想をつかされ隣人男に依存するしかなくなった哀れな女の物語 / 美原すみれ パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://tuaskbgnekr.com/20231122/b7T5Qsln/1.jpg",
-    "actress": [
-      "美原すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-165"
-  },
-  {
-    "id": 89947,
-    "IDcode": "SAN-166",
-    "title": "まだまだ現役！レジェンドオブレジェンド小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/7fd30afb26da38a97f86f1bc092d762e.jpg",
-    "actress": [
-      "小早川怜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-166"
-  },
-  {
-    "id": 89956,
-    "IDcode": "SAN-167",
-    "title": "美神降臨！これが史上最高峰女優の競演！北条麻妃＆波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-08-29",
-    "cover_url": "https://xing.sex8sex833.com/20251009/YySniKoX/1.jpg",
-    "actress": [
-      "波多野结衣",
-      "北条麻妃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-167"
-  },
-  {
-    "id": 89945,
-    "IDcode": "SAN-168",
-    "title": "オモチャにしすぎて夫をブッ壊してしまったSっ気が強すぎる人妻 / 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/ef72b9615c71f45b3e204cdf7722d665.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-168"
-  },
-  {
-    "id": 89900,
-    "IDcode": "SAN-169",
-    "title": "【FANZA限定】息子を溺愛しすぎて壊れてしまった母の狂気 / 通野未帆 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/a34d15ff63f85c2815c440fccb2be1ea.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-169"
-  },
-  {
-    "id": 89948,
-    "IDcode": "SAN-170",
-    "title": "【FANZA限定】遊び半分で妻をベットした夫は寝取られに目覚め全てを失い、ベットされた純愛妻は夫を裏切り他人チ〇ポにのめり込む / 仲川そら パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/8c66d42615cfd1bdb93c56420730e940.jpg",
-    "actress": [
-      "仲川空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-170"
-  },
-  {
-    "id": 89946,
-    "IDcode": "SAN-171",
-    "title": "露・出・狂コレクション",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "户外",
-      "放尿",
-      "成熟的女人",
-      "女生",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-02-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/59da260941b0d16c8d52ac24bb2fb49c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-171"
-  },
-  {
-    "id": 89919,
-    "IDcode": "SAN-172",
-    "title": "けがれた淫乱三家族",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "中文字幕",
+      "魔鬼系",
       "淫乱，真实",
-      "婆婆",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7a80135b3832c2cb5ce40a887c066f2.jpg",
+    "actress": [
+      "冬爱琴音",
+      "优木なお",
+      "悠月アイシャ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
+  },
+  {
+    "id": 70415,
+    "IDcode": "SDDE-602",
+    "title": "朝生活-新田みれい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-02-16",
-    "cover_url": "https://xing.sex8sex833.com/20251009/bfXDl7po/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-172"
-  },
-  {
-    "id": 89949,
-    "IDcode": "SAN-173",
-    "title": "女子校生スケベッ娘大図鑑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-02-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/087c9e8fb4cbb428c12483dd4d013482.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-173"
-  },
-  {
-    "id": 89953,
-    "IDcode": "SAN-174",
-    "title": "存在感が桁違い！まさに伝説の女優。とにかく澤村レイコデラックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://xing.sex8sex833.com/20251009/otiIfcJQ/1.jpg",
-    "actress": [
-      "高坂ますみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-174"
-  },
-  {
-    "id": 89932,
-    "IDcode": "SAN-175",
-    "title": "キュートすぎる美魔女！とにかく篠田あゆみデラックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://xing.sex8sex833.com/20251009/4AbBIPeS/1.jpg",
-    "actress": [
-      "篠田步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-175"
-  },
-  {
-    "id": 89902,
-    "IDcode": "SAN-176",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス14 240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-09-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/7dfb359afc739b8a448da8dddad5c336.jpg",
-    "actress": [
-      "冴島翔子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-176"
-  },
-  {
-    "id": 18075,
-    "IDcode": "SAN-177",
-    "title": "貪污了公司錢的人妻，被老闆發現後，被逼無奈只能成為老闆的肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "OL",
-      "脅迫做愛",
-      "欠債肉償",
       "中出",
-      "美乳",
-      "口交",
-      "性感"
+      "第一人称摄影",
+      "美少女电影",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20231101/df56e6ad-8b8c-456b-88b7-c0a62ad3385e.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7894c18419f580c4c5570026ce9e432e.jpg",
     "actress": [
-      "波多野结衣"
+      "新田みれい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-602"
   },
   {
-    "id": 18073,
-    "IDcode": "SAN-178",
-    "title": "注意不要太興奮！ 每次換位置都高潮！ 美白美人妻每次都有驚人的高潮",
+    "id": 83181,
+    "IDcode": "SDDE-604",
+    "title": "性交クリニックファン感謝祭 2019 7性交×ノースキン中出し性交処置×235分SP！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "艷遇",
-      "出軌",
-      "美乳",
+      "护士",
       "中出",
-      "黑絲",
-      "口交",
-      "絕頂高潮"
+      "处男",
+      "素人作品",
+      "感谢祭",
+      "淫语",
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20231101/00291142-9585-464f-bca5-6b464a29f43a.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "月野香澄"
+      "黑川堇",
+      "深田詠美",
+      "八乃翼",
+      "蓮実クレア",
+      "奏音花音",
+      "赤瀬尚子",
+      "雾岛里绪菜",
+      "タツ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-604"
   },
   {
-    "id": 89901,
-    "IDcode": "SAN-179",
-    "title": "【FANZA限定】夫の部下に寝取られて…乳輪は小さいが乳首は大きい巨尻妻が昔感じた悦びを思い出す / 大浦真奈美 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/6c1354fbc2b43baefff715505402b3b4.jpg",
-    "actress": [
-      "大浦真奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-179"
-  },
-  {
-    "id": 89917,
-    "IDcode": "SAN-180",
-    "title": "【FANZA限定】サイコパスな息子にメチャクチャされ言いなりになった爆乳妻 / 菊池まや パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://xing.sex8sex833.com/20251009/ngVVoUYT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-180"
-  },
-  {
-    "id": 18074,
-    "IDcode": "SAN-181",
-    "title": "淫蕩人妻趁著丈夫醉酒，誘惑丈夫的朋友。 極限潮吹極限淫蕩!",
+    "id": 83136,
+    "IDcode": "SDDE-605",
+    "title": "パパママ頑張れ！ぬるぬるローションで仲良し家族対抗イキ我慢選手権！合計中出し9発射！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "潮吹",
-      "人妻",
-      "色誘",
-      "NTR",
-      "艷遇",
-      "勾引・誘惑",
-      "出軌",
       "中出",
-      "巨乳",
-      "口交",
-      "劇情"
+      "素人作品",
+      "乳液",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20231101/843fc021-2c67-4395-beea-823321e8641a.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "辻芽愛里",
-      "辻芽爱里"
+      "天馬唯",
+      "岬梓沙",
+      "神野雛",
+      "星咲凛",
+      "久保今日子",
+      "蓝井优太",
+      "成宫いろは",
+      "瀬戸すみれ",
+      "高瀬智香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-181"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-605"
   },
   {
-    "id": 89950,
-    "IDcode": "SAN-182",
-    "title": "【FANZA限定】隣人に寝取られる押しに弱い天然ゆるふわ系エロ乳輪の巨乳妻 / 宝川莉子 パンティとチェキ付き",
+    "id": 77358,
+    "IDcode": "SDDE-606",
+    "title": "催眠光線で支配された上流家族 史上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "中文字幕",
+      "中出",
+      "素人作品",
       "戏剧",
-      "平胸",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/da00d5dad6a42c97dee9873f2e49245d.jpg",
+    "actress": [
+      "皆月光",
+      "美谷朱里",
+      "凛音とうか"
     ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/a829e3026a94bf91e85b60d699eddb9e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-182"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-606"
   },
   {
-    "id": 89955,
-    "IDcode": "SAN-183",
-    "title": "（総集編） 熟「完・淫・乱」女 新・熟女伝説",
+    "id": 81978,
+    "IDcode": "SDDE-607",
+    "title": "美容部員",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "吞精",
+      "口交",
+      "性感的",
+      "素人作品",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美咲佳奈",
+      "杉咲しずか",
+      "香苗レノン",
+      "鲛岛",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-607"
+  },
+  {
+    "id": 81941,
+    "IDcode": "SDDE-608",
+    "title": "传奇性罗曼蒂克漫画-冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "凌辱",
+      "单体作品",
+      "魔鬼系",
+      "原作改编",
+      "美少女电影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "冬爱琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-608"
+  },
+  {
+    "id": 83156,
+    "IDcode": "SDDE-609",
+    "title": "为了防止人类灭绝的地球防卫军",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "科幻",
+      "主观视角",
+      "女战士",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/57482918384c40bc6314f8dc0dc154f9.jpg",
+    "actress": [
+      "美園和花",
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-609"
+  },
+  {
+    "id": 165641,
+    "IDcode": "SDDE-610",
+    "title": "イキまくりカスタマーサポート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-610"
+  },
+  {
+    "id": 70416,
+    "IDcode": "SDDE-611",
+    "title": "让所有女人都臣服于我的肉棒之下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "中出",
+      "素人作品",
       "淫乱，真实",
-      "捆绑",
-      "按摩棒",
-      "成熟的女人",
-      "女同性恋",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/de03933c2638a6be57c6405e523828ea.jpg",
+    "actress": [
+      "美谷朱里",
+      "岬梓沙",
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-611"
+  },
+  {
+    "id": 220032,
+    "IDcode": "SDDE-612",
+    "title": "三十岁的老处男突然获得了超能力",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/5f21a6be1f58f19261036f678af29e08.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-612"
+  },
+  {
+    "id": 220634,
+    "IDcode": "SDDE-613",
+    "title": "全裸航班上的黑丝空姐们",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-613"
+  },
+  {
+    "id": 579131,
+    "IDcode": "SDDE-614",
+    "title": "女装してお嬢様学校に潜入しようとしたら、间违えて邻の底辺男子校に入ってしまったボク",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-614"
+  },
+  {
+    "id": 82203,
+    "IDcode": "SDDE-615",
+    "title": "洗脳ドリル オフィス編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性感的",
+      "企画",
+      "淫乱，真实",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-03-26",
+    "cover_url": "https://tuaskbgnekr.com/20221126/By41vysK/1.jpg",
+    "actress": [
+      "黑川堇",
+      "小早川怜子",
+      "花宫レイ",
+      "桥本丽华",
+      "海空花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-615"
+  },
+  {
+    "id": 179334,
+    "IDcode": "SDDE-616",
+    "title": "在妻子面前逆反NTR治疗法美女护士重振老公的性能力",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-616"
+  },
+  {
+    "id": 1619,
+    "IDcode": "SDDE-618",
+    "title": "新手女播音员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女主持・主播",
+      "企畫",
+      "無碼流出",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/38cc4605-18c3-42a0-a17a-345545ec05a0.jpg",
+    "actress": [
+      "百永纱里奈",
+      "花宮レイ",
+      "山井鈴香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-618"
+  },
+  {
+    "id": 578922,
+    "IDcode": "SDDE-619",
+    "title": "父亲に家庭内わいせつされてる娘 中城葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-619"
+  },
+  {
+    "id": 436112,
+    "IDcode": "SDDE-621",
+    "title": "催眠搜查官 松本菜奈實",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/4fbb018379df36e5ac19211296fe28f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-621"
+  },
+  {
+    "id": 544310,
+    "IDcode": "SDDE-622",
+    "title": "射精依存改善治疗センター4 射精したくて我慢できない絶伦ち○ぽをサポートします 访问看护编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-622"
+  },
+  {
+    "id": 1656,
+    "IDcode": "SDDE-623",
+    "title": "可愛彼女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "企畫",
+      "自慰",
+      "蕩婦",
+      "姐姐・妹妹",
+      "無碼流出"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6c4703bdfbb34a6f876847e463ab5e73.jpg",
+    "actress": [
+      "美園和花",
+      "天馬唯",
+      "加藤桃香",
+      "葵玲奈",
+      "安部未華子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-623"
+  },
+  {
+    "id": 209256,
+    "IDcode": "SDDE-624",
+    "title": "事故物件留学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-624"
+  },
+  {
+    "id": 222152,
+    "IDcode": "SDDE-627",
+    "title": "心跳挑战-稲場るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-627"
+  },
+  {
+    "id": 531952,
+    "IDcode": "SDDE-628",
+    "title": "亚马逊- 霜月瑠菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/035d8d3849b4b10ac4a7373d7b7dd126.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-628"
+  },
+  {
+    "id": 559828,
+    "IDcode": "SDDE-632",
+    "title": "保持患者手的密切接触女牛仔性治疗密切接触覆盖3天性交诊所护士RinKira-吉良铃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-632"
+  },
+  {
+    "id": 213007,
+    "IDcode": "SDDE-633",
+    "title": "不断的性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/25/c6542c261b179dc4ef3da1659caa296a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-633"
+  },
+  {
+    "id": 156773,
+    "IDcode": "SDDE-634",
+    "title": "喝下洗脑能量饮料後完全奴隶化发情的名媛人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/cdbe8db4d7709b6e49b17bcfe1a5ed5b.jpg",
+    "actress": [
+      "篠田優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-634"
+  },
+  {
+    "id": 210288,
+    "IDcode": "SDDE-635",
+    "title": "洗浴场的女员工-相馬茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-635"
+  },
+  {
+    "id": 69547,
+    "IDcode": "SDDE-636",
+    "title": "炊事・洗濯・性欲処理 10人息子と連続セックス朝生活 綾瀬麻衣子（48）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "已婚妇女",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecdf1f3d9f4f9dd91a75becda7183f7d.jpg",
+    "actress": [
+      "蓝井优太",
+      "绫瀬麻衣子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-636"
+  },
+  {
+    "id": 213016,
+    "IDcode": "SDDE-638",
+    "title": "她已经失禁了还在读稿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/25/496447ecfeaff72b4831d5b9564e4dc3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-638"
+  },
+  {
+    "id": 550769,
+    "IDcode": "SDDE-640",
+    "title": "Remote Control Pussy- Splice This DNA Into The Girl Of Your Dreams And Take Control Of Her - JAV  Porn",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/4f7cfcda845d381c80e083c6cf932da5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-640"
+  },
+  {
+    "id": 220345,
+    "IDcode": "SDDE-641",
+    "title": "真人表演-椿りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-6/32fd845baca3766327f42eb4ca4386b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-641"
+  },
+  {
+    "id": 211806,
+    "IDcode": "SDDE-642",
+    "title": "内衣办公室",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2021/02/26/b123a6eee6c3609deba5ebd5844a8412.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-642"
+  },
+  {
+    "id": 594873,
+    "IDcode": "SDDE-644",
+    "title": "房屋结界×NTR ～这个家全在我的掌控之中！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/rPwBOd9I.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-644"
+  },
+  {
+    "id": 78687,
+    "IDcode": "SDDE-645",
+    "title": "催●・洗脳病院で性奴●化された美人看護師姉妹 愛する妹を救うため潜入した病院で懐柔され絶望の中で犯●れる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "护士",
       "滥交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-03-15",
-    "cover_url": "https://xing.sex8sex833.com/20251009/8CdzmKlH/1.jpg",
+    "company": "SOD",
+    "publish_date": "2021-05-07",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/c1e4c870750e3c2e4ed7a76ce7cf4930.jpg",
     "actress": [
-      "藤森あやか",
-      "宫岛由纪",
-      "徳井唯"
+      "天沢ゆきね",
+      "皆川ゆうな",
+      "吉冈明日海"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-183"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-645"
   },
   {
-    "id": 89906,
-    "IDcode": "SAN-184",
-    "title": "マザーベストセックス6人",
+    "id": 539005,
+    "IDcode": "SDDE-646",
+    "title": "新村あかり- アナル洗脳 5日间で完了する肠活ダイエット、健康にカラダも再生して一石二鸟のアナル调教",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "美園和花",
-      "木下日葵",
-      "吉根柚莉爱",
-      "高瀬りな",
-      "瀨名光",
-      "凪泽诗音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-184"
-  },
-  {
-    "id": 89929,
-    "IDcode": "SAN-185",
-    "title": "息子の性奴●にされた4人の義母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "青木美空",
-      "音无かおり",
-      "早瀬和香",
-      "仲间丽奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-185"
-  },
-  {
-    "id": 89897,
-    "IDcode": "SAN-186",
-    "title": "義母の誘惑イケナイ関係260分5家族",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "运动短裤",
-      "玩具",
-      "平胸",
-      "4小时以上作品",
-      "中出",
-      "美少女电影",
-      "故事集",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-10-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/0c452c5e3d2e87121c99fc2d8a861b82.jpg",
-    "actress": [
-      "松本痲里奈",
-      "青木美空",
-      "立花沙耶",
-      "しずく",
-      "宇佐美なな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
-  },
-  {
-    "id": 89610,
-    "IDcode": "SAN-187",
-    "title": "【FANZA限定】DV夫から救ってくれた隣人男性とイイ感じになるも…実は夫以上のDV野郎だった！？何とも男を見る目が無い爆乳人妻の物語 / 織田真子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e692a6ac8bc3313de6d4a14485e6f81b.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-187"
-  },
-  {
-    "id": 89637,
-    "IDcode": "SAN-188",
-    "title": "【FANZA限定】夫の出世のために鬼畜興信所員に渋々体を捧げる絶潮巨乳人妻がいつの間にか不倫チ●ポに堕とされるお話 / 皇ゆず パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/d151705200126b28173f7efbf82e6a3e.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250407/RxmAaJNv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-646"
   },
   {
-    "id": 89630,
-    "IDcode": "SAN-189",
-    "title": "【FANZA限定】インチキ医師に寝取られて子供返りしてチ●ポ狂いになった美人妻 / 皆瀬あかり パンティとチェキ付き",
+    "id": 212790,
+    "IDcode": "SDDE-647",
+    "title": "果汁女仆咖啡馆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-647"
+  },
+  {
+    "id": 214502,
+    "IDcode": "SDDE-649",
+    "title": "超薄避孕套测",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-649"
+  },
+  {
+    "id": 530575,
+    "IDcode": "SDDE-651",
+    "title": "～欢迎来到属于我的淫乱女学院！ ～将清纯女学生变为淫乱女子的洗脑支配 - 美咲佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250221-1/844ba6e3fdc9967f3b1deb46b227032f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-651"
+  },
+  {
+    "id": 77618,
+    "IDcode": "SDDE-653",
+    "title": "能停止时间的男人-八乃翼 稻场流花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "乳房",
-      "单体作品"
+      "中出",
+      "学校作品",
+      "企画",
+      "高中女生"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20231208/TLCNIWKH/1.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6bc389def9b1b80dc510/cover.jpg",
     "actress": [
-      "ミチくん",
-      "ふれんち"
+      "星仲ここみ",
+      "八乃翼",
+      "もなみ铃",
+      "稻场流花",
+      "白桃はな",
+      "柏木あみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-653"
   },
   {
-    "id": 17566,
-    "IDcode": "SAN-190",
-    "title": "沉迷於矽膠雞巴的放蕩大奶人妻",
+    "id": 79713,
+    "IDcode": "SDDE-655",
+    "title": "【お盆限定 性欲発散】夏の田舎の爆乳おねえさん性欲発散日記",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
+      "巨乳",
+      "流汗",
       "乳交",
-      "出軌",
-      "中出",
-      "蕩婦",
+      "戏剧",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/iXKWs7RS.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-655"
+  },
+  {
+    "id": 215571,
+    "IDcode": "SDDE-656",
+    "title": "即使失禁也淡定读稿的女播音员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841a6d441a147ed1a6298ee/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-656"
+  },
+  {
+    "id": 80301,
+    "IDcode": "SDDE-659",
+    "title": "流行广播电台",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "口交",
-      "巨乳",
-      "劇情"
+      "手淫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/fc2c7b69-f309-4a0b-831f-a27afca6f89d.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/e9e73ce72626da93e669b53c71ec6c39.jpg",
     "actress": [
-      "仲川空",
-      "輝大"
+      "小栗操",
+      "大浦真奈美",
+      "葵玲奈",
+      "八乃翼",
+      "纱々原ゆり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-190"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-659"
   },
   {
-    "id": 89614,
-    "IDcode": "SAN-191",
-    "title": "【FANZA限定】義父に旦那の誘い方を教わったらヤラれてしまい妊娠した幼妻 / 雅子りな パンティとチェキ付き",
+    "id": 80539,
+    "IDcode": "SDDE-660",
+    "title": "洗脳ドリル 美人女子プロゴルファー編",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "单体作品"
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/26faaa80eff1503fbe23d72b7f43556e.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20bbadb8c77d79bb6964e/cover.jpg",
     "actress": [
-      "雅子裡菜"
+      "推川悠里",
+      "凛音とうか",
+      "黑川纱里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-191"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-660"
   },
   {
-    "id": 89635,
-    "IDcode": "SAN-192",
-    "title": "（総集編） 人妻が垂らした汁コレクション",
+    "id": 216591,
+    "IDcode": "SDDE-661",
+    "title": "浣腸大噴射-望月あやか",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "潮吹",
-      "户外",
-      "人妻",
-      "已婚妇女",
-      "业余",
-      "精选，综合"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2001-04-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/3c3ef6add22bd4902c0517605727d6ac.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/6d31b53415a7f805a9e411eeb8d9de70.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-661"
   },
   {
-    "id": 89613,
-    "IDcode": "SAN-193",
-    "title": "マザー作品の中で最終的に不幸な結末を迎えてしまった女たち6人",
+    "id": 86175,
+    "IDcode": "SDDE-662",
+    "title": "激ピストン限定即ハメ筋トレジム 〜痙攣するまでイカされ体内から美しいカラダを作る〜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
+      "运动",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/9289d09c70929288d2b8700d515682ad.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b764b9b3af84aaf1ab1484dcc2c61aaa.jpg",
     "actress": [
-      "吉根柚莉爱",
-      "三岳祐奈",
-      "七草千歲",
-      "爱须みのん",
-      "永野枫果"
+      "辻井穗乃果",
+      "若宫はずき",
+      "今井夏帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-193"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-662"
   },
   {
-    "id": 89595,
-    "IDcode": "SAN-194",
-    "title": "マザーベストセックス6人 PART2",
+    "id": 80986,
+    "IDcode": "SDDE-663",
+    "title": "【超部屋結界】ハーレムSPECIAL 〜ようこそ僕だけの淫乱病院へ イヒ!〜 美人ナースやインテリ女医を下品な淫乱女へと洗脳支配する",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20231208/dy3snEY0/1.jpg",
-    "actress": [
-      "桐香悠裡",
-      "七瀬いおり",
-      "新村晶",
-      "儿玉玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-194"
-  },
-  {
-    "id": 17548,
-    "IDcode": "SAN-195",
-    "title": "出現在溫泉專門吃男人雞雞的蕩婦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "精選綜合",
-      "溫泉",
-      "出軌",
-      "4小時以上作品",
       "中出",
-      "蕩婦",
-      "口交",
-      "亂交 • 群P",
-      "劇情"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6740763b2436b10c8f2ff3172754c931.jpg",
     "actress": [
-      "初美沙希",
-      "有村千佳",
-      "高梨步",
-      "しずく"
+      "推川悠里",
+      "初音實",
+      "加藤あやの",
+      "谷梓",
+      "亜矢みつき",
+      "堀麻美子",
+      "椎叶みくる"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-663"
   },
   {
-    "id": 89609,
-    "IDcode": "SAN-196",
-    "title": "理不尽にも息子二人にレ●プされる可哀そうな母たち",
+    "id": 80877,
+    "IDcode": "SDDE-665",
+    "title": "「性交付き」おっぱい揉みしだき旅館",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e24da32b55c8b2e11fb51ebeffc577d7.jpg",
-    "actress": [
-      "松本痲里奈",
-      "青木美空",
-      "藤下梨花",
-      "青空小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-196"
-  },
-  {
-    "id": 16993,
-    "IDcode": "SAN-197",
-    "title": "因借錢被他人操而沉迷媚藥的巨乳妻子 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "出軌",
-      "欠債肉償",
+      "中出",
+      "共演",
       "巨乳",
-      "性感",
-      "劇情"
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "2023-12-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240101/80655532-1ab7-4a6d-a230-297a9089e5cd.jpg",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9f3dadf2824ddc072e5af3cf93b908c0.jpg",
     "actress": [
-      "美園和花"
+      "小梅惠奈",
+      "若槻みづな",
+      "富井美帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-197"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-665"
   },
   {
-    "id": 562484,
-    "IDcode": "SAN-198",
-    "title": "甥を笔おろししたら思いのほか感じてしまい中出されて妊娠した巨乳妻",
+    "id": 80759,
+    "IDcode": "SDDE-666",
+    "title": "性欲処理専門セックス外来19 特別編 最終出勤まで中出し治療に挑む美人婚約者ナースに完全密着!~結婚を理由に引退。退職まで1ケ月~ 古川いおり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "中出",
+      "护士",
+      "滥交",
+      "纪录片"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
+    "company": "SOD",
+    "publish_date": "2022-02-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/aaeb9b82e9cb86938eb4cf955ba2ab89.jpg",
+    "actress": [
+      "古川伊織"
     ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/y4yzmv5y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-666"
   },
   {
-    "id": 562486,
-    "IDcode": "SAN-199",
-    "title": "幸せな结婚生活を送っていたら昔の男に媚薬渍けにされた美人妻",
+    "id": 86197,
+    "IDcode": "SDDE-667",
+    "title": "SENZ TV パパママ頑張れ!! ぬるぬるローションでスポーツ大好き仲良し家族対抗ハメハメ合戦2022 軟体も長身も大集結!射精とローションを制して優勝賞金100万円を目指せ!",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "中出",
+      "滥交",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/8twF8PcD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-199"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/fcda0d782b78e96d5513f78b50bea329.jpg",
+    "actress": [
+      "葵百合香",
+      "前乃菜菜",
+      "工藤拉拉",
+      "若宫穂乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-667"
   },
   {
-    "id": 562488,
-    "IDcode": "SAN-200",
-    "title": "ヤバすぎるサイコパスな义理の息子に支配される継母",
+    "id": 565512,
+    "IDcode": "SDDE-668",
+    "title": "怪しい占い师に洗脳されてM性开発されてしまった超ウブ新人教师の中出しセックス日报 市来まひろ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/H0j5Y3en/1.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/75afebcc2427292f15ae99347a454cf2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-668"
   },
   {
-    "id": 562485,
-    "IDcode": "SAN-201",
-    "title": "脳汁ドバドバなパチンカス人妻が金銭的な理由から旦那に内绪で间男の精液をドピュドピュ浴びいつの间に",
+    "id": 89643,
+    "IDcode": "SDDE-669",
+    "title": "リンパ無制限ドバドバ精子垂れ流しハーレム4P南国リゾート古式スパ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "荡妇",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
+    "company": "SOD",
+    "publish_date": "2022-06-09",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/Bs2oKRM6.jpg",
+    "actress": [
+      "渚光希",
+      "竹田夢",
+      "前乃菜菜"
     ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/bFQX7De4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-669"
   },
   {
-    "id": 562489,
-    "IDcode": "SAN-202",
-    "title": "旦那の浮気が原因で酒に溺れ义兄の企みにも堕ちて生きる术を失った哀れな女の物语",
+    "id": 556263,
+    "IDcode": "SDDE-670",
+    "title": "“虽然我在父母面前是个乖乖女……”我催眠、洗脑并奴役了一个穿着制服的女孩，她就读于厚颜无耻的教会学校，她嘲笑我！浅井幸晴 - 浅井心晴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/yWB50zjz/1.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4f1ea189251709020d0ca8e2570b6ce2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-670"
   },
   {
-    "id": 562483,
-    "IDcode": "SAN-205",
-    "title": "ダンナの代わりに息子で性処理をする淫乱母4名",
+    "id": 218512,
+    "IDcode": "SDDE-671",
+    "title": "婚姻中的女性",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/gp0aqRnE/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6a3161205b51396e148fd3cc2b463d8a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-671"
   },
   {
-    "id": 562481,
-    "IDcode": "SAN-206",
-    "title": "セックスしないと生きていけない淫乱女4名",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/LTkMfZOV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-206"
-  },
-  {
-    "id": 562001,
-    "IDcode": "SAN-207",
-    "title": "夫の秘书をからかってセックスしたら媚薬を饮まされ堕とされた巨乳妻",
+    "id": 86155,
+    "IDcode": "SDDE-672",
+    "title": "樱花野台银行分行",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "中出",
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240202/ci0acFxZ/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/e345e5eaf8280f410c12f35e886564c7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-207"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-672"
   },
   {
-    "id": 562002,
-    "IDcode": "SAN-208",
-    "title": "仕事の手柄だけではなく内気で纯情な妻をも会社の上司に夺われた哀れで惨めな男の物语",
+    "id": 86130,
+    "IDcode": "SDDE-674",
+    "title": "融入性生活的日常生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c59aac5946f232f265cc44ad9d9649ab.jpg",
+    "actress": [
+      "小栗操",
+      "花宫レイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-674"
+  },
+  {
+    "id": 530220,
+    "IDcode": "SDDE-676",
+    "title": "洗脑钥匙 改变你心里所想的 乃木绚爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240202/2kfPzSPO/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/20241228/IYvyfYd5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-676"
   },
   {
-    "id": 562000,
-    "IDcode": "SAN-209",
-    "title": "リアルに会いたい酒を饮むとスケベになる最高の人妻",
+    "id": 68662,
+    "IDcode": "SDDE-677",
+    "title": "每天都被悸动的精子所沐浴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "高中女生",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240202/ekwqsVNW/1.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/0f9fa88ecfa175c51e949f777e048074.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-209"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-677"
   },
   {
-    "id": 410394,
-    "IDcode": "SAN-210",
-    "title": "猟奇的なストーカー男の恋愛妄想に取り込まれた巨乳妻は何度も繰り返し犯●れそして犯●れる 菊池麻耶",
+    "id": 68239,
+    "IDcode": "SDDE-678",
+    "title": "溶入性愛的日常。在學園生活裡「經常性交」的青春故事",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "高中女生",
+      "制服",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f38f79cf22ae3e04e6f2fe/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-210"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/803653b6dd930bc9d9a00ca00c131205.jpg",
+    "actress": [
+      "天馬唯",
+      "高瀬りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-678"
   },
   {
-    "id": 471259,
-    "IDcode": "SAN-211",
-    "title": "昔付き合っていたキモオヤジがストーカーになって現れる話 水月有朱",
+    "id": 89642,
+    "IDcode": "SDDE-679",
+    "title": "性欲処理専門セックス外来医院20 特別編 祝20作品目Anniversary【ますます妄想拡大!リクエスト企画祭り】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-08-25",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/ZtcvFjTu.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-679"
+  },
+  {
+    "id": 68493,
+    "IDcode": "SDDE-680",
+    "title": "用女性臀部按摩的流行男性沙龙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/54a726078e802c7fb65d17fe0f771774.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-680"
+  },
+  {
+    "id": 73250,
+    "IDcode": "SDDE-681",
+    "title": "射精依存改善治療-坂井千晴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8a6387fa1ba9280cd5ef60732275b692.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-681"
+  },
+  {
+    "id": 89670,
+    "IDcode": "SDDE-682",
+    "title": "「制服・下着・全裸」でおもてなし またがりオマ○コ航空15【ますます妄想拡大!リクエスト企画祭り】234分ロングフライトSP便",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-08-11",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/29dfee099cc6af93ae88310ff5c37fc0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-682"
+  },
+  {
+    "id": 67677,
+    "IDcode": "SDDE-683",
+    "title": "新型的酒吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b577307aa95cadfa81c11fc521a419e8.jpg",
+    "actress": [
+      "星仲ここみ",
+      "蓝芽水月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-683"
+  },
+  {
+    "id": 556368,
+    "IDcode": "SDDE-684",
+    "title": "虔诚的已婚看护者成为被催眠的猎物...被做成双插奴隶美丽地吮吸臭鸡巴和肛门 Rui Nekoto - 音琴るい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "マザー",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
-        "works_count": 339
-      }
-    ],
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4733ac813dc779d96224/cover.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/05dc28021b009042f88a470e352290c4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-684"
+  },
+  {
+    "id": 86187,
+    "IDcode": "SDDE-685",
+    "title": "对每个学生进行单独舔食",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b263b11aafdca887a94ae30667e40099.jpg",
+    "actress": [
+      "緒川春",
+      "佐伯由美香",
+      "日乃詩織",
+      "蓝井优太",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-685"
+  },
+  {
+    "id": 67622,
+    "IDcode": "SDDE-686",
+    "title": "能让时间停止的男人是真实的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250403-1/fd9684d9c0754a50cd5f51cb7b34b150.jpg",
+    "actress": [
+      "白桃はな",
+      "中山琴叶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-686"
+  },
+  {
+    "id": 167626,
+    "IDcode": "SDDE-687",
+    "title": "我决定强行在各种女性身上射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/ab9a50f3297916338a65537a746bb50a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-687"
+  },
+  {
+    "id": 89650,
+    "IDcode": "SDDE-688",
+    "title": "县立潮吹医学院养病中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企画",
+      "护士",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/0340da7aa301f9bd95e6929f463a6ae3.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-688"
+  },
+  {
+    "id": 69723,
+    "IDcode": "SDDE-689",
+    "title": "射精公衆便女洗脳-南梨央奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250321-1/2ddd17c1548f2f7c14cb4ad9f1fcc016.jpg",
+    "actress": [
+      "南梨央奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-689"
   }
 ];

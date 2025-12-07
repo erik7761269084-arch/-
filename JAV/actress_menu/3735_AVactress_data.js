@@ -96,19 +96,19 @@ window.actressData = {
     },
     {
       "id": 142505,
-      "IDcode": "010117-339",
+      "IDcode": "010117-339-CARIBPR",
       "title": "加勒比可爱Vol.30",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "",
+      "company": "加勒比系",
       "publish_date": "",
       "cover_url": "https://thjpg10.top/upload/vod/20250201-1/afe654c4e3b115b694913b69674010df.jpg",
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=010117-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=010117-339-CARIBPR"
     },
     {
       "id": 142250,
@@ -257,7 +257,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/204cd1416d000265aabd03835e639698.jpg",
       "actress": [

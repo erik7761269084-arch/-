@@ -1,449 +1,55 @@
 window.PAGE_DATA = [
   {
-    "id": 563958,
-    "IDcode": "KTRA-537",
-    "title": "亲戚のおじさんに悪戏されて兴奋してしまう、ムッツリどMな贫乳めいっ子",
+    "id": 564355,
+    "IDcode": "MADV-533",
+    "title": "追撃の达人 一回の射精で终わると思ったら大间违いなんだから…小花のん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/I6Aoc54M/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230525/6xYguxSw/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-537"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-533"
   },
   {
-    "id": 563947,
-    "IDcode": "KTRA-538",
-    "title": "妹マ○コにぶちまけろ！中出し兄妹セックスBEST 4时间",
+    "id": 537356,
+    "IDcode": "MADV-534",
+    "title": "追撃の达人 一回の射精で终わると思ったら大间违いなんだから… 朝仓ここな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230919/madv534pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-534"
+  },
+  {
+    "id": 563934,
+    "IDcode": "MADV-535",
+    "title": "お尻むちむちBODY 金髪ビッチな痴女ギャルはM気质ギャップあり 体力続くまで何度も中出し 限",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/vyBK6hqY/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-538"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-535"
   },
   {
-    "id": 563946,
-    "IDcode": "KTRA-539",
-    "title": "ど贫乳ガールズ2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/8XI7qKyL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-539"
-  },
-  {
-    "id": 563944,
-    "IDcode": "KTRA-540",
-    "title": "ぬるぬるテカテカ！美少女たちのいやらしいオイルセックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/vVqoDPMa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-540"
-  },
-  {
-    "id": 563957,
-    "IDcode": "KTRA-541",
-    "title": "ロリロリ妹が兄の射精をお手伝い！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/ccFsCKqs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-541"
-  },
-  {
-    "id": 516924,
-    "IDcode": "KTRA-542",
-    "title": "無邪氣姪女是天然小悪魔！ 沙月惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903d757d6fbef4e901a8406/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-542"
-  },
-  {
-    "id": 563945,
-    "IDcode": "KTRA-543",
-    "title": "とにかくカワイイ！ 颜面偏差値が高い美少女たちに中出し 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/HMpo3sBy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-543"
-  },
-  {
-    "id": 563943,
-    "IDcode": "KTRA-544",
-    "title": "细くて敏感なカラダ！スレンダー美少女ベスト2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/znLcPnZb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-544"
-  },
-  {
-    "id": 563942,
-    "IDcode": "KTRA-545",
-    "title": "つるつるマ○コに中出し！パイパン美少女ベスト2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/709KxQf9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-545"
-  },
-  {
-    "id": 548642,
-    "IDcode": "KTRA-546",
-    "title": "言いなりのドM妹はオレ専用の性処理タダマ○コ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/KK7wXQRt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-546"
-  },
-  {
-    "id": 563900,
-    "IDcode": "KTRA-547",
-    "title": "えちな子见つけた！ No.4 地味ぃ～なメガネっ子女子大生桥本りこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/u69i7T0o/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-547"
-  },
-  {
-    "id": 548637,
-    "IDcode": "KTRA-549",
-    "title": "大人しそうな少女たちと淫行 言いなりロリっ子コレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/cD4qA65N/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-549"
-  },
-  {
-    "id": 548636,
-    "IDcode": "KTRA-550",
-    "title": "従顺すぎるエロカワ美少女2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/robmqecl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-550"
-  },
-  {
-    "id": 548530,
-    "IDcode": "KTRA-551",
-    "title": "くやしいけど勃起してしまう！兄たちを见下すナマイキ妹のエロあざとい挑発セックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/qU72p491/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-551"
-  },
-  {
-    "id": 548531,
-    "IDcode": "KTRA-552",
-    "title": "优しくて素直な孝行娘が毎日榨り取ってくるスケベな日常",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/vTql1Bos/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-552"
-  },
-  {
-    "id": 548528,
-    "IDcode": "KTRA-553",
-    "title": "贫乳＆スレンダー！プレミアムAカップガールズ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/PjudOHBd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-553"
-  },
-  {
-    "id": 516909,
-    "IDcode": "KTRA-554",
-    "title": "如同情侣（心）与美OO们的恩爱近",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69096161e264e6282dffd3fd/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-554"
-  },
-  {
-    "id": 548527,
-    "IDcode": "KTRA-555",
-    "title": "地味で大人しそうなメガネ女子たちに中出し 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/WTYiwzo7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-555"
-  },
-  {
-    "id": 563592,
-    "IDcode": "KTRA-556",
-    "title": "ロリっ子のニコニコ无邪気フェラサクレツでもう我慢できない！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230825/mSrajKof/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-556"
-  },
-  {
-    "id": 579352,
-    "IDcode": "KTRA-557",
-    "title": "亲戚のおじさんに悪戏されて兴奋してしまう本当はムッツリスケベな清楚系めいっ子 竹内美凉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230825/xDl2fSp9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-557"
-  },
-  {
-    "id": 548356,
-    "IDcode": "KTRA-558",
-    "title": "絶対无毛宣言！パイパンロリ美少女コレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/fPKBOxtW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-558"
-  },
-  {
-    "id": 563497,
-    "IDcode": "KTRA-559",
-    "title": "早熟すぎる美巨乳の妹たちに中出し！ 4时间",
+    "id": 548608,
+    "IDcode": "MADV-536",
+    "title": "ふわふわ巨乳にむちむち尻…エロが过ぎるJDに何度も中出し 全裸よりSKBな透明バニー痴女のベロ",
     "year": "",
     "country": "",
     "genre": "",
@@ -451,724 +57,49 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/nKwV4JAH/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230801/StKtDulP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-559"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-536"
   },
   {
-    "id": 563496,
-    "IDcode": "KTRA-560",
-    "title": "従顺ドM美少女たちの下品极まりないSEX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/MbZrUaxr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-560"
-  },
-  {
-    "id": 548195,
-    "IDcode": "KTRA-561",
-    "title": "こう见えてムッツリスケベなオレの妹、下心まる出し男子たちの欲望を断り切れず受け入れてしまう従顺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230914/HubMlqm2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-561"
-  },
-  {
-    "id": 548194,
-    "IDcode": "KTRA-562",
-    "title": "现场で动くボーイッシュな爽やか美少女！実はチ○ポに目が无いメスイキ连発の淫乱ビッチだった！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230914/uFfWI1IK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-562"
-  },
-  {
-    "id": 548191,
-    "IDcode": "KTRA-563",
-    "title": "未熟なおっぱい大集合！！ Aカップまないた美少女コレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230914/kXizYfIX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-563"
-  },
-  {
-    "id": 516936,
-    "IDcode": "KTRA-564",
-    "title": "我的妹妹是低身高OO巨乳妹让人无",
+    "id": 90916,
+    "IDcode": "MADV-537",
+    "title": "【FANZA限定】追撃の達人 一回の射精で終わると思ったら大間違いなんだから… 森日向子 チェキ付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69028be679f1ac4ec4ca159c/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-564"
-  },
-  {
-    "id": 548189,
-    "IDcode": "KTRA-565",
-    "title": "ロリ巨乳美少女たちの絶顶セックスBEST 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230914/anQRHvDJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-565"
-  },
-  {
-    "id": 548024,
-    "IDcode": "KTRA-567",
-    "title": "无邪気におじさんを诱惑するめいっ子の好き好きアピールが凄くて思わずパイパンマ●コに中出ししてしまった。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230925/zaxrpMe1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-567"
-  },
-  {
-    "id": 579399,
-    "IDcode": "KTRA-568",
-    "title": "制服のいもうとたちとドキドキ兄妹相奸 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-568"
-  },
-  {
-    "id": 548022,
-    "IDcode": "KTRA-569",
-    "title": "萌える低身长！ちびっ子ロ●ータコレクション2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230925/1QMixAN2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-569"
-  },
-  {
-    "id": 548016,
-    "IDcode": "KTRA-570",
-    "title": "言いなりのドM少女たちとセックスして中出し！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230925/DENrXaAq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-570"
-  },
-  {
-    "id": 547766,
-    "IDcode": "KTRA-572",
-    "title": "妻の留守中に侄っ子が诱惑モード全开で游びに来た结果、めちゃくちゃヤリまくってしまった。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231010/P2IfDYDn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-572"
-  },
-  {
-    "id": 547752,
-    "IDcode": "KTRA-573",
-    "title": "ちっぱいロ●ータのつるつるマ○コに中出し 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231010/lJwLPix6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-573"
-  },
-  {
-    "id": 547751,
-    "IDcode": "KTRA-574",
-    "title": "おしとやかな清楚系美少女たちのお下品セックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231010/rKptAgco/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-574"
-  },
-  {
-    "id": 544139,
-    "IDcode": "KTRA-575",
-    "title": "性感オイルマッサージでトロけた美少女たちに中出し！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250730/MLpZbUgp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-575"
-  },
-  {
-    "id": 579424,
-    "IDcode": "KTRA-577",
-    "title": "仕事中、新郎に対して无自覚なエロスを振りまき、新妇を嫉妒させるブライダル企业で动く清楚系パイパンビッチに中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/lDo1DkAO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-577"
-  },
-  {
-    "id": 562964,
-    "IDcode": "KTRA-578",
-    "title": "贫乳美少女限定！ぺちゃぱいマニア2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/nQnNYeSQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-578"
-  },
-  {
-    "id": 516982,
-    "IDcode": "KTRA-579",
-    "title": "OO過頭妹妹們淫蕩過頭讓人無法忍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f371c1d6fbef4e90feb8d7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-579"
-  },
-  {
-    "id": 562963,
-    "IDcode": "KTRA-580",
-    "title": "デカくて美しい！神乳美少女たちの従顺セックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/NPx1qtEH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-580"
-  },
-  {
-    "id": 562843,
-    "IDcode": "KTRA-581",
-    "title": "ロ●コン家庭教师と従顺すぎる教え子のえちえち课外授业",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-581"
-  },
-  {
-    "id": 562840,
-    "IDcode": "KTRA-582",
-    "title": "近所で巨乳すぎるとウワサの地味っこ店员さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-582"
-  },
-  {
-    "id": 562836,
-    "IDcode": "KTRA-583",
-    "title": "世话焼き妹たちのご奉仕せっくすBEST 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-583"
-  },
-  {
-    "id": 562835,
-    "IDcode": "KTRA-584",
-    "title": "エロ过ぎる神尻！むっちりヒップ美少女たちとセックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-584"
-  },
-  {
-    "id": 562834,
-    "IDcode": "KTRA-585",
-    "title": "素朴なオンナの子たちのムッツリ中出しコレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-585"
-  },
-  {
-    "id": 547308,
-    "IDcode": "KTRA-586",
-    "title": "思春期の妹にオレの勃起チ○ポ见せつけたらエロい雰囲気になったのでセックスしないか闻いてみた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/RHyzZLwc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-586"
-  },
-  {
-    "id": 17572,
-    "IDcode": "KTRA-587",
-    "title": "爸爸！ 吃我的時候開始了哦！ 有栖舞衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "美少女電影",
-      "女學生",
-      "JK校服",
-      "乱伦",
-      "中出",
-      "制服",
+      "荡妇",
       "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231127/d426cb55-61eb-4e7d-98fe-6552087125f9.jpg",
-    "actress": [
-      "有栖舞衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-587"
-  },
-  {
-    "id": 547304,
-    "IDcode": "KTRA-588",
-    "title": "贫乳＆スレンダー！プレミアムAカップガールズ2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/aOt4nprn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-588"
-  },
-  {
-    "id": 547303,
-    "IDcode": "KTRA-589",
-    "title": "美少女たちのきつ～いロリマン！パイパン中出しコレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/vEFZqz3K/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-589"
-  },
-  {
-    "id": 579463,
-    "IDcode": "KTRA-590",
-    "title": "ロリかわ少女限定！制服ミニマムガールズ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/53nwUVZe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-590"
-  },
-  {
-    "id": 17324,
-    "IDcode": "KTRA-591",
-    "title": "喜歡不勞而獲的G罩杯小惡魔美少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "應召・援交",
-      "美少女電影",
-      "女學生",
-      "巨尻",
-      "拜金女",
-      "JK校服",
+      "恋腿癖",
+      "单体作品",
       "乳交",
       "中出",
-      "巨乳",
-      "劇情",
-      "綠茶婊"
+      "乳房",
+      "迷你裙",
+      "手淫",
+      "连裤袜",
+      "女上位",
+      "足交",
+      "苗条",
+      "巨大阴茎",
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2023-12-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/51ff8575-d91f-443c-8318-2fe38679ce5d.jpg",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240301-1/cc3bcd8349b964dae28ddbd52e16b5de.jpg",
     "actress": [
-      "绫濑心"
+      "森日向子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-591"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-537"
   },
   {
-    "id": 17322,
-    "IDcode": "KTRA-592",
-    "title": "「東京」乾爹最愛的甜美女兒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "美少女電影",
-      "美少女",
-      "手指插入",
-      "拜金女",
-      "JK校服",
-      "飯店小姐・援交妹",
-      "黑絲",
-      "中出",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "2023-12-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/053788bb-18cd-4d6f-8ddc-46be2536018a.jpg",
-    "actress": [
-      "胡桃櫻花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-592"
-  },
-  {
-    "id": 562649,
-    "IDcode": "KTRA-593",
-    "title": "清楚でエッチな美少女たちとイチャハメ中出し！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231215/rqW5KZRT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-593"
-  },
-  {
-    "id": 562648,
-    "IDcode": "KTRA-594",
-    "title": "童颜なのに大人ボディ！！ロリで巨乳な美少女たちと最高セックス 4时间",
+    "id": 548242,
+    "IDcode": "MADV-538",
+    "title": "むちむちデカ尻にくびれ美巨乳 経験人数2人なのにSEX好き过ぎてオナニーマシーン持参でAV出演",
     "year": "",
     "country": "",
     "genre": "",
@@ -1176,995 +107,2959 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231215/mu7eDJLV/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230907/JxaGuQ3S/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-594"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-538"
   },
   {
-    "id": 562647,
-    "IDcode": "KTRA-595",
-    "title": "细くて敏感なカラダ！スレンダー美少女ベスト3 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231215/g8wUUbCN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-595"
-  },
-  {
-    "id": 547061,
-    "IDcode": "KTRA-596",
-    "title": "近所で话题の美少女はタイプのオジサンを见つけるとあざとく诱惑してきてヤラせてくれるらしい…。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/ev2pkI9C/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-596"
-  },
-  {
-    "id": 579489,
-    "IDcode": "KTRA-597",
-    "title": "パパ活始めました。まさに売り时…今が食べ顷のワタシ GIRL2ひかげ 日向ひかげ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/k5s09FzF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-597"
-  },
-  {
-    "id": 547054,
-    "IDcode": "KTRA-598",
-    "title": "小悪魔美少女たちのえっちな诱惑 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/7Bdq9Ez5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-598"
-  },
-  {
-    "id": 547055,
-    "IDcode": "KTRA-599",
-    "title": "とにかくロリな美少女たちとの背徳SEXコレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/TwCKt4uI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-599"
-  },
-  {
-    "id": 517950,
-    "IDcode": "KTRA-600",
-    "title": "與制服相配的美OO們危險的中出性",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690f6f8b4a81c2286fc0955b/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-600"
-  },
-  {
-    "id": 546908,
-    "IDcode": "KTRA-601",
-    "title": "シスコン兄贵の下心丸出し家庭内中出し性教育",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240110/eFeEJ12K/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-601"
-  },
-  {
-    "id": 518233,
-    "IDcode": "KTRA-602",
-    "title": "纯白贫乳萝莉五人 每个都很诱人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf6f16735bb663f77518cd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-602"
-  },
-  {
-    "id": 546901,
-    "IDcode": "KTRA-603",
-    "title": "见た目は清楚、中身はドスケベ！！おしとやかなロリっ娘たちに特浓中出し 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240110/GLXiOwBp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-603"
-  },
-  {
-    "id": 546902,
-    "IDcode": "KTRA-604",
-    "title": "ケートライブむっちり名女优スーパーベスト 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240110/YG6XAPkS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-604"
-  },
-  {
-    "id": 562102,
-    "IDcode": "KTRA-605",
-    "title": "エロめがね＆隠れ巨乳の地味っこ女子 工务店事务员 こころ21歳",
+    "id": 537492,
+    "IDcode": "MADV-540",
+    "title": "制服女子监禁ペット调教 あい ワタシノハジメテハ…ミシラヌオトコ。 乃々瀬あい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/Nv5BBAnM/1.jpg",
+    "cover_url": "https://155.sl155cf.com/upload/vod/20231014/madv540pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-605"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-540"
   },
   {
-    "id": 562101,
-    "IDcode": "KTRA-606",
-    "title": "美しいくびれがたまんない！！えちえちボディ女子たちに中出し 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/QS2rN4dN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-606"
-  },
-  {
-    "id": 562099,
-    "IDcode": "KTRA-607",
-    "title": "未熟なおっぱい大集合！！ Aカップまないた美少女コレクション2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/JfILhtC8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-607"
-  },
-  {
-    "id": 562100,
-    "IDcode": "KTRA-608",
-    "title": "オレのお愿いを何でも闻いてくれる妹たちとの甘々えっち 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/RyJ8yRJw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-608"
-  },
-  {
-    "id": 546404,
-    "IDcode": "KTRA-609",
-    "title": "ロリ巨乳の小悪魔美少女がオトナたちのチ●ポを喰いまくるッ！！",
+    "id": 547753,
+    "IDcode": "MADV-541",
+    "title": "色白ギャル肉食系痴女 イキ癖ついてる潮吹きエロBODY 自ら腰をくねらせ体力続くまで限",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240213/EZYQpuNw/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231010/yJqEL6sE/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-609"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-541"
   },
   {
-    "id": 546403,
-    "IDcode": "KTRA-610",
-    "title": "たわわに実った巨乳妹たちと连続SEX！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240213/8kqo0NSt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-610"
-  },
-  {
-    "id": 413656,
-    "IDcode": "KTRA-611",
-    "title": "K-DRIVE制服美少女图鉴4小时",
+    "id": 562838,
+    "IDcode": "MADV-542",
+    "title": "真面目で地味だと思っていた生徒に校则违反水着で迫られ…何度も何度もこなつと中出しSEXしてしまった",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/c63b89820a2a5a2747011caa97243ec6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-611"
-  },
-  {
-    "id": 546401,
-    "IDcode": "KTRA-612",
-    "title": "ホントはドスケベ！！阴キャなメガネっ娘たちのむっつりセックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240213/S5s5Yk9c/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-612"
-  },
-  {
-    "id": 561731,
-    "IDcode": "KTRA-613",
-    "title": "つるつるマ〇コでイこう！！ロリマン中出しコレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240229/90XaZsTJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-613"
-  },
-  {
-    "id": 561728,
-    "IDcode": "KTRA-614",
-    "title": "従顺ロリ美少女たちのお下品セックス事情！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240229/EeOfKWu7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-614"
-  },
-  {
-    "id": 561732,
-    "IDcode": "KTRA-615",
-    "title": "ショートカット美少女たちの敏感セックスBEST 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240229/s0ddImI9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-615"
-  },
-  {
-    "id": 546097,
-    "IDcode": "KTRA-616",
-    "title": "美少女たちの主観アングルフェラ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/QQ0XmlMH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-616"
-  },
-  {
-    "id": 546098,
-    "IDcode": "KTRA-617",
-    "title": "透き通るような肌の色白少女たちと中出しセックス 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/yB3qBm6u/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-617"
-  },
-  {
-    "id": 546095,
-    "IDcode": "KTRA-618",
-    "title": "ケートライブ デカパイ名女优中出しスペシャル！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/rvHgtSCJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-618"
-  },
-  {
-    "id": 544184,
-    "IDcode": "KTRA-619",
-    "title": "小悪魔な痴女いもうとたち2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250731/1Lz2msLk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-619"
-  },
-  {
-    "id": 544183,
-    "IDcode": "KTRA-620",
-    "title": "パイパン少女たちのえっちな好奇心 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250731/PtWD866B/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-620"
-  },
-  {
-    "id": 544185,
-    "IDcode": "KTRA-621",
-    "title": "贫乳特化！！ぺちゃぱい美少女コレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250731/Fv4A5MxR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-621"
-  },
-  {
-    "id": 545815,
-    "IDcode": "KTRA-622",
-    "title": "挑発ロリビッチ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240411/vcU704Kk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-622"
-  },
-  {
-    "id": 545814,
-    "IDcode": "KTRA-623",
-    "title": "妹マ○コにぶちまけろ！中出し兄妹セックスBEST 2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240411/h7FQX6sa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-623"
-  },
-  {
-    "id": 545813,
-    "IDcode": "KTRA-624",
-    "title": "ぷるんッと揺れる！！巨乳パイパン女子たちのムチムチ肉感SEX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240411/PGpH5AAA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-624"
-  },
-  {
-    "id": 545685,
-    "IDcode": "KTRA-625",
-    "title": "病み病み地雷系女子 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/BuKoYpgF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-625"
-  },
-  {
-    "id": 545683,
-    "IDcode": "KTRA-627",
-    "title": "オトナの运动会！？スポコス女子たちとえっちなエクササイズ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/woVq8TwL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-627"
-  },
-  {
-    "id": 564676,
-    "IDcode": "KTRA-628",
-    "title": "えちえち巨乳美少女 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240521/Ije50P7D/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-628"
-  },
-  {
-    "id": 564672,
-    "IDcode": "KTRA-629",
-    "title": "絶対无毛宣言！！パイパンロリ美少女コレクション2 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240521/QIVi9WM6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-629"
-  },
-  {
-    "id": 564670,
-    "IDcode": "KTRA-630",
-    "title": "まるで恋人（ハート）なかよしの妹たちとイチャラブSEX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240521/0sTWH9id/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-630"
-  },
-  {
-    "id": 549778,
-    "IDcode": "KTRA-631",
-    "title": "ケートライブ えろカワ名女优BESTセレクション 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240522/sfC00FEX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-631"
-  },
-  {
-    "id": 454038,
-    "IDcode": "KTRA-632",
-    "title": "美OO中出！！粉嫩小穴調教！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d854f3d6fbef4e90cd46ec/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-632"
-  },
-  {
-    "id": 454043,
-    "IDcode": "KTRA-633",
-    "title": "爸爸真棒！！父控女OO們的親密孝行性愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d85381d6fbef4e90cd423b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-633"
-  },
-  {
-    "id": 545443,
-    "IDcode": "KTRA-634",
-    "title": "孕ませ特化！！言いなりの従顺美少女たちと种付け中出しSEX 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240529/iu08ocpA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-634"
-  },
-  {
-    "id": 560794,
-    "IDcode": "KTRA-635",
-    "title": "デカパイ娘大集合スペシャル 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240612/XpQS2VJJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-635"
-  },
-  {
-    "id": 560793,
-    "IDcode": "KTRA-636",
-    "title": "ちっぱいロリ子これくしょん！！ 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240612/6kZW9GSS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-636"
-  },
-  {
-    "id": 560792,
-    "IDcode": "KTRA-637",
-    "title": "妹は女子校生！！ドキドキ制服セックスBEST 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240612/lHqoeSMd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-637"
-  },
-  {
-    "id": 560731,
-    "IDcode": "KTRA-638",
-    "title": "おねがい！おしゃガール in东京",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-638"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-542"
   },
   {
-    "id": 560729,
-    "IDcode": "KTRA-639",
-    "title": "小悪魔いもうとたちの甘サド责め 4时间",
+    "id": 562650,
+    "IDcode": "MADV-544",
+    "title": "个人撮影会で噂の美女はまさかの仆の上司 口止めを条件に生コスプレ诱惑…何度も中出し痴女责め性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231215/SxhiVIEQ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-544"
+  },
+  {
+    "id": 17078,
+    "IDcode": "MADV-545",
+    "title": "溺愛弟弟的大雞巴！太毫無防備的姐姐的極限誘惑！兔女郎的裝扮淫蕩的姐姐，美園和花 姐姐坐在弟弟的身上搖擺",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兔女郎妝扮",
+      "蕩婦",
+      "姐姐・妹妹",
+      "淫亂",
+      "中出",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "打手槍",
+      "姐弟・兄妹",
+      "無毛",
+      "乱伦",
+      "黑絲",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2023-12-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20231225/dd4e43ad-0a83-4324-893d-bb2d9a47e9f8.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-545"
+  },
+  {
+    "id": 517945,
+    "IDcode": "MADV-546",
+    "title": "我們的初體驗 處男開苞破處 制服",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240625/LefUAAg5/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6910f1306b81af1f8543ac2c/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-639"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-546"
   },
   {
-    "id": 560730,
-    "IDcode": "KTRA-640",
-    "title": "たわわに萌える（ハート） ちびっこボインGirls 4时间",
+    "id": 517946,
+    "IDcode": "MADV-547",
+    "title": "學校最知名的美人OO穿著違反校規",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240625/X2nvAGZ9/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6910edb56b81af1f85438f8a/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-640"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-547"
   },
   {
-    "id": 560725,
-    "IDcode": "KTRA-641",
-    "title": "ロリなメガネ女子たちのむっつりセックス 4时间",
+    "id": 16628,
+    "IDcode": "MADV-548",
+    "title": "制服女子雅子裡菜被男子當寵物囚禁，SM",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "拘束・拷問",
+      "網襪",
+      "SM",
+      "深喉",
+      "舔陰",
+      "中出",
+      "調教",
+      "美少女",
+      "按摩棒",
+      "緊縛",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "監禁",
+      "潮吹",
+      "乳交",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-01-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123072212276276.jpg",
+    "actress": [
+      "雅子裡菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-548"
+  },
+  {
+    "id": 16342,
+    "IDcode": "MADV-549",
+    "title": "傳聞參加私人拍攝的美女末広純，在現場角色扮演中引誘......反復中出和蕩婦酷刑性愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "舔陰",
+      "無毛",
+      "乳交",
+      "中出",
+      "私房攝影",
+      "顏射",
+      "自慰",
+      "女上位",
+      "蕩婦",
+      "姐姐・妹妹",
+      "手指插入",
+      "女教師",
+      "騎乗位",
+      "劇情",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-02-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20240213/e0af2188-cc17-4f6d-836b-ac767d16fecd.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-549"
+  },
+  {
+    "id": 561729,
+    "IDcode": "MADV-550",
+    "title": "部活女子监禁ペット调教 ひかる ドウシテワタシガコンナメニ…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240229/Ea02rk5t/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-550"
+  },
+  {
+    "id": 15894,
+    "IDcode": "MADV-551",
+    "title": "竟然和可怕的前輩同住一個房間，她是透視緊身衣的蕩婦三田櫻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "女上司",
+      "口爆",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "劇情",
+      "按摩棒",
+      "同住一屋・相部屋",
+      "絕頂高潮",
+      "無毛",
+      "女同事",
+      "飯店",
+      "苗條",
+      "手指插入",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-03-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065649337337.jpg",
+    "actress": [
+      "三田櫻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-551"
+  },
+  {
+    "id": 518138,
+    "IDcode": "MADV-552",
+    "title": "過剩性欲中出OK 網路發現的找乾",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K-Tribe",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_K_Tribe",
-        "works_count": 376
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240625/JzQw9N16/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f082dd31a2714f1c5b3650/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-641"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-552"
+  },
+  {
+    "id": 15218,
+    "IDcode": "MADV-553",
+    "title": "強迫擁有美腿的優等生穿違反校規的泳衣...... 和透美かなた一次又一次的做愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "飯店",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "泳裝",
+      "口交",
+      "乳交",
+      "自慰",
+      "女上位",
+      "足交",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e48626944bbe4ef03099e2/cover.jpg",
+    "actress": [
+      "透美かなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-553"
+  },
+  {
+    "id": 14406,
+    "IDcode": "MADV-554",
+    "title": "制服女孩性欲過度中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "苗條",
+      "69",
+      "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-05-28",
+    "cover_url": "https://picture.yoshiclub.xyz/20240526/215ebf1d-e0f2-43b2-9ae8-b67a85dce7c7.jpg",
+    "actress": [
+      "美澄玲衣",
+      "本田桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-554"
+  },
+  {
+    "id": 14749,
+    "IDcode": "MADV-555",
+    "title": "做愛奇聞趣事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口交",
+      "巨乳",
+      "無毛",
+      "乳交",
+      "中出",
+      "飯店",
+      "女上位",
+      "美少女電影",
+      "69",
+      "4小時以上作品",
+      "蕩婦",
+      "手指插入"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240513/b18f6d13-27be-46b1-bb05-e98e0b16a1e4.jpg",
+    "actress": [
+      "小梅惠奈",
+      "有馬美玖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-555"
+  },
+  {
+    "id": 14804,
+    "IDcode": "MADV-556",
+    "title": "溺愛哥哥的大雞巴！毫無防備的妹妹的極限誘惑！蕩婦五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "兔女郎妝扮",
+      "女學生",
+      "蕩婦",
+      "姐姐・妹妹",
+      "亂交 • 群P",
+      "美臀",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "姐弟・兄妹",
+      "無毛",
+      "乱伦",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "亂倫",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240511/ba8e71ee-a4c3-42a5-be95-5c3e383449ec.jpg",
+    "actress": [
+      "五日市芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-556"
+  },
+  {
+    "id": 13775,
+    "IDcode": "MADV-557",
+    "title": "眼鏡女天馬唯寵物調教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "拘束・拷問",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "眼鏡",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "飯店",
+      "苗條",
+      "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "監禁",
+      "潮吹",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "放尿",
+      "足交",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-06-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20240623/a3724b94-5506-4798-94a7-9333dea8e132.jpg",
+    "actress": [
+      "天馬唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-557"
+  },
+  {
+    "id": 14099,
+    "IDcode": "MADV-558",
+    "title": "地味巨乳眼鏡妹的真面目……一次又一次的中出SEX ~ 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "女學生",
+      "蕩婦",
+      "眼鏡",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "色白",
+      "手指插入",
+      "騎乗位",
+      "泳裝",
+      "美乳",
+      "顔面騎乘",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-06-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20240609/b174b121-1535-4a11-ba2d-0d8c12406662.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-558"
+  },
+  {
+    "id": 545197,
+    "IDcode": "MADV-559",
+    "title": "いちゃらぶイカせエッチ ハメ撮りサセコちゃん。Deluxe 3人収录 めい みおん りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240710/61oT2XJ5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-559"
+  },
+  {
+    "id": 545129,
+    "IDcode": "MADV-560",
+    "title": "学校イチ人気で眼镜が似合う生徒に校则违反水着で迫られ…何度も何度もあずと中出しSEXし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240724/zjDbWHvi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-560"
+  },
+  {
+    "id": 545143,
+    "IDcode": "MADV-561",
+    "title": "兄の巨根を溺爱！无防备が过ぎる妹の过激诱惑！全裸よりSKBな透明バニー痴女のベロキス杭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240724/gxlW3kWJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-561"
+  },
+  {
+    "id": 12690,
+    "IDcode": "MADV-562",
+    "title": "學校裏最可愛的戴眼鏡的女孩被強迫穿違反校規的泳衣......與小那海綾一次又一次地中出性愛 ~ 小那海綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "女學生",
+      "小隻馬",
+      "癡女",
+      "眼鏡",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "色白",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "清純",
+      "自慰",
+      "女上位",
+      "情趣內衣",
+      "足交",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4abf3e4a73d4f15a1bf6f/cover.jpg",
+    "actress": [
+      "小那海綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-562"
+  },
+  {
+    "id": 12106,
+    "IDcode": "MADV-563",
+    "title": "我愛性愛...痙攣高潮！ ！皮膚白皙、敏感的地方女孩喜歡被深深地插入…… 她搖動臀部，乞求被操！ ~ 乃々瀬あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蕩婦",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "飯店",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "短髮",
+      "美乳",
+      "口交",
+      "潮吹",
+      "約炮",
+      "清純",
+      "自慰",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-09-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240909/a4a86f7a-649e-48a3-931e-961319f31159.jpg",
+    "actress": [
+      "乃々瀬あい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-563"
+  },
+  {
+    "id": 12427,
+    "IDcode": "MADV-564",
+    "title": "JK制服女子的監禁調教 ~ 雫月心桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "自拍性愛",
+      "女學生",
+      "深喉",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "調教",
+      "無毛",
+      "強姦",
+      "M男・M女",
+      "苗條",
+      "素人作品",
+      "手指插入",
+      "騎乗位",
+      "口交",
+      "監禁",
+      "女上位",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-08-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20240825/3b1c824e-ba57-4d50-b4a5-ee5aca687242.jpg",
+    "actress": [
+      "雫月心桜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-564"
+  },
+  {
+    "id": 10695,
+    "IDcode": "MADV-566",
+    "title": "競泳水着NTR 隣のシゴデキ系お姉さんの水着巨乳にフル勃起！結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "蕩婦",
+      "姐姐・妹妹",
+      "美臀",
+      "癡女",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "自慰",
+      "女上位",
+      "OL",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241111/cba4f9ee-d7ce-4d65-9498-a947ef97cdaa.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-566"
+  },
+  {
+    "id": 11126,
+    "IDcode": "MADV-567",
+    "title": "学校イチ優等生で眼鏡が似合う女生徒に校則違反水着で迫られ…何度も何度もすみれと中出しSEXしてしまった 倉本すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "蕩婦",
+      "文藝女",
+      "眼鏡",
+      "中出",
+      "鬃毛",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "學校",
+      "顏射",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "泳裝",
+      "短髮",
+      "口交",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "純愛・戀愛",
+      "後入",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca277452c12b4e6803f111/cover.jpg",
+    "actress": [
+      "倉本菫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-567"
+  },
+  {
+    "id": 9679,
+    "IDcode": "MADV-568",
+    "title": "転職先でまさかの性処理業務 新人狩りで有名な巨乳エリート美人上司は…全身透け透けタイツ痴女 わか菜ほの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上司",
+      "蕩婦",
+      "姐姐・妹妹",
+      "人妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "接吻",
+      "劇情",
+      "完全着衣",
+      "按摩棒",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "M男・M女",
+      "黑絲",
+      "顏射",
+      "美人妻",
+      "新人面試",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241222/7e6e51eb-40fd-469b-b423-fe511b70d93d.jpg",
+    "actress": [
+      "若宮穂乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-568"
+  },
+  {
+    "id": 10035,
+    "IDcode": "MADV-569",
+    "title": "面對哥哥淫欲全開！ ！來自妹妹的大膽誘惑！ ！與色情女僕蕩婦的強烈禁斷性交 ~ 宮城理惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女僕",
+      "蕩婦",
+      "姐姐・妹妹",
+      "美臀",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "白絲",
+      "乱伦",
+      "顏射",
+      "角色扮演",
+      "手指插入",
+      "美乳",
+      "女僕制服",
+      "口交",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-12-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20241209/c8917d80-89b1-4cee-a1ba-ab14a87c1b9f.jpg",
+    "actress": [
+      "宮城理惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-569"
+  },
+  {
+    "id": 10045,
+    "IDcode": "MADV-570",
+    "title": "溺愛哥哥的大雞巴！ ！毫無防備的妹妹的極限誘惑！ ！全裸SKB透明兔子癡女的騎乘位 ~ 小那海綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "網襪",
+      "兔女郎妝扮",
+      "姐姐・妹妹",
+      "美臀",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "按摩棒",
+      "無毛",
+      "乱伦",
+      "企畫",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-12-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20241209/ee94a0b8-e652-44f9-b92a-7e93d0351c5c.jpg",
+    "actress": [
+      "小那海綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-570"
+  },
+  {
+    "id": 9370,
+    "IDcode": "MADV-571",
+    "title": "ばちぼこちゃん。脱いだらスゴい美尻にくびれ…色白黒髪ロングなイマドキ美女 えりか 尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "蕩婦",
+      "臀控",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "無毛",
+      "企畫",
+      "飯店",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "約炮",
+      "清純",
+      "女上位",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/26/015a6322a2ecdd14830e369e8d40c414.jpg",
+    "actress": [
+      "尾崎惠梨香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-571"
+  },
+  {
+    "id": 8960,
+    "IDcode": "MADV-572",
+    "title": "優等生で黒髪色白美人な女生徒に校則違反体操着で迫られ…何度も何度もりかと中出しSEXしてしまった ゆめ莉りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "女學生",
+      "美臀",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "緊身衣",
+      "色白",
+      "同學",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "校花",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "後入",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6f975f03a092cf71d2c3/cover.jpg",
+    "actress": [
+      "夢莉梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-572"
+  },
+  {
+    "id": 8959,
+    "IDcode": "MADV-573",
+    "title": "叔叔巨根溺愛！無防備美臀侄女的極限誘惑！淫蕩兔子裝比裸體更騷啊，癡女的杭打騎乘位 ~ 天馬唯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "兔女郎妝扮",
+      "美臀",
+      "叔叔・姪女",
+      "癡女",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "大小姐",
+      "猥褻穿著",
+      "接吻",
+      "劇情",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "明星臉",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "無毛",
+      "乱伦",
+      "辣妹/GAL系",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "後入",
+      "性感",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250120/b5884e6d-c2d4-4660-b337-d524a4f3adcd.jpg",
+    "actress": [
+      "天馬唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-573"
+  },
+  {
+    "id": 8958,
+    "IDcode": "MADV-574",
+    "title": "競泳水着NTR 長身で美脚な女子大生のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "癡女",
+      "淫妻",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "美少女",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "色白",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "69",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "足交",
+      "後入",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250120/7e940509-d248-4b04-94ae-381f7c981962.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-574"
+  },
+  {
+    "id": 8339,
+    "IDcode": "MADV-575",
+    "title": "オレ調教で完全に性交狂いの幼なじみを真面目な親友に与えてみた。美木ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "拘束・拷問",
+      "網襪",
+      "蕩婦",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "接吻",
+      "調教",
+      "按摩棒",
+      "絕頂高潮",
+      "苗條",
+      "69",
+      "騎乗位",
+      "青梅竹馬",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "足交",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250212/6d6e5008-c183-40a7-9ca8-bff6c8b83933.jpg",
+    "actress": [
+      "美木雛乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-575"
+  },
+  {
+    "id": 8365,
+    "IDcode": "MADV-576",
+    "title": "笑顔がキュート…色白スレンダーな清純系金髪ギャル なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "蕩婦",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "無毛",
+      "辣妹/GAL系",
+      "色白",
+      "企畫",
+      "飯店",
+      "苗條",
+      "素人作品",
+      "純粹的慾望",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "約炮",
+      "自慰",
+      "女上位",
+      "真人秀",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250210/30d7a505-0e5b-4312-bbc1-4c999b856fad.jpg",
+    "actress": [
+      "希咲那奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-576"
+  },
+  {
+    "id": 8026,
+    "IDcode": "MADV-577",
+    "title": "競泳水着NTR 巨乳で美脚な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 凰華りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "主觀視角",
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "深喉",
+      "癡女",
+      "人妻",
+      "眼鏡",
+      "淫妻",
+      "舔陰",
+      "鄰居",
+      "中出",
+      "舔腳",
+      "接吻",
+      "女友姐姐",
+      "按摩棒",
+      "絕頂高潮",
+      "白絲",
+      "無毛",
+      "偷竊",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "美人妻",
+      "顏射",
+      "69",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "自慰",
+      "女上位",
+      "內衣",
+      "綠茶婊",
+      "後入",
+      "NTR",
+      "不倫",
+      "心機婊"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250223/20250223061959542542.jpg",
+    "actress": [
+      "凰華鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-577"
+  },
+  {
+    "id": 8003,
+    "IDcode": "MADV-578",
+    "title": "同人系爆乳サークル コスプレ輪交OFF会 NENE I-cup 100cm 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "網襪",
+      "兔女郎妝扮",
+      "亂交 • 群P",
+      "3P・4P",
+      "重口味",
+      "大乳暈",
+      "淫亂",
+      "中出",
+      "胖女人",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "角色扮演",
+      "游戲COSPLAY",
+      "騎乗位",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dad7bebf45974ea602c1f9/cover.jpg",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-578"
+  },
+  {
+    "id": 399751,
+    "IDcode": "MADV-579",
+    "title": "這就是惡魔的巨乳啊,姊姊毫無抵抗力,用無胸罩的乳溝誘惑我。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a7aa848cce1a927aff4bea/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-579"
+  },
+  {
+    "id": 189942,
+    "IDcode": "MADV-580",
+    "title": "学校イチかわいくてスタイル抜群な女生徒に校則違反体操着で迫られ…何度も何度も静河と中出しSEXしてしまった 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/16/67d6b63ccf22ae3e0441462d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-580"
+  },
+  {
+    "id": 70460,
+    "IDcode": "MADV-581",
+    "title": "まさかの秘密にフル勃起 巨乳で美脚でクールな先輩社員の誰にも言えないストレス発散方法は全身透け透けタイツ痴女 美木ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋乳癖",
+      "单体作品",
+      "连裤袜",
+      "手淫",
+      "舔阴",
+      "颜射",
+      "内衣",
+      "巨大阴茎",
+      "骑乗位",
+      "中出",
+      "接吻",
+      "按摩棒",
+      "乳房",
+      "手指插入",
+      "口交",
+      "巨乳",
+      "恋腿癖",
+      "自慰",
+      "女上位",
+      "姐姐",
+      "乳液",
+      "OL",
+      "跳舞"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美木雛乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-581"
+  },
+  {
+    "id": 70362,
+    "IDcode": "MADV-582",
+    "title": "ばちぼこちゃん。見るからにヤリマン…顔面偏差値高めな感度バツグン潮吹き絶頂ビッチ あや 「早くホテル行ってエッチしよ」かわいい声と揺れる尻肉で男を惑わすエロ尻系即ハメ女子をクタクタになるまでハメ倒しちゃいました！！ 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "手淫",
+      "舔阴",
+      "颜射",
+      "巨大阴茎",
+      "过膝袜",
+      "中出",
+      "迷你裙",
+      "泡泡袜",
+      "接吻",
+      "按摩棒",
+      "瘦小身型",
+      "荡妇",
+      "乳房",
+      "手指插入",
+      "吞精",
+      "口交",
+      "屁股",
+      "潮吹",
+      "自慰",
+      "女上位",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-582"
+  },
+  {
+    "id": 70443,
+    "IDcode": "MADV-583",
+    "title": "追撃の達人 一回の射精で終わると思ったら大間違いなんだから…有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "巨乳",
+      "恋乳癖",
+      "过膝袜",
+      "骑乗位",
+      "屁股",
+      "潮吹",
+      "乳交",
+      "中出",
+      "手淫",
+      "单体作品",
+      "女上位",
+      "泳装",
+      "无毛",
+      "舔阴",
+      "乳液",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有村希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-583"
+  },
+  {
+    "id": 69370,
+    "IDcode": "MADV-584",
+    "title": "ばちぼこちゃん。大人しそうなのにパイパン…透明感がスゴい上品なお姉さん あおい「わたし…SEX大好きなんです」思わず惚れそうになるくらいかわいい喘ぎ声で男を惑わすM気質な色白美女をクタクタになるまでハメ倒しちゃいました！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "连裤袜",
+      "第一人称摄影",
+      "手淫",
+      "无毛",
+      "舔阴",
+      "颜射",
+      "巨大阴茎",
+      "过膝袜",
+      "中出",
+      "迷你裙",
+      "接吻",
+      "按摩棒",
+      "荡妇",
+      "乳房",
+      "苗条",
+      "手指插入",
+      "口交",
+      "潮吹",
+      "自慰",
+      "姐姐",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/778076db78fcd423e971abb1462c2187.jpg",
+    "actress": [
+      "中城葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-584"
+  },
+  {
+    "id": 6708,
+    "IDcode": "MADV-585",
+    "title": "學霸校花穿違規體操服勾引老師，連番中出根本停不下來 ~ 宮西光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
+      "女學生",
+      "口爆",
+      "美臀",
+      "深喉",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "勾引・誘惑",
+      "打手槍",
+      "絕頂高潮",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "女僕制服",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "潮吹",
+      "顔面騎乘",
+      "4K",
+      "乳交",
+      "清純",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感",
+      "跳蛋",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689acb9455337d7f7be48fd2/cover.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-585"
+  },
+  {
+    "id": 6694,
+    "IDcode": "MADV-586",
+    "title": "把素人當玩具玩到爽爆 椿りかの辣妹癡女調教M男大作戰 ~ 椿りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "粉絲福利",
+      "小隻馬",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "癡女",
+      "淫語",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "按摩棒",
+      "明星臉",
+      "打手槍",
+      "絕頂高潮",
+      "M男・M女",
+      "辣妹/GAL系",
+      "色白",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "女優",
+      "粉丝",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "4K",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "真人秀",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420073258471471_thumbnail.webp",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-586"
+  },
+  {
+    "id": 5825,
+    "IDcode": "MADV-587",
+    "title": "競泳水着NTR 巨乳美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 雪代一鳳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "美腳",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "人妻",
+      "淫妻",
+      "舔陰",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "御姐系",
+      "自宅",
+      "劇情",
+      "完全着衣",
+      "抹油",
+      "性感",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "無毛",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "顏射",
+      "美人妻",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "後入",
+      "濕身",
+      "跳蛋",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524000337805805_thumbnail.webp",
+    "actress": [
+      "雪代一鳳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-587"
+  },
+  {
+    "id": 6236,
+    "IDcode": "MADV-588",
+    "title": "脱いだら凄い極上くびれボディを持つおっとり猫系爆乳女子と中出し着衣SEX 佐山由依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "主觀視角",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "完全着衣",
+      "打手槍",
+      "白絲",
+      "絕頂高潮",
+      "無毛",
+      "高顏值",
+      "企畫",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "清純",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "足交",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505100525251010_thumbnail.webp",
+    "actress": [
+      "佐山由依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-588"
+  },
+  {
+    "id": 4832,
+    "IDcode": "MADV-589",
+    "title": "主人別憋著！絕美女僕的超火辣誘惑，透明兔女郎比全裸還騷，騎乘位瘋狂榨取 ~ 美咲佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "美腳",
+      "女僕",
+      "高妹",
+      "口爆",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "露出",
+      "中出",
+      "大姐姐",
+      "劇情",
+      "顏射",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "美人",
+      "美乳",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "後入",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081443576576_thumbnail.webp",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-589"
+  },
+  {
+    "id": 63684,
+    "IDcode": "MADV-590",
+    "title": "シン・素人マスク性欲処理マゾメス 8",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "巨大屁股",
+      "中出",
+      "拘束",
+      "多P",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae5f35682e2e9281a54b5f/cover.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-590"
+  },
+  {
+    "id": 5070,
+    "IDcode": "MADV-591",
+    "title": "同人圈淫亂派對 角色扮演群交聚會 ~ 宮城理惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "高清画质",
+      "美腳",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "劇情",
+      "顏射",
+      "阪道系",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "美人",
+      "泳裝",
+      "顔面騎乘",
+      "巨尻",
+      "口交",
+      "4K",
+      "自慰",
+      "女上位",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae64f1682e2e9281a54bb9/cover.jpg",
+    "actress": [
+      "宮城理惠",
+      "大志"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-591"
+  },
+  {
+    "id": 4659,
+    "IDcode": "MADV-592",
+    "title": "競泳泳裝NTR 膚白大奶的前輩高叉泳裝誘惑 婚後還被她榨乾多次 ~ 北野未奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "美腳",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "劇情",
+      "打手槍",
+      "無毛",
+      "色白",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "美人",
+      "泳裝",
+      "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "跳蛋",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103902758758_62624_thumbnail.webp",
+    "actress": [
+      "北野未奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-592"
+  },
+  {
+    "id": 63050,
+    "IDcode": "MADV-593",
+    "title": "MADV-593 悔しいことに先生のアレとの相性は抜群でした 死ぬほど嫌いな先生に…泣きたくなるほどイカされて… 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "玩具",
+      "骑乗位",
+      "潮吹",
+      "中出",
+      "校服",
+      "女生",
+      "学校泳装",
+      "颜射",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/059d495e748c96a51cbc39055ca5ccb4.jpg",
+    "actress": [
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-593"
+  },
+  {
+    "id": 190125,
+    "IDcode": "MADV-594",
+    "title": "パンスト×ハイレグ競泳水着 透ける美脚にくっきりマン筋…Gカップ巨乳のパイパン極上美女と何度も着衣SEX 似鳥日菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-594"
+  },
+  {
+    "id": 4241,
+    "IDcode": "MADV-595",
+    "title": "认真优秀的巨乳前辈的秘密减压方法是全身-羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "網襪",
+      "高妹",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "野性",
+      "癡女",
+      "舔陰",
+      "中出",
+      "猥褻穿著",
+      "辦公室",
+      "劇情",
+      "後入",
+      "勾引・誘惑",
+      "打手槍",
+      "女同事",
+      "辣妹/GAL系",
+      "顏射",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "情趣內衣",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "大奶头",
+      "性感",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210314619619_85580_thumbnail.webp",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-595"
+  },
+  {
+    "id": 3672,
+    "IDcode": "MADV-596",
+    "title": "クリスタル映像40周年記念作品 令和版 私は痴女 あや×えな×さちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "美腳",
+      "網襪",
+      "高妹",
+      "女學生",
+      "小隻馬",
+      "口爆",
+      "癡女",
+      "舔陰",
+      "露出",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "猥褻穿著",
+      "美少女電影",
+      "自宅",
+      "美少女",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "港區女子",
+      "色白",
+      "苗條",
+      "高顏值",
+      "黑絲",
+      "角色扮演",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "4K",
+      "清純",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811031733704704_54914_thumbnail.webp",
+    "actress": [
+      "小那海綾",
+      "小梅惠奈",
+      "胡桃多惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-596"
+  },
+  {
+    "id": 3730,
+    "IDcode": "MADV-597",
+    "title": "黒髪系美巨乳癒し女子は甘い言葉で男を責める小悪魔アマサド痴女 真白ふわり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "奇聞趣事",
+      "劇情",
+      "美少女",
+      "M男・M女",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "美人",
+      "素人",
+      "口交",
+      "巨乳",
+      "4K",
+      "清純",
+      "女上位",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013751327327_91556_thumbnail.webp",
+    "actress": [
+      "真白風羽里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-597"
+  },
+  {
+    "id": 3274,
+    "IDcode": "MADV-598",
+    "title": "学校イチかわいくて眼鏡が似合う女生徒に校則違反水着で迫られ…何度も何度もしずかと中出しSEXしてしまった 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "女學生",
+      "口爆",
+      "臀控",
+      "文藝女",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "眼鏡",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "校園生活",
+      "美少女",
+      "後入",
+      "無毛",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "阪道系",
+      "同學",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
+      "慾求不滿",
+      "潮吹",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "大奶头",
+      "JK校服",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21d73fbe7fd63de7f71fe/cover.jpg",
+    "actress": [
+      "静河"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-598"
+  },
+  {
+    "id": 3293,
+    "IDcode": "MADV-599",
+    "title": "競泳水着NTR くびれ巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 広瀬美結",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "蠻橫嬌羞",
+      "口爆",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "淫妻",
+      "舔陰",
+      "鄰居",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "打手槍",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "綠茶婊",
+      "後入",
+      "性感",
+      "跳蛋",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21de7fbe7fd63de7f7201/cover.jpg",
+    "actress": [
+      "広瀬美結"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-599"
+  },
+  {
+    "id": 60848,
+    "IDcode": "MADV-600",
+    "title": "競泳水着NTR 黒髪巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 小野坂ゆいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "巨乳",
+      "淫妻",
+      "乳交",
+      "中出",
+      "自慰",
+      "女上位",
+      "学校泳装",
+      "乳液",
+      "颜射",
+      "出轨",
+      "NTR",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小野坂唯香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-600"
+  },
+  {
+    "id": 2525,
+    "IDcode": "MADV-601",
+    "title": "兄にヤキモチ全開！！ボクのことが好き過ぎるいもうとの大胆誘惑！！全裸よりSKBなエロメイド痴女の濃厚なる禁断SEX 北岡果林",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "清楚系",
+      "女僕",
+      "二次元",
+      "口爆",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "打手槍",
+      "色白",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "美人",
+      "女僕制服",
+      "口交",
+      "4K",
+      "清純",
+      "自慰",
+      "女上位",
+      "後入",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北岡果林"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-601"
+  },
+  {
+    "id": 60413,
+    "IDcode": "MADV-602",
+    "title": "同人系爆乳サークル コスプレ輪交OFF会 MAHIRU I-cup 98cm 櫻茉日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "巨乳",
+      "单体作品",
+      "玩具",
+      "中出",
+      "学校泳装",
+      "女医生",
+      "多P",
+      "女佣"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "堀北実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-602"
+  },
+  {
+    "id": 176789,
+    "IDcode": "MADV-603",
+    "title": "シン・素人マスク性欲処理マゾメス 9 HIMARI I-cup 100cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-603"
+  },
+  {
+    "id": 173489,
+    "IDcode": "MADV-604",
+    "title": "競泳水着NTR 黒髪巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 黒島玲衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-604"
+  },
+  {
+    "id": 175967,
+    "IDcode": "MADV-606",
+    "title": "研修でまさかの性処理業務 従順素直で爆乳な新入社員の誰にも言えないストレス発散方法は全身透け透けタイツ痴女 宍戸里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-606"
+  },
+  {
+    "id": 173483,
+    "IDcode": "MADV-607",
+    "title": "令和版 私は痴女 ひなみ×りんか×ひなこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-607"
+  },
+  {
+    "id": 173429,
+    "IDcode": "MADV-608",
+    "title": "「言わないで…」嫁の留守中に現役女子大生の義妹が家に来て…無防備なその肉体にガマン出来ない俺は、何度も中出しをしてしまった… 春乃るる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-608"
+  },
+  {
+    "id": 435325,
+    "IDcode": "MAG-003",
+    "title": "719AV女优のホントのSEX见せて下さい 姫咲はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/81395fa67a8e0a67444696201ab27b47.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAG-003"
+  },
+  {
+    "id": 435336,
+    "IDcode": "MAG-004",
+    "title": "女优のホントのSEX见せて下さい 绀野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/06df3460c3f78dcf17a90ad3f28bc117.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAG-004"
+  },
+  {
+    "id": 592815,
+    "IDcode": "MAG-012",
+    "title": "AV女优のホントのSEX见せて下さい 篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic48.anzise.com/pic/20230323/b8f118139eea20ca0e06ea1aa0bcf0ce/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAG-012"
+  },
+  {
+    "id": 539293,
+    "IDcode": "MAGG-011",
+    "title": "欲求不満人妻 膣痉挛中出しオイルマッサージ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAGG-011"
+  },
+  {
+    "id": 591454,
+    "IDcode": "MAGN-008",
+    "title": "素人娘を口说けず惨败！昏睡中に感じさせて执念の挿入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAGN-008"
+  },
+  {
+    "id": 519310,
+    "IDcode": "MAGURO-064",
+    "title": "千岁由良的肉弹●巴士太色情巨乳迷你裙丁字裤荡妇骑 - 七草千岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/08/22486_cover_2025-09-08_190806.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAGURO-064"
+  },
+  {
+    "id": 517657,
+    "IDcode": "MAGURO-071",
+    "title": "巨乳暈肉慾癡漢巴士 西村妮娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69029af479f1ac4ec4ca58cb/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAGURO-071"
+  },
+  {
+    "id": 543909,
+    "IDcode": "MAH05300",
+    "title": "004、写真机构《推女郎》全套资源共150套~艾栗栗乱交~五批~",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAH05300"
+  },
+  {
+    "id": 166525,
+    "IDcode": "MAHND-364",
+    "title": "E-傳說中的初音DJ也下海啦！DJ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAHND-364"
+  },
+  {
+    "id": 524901,
+    "IDcode": "MAIKA",
+    "title": "has dong deeper and deep",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAIKA"
+  },
+  {
+    "id": 595110,
+    "IDcode": "MAJ-1003",
+    "title": "阿修罗の女达 长女は、次女の恋人と三女の夫を寝取る。次女は、长女の夫と母の爱人を寝取る。三女は、长女の夫と母の爱人を寝取る",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/9WQ0xdcj.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAJ-1003"
+  },
+  {
+    "id": 524892,
+    "IDcode": "MAKI",
+    "title": "水泽在热气腾腾的亚洲口交色情表演",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKI"
+  },
+  {
+    "id": 558787,
+    "IDcode": "MAKI-HOJO",
+    "title": "性按摩的乐趣北条真希Vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241214-1/6c4bb0747cac90dba57e91fc7e6be4a5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKI-HOJO"
+  },
+  {
+    "id": 522709,
+    "IDcode": "MAKO-0009",
+    "title": "夏酱淫语连发！童颜巨乳极致诱惑，樱桃社绝顶高潮实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKO-0009"
+  },
+  {
+    "id": 462952,
+    "IDcode": "MAKO-0040",
+    "title": "午間的戀人 茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bac5e8ce3e366423ce7ef1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKO-0040"
+  },
+  {
+    "id": 462953,
+    "IDcode": "MAKO-0041",
+    "title": "午間的戀人 美花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bac5b8ce3e366423ce7ef0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKO-0041"
+  },
+  {
+    "id": 401398,
+    "IDcode": "MAKT-013",
+    "title": "ぶっかけ覚醒いいなりドM調教 一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f17185f03a092cf5e5671/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKT-013"
+  },
+  {
+    "id": 98994,
+    "IDcode": "MAKT-014",
+    "title": "世間の厳しさを知らないお嬢様育ちの箱入り娘に強制中出し 加賀美まり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-10-27",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1133makt014/h_1133makt014pl.jpg",
+    "actress": [
+      "加贺美まり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAKT-014"
+  },
+  {
+    "id": 409545,
+    "IDcode": "MAMA-108",
+    "title": "美熟女 悩OOBody 6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dee363dbf24d4ed3180927/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-108"
+  },
+  {
+    "id": 216699,
+    "IDcode": "MAMA-188",
+    "title": "mama-188 初脱熟女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-188"
+  },
+  {
+    "id": 217228,
+    "IDcode": "MAMA-302",
+    "title": "mama-302 出轨的妻子是了不起的妓女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-302"
+  },
+  {
+    "id": 218131,
+    "IDcode": "MAMA-340",
+    "title": "泡姫殿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-340"
+  },
+  {
+    "id": 218158,
+    "IDcode": "MAMA-348",
+    "title": "人妻温泉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-348"
+  },
+  {
+    "id": 218181,
+    "IDcode": "MAMA-356",
+    "title": "成熟女人的歌舞表演",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-356"
+  },
+  {
+    "id": 518505,
+    "IDcode": "MAMA-379",
+    "title": "三重蕾絲邊 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffa1c231a2714f1c750575/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-379"
+  },
+  {
+    "id": 518478,
+    "IDcode": "MAMA-387",
+    "title": "三重蕾絲邊 14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69013b84d6fbef4e90162133/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMA-387"
+  },
+  {
+    "id": 524893,
+    "IDcode": "MAMAI",
+    "title": "姬给角质男性完美亚洲口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAMAI"
+  },
+  {
+    "id": 83118,
+    "IDcode": "MAME-001",
+    "title": "本生！スマホ縦撮りハメ動画",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "第一人称摄影",
+      "高中女生",
+      "猎艳",
+      "4小时以上作品",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6e77ef481b35688353abb71e15ec24d5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAME-001"
   }
 ];

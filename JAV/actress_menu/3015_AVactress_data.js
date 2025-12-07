@@ -821,7 +821,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2021-10-05",
       "cover_url": "https://imgsiwa.com:5278/cvjpg/WXxM8dTp.jpg",
       "actress": [
@@ -1374,7 +1374,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-5/0f2e4c5bcfb06de529fd54f3438fa5b8.jpg",
       "actress": [
@@ -3717,7 +3717,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2024/01/19/8915fb61c1fdd73e8b4f22b6b8cf055c.jpg",
       "actress": [
@@ -3842,7 +3842,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240512-1/1d5fccc595d3339df0b12725bfb98118.jpg",
       "actress": [
@@ -3966,7 +3966,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e586a54e7d663df43d0dea/cover.jpg",
       "actress": [
@@ -4270,7 +4270,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240830-1/4dc215ce49ac158155075fef10eb12e7.jpg",
       "actress": [
@@ -4442,7 +4442,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/2999c99ee2ca4004b7d1a0f0e1878925.jpg",
       "actress": [
@@ -5147,7 +5147,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250401-1/4ae9f1ce4ab5ed28a97a323ea4a1a6df.jpg",
       "actress": [
@@ -5269,7 +5269,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250410/f3b39da8-ee08-42b0-bbe4-6cc3850f56ff.jpg",
       "actress": [
@@ -5437,7 +5437,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173506206206_thumbnail.webp",
       "actress": [
@@ -5508,7 +5508,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/07/02/4767694bec044b658c469540e981d928.jpg",
       "actress": [
@@ -5858,7 +5858,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

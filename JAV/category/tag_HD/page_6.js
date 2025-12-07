@@ -1,8 +1,32 @@
 window.PAGE_DATA = [
   {
+    "id": 78430,
+    "IDcode": "KKJ-105",
+    "title": "認真把妹 搭訕→外帶→幹砲偷拍→擅自PO網 型男搭訕師即刻開幹影片 34[有碼高清]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "口交",
+      "巨乳",
+      "高清画质",
+      "中文字幕",
+      "美少女电影",
+      "偷窥",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1e6b36f0e1306b41b2fcafe65c530c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKJ-105"
+  },
+  {
     "id": 538139,
     "IDcode": "KSJK-003",
-    "title": "[] 激ピス専用オナホール生徒パン！パッン！パアアアッッン！ 生意気少女をのり巻き拘束―永远に终わらない超ハイパーピス",
+    "title": "激ピス専用オナホール生徒パン！パッン！パアアアッッン！ 生意気少女をのり巻き拘束―永远に终わらない超ハイパーピス",
     "year": "",
     "country": "",
     "genre": "",
@@ -10,13 +34,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240118/ksjk003pl.jpg!320x216.jpg",
     "actress": [],
@@ -25,7 +43,7 @@ window.PAGE_DATA = [
   {
     "id": 576080,
     "IDcode": "KSJK-004",
-    "title": "[] マジックミラー凌● 壁の外だから安心安全。少女に远隔鬼畜いたずらワンダーランド るるちゃ。",
+    "title": "マジックミラー凌● 壁の外だから安心安全。少女に远隔鬼畜いたずらワンダーランド るるちゃ。",
     "year": "",
     "country": "",
     "genre": "",
@@ -33,13 +51,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DOGMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
-        "works_count": 308
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/ksjk00004pl.jpg",
     "actress": [],
@@ -48,7 +60,7 @@ window.PAGE_DATA = [
   {
     "id": 538672,
     "IDcode": "KYK-002",
-    "title": "[][AI增强] [--] このオンナ妻につき 2",
+    "title": "[AI增强] [--] このオンナ妻につき 2",
     "year": "",
     "country": "",
     "genre": "",
@@ -57,7 +69,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240626/1611200066-118kyk002pl.jpg!320x216.jpg",
     "actress": [],
@@ -71,17 +83,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FalenoTube",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FalenoTube",
-        "works_count": 4
-      }
-    ],
+    "company": "FalenoTube",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240605/NUTtfPGD/1.jpg",
     "actress": [],
@@ -98,13 +104,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FalenoTube",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FalenoTube",
-        "works_count": 4
-      }
-    ],
+    "company": "FalenoTube",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240702/vdiPNIPd/1.jpg",
     "actress": [],
@@ -113,7 +113,7 @@ window.PAGE_DATA = [
   {
     "id": 537311,
     "IDcode": "LHTD-037",
-    "title": "[] チャレンジ！タイマー电マ ゆうり 桐香ゆうり",
+    "title": "チャレンジ！タイマー电マ ゆうり 桐香ゆうり",
     "year": "",
     "country": "",
     "genre": "",
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230909/LHTD037.jpg!320x216.jpg",
     "actress": [],
@@ -130,22 +130,16 @@ window.PAGE_DATA = [
   {
     "id": 532662,
     "IDcode": "LULU-184",
-    "title": "[] 早漏すぎて初めての彼女にフラれた仆を见かねた心优しい巨乳姊の超スローピストンから",
+    "title": "早漏すぎて初めての彼女にフラれた仆を见かねた心优しい巨乳姊の超スローピストンから",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230611/lulu184pl.jpg!320x216.jpg",
     "actress": [],
@@ -154,22 +148,16 @@ window.PAGE_DATA = [
   {
     "id": 532671,
     "IDcode": "LULU-188",
-    "title": "[] 欲求不満を隠せない天然どすけべ巨乳叔母さんの豊満ムチムチボディに我慢できず近亲勃起し",
+    "title": "欲求不満を隠せない天然どすけべ巨乳叔母さんの豊満ムチムチボディに我慢できず近亲勃起し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230620/lulu188pl.jpg!320x216.jpg",
     "actress": [],
@@ -178,7 +166,7 @@ window.PAGE_DATA = [
   {
     "id": 541664,
     "IDcode": "LULU-190",
-    "title": "[] 仆のことが好きすぎる侄っ子J系に溺れるほどヨダレを饮まされフル勃起！とろっとろ唾液ベロちゅうで理性を溶か",
+    "title": "仆のことが好きすぎる侄っ子J系に溺れるほどヨダレを饮まされフル勃起！とろっとろ唾液ベロちゅうで理性を溶か",
     "year": "",
     "country": "",
     "genre": "",
@@ -186,13 +174,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230909/lulu190pl.jpg!320x216.jpg",
     "actress": [],
@@ -201,22 +183,16 @@ window.PAGE_DATA = [
   {
     "id": 532910,
     "IDcode": "LULU-192",
-    "title": "[] 性欲旺盛ビンビン甥っ子の突撃即ハメSEXをいなしてスローな射精コントロールでじっくり盛りち○ぽを弄ぶ元ヤリマン巨乳",
+    "title": "性欲旺盛ビンビン甥っ子の突撃即ハメSEXをいなしてスローな射精コントロールでじっくり盛りち○ぽを弄ぶ元ヤリマン巨乳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -225,7 +201,7 @@ window.PAGE_DATA = [
   {
     "id": 533097,
     "IDcode": "LULU-196",
-    "title": "[] 妻では味わえない絶品フェラで呼び出せばごっくんしてくれる都合の良い最高の精饮爱人 弥生みづき",
+    "title": "妻では味わえない絶品フェラで呼び出せばごっくんしてくれる都合の良い最高の精饮爱人 弥生みづき",
     "year": "",
     "country": "",
     "genre": "",
@@ -233,13 +209,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu196pl.jpg!320x216.jpg",
     "actress": [],
@@ -248,22 +218,16 @@ window.PAGE_DATA = [
   {
     "id": 533096,
     "IDcode": "LULU-197",
-    "title": "[] 残业中、2人きりの社内でパツパツスーツの絶伦アラサー巨乳上司の婚活おっぱいトラップにハマり孕むまで何度も中出",
+    "title": "残业中、2人きりの社内でパツパツスーツの絶伦アラサー巨乳上司の婚活おっぱいトラップにハマり孕むまで何度も中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu197pl.jpg!320x216.jpg",
     "actress": [],
@@ -272,22 +236,16 @@ window.PAGE_DATA = [
   {
     "id": 533095,
     "IDcode": "LULU-201",
-    "title": "[] 同じマンションに住む年上巨乳ギャルお姊さんに何発でも射精できる絶伦若硬ニートち○ぽに目をつけられ何度も中出",
+    "title": "同じマンションに住む年上巨乳ギャルお姊さんに何発でも射精できる絶伦若硬ニートち○ぽに目をつけられ何度も中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu201pl.jpg!320x216.jpg",
     "actress": [],
@@ -296,7 +254,7 @@ window.PAGE_DATA = [
   {
     "id": 542060,
     "IDcode": "LULU-278",
-    "title": "[] 部活女子侄っ子J系の色白美乳おっぱいに我慢できず即ハメしたら初めての中年叔父デカち○ぽピストンにどハマりしお漏",
+    "title": "部活女子侄っ子J系の色白美乳おっぱいに我慢できず即ハメしたら初めての中年叔父デカち○ぽピストンにどハマりしお漏",
     "year": "",
     "country": "",
     "genre": "",
@@ -304,13 +262,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "LUNATICS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_LUNATICS",
-        "works_count": 321
-      }
-    ],
+    "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240407/lulu278pl.jpg!320x216.jpg",
     "actress": [],
@@ -327,7 +279,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/28989e8c1386fdf3337f95c7d558d782.jpg",
     "actress": [],
@@ -336,16 +288,16 @@ window.PAGE_DATA = [
   {
     "id": 532909,
     "IDcode": "MADM-165",
-    "title": "[] 笔おろしは邻の巨乳妻でした… 邻人のおっぱいポロリに负け童贞を夺われたボクはいつしかSに目覚め彼女を调教支配",
+    "title": "笔おろしは邻の巨乳妻でした… 邻人のおっぱいポロリに负け童贞を夺われたボクはいつしかSに目覚め彼女を调教支配",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231122/madm165pl.jpg!320x216.jpg",
     "actress": [],
@@ -354,16 +306,16 @@ window.PAGE_DATA = [
   {
     "id": 537381,
     "IDcode": "MADM-170",
-    "title": "[] 巨乳妻の勃起乳首は舐められるのを待っている… 乳轮がエロい淫乱モンスターの性欲爆発性交",
+    "title": "巨乳妻の勃起乳首は舐められるのを待っている… 乳轮がエロい淫乱モンスターの性欲爆発性交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230928/madm170pl.jpg!320x216.jpg",
     "actress": [],
@@ -372,17 +324,17 @@ window.PAGE_DATA = [
   {
     "id": 562966,
     "IDcode": "MADM-173",
-    "title": "【】巨乳デカ尻むちむち人妻インストラクター 露出度高めな変态ウェアの大胆诱惑 梦にみた神展",
+    "title": "巨乳デカ尻むちむち人妻インストラクター 露出度高めな変态ウェアの大胆诱惑 梦にみた神展",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231026/pFzd0kSR/1.jpg",
     "actress": [],
@@ -391,16 +343,16 @@ window.PAGE_DATA = [
   {
     "id": 546101,
     "IDcode": "MADM-178",
-    "title": "【】肉感强めな巨乳诱惑… 性欲処理は隠れ痴女な兄嫁と… 失业して兄の家にお世话になった仆は",
+    "title": "肉感强めな巨乳诱惑… 性欲処理は隠れ痴女な兄嫁と… 失业して兄の家にお世话になった仆は",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240313/36aKw5k8/1.jpg",
     "actress": [],
@@ -409,7 +361,7 @@ window.PAGE_DATA = [
   {
     "id": 546100,
     "IDcode": "MADM-179",
-    "title": "【】私…これから不伦します。旦那が家に连れてきた会社の后辈は…过去に一度、抱かれた男…",
+    "title": "私…これから不伦します。旦那が家に连れてきた会社の后辈は…过去に一度、抱かれた男…",
     "year": "",
     "country": "",
     "genre": "",
@@ -417,7 +369,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240313/hwubaj5n/1.jpg",
     "actress": [],
@@ -426,7 +378,7 @@ window.PAGE_DATA = [
   {
     "id": 545254,
     "IDcode": "MADM-185",
-    "title": "【】“家远いの？じゃあ…うちに泊りにくれば”终电を逃し家に泊めてもらったら普段は真面目な上",
+    "title": "“家远いの？じゃあ…うちに泊りにくれば”终电を逃し家に泊めてもらったら普段は真面目な上",
     "year": "",
     "country": "",
     "genre": "",
@@ -434,7 +386,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240626/JunvHkVk/1.jpg",
     "actress": [],
@@ -448,11 +400,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/ffdb6e03fdfee40dc8c944a29b6103a9.jpg",
     "actress": [],
@@ -466,44 +418,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "性感睡衣",
       "真實拍攝",
-      "素人作品",
-      "4K",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "寢取",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "劇情",
       "高清画质",
+      "亂交 • 群P",
+      "NTR",
+      "人妻",
+      "淫妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "劇情",
+      "按摩棒",
+      "明星臉",
+      "色白",
+      "高顏值",
+      "企畫",
+      "素人作品",
+      "美人妻",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "性感睡衣",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
       "乳交",
+      "4K",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "寢取",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/ff09b9e05c352085a303b35c698934d9.jpg",
     "actress": [
@@ -514,7 +466,7 @@ window.PAGE_DATA = [
   {
     "id": 537632,
     "IDcode": "MADV-522",
-    "title": "[] ばちぼこちゃん。スレンダーパイパン潮吹き女子大生 まいか“耻ずかしいけど…セックス好きなんだもん”",
+    "title": "ばちぼこちゃん。スレンダーパイパン潮吹き女子大生 まいか“耻ずかしいけど…セックス好きなんだもん”",
     "year": "",
     "country": "",
     "genre": "",
@@ -522,13 +474,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231108/madv522pl.jpg!320x216.jpg",
     "actress": [],
@@ -537,7 +483,7 @@ window.PAGE_DATA = [
   {
     "id": 532908,
     "IDcode": "MADV-528",
-    "title": "[] ばちぼこちゃん。脱いだらすごいスレンダーGカップ…愈し系潮吹き女子大生 ほの “耻ずかしいけど",
+    "title": "ばちぼこちゃん。脱いだらすごいスレンダーGカップ…愈し系潮吹き女子大生 ほの “耻ずかしいけど",
     "year": "",
     "country": "",
     "genre": "",
@@ -545,13 +491,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231122/madv528pl.jpg!320x216.jpg",
     "actress": [],
@@ -560,7 +500,7 @@ window.PAGE_DATA = [
   {
     "id": 537356,
     "IDcode": "MADV-534",
-    "title": "[] 追撃の达人 一回の射精で终わると思ったら大间违いなんだから… 朝仓ここな",
+    "title": "追撃の达人 一回の射精で终わると思ったら大间违いなんだから… 朝仓ここな",
     "year": "",
     "country": "",
     "genre": "",
@@ -568,13 +508,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230919/madv534pl.jpg!320x216.jpg",
     "actress": [],
@@ -583,7 +517,7 @@ window.PAGE_DATA = [
   {
     "id": 537492,
     "IDcode": "MADV-540",
-    "title": "[] 制服女子监禁ペット调教 あい ワタシノハジメテハ…ミシラヌオトコ。 乃々瀬あい",
+    "title": "制服女子监禁ペット调教 あい ワタシノハジメテハ…ミシラヌオトコ。 乃々瀬あい",
     "year": "",
     "country": "",
     "genre": "",
@@ -591,13 +525,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://155.sl155cf.com/upload/vod/20231014/madv540pl.jpg!320x216.jpg",
     "actress": [],
@@ -606,7 +534,7 @@ window.PAGE_DATA = [
   {
     "id": 547753,
     "IDcode": "MADV-541",
-    "title": "【】色白ギャル肉食系痴女 イキ癖ついてる潮吹きエロBODY 自ら腰をくねらせ体力続くまで限",
+    "title": "色白ギャル肉食系痴女 イキ癖ついてる潮吹きエロBODY 自ら腰をくねらせ体力続くまで限",
     "year": "",
     "country": "",
     "genre": "",
@@ -614,13 +542,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231010/yJqEL6sE/1.jpg",
     "actress": [],
@@ -629,7 +551,7 @@ window.PAGE_DATA = [
   {
     "id": 562650,
     "IDcode": "MADV-544",
-    "title": "【】个人撮影会で噂の美女はまさかの仆の上司 口止めを条件に生コスプレ诱惑…何度も中出し痴女责め性交",
+    "title": "个人撮影会で噂の美女はまさかの仆の上司 口止めを条件に生コスプレ诱惑…何度も中出し痴女责め性交",
     "year": "",
     "country": "",
     "genre": "",
@@ -637,13 +559,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231215/SxhiVIEQ/1.jpg",
     "actress": [],
@@ -652,7 +568,7 @@ window.PAGE_DATA = [
   {
     "id": 561729,
     "IDcode": "MADV-550",
-    "title": "【】部活女子监禁ペット调教 ひかる ドウシテワタシガコンナメニ…",
+    "title": "部活女子监禁ペット调教 ひかる ドウシテワタシガコンナメニ…",
     "year": "",
     "country": "",
     "genre": "",
@@ -660,13 +576,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240229/Ea02rk5t/1.jpg",
     "actress": [],
@@ -675,7 +585,7 @@ window.PAGE_DATA = [
   {
     "id": 545197,
     "IDcode": "MADV-559",
-    "title": "【】いちゃらぶイカせエッチ ハメ撮りサセコちゃん。Deluxe 3人収录 めい みおん りの",
+    "title": "いちゃらぶイカせエッチ ハメ撮りサセコちゃん。Deluxe 3人収录 めい みおん りの",
     "year": "",
     "country": "",
     "genre": "",
@@ -683,13 +593,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240710/61oT2XJ5/1.jpg",
     "actress": [],
@@ -698,7 +602,7 @@ window.PAGE_DATA = [
   {
     "id": 545129,
     "IDcode": "MADV-560",
-    "title": "【】学校イチ人気で眼镜が似合う生徒に校则违反水着で迫られ…何度も何度もあずと中出しSEXし",
+    "title": "学校イチ人気で眼镜が似合う生徒に校则违反水着で迫られ…何度も何度もあずと中出しSEXし",
     "year": "",
     "country": "",
     "genre": "",
@@ -706,13 +610,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240724/zjDbWHvi/1.jpg",
     "actress": [],
@@ -721,7 +619,7 @@ window.PAGE_DATA = [
   {
     "id": 545143,
     "IDcode": "MADV-561",
-    "title": "【】兄の巨根を溺爱！无防备が过ぎる妹の过激诱惑！全裸よりSKBな透明バニー痴女のベロキス杭",
+    "title": "兄の巨根を溺爱！无防备が过ぎる妹の过激诱惑！全裸よりSKBな透明バニー痴女のベロキス杭",
     "year": "",
     "country": "",
     "genre": "",
@@ -729,13 +627,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240724/gxlW3kWJ/1.jpg",
     "actress": [],
@@ -749,17 +641,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a7aa848cce1a927aff4bea/cover.jpg",
     "actress": [],
@@ -773,40 +659,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "3P・4P",
-      "巨尻",
-      "游戲COSPLAY",
-      "阪道系",
-      "4K",
-      "美腳",
-      "癡女",
-      "口交",
-      "性感",
-      "單體作品",
-      "極品美人",
       "蠻橫嬌羞",
+      "高清画质",
+      "美腳",
+      "單體作品",
+      "癡女",
+      "舔陰",
       "中出",
-      "美人",
-      "後入",
+      "極品美人",
       "劇情",
       "顏射",
-      "高清画质",
-      "舔陰",
+      "阪道系",
+      "游戲COSPLAY",
       "手指插入",
-      "自慰",
+      "騎乗位",
+      "美人",
+      "泳裝",
       "顔面騎乘",
+      "巨尻",
+      "口交",
+      "4K",
+      "自慰",
       "女上位",
-      "騎乗位"
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae64f1682e2e9281a54bb9/cover.jpg",
     "actress": [
@@ -823,45 +703,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "打手槍",
-      "口爆",
-      "苗條",
-      "4K",
+      "高清画质",
       "美腳",
+      "口爆",
+      "美臀",
+      "單體作品",
       "癡女",
-      "胸控・戀乳癖",
+      "淫妻",
+      "舔陰",
+      "中出",
+      "劇情",
+      "打手槍",
+      "無毛",
       "色白",
-      "巨乳",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "美人",
+      "泳裝",
       "口交",
+      "巨乳",
+      "乳交",
+      "4K",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
       "性感",
       "跳蛋",
-      "單體作品",
-      "NTR",
-      "超爆乳",
-      "淫妻",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "高清画质",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103902758758_62624_thumbnail.webp",
     "actress": [
@@ -872,7 +746,7 @@ window.PAGE_DATA = [
   {
     "id": 517081,
     "IDcode": "MASE-052",
-    "title": "【】與已婚女人的初體驗…最令",
+    "title": "與已婚女人的初體驗…最令",
     "year": "",
     "country": "",
     "genre": "",
@@ -881,7 +755,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -890,7 +764,7 @@ window.PAGE_DATA = [
   {
     "id": 517080,
     "IDcode": "MASE-053",
-    "title": "[][]與已婚女子的初體",
+    "title": "與已婚女子的初體",
     "year": "",
     "country": "",
     "genre": "",
@@ -899,7 +773,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -908,7 +782,7 @@ window.PAGE_DATA = [
   {
     "id": 517083,
     "IDcode": "MASE-054",
-    "title": "[][]與已婚女人的第一",
+    "title": "與已婚女人的第一",
     "year": "",
     "country": "",
     "genre": "",
@@ -917,7 +791,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -926,7 +800,7 @@ window.PAGE_DATA = [
   {
     "id": 550572,
     "IDcode": "MASE-061",
-    "title": "【】初体験は人妻と… 最高に羡ましい笔下ろし",
+    "title": "初体験は人妻と… 最高に羡ましい笔下ろし",
     "year": "",
     "country": "",
     "genre": "",
@@ -936,7 +810,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -955,7 +829,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -974,7 +848,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -989,17 +863,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "溜池",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_溜池",
-        "works_count": 945
-      }
-    ],
+    "company": "溜池",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240730/NErXtzP4/1.jpg",
     "actress": [],
@@ -1008,17 +876,17 @@ window.PAGE_DATA = [
   {
     "id": 589725,
     "IDcode": "MCDV-12",
-    "title": "[] 在南国海滩秘密的中出！ 立花沙耶[无码高清]",
+    "title": "在南国海滩秘密的中出！ 立花沙耶[无码高清]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "高清画质",
-      "中文字幕",
-      "无码"
+      "无码",
+      "中文字幕"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/decdb135c4096be4d256ee34f2556562.jpg",
     "actress": [],
@@ -1033,23 +901,17 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "已婚妇女",
-      "出轨",
+      "高清画质",
       "中文字幕",
       "纪录片",
       "中出",
       "素人作品",
-      "巨乳",
-      "高清画质"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Big Morkal",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
-        "works_count": 390
-      }
-    ],
+    "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6815e9b5933cdfb8f076b4a331877679.jpg",
     "actress": [
@@ -1060,7 +922,7 @@ window.PAGE_DATA = [
   {
     "id": 541964,
     "IDcode": "MCST-007",
-    "title": "[] 堕ちた若义母 仆はお义母さんの色気に我慢できず孕むまで中出しをした。",
+    "title": "堕ちた若义母 仆はお义母さんの色気に我慢できず孕むまで中出しをした。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1068,13 +930,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240212/57mcst00007pl.jpg!320x216.jpg",
     "actress": [],
@@ -1088,24 +944,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "女佣",
-      "无毛",
-      "中出",
-      "素人作品",
       "角色扮演者",
       "口交",
+      "主观视角",
       "高清画质",
-      "主观视角"
+      "中文字幕",
+      "中出",
+      "素人作品",
+      "无毛",
+      "女佣"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "K.M.P",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
-        "works_count": 1270
-      }
-    ],
+    "company": "K.M.P",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e25cceccb726f22bf8ecf6085dd9c7f7.jpg",
     "actress": [
@@ -1119,7 +969,7 @@ window.PAGE_DATA = [
   {
     "id": 533210,
     "IDcode": "MDON-033",
-    "title": "[] 配信限定 マドンナ専属女优の‘リアル’解禁。SEASON2 MADOOOON！！！！ 一乃あおい ハメ撮り",
+    "title": "配信限定 マドンナ専属女优の‘リアル’解禁。SEASON2 MADOOOON！！！！ 一乃あおい ハメ撮り",
     "year": "",
     "country": "",
     "genre": "",
@@ -1127,13 +977,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MADONNA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
-        "works_count": 1095
-      }
-    ],
+    "company": "MADONNA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240620/mdon00033pl.jpg!320x216.jpg",
     "actress": [],
@@ -1142,7 +986,7 @@ window.PAGE_DATA = [
   {
     "id": 590089,
     "IDcode": "MEKO-131",
-    "title": "() 锁定并桌居酒屋里独饮的熟女带回家！寂寞和欲求不满的素人太太的干涸肉体已经充分湿润VOL39[有码高清]-",
+    "title": "锁定并桌居酒屋里独饮的熟女带回家！寂寞和欲求不满的素人太太的干涸肉体已经充分湿润VOL39[有码高清]",
     "year": "",
     "country": "",
     "genre": "",
@@ -1152,7 +996,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/papachangpian-img/539d651e82.jpg",
     "actress": [],
@@ -1166,17 +1010,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "中文字幕",
       "业余",
+      "人妻",
+      "高清画质",
       "纪录片",
+      "中文字幕",
       "中出",
-      "成熟的女人",
-      "高清画质"
+      "偷窥",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/de7ebe9e8961e1a367e71abfd772cfb5.jpg",
     "actress": [
@@ -1192,17 +1036,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "素人",
       "业余",
+      "人妻",
+      "高清画质",
       "纪录片",
       "中出",
+      "偷窥",
       "成熟的女人",
-      "高清画质"
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2a694bf32dd711963d8dbd857b5559e3.jpg",
     "actress": [],
@@ -1216,25 +1060,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "素人",
-      "中文字幕",
-      "猎艳",
       "业余",
+      "巨乳",
+      "高清画质",
+      "中文字幕",
       "中出",
       "素人作品",
-      "巨乳",
+      "猎艳",
+      "4小时以上作品",
       "企画",
-      "高清画质"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1328052bb48ffe1deb9cd102567d498e.jpg",
     "actress": [
@@ -1253,24 +1091,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "4小时以上作品",
-      "素人",
-      "中文字幕",
-      "猎艳",
       "业余",
-      "素人作品",
       "巨乳",
-      "高清画质"
+      "高清画质",
+      "中文字幕",
+      "素人作品",
+      "猎艳",
+      "4小时以上作品",
+      "女大学生",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8ba9cc090ed6aa0757bcf26ee4af6cf.jpg",
     "actress": [
@@ -1292,13 +1124,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MOODYZ",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
-        "works_count": 2545
-      }
-    ],
+    "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240119/6EaF03LZ/1.jpg",
     "actress": [],
@@ -1316,7 +1142,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20220925/FlAILWec/1.jpg",
     "actress": [],
@@ -1325,7 +1151,7 @@ window.PAGE_DATA = [
   {
     "id": 533216,
     "IDcode": "MIDV-320",
-    "title": "[] 新人 もう一度アイドルになりたくて... 虹色ぐみ AV DEBUT",
+    "title": "新人 もう一度アイドルになりたくて... 虹色ぐみ AV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
@@ -1333,13 +1159,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MOODYZ",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
-        "works_count": 2545
-      }
-    ],
+    "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1353,21 +1173,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "美腳",
-      "美乳",
-      "中出",
       "口交",
-      "高清画质"
+      "高清画质",
+      "中出",
+      "美腳",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8a735aeb134bf5c412c80378cf0b75d4.jpg",
     "actress": [
@@ -1384,19 +1198,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美腳",
       "中出",
+      "美腳",
       "高清画质",
       "口交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2012-08-24",
     "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120053742516516.jpg",
     "actress": [
@@ -1413,22 +1221,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女",
-      "美乳",
-      "中出",
       "口交",
+      "高清画质",
+      "潮吹",
+      "中出",
       "顏射",
-      "高清画质"
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2012-10-08",
     "cover_url": "https://picture.yoshiclub.xyz/20230124/214714b6-a5db-44cf-b313-577e1ba3f6f6.webp",
     "actress": [
@@ -1445,18 +1247,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "高清画质",
+      "口交",
       "顏射",
-      "口交"
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2012-10-03",
     "cover_url": "https://picture.yoshiclub.xyz/20230127/2bebe2a8-7f96-4926-92ba-22d6d9fc6d22.webp",
     "actress": [
@@ -1472,21 +1268,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "肛交",
-      "中出",
       "口交",
+      "高清画质",
+      "中出",
       "苗條",
-      "高清画质"
+      "肛交",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2012-07-26",
     "cover_url": "https://picture.yoshiclub.xyz/20230131/634c8f22-d2e6-4ea8-8722-b4be6dc897cc.webp",
     "actress": [
@@ -1502,22 +1292,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "護士",
-      "美乳",
-      "中出",
-      "巨乳",
       "口交",
+      "巨乳",
+      "高清画质",
+      "中出",
+      "護士",
       "顏射",
-      "高清画质"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2012-09-14",
     "cover_url": "https://picture.yoshiclub.xyz/20230131/c37e3fa5-676a-475b-95d3-81849c8d26a4.webp",
     "actress": [
@@ -1528,18 +1312,18 @@ window.PAGE_DATA = [
   {
     "id": 589779,
     "IDcode": "MKD-S101",
-    "title": "[] 素人初体验 宫本七音[无码高清]",
+    "title": "素人初体验 宫本七音[无码高清]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
       "高清画质",
-      "中文字幕",
-      "无码"
+      "中文字幕"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1548,23 +1332,17 @@ window.PAGE_DATA = [
   {
     "id": 538202,
     "IDcode": "MNSE-031",
-    "title": "[] 【】マスク女子 爆乳みその 见た目も性格も愈しが过ぎるJカップと耻じらいハメ撮り 水原みその",
+    "title": "マスク女子 爆乳みその 见た目も性格も愈しが过ぎるJカップと耻じらいハメ撮り 水原みその",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "高清画质",
-      "巨乳"
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/mnse00031pl.jpg!320x216.jpg",
     "actress": [],
@@ -1573,7 +1351,7 @@ window.PAGE_DATA = [
   {
     "id": 576539,
     "IDcode": "MNSE-038",
-    "title": "[] 【】制服女子と初体験 最高に羡ましい笔おろし 白石かんな",
+    "title": "制服女子と初体験 最高に羡ましい笔おろし 白石かんな",
     "year": "",
     "country": "",
     "genre": "",
@@ -1582,13 +1360,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/mnse00038pl.jpg!320x216.jpg",
     "actress": [],
@@ -1597,7 +1369,7 @@ window.PAGE_DATA = [
   {
     "id": 576538,
     "IDcode": "MNSE-039",
-    "title": "[] 【】制服女子と初体験 最高に羡ましい笔おろし 琴石ゆめる",
+    "title": "制服女子と初体験 最高に羡ましい笔おろし 琴石ゆめる",
     "year": "",
     "country": "",
     "genre": "",
@@ -1606,13 +1378,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/mnse00039pl.jpg!320x216.jpg",
     "actress": [],
@@ -1621,7 +1387,7 @@ window.PAGE_DATA = [
   {
     "id": 576537,
     "IDcode": "MNSE-040",
-    "title": "[] 【】制服女子と初体験 最高に羡ましい笔おろし 真白みのり",
+    "title": "制服女子と初体験 最高に羡ましい笔おろし 真白みのり",
     "year": "",
     "country": "",
     "genre": "",
@@ -1630,13 +1396,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/mnse00040pl.jpg!320x216.jpg",
     "actress": [],
@@ -1654,13 +1414,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/f6060750a4df6a3f4cc6777cda429bcd.jpg",
     "actress": [],
@@ -1678,13 +1432,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/41424fd9ab441e69df1d53cbd9e9347d.jpg",
     "actress": [],
@@ -1702,13 +1450,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/72509999d17f562f7accb482bc54624a.jpg",
     "actress": [],
@@ -1717,7 +1459,7 @@ window.PAGE_DATA = [
   {
     "id": 576741,
     "IDcode": "MNSE-049",
-    "title": "[] 【】最高にそそられる制服中出しOKビッチ もも 本田もも",
+    "title": "最高にそそられる制服中出しOKビッチ もも 本田もも",
     "year": "",
     "country": "",
     "genre": "",
@@ -1726,13 +1468,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1741,7 +1477,7 @@ window.PAGE_DATA = [
   {
     "id": 576740,
     "IDcode": "MNSE-050",
-    "title": "[] 【】最高にそそられる制服中出しOKビッチ れい 美澄玲衣",
+    "title": "最高にそそられる制服中出しOKビッチ れい 美澄玲衣",
     "year": "",
     "country": "",
     "genre": "",
@@ -1750,13 +1486,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1774,13 +1504,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/e482db164aeca657b1d175c09c30d6f7.jpg",
     "actress": [],
@@ -1798,13 +1522,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "水晶映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_水晶映像",
-        "works_count": 545
-      }
-    ],
+    "company": "水晶映像",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c23deb67774efbb8f54c/cover.jpg",
     "actress": [],
@@ -1821,13 +1539,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "YONAKA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_YONAKA",
-        "works_count": 44
-      }
-    ],
+    "company": "YONAKA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250920/i4ozZyQE/1.jpg",
     "actress": [],
@@ -1842,20 +1554,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "屁股",
-      "多P",
-      "乳液",
+      "高清画质",
       "巨大屁股",
-      "高清画质"
+      "屁股",
+      "乳液",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "2022-09-15",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230929-1/6cb3c27fb01a40f04652440a3d3003ed.jpg",
     "actress": [
@@ -1874,13 +1580,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230511/49CvqAtm/1.jpg",
     "actress": [],
@@ -1897,13 +1597,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230830/eaTpQDzC/1.jpg",
     "actress": [],
@@ -1920,13 +1614,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230830/sYbSsbb5/1.jpg",
     "actress": [],
@@ -1940,25 +1628,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "兩男一女",
-      "3P・4P",
       "巨尻",
-      "中出",
       "巨乳",
+      "高清画质",
+      "兩男一女",
+      "潮吹",
+      "中出",
       "亂交 • 群P",
-      "性感",
       "抹油",
-      "高清画质"
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "2023-11-09",
     "cover_url": "https://picture.yoshiclub.xyz/20231103/c490a03f-1e28-4ee7-a9e9-b8583eb4d00a.jpg",
     "actress": [
@@ -1974,17 +1656,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240316/zHg6JpsL/1.jpg",
     "actress": [],
@@ -1998,49 +1674,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "跳蛋",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
       "蠻橫嬌羞",
-      "中出",
+      "高清画质",
+      "美腳",
+      "退休作品",
       "蕩婦",
-      "企畫",
-      "美腿",
-      "抹油",
-      "紀念作",
+      "亂交 • 群P",
+      "感官作品",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "明星臉",
       "絕頂高潮",
       "女優",
-      "高清画质",
-      "退休作品",
-      "美少女電影",
+      "高顏值",
+      "企畫",
       "手指插入",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "抹油",
+      "性感",
+      "跳蛋",
+      "3P・4P",
+      "紀念作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MATERIALL",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MATERIALL",
-        "works_count": 158
-      }
-    ],
+    "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/acbf47a78eb851722233cb5732a1ff19.jpg",
     "actress": [
@@ -2059,7 +1729,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2073,19 +1743,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "立即口交",
+      "荡妇",
       "口交",
-      "荡妇"
+      "高清画质",
+      "立即口交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MUGEN",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
-        "works_count": 1787
-      }
-    ],
+    "company": "MUGEN",
     "publish_date": "2014-07-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/2b1061871de7a86c8545d6cd4db4223f.jpg",
     "actress": [
@@ -2096,16 +1760,16 @@ window.PAGE_DATA = [
   {
     "id": 525244,
     "IDcode": "NASH-067",
-    "title": "() 熟女タウン东京鴬谷発！熟女デリヘル ご指名はぽっちゃり巨乳タイプでよろしいですね？こんなに太ってるのが来てごめんなさいねぇ。でもおっぱいは大きいわよん-720p",
+    "title": "熟女タウン东京鴬谷発！熟女デリヘル ご指名はぽっちゃり巨乳タイプでよろしいですね？こんなに太ってるのが来てごめんなさいねぇ。でもおっぱいは大きいわよん-720p",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/f53e1f352a22d3a01e2e1dda2b88b621.jpg",
     "actress": [],
@@ -2122,13 +1786,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "JET映像",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JET映像",
-        "works_count": 93
-      }
-    ],
+    "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240306-1/03ef36f314cc7518f5fb317120122a53.jpg",
     "actress": [],
@@ -2142,22 +1800,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "痴汉",
-      "羞耻",
-      "内衣",
       "巨乳",
+      "痴汉",
       "高清画质",
+      "羞耻",
+      "潮吹",
+      "内衣",
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "NATURAL HIGH",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NATURAL_HIGH",
-        "works_count": 1011
-      }
-    ],
+    "company": "NATURAL HIGH",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2179,7 +1831,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2188,7 +1840,7 @@ window.PAGE_DATA = [
   {
     "id": 525247,
     "IDcode": "NITR-448",
-    "title": "() 介护ボランティア女子大生と老人の浓厚接吻SEX",
+    "title": "介护ボランティア女子大生と老人の浓厚接吻SEX",
     "year": "",
     "country": "",
     "genre": "",
@@ -2196,7 +1848,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/59dd6ce20e11d66e8f9ef49307c0976e.jpg",
     "actress": [],
@@ -2214,7 +1866,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240126-1/a3420f8e7f28fa3c7a6af95bd9bc62bf.jpg",
     "actress": [],
@@ -2223,7 +1875,7 @@ window.PAGE_DATA = [
   {
     "id": 533179,
     "IDcode": "NITR-534",
-    "title": "[] シン・素人マスク性欲処理マゾメス 3",
+    "title": "シン・素人マスク性欲処理マゾメス 3",
     "year": "",
     "country": "",
     "genre": "",
@@ -2232,7 +1884,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240522/nitr534pl.jpg!320x216.jpg",
     "actress": [],
@@ -2249,7 +1901,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240126-1/a48f9f5d438855559237054b29a07aa3.jpg",
     "actress": [],
@@ -2266,7 +1918,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240126-1/074c08f7e5d3277336729fdc291eaec3.jpg",
     "actress": [],
@@ -2283,7 +1935,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240126-1/a745ca916de22585d10b5e034501eacc.jpg",
     "actress": [],
@@ -2292,7 +1944,7 @@ window.PAGE_DATA = [
   {
     "id": 546388,
     "IDcode": "NITR-544",
-    "title": "【】シン·素人マスク性欲処理マゾメス 5",
+    "title": "シン·素人マスク性欲処理マゾメス 5",
     "year": "",
     "country": "",
     "genre": "",
@@ -2301,7 +1953,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240214/pM6pD4By/1.jpg",
     "actress": [],
@@ -2310,7 +1962,7 @@ window.PAGE_DATA = [
   {
     "id": 545940,
     "IDcode": "NITR-545",
-    "title": "【】チ〇ポ狂いのドスケベ肉感ボディ奥様XI",
+    "title": "チ〇ポ狂いのドスケベ肉感ボディ奥様XI",
     "year": "",
     "country": "",
     "genre": "",
@@ -2318,7 +1970,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240328/NtFoziMv/1.jpg",
     "actress": [],
@@ -2327,7 +1979,7 @@ window.PAGE_DATA = [
   {
     "id": 560198,
     "IDcode": "NITR-549",
-    "title": "【】悔しいことに先生のデカチンとの相性は抜群でした 死ぬほど嫌いな先生に…泣きたくなるほど",
+    "title": "悔しいことに先生のデカチンとの相性は抜群でした 死ぬほど嫌いな先生に…泣きたくなるほど",
     "year": "",
     "country": "",
     "genre": "",
@@ -2335,7 +1987,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241009/os755fy5/1.jpg",
     "actress": [],
@@ -2352,7 +2004,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/32e25bff9eda7d1b9b9b6d96730c2e9f.jpg",
     "actress": [],
@@ -2361,7 +2013,7 @@ window.PAGE_DATA = [
   {
     "id": 541954,
     "IDcode": "NSFS-076",
-    "title": "[] 熟 母20 ～息子の童贞をやさしく舍てさせた母～ 小林真梨香",
+    "title": "熟 母20 ～息子の童贞をやさしく舍てさせた母～ 小林真梨香",
     "year": "",
     "country": "",
     "genre": "",
@@ -2369,73 +2021,10 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "人妻官能AV",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_人妻官能AV",
-        "works_count": 332
-      }
-    ],
+    "company": "人妻官能AV",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240131/nsfs076sopl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-076"
-  },
-  {
-    "id": 4140,
-    "IDcode": "OFES-013",
-    "title": "【全挟射・全パイズリ・全主観・全バイノーラル】爆乳Kcupと175cm長身を機材撮影で超没入体験するダイナミックシコシコサポート みなみ羽琉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "白絲",
-      "巨尻",
-      "口爆",
-      "真實拍攝",
-      "豐滿",
-      "港區女子",
-      "辣妹/GAL系",
-      "淫語",
-      "4K",
-      "主觀視角",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "按摩・美容店",
-      "淫亂",
-      "超爆乳",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "抹油",
-      "高清画质",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "拜金女",
-      "高妹",
-      "乳交",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040151246246_68481_thumbnail.webp",
-    "actress": [
-      "湊羽琉",
-      "みなと羽琉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-013"
   }
 ];

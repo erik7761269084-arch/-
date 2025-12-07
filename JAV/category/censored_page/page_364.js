@@ -1,280 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 87443,
-    "IDcode": "DLDSS-138",
-    "title": "情欲溢出-芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "多P",
-      "口交",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "蘆名穗花",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-138"
-  },
-  {
-    "id": 66960,
-    "IDcode": "DLDSS-139",
-    "title": "淫荡而亲密的性爱-芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "单体作品",
-      "女上位",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/dcbc75f40c907c9d4b909bc9888c1675.jpg",
-    "actress": [
-      "蘆名穗花",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-139"
-  },
-  {
-    "id": 72706,
-    "IDcode": "DLDSS-140",
-    "title": "絶倫美人-水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "首次亮相",
-      "纪录片",
-      "姐姐",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "水川潤",
-      "小田切ジュン",
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-140"
-  },
-  {
-    "id": 73050,
-    "IDcode": "DLDSS-141",
-    "title": "誘惑公公1日10發 短時間讓人馬上抽插中出的絶倫肉食人妻 水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "屁股",
-      "荡妇",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/5boavsAH.jpg",
-    "actress": [
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-141"
-  },
-  {
-    "id": 566497,
-    "IDcode": "DLDSS-142",
-    "title": "本番NGなのに感じ过ぎて自ら挿入して中出しOKまでしちゃう 奇迹の早漏イクイク敏感风俗嬢 水川润",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ed8b93a5802695e09c6d15d58cd3bc0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-142"
-  },
-  {
-    "id": 66688,
-    "IDcode": "DLDSS-143",
-    "title": "全程的性服务-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "礼仪小姐",
-      "巨乳",
-      "角色扮演者",
-      "女上位",
-      "口交",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/1faa8383afe8de8ec89e7b47a27339b0.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-143"
-  },
-  {
-    "id": 88582,
-    "IDcode": "DLDSS-144",
-    "title": "在公司工作时间开始发泄压抑的性欲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "户外",
-      "羞耻",
-      "OL",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-144"
-  },
-  {
-    "id": 556293,
-    "IDcode": "DLDSS-145",
-    "title": "混浴温泉NTR 结婚前让闺蜜怀孕……穗高由香 - 穗高结花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ba3d6f8152083ff49e645f56d9591fca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-145"
-  },
-  {
-    "id": 556284,
-    "IDcode": "DLDSS-146",
-    "title": "我们两个人在一个封闭的房间里，汗流浃背的身体，混杂的性欲……我想和橘杏花忘记一切，早中晚疯狂。立花镜香 - 橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/d48e8731b427c8c09354b419bdee2657.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-146"
-  },
-  {
-    "id": 88532,
-    "IDcode": "DLDSS-149",
-    "title": "当他的妻子外出两天时-芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "OL",
-      "出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829a36a5d899f63610ef5e7/cover.jpg",
-    "actress": [
-      "蘆名穗花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-149"
-  },
-  {
     "id": 67573,
     "IDcode": "DLDSS-150",
     "title": "她被母亲的男友攻击-水川潤",
@@ -282,22 +7,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "深喉",
-      "乱伦",
-      "白天出轨",
-      "放尿",
       "单体作品",
-      "女优按摩棒"
+      "乱伦",
+      "潮吹",
+      "女优按摩棒",
+      "放尿",
+      "深喉",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/e92e0dc2a52761f8a0fab077d264f5de.jpg",
     "actress": [
@@ -313,20 +32,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "乳液",
-      "首次亮相",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "首次亮相",
+      "苗条",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/0d4996017edbfc77ef486bd8cf860396.jpg",
     "actress": [
@@ -343,13 +56,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/251335584885e0e102afe05e2d812d84.jpg",
     "actress": [],
@@ -364,13 +71,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241004-1/6433c4de900830850860ef59e8046d01.jpg",
     "actress": [],
@@ -384,22 +85,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
-      "OL",
-      "白天出轨",
+      "单体作品",
       "无码破解",
       "中出",
-      "巨乳",
-      "单体作品"
+      "OL",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -415,26 +110,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "玩具",
+      "口交",
+      "单体作品",
       "已婚妇女",
+      "玩具",
       "羞耻",
-      "多P",
-      "自慰",
-      "白天出轨",
+      "潮吹",
       "无码破解",
       "中出",
-      "口交",
-      "单体作品"
+      "自慰",
+      "多P",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa29289def9b1b80e4b79/cover.jpg",
     "actress": [
@@ -452,20 +141,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "平胸",
+      "单体作品",
       "已婚妇女",
-      "白天出轨",
       "中出",
-      "单体作品"
+      "平胸",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0bfa43d6972716298646/cover.jpg",
     "actress": [
@@ -484,13 +167,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -505,13 +182,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -526,13 +197,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/77d7d4ba707c151537527042e69ed7ef.jpg",
     "actress": [],
@@ -547,13 +212,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -570,20 +229,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "巨大屁股",
-      "白天出轨",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "巨大屁股",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c5f2d43d6972716364e4e/cover.jpg",
     "actress": [
@@ -602,13 +255,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f527b0b69f1d8165573ea/cover.jpg",
     "actress": [],
@@ -624,17 +271,11 @@ window.PAGE_DATA = [
     "genres": [
       "中出",
       "凌辱",
-      "白天出轨",
-      "单体作品"
+      "单体作品",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250317-1/8b017e3dc55ae76c9a7fb7f0f12cdaf8.jpg",
     "actress": [],
@@ -648,20 +289,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "按摩棒",
       "口交",
+      "单体作品",
+      "淫乱，真实",
       "女上位",
-      "单体作品"
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/0569de2fab330fad6ca54232429f7662.jpg",
     "actress": [
@@ -679,19 +314,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "多P",
-      "白天出轨",
       "单体作品",
-      "放尿"
+      "放尿",
+      "多P",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/29/686031a243d69727165e6871/cover.jpg",
     "actress": [
@@ -708,13 +337,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa29689def9b1b80e4b82/cover.jpg",
     "actress": [],
@@ -728,21 +351,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "白天出轨",
-      "秘书",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "出轨",
+      "秘书",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/2669cd19c71975d3ee94ae5f39a3bfc6.jpg",
     "actress": [
@@ -763,13 +380,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -783,20 +394,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "已婚妇女",
       "口交",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "已婚妇女",
+      "屁股",
+      "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/9455583d734129fefb8418e7ab0ee255.jpg",
     "actress": [],
@@ -810,20 +415,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "白天出轨",
       "巨乳",
+      "单体作品",
       "女上位",
-      "单体作品"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -839,21 +438,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "玩具",
       "口交",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "玩具",
+      "潮吹",
+      "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -873,13 +466,7 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230429/o76nGqBe/1.jpg",
     "actress": [],
@@ -893,22 +480,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "单体作品",
       "已婚妇女",
-      "白天出轨",
       "无码破解",
       "中出",
       "药物",
-      "单体作品"
+      "淫乱，真实",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/25/683306be35d00134fb897aec/cover.jpg",
     "actress": [
@@ -925,13 +506,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -946,13 +521,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230409/15h3Vanr/1.jpg",
     "actress": [],
@@ -967,13 +536,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230428/ki2tkcmP/1.jpg",
     "actress": [],
@@ -988,13 +551,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1008,23 +565,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "凌辱",
+      "单体作品",
       "羞耻",
+      "潮吹",
+      "放尿",
       "OL",
       "多P",
-      "白天出轨",
-      "单体作品",
-      "放尿"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1043,13 +594,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1064,13 +609,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1085,13 +624,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230410/aQ1bGdwP/1.jpg",
     "actress": [],
@@ -1106,13 +639,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1126,21 +653,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
       "单体作品",
       "流汗",
       "巨乳",
+      "淫乱，真实",
+      "苗条",
       "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1157,21 +678,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "潮吹",
       "单体作品",
       "巨乳",
+      "潮吹",
+      "淫乱，真实",
+      "苗条",
       "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1190,13 +705,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241117-1/5a9b80d14470f53f4ce55f922347757d.png",
     "actress": [],
@@ -1211,13 +720,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230604/O6scxlJh/1.jpg",
     "actress": [],
@@ -1234,13 +737,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/lCIKdKxL/1.jpg",
     "actress": [],
@@ -1255,13 +752,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/9lrEscy1/1.jpg",
     "actress": [],
@@ -1276,13 +767,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230624/vAKUGiSS/1.jpg",
     "actress": [],
@@ -1296,21 +781,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "荡妇",
-      "白天出轨",
+      "单体作品",
       "中出",
       "淫语",
-      "主观视角"
+      "主观视角",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1327,13 +806,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230718/Lu5FOsfX/1.jpg",
     "actress": [],
@@ -1348,13 +821,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230703/IiE47YPy/1.jpg",
     "actress": [],
@@ -1368,22 +835,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "戏剧",
-      "乳液",
-      "白天出轨",
-      "过膝袜",
       "单体作品",
-      "美容院"
+      "过膝袜",
+      "按摩",
+      "乳液",
+      "美容院",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1402,13 +863,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1422,24 +877,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "人妻",
-      "已婚妇女",
-      "手指插入",
       "口交",
-      "女上位",
-      "子宫颈",
+      "已婚妇女",
       "单体作品",
-      "女优按摩棒"
+      "潮吹",
+      "女优按摩棒",
+      "女上位",
+      "手指插入",
+      "子宫颈"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1456,20 +905,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "玩具",
-      "白天出轨",
       "巨乳",
-      "单体作品"
+      "凌辱",
+      "单体作品",
+      "玩具",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1485,19 +928,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
       "单体作品",
       "新娘，年轻妻子",
-      "巨乳",
-      "白天出轨"
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f48bf9a2e9b1d4af5692/cover.jpg",
     "actress": [
@@ -1514,28 +951,22 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "情趣內衣",
-      "美少女電影",
-      "M男・M女",
-      "猥褻穿著",
-      "出軌",
-      "美乳",
-      "中出",
-      "蕩婦",
       "口交",
-      "性感",
+      "絕頂高潮",
+      "M男・M女",
+      "出軌",
+      "中出",
+      "情趣內衣",
+      "猥褻穿著",
+      "美少女電影",
+      "蕩婦",
       "劇情",
-      "絕頂高潮"
+      "性感",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240428/202404280148109999.jpg",
     "actress": [
@@ -1552,36 +983,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "凌辱",
-      "辦公室",
       "肉絲",
-      "OL",
-      "羞恥",
-      "美乳",
-      "制服",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
+      "凌辱",
       "出軌",
-      "中出",
-      "絕頂高潮",
-      "美少女電影",
       "脅迫做愛",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "辦公室",
       "劇情",
+      "絕頂高潮",
+      "女同事",
+      "飯店",
       "騎乗位",
-      "女同事"
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "OL",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240428/20240428014658669669.jpg",
     "actress": [
@@ -1598,33 +1023,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
       "人妻",
-      "按摩・美容店",
-      "OL",
       "眼鏡",
-      "乳交",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "女上司",
-      "中出",
-      "美乳",
-      "蕩婦",
       "口交",
-      "健身房",
-      "性感",
       "健身教練",
+      "乳交",
+      "中出",
+      "女上司",
       "黑絲",
-      "劇情"
+      "健身房",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "蕩婦",
+      "運動服裝",
+      "OL",
+      "劇情",
+      "性感",
+      "按摩・美容店",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-08-24",
     "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129055107821821.jpg",
     "actress": [
@@ -1640,38 +1059,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
       "網襪",
-      "苗條",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "口交",
-      "巨乳",
-      "性感",
-      "熟女",
-      "潮吹",
+      "舔陰",
       "淫亂",
-      "內衣",
-      "猥褻穿著",
       "中出",
-      "顏射",
+      "猥褻穿著",
+      "按摩棒",
       "絕頂高潮",
       "女優",
-      "舔陰",
+      "飯店",
+      "苗條",
+      "顏射",
       "手指插入",
-      "女上位",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240226/20240226104523186186.jpg",
     "actress": [
@@ -1688,42 +1101,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "口爆",
-      "苗條",
-      "亂倫",
-      "美少女",
-      "姐弟・兄妹",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "NTR",
       "淫亂",
       "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "女優",
       "美少女電影",
-      "手指插入",
-      "乱伦",
-      "乳交",
+      "自宅",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "姐弟・兄妹",
       "無毛",
+      "乱伦",
+      "女優",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "亂倫",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240226/20240226104608616616.jpg",
     "actress": [
@@ -1740,23 +1147,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "单体作品",
-      "NTR",
-      "已婚妇女",
-      "白天出轨",
-      "淫妻",
       "成熟的女人",
-      "接吻"
+      "单体作品",
+      "已婚妇女",
+      "淫妻",
+      "苗条",
+      "接吻",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1772,44 +1173,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "情趣飯店",
-      "苗條",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "淫妻",
       "出軌",
-      "健身教練",
-      "中出",
       "蕩婦",
-      "後入",
-      "顏射",
-      "絕頂高潮",
+      "深喉",
+      "情趣飯店",
+      "人妻",
+      "淫妻",
       "舔陰",
+      "淫亂",
+      "中出",
+      "接吻",
+      "絕頂高潮",
+      "健身教練",
+      "女同事",
+      "苗條",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位",
-      "女同事"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240226/20240226104652396396.jpg",
     "actress": [
@@ -1826,35 +1221,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "美腳",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "風俗娘",
       "蠻橫嬌羞",
+      "美腳",
+      "小姨子",
+      "人妻",
       "中出",
-      "絕頂高潮",
-      "應召・援交",
       "美少女電影",
       "拜金女",
-      "乱伦",
       "劇情",
-      "小姨子"
+      "絕頂高潮",
+      "乱伦",
+      "飯店",
+      "應召・援交",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "飯店小姐・援交妹",
+      "巨乳",
+      "風俗娘",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240428/20240428014735964964.jpg",
     "actress": [
@@ -1870,23 +1259,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "兩男一女",
-      "3P・4P",
-      "凌辱",
-      "女教師",
-      "媚藥・迷藥",
       "迷姦",
+      "凌辱",
+      "兩男一女",
+      "媚藥・迷藥",
       "白眼失神",
-      "跳蛋"
+      "女教師",
+      "跳蛋",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678948f789def9b1b8096271/cover.jpg",
     "actress": [
@@ -1902,20 +1285,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "淫妻",
       "溫泉",
+      "淫妻",
       "中出",
-      "女友閨蜜"
+      "女友閨蜜",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/03/686598993ed39b57c06aaf0e/cover.jpg",
     "actress": [
@@ -1931,31 +1308,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
       "女僕制服",
-      "女教師",
-      "游戲COSPLAY",
-      "女上位",
-      "COSPLAY服飾",
-      "兔女郎妝扮",
-      "猥褻穿著",
-      "黑絲",
-      "感謝祭",
-      "蕩婦",
-      "護士制服",
       "巨乳",
-      "性感",
+      "感謝祭",
       "學校",
-      "劇情"
+      "性感",
+      "黑絲",
+      "猥褻穿著",
+      "女上位",
+      "角色扮演",
+      "游戲COSPLAY",
+      "兔女郎妝扮",
+      "蕩婦",
+      "劇情",
+      "女教師",
+      "護士制服",
+      "COSPLAY服飾"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-1/a0f68b0eeab4f633d393254ce0a5b1e1.jpg",
     "actress": [
@@ -1973,19 +1344,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
-      "人妻",
       "偷竊",
-      "劇情"
+      "人妻",
+      "劇情",
+      "出軌"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-09-21",
     "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831005737689689.jpg",
     "actress": [
@@ -2002,13 +1367,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2024,30 +1383,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
       "人妻",
-      "女教師",
-      "淫亂",
-      "媚藥・迷藥",
-      "胸控・戀乳癖",
-      "乳交",
-      "美乳",
-      "中出",
       "口交",
       "巨乳",
-      "性感",
+      "淫亂",
+      "乳交",
+      "中出",
       "學校",
+      "胸控・戀乳癖",
+      "媚藥・迷藥",
+      "劇情",
+      "女教師",
+      "性感",
+      "泳裝",
       "迷奸",
-      "劇情"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-09-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129033957147147.jpg",
     "actress": [
@@ -2063,19 +1416,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "性感",
-      "劇情",
       "女搜查官",
-      "媚藥・迷藥"
+      "性感",
+      "媚藥・迷藥",
+      "劇情"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-10-12",
     "cover_url": "https://picture.yoshiclub.xyz/20230904/fd0ab671-2e6c-4a26-a10a-dcf7e5ac31cc.jpg",
     "actress": [
@@ -2091,24 +1438,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "輪姦",
-      "痴漢",
       "凌辱",
-      "辦公室",
+      "女同事",
       "綁架",
-      "OL",
       "強姦",
       "中出",
-      "女同事"
+      "辦公室",
+      "痴漢",
+      "OL",
+      "輪姦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678938df89def9b1b80961e3/cover.jpg",
     "actress": [
@@ -2125,24 +1466,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "OL",
       "勾引・誘惑",
+      "人妻",
       "出軌",
-      "處男",
       "中出",
       "女上司",
+      "苗條",
+      "OL",
       "性感",
-      "苗條"
+      "處男"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/12/6872227243d69727161cf108/cover.jpg",
     "actress": [
@@ -2159,22 +1494,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "絕頂高潮",
+      "中出",
       "猥褻穿著",
       "按摩・物理治療・美容",
-      "中出",
       "蕩婦",
-      "口交",
-      "性感",
-      "絕頂高潮"
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231018/20231018234943516516.jpg",
     "actress": [
@@ -2191,21 +1520,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "招待",
-      "黑絲",
-      "中出",
       "口交",
-      "劇情",
-      "身體換業務"
+      "招待",
+      "中出",
+      "黑絲",
+      "身體換業務",
+      "劇情"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-10-26",
     "cover_url": "https://picture.yoshiclub.xyz/20230924/20230924030752314314.jpg",
     "actress": [
@@ -2222,25 +1545,19 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "內衣",
-      "猥褻穿著",
+      "口交",
+      "絕頂高潮",
       "偷竊",
       "中出",
       "飯店",
-      "口交",
-      "劇情",
+      "猥褻穿著",
       "情趣內衣",
-      "絕頂高潮"
+      "內衣",
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-10-26",
     "cover_url": "https://picture.yoshiclub.xyz/20230924/20230924031118627627.jpg",
     "actress": [
@@ -2256,22 +1573,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "慾求不滿",
       "勾引・誘惑",
+      "慾求不滿",
       "中文字幕",
       "偷竊",
-      "女友姐姐",
-      "劇情"
+      "劇情",
+      "NTR",
+      "女友姐姐"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240610/DLDSS233.jpg!320x216.jpg",
     "actress": [
@@ -2287,25 +1598,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "護士",
-      "醫院・診所",
-      "艷遇",
-      "癡女",
-      "中出",
-      "巨乳",
-      "護士制服",
-      "劇情",
       "口交",
-      "奇異的"
+      "巨乳",
+      "中出",
+      "護士",
+      "劇情",
+      "艷遇",
+      "奇異的",
+      "護士制服",
+      "醫院・診所",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231005/20231005230218212212.jpg",
     "actress": [
@@ -2321,24 +1626,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "母子",
-      "繼母",
-      "慾求不滿",
-      "黑絲",
-      "中出",
       "口交",
+      "母子",
+      "慾求不滿",
+      "中出",
+      "黑絲",
+      "繼母",
+      "劇情",
       "性感",
-      "劇情"
+      "亂倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685d9c283ed39b57c003e984/cover.jpg",
     "actress": [
@@ -2355,21 +1654,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "公公",
-      "強姦",
-      "中出",
       "口交",
-      "性感",
-      "劇情"
+      "強姦",
+      "公公",
+      "中出",
+      "劇情",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029215036458458.jpg",
     "actress": [
@@ -2385,26 +1678,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
       "人妻",
-      "鄰居",
       "巨尻",
-      "黑絲",
-      "中出",
-      "蕩婦",
-      "亂交 • 群P",
       "口交",
+      "鄰居",
+      "中出",
+      "黑絲",
+      "蕩婦",
+      "劇情",
+      "亂交 • 群P",
       "性感",
-      "劇情"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-12-07",
     "cover_url": "https://picture.yoshiclub.xyz/20231110/20231110012100388388.jpg",
     "actress": [
@@ -2420,25 +1707,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
       "泡泡浴店",
-      "按摩・美容店",
       "風俗娘",
+      "口交",
+      "舔陰",
+      "中出",
+      "按摩女郎",
+      "按摩・物理治療・美容",
       "手指插入",
       "水療・泡泡浴",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
-      "口交"
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231113/202311130325171111.jpg",
     "actress": [
@@ -2454,26 +1735,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "鄰居",
       "勾引・誘惑",
-      "自宅",
-      "出軌",
-      "中出",
-      "蕩婦",
+      "人妻",
       "口交",
+      "出軌",
+      "鄰居",
+      "中出",
+      "自宅",
+      "蕩婦",
+      "劇情",
       "性感",
-      "劇情"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129054932763763.jpg",
     "actress": [
@@ -2489,21 +1764,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
-      "按摩・物理治療・美容",
-      "美乳",
-      "中出",
       "口交",
-      "巨乳"
+      "巨乳",
+      "中出",
+      "按摩・物理治療・美容",
+      "按摩・美容店",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002224020495495.jpg",
     "actress": [
@@ -2519,23 +1788,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
+      "口交",
+      "巨乳",
       "健身教練",
+      "舔陰",
       "中出",
       "瑜珈·健身",
-      "巨乳",
-      "性感",
-      "口交",
-      "劇情"
+      "劇情",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231108/20231108054548515515.jpg",
     "actress": [
@@ -2551,29 +1814,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "脚控・戀足癖",
+      "口交",
       "舔陰",
+      "淫亂",
+      "中出",
+      "按摩棒",
+      "女優",
+      "粉絲福利",
+      "企畫",
+      "猥褻穿著",
       "美少女電影",
       "紀錄片",
       "手指插入",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "粉絲福利",
-      "按摩棒",
-      "口交",
-      "企畫",
       "性感",
-      "女優"
+      "脚控・戀足癖"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231120/20231120025406185185.jpg",
     "actress": [
@@ -2592,24 +1849,18 @@ window.PAGE_DATA = [
     "genres": [
       "泡泡浴店",
       "風俗娘",
-      "水療・泡泡浴",
-      "乳交",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
-      "風俗夜場",
       "口交",
-      "性感",
-      "抹油"
+      "風俗夜場",
+      "乳交",
+      "中出",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "水療・泡泡浴",
+      "抹油",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231129/70eada79-c336-4da2-aaf5-a8e424aa119b.jpg",
     "actress": [
@@ -2627,26 +1878,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "寫真女郎",
-      "身體意識",
-      "按摩・美容店",
+      "口交",
+      "巨乳",
+      "中出",
       "媚藥・迷藥",
       "按摩・物理治療・美容",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
       "劇情",
-      "抹油"
+      "身體意識",
+      "抹油",
+      "寫真女郎",
+      "性感",
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5367ac813dc779d9628d/cover.jpg",
     "actress": [
@@ -2663,26 +1908,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "兩男一女",
-      "3P・4P",
-      "多P",
-      "蠻橫嬌羞",
-      "小三・情人",
-      "中出",
-      "亂交 • 群P",
       "口交",
-      "性感",
+      "蠻橫嬌羞",
+      "兩男一女",
+      "中出",
+      "小三・情人",
+      "顏射",
+      "亂交 • 群P",
       "劇情",
-      "顏射"
+      "多P",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231127/20231127060912895895.jpg",
     "actress": [
@@ -2701,13 +1940,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5740ac813dc779d9629d/cover.jpg",
     "actress": [
@@ -2723,22 +1956,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服・浴衣・喪服",
       "溫泉",
+      "和服・浴衣・喪服",
       "旅行",
-      "中出",
       "口交",
-      "劇情",
-      "女優"
+      "中出",
+      "女優",
+      "劇情"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231102/202311022239436464.jpg",
     "actress": [
@@ -2754,25 +1981,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "ASMR顱内高潮",
-      "按摩・美容店",
-      "淫語",
-      "風俗娘",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
       "口交",
+      "ASMR顱内高潮",
+      "風俗娘",
+      "中出",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "劇情",
       "性感",
-      "劇情"
+      "按摩・美容店",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231213/2290daad-95b6-4d9a-899e-8afb147d2ca6.jpg",
     "actress": [
@@ -2788,29 +2009,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "明星臉",
+      "口交",
+      "蠻橫嬌羞",
+      "絕頂高潮",
       "舔陰",
       "約炮",
-      "手指插入",
-      "明星臉",
-      "蠻橫嬌羞",
-      "脅迫做愛",
-      "黑絲",
       "中出",
       "薄碼",
+      "黑絲",
       "飯店",
-      "口交",
-      "性感",
+      "脅迫做愛",
+      "手指插入",
       "劇情",
-      "絕頂高潮"
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227003116393393.jpg",
     "actress": [
@@ -2826,28 +2041,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
       "人妻",
-      "輪姦",
-      "身體意識",
-      "多P",
-      "淫亂",
-      "強姦",
-      "中出",
-      "亂交 • 群P",
       "口交",
+      "絕頂高潮",
+      "強姦",
+      "淫亂",
+      "中出",
       "性感",
+      "身體意識",
+      "輪姦",
+      "亂交 • 群P",
+      "多P",
       "劇情",
-      "絕頂高潮"
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231229/20231228232100765765.jpg",
     "actress": [
@@ -2865,28 +2074,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "凌辱",
-      "深喉",
-      "緊縛",
-      "M男・M女",
-      "羞恥",
       "調教",
-      "中出",
       "口交",
-      "性感",
+      "凌辱",
       "女奴",
+      "M男・M女",
+      "潮吹",
+      "中出",
+      "性感",
+      "緊縛",
+      "劇情",
       "打屁股",
-      "劇情"
+      "羞恥",
+      "深喉"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a56878f1cbfc7a9c7db66/cover.jpg",
     "actress": [
@@ -2902,25 +2105,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
       "勾引・誘惑",
+      "人妻",
+      "口交",
       "出軌",
       "中出",
       "蕩婦",
-      "口交",
-      "性感",
       "劇情",
+      "性感",
+      "NTR",
       "嫂嫂"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2024-01-25",
     "cover_url": "https://picture.yoshiclub.xyz/20231228/20231228073936741741.jpg",
     "actress": [
@@ -2937,26 +2134,20 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "舔陰",
-      "性騷擾",
-      "OL",
-      "強姦",
-      "中出",
-      "飯店",
       "口交",
-      "性感",
-      "劇情",
+      "舔陰",
+      "強姦",
+      "性騷擾",
+      "中出",
       "女同事",
-      "酒醉"
+      "酒醉",
+      "飯店",
+      "OL",
+      "劇情",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "2024-01-25",
     "cover_url": "https://picture.yoshiclub.xyz/20231225/20231225013600840840.jpg",
     "actress": [
@@ -2972,30 +2163,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "角色扮演",
       "人妻",
-      "NTR",
-      "鄰居",
-      "性騷擾",
-      "強姦",
-      "女上位",
-      "乳交",
-      "中出",
-      "蕩婦",
       "口交",
       "巨乳",
+      "強姦",
+      "性騷擾",
+      "鄰居",
+      "乳交",
+      "中出",
       "性感",
-      "劇情"
+      "角色扮演",
+      "女上位",
+      "蕩婦",
+      "劇情",
+      "濕身",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DAHLIA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DAHLIA",
-        "works_count": 371
-      }
-    ],
+    "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231203/1b188393-03c3-4be4-9905-6c7500510daa.jpg",
     "actress": [
@@ -3003,5 +2188,350 @@ window.PAGE_DATA = [
       "広瀬美結"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-254"
+  },
+  {
+    "id": 16946,
+    "IDcode": "DLDSS-255",
+    "title": "过分性欲-西园寺歌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "後入",
+      "口交",
+      "巨乳",
+      "乳交",
+      "中出",
+      "女優",
+      "企畫",
+      "苗條",
+      "情趣內衣",
+      "女優訪談",
+      "紀錄片",
+      "女上位",
+      "女教師",
+      "出道作品",
+      "制服",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102063119789789.jpg",
+    "actress": [
+      "西園寺歌"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-255"
+  },
+  {
+    "id": 16851,
+    "IDcode": "DLDSS-256",
+    "title": "被超級猛男操 限定16次連續中出大亂交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "網襪",
+      "高妹",
+      "亂交 • 群P",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "紀錄片",
+      "美少女電影",
+      "大亂交",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "女優",
+      "企畫",
+      "苗條",
+      "手指插入",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "潮吹",
+      "乱交",
+      "寫真偶像",
+      "多P",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/d0399e6623e2a45709725ec9fc006b08.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-256"
+  },
+  {
+    "id": 16605,
+    "IDcode": "DLDSS-257",
+    "title": "在温泉旅行时性与爆发-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "3P・4P",
+      "溫泉",
+      "口交",
+      "兩男一女",
+      "潮吹",
+      "中出",
+      "美腳",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "美少女",
+      "深喉",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-257"
+  },
+  {
+    "id": 16535,
+    "IDcode": "DLDSS-258",
+    "title": "水川润为你提供手淫支持",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "學校",
+      "中出",
+      "美腳",
+      "網襪",
+      "企畫",
+      "苗條",
+      "女優",
+      "性感",
+      "癡女",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240130/20240130053705264264.jpg",
+    "actress": [
+      "水川潤",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-258"
+  },
+  {
+    "id": 16559,
+    "IDcode": "DLDSS-259",
+    "title": "因工作搬到鄉下的同一間公寓裏與同住的人妻互生情愫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "出軌",
+      "鄰居",
+      "中出",
+      "美腳",
+      "運動服裝",
+      "劇情",
+      "艷遇",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "2024-02-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20240128/20240128005954737737.jpg",
+    "actress": [
+      "聖妃羽里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-259"
+  },
+  {
+    "id": 16574,
+    "IDcode": "DLDSS-260",
+    "title": "盘踞在臭气弥漫的脏乱房间里-蒼山愛奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "國產",
+      "人妻",
+      "凌辱",
+      "口交",
+      "舔陰",
+      "強姦",
+      "潮吹",
+      "鄰居",
+      "乳交",
+      "美腳",
+      "中出",
+      "性感",
+      "苗條",
+      "媚藥・迷藥",
+      "後入",
+      "羞恥",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c7e7f9a2e9b1d4a52fbd/cover.jpg",
+    "actress": [
+      "蒼山愛奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-260"
+  },
+  {
+    "id": 16723,
+    "IDcode": "DLDSS-261",
+    "title": "社员旅行NTR-入田真绫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "淫妻",
+      "中出",
+      "酒醉",
+      "比基尼",
+      "亂交 • 群P",
+      "劇情",
+      "泳池",
+      "性感",
+      "NTR",
+      "海灘"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/21/6855a67043d6972716f721de/cover.jpg",
+    "actress": [
+      "入田真綾",
+      "大村",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-261"
+  },
+  {
+    "id": 16697,
+    "IDcode": "DLDSS-263",
+    "title": "新人出道！峰玲子 多才多藝的女孩，因喜歡不穿胸罩逛街而走紅 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "出道作",
+      "中出",
+      "女優",
+      "企畫",
+      "女優訪談",
+      "紀錄片",
+      "出道作品",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "2024-02-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119040503758758.jpg",
+    "actress": [
+      "峰玲子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-263"
+  },
+  {
+    "id": 16398,
+    "IDcode": "DLDSS-264",
+    "title": "完美表现美丽肉体的着衣-峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上司",
+      "美腳",
+      "蕩婦",
+      "運動服裝",
+      "濕身",
+      "淫亂",
+      "中出",
+      "瑜珈·健身",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "模特兒",
+      "健身房",
+      "按摩・物理治療・美容",
+      "口交",
+      "風俗娘",
+      "按摩女郎",
+      "抹油",
+      "寫真女郎",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240209/20240209020630728728.jpg",
+    "actress": [
+      "峰玲子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-264"
+  },
+  {
+    "id": 16240,
+    "IDcode": "DLDSS-265",
+    "title": "被不分昼夜责弄的人妻OL-美乃雀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "多P",
+      "人妻",
+      "舔陰",
+      "中出",
+      "電車",
+      "短裙・迷你裙",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "輪姦",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/04/68174792c57e2706696c4f32/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-265"
   }
 ];

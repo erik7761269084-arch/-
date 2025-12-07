@@ -1,339 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 17297,
-    "IDcode": "DASS-256",
-    "title": "已婚人妻美谷朱里因被禁錮而得到失禁高潮，越來越享受這潮噴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出軌",
-      "人妻",
-      "拘束・拷問",
-      "潮吹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a71e98f1cbfc7a9c7dc9c/cover.jpg",
-    "actress": [
-      "美谷朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-256"
-  },
-  {
-    "id": 562892,
-    "IDcode": "DASS-257",
-    "title": "学校中でコッソリ天才的潮吹きプッしゃあSEXするデカパイ淫キャ観察日记",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/wDOpMOtz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-257"
-  },
-  {
-    "id": 17641,
-    "IDcode": "DASS-258",
-    "title": "被派遣按摩師按摩到私密部位 受不了的快感直接被NTR 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "淫妻",
-      "按摩・物理治療・美容",
-      "出軌",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情",
-      "抹油"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/1ad730a1460c65d7e45e02d4f9177e48.jpg",
-    "actress": [
-      "乃木絢愛",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-258"
-  },
-  {
-    "id": 17303,
-    "IDcode": "DASS-259",
-    "title": "久违的返乡-松本一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "美少女電影",
-      "美少女",
-      "美腳",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "口交",
-      "女上位",
-      "苗條"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/fe8894e6-ff1a-4c17-bcc1-15a3babc5faf.jpg",
-    "actress": [
-      "松本一香",
-      "みっちー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-259"
-  },
-  {
-    "id": 106347,
-    "IDcode": "DASS-260",
-    "title": "妻子就快要回来了-黑川堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "戏剧",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-260"
-  },
-  {
-    "id": 17295,
-    "IDcode": "DASS-261",
-    "title": "极品人妻-橘玛丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "加班",
-      "美腳",
-      "乳交",
-      "出軌",
-      "女上司",
-      "中出",
-      "制服",
-      "黑絲",
-      "口交",
-      "後入",
-      "女上位",
-      "巨乳",
-      "騎乗位",
-      "美臀"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/ab5c3f6b-bf5b-4e6b-afc9-bc7f178be387.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-261"
-  },
-  {
-    "id": 17857,
-    "IDcode": "DASS-262",
-    "title": "大福利！ ！ 想要做愛已經當女優15年的姊姊們！ ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "車震",
-      "潮吹",
-      "女優訪談",
-      "勾引・誘惑",
-      "厠所",
-      "中出",
-      "粉絲福利",
-      "蕩婦",
-      "姐姐・妹妹",
-      "企畫",
-      "紀錄片",
-      "街頭福利",
-      "口交",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/8e8c14e3-24b0-46ba-9422-a522237215da.jpg",
-    "actress": [
-      "大槻响",
-      "葵玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-262"
-  },
-  {
-    "id": 17856,
-    "IDcode": "DASS-263",
-    "title": "奇蹟的再次碰面長大了呢 被分開生活的兒子不知不覺之間欺負了 黑川菫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "母子",
-      "強姦",
-      "中出",
-      "劇情",
-      "苗條"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/a25654c8-9640-4e0f-8d3d-a3ab8a0c24eb.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-263"
-  },
-  {
-    "id": 91315,
-    "IDcode": "DASS-264",
-    "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 妃ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/a01e7ec235f8c7ad210ca37090ca6163.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-264"
-  },
-  {
-    "id": 17298,
-    "IDcode": "DASS-265",
-    "title": "一個男人對護士、飛空服員、女老師進行強姦，舔弓乃りむ陰唇和肛門，使弓乃りむ性高潮中痙攣性失禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "兔女郎妝扮",
-      "護士制服",
-      "其他職業",
-      "護士",
-      "女教師",
-      "美腳",
-      "強姦",
-      "美乳",
-      "制服",
-      "按摩棒",
-      "口交",
-      "巨乳",
-      "深喉",
-      "中出",
-      "後入",
-      "美臀",
-      "空姐",
-      "舔陰",
-      "69",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/d86e8b70-bc40-45b9-96ed-04f520c6a196.jpg",
-    "actress": [
-      "弓乃凜夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-265"
-  },
-  {
     "id": 17637,
     "IDcode": "DASS-267",
     "title": "對面房間的人妻護膚 超噁心鄰居沒完沒了的播種骯髒肉棒調教而身體心癢癢到不行… 優梨舞奈",
@@ -343,30 +9,24 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "凌辱",
-      "按摩・美容店",
-      "鄰居",
-      "手指插入",
-      "按摩・物理治療・美容",
-      "脅迫做愛",
-      "按摩女郎",
-      "中出",
-      "制服",
-      "變態",
       "口交",
-      "誘騙女性",
+      "鄰居",
+      "中出",
       "性感",
       "苗條",
+      "變態",
+      "脅迫做愛",
+      "按摩女郎",
+      "誘騙女性",
+      "按摩・物理治療・美容",
+      "手指插入",
       "劇情",
-      "抹油"
+      "抹油",
+      "制服",
+      "按摩・美容店"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231126/1a6113c5-b489-451c-a16b-5a549b820f43.jpg",
     "actress": [
@@ -383,23 +43,17 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "純愛・戀愛",
-      "出軌",
-      "中出",
       "巨乳",
       "口交",
+      "出軌",
+      "中出",
+      "純愛・戀愛",
+      "劇情",
       "性感",
-      "劇情"
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231126/e65477fa-946c-4da0-afcc-edf0542e5c00.jpg",
     "actress": [
@@ -415,34 +69,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "奇聞趣事",
       "老頭子",
-      "多P",
-      "催眠",
-      "美少女",
-      "強姦",
-      "口交",
       "亂交 • 群P",
-      "性感",
-      "巨乳",
+      "奇異的",
+      "舔陰",
+      "奇聞趣事",
       "兩男一女",
       "中出",
-      "奇異的",
-      "脚控・戀足癖",
-      "舔陰",
-      "迷姦",
+      "劇情",
+      "美少女",
+      "催眠",
+      "強姦",
       "黑絲",
-      "劇情"
+      "脚控・戀足癖",
+      "迷姦",
+      "口交",
+      "巨乳",
+      "多P",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231126/098ee3f9-ca82-4624-82a7-8482798f52a1.jpg",
     "actress": [
@@ -460,13 +108,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/Tz4OlZJ1/1.jpg",
     "actress": [],
@@ -480,32 +122,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "口交",
+      "巨乳",
       "舔陰",
-      "深喉",
       "美少女",
-      "多P",
-      "手指插入",
+      "潮吹",
       "乳交",
-      "美乳",
       "中出",
       "飯店",
-      "口交",
-      "後入",
-      "女上位",
-      "巨乳",
-      "亂交 • 群P",
       "苗條",
-      "情趣內衣"
+      "情趣內衣",
+      "女上位",
+      "亂交 • 群P",
+      "手指插入",
+      "多P",
+      "後入",
+      "深喉",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e7373d631cc64eb5a25aac/cover.jpg",
     "actress": [
@@ -522,13 +158,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea36e11572686be784b61e/cover.jpg",
     "actress": [],
@@ -542,20 +172,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "母親",
       "乱伦",
       "中出",
-      "苗條"
+      "苗條",
+      "母親",
+      "亂倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231126/6b8030dd-83db-4b71-b902-0b94e27f7bf3.jpg",
     "actress": [
@@ -571,27 +195,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "調教",
+      "制服",
       "人妻",
       "便利商店",
-      "強姦",
-      "羞恥",
-      "調教",
-      "美乳",
-      "制服",
-      "黑絲",
-      "後入",
       "巨乳",
-      "美臀"
+      "強姦",
+      "潮吹",
+      "黑絲",
+      "美臀",
+      "後入",
+      "羞恥",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d630f9a2e9b1d4a53009/cover.jpg",
     "actress": [
@@ -608,27 +226,21 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "情趣內衣",
-      "手指插入",
-      "美腳",
-      "按摩・物理治療・美容",
-      "出軌",
-      "美乳",
-      "中出",
-      "後入",
       "口交",
-      "女上位",
+      "出軌",
+      "中出",
+      "美腳",
       "苗條",
-      "美臀"
+      "情趣內衣",
+      "女上位",
+      "按摩・物理治療・美容",
+      "美臀",
+      "手指插入",
+      "後入",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/7aa3dcf79a71a678eb718cc96e52f40e.jpg",
     "actress": [
@@ -644,29 +256,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "兩男一女",
-      "女友・妻子",
-      "多P",
-      "JK校服",
-      "乳交",
-      "美乳",
-      "中出",
-      "蕩婦",
       "口交",
-      "後入",
-      "女上位",
       "巨乳",
+      "兩男一女",
+      "乳交",
+      "中出",
+      "女友・妻子",
+      "雙馬尾",
+      "女上位",
+      "蕩婦",
       "騎乗位",
-      "雙馬尾"
+      "多P",
+      "後入",
+      "JK校服",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2023-12-26",
     "cover_url": "https://picture.yoshiclub.xyz/20231225/202312250328143333.jpg",
     "actress": [
@@ -683,13 +289,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/LW2rAmFs/1.jpg",
     "actress": [],
@@ -703,26 +303,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "女教師",
       "巨尻",
-      "淫語",
-      "黑絲",
-      "中出",
-      "蕩婦",
       "口交",
-      "性感",
+      "舔陰",
       "學校",
-      "劇情"
+      "中出",
+      "黑絲",
+      "蕩婦",
+      "劇情",
+      "女教師",
+      "性感",
+      "淫語"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231126/93a60411-244f-4ee4-b308-dd5941915a4b.jpg",
     "actress": [
@@ -738,23 +332,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "鄰居",
-      "乳交",
+      "口交",
+      "巨乳",
       "出軌",
-      "美乳",
+      "乳交",
+      "鄰居",
       "中出",
       "後入",
-      "口交",
-      "巨乳"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231225/20231225032014647647.jpg",
     "actress": [
@@ -771,13 +359,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/sfBJhgoE/1.jpg",
     "actress": [],
@@ -792,13 +374,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/wzlmPawy/1.jpg",
     "actress": [],
@@ -812,30 +388,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "舔陰",
       "泡泡浴店",
-      "無做愛場面",
       "打手槍",
-      "美腳",
-      "乱伦",
-      "女同性戀",
-      "69",
-      "美乳",
-      "過膝襪・小腿襪",
-      "按摩棒",
       "女同",
+      "舔陰",
       "巨乳",
-      "苗條"
+      "潮吹",
+      "乱伦",
+      "美乳",
+      "美腳",
+      "按摩棒",
+      "苗條",
+      "69",
+      "無做愛場面",
+      "過膝襪・小腿襪",
+      "女同性戀"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce07289def9b1b8bebe98/cover.jpg",
     "actress": [
@@ -851,28 +421,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "女學生",
-      "美腳",
-      "JK校服",
-      "媚藥・迷藥",
-      "女同性戀",
-      "出軌",
-      "美乳",
-      "制服",
       "女同",
+      "舔陰",
+      "出軌",
       "學校",
+      "美乳",
+      "美腳",
+      "學姐・學妹",
       "苗條",
-      "學姐・學妹"
+      "媚藥・迷藥",
+      "女學生",
+      "JK校服",
+      "制服",
+      "女同性戀"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce2d089def9b1b8bebeb3/cover.jpg",
     "actress": [
@@ -889,35 +453,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "溫泉",
-      "苗條",
-      "和服・浴衣・喪服",
-      "美少女",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "內衣",
-      "中出",
-      "後入",
       "少女",
+      "美腳",
+      "溫泉",
+      "中出",
+      "美少女",
+      "和服・浴衣・喪服",
       "絕頂高潮",
+      "苗條",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "多P",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214030619875875.jpg",
     "actress": [
@@ -933,27 +491,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "情趣內衣",
+      "口交",
+      "巨乳",
       "M男・M女",
       "乳交",
-      "網襪",
-      "美乳",
       "中出",
-      "口交",
-      "後入",
+      "網襪",
+      "情趣內衣",
       "女上位",
-      "巨乳",
       "騎乗位",
-      "抹油"
+      "抹油",
+      "後入",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-01-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224439465465.jpg",
     "actress": [
@@ -969,26 +521,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "高跟鞋",
-      "美乳",
-      "中出",
-      "制服",
-      "後入",
       "口交",
+      "中出",
       "女上位",
-      "老闆娘，女主人",
+      "高跟鞋",
+      "美臀",
+      "OL",
       "騎乗位",
-      "美臀"
+      "老闆娘，女主人",
+      "後入",
+      "制服",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-01-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224523346346.jpg",
     "actress": [
@@ -1004,30 +550,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "綁架",
-      "JK校服",
-      "口爆",
-      "鄉下",
-      "調教",
-      "美乳",
-      "中出",
       "制服",
-      "過膝襪・小腿襪",
-      "後入",
-      "巨乳",
-      "女上位",
       "口交",
-      "雙馬尾"
+      "巨乳",
+      "綁架",
+      "過膝襪・小腿襪",
+      "中出",
+      "雙馬尾",
+      "女上位",
+      "女學生",
+      "口爆",
+      "後入",
+      "JK校服",
+      "調教",
+      "鄉下",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2023-12-26",
     "cover_url": "https://picture.yoshiclub.xyz/20231224/0041abd6-d6a4-4549-b1eb-7c97c9c5d9e2.jpg",
     "actress": [
@@ -1043,26 +583,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "在丈夫面前被操",
       "美少女",
-      "美腳",
-      "手指插入",
-      "新娘",
-      "苗條",
-      "美乳",
       "中出",
+      "美腳",
+      "苗條",
+      "手指插入",
+      "騎乗位",
       "後入",
-      "騎乗位"
+      "在丈夫面前被操",
+      "新娘",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787ea80c179ffb1db907e75/cover.jpg",
     "actress": [
@@ -1078,30 +612,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "打手槍",
-      "美腳",
-      "姐弟・兄妹",
-      "乱伦",
-      "苗條",
-      "乳交",
-      "美乳",
-      "中出",
-      "按摩棒",
       "口交",
-      "後入",
+      "打手槍",
+      "姐弟・兄妹",
+      "舔陰",
+      "乱伦",
+      "乳交",
+      "中出",
+      "美腳",
+      "按摩棒",
+      "苗條",
+      "情趣內衣",
       "女上位",
       "騎乗位",
-      "情趣內衣"
+      "後入",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231225/20231225031104873873.jpg",
     "actress": [
@@ -1118,31 +646,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "手指插入",
-      "苗條",
-      "淫妻",
-      "按摩・物理治療・美容",
-      "出軌",
-      "黑絲",
-      "中出",
-      "美乳",
-      "按摩棒",
-      "後入",
-      "巨乳",
-      "女上位",
       "口交",
+      "巨乳",
+      "淫妻",
+      "出軌",
+      "中出",
+      "按摩棒",
+      "苗條",
+      "黑絲",
+      "情趣內衣",
+      "女上位",
+      "按摩・物理治療・美容",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "後入",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224636970970.jpg",
     "actress": [
@@ -1159,30 +681,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "醫院・診所",
-      "女教師",
-      "手指插入",
-      "苗條",
+      "口交",
+      "巨乳",
+      "護士制服",
       "乳交",
-      "調教",
-      "美乳",
       "中出",
       "按摩棒",
-      "口交",
-      "護士制服",
+      "苗條",
+      "情趣內衣",
+      "手指插入",
+      "女教師",
       "後入",
-      "巨乳",
       "騎乗位",
-      "情趣內衣"
+      "調教",
+      "醫院・診所",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4e11ac813dc779d96258/cover.jpg",
     "actress": [
@@ -1198,21 +714,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
+      "单体作品",
       "已婚妇女",
       "乱伦",
       "中出",
-      "单体作品"
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1229,31 +739,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白絲",
-      "熟女",
-      "多P",
-      "美腳",
-      "兩女一男",
-      "手指插入",
-      "苗條",
-      "乳交",
-      "美乳",
-      "中出",
-      "口交",
       "後入",
-      "女上位",
+      "口交",
+      "熟女",
+      "白絲",
       "巨乳",
+      "乳交",
+      "中出",
+      "美腳",
+      "苗條",
+      "情趣內衣",
+      "女上位",
+      "手指插入",
+      "多P",
+      "兩女一男",
       "騎乗位",
-      "情趣內衣"
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224804111111.jpg",
     "actress": [
@@ -1271,36 +775,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "苗條",
-      "緊縛",
+      "裸體圍裙",
       "拘束・拷問",
-      "監禁",
+      "舔陰",
+      "中出",
+      "調教",
       "過膝襪・小腿襪",
       "按摩棒",
+      "打手槍",
+      "女同事",
+      "緊縛",
+      "苗條",
+      "手指插入",
+      "調戲",
       "口交",
       "巨乳",
+      "監禁",
       "雙馬尾",
-      "中出",
-      "後入",
-      "裸體圍裙",
-      "舔陰",
-      "調戲",
-      "手指插入",
-      "自慰",
       "乳交",
-      "調教",
+      "自慰",
       "女上位",
-      "女同事"
+      "後入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a605b8f1cbfc7a9c7dbdf/cover.jpg",
     "actress": [
@@ -1317,13 +815,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240107/4skVcFwl/1.jpg",
     "actress": [],
@@ -1338,28 +830,22 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "在丈夫面前被操",
-      "美腳",
-      "乳交",
-      "出軌",
-      "美乳",
-      "中出",
       "口交",
-      "後入",
-      "女上位",
       "巨乳",
+      "出軌",
+      "乳交",
+      "中出",
+      "美腳",
       "苗條",
-      "情趣內衣"
+      "情趣內衣",
+      "女上位",
+      "後入",
+      "在丈夫面前被操",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224850857857.jpg",
     "actress": [
@@ -1377,13 +863,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240107/cgenxNJc/1.jpg",
     "actress": [],
@@ -1397,27 +877,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "勾引・誘惑",
+      "口交",
+      "中出",
+      "女上司",
+      "倉庫",
+      "黑絲",
+      "足交",
       "辦公室",
       "OL",
-      "倉庫",
-      "勾引・誘惑",
-      "女上司",
-      "中出",
-      "制服",
-      "足交",
       "蕩婦",
-      "口交",
       "劇情",
-      "黑絲"
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/2024022505482911.jpg",
     "actress": [
@@ -1433,28 +907,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
+      "口交",
       "打手槍",
-      "深喉",
-      "網襪",
-      "美乳",
       "中出",
       "按摩棒",
+      "網襪",
+      "苗條",
+      "情趣內衣",
+      "女上位",
       "白眼失神",
       "後入",
-      "口交",
-      "女上位",
-      "苗條",
-      "情趣內衣"
+      "深喉",
+      "3P・4P",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-01-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224922931931.jpg",
     "actress": [
@@ -1471,13 +939,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240121/cqJdhV5b/1.jpg",
     "actress": [],
@@ -1491,22 +953,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
       "人妻",
+      "口交",
       "中出",
       "朋友母親",
-      "口交",
-      "性感",
-      "劇情"
+      "劇情",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111023828778778.jpg",
     "actress": [
@@ -1523,29 +979,23 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "情趣內衣",
-      "手指插入",
-      "美臀",
-      "乳交",
-      "按摩・物理治療・美容",
-      "出軌",
-      "自宅",
-      "黑絲",
-      "中出",
-      "美乳",
       "口交",
       "巨乳",
+      "出軌",
+      "乳交",
+      "中出",
+      "黑絲",
+      "情趣內衣",
       "女上位",
-      "抹油"
+      "按摩・物理治療・美容",
+      "自宅",
+      "美臀",
+      "手指插入",
+      "抹油",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121090514635635.jpg",
     "actress": [
@@ -1561,36 +1011,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
+      "少女",
       "凌辱",
-      "美少女",
       "美腳",
-      "JK校服",
-      "美乳",
-      "制服",
-      "口交",
-      "性感",
-      "潮吹",
+      "女學生",
       "深喉",
       "中出",
-      "後入",
-      "少女",
-      "顏射",
+      "美少女",
       "絕頂高潮",
+      "學校",
+      "苗條",
+      "顏射",
       "手指插入",
+      "制服",
+      "美乳",
+      "口交",
+      "潮吹",
       "乳交",
       "女上位",
-      "學校"
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e77471631cc64eb5a35cb7/cover.jpg",
     "actress": [
@@ -1606,36 +1050,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
+      "少女",
       "凌辱",
-      "美少女",
       "美腳",
-      "JK校服",
-      "胸控・戀乳癖",
+      "女學生",
+      "舔陰",
+      "中出",
+      "美少女電影",
       "自宅",
+      "美少女",
+      "苗條",
+      "顏射",
+      "短裙・迷你裙",
+      "青梅竹馬",
       "美乳",
       "口交",
       "巨乳",
-      "性感",
-      "中出",
+      "乳交",
+      "胸控・戀乳癖",
       "後入",
-      "短裙・迷你裙",
-      "少女",
-      "顏射",
-      "舔陰",
-      "美少女電影",
-      "青梅竹馬",
-      "乳交"
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214042807410410.jpg",
     "actress": [
@@ -1651,31 +1089,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "熟女",
       "人妻",
-      "舔陰",
-      "貴婦",
-      "胸控・戀乳癖",
-      "美乳",
-      "中出",
-      "短裙・迷你裙",
-      "飯店",
-      "蕩婦",
       "巨乳",
-      "性感",
       "口交",
+      "舔陰",
+      "絕頂高潮",
+      "潮吹",
+      "中出",
+      "貴婦",
+      "飯店",
       "苗條",
-      "絕頂高潮"
+      "胸控・戀乳癖",
+      "短裙・迷你裙",
+      "蕩婦",
+      "熟女",
+      "性感",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214032117609609.jpg",
     "actress": [
@@ -1691,31 +1123,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "女學生",
-      "美少女",
-      "手指插入",
-      "JK校服",
-      "乱伦",
-      "自宅",
-      "美乳",
-      "中出",
-      "制服",
-      "姐姐・妹妹",
-      "後入",
       "口交",
+      "絕頂高潮",
+      "乱伦",
+      "中出",
       "跳蛋",
       "苗條",
-      "絕頂高潮"
+      "女學生",
+      "自宅",
+      "姐姐・妹妹",
+      "手指插入",
+      "後入",
+      "JK校服",
+      "制服",
+      "亂倫",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121090415118118.jpg",
     "actress": [
@@ -1733,13 +1159,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/hEVSAAF4/1.jpg",
     "actress": [],
@@ -1754,13 +1174,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/d0iRPvsH/1.jpg",
     "actress": [],
@@ -1774,36 +1188,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
       "多P",
-      "苗條",
-      "OL",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
       "人妻",
       "中出",
-      "後入",
-      "輪姦",
+      "女同事",
+      "苗條",
       "手指插入",
+      "輪姦",
+      "制服",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "女同事"
+      "胸控・戀乳癖",
+      "OL",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c93df9a2e9b1d4a52fc3/cover.jpg",
     "actress": [
@@ -1819,20 +1227,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "自慰",
-      "乱伦",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乱伦",
+      "自慰",
+      "淫乱，真实"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1bdb52c12b4e6846a4ed/cover.jpg",
     "actress": [
@@ -1848,31 +1250,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
       "人妻",
-      "NTR",
-      "情趣內衣",
-      "同事女友・妻子",
-      "手指插入",
-      "上司女友・妻子",
-      "乳交",
-      "出軌",
-      "黑絲",
-      "中出",
-      "美乳",
       "口交",
       "巨乳",
+      "出軌",
+      "乳交",
+      "中出",
+      "上司女友・妻子",
+      "同事女友・妻子",
+      "黑絲",
+      "情趣內衣",
       "女上位",
-      "美臀"
+      "美臀",
+      "手指插入",
+      "熟女",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031825626626.jpg",
     "actress": [
@@ -1889,31 +1285,25 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
-      "手指插入",
-      "乳交",
       "勾引・誘惑",
-      "自宅",
-      "偷竊",
-      "出軌",
-      "美乳",
-      "中出",
+      "人妻",
       "豐滿",
-      "朋友母親",
       "口交",
       "巨乳",
+      "出軌",
+      "乳交",
+      "偷竊",
+      "中出",
       "女上位",
-      "短裙・迷你裙"
+      "短裙・迷你裙",
+      "自宅",
+      "朋友母親",
+      "手指插入",
+      "熟女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121032026997997.jpg",
     "actress": [
@@ -1929,36 +1319,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
       "凌辱",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "內衣",
       "出軌",
+      "美腳",
+      "人妻",
       "中出",
-      "後入",
-      "手指插入",
-      "乳交",
+      "自宅",
+      "勾引・誘惑",
+      "苗條",
       "按摩・物理治療・美容",
-      "女上位"
+      "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214031329391391.jpg",
     "actress": [
@@ -1975,40 +1359,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "飯店小姐・援交妹",
-      "胸控・戀乳癖",
+      "舔陰",
+      "中出",
       "自宅",
+      "妓女",
+      "劇情",
+      "抹油",
+      "美少女",
+      "苗條",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
       "美乳",
       "口交",
+      "飯店小姐・援交妹",
       "巨乳",
-      "性感",
       "風俗娘",
-      "妓女",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "抹油",
-      "舔陰",
-      "手指插入",
       "乳交",
-      "黑絲",
+      "情趣內衣",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214043049858858.jpg",
     "actress": [
@@ -2025,25 +1403,19 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "按摩・美容店",
+      "巨乳",
+      "出軌",
       "美腳",
       "按摩・物理治療・美容",
-      "出軌",
-      "美乳",
       "蕩婦",
-      "巨乳",
-      "美腿",
-      "劇情"
+      "劇情",
+      "按摩・美容店",
+      "NTR",
+      "美乳",
+      "美腿"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230527805805.jpg",
     "actress": [
@@ -2060,35 +1432,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "色誘",
-      "飯店",
-      "網襪",
-      "苗條",
       "美腳",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
+      "網襪",
+      "色誘",
       "人妻",
       "中出",
-      "後入",
-      "不倫",
+      "勾引・誘惑",
       "絕頂高潮",
+      "飯店",
+      "苗條",
       "手指插入",
+      "美乳",
+      "口交",
+      "巨乳",
+      "情趣內衣",
       "女上位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214043009649649.jpg",
     "actress": [
@@ -2105,27 +1471,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
+      "口交",
+      "中出",
+      "女上司",
+      "黑絲",
       "按摩・物理治療・美容",
       "自宅",
-      "女上司",
-      "中出",
-      "美乳",
       "蕩婦",
-      "口交",
-      "黑絲",
-      "性感",
+      "OL",
       "劇情",
-      "抹油"
+      "抹油",
+      "性感",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224231206324324.jpg",
     "actress": [
@@ -2142,25 +1502,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
+      "口交",
+      "女同事",
+      "中出",
       "酒後亂性",
       "黑絲",
-      "中出",
-      "制服",
       "飯店",
-      "出差",
-      "口交",
+      "OL",
       "劇情",
-      "女同事"
+      "出差",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/2024022423212222.jpg",
     "actress": [
@@ -2176,32 +1530,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
-      "艷遇",
-      "巨尻",
-      "慾求不滿",
-      "乳交",
-      "胸控・戀乳癖",
       "勾引・誘惑",
-      "出軌",
-      "美乳",
-      "中出",
-      "蕩婦",
+      "人妻",
+      "巨尻",
       "口交",
       "巨乳",
-      "劇情",
+      "慾求不滿",
+      "乳交",
+      "出軌",
+      "中出",
+      "胸控・戀乳癖",
+      "蕩婦",
       "美臀",
-      "臀控"
+      "臀控",
+      "劇情",
+      "艷遇",
+      "NTR",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230918976976.jpg",
     "actress": [
@@ -2218,13 +1566,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cdfbb89def9b1b8bebe95/cover.jpg",
     "actress": [],
@@ -2238,25 +1580,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "約炮",
-      "癡女",
-      "乳交",
-      "美乳",
-      "中出",
       "口交",
       "巨乳",
+      "乳交",
+      "約炮",
+      "中出",
+      "美少女電影",
+      "劇情",
       "性感",
-      "劇情"
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/202402242313573535.jpg",
     "actress": [
@@ -2272,37 +1608,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無做愛場面",
-      "飯店",
-      "苗條",
+      "少女",
       "臀控",
-      "美少女",
-      "女同性戀",
-      "胸控・戀乳癖",
-      "美乳",
-      "女同",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
       "淫亂",
       "中出",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "無毛",
+      "美少女",
+      "女同性戀",
       "女性向",
+      "絕頂高潮",
+      "女同",
+      "無毛",
+      "飯店",
+      "苗條",
+      "無做愛場面",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "胸控・戀乳癖",
+      "性感",
       "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bacc2a47ebb1a8b4b82d/cover.jpg",
     "actress": [
@@ -2319,22 +1649,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "美少女電影",
-      "美少女",
       "乱伦",
+      "美少女電影",
       "蕩婦",
       "姐姐・妹妹",
-      "劇情"
+      "劇情",
+      "亂倫",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224231735116116.jpg",
     "actress": [
@@ -2350,20 +1674,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "单体作品",
+      "中出",
       "礼仪小姐",
       "姐姐",
-      "中出",
-      "单体作品"
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2380,20 +1698,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "健身教練",
       "巨乳",
+      "健身教練",
       "瑜珈·健身",
-      "劇情",
-      "騎乗位"
+      "騎乗位",
+      "劇情"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224232032774774.jpg",
     "actress": [
@@ -2410,13 +1722,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/brRvipR7/1.jpg",
     "actress": [],
@@ -2430,27 +1736,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "應召・援交",
-      "形象俱樂部",
+      "美腳",
+      "色白",
+      "學姐・學妹",
       "美少女電影",
       "女學生",
-      "美少女",
-      "美腳",
       "純粹的慾望",
-      "色白",
-      "美乳",
+      "應召・援交",
       "劇情",
       "美臀",
-      "學姐・學妹"
+      "形象俱樂部",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-02-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230449114114.jpg",
     "actress": [
@@ -2467,13 +1767,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/RqPrKS70/1.jpg",
     "actress": [],
@@ -2487,30 +1781,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "約炮",
-      "流汗",
-      "辦公室",
-      "OL",
-      "倉庫",
-      "慾求不滿",
       "情趣飯店",
+      "口交",
+      "流汗",
+      "慾求不滿",
+      "約炮",
       "女上司",
       "中出",
-      "制服",
-      "蕩婦",
-      "口交",
+      "倉庫",
       "黑絲",
       "性感",
-      "劇情"
+      "蕩婦",
+      "辦公室",
+      "OL",
+      "劇情",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230343882882.jpg",
     "actress": [
@@ -2527,21 +1815,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "单体作品",
       "妄想",
-      "戏剧",
       "中出",
       "美少女电影",
-      "单体作品"
+      "苗条",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2555,21 +1837,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "戏剧",
       "乱伦",
-      "白天出轨",
       "中出",
-      "单体作品"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2586,20 +1862,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "运动短裤",
-      "女教师",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "淫乱，真实",
+      "女教师",
+      "运动短裤"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2613,35 +1883,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
+      "蕩婦",
       "人妻",
       "淫亂",
-      "內衣",
       "中出",
-      "蕩婦",
-      "後入",
+      "按摩棒",
       "絕頂高潮",
+      "飯店",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-03-26",
     "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065838900900.jpg",
     "actress": [
@@ -2657,20 +1921,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "空中小姐",
-      "白天出轨",
       "巨乳",
       "单体作品",
-      "连裤袜"
+      "连裤袜",
+      "空中小姐",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2686,40 +1944,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "自宅",
       "母親的朋友",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
       "蕩婦",
-      "後入",
-      "顏射",
-      "不倫",
-      "絕頂高潮",
+      "深喉",
+      "人妻",
       "舔陰",
-      "手指插入",
+      "淫亂",
+      "中出",
+      "自宅",
+      "絕頂高潮",
       "偷竊",
       "黑絲",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-03-26",
     "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323064652297297.jpg",
     "actress": [
@@ -2735,20 +1987,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "中出",
-      "单体作品"
+      "出轨",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2764,20 +2010,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "出轨",
       "中出",
       "女上位",
-      "单体作品"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2794,45 +2034,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "無毛",
       "飯店",
       "苗條",
-      "美腳",
+      "顏射",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
       "羞恥",
-      "胸控・戀乳癖",
       "美乳",
-      "亂交 • 群P",
+      "美腿",
+      "巨尻",
       "巨乳",
-      "性感",
       "口交",
       "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
       "乳交",
-      "黑絲",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68eeaf8e52c12b4e684b53c1/cover.jpg",
     "actress": [
@@ -2848,50 +2082,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "慾求不滿",
-      "苗條",
-      "流汗",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "出軌",
-      "按摩女郎",
-      "中出",
-      "後入",
       "少女",
+      "出軌",
+      "美腳",
       "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
+      "自宅",
+      "劇情",
+      "抹油",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
       "無毛",
-      "乳交",
+      "苗條",
       "按摩・物理治療・美容",
-      "女上位",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "流汗",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "內衣",
+      "女上位",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-04-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407035009455455.jpg",
     "actress": [
@@ -2907,32 +2135,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "NTR",
-      "美少女電影",
+      "口交",
+      "巨乳",
       "美少女",
-      "美腳",
-      "癡女",
       "慾求不滿",
+      "出軌",
+      "中出",
+      "美腳",
+      "美少女電影",
       "胸控・戀乳癖",
       "按摩・物理治療・美容",
-      "出軌",
-      "美乳",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
       "劇情",
-      "抹油"
+      "抹油",
+      "性感",
+      "形象俱樂部",
+      "NTR",
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/202404192342439999.jpg",
     "actress": [
@@ -2949,52 +2171,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
-      "苗條",
-      "美腳",
-      "羞恥",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
       "出軌",
-      "中出",
+      "多P",
+      "美腳",
       "蕩婦",
-      "後入",
       "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
+      "亂交 • 群P",
+      "深喉",
+      "人妻",
       "舔陰",
-      "手指插入",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "按摩棒",
+      "勾引・誘惑",
+      "絕頂高潮",
       "無毛",
-      "乳交",
+      "苗條",
+      "顏射",
       "黑絲",
-      "女上位",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "NTR",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407040104679679.jpg",
     "actress": [
@@ -3012,13 +2228,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240407/Knljniaf/1.jpg",
     "actress": [],
@@ -3032,41 +2242,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "胸控・戀乳癖",
-      "美乳",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
       "淫亂",
       "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
       "美少女電影",
+      "劇情",
+      "美少女",
       "泡泡浴店",
-      "手指插入",
+      "絕頂高潮",
       "無毛",
+      "苗條",
+      "手指插入",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
       "乳交",
-      "女上位"
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406072139948948.jpg",
     "actress": [
@@ -3082,45 +2286,39 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
       "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
       "人妻",
-      "淫亂",
-      "家政婦",
-      "內衣",
-      "中出",
-      "後入",
-      "顏射",
-      "不倫",
-      "絕頂高潮",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
-      "乱伦",
-      "乳交",
+      "自宅",
+      "家政婦",
+      "絕頂高潮",
       "無毛",
+      "乱伦",
       "偷竊",
+      "苗條",
+      "顏射",
       "黑絲",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323064625731731.jpg",
     "actress": [
@@ -3137,29 +2335,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "情趣內衣",
-      "美少女電影",
-      "美少女",
-      "M男・M女",
-      "蠻橫嬌羞",
-      "猥褻穿著",
       "勾引・誘惑",
-      "中出",
-      "蕩婦",
       "口交",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "M男・M女",
+      "中出",
       "網襪",
-      "性感",
+      "情趣內衣",
+      "猥褻穿著",
+      "美少女電影",
+      "蕩婦",
       "劇情",
-      "絕頂高潮"
+      "性感",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419234146718718.jpg",
     "actress": [
@@ -3175,51 +2367,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "吞精",
-      "女友・妻子",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
       "少女",
+      "出軌",
+      "美腳",
+      "女學生",
+      "口爆",
       "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
+      "亂交 • 群P",
+      "深喉",
+      "淫妻",
       "舔陰",
+      "淫亂",
+      "中出",
       "美少女電影",
-      "手指插入",
-      "乳交",
+      "自宅",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女友・妻子",
+      "苗條",
+      "顏射",
       "黑絲",
+      "手指插入",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
+      "乳交",
+      "情趣內衣",
       "女上位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510050340540540.jpg",
     "actress": [
@@ -3235,41 +2421,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
       "女上司",
-      "性感",
-      "熟女",
-      "潮吹",
+      "美腳",
+      "蕩婦",
+      "美臀",
       "人妻",
       "淫亂",
-      "內衣",
       "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
+      "自宅",
       "劇情",
       "絕頂高潮",
-      "手指插入",
       "無毛",
-      "乳交",
-      "女上位",
+      "苗條",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406071847926926.jpg",
     "actress": [
@@ -3286,41 +2466,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "監獄",
-      "猥亵",
-      "性虐癖",
-      "苗條",
       "凌辱",
-      "在丈夫面前被操",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "心理驚悚",
+      "性虐癖",
       "拘束・拷問",
-      "羞恥",
       "美腳",
-      "黑幫",
-      "口交",
-      "性感",
-      "潮吹",
       "深喉",
       "中出",
-      "劇情",
-      "輪姦",
       "美少女電影",
+      "劇情",
       "調教",
+      "美少女",
+      "強姦",
+      "女友・妻子",
+      "緊縛",
+      "苗條",
+      "騎乗位",
+      "羞恥",
+      "輪姦",
+      "監獄",
+      "口交",
+      "潮吹",
+      "黑幫",
+      "猥亵",
       "女上位",
-      "騎乗位"
+      "在丈夫面前被操",
+      "性感",
+      "心理驚悚"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a2621ac813dc779d960c6/cover.jpg",
     "actress": [
@@ -3337,13 +2511,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce1ad89def9b1b8bebea3/cover.jpg",
     "actress": [],
@@ -3357,39 +2525,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "兩女一男",
-      "苗條",
       "凌辱",
-      "美少女",
       "美腳",
-      "強姦",
-      "雙飛",
-      "胸控・戀乳癖",
-      "美乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "內衣",
-      "中出",
-      "美臀",
-      "脚控・戀足癖",
-      "美少女電影",
-      "膚黑",
       "脅迫做愛",
-      "劇情"
+      "美臀",
+      "兩女一男",
+      "膚黑",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "強姦",
+      "高顏值",
+      "苗條",
+      "形象俱樂部",
+      "美乳",
+      "脚控・戀足癖",
+      "雙飛",
+      "口交",
+      "胸控・戀乳癖",
+      "內衣",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a2356ac813dc779d96085/cover.jpg",
     "actress": [
@@ -3406,49 +2568,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
+      "少女",
+      "美腳",
       "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "企畫",
       "飯店",
       "苗條",
-      "美少女",
-      "美腳",
+      "顏射",
+      "手指插入",
+      "騎乗位",
       "羞恥",
-      "胸控・戀乳癖",
       "美乳",
-      "按摩棒",
-      "亂交 • 群P",
+      "吞精",
       "巨乳",
-      "性感",
       "口交",
       "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "無毛",
       "乳交",
+      "情趣內衣",
+      "自慰",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510031405414414.jpg",
     "actress": [
@@ -3465,13 +2621,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240421/LxMJW7Cy/1.jpg",
     "actress": [],
@@ -3485,23 +2635,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "重口味",
       "變性者",
-      "美少女電影",
-      "美少女",
       "乱伦",
       "變態",
+      "美少女電影",
       "劇情",
-      "重口味",
-      "奇異的"
+      "奇異的",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688ca46198bc99dfddea6588/cover.jpg",
     "actress": [
@@ -3517,29 +2661,23 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "父女",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "父親",
+      "口交",
       "淫亂",
-      "JK校服",
-      "自宅",
-      "女兒",
       "中出",
       "變態",
-      "口交",
-      "劇情"
+      "女兒",
+      "美少女電影",
+      "父女",
+      "女學生",
+      "自宅",
+      "劇情",
+      "父親",
+      "JK校服",
+      "亂倫",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419233214129129.jpg",
     "actress": [
@@ -3555,22 +2693,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同学母亲",
       "人妻",
-      "NTR",
+      "巨乳",
       "出軌",
       "蕩婦",
-      "巨乳",
-      "劇情"
+      "劇情",
+      "NTR",
+      "同学母亲"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419232917530530.jpg",
     "actress": [
@@ -3587,30 +2719,439 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "同學聚會",
-      "美少女電影",
+      "口交",
       "強姦",
       "中出",
+      "酒醉",
+      "美少女電影",
       "同學",
+      "同學聚會",
       "蕩婦",
-      "口交",
       "劇情",
-      "騎乗位",
-      "酒醉"
+      "騎乗位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DASDAS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DASDAS",
-        "works_count": 721
-      }
-    ],
+    "company": "DASDAS",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419232128505505.jpg",
     "actress": [
       "友田彩也香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-384"
+  },
+  {
+    "id": 14838,
+    "IDcode": "DASS-385",
+    "title": "對心儀巨乳女主播時間暫停直接狂插中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "女同事",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "女主持・主播",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "AV拍攝現場",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510041227419419.jpg",
+    "actress": [
+      "松本梨穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-385"
+  },
+  {
+    "id": 14839,
+    "IDcode": "DASS-386",
+    "title": "我的女老板爲了自我愉悅而以女上位的身份對我進行性騷擾。藤森裏穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "女上司",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "人妻",
+      "淫亂",
+      "中出",
+      "自宅",
+      "劇情",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "女同事",
+      "偷竊",
+      "苗條",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "OL",
+      "熟女",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510041151830830.jpg",
+    "actress": [
+      "藤森里穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-386"
+  },
+  {
+    "id": 15260,
+    "IDcode": "DASS-387",
+    "title": "真正接受了弟弟谎言-橘メアリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "口交",
+      "姐弟・兄妹",
+      "絕頂高潮",
+      "中出",
+      "美少女電影",
+      "蕩婦",
+      "劇情",
+      "騎乗位",
+      "亂倫"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419232023701701.jpg",
+    "actress": [
+      "橘瑪麗",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-387"
+  },
+  {
+    "id": 15261,
+    "IDcode": "DASS-388",
+    "title": "我的屁股不听话 被大屁股支配、无法抗拒本能的丰满姐姐的诱惑。森泽佳奈 -A 森泽佳奈-森泽加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "臀控",
+      "美臀",
+      "人妻",
+      "鄰居",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "乱伦",
+      "色白",
+      "苗條",
+      "黑絲",
+      "騎乗位",
+      "艷遇",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "女上位",
+      "後入",
+      "性感",
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419231759930930.jpg",
+    "actress": [
+      "森澤佳奈",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-388"
+  },
+  {
+    "id": 105307,
+    "IDcode": "DASS-390",
+    "title": "从孩童时期就是好朋友的3人组-弓乃りむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "滥交",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "輝大"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-390"
+  },
+  {
+    "id": 14841,
+    "IDcode": "DASS-391",
+    "title": "熟人送健康",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "獵豔",
+      "女上司",
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "女業務",
+      "絕頂高潮",
+      "偷竊",
+      "苗條",
+      "黑絲",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "飯店小姐・援交妹",
+      "巨乳",
+      "風俗娘",
+      "潮吹",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "OL",
+      "熟女",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510041043341341.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-391"
+  },
+  {
+    "id": 14833,
+    "IDcode": "DASS-392",
+    "title": "美少女性援助",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "出軌",
+      "美腳",
+      "女學生",
+      "姐姐・妹妹",
+      "美臀",
+      "亂交 • 群P",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "苗條",
+      "黑絲",
+      "手指插入",
+      "羞恥",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "JK校服",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510094503155155.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-392"
+  },
+  {
+    "id": 15262,
+    "IDcode": "DASS-393",
+    "title": "美麗的母女，永井マリア。我來看望幾十年前我使她懷孕的那個女人和她的女兒鬆本一香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "凌辱",
+      "口交",
+      "強姦",
+      "中出",
+      "色白",
+      "母女",
+      "女上位",
+      "美少女電影",
+      "女學生",
+      "騎乗位",
+      "劇情",
+      "兩女一男",
+      "性感",
+      "美少女",
+      "癡女",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a2534ac813dc779d960b3/cover.jpg",
+    "actress": [
+      "松本一香",
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-393"
+  },
+  {
+    "id": 14490,
+    "IDcode": "DASS-394",
+    "title": "继子服用春药已经一周了-白石桃桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "苗條",
+      "顏射",
+      "媚藥・迷藥",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524034218630630.jpg",
+    "actress": [
+      "白石桃",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-394"
+  },
+  {
+    "id": 14152,
+    "IDcode": "DASS-395",
+    "title": "我捏着毫無防備地露出黑色絲襪的姐姐的大屁股，中出了她 ~ 藤森裏穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "姐姐・妹妹",
+      "感官作品",
+      "淫亂",
+      "中出",
+      "劇情",
+      "美少女",
+      "乱伦",
+      "黑絲",
+      "騎乗位",
+      "形象俱樂部",
+      "亂倫",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "女上位",
+      "足交",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2024-06-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607012618235235.jpg",
+    "actress": [
+      "藤森里穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-395"
   }
 ];

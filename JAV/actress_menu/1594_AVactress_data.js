@@ -208,7 +208,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Baby Entertainment",
+      "company": "蚊香社",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20240313-1/ea99a0d4c3f703ad95e9d789381c7dcb.jpg",
       "actress": [

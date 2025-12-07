@@ -63,19 +63,19 @@ window.actressData = {
     },
     {
       "id": 350,
-      "IDcode": "HEYZO-0408",
-      "title": "加勒比PPV动画 121313_725 没有预约突击制服美女 麻仓忧",
+      "IDcode": "121313_725-CARIBPR",
+      "title": "加勒比PPV动画  没有预约突击制服美女 麻仓忧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "",
-      "company": "HEYZO",
+      "type": "无码",
+      "company": "加勒比系",
       "publish_date": "",
       "cover_url": "",
       "actress": [
         "麻倉憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=121313_725-CARIBPR"
     }
   ]
 };

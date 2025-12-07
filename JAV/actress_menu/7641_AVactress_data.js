@@ -44,7 +44,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/eec02d0a-77d5-48a9-8bbc-53bbbb69ba40_thumbnail.webp",
       "actress": [

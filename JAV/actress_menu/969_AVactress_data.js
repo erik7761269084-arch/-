@@ -109,7 +109,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/972e25a6-b7ca-4735-805c-19d782bf12a4.webp",
       "actress": [

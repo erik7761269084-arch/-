@@ -77,7 +77,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250511-2/38a63975746bca53dec973094e38fac4.jpg",
       "actress": [

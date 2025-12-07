@@ -317,7 +317,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2018-08-09",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1mist222/1mist222pl.jpg",
       "actress": [
@@ -386,7 +386,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "HubX",
+      "company": "G.M.E",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/2d5a77d120c6a3f00501d99377499ff6.jpg",
       "actress": [

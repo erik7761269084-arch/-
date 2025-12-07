@@ -1,47 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 566817,
-    "IDcode": "APAK-222",
-    "title": "激・肉欲不伦 “热いザーメンで孕ませてぇ！” Gカップ＆美爆尻！絶顶若妻 紫月ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1f2e3d0656b5d4fd8f4ae221dce58229.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-222"
-  },
-  {
-    "id": 566816,
-    "IDcode": "APAK-224",
-    "title": "“イキ过ぎてマ○コもアタマもバカになっちゃうの！”＃オフパコ娘とホテルお笼もり淫乱絶顶SEX 児玉れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dfe0022c8b1665b86bc7e22b8ec26a8e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-224"
-  },
-  {
     "id": 86699,
     "IDcode": "APAK-225",
     "title": "「もうイッてるってば！」 淫乱に目覚めた女子社員 ～絶頂連発！情熱の休日出勤～ 営業事務 本田瞳（29）既婚",
@@ -49,20 +7,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "单体作品",
       "已婚妇女",
-      "OL",
       "中出",
-      "单体作品"
+      "淫乱，真实",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -78,21 +30,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "人妻",
       "单体作品",
       "已婚妇女",
       "中出",
+      "淫乱，真实",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/0998e75ec3b9c2bacaa08552a4062de5.jpg",
     "actress": [
@@ -109,13 +55,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -132,13 +72,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/WvRcuIoc/1.jpg",
     "actress": [],
@@ -153,13 +87,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -174,13 +102,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -194,20 +116,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "中出",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/fec41f21225e7c016bc0d66bba237601.jpg",
     "actress": [
@@ -226,13 +142,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -246,20 +156,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "巨乳",
-      "颜射",
+      "单体作品",
+      "淫乱，真实",
       "女上位",
-      "单体作品"
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/d1f3c69706e03129c1d5f643f7c96da8.jpg",
     "actress": [
@@ -276,13 +180,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -299,13 +197,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -319,20 +211,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
       "巨乳",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/13d03fba7911451b7e85faa946dbe369.jpg",
     "actress": [],
@@ -346,20 +232,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "中出",
       "巨乳",
-      "颜射",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "OL",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -374,13 +254,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b35876751b27e4a6bf9f04fcada39907.jpg",
     "actress": [],
@@ -395,13 +269,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/177b1e405b350443b0fdaaa4887852f0.jpg",
     "actress": [],
@@ -418,13 +286,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221212/1LaNNuY8/1.jpg",
     "actress": [],
@@ -438,20 +300,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "中出",
-      "颜射",
       "单体作品",
-      "高中女生"
+      "中出",
+      "美少女电影",
+      "高中女生",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -470,13 +326,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230406/kx6yH9NE/1.jpg",
     "actress": [],
@@ -493,13 +343,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -518,13 +362,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250615/qeD2xPNZ/1.jpg",
     "actress": [],
@@ -541,13 +379,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230617/0GgY0jYE/1.jpg",
     "actress": [],
@@ -564,13 +396,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230626/yW7o96NR/1.jpg",
     "actress": [],
@@ -587,13 +413,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230710/KXxL6BXp/1.jpg",
     "actress": [],
@@ -610,13 +430,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -631,13 +445,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230806/3D2m43aK/1.jpg",
     "actress": [],
@@ -652,13 +460,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/2gzoxwE7/1.jpg",
     "actress": [],
@@ -675,13 +477,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230910/roHD7g1P/1.jpg",
     "actress": [],
@@ -695,21 +491,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
+      "絕頂高潮",
       "淫亂",
       "中出",
-      "女上位",
       "顏射",
-      "絕頂高潮"
+      "女上位",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2023-09-26",
     "cover_url": "https://picture.yoshiclub.xyz/20230924/99562aec-d91c-4113-a66d-d8d66581b5f4.jpg",
     "actress": [
@@ -726,13 +516,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231008/FHYMSK3t/1.jpg",
     "actress": [],
@@ -749,13 +533,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231023/m7bB3E2k/1.jpg",
     "actress": [],
@@ -769,22 +547,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
       "淫亂",
       "中出",
-      "制服",
-      "企畫",
       "性感",
-      "顏射"
+      "企畫",
+      "顏射",
+      "OL",
+      "制服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2023-11-14",
     "cover_url": "https://picture.yoshiclub.xyz/20231112/ca9e4567-771e-4d74-b81c-9588a6385f78.jpg",
     "actress": [
@@ -801,13 +573,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231127/HL12b5SU/1.jpg",
     "actress": [],
@@ -821,26 +587,20 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "車震",
-      "美少女電影",
-      "女學生",
+      "口交",
       "約炮",
-      "美少女",
-      "JK校服",
       "中出",
       "飯店",
-      "口交",
+      "顏射",
+      "美少女電影",
+      "女學生",
       "劇情",
-      "顏射"
+      "JK校服",
+      "美少女",
+      "車震"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2023-12-12",
     "cover_url": "https://picture.yoshiclub.xyz/20231211/d6595082-97b1-4e7f-ae39-a4f8a7acfc53.jpg",
     "actress": [
@@ -856,28 +616,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "女學生",
-      "美腳",
-      "淫亂",
-      "JK校服",
-      "美乳",
-      "中出",
-      "制服",
-      "後入",
       "巨乳",
+      "淫亂",
+      "中出",
+      "美腳",
+      "顏射",
       "女上位",
+      "女學生",
       "騎乗位",
-      "顏射"
+      "後入",
+      "JK校服",
+      "制服",
+      "泳裝",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2023-12-26",
     "cover_url": "https://picture.yoshiclub.xyz/20231225/e3c06970-859c-4c68-a27c-2a5ab6658040.jpg",
     "actress": [
@@ -894,13 +648,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/r576Ltor/1.jpg",
     "actress": [],
@@ -917,13 +665,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -937,36 +679,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
       "口爆",
-      "苗條",
-      "辦公室",
-      "美少女",
-      "OL",
-      "羞恥",
-      "美乳",
-      "按摩棒",
-      "口交",
-      "性感",
-      "潮吹",
       "淫亂",
       "中出",
-      "後入",
-      "短裙・迷你裙",
-      "少女",
+      "辦公室",
+      "美少女",
+      "按摩棒",
+      "女同事",
+      "苗條",
       "顏射",
-      "高跟鞋",
       "黑絲",
+      "短裙・迷你裙",
+      "羞恥",
+      "美乳",
+      "口交",
+      "潮吹",
       "女上位",
-      "女同事"
+      "高跟鞋",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-02-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240213/657d85a1-3e88-40fb-929b-39bcb3eab4c2.jpg",
     "actress": [
@@ -983,13 +719,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240226/66ocv76C/1.jpg",
     "actress": [],
@@ -1006,13 +736,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a0ed174e7d663df451691a/cover.jpg",
     "actress": [],
@@ -1026,37 +750,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "淫亂",
+      "中出",
+      "美少女電影",
       "辦公室",
       "美少女",
-      "OL",
-      "胸控・戀乳癖",
-      "美乳",
       "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "短裙・迷你裙",
-      "少女",
       "絕頂高潮",
-      "美少女電影",
+      "女同事",
+      "短裙・迷你裙",
       "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
       "乳交",
       "女上位",
-      "騎乗位",
-      "女同事"
+      "胸控・戀乳癖",
+      "內衣",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-03-26",
     "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065746642642.jpg",
     "actress": [
@@ -1073,13 +791,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/kKlheTM4/1.jpg",
     "actress": [],
@@ -1093,22 +805,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "約炮",
-      "美少女",
-      "JK校服",
-      "中出",
       "巨乳",
-      "顏射"
+      "中出",
+      "約炮",
+      "顏射",
+      "美少女電影",
+      "JK校服",
+      "美少女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/f0561099-fe7d-43d2-b385-0556a40a627c.jpg",
     "actress": [
@@ -1124,46 +830,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "吞精",
-      "苗條",
-      "美少女",
+      "少女",
       "美腳",
-      "JK校服",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
+      "女學生",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "潮吹",
-      "大乳暈",
       "深喉",
+      "大乳暈",
+      "舔陰",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
       "美少女電影",
-      "手指插入",
+      "自宅",
+      "接吻",
+      "美少女",
+      "絕頂高潮",
       "無毛",
+      "企畫",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "吞精",
+      "巨乳",
+      "口交",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240511/572d7ab3-6a82-4c01-bac4-e48c8b9a3fbc.jpg",
     "actress": [
@@ -1180,13 +880,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240527/JdljcYnr/1.jpg",
     "actress": [],
@@ -1200,33 +894,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨尻",
+      "蠻橫嬌羞",
+      "巨乳",
+      "絕頂高潮",
+      "抹油",
+      "中出",
+      "色白",
       "清純",
+      "顏射",
       "美少女電影",
       "女學生",
-      "巨尻",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "蠻橫嬌羞",
-      "色白",
-      "中出",
-      "巨乳",
-      "後入",
+      "美臀",
       "劇情",
       "騎乗位",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "抹油"
+      "後入",
+      "JK校服",
+      "美少女",
+      "癡女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-06-12",
     "cover_url": "https://picture.yoshiclub.xyz/20240609/456c8f5a-10eb-4bad-b90d-9bb9784b4120.jpg",
     "actress": [
@@ -1243,13 +931,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240624/mnAGRxw9/1.jpg",
     "actress": [],
@@ -1263,37 +945,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "獵豔",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "飯店小姐・援交妹",
-      "按摩棒",
-      "口交",
-      "接吻",
-      "風俗娘",
-      "中出",
-      "後入",
       "少女",
-      "劇情",
-      "顏射",
-      "應召・援交",
-      "清純",
+      "獵豔",
+      "美腳",
+      "女學生",
+      "中出",
       "美少女電影",
       "拜金女",
-      "女上位"
+      "接吻",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "飯店",
+      "苗條",
+      "顏射",
+      "應召・援交",
+      "口交",
+      "飯店小姐・援交妹",
+      "風俗娘",
+      "清純",
+      "女上位",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-07-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240708/088f8e43-b601-4eb8-a683-c377897d6212.jpg",
     "actress": [
@@ -1312,13 +988,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240722/3M1JTcdn/1.jpg",
     "actress": [],
@@ -1332,30 +1002,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "約炮",
-      "女學生",
-      "美少女",
-      "乳交",
-      "胸控・戀乳癖",
-      "美乳",
-      "中出",
-      "飯店",
+      "少女",
       "口交",
       "巨乳",
-      "性感",
-      "少女",
-      "劇情",
+      "絕頂高潮",
+      "乳交",
+      "約炮",
+      "中出",
+      "飯店",
       "顏射",
-      "絕頂高潮"
+      "胸控・戀乳癖",
+      "女學生",
+      "劇情",
+      "性感",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240811/87c973b5-116a-41a7-a016-31243678ceaa.jpg",
     "actress": [
@@ -1371,40 +1035,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "車震",
-      "艷遇",
-      "巨尻",
-      "飯店",
-      "美少女",
       "美腳",
-      "OL",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "約炮",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
       "蕩婦",
-      "後入",
       "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
       "美少女電影",
-      "女上位",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "飯店",
+      "顏射",
       "騎乗位",
-      "情趣內衣"
+      "艷遇",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "口交",
+      "約炮",
+      "情趣內衣",
+      "女上位",
+      "OL",
+      "後入",
+      "性感",
+      "車震"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-08-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240825/b8f09159-304e-428a-98a7-c5c5f03d9845.jpg",
     "actress": [
@@ -1420,30 +1078,24 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "辦公室",
-      "加班",
-      "美腳",
-      "OL",
-      "女上位",
-      "女上司",
-      "中出",
-      "制服",
-      "蕩婦",
-      "美乳",
-      "後入",
-      "劇情",
       "口交",
+      "加班",
+      "中出",
+      "女上司",
+      "美腳",
+      "顏射",
+      "女上位",
+      "蕩婦",
+      "辦公室",
+      "OL",
+      "劇情",
       "騎乗位",
-      "顏射"
+      "後入",
+      "制服",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240909/4ec32bc2-394a-43c6-9ce7-abc7bb878e00.jpg",
     "actress": [
@@ -1459,33 +1111,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "清純",
-      "短髮",
-      "美少女電影",
-      "女學生",
-      "JK校服",
-      "蠻橫嬌羞",
-      "慾求不滿",
-      "女上位",
-      "色白",
-      "中出",
-      "蘿莉控",
-      "後入",
-      "口交",
-      "劇情",
       "少女",
-      "騎乗位",
+      "口交",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "慾求不滿",
+      "中出",
+      "色白",
+      "清純",
       "顏射",
-      "絕頂高潮"
+      "女上位",
+      "美少女電影",
+      "蘿莉控",
+      "女學生",
+      "劇情",
+      "騎乗位",
+      "後入",
+      "JK校服",
+      "短髮"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-09-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240909/1732c560-59f5-4098-a8f8-1ac403ce457b.jpg",
     "actress": [
@@ -1501,36 +1147,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "女學生",
-      "慾求不滿",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "短髮",
-      "中出",
-      "後入",
       "少女",
-      "劇情",
-      "顏射",
-      "不倫",
-      "清純",
+      "女學生",
+      "癡女",
+      "中出",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "顏射",
+      "騎乗位",
+      "艷遇",
+      "短髮",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服",
+      "性感",
+      "不倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240922/ce1360c2-3d63-4228-b042-f79e467d2c8c.jpg",
     "actress": [
@@ -1546,34 +1186,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
       "女學生",
       "小隻馬",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
       "M男・M女",
       "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
+      "騎乗位",
       "口交",
       "潮吹",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "劇情",
-      "絕頂高潮",
       "清純",
-      "美少女電影",
-      "蘿莉控",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "2024-10-08",
     "cover_url": "https://picture.yoshiclub.xyz/20241006/b8e3ed30-000f-476c-8b49-8c9782e9c8b3.jpg",
     "actress": [
@@ -1590,13 +1224,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/93ac1931c2443206dd7c8a41360e47e4.jpg",
     "actress": [],
@@ -1613,13 +1241,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/31177d4e6cbff563c57919021b86adce.jpg",
     "actress": [],
@@ -1633,34 +1255,28 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "飯店",
-      "美少女",
-      "JK校服",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "約炮",
-      "中出",
-      "後入",
-      "企畫",
       "少女",
-      "顏射",
-      "絕頂高潮",
-      "清純",
+      "清楚系",
+      "女學生",
+      "中出",
       "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "顏射",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "約炮",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67888ff05d57b64bfd2c3657/cover.jpg",
     "actress": [
@@ -1676,36 +1292,30 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
       "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
+      "美腳",
+      "女學生",
+      "舔陰",
       "中出",
-      "企畫",
-      "顏射",
+      "美少女電影",
+      "美少女",
       "絕頂高潮",
       "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
+      "企畫",
+      "飯店",
+      "苗條",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "口交",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678887d45d57b64bfd2c1633/cover.jpg",
     "actress": [
@@ -1721,39 +1331,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "女學生",
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "色白",
-      "清楚系",
-      "口交",
-      "潮吹",
-      "中出",
-      "後入",
-      "企畫",
       "少女",
+      "清楚系",
+      "美腳",
+      "女學生",
       "美臀",
-      "顏射",
-      "絕頂高潮",
+      "中出",
       "抹油",
-      "清純",
+      "美少女",
+      "絕頂高潮",
+      "M男・M女",
+      "色白",
+      "企畫",
+      "顏射",
       "手指插入",
+      "騎乗位",
+      "泳裝",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787e9ca5d57b64bfd10d5eb/cover.jpg",
     "actress": [
@@ -1769,38 +1373,32 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
+      "少女",
       "女學生",
-      "純粹的慾望",
       "口爆",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "色白",
+      "企畫",
       "飯店",
       "苗條",
-      "阪道系",
-      "美少女",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
       "顏射",
+      "阪道系",
+      "純粹的慾望",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "口交",
+      "潮吹",
       "清純",
-      "美少女電影",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787da605d57b64bfd10412f/cover.jpg",
     "actress": [
@@ -1816,32 +1414,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "形象俱樂部",
-      "約炮",
-      "獵豔",
       "肉絲",
-      "OL",
-      "癡女",
-      "純粹的慾望",
-      "美乳",
-      "中出",
-      "制服",
-      "大奶头",
-      "美人",
       "後入",
-      "女上位",
       "口交",
+      "獵豔",
+      "約炮",
+      "中出",
+      "顏射",
+      "女上位",
+      "純粹的慾望",
+      "OL",
       "騎乗位",
-      "顏射"
+      "大奶头",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "癡女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c36a5c4e7d663df4c1b67f/cover.jpg",
     "actress": [
@@ -1857,41 +1449,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
       "女學生",
+      "美臀",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "色白",
+      "企畫",
       "飯店",
       "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "色白",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "校花",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
       "顏射",
-      "清純",
-      "舔陰",
-      "美少女電影",
+      "阪道系",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "口交",
+      "校花",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250113/106684a9-90a7-4728-9981-05fbd8016630.jpg",
     "actress": [
@@ -1910,13 +1496,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/1ea24dfb0bf395a43371957db67d1433.jpg",
     "actress": [],
@@ -1931,13 +1511,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1951,40 +1525,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "純粹的慾望",
-      "慾求不滿",
-      "豐滿",
-      "癡女",
-      "JK校服",
-      "純愛・戀愛",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
       "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "校花",
+      "豐滿",
+      "女學生",
+      "癡女",
       "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "絕頂高潮",
       "美少女電影",
+      "自宅",
+      "絕頂高潮",
+      "企畫",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "校花",
+      "慾求不滿",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "純愛・戀愛",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/20250223133428111111.jpg",
     "actress": [
@@ -2001,13 +1569,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250705-1/a1a09d60b5b235c4e313d86b1855d64e.jpg",
     "actress": [],
@@ -2021,39 +1583,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "純粹的慾望",
       "真實拍攝",
       "豐滿",
-      "素人作品",
-      "飯店",
-      "辣妹/GAL系",
-      "OL",
-      "癡女",
-      "真人秀",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "約炮",
+      "小隻馬",
       "野性",
-      "猥褻穿著",
+      "癡女",
       "中出",
-      "美人",
-      "後入",
+      "猥褻穿著",
+      "辣妹/GAL系",
+      "飯店",
       "顏射",
-      "女上位",
+      "素人作品",
+      "純粹的慾望",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "巨尻",
+      "口交",
+      "約炮",
+      "情趣內衣",
+      "女上位",
+      "真人秀",
+      "OL",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250326/c83a1b93-d00e-44c7-b00f-9615bf6e78cf.jpg",
     "actress": [
@@ -2069,48 +1625,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
+      "少女",
+      "清楚系",
+      "美腳",
+      "蘿莉控",
       "女學生",
       "小隻馬",
-      "純粹的慾望",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "大奶头",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "抹油",
-      "顏射",
-      "絕頂高潮",
-      "清純",
       "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
+      "中出",
       "舔腳",
+      "美少女電影",
+      "抹油",
+      "美少女",
+      "絕頂高潮",
+      "大奶头",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "泳裝",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
       "蘿莉",
-      "蘿莉控",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250409/0e67c006-29ea-48d5-823d-99e0bfe2cc95.jpg",
     "actress": [
@@ -2126,35 +1676,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "運動",
+      "高妹",
       "女學生",
       "口爆",
-      "運動",
-      "素人作品",
-      "美少女",
-      "JK校服",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
       "中出",
-      "企畫",
-      "少女",
-      "清純",
       "美少女電影",
-      "高妹",
+      "劇情",
+      "美少女",
       "無毛",
       "運動女孩",
-      "肛交",
-      "劇情"
+      "企畫",
+      "素人作品",
+      "形象俱樂部",
+      "口交",
+      "巨乳",
+      "清純",
+      "JK校服",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420074755345345_thumbnail.webp",
     "actress": [
@@ -2170,52 +1714,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "小隻馬",
-      "純粹的慾望",
-      "美少女",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
+      "少女",
       "清楚系",
+      "蘿莉控",
+      "女學生",
+      "小隻馬",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "色白",
+      "高顏值",
+      "企畫",
+      "顏射",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
       "校花",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
       "蘿莉",
-      "蘿莉控",
+      "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510060026473473_thumbnail.webp",
     "actress": [
@@ -2231,55 +1769,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "泳裝",
-      "奇聞趣事",
+      "少女",
+      "真實拍攝",
+      "運動",
+      "主觀視角",
+      "美腳",
+      "蘿莉控",
+      "高妹",
       "女學生",
       "小隻馬",
       "口爆",
-      "運動",
-      "真實拍攝",
-      "素人作品",
-      "飯店",
-      "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "JK校服",
-      "羞恥",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "校花",
-      "大姐姐",
-      "中出",
       "姐姐・妹妹",
-      "美人",
-      "後入",
-      "少女",
-      "抹油",
-      "絕頂高潮",
-      "清純",
+      "單體作品",
       "舔陰",
+      "奇聞趣事",
+      "中出",
+      "大姐姐",
       "美少女電影",
-      "手指插入",
-      "高妹",
+      "抹油",
+      "美少女",
+      "絕頂高潮",
       "無毛",
       "運動女孩",
-      "蘿莉控",
+      "飯店",
+      "苗條",
+      "素人作品",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "泳裝",
+      "美人",
+      "美乳",
+      "口交",
+      "校花",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524000554243243_thumbnail.webp",
     "actress": [
@@ -2295,57 +1827,51 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "艷遇",
-      "女學生",
-      "口爆",
-      "運動",
-      "真實拍攝",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "清楚系",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "約炮",
-      "校花",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
       "少女",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "自慰",
+      "真實拍攝",
+      "清楚系",
+      "蠻橫嬌羞",
+      "運動",
+      "美腳",
       "高妹",
+      "女學生",
+      "運動服裝",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "中出",
       "偶像",
+      "美少女電影",
+      "接吻",
+      "美少女",
+      "絕頂高潮",
       "無毛",
       "運動女孩",
-      "女上位",
+      "色白",
+      "企畫",
+      "飯店",
+      "苗條",
+      "手指插入",
+      "艷遇",
       "騎乗位",
-      "情趣內衣"
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "口交",
+      "校花",
+      "潮吹",
+      "約炮",
+      "清純",
+      "自慰",
+      "女上位",
+      "情趣內衣",
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014345456456_thumbnail.webp",
     "actress": [
@@ -2361,44 +1887,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "M男・M女",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "色白",
-      "美乳",
-      "清楚系",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "高顏值",
-      "極品美人",
-      "中出",
-      "美人",
-      "後入",
       "少女",
-      "劇情",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "清楚系",
+      "美腳",
       "高妹",
+      "女學生",
+      "口爆",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "淫蕩・硬核",
+      "M男・M女",
+      "色白",
+      "高顏值",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621075946626626_thumbnail.webp",
     "actress": [
@@ -2414,52 +1934,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "醫院・診所",
-      "巨尻",
-      "口爆",
       "豐滿",
-      "護士制服",
+      "姐姐・妹妹",
+      "口爆",
       "臀控",
-      "護士",
-      "阪道系",
-      "OL",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫蕩・硬核",
-      "形象俱樂部",
+      "美臀",
       "單體作品",
       "深喉",
-      "極品美人",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
       "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "乳交",
-      "看病・住院",
+      "中出",
+      "極品美人",
       "御姐系",
+      "大姐姐",
+      "劇情",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "色白",
+      "護士",
+      "顏射",
+      "看病・住院",
+      "阪道系",
+      "手指插入",
+      "騎乗位",
+      "護士制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
       "女上位",
-      "騎乗位"
+      "OL",
+      "後入",
+      "性感",
+      "醫院・診所"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706104655406406_34403_thumbnail.webp",
     "actress": [
@@ -2475,55 +1989,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "女學生",
-      "巨尻",
-      "純粹的慾望",
-      "口爆",
+      "少女",
+      "清楚系",
       "豐滿",
+      "美腳",
+      "女學生",
+      "口爆",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "偶像",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
       "飯店",
       "阪道系",
-      "美少女",
-      "美腳",
-      "JK校服",
+      "純粹的慾望",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
       "羞恥",
-      "胸控・戀乳癖",
+      "形象俱樂部",
+      "美人",
       "美乳",
-      "清楚系",
+      "美腿",
+      "巨尻",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "約炮",
       "校花",
-      "明星臉",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "偶像",
       "乳交",
+      "約炮",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211041354354_45083_thumbnail.webp",
     "actress": [
@@ -2539,44 +2047,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "按摩棒",
-      "清楚系",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "單體作品",
-      "短髮",
-      "校花",
-      "文藝女",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
       "少女",
+      "清楚系",
+      "美腳",
+      "女學生",
       "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
+      "文藝女",
+      "單體作品",
       "舔陰",
+      "中出",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "色白",
       "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美腿",
+      "口交",
+      "校花",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689fedd29550e292a7765056/cover.jpg",
     "actress": [
@@ -2592,65 +2094,59 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
+      "少女",
+      "清楚系",
+      "豐滿",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
+      "蘿莉控",
       "女學生",
       "小隻馬",
-      "M男・M女",
       "口爆",
-      "豐滿",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
       "單體作品",
       "深喉",
-      "高顏值",
+      "舔陰",
       "淫亂",
       "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "抹油",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
       "舔腳",
-      "乳交",
-      "蘿莉",
+      "美少女電影",
+      "抹油",
+      "性感",
       "調教",
-      "白眼失神",
-      "蘿莉控",
+      "美少女",
+      "按摩棒",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "蘿莉",
+      "潮吹",
+      "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "白眼失神",
+      "大奶头",
+      "JK校服",
+      "濕身"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906220205940940_69286_thumbnail.webp",
     "actress": [
@@ -2666,61 +2162,55 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "濕身",
-      "口爆",
-      "素人作品",
-      "飯店",
-      "苗條",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
       "清楚系",
-      "口交",
-      "巨乳",
-      "性感",
-      "跳蛋",
-      "淫蕩・硬核",
-      "形象俱樂部",
+      "蠻橫嬌羞",
+      "主觀視角",
+      "美腳",
+      "高妹",
+      "姐姐・妹妹",
+      "口爆",
+      "美臀",
+      "濕身",
       "單體作品",
       "深喉",
-      "約炮",
-      "高顏值",
-      "極品美人",
-      "蠻橫嬌羞",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "抹油",
-      "清純",
+      "癡女",
       "舔陰",
+      "中出",
+      "極品美人",
+      "大姐姐",
       "美少女電影",
-      "手指插入",
-      "自慰",
-      "高妹",
-      "乳交",
-      "無毛",
-      "女上位",
       "丁字裤",
+      "抹油",
+      "按摩棒",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "無毛",
+      "高顏值",
+      "飯店",
+      "苗條",
+      "素人作品",
+      "企畫",
+      "顏射",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "約炮",
+      "清純",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "情趣內衣",
+      "後入",
+      "性感",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213013442442_51256_thumbnail.webp",
     "actress": [
@@ -2736,50 +2226,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "清楚系",
+      "美腳",
+      "二次元",
       "女學生",
       "小隻馬",
-      "二次元",
-      "純粹的慾望",
+      "美臀",
+      "高妹",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "偶像",
+      "美少女電影",
+      "美少女",
+      "無毛",
+      "企畫",
       "飯店",
       "苗條",
       "阪道系",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "約炮",
-      "校花",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "清純",
-      "舔陰",
-      "美少女電影",
+      "純粹的慾望",
       "手指插入",
-      "高妹",
-      "偶像",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "口交",
+      "校花",
       "乳交",
-      "無毛",
+      "約炮",
+      "清純",
       "女上位",
-      "騎乗位"
+      "後入",
+      "JK校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2796,13 +2280,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2817,13 +2295,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2838,7 +2310,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240701-1/f9708c86f822aea993f564ea53f6973e.jpg",
     "actress": [],
@@ -2853,7 +2325,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230218/apao00028pl.jpg",
     "actress": [],
@@ -2868,7 +2340,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/X48LQrpQ/1.jpg",
     "actress": [],
@@ -2883,7 +2355,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f32a8fdd88d14f063f5212/cover.jpg",
     "actress": [],
@@ -2898,7 +2370,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250830-1/7d2b0148e108a3d91b112ea3f96f60d0.jpg",
     "actress": [],
@@ -2913,7 +2385,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240623-1/942e66832516cb6da5a66e865ec88820.jpg",
     "actress": [],
@@ -2930,7 +2402,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/92211af9380b23b265595b6feed5573e.jpg",
     "actress": [],
@@ -2947,7 +2419,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2962,7 +2434,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230406/NDKD2Rrf/1.jpg",
     "actress": [],
@@ -2977,7 +2449,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230823/WLhXfEkm/1.jpg",
     "actress": [],
@@ -2992,7 +2464,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -3007,13 +2479,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677de34989def9b1b8c76131/cover.jpg",
     "actress": [],
@@ -3027,20 +2493,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
-      "中出",
       "巨乳",
-      "颜射",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "姐姐",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9fe1b9af8bbfc28ca48d4dfcef297607.jpg",
     "actress": [
@@ -3056,20 +2516,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "自慰",
-      "中出",
       "口交",
-      "颜射",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "自慰",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6320d263af5af18fe625bf04fadb0d69.jpg",
     "actress": [
@@ -3085,18 +2539,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
       "第一人称摄影",
+      "美少女电影",
       "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/859abe9d4c55aaa1245a6d18224b121e.jpg",
     "actress": [
@@ -3112,20 +2560,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
-      "中出",
       "口交",
-      "颜射",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "姐姐",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/20e251e895c57237135e28a0078c8376.jpg",
     "actress": [
@@ -3141,25 +2583,49 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "中出",
-      "妹妹",
+      "第一人称摄影",
+      "苗条",
       "颜射",
-      "第一人称摄影"
+      "妹妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "AURORA PROJECT ANNEX",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
-        "works_count": 429
-      }
-    ],
+    "company": "AURORA PROJECT ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/01d9430efc7c81e81449384f6370689c.jpg",
     "actress": [
       "梦乃美咲"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-007"
+  },
+  {
+    "id": 549071,
+    "IDcode": "APGH-009",
+    "title": "キミもしかして初めてなの？先生が2人っきりのプライベート补习で全部面倒みてあげる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AURORA PROJECT ANNEX",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230605/WlzXQkrq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-009"
+  },
+  {
+    "id": 548683,
+    "IDcode": "APGH-010",
+    "title": "保育园のマドンナ先生がシングルパパを愈してくれる ケツ穴ベロベロ 甘とろご奉仕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AURORA PROJECT ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-010"
   }
 ];

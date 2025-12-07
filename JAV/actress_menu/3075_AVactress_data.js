@@ -272,7 +272,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787cad18daf6b1db43c33bc/cover.jpg",
       "actress": [
@@ -665,7 +665,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250718-1/da9e4fa784dcd97846e1ae522523e46f.jpg",
       "actress": [

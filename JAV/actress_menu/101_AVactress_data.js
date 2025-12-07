@@ -973,7 +973,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250810/20250810101038849849_77463_thumbnail.webp",
       "actress": [

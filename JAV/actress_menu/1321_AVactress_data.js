@@ -45,7 +45,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "2023-02-23",
       "cover_url": "https://picture.yoshiclub.xyz/20240825/778fc1fb-d0f7-4736-a3f3-035aaea32aa8.jpg",
       "actress": [

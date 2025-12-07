@@ -36,19 +36,19 @@ window.actressData = {
     },
     {
       "id": 142647,
-      "IDcode": "022512-952",
+      "IDcode": "022512-952-CARIBPR",
       "title": "加勒比可爱Vol.23",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "",
+      "company": "加勒比系",
       "publish_date": "",
       "cover_url": "https://thjpg10.top/upload/vod/20250202-1/66ab607081689c14073748d7b22998ae.jpg",
       "actress": [
         "大森美玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=022512-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=022512-952-CARIBPR"
     },
     {
       "id": 104677,

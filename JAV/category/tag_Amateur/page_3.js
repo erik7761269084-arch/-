@@ -1,23 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 141847,
-    "IDcode": "010818-577",
-    "title": "和服管家为无法收拾铃南穗香的你服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250129-1/821a7b1c83b4cd030e9f78d22008921d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=010818-577"
-  },
-  {
     "id": 141865,
     "IDcode": "010819-833",
     "title": "一个很好的成人监护一个穿著裸体围裙的保育员治愈的梦想日托中心SenaSakura",
@@ -29,7 +11,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/b4bb58e575aff7df4c57b2ae73aa080c.jpg",
     "actress": [],
@@ -47,13 +29,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "一本道",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
-        "works_count": 1622
-      }
-    ],
+    "company": "一本道",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -71,7 +47,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/3d61223d012daa81c0e17b9a6418b148.jpg",
     "actress": [],
@@ -89,7 +65,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/ed53dc633325998f5d39fed912432463.jpg",
     "actress": [],
@@ -107,7 +83,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/6e83a19d8bfdd443af6f01b3f22fd57d.jpg",
     "actress": [],
@@ -125,7 +101,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250525-1/b5e9028abb8b03347b02de57b1185d34.jpg",
     "actress": [],
@@ -139,12 +115,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "出道作",
-      "无码"
+      "出道作"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb6a8e4e7d663df4c948d1/cover.jpg",
     "actress": [],
@@ -162,7 +138,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250718-1/692f78c77c269d0cb98d0f7f33c03782.jpg",
     "actress": [],
@@ -180,7 +156,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -198,7 +174,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/b7466aa03d54d7acf7cf0b3ef4ebe8c9.jpg",
     "actress": [],
@@ -216,7 +192,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/fdf9d86c2c35fef3236735721e43409d.jpg",
     "actress": [],
@@ -234,7 +210,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/8a9b9bcb6c65a4df2ed3b4a947f243aa.jpg",
     "actress": [],
@@ -252,7 +228,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/e19dab1e0cdf2fe6661d88902d97ccaa.jpg",
     "actress": [],
@@ -270,7 +246,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/dc302fefad229f2aa494ba0e2d35c19a.jpg",
     "actress": [],
@@ -288,7 +264,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/2746aa67782e9af0bf86bece8a660a64.jpg",
     "actress": [
@@ -309,7 +285,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "2018-01-09",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -323,12 +299,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "出道作",
-      "无码"
+      "出道作"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/3e8d4b5d9196a878c16b387bd8d45594.jpg",
     "actress": [],
@@ -346,7 +322,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/078664a3409752a440c7649c46769de5.jpg",
     "actress": [],
@@ -364,13 +340,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221016/SsuEzQyO/1.jpg",
     "actress": [],
@@ -388,7 +358,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/154f69383c7eb85c721db5693d2866e7.jpg",
     "actress": [],
@@ -406,13 +376,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221016/kN4bW32I/1.jpg",
     "actress": [],
@@ -430,7 +394,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/654ce487ab47318f31e70053d277552b.jpg",
     "actress": [],
@@ -448,7 +412,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/588abacda64c302040b2c8660d37fa60.jpg",
     "actress": [
@@ -464,12 +428,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/22/680754dacf22ae3e047206ab/cover.jpg",
     "actress": [],
@@ -487,7 +451,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68377541a0b87615b2db3d02/cover.jpg",
     "actress": [],
@@ -505,7 +469,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/abda56e5ebb38ae77f97ffdfdfa90b50.jpg",
     "actress": [],
@@ -523,7 +487,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/f5b4853cd24cb47114a8e6b9bc1c85e6.jpg",
     "actress": [],
@@ -541,7 +505,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/2e1db1c7c1a4c385d1297bf97f2fe464.jpg",
     "actress": [],
@@ -555,12 +519,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "出道作",
-      "无码"
+      "出道作"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250212-1/8a9ecbc5b28f42913265f673e823c213.jpg",
     "actress": [],
@@ -578,7 +542,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/9bb3407e6454719918608889d2bea787.jpg",
     "actress": [],
@@ -596,7 +560,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/a92d819aea2b23800b26db5e205ebeab.jpg",
     "actress": [],
@@ -614,7 +578,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/be051c3ad8a09829770bbb486aa21c17.jpg",
     "actress": [],
@@ -632,7 +596,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/3611b7f2fca70162ac474880cca636a7.jpg",
     "actress": [
@@ -652,7 +616,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/cf8ed55d59b0fec055a23dc6f51a5c15.jpg",
     "actress": [],
@@ -670,7 +634,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -689,7 +653,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/15784abc3421766965173268d83831b4.jpg",
     "actress": [],
@@ -707,7 +671,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/494f168a8ff2bb6c0308fcb94f0ce16c.jpg",
     "actress": [],
@@ -725,7 +689,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/90b2006082299118075b014c7a188955.jpg",
     "actress": [],
@@ -743,7 +707,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d33eb5b6f25c16929ca56/cover.jpg",
     "actress": [],
@@ -761,7 +725,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -779,7 +743,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/ef548813b6125ace027a13379fe305b7.jpg",
     "actress": [],
@@ -797,7 +761,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/254fec71d15b293565236c6b9698f664.jpg",
     "actress": [],
@@ -812,11 +776,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "无码"
+      "无码",
+      "乱伦"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/0b1dff3bb61ec62aba6de3fb19694013.jpg",
     "actress": [],
@@ -834,7 +798,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/be9cee201be0446fbb700567a4e46cb2.jpg",
     "actress": [],
@@ -849,11 +813,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "无码"
+      "无码",
+      "乱伦"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/76ff48e3d428d96b0572fffa02f4a653.jpg",
     "actress": [
@@ -873,7 +837,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/1b9cf6c2650330b9f68a77ac6c2ecf5f.jpg",
     "actress": [],
@@ -891,7 +855,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/a9997922b936d297225df765a90d6bd2.jpg",
     "actress": [],
@@ -910,7 +874,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -924,12 +888,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "出道作",
-      "无码"
+      "出道作"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/7856cc2d13182d71e1ee2d21f872035b.jpg",
     "actress": [],
@@ -947,7 +911,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/92c5f5fd30b9b1e696c71b56ec737c0e.jpg",
     "actress": [],
@@ -965,7 +929,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250105-1/382659110500d6e9b0955732b2d0b15c.jpg",
     "actress": [],
@@ -983,7 +947,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68377520a0b87615b2db361d/cover.jpg",
     "actress": [],
@@ -1001,7 +965,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250714-1/0321994bca4e08514307f671c585dfbb.jpg",
     "actress": [],
@@ -1019,7 +983,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-6/afc18eb8eda5731cca1304884ff12263.jpg",
     "actress": [],
@@ -1037,7 +1001,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/d1ffa17301c432d74b37c0d054598f30.jpg",
     "actress": [
@@ -1053,12 +1017,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "一本道",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1076,7 +1040,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/e90c5d6f7b27e6f9a53ccd8472134ff7.jpg",
     "actress": [],
@@ -1094,7 +1058,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/b0245a582b365a069c17116ada9e2381.jpg",
     "actress": [],
@@ -1112,7 +1076,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/ea4f530269f889340d08aaaddf7333f2.jpg",
     "actress": [],
@@ -1130,7 +1094,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/f8e008625452dcffc8afa3e025991ebb.jpg",
     "actress": [],
@@ -1144,12 +1108,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "出道作",
-      "无码"
+      "出道作"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/c25340210cd6fb86cd8e441b41ff3ccc.jpg",
     "actress": [],
@@ -1167,7 +1131,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/bd819515501aa9821559d6960c0f047a.jpg",
     "actress": [],
@@ -1185,7 +1149,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/f6c792f2274f8ce6f96796a56a722d31.jpg",
     "actress": [],
@@ -1203,7 +1167,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/1e689c54c1f598435ccb1804460a3500.jpg",
     "actress": [
@@ -1223,7 +1187,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/c2d46d42d6abc43d5d38d87bc8b77813.jpg",
     "actress": [],
@@ -1241,7 +1205,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1259,13 +1223,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "一本道",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
-        "works_count": 1622
-      }
-    ],
+    "company": "一本道",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250106-1/f63489d250b75e715d67fc099f90aaac.jpg",
     "actress": [],
@@ -1283,13 +1241,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "一本道",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
-        "works_count": 1622
-      }
-    ],
+    "company": "一本道",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250106-1/7c6b567ebe1923a916cf9e1a05e9c0ff.jpg",
     "actress": [],
@@ -1307,7 +1259,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250212-1/616f0ac77d8cc13176cad584058821d7.jpg",
     "actress": [],
@@ -1321,12 +1273,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "一本道",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1344,7 +1296,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/c4e4d25ad681be7cac616b130bfc47be.jpg",
     "actress": [],
@@ -1362,7 +1314,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/6ffc76a3d693d32ea0c6a5de58a59a41.jpg",
     "actress": [],
@@ -1370,7 +1322,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 144947,
-    "IDcode": "011317-005",
+    "IDcode": "011317-005-CARIBPR",
     "title": "加勒比钻石Vol.5",
     "year": "",
     "country": "",
@@ -1380,15 +1332,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/a56e8f90b6fa4eb6015dbc11d83c2f16.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011317-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011317-005-CARIBPR"
   },
   {
     "id": 142544,
-    "IDcode": "011317-350",
+    "IDcode": "011317-350-CARIBPR",
     "title": "加勒比钻石Vol.5冈崎英美里",
     "year": "",
     "country": "",
@@ -1398,11 +1350,11 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/374f8ecfe89455bb86f0654e89867ec1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011317-350"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011317-350-CARIBPR"
   },
   {
     "id": 56021,
@@ -1416,13 +1368,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "加勒比系",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
-        "works_count": 2435
-      }
-    ],
+    "company": "加勒比系",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1440,7 +1386,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/2dde370bbf38014a9a180b7652d47ee1.jpg",
     "actress": [],
@@ -1458,7 +1404,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/a75f4a9b92498953da10bae810e0b346.jpg",
     "actress": [],
@@ -1476,7 +1422,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/9e4fe880d2ba4980a9bb8f7dfe3184d4.jpg",
     "actress": [],
@@ -1494,7 +1440,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/4e9f307268bb4ed4ef5fcbf6f5933c3b.jpg",
     "actress": [],
@@ -1512,7 +1458,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/c0bc39a9613f5cb6a0dff533efea0a24.jpg",
     "actress": [],
@@ -1530,7 +1476,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250106-1/fa6e5d0c855d9d7c84015e3af60b4be9.jpg",
     "actress": [],
@@ -1548,7 +1494,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250714-1/47090885a1d2d55b2f93c5e4154f1f3d.jpg",
     "actress": [],
@@ -1562,12 +1508,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250719-1/506e1e040d26aed5fa9b81b2f91d2c50.jpg",
     "actress": [],
@@ -1585,7 +1531,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/a06bb26e539adc3efca9877f465370fb.jpg",
     "actress": [],
@@ -1599,12 +1545,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "一本道",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1622,7 +1568,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/065d25fb0161b131d2ff1ec37f122719.jpg",
     "actress": [],
@@ -1640,7 +1586,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/e7ff6818bf66adcbc216ff99b8e6f0c9.jpg",
     "actress": [],
@@ -1658,7 +1604,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/626071b3c77758258ddf1ee5eb62bb11.jpg",
     "actress": [],
@@ -1676,7 +1622,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/261147eb6fd895914e855a5ed723e1fd.jpg",
     "actress": [],
@@ -1694,7 +1640,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/3c77c77480f3352f1e0d87d18e5f2d20.jpg",
     "actress": [],
@@ -1712,7 +1658,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/305f765302d11c6905883dea9af3e531.jpg",
     "actress": [],
@@ -1730,7 +1676,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/0db2048c3c26d3ebbda5c4d8a1aa3932.jpg",
     "actress": [],
@@ -1748,7 +1694,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/4f1328a12d93908d5e5f1f6f0aeb5fc5.jpg",
     "actress": [
@@ -1765,11 +1711,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "无码"
+      "无码",
+      "乱伦"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250126-1/20776da464ba2f80d383019fbf698a8c.jpg",
     "actress": [],
@@ -1787,7 +1733,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1805,7 +1751,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/6bb283fdeeb065da6570ff18c627d9f7.jpg",
     "actress": [],
@@ -1823,7 +1769,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/bdae3daddbde6b823cef27179af32e62.jpg",
     "actress": [],
@@ -1841,7 +1787,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250106-1/49b8afc4492e77e817421b2ee0ee3f20.jpg",
     "actress": [],
@@ -1859,10 +1805,30 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250201-1/b41157e48f0614486d35964d1b3d94ad.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011515-785"
+  },
+  {
+    "id": 142555,
+    "IDcode": "011516-074",
+    "title": "喜欢左转",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250201-1/618c572d69bbc169e2a85cbc10a284aa.jpg",
+    "actress": [
+      "青山未来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011516-074"
   }
 ];

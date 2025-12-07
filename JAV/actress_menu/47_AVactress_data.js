@@ -113,7 +113,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-06-13",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617114125885885_thumbnail.webp",
       "actress": [
@@ -146,7 +146,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2024-05-21",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/7b9889ae9dd64b70bf188eedc1af8faf.jpg",
       "actress": [
@@ -1091,7 +1091,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895d25555337d7f7ba499f8/cover.jpg",
       "actress": [

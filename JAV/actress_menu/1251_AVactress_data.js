@@ -81,7 +81,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "豊彥",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823090618926926_46789_thumbnail.webp",
       "actress": [

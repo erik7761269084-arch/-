@@ -791,7 +791,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/328f60592739a65be99d91ae889926d8.jpg",
       "actress": [
@@ -808,7 +808,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250122-1/ec5fd2ac5bc58752e359429d728ff46e.jpg",
       "actress": [
@@ -861,7 +861,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250126-1/5a636b2e0f31f2b135d22e8f19eb727e.jpg",
       "actress": [
@@ -915,7 +915,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250210-1/58d79cdd2e0f5903221ad2aa80173c2c.jpg",
       "actress": [

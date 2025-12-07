@@ -147,7 +147,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240306-1/10ab8b80054c812fc0e28ec338a33c51.jpg",
       "actress": [
@@ -164,7 +164,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/0b9e49cc4d3ae3a8c474eafc117084c4.jpg",
       "actress": [

@@ -1,99 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 98253,
-    "IDcode": "315ETQR-066",
-    "title": "ベロチュウイチャラブ制服リフレ 八尋麻衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "素人",
-      "礼仪小姐",
-      "中出",
-      "美少女电影",
-      "素人作品",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "2018-12-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "八寻麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-066"
-  },
-  {
-    "id": 98526,
-    "IDcode": "315ETQR-069",
-    "title": "生中出しOKセーラー服美少女リフレ 阿由葉あみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "口交",
-      "主观视角"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "2018-12-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "阿由葉あみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-069"
-  },
-  {
-    "id": 98454,
-    "IDcode": "315ETQR-074",
-    "title": "制服美少女を独り占めフルコース！春埼めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "素人",
-      "美少女电影",
-      "中出",
-      "素人作品",
-      "口交",
-      "主观视角"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "2019-01-29",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "春埼芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-074"
-  },
-  {
     "id": 578402,
     "IDcode": "315ETQR-080",
     "title": "制服美少女を独り占めフルコース！有栖るる",
@@ -104,13 +10,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -124,22 +24,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2019-04-28",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -155,25 +49,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "水手服",
       "口交",
       "过膝袜",
-      "主观视角"
+      "水手服",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "按摩",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2019-10-24",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -189,25 +77,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "水手服",
       "口交",
       "过膝袜",
-      "主观视角"
+      "水手服",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "按摩",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2019-11-29",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -223,22 +105,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "素人",
-      "秘书",
-      "美少女电影",
       "中出",
+      "美少女电影",
       "素人作品",
-      "主观视角"
+      "眼镜",
+      "秘书",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/bd5370a8918187596fea48a95769c4d7.jpg",
     "actress": [
@@ -254,22 +130,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "素人",
-      "秘书",
-      "美少女电影",
       "中出",
+      "美少女电影",
       "素人作品",
-      "主观视角"
+      "眼镜",
+      "秘书",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/549cded1744df8f5f9b360a261658f54.jpg",
     "actress": [
@@ -285,25 +155,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "水手服",
       "口交",
       "过膝袜",
-      "主观视角"
+      "水手服",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "按摩",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2012637dead1efce6fdfc7ef0f1c33b1.jpg",
     "actress": [
@@ -319,22 +183,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/2f0cea1003e0276834068941cf2e84f9.jpg",
     "actress": [
@@ -350,22 +208,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/197332dffdbebe62dda80ad656e49342.jpg",
     "actress": [
@@ -381,22 +233,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/73026330f99e5d23c8626966cc890434.jpg",
     "actress": [
@@ -412,25 +258,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "水手服",
       "口交",
       "过膝袜",
-      "主观视角"
+      "水手服",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "按摩",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2020-01-31",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -446,23 +286,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
-      "中出",
-      "素人作品",
-      "巨乳",
       "口交",
+      "巨乳",
       "过膝袜",
-      "主观视角"
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2020-01-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/d927f24ae73cf979aa14d0100d89d38c.jpg",
     "actress": [
@@ -478,21 +312,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
       "中出",
+      "美少女电影",
       "素人作品",
+      "主观视角",
       "企画",
-      "主观视角"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2020-01-31",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -508,22 +336,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "自慰",
       "中出",
       "美少女电影",
       "素人作品",
+      "自慰",
       "妹妹",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2020-03-10",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -542,13 +364,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -562,22 +378,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/5b6ce8dca6ca1f85d8f549c5b4c7792a.jpg",
     "actress": [
@@ -593,22 +403,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
+      "口交",
       "中出",
+      "美少女电影",
       "素人作品",
       "制服",
-      "口交",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dd62c8dc7aaaed82fd944ebb7e700309.jpg",
     "actress": [
@@ -624,22 +428,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
+      "连裤袜",
+      "素人作品",
+      "恋爱",
       "眼镜",
       "OL",
-      "素人",
-      "恋爱",
-      "中出",
-      "素人作品",
-      "连裤袜"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/00653c6d1a669d040beec9c213d1bb5a.jpg",
     "actress": [
@@ -655,22 +453,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "自慰",
       "中出",
       "美少女电影",
       "素人作品",
+      "自慰",
       "妹妹",
-      "主观视角"
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c99088ac319bbb0b4833c0df79af651b.jpg",
     "actress": [
@@ -689,13 +481,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -712,13 +498,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -735,13 +515,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200821-1/691e60dc235e72e9616334fc860fa14f.jpg",
     "actress": [],
@@ -758,13 +532,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200822-1/18d4734a74e9d3e0f65eaa718735e9b0.jpg",
     "actress": [],
@@ -781,13 +549,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/cb409028c9ec0d28a5c8289cb985d025.jpg",
     "actress": [],
@@ -804,13 +566,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/b7ca22487c7712363b109f979bd4de50.jpg",
     "actress": [],
@@ -827,13 +583,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/4f360d9d304a6892d69d547426beaa54.jpg",
     "actress": [],
@@ -850,13 +600,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/4047f9254b5cecc1cf387737ff31fc07.jpg",
     "actress": [],
@@ -874,13 +618,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/cdcc75cc2f5b7d539a1110d6c78b468a.jpg",
     "actress": [],
@@ -897,13 +635,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -920,13 +652,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -940,22 +666,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
       "口交",
-      "主观视角"
+      "中出",
+      "素人作品",
+      "OL",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93721d39ecbdf9216b58b1cb1eb9e794.jpg",
     "actress": [
@@ -971,22 +691,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "素人",
       "业余",
       "中出",
-      "制服",
       "素人作品",
-      "姐姐"
+      "姐姐",
+      "OL",
+      "制服",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/56db328f182b81ba2414880bb395f180.jpg",
     "actress": [],
@@ -1003,13 +717,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/93fe261c9a200b8af4b6a1f0a775b219.jpg",
     "actress": [],
@@ -1026,13 +734,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/005a747701b0b4cc49b4713a916434e3.jpg",
     "actress": [],
@@ -1049,13 +751,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5dc587c0b54f14d3c6efc065abec91c9.jpg",
     "actress": [],
@@ -1072,13 +768,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/81736d46a0517657ba84b58e9d2b02bc.jpg",
     "actress": [],
@@ -1095,13 +785,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a6c16ed978745a3ab4a339fbe65cd232.jpg",
     "actress": [],
@@ -1118,13 +802,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/91a5d18f81d1112ebf01f9ce03b29d0f.jpg",
     "actress": [],
@@ -1141,13 +819,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/e83d5b4c389d6d9527a481d8d02f28b2.jpg",
     "actress": [],
@@ -1161,24 +833,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "巨乳",
       "精选，综合",
-      "主观视角"
+      "单体作品",
+      "巨乳",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8740a2111fe8516c113bab4284bd417e.jpg",
     "actress": [],
@@ -1192,24 +858,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "荡妇",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
       "精选，综合",
-      "主观视角"
+      "荡妇",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/971aa002cc54454b182eeb36920f614e.jpg",
     "actress": [
@@ -1228,13 +888,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00395pl.jpg",
     "actress": [],
@@ -1251,13 +905,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00396pl.jpg",
     "actress": [],
@@ -1274,13 +922,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00397pl.jpg",
     "actress": [],
@@ -1297,13 +939,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00398pl.jpg",
     "actress": [],
@@ -1320,13 +956,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1343,13 +973,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1366,13 +990,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00401pl.jpg",
     "actress": [],
@@ -1389,13 +1007,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1409,17 +1021,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00403pl.jpg",
     "actress": [],
@@ -1433,17 +1039,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00404pl.jpg",
     "actress": [],
@@ -1457,17 +1057,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00405pl.jpg",
     "actress": [],
@@ -1481,17 +1075,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00406pl.jpg",
     "actress": [],
@@ -1508,13 +1096,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/P6Fllapo/1.jpg",
     "actress": [],
@@ -1531,13 +1113,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/CMNqlvKk/1.jpg",
     "actress": [],
@@ -1554,13 +1130,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/SbwBOWn4/1.jpg",
     "actress": [],
@@ -1577,13 +1147,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/o21phtYm/1.jpg",
     "actress": [],
@@ -1597,17 +1161,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/k39Nh6xY/1.jpg",
     "actress": [],
@@ -1621,17 +1179,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/6qhN5UP9/1.jpg",
     "actress": [],
@@ -1645,17 +1197,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/OfkDoXyE/1.jpg",
     "actress": [],
@@ -1672,13 +1218,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/nXiYLDfy.jpg",
     "actress": [],
@@ -1695,13 +1235,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00469pl.jpg!320x216.jpg",
     "actress": [],
@@ -1718,13 +1252,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00470pl.jpg!320x216.jpg",
     "actress": [],
@@ -1741,13 +1269,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00475pl.jpg!320x216.jpg",
     "actress": [],
@@ -1764,13 +1286,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00477pl.jpg!320x216.jpg",
     "actress": [],
@@ -1787,13 +1303,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/f69TfTZ8/1.jpg",
     "actress": [],
@@ -1810,13 +1320,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/SnwkYk6Z/1.jpg",
     "actress": [],
@@ -1833,13 +1337,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/yHVkUWgb/1.jpg",
     "actress": [],
@@ -1856,13 +1354,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/VcjO581t/1.jpg",
     "actress": [],
@@ -1879,13 +1371,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/SBYqoedB/1.jpg",
     "actress": [],
@@ -1902,13 +1388,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/0fTxGhGH/1.jpg",
     "actress": [],
@@ -1925,13 +1405,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/JbzdNhCH/1.jpg",
     "actress": [],
@@ -1948,13 +1422,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/pV0zc9io/1.jpg",
     "actress": [],
@@ -1971,13 +1439,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/993e5fcaccec08110b20a296d4a59ca6.jpg",
     "actress": [],
@@ -1994,13 +1456,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00509pl.jpg!320x216.jpg",
     "actress": [],
@@ -2017,13 +1473,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00510pl.jpg!320x216.jpg",
     "actress": [],
@@ -2040,13 +1490,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed33f352c12b4e68492f4b/cover.jpg",
     "actress": [],
@@ -2063,13 +1507,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed32fc52c12b4e68492f48/cover.jpg",
     "actress": [],
@@ -2086,13 +1524,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed337852c12b4e68492f4a/cover.jpg",
     "actress": [],
@@ -2109,13 +1541,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8dec87f3b7c92907398d4/cover.jpg",
     "actress": [],
@@ -2132,13 +1558,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8de627f3b7c92907398b7/cover.jpg",
     "actress": [],
@@ -2155,13 +1575,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa4c655f03a092cf6fb7ea/cover.jpg",
     "actress": [],
@@ -2178,13 +1592,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250919-1/ccb651acd6b97ca18e13498dbb1c51b9.jpg",
     "actress": [],
@@ -2201,13 +1609,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e777f98bc99dfdd032fe1/cover.jpg",
     "actress": [],
@@ -2224,13 +1626,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e78c998bc99dfdd033050/cover.jpg",
     "actress": [],
@@ -2247,13 +1643,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e787c98bc99dfdd03302b/cover.jpg",
     "actress": [],
@@ -2267,23 +1657,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "素人",
-      "女佣",
+      "主观视角",
       "中出",
       "美少女电影",
       "素人作品",
-      "精选，综合",
-      "主观视角"
+      "女佣",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2300,13 +1684,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2323,13 +1701,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2344,7 +1716,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2361,7 +1733,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/25c2806b20b2a725cde8ddac7ffd00ad.jpg",
     "actress": [],
@@ -2378,7 +1750,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2395,7 +1767,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2412,7 +1784,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2429,7 +1801,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c214547d097123097f68250d58ac5894.jpg",
     "actress": [],
@@ -2446,7 +1818,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/318LADY-332.jpg",
     "actress": [],
@@ -2460,14 +1832,65 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-348"
+  },
+  {
+    "id": 196989,
+    "IDcode": "318LADY-350",
+    "title": "邀请18岁理科学生妹拍摄试验性玩具让她高潮后再好好享用",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-350"
+  },
+  {
+    "id": 197006,
+    "IDcode": "318LADY-351",
+    "title": "深夜访谈节目限定美少女带姐妹花去宾馆跟我们走就有酬劳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-351"
+  },
+  {
+    "id": 196953,
+    "IDcode": "318LADY-354",
+    "title": "以调查为由约了个性爱经验只有一人的19岁学生妹到宾馆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-354"
   }
 ];

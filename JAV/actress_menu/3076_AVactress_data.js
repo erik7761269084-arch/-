@@ -123,36 +123,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-947"
     },
     {
-      "id": 120047,
-      "IDcode": "FC2PPV-2498047",
-      "title": "佐佐波绫第二部初次内射",
+      "id": 571402,
+      "IDcode": "FC2-PPV-2498047",
+      "title": "[无码]在库限りで豪华特典终了★独占公开第２幕..仆にしか撮れない本物映像★【メルマガ限定详细★例の商品です】佐々波绫",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "FC2",
       "publish_date": "",
-      "cover_url": "https://lust103.cc/upload/vod/20250319-1/98e686ed7b8b23eb45b0f6e7db145964.jpg",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/qDiUtQJH.jpg",
       "actress": [
         "佐佐波绫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2498047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2498047"
     },
     {
-      "id": 120046,
-      "IDcode": "FC2PPV-2386297",
-      "title": "佐佐波绫第一章",
+      "id": 571262,
+      "IDcode": "FC2-PPV-2386297",
+      "title": "[无码]★过去最大级★これこそ仆にしか撮れない本物★独占公开【メルマガ限定详细★例の商品です】佐々波绫",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "FC2",
       "publish_date": "",
-      "cover_url": "https://lust103.cc/upload/vod/20250317-1/f6077acc17fe68ee417aae18b2b93288.jpg",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/iAbNPpQx.jpg",
       "actress": [
         "佐佐波绫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2386297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2386297"
     },
     {
       "id": 105511,
@@ -1191,7 +1191,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515095445130130_thumbnail.webp",
       "actress": [

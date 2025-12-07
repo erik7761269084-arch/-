@@ -1,166 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 9551,
-    "IDcode": "217MIHA-094",
-    "title": "危険日直撃 子作り出来るJ● 皆瀬あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "素人企画",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "JK校服",
-      "羞恥",
-      "色白",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cdd55d57b64bfd0f8605/cover.jpg",
-    "actress": [
-      "皆瀨明里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=217MIHA-094"
-  },
-  {
-    "id": 6528,
-    "IDcode": "217MIHA-095",
-    "title": "風俗小姐姐全程挑逗你的敏感帶 ~ 夕美紫苑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "獵豔",
-      "巨尻",
-      "素人作品",
-      "飯店",
-      "辣妹/GAL系",
-      "素人企画",
-      "淫語",
-      "主觀視角",
-      "胸控・戀乳癖",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "大乳暈",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "風俗娘",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "美少女電影",
-      "素人",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
-    "publish_date": "2025-04-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/202504300600273131_thumbnail.webp",
-    "actress": [
-      "夕美紫苑"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=217MIHA-095"
-  },
-  {
-    "id": 5750,
-    "IDcode": "217MIHA-096",
-    "title": "常に乳首をイジイジレロレロしてくれるデリヘル嬢 れいさん 美澄玲衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "真實拍攝",
-      "素人作品",
-      "苗條",
-      "感官作品",
-      "素人企画",
-      "淫語",
-      "美少女",
-      "美腳",
-      "主觀視角",
-      "飯店小姐・援交妹",
-      "美乳",
-      "清楚系",
-      "口交",
-      "巨乳",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "風俗娘",
-      "蠻橫嬌羞",
-      "按摩女郎",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/d8c3dd23/vod.jpg",
-    "actress": [
-      "美澄玲衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=217MIHA-096"
-  },
-  {
     "id": 4056,
     "IDcode": "217MIHA-097",
     "title": "常に乳首をイジイジレロレロしてくれるデリヘル嬢 まひるさん 櫻茉日",
@@ -168,47 +7,41 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蠻橫嬌羞",
       "獵豔",
-      "巨尻",
-      "港區女子",
-      "飯店",
-      "素人企画",
-      "淫語",
+      "單體作品",
       "癡女",
-      "飯店小姐・援交妹",
-      "胸控・戀乳癖",
+      "淫語",
+      "舔陰",
+      "中出",
+      "絕頂高潮",
+      "無毛",
+      "港區女子",
+      "高顏值",
+      "飯店",
+      "企畫",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "素人",
       "美乳",
+      "美腿",
+      "巨尻",
+      "飯店小姐・援交妹",
       "巨乳",
       "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
       "風俗娘",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "無毛",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
+    "company": "Mr.Michiru",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -225,35 +58,29 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "獵豔",
-      "口爆",
-      "素人作品",
-      "素人企画",
       "主觀視角",
-      "胸控・戀乳癖",
+      "口爆",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "劇情",
+      "素人作品",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "素人",
       "口交",
       "巨乳",
-      "形象俱樂部",
-      "單體作品",
       "風俗娘",
-      "超爆乳",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "舔陰",
-      "手指插入",
-      "素人",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
+    "company": "Mr.Michiru",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -269,17 +96,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Mr.Michiru",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Mr_Michiru",
-        "works_count": 242
-      }
-    ],
+    "company": "Mr.Michiru",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -294,13 +115,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "DEEP'S",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DEEP_S",
-        "works_count": 449
-      }
-    ],
+    "company": "一本道",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/1mikr00016pl.jpg!320x216.jpg",
     "actress": [],
@@ -317,7 +132,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250629-20/7e34f277f1d7a8e5e115d33bbd0a14d2.webp",
     "actress": [],
@@ -332,7 +147,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20240419-1/182967b97791c97bde0a5e964275a4cc.jpg",
     "actress": [],
@@ -347,7 +162,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240728-1/939e9a1f811ad06dd4f26a9fca7eee51.jpg",
     "actress": [],
@@ -362,7 +177,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2023-02-19",
     "cover_url": "https://tutu1.space/images/2023/02/13/4a1a37e9f5c57297916f97a822df3f9f.jpg",
     "actress": [],
@@ -376,17 +191,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/lw8vR203/1.jpg",
     "actress": [],
@@ -400,17 +209,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/vwKCR93G/1.jpg",
     "actress": [],
@@ -424,17 +227,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/kGmFVtSU/1.jpg",
     "actress": [],
@@ -448,17 +245,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/gnPu01QT/1.jpg",
     "actress": [],
@@ -472,17 +263,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/Jqa8wFxY/1.jpg",
     "actress": [],
@@ -496,17 +281,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230212/TbEwd7bq/1.jpg",
     "actress": [],
@@ -520,17 +299,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -544,17 +317,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -568,24 +335,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "戏剧",
-      "素人",
+      "巨乳",
+      "单体作品",
+      "素人作品",
       "恋爱",
       "情侣",
       "给女性观众",
-      "素人作品",
-      "巨乳",
-      "单体作品"
+      "戏剧",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "2022-09-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -601,17 +362,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/03d3153da7f831ec90712f625f05330e.jpg",
     "actress": [],
@@ -625,17 +380,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250415/MpfkfYWa/1.jpg",
     "actress": [],
@@ -649,17 +398,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/HT4LlX8T/1.jpg",
     "actress": [],
@@ -673,17 +416,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "2023-01-04",
     "cover_url": "https://sex8sex8sex8.com/20250416/Y6v6pnFN/1.jpg",
     "actress": [
@@ -700,17 +437,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/wFsklXqG/1.jpg",
     "actress": [],
@@ -724,17 +455,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250416/d8P8WrYg/1.jpg",
     "actress": [],
@@ -748,17 +473,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230426/Sx16ckvP/1.jpg",
     "actress": [],
@@ -772,17 +491,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230403/yLff2V7V/1.jpg",
     "actress": [],
@@ -796,17 +509,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/1BsSrsti/1.jpg",
     "actress": [],
@@ -820,17 +527,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/3dK7fZg9/1.jpg",
     "actress": [],
@@ -844,17 +545,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230704/FL6eO4cg/1.jpg",
     "actress": [],
@@ -868,17 +563,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/cd6b6869ad9af2125369c44500b234b4.jpg",
     "actress": [],
@@ -892,17 +581,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -916,17 +599,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/37eUfKiy/1.jpg",
     "actress": [],
@@ -940,17 +617,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231103/l3pBS2Oa/1.jpg",
     "actress": [],
@@ -964,17 +635,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231103/y6ErNWqd/1.jpg",
     "actress": [],
@@ -988,17 +653,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231215/NtOPTi4V/1.jpg",
     "actress": [],
@@ -1012,17 +671,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc4c89550e292a78b9149/cover.jpg",
     "actress": [],
@@ -1036,17 +689,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1060,44 +707,38 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "小隻馬",
-      "純粹的慾望",
-      "豐滿",
-      "素人作品",
-      "苗條",
-      "感官作品",
-      "素人企画",
-      "美少女",
-      "美腳",
-      "純愛・戀愛",
-      "自宅",
-      "美乳",
       "清楚系",
+      "豐滿",
+      "美腳",
+      "小隻馬",
+      "感官作品",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "美少女",
+      "女性向",
+      "絕頂高潮",
+      "女友・妻子",
+      "苗條",
+      "素人作品",
+      "純粹的慾望",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "素人",
       "正太",
       "口交",
-      "形象俱樂部",
-      "短髮",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
       "清純",
-      "美少女電影",
-      "素人",
-      "女性向",
       "女上位",
-      "騎乗位"
+      "純愛・戀愛",
+      "後入",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1114,49 +755,43 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "小隻馬",
-      "巨尻",
-      "純粹的慾望",
+      "少女",
       "豐滿",
-      "職場",
-      "阪道系",
-      "感官作品",
-      "素人企画",
-      "美少女",
       "美腳",
+      "小隻馬",
+      "美臀",
+      "單體作品",
+      "感官作品",
+      "職場",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "劇情",
+      "美少女",
+      "後入",
+      "女性向",
+      "絕頂高潮",
+      "女同事",
+      "高顏值",
+      "阪道系",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美腿",
+      "巨尻",
+      "口交",
+      "清純",
+      "女上位",
       "OL",
       "大奶头",
-      "制服",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "高顏值",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "女性向",
-      "女上位",
-      "騎乗位",
-      "女同事"
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SILK LABO",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SILK_LABO",
-        "works_count": 113
-      }
-    ],
+    "company": "SILK LABO",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1172,11 +807,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/OEBKClk5/1.jpg",
     "actress": [],
@@ -1190,11 +825,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/JjK1A1qa/1.jpg",
     "actress": [],
@@ -1208,11 +843,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/9wmSND56.jpg",
     "actress": [],
@@ -1226,11 +861,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/lzZRA58g/1.jpg",
     "actress": [],
@@ -1244,11 +879,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/0eM4FW6W/1.jpg",
     "actress": [],
@@ -1262,11 +897,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250417/WxWipvvL/1.jpg",
     "actress": [],
@@ -1280,11 +915,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230704/88EY63an/1.jpg",
     "actress": [],
@@ -1298,11 +933,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230731/Hn8rpCFk/1.jpg",
     "actress": [],
@@ -1316,11 +951,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230704/6RN3KuS8/1.jpg",
     "actress": [],
@@ -1334,11 +969,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/fOAku9Iv/1.jpg",
     "actress": [],
@@ -1352,11 +987,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230926/APbZ0lzm/1.jpg",
     "actress": [],
@@ -1370,11 +1005,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231202/F3AgYK3k/1.jpg",
     "actress": [],
@@ -1388,11 +1023,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240105/A5fSB3bj/1.jpg",
     "actress": [],
@@ -1406,11 +1041,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788af5630833b4bf53bc025/cover.jpg",
     "actress": [],
@@ -1424,35 +1059,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "純粹的慾望",
-      "慾求不滿",
-      "素人作品",
-      "苗條",
-      "感官作品",
-      "素人企画",
-      "美少女",
       "美腳",
-      "癡女",
-      "純愛・戀愛",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "後入",
-      "美腿",
       "美臀",
-      "劇情",
-      "絕頂高潮",
+      "癡女",
+      "感官作品",
       "舔陰",
-      "脚控・戀足癖",
+      "中出",
       "美少女電影",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "苗條",
+      "素人作品",
+      "純粹的慾望",
       "手指插入",
+      "騎乗位",
+      "形象俱樂部",
       "素人",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "慾求不滿",
+      "潮吹",
       "女上位",
-      "騎乗位"
+      "純愛・戀愛",
+      "後入",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/11/edc71188/vod.jpg",
     "actress": [
@@ -1468,11 +1103,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1486,34 +1121,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "美臀",
+      "感官作品",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "女性向",
+      "絕頂高潮",
       "女友・妻子",
       "純粹的慾望",
-      "感官作品",
-      "素人企画",
-      "美少女",
-      "美腳",
-      "純愛・戀愛",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
+      "騎乗位",
       "形象俱樂部",
-      "短髮",
-      "蠻橫嬌羞",
-      "中出",
       "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
+      "短髮",
+      "美乳",
       "素人",
-      "女性向",
+      "口交",
+      "巨乳",
       "女上位",
-      "騎乗位"
+      "純愛・戀愛",
+      "後入",
+      "性感",
+      "素人企画"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1529,18 +1164,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "素人企画",
-      "戏剧",
-      "素人",
+      "单体作品",
+      "素人作品",
       "恋爱",
+      "苗条",
       "情侣",
       "给女性观众",
-      "素人作品",
-      "单体作品"
+      "戏剧",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1556,50 +1191,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "巨尻",
-      "純粹的慾望",
-      "阪道系",
-      "感官作品",
-      "素人企画",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
       "少女",
-      "後入",
+      "清楚系",
+      "美腳",
       "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
+      "亂交 • 群P",
+      "單體作品",
+      "感官作品",
       "舔陰",
-      "手指插入",
-      "素人",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "極品美人",
       "偶像",
-      "乳交",
+      "劇情",
       "女性向",
+      "絕頂高潮",
+      "高顏值",
+      "企畫",
       "黑絲",
+      "阪道系",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "素人",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "清純",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "素人企画",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2fc9682e2e9281a548f1/cover.jpg",
     "actress": [
@@ -1616,7 +1251,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1631,7 +1266,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1645,17 +1280,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "素人",
-      "女教师",
-      "按摩棒",
-      "素人作品",
       "角色扮演者",
       "单体作品",
-      "高中女生"
+      "素人作品",
+      "高中女生",
+      "女教师",
+      "素人企画",
+      "素人",
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/e04617d99986612419411c1467c17896.jpg",
     "actress": [
@@ -1671,17 +1306,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "素人",
-      "自慰",
-      "素人作品",
       "角色扮演者",
       "口交",
       "单体作品",
-      "高中女生"
+      "素人作品",
+      "自慰",
+      "高中女生",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/7c4869af7f29279c7147795047b989d3.jpg",
     "actress": [
@@ -1697,17 +1332,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "素人",
-      "自慰",
-      "按摩棒",
-      "素人作品",
       "角色扮演者",
       "单体作品",
-      "高中女生"
+      "素人作品",
+      "自慰",
+      "高中女生",
+      "素人企画",
+      "素人",
+      "按摩棒"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/5a2cbceb98c6f62e3f590af553ddc7fe.jpg",
     "actress": [
@@ -1723,11 +1358,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/OarbXRFL/1.jpg",
     "actress": [],
@@ -1742,7 +1377,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/7vot6lFD/1.jpg",
     "actress": [],
@@ -1757,7 +1392,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/dCvT4NEu/1.jpg",
     "actress": [],
@@ -1772,7 +1407,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/nz39xth9/1.jpg",
     "actress": [],
@@ -1787,7 +1422,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/yqmACKNj/1.jpg",
     "actress": [],
@@ -1802,7 +1437,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/GfTon2k5/1.jpg",
     "actress": [],
@@ -1817,7 +1452,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240408/MR3QDQnl/1.jpg",
     "actress": [],
@@ -1834,7 +1469,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/mImf1yU8/1.jpg",
     "actress": [],
@@ -1849,7 +1484,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240201/fldXcvic/1.jpg",
     "actress": [],
@@ -1864,7 +1499,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240411/kI443bvX/1.jpg",
     "actress": [],
@@ -1879,7 +1514,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240411/vsAE4OCG/1.jpg",
     "actress": [],
@@ -1894,13 +1529,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "WAAP GROUP",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WAAP_GROUP",
-        "works_count": 431
-      }
-    ],
+    "company": "WAAP GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240411/cnxXLYZG/1.jpg",
     "actress": [],
@@ -1915,7 +1544,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/0bb13608ee78c75572ea7653f0be65bf.jpg",
     "actress": [],
@@ -1930,7 +1559,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/wtXFphAa/1.jpg",
     "actress": [],
@@ -1945,7 +1574,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/GTM28i9d/1.jpg",
     "actress": [],
@@ -1960,7 +1589,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250418/En23RhOg/1.jpg",
     "actress": [],
@@ -1975,7 +1604,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/Vx1QW3SR/1.jpg",
     "actress": [],
@@ -1990,7 +1619,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/J05sLyHL/1.jpg",
     "actress": [],
@@ -2005,7 +1634,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/m54y112p/1.jpg",
     "actress": [],
@@ -2022,7 +1651,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/YlmX0iJQ/1.jpg",
     "actress": [],
@@ -2037,7 +1666,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/fQndLiUI/1.jpg",
     "actress": [],
@@ -2052,7 +1681,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/JfWOJZZi/1.jpg",
     "actress": [],
@@ -2067,7 +1696,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/nmgLxWLx/1.jpg",
     "actress": [],
@@ -2082,7 +1711,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/uVckMf4A/1.jpg",
     "actress": [],
@@ -2097,7 +1726,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/AQkdTqZE/1.jpg",
     "actress": [],
@@ -2114,7 +1743,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250419/dyq92E8E/1.jpg",
     "actress": [],
@@ -2129,7 +1758,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/DOXLt4mX/1.jpg",
     "actress": [],
@@ -2144,7 +1773,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/oIpjjVA7/1.jpg",
     "actress": [],
@@ -2159,7 +1788,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/ojhe4tdk/1.jpg",
     "actress": [],
@@ -2176,7 +1805,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/izChdw2Q/1.jpg",
     "actress": [],
@@ -2193,7 +1822,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/tNDAbSVV/1.jpg",
     "actress": [],
@@ -2208,7 +1837,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/hRZREuaY/1.jpg",
     "actress": [],
@@ -2223,7 +1852,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230403/xoZ8lWa7/1.jpg",
     "actress": [],
@@ -2238,7 +1867,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230704/a0HQ1pY0/1.jpg",
     "actress": [],
@@ -2253,10 +1882,55 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230705/HF1CxEPF/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=223WPSL-314"
+  },
+  {
+    "id": 577862,
+    "IDcode": "223WPSL-325",
+    "title": "乳首の弱いカノジョと仆が、互いに乳首を责めあいました。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231103/b0V1cpIu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=223WPSL-325"
+  },
+  {
+    "id": 577858,
+    "IDcode": "223WPSL-358",
+    "title": "里垢同人ごっくん妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240426/u3xpjGNY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=223WPSL-358"
+  },
+  {
+    "id": 497451,
+    "IDcode": "223WPSL103",
+    "title": "【有码】 痴女る女と犯ラレル男とそれを傍観する俺ら 百瀬凛花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/2ef40a7893d562777faa914594e31423.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=223WPSL103"
   }
 ];

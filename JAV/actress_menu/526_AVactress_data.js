@@ -221,7 +221,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-12-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/477a1719f18bce9e8ab93f8da6135335.jpg",
       "actress": [
@@ -233,7 +233,7 @@ window.actressData = {
     {
       "id": 591543,
       "IDcode": "DOCP-214",
-      "title": "内射家庭主妇 【】",
+      "title": "内射家庭主妇",
       "year": "",
       "country": "",
       "genre": "",

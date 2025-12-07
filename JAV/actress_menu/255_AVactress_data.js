@@ -67,7 +67,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "2024-11-22",
       "cover_url": "https://picture.yoshiclub.xyz/20240514/3befe028-7e01-4ffb-a0aa-3f26d3a79c52.jpg",
       "actress": [
@@ -405,7 +405,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220011533139139.jpg",
       "actress": [
@@ -421,7 +421,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240409/a98ca36b-c71c-4334-bb82-f760c80a61e2.jpg",
       "actress": [
@@ -437,7 +437,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240611/20240611002425485485.jpg",
       "actress": [
@@ -453,7 +453,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240709/e46fae49-784e-4765-972d-c76bcfcbf052.jpg",
       "actress": [
@@ -469,7 +469,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240813/8f471ecb-87f0-458d-bd0f-aefd7fae5593.jpg",
       "actress": [
@@ -485,7 +485,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f37a2e4e7d663df49382e0/cover.jpg",
       "actress": [
@@ -501,7 +501,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c93e27d6fbef4e90aef2f2/cover.jpg",
       "actress": [
@@ -517,7 +517,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202505/11/682079f9c7cb4ba33f6f4305/cover.jpg",
       "actress": [
@@ -533,7 +533,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/01/24/9a086dab0e59d3c7327afeaea6d8de46.jpg",
       "actress": [
@@ -549,7 +549,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc03531eb0592de65bd51/cover.jpg",
       "actress": [
@@ -565,7 +565,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250306-1/29a62ef6b770a7b939cf781b030b7dfe.jpg",
       "actress": [
@@ -581,7 +581,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250311/20250311011358665665.jpg",
       "actress": [
@@ -597,7 +597,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e6bf82cf22ae3e0499fff3/cover.jpg",
       "actress": [
@@ -614,7 +614,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250408/112704bf-a96a-45a2-b9b6-f60d8eee22f2.jpg",
       "actress": [
@@ -630,7 +630,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/89c6d890-9294-4515-8630-871f2a292df6_thumbnail.webp",
       "actress": [
@@ -646,7 +646,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250610/20250610194001538538_thumbnail.webp",
       "actress": [
@@ -678,7 +678,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707202936357357_58836_thumbnail.webp",
       "actress": [
@@ -694,7 +694,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/202508112126181616_89273_thumbnail.webp",
       "actress": [
@@ -710,7 +710,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "SOD",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250908/20250908211329317317_39121_thumbnail.webp",
       "actress": [

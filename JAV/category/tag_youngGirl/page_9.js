@@ -1,5 +1,483 @@
 window.PAGE_DATA = [
   {
+    "id": 570281,
+    "IDcode": "FC2-PPV-3259982",
+    "title": "【无修正】色白巨乳のやわらか19歳♡エッチが大好き初パイズリでチンコの鼓动を感じる。ニコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230706/4k8U1Ng9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3259982"
+  },
+  {
+    "id": 114962,
+    "IDcode": "FC2-PPV-3260241",
+    "title": "东京大学性爱部20岁二年级生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-09-09",
+    "cover_url": "https://tuaskbgnekr.com/20230707/ZZTXYG0N/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3260241"
+  },
+  {
+    "id": 570364,
+    "IDcode": "FC2-PPV-3269270-CD1",
+    "title": "【无修正x个人撮影】人の奥さん爱奴7号vs娘の桜19歳ご主人様が喜ぶと思って、実-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230719/WvmlvbOg/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3269270-CD1"
+  },
+  {
+    "id": 570365,
+    "IDcode": "FC2-PPV-3269270-CD2",
+    "title": "【无修正x个人撮影】人の奥さん爱奴7号vs娘の桜19歳ご主人様が喜ぶと思って、実-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230719/Y2No118X/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3269270-CD2"
+  },
+  {
+    "id": 570396,
+    "IDcode": "FC2-PPV-3270595",
+    "title": "【个人撮影】トモハメ！友达気分でハメ撮りしちゃいました☆かよ21歳☆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3270595"
+  },
+  {
+    "id": 570419,
+    "IDcode": "FC2-PPV-3272858-CD1",
+    "title": "色白美尻スレンダーな19歳。有名大学2年生のリケジョが伝说级の大量潮吹きに闷え震-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230728/IwPiL5Fo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3272858-CD1"
+  },
+  {
+    "id": 570414,
+    "IDcode": "FC2-PPV-3272858-CD2",
+    "title": "色白美尻スレンダーな19歳。有名大学2年生のリケジョが伝说级の大量潮吹きに闷え震-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230728/aOHj2MZr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3272858-CD2"
+  },
+  {
+    "id": 184598,
+    "IDcode": "FC2-PPV-3273636",
+    "title": "素人大学生20岁Yura酱梦想进军演艺圈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/f77204c4/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3273636"
+  },
+  {
+    "id": 570492,
+    "IDcode": "FC2-PPV-3280779-CD1",
+    "title": "【个人撮影】颜出し“やよい21歳”真面目でドМな清纯美○女に超デカチンを生挿入！-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/1pC22vNk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3280779-CD1"
+  },
+  {
+    "id": 570488,
+    "IDcode": "FC2-PPV-3280779-CD2",
+    "title": "【个人撮影】颜出し“やよい21歳”真面目でドМな清纯美○女に超デカチンを生挿入！-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/OIjdQBvT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3280779-CD2"
+  },
+  {
+    "id": 570634,
+    "IDcode": "FC2-PPV-3291044",
+    "title": "【完全素人リアル动画#120】ハ○ーキティのパンツを履いたこの19歳学生のスタイルがヤバ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230825/XDrsWOq8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3291044"
+  },
+  {
+    "id": 570704,
+    "IDcode": "FC2-PPV-3301922",
+    "title": "【个人撮影】颜出し“れな19歳”ハーフ系美女に超デカチン生挿入！ラテン系腰ふりで骑乘位",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230903/eMO17j89/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3301922"
+  },
+  {
+    "id": 574164,
+    "IDcode": "FC2-PPV-3301949-CD2",
+    "title": "【有码】 【FC2発撮り】颜出し！素人女子大生【限定】ことりちゃん21歳 147㎝のミニサイズJD",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "嫩妹"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250409/V4oEedP2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3301949-CD2"
+  },
+  {
+    "id": 573714,
+    "IDcode": "FC2-PPV-3316986",
+    "title": "【有码】 りりあ21歳 アパレル系OL！筋肉质な美ボディに中出し2连発×颜射ぶっかけ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3316986"
+  },
+  {
+    "id": 115092,
+    "IDcode": "FC2-PPV-3321863",
+    "title": "一名22岁的巨乳新婚女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-09-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3321863"
+  },
+  {
+    "id": 574196,
+    "IDcode": "FC2-PPV-3359381-CD1",
+    "title": "【有码】 【FC2発撮り】颜出し！素人女子大生【限定】かなちゃん21歳 某制服リフレでバイ-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "嫩妹"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/Zl2teIja/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3359381-CD1"
+  },
+  {
+    "id": 574195,
+    "IDcode": "FC2-PPV-3359381-CD2",
+    "title": "【有码】 【FC2発撮り】颜出し！素人女子大生【限定】かなちゃん21歳 某制服リフレでバイ-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "嫩妹"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/yTXv9v8I/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3359381-CD2"
+  },
+  {
+    "id": 114931,
+    "IDcode": "FC2-PPV-3369680",
+    "title": "正在求职中的22岁女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-09-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3369680"
+  },
+  {
+    "id": 185551,
+    "IDcode": "FC2-PPV-3423208",
+    "title": "自信的20岁女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/0c0a1cbe/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3423208"
+  },
+  {
+    "id": 574241,
+    "IDcode": "FC2-PPV-3470574",
+    "title": "【有码】 980円个撮）笑颜まぶしいよ！！！】本物アイドルルックス声优の卵©21歳♪Maji出会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250510/gc2wLN3B/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3470574"
+  },
+  {
+    "id": 574247,
+    "IDcode": "FC2-PPV-3471467",
+    "title": "【有码】 ※初回数量限定※【个撮·中出し】スレンダー美ボディ女子大生 のぞみ19歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250511/pbqGHCjT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3471467"
+  },
+  {
+    "id": 574292,
+    "IDcode": "FC2-PPV-3568135",
+    "title": "【有码】 【FC2発撮り】颜出し！素人女子大生【限定】れいちゃん21歳 レースクイーンとして活动す",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "嫩妹"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250521/aVfm5T4h/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3568135"
+  },
+  {
+    "id": 115415,
+    "IDcode": "FC2-PPV-3661098",
+    "title": "性压抑的20岁女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3661098"
+  },
+  {
+    "id": 183764,
+    "IDcode": "FC2-PPV-3747517",
+    "title": "很普通的20岁大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/27/20b71b0c620ab2d654330fd0f74151cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3747517"
+  },
+  {
+    "id": 119758,
+    "IDcode": "FC2-PPV-3809162",
+    "title": "アナウンサー志望の京都美女19歳。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3809162"
+  },
+  {
+    "id": 529171,
+    "IDcode": "FC2-PPV-3878322",
+    "title": "【个人撮影】あみ19歳 ショートSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3878322"
+  },
+  {
+    "id": 115496,
+    "IDcode": "FC2-PPV-3922689",
+    "title": "天生白皙皮肤的20岁女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-30",
+    "cover_url": "https://tutu1.space/images/2025/08/29/0816ed4c5cc9263919075567046a8843.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3922689"
+  },
+  {
     "id": 115436,
     "IDcode": "FC2-PPV-3936475",
     "title": "干净漂亮的20岁大学生在咖啡馆打工",
@@ -10,17 +488,80 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-31",
     "cover_url": "https://tutu1.space/images/2025/08/30/3711f7ca69becda1862578c7205c97de.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3936475"
+  },
+  {
+    "id": 119976,
+    "IDcode": "FC2-PPV-3962113",
+    "title": "【個撮93】顔出し21歳 黒髪清楚系超スジパイパン⑨ラスト投稿！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2025/08/23/7d8763ca4b01ef1d2ce4464fed138543.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3962113"
+  },
+  {
+    "id": 182899,
+    "IDcode": "FC2-PPV-3986224",
+    "title": "F罩杯25岁药剂师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3986224"
+  },
+  {
+    "id": 119689,
+    "IDcode": "FC2-PPV-4036482",
+    "title": "全裸露脸20岁超级无毛大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4036482"
+  },
+  {
+    "id": 120021,
+    "IDcode": "FC2-PPV-4050714",
+    "title": "【喪失記念日】秋田出身の音大生は純白肌の19歳処女。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/25/4520d4ca/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4050714"
   },
   {
     "id": 573749,
@@ -33,13 +574,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250709/F4vonThq/1.jpg",
     "actress": [],
@@ -56,13 +591,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250220/JV6Qmpth/1.jpg",
     "actress": [],
@@ -79,13 +608,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-21",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -103,13 +626,7 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250613-1/2b5e6583c056abe39501c5d6dff5b9fd.jpg",
     "actress": [],
@@ -123,19 +640,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-18",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/18/4dae9952/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4157003"
   },
@@ -150,15 +661,9 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/106a1bfd/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4208524"
   },
@@ -173,15 +678,9 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-18",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/18/6f7d9496/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4231397"
   },
@@ -196,13 +695,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-18",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -219,17 +712,45 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-20",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/2dc7291d/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4246608"
+  },
+  {
+    "id": 528000,
+    "IDcode": "FC2-PPV-4267619",
+    "title": "2/10までの间1500pt【*系女子・19歳】高身长でスレンダーで声が可爱いくて无邪気に笑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/21/2383cbb5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4267619"
+  },
+  {
+    "id": 119736,
+    "IDcode": "FC2-PPV-4330669",
+    "title": "今年20岁女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/98e8a29269e3b42bc451adae8601aba3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4330669"
   },
   {
     "id": 573935,
@@ -242,13 +763,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250221/bGm6WRja/1.jpg",
     "actress": [],
@@ -265,13 +780,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-15",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/1a1a7f6b/vod.jpg",
     "actress": [],
@@ -288,13 +797,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250221/Xv8wwDSs/1.jpg",
     "actress": [],
@@ -308,17 +811,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-17",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/a2ca51c6/vod.jpg",
     "actress": [],
@@ -335,13 +832,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250221/v37437w6/1.jpg",
     "actress": [],
@@ -358,17 +849,28 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250221/SLF1bN0g/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4380847"
+  },
+  {
+    "id": 188694,
+    "IDcode": "FC2-PPV-4400670",
+    "title": "D杯美乳美臀20岁保育士",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4400670"
   },
   {
     "id": 116430,
@@ -381,13 +883,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-11",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/0ee028cbe036b1a56587405dd5cf8674.jpg",
     "actress": [],
@@ -404,17 +900,47 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-11",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4403172"
+  },
+  {
+    "id": 188324,
+    "IDcode": "FC2-PPV-4440619",
+    "title": "G罩杯20岁美女登场",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/08/6dc4a57ef95e2c0c2a4071e93fcc7deb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4440619"
+  },
+  {
+    "id": 188306,
+    "IDcode": "FC2-PPV-4451398",
+    "title": "素人护士23岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4451398"
   },
   {
     "id": 573858,
@@ -427,13 +953,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250221/TU0WvTEZ/1.jpg",
     "actress": [],
@@ -451,17 +971,131 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-09",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/f2572a5266be6e78c30b4310799683f6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4465879"
+  },
+  {
+    "id": 188249,
+    "IDcode": "FC2-PPV-4467788",
+    "title": "H杯20岁风酱第7章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4467788"
+  },
+  {
+    "id": 188220,
+    "IDcode": "FC2-PPV-4474416",
+    "title": "认识就活烦恼20岁女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/09d4b066a14030a7486b337eb0021d0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4474416"
+  },
+  {
+    "id": 189178,
+    "IDcode": "FC2-PPV-4483986",
+    "title": "性欲耗尽为止怒涛连续榨精女仆咖啡20岁色情可爱萝莉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4483986"
+  },
+  {
+    "id": 189192,
+    "IDcode": "FC2-PPV-4484038",
+    "title": "白皙清纯短大生20岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/c554bf33c951e295bf46f7d6597add95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4484038"
+  },
+  {
+    "id": 189194,
+    "IDcode": "FC2-PPV-4484216",
+    "title": "白皙清纯短大生20岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4484216"
+  },
+  {
+    "id": 189564,
+    "IDcode": "FC2-PPV-4485794",
+    "title": "冒险心旺盛的丰满OL26岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4485794"
+  },
+  {
+    "id": 189603,
+    "IDcode": "FC2-PPV-4493249",
+    "title": "乳头抚摸20岁专科学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/7c332931abee3f0863db4ea811233ded.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4493249"
   },
   {
     "id": 116547,
@@ -474,13 +1108,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-08-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -497,17 +1125,28 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-31",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4501675"
+  },
+  {
+    "id": 188923,
+    "IDcode": "FC2-PPV-4513218",
+    "title": "经验少23岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-2/1dd3698cff5227e5e7eee395d750e1e7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4513218"
   },
   {
     "id": 116750,
@@ -520,13 +1159,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-27",
     "cover_url": "https://lust103.cc/upload/vod/20250727-1/9d4b6a48b981b85e8462fabd02ac8553.jpg",
     "actress": [],
@@ -543,13 +1176,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-24",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/a977c995bec8a2605ce31bad04ef7b39.jpg",
     "actress": [],
@@ -566,13 +1193,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-24",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/2711d3c65fa44d2c3723872dbcd6125c.jpg",
     "actress": [],
@@ -586,17 +1207,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-24",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/a1b224146fdbdacd91385f5d736d47fc.jpg",
     "actress": [],
@@ -613,13 +1228,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-18",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -636,13 +1245,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -659,17 +1262,29 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-26",
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/25/e8ce177d/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4534506"
+  },
+  {
+    "id": 190950,
+    "IDcode": "FC2-PPV-4534927",
+    "title": "S级美女再登场香织F杯166cm23岁全身痉挛生性爱和播种SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/25/8bf1b5ea/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4534927"
   },
   {
     "id": 117078,
@@ -682,13 +1297,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-18",
     "cover_url": "https://lust103.cc/upload/vod/20250718-1/9a93e3ea0020ac503c834d9c146a0c8e.jpg",
     "actress": [],
@@ -705,13 +1314,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-18",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -728,13 +1331,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-18",
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/17/1d99f504/vod.jpg",
     "actress": [],
@@ -748,17 +1345,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-18",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -772,17 +1363,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-19",
     "cover_url": "https://thjpg10.top/upload/vod/20250125-1/793b7c5cde7186b593235fd90a33a2e4.jpg",
     "actress": [],
@@ -796,17 +1381,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱交",
-      "嫩妹"
+      "嫩妹",
+      "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-19",
     "cover_url": "https://thjpg10.top/upload/vod/20250127-1/fc8004ddaf2eab8d24ffd7a239afb9fd.jpg",
     "actress": [],
@@ -823,17 +1402,28 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-15",
     "cover_url": "https://thjpg10.top/upload/vod/20250127-1/8fabc6e05ff8273e5735f5c7d177dee8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4545913"
+  },
+  {
+    "id": 141385,
+    "IDcode": "FC2-PPV-4546097",
+    "title": "脸人与人之间的距离相差惊人的70一种精致又可爱的20岁女人的射精松鼠阻止爆炸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250127-1/9b90cf45e4df0bf877aad44823066f27.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4546097"
   },
   {
     "id": 141538,
@@ -846,13 +1436,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-16",
     "cover_url": "https://thjpg10.top/upload/vod/20250127-1/39ddde3aac371258533a9196043a4c4b.jpg",
     "actress": [],
@@ -869,19 +1453,47 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-13",
     "cover_url": "https://thjpg10.top/upload/vod/20250127-1/666f8d0c8aa3cb30200573f9e0c5235a.jpg",
     "actress": [
       "凛酱"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4548288"
+  },
+  {
+    "id": 528671,
+    "IDcode": "FC2-PPV-4548725",
+    "title": "梦はパティシエ 19歳制菓専门学校2年かれんちゃん♥️里垢**と问答无用",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241109-1/cd04aadbce3d3ad8f918c412ba257abb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4548725"
+  },
+  {
+    "id": 141464,
+    "IDcode": "FC2-PPV-4548750",
+    "title": "ROH谱系ampamp脸-脸-脸-中出20岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250127-1/55fb7c92c5a7ec81226ab1b2e098479f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4548750"
   },
   {
     "id": 117325,
@@ -895,13 +1507,7 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-13",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -918,17 +1524,28 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-13",
     "cover_url": "https://thjpg10.top/upload/vod/20250127-1/fb75ac79bc3acbabff853d2708ee88b3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4552101"
+  },
+  {
+    "id": 528594,
+    "IDcode": "FC2-PPV-4553693",
+    "title": "カルテ#021：天然フレッシュ19歳のウブな身体を间近诊察",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241026-1/4c63d2e3df3d0193f32633ed6cf61437.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4553693"
   },
   {
     "id": 117438,
@@ -941,17 +1558,29 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-11",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/b814620b1a045c9c65123912820eaf8a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4554168"
+  },
+  {
+    "id": 277250,
+    "IDcode": "FC2-PPV-4554431",
+    "title": "拉脱维亚25岁导游阿黛琳娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/f79082f1e8affe6a6a9aad294bc03f9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4554431"
   },
   {
     "id": 117442,
@@ -964,17 +1593,29 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-07-11",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/4c298cf5a1817a3ea03a2b8ac33ddbe7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4554762"
+  },
+  {
+    "id": 277217,
+    "IDcode": "FC2-PPV-4555165",
+    "title": "23岁写真偶像志愿麻美试装中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4555165"
   },
   {
     "id": 117559,
@@ -987,22 +1628,16 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "2025-06-30",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/29/8e87290b/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4560740"
   },
   {
-    "id": 118066,
-    "IDcode": "FC2-PPV-4581054",
-    "title": "天然白皙I罩杯23岁保险女业务员春菜酱 最爱深插子宫口",
+    "id": 193427,
+    "IDcode": "FC2-PPV-4567189",
+    "title": "笑颜狸脸24岁麻由饱满大阴唇反复快感",
     "year": "",
     "country": "",
     "genre": "",
@@ -1010,1172 +1645,34 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4581054"
-  },
-  {
-    "id": 117755,
-    "IDcode": "FC2-PPV-4583296-",
-    "title": "20岁女大学生疯狂高潮·初尝巨根深插",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4583296-"
-  },
-  {
-    "id": 118119,
-    "IDcode": "FC2-PPV-4590718",
-    "title": "与26岁匈牙利插画师在交友软件上邂逅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-13",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4590718"
-  },
-  {
-    "id": 118578,
-    "IDcode": "FC2-PPV-4597399",
-    "title": "白皙嫩肌23岁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4597399"
-  },
-  {
-    "id": 118454,
-    "IDcode": "FC2-PPV-4600446",
-    "title": "20岁的年轻人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4600446"
-  },
-  {
-    "id": 118737,
-    "IDcode": "FC2-PPV-4603370",
-    "title": "一名刚刚毕业的22岁美甲师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4603370"
-  },
-  {
-    "id": 118718,
-    "IDcode": "FC2-PPV-4606055",
-    "title": "可爱的20岁前模特",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4606055"
-  },
-  {
-    "id": 571476,
-    "IDcode": "FC2-PPV-4608456",
-    "title": "FC2 PPV 4608456 0268_016 ののかちゃん19歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4608456"
-  },
-  {
-    "id": 118779,
-    "IDcode": "FC2-PPV-4609894",
-    "title": "超可爱女孩20岁中出性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/12/6d59acd0d8e949a1e3fcb3ad3d9f13da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4609894"
-  },
-  {
-    "id": 528815,
-    "IDcode": "FC2-PPV-4671077",
-    "title": "【特典有】第18弾 りえ21歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671077"
-  },
-  {
-    "id": 573661,
-    "IDcode": "FC2-PPV-4671899",
-    "title": "19歳彼氏と别れた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4671899"
-  },
-  {
-    "id": 528830,
-    "IDcode": "FC2-PPV-4672029",
-    "title": "FC2 PPV 4672029 【不定期贩売】19歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672029"
-  },
-  {
-    "id": 118966,
-    "IDcode": "FC2-PPV-4672090",
-    "title": "25岁的年轻妻子用她娇嫩的身体呻吟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/04/28/af92c1346e93cb76da366084dc2f76af.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4672090"
-  },
-  {
-    "id": 118932,
-    "IDcode": "FC2-PPV-4673651",
-    "title": "20岁职校学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4673651"
-  },
-  {
-    "id": 528855,
-    "IDcode": "FC2-PPV-4674037",
-    "title": "FC2 PPV 4674037 【无修正】21歳Eカッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4674037"
-  },
-  {
-    "id": 118750,
-    "IDcode": "FC2-PPV-4677103",
-    "title": "22岁D罩杯国宝级美乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-19",
-    "cover_url": "https://tutu1.space/images/2025/05/14/92f5620fc8bf4e76f7db078868034ae7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4677103"
-  },
-  {
-    "id": 118336,
-    "IDcode": "FC2-PPV-4681481",
-    "title": "22岁E罩杯刚毕业的OL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-05-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4681481"
-  },
-  {
-    "id": 118091,
-    "IDcode": "FC2-PPV-4701997",
-    "title": "超美形初登场23岁美容顾问体操服中出大战两回合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4701997"
-  },
-  {
-    "id": 117964,
-    "IDcode": "FC2-PPV-4704693",
-    "title": "撒娇20岁少女被大叔撩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-22",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/21/d3b7ccfa/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4704693"
-  },
-  {
-    "id": 118008,
-    "IDcode": "FC2-PPV-4704760",
-    "title": "露脸22岁模特身材美女被大屌猛操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4704760"
-  },
-  {
-    "id": 117605,
-    "IDcode": "FC2-PPV-4705739",
-    "title": "魅惑派费洛蒙女神20岁惊艳难信",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-29",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4705739"
-  },
-  {
-    "id": 117845,
-    "IDcode": "FC2-PPV-4705927",
-    "title": "美艳裸体现役大生20岁紧致小穴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4705927"
-  },
-  {
-    "id": 117741,
-    "IDcode": "FC2-PPV-4707369",
-    "title": "秘藏24岁牙科护士口罩口交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4707369"
-  },
-  {
-    "id": 569302,
-    "IDcode": "FC2-PPV-4713830",
-    "title": "NTR21歳目白ガク生 交际5年の彼氏がいるのに…“イク!!”他人おチンポに中出しされまくり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-06-28",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg/a4O2Cf56.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4713830"
-  },
-  {
-    "id": 117302,
-    "IDcode": "FC2-PPV-4719111",
-    "title": "超级精英降临22岁新入职顶级商社的应届生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-07-14",
-    "cover_url": "https://lust103.cc/upload/vod/20250714-1/dc9c244f256aaec9ee95f25d850577f5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4719111"
-  },
-  {
-    "id": 116968,
-    "IDcode": "FC2-PPV-4720819",
-    "title": "制服诱惑高空中出体验25岁空姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-07-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4720819"
-  },
-  {
-    "id": 117312,
-    "IDcode": "FC2-PPV-4721082",
-    "title": "拥有强烈性欲和巨乳的25岁少妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-07-14",
-    "cover_url": "https://tutu1.space/images/2025/07/13/2c8ec5ca19ee7482fa5d802b69adc53e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4721082"
-  },
-  {
-    "id": 524705,
-    "IDcode": "FC2-PPV-4724572",
-    "title": "19歳黒髪スレンダー美乳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-07-22",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/59609541/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4724572"
-  },
-  {
-    "id": 116601,
-    "IDcode": "FC2-PPV-4732107",
-    "title": "身高170cm美苗条20岁清纯认真性格背后潜藏的超级淫乱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-07-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732107"
-  },
-  {
-    "id": 115180,
-    "IDcode": "FC2-PPV-4743463",
-    "title": "身材丰满屁股大的20岁女孩试图拖欠付款结果被内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-03",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4743463"
-  },
-  {
-    "id": 527598,
-    "IDcode": "FC2-PPV-4743490",
-    "title": "19歳はめてのP活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-1/fee085d58418d9358acc6cd46fe4a88d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4743490"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4567189"
   },
   {
-    "id": 527608,
-    "IDcode": "FC2-PPV-4743911",
-    "title": "【本日限定価格】色白黒髪19歳。",
+    "id": 193422,
+    "IDcode": "FC2-PPV-4567918",
+    "title": "舔舌大师实录20岁100cmH罩杯",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-08-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4743911"
-  },
-  {
-    "id": 115820,
-    "IDcode": "FC2-PPV-4743971",
-    "title": "完全露脸22岁的苗条光溜初拍摄户外暴露张开",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-08-23",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/3ec7d8bd/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4743971"
-  },
-  {
-    "id": 115384,
-    "IDcode": "FC2-PPV-4747357",
-    "title": "天真的童颜的业余摄影师24岁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-08-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4747357"
-  },
-  {
-    "id": 114336,
-    "IDcode": "FC2-PPV-4757984",
-    "title": "拥有丰满美臀的22岁女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4757984"
-  },
-  {
-    "id": 527203,
-    "IDcode": "FC2-PPV-4760426",
-    "title": "妊娠确定、みずきちゃん21歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "2025-09-26",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4760426"
-  },
-  {
-    "id": 437028,
-    "IDcode": "FC2-PPV-477298",
-    "title": "_みくちゃん 顔出し　小柄な19歳　ギャル系の女の子と、イラマ、クスコ、生hしちゃいましたwww",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/afa0cab886a0b5abf3c2e1fe575ed69b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-477298"
-  },
-  {
-    "id": 569510,
-    "IDcode": "FC2-PPV-543714",
-    "title": "【个人撮影】颜出し 色白スレンダーで绮丽な女子大生21歳に、クスコ、生Hしちゃいましたｗｗｗ【版有】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-543714"
-  },
-  {
-    "id": 570180,
-    "IDcode": "FC2-PPV-676145",
-    "title": " 【初撮り】颜出し黒髪Ｓ级美少女19歳ＪＤ1・まな・パイパンに生ハメ2発フェラ１発射编●【个人撮影】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-676145"
-  },
-  {
-    "id": 570181,
-    "IDcode": "FC2-PPV-676989",
-    "title": "［个人撮影］ハメ撮り作品！史上最强美少女19歳ちひろちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-676989"
-  },
-  {
-    "id": 569554,
-    "IDcode": "FC2-PPV-717073",
-    "title": "【个人撮影】としこ 21歳・女子大生★调教志望の変态JDに锭剤投与して生ハメ★絶顶しても余韵に浸り脳内で更にイク中出し恳愿SEX【承诺済み】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-717073"
-  },
-  {
-    "id": 569556,
-    "IDcode": "FC2-PPV-722191",
-    "title": "【个人撮影】2连続中出し戦 としこ 21歳・JD★大量のオモチャ投入で未曾有の絶顶限界突破★ガンギマりの変态女子大生を彻底的に犯り尽くすSEX 合法ハメ撮り【承诺済み】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-722191"
-  },
-  {
-    "id": 569567,
-    "IDcode": "FC2-PPV-747824",
-    "title": "初撮り♥完全颜出し♥Ｆカップ巨乳・エロカワＪＤ19歳が大好きな彼氏には内绪のNTRセックスで生中出し♥いやらしく濡れたピンク色のおマンコから本気汁垂れ流して膣イキ连発♥“彼氏の♂より気持ちいいっ♥♥”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "淫妻",
       "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-747824"
-  },
-  {
-    "id": 508323,
-    "IDcode": "FC2-PPV-824112",
-    "title": "19歳奇迹Loli美巨乳制服3P",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/856ed8e09dad784167ed5dbcb0c98e58.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-824112"
-  },
-  {
-    "id": 54726,
-    "IDcode": "FC2-PPV-991287",
-    "title": "初回盘间もなく终了。19歳现役グラドルとの【秘密の交际】彼女との１年に渡る出会いのSEX　初回限定にて颜出し中出し映像付 前编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "FC2",
-      "嫩妹",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/56b0f963a3bfaf2cbbf94943b0937602.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-991287"
-  },
-  {
-    "id": 139680,
-    "IDcode": "FC2PPV-2184087",
-    "title": "魅力非凡22岁新人强势回归，巨乳乳交 颜射口爆吞精特写镜头，后入抽插骚逼 两次猛烈射精 把蛋蛋都给榨干！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202511/06/690bdf5c12c2de3cd66551d2/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2184087"
-  },
-  {
-    "id": 302499,
-    "IDcode": "FC2PPV-2345920",
-    "title": "胸部娇小22岁的冷艳美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2345920"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4567918"
   },
   {
-    "id": 302623,
-    "IDcode": "FC2PPV-2366173",
-    "title": "性感大胸20岁的Rika酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2366173"
-  },
-  {
-    "id": 302608,
-    "IDcode": "FC2PPV-2371140",
-    "title": "梦想成为歌手的23岁漂亮女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/09/cff7b5d159b546f93cdccdcfdb6d79d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2371140"
-  },
-  {
-    "id": 302626,
-    "IDcode": "FC2PPV-2373469",
-    "title": "热爱性爱巨乳24岁的萝莉身材Serara酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2373469"
-  },
-  {
-    "id": 175830,
-    "IDcode": "FC2PPV-2682075",
-    "title": "素人女大学生22岁超可爱的JD性伴侣",
+    "id": 581231,
+    "IDcode": "FC2-PPV-4569051",
+    "title": "[个人拍摄]第198号 与20岁大屁股大学生的激烈性爱！！我喜欢后入式！我最喜欢的性爱 ！ 素人",
     "year": "",
     "country": "",
     "genre": "",
@@ -2184,46 +1681,16 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/3d91ab7ff1864194435f2b7d78a495e2.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20241125-1/43a4e83996758ee8f1280b8f50322d0d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2682075"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4569051"
   },
   {
-    "id": 175808,
-    "IDcode": "FC2PPV-2682233",
-    "title": "下班后在街上捡到喝酒的22岁巨乳保育老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/98f1a5e8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2682233"
-  },
-  {
-    "id": 175833,
-    "IDcode": "FC2PPV-2688040",
-    "title": "一个自私又傲娇的20岁大学生",
+    "id": 193192,
+    "IDcode": "FC2-PPV-4573570",
+    "title": "马尾辫美女接待员24岁性爱实录",
     "year": "",
     "country": "",
     "genre": "",
@@ -2231,109 +1698,45 @@ window.PAGE_DATA = [
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/1f8491bfefb1faec3bd288b3eb6a9db5.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/20a1703843f2481cadff23f44a835cce.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2688040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4573570"
   },
   {
-    "id": 175759,
-    "IDcode": "FC2PPV-2688554",
-    "title": "素人20岁女大学生亚里莎酱",
+    "id": 193179,
+    "IDcode": "FC2-PPV-4573596",
+    "title": "巨根白人混血VS150cm紧穴22岁少女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2688554"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4573596"
   },
   {
-    "id": 176039,
-    "IDcode": "FC2PPV-2745892",
-    "title": "在酒吧工作20岁的理惠",
+    "id": 194940,
+    "IDcode": "FC2-PPV-4573837",
+    "title": "巨乳美女登场22岁G罩杯尤里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "嫩妹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/b4136569/vod.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/7e2315b552c3ca36807b9da3bafaa2c7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2745892"
-  },
-  {
-    "id": 176169,
-    "IDcode": "FC2PPV-2755236",
-    "title": "一位25岁的美丽妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/cb2a9ab4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2755236"
-  },
-  {
-    "id": 177017,
-    "IDcode": "FC2PPV-2849441",
-    "title": "正在减肥的20岁丰满女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
-        "works_count": 21440
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2849441"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4573837"
   }
 ];

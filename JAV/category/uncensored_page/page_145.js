@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 57914,
-    "IDcode": "N0507",
-    "title": "生意気牝三穴蹂躙天誅汁",
+    "id": 437293,
+    "IDcode": "JUKUJO-CLUB-8087",
+    "title": "風間ゆみ無修正動画「絶妙なチラリズム",
     "year": "",
     "country": "",
     "genre": "",
@@ -11,34 +11,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "2010-02-02",
-    "cover_url": "https://tuaskbgnekr.com/20230708/eN5zCgkk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0507"
-  },
-  {
-    "id": 202775,
-    "IDcode": "N0508",
-    "title": "n0508 調教孕孕汁-山口聡子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0508"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8087"
   },
   {
-    "id": 570297,
-    "IDcode": "N0509",
-    "title": "上玉饵食无限轮奸凹凹汁",
+    "id": 437338,
+    "IDcode": "JUKUJO-CLUB-8090",
+    "title": "熟女倶楽部 8090 工藤朱里 無修正動画「吉高由●子みたいな雰囲気の50代美熟女、予想外のスケベな肉体」",
     "year": "",
     "country": "",
     "genre": "",
@@ -47,52 +29,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230709/WmIeefbl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0509"
-  },
-  {
-    "id": 570301,
-    "IDcode": "N0510",
-    "title": "膣内过剰精液强制泣咽下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230709/kI3xja3L/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0510"
-  },
-  {
-    "id": 347478,
-    "IDcode": "N0510-3",
-    "title": "日本门事件",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0510-3"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8090"
   },
   {
-    "id": 570307,
-    "IDcode": "N0512",
-    "title": "鬼畜五十人贪嬲満出轮奸",
+    "id": 437560,
+    "IDcode": "JUKUJO-CLUB-8091",
+    "title": "江藤雪江無修正動画「田舎で熟女ナンパ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -101,16 +47,54 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/fjg8322j/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0512"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8091"
   },
   {
-    "id": 570302,
-    "IDcode": "N0513",
-    "title": "美人女子大生嵌奸缚汁尸",
+    "id": 437507,
+    "IDcode": "JUKUJO-CLUB-8092",
+    "title": "熟女倶楽部 8092 ロマンポルノ 無修正動画「四畳半の人妻奴隷～専業主婦～」後編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8092"
+  },
+  {
+    "id": 437426,
+    "IDcode": "JUKUJO-CLUB-8093",
+    "title": "牧野遥無修正動画「近所で噂の美人妻」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8093"
+  },
+  {
+    "id": 437278,
+    "IDcode": "JUKUJO-CLUB-8094",
+    "title": "風間ゆみ無修正動画「絶妙なチラリズムで魅せるエロの世界」",
     "year": "",
     "country": "",
     "genre": "",
@@ -119,16 +103,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/k1jLExcf/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0513"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8094"
   },
   {
-    "id": 570306,
-    "IDcode": "N0514",
-    "title": "轮奸MC中出し种付生中継",
+    "id": 437268,
+    "IDcode": "JUKUJO-CLUB-8095",
+    "title": "熟女倶楽部 8095 ～0035号室～ 実録「昭和のラブホテル」ひたすら突きまくる男",
     "year": "",
     "country": "",
     "genre": "",
@@ -137,686 +121,759 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "変態紳士倶楽部",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/TkjVdi1X/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0514"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8095"
   },
   {
-    "id": 57913,
-    "IDcode": "N0515",
-    "title": "巨乳リポーター蹂躙三穴壊汁",
+    "id": 437328,
+    "IDcode": "JUKUJO-CLUB-8096",
+    "title": "榎本奈々無修正動画「性玩具にされる女」",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8096"
+  },
+  {
+    "id": 551110,
+    "IDcode": "JUKUJO-CLUB-8097",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8097"
+  },
+  {
+    "id": 437337,
+    "IDcode": "JUKUJO-CLUB-8098",
+    "title": "朝桐光無修正動画「ぶっかけられたくてたまらない人妻」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8098"
+  },
+  {
+    "id": 437254,
+    "IDcode": "JUKUJO-CLUB-8101",
+    "title": "北条麻妃無修正動画「168cmモデル体型、高学歴の美熟女」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8101"
+  },
+  {
+    "id": 437379,
+    "IDcode": "JUKUJO-CLUB-8102",
+    "title": "朝桐光無修正動画「欲求不満な人妻の日常」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8102"
+  },
+  {
+    "id": 551109,
+    "IDcode": "JUKUJO-CLUB-8103",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8103"
+  },
+  {
+    "id": 437352,
+    "IDcode": "JUKUJO-CLUB-8104",
+    "title": "朝桐光無修正動画「欲求不満な人妻の日常」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8104"
+  },
+  {
+    "id": 437372,
+    "IDcode": "JUKUJO-CLUB-8106",
+    "title": "真白希実無修正動画「不況で風俗に堕ちた人妻」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8106"
+  },
+  {
+    "id": 437351,
+    "IDcode": "JUKUJO-CLUB-8107",
+    "title": "熟女倶楽部8107 真白希実無修正動画「不況で風俗に堕ちた人妻」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8107"
+  },
+  {
+    "id": 551112,
+    "IDcode": "JUKUJO-CLUB-8108",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8108"
+  },
+  {
+    "id": 437313,
+    "IDcode": "JUKUJO-CLUB-8132",
+    "title": "熟女倶楽部 8132 池上さくら 無修正動画「性欲だけは強い人妻」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8132"
+  },
+  {
+    "id": 437400,
+    "IDcode": "JUKUJO-CLUB-8139",
+    "title": "熟女倶楽部 8139 島野さき 「処女みたいな反応の50代美熟女の身体がスケベすぎた…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8139"
+  },
+  {
+    "id": 437383,
+    "IDcode": "JUKUJO-CLUB-8140",
+    "title": "熟女倶楽部 8140 高橋良美 無修正動画「50代美熟女、清楚な顔して脱がすと凄い身体…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8140"
+  },
+  {
+    "id": 551111,
+    "IDcode": "JUKUJO-CLUB-8141",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8141"
+  },
+  {
+    "id": 551113,
+    "IDcode": "JUKUJO-CLUB-8142",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8142"
+  },
+  {
+    "id": 437305,
+    "IDcode": "JUKUJO-CLUB-8143",
+    "title": "熟女倶楽部 8143 松原ちえみ 無修正動画「化粧映えする40代熟女は元レースクイーン」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8143"
+  },
+  {
+    "id": 437441,
+    "IDcode": "JUKUJO-CLUB-8144",
+    "title": "熟女倶楽部 8144 大久保美和子 「まだまだ色っぽい、綺麗な40代の奥さん」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8144"
+  },
+  {
+    "id": 437363,
+    "IDcode": "JUKUJO-CLUB-8145",
+    "title": "上原優無修正動画「若い男をつまみ喰い」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8145"
+  },
+  {
+    "id": 437316,
+    "IDcode": "JUKUJO-CLUB-8146",
+    "title": "熟女倶楽部 8146 大島ゆり子 「バツイチ40代の卑猥な望み」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8146"
+  },
+  {
+    "id": 437329,
+    "IDcode": "JUKUJO-CLUB-8147",
+    "title": "風間ゆみ無修正動画「絶妙なチラリズムで魅せるエロの世界」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8147"
+  },
+  {
+    "id": 551114,
+    "IDcode": "JUKUJO-CLUB-8148",
+    "title": "熟女倶楽部 8148 0036号室～ 実录“昭和のラブホテル”裸で抱き合い语り合う二人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKUJO-CLUB-8148"
+  },
+  {
+    "id": 85077,
+    "IDcode": "JUL-982",
+    "title": "版在甜蜜的耳语中我沉迷于与已婚妇女的性关系直到大学二年级结束",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳",
-      "无码"
+      "已婚妇女",
+      "单体作品",
+      "中出",
+      "无码",
+      "淫语",
+      "成熟的女人"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "2010-03-02",
-    "cover_url": "https://tuaskbgnekr.com/20230710/Pa7hHHQm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0515"
-  },
-  {
-    "id": 570308,
-    "IDcode": "N0516",
-    "title": "ギャルファー粉砕2本挿鬼轮奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/fSh2i03i/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0516"
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/2d00da67278ba9e6958e7c55ea336c80.jpg",
+    "actress": [
+      "木下凛凛子",
+      "木下莉莉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-982"
   },
   {
-    "id": 570311,
-    "IDcode": "N0518",
-    "title": "美人OL社内非道轮奸",
+    "id": 535682,
+    "IDcode": "JUX-018",
+    "title": "人妻パイパンレズ露出 ～无毛の発情メスが集う真夜中の公园～ 爱咲れいら 横山みれい 柳田やよい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "人妻",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230711/dvwlv9r0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0518"
-  },
-  {
-    "id": 570312,
-    "IDcode": "N0519",
-    "title": "美乳ナース孕汁大量嬲注射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230711/TV60LwtJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0519"
-  },
-  {
-    "id": 570317,
-    "IDcode": "N0520",
-    "title": "素人嬲孕轮奸强制精神病",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230712/FSUtHkjj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0520"
-  },
-  {
-    "id": 57915,
-    "IDcode": "N0521",
-    "title": "被东热猛男们玩坏的女主播-秋元真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0521"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-018"
   },
   {
-    "id": 570318,
-    "IDcode": "N0522",
-    "title": "本物RQ轮奸中出し感动汁",
+    "id": 535684,
+    "IDcode": "JUX-040",
+    "title": "美熟女レズビアン ～快感に火照る濡れた艶肌～ 川上ゆう 音无かおり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230712/yKxy94ZI/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230617/jux040pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0522"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-040"
   },
   {
-    "id": 570325,
-    "IDcode": "N0524",
-    "title": "新人OL强制妊娠轮奸汁",
+    "id": 533211,
+    "IDcode": "JUX-351",
+    "title": "旦那に内绪でこっそりヤラしてくれる 邻の欲求不満な若奥さん 仲村茉莉恵",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230713/frlYKQoz/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240627/jux351pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0524"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-351"
   },
   {
-    "id": 570326,
-    "IDcode": "N0525",
-    "title": "鬼逝",
+    "id": 533154,
+    "IDcode": "JUX-468",
+    "title": "邻人达の男根に狙われた人妻 风间ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "人妻",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230713/PVg5DCu4/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240502/1603601611-jux468pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0525"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-468"
   },
   {
-    "id": 570322,
-    "IDcode": "N0526",
-    "title": "爱沢莲凹奸过逝郁悪化汁",
+    "id": 532907,
+    "IDcode": "JUX-500",
+    "title": "息子の嫁 槇原爱菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230713/7jQtlQzb/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0526"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-500"
   },
   {
-    "id": 570323,
-    "IDcode": "N0527",
-    "title": "ガチ！絶望奸",
+    "id": 532966,
+    "IDcode": "JUX-501",
+    "title": "嫁ぎ先は中年地狱 千乃あずみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230713/3Uzs9o31/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231214/1607272361-jux501pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0527"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-501"
   },
   {
-    "id": 570327,
-    "IDcode": "N0528",
-    "title": "炉美満破壊2本挿鬼轮奸",
+    "id": 533153,
+    "IDcode": "JUX-576",
+    "title": "今夜、妻の友达と二人きり… 白木优子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230713/3V5TRA3s/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240502/jux576pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0528"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-576"
   },
   {
-    "id": 570335,
-    "IDcode": "N0530",
-    "title": "极上クビレOL3穴壊奸逝々死",
+    "id": 541913,
+    "IDcode": "JUX-623",
+    "title": "叔母の诱惑～仆を快感に酔わせる妖艶な肉体～ KAORI",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/09x4u6hQ/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231230/jux623pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0530"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-623"
   },
   {
-    "id": 570334,
-    "IDcode": "N0531",
-    "title": "鬼逝",
+    "id": 533112,
+    "IDcode": "JUX-838",
+    "title": "遅漏の仆が思わず10発射精した 凄テク人妻ソープランド 二轮车SPECIAL",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "人妻",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/L9DvP8tu/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240315/jux838pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0531"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-838"
   },
   {
-    "id": 570337,
-    "IDcode": "N0532",
-    "title": "本物OL鬼奸臓壊嬲伙汁",
+    "id": 63417,
+    "IDcode": "JYMA-011",
+    "title": "男に迫られると股間を開いてヤラれる 断りきれない肉感ボディ巨乳マゾ妻 Gカップとデカ尻を責められイキまくるM奥様",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/C6yLNaZi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0532"
-  },
-  {
-    "id": 570342,
-    "IDcode": "N0533",
-    "title": "ガチ！絶望奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/78sKUZBC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0533"
-  },
-  {
-    "id": 570341,
-    "IDcode": "N0534",
-    "title": "美巨乳女子校生惩奸孕汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
       "巨乳",
-      "无码"
+      "已婚妇女",
+      "巨大屁股",
+      "中出",
+      "无码",
+      "白天出轨"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/CyJLb5Io/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0534"
-  },
-  {
-    "id": 55676,
-    "IDcode": "N0536",
-    "title": "为了留住公司的股东们社长送出了自己最得意的美女秘书",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/5bc881cf976da12613ddb5146670550e.jpg",
+    "actress": [
+      "田中寧寧"
     ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0536"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-011"
   },
   {
-    "id": 570346,
-    "IDcode": "N0537",
-    "title": "骗奸过剰中出し子宫壊死",
+    "id": 85142,
+    "IDcode": "JYMA-014",
+    "title": "夫の会社の上司や同僚とヤリまくる浮気嫁 寝取られ肉感ボディ巨乳マゾ美人妻 デカパイを責められイキまくるM奥様 橘メアリー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230716/98JT8246/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0537"
-  },
-  {
-    "id": 570343,
-    "IDcode": "N0538",
-    "title": "エリート女子大生耻晒孕奸汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230716/qWEsrZxI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0538"
-  },
-  {
-    "id": 55677,
-    "IDcode": "N0539",
-    "title": "美人秘書膣壊孕汁⑳連発",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2010-05-25",
-    "cover_url": "https://tuaskbgnekr.com/20230716/8NCJijCR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0539"
-  },
-  {
-    "id": 570348,
-    "IDcode": "N0540",
-    "title": "罠汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230716/O9SrBZPP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0540"
-  },
-  {
-    "id": 570354,
-    "IDcode": "N0542",
-    "title": "爆乳Gカップ无差别中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
+      "人妻",
       "巨乳",
-      "无码"
+      "已婚妇女",
+      "单体作品",
+      "巨大屁股",
+      "中出",
+      "无码",
+      "白天出轨"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "卍GROUP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230717/ZoAKuIVx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0542"
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/0f704a84a0f2e40103f6268390d8240a.jpg",
+    "actress": [
+      "橘瑪麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-014"
   },
   {
-    "id": 570352,
-    "IDcode": "N0543",
-    "title": "罠汁",
+    "id": 574436,
+    "IDcode": "KAGP339",
+    "title": "素人娘肛门激痛初体验！第8弹版－业余少女哭喊哀求的屁股侍奉",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "无码",
+      "中文字幕"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230717/F4W14box/1.jpg",
+    "cover_url": "https://fan.lefhao20250923.top/20251006/GOVjZF0c/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0543"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAGP339"
   },
   {
-    "id": 570356,
-    "IDcode": "N0544",
-    "title": "ガチ！絶望奸",
+    "id": 13317,
+    "IDcode": "KAM-205",
+    "title": "出張マッサージの人妻さんに泣き落としでお願いしまくったら 「お店には内緒ですよ…」ずっぽりSEXさせてもらえた一部始終【10カメ盗撮】5 橘メアリー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230718/OiwxBOMh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0544"
-  },
-  {
-    "id": 570361,
-    "IDcode": "N0545",
-    "title": "女子アナ鬼回し横溢孕汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230718/LQG7ip8y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0545"
-  },
-  {
-    "id": 570362,
-    "IDcode": "N0546",
-    "title": "炉娘売买过剰轮奸溺汁死",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230718/6xcRlbBS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0546"
-  },
-  {
-    "id": 570368,
-    "IDcode": "N0548",
-    "title": "Gカップ过剰轮奸过多孕汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230719/A1TKFcQC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0548"
-  },
-  {
-    "id": 437607,
-    "IDcode": "N0549",
-    "title": "小桜沙樹東熱流汁殺輪カン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eb127634a661ae185cd43a92b576f6eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0549"
-  },
-  {
-    "id": 39895,
-    "IDcode": "N0550",
-    "title": "完全炉利校内集団暴行汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5f24fbb758a1e8cb73e5098db45bd6f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0550"
-  },
-  {
-    "id": 57892,
-    "IDcode": "N0551",
-    "title": "ガチ!絶望カン 黒沢栞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df4696f917b6a425d997911fa5361aa7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0551"
-  },
-  {
-    "id": 55673,
-    "IDcode": "N0552",
-    "title": "新垣セナ最終中出し地獄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d5d425b3c48f898aba17402d991553fc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0552"
-  },
-  {
-    "id": 39896,
-    "IDcode": "N0553",
-    "title": "美人キャスター2本挿膣壊汁カン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8eb9564b663d71a3442114e6084eb75b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0553"
-  },
-  {
-    "id": 437616,
-    "IDcode": "N0554",
-    "title": "OLを会社帰りに鬼中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2bde89d28bd4a1d49987fd5eda5ee0c9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0554"
-  },
-  {
-    "id": 570373,
-    "IDcode": "N0555",
-    "title": "美人レポーター温泉轮奸孕汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230720/FeB2YdYu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0555"
-  },
-  {
-    "id": 570375,
-    "IDcode": "N0556",
-    "title": "本物RQ屈辱轮奸悔恨汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/ooYOPb6c/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0556"
-  },
-  {
-    "id": 437615,
-    "IDcode": "N0557",
-    "title": "巨乳炉利30人無差別膣射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
+      "獵豔",
+      "出軌",
+      "美腳",
+      "服務生",
+      "蕩婦",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "拜金女",
+      "劇情",
+      "飯店",
+      "无码",
+      "出差",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "口交",
       "巨乳",
+      "乳交",
+      "偷窺",
+      "NTR"
+    ],
+    "type": "无码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2d2a0dbf24d4ed31f9719/cover.jpg",
+    "actress": [
+      "橘瑪麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-205"
+  },
+  {
+    "id": 576300,
+    "IDcode": "KAWD-522",
+    "title": "kawaii- High School 学校でセックchu さくらゆら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8e05ce574d3fafce82a1fe478342616e.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231107/1600769263-kawd522pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0557"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-522"
   },
   {
-    "id": 437594,
-    "IDcode": "N0558",
-    "title": "可愛い女性を凹凹中出し",
+    "id": 532945,
+    "IDcode": "KAWD-696",
+    "title": "铃木心春×中出し解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231016/1604509976-kawd696pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-696"
+  },
+  {
+    "id": 542093,
+    "IDcode": "KBKD-1513",
+    "title": "新母亲失格 平冈里枝子43歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码",
+      "乱伦"
+    ],
+    "type": "无码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240511/h_046kbkd1513pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBKD-1513"
+  },
+  {
+    "id": 538671,
+    "IDcode": "KCPR-012",
+    "title": "陵辱2穴中出しピストン 饭冈かなこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240626/1611801471-kcpr012pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KCPR-012"
+  },
+  {
+    "id": 92640,
+    "IDcode": "KI-604",
+    "title": "KI604形似逆轉世界最棒性轉性愛傳奇AV女優波多野結衣插入屁眼讓男性射精波多野結衣。。",
     "year": "",
     "country": "",
     "genre": "",
@@ -825,16 +882,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0ff6359df477ba2a7c8017366d4dbbf4.jpg",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0558"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI-604"
   },
   {
-    "id": 437618,
-    "IDcode": "N0559",
-    "title": "モデル系きょうせい吸飲中出し汁",
+    "id": 92665,
+    "IDcode": "KI-618",
+    "title": "KI618新世界第一精液大量發射顏射SEX初川南。。",
     "year": "",
     "country": "",
     "genre": "",
@@ -843,16 +900,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62730e8706102cbe47bfdbc789f3d974.jpg",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/53b34dfb35ab67e3fe0a49116ff67413.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0559"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI-618"
   },
   {
-    "id": 437591,
-    "IDcode": "N0560",
-    "title": "本物アナウンサー鬼カン孕カン晒汁",
+    "id": 92667,
+    "IDcode": "KI-631",
+    "title": "KI631世界級精液大量發射超級顏射SEX木下日葵。。",
     "year": "",
     "country": "",
     "genre": "",
@@ -861,106 +918,56 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ac163ab11681a31d0111d8f110780fe1.jpg",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/27625c633952f2a569a4b59744c39819.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0560"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI-631"
   },
   {
-    "id": 570384,
-    "IDcode": "N0561",
-    "title": "女子大生路上车内中出し",
+    "id": 589711,
+    "IDcode": "KI170611",
+    "title": "C0930 杉冈 珠美 22歳[无码高清]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "无码"
+      "高清画质",
+      "中文字幕"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/3eSXeqAn/1.jpg",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/27fb1e86677655cabfb8fe5e5d591c94.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0561"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI170611"
   },
   {
-    "id": 570380,
-    "IDcode": "N0562",
-    "title": "炉轮奸校内暴行妊娠汁",
+    "id": 589710,
+    "IDcode": "KI170618",
+    "title": "C0930 石贯 恭子 27歳[无码高清]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "无码",
       "素人",
-      "无码"
+      "高清画质",
+      "中文字幕"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/kLZbL5vi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0562"
-  },
-  {
-    "id": 570381,
-    "IDcode": "N0563",
-    "title": "高级车ディーラーの女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/PJA7OIl6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0563"
-  },
-  {
-    "id": 570385,
-    "IDcode": "N0564",
-    "title": "美乳饵食失神过剰中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/Iq9wrxox/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0564"
-  },
-  {
-    "id": 570388,
-    "IDcode": "N0566",
-    "title": "女子大生东热沈没悔恨汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0566"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI170618"
   },
   {
-    "id": 570389,
-    "IDcode": "N0567",
-    "title": "现役キャンギャル串刺孕汁",
+    "id": 404537,
+    "IDcode": "KI19071",
+    "title": "エッチな46101园田铃2イ3歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -969,34 +976,53 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/14801b8c65a4d8843cf0d5f97af755ec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI19071"
+  },
+  {
+    "id": 553711,
+    "IDcode": "KI190711",
+    "title": "エッチな4610 园田 铃 23歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0567"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI190711"
   },
   {
-    "id": 570397,
-    "IDcode": "N0568",
-    "title": "乳神青木りん轰沈东热汁",
+    "id": 558562,
+    "IDcode": "KI190829",
+    "title": "エッチな4610 近藤ゆり21歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "无码",
+      "嫩妹"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0568"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI190829"
   },
   {
-    "id": 570392,
-    "IDcode": "N0569",
-    "title": "S级牝东热流嬲奸彻底调教",
+    "id": 558339,
+    "IDcode": "KI190831",
+    "title": "エッチな0930 林 みほ 41歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1005,34 +1031,54 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0569"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI190831"
   },
   {
-    "id": 570391,
-    "IDcode": "N0570",
-    "title": "上玉新人孕孕轮奸过剰潮",
+    "id": 465969,
+    "IDcode": "KI191003",
+    "title": "人妻斬 森嶋惠",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbe4c1ce5a404e9bc1afe6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191003"
+  },
+  {
+    "id": 558561,
+    "IDcode": "KI191112",
+    "title": "エッチな0930 驹井美佐子35歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0570"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191112"
   },
   {
-    "id": 570399,
-    "IDcode": "N0572",
-    "title": "スレンダー美大生肉便器オブジェ",
+    "id": 557759,
+    "IDcode": "KI191210",
+    "title": "エッチな4610 桜木 绫 20歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1041,16 +1087,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230725/Icr6qKwV/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220925/EgNzFls7/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0572"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191210"
   },
   {
-    "id": 437601,
-    "IDcode": "N0573",
-    "title": "篠めぐみ東熱流ガチ中出し",
+    "id": 557822,
+    "IDcode": "KI191212",
+    "title": "エッチな0930 山瀬 翔子 31歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1059,305 +1105,55 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1b3fae729deedd029f044b7b0a91e5ab.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220925/Mqyrp9kV/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0573"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191212"
   },
   {
-    "id": 437599,
-    "IDcode": "N0574",
-    "title": "直嶋あい東熱流ガチ中出し",
+    "id": 65973,
+    "IDcode": "KI191222",
+    "title": "人妻斬り  木戸 美由希 29歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0eb511cfcd1f854f9b1a2fe83ef24267.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0574"
-  },
-  {
-    "id": 437593,
-    "IDcode": "N0575",
-    "title": "現役英語講師子宮封鎖汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2469fabbff660711936e53aa496247fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0575"
-  },
-  {
-    "id": 570401,
-    "IDcode": "N0576",
-    "title": "本物新体操选手を凹凹奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230725/AGEUYVYx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0576"
-  },
-  {
-    "id": 437609,
-    "IDcode": "N0577",
-    "title": "凶悪輪カン全穴封鎖41連発",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4d1314661aa2db87471da32abdaded98.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0577"
-  },
-  {
-    "id": 437596,
-    "IDcode": "N0578",
-    "title": "夏原カレン東熱流ガチ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ea83fa9d0c25b704e47e3c07042a127a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0578"
-  },
-  {
-    "id": 570410,
-    "IDcode": "N0579",
-    "title": "新人美形スレンダー溃轮奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230726/TUtC40Tq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0579"
-  },
-  {
-    "id": 570408,
-    "IDcode": "N0580",
-    "title": "上玉新人嬲嬲轮奸忌汁涂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230726/dTvGasqK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0580"
-  },
-  {
-    "id": 570418,
-    "IDcode": "N0581",
-    "title": "スレンダーRQ阴部崩壊轮奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/Mv6eRj0j/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0581"
-  },
-  {
-    "id": 570415,
-    "IDcode": "N0582",
-    "title": "美咲アリア东热流3穴极奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230728/g9W3yrrH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0582"
-  },
-  {
-    "id": 570427,
-    "IDcode": "N0584",
-    "title": "絶品饵食过剰中出し重笃汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/CzZz92mT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0584"
-  },
-  {
-    "id": 55672,
-    "IDcode": "N0585",
-    "title": "n0585 河愛杏里東熱流鬼中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2010-11-02",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0585"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191222"
   },
   {
-    "id": 570425,
-    "IDcode": "N0586",
-    "title": "美人CA3穴凹奸壊灭嬲汁",
+    "id": 65959,
+    "IDcode": "KI191224",
+    "title": "人妻斬り  原部 初枝 36歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
+      "少妇",
       "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/iW5N45y6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0586"
-  },
-  {
-    "id": 570429,
-    "IDcode": "N0587",
-    "title": "素人轮奸廃弃野良肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/tL9YX3KE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0587"
-  },
-  {
-    "id": 570426,
-    "IDcode": "N0588",
-    "title": "黒マラ黄マラ巨乳极轮奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/xKrmAM97/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0588"
-  },
-  {
-    "id": 570433,
-    "IDcode": "N0591",
-    "title": "鬼逝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/TFH2FEbo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0591"
-  },
-  {
-    "id": 55670,
-    "IDcode": "N0592",
-    "title": "まみるの東熱真正中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2010-11-26",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0592"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI191224"
   },
   {
-    "id": 570439,
-    "IDcode": "N0593",
-    "title": "T大テニス部合宿轮奸事件",
+    "id": 482909,
+    "IDcode": "KI20010",
+    "title": "エッチな4610 2 成田 玖美 23歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1366,16 +1162,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230730/oNfIv1Qg/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0aeb648ba650421ea17796b539dfe020.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0593"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI20010"
   },
   {
-    "id": 55675,
-    "IDcode": "N0594",
-    "title": "n0594 雨宮琴音東熱流ガチ中出し",
+    "id": 553560,
+    "IDcode": "KI200101",
+    "title": "エッチな4610 自画撮りオナニー特集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1384,16 +1180,36 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/4646953477d38dbc1148c97bf58b84fa.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20231217-1/f5f86478c1903079554733f0123421ca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0594"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200101"
   },
   {
-    "id": 55669,
-    "IDcode": "N0596",
-    "title": "n0596 セレブ医大生学内孕輪カン",
+    "id": 437260,
+    "IDcode": "KI200102",
+    "title": "人妻斬り  沢田 三津子 36歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "少妇",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/020436214b560940496aa51829eff345.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200102"
+  },
+  {
+    "id": 569708,
+    "IDcode": "KI200104",
+    "title": "エッチな0930 ki200104 リクエスト作品集的!",
     "year": "",
     "country": "",
     "genre": "",
@@ -1402,408 +1218,649 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "2010-12-10",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20240328-1/52be83bd1fcdf677e77b002199fac291.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200104"
+  },
+  {
+    "id": 437262,
+    "IDcode": "KI200105",
+    "title": "人妻斬り  浮田 ひかる 19歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码",
+      "嫩妹"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1343e1e31eef256eeba16bb54698a310.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200105"
+  },
+  {
+    "id": 483078,
+    "IDcode": "KI20011",
+    "title": "人妻斬り 4 乾 清美 45歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/51038cf7b54bb28a6a0590af02f28399.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI20011"
+  },
+  {
+    "id": 437282,
+    "IDcode": "KI200111",
+    "title": "人妻斬り  リクエスト作品集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d0a95f8dfae9ae517dec79a9e56c8957.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200111"
+  },
+  {
+    "id": 569709,
+    "IDcode": "KI200114",
+    "title": "エッチな0930 ki200114 岭岸 律子 38歳的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20240328-1/ec91b93462302070574ee34b2f7d4bb7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200114"
+  },
+  {
+    "id": 482958,
+    "IDcode": "KI20012",
+    "title": "エッチな0930 5 おしっこ特集 20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/223a2b9135fb7f71be6867985838c034.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI20012"
+  },
+  {
+    "id": 437283,
+    "IDcode": "KI200125",
+    "title": "人妻斬り  自画撮りオナニー特集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c422b6f7de53f1b6611adf255579c5cb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200125"
+  },
+  {
+    "id": 553555,
+    "IDcode": "KI200126",
+    "title": "エッチな0930 千叶 启子 44歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20230307/jRgBOCHX/1.jpg?t=1679994042",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200126"
+  },
+  {
+    "id": 482957,
+    "IDcode": "KI20020",
+    "title": "人妻斬り 1 おしっこ特集 20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d8299e619b66c8c16aa41683aa2a1311.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI20020"
+  },
+  {
+    "id": 557896,
+    "IDcode": "KI200201",
+    "title": "人妻斩り おしっこ特集 20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231003-1/d8299e619b66c8c16aa41683aa2a1311.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200201"
+  },
+  {
+    "id": 482999,
+    "IDcode": "KI20021",
+    "title": "エッチな4610 6 松居 唯子 26歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/03cad29ffb38eb2696f51f7ed1bcd4dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI20021"
+  },
+  {
+    "id": 553556,
+    "IDcode": "KI200215",
+    "title": "エッチな0930 自画撮りオナニー特集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://guzwiayz.com/20230307/PYS9epQx/1.jpg?t=1679994042",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200215"
+  },
+  {
+    "id": 553557,
+    "IDcode": "KI200216",
+    "title": "エッチな0930 寺村 真利 42歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20231217-1/ad67f80fdffe4b5937393ddd896192dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200216"
+  },
+  {
+    "id": 558428,
+    "IDcode": "KI200218",
+    "title": "エッチな4610 桜井 丽奈 23歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20220930/H4610-ki200218.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI200218"
+  },
+  {
+    "id": 557910,
+    "IDcode": "KI230207",
+    "title": "C0930 人妻斩り 早田 佐恵子 22歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230211/7Bu6QsfN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KI230207"
+  },
+  {
+    "id": 525068,
+    "IDcode": "KIN8",
+    "title": "AWARD Best of movie 2017 10位-6位発表！ / 金髪娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/dderwmzw-pic/image_20180313102454921562.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8"
+  },
+  {
+    "id": 576737,
+    "IDcode": "KIN8-2055",
+    "title": "金8天国 洗脳淫指导～仆の言いなりになる女达～ Nikki Dry",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221125/2ydBOmIi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-2055"
+  },
+  {
+    "id": 530295,
+    "IDcode": "KIN8-3169",
+    "title": "金8天国 3169 金髪天国 一般会员様10日间限定配信 吸い付く菊门 私のアナルで感じてください Mila / ミラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200116-1/1e38e293f1f69eb06b99ec10765adbd7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3169"
+  },
+  {
+    "id": 530310,
+    "IDcode": "KIN8-3194",
+    "title": "金8天国 3194 金髪天国 Sweet Lover 爱欲の恋人 心もカラダもすべてをあなたに捧げたいの・・ Lola / ローラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200423-1/81d7a046be98eaa3907ee9fa4808a641.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3194"
+  },
+  {
+    "id": 576738,
+    "IDcode": "KIN8-3230",
+    "title": "金8天国",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221125/Oj1Pc6aU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3230"
+  },
+  {
+    "id": 530338,
+    "IDcode": "KIN8-3231",
+    "title": "金8天国 3231 金髪天国 バースデープレゼントは私达のファーストアナル Evan & Sadie / イーバン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201003-1/a5f2403bc676639ff3ef15afa93539db.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3231"
+  },
+  {
+    "id": 530339,
+    "IDcode": "KIN8-3233",
+    "title": "金8天国 3233 金髪天国 甘くエロティックな二人きりの时间を覗き见る SWEET TIME Marnie / マーニー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201004-1/d3f00bb05e01d5dec6b447d74e12af67.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3233"
+  },
+  {
+    "id": 530340,
+    "IDcode": "KIN8-3240",
+    "title": "金8天国 3240 金髪天国 VIP先行配信 极上敏感Sサイズの穴 キュッキュッと吸い付くマンコと尻穴 Miya / ミヤ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201004-1/fa33bb11277651192433e62c288d07b5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3240"
+  },
+  {
+    "id": 530342,
+    "IDcode": "KIN8-3251",
+    "title": "金髪天国 欲しがりなカラダ Horny Girl Kiara Night / キアラ ナイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201005-1/823454259191ec1a54b49c774cfef6de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3251"
+  },
+  {
+    "id": 530341,
+    "IDcode": "KIN8-3253",
+    "title": "金8天国 3253 金髪天国 一般会员様5日间限定配信 PUSSY COLLECTION 优しい人妻现役ナースティミちゃんのおまんこをじっくり観察 Timi / ティミ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201005-1/fde4a55565947983df1229b1e9b4379f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3253"
+  },
+  {
+    "id": 572151,
+    "IDcode": "KIN8-3603",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic41.anzise.com/pic/20221127/1a5577ca126253632bc8805eb0998ccd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3603"
+  },
+  {
+    "id": 517417,
+    "IDcode": "KIN8-3915",
+    "title": "金8天國 THE 未公開影片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/19/68f4737bd6fbef4e90fff7d4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3915"
+  },
+  {
+    "id": 517390,
+    "IDcode": "KIN8-3916",
+    "title": "黃金8天堂 我理想的女朋友 我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美女优",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0596"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3916"
   },
   {
-    "id": 55668,
-    "IDcode": "N0597",
-    "title": "n0597 内田真由東熱流ガチ中出し",
+    "id": 517418,
+    "IDcode": "KIN8-3917",
+    "title": "黃金8天堂,美味的身體,讓你想",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "2010-12-14",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0597"
-  },
-  {
-    "id": 55674,
-    "IDcode": "N0598",
-    "title": "美人校医- 飯島奈津美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/e4919000563e2d0fc694dea11710e04e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31945dd88d14f063f0e64/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0598"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3917"
   },
   {
-    "id": 55666,
-    "IDcode": "N0599",
-    "title": "n0599 倉木みお東熱流ガチ汁中毒",
+    "id": 517416,
+    "IDcode": "KIN8-3918",
+    "title": "KIN8 SHARED HOU",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
-    "publish_date": "2010-12-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0599"
-  },
-  {
-    "id": 570443,
-    "IDcode": "N0600",
-    "title": "东热大乱交2010 Part1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/bFSYepyQ/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f85babdbf24d4ed3428840/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0600"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3918"
   },
   {
-    "id": 570451,
-    "IDcode": "N0602",
-    "title": "东热大乱交2010 Part2",
+    "id": 517421,
+    "IDcode": "KIN8-3922",
+    "title": "健身棒 健身教練的大肉棒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱交",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/4iN4WiWu/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0954c31a2714f1c5b865f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0602"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3922"
   },
   {
-    "id": 570452,
-    "IDcode": "N0603",
-    "title": "姫乃杏树炉マン崩壊中出し",
+    "id": 517420,
+    "IDcode": "KIN8-3923",
+    "title": "喜歡肉棒 我最喜愛的是的美味精",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/D8jdsdhG/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1c83952c12b4e68502290/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0603"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3923"
   },
   {
-    "id": 225161,
-    "IDcode": "N0604",
-    "title": "轮奸内射的长腿美女模特-雨宫琴音",
+    "id": 517422,
+    "IDcode": "KIN8-3924",
+    "title": "Luchy Day 愛洗澡的旅",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/558266c14792c9b1371c4537353ad3df.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed1d0f52c12b4e6848bd3b/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0604"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3924"
   },
   {
-    "id": 570459,
-    "IDcode": "N0605",
-    "title": "まみるの东热20连中出し",
+    "id": 437649,
+    "IDcode": "KIN8-3925",
+    "title": "LUXURIOUS 奢华感性的成人时光 满足男人所有慾望的女性... Thalia Tia / Thalia Tia",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230802/N1tmsic6/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef1cf352c12b4e684b9874/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0605"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3925"
   },
   {
-    "id": 570457,
-    "IDcode": "N0606",
-    "title": "爆奸RQ强烈1穴2本挿し",
+    "id": 437658,
+    "IDcode": "KIN8-3926",
+    "title": "肉欲誘人媚態 Phoenix Marie",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230802/WdqACN5P/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec165052c12b4e68468cd8/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0606"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3926"
   },
   {
-    "id": 570467,
-    "IDcode": "N0608",
-    "title": "あすか伊央东热的引退汁",
+    "id": 437660,
+    "IDcode": "KIN8-3927",
+    "title": "黃金 8 天堂幸運日旅行者愛洗澡 Vol2 Alice Klay / Alice Klay",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "欧美女优",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230803/EQy3vcqG/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec167552c12b4e6846925f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0608"
-  },
-  {
-    "id": 570472,
-    "IDcode": "N0609",
-    "title": "神待ち少女凶悪轮奸孕逝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230803/PINYAYuB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0609"
-  },
-  {
-    "id": 570463,
-    "IDcode": "N0610",
-    "title": "乙音奈々东热流ガチ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230803/Fi1fiAas/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0610"
-  },
-  {
-    "id": 570473,
-    "IDcode": "N0611",
-    "title": "叶山润子东热流ガチ汁奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230803/hZjzGh6X/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0611"
-  },
-  {
-    "id": 570465,
-    "IDcode": "N0612",
-    "title": "ニュースキャスターは生ハメ本番中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230803/GpDREK5Z/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0612"
-  },
-  {
-    "id": 186449,
-    "IDcode": "N0614",
-    "title": "东京热美人女主播的粉木耳被汁男们轮流灌入新鲜滚烫的白浊精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2025-09-12",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0614"
-  },
-  {
-    "id": 59486,
-    "IDcode": "N0615",
-    "title": "坂本麻弥東熱流肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0615"
-  },
-  {
-    "id": 570485,
-    "IDcode": "N0616",
-    "title": "东热医院女子大生懐妊汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/ItfPapAz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0616"
-  },
-  {
-    "id": 570483,
-    "IDcode": "N0617",
-    "title": "アイドル系东热中出しデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/yL6UrGpP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0617"
-  },
-  {
-    "id": 570481,
-    "IDcode": "N0618",
-    "title": "かなみ芽梨东热流ガチ轮奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/iAjD2ikm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0618"
-  },
-  {
-    "id": 570495,
-    "IDcode": "N0620",
-    "title": "谷村早苗东热流ガチ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230806/kBPv3JSp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0620"
-  },
-  {
-    "id": 570490,
-    "IDcode": "N0621",
-    "title": "鬼逝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230806/Evj2VdCu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0621"
-  },
-  {
-    "id": 570491,
-    "IDcode": "N0622",
-    "title": "浅乃ハルミ东热流ガチ汁奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230806/dzbexyFU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=N0622"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIN8-3927"
   }
 ];

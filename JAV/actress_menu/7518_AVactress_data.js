@@ -58,7 +58,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/3ae4ca234809e10324144e77f0490c3a.jpg",
       "actress": [

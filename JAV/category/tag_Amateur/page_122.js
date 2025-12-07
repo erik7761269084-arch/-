@@ -1,118 +1,116 @@
 window.PAGE_DATA = [
   {
-    "id": 435481,
-    "IDcode": "315ETQR-307",
-    "title": "【妄想主観】酔っ払ってしまった新婚の僕が会社の後輩とまさかホテルで相部屋になった一夜 齋藤茉莉奈",
+    "id": 441392,
+    "IDcode": "300NTK-831",
+    "title": "【G乳ロリボイン美少女ヤリマン(レイヤー)参上！！】【エロムチ合法ロリ乳レイヤーの過激",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/91a5d18f81d1112ebf01f9ce03b29d0f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-307"
-  },
-  {
-    "id": 216607,
-    "IDcode": "315ETQR-347",
-    "title": "etqr-347 喝醉了的新婚的我-冨安贵子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e83d5b4c389d6d9527a481d8d02f28b2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-347"
-  },
-  {
-    "id": 84399,
-    "IDcode": "315ETQR-348",
-    "title": "老师的巨根-高橋りほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
       "巨乳",
-      "精选，综合",
-      "主观视角"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8740a2111fe8516c113bab4284bd417e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/99f5ccbd9a381ad91058f38208760d59.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-348"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-831"
   },
   {
-    "id": 84395,
-    "IDcode": "315ETQR-349",
-    "title": "【妄想主観】乳首こねくりっぱなし！痴女美少女出張回春リフレ 天然美月",
+    "id": 403764,
+    "IDcode": "300NTK-832",
+    "title": "※歌うまSEXうまスレンダー美女3に連射※【細エチボディの激エロギャルJD】【前向きご",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "荡妇",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "精选，综合",
-      "主观视角"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/971aa002cc54454b182eeb36920f614e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/fcbd5bda2027681010f0690ac6828c46.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-832"
+  },
+  {
+    "id": 541949,
+    "IDcode": "300NTK-833",
+    "title": "※ロリG乳JD耻じらいハメ撮り连続榨精※【水着はまハメJD！！エロむちBODY大升天！！】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240720/lYx3WuXt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-833"
+  },
+  {
+    "id": 541951,
+    "IDcode": "300NTK-834",
+    "title": "絶品！！美少女×2水着乱交SP【そそる若尻ボディ竞演！！】【天真烂漫なスレンダー美少女ビッ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240720/FfOeFZHR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-834"
+  },
+  {
+    "id": 541948,
+    "IDcode": "300NTK-835",
+    "title": "【里オフ会パンツ売买P活：底辺地下アイドルいっちー】【元気はつらつ明るさ担当の美少女アイド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240720/6zyJ1oIP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-835"
+  },
+  {
+    "id": 541950,
+    "IDcode": "300NTK-836",
+    "title": "【极上P活娘ローションましましヌルテカSEX！】【もちろん生で味わう健康的美ボディ！】【ロ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-10-13",
+    "cover_url": "https://tuaskbgnekr.com/20240720/RpHGp2Eu/1.jpg",
     "actress": [
-      "天然美月"
+      "前田美波",
+      "みなみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-349"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-836"
   },
   {
-    "id": 578995,
-    "IDcode": "315ETQR-395",
-    "title": "【妄想主観】セーラー服を着た美少女となまなかだし性交。Ena",
+    "id": 541956,
+    "IDcode": "300NTK-837",
+    "title": "残暑吹き飞ばすヤリマンWタイフーン上陆！！エロ乳ビッチ美少女＆スレンダーぴえん美少女ビッチ",
     "year": "",
     "country": "",
     "genre": "",
@@ -120,22 +118,18 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
+    "company": "",
+    "publish_date": "2023-09-17",
+    "cover_url": "https://tuaskbgnekr.com/20240721/YlpC9n8S/1.jpg",
+    "actress": [
+      "【あいまり"
     ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00395pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-395"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-837"
   },
   {
-    "id": 578994,
-    "IDcode": "315ETQR-396",
-    "title": "【妄想主観】セーラー服を着た美少女となまなかだし性交。Yurika",
+    "id": 541957,
+    "IDcode": "300NTK-838",
+    "title": "【神尻ぴえん系女子しおふき升天！！】【紧张から缓和のロハぱこ体験】【エロエロ细神スタイル沼",
     "year": "",
     "country": "",
     "genre": "",
@@ -143,114 +137,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00396pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-396"
-  },
-  {
-    "id": 578993,
-    "IDcode": "315ETQR-397",
-    "title": "【妄想主観】セーラー服を着た美少女となまなかだし性交。Hina",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00397pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-397"
-  },
-  {
-    "id": 578992,
-    "IDcode": "315ETQR-398",
-    "title": "【妄想主観】セーラー服を着た美少女となまなかだし性交。Miki",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00398pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-398"
-  },
-  {
-    "id": 578991,
-    "IDcode": "315ETQR-399",
-    "title": "【妄想主観】犯●れたがる受付嬢 MEI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-838"
   },
   {
-    "id": 579070,
-    "IDcode": "315ETQR-400",
-    "title": "【妄想主観】犯●れたがる受付嬢 MIKAKO",
+    "id": 541958,
+    "IDcode": "300NTK-839",
+    "title": "【ピンク乳首F乳】ぴえん系美少女エチョナ登场！推しチン贪る関西娘の底なし性欲がヤバすぎた…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-400"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-839"
   },
   {
-    "id": 579018,
-    "IDcode": "315ETQR-401",
-    "title": "【妄想主観】犯●れたがる受付嬢 IROHA",
+    "id": 541955,
+    "IDcode": "300NTK-840",
+    "title": "ヤリマン多様性时代の到来！！清楚系ビッチ美女＆ギャルビッチの根っこがヤリマン集结！！水着大",
     "year": "",
     "country": "",
     "genre": "",
@@ -258,141 +172,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00401pl.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240721/ThE3hnuO/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-401"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-840"
   },
   {
-    "id": 579017,
-    "IDcode": "315ETQR-402",
-    "title": "【妄想主観】犯●れたがる受付嬢 HINA",
+    "id": 520818,
+    "IDcode": "300NTK-841",
+    "title": "【极上エチョナRQギャル参上！！】神がかりエロボディラインの极上F乳！！コスでハメ！！下着でハメ！全裸おかわりハメのFULLボリュームハメ撮り3榨精！！【バキバキしろうと_02",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-402"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-841"
   },
   {
-    "id": 579031,
-    "IDcode": "315ETQR-403",
-    "title": "【妄想主観】発育の良すぎる巨乳制服美少女と生中出し Meisa",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00403pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-403"
-  },
-  {
-    "id": 579016,
-    "IDcode": "315ETQR-404",
-    "title": "【妄想主観】発育の良すぎる巨乳制服美少女と生中出し Yurika",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00404pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-404"
-  },
-  {
-    "id": 578990,
-    "IDcode": "315ETQR-405",
-    "title": "【妄想主観】発育の良すぎる巨乳制服美少女と生中出し Riho",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00405pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-405"
-  },
-  {
-    "id": 578989,
-    "IDcode": "315ETQR-406",
-    "title": "【妄想主観】発育の良すぎる巨乳制服美少女と生中出し Rin",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00406pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-406"
-  },
-  {
-    "id": 564715,
-    "IDcode": "315ETQR-457",
-    "title": "【妄想主観】いつでもどこでも即ハメOK！生中出しご奉仕美少女メイド SHURI",
+    "id": 520819,
+    "IDcode": "300NTK-842",
+    "title": "【长身×美脚の极上スタイルJD参戦！！】【170cm淫エロスレンダー激びんかん！】【デレイキ青天性交ノーゴム榨精！！】【全裸おかわりでまだまだ求める贪欲ビッチ开眼！】【水着でハメ！全裸でハメ！全部ケイレン升天中出し！！】_＃被写体希望_＃28",
     "year": "",
     "country": "",
     "genre": "",
@@ -400,791 +207,38 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/P6Fllapo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-457"
-  },
-  {
-    "id": 564714,
-    "IDcode": "315ETQR-458",
-    "title": "【妄想主観】いつでもどこでも即ハメOK！生中出しご奉仕美少女メイド AMERI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/CMNqlvKk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-458"
-  },
-  {
-    "id": 564713,
-    "IDcode": "315ETQR-459",
-    "title": "【妄想主観】いつでもどこでも即ハメOK！生中出しご奉仕美少女メイド KANA （）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/SbwBOWn4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-459"
-  },
-  {
-    "id": 564712,
-    "IDcode": "315ETQR-460",
-    "title": "【妄想主観】いつでもどこでも即ハメOK！生中出しご奉仕美少女メイド AOI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/o21phtYm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-460"
-  },
-  {
-    "id": 549843,
-    "IDcode": "315ETQR-461",
-    "title": "【妄想主観】巨乳制服美少女の母性溢れるご奉仕性交 つぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/k39Nh6xY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-461"
-  },
-  {
-    "id": 549842,
-    "IDcode": "315ETQR-462",
-    "title": "【妄想主観】巨乳制服美少女の母性溢れるご奉仕性交 はるな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/6qhN5UP9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-462"
-  },
-  {
-    "id": 549841,
-    "IDcode": "315ETQR-463",
-    "title": "【妄想主観】巨乳制服美少女の母性溢れるご奉仕性交 ちえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/OfkDoXyE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-463"
-  },
-  {
-    "id": 579254,
-    "IDcode": "315ETQR-468",
-    "title": "【妄想主観】小悪魔制服美少女と诱惑エッチ 华奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/nXiYLDfy.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-468"
-  },
-  {
-    "id": 579232,
-    "IDcode": "315ETQR-469",
-    "title": "【妄想主観】小悪魔制服美少女と诱惑エッチ かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00469pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-469"
-  },
-  {
-    "id": 579231,
-    "IDcode": "315ETQR-470",
-    "title": "【妄想主観】小悪魔制服美少女と诱惑エッチ きらり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00470pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-470"
-  },
-  {
-    "id": 579230,
-    "IDcode": "315ETQR-475",
-    "title": "制服美少女とエッチしよ？みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00475pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-475"
-  },
-  {
-    "id": 579229,
-    "IDcode": "315ETQR-477",
-    "title": "制服美少女とエッチしよ？はるか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00477pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-477"
-  },
-  {
-    "id": 563762,
-    "IDcode": "315ETQR-491",
-    "title": "常にワキ见せ耻じらい美少女と性交 RIONAちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/f69TfTZ8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-491"
-  },
-  {
-    "id": 563764,
-    "IDcode": "315ETQR-492",
-    "title": "常にワキ见せ耻じらい美少女と性交 HARUNAちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/SnwkYk6Z/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-492"
-  },
-  {
-    "id": 563763,
-    "IDcode": "315ETQR-493",
-    "title": "常にワキ见せ耻じらい美少女と性交 MITSUKIちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/yHVkUWgb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-493"
-  },
-  {
-    "id": 548252,
-    "IDcode": "315ETQR-494",
-    "title": "酔っ払った美人女子社员とまさかのホテルで相部屋に… ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/VcjO581t/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-494"
-  },
-  {
-    "id": 548250,
-    "IDcode": "315ETQR-495",
-    "title": "酔っ払った美人女子社员とまさかのホテルで相部屋に…エレナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/SBYqoedB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-495"
-  },
-  {
-    "id": 548249,
-    "IDcode": "315ETQR-496",
-    "title": "酔っ払った美人女子社员とまさかのホテルで相部屋に…エリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/0fTxGhGH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-496"
-  },
-  {
-    "id": 579460,
-    "IDcode": "315ETQR-506",
-    "title": "舐めるの大好き娘 媚び媚びご奉仕风俗 さとり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/JbzdNhCH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-506"
-  },
-  {
-    "id": 562893,
-    "IDcode": "315ETQR-507",
-    "title": "舐めるの大好き娘 媚び媚びご奉仕风俗 りんご",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/pV0zc9io/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-507"
-  },
-  {
-    "id": 403629,
-    "IDcode": "315ETQR-508",
-    "title": "生意気なメスガキをわからせ性交媚び媚びオジサマ大しゅきになっちゃった宮沢ちはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/993e5fcaccec08110b20a296d4a59ca6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-508"
-  },
-  {
-    "id": 579479,
-    "IDcode": "315ETQR-509",
-    "title": "生意気なメスガキをわからせ性交 媚び媚びオジサマ大しゅきになっちゃった 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00509pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-509"
-  },
-  {
-    "id": 579478,
-    "IDcode": "315ETQR-510",
-    "title": "生意気なメスガキをわからせ性交 媚び媚びオジサマ大しゅきになっちゃった 永瀬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00510pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-510"
-  },
-  {
-    "id": 518140,
-    "IDcode": "315ETQR-522",
-    "title": "發育良好的製服美OO，是個放蕩的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed33f352c12b4e68492f4b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-522"
-  },
-  {
-    "id": 518141,
-    "IDcode": "315ETQR-523",
-    "title": "發育良好的製服美OO，是個放蕩的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed32fc52c12b4e68492f48/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-523"
-  },
-  {
-    "id": 518139,
-    "IDcode": "315ETQR-524",
-    "title": "發育良好的製服美OO，是個放蕩的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed337852c12b4e68492f4a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-524"
-  },
-  {
-    "id": 463240,
-    "IDcode": "315ETQR-551",
-    "title": "太淫蕩到讓人發瘋…穿著制服的下流性交 甘味撒嬌玩法特化 NATSUKI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8dec87f3b7c92907398d4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-551"
-  },
-  {
-    "id": 463242,
-    "IDcode": "315ETQR-552",
-    "title": "太淫蕩到讓人發瘋狂的…穿著制服的下流性交 甘味汁液玩法特化 NARUMI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8de627f3b7c92907398b7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-552"
-  },
-  {
-    "id": 463198,
-    "IDcode": "315ETQR-553",
-    "title": "太淫蕩讓人發瘋般…無套中出 制服著痴女千金小姐下流性交 甘美舔棒玩法特化 MIZUKI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa4c655f03a092cf6fb7ea/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-553"
-  },
-  {
-    "id": 589056,
-    "IDcode": "315ETQR-561",
-    "title": "“生孩子是奉献的一部分”让人怀孕的女仆的媚态生活 夏美柑奈 夏美柑奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250919-1/ccb651acd6b97ca18e13498dbb1c51b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-561"
-  },
-  {
-    "id": 463598,
-    "IDcode": "315ETQR-562",
-    "title": "色情到让人觉得很白痴…无套中出 穿着制服的淫荡女OO下流性交 甜蛮玩特化 RINA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e777f98bc99dfdd032fe1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-562"
-  },
-  {
-    "id": 463589,
-    "IDcode": "315ETQR-563",
-    "title": "色情到让人觉得很蠢…无套中出 穿着制服的淫荡女OO下流性交 甜蛮玩特化 MEI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e78c998bc99dfdd033050/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-563"
-  },
-  {
-    "id": 463588,
-    "IDcode": "315ETQR-564",
-    "title": "色情到让人觉得很蠢…无套中出 穿着制服的淫荡女OO下流性交 甜蛮玩特化 NANA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e787c98bc99dfdd03302b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-564"
-  },
-  {
-    "id": 61859,
-    "IDcode": "315ETQR-565",
-    "title": "「子作りはご奉仕の一環です」孕ませメイドの媚び媚び生活 NANAMI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "素人",
-      "女佣",
-      "中出",
-      "美少女电影",
-      "素人作品",
-      "精选，综合",
-      "主观视角"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-565"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-842"
   },
   {
-    "id": 192364,
-    "IDcode": "315ETQR-566",
-    "title": "「子作りはご奉仕の一環です」孕ませメイドの媚び媚び生活 MISUZU",
+    "id": 520833,
+    "IDcode": "300NTK-843",
+    "title": "G乳ドエロGAL&极上ヒップ清楚系ビッチ！！サンタコスで见参【W极上ボデイ美女ビッチーズ最高！！】【G乳ボインボインがち淫乱GALの魅せSEX！！】【おとなしそうで一番エロい！？清楚系ビッチの献身SEX！！】【Wビッチの奇迹のドスケベマリアージュ！！えちえちコスから全裸露天SEX】ドエッチWサンタが今年もラブホにやってきた！！年忘れ年末中出し感谢祭4P连続升天SP！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-12-15",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椿莉香",
+      "雅子裡菜",
+      "【りっか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-843"
+  },
+  {
+    "id": 520823,
+    "IDcode": "300NTK-844",
+    "title": "【爆裂Gカップ极上P活GALはプリケツ二刀流！！】【揺れるオッパイ！！揺れる尻！！最高のヤリマンテクニック披露！！バリバリ课金で祝！！ナマ挿入解禁！！】【おじテクで闷絶ぶしゅ潮でバリエロッ！！】【ガチ逝きギャルとグイグイおじ连続挿入2NN！！】PK界隈",
     "year": "",
     "country": "",
     "genre": "",
@@ -1192,22 +246,155 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "りかちょ"
     ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-844"
+  },
+  {
+    "id": 520822,
+    "IDcode": "300NTK-845",
+    "title": "【最强ロリエチョナ登场！！】反则エロ美尻！！びんかん美乳に…！！しおふきマ○コ！！走攻守揃ったドスケベ三冠王ビッチ！？エロコスでナマちん求める姿は生唾不可避！！エロス青天3NNガチイキハメ撮りはこちら♪【バキバキしろうと_03】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "雅子裡菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-845"
+  },
+  {
+    "id": 520793,
+    "IDcode": "300NTK-846",
+    "title": "【噂のドHカップ淫乱エステティシャン登场！】【爆乳！爆振！爆濡れ！オイル施术で爆勃起不可避！！】【基盘！？奥突きアクメ泣きじゃくりナマSEX连発！！】【これぞヤリマン！！これがヤリマン！！】ガチエロ爆乳Hカップエステティシャンが登场！！特制オイルエステ施术で神レベルの快楽の园へサービス！！サービス！！ヤリマンGP027",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-01-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "堀北実来",
+      "まひる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-846"
+  },
+  {
+    "id": 441390,
+    "IDcode": "300NTK-847",
+    "title": "【Hカップ美爆乳エチョナサンタ！！】爆弾超乳のドスケベボデイ美女が参戦！！エロコスはめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-12-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/24da80e3b4256a79720652952d37853e.jpg",
+    "actress": [
+      "堀北実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-847"
+  },
+  {
+    "id": 520794,
+    "IDcode": "300NTK-848",
+    "title": "【透き通る美少女！！性春エチョナ登场！！】掟破りの制服デートでカウパー氏线液ダダ泄れ！！极上スレンダー美ボディの感度も…上の上の极上！！引き缔まった青春プリプリ美尻の生チンピストン爆裂ハメ撮りは流石に遗憾すぎ！？【バキバキしろうと_05】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "響乃詩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-848"
+  },
+  {
+    "id": 520784,
+    "IDcode": "300NTK-849",
+    "title": "※激カワサークルクラッシャー美JDが3榨精※【ぷるぷる美尻が舞う！！骑乘位で鬼ピストンNN】【若さ弾ける美乳&美尻が跳ねる最高の青春】【サークルも理性もクラッシュさせるビジュつよつよ絶品ボディ】【本命男の前で见せるデレかわ痴态で连続SEX】スレンダー美ボディの颜面偏差値！サークルクラッシャーJDが登场！！ハミマン上等の超短パンで好きピとラブホin！！いちゃつきながらエロ活スタート！！【ハメ撮りとれちゃいました：27】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-566"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-849"
   },
   {
-    "id": 192352,
-    "IDcode": "315ETQR-567",
-    "title": "「子作りはご奉仕の一環です」孕ませメイドの媚び媚び生活 MAYU",
+    "id": 520746,
+    "IDcode": "300NTK-850",
+    "title": "【美し过ぎるF乳P活娘のマキシマムサービス！！】【金より快楽优先のトップ・オブ・ムッツリ美女】【がちイキ榨精性交】しなやかなる曲线エロ肢体&あどけなさ残るビジュつよつよ美女のP活！！もちろんロハパコむーごーなしなし案件！！！！ロハ娘歓迎！好！5人目！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美澄玲衣",
+      "みれいちゃん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-850"
+  },
+  {
+    "id": 520772,
+    "IDcode": "300NTK-851",
+    "title": "【爆乳ロハ娘の爆振Hカップご奉仕！！】【ガチイキ上等の生ちん大好き体质！！】【极上がちエチ肢体で…しかもロハ！！】むちゃエチぼいん水着でP活！！全零れオッパイの爆振ご奉仕！！快楽に打ち震えて跳ねる腰！！ケイレンする美爆乳&尻！！まさにtheSEXボデイ美女のP活…しかもロハって最高かよ…！！ロハ娘歓迎！好！4人目！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "りぃーちゃん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-851"
+  },
+  {
+    "id": 541963,
+    "IDcode": "300NTK-852",
+    "title": "【诱う淫惑の浴衣美女をナンパせよ！！】【色白の“うなじ”に欲情不可避！！】【脱がせばエロい",
     "year": "",
     "country": "",
     "genre": "",
@@ -1215,22 +402,93 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240724/cUjt0SFq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-852"
+  },
+  {
+    "id": 541962,
+    "IDcode": "300NTK-853",
+    "title": "【Hカップ爆乳浴衣エチチ美女の映えより性欲重视の撮影开始！！】【アヘ颜は下品であればある程",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
     ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240724/sJhgczVW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-853"
+  },
+  {
+    "id": 520724,
+    "IDcode": "300NTK-854",
+    "title": "【G乳人妻の不贞SEX！！】【神スタイルのドエッチBODY】【诱惑するカラダ！！表情！！肢体！！すべてがオールエロス！！】【これぞヤリマン！！これがヤリマン！！】诱う表情がマジエロい！！欲求不満！！性欲爆発寸前のG乳エロ美人妻の暴走ナマ中3榨精！！ヤリマンGP028",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-854"
+  },
+  {
+    "id": 441389,
+    "IDcode": "300NTK-855",
+    "title": "【美巨乳GのトップオブトップP活娘】【ビジュつよつよ美女と応援チアプレイ！！】【応援＆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/3178ef900fa3f169bfc218799e93ae2d.jpg",
+    "actress": [
+      "なつ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-855"
+  },
+  {
+    "id": 520747,
+    "IDcode": "300NTK-856",
+    "title": "【Gオーバー爆乳ワールド级のハーフ爆乳美女！！】【欲望にまっすぐ！！まっすぐだからエロいのだ！！巨乳娘をサーチ&エッチング！！】【爆乳！！色白ハーフ美女の潮吹きマ○コにナマ挿入！！】レッツ！！オッパイナンパ！！_1パイパイ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-567"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-856"
   },
   {
-    "id": 508660,
-    "IDcode": "318LADY-317",
-    "title": "るか",
+    "id": 541966,
+    "IDcode": "300NTK-857",
+    "title": "【生意気ハーフ美女JDにわからせP活SEX】【心にクル言叶攻めとチ○コにクル美ムチボデイの",
     "year": "",
     "country": "",
     "genre": "",
@@ -1238,16 +496,78 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/25c2806b20b2a725cde8ddac7ffd00ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-317"
+    "cover_url": "https://tuaskbgnekr.com/20240726/fTsLYd8P/1.jpg",
+    "actress": [
+      "千鶴えま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-857"
   },
   {
-    "id": 60152,
-    "IDcode": "318LADY-318",
-    "title": "梦想成为模特的19岁微笑美女被我的肉棒捅进去后控制不住的高潮",
+    "id": 450353,
+    "IDcode": "300NTK-858",
+    "title": "【高身長ヤリマン人妻の東京遠征SEX】【スレンダー神スタイルでM！！】【攻められ震える",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-08",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/378ad57fb3fd9581a980fa1076dfaccc.jpg",
+    "actress": [
+      "七瀨詩音",
+      "しの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-858"
+  },
+  {
+    "id": 450355,
+    "IDcode": "300NTK-859",
+    "title": "【スレンダー美ちっぱい淫乱人妻エチョナ登場！！】170cmオーバーの高身長の極上クビレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-25",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/0138ecdb17ab7c91bae1f13f064285f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-859"
+  },
+  {
+    "id": 441391,
+    "IDcode": "300NTK-860",
+    "title": "【八頭身170cm神スタイルお嬢様JD参戦！！】【スレンダーF乳くびれデカ尻ドえっち警",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-03-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/894a1f5822de2b9a17d4e32cb8f6b6e0.jpg",
+    "actress": [
+      "透美かなた",
+      "かな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-860"
+  },
+  {
+    "id": 520713,
+    "IDcode": "300NTK-861",
+    "title": "【极上スタイル八头身お嬢様JDエチョナ登场！！】お嬢様JDエチョナの絶品ボディをエチョエチョはめ撮り！！悪いカレピにそそのかされてハメ撮りデビュー！！痉挛升天の癖が発覚！！スーパーロング美脚とお下品お楽しみ乳首が性感帯の特级エチョナお嬢様ハメ撮りの决定版！！【バキバキしろうと_07】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1255,16 +575,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-861"
+  },
+  {
+    "id": 520703,
+    "IDcode": "300NTK-862",
+    "title": "【天然G乳お宝BODYヤリマンJD！！】【ガチでスケベなマインド&ソウル】【乳首も尻もキレイでエロい奇迹のエロ逸材！！】【これぞヤリマン！！これがヤリマン！！】爆GカップのドエッチボデイJD！！性欲もましましガチヤリマン美少女登场！！ボインボインなGカップ巨乳ドエッチJDインフルエンサーの赤裸々中出し3NNセックス！ヤリマンGP030",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-318"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-862"
   },
   {
-    "id": 575778,
-    "IDcode": "318LADY-319",
-    "title": "ゆきな",
+    "id": 511117,
+    "IDcode": "300NTK-864",
+    "title": "【シンプルに淫乱GALヤリマン登場！！】【おかわり生チ○コを求めて路上で逆ナン疑惑！？",
     "year": "",
     "country": "",
     "genre": "",
@@ -1272,16 +610,484 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/ab6ab6a1fa96f95fc574e263c1cd0e69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-864"
+  },
+  {
+    "id": 458789,
+    "IDcode": "300NTK-865",
+    "title": "【お金じゃない快楽求めるSEXガチ勢ギャルのロハぱこSP！！】【クールな美女なのにシン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-04-16",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/d390733ee2a76c395de3fb498195308c.jpg",
+    "actress": [
+      "りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-865"
+  },
+  {
+    "id": 466162,
+    "IDcode": "300NTK-866",
+    "title": "【烹飪班最情色蕩婦老師登場】【OO吃雞饕餮神乳】【真正瘋狂性感到極致】【女牛仔天才！ ！爆發力】烹飪老師的特寫課！ ！在生烹飪訓練中吃OO勃起的雞巴！ ！身材淫蕩,單純又色情的料理老師登場！ ！視覺與性慾最好的蕩婦2擠壓NN！ ！ /賓博GP/032",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7b3ae79f1ac4ec45a77f8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-866"
+  },
+  {
+    "id": 541970,
+    "IDcode": "300NTK-867",
+    "title": "※美巨乳エロF乳ド淫乱人妻が2NN生ハメ撮り※【骑乘位の天才！！性欲大解放の不贞人妻が他人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240728/cv2PjtHV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-867"
+  },
+  {
+    "id": 176920,
+    "IDcode": "300NTK-870",
+    "title": "みずき&あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/10/7186c3083ca8f4dd6cbd137f2a434176.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-870"
+  },
+  {
+    "id": 541971,
+    "IDcode": "300NTK-871",
+    "title": "【爆潮お姊さん手マン潮！！ハメ潮！！潮潮！！痉挛升天！！】【极上えちちスタイルの雑鱼まん！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240728/zwmu9jvW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-871"
+  },
+  {
+    "id": 177550,
+    "IDcode": "300NTK-882",
+    "title": "とりあえずお店で飲んで歌う…！？いや弄るしかないでしょ初対面でディープキスとチク舐め店内デート許す淫乱妻！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/10/419ee875b8c968fa41b3935373ddd03a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-882"
+  },
+  {
+    "id": 508942,
+    "IDcode": "302GERBM-001",
+    "title": "人妻 あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/260cfe32806892d629ce01a534b60fb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-001"
+  },
+  {
+    "id": 508770,
+    "IDcode": "302GERBM-002",
+    "title": "女子大生 あんじゅ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b62238a9d86dd725fb44984dc16f189.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-002"
+  },
+  {
+    "id": 508899,
+    "IDcode": "302GERBM-003",
+    "title": "デリヘル嬢 あんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0ac13aa968fc010365d0977476c1f68f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-003"
+  },
+  {
+    "id": 508908,
+    "IDcode": "302GERBM-004",
+    "title": "OL ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dde14f36665866b5de1cb6b1f717c479.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-004"
+  },
+  {
+    "id": 508788,
+    "IDcode": "302GERBM-005",
+    "title": "人妻 りかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/63600a3db4cdcb89a9ece989789bb24d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-005"
+  },
+  {
+    "id": 508780,
+    "IDcode": "302GERBM-006",
+    "title": "人妻 えりこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/53516610e36617f7d37fd13b67285fb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-006"
+  },
+  {
+    "id": 508860,
+    "IDcode": "302GERBM-007",
+    "title": "めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/810eda72663b4d4a914eb26e0f43680e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-007"
+  },
+  {
+    "id": 76010,
+    "IDcode": "302GERBM-008",
+    "title": "美人妻欠钱肉偿妻车内干一炮抵利息",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c6e03f9516f9944e15d44a42acf93e17.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-008"
+  },
+  {
+    "id": 508783,
+    "IDcode": "302GERBM-009",
+    "title": "人妻 ともか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a578cb4b7b4ce474b0b0491b8d63fa57.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-009"
+  },
+  {
+    "id": 575774,
+    "IDcode": "302GERK-188",
+    "title": "Kさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/tv6dMaMY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-188"
+  },
+  {
+    "id": 575754,
+    "IDcode": "302GERK-189",
+    "title": "Cさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/5nlGzW3N/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-189"
+  },
+  {
+    "id": 575775,
+    "IDcode": "302GERK-190",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/8VZiE7bP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-190"
+  },
+  {
+    "id": 575809,
+    "IDcode": "302GERK-191",
+    "title": "Hさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/ZhhaRJY0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-191"
+  },
+  {
+    "id": 575807,
+    "IDcode": "302GERK-192",
+    "title": "Tさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/BdiEhnFP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-192"
+  },
+  {
+    "id": 575808,
+    "IDcode": "302GERK-193",
+    "title": "Mさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/jmh17XXd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-193"
+  },
+  {
+    "id": 575786,
+    "IDcode": "302GERK-194",
+    "title": "Sさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/MZBKfTzf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-194"
+  },
+  {
+    "id": 575791,
+    "IDcode": "302GERK-195",
+    "title": "Yさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/dY0PvXoI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-195"
+  },
+  {
+    "id": 575788,
+    "IDcode": "302GERK-196",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/VJwDvrfp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-196"
+  },
+  {
+    "id": 575829,
+    "IDcode": "302GERK-202",
+    "title": "篠崎さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/mJtQlIIt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-202"
+  },
+  {
+    "id": 575827,
+    "IDcode": "302GERK-203",
+    "title": "横山さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/E5HR3zcN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-203"
+  },
+  {
+    "id": 531039,
+    "IDcode": "302GERK-212",
+    "title": "ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-319"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-212"
   },
   {
-    "id": 567100,
-    "IDcode": "318LADY-324",
-    "title": "るか",
+    "id": 508706,
+    "IDcode": "302GERK-213",
+    "title": "まより",
     "year": "",
     "country": "",
     "genre": "",
@@ -1289,16 +1095,118 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a7dda79aed16b3aad4e9f930d99a509c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-213"
+  },
+  {
+    "id": 508698,
+    "IDcode": "302GERK-215",
+    "title": "M姉さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0581b39fb2e0e9f6b86e6b57fd31a1eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-215"
+  },
+  {
+    "id": 551329,
+    "IDcode": "302GERK-216",
+    "title": "S姊さん1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221225-1/ee4b305f53850547d5d222aba634408a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-216"
+  },
+  {
+    "id": 508868,
+    "IDcode": "302GERK-217",
+    "title": "まお 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9a3606588fc06bcfb648280d55f2a672.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-217"
+  },
+  {
+    "id": 532510,
+    "IDcode": "302GERK-218",
+    "title": "なつこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-218.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-218"
+  },
+  {
+    "id": 533015,
+    "IDcode": "302GERK-219",
+    "title": "女子大生A",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221001/302GERK-219.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-219"
+  },
+  {
+    "id": 532480,
+    "IDcode": "302GERK-220",
+    "title": "女子大生B",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-324"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-220"
   },
   {
-    "id": 508846,
-    "IDcode": "318LADY-325",
-    "title": "あいこ",
+    "id": 533013,
+    "IDcode": "302GERK-223",
+    "title": "まいな",
     "year": "",
     "country": "",
     "genre": "",
@@ -1306,16 +1214,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c214547d097123097f68250d58ac5894.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20220930/302GERK-223.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-325"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-223"
   },
   {
-    "id": 530978,
-    "IDcode": "318LADY-332",
-    "title": "みき",
+    "id": 532509,
+    "IDcode": "302GERK-224",
+    "title": "まおさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1323,288 +1231,66 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/318LADY-332.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-224.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-332"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-224"
   },
   {
-    "id": 197000,
-    "IDcode": "318LADY-348",
-    "title": "在校大二巨乳学生妹的颜射性爱",
+    "id": 532508,
+    "IDcode": "302GERK-225",
+    "title": "つばささん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-225.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-225"
+  },
+  {
+    "id": 532507,
+    "IDcode": "302GERK-226",
+    "title": "みひなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-226.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-226"
+  },
+  {
+    "id": 532479,
+    "IDcode": "302GERK-227",
+    "title": "とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-348"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-227"
   },
   {
-    "id": 196989,
-    "IDcode": "318LADY-350",
-    "title": "邀请18岁理科学生妹拍摄试验性玩具让她高潮后再好好享用",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-350"
-  },
-  {
-    "id": 197006,
-    "IDcode": "318LADY-351",
-    "title": "深夜访谈节目限定美少女带姐妹花去宾馆跟我们走就有酬劳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-351"
-  },
-  {
-    "id": 196953,
-    "IDcode": "318LADY-354",
-    "title": "以调查为由约了个性爱经验只有一人的19岁学生妹到宾馆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-354"
-  },
-  {
-    "id": 196743,
-    "IDcode": "318LADY-357",
-    "title": "丽娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-357"
-  },
-  {
-    "id": 491640,
-    "IDcode": "318LADY-423",
-    "title": "かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/2e02168002905405a7520ed57f20edab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-423"
-  },
-  {
-    "id": 491676,
-    "IDcode": "318LADY-424",
-    "title": "しずく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/8a575f9f71b36a08df7d3bf17326db29.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-424"
-  },
-  {
-    "id": 404997,
-    "IDcode": "318LADY-425",
-    "title": "【有码】みほの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9ee1d369c940ff973c0a8c62f6cbcbab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-425"
-  },
-  {
-    "id": 532653,
-    "IDcode": "318LADY-432",
-    "title": "ミンメイ (メイメイ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230604/pb_e_318lady-432.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-432"
-  },
-  {
-    "id": 532879,
-    "IDcode": "318LADY-435",
-    "title": "りさ (神无月れな)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231105/pb_e_318lady-435.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-435"
-  },
-  {
-    "id": 532878,
-    "IDcode": "318LADY-436",
-    "title": "みく (伊沢むつみ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231104/pb_e_318lady-436.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-436"
-  },
-  {
-    "id": 541978,
-    "IDcode": "318LADY-447",
-    "title": "あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/7T69cKS9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-447"
-  },
-  {
-    "id": 541979,
-    "IDcode": "318LADY-448",
-    "title": "ゆい，れい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/47sdK4BQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-448"
-  },
-  {
-    "id": 541988,
-    "IDcode": "318LADY-450",
-    "title": "かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240730/TUnoTfBI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-450"
-  },
-  {
-    "id": 541987,
-    "IDcode": "318LADY-452",
-    "title": "のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240730/AsEX8f0s/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-452"
-  },
-  {
-    "id": 479415,
-    "IDcode": "318LADY-453",
-    "title": "レイラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/89557f402bf52702fd8d542fce06b02c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-453"
-  },
-  {
-    "id": 541986,
-    "IDcode": "318LADY-454",
+    "id": 508723,
+    "IDcode": "302GERK-228",
     "title": "しおり",
     "year": "",
     "country": "",
@@ -1613,16 +1299,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240730/M7FrtPSf/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d2308fe5aed3085112dcb0597b10f84.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-454"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-228"
   },
   {
-    "id": 541985,
-    "IDcode": "318LADY-455",
-    "title": "のぞみ",
+    "id": 508717,
+    "IDcode": "302GERK-230",
+    "title": "みゆ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1630,16 +1316,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240730/nNB2Agk6/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/704dbc7fb16d611c95cd96ee85ee2e37.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-455"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-230"
   },
   {
-    "id": 541990,
-    "IDcode": "318LADY-456",
-    "title": "レイラ",
+    "id": 532506,
+    "IDcode": "302GERK-231",
+    "title": "エリー先生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1647,16 +1333,342 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://155.sl155cf.com/upload/vod/20221028/302GERK-231.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-231"
+  },
+  {
+    "id": 508734,
+    "IDcode": "302GERK-232",
+    "title": "なつき先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/53f7e13057672bb833833bb52ff77706.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-232"
+  },
+  {
+    "id": 508754,
+    "IDcode": "302GERK-233",
+    "title": "わか先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aaffe042e8ce194ae65de012dfd145a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-233"
+  },
+  {
+    "id": 508839,
+    "IDcode": "302GERK-234",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67ce26e2a0d314ee6ddab6593b49151a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-234"
+  },
+  {
+    "id": 508833,
+    "IDcode": "302GERK-235",
+    "title": "Hさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d61b10663e7104346b8814348fd96b77.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-235"
+  },
+  {
+    "id": 508746,
+    "IDcode": "302GERK-236",
+    "title": "Kさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/841fbdc4fd0e0f004c8d3c74dd8299f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-236"
+  },
+  {
+    "id": 530979,
+    "IDcode": "302GERK-237",
+    "title": "りお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/302GERK-237.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-237"
+  },
+  {
+    "id": 530977,
+    "IDcode": "302GERK-238",
+    "title": "アン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/302GERK-238.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-238"
+  },
+  {
+    "id": 531011,
+    "IDcode": "302GERK-241",
+    "title": "さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-241.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-241"
+  },
+  {
+    "id": 531009,
+    "IDcode": "302GERK-242",
+    "title": "かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-242.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-242"
+  },
+  {
+    "id": 530323,
+    "IDcode": "302GERK-243",
+    "title": "ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200729-1/9cc0a7c35898bd47ceccbd5b39ad4e53.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-243"
+  },
+  {
+    "id": 531010,
+    "IDcode": "302GERK-244",
+    "title": "みさと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-244.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-244"
+  },
+  {
+    "id": 529883,
+    "IDcode": "302GERK-304",
+    "title": "るか嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/7cbb042945e5f1a9dc2ad12db677e1a3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-304"
+  },
+  {
+    "id": 529881,
+    "IDcode": "302GERK-305",
+    "title": "あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/cb4fbe59301bac9a3f34f1ddad9ec2d5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-305"
+  },
+  {
+    "id": 529882,
+    "IDcode": "302GERK-306",
+    "title": "ゆりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/21906b880258ceb7134bfa9aeebdc9fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-306"
+  },
+  {
+    "id": 529879,
+    "IDcode": "302GERK-307",
+    "title": "りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/78a62b53cb793c0a43fe6cbddfbe63f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-307"
+  },
+  {
+    "id": 196983,
+    "IDcode": "302GERK-308",
+    "title": "隔壁新搬来的美女巨乳人妻巨乳是风俗女被我发现威胁内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/e47142fd/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-308"
+  },
+  {
+    "id": 196982,
+    "IDcode": "302GERK-310",
+    "title": "总是深夜加班的隔壁人妻做小姐被我发现成为我的内射工具",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/715d5b93/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-310"
+  },
+  {
+    "id": 196981,
+    "IDcode": "302GERK-312",
+    "title": "和经常去夜店玩的开的美女爽快的内射性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/83e06928/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-312"
+  },
+  {
+    "id": 196934,
+    "IDcode": "302GERK-317",
+    "title": "可爱女友主动出击让我体验一把风俗泡泡浴的感觉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-456"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-317"
   },
   {
-    "id": 541991,
-    "IDcode": "318LADY-457",
-    "title": "まどか",
+    "id": 508675,
+    "IDcode": "305TRUMG-088",
+    "title": "えりこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1664,16 +1676,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240731/Ke9Rbtel/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9a4f0e3c7bd78b0cfab4e5e59e27abde.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-457"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-088"
   },
   {
-    "id": 541993,
-    "IDcode": "318LADY-458",
-    "title": "りな",
+    "id": 575814,
+    "IDcode": "305TRUMG-089",
+    "title": "かな",
     "year": "",
     "country": "",
     "genre": "",
@@ -1681,16 +1693,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240731/CejSQxzO/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220926/GPnKOuhd/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-458"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-089"
   },
   {
-    "id": 541994,
-    "IDcode": "318LADY-459",
-    "title": "ゆきの",
+    "id": 575818,
+    "IDcode": "305TRUMG-090",
+    "title": "みやび",
     "year": "",
     "country": "",
     "genre": "",
@@ -1698,16 +1710,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240731/H7xsSQTb/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220926/HwrV3dRH/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-459"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-090"
   },
   {
-    "id": 541997,
-    "IDcode": "318LADY-462",
-    "title": "りこ",
+    "id": 575811,
+    "IDcode": "305TRUMG-091",
+    "title": "ゆりこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1715,16 +1727,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/82MMEbrI/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220926/HJyh3KME/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-462"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-091"
   },
   {
-    "id": 541999,
-    "IDcode": "318LADY-464",
-    "title": "わかなちゃん(19)専门学生",
+    "id": 529880,
+    "IDcode": "305TRUMG-123",
+    "title": "しょうこ36歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/9979697419377345854e9e2d2aadda55.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-123"
+  },
+  {
+    "id": 529878,
+    "IDcode": "305TRUMG-124",
+    "title": "ほのか33歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1732,388 +1762,10 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/OQKlIz3s/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/23b450ae2d70fedd1bafdabdb6248248.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-464"
-  },
-  {
-    "id": 541996,
-    "IDcode": "318LADY-470",
-    "title": "ゆうちゃん(19) 短大生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/2PCLLMGu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-470"
-  },
-  {
-    "id": 542000,
-    "IDcode": "318LADY-471",
-    "title": "りおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/o8aHmm7n/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-471"
-  },
-  {
-    "id": 541998,
-    "IDcode": "318LADY-472",
-    "title": "りおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/qE3KKMi9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-472"
-  },
-  {
-    "id": 542004,
-    "IDcode": "318LADY-473",
-    "title": "かれんちゃん(22) ピアノ讲师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240802/Vp9xYNLo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-473"
-  },
-  {
-    "id": 542002,
-    "IDcode": "318LADY-474",
-    "title": "えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240802/74ealsS8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-474"
-  },
-  {
-    "id": 542005,
-    "IDcode": "318LADY-475",
-    "title": "のどか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240802/6wBf336A/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=318LADY-475"
-  },
-  {
-    "id": 508935,
-    "IDcode": "320MMGH-179",
-    "title": "ゆか 必死に声を我慢する妹系女子〇生 初めての拘束おもちゃ体験",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/216b3eb23afdeb9a45e52140a9aad7b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-179"
-  },
-  {
-    "id": 508721,
-    "IDcode": "320MMGH-180",
-    "title": "ともか(21)マジックミラー号素人女子大生限定 100の質問中に突然デカチンを即ハメ！恥じらいつつも、連続ピストンでオマ○コぐちょ濡れ大絶頂！おまけに大洪水！スポーツ女子編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/69425d4dbbcb3c9ea6d6199bbc8b8dbc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-180"
-  },
-  {
-    "id": 521750,
-    "IDcode": "320MMGH-193",
-    "title": "りお(29)マジックミラー号心优しい子持ちのママがデカチン男性に素股奉仕 产后の敏感マ○コは我慢できずに骑乘位挿入で自ら腰を振ってイキまくり连続中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190911-1/824e41d8b2ee67aa434dfe13bf0620fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-193"
-  },
-  {
-    "id": 521783,
-    "IDcode": "320MMGH-195",
-    "title": "関西弁であえぎまくる マジックミラー号 in大阪あすか(25)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191022-1/1cc6c8dbfca8cbac16e81bb56f98fde2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-195"
-  },
-  {
-    "id": 521771,
-    "IDcode": "320MMGH-197",
-    "title": "目の前でムクムク大きくなるペニスにうっとり赤面女子〇生 ほのか(18)Gカップ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191014-1/1cc334810aced5e79db08423e0919bef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-197"
-  },
-  {
-    "id": 521780,
-    "IDcode": "320MMGH-198",
-    "title": "男性のオナニーを见るだけのアルバイト。女子〇生にはちょっぴり刺激が强すぎたようで、オナニーを见るだけでは终わらず・・・みゆき(18)Bカップ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191020-1/e429196ea6e41f10494380545c7547e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-198"
-  },
-  {
-    "id": 521812,
-    "IDcode": "320MMGH-206",
-    "title": "美人ライフセーバーが童贞君を优しく笔下ろし まな(25)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191227-1/d8826606bc344e45e0451ddb13dbc242.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-206"
-  },
-  {
-    "id": 521924,
-    "IDcode": "320MMGH-221",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのオイルマッサージ体験SP ニッキー(20)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200917-1/9d43e23fecc931fb04a2c5ec8bee1105.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-221"
-  },
-  {
-    "id": 521926,
-    "IDcode": "320MMGH-223",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのオイルマッサージ体験SP アンナ(24)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200917-1/f7105f461c60b9fd93f5fc62a489a7f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-223"
-  },
-  {
-    "id": 521925,
-    "IDcode": "320MMGH-224",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのナンパ本番成功祭SP シーネブラ(22)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200917-1/5da8a6056a80148a0c8233be6c446daf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-224"
-  },
-  {
-    "id": 521927,
-    "IDcode": "320MMGH-225",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのオイルマッサージ体験SP モナ(25)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200917-1/9eed0537897268ac22a6877982c20215.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-225"
-  },
-  {
-    "id": 521929,
-    "IDcode": "320MMGH-229",
-    "title": "マジックミラー号inヨーロッパ2019 初めてのナンパ本番成功祭SP アレサンドラ(19)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200613-1/fbf816641c80d545b0c58ffc83a63741.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=320MMGH-229"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-124"
   }
 ];

@@ -103,7 +103,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
       "publish_date": "2017-01-20",
       "cover_url": "https://sha.lashayu.com/dderwmzw-pic/image_20190222164045165419.jpg",

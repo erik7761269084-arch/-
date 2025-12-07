@@ -42,7 +42,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2019-12-12",
       "cover_url": "",
       "actress": [

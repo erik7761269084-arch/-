@@ -1,260 +1,64 @@
 window.PAGE_DATA = [
   {
-    "id": 98963,
-    "IDcode": "SDMM-010",
-    "title": "女子○生たちが新作リップのモニターではじめてのベロチュウ体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "业余",
-      "女同性恋",
-      "接吻",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2019-03-07",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210728-1/0f6beedd6d78b38d3dba24ec1ba2b43d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-010"
-  },
-  {
-    "id": 70299,
-    "IDcode": "SDMM-011",
-    "title": "大学卒業式を終えたばかりの友達同士の男女が初乗車！Hなゲームでお互いのオナニーを見せ合ったら火が付いて‘思い出SEX’までしてしまうのか！？4 マジックミラー号",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩棒",
-      "业余",
-      "自慰",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/efa08313d9156527c1a27c42188fa109.jpg",
-    "actress": [
-      "梦咲ひなみ",
-      "茜はるか",
-      "八寻麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-011"
-  },
-  {
-    "id": 70300,
-    "IDcode": "SDMM-012",
-    "title": "高嶺の花 キャビンアテンダント限定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "空中小姐",
-      "中文字幕",
-      "业余",
-      "足交",
-      "素人作品",
-      "连裤袜"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f2060e7465d72baa87fe99567036c3fc.jpg",
-    "actress": [
-      "黑川堇",
-      "妃月るい",
-      "桥本丽华",
-      "松下美织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-012"
-  },
-  {
-    "id": 595242,
-    "IDcode": "SDMM-013",
-    "title": "魔镜号～想不想变得更可爱去见男友？用着性感延展美容隔着魔镜对男友喷发潮水",
+    "id": 184441,
+    "IDcode": "SGM-058",
+    "title": "伊織涼子デビュー15周年記念特別作品 愛と欲望の熟女スナック物語",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/30d479a84d5fa2bf377547f0a8a694e5.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-058"
   },
   {
-    "id": 68516,
-    "IDcode": "SDMM-014",
-    "title": "女学生的第一个袅袅婷婷的黑色巨型小鸡",
+    "id": 60314,
+    "IDcode": "SGM-060",
+    "title": "翔田千里デビュー20周年記念特別作品 熟年不倫妻 歳を重ねて増した性欲を持て余す助平で淫らな人妻 中高年同士の濃厚交尾と若い燕を誘惑して満たす激しいセックス",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "深喉",
-      "黑人演员",
-      "业余",
-      "素人作品"
+      "人妻",
+      "单体作品",
+      "已婚妇女",
+      "中出",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4d49dffe27a5eb15cc1dffbec43e1239.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf0b04958ac04f27fb8e69/cover.jpg",
     "actress": [
-      "皆月光",
-      "幸田ユマ",
-      "苍井こころ"
+      "翔田千里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-060"
   },
   {
-    "id": 565506,
-    "IDcode": "SDMM-015",
-    "title": "魔镜号～出外景史上最强素人淫荡辣妹军！找来朋友任意大乱交！",
+    "id": 535843,
+    "IDcode": "SGM-10",
+    "title": "レズビアン异常同性爱エロマゾ淫乱交尾 SGM-10",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "乱交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4125475a52db4fefeafc317afda2e8c8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-10"
   },
   {
-    "id": 595196,
-    "IDcode": "SDMM-017",
-    "title": "魔镜号～雪山上发现的男女友人！要不要试试遇难对策？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d1dd758ab59d563dec86c6ceb5de1ebd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-017"
-  },
-  {
-    "id": 595157,
-    "IDcode": "SDMM-019",
-    "title": "魔术镜号in欧洲 海外外景 搭讪日本人喜欢的可爱淫荡真实欧洲素人女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/673920923673802e1c9e598e289a9728.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-019"
-  },
-  {
-    "id": 595133,
-    "IDcode": "SDMM-020",
-    "title": "魔镜号 搭讪来滑雪场的幸福新婚夫妇！老公就在眼前出轨！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/jwcfdLUX.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-020"
-  },
-  {
-    "id": 532013,
-    "IDcode": "SDMM-021",
-    "title": "卒业式シーズン到来 憧れの大好きな先生と2人っきり！“はじめての女性（ルビひと）は先生がいい…”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/e8BczGO1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-021"
-  },
-  {
-    "id": 595093,
-    "IDcode": "SDMM-023",
-    "title": "在街上找到很久没做爱的人妻 装做是处男的絶伦男 多次让她达到高潮 也不停止、不断抽插到脚都浮上来了 超激烈活塞抽插！！",
+    "id": 470166,
+    "IDcode": "SGM-11",
+    "title": "人妻捕鯨船 五十歲泳裝美熟女 大量潮吹檔案 音羽文子",
     "year": "",
     "country": "",
     "genre": "",
@@ -262,693 +66,1106 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/8xa5lz6p.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a09cb805de9f92f0d083dd/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-11"
   },
   {
-    "id": 70294,
-    "IDcode": "SDMM-024",
-    "title": "素人娘たちの大胆SEX",
+    "id": 535842,
+    "IDcode": "SGM-12",
+    "title": "レズビアン异常同性爱エロマゾ淫乱交尾 SGM-12",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-12"
+  },
+  {
+    "id": 535841,
+    "IDcode": "SGM-15",
+    "title": "レズビアン异常同性爱エロマゾ淫乱交尾 SGM-15",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-15"
+  },
+  {
+    "id": 516031,
+    "IDcode": "SGM-20",
+    "title": "性騷擾重現檔案 緊身褲家政婦豐臀被O",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68ff24a9dd88d14f0657e190/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-20"
+  },
+  {
+    "id": 516020,
+    "IDcode": "SGM-22",
+    "title": "性騷擾重現檔案 緊身褲下流家政婦豐臀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/690198aa958ac04f2759db9a/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-22"
+  },
+  {
+    "id": 516064,
+    "IDcode": "SGM-29",
+    "title": "性騷擾重現檔案 緊身褲下流家政婦豐臀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f86ddddbf24d4ed3429e32/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-29"
+  },
+  {
+    "id": 549971,
+    "IDcode": "SGM-39",
+    "title": "感染家族 スケベなウィルスでパンデミック！？ 感染したらセックスしたくて仕方なくなる発情率100％のエロナウィルスが蔓延",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231207/143sgm39pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-39"
+  },
+  {
+    "id": 492481,
+    "IDcode": "SGM-48",
+    "title": "新・麗しの熟女湯屋 濃厚ねっとり高級ソープ 川上憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a208a1d37a28804250e9b536da4f3ac9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-48"
+  },
+  {
+    "id": 516185,
+    "IDcode": "SGM-49",
+    "title": "緊身褲下流家政婦豐臀被OO中出！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbbfd0ce5a404e9bc0c7d3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-49"
+  },
+  {
+    "id": 550631,
+    "IDcode": "SGOR-013",
+    "title": "ビッチマダムの男渔り～挿れて欲しくて咥えこんじゃう淫乱オンナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250226/aS40e6Zr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-013"
+  },
+  {
+    "id": 550634,
+    "IDcode": "SGOR-014",
+    "title": "肉食ドSなお姊さまに弄られいびられイカされる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250226/v9Ff5nxn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-014"
+  },
+  {
+    "id": 550633,
+    "IDcode": "SGOR-015",
+    "title": "だらしないデブM男をお仕置き制裁！スパルタS女の爱のムチ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250226/2bqI8hGN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-015"
+  },
+  {
+    "id": 550632,
+    "IDcode": "SGOR-016",
+    "title": "思い通りに男を诱惑！己の性癖に正直なド淫乱オンナ！#绫波えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250226/z3ZngMNw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-016"
+  },
+  {
+    "id": 61497,
+    "IDcode": "SGOR-018",
+    "title": "カワイイ系女子が見せるSッ気にM男大興奮！虐められたい欲望ノンストップ！木崎ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-018"
+  },
+  {
+    "id": 61499,
+    "IDcode": "SGOR-019",
+    "title": "従僕M男を育成するS女お姉さん～苦しむお顔をもっと見せて◆春野ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-019"
+  },
+  {
+    "id": 96276,
+    "IDcode": "SGOR-020",
+    "title": "M男でストレス発散！叩いて抓って絞り採る！坂田穂波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "坂田穂波"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-020"
+  },
+  {
+    "id": 95902,
+    "IDcode": "SGOR-022",
+    "title": "ダメ男にイライラするほど欲情しちゃう天然ドS女宇佐美唯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宇佐美唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-022"
+  },
+  {
+    "id": 588759,
+    "IDcode": "SGOR-023",
+    "title": "喜欢那种情绪高涨突然袭来的漂亮姐姐吗 山村妮娜 山村妮娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250804-1/ac68aa44ad80300a23c5fcbe71a3f438.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-023"
+  },
+  {
+    "id": 218785,
+    "IDcode": "SGRS-006",
+    "title": "喜欢丈夫死亡的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-006"
+  },
+  {
+    "id": 218250,
+    "IDcode": "SGRS-009",
+    "title": "骚扰女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-009"
+  },
+  {
+    "id": 218389,
+    "IDcode": "SGRS-010",
+    "title": "新説堕落論女教師篇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-010"
+  },
+  {
+    "id": 218334,
+    "IDcode": "SGRS-011",
+    "title": "不倫中毒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-011"
+  },
+  {
+    "id": 218464,
+    "IDcode": "SGRS-013",
+    "title": "使用武力占有同事的妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-013"
+  },
+  {
+    "id": 218432,
+    "IDcode": "SGRS-015",
+    "title": "年轻妻子的自白-初美沙希 椎名ゆうき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-015"
+  },
+  {
+    "id": 217741,
+    "IDcode": "SGRS-016",
+    "title": "sgrs-016 旅館家族",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-016"
+  },
+  {
+    "id": 218870,
+    "IDcode": "SGRS-017",
+    "title": "未亡人-藤江由恵 白咲まりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-017"
+  },
+  {
+    "id": 218293,
+    "IDcode": "SGRS-019",
+    "title": "淫乱的欲望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-019"
+  },
+  {
+    "id": 218421,
+    "IDcode": "SGRS-020",
+    "title": "我不会原谅你",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-020"
+  },
+  {
+    "id": 69339,
+    "IDcode": "SGRS-021",
+    "title": "被骗的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "故事集",
+      "巨乳",
+      "高中女生",
+      "妹妹",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吉川いと",
+      "手冢みや",
+      "橘咲良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-021"
+  },
+  {
+    "id": 68110,
+    "IDcode": "SGRS-022",
+    "title": "変態家族日常記録",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "故事集",
+      "巨乳",
+      "已婚妇女",
+      "乱伦",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吉川いと",
+      "月岛杏奈",
+      "咲本はるか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-022"
+  },
+  {
+    "id": 224146,
+    "IDcode": "SGRS-024",
+    "title": "夺取属于别人的东西的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-024"
+  },
+  {
+    "id": 218842,
+    "IDcode": "SGRS-025",
+    "title": "肉欲接吻地獄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-025"
+  },
+  {
+    "id": 516501,
+    "IDcode": "SGSPS-022",
+    "title": "這個女人超變態。 第三卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fe0d79dd88d14f0655d270/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSPS-022"
+  },
+  {
+    "id": 563193,
+    "IDcode": "SGSR-135",
+    "title": "実际にあった！？ 噂の极上（暗）性感エステ潜入 4时间 究极の里メニュー编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-135"
+  },
+  {
+    "id": 102983,
+    "IDcode": "SGSR-172",
+    "title": "娘の前で女に戻っちゃうイケナイ母親12連発！！ 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "已婚妇女",
+      "乱伦",
+      "素人作品",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2016-09-25",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57sgsr172/57sgsr172pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-172"
+  },
+  {
+    "id": 578643,
+    "IDcode": "SGSR-217",
+    "title": "_A 病院にはバレたくないから…25时～28时限定 谁も知らな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-217"
+  },
+  {
+    "id": 70774,
+    "IDcode": "SGSR-223",
+    "title": "お酒のシーズン到来！！ ずっと気になってた可愛い同僚女子社員を酔わせて理性吹っ飛び濃厚SEX 12人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "烂醉如泥的",
+      "OL",
+      "4小时以上作品",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e781bda58b7a7c25c4c8ecde96506d47.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-223"
+  },
+  {
+    "id": 70588,
+    "IDcode": "SGSR-233",
+    "title": "裏 人妻専門マッサージ店の実態 敏感な部分をなでられ揉まれ、イジられて最後はおマ○コまでほぐされてしまった奥様12人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "恶作剧",
+      "偷窥",
+      "素人作品",
+      "按摩",
+      "4小时以上作品",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/509b7f1e86c334e6d69840bb5e8db709.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-233"
+  },
+  {
+    "id": 70821,
+    "IDcode": "SGSR-235",
+    "title": "撮影後も勝手に、勃起チ●コ見て潮吹きオナニーしまくるくらい、ドスケベなお姉さんたちが、生マ●コを見た事がない童貞オタク男子たちを筆下ろししまくる 濃密14人BEST 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "潮吹",
+      "处男",
+      "乳房",
+      "素人作品",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2f31ba36ea379c1a852e274e565d3e73.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-235"
+  },
+  {
+    "id": 595096,
+    "IDcode": "SGSR-237",
+    "title": "生啤的季节来临！！ 将一直在意的可爱女员工灌醉 理性崩溃的浓厚SEX 12人4小时 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/375s8mXa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-237"
+  },
+  {
+    "id": 578933,
+    "IDcode": "SGSR-239",
+    "title": "病院にはバレたくないから…25时～28时限定 谁も知らない平日深夜限定の美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191011-1/2e4be3b5fe627f15e0994599b6e04c31.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-239"
+  },
+  {
+    "id": 595023,
+    "IDcode": "SGSR-240",
+    "title": "被搭讪的好色素人女性们",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/254eb3f572fab987acd398192713caa5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-240"
+  },
+  {
+    "id": 590466,
+    "IDcode": "SGSR-241",
+    "title": "ビッチでエッチなニューハーフ达！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-241"
+  },
+  {
+    "id": 165483,
+    "IDcode": "SGSR-242",
+    "title": "ナンパされたエッチな素人女性たち 家族や友",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "业余",
-      "素人作品",
-      "巨乳",
-      "企画"
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0f27b8fffe40227f0a4d4f39821bf331.jpg",
-    "actress": [
-      "沙藤由梨",
-      "ゆうき",
-      "タツ",
-      "梦咲ひなみ",
-      "后藤里香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-024"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-242"
   },
   {
-    "id": 74042,
-    "IDcode": "SDMM-025",
-    "title": "お花見中のホロ酔い女子大生3人組や人妻3人組が巨チン男と人生初のハーレム4P体験！！～花びら大回転！ハメ比べをして今春1番の気持ちいいマ○コを探しちゃいます～ マジックミラー号",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "人妻",
-      "女大学生",
-      "已婚妇女",
-      "多P",
-      "业余",
-      "素人作品",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2019-07-11",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250112-1/0280329a3b1173e16d30be0aee70d0a3.jpg",
-    "actress": [
-      "雨村梨花",
-      "亜矢みつき",
-      "七瀬りん",
-      "森林原人",
-      "黒宫えいみ",
-      "七瀬もな",
-      "滝川穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-025"
-  },
-  {
-    "id": 153450,
-    "IDcode": "SDMM-026",
-    "title": "夏季篇逆轉魔鏡號不知道被許多人看著地大膽展現激烈高潮姿態PART3好評第三彈",
+    "id": 567446,
+    "IDcode": "SGSR-243",
+    "title": "10年ぶりの复活一度は见てみたい浓厚熟熟野獣ファック4时间第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67816a36c179ffb1db6dfc7d/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-243"
   },
   {
-    "id": 556600,
-    "IDcode": "SDMM-028",
-    "title": "魔镜限高学历想当播音员的女大学生！ “为什么不体验一下女播音员的采访呢？” !! 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230603-1/6c327469b05b53b8828ed25c7b42ba7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-028"
-  },
-  {
-    "id": 70298,
-    "IDcode": "SDMM-029",
-    "title": "出張マジックミラー号 大阪編 威勢のいい関西弁から一転！激ピスをすると「アカン！イってまう！」などとドエロい甘い言葉を連発！",
+    "id": 567557,
+    "IDcode": "SGSR-246",
+    "title": "_Aナンパされたエッチな素人女性たち年下チ〇ポに濡れたぎるムッツリ熟女4时间Part1第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-246"
+  },
+  {
+    "id": 98491,
+    "IDcode": "SGSR-247",
+    "title": "ノンケ素人娘の初レズ体験 女性器が女性器をイカせる レズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "素人作品",
       "4小时以上作品",
-      "猎艳",
-      "业余"
+      "女同性恋",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/08733f047089e03f32ddfa7e6efd41de.jpg",
-    "actress": [
-      "ゆうき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-029"
-  },
-  {
-    "id": 165443,
-    "IDcode": "SDMM-032",
-    "title": "出張！マジックミラー号 大阪編 悪戯されても、ハメら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
+    "company": "",
+    "publish_date": "2019-11-23",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-247"
   },
   {
-    "id": 165444,
-    "IDcode": "SDMM-033",
-    "title": "マジックミラー号でおっぱいランニング 運動直後の",
+    "id": 83145,
+    "IDcode": "SGSR-248",
+    "title": "ナンパされたエッチな素人女性たち 見ず知らずの男に口説かれイジられ発情しちゃったドシロウト女子大生 4時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-033"
-  },
-  {
-    "id": 465972,
-    "IDcode": "SDMM-034",
-    "title": "魔鏡號「介紹好色的砲友吧？」在街頭問輕浮男結果來了超下流女OO！ 下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbe284ce5a404e9bc1ab5c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-034"
-  },
-  {
-    "id": 165445,
-    "IDcode": "SDMM-035",
-    "title": "マジックミラー号",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-035"
-  },
-  {
-    "id": 165446,
-    "IDcode": "SDMM-037",
-    "title": "「マジックミラー号をおっぱいで洗ってください！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/67853d958a48711d81b838df/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-037"
-  },
-  {
-    "id": 165447,
-    "IDcode": "SDMM-041",
-    "title": "観客は●校時代の同級生 逆転マジックミラー号「",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-041"
-  },
-  {
-    "id": 466044,
-    "IDcode": "SDMM-043",
-    "title": "魔鏡號 等不及入社！來到SOD女子社員拍片現場的實習生小穴濕透！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d49f06e4a73d4f15a1835b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-043"
-  },
-  {
-    "id": 79000,
-    "IDcode": "SDMM-044",
-    "title": "逆転マジックミラー号 自慢のムチ尻で抜きまくれ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "猎艳",
       "业余",
-      "中出",
       "素人作品",
-      "企画",
-      "女上位",
-      "处男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-044"
-  },
-  {
-    "id": 78048,
-    "IDcode": "SDMM-045",
-    "title": "マジックミラー号 ミニスカートが似合う現役女子大生に「",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "潮吹",
-      "女大学生",
-      "恶作剧",
-      "手指插入",
-      "中文字幕",
-      "美少女电影",
-      "素人作品",
-      "企画",
-      "迷你裙"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4e7c14a777cb03427771cf9238f640ce.jpg",
-    "actress": [
-      "ゆうき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-045"
-  },
-  {
-    "id": 75993,
-    "IDcode": "SDMM-046",
-    "title": "用有奖问答把母女邀请到魔镜号上循循利诱成功双飞最后当着女儿面把精液射满老妈的阴道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
       "猎艳",
-      "业余",
-      "中出",
-      "素人作品",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "神楽アイネ",
-      "夏原唯",
-      "菊市桃子",
-      "相浦茉莉花",
-      "高瀬智香",
-      "西宫纪香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-046"
-  },
-  {
-    "id": 75044,
-    "IDcode": "SDMM-047",
-    "title": "邀请快要结婚的情侣到魔镜号体验按摩等男朋友在外面等候的时候突然换成了猥琐男技师无套爆操内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白天出轨",
-      "猎艳",
-      "情侣",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/494581577a0d4c1d9359a1d16df30422.jpg",
-    "actress": [
-      "吉泽ひかり",
-      "管野静香",
-      "悠月リアナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-047"
-  },
-  {
-    "id": 83154,
-    "IDcode": "SDMM-050",
-    "title": "大学生カップル限定 マジックミラー号 彼女さん！彼氏のチ○ポはど～れだ？当てられなけりゃ NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女大学生",
-      "羞耻",
-      "白天出轨",
-      "淫妻",
-      "情侣",
-      "业余",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/067831c2b576c2ab5d66038b8d42fa27.jpg",
-    "actress": [
-      "富田优衣",
-      "貓宮美結",
-      "ゆうき",
-      "须崎まどか",
-      "宇佐木あいか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-050"
-  },
-  {
-    "id": 533835,
-    "IDcode": "SDMM-051",
-    "title": "_A マジックミラー号 どうしても内定が欲しい就活中の女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210815-1/aa1ff1699b995ef5acf28e5a0d3abd87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-051"
-  },
-  {
-    "id": 81981,
-    "IDcode": "SDMM-052",
-    "title": "出産後の巨尻化にお悩みの奥様限定！マジックミラー号でエクササイズしてみませんか？イケメンムキムキトレーナーと旦那の前でガニ股イキまくりSEX！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "已婚妇女",
-      "巨大屁股",
-      "猎艳",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2020-02-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/1936e26d3ab57f162563c58561579061.jpg",
-    "actress": [
-      "貓宮美結",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-052"
-  },
-  {
-    "id": 83788,
-    "IDcode": "SDMM-053",
-    "title": "マジックミラー号作品集 若気の至りで乗車した女子○生50人 カワイイ娘だけ厳選！！ALL本番2枚組8時間SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "4小时以上作品",
-      "中出",
+      "女大学生",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-248"
+  },
+  {
+    "id": 83137,
+    "IDcode": "SGSR-249",
+    "title": "お酒のシーズン到来！！ 普段は地味で清楚だけどパリピデビューの女の子を酔わせて理性吹っ飛び濃厚SEX 15人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "4小时以上作品",
       "素人作品",
-      "巨乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-249"
+  },
+  {
+    "id": 82031,
+    "IDcode": "SGSR-250",
+    "title": "ナンパされたエッチな素人女性たち 厳選鉄板人妻セレクション 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "精选，综合",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2020-02-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-053"
-  },
-  {
-    "id": 593049,
-    "IDcode": "SDMM-054",
-    "title": "マジックミラー号 美熟女 vs 年下イケメン 痉挛絶顶中出しナンパ in 池袋西口百货店前",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-054"
-  },
-  {
-    "id": 165441,
-    "IDcode": "SDMM-055",
-    "title": "大ヒット御礼！！過去最多・最長4人約4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-055"
-  },
-  {
-    "id": 81979,
-    "IDcode": "SDMM-056",
-    "title": "マジックミラー号「童貞くんのオナニーのお手伝いしてくれませんか…」スポーツに本気で打ち込む体育大学の女子生徒が 童貞くんを赤面筆おろし！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "业余",
-      "自慰",
+      "人妻",
+      "已婚妇女",
       "猎艳",
-      "处男"
+      "4小时以上作品",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2020-03-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/e32f49032a3558b85bde7fe34e7d06db.jpg",
+    "company": "",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/12d121ad4103a46b9feae6a9a3b75d5a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-250"
   },
   {
-    "id": 533834,
-    "IDcode": "SDMM-057",
-    "title": "B マジックミラー号 同じ大学に通う男女がミラー号内でマッチング！？ カメラの前でイチャラブ本気中出し",
+    "id": 544201,
+    "IDcode": "SGSR-313",
+    "title": "都合のイイお义母さん息子の肉オナホとしてしたい时にさせる熟母4时间12人第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-313"
   },
   {
-    "id": 82177,
-    "IDcode": "SDMM-058",
-    "title": "‘SNS映え’大好き女子大生 個人撮影inマジックミラー号 巨乳肉感JD全員彼氏持ち4名 承認欲求につけ込んでミラー号に連れ込み！そのままハメ撮りAV発売！",
+    "id": 534689,
+    "IDcode": "SGSR-318",
+    "title": "エロぃぃeeeeeヤリマン即ハメJD 野外露出で！ものすごいエロ体験をした、二度见するほど激カワ女子大生12人 4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230819/57sgsr318pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-318"
+  },
+  {
+    "id": 534688,
+    "IDcode": "SGSR-319",
+    "title": "街角シロウト寝取られ人妻ちゃんねる 最高の寝取らせ！対决最高の寝取られ！最高の不伦 鉄板中出しシチュエーション4时间12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "羞耻",
-      "4小时以上作品",
-      "白天出轨",
-      "业余",
-      "巨乳",
-      "第一人称摄影"
+      "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/193dc8d3e5bb4adecd3af1401947c0a9.jpg",
-    "actress": [
-      "藤森里穂",
-      "緒川春",
-      "ゆうき",
-      "久远れいら",
-      "川岛せいら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-058"
+    "cover_url": "http://15.155250922.com/upload/vod/20230819/57sgsr319pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-319"
   },
   {
-    "id": 578642,
-    "IDcode": "SDMM-062",
-    "title": "制服少女inNTRマジックミラー号女子○生限定おっぱいモミモミ我慢ゲーム",
+    "id": 572433,
+    "IDcode": "SGSR-320",
+    "title": "リアルモニタリング実験 彼氏とは3か月以上SEXしていないィと言う彼女たちを素人男と密室でガチ初対面させて“キスだけ”をお愿いしたカレカノゲーム new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic54.anzise.com/pic/20230526/5626d44f14cfb00f3049c93df90d24fe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-320"
+  },
+  {
+    "id": 564521,
+    "IDcode": "SGSR-323",
+    "title": "街角シロウトマジ可爱ぃロ○娘ちゃんねる はじめての素股で大兴奋！押しに弱い彼女たちのAVデビュ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230420/0DZjJnVz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-323"
+  },
+  {
+    "id": 549060,
+    "IDcode": "SGSR-325",
+    "title": "街角シロウト母娘ちゃんねる 美丽で清楚な母とマジ可爱い娘を同时に责める亲子丼SEX 4时间 10组",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230606/kuwZdlMW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-325"
+  },
+  {
+    "id": 546870,
+    "IDcode": "SGSR-326",
+    "title": "激ヤバ映像 思うままに熟女をぶっ壊し动画 解き放て、野性。污される熟女4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/c1XFyLUG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-326"
+  },
+  {
+    "id": 546867,
+    "IDcode": "SGSR-327",
+    "title": "街角シロウト浓厚熟女ちゃんねる 神対応してくれた奇迹の美熟女 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/dPFpFVCp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-327"
+  },
+  {
+    "id": 546868,
+    "IDcode": "SGSR-328",
+    "title": "都合のイイお义母さん 息子の肉オナホとしてしたい时にさせる 熟母2 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/GasFR8pL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-328"
+  },
+  {
+    "id": 546865,
+    "IDcode": "SGSR-329",
+    "title": "絶対ヤレル！！“えっアナルですか？そんなの无理无理”と言うエロカワ女子に无理やりケツ穴开通！失",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/OzyHVOAP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-329"
+  },
+  {
+    "id": 546864,
+    "IDcode": "SGSR-330",
+    "title": "超エロスレンダー娘も纯真无垢ロ○娘もくい込みビキニギャル 水着のギャルをヤリまくり 13人4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/jLihgjht/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-330"
+  },
+  {
+    "id": 546863,
+    "IDcode": "SGSR-331",
+    "title": "街角シロウト五十路·四十路熟女ちゃんねる こんなおばさんだって口说かれてSEXシタイのよ～だっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/IZgI9MMk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-331"
+  },
+  {
+    "id": 546862,
+    "IDcode": "SGSR-332",
+    "title": "リアルモニタリング実験 深夜の入院病栋で人妻看护师にエッチをお愿いしてみたら…噂は本当だった",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/IZCtmKP6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-332"
+  },
+  {
+    "id": 546860,
+    "IDcode": "SGSR-333",
+    "title": "素人プレイ！プレイ！プレイ！ Hamedori动画 奇迹的に全员绮丽な人妻との密室洗脳ハメドリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/ai1tM9Fj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-333"
+  },
+  {
+    "id": 563313,
+    "IDcode": "SGSR-335",
+    "title": "街角シロウト鬼イカセ人妻ちゃんねる【イキ过ぎ注意】人妻たちがガチイキする冲撃瞬间これはエロいわ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230925/iRf9EBRl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-335"
+  },
+  {
+    "id": 546859,
+    "IDcode": "SGSR-336",
+    "title": "素人プレイ！プレイ！プレイ！ Hamedori动画 冻结された里垢でバズっていた、奇迹的な密室",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/nHBjD8jf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-336"
+  },
+  {
+    "id": 516974,
+    "IDcode": "SGSR-338",
+    "title": "被爐特化角度NTR近親相姦！ 在",
     "year": "",
     "country": "",
     "genre": "",
@@ -956,610 +1173,16 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8620ddbf24d4ed342888a/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-062"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-338"
   },
   {
-    "id": 209255,
-    "IDcode": "SDMM-063",
-    "title": "看護師限定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-063"
-  },
-  {
-    "id": 107372,
-    "IDcode": "SDMM-064",
-    "title": "男の潮吹き初挑戦-奏音かのん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "荡妇",
-      "手淫",
-      "M男"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdmm064/1sdmm064pl.jpg",
-    "actress": [
-      "奏音花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-064"
-  },
-  {
-    "id": 538865,
-    "IDcode": "SDMM-067",
-    "title": "河北春菜- 女子校生限定 彼女さん！彼氏のチ○ポ当ててください！！ in マジックミラー号",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241014/VIuOmvFF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-067"
-  },
-  {
-    "id": 559829,
-    "IDcode": "SDMM-070",
-    "title": "绝对不会争吵的干净利落的少女VS放荡事件熟练的母狗洗脑战无限臀部摆动大暨SP警卫误导一个硬女人并吞噬Ji端口",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/8b7fdfb9612ae2d1eb7b5fcd996bb316.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-070"
-  },
-  {
-    "id": 594897,
-    "IDcode": "SDMM-073",
-    "title": "无袖女孩限定“有腋下除毛吗？”人生初次的腋下打手枪体验ALL腋下喷射！6位收录 里面还有2位搭讪做爱了！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/a39cf31d18171a79ae1daab7ca005101.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-073"
-  },
-  {
-    "id": 70277,
-    "IDcode": "SDMM-078",
-    "title": "マジックミラー号 看護師限定 「絶倫ち○ぽ診察してくれませんか？」勃起が収まらなくて困っている男性をあの手この手で優しく導く白衣の天使たち2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "猎艳",
-      "护士",
-      "业余",
-      "手淫",
-      "颜射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ceb8e4b8db5c34fcea92609569138ae1.jpg",
-    "actress": [
-      "日泉舞香",
-      "タツ",
-      "藤森朱音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-078"
-  },
-  {
-    "id": 70285,
-    "IDcode": "SDMM-079",
-    "title": "マジックミラー号「無料エステ体験！」の募集に来た女子の全身をヌルテカオイルマッサージ 地味な見た目とは裏腹に何度も激イキする隠れ巨乳女子！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "乳液",
-      "业余",
-      "巨乳",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a599acc2b7830bd2f3d8c0841dd520e0.jpg",
-    "actress": [
-      "鲛岛",
-      "タツ",
-      "皆川ゆうな",
-      "凪泽诗音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-079"
-  },
-  {
-    "id": 572380,
-    "IDcode": "SDMM-081",
-    "title": "マジックミラー号 女子○生×センズリチ○ポ ドキドキ相互オナニー鉴赏会 自らの手でヌメヌメに仕上げた未熟マ○コに目の前でシコッた勃起チ○ポを挿入 new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-081"
-  },
-  {
-    "id": 589291,
-    "IDcode": "SDMM-082",
-    "title": "魔镜一共十二人！泳装美女3片2碟480分钟！只有用那只手制作成功的孩子才会被记录SP！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/26875_cover_2025-09-10_155251.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-082"
-  },
-  {
-    "id": 86127,
-    "IDcode": "SDMM-087",
-    "title": "橡塑自行车",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "业余",
-      "女大学生",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8f0915b6882aa3dc1ad131706625c894.jpg",
-    "actress": [
-      "神野藍",
-      "うららか丽",
-      "凑ひめか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
-  },
-  {
-    "id": 565505,
-    "IDcode": "SDMM-092",
-    "title": "逆转魔镜号部分7 高岭之花CA篇 不想看优雅国际线空姐们的性爱吗！？在不知道会被多人看到的情况下，大胆做爱高潮的身姿！4小时4人收录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/47b25cf7505b0fd50c2d815abcd00755.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-092"
-  },
-  {
-    "id": 212163,
-    "IDcode": "SDMM-093",
-    "title": "修学旅行生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-093"
-  },
-  {
-    "id": 213976,
-    "IDcode": "SDMM-094",
-    "title": "她的男朋友是个很好的人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-094"
-  },
-  {
-    "id": 79262,
-    "IDcode": "SDMM-095",
-    "title": "マジックミラー号 巨乳ベビーカーママさん限定！「乳もみ検診」と称して産後で3倍敏感になったおっぱいを執拗なまでにこねくり回す！ ママ友の前で感じてしまったら最後、旦那以外のち○ぽで痙攣イキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "业余",
-      "中出",
-      "巨乳",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2021-07-08",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-095"
-  },
-  {
-    "id": 441408,
-    "IDcode": "SDMM-09501",
-    "title": "107 マジックミラー号 巨乳ベビーカーママさん限定！「乳もみ検診」と称して産後で3倍敏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-09501"
-  },
-  {
-    "id": 441407,
-    "IDcode": "SDMM-09503",
-    "title": "107 マジックミラー号 巨乳ベビーカーママさん限定！「乳もみ検診」と称して産後で3倍敏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-09503"
-  },
-  {
-    "id": 97789,
-    "IDcode": "SDMM-099",
-    "title": "假装处男的绝伦男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "潮吹",
-      "恶作剧",
-      "猎艳",
-      "业余"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-099"
-  },
-  {
-    "id": 80146,
-    "IDcode": "SDMM-102",
-    "title": "MINAMO×天宮花南 Wキャスト【マジックミラー号25周年記念作品】真夏の海でファン感 童貞筆おろし 逆ナンパ 全部やっちゃいます",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "泳装",
-      "荡妇",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "2021-11-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/41e8514d2fd4bcd8c10622e3aa45dace.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-102"
-  },
-  {
-    "id": 86188,
-    "IDcode": "SDMM-104",
-    "title": "無沙汰欲求不満妻7名収録",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4f20478531d839abc13dcdd9f02142a3.jpg",
-    "actress": [
-      "はないしずく",
-      "一宫みかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-104"
-  },
-  {
-    "id": 81158,
-    "IDcode": "SDMM-108",
-    "title": "看護師限定 童貞くんを赤面筆おろし…のはずが実は絶倫AV男優 失禁・痙攣お構いなし何度イっても止まらない激ピストンでイカせる!【マジックミラー号25周年記念作品】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "业余",
-      "口交",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ed3c1d45dc88a2effd5579aaaf66e732.jpg",
-    "actress": [
-      "日々樹梨花",
-      "朝比奈かれん",
-      "珠未みさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-108"
-  },
-  {
-    "id": 86171,
-    "IDcode": "SDMM-109",
-    "title": "服务性的性爱-紗倉まな 小倉由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ff6ba539e2b5f5478bbcddf86b7dcf76.jpg",
-    "actress": [
-      "小倉由菜",
-      "纱仓真菜",
-      "清水健"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-109"
-  },
-  {
-    "id": 565504,
-    "IDcode": "SDMM-111",
-    "title": "マジックミラー号 カップル既婚者限定で寝取り中出し初挑戦！！男潮あり！乳首责めあり！问答无用の痴女テク连発逆ナンパSP あべみかこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1cd601831f3379dc1753351a66e6a20a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-111"
-  },
-  {
-    "id": 104750,
-    "IDcode": "SDMM-11205",
-    "title": "と称して生おっぱいをモミモミしながらインタビュー 清純そうな見た目からは想像もつかない超ドえろ発言連発！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "业余",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-11205"
-  },
-  {
-    "id": 184086,
-    "IDcode": "SDMM-11206",
-    "title": "と称して生おっぱいをモミモミしながらインタビュー 清純そうな見た目からは想像もつかない超ドえろ発言連発！敏感な美乳をもみほぐされて激ピストンでイキまくり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-11206"
-  },
-  {
-    "id": 565503,
-    "IDcode": "SDMM-115",
-    "title": "マジックミラー号 1分间で1万円！チキチキ指入れ痴汉で声我慢チャレンジ！凄テクAV男优の妙技で全身をまさぐり失禁、痉挛、大絶顶！ IN船桥 素人娘5名収录",
+    "id": 546861,
+    "IDcode": "SGSR-339",
+    "title": "【激胸アツ！素人四十路熟女のアナルSEX动画】素人熟女のアナル解禁ドキュメント 本当はどうなの",
     "year": "",
     "country": "",
     "genre": "",
@@ -1567,448 +1190,432 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/93c6c3d26b8270d2705013f2f808f8d7.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240112/NFsp5YPi/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-339"
   },
   {
-    "id": 68533,
-    "IDcode": "SDMM-116",
-    "title": "在两天内总共射了10次-古川いおり",
+    "id": 546857,
+    "IDcode": "SGSR-340",
+    "title": "街角シロウトGカップ爆乳ちゃんねる 従顺ビッチ美女オッパイとヤリ放题 4时间12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/K1YZurER/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-340"
+  },
+  {
+    "id": 546858,
+    "IDcode": "SGSR-341",
+    "title": "都合のイイお义母さん 息子の肉オナホとしてしたい时にさせる 熟母 4时间12人 03",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240112/tOWrXgGo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-341"
+  },
+  {
+    "id": 562028,
+    "IDcode": "SGSR-342",
+    "title": "街角シロウト絶品人妻ちゃんねる ガチでイクッ！不伦セックスの天才人妻 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240129/he48amO7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-342"
+  },
+  {
+    "id": 562022,
+    "IDcode": "SGSR-343",
+    "title": "リピーター続出！！【これって违法风俗では】本当は谁にも教えたくないメンズエステ 密室での二人っ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240131/EGNHUAF7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-343"
+  },
+  {
+    "id": 546043,
+    "IDcode": "SGSR-344",
+    "title": "都合のイイ连れ子 禁断のピチピチ肉オナホとしてしたい时に出来る 连れ子 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240316/0CQhqDw4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-344"
+  },
+  {
+    "id": 546042,
+    "IDcode": "SGSR-345",
+    "title": "街角シロウト人妻ちゃんねる 絶対ヤレル！！マッチングアプリで会えるヤリモク人妻 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240316/Gd6jXqbc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-345"
+  },
+  {
+    "id": 561223,
+    "IDcode": "SGSR-347",
+    "title": "【ヤリ放题·孕ませ注意】旦那と半年以上SEXしない人妻に、NS（ノースキン）でNN膣内中出し！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240405/OERwGwKx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-347"
+  },
+  {
+    "id": 560994,
+    "IDcode": "SGSR-348",
+    "title": "リアルモニタリング実験 気になる同僚女子社员とヤレルのか？ オフィスでは见れない姿に激勃起！超",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240429/lPWWcRXu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-348"
+  },
+  {
+    "id": 560995,
+    "IDcode": "SGSR-349",
+    "title": "街角シロウト美熟女ちゃんねる フル勃起チ〇ポに性欲爆発 四十路越え熟女の理性崩壊 4时间12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240429/d3LCv9d2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-349"
+  },
+  {
+    "id": 94273,
+    "IDcode": "SGSR-350",
+    "title": "Theノンフィクション盗撮24時プライベートSEXを盗み撮られて発売されてしまった女性た",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/b506f57784e4d80b3576282eff07e726.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-350"
+  },
+  {
+    "id": 94260,
+    "IDcode": "SGSR-351",
+    "title": "熟女暴漢 オンナが想定外の男に無理やり汚された挙句に… 14人 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "已婚妇女",
+      "4小时以上作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-05-25",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/2e6fd6ac35d76e01213a9d3231bf346f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-351"
+  },
+  {
+    "id": 94269,
+    "IDcode": "SGSR-352",
+    "title": "リアルモニタリング実験 半年以上SEXする暇もない人妻看護師に 深夜の入院病棟で押しに弱そうな人妻限定でエッチをお願いしてみたら…その結果がコレ 超絶エロい化学反応！！スペシャル4時間12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "护士",
+      "已婚妇女",
+      "纪录片",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-06-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/b3fba97044c8b68178b0219144644386.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-352"
+  },
+  {
+    "id": 94267,
+    "IDcode": "SGSR-353",
+    "title": "街角シロウト母娘ちゃんねる 死ぬほどはずかしい体験です。不倫に欲情した母に娘の嫉妬が大爆発！ガチエグ親子丼SEX 4時間 10組",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "纪录片",
+      "猎艳",
+      "4小时以上作品",
       "多P",
-      "角色扮演"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/28c2ba22e0bc2a3f74ae1061e5e0f10e.jpg",
-    "actress": [
-      "古川伊織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-116"
-  },
-  {
-    "id": 565502,
-    "IDcode": "SDMM-118",
-    "title": "マジックミラー号からの脱出！ 2 制限时间100分でSEXしないと脱出できないマジックミラー号に、絶対にヤってはいけない関系の2人を闭じ込めたら…禁断のSEXをしてしまうのか！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/363decadb2cc59adca9421bcda3b108a.jpg",
+    "company": "",
+    "publish_date": "2024-06-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/8685a6dfe357995413611b3127df8da8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-353"
   },
   {
-    "id": 462822,
-    "IDcode": "SDMM-11802",
-    "title": "魔鏡號脫出！2 限制時間100分鐘內不做愛就無法逃離的魔鏡號、將絕對不能做愛的2人關起來後…能發展出禁斷性愛嗎！？【OO與教師】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-11802"
-  },
-  {
-    "id": 408128,
-    "IDcode": "SDMM-11803",
-    "title": "魔鏡號脫出！2 限制時間100分鐘內不做愛就無法逃離的魔鏡號、將絕對不能做愛的2人關起來後…能發展出禁斷性愛嗎！？【老公上司×部下妻子】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b599dc2cbbe46402805d7b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-11803"
-  },
-  {
-    "id": 462811,
-    "IDcode": "SDMM-11804",
-    "title": "魔鏡號脫出！2 限制時間100分鐘內不做愛就無法逃離的魔鏡號、將絕對不能做愛的2人關起來後…能發展出禁斷性愛嗎！？【辣妹與宅男】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-11804"
-  },
-  {
-    "id": 220471,
-    "IDcode": "SDMM-119",
-    "title": "赤面羞恥浴衣野球拳対決",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c4fca62f4a24629d12368ee55528fd87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-119"
-  },
-  {
-    "id": 107069,
-    "IDcode": "SDMM-120",
-    "title": "调情的甜美小恶魔-南梨央奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "苗条"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/52ae41b940a14c143fc6631d1209a10c.jpg",
-    "actress": [
-      "南梨央奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-120"
-  },
-  {
-    "id": 86196,
-    "IDcode": "SDMM-121",
-    "title": "「童貞くんのオナニーのお手伝いしてくれませんか…」海水浴場で声を掛けた心優しい水着美女がマジックミラー号で童貞くんを赤面筆おろし!シリーズ最多6名収録 2022夏",
+    "id": 94274,
+    "IDcode": "SGSR-354",
+    "title": "【一度見たら忘れない！インパクト】五十路・四十路熟女ナンパ交尾「本当にオバサンだけどイイの？」と何故か嬉しそうによろこんでいるシロウト熟女と激ナマ交尾で生ハメしたりする動画 4時間12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "业余",
-      "泳装",
-      "猎艳"
+      "已婚妇女",
+      "纪录片",
+      "猎艳",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6eba3d8b25f124f835ed3bea7f5a8ef2.jpg",
+    "company": "",
+    "publish_date": "2024-07-27",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/bd2bbb2a683656b4901aec802b81b237.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-354"
   },
   {
-    "id": 86191,
-    "IDcode": "SDMM-122",
-    "title": "恥じらいMAX!!!千葉県産ビキニからハミでるおっぱい 【Gカップ以上限定】 逆転マジックミラー号 「海水浴中の素人ビキニ娘の大胆セックスをナマで見たくないですか?」 変態男達の前で見られているとは知らずに大胆ナマSEXを披露!パート8",
+    "id": 94252,
+    "IDcode": "SGSR-355",
+    "title": "街角シロウトレズビアンちゃんねる 素人娘をナンパしてレズビアンが痴女る ペロペロクリフェラとぺニバンピストンで連続絶頂天国 4時間12組",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "素人",
       "业余",
-      "巨乳",
-      "泳装"
+      "4小时以上作品",
+      "女同性恋",
+      "女同接吻",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/cd52402406434bd78a9946e1a42372ff.jpg",
-    "actress": [
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-122"
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68897253c92318f97d1d67d3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-355"
   },
   {
-    "id": 96418,
-    "IDcode": "SDMM-12204",
-    "title": "恥じらいMAX！！！千葉県産ビキニからハミでるおっぱい 【とあ（Jカップ）】 逆転マジックミラー号 「海水浴中の素人ビキニ娘の大胆セックスをナマで見たくないですか？」 変態男達の前で見られているとは知らずに大胆ナマSEXを披露！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "素人",
-      "业余",
-      "巨乳",
-      "泳装"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "露梨あやせ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-12204"
-  },
-  {
-    "id": 220507,
-    "IDcode": "SDMM-123",
-    "title": "海水浴場-藍芽みずき",
+    "id": 544595,
+    "IDcode": "SGSR-356",
+    "title": "絶対ヤッてはいけない！都内プレミアム回春メンズエステで时间延长でのひっそり孕ませ生本番！“ダメ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/8957fb362adcf5099c7aa3872b8bc6fd.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241014/TNU9AJpN/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-356"
   },
   {
-    "id": 167631,
-    "IDcode": "SDMM-126",
-    "title": "在魔镜上第一次做爱后-仲川そら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230925/SDMM126.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-126"
-  },
-  {
-    "id": 167632,
-    "IDcode": "SDMM-127",
-    "title": "来自东京最著名的女子大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230925/SDMM127.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-127"
-  },
-  {
-    "id": 68797,
-    "IDcode": "SDMM-128",
-    "title": "偷偷地把大鸡巴展示给一个带着孩子的母亲",
+    "id": 493156,
+    "IDcode": "SGSR-358",
+    "title": "五字头四字头熟女搭讪交尾 与真正的素人熟女激烈无套交尾性爱影片4小时12人 未知演员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
-      "业余",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/ab190297dc8f1010a41c795179cd382e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-358"
+  },
+  {
+    "id": 549802,
+    "IDcode": "SGSR-359",
+    "title": "“家deヤッてイイですか？”シロウト人妻の自宅に上がり込んでまさかの生パコ！ 4时间 12人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241111/Fe3bHpjn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-359"
+  },
+  {
+    "id": 493246,
+    "IDcode": "SGSR-360",
+    "title": "真实监控实验：以相亲名义在AI相亲会上与熟女进行阴道射精真的可以吗？超色情化学反应！ 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/f5c57a37bb2a064f39c56f45fe081830.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-360"
+  },
+  {
+    "id": 499482,
+    "IDcode": "SGSR-361",
+    "title": "就这样，我这个处女变成了荡妇！ 12个被问到无法拒绝的巨乳妹子，4小时 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251014-1/ab5eb2889cee73c0bc65df2736298502.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-361"
+  },
+  {
+    "id": 448684,
+    "IDcode": "SGSR-362",
+    "title": "街头素人母女频道 一次一定要体验的亲子丼性爱～ 果然是后宫！与母女搞起淫荡性爱 4小 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/UqXuVG8e/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-362"
+  },
+  {
+    "id": 412039,
+    "IDcode": "SGSR-363",
+    "title": "【初拍主妇】港区主妇 产后感度超棒的妈妈朋友们堕落高潮！和你一起的话，也可以拍AV！ 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "夏川步美",
-      "君塚ひなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-128"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250920-1/f2f00aaa64fc8b2bcf60e1a0776142dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-363"
   },
   {
-    "id": 77573,
-    "IDcode": "SDMM-129",
-    "title": "新婚夫妇NTR-仓多真绪",
+    "id": 75609,
+    "IDcode": "SGSR-364",
+    "title": "五十路・四十路熟女ナンパ交尾「こんなおばさんで興奮してくれるの？」と糸引き熟マンを弄っている神熟女と激ナマ交尾で生ハメしたりする動画 4時間12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "M男",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "素人作品",
-      "手淫",
-      "淫语"
+      "业余",
+      "已婚妇女",
+      "纪录片",
+      "猎艳",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/5893cffe54f991a534f20131a440e2f7.jpg",
-    "actress": [
-      "仓多真央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-129"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250903-1/93b5f7e9d7e5829e0a74f20a0e6bfb9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-364"
   },
   {
-    "id": 535225,
-    "IDcode": "SDMM-130",
-    "title": "マジックミラー号からの脱出！3 制限时间100分でSEXしないと脱出できないマジックミラー号に、絶対にヤってはイケない関系",
+    "id": 444510,
+    "IDcode": "SGSR-366",
+    "title": "Theノンフィクション盗撮24時プライベートSEXを盗み撮られて発売されてしまった女性た",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240320/SDMM130.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250810-1/b2f54261dbdddc8b204e287c1bb9a04e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-366"
   },
   {
-    "id": 579235,
-    "IDcode": "SDMM-132",
-    "title": "マジックミラー号 保健体育の课外授业 现役女子○生の目の前でオトナの浓厚SEXを见せつける！思春期の性的好奇心に火を",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic57.anzise.com/pic/20230619/0e02fa8f0810159a08446ed3e1258728/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-132"
-  },
-  {
-    "id": 546950,
-    "IDcode": "SDMM-13204",
-    "title": "【はる编】マジックミラー号 保健体育の课外授业 现役女子校生の目の前でオトナの浓厚SEXを",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13204"
-  },
-  {
-    "id": 410881,
-    "IDcode": "SDMM-133",
-    "title": "魔鏡號蕾絲邊按摩 鄉下成長超內向美巨乳大姊與女性同胞的緊張按摩體驗 岬梓",
+    "id": 440546,
+    "IDcode": "SGSR-367",
+    "title": "【街録シロウトマ●コ】巨乳しか勝たん！誰が見ても納得のエロ巨乳奥様とパコパコした記録まさに全",
     "year": "",
     "country": "",
     "genre": "",
@@ -2016,460 +1623,104 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b2309dd342f9636d120aa7/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250810-1/ac9f2343451e9a41e06f55f0b3f7d0d8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-367"
   },
   {
-    "id": 549073,
-    "IDcode": "SDMM-134",
-    "title": "マジックミラー号 那须高原で见つけたナチュラル系素人娘限定 赤面羞耻野球拳対决 脱いだらビック",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230604/5cLg1EFZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-134"
-  },
-  {
-    "id": 483793,
-    "IDcode": "SDMM-134-01",
-    "title": "魔镜号 与在那须高原发现的自然素人妹子进行脸红羞耻野球拳对决 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-134-01"
-  },
-  {
-    "id": 483791,
-    "IDcode": "SDMM-134-02",
-    "title": "魔镜号 与在那须高原发现的自然素人妹子进行脸红羞耻野球拳对决 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-134-02"
-  },
-  {
-    "id": 483797,
-    "IDcode": "SDMM-134-03",
-    "title": "魔镜号 与在那须高原发现的自然素人妹子进行脸红羞耻野球拳对决 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-134-03"
-  },
-  {
-    "id": 483795,
-    "IDcode": "SDMM-134-04",
-    "title": "魔镜号 与在那须高原发现的自然素人妹子进行脸红羞耻野球拳对决 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-134-04"
-  },
-  {
-    "id": 550554,
-    "IDcode": "SDMM-13401",
-    "title": "マジックミラー号 那须高原で见つけたナチュラル系素人娘りかちゃんと赤面羞耻野球拳対决 脱い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13401"
-  },
-  {
-    "id": 550553,
-    "IDcode": "SDMM-13402",
-    "title": "マジックミラー号 那须高原で见つけたナチュラル系素人娘ゆなちゃんと赤面羞耻野球拳対决 脱い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13402"
-  },
-  {
-    "id": 550552,
-    "IDcode": "SDMM-13403",
-    "title": "マジックミラー号 那须高原で见つけたナチュラル系素人娘しおりちゃんと赤面羞耻野球拳対决 脱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13403"
-  },
-  {
-    "id": 550551,
-    "IDcode": "SDMM-13404",
-    "title": "マジックミラー号 那须高原で见つけたナチュラル系素人娘りえなちゃん赤面羞耻野球拳対决 脱い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13404"
-  },
-  {
-    "id": 203926,
-    "IDcode": "SDMM-135",
-    "title": "连续射精挑战",
+    "id": 444512,
+    "IDcode": "SGSR-368",
+    "title": "リアルモニタリング実験全方向美女な同僚女子社員と恋愛はルール違反か？二人っきりにしてみたら超",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250810-1/45421a81c4892c6e642e363a5a06f7fe.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-368"
   },
   {
-    "id": 546948,
-    "IDcode": "SDMM-13504",
-    "title": "【ちはる编】マジックミラー号 部活帰りのアスリート女子大生が何度も射精させるほど高额赏金G",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-13504"
-  },
-  {
-    "id": 107183,
-    "IDcode": "SDMM-136",
-    "title": "雖然乘坐過一次魔鏡號但仍未能SEX",
+    "id": 7944,
+    "IDcode": "SGSR-369",
+    "title": "爆巨乳專科 給我一個不去這家風俗按摩店的理由？讓你快樂的美熟女身體 4小時12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
-      "业余",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "光広まゆな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-136"
-  },
-  {
-    "id": 562470,
-    "IDcode": "SDMM-137",
-    "title": "マジックミラー号 看护师限定 “絶伦ち○ぽ诊察してくれませんか？”勃起が収まらなくて困っている",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240104/rrFpxmhH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-137"
-  },
-  {
-    "id": 107182,
-    "IDcode": "SDMM-138",
-    "title": "假装成黑丝远程调查",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "精選綜合",
+      "美腳",
+      "口爆",
+      "美臀",
+      "深喉",
+      "人妻",
       "中出",
-      "恋腿癖",
-      "已婚妇女",
-      "连裤袜"
+      "劇情",
+      "抹油",
+      "性感",
+      "按摩・美容店",
+      "企畫",
+      "顏射",
+      "美人妻",
+      "按摩・物理治療・美容",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "故事集",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "乳交",
+      "按摩女郎",
+      "胸控・戀乳癖",
+      "女上位",
+      "4小時以上作品",
+      "後入",
+      "業餘"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/2b334c3c3b3fcb529d35bcb54d704351.jpg",
-    "actress": [
-      "優月真裡奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-138"
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa45b19550e292a7862ec0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-369"
   },
   {
-    "id": 107181,
-    "IDcode": "SDMM-139",
-    "title": "通过魔镜号AV出道-青山好",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "出道作",
-      "猎艳",
-      "业余",
-      "首次亮相"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/1a228d3d28087299905ccb01bcaeb757.jpg",
-    "actress": [
-      "青山このみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-139"
-  },
-  {
-    "id": 546953,
-    "IDcode": "SDMM-140",
-    "title": "マジックミラー号 痴汉电车がイク イヤイヤと拒んでも心とは里腹に若いカラダはエロテクに敏感反応",
+    "id": 449334,
+    "IDcode": "SGSR-370",
+    "title": "街角シロウト母娘ちゃんねる娘の前でもマン汁あふれてるママは狙いめ！出産を経験した本熟オンナの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240105/fcynBk9R/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250804-1/c512b8d24bc0b269d2d43001e77b9540.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-370"
   },
   {
-    "id": 517309,
-    "IDcode": "SDMM-14001",
-    "title": "魔鏡號 痴漢電車玩法高潮 I",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-14001"
-  },
-  {
-    "id": 107180,
-    "IDcode": "SDMM-141",
-    "title": "突然的电动棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "业余",
-      "中出"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/c943c6cdedb50a3c900309e898f8b302.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-141"
-  },
-  {
-    "id": 546949,
-    "IDcode": "SDMM-142",
-    "title": "マジックミラー号 おまん开！お花见にやって来た花ビラ濡れ桜なほろ酔い女子限定 赤面羞耻野球拳対",
+    "id": 408242,
+    "IDcode": "SGSR-371",
+    "title": "【看過一次就忘不了！衝擊】五十路・四十路熟女搭訕交尾「如果被人看到會興奮的」與熟女迷的男人展現害羞的美魔女，用激烈的無套性交讓她生插入的影片 4小時12人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "SOD",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
-        "works_count": 3097
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240105/kQxEkQzg/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7b5d8682e2e928199874f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-371"
   }
 ];

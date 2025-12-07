@@ -464,7 +464,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "2021-11-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/08312bc8fa29e63b907f284c20323348.jpg",
       "actress": [
@@ -1270,7 +1270,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/10/16/2268dd31f6f6afbbf02c21ba49e24e3d.jpg",
       "actress": [
@@ -1286,7 +1286,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787eac95d57b64bfd10d601/cover.jpg",
       "actress": [
@@ -1304,7 +1304,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/09/02/4b4ef27efae208232bdd4d3601f9dd47.jpg",
       "actress": [
@@ -1321,7 +1321,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250811-1/391e8af167d2a4db0de359bd3067cd7e.jpg",
       "actress": [
@@ -1634,7 +1634,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e091dbf24d4ed31ff6cf/cover.jpg",
       "actress": [

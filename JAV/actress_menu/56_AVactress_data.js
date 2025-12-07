@@ -656,7 +656,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2020-02-16",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/5576e148031da81426701a9c02d67410.jpg",
       "actress": [
@@ -1289,7 +1289,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/83ae29a1009a74301fc3f839f77ffe12.jpg",
       "actress": [
@@ -1947,7 +1947,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "FALENO TUBE",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241026/7ebc1f6c-28e2-4184-aa24-3c06a723ac4b.jpg",
       "actress": [
@@ -2248,7 +2248,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045408916916_thumbnail.webp",
       "actress": [
@@ -2616,7 +2616,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/21/9ad6b974/vod.jpg",
       "actress": [
@@ -2807,7 +2807,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/0a09c1a7/vod.jpg",
       "actress": [

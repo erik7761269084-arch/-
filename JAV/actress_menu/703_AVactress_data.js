@@ -55,7 +55,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2019-07-16",
       "cover_url": "https://ll.lasha250923.top/upload/vod/20250118-1/c3e5cc347c1c69bb6f35cbd84ca17038.jpg",
       "actress": [

@@ -1,71 +1,53 @@
 window.PAGE_DATA = [
   {
-    "id": 212224,
-    "IDcode": "RCTD-079",
-    "title": "华丽的裸体变态的家庭聚会",
+    "id": 139709,
+    "IDcode": "RIAKURUMI-SPERMMANIA-318",
+    "title": "RiaKurumi-spermmania-318 20211203",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-079"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-SPERMMANIA-318"
   },
   {
-    "id": 212231,
-    "IDcode": "RCTD-080",
-    "title": "洋服屋",
+    "id": 139720,
+    "IDcode": "RIAKURUMI-URALESBIAN-462",
+    "title": "RiaKurumi-uralesbian-462 20210801",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-080"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIAKURUMI-URALESBIAN-462"
   },
   {
-    "id": 536026,
-    "IDcode": "RCTD-086",
-    "title": "TSFふたなりドクター抜刀小百合～ふたなり妇人科秘密のカルテ～",
+    "id": 525195,
+    "IDcode": "RICA",
+    "title": "生理中のギャル家庭教师に迫ったら简単にヤれた！フルハイビジョン vol01",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RICA"
   },
   {
-    "id": 539256,
-    "IDcode": "RCTD-090",
-    "title": "巨乳レズバトル捜查官 佐仓ねね 香椎りあ",
+    "id": 470406,
+    "IDcode": "RICA-565",
+    "title": "巨乳姐妹花激情对决！里香×莉奈双飞猛男 逆3P性爱实录 高潮迭起の肉体碰撞",
     "year": "",
     "country": "",
     "genre": "",
@@ -73,169 +55,211 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/14/684cf8043ed39b57c059a0ae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RICA-565"
+  },
+  {
+    "id": 490596,
+    "IDcode": "RIE32S",
+    "title": "ai",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIE32S"
   },
   {
-    "id": 212232,
-    "IDcode": "RCTD-092",
-    "title": "补丁紧身衣拍摄环节",
+    "id": 529218,
+    "IDcode": "RIE32SAI",
+    "title": "",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-092"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIE32SAI"
   },
   {
-    "id": 517801,
-    "IDcode": "RCTD-096",
-    "title": "露下半身給插攤車妹 倉多真央 濱",
+    "id": 524874,
+    "IDcode": "RIISA",
+    "title": "南人愉悦，温暖亚洲口交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed2dd152c12b4e68490e81/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-096"
-  },
-  {
-    "id": 589316,
-    "IDcode": "RCTD-098",
-    "title": "拼装人形家具DIY套件-自己制作的乐趣，使用的乐趣- - 生驹遥菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/30663_cover_2025-09-10_091017.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-098"
-  },
-  {
-    "id": 526735,
-    "IDcode": "RCTD-101",
-    "title": "女体化スキン3～皮を被って异性に変身～アイドルの皮编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230323/1rctd00101pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-101"
-  },
-  {
-    "id": 593202,
-    "IDcode": "RCTD-105",
-    "title": "美人ママ近亲相奸ウエディング2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/21556634bafb595120376e987a180e1d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-105"
-  },
-  {
-    "id": 536025,
-    "IDcode": "RCTD-106",
-    "title": "せっかく女になったのに…不完全な女体化で下半身はふたなり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-106"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIISA"
   },
   {
-    "id": 536037,
-    "IDcode": "RCTD-109",
-    "title": "第1回复面剥ぎレズバトル",
+    "id": 518722,
+    "IDcode": "RIKA3",
+    "title": "アブないラブデート麻里梨夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191130-1/18947cb9cc1d047f4941a46570fae364.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIKA3"
+  },
+  {
+    "id": 524876,
+    "IDcode": "RIKAKO",
+    "title": "获取奶油填补由于日本口交和猫怦怦直跳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIKAKO"
   },
   {
-    "id": 155709,
-    "IDcode": "RCTD-110",
-    "title": "夜になると動き出すエッチなマネキンだらけの秘宝館",
+    "id": 524875,
+    "IDcode": "RINA",
+    "title": "Umemiya amazes with top j",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RINA"
+  },
+  {
+    "id": 575872,
+    "IDcode": "RINAUCHIMURA",
+    "title": "内村りな 兴味津々！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RINAUCHIMURA"
+  },
+  {
+    "id": 64414,
+    "IDcode": "RINKA",
+    "title": "在亚洲口交和铁杆性三人行..内里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RINKA"
+  },
+  {
+    "id": 576764,
+    "IDcode": "RINKA-CHAN",
+    "title": "试着把鸡巴插进一个传闻中很受欢迎的熟食店女孩-20 岁的大宫女大学生凛香子（）-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20240704-1/fe04d5f2e74f4d74ac01347722f5ea11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RINKA-CHAN"
+  },
+  {
+    "id": 558785,
+    "IDcode": "RINKA-NATSUME",
+    "title": "一件一件生的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20241214-1/b1b961bd5abf028b49edb7bf23e90571.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RINKA-NATSUME"
+  },
+  {
+    "id": 529352,
+    "IDcode": "RIRIKO2",
+    "title": "完熟果実を抱きしめて",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230323-1/6b10b4bbab59896a2095119edad75d0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIRIKO2"
+  },
+  {
+    "id": 524865,
+    "IDcode": "RIRISU",
+    "title": "绫香给两个家伙在袜子里的日本口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIRISU"
+  },
+  {
+    "id": 518428,
+    "IDcode": "RISK-004",
+    "title": "美OO公寓監禁飼育 生駒遙菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/690924744a81c2286fb29cdc/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RISK-004"
+  },
+  {
+    "id": 348031,
+    "IDcode": "RIX-008",
+    "title": "海水浴场邻接 ビキ美女被狙媚薬突然发情",
     "year": "",
     "country": "",
     "genre": "",
@@ -243,157 +267,406 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-008"
   },
   {
-    "id": 536036,
-    "IDcode": "RCTD-111",
-    "title": "スーパーガチンコ全裸レズバトルDYNAMITE2018",
+    "id": 589281,
+    "IDcode": "RIX-020",
+    "title": "美丽的比基尼在从海滩回家的路上光顾UV护理油美容沙龙 - 星空萌爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/09/74609_cover_2025-09-09_090746.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-020"
   },
   {
-    "id": 212285,
-    "IDcode": "RCTD-116",
-    "title": "传入迷你裙制服的学校 但男生只有我一个人 千夏南娜 石川祐奈 神坂雏乃 优木KARINA",
+    "id": 554536,
+    "IDcode": "RIX-030",
+    "title": "_足立区ヤンキーマッサージ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/17/5709a08e60e6321069ed279e6e2450f5.jpg",
+    "cover_url": "https://sha.lashayu.com/18SEAV-PIC/11363.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-030"
   },
   {
-    "id": 212300,
-    "IDcode": "RCTD-117",
-    "title": "痴女化-藤波さとり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-117"
-  },
-  {
-    "id": 212407,
-    "IDcode": "RCTD-118",
-    "title": "丁字裤体验",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-118"
-  },
-  {
-    "id": 535831,
-    "IDcode": "RCTD-127",
-    "title": "マジックミラー号 友达同士の女の子がTSFふたなり体験",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-127"
-  },
-  {
-    "id": 102898,
-    "IDcode": "RCTD-129",
-    "title": "巨乳女囚レズバトル 三原ほのか 推川ゆうり 黒木いくみ",
+    "id": 77316,
+    "IDcode": "RIX-048",
+    "title": "女性専用ビジネスホテル盗撮女性客を陥れる出张",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "企画",
-      "巨乳",
-      "女同性恋"
+      "口交",
+      "中文字幕",
+      "中出",
+      "偷窥",
+      "女上位",
+      "按摩",
+      "OL",
+      "4小时以上作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-07-26",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d95c73b987145641ba72aba30309d923.jpg",
     "actress": [
-      "推川悠里",
-      "三原穗香",
-      "ゆうひ菜那"
+      "纱々原ゆり",
+      "秋山ゆう",
+      "花崎りこ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-048"
   },
   {
-    "id": 523468,
-    "IDcode": "RCTD-132",
-    "title": "波多野结衣- マイクロビキニでドキッ！巨乳20人！水泳大会2018",
+    "id": 578613,
+    "IDcode": "RIX-056",
+    "title": "ビジネスホテル出张マッサージ盗撮 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-056"
+  },
+  {
+    "id": 88519,
+    "IDcode": "RIX-062",
+    "title": "オナクラ盗撮 「脱ぎNG」「本番NG」のオナクラ店で密室本番交渉！！2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "美少女",
+      "偷窥",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1597a5ce6dec3af94c7163d044e5d6af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-062"
+  },
+  {
+    "id": 523516,
+    "IDcode": "RIX-064",
+    "title": "本当にあったマッサージ师の、おいしい体験谈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/a11a7877b2f5a88ebe400f9942c5d6d2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-064"
+  },
+  {
+    "id": 513954,
+    "IDcode": "RIX-065",
+    "title": "夏威夷风情男士美容店 夏威夷风情按摩店 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6767556930f9bdf81e6bcac02a0bdd24.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-065"
+  },
+  {
+    "id": 77322,
+    "IDcode": "RIX-066",
+    "title": "恋人同时寝取按摩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "按摩",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a1628b266e5157bc93c1d5ae42a485e4.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-066"
+  },
+  {
+    "id": 74461,
+    "IDcode": "RIX-068",
+    "title": "海水浴帰りのビキニ美女が訪れるUVケアオイルエステ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "按摩",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-08-09",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/3d2815221ca991e8694b9a5c09660d6e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-068"
+  },
+  {
+    "id": 465311,
+    "IDcode": "RIX-070",
+    "title": "誰もが深い睡眠に陥ってしまう 無水ヘッドスパマッサージ店盗撮 櫻木優希音 紗凪美羽 富田優衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873bfd5d57b64bfdd98f5d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-070"
+  },
+  {
+    "id": 78120,
+    "IDcode": "RIX-072",
+    "title": "美人妻が働く極上回春マッサージ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "素人作品",
+      "按摩",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/28ca29217f2ec215f69dafa513895b8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-072"
+  },
+  {
+    "id": 95038,
+    "IDcode": "RIX-073",
+    "title": "ハワイアンメンズエステ ロミロミマッサージ店3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "素人作品",
+      "按摩",
+      "苗条",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b5fc9668c8d97bcd21b119895279e4f.jpg",
+    "actress": [
+      "小泉真理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-073"
+  },
+  {
+    "id": 83818,
+    "IDcode": "RIX-075",
+    "title": "超強力！！三種の媚薬で極醒発情マッサージ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "按摩",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "優月真裡奈",
+      "黒宫えいみ",
+      "吉良薫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-075"
+  },
+  {
+    "id": 532312,
+    "IDcode": "RJ-12345",
+    "title": "【禁断疗法】白衣の痴女医が诊察室で缲り広げる官能治疗～絶顶开発プロジェクト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250412-1/ec76b1edf6629cdf1939fcb707fa8656.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RJ-12345"
+  },
+  {
+    "id": 463667,
+    "IDcode": "RJFYG-045",
+    "title": "熟女 黑絲襪美腿女教師 絲襪潮吹人偶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c431c98bc99dfdde26c08/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RJFYG-045"
+  },
+  {
+    "id": 572340,
+    "IDcode": "RJK-022",
+    "title": "月野りさ なのかひよりWサポ希望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://pic52.anzise.com/pic/20230509/20fb4e4df245031a4c57f65714436005/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RJK-022"
+  },
+  {
+    "id": 90314,
+    "IDcode": "RJT-001",
+    "title": "Batsuichi 蒸す女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "给女性观众",
+      "戏剧",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/001d106f6c132010f7453b734a512202.jpg",
+    "actress": [
+      "小早川怜子",
+      "翔田千里",
+      "ムータン（ムーミン）",
+      "本庄瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RJT-001"
+  },
+  {
+    "id": 409889,
+    "IDcode": "RKD-003",
+    "title": "監禁RealOO vol.2 鍵っ子羅夢との1日 くまだ羅夢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7816edc101930b4b3fea/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKD-003"
+  },
+  {
+    "id": 409466,
+    "IDcode": "RKED-004",
+    "title": "24小時內徹底玩弄1OO女大OO「琉衣」。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec215152c12b4e6846c36d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKED-004"
+  },
+  {
+    "id": 206240,
+    "IDcode": "RKI-001",
+    "title": "变态家族母女双双被凌辱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84c74d6fbef4e90cd20ed/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-001"
+  },
+  {
+    "id": 409627,
+    "IDcode": "RKI-004",
+    "title": "超能力OO OFF TYPE K 花井明彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d758d8958ac04f270efdbd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-004"
+  },
+  {
+    "id": 409623,
+    "IDcode": "RKI-006",
+    "title": "恥辱の肉体介護 狙われた爆乳若妻 相内リカ",
     "year": "",
     "country": "",
     "genre": "",
@@ -401,2087 +674,1076 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250617/EJqNqMEC/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d75a04958ac04f270f0368/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-006"
   },
   {
-    "id": 593204,
-    "IDcode": "RCTD-134",
-    "title": "男女入れ替え転职DE天职？俺は入れ替わりデリヘル嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/d3ec2d0ade75856790474618dc0876c5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-134"
-  },
-  {
-    "id": 102987,
-    "IDcode": "RCTD-141",
-    "title": "せっかく女になったのに…不完全な女体化で下半身はふたなり！？完全なる女体化で白衣の天使になった俺が…編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女医生",
-      "企画",
-      "护士",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-09-06",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd141/1rctd141pl.jpg",
-    "actress": [
-      "羽生ありさ",
-      "君野步美",
-      "星奈爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-141"
-  },
-  {
-    "id": 535830,
-    "IDcode": "RCTD-143",
-    "title": "凭依チューバー＃2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-143"
-  },
-  {
-    "id": 210905,
-    "IDcode": "RCTD-146",
-    "title": "母娘同時近親相姦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/19/a2892aad1cb463057d0b46a5135c429b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-146"
-  },
-  {
-    "id": 102989,
-    "IDcode": "RCTD-148",
-    "title": "女子プロレスラーがハイグレ人間にされちゃった！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "催眠",
-      "妄想",
-      "羞耻",
-      "女同性恋",
-      "企画",
-      "紧身衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-09-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "一之瀨戀",
-      "新垣智江",
-      "海空花",
-      "凉宫ましろ",
-      "吉冈沙华"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-148"
-  },
-  {
-    "id": 536035,
-    "IDcode": "RCTD-151",
-    "title": "仓多まおにレズテクで胜ったら1000万円",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-151"
-  },
-  {
-    "id": 595651,
-    "IDcode": "RCTD-152",
-    "title": "真・时间が止まる腕时计 パート11 ストーリーズ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/82a81aff4632951626b54a01720f6bdd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-152"
-  },
-  {
-    "id": 595648,
-    "IDcode": "RCTD-153",
-    "title": "羞耻絶叫ウォータースライダー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/dsvCeEji.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-153"
-  },
-  {
-    "id": 595649,
-    "IDcode": "RCTD-155",
-    "title": "友达同士の男女がディープアナル舐め体験",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9Of7FvHl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-155"
-  },
-  {
-    "id": 595634,
-    "IDcode": "RCTD-156",
-    "title": "兄ならアイドル妹の裸当ててみて！孕ませドッキリLIVE编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/eb8f73f59c61de86e353591bdf34e52f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-156"
-  },
-  {
-    "id": 88483,
-    "IDcode": "RCTD-157",
-    "title": "男女7人入れ替わりシェアハウス イレカエ荘物語",
+    "id": 72924,
+    "IDcode": "RKI-053",
+    "title": "这世界上最大屌的男人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "其他恋物癖",
-      "戏剧",
-      "妄想",
-      "企画"
+      "手淫",
+      "滥交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a709c2e8502af7b2408f3d31d8257d54.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "葵玲奈",
-      "水城奈緒",
-      "芹沢ゆうり",
-      "瀬乃ひなた"
+      "早川瀬里奈",
+      "星優乃",
+      "新井爱丽",
+      "鸟越乃亜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
   },
   {
-    "id": 88518,
-    "IDcode": "RCTD-158",
-    "title": "淫語ナワイドショー",
+    "id": 536726,
+    "IDcode": "RKI-058",
+    "title": "千手観音 つぼみ観音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250224-1/38a1ba40797b4db4d2c63b9e871e7216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-058"
+  },
+  {
+    "id": 255232,
+    "IDcode": "RKI-061",
+    "title": "婴儿托儿所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/3d84a4fd2715a5f2c3ed236df47dbdc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-061"
+  },
+  {
+    "id": 519800,
+    "IDcode": "RKI-076",
+    "title": "【有码】素颜のままで麻仓优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-076"
+  },
+  {
+    "id": 516465,
+    "IDcode": "RKI-078",
+    "title": "敏感腋毛 大塚咲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901157be4a73d4f15f4fb41/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-078"
+  },
+  {
+    "id": 536713,
+    "IDcode": "RKI-088",
+    "title": "お姊ちゃんは処女 妹はヤリマン ～実姊妹～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231118/rki088pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-088"
+  },
+  {
+    "id": 536712,
+    "IDcode": "RKI-096",
+    "title": "AV女优养成所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231118/rki096pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-096"
+  },
+  {
+    "id": 534881,
+    "IDcode": "RKI-106",
+    "title": "世界で一番大きなチンポを持つ男のSEX Hitomi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231108/rki106pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-106"
+  },
+  {
+    "id": 1662,
+    "IDcode": "RKI-111",
+    "title": "3D×JULIA 完美肉體與超立體影像",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
-      "巨乳",
-      "企画"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f9e56cee658f3fd7214c5409e6f14210.jpg",
-    "actress": [
-      "葵玲奈",
-      "松下美织",
-      "野々宫みさと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-158"
-  },
-  {
-    "id": 88506,
-    "IDcode": "RCTD-161",
-    "title": "ボディジャック RE:0から始めるオフィス憑依のススメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "OL",
-      "企画",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/72daaf0ad20de2d45ee4d6d0da138aa9.jpg",
-    "actress": [
-      "波多野结衣",
-      "加藤あやの",
-      "君岛美绪",
-      "小谷みのり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-161"
-  },
-  {
-    "id": 88484,
-    "IDcode": "RCTD-162",
-    "title": "マジックミラー号の天井に頭がついちゃう！2 高身長アスリート女子がチビ男相手に初めてのバックブリーカーフェラ、逆駅弁FUCKチャレンジ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "肌肉",
-      "口交",
-      "企画",
-      "运动",
-      "高"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/86a9c809bb2b9cd85f0a19a452809984.jpg",
-    "actress": [
-      "藤白桃羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-162"
-  },
-  {
-    "id": 88482,
-    "IDcode": "RCTD-163",
-    "title": "爆乳エロプロレス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "战斗行动",
-      "多P",
-      "其他恋物癖",
-      "巨乳",
-      "企画",
-      "运动"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/76cd53e6a4812768bc1c1d733432dba9.jpg",
-    "actress": [
-      "優月真裡奈",
-      "三苫海",
-      "后藤里香",
-      "久我かのん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-163"
-  },
-  {
-    "id": 88486,
-    "IDcode": "RCTD-165",
-    "title": "バブみをこじらせた兄が巨乳妹と授乳手コキ一転近親相姦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "企画",
+      "無碼流出",
       "乳交",
       "巨乳",
-      "手淫",
-      "妹妹"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
+    "company": "ROOKIE",
+    "publish_date": "2011-02-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20230329/20230329020025745745.jpg",
+    "actress": [
+      "JULIA"
     ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f44d26a1ff0369efac7ef984417bee28.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-111"
   },
   {
-    "id": 465945,
-    "IDcode": "RCTD-166",
-    "title": "從吵架開始的街頭蕾絲大戰",
+    "id": 534993,
+    "IDcode": "RKI-121",
+    "title": "JULIAの超爆乳オイルファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231212/rki121pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-121"
+  },
+  {
+    "id": 67880,
+    "IDcode": "RKI-129",
+    "title": "与拥有世界上最大阴茎的男人做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "颜射",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/9806854e2af51212c742765267ad0189.jpg",
+    "actress": [
+      "仁科百华",
+      "北川瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-129"
+  },
+  {
+    "id": 592876,
+    "IDcode": "RKI-134",
+    "title": "世界一ザーメンを大量に発射する男のぶっかけSEX 风间ゆみ 菅野しずか new",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68def2d3ce5a404e9bc6e5dc/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-166"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-134"
   },
   {
-    "id": 98738,
-    "IDcode": "RCTD-167",
-    "title": "TSFふたなり潜入捜査官 三原ほのか 吉川あいみ 石川祐奈",
+    "id": 535043,
+    "IDcode": "RKI-149",
+    "title": "仁科百华の超爆乳オイルファック",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
-      "企画",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240102/rki149pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-149"
+  },
+  {
+    "id": 535070,
+    "IDcode": "RKI-155",
+    "title": "Let’s セクササイズダイエット 阳菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240114/rki155pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-155"
+  },
+  {
+    "id": 530103,
+    "IDcode": "RKI-161",
+    "title": "rki00161 いやらし～いバキューム女の终わらない男潮喷き 晶エリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240529-1/a81eeb01dafc5e9945b8f0a359043067.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-161"
+  },
+  {
+    "id": 535113,
+    "IDcode": "RKI-165",
+    "title": "世界で一番母乳が出る女の子 若林优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240128/rki165pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-165"
+  },
+  {
+    "id": 535202,
+    "IDcode": "RKI-197",
+    "title": "山崎大纪の里フーゾク大王2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240308/rki197pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-197"
+  },
+  {
+    "id": 104904,
+    "IDcode": "RKI-225",
+    "title": "被侵犯的温泉野外露出妻小川阿佐美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "已婚妇女",
+      "户外",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小川阿佐美",
+      "栗原良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-225"
+  },
+  {
+    "id": 536384,
+    "IDcode": "RKI-264",
+    "title": "最高の女装チ●ポVS最强の痴女マ●コ 乃亜 水城奈绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230727/rki264pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-264"
+  },
+  {
+    "id": 535363,
+    "IDcode": "RKI-266",
+    "title": "アナル解禁。 仁科百华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240606/rki266pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-266"
+  },
+  {
+    "id": 535326,
+    "IDcode": "RKI-290",
+    "title": "AV人生で絶対NGのアナル解禁したら尾上若叶はこんな风に感じちゃう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240115/rki290pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-290"
+  },
+  {
+    "id": 88481,
+    "IDcode": "RKI-299",
+    "title": "世界一ザーメンを大量に発射する男たちのぶっかけSEX 沖田杏梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "滥交",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/540f6c7d815e90b1729dc188a3b1f1f9.jpg",
+    "actress": [
+      "沖田杏梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-299"
+  },
+  {
+    "id": 536405,
+    "IDcode": "RKI-385",
+    "title": "ふたなり×ふたなり 大量射精＆大量潮喷き ふたなりが当たり前の世界の撮影现场はメチャメチャ过ぎてもう大変っ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230812/rki385pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-385"
+  },
+  {
+    "id": 536404,
+    "IDcode": "RKI-396",
+    "title": "ふたなり×ふたなり 大量射精＆大量潮喷き ふたなりが当たり前の世界の撮影现场はメチャメチャ过ぎてもう大変っ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230812/rki396pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-396"
+  },
+  {
+    "id": 103027,
+    "IDcode": "RKI-408",
+    "title": "ぼっしぃ原作 ふた部！上巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "双性人",
+      "滥交",
       "女同性恋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-11-22",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/41lv5twdjdd.jpg",
-    "actress": [
-      "三原穗香",
-      "吉川爱美",
-      "石川祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-167"
-  },
-  {
-    "id": 219139,
-    "IDcode": "RCTD-168",
-    "title": "用金钱促成白领OL和男同事做爱内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/2f92ab0464d40cd37f12a6e5173457f4.jpg",
+    "company": "ROOKIE",
+    "publish_date": "2015-12-19",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rki408/rki408pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-408"
   },
   {
-    "id": 536034,
-    "IDcode": "RCTD-171",
-    "title": "バトル・オブ・レズビアンズ～格闘ではない新たなレズ対决の新境地へ～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-171"
-  },
-  {
-    "id": 99032,
-    "IDcode": "RCTD-172",
-    "title": "友達同士の女の子がTSFふたなり体験2",
+    "id": 98750,
+    "IDcode": "RKI-410",
+    "title": "ふたなり×ふたなり 大量射精＆大量潮噴き ふたなりが",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "女教师",
       "双性人",
-      "玩具",
       "女同性恋",
-      "业余",
-      "企画"
+      "潮吹"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-12-06",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/xmukjxqt40q.jpg",
+    "company": "ROOKIE",
+    "publish_date": "2016-01-19",
+    "cover_url": "http://15.155250922.com/upload/vod/20230816/rki410pl.jpg!320x216.jpg",
     "actress": [
-      "山冈りりな",
-      "枝川结衣",
-      "NIMO"
+      "浜崎真绪",
+      "千乃杏美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-172"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-410"
   },
   {
-    "id": 98807,
-    "IDcode": "RCTD-174",
-    "title": "会社一男気のある課長が実は女体化したことを知ってしまった部下OLの私",
+    "id": 523486,
+    "IDcode": "RKI-411",
+    "title": "波多野结衣- 世界一発射の势いが凄すぎる男の孕ませドッカーンSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250620/4mPDnzl1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-411"
+  },
+  {
+    "id": 536411,
+    "IDcode": "RKI-412",
+    "title": "ぼっしぃ原作 ふた部！ 第2弾 下巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230816/rki412pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-412"
+  },
+  {
+    "id": 72515,
+    "IDcode": "RKI-413",
+    "title": "世界一ザーメンを大量に発射する男のぶっかけSEX 鈴木心春",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "妄想",
-      "多P",
-      "其他恋物癖",
-      "女同性恋",
-      "企画"
+      "巨乳",
+      "单体作品",
+      "无码破解",
+      "中出",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2018-12-06",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/10eb4c8f440b462798914d75e6ae45ac.jpg",
     "actress": [
-      "上野真奈美",
-      "今井由亞",
-      "天月叶菜"
+      "鈴木心春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-413"
   },
   {
-    "id": 595513,
-    "IDcode": "RCTD-178",
-    "title": "ドラレコ近亲相奸",
+    "id": 536419,
+    "IDcode": "RKI-425",
+    "title": "ふたなり×ふたなり 大量射精＆大量潮喷き ふたなりが当たり前の世界の撮影现场はメチャメチャ过ぎてもう大変っ！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191014-1/a20c4074e518a18382666e72e495e63a.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230819/rki425pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-425"
   },
   {
-    "id": 595463,
-    "IDcode": "RCTD-181",
-    "title": "スケベな家族対抗！近亲相奸ハメハメ冬季スポーツ大会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/57cf1e0c47058d06a388cbbed0923d2a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-181"
-  },
-  {
-    "id": 595462,
-    "IDcode": "RCTD-183",
-    "title": "STOP！FAST！SLOW！时间操作DQN",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/29fce27475181f1a4aa7f40cf8101fbd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-183"
-  },
-  {
-    "id": 77642,
-    "IDcode": "RCTD-184",
-    "title": "電車のドアに挟まれて身動きできないデカ尻女VSエロガキ",
+    "id": 104723,
+    "IDcode": "RKI-451",
+    "title": "对着蒂亚的脸上射出一斤精液",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "恶作剧",
-      "巨大屁股",
-      "正太控"
+      "中出",
+      "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/96224c8afcdb306391de7e0bbd2dea9a.jpg",
-    "actress": [
-      "黑川堇",
-      "小泉真理",
-      "早乙女らぶ",
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-184"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-451"
   },
   {
-    "id": 98438,
-    "IDcode": "RCTD-186",
-    "title": "第3回覆面剥ぎレズバトル 黒ギャル対決編",
+    "id": 539308,
+    "IDcode": "RKI-453",
+    "title": "世界で一番中出し精子を子宫で受け止める女の子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-453"
+  },
+  {
+    "id": 526754,
+    "IDcode": "RKI-454",
+    "title": "発射寸前！イクッ！イクゥゥ！ビクッビクンってイッてる时に激しくピストン再开",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230323/rki00454pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-454"
+  },
+  {
+    "id": 72906,
+    "IDcode": "RKI-468",
+    "title": "世界で一番気持ち良いベリーダンスで鍛えたエキゾチック腰振り騎乗位＆グラインド騎乗位 河南実里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女同性恋",
-      "企画",
-      "女生",
-      "运动"
+      "中出",
+      "苗条",
+      "美少女",
+      "女上位"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-01-24",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-186"
-  },
-  {
-    "id": 77381,
-    "IDcode": "RCTD-188",
-    "title": "マッスルビューティー 白咲りの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "肌肉"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6227a2f30a70d1de2a5c9d7ca392f735.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/731e79f25405ec50bf77d1f1d094f973.jpg",
     "actress": [
-      "立花瑠莉"
+      "河南実里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-468"
   },
   {
-    "id": 595448,
-    "IDcode": "RCTD-190",
-    "title": "TSFYA レンタル凭依ボディ始めました。",
+    "id": 526873,
+    "IDcode": "RKI-474",
+    "title": "世界で一番喉奥に射精するイラマチオ蓝川美夏黒木いくみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230323/rki00474pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-190"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-474"
   },
   {
-    "id": 536033,
-    "IDcode": "RCTD-192",
-    "title": "羞耻洗脳ハイグレ人间にされちゃった4 ハイグレ光线铳复活SP",
+    "id": 210744,
+    "IDcode": "RKI-480",
+    "title": "世界一早漏男-篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-480"
   },
   {
-    "id": 536041,
-    "IDcode": "RCTD-193",
-    "title": "レズ痴汉×复雠レズバトル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-193"
-  },
-  {
-    "id": 98500,
-    "IDcode": "RCTD-196",
-    "title": "欲求不満な人妻たち ふたなり熟女びんびん物語",
+    "id": 77309,
+    "IDcode": "RKI-481",
+    "title": "受够普通性爱的人妻们拍摄AV主动要求被暴力虐待一顿蹂躏后感动的要哭了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "双性人",
-      "已婚妇女",
-      "成熟的女人",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-02-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "明里友香",
-      "成宫いろは",
-      "新垣智江"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-196"
-  },
-  {
-    "id": 595368,
-    "IDcode": "RCTD-197",
-    "title": "妄想アイテム究极进化シリーズ 魂吹き込み凭依铳 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1047199a54cf7ac919471dac5bdb2cf1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-197"
-  },
-  {
-    "id": 98966,
-    "IDcode": "RCTD-200",
-    "title": "美熟女だらけのお相撲大会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "恋物癖",
-      "女同性恋",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-02-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "水城奈緒",
-      "森下美绪",
-      "成泽ひなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-200"
-  },
-  {
-    "id": 595306,
-    "IDcode": "RCTD-202",
-    "title": "真・时间が止まる腕时计 パート12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/302ae5f9bb2e38c78514ce88782265bb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-202"
-  },
-  {
-    "id": 534420,
-    "IDcode": "RCTD-203",
-    "title": "爆乳エロプロレス2おっぱいキングダムin木更津ドーム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-203"
-  },
-  {
-    "id": 595304,
-    "IDcode": "RCTD-204",
-    "title": "マジックミラー号 彼氏なら彼女の裸当ててみて！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/b46MDNYh.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-204"
-  },
-  {
-    "id": 595308,
-    "IDcode": "RCTD-205",
-    "title": "ハメっぱなし近亲相奸ヤラスハウス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/995cb194e13803be64d56add5d287e6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-205"
-  },
-  {
-    "id": 536040,
-    "IDcode": "RCTD-207",
-    "title": "春原未来にレズテクで胜ったら1000万円",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-207"
-  },
-  {
-    "id": 77399,
-    "IDcode": "RCTD-208",
-    "title": "男女入れ替えエレベーター",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "妄想",
-      "戏剧",
+      "凌辱",
+      "饮尿",
       "调教",
-      "恋物癖",
-      "素人作品"
+      "SM",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eda0fc365cff97df817073f3520f8110.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/15792a0ac8d304b86afc073b2e921a3f.jpg",
     "actress": [
-      "上野真奈美",
-      "小泉真理",
-      "浅田结梨"
+      "森林原人",
+      "鲛岛",
+      "ゆうひ菜那",
+      "蓝川美夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-481"
   },
   {
-    "id": 209472,
-    "IDcode": "RCTD-209",
-    "title": "第2回ママフェラ選手権",
+    "id": 536039,
+    "IDcode": "RKI-482",
+    "title": "私、一ノ瀬梓は痴女になります。性格が良すぎるMっ娘な一ノ瀬梓がAV监督",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-209"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-482"
   },
   {
-    "id": 77380,
-    "IDcode": "RCTD-210",
-    "title": "双性具AI机器人",
+    "id": 526513,
+    "IDcode": "RKI-483",
+    "title": "発射寸前！ イクッ！イクゥゥ！ビクッビクンってイッてる时に激しくピストン再开。“ダメダメまだイッてるからぁ”とかいう抵抗を无视してつきまくった结果… 富田优衣",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "妄想",
-      "双性人",
-      "娃娃",
-      "素人作品",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "初美りん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-210"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-483"
   },
   {
-    "id": 98351,
-    "IDcode": "RCTD-211",
-    "title": "ロリっ娘レズバトル 百合ひよこ杯",
+    "id": 470115,
+    "IDcode": "RKI-485",
+    "title": "來絕倫大叔家幹到整天連續高潮&amp;絕頂中出！ 夢咲日南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af65c6d7791f92730e92fd/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-485"
+  },
+  {
+    "id": 523517,
+    "IDcode": "RKI-487",
+    "title": "世界一コンドームをパンパンに膨らます男の中出しドッカーンSEX 有坂深雪 森下美怜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3eab60a01306d1a1272c1fd6db69aab4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-487"
+  },
+  {
+    "id": 513754,
+    "IDcode": "RKI-488",
+    "title": "超！淫蕩真空口交痴女 有村希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d58ff58d3c43c2b336ffa9bf990d413f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-488"
+  },
+  {
+    "id": 99092,
+    "IDcode": "RKI-489",
+    "title": "元エステティシャン同じ会社で働いていた本当の部下と上司",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "苗条",
-      "平胸",
-      "女同接吻",
-      "素人作品",
+      "乳房",
+      "第一人称摄影",
+      "滥交",
       "女同性恋",
-      "女生"
+      "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-03-21",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd211/1rctd211pl.jpg",
+    "company": "ROOKIE",
+    "publish_date": "2019-04-19",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/azT73gbE.jpg",
     "actress": [
-      "生田みく",
-      "千种ちな",
-      "佐野あい",
-      "七羽りおん"
+      "田渊正浩",
+      "宫村ななこ",
+      "松下美织"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-489"
   },
   {
-    "id": 212448,
-    "IDcode": "RCTD-212",
-    "title": "淫荡的巴士-宝田もなみ",
+    "id": 206247,
+    "IDcode": "RKI-491",
+    "title": "好色校长把聪明美少女性感开发成淫荡娼妇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a7594f7ad8b89eb6ce1ab75767299ff2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4ca065f03a092cf67480c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-212"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-491"
   },
   {
-    "id": 536052,
-    "IDcode": "RCTD-213",
-    "title": "熟女エロプロレス",
+    "id": 595193,
+    "IDcode": "RKI-493",
+    "title": "NTR护士～在女友前面搞上住院中的男友的小恶魔护士",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/f1dad0526c3fc8f53086f08a80f94ade.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-493"
+  },
+  {
+    "id": 191604,
+    "IDcode": "RKI-494",
+    "title": "世界最快早泄男被西野翔的榨干睪丸内射性交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/840e3cb7c953b17e7a948a6a2d4322b4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-494"
   },
   {
-    "id": 77305,
-    "IDcode": "RCTD-215",
-    "title": "巨乳温泉レポーターに勃起チ○ポ見せつけたら発情してド痴女化",
+    "id": 74411,
+    "IDcode": "RKI-495",
+    "title": "姉妹の逆3P-三原ほのか 有坂深雪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "荡妇",
+      "潮吹",
       "中出",
-      "素人作品",
+      "多P",
+      "妹妹"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7c1e9df8f58dbbf3b387cb12ccee397c.jpg",
+    "actress": [
+      "有坂深雪",
+      "三原穗香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-495"
+  },
+  {
+    "id": 74463,
+    "IDcode": "RKI-496",
+    "title": "超像天然超S的超美人声优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "潮吹",
+      "美少女电影",
+      "明星脸",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/63301d2a62542a2c7bab5746e1261ee5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-496"
+  },
+  {
+    "id": 74466,
+    "IDcode": "RKI-497",
+    "title": "新・世界一早漏男×神咲詩織の金玉がスッカラカンになるまで発射し続ける連続ぶっかけ＆大量中出しSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
       "巨乳",
-      "口交",
-      "各种职业",
-      "浴衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-215"
-  },
-  {
-    "id": 87920,
-    "IDcode": "RCTD-216",
-    "title": "ROCKET新人女AD羞耻全裸研修",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "中文字幕",
+      "无码破解",
       "中出",
-      "素人作品",
-      "口交",
-      "各种职业"
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c0e199dfd288b1e7235da4c169fca8cb.jpg",
+    "company": "ROOKIE",
+    "publish_date": "2019-07-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/8663952f43028ec5ca97105ed721ea0b.jpg",
     "actress": [
-      "Qべぇ"
+      "神咲诗织"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-216"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-497"
   },
   {
-    "id": 535829,
-    "IDcode": "RCTD-217",
-    "title": "ふたなり家（盖也家）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-217"
-  },
-  {
-    "id": 98899,
-    "IDcode": "RCTD-218",
-    "title": "ぼでぃじゃっきゅ ショタ憑依番外編",
+    "id": 77314,
+    "IDcode": "RKI-498",
+    "title": "世界一早漏男-深田えいみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "妄想",
-      "调教",
-      "恋物癖",
-      "正太控",
-      "素人作品",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-04-25",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd218/1rctd218pl.jpg",
-    "actress": [
-      "亜矢みつき",
-      "水城奈緒",
-      "Qべぇ",
-      "御坂莉亚"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-218"
-  },
-  {
-    "id": 595237,
-    "IDcode": "RCTD-219",
-    "title": "魔镜号～女性友人分享老二的双口交体验",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220713-1/58fafbeba43c0452adf1bb16661bfa00.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-219"
-  },
-  {
-    "id": 565564,
-    "IDcode": "RCTD-220",
-    "title": "春药美容沙龙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2598feaf241095443535e94f6d13e1d1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-220"
-  },
-  {
-    "id": 535839,
-    "IDcode": "RCTD-221",
-    "title": "巨乳キャバ嬢レズバトル 优月まりな 冢田诗织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-221"
-  },
-  {
-    "id": 77378,
-    "IDcode": "RCTD-222",
-    "title": "淫語女子アナ17 新元号は爆乳！？W爆乳アナSP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "女主播",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/98c1777d020262b3363f5ec4e3a8d4b4.jpg",
-    "actress": [
-      "三岛奈津子",
-      "中村知恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-222"
-  },
-  {
-    "id": 103086,
-    "IDcode": "RCTD-224",
-    "title": "头像镜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "妄想",
-      "戏剧",
-      "调教",
-      "恋物癖",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "上野真奈美",
-      "明里友香",
-      "仓木诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-224"
-  },
-  {
-    "id": 98816,
-    "IDcode": "RCTD-227",
-    "title": "せっかく女になったのに…不完全な女体化で下半身はふたなり！？4 ふたなり痴漢編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "双性人",
-      "调教",
-      "性骚扰",
-      "素人作品",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-05-23",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241108-1/055ed8691920d326b3db6d618b83f2a3.jpg",
-    "actress": [
-      "黑川堇",
-      "葵玲奈",
-      "小泉真理",
-      "斎藤ミオリ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-227"
-  },
-  {
-    "id": 535838,
-    "IDcode": "RCTD-228",
-    "title": "第4回 覆面剥ぎレズバトル 长身アスリート女优対决编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-228"
-  },
-  {
-    "id": 77391,
-    "IDcode": "RCTD-231",
-    "title": "汽车旅馆做爱对决",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "平胸",
-      "情侣",
-      "业余",
-      "素人作品",
-      "女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c27a1081b0670e6803d28a209f9263c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-231"
-  },
-  {
-    "id": 595130,
-    "IDcode": "RCTD-232",
-    "title": "是家人就猜出姐姐、母亲、祖母的裸体！亲子三代ALL近亲SP 齐聚姐姐、母亲、祖母三人，而且全都是巨乳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/CkwvsGph.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-232"
-  },
-  {
-    "id": 77636,
-    "IDcode": "RCTD-233",
-    "title": "人生最美好的时候突然变成最糟的恶梦穿上耻辱耻辱婚纱的奴隶新娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞耻",
-      "调教",
-      "白天出轨",
+      "精选，综合",
+      "荡妇",
+      "巨乳",
+      "中出",
+      "美少女电影",
       "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3ba77ff6ef02d8e78f1ddba6446e8cbf.jpg",
-    "actress": [
-      "铃木里美",
-      "蓝井优太",
-      "松永纱奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-233"
-  },
-  {
-    "id": 451876,
-    "IDcode": "RCTD-235",
-    "title": "CN マジックミラー壁チ○ポ号3 シコってしゃぶって！新妻なら夫チン当ててみてゲーム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/49edcae5e3795d32bb814813f1077cf9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-235"
-  },
-  {
-    "id": 82886,
-    "IDcode": "RCTD-237",
-    "title": "NEWガチンコ全裸レズバトル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "手指插入",
-      "舔阴",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/131186006a9d1cb4a7cbd18d7f253089.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/afe5990bc2d00b0c7093d187eef0f047.jpg",
     "actress": [
-      "小泉真理",
-      "桐谷奈緒",
-      "梨々花",
-      "绀野さゆり"
+      "深田詠美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-237"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-498"
   },
   {
-    "id": 74464,
-    "IDcode": "RCTD-238",
-    "title": "淫語依存症改善センズリ支援センター",
+    "id": 77638,
+    "IDcode": "RKI-499",
+    "title": "新世界第一的早射男与波多野结衣的连续大量内射性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
-      "护士",
       "中出",
-      "口交"
+      "手淫",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-06-20",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/76cc942cb50f0db58a34c5162fe69a9b.jpg",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4de90b37f89a5f9034d94fc91cad7205.jpg",
     "actress": [
-      "早乙女らぶ",
-      "桥本丽华",
-      "石川祐奈"
+      "波多野结衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-238"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-499"
   },
   {
-    "id": 82893,
-    "IDcode": "RCTD-239",
-    "title": "TSF僕はドッペルゲンガール",
+    "id": 74457,
+    "IDcode": "RKI-500",
+    "title": "関西を代表するアイドルグループのリーダーに超激似！ 超激似 山○○",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "妄想",
-      "多P",
-      "调教",
-      "中出",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-06-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/b29238616eeb4272d16e0ca6c3a83ce4.jpg",
-    "actress": [
-      "美咲佳奈",
-      "川越ゆい",
-      "Qべぇ",
-      "海空花",
-      "后藤里香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-239"
-  },
-  {
-    "id": 535837,
-    "IDcode": "RCTD-242",
-    "title": "バトル・オブ・レズビアンズ2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-242"
-  },
-  {
-    "id": 595060,
-    "IDcode": "RCTD-243",
-    "title": "眼带比基尼的巨乳妈妈 在泳池的近亲相奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-243"
-  },
-  {
-    "id": 595061,
-    "IDcode": "RCTD-246",
-    "title": "吞精女主播",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-246"
-  },
-  {
-    "id": 74462,
-    "IDcode": "RCTD-247",
-    "title": "ボディジャックDOC ～救命憑依病棟編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女医生",
-      "妄想",
-      "调教",
-      "素人作品",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-07-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/400bbba8e4a403cf5724086e9db800e7.jpg",
-    "actress": [
-      "葵玲奈",
-      "上野真奈美",
-      "有坂深雪",
-      "管野静香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-247"
-  },
-  {
-    "id": 98554,
-    "IDcode": "RCTD-248",
-    "title": "TSFふたなり教師びんびん夏物語",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "双性人",
-      "调教",
-      "女教师",
-      "素人作品",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-07-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "持田栞里",
-      "桥本丽华",
-      "水无瀬怜奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-248"
-  },
-  {
-    "id": 523471,
-    "IDcode": "RCTD-250",
-    "title": "波多野结衣- 悪魔嬢ヴァンパイア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250617/5EBQB73H/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-250"
-  },
-  {
-    "id": 565563,
-    "IDcode": "RCTD-252",
-    "title": "真、时间暂停手表 PART 13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0aa3a8ae0bc0e15863b695d785335014.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-252"
-  },
-  {
-    "id": 535836,
-    "IDcode": "RCTD-253",
-    "title": "タッグマッチ レズプロレス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-253"
-  },
-  {
-    "id": 164337,
-    "IDcode": "RCTD-254",
-    "title": "淫語バスガイド篠崎かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220815-1/df150b32c9983a38c641af7bad3e8747.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-254"
-  },
-  {
-    "id": 165337,
-    "IDcode": "RCTD-256",
-    "title": "素人ナンパ爆乳スペルマワゴンが行く！！2019",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-256"
-  },
-  {
-    "id": 516006,
-    "IDcode": "RCTD-258",
-    "title": "深吻牙科診所",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903e0fad6fbef4e901abeed/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-258"
-  },
-  {
-    "id": 82892,
-    "IDcode": "RCTD-259",
-    "title": "TSFプリズン強制女体化監獄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "妄想",
-      "戏剧",
-      "调教",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-08-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/30267059d46310fcba9362320764bae8.jpg",
-    "actress": [
-      "小泉真理",
-      "瀬戸すみれ",
-      "佐久间恵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-259"
-  },
-  {
-    "id": 454235,
-    "IDcode": "RCTD-260",
-    "title": "母子偷偷潛入水中的亂倫遊戲2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0ea0a00693963767e0a42/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-260"
-  },
-  {
-    "id": 82898,
-    "IDcode": "RCTD-261",
-    "title": "巨乳レズバトル捜査官2 椎葉みくる 藤白桃羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
       "巨乳",
-      "女检察官",
-      "女同性恋"
+      "明星脸",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
-    "publish_date": "2019-08-22",
-    "cover_url": "https://guzwiayz.com/20230316/z5gZnvMW/1.jpg?t=1679991770",
-    "actress": [
-      "望月綾香",
-      "藤白桃羽",
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-261"
+    "company": "ROOKIE",
+    "publish_date": "2019-08-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/45d1d279b0840fc0c32aacfba030d6ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-500"
   },
   {
-    "id": 165333,
-    "IDcode": "RCTD-262",
-    "title": "淫语女子アナ18 今一番揉みたい！美巨乳アナSP",
+    "id": 165374,
+    "IDcode": "RKI-501",
+    "title": "萝莉少女-冬愛ことね",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-262"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-501"
   },
   {
-    "id": 76871,
-    "IDcode": "RCTD-263",
-    "title": "マスクドレズビアンの宴開催 第5回覆面剥ぎ",
+    "id": 516613,
+    "IDcode": "RKI-502",
+    "title": "蕾絲邊戀人被男人搞到墮落的日子 蕾",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "已婚妇女",
-      "中文字幕",
-      "成熟的女人",
-      "女同性恋"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ec550f9f43a39dcafcd1187b7b997074.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912747fc2496a27fd075775/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-263"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-502"
   },
   {
-    "id": 77400,
-    "IDcode": "RCTD-264",
-    "title": "男女入れ替えタイムカード",
+    "id": 526252,
+    "IDcode": "RKI-503",
+    "title": "世界で一番浓いザーメンを大量ごっくん 八寻麻衣 あべみかこ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "妄想",
-      "戏剧",
-      "调教",
-      "中文字幕",
-      "素人作品",
-      "女同性恋"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ea05aaa2f591adc4e2360a10ac9d8887.jpg",
-    "actress": [
-      "佐倉陽菜",
-      "麻里梨夏",
-      "持田栞里",
-      "斎藤ミオリ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-264"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-503"
   },
   {
-    "id": 77377,
-    "IDcode": "RCTD-266",
-    "title": "デカ尻ママがトゥワークダンスで近親相姦",
+    "id": 77359,
+    "IDcode": "RKI-504",
+    "title": "世界第一早漏男在蛋蛋掏空之前的连续射精大量中出SEX-美谷朱里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
       "中出",
-      "巨大屁股",
-      "乱伦"
+      "乳房",
+      "颜射"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ROCKET",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
-        "works_count": 502
-      }
-    ],
+    "company": "ROOKIE",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b38ab4246f0eadbdced859a90b153695.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b18466404d72fd0f2d4592b32ad2c889.jpg",
     "actress": [
-      "明美美羽"
+      "美谷朱里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-266"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-504"
+  },
+  {
+    "id": 81921,
+    "IDcode": "RKI-505",
+    "title": "スレンダーボディの超絶美少女がいろんなシチュエーションでエッチッチ 宇佐木あいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "汽车性爱",
+      "苗条",
+      "明星脸",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宇佐木あいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-505"
+  },
+  {
+    "id": 83813,
+    "IDcode": "RKI-506",
+    "title": "新・世界一早漏男×今井夏帆の金玉がスッカラカンになるまで発射し続ける連続ぶっかけ＆大量中出しSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-506"
+  },
+  {
+    "id": 77641,
+    "IDcode": "RKI-508",
+    "title": "世界第一早泄男-河南実里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3c3dea66a5b717c9f655385ac2a29c28.jpg",
+    "actress": [
+      "河南実里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-508"
+  },
+  {
+    "id": 209486,
+    "IDcode": "RKI-509",
+    "title": "先生と相部屋-久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-509"
   }
 ];

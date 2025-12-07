@@ -159,7 +159,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e9691541af1989a14e02384bec3b29ab.jpg",
       "actress": [
@@ -191,7 +191,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/3dd2aa7d38baefa13ecb6302ed9a06a2.jpg",
       "actress": [

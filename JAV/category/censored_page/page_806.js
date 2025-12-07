@@ -1,656 +1,104 @@
 window.PAGE_DATA = [
   {
-    "id": 75430,
-    "IDcode": "KTB-030",
-    "title": "うちの課長は性処理係！女課長とうかIカップ ～こちら人事部 福利性交課 性処理係～ 凛音とうか",
+    "id": 590172,
+    "IDcode": "LUXUCD1",
+    "title": "",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "乳交",
-      "巨乳",
-      "连裤袜"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7b9967e06b03f7a771d24a2d906c1604.jpg",
-    "actress": [
-      "凛音とうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-030"
-  },
-  {
-    "id": 533578,
-    "IDcode": "KTB-031",
-    "title": "着衣爆乳～不动产レディもなみさん（I カップ）の体験告白～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-031"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXUCD1"
   },
   {
-    "id": 75195,
-    "IDcode": "KTB-032",
-    "title": "街角スーツOL連れ込みセクハラ痴●性交・みはる23歳",
+    "id": 590173,
+    "IDcode": "LUXUCD2",
+    "title": "",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "OL",
-      "屁股",
-      "高"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/909c3a4959fc08693c75f14bc59e894b.jpg",
-    "actress": [
-      "三田杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-032"
-  },
-  {
-    "id": 82106,
-    "IDcode": "KTB-033",
-    "title": "街角リクルート女子大生連れ込み痴●ぶっかけ性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "OL",
-      "女大学生",
-      "潮吹"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://tuaskbgnekr.com/20221126/spmmF682/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-033"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXUCD2"
   },
   {
-    "id": 81791,
-    "IDcode": "KTB-034",
-    "title": "デカ尻先生！～ボクの先生は性処理係～ 川原かなえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "巨大屁股",
-      "屁股",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/607b929cc6bba85fb4ed56e19e6a719f.jpg",
-    "actress": [
-      "川原かなえ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-034"
-  },
-  {
-    "id": 539183,
-    "IDcode": "KTB-039",
-    "title": "ぶっかけ！OLスーツ倶楽部18～おじさん大好きみづきさんのお仕事スーツと大人可爱いパパ活コーデ～ 弥生美月",
+    "id": 524218,
+    "IDcode": "LVBT00001",
+    "title": "lvbt00001 排卵日中出し乳少女 弘中麻菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250811-1/1145654fd5cecb94a74bdb36bc759544.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240514-1/77a30921550239c2a326f4554129373e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVBT00001"
   },
   {
-    "id": 539186,
-    "IDcode": "KTB-049",
-    "title": "フレッシュOL倶楽部！ いちか 松本一香",
+    "id": 535123,
+    "IDcode": "LVMAAN-006",
+    "title": "街角色気妻大集合Speciai 総势12名480分OVER",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230317/lYsOLnBF/1.jpg?t=1679991931",
+    "cover_url": "http://15.155250922.com/upload/vod/20240131/pb_e_lvmaan-006.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVMAAN-006"
   },
   {
-    "id": 470685,
-    "IDcode": "KTB-054",
-    "title": "パツパツスーツの隣の奥さんは実は社内セクハラで毎日皆にぶっかけられてるザーメン中毒肉感妻・肉感！OL倶楽部10 寶田萌奈美",
+    "id": 545944,
+    "IDcode": "LVSC-001",
+    "title": "性欲大解放！ヤられたい愿望高めの猛刚毛ドM変态妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb54aecf22ae3e04f0f53a/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240327/COFhQdXm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-001"
   },
   {
-    "id": 544430,
-    "IDcode": "KTB-056",
-    "title": "ぶっかけOLスーツ倶楽部23 姊ギャル夏帆さんの诱惑チクポチ・パンティライン 今井夏帆 new",
+    "id": 544182,
+    "IDcode": "LVSC-002",
+    "title": "性欲大解放！ヤられたい愿望高めの絶伦ドM変态OL",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://pic26.anzise.com/pic/20220506/a6ba856c180e8354073e38fc4eef3857/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250802/OZBYNEFm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-002"
   },
   {
-    "id": 585340,
-    "IDcode": "KTB-058",
-    "title": "与人妻秘书度过三天两夜的出租办公室 性骚扰→颜射→播种→枕营业的全纪录 ～出租妻・百合～ 纱纱原百合 纱纱原百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250811-1/17bd56d1abc59d2afe80cde4b79d90b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-058"
-  },
-  {
-    "id": 80300,
-    "IDcode": "KTB-062",
-    "title": "酔っ払って家に入って来ちゃったパツパツスーツの奥さんは実は職場の男達の精子を毎日ゴックンしているザーメン中毒精飲妻・肉感！OL倶楽部12 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "吞精",
-      "巨大屁股",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2022-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0228b1e147f4b285c92163d24ffd893c.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-062"
-  },
-  {
-    "id": 566002,
-    "IDcode": "KTB-065",
-    "title": "着衣性交桃尻人妻秘书～新妻秘书と过ごす2泊3日のレンタルオフィス～レンタル妻・ゆうは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/E09tLpJ6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-065"
-  },
-  {
-    "id": 566001,
-    "IDcode": "KTB-069",
-    "title": "本生ごっくん！OL倶楽部～ザーメン爱溢るる女秘书のゴックン业务研修～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/940a362ecf8e3eaf60b60189c5490e11.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-069"
-  },
-  {
-    "id": 550985,
-    "IDcode": "KTB-070",
-    "title": "本生ごっくん！OL倶楽部2 ～女上司には心も体も捧げなきゃいけないのよ！もちろんザーメンもネ～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250729/Py1sDhkm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-070"
-  },
-  {
-    "id": 550984,
-    "IDcode": "KTB-071",
-    "title": "フレッシュOL倶楽部！！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250729/7SpgcPPb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-071"
-  },
-  {
-    "id": 550988,
-    "IDcode": "KTB-072",
-    "title": "お姊ちゃんは性処理系！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250729/bfuxxWtA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-072"
-  },
-  {
-    "id": 566000,
-    "IDcode": "KTB-073",
-    "title": "デカパイ先生！先生のオッパイはみんなのモノだよ♪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f147c0bcf2fa73d32ad514e613580fea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-073"
-  },
-  {
-    "id": 547000,
-    "IDcode": "KTB-077",
-    "title": "スーツでお出迎え！セクハラソープの素敌な奥様 本日の出勤あさみさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240101/gvXJcSyN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-077"
-  },
-  {
-    "id": 561961,
-    "IDcode": "KTB-078",
-    "title": "女上司は乳首がお好き！乳首いじりが大好きな女上司のチクハラ射精オフィス ボクの女上司さくらさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/WNik3vLZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-078"
-  },
-  {
-    "id": 453892,
-    "IDcode": "KTB-079",
-    "title": "回來的超下流大姊！即使精子枯竭也不停下抽插的姐姐與離家弟弟瘋狂般做愛最後假日 桐香優里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1d5d52c12b4e6846b2bc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-079"
-  },
-  {
-    "id": 561690,
-    "IDcode": "KTB-080",
-    "title": "女上司は精子がお好き！仕事中にも関わらずチ○ポの研究にいそしむ射精热心な桃尻OLの强制射精オフィ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240304/cW1fMh1Q/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-080"
-  },
-  {
-    "id": 561689,
-    "IDcode": "KTB-081",
-    "title": "酔っ払ってガードがユルユルの奥さんのスーツ姿にもう我慢出来ないっ！2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240304/Ojg8uCm8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-081"
-  },
-  {
-    "id": 453958,
-    "IDcode": "KTB-082",
-    "title": "姊姊後宮！～讓家裡蹲弟弟性處理的溫柔姊姊與用弟弟做性欲處理的擅自姊姊，您喜歡哪一個？～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e169bb7de28f4ede76fe70/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-082"
-  },
-  {
-    "id": 517361,
-    "IDcode": "KTB-083",
-    "title": "【马赛克破坏】身穿套装欢迎光临！性",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f1c671fcdee36fa7f8fa3/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-083"
-  },
-  {
-    "id": 560948,
-    "IDcode": "KTB-084",
-    "title": "～デカ尻OLゆらさんは敏感过ぎて接客そっちのけでイキまくっちゃう我が社のオチ●ポ受付嬢～ぶっかけ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240507/lAkAksZP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-084"
-  },
-  {
-    "id": 14200,
-    "IDcode": "KTB-085",
-    "title": "敏感到迫不及待脫衣服♪ 大奶子老婆穿衣性感被性騷擾 都月楓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "多P",
-      "慾求不滿",
-      "完全着衣",
-      "苗條",
-      "美腳",
-      "緊身衣",
-      "OL",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "不倫",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "手指插入",
-      "乳交",
-      "偷竊",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240604/20240604061313715715.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-085"
-  },
-  {
-    "id": 517111,
-    "IDcode": "KTB-086",
-    "title": "我可以隨時隨地射精！高個子桃屁股的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902917579f1ac4ec4ca26e4/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-086"
-  },
-  {
-    "id": 531421,
-    "IDcode": "KTB-087",
-    "title": "大き过ぎて飞び出しちゃう♪パツパツスーツの爆乳奥様と楽しむ着衣性交セクハラソープ",
+    "id": 441085,
+    "IDcode": "LVSC-003",
+    "title": "情妇契约专访-超美巨乳肉食妹与变态名媛男-铃木麻友9204-铃木真夕",
     "year": "",
     "country": "",
     "genre": "",
@@ -658,22 +106,1185 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250227/SxH0UsGy/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/f57f91c1ff04828250fdbacba14ab061.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-003"
   },
   {
-    "id": 469611,
-    "IDcode": "KTB-088",
-    "title": "～我和女朋友的变装女同日记～学生时代，有人看见我穿着女朋友的裙子自慰，现在已经是上班族了，我和女朋友的秘密恋物癖还是荡妇下班回家的路 天马由依",
+    "id": 458376,
+    "IDcode": "LVSC-004",
+    "title": "情妇契约采访爱口交的大胸肉食少女以极情色的玩法炫耀濑名霞8409-香澄せな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/28f3cdea337fcc671e667942c280ec60.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-004"
+  },
+  {
+    "id": 545556,
+    "IDcode": "LVSC-005",
+    "title": "爱人契约面接～极上天然爆乳女子と変态セレブ男～小梅えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240508/e9bl2Tms/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-005"
+  },
+  {
+    "id": 545555,
+    "IDcode": "LVSC-006",
+    "title": "性欲大解放！おぢさんを诱惑しまくる105cmHcupドM超敏感女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240508/otv4JnuE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-006"
+  },
+  {
+    "id": 64013,
+    "IDcode": "LVSC-009",
+    "title": "フェチアルバム 超、舐め顔～巧みな舌技で絶頂に導く！絶景ディルドフェラチオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "荡妇",
+      "口交",
+      "巨乳",
+      "恋物癖",
+      "故事集",
+      "4K",
+      "美少女电影",
+      "素人作品",
+      "姐姐",
+      "淫语",
+      "猥亵穿着"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木真夕",
+      "桜木美音",
+      "菊池春",
+      "星仲ここみ",
+      "足立るい",
+      "冬爱琴音",
+      "凉南佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-009"
+  },
+  {
+    "id": 499447,
+    "IDcode": "LWQ_002",
+    "title": "巨乳図書委員のむっつりオナホちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/33cd16e186319b547a27d591d73c6cf6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LWQ_002"
+  },
+  {
+    "id": 462169,
+    "IDcode": "LWQ-001",
+    "title": "色情女性身體與淫穢罕見乳頭受虐狂 Onaho 陳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec045b52c12b4e68461b2f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LWQ-001"
+  },
+  {
+    "id": 11036,
+    "IDcode": "LWQ-002",
+    "title": "巨乳図書委員のむっつりオナホちゃん 栗畑なずな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "文藝女",
+      "眼鏡",
+      "中出",
+      "接吻",
+      "劇情",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "顏射",
+      "騎乗位",
+      "羞恥",
+      "素人",
+      "口交",
+      "巨乳",
+      "自慰",
+      "女上位",
+      "後入",
+      "JK校服"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b44830833b4bf53bd0af/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LWQ-002"
+  },
+  {
+    "id": 188015,
+    "IDcode": "LWQ-003",
+    "title": "制服オナホ美少女 神宮寺あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3eae32cbbe464027d393a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LWQ-003"
+  },
+  {
+    "id": 546898,
+    "IDcode": "LXP-001",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 74【MGSだけのおまけ映像付き+70分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240110/KRUSxVsM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXP-001"
+  },
+  {
+    "id": 545747,
+    "IDcode": "LXP-004",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 77【MGSだけのおまけ映像付き+75分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240417/1VknFMwS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXP-004"
+  },
+  {
+    "id": 545676,
+    "IDcode": "LXP-005",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 78【MGSだけのおまけ映像付き+70分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240424/Lle9qVXe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXP-005"
+  },
+  {
+    "id": 545627,
+    "IDcode": "LXP-006",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 79【MGSだけのおまけ映像付き+75分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240428/FutpGM5N/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXP-006"
+  },
+  {
+    "id": 545533,
+    "IDcode": "LXP-007",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 80",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240510/Ss0FtHCZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXP-007"
+  },
+  {
+    "id": 590406,
+    "IDcode": "LXV-014",
+    "title": "高贵正妹TV×蚊香社精选 12",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-014"
+  },
+  {
+    "id": 166023,
+    "IDcode": "LXV-016",
+    "title": "ラグジュTV×PRESTIGEPREMIUM14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-016"
+  },
+  {
+    "id": 166024,
+    "IDcode": "LXV-017",
+    "title": "ラグジュTV×PRESTIGEPREMIUM15",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-017"
+  },
+  {
+    "id": 64147,
+    "IDcode": "LXV-063",
+    "title": "豪华电视xPRESTIGEPREMIUM61成人色情达到极致！我们将向您展示所有美女的真实面-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240901-1/23ed0b15a3a7575ae0051f4e68e19d55.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-063"
+  },
+  {
+    "id": 564821,
+    "IDcode": "LXV-064",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 62＋未公开映像DVD付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230105/j0RGwg21/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-064"
+  },
+  {
+    "id": 64146,
+    "IDcode": "LXV-066",
+    "title": "豪华电视xPRESTIGEPREMIUM64成人色情达到极致！我们-田原凛花,広瀬美希,宝川莉子等演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240901-1/0f1c7439b7cc69ce04b8395a8397ff97.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-066"
+  },
+  {
+    "id": 461409,
+    "IDcode": "LXV-067",
+    "title": "豪华TV×PRESTIGEP成人色情达到极致！我们将向您展示所有美女的真实面目！-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240901-1/feaa4647f0b75217f9fdfde774fac44b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-067"
+  },
+  {
+    "id": 461413,
+    "IDcode": "LXV-068",
+    "title": "LaguTVxPRESTIGEP将成人情色发挥到极致！这些美女的真实面貌-儿玉玲奈。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240830-1/7c4e77746f7f157707a2c2e5d6c8a722.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-068"
+  },
+  {
+    "id": 461411,
+    "IDcode": "LXV-070",
+    "title": "豪华TV×PRESTIGEP成人色情达到极致！我们将向您展示所有美女的真实面目！-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240901-1/74830c8f99f2aa2649ee147fd65a3022.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-070"
+  },
+  {
+    "id": 548525,
+    "IDcode": "LXV-072",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 70＋未公开映像DVD付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230809/LNe2pciJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-072"
+  },
+  {
+    "id": 548524,
+    "IDcode": "LXV-073",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 71＋未公开映像DVD付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230809/37Wmc2Hi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-073"
+  },
+  {
+    "id": 562523,
+    "IDcode": "LXV-074",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 72＋未公开映像DVD付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231230/RYHPBPRX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-074"
+  },
+  {
+    "id": 546897,
+    "IDcode": "LXV-075",
+    "title": "ラグジュTV×PRESTIGE PREMIUM 73＋未公开映像DVD付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240110/QLFQ4RyW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXV-075"
+  },
+  {
+    "id": 104480,
+    "IDcode": "LXVS-017",
+    "title": "ラグジュTV-高坂麗子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-017"
+  },
+  {
+    "id": 175903,
+    "IDcode": "LXVS-019",
+    "title": "超有女人味的28岁女医师穿着高跟丝袜被干到疯狂高潮喷水",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-019"
+  },
+  {
+    "id": 567698,
+    "IDcode": "LXVS-025",
+    "title": "ラグジュTV×PRESTIGESELECTION25（DVD＋Blu-rayDisc2枚组）白川耀子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-025"
+  },
+  {
+    "id": 567688,
+    "IDcode": "LXVS-026",
+    "title": "ラグジュTV×PRESTIGESELECTION26（DVD＋Blu-rayDisc2枚组）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-026"
+  },
+  {
+    "id": 526640,
+    "IDcode": "LXVS-028",
+    "title": "ラグジュTV×PRESTIGE SELECTION 28（ブルーレイディスク＋DVD） 相泽玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230302/118lxvs00028pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-028"
+  },
+  {
+    "id": 536117,
+    "IDcode": "LXVS-040",
+    "title": "ラグジュTV×PRESTIGESELECTION40（ブルーレイディスク＋DVD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-040"
+  },
+  {
+    "id": 166025,
+    "IDcode": "LXVS-043",
+    "title": "ラグジュTV×PRESTIGESELECTION43",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-043"
+  },
+  {
+    "id": 539335,
+    "IDcode": "LXVS-046",
+    "title": "ラグジュTV×PRESTIGE SELEC",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LXVS-046"
+  },
+  {
+    "id": 102566,
+    "IDcode": "LY-001",
+    "title": "ウテウテ ゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "滥交",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2001-02-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-001"
+  },
+  {
+    "id": 104485,
+    "IDcode": "LY-006",
+    "title": "東京CUTIES",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2010-12-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-006"
+  },
+  {
+    "id": 77629,
+    "IDcode": "LY-010",
+    "title": "キャンギャルにエロく抜かれたい！ 杉浦清香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣",
+      "展场女孩",
+      "偷窥"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2001-12-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "杉浦清香（今井祐子）"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-010"
+  },
+  {
+    "id": 437830,
+    "IDcode": "LY-063",
+    "title": "麻豆傳媒 初探醉酒哥哥的肉棒-吳雙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-063"
+  },
+  {
+    "id": 536116,
+    "IDcode": "LZAN-014",
+    "title": "ポルチオ残酷レズ折槛 爱、凌辱 III ～レズれ！史上最狂！涙と淫汁に涂（まみ）れた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZAN-014"
+  },
+  {
+    "id": 483727,
+    "IDcode": "LZBS_111",
+    "title": "体液絡みつくネッチョリ濃厚ぬるぬるテカテカオイルレズセックス厳選ベスト5時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/6c78d9b02d14ad3b9089d6e9b2e108b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS_111"
+  },
+  {
+    "id": 524209,
+    "IDcode": "LZBS-003",
+    "title": "lzbs00003 结城みさ レズれ！プレミアムBEST4时间 女监督・真咲南朋が憧れた女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240507-1/24d7ec08d29d97eb60086216d6659e11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-003"
+  },
+  {
+    "id": 522039,
+    "IDcode": "LZBS-007-1796",
+    "title": "位女他优他",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221214-1/2095205479b6fb97a367417037d92ade.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-007-1796"
+  },
+  {
+    "id": 523255,
+    "IDcode": "LZBS-019-CD1",
+    "title": "波多野结衣- 絶顶！拘束·调教レズビアン 人気女优16人が本気で爱し合いアクメする5时间SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250517/sYbkuUsn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-019-CD1"
+  },
+  {
+    "id": 523252,
+    "IDcode": "LZBS-019-CD2",
+    "title": "波多野结衣- 絶顶！拘束·调教レズビアン 人気女优16人が本気で爱し合いアクメする5时间SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250517/Hz6pirHd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-019-CD2"
+  },
+  {
+    "id": 524208,
+    "IDcode": "LZBS-020",
+    "title": "lzbs00020 川上ゆう レズれ！ プレミアムBEST5 时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240507-1/72a4f9c7dc7664e3e06a7574abbdaff1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-020"
+  },
+  {
+    "id": 536138,
+    "IDcode": "LZBS-033",
+    "title": "麻里梨夏レズれ！プレミアムBEST5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-033"
+  },
+  {
+    "id": 536202,
+    "IDcode": "LZBS-034",
+    "title": "レズれ！初レズセックス厳选ベスト5时间柔らかくてあったかい！はじ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-034"
+  },
+  {
+    "id": 536142,
+    "IDcode": "LZBS-035",
+    "title": "レズれ！ペニバンセックス厳选ベスト5时间より激しい爱を求めたオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-035"
+  },
+  {
+    "id": 535919,
+    "IDcode": "LZBS-037",
+    "title": "_A レズれ！祝5周年记念 オンナが女を追い诘める残酷な絶顶処刑 秘唇グチョグ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-037"
+  },
+  {
+    "id": 536074,
+    "IDcode": "LZBS-038",
+    "title": "レズれ！女子●生レズセックス厳选ベスト5时间 キスからエスカレートする欲情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-038"
+  },
+  {
+    "id": 536090,
+    "IDcode": "LZBS-040",
+    "title": "レズれ！双头ディルドレズセックス厳选ベスト5时间 膣中突き合いと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-040"
+  },
+  {
+    "id": 536128,
+    "IDcode": "LZBS-043",
+    "title": "レズれ！ペニバンセックス 厳选ベスト5时间2 さらに爱が激化したオンナた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-043"
+  },
+  {
+    "id": 536110,
+    "IDcode": "LZBS-046",
+    "title": "レズれ！ 快楽堕ち必至のオイルマッサージ・セックス 厳选ベスト5时间 淫乱エステで女がハマるワレメサービスお见せします！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-046"
+  },
+  {
+    "id": 98833,
+    "IDcode": "LZBS-051",
+    "title": "レズれ！初レズセックス厳選ベスト5時間2 こんなに柔らかい気持ち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "素人作品",
+      "4小时以上作品",
+      "女同性恋",
+      "手指插入",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-10-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "八乃翼",
+      "蓮実クレア",
+      "高杉麻里",
+      "上原亞衣",
+      "美保结衣",
+      "伴牧英",
+      "熊宫由乃",
+      "纱也いつか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-051"
+  },
+  {
+    "id": 516622,
+    "IDcode": "LZBS-054",
+    "title": "搞蕾絲邊！潮吹蕾絲邊性愛精選5小",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/69114d71312f492881526707/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-054"
+  },
+  {
+    "id": 516672,
+    "IDcode": "LZBS-057",
+    "title": "來搞蕾絲邊！假屌抽插性愛 嚴選精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901233fd6fbef4e90159cce/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-057"
+  },
+  {
+    "id": 516661,
+    "IDcode": "LZBS-058",
+    "title": "來搞蕾絲邊！即使高潮仍持續玩弄…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903e5b1dd88d14f0660b9f7/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-058"
+  },
+  {
+    "id": 516710,
+    "IDcode": "LZBS-059",
+    "title": "努力工作累到睡著時身邊信頼的那女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fc960b1572686be7a4e15b/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-059"
+  },
+  {
+    "id": 559904,
+    "IDcode": "LZBS-060",
+    "title": "因为厌学失控而非常亲近和信任的纪元女人突然变成了恶作剧远非不喜欢感觉太好了我不想被阻止-风间由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/18/68412_cover_2025-06-18_041700.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-060"
+  },
+  {
+    "id": 516685,
+    "IDcode": "LZBS-062",
+    "title": "絶倫蕾絲邊痴女的W淫語高潮！高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffc4ad7de28f4edeab622e/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-062"
+  },
+  {
+    "id": 536810,
+    "IDcode": "LZBS-064",
+    "title": "激震パイ揺れ！暴走腰振り骑乘位 厳选ベスト5时间 オマ○コ感度无限大オーガズムお见せします！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231221/1603123858-lzbs064pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-064"
+  },
+  {
+    "id": 536800,
+    "IDcode": "LZBS-065",
+    "title": "ずっと密着ベロキスでトロけるキスビアン性交 厳选5时间 超浓厚な舌の络みと唾液交换！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231218/1605974618-lzbs065pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-065"
+  },
+  {
+    "id": 536768,
+    "IDcode": "LZBS-067",
+    "title": "业界屈指のアナルビアン24人大集结！厳选ベスト5时间 尻肉ぷりぷり美女VS美女のアナルセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231207/1610978414-lzbs067pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-067"
+  },
+  {
+    "id": 536749,
+    "IDcode": "LZBS-068",
+    "title": "レズれ！ペニバンセックス 厳选ベスト5时间4 膣奥の疼きを埋めるため业界一の腰振りペニバンビアン大集结！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231201/1613923265-lzbs068pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-068"
+  },
+  {
+    "id": 410714,
+    "IDcode": "LZBS-079",
+    "title": "美女蕾絲邊亂交 性豪蕾絲邊高潮愛合同時多發絶頂嚴選精選5小時",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d097cbeb67774efbae0fea/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-079"
+  },
+  {
+    "id": 536511,
+    "IDcode": "LZBS-081",
+    "title": "レズれ！潮吹きレズセックス厳选ベスト5时间 4 美女たちの大・大・大洪水！イキ潮スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231004/lzbs081pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-081"
+  },
+  {
+    "id": 536359,
+    "IDcode": "LZBS-091",
+    "title": "ねっちょりマ●コ舐めで连続絶顶！クリちゅぱベロ挿入ズッボズボでイカせまくるレズクンニ100连発 厳选ベスト5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230711/lzbs091pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-091"
+  },
+  {
+    "id": 536370,
+    "IDcode": "LZBS-092",
+    "title": "ベロキス浓密レズセックスでグッチョグチョに交わる体液… 汗×潮×涎まみれ100连発！厳选ベスト5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230715/lzbs092pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-092"
+  },
+  {
+    "id": 536395,
+    "IDcode": "LZBS-093",
+    "title": "脳みそからオマ●コまでガンギマリする 媚薬堕ちトランスレズセックス 厳选ベスト5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230416/imftkBwD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-093"
+  },
+  {
+    "id": 536412,
+    "IDcode": "LZBS-095",
+    "title": "レズれ！の出演女优さんからアンケートを取ったら一番気持ち良かったプレイが“キス手マン”でした。 子宫こねくり回し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250802/dQknQcPt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-095"
+  },
+  {
+    "id": 536428,
+    "IDcode": "LZBS-096",
+    "title": "CtoC（クリトリスtoクリトリス）でオマ●コ擦り合い、外イキするヌルマンお豆洗い贝合わせ絶顶厳选ベスト5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230723/3o7N47nx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-096"
+  },
+  {
+    "id": 411333,
+    "IDcode": "LZBS-098",
+    "title": "「一边吞噬快感，一边全身抽搐，流着水流和眼泪，快感疯狂」女同！深受喜爱的传奇猫的最佳5小时",
     "year": "",
     "country": "",
     "genre": "",
@@ -681,1890 +1292,393 @@ window.PAGE_DATA = [
       "女同"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829768cae3235deaa23b549/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb769b4e7d663df4ca2573/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-098"
   },
   {
-    "id": 10860,
-    "IDcode": "KTB-090",
-    "title": "オフィスに出張！ セクハラ出来ちゃうオトナの保育士 三田サクラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "艷遇",
-      "多P",
-      "辦公室",
-      "肉絲",
-      "OL",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "兩男一女",
-      "短髮",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "奇異的",
-      "幼稚園老師",
-      "高跟鞋",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/aa03b8c31239875883a4baf2755eb34b.jpg",
-    "actress": [
-      "三田櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-090"
-  },
-  {
-    "id": 181587,
-    "IDcode": "KTB-091",
-    "title": "酔っ払ってガードがユルユルの奥さんのスーツ姿にもう我慢出来ないっ！3",
+    "id": 536872,
+    "IDcode": "LZBS-099",
+    "title": "青い香りのする制服美少女がマ●コの魅力にハマる女子●生レズセックス絶顶厳选ベスト5时间",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/24/0f5c0fa3d8270dfc92892d4e6cbce4f8.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230927/YCM89vru/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-099"
   },
   {
-    "id": 9369,
-    "IDcode": "KTB-092",
-    "title": "枕營業部所屬 性處理專用祕書 ~ 都月楓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "口爆",
-      "慾求不滿",
-      "綠茶婊",
-      "苗條",
-      "辦公室",
-      "肉絲",
-      "美腳",
-      "OL",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "心機婊",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高跟鞋",
-      "女秘書",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250105/20250105044316165165.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-092"
-  },
-  {
-    "id": 67268,
-    "IDcode": "KTB-094",
-    "title": "～僕と彼女の女装レズ日記～ ズボンを汚してしまった僕に女上司が自分のスカートを貸してくれて… ゾクゾクする裏地の感触に思わず勃起してしまい男の娘になってレズられた僕 本田もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "恋腿癖",
-      "女装人妖",
-      "OL",
-      "高",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832e7e6916c69f83f8d63fa/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-094"
-  },
-  {
-    "id": 66220,
-    "IDcode": "KTB-095",
-    "title": "7日後に犯●れる職場の○○さん～スーツOLが社内ストーカーに肉便器に堕とされるまでの1週間にわたる射精記録～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "OL",
-      "中出",
-      "偷窥"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cf349ed5b270bc9212a2/cover.jpg",
-    "actress": [
-      "ハリー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-095"
-  },
-  {
-    "id": 63616,
-    "IDcode": "KTB-096",
-    "title": "僕と彼女の女装レズ日記～る裏地の感触についつい勃起してしまい気が付いたらスカート穿かされ何度もイカされていた僕 水端あさみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "恋腿癖",
-      "女装人妖",
-      "OL",
-      "高",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/03/dee01f6e9fa0490d9bfdd528fdb855ba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-096"
-  },
-  {
-    "id": 5593,
-    "IDcode": "KTB-097",
-    "title": "7日後に犯●れる職場の○○さん【2犯目】桃尻OL・Yさん～スーツOLが社内ストーカーに肉便器に堕とされるまでの1週間にわたる射精記録～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "更衣室",
-      "奇聞趣事",
-      "小隻馬",
-      "M男・M女",
-      "媚藥・迷藥",
-      "職場",
-      "苗條",
-      "偷拍・盜撮",
-      "辦公室",
-      "肉絲",
-      "美腳",
-      "強姦",
-      "OL",
-      "羞恥",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "無毛",
-      "迷姦",
-      "電車",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042157336336_thumbnail.webp",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-097"
-  },
-  {
-    "id": 4924,
-    "IDcode": "KTB-098",
-    "title": "7日後に犯●れる職場の○○さん【3犯目】教育実習生・Sさん～スーツ女子大生がストーカーに肉便器に堕とされるまでの1週間にわたる射精記録～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "更衣室",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "豐滿",
-      "素人作品",
-      "偷拍・盜撮",
-      "阪道系",
-      "凌辱",
-      "肉絲",
-      "美腳",
-      "強姦",
-      "OL",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "色白",
-      "美乳",
-      "寢取",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "淫蕩・硬核",
-      "高顏值",
-      "極品美人",
-      "尾行",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "無毛",
-      "乳交",
-      "電車",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/22b73c274b12a76912c030e2b54b6718.jpg",
-    "actress": [
-      "静河"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-098"
-  },
-  {
-    "id": 62414,
-    "IDcode": "KTB-099",
-    "title": "～僕と彼女の女装レズ日記～ 彼女と社内女装レズを楽しんでる所を目撃した女上司が誘惑！二人からオモチャにされ犯●れる事になった僕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "荡妇",
-      "恋腿癖",
-      "女装人妖",
-      "OL"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "天馬唯",
-      "美咲佳奈",
-      "向理来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-099"
-  },
-  {
-    "id": 3930,
-    "IDcode": "KTB-100",
-    "title": "オフィス痴●で感じちゃう…敏感OLは職場の男達に1日中触られ放題のいつでもOKドスケベ娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "M男・M女",
-      "倉庫",
-      "猥亵",
-      "職場",
-      "痴漢",
-      "凌辱",
-      "辦公室",
-      "美少女",
-      "肉絲",
-      "OL",
-      "羞恥",
-      "寢取",
-      "變態",
-      "清楚系",
-      "制服",
-      "按摩棒",
-      "性感",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "兩男一女",
-      "性騷擾",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "高跟鞋",
-      "御姐系",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895cf6755337d7f7ba3e413/cover.jpg",
-    "actress": [
-      "静河"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-100"
-  },
-  {
-    "id": 3100,
-    "IDcode": "KTB-101",
-    "title": "7日後に犯●れる職場の○○さん【4犯目】キャリアウーマン・Kさん～スーツOLが社内ストーカーに肉便器に堕とされるまでの1週間にわたる射精記録～ 美咲かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "更衣室",
-      "小隻馬",
-      "M男・M女",
-      "口爆",
-      "素人作品",
-      "職場",
-      "偷拍・盜撮",
-      "鬼畜片",
-      "阪道系",
-      "凌辱",
-      "辦公室",
-      "美腳",
-      "強姦",
-      "OL",
-      "羞恥",
-      "自宅",
-      "大奶头",
-      "美乳",
-      "制服",
-      "清楚系",
-      "按摩棒",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "輪姦",
-      "舔陰",
-      "清純",
-      "手指插入",
-      "高妹",
-      "無毛",
-      "舔腳",
-      "魔鬼系",
-      "電車",
-      "白眼失神",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/09/4c5d4a02c1b929e5b0a3d6366be41591.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-101"
-  },
-  {
-    "id": 2256,
-    "IDcode": "KTB-102",
-    "title": "奥様ぶっかけプライベートサロン！ご近所相手のエステサロンを始めた長身デカ尻妻は天然ドスケベいいなりエロサービスで毎日大盛況！ 沙月ふみの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "獵豔",
-      "港區女子",
-      "感謝祭",
-      "阪道系",
-      "美腳",
-      "OL",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "按摩・美容店",
-      "風俗娘",
-      "按摩女郎",
-      "美人",
-      "後入",
-      "劇情",
-      "顏射",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "高妹",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/12/ca5d9ece17032479d1138838904efa68.jpg",
-    "actress": [
-      "沙月文乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-102"
-  },
-  {
-    "id": 174043,
-    "IDcode": "KTB-103",
-    "title": "ぶっかけ！OLスーツ倶楽部28～インターン女子大生静河さんのヤル気満々ホワイトスーツとセクハラ専用スカートスタイル～",
+    "id": 536863,
+    "IDcode": "LZBS-100",
+    "title": "膣奥で爱し合う双头ディルドW絶顶レズセックス 厳选ベスト5时间",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231026/gHjNoiHD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-100"
   },
   {
-    "id": 174070,
-    "IDcode": "KTB-104",
-    "title": "【痴●団地】～触られたい女達が集うぶっかけアパートメント・痴●フリーな女達 あさみ＆ひかる～",
+    "id": 561727,
+    "IDcode": "LZBS-103",
+    "title": "さすらいのレズビアン ～心もマ●コも解放する2人きりの女子旅～ 厳选ベスト5时间",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/05/c2a999294f20d1712a69320ea568b759.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240229/pp6pjLyp/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-104"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-103"
   },
   {
-    "id": 517496,
-    "IDcode": "KTB-957",
-    "title": "职场女神沦陷记！西装OL遭同事疯狂调",
+    "id": 545681,
+    "IDcode": "LZBS-105",
+    "title": "入学シーズン到来！レズ制服春夏コレクション2024～学生服のスカートから爱液垂れ流し、汗ばんだ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/03/68657d8443d6972716a58cb8/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240424/AE5OosEw/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-105"
   },
   {
-    "id": 62807,
-    "IDcode": "KTDH-010",
-    "title": "義弟のけんじ君… 階段の下で、そんな目でスカートの中を… 私の足を見つめていたの？全く… この長い美脚… 味わってみたい？ 篠崎らら",
+    "id": 411071,
+    "IDcode": "LZBS-106",
+    "title": "強硬讓人高潮的騎乘位玩法！ 力竭推倒的權力騷擾蕾絲邊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f54e898bc99dfdd129fe4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-106"
+  },
+  {
+    "id": 483457,
+    "IDcode": "LZBS-110",
+    "title": "低头看着高潮的脸，激烈的女牛仔女同性交，严选的最佳5小时 松本一香,美谷朱里,沙月恵奈等演员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "单体作品",
-      "4K",
-      "恋腿癖",
-      "自慰",
-      "足交",
-      "素人作品",
-      "女上位",
-      "跳蛋",
-      "连裤袜",
-      "主观视角",
-      "女优按摩棒"
+      "女同"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "篠咲拉拉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-010"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/39414378b15617ec5acdef94e55e90f0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-110"
   },
   {
-    "id": 62806,
-    "IDcode": "KTDH-011",
-    "title": "マッサージサロンの店員が、なんと友人の妻だった。友人には悪いと思いながらも、挿入してしまった。一度食いついたら放してくれない彼女だった。横峯めぐ",
+    "id": 564974,
+    "IDcode": "LZBS-111",
+    "title": "体液络みつくネッチョリ浓厚ぬるぬるテカテカオイルレズセックス 厳选ベスト5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241201/ktB1Acob/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-111"
+  },
+  {
+    "id": 402383,
+    "IDcode": "LZBS-115",
+    "title": "右も左もおっぱいとマ●コに囲まれる女だらけのレズ乱交厳選ベスト5時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "接吻",
-      "单体作品",
-      "4K",
-      "恋腿癖",
-      "舔阴",
-      "足交",
-      "素人作品",
-      "口交",
-      "女上位",
-      "主观视角",
-      "连裤袜"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "横峯めぐ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-011"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250814-1/6a6fd1707ea17b35adce6eb5e497b5c8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-115"
   },
   {
-    "id": 62797,
-    "IDcode": "KTDH-012",
-    "title": "物件の案内で汗まみれになった肌色ストッキングの足、20代の不動産女、妻の焦点の合わない目、そして半端ない脚マンコ、口マンコ… マンコ。那賀崎ゆきね",
+    "id": 411204,
+    "IDcode": "LZBS-116",
+    "title": "淫荡女孩吞食湿漉漉的阴户的女同性恋性爱 - 5 小时精心挑选的最佳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "接吻",
-      "单体作品",
-      "4K",
+      "女同"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/01/68135c4a5b6f25c1695efd53/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-116"
+  },
+  {
+    "id": 590268,
+    "IDcode": "LZDM-010",
+    "title": "NTR蕾丝边干炮 ～妻子被恶女寝取了～ 桐嶋莉乃 清城雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221005-1/0760b58e9e77e2b4bcc21727a4bb4cf9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-010"
+  },
+  {
+    "id": 536140,
+    "IDcode": "LZDM-017",
+    "title": "女子●生が女教师を弄ぶ 悪戏レズ同栖 ～初めてのマンツーマンレズレッスン～ 仓木しお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-017"
+  },
+  {
+    "id": 98652,
+    "IDcode": "LZDM-018",
+    "title": "NTRレズビアン ～僕の妻は巨乳の隣人に寝取られました～ 阿部栞菜 北川エリカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
       "已婚妇女",
-      "恋腿癖",
-      "舔阴",
-      "足交",
-      "素人作品",
-      "口交",
-      "女上位",
-      "主观视角",
-      "连裤袜"
+      "淫妻",
+      "偷窥",
+      "女同性恋",
+      "女同接吻",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "company": "",
+    "publish_date": "2018-07-19",
+    "cover_url": "http://15.155250922.com/upload/vod/20220927/lzdm00018pl.jpg",
     "actress": [
-      "那賀崎雪音"
+      "今井栞菜",
+      "北川爱莉香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-018"
   },
   {
-    "id": 518444,
-    "IDcode": "KTDS-590",
-    "title": "妹LOVE PLUS 44 雫花",
+    "id": 536226,
+    "IDcode": "LZDM-019",
+    "title": "义母と娘の偏爱レズビアン ～性に目覚めたばかりの娘を执拗に诱惑する継母",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/6905542c72c0032a43e22131/poster2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-590"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-019"
   },
   {
-    "id": 589304,
-    "IDcode": "KTDS-635",
-    "title": "中出一个安静的普通女孩 23 雷纳 - 高城丽奈",
+    "id": 536121,
+    "IDcode": "LZDM-020",
+    "title": "女子●生が女教师を弄ぶ 悪戏レズ同栖 vol",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/11/36259_cover_2025-09-11_033450.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-635"
-  },
-  {
-    "id": 534241,
-    "IDcode": "KTDS-658",
-    "title": "地味子は隠れ巨乳 34 あかね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-658"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-020"
   },
   {
-    "id": 156008,
-    "IDcode": "KTDS-798",
-    "title": "我光滑的阴道勉强合法顺从的小妹妹",
+    "id": 536120,
+    "IDcode": "LZDM-021",
+    "title": "NTRレズビアン ～仆の妻は会社の上司に寝取られました～ 莲実クレア 熊宫由乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/538be91a6dba19b2ad1589dbc36d2003.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-798"
-  },
-  {
-    "id": 544194,
-    "IDcode": "KTDS-805",
-    "title": "姊ちゃんはGカップ巨乳の変态ドスケベ女树林れもん第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-805"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-021"
   },
   {
-    "id": 569283,
-    "IDcode": "KTDS-846",
-    "title": "つるまんくぱぁ妹は新体操仕込みの软体っ子松浦ゆきな第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-846"
-  },
-  {
-    "id": 569282,
-    "IDcode": "KTDS-853",
-    "title": "いいなりつるぺた妹奇迹のロリ体型美少女迹美しゅり第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-853"
-  },
-  {
-    "id": 435087,
-    "IDcode": "KTDS-958",
-    "title": "近亲中出し 矢泽美々 身长145cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/011e112358495b08e4409ba6a2f87607.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-958"
-  },
-  {
-    "id": 530379,
-    "IDcode": "KTDS-962",
-    "title": "身高149公分的白虎嫩妹 佐藤爱理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190828-1/600abd47990e02d65f92b6a3b307a2dd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-962"
-  },
-  {
-    "id": 530381,
-    "IDcode": "KTDS-963",
-    "title": "メタボなおじさま大好き◆ パイパンM奴隶少女 まい 18歳 九州出身 今井まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190901-1/53d2e806449d2571dc8254be0fc9e656.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDS-963"
-  },
-  {
-    "id": 409907,
-    "IDcode": "KTDVR-110",
-    "title": "鬼嫁に復讐する義父",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab77f15f03a092cf71f9a3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDVR-110"
-  },
-  {
-    "id": 409470,
-    "IDcode": "KTDVR-221",
-    "title": "孕婦大全集 3名大腹便便美女",
+    "id": 98739,
+    "IDcode": "LZDM-022",
+    "title": "悩める巨乳JDのおっぱいレズ物語 優月まりな 後藤里香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "孕妇"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea6d0c631cc64eb5a78454/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDVR-221"
-  },
-  {
-    "id": 545947,
-    "IDcode": "KTEH-001",
-    "title": "神ママ夫公认オナホ妻玉城夏帆さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240327/cLoobVAb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTEH-001"
-  },
-  {
-    "id": 533577,
-    "IDcode": "KTFT-002",
-    "title": "A 妻达のスリップ面接",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTFT-002"
-  },
-  {
-    "id": 212746,
-    "IDcode": "KTFT-003",
-    "title": "人妻私設秘書-並木塔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/7484dd44ca01a725295e86f2643c6de8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTFT-003"
-  },
-  {
-    "id": 75392,
-    "IDcode": "KTFT-004",
-    "title": "痴●オークションに堕ちた女・社長夫人めぐみ 目黒めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "巨乳",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/d989010d53e6bf13d2aacc7fe4575c08.jpg",
-    "actress": [
-      "目黑惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTFT-004"
-  },
-  {
-    "id": 534229,
-    "IDcode": "KTG-003",
-    "title": "“痴汉最低！”と言ってたはずが…感じちゃダメと思えば思うほど感じてしまう本当ははしたない敏感お嬢様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTG-003"
-  },
-  {
-    "id": 531710,
-    "IDcode": "KTK-066",
-    "title": "义父を玩具にする小悪魔コキーヌ 花音 “お父さん、コキコキしてほしいの？” 奏音かのん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230601-1/b20f6d2b30e62671fee2c042ac0db446.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTK-066"
-  },
-  {
-    "id": 470056,
-    "IDcode": "KTKB-016",
-    "title": "讓高傲的美女教師也哭泣！ 風間莉娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b5790c2cbbe464027fbb45/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKB-016"
-  },
-  {
-    "id": 465898,
-    "IDcode": "KTKC-026",
-    "title": "H奶OO妹游擊暴露行  美由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68ea88532c5ed64ee9e61f9b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-026"
-  },
-  {
-    "id": 578434,
-    "IDcode": "KTKC-040",
-    "title": "ムッツリ地味っこ童颜爆乳ちゃん4→絶叫エビぞり闷絶中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-040"
-  },
-  {
-    "id": 218812,
-    "IDcode": "KTKC-051",
-    "title": "童顔爆乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-051"
-  },
-  {
-    "id": 534228,
-    "IDcode": "KTKC-054",
-    "title": "地方発掘☆北海道小樽产メガネ地味爆乳I-cupはアニメ声の声优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-054"
-  },
-  {
-    "id": 534227,
-    "IDcode": "KTKC-056",
-    "title": "地味メガネなのにムッツリI-CUPの地方出身18才爆乳女子大生、女子寮でこっそり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-056"
-  },
-  {
-    "id": 534226,
-    "IDcode": "KTKC-057",
-    "title": "邻に引っ越してきた地味メガネな女子大生は隠れ巨乳（Hカップ）のムッツリ隠れビッチだったので、ちょいと胁して悪戏しちゃいました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-057"
-  },
-  {
-    "id": 534225,
-    "IDcode": "KTKC-058",
-    "title": "银座で话题のカリスマ☆パパ活女子は色気むんむんJカップグラマラス。口说いたらAV出てくれました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-058"
-  },
-  {
-    "id": 534249,
-    "IDcode": "KTKC-059",
-    "title": "パン工场勤务みさき（19）。地味なクセして卑猥なデカ乳轮の隠れ巨乳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-059"
-  },
-  {
-    "id": 523733,
-    "IDcode": "KTKC-063",
-    "title": "＃股沟妹心美酱 ＃H罩杯 ＃私拍 ＃AV流出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190912-1/3231c190e9d61f2dd5d99641390dbe11.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-063"
-  },
-  {
-    "id": 465967,
-    "IDcode": "KTKC-067",
-    "title": "用自傲J罩杯爆乳對商品乳交炎上的超商店員、將她破廉恥動畫擅自販售。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbe483ce5a404e9bc1afe4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-067"
-  },
-  {
-    "id": 99698,
-    "IDcode": "KTKC-070",
-    "title": "中出し迫る巨乳生徒と中年教師 狂い咲き不倫子作りロード",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "荡妇",
-      "巨乳",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2019-12-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ktkc070/ktkc070pl.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-070"
-  },
-  {
-    "id": 78780,
-    "IDcode": "KTKC-071",
-    "title": "外歩けば毎日セクハラ三昧の頼まれると断れない177cm高身長Hカップグラマー素人さんにエロドッキリ仕掛けたらスゴいHな画が撮れたので発売致します。 辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "素人",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2019-12-19",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c9e0e3c57b6fe36b5c7dbec83073b858.jpg",
-    "actress": [
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-071"
-  },
-  {
-    "id": 75393,
-    "IDcode": "KTKC-072",
-    "title": "校内のトイレでパコった動画をUPしてSNS大炎上したフィリピンハーフの現役J-cup女教師が中出し4発AV DEBUT！藤崎先生（仮名）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "荡妇",
-      "巨乳",
-      "女教师"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/c3421278e56d25ed778cd780bb88caff.jpg",
-    "actress": [
-      "结白まさき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-072"
-  },
-  {
-    "id": 78892,
-    "IDcode": "KTKC-073",
-    "title": "発掘 岩手の大自然で育まれた天然巨乳原石 中出し生撮り ゆか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "业余"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-01-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230316-1/0c70df195169050cd0193d9f4c8c95f5.jpg",
-    "actress": [
-      "结々萌奈実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-073"
-  },
-  {
-    "id": 533576,
-    "IDcode": "KTKC-074",
-    "title": "巨乳の君に逢いにはるばる博多へ。せな 神くびれGcup",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-074"
-  },
-  {
-    "id": 533575,
-    "IDcode": "KTKC-075",
-    "title": "予约待ち1年のドS指导で有名なカリスマ巨乳マッチョイン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-075"
-  },
-  {
-    "id": 83382,
-    "IDcode": "KTKC-076",
-    "title": "パイズリの天才 池袋のおっぱいサロンで指名No.1のHカップ爆乳嬢を口説いてAV出演 アミナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221223-1/a78e3da14bb71045b8eed0ed0363e7fe.jpg",
-    "actress": [
-      "白雪雛乃",
-      "小此木雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-076"
-  },
-  {
-    "id": 83371,
-    "IDcode": "KTKC-077",
-    "title": "4年ぶりのセカンドヴァージンSEXで大量潮吹き連発！ 本屋で働く地味爆乳さんが欲求不満でタマらずAV応募！「おい！君、真面目そうな見た目のクセに、乱れすぎやでww」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/26a83bb118f4f3c762d797b16f89645b.jpg",
-    "actress": [
-      "原花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-077"
-  },
-  {
-    "id": 83379,
-    "IDcode": "KTKC-078",
-    "title": "【SEX経験人数1人・パイズリ経験人数200人以上・発射させた数6000発以上】便利屋女子として同級生に利用されてきた爆乳介護士の卵は仏レベルのご奉仕ドM乳便器 アヤメちゃんAVで悲願の3年ぶりのエッチ解禁！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-03-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "星乃麻美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-078"
-  },
-  {
-    "id": 82129,
-    "IDcode": "KTKC-080",
-    "title": "海外で捕獲成功！フェロモンむんむんスペイン美少女は巨乳痴女ギャル。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "西洋片",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2020-04-01",
-    "cover_url": "https://tuaskbgnekr.com/20221126/lPaYIqaK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-080"
-  },
-  {
-    "id": 218454,
-    "IDcode": "KTKC-082",
-    "title": "我很穷请帮助我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-082"
-  },
-  {
-    "id": 218515,
-    "IDcode": "KTKC-087",
-    "title": "比脸还大的P罩杯表妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-087"
-  },
-  {
-    "id": 466073,
-    "IDcode": "KTKC-094",
-    "title": "喜歡酒吧的爆乳J罩杯變態超M女顏射中出OO！ 雛田",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d050cdeb67774efbacad72/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-094"
-  },
-  {
-    "id": 85242,
-    "IDcode": "KTKC-096",
-    "title": "痴女巨乳家庭教師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乳交",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "河合乃乃花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-096"
-  },
-  {
-    "id": 85218,
-    "IDcode": "KTKC-099",
-    "title": "喜欢大胸的父亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乱伦",
-      "乳交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-099"
-  },
-  {
-    "id": 218820,
-    "IDcode": "KTKC-100",
-    "title": "为了大学生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-100"
-  },
-  {
-    "id": 218850,
-    "IDcode": "KTKC-102",
-    "title": "大胸慢跑女郎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-102"
-  },
-  {
-    "id": 93062,
-    "IDcode": "KTKC-110",
-    "title": "小悪魔Kカップ爆乳素人ちゃんとの1年間の記録 7SEX収録4時間ドキュメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "4小时以上作品",
-      "素人",
+      "恋乳癖",
       "超乳",
-      "业余",
-      "巨乳"
+      "巨乳",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2021-04-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241006-1/cad1fb5b6568da86732d239dca5f73cd.jpg",
+    "company": "",
+    "publish_date": "2018-11-19",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/lzdm022/lzdm022pl.jpg",
     "actress": [
-      "麻仓ゆあ"
+      "優月真裡奈",
+      "后藤里香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-022"
   },
   {
-    "id": 567186,
-    "IDcode": "KTKC-113",
-    "title": "“ワイ、この自粛期间中、隠れ巨乳の発掘にハマっております”第01集",
+    "id": 102993,
+    "IDcode": "LZDM-023",
+    "title": "義母と娘の偏愛レズビアン ～性欲旺盛な娘に翻弄されるウブな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "乱伦",
+      "高中女生",
+      "女同性恋",
+      "婆婆",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
+    "company": "",
+    "publish_date": "2019-01-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-113"
+    "actress": [
+      "宫崎彩",
+      "伴牧英"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-023"
   },
   {
-    "id": 565999,
-    "IDcode": "KTKC-139",
-    "title": "“友达の巨乳の彼女を寝取りました。ごめんなさい”绚音／女子大生",
+    "id": 98507,
+    "IDcode": "LZDM-024",
+    "title": "義母と娘の偏愛レズビアン ～色気付いた娘に股間を湿らせるムッツリスケベな継母～ 久保今日子 白鳥すず",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "乱伦",
+      "高中女生",
+      "女同性恋",
+      "婆婆",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "",
+    "publish_date": "2019-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "久保今日子",
+      "白鸟すず"
     ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cb63934cdddf2d1bbc44a94695bfe3a4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-139"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-024"
   },
   {
-    "id": 531314,
-    "IDcode": "KTKC-149",
-    "title": "“ウチの娘、いかがでしょうか？”by父",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250729/BBisZQAq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-149"
-  },
-  {
-    "id": 104054,
-    "IDcode": "KTKC-150",
-    "title": "【FANZA限定】【SEX回数1回・パイズリ経験人数508人・発射させた数7254発】爆乳保育士は仏レベルのご奉仕ドM乳便器悲願の4年ぶりのH解禁！ パンティと写真付き",
+    "id": 98682,
+    "IDcode": "LZDM-026",
+    "title": "悩める巨乳JDのおっぱいレズ物語vol.02 梨々花 宝田もなみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "中出",
-      "乳交",
-      "巨乳"
+      "恋乳癖",
+      "超乳",
+      "巨乳",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "",
+    "publish_date": "2019-04-19",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/lzdm026/lzdm026pl.jpg",
+    "actress": [
+      "梨々花"
     ],
-    "publish_date": "2022-08-17",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/zYByn3FC.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-150"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-026"
   },
   {
-    "id": 565998,
-    "IDcode": "KTKC-151",
-    "title": "お坚い职业なのに、乳首で即イキまくり白目を剥いて闷絶するドスケベ爆乳银行员 まみ",
+    "id": 99109,
+    "IDcode": "LZDM-027",
+    "title": "クールな女上司にセクハラされてレズの虜になる新米OL オフィスラブ 加瀬ななほレズ解禁",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "女同接吻",
+      "女同性恋",
+      "OL",
+      "手指插入"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "",
+    "publish_date": "2019-05-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓮実クレア",
+      "加濑七穗"
     ],
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ce258fa613173ca8969478fe1fa7ffac.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-027"
   },
   {
-    "id": 565997,
-    "IDcode": "KTKC-154",
-    "title": "メンヘラ巨乳女子が一番エロいという说。",
+    "id": 516611,
+    "IDcode": "LZDM-028",
+    "title": "避開妹妹眼光純樸姊姊大膽蕾絲邊誘",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/da5c95963f58b8e27eab148346654d8d.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6913f74e312f49288156da03/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-154"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-028"
   }
 ];

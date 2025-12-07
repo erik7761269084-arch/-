@@ -7,11 +7,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200811/300NTK-325.jpg",
     "actress": [],
@@ -25,11 +25,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250802/sYvhROrt/1.jpg",
     "actress": [],
@@ -43,11 +43,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -61,11 +61,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -79,11 +79,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/ea28ffea/vod.jpg",
     "actress": [],
@@ -97,11 +97,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/23/0f7a5e5aebccd70c9e7075aa251b67c7.jpg",
     "actress": [],
@@ -115,11 +115,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/15/bda09843a289e8867ac8f9b504b2cf62.jpg",
     "actress": [],
@@ -133,11 +133,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/c16688f8163842e93b6cdc5e7fb9a67a.jpg",
     "actress": [],
@@ -151,11 +151,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/40d45d7b3eda2c2a319147b4f36bcb05.jpg",
     "actress": [],
@@ -169,11 +169,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/21/0578afb64b4521cf5ab8b7e39be857e7.jpg",
     "actress": [],
@@ -187,11 +187,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/389a2707f4a2977d4541647024bb1aca.jpg",
     "actress": [],
@@ -206,11 +206,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -224,11 +224,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/23/d948abcb00e816b972b55241ef1004df.jpg",
     "actress": [],
@@ -260,11 +260,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/0e9ff0d7/vod.jpg",
     "actress": [],
@@ -278,12 +278,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱伦",
-      "巨乳"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/50f1ec9a8a8642e02a2bc6017c3e0a5b.jpg",
     "actress": [],
@@ -297,11 +297,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/38aa41ba09de3328d654892d525af63c.jpg",
     "actress": [],
@@ -315,11 +315,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9892306419db7194e9426195607d8982.jpg",
     "actress": [],
@@ -333,11 +333,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bd6657b8b2c16a2674e9ac257c766377.jpg",
     "actress": [],
@@ -351,11 +351,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2d7734d5ec30f9b063158b10ff05749c.jpg",
     "actress": [],
@@ -369,11 +369,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-05-02",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/7071a10340e15d0762794fc98e7add1f.jpg",
     "actress": [
@@ -389,11 +389,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/85ad86e686b4b6b41e43b3ce5cf8ec6f.jpg",
     "actress": [],
@@ -407,11 +407,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -427,12 +427,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -446,11 +446,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-07-04",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/42081f0f6d879f4d6253cffa530acf2d.jpg",
     "actress": [
@@ -466,12 +466,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "出道作",
-      "巨乳"
+      "出道作"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/697230d3c0535589ae4d442cf711f2ee.jpg",
     "actress": [],
@@ -486,11 +486,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -504,11 +504,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -522,11 +522,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221015-1/6c0ef7d5030e25e45f5d0d8889775ce3.jpg",
     "actress": [],
@@ -540,11 +540,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221027-1/144442557c2da01477816d8724ec80c0.jpg",
     "actress": [],
@@ -558,11 +558,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -576,11 +576,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221015-1/09874f4a2d6f151c0d0b1c02ff555a06.jpg",
     "actress": [],
@@ -594,11 +594,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -612,12 +612,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "淫妻",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/6c0e58f13b0a99c9af097b50075e78b2.jpg",
     "actress": [],
@@ -631,11 +631,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/f6ac1540654754818076453885f53e5e.jpg",
     "actress": [
@@ -651,11 +651,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-09-26",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/a0c7a0a6663980819c2040eae465c0d3.jpg",
     "actress": [
@@ -671,11 +671,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/3760a32e3486d3a289aeab49024d75aa.jpg",
     "actress": [],
@@ -689,11 +689,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-10-10",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/ae5144802212f05ae829a7ceb8eac6dc.jpg",
     "actress": [],
@@ -707,11 +707,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2021-12-03",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/b31be797d2926d1131e18f73725777c9.jpg",
     "actress": [],
@@ -725,11 +725,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-03-04",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9eff9cdef4d103a5e6e1a9acaa0be504.jpg",
     "actress": [
@@ -745,11 +745,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-03-06",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/4a4a8fa0c25fed5d3f23289c1719e5e7.jpg",
     "actress": [
@@ -765,14 +765,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "素人",
       "业余",
+      "巨乳",
+      "屁股",
       "中出",
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/373d80df04f4587239660f522e337ea0.jpg",
     "actress": [],
@@ -786,15 +786,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "素人",
       "业余",
+      "巨乳",
+      "屁股",
       "中出",
       "药物",
-      "巨乳"
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-03-13",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -810,15 +810,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "屁股",
-      "素人",
       "业余",
+      "巨乳",
+      "屁股",
       "中出",
-      "巨乳"
+      "女大学生",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-03-19",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -832,11 +832,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0fb2b7625490beb35b5628d93fdcb653.jpg",
     "actress": [],
@@ -850,11 +850,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230530/pb_e_300ntk-759.jpg!320x216.jpg",
     "actress": [],
@@ -863,17 +863,17 @@ window.PAGE_DATA = [
   {
     "id": 533192,
     "IDcode": "300NTK-770",
-    "title": "[] 【弩级 Iカップ あざと美女が紧急参戦！！】【职场を牛耳るエチエチ爆乳テクニックが炸裂！！】",
+    "title": "【弩级 Iカップ あざと美女が紧急参戦！！】【职场を牛耳るエチエチ爆乳テクニックが炸裂！！】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240527/pb_e_300ntk-770.jpg!320x216.jpg",
     "actress": [],
@@ -882,17 +882,17 @@ window.PAGE_DATA = [
   {
     "id": 533135,
     "IDcode": "300NTK-772",
-    "title": "[] 【爆IカップP活界の乳神様！！降临！！！】軽エロ専门(浓厚パイズリ！！)本番NGの爆乳美女の初本番解禁！",
+    "title": "【爆IカップP活界の乳神様！！降临！！！】軽エロ専门(浓厚パイズリ！！)本番NGの爆乳美女の初本番解禁！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "巨乳",
+      "素人",
       "无码"
     ],
     "type": "无码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240417/pb_e_300ntk-772.jpg!320x216.jpg",
     "actress": [],
@@ -906,11 +906,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240118/pb_e_300ntk-774.jpg!320x216.jpg",
     "actress": [],
@@ -924,11 +924,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230528/o5AHDO0t/1.jpg",
     "actress": [],
@@ -942,12 +942,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240716/1UBF0Lpd/1.jpg",
     "actress": [],
@@ -961,12 +961,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221224/A5qwwrTO/1.jpg",
     "actress": [],
@@ -980,11 +980,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230528/gfspOADy/1.jpg",
     "actress": [],
@@ -998,11 +998,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1017,11 +1017,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230528/LTeB45Uf/1.jpg",
     "actress": [],
@@ -1036,11 +1036,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240716/135sscmN/1.jpg",
     "actress": [],
@@ -1054,11 +1054,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240718/PK6sLvCS/1.jpg",
     "actress": [],
@@ -1072,11 +1072,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240718/vqMYK6Sq/1.jpg",
     "actress": [],
@@ -1090,11 +1090,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240718/v2Zyrq7t/1.jpg",
     "actress": [],
@@ -1109,11 +1109,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240719/oe18PWwR/1.jpg",
     "actress": [],
@@ -1127,11 +1127,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240719/wYDh3iJC/1.jpg",
     "actress": [],
@@ -1145,11 +1145,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/99f5ccbd9a381ad91058f38208760d59.jpg",
     "actress": [],
@@ -1163,11 +1163,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240720/lYx3WuXt/1.jpg",
     "actress": [],
@@ -1181,11 +1181,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1199,11 +1199,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1217,11 +1217,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2023-12-15",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1239,11 +1239,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-01-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1260,11 +1260,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2023-12-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/24da80e3b4256a79720652952d37853e.jpg",
     "actress": [
@@ -1280,11 +1280,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1301,11 +1301,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1321,11 +1321,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240724/sJhgczVW/1.jpg",
     "actress": [],
@@ -1340,11 +1340,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1360,11 +1360,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/3178ef900fa3f169bfc218799e93ae2d.jpg",
     "actress": [
@@ -1380,11 +1380,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1398,11 +1398,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-03-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/894a1f5822de2b9a17d4e32cb8f6b6e0.jpg",
     "actress": [
@@ -1419,11 +1419,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1438,11 +1438,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240728/cv2PjtHV/1.jpg",
     "actress": [],
@@ -1457,11 +1457,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/e47142fd/vod.jpg",
     "actress": [],
@@ -1475,11 +1475,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/0dcd848a0e654ef225e43e086c81a47a.jpg",
     "actress": [],
@@ -1493,11 +1493,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic44.anzise.com/pic/20230217/174d981150e9314b3a5765b84415a144/1.jpg",
     "actress": [],
@@ -1511,34 +1511,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "M男・M女",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "變態",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "中出",
-      "後入",
       "少女",
-      "劇情",
-      "絕頂高潮",
-      "繼父",
+      "女學生",
+      "中出",
       "美少女電影",
+      "自宅",
+      "劇情",
+      "繼父",
+      "美少女",
+      "絕頂高潮",
+      "強姦",
+      "M男・M女",
+      "變態",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
       "素人",
+      "美乳",
+      "口交",
+      "巨乳",
       "乳交",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "後入",
+      "JK校服",
+      "性感"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b437975fdaf263a25cc873/cover.jpg",
     "actress": [
@@ -1554,11 +1554,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c7bcb98bc99dfdde7521e/cover.jpg",
     "actress": [],
@@ -1575,7 +1575,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250403-1/2bc04ff9af463bb15354f4d81f39ec57.jpg",
     "actress": [],
@@ -1589,23 +1589,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "美少女电影",
-      "中出",
-      "素人作品",
-      "巨乳",
       "口交",
+      "巨乳",
       "过膝袜",
-      "主观视角"
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "2020-01-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/d927f24ae73cf979aa14d0100d89d38c.jpg",
     "actress": [
@@ -1621,24 +1615,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "素人",
-      "中出",
-      "制服",
-      "素人作品",
-      "美少女电影",
-      "巨乳",
       "精选，综合",
-      "主观视角"
+      "单体作品",
+      "巨乳",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "制服",
+      "主观视角",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8740a2111fe8516c113bab4284bd417e.jpg",
     "actress": [],
@@ -1652,17 +1640,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00403pl.jpg",
     "actress": [],
@@ -1676,17 +1658,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00404pl.jpg",
     "actress": [],
@@ -1700,17 +1676,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00405pl.jpg",
     "actress": [],
@@ -1724,17 +1694,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00406pl.jpg",
     "actress": [],
@@ -1748,17 +1712,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/k39Nh6xY/1.jpg",
     "actress": [],
@@ -1772,17 +1730,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/6qhN5UP9/1.jpg",
     "actress": [],
@@ -1796,17 +1748,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "Eromanga",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Eromanga",
-        "works_count": 150
-      }
-    ],
+    "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/OfkDoXyE/1.jpg",
     "actress": [],
@@ -1820,11 +1766,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1838,11 +1784,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221120/QYLmEhA3/1.jpg",
     "actress": [],
@@ -1856,11 +1802,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1874,12 +1820,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2022-05-05",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1893,12 +1839,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200730-1/81657eafd0ab71af4ebb1e78f67ae82f.jpg",
     "actress": [],
@@ -1912,11 +1858,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1930,11 +1876,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200621-1/6f74a4d03ee6ca7c755b390260ed54bf.jpg",
     "actress": [],
@@ -1948,11 +1894,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200621-1/a2f7d1260817137b6f8ec3a25a44880d.jpg",
     "actress": [],

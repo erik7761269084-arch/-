@@ -215,7 +215,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2024-10-10",
       "cover_url": "https://picture.yoshiclub.xyz/20240912/307e2162-a82a-4f41-9dd3-f7243442cb7a.jpg",
       "actress": [
@@ -2726,7 +2726,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf09d3958ac04f27fb8302/cover.jpg",
       "actress": [

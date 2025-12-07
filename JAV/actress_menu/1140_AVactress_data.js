@@ -82,7 +82,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "DREAMTICKET",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a31631a2714f1c2034ab/cover.jpg",
       "actress": [

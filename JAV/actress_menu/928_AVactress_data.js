@@ -42,7 +42,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2024-12-12",
       "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107005422890890.jpg",
       "actress": [
@@ -483,7 +483,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",
       "actress": [

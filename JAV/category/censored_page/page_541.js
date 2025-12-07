@@ -1,297 +1,162 @@
 window.PAGE_DATA = [
   {
-    "id": 563514,
-    "IDcode": "FOCS-148",
-    "title": "金髪ギャルがハマった媚薬キメセク乱交パーティー アヘイキおま●こは感度爆上がりで大量失禁 脳バ",
+    "id": 575616,
+    "IDcode": "FSME-02",
+    "title": "_A“SNS里垢若娘”をフォローして意気投合して“友だちに第01集",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "乱交"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/q29YnzCv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-148"
-  },
-  {
-    "id": 107106,
-    "IDcode": "FOCS-149",
-    "title": "被隔壁絕倫鄰居金髪辣妹誘惑… 不戴胸罩爆乳與讓人看自慰理性喪失中出停不下！ 蘭蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "女生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-149"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSME-02"
   },
   {
-    "id": 107105,
-    "IDcode": "FOCS-150",
-    "title": "對煩惱處男學生以魔性的接吻課程「想和老師接吻嗎？」被教導到親吻的另一面被中出多次的我 藍芽水月",
+    "id": 564948,
+    "IDcode": "FSOKU-005",
+    "title": "扉を开けたらすぐフェラチオ！デリヘル嬢の神テク即尺プレイ动画流出！10名 part5",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "单体作品",
-      "荡妇",
-      "中出",
-      "家教",
-      "淫语",
-      "接吻"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/6SGJkK5u/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSOKU-005"
+  },
+  {
+    "id": 178464,
+    "IDcode": "FSOKU-007",
+    "title": "扉を開けたらすぐフェラチオ！デリヘル嬢の神テク即尺プレイ動画流出！10名 part7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "藍芽水月",
-      "蓝芽水月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-150"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSOKU-007"
   },
   {
-    "id": 563340,
-    "IDcode": "FOCS-151",
-    "title": "【NTR】うちおいで？终电逃させ年下部下を持ち帰るバリキャリ女上司 拒みきれない胸ポチノーブラ诱惑",
+    "id": 493212,
+    "IDcode": "FSPE_004",
+    "title": "口交鬼爆颜射！！在素人女孩可爱脸蛋上猛烈喷射浓稠精 宫泽千春,加藤结衣,花狩舞 SPE_004",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "素人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230923/79u9wEjY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-151"
-  },
-  {
-    "id": 563341,
-    "IDcode": "FOCS-152",
-    "title": "新人 元アイドル 爱梦みり デビュー アイドルだってエッチ大好き！憧れの美スレンダーボディが今",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230923/3eSUnybw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-152"
-  },
-  {
-    "id": 563339,
-    "IDcode": "FOCS-153",
-    "title": "元気ハツラツみんなのアイドル♪…なマネージャーがアナタ専属で连続中出しオナサポ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230923/D2MUjmxc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-153"
-  },
-  {
-    "id": 106831,
-    "IDcode": "FOCS-154",
-    "title": "朴素的上司女儿-久我圆香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "流汗",
-      "乱伦",
-      "中出",
-      "药物",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "久我まどか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-154"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPE_004"
   },
   {
-    "id": 563266,
-    "IDcode": "FOCS-155",
-    "title": "本物処女デビュー 全て初めての紧张ノーカット初SEX",
+    "id": 565054,
+    "IDcode": "FSPE-004",
+    "title": "フェラチオ鬼颜射！！素人娘の可爱い颜に特浓本物ザーメンぶっかけ大量射精！4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/f0db37a01a4116f55004fd6684148ef4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPE-004"
+  },
+  {
+    "id": 531750,
+    "IDcode": "FSPT-004",
+    "title": "美少女と温泉旅旬のぴちぴち美女と秘密の汤けむり旅行",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230930/aaQ6w00Y/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/9140b8f552decf4898928405ed118d9c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-004"
   },
   {
-    "id": 18195,
-    "IDcode": "FOCS-156",
-    "title": "巨乳COSPLAYER娘的4連中出亂交會 萌萌的夾子音和粉紅乳頭 大家快報名參加吧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "多P",
-      "貓耳裝飾",
-      "COSPLAY服飾",
-      "綜藝",
-      "中出",
-      "粉絲福利",
-      "按摩棒",
-      "巨乳",
-      "企畫",
-      "紀錄片",
-      "亂交 • 群P",
-      "乱交",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023230524762762.jpg",
-    "actress": [
-      "胡桃櫻花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-156"
-  },
-  {
-    "id": 18194,
-    "IDcode": "FOCS-157",
-    "title": "新人出道：日本最可愛前巫女，發掘潛力最高的人才！宇佐美美音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "出道作",
-      "出道作品",
-      "中出",
-      "劇情",
-      "女祭司"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023230905264264.jpg",
-    "actress": [
-      "宇佐美みおん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-157"
-  },
-  {
-    "id": 563017,
-    "IDcode": "FOCS-158",
-    "title": "セクハラ巨根整体师にカラダを许したスポーツ美少女 本気イキ大量潮吹き性交",
+    "id": 572275,
+    "IDcode": "FSPT-025",
+    "title": "女优不详黒パンストJ●絶顶おマ○コ游び 9名240分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231022/Ud55Uqqd/1.jpg",
+    "cover_url": "https://pic42.anzise.com/pic/20221216/6b9550fe2ab0df911fba88d204000978/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-158"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-025"
   },
   {
-    "id": 563018,
-    "IDcode": "FOCS-159",
-    "title": "美巨乳Gcup美少女のおっぱい性感开発 敏感なおっぱいをねっとり责めまくり、おっぱいだけで足腰",
+    "id": 548638,
+    "IDcode": "FSPT-032",
+    "title": "部活女子は放课后にイキまくる 7名240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230728/bI1pjkI0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-032"
+  },
+  {
+    "id": 548460,
+    "IDcode": "FSPT-033",
+    "title": "ロ●娘たちに强制种付けピストン おじさんはロ●娘に欲望を吐き舍てる 7名247分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230816/JBsV5DnC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-033"
+  },
+  {
+    "id": 579345,
+    "IDcode": "FSPT-034",
+    "title": "黒パンストJ●絶顶おマ○コ游び2 9名245分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230816/ZTCTW2Y6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-034"
+  },
+  {
+    "id": 563553,
+    "IDcode": "FSPT-035",
+    "title": "楽しい保健体育！孕ませ讲座！AAAカップの贫乳からGカップの巨乳まで、现役J○ブルマっ娘が中出",
     "year": "",
     "country": "",
     "genre": "",
@@ -299,1605 +164,1726 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231022/6kQ4QLvC/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230828/i2WPS6E1/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-159"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-035"
   },
   {
-    "id": 562890,
-    "IDcode": "FOCS-160",
-    "title": "青森ナンパで出会った方言女子 実家で无防备な田舎美少女のイキ潮吹き大絶顶SEX",
+    "id": 563554,
+    "IDcode": "FSPT-036",
+    "title": "カラダも気持ちも温まる お风吕エッチ2 20名240分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/26NuMY23/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230828/nJNzcc9i/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-160"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-036"
   },
   {
-    "id": 17648,
-    "IDcode": "FOCS-161",
-    "title": "新人出道 月乃梨々花 關西牙科保健師 中出首次亮相 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "女優訪談",
-      "AV拍攝現場",
-      "美少女電影",
-      "紀錄片",
-      "美少女",
-      "多P",
-      "手指插入",
-      "出道作",
-      "出道作品",
-      "中出",
-      "亂交 • 群P",
-      "企畫",
-      "性感",
-      "口交",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/29c104e0-a239-44fd-8659-c733f2c66e0c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-161"
-  },
-  {
-    "id": 562773,
-    "IDcode": "FOCS-162",
-    "title": "トー横で引っ挂けてきた家出美少女 饵ぶら下げAV出演交渉 おじさん达の欲望に晒され无情4P连続中出し",
+    "id": 563284,
+    "IDcode": "FSPT-037",
+    "title": "びっちな制服美少女たちと生ハメ中出ししまくる逆3P 22名480分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231127/JCh0wTvA/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230927/eXNbSe2j/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-162"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-037"
   },
   {
-    "id": 17647,
-    "IDcode": "FOCS-163",
-    "title": "容姿端麗又性感的女上司她巨大的奶头像阴蒂一样敏感，惹的我疯狂的强奸了她",
+    "id": 563286,
+    "IDcode": "FSPT-038",
+    "title": "“いつもと违うわたしを见て…” コスプレ美少女 7名246分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230927/WvKGuDEk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-038"
+  },
+  {
+    "id": 547725,
+    "IDcode": "FSPT-039",
+    "title": "［阅覧注意］ロ○処女丧失物语 8名360分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231013/tcTvuNAy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-039"
+  },
+  {
+    "id": 547584,
+    "IDcode": "FSPT-040",
+    "title": "目覚めてしまった耻ずかしい性癖 アナルで感じる美少女たち 9名370分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231029/qPToIR3t/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-040"
+  },
+  {
+    "id": 562537,
+    "IDcode": "FSPT-041",
+    "title": "未开発美少女がオトナのぬるぬるマッサージで絶顶を覚えて中出しされちゃう 6时间12名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/RGTdTDFq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-041"
+  },
+  {
+    "id": 547317,
+    "IDcode": "FSPT-042",
+    "title": "気持ち良すぎて溢れちゃう 玩具激责め！ガン突き激ピストン！潮吹き アヘ颜晒して痉挛しながらハメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231128/YqsfiKNj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-042"
+  },
+  {
+    "id": 562539,
+    "IDcode": "FSPT-043",
+    "title": "中出し敏感ろ〇っ娘温泉 ～愈しと快楽、敏感美少女と浓厚なひととき～ 4时间8名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/whnqIHT7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-043"
+  },
+  {
+    "id": 550283,
+    "IDcode": "FSPT-044",
+    "title": "异常な爱情を娘に注ぎこむ孕ませ中出しレ×プ 近亲相奸 4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/pxPTa6nt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-044"
+  },
+  {
+    "id": 546620,
+    "IDcode": "FSPT-046",
+    "title": "帰宅の瞬间を袭撃 鬼畜强制魔のストーカーレ●プ 4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240129/7bQMwSd0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-046"
+  },
+  {
+    "id": 545615,
+    "IDcode": "FSPT-049",
+    "title": "放课后、汗の匂いが充満する体育仓库で生SEX！言いなりのクラスメイトに性欲発散しまくる 4时间12名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240429/6xiv9awb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-049"
+  },
+  {
+    "id": 545339,
+    "IDcode": "FSPT-050",
+    "title": "大量ザーメンぶっかけSEX 7名240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240613/7Jhsegn9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSPT-050"
+  },
+  {
+    "id": 517797,
+    "IDcode": "FSRE-001",
+    "title": "從順露出溫泉 青井苺 復刻版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed259052c12b4e6848e306/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSRE-001"
+  },
+  {
+    "id": 526502,
+    "IDcode": "FSRE-022",
+    "title": "神奈川ど根性ヤンキー さき 4P生中出し轮奸サークル［リマスター复刻版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191008-1/844d21432227bae9826564189e484501.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSRE-022"
+  },
+  {
+    "id": 526501,
+    "IDcode": "FSRE-024",
+    "title": "足立区ど根性ヤンキー るいか 5P生中出し轮奸サークル【リマスター复刻版】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSRE-024"
+  },
+  {
+    "id": 590390,
+    "IDcode": "FSRE-027",
+    "title": "实录．逃家少女同居传说 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "凌辱",
-      "辦公室",
-      "加班",
-      "OL",
-      "淫亂",
-      "強姦",
-      "蠻橫嬌羞",
-      "羞恥",
-      "拘束・拷問",
-      "女上司",
-      "中出",
-      "口交",
-      "性感",
-      "報復",
-      "跳蛋",
-      "劇情"
+      "女同",
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a69b48f1cbfc7a9c7dc45/cover.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221207-1/4cd5af38c33ea0970275398e36b8bd3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSRE-027"
+  },
+  {
+    "id": 465917,
+    "IDcode": "FSTA-021",
+    "title": "爆乳H罩杯從順露出溫泉 雪國巨乳妹肏下海",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e745dbf24d4ed3201ab2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTA-021"
+  },
+  {
+    "id": 465918,
+    "IDcode": "FSTA-022",
+    "title": "粉絲數破30萬素人偶像電擊下海！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e749dbf24d4ed3201ab3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTA-022"
+  },
+  {
+    "id": 465904,
+    "IDcode": "FSTB-002",
+    "title": "鄉間OO顏巨乳妹溫泉幹砲旅行 由香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8bba779f1ac4ec49be00d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTB-002"
+  },
+  {
+    "id": 517805,
+    "IDcode": "FSTB-003",
+    "title": "援交巨乳妹野外中出日誌 小美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8bbe379f1ac4ec49be56a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTB-003"
+  },
+  {
+    "id": 164622,
+    "IDcode": "FSTB-007",
+    "title": "数あまたの芸能人、スポーツ選手",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTB-007"
+  },
+  {
+    "id": 411711,
+    "IDcode": "FSTU-001",
+    "title": "拳击健身教练 三穴同时运动 佐久间枫 佐久间枫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/21c4b198096c2c690ffc0ea2130c67db.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-001"
+  },
+  {
+    "id": 72528,
+    "IDcode": "FSTU-003",
+    "title": "ハイレグブーツファック 宇佐美すい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "紧身衣",
+      "恋腿癖",
+      "单体作品",
+      "中出",
+      "乳液",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/47413350709563e7096c66bf9cb2410e.jpg",
     "actress": [
-      "水谷梨明日"
+      "宇佐美すい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-163"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-003"
   },
   {
-    "id": 106389,
-    "IDcode": "FOCS-164",
-    "title": "天才下屬讓我多次射精-並木あいな",
+    "id": 72519,
+    "IDcode": "FSTU-004",
+    "title": "腰フリどスケベ ベリーダンサー 野々花さわ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "恋腿癖",
+      "恋物癖",
+      "单体作品",
+      "女上位",
       "苗条",
-      "中出",
-      "巨乳",
-      "单体作品"
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/eac521f9a20ac08ebddb80c9a129096c.jpg",
+    "actress": [
+      "野々花さわ"
     ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-004"
+  },
+  {
+    "id": 7490,
+    "IDcode": "FSTU-005",
+    "title": "裸流空手 ドマゾ絶頂巨根組手 水澄せいら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "凌辱",
+      "性虐癖",
+      "拘束・拷問",
+      "報復",
+      "口爆",
+      "SM",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "戰鬥行動",
+      "劇情",
+      "抹油",
+      "調教",
+      "按摩棒",
+      "戀物癖",
+      "M男・M女",
+      "綁架",
+      "緊縛",
+      "變態",
+      "美人妻",
+      "暗黑系",
+      "顏射",
+      "插入異物",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "唾液敷面",
+      "巨尻",
+      "口交",
+      "拳擊交",
+      "潮吹",
+      "女格鬥家",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "後入",
+      "濕身",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84681d6fbef4e90ccfb1a/cover.jpg",
+    "actress": [
+      "水澄せいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-005"
+  },
+  {
+    "id": 6846,
+    "IDcode": "FSTU-006",
+    "title": "騷氣長靴集團交尾亂交 美腿大奶妹被榨幹 ~ 夏川步美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "拘束・拷問",
+      "高妹",
+      "口爆",
+      "美臀",
+      "靴子",
+      "亂交 • 群P",
+      "身體意識",
+      "癡女",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "調教",
+      "按摩棒",
+      "打手槍",
+      "絕頂高潮",
+      "M男・M女",
+      "辣妹/GAL系",
+      "女優",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乱交",
+      "4K",
+      "女上位",
+      "多P",
+      "後入",
+      "跳蛋",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2025-04-12",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/2025041408325744_thumbnail.webp",
+    "actress": [
+      "夏川步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-006"
+  },
+  {
+    "id": 68877,
+    "IDcode": "FSTU-007",
+    "title": "ヨガインストラクター 喉奥エクササイズ 足立友梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "恋物癖",
+      "滥交",
+      "巨大阴茎",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "並木愛奈"
+      "足立友梨"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-007"
   },
   {
-    "id": 17426,
-    "IDcode": "FOCS-165",
-    "title": "新人出道 天乃のあ ~ 超級喜歡受虐的世界新星誕生 首次亮相 AV DEBUT",
+    "id": 66032,
+    "IDcode": "FSTU-008",
+    "title": "淫乱ブーツ集団交尾 美脚ドマゾをザーメンSEX 水澄せいら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女優訪談",
-      "3P・4P",
-      "打屁股",
-      "緊縛",
-      "出道作品",
+      "恋腿癖",
+      "单体作品",
+      "中出",
+      "苗条",
+      "滥交",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/3cbd6486/vod.jpg",
+    "actress": [
+      "水澄せいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-008"
+  },
+  {
+    "id": 5259,
+    "IDcode": "FSTU-009",
+    "title": "淫蕩長靴群P亂鬥 褐色美腿辣妹精液狂歡 ~ 蘭華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
+      "高妹",
+      "口爆",
+      "SM",
+      "靴子",
       "亂交 • 群P",
-      "口交",
-      "潮吹",
-      "兩男一女",
+      "單體作品",
+      "野性",
       "深喉",
+      "癡女",
+      "感官作品",
+      "舔陰",
       "淫亂",
       "中出",
-      "企畫",
-      "紀錄片",
-      "SM",
-      "女優",
-      "手指插入",
-      "出道作",
-      "調教"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/e7b35855-4aa9-4b61-8279-60c3d563f502.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-165"
-  },
-  {
-    "id": 106289,
-    "IDcode": "FOCS-166",
-    "title": "被男友的哥哥口交调教-夏木凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "羞耻",
-      "白天出轨",
-      "护士",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5fb88f1cbfc7a9c7dbdc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-166"
-  },
-  {
-    "id": 106287,
-    "IDcode": "FOCS-167",
-    "title": "JCUP爆乳女高中生炮友-水原美园",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "超乳",
-      "中出",
-      "制服",
-      "巨乳",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b125b43d69727162a9166/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-167"
-  },
-  {
-    "id": 106286,
-    "IDcode": "FOCS-168",
-    "title": "变态调教温泉旅行-新井リマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "和服，丧服",
-      "荡妇",
-      "巨乳",
-      "单体作品",
-      "浴衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5d988f1cbfc7a9c7dbc8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-168"
-  },
-  {
-    "id": 17093,
-    "IDcode": "FOCS-169",
-    "title": "170cm前教师-里中爱奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女教師",
-      "多P",
-      "美腳",
-      "出道作品",
-      "美乳",
-      "中出",
-      "後入",
-      "巨乳",
-      "女上位",
-      "苗條",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/68703c523ed39b57c0cd7f9c/cover.jpg",
-    "actress": [
-      "里中愛奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-169"
-  },
-  {
-    "id": 16647,
-    "IDcode": "FOCS-172",
-    "title": "她很可愛，善良，而且奶子很大。！舌術纏綿、眼眶溼潤的乞討女僕五日市芽依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "吞精",
-      "女僕",
-      "苗條",
-      "女僕制服",
-      "凌辱",
-      "美少女",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "深喉",
-      "家政婦",
-      "中出",
-      "美臀",
-      "裸體圍裙",
-      "乳交",
-      "調教",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240122/202401212328152525.jpg",
-    "actress": [
-      "五日市芽依"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-172"
-  },
-  {
-    "id": 16646,
-    "IDcode": "FOCS-173",
-    "title": "當我打電話給一名援交妹時，她竟然是公司裏最謙虛的同事！如果我對公司保密，操你可以嗎？從那天起，我每天都這樣做！中出3P！操蛋！小野寺舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "苗條",
-      "美少女",
-      "OL",
-      "女上位",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "眼鏡",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
+      "猥褻穿著",
+      "抹油",
       "性感",
-      "口交",
-      "短髮",
-      "中出",
-      "蕩婦",
+      "調教",
+      "早漏",
+      "按摩棒",
       "後入",
+      "打手槍",
+      "絕頂高潮",
+      "無毛",
+      "M男・M女",
+      "辣妹/GAL系",
+      "港區女子",
+      "緊縛",
+      "苗條",
+      "企畫",
+      "女優",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "肌肉",
+      "潮吹",
+      "4K",
+      "情趣內衣",
+      "女上位",
+      "白眼失神",
+      "多P",
+      "大奶头",
+      "唾液敷面",
+      "跳蛋",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/06/21/4ea75b561626635677b0552422062b97.jpg",
+    "actress": [
+      "蘭華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-009"
+  },
+  {
+    "id": 4424,
+    "IDcode": "FSTU-010",
+    "title": "淫乱ブーツ集団交尾 美脚、美顔、美女をザーメンSEX 多田有花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "高妹",
+      "口爆",
+      "靴子",
+      "單體作品",
+      "人妻",
+      "舔陰",
+      "中出",
+      "完全着衣",
+      "按摩棒",
+      "女優",
+      "企畫",
+      "阪道系",
       "短裙・迷你裙",
       "手指插入",
-      "乳交",
-      "黑絲",
-      "办公室",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240122/20240121233358119119.jpg",
-    "actress": [
-      "小野寺舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-173"
-  },
-  {
-    "id": 16645,
-    "IDcode": "FOCS-174",
-    "title": "【希咲那奈&沙月芽衣】假裝是神祕少女，實則是最強淫蕩W蕩婦！接二連三勾引男人，高潮超過20次！性欲突變的巨大狂歡6P無與倫比的性愛樸素的戴眼鏡女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "口交",
       "潮吹",
-      "多P",
-      "美少女",
-      "乳交",
-      "美乳",
-      "中出",
-      "按摩棒",
-      "口交",
-      "亂交 • 群P",
+      "局部特寫",
+      "4K",
       "女上位",
-      "顏射"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240122/202401212334501010.jpg",
-    "actress": [
-      "沙月芽衣",
-      "希咲那奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-174"
-  },
-  {
-    "id": 561880,
-    "IDcode": "FOCS-175",
-    "title": "清纯JDがヤリサー堕ちした记录 媚薬を酒に仕込まれ発情！ 酔いつぶれた彼氏の前でノリノリ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240211/go9alsCQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-175"
-  },
-  {
-    "id": 561879,
-    "IDcode": "FOCS-176",
-    "title": "デリヘルでまさかの再会！？学生时代イジメてきた因縁ギャルをオレのデカ●ンで堕とす！！立场逆転！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240211/uUqMdzpr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-176"
-  },
-  {
-    "id": 16292,
-    "IDcode": "FOCS-177",
-    "title": "調教在俱樂部認識的女孩，徹底將她變成了性奴！.....我的專屬雞巴口交寵物 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "M男・M女",
-      "飯店",
-      "性虐癖",
-      "苗條",
-      "美少女",
-      "緊縛",
-      "拘束・拷問",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "內衣",
-      "中出",
-      "少女",
-      "SM",
-      "顏射",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "調教",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-02-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214030753321321.jpg",
-    "actress": [
-      "乃木絢愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-177"
-  },
-  {
-    "id": 16081,
-    "IDcode": "FOCS-178",
-    "title": "堕落中出吞精调教-伊织雏乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "繼父",
-      "美少女電影",
-      "美少女",
-      "癡女",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4217ac813dc779d961ea/cover.jpg",
-    "actress": [
-      "伊織雛乃",
-      "伊织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-178"
-  },
-  {
-    "id": 16080,
-    "IDcode": "FOCS-179",
-    "title": "嫉妒，我無法停止NTR！我對比我男朋友更好、更大的雞巴上癮了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "美少女電影",
-      "美少女",
-      "淫妻",
-      "變態",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054257821821.jpg",
-    "actress": [
-      "矢澤なの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-179"
-  },
-  {
-    "id": 16073,
-    "IDcode": "FOCS-180",
-    "title": "JD美少女尋找受虐狂男人，敏感bug，射她吧！訓練室拘束x男潮x束縛，做你想做的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "美少女電影",
-      "美少女",
-      "緊縛",
-      "M男・M女",
-      "猥褻穿著",
-      "勾引・誘惑",
-      "網襪",
-      "劇情",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3ec8ac813dc779d961be/cover.jpg",
-    "actress": [
-      "白都四季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-180"
-  },
-  {
-    "id": 101467,
-    "IDcode": "FOCS-181",
-    "title": "结婚前的中介沙龙NTR-九井砂绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "NTR",
-      "羞耻",
-      "乳液",
-      "白天出轨",
-      "淫妻",
-      "超乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-181"
-  },
-  {
-    "id": 101469,
-    "IDcode": "FOCS-182",
-    "title": "教师威胁-松岡美桜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "魔鬼系",
-      "中出",
-      "制服",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "松岡美桜",
-      "美樱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-182"
-  },
-  {
-    "id": 561632,
-    "IDcode": "FOCS-183",
-    "title": "新人デビュー 透明美白肌なHカップ関西娘の尻に鬼ピス＆中出し！方言丸出しでイキ狂う！ あの素晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240310/EzpbRaQz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-183"
-  },
-  {
-    "id": 15869,
-    "IDcode": "FOCS-184",
-    "title": "制服女孩，放學後發情性行爲，大量潮吹×中出×3P，宇佐美みおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324063020487487.jpg",
-    "actress": [
-      "宇佐美みおん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-184"
-  },
-  {
-    "id": 15877,
-    "IDcode": "FOCS-185",
-    "title": "把喜歡男裝的愛寶鈴通過運動按摩喚醒女性本能 ~ 因高潮和中出而失去知覺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "按摩・美容店",
-      "流汗",
-      "手指插入",
-      "叛逆少女",
-      "慾求不滿",
-      "女上位",
-      "乳交",
-      "按摩・物理治療・美容",
-      "美乳",
-      "口交",
+      "真人秀",
+      "熟女",
       "後入",
-      "性感",
-      "巨乳",
-      "劇情",
-      "抹油"
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324061230617617.jpg",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/73fed28d2524f8d88bf19e65ee3bc0d6.jpg",
     "actress": [
-      "愛寶鈴"
+      "多田有花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-010"
   },
   {
-    "id": 15878,
-    "IDcode": "FOCS-186",
-    "title": "【口交專攻GAL】為擠精而生！舔！是個愛吸吮的變態！態度囂張，輕鬆口交…快點下一個雞巴吧！石崎渚",
+    "id": 192356,
+    "IDcode": "FSTU-011",
+    "title": "フェティッシュ女捜査官 FINAL ANSWER 塩見彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/48a5a4693fb5aabd640a889d85daea2f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-011"
+  },
+  {
+    "id": 3501,
+    "IDcode": "FSTU-012",
+    "title": "高身長食い込みレースクイーン ハイレグファックおま●こピットイン 松野蘭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "苗條",
-      "感官作品",
-      "美少女",
+      "真實拍攝",
+      "蠻橫嬌羞",
       "美腳",
-      "性感",
-      "潮吹",
+      "高妹",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "癡女",
+      "舔陰",
       "兩男一女",
-      "貧乳",
       "淫亂",
       "中出",
-      "蕩婦",
-      "企畫",
-      "劇情",
-      "抹油",
+      "極品美人",
+      "拜金女",
+      "完全着衣",
+      "明星臉",
       "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "刺青紋身",
-      "女上位"
+      "緊身衣",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "4K",
+      "女上位",
+      "熟女",
+      "後入",
+      "性感",
+      "3P・4P",
+      "賽車女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/37801a10/vod.jpg",
+    "actress": [
+      "松野蘭"
     ],
-    "publish_date": "2024-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/202403240611232626.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-186"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-012"
   },
   {
-    "id": 15507,
-    "IDcode": "FOCS-187",
-    "title": "女友幕後紀錄片：戀愛、接吻、直到最後……充滿愛與魅力的中出性愛，讓男人認真起來 百仁花",
+    "id": 3493,
+    "IDcode": "FSTU-013",
+    "title": "金玉どストライク 水川潤",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "多P",
-      "苗條",
-      "美少女",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
       "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
+      "拘束・拷問",
+      "運動服裝",
+      "SM",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "野性",
+      "奇異的",
+      "舔陰",
+      "淫亂",
+      "極品美人",
+      "殘忍畫面",
+      "完全着衣",
+      "調教",
       "按摩棒",
-      "巨乳",
+      "淫蕩・硬核",
+      "M男・M女",
+      "運動女孩",
+      "緊縛",
+      "高顏值",
+      "企畫",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
       "口交",
+      "肌肉",
+      "4K",
+      "女上位",
+      "白眼失神",
+      "後入",
       "性感",
       "跳蛋",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-04-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407035309232232.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-187"
-  },
-  {
-    "id": 15500,
-    "IDcode": "FOCS-188",
-    "title": "變態老男人對女大學生連續內射十多次，直到變成肉便池 樂園米娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "苗條",
-      "放尿",
-      "美少女",
-      "拘束・拷問",
-      "羞恥",
-      "飯店小姐・援交妹",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a23bbac813dc779d96091/cover.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032244487487_19100_thumbnail.webp",
     "actress": [
-      "楽園ミナ"
+      "水川潤",
+      "由爱可奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-013"
   },
   {
-    "id": 15502,
-    "IDcode": "FOCS-189",
-    "title": "和男朋友（陰莖大、射精慢）連續中出性愛【NTR】葵美玲",
+    "id": 2691,
+    "IDcode": "FSTU-014",
+    "title": "ノーパンパンストビッチなCA 響つかさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "巨尻",
-      "口爆",
-      "美少女",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "無毛",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-04-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407210000272272.jpg",
-    "actress": [
-      "葵美玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-189"
-  },
-  {
-    "id": 15248,
-    "IDcode": "FOCS-190",
-    "title": "巨大的公雞立即高潮 5500cc 無法保持心臟和陰部！ ？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "美少女電影",
-      "美少女",
-      "淫亂",
-      "癡女",
-      "JK校服",
-      "蠻橫嬌羞",
-      "中出",
-      "亂交 • 群P",
-      "企畫",
-      "口交",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-04-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420033903779779.jpg",
-    "actress": [
-      "月美りょう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-190"
-  },
-  {
-    "id": 15247,
-    "IDcode": "FOCS-191",
-    "title": "雙腿張開 180 度！田徑俱樂部軟體女孩嚴酷授精訓練中出特殊訓練性練習 ！ ~ 若月萌亞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "更衣室",
-      "體育舘",
-      "美少女電影",
-      "美少女",
-      "蠻橫嬌羞",
-      "羞恥",
-      "運動",
-      "運動女孩",
-      "拘束・拷問",
-      "中出",
-      "口交",
-      "性感",
-      "劇情",
-      "抹油"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/c0719aa0d7c643231f0807f66f521ff6.jpg",
-    "actress": [
-      "若月もあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-191"
-  },
-  {
-    "id": 15246,
-    "IDcode": "FOCS-192",
-    "title": "有透明感的美体美少女-一宫美穗乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "淫亂",
-      "出道作品",
-      "女看護",
-      "美乳",
-      "企畫",
-      "女優"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420034114220220.jpg",
-    "actress": [
-      "一宮みほの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-192"
-  },
-  {
-    "id": 455765,
-    "IDcode": "FOCS-193",
-    "title": "【隣人ガチャ大失敗】汚部屋に引きずり込まれた巨乳新妻 絶望の20日間 媚薬でアへ顔痙攣絶頂 首輪SEXで無慈悲種付けプレス中出し 松本梨穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a8372a47ebb1a8b48a11/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-193"
-  },
-  {
-    "id": 14967,
-    "IDcode": "FOCS-194",
-    "title": "小女孩挑衅诱惑-月本海咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "飯店",
-      "苗條",
-      "美少女",
+      "素股",
       "美腳",
-      "美乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "姐姐・妹妹",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
+      "拘束・拷問",
+      "不倫",
+      "高妹",
+      "蕩婦",
+      "濕身",
+      "單體作品",
       "舔陰",
-      "美少女電影",
+      "中出",
+      "空姐",
+      "極品美人",
+      "御姐系",
+      "拜金女",
+      "完全着衣",
+      "抹油",
+      "按摩棒",
+      "絕頂高潮",
+      "港區女子",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "顏射",
+      "黑絲",
+      "純粹的慾望",
       "手指插入",
-      "無毛",
-      "乳交",
-      "蘿莉控",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "潮吹",
+      "4K",
+      "空姐制服",
       "女上位",
-      "騎乗位"
+      "熟女",
+      "後入",
+      "性感",
+      "跳蛋",
+      "3P・4P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506031841170170.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/588d9374/vod.jpg",
     "actress": [
-      "月本海咲"
+      "永野司"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-194"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-014"
   },
   {
-    "id": 471109,
-    "IDcode": "FOCS-195",
-    "title": "特殊性癖院長と歯科衛生士の淫内不倫中出しセックス 都合の良すぎる白衣の天使はいつしか院内共有肉便器堕ちへ 高島愛",
+    "id": 174808,
+    "IDcode": "FSTU-015",
+    "title": "高身長バレリーナ ザーメンSEX 森あやみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a1cd8ac813dc779d96041/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-015"
   },
   {
-    "id": 14481,
-    "IDcode": "FOCS-196",
-    "title": "超級蕩婦，超級雙飛蕩婦，讓男人和女人都潮吹的中出蟲子狂歡派對！！浜崎真緒、乙愛麗絲",
+    "id": 174859,
+    "IDcode": "FSTU-016",
+    "title": "ハイレグブーツファック 妃ひかり",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "兩女一男",
-      "叛逆少女",
-      "慾求不滿",
-      "飯店",
-      "苗條",
-      "流汗",
-      "美少女",
-      "美腳",
-      "雙飛",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "野性",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "企畫",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524062520443443.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "浜崎真緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-196"
-  },
-  {
-    "id": 14488,
-    "IDcode": "FOCS-197",
-    "title": "毫無性知識的素顏少女第一次性經歷 身穿J罩杯制服的美少女羽月乃蒼，被隨心所欲的老男人連續中出8次。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "多P",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524035701709709.jpg",
-    "actress": [
-      "羽月乃蒼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-197"
-  },
-  {
-    "id": 14482,
-    "IDcode": "FOCS-198",
-    "title": "可愛的接吻咖啡館店員引誘小惡魔，從突然的吻 開始的甜蜜中出事件！ ~ 天美めあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "苗條",
-      "美少女",
-      "美腳",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "不倫",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "乳交",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-05-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524062051630630.jpg",
-    "actress": [
-      "天美めあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-198"
-  },
-  {
-    "id": 14273,
-    "IDcode": "FOCS-199",
-    "title": "身高170公分的J型大屁股妹子被弟弟們操屁股…已經氣死了！~ 透美かなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "3P・4P",
-      "巨尻",
-      "亂倫",
-      "美少女",
-      "姐弟・兄妹",
-      "自宅",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "兩男一女",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "姐姐・妹妹",
-      "少女",
-      "美臀",
-      "絕頂高潮",
-      "美少女電影",
-      "運動女孩",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a099fccf22ae3e04a01ec8/cover.jpg",
-    "actress": [
-      "透美かなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-199"
+    "cover_url": "https://tutu1.space/images/2025/10/27/2ea20dc2ffb2098634409b1225ff68df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-016"
   },
   {
-    "id": 14264,
-    "IDcode": "FOCS-200",
-    "title": "我剛剛再婚，卻被繼女給勾引了！她經常不戴胸罩，毫無防備的用大奶子引誘我，衝動下相性拔羣的連續中出！ ~ 加藤桃香",
+    "id": 456896,
+    "IDcode": "FSTUK-002",
+    "title": "出货有限！新拍摄222分钟不间断阴户竞赛完整版性爱斗士地球上最强钢铁人女人御竹悠奈 三岳优奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250915-1/5f47e4409eda415bf8df3e3b5d3bf65e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTUK-002"
+  },
+  {
+    "id": 483439,
+    "IDcode": "FSYM-001",
+    "title": "娇小可爱天使的发情诱惑，与四位可爱天使的主观口交！ 2S 由良かな,菊池はる,爱野ひなた等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/e6fc283e002ebfef887cd44a8f942910.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSYM-001"
+  },
+  {
+    "id": 564947,
+    "IDcode": "FSYM-002",
+    "title": "小柄で可爱い天使の発情诱惑 圧倒的カワイイ4人の天使と主観でしゅきしゅきフェラえっち！ 2SE",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/Iaq5rrXD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSYM-002"
+  },
+  {
+    "id": 565053,
+    "IDcode": "FSYM-003",
+    "title": "おじさんが大好きな4人の天使の発情诱惑 极小口内射精！きつまん生中出し！！ 2SEX 4フェラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241222/8l4LJnUP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSYM-003"
+  },
+  {
+    "id": 401717,
+    "IDcode": "FSYM003",
+    "title": "喜欢大叔的4人天使发情诱惑 极小口内射精！紧穴无套中出！！ 2 福田桃,美咲音,姫野らん等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/2e3e12031735407b5e322184765a0b39.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSYM003"
+  },
+  {
+    "id": 409500,
+    "IDcode": "FTA-105",
+    "title": "哥哥的乖順變態女友…神奈 19才",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4fcf4e4a73d4f15c281a1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-105"
+  },
+  {
+    "id": 409487,
+    "IDcode": "FTA-111",
+    "title": "聽話的女家教…假名小優老師 1OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e60230631cc64eb5a1c9db/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-111"
+  },
+  {
+    "id": 516544,
+    "IDcode": "FTA-116",
+    "title": "我的乖順女OO…假名小舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/21/68f686f079f1ac4ec4b2c34a/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-116"
+  },
+  {
+    "id": 516589,
+    "IDcode": "FTA-120",
+    "title": "聽話。在離家出走留言板上留言的OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed44b5958ac04f2736f611/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-120"
+  },
+  {
+    "id": 516573,
+    "IDcode": "FTA-129",
+    "title": "超聽話。搬到隔壁住的大OO…假名美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f33140dd88d14f063f6fd4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-129"
+  },
+  {
+    "id": 516517,
+    "IDcode": "FTA-139",
+    "title": "超聽話。朋友的女朋友…假名 小梓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fc9dc6944bbe4ef05a075c/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-139"
+  },
+  {
+    "id": 516479,
+    "IDcode": "FTA-144",
+    "title": "乖順。家裡停止給錢的専門學校OO…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffc5047de28f4edeab66b8/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-144"
+  },
+  {
+    "id": 516463,
+    "IDcode": "FTA-146",
+    "title": "超聽話。我的可愛妹妹…假名夏美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "繼父",
-      "美少女電影",
-      "美少女",
-      "美腳",
-      "蠻橫嬌羞",
-      "乱伦",
-      "乳交",
-      "勾引・誘惑",
-      "自宅",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "口交",
-      "巨乳"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240601/20240601081347646646.jpg",
-    "actress": [
-      "加藤桃香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-200"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901199bd6fbef4e901567f2/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-146"
   },
   {
-    "id": 14271,
-    "IDcode": "FOCS-201",
-    "title": "一切對我來說都初體驗……今天和老師一起去畢業旅行。道德敗壞的老師和學生菊池春之間的祕密性行爲",
+    "id": 516407,
+    "IDcode": "FTA-163",
+    "title": "乖順的飼育日記 篠原由香子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69094ce2e264e6282dff5f1d/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-163"
+  },
+  {
+    "id": 516387,
+    "IDcode": "FTA-167",
+    "title": "乖順的飼育日記 森奈奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c77d08e8eb72804b242f0/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-167"
+  },
+  {
+    "id": 534175,
+    "IDcode": "FTA-171",
+    "title": "いいなり。饲育日记 高田美沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTA-171"
+  },
+  {
+    "id": 13729,
+    "IDcode": "FTAV-001",
+    "title": "到夏天，我要結婚了。I cup，現役護士，22歲，千葉縣君津市，不隸屬於任何制作公司，住在鄉下的天然巨乳妹子AV出道 笹本優",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "短髮",
-      "美少女電影",
-      "女學生",
-      "美少女",
-      "癡女",
-      "JK校服",
-      "純粹的慾望",
-      "純愛・戀愛",
+      "巨乳",
+      "出道作",
+      "企畫",
+      "護士",
+      "出道作品",
+      "業餘",
+      "素人",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240626/a3fd408c-ab7f-49e8-90ba-703c0a37bb48.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-001"
+  },
+  {
+    "id": 13130,
+    "IDcode": "FTAV-002",
+    "title": "夏天我就要結婚了。 I cup的現役護士，22歲，千葉縣君津市，不隸屬於任何AV公司，住在鄉下的天然巨乳女人第二次登場。SOD的素人女優笹本ゆう（暫定）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "豐滿",
+      "出軌",
+      "溫泉",
       "旅行",
       "中出",
-      "飯店",
-      "口交",
-      "女上位",
-      "少女",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcbc61ce5a404e9bc35aa6/cover.jpg",
-    "actress": [
-      "菊池春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-201"
-  },
-  {
-    "id": 13836,
-    "IDcode": "FOCS-202",
-    "title": "婚礼前夕的NTR-美波汐里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "若妻",
-      "前女友",
-      "羞恥",
-      "淫妻",
-      "脅迫做愛",
-      "出軌",
-      "自宅",
-      "中出",
-      "蕩婦",
-      "口交",
-      "劇情",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621020017569569.jpg",
-    "actress": [
-      "美波汐里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-202"
-  },
-  {
-    "id": 471042,
-    "IDcode": "FOCS-203",
-    "title": "清純JDがヤリサー堕ちした記録 映像研のクズ達にデカ●ンでポルチオ開発！肉便器快楽堕ちの理性崩壊で白目イキ！いいNTR作品が撮れそうだよ 美咲音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0e62ac813dc779d95fa7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-203"
-  },
-  {
-    "id": 13845,
-    "IDcode": "FOCS-204",
-    "title": "放學後和老師在情趣酒店裏操到高潮～一夜後變成了能被乳頭潮吹的變態 ~ 望月蕾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
       "美少女電影",
-      "女學生",
-      "美少女",
-      "美腳",
-      "癡女",
-      "情趣飯店",
-      "蠻橫嬌羞",
-      "不倫",
-      "猥褻穿著",
-      "偷竊",
-      "美乳",
-      "中出",
-      "口交",
       "劇情",
-      "苗條",
-      "情趣內衣",
-      "絕頂高潮"
+      "美少女",
+      "絕頂高潮",
+      "色白",
+      "騎乗位",
+      "素人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "NTR"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d996cece5a404e9bbba28f/cover.jpg",
-    "actress": [
-      "望月蕾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-204"
+    "company": "SOD",
+    "publish_date": "2024-07-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20240723/9b34b617-5fb8-4848-9221-2994553248a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-002"
   },
   {
-    "id": 560705,
-    "IDcode": "FOCS-205",
-    "title": "【オフパコ×巨乳＆巨尻】梦も希望もぜ～んぶ枕に诘まってる！私を推しにしてね★ 美少女レイヤーコ",
+    "id": 11730,
+    "IDcode": "FTAV-003",
+    "title": "虽然爱着他但是-笹本优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蕩婦",
+      "亂交 • 群P",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "紀錄片",
+      "絕頂高潮",
+      "企畫",
+      "護士",
+      "騎乗位",
+      "美乳",
+      "口交",
+      "巨乳",
+      "慾求不滿",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "業餘",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/211df425bb5272f671315b4d3d7b8513.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-003"
+  },
+  {
+    "id": 12552,
+    "IDcode": "FTAV-004",
+    "title": "我要結婚了嗎-笹本優子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "蕩婦",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "絕頂高潮",
+      "企畫",
+      "飯店",
+      "黑絲",
+      "素人作品",
+      "騎乗位",
+      "羞恥",
+      "素人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感",
+      "車震"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240820/ee844da1-f989-4775-9bbd-71e7dd066d16.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-004"
+  },
+  {
+    "id": 11113,
+    "IDcode": "FTAV-005",
+    "title": "「私、結婚できませんでした」恋人にAVバレて婚約破談 Iカップ素人、AV女優になる 笹本ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "紀錄片",
+      "美少女電影",
+      "抹油",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "女優",
+      "騎乗位",
+      "羞恥",
+      "素人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "乳交",
+      "女優訪談",
+      "胸控・戀乳癖",
+      "內衣",
+      "女上位",
+      "後入",
+      "性感",
+      "3P・4P",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/eecf5f01f20f4ab19a792700ade825df.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-005"
+  },
+  {
+    "id": 10519,
+    "IDcode": "FTAV-006",
+    "title": "现在在这里插入-笹本优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "凌辱",
+      "蒙面・面罩",
+      "公共場所",
+      "亂交 • 群P",
+      "奇異的",
+      "人妻",
+      "舔陰",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "絕頂高潮",
+      "女優",
+      "企畫",
+      "顏射",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "即時插入",
+      "乳交",
+      "女優訪談",
+      "胸控・戀乳癖",
+      "女上位",
+      "多P",
+      "後入",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241119/ad35ab6e-c907-4d40-8ad7-2bba6f59a384.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-006"
+  },
+  {
+    "id": 9825,
+    "IDcode": "FTAV-007",
+    "title": "笹本ゆう 初ドラマ作品 おっぱいの大きい先生の誘惑 巨乳映え4シチュエーション 学校なのに年下が好き過ぎてスイッチが入ってしまう性欲旺盛お姉さん。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "更衣室",
+      "蕩婦",
+      "癡女",
+      "泳池",
+      "處男",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "校園生活",
+      "劇情",
+      "勾引・誘惑",
+      "絕頂高潮",
+      "學校",
+      "色白",
+      "黑絲",
+      "顏射",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "制服",
+      "形象俱樂部",
+      "泳裝",
+      "美乳",
+      "美腿",
+      "正太",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "女教師",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-007"
+  },
+  {
+    "id": 8941,
+    "IDcode": "FTAV-008",
+    "title": "石和温泉を訪れた笹本ゆうさん(22) タオル一枚男湯入ってみませんか？ HARD",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "豐滿",
+      "蕩婦",
+      "口爆",
+      "亂交 • 群P",
+      "奇異的",
+      "溫泉",
+      "人妻",
+      "舔陰",
+      "奇聞趣事",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "按摩棒",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "綜藝",
+      "地味",
+      "色白",
+      "企畫",
+      "女優",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "真人秀",
+      "多P",
+      "後入",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f7224e7d663df4e991d1/cover.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-008"
+  },
+  {
+    "id": 174679,
+    "IDcode": "FTAV-012",
+    "title": "目と目で繋がる！ あなたの初めての日×台0距離交流！！ 初主観 齋齋いつきを超密着堪能！ 台湾的4シチュエーション",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-012"
+  },
+  {
+    "id": 3466,
+    "IDcode": "FTAV-013",
+    "title": "台湾発 新世代の美少女 齋齋いつき 日本AV界に参戦！SOD史上初 台湾人専属女優‘憧れ‘をパワーに。トップ級インフルエンサーから日本のAV女優へ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "蠻橫嬌羞",
+      "美腳",
+      "蘿莉控",
+      "二次元",
+      "小隻馬",
+      "出道作品",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "貧乳",
+      "美少女電影",
+      "丁字裤",
+      "接吻",
+      "美少女",
+      "後入",
+      "絕頂高潮",
+      "無毛",
+      "叛逆少女",
+      "辣妹/GAL系",
+      "色白",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "女優",
+      "刺青紋身",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "脚控・戀足癖",
+      "口交",
+      "蘿莉",
+      "地雷系",
+      "潮吹",
+      "4K",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "內衣",
+      "真人秀",
+      "網路紅人",
+      "大奶头",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "齋齋樹"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-013"
+  },
+  {
+    "id": 175246,
+    "IDcode": "FTBD-076",
+    "title": "うずき大塚びる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MUGEN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTBD-076"
+  },
+  {
+    "id": 541029,
+    "IDcode": "FTDS-005",
+    "title": "おじさん私を食べて！若い娘を食いたがる中年男ども！第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTDS-005"
+  },
+  {
+    "id": 567362,
+    "IDcode": "FTDS-03",
+    "title": "ヘンリー冢本ザ・ショッキングアングル熟熟背徳现场第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTDS-03"
+  },
+  {
+    "id": 539963,
+    "IDcode": "FTDSS-002",
+    "title": "“ノンストップですね～”イックンビックン大絶顶！今にも壊れそうな华奢な美白スレンダーボディを彻底的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240414/FTDSS002.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTDSS-002"
+  },
+  {
+    "id": 544348,
+    "IDcode": "FTHT-034",
+    "title": "女优不详【滝のように耻汁を掻き出す汗だく汁だく中出し精子を奥まで押し込む无责任种付け】スケベ汁が糸引く敏感オマ○コ“ああぁごめんなさい出ち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-034"
+  },
+  {
+    "id": 572256,
+    "IDcode": "FTHT-066",
+    "title": "【ゆるフワ系の不思议ちゃんの敏感おまん娘崩壊大量爆潮大量お漏らし抑えきれない尿意は自然の摂理】あざと可爱い超ド天然娘の清纯なビジュアルとのギャッ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-066"
+  },
+  {
+    "id": 468375,
+    "IDcode": "FTHT-094",
+    "title": "駿君的酸甜回憶 01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20372cf22ae3e04a816d5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-094"
+  },
+  {
+    "id": 547993,
+    "IDcode": "FTHT-140",
+    "title": "【新シリーズ始动】“女子旅ナンパ”改めリニューアルにて“上京ちゃん”シン始动の1人目から大暴走",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230926/Fy7OQaiW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-140"
+  },
+  {
+    "id": 458777,
+    "IDcode": "FTHT-159",
+    "title": "406 【もっと動いていいですか？】淫酒美女がイタズラされ感度が上がって逆襲生交尾！【どうし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/24/6859d69743d69727161e0408/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-159"
+  },
+  {
+    "id": 466580,
+    "IDcode": "FTHT-209",
+    "title": "【挑釁！ ！討厭的美巨乳Yume-chan(化名)】FALENO變態快遞！ ！一個變態女OO在車上秀內褲挑釁我。無法抗拒嗎？他媽的我？它消失了。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1905,2108 +1891,285 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240630/A2tC2eAJ/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689fdc179550e292a7763d3a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-209"
   },
   {
-    "id": 13676,
-    "IDcode": "FOCS-206",
-    "title": "與大奶子女孩進行乳交性愛。中出 x 敏感乳頭 x 可愛微笑美麗女孩的 VIP 護理，您可以連續親吻和射精，直到您的睾丸空了！ 白石なぎさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美少女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628044130984984.jpg",
-    "actress": [
-      "白石渚"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-206"
-  },
-  {
-    "id": 13181,
-    "IDcode": "FOCS-207",
-    "title": "遊戲極客宅男哥哥和身高136cm的J系蘿莉美少女口交吞xNTRx中出 陷入背德泥沼相依爲命的兄妹 ~美好柚伽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "亂倫",
-      "在丈夫面前被操",
-      "美少女",
-      "姐弟・兄妹",
-      "JK校服",
-      "羞恥",
-      "自宅",
-      "口交",
-      "NTR",
-      "貧乳",
-      "淫妻",
-      "中出",
-      "姐姐・妹妹",
-      "少女",
-      "劇情",
-      "清純",
-      "美少女電影",
-      "蘿莉控",
-      "女上位",
-      "宅男・宅女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce15d079f1ac4ec464fb30/cover.jpg",
-    "actress": [
-      "美好柚伽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-207"
-  },
-  {
-    "id": 13205,
-    "IDcode": "FOCS-208",
-    "title": "新人出道，20歲曲線美身材，第一次脫衣服手就發抖～瞞着男友的AV出道～ 江沢りえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "苗條",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "色白",
-      "亂交 • 群P",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "少女",
-      "抹油",
-      "絕頂高潮",
-      "女優",
-      "素人",
-      "出道作",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719024623849849.jpg",
-    "actress": [
-      "江沢りえ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-208"
-  },
-  {
-    "id": 13178,
-    "IDcode": "FOCS-209",
-    "title": "孤獨的中年大叔的雞巴被大胸H罩杯地雷系女孩捕獲，寵物雞巴的榨精育成日記 ~ 森本あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "M男・M女",
-      "性虐癖",
-      "感官作品",
-      "凌辱",
-      "美少女",
-      "拘束・拷問",
-      "色白",
-      "美乳",
-      "監禁",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "女王",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "調教",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0ae2ac813dc779d95f69/cover.jpg",
-    "actress": [
-      "森本あかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-209"
-  },
-  {
-    "id": 12874,
-    "IDcode": "FOCS-210",
-    "title": "可愛巨乳F罩杯咖啡廳女店員不戴胸罩誘惑！帶着罪惡感和快感的中出外遇性愛，小惡魔女孩腐化了有妻子和孩子的商店經理 ~ 柏木小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "咖啡店",
-      "NTR",
-      "美少女電影",
-      "美少女",
-      "情趣飯店",
-      "勾引・誘惑",
-      "出軌",
-      "美乳",
-      "中出",
-      "服務生",
-      "飯店",
-      "巨乳",
-      "口交",
-      "女上位",
-      "少女",
-      "劇情",
-      "不倫"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802024917438438.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-210"
-  },
-  {
-    "id": 12877,
-    "IDcode": "FOCS-211",
-    "title": "丈夫不在的時候，變態襲擊了我的美容院！令人毛骨悚然的老男人上了她的屁股，完全潮吹！人妻美容師 ~ 那賀崎ゆきね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "若妻",
-      "猥亵",
-      "苗條",
-      "鄰居",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "短髮",
-      "按摩・美容店",
-      "性騷擾",
-      "出軌",
-      "按摩女郎",
-      "中出",
-      "劇情",
-      "抹油",
-      "絕頂高潮",
-      "美少女電影",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802022746803803.jpg",
-    "actress": [
-      "那賀崎雪音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-211"
-  },
-  {
-    "id": 12859,
-    "IDcode": "FOCS-212",
-    "title": "Gcup巨乳長身運動正妹大汗淋漓！全裸！體液流出的性感開發！~ 明日見未來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "按摩・美容店",
-      "高顏值",
-      "明星臉",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "運動女孩",
-      "按摩・物理治療・美容",
-      "誘騙女性",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802030744358358.jpg",
-    "actress": [
-      "明日見未来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-212"
-  },
-  {
-    "id": 96171,
-    "IDcode": "FOCS-213",
-    "title": "矮小不成熟-希ゆら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "平胸",
-      "无毛",
-      "妹妹",
-      "颜射",
-      "女生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "紬希ゆら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-213"
-  },
-  {
-    "id": 96181,
-    "IDcode": "FOCS-214",
-    "title": "猎取顾客的鸡巴-如月りいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "荡妇",
-      "肛交",
-      "中出",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "如月りいさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-214"
-  },
-  {
-    "id": 12260,
-    "IDcode": "FOCS-215",
-    "title": "小女生被隔壁邻居勾引-美雲そら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "鄰居",
-      "美少女電影",
-      "艷遇",
-      "美少女",
-      "青梅竹馬",
-      "慾求不滿",
-      "色白",
-      "自宅",
-      "豐滿",
-      "中出",
-      "口交",
-      "後入",
-      "女上位",
-      "少女",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830012008126126.jpg",
-    "actress": [
-      "美雲そら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-215"
-  },
-  {
-    "id": 12261,
-    "IDcode": "FOCS-216",
-    "title": "GCUP现役芭蕾演员-神南木实",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "美少女",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "女優",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/202408300123398282.jpg",
-    "actress": [
-      "神南このみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-216"
-  },
-  {
-    "id": 11878,
-    "IDcode": "FOCS-217",
-    "title": "与有女朋友的病人进行反向NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "醫院・診所",
-      "艷遇",
-      "巨尻",
-      "慾求不滿",
-      "豐滿",
-      "護士制服",
-      "護士",
-      "癡女",
-      "勾引・誘惑",
-      "美乳",
-      "口交",
-      "NTR",
-      "淫亂",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "看病・住院",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/78d4add4cc930bde891f299ef9655962.jpg",
-    "actress": [
-      "石川陽波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-217"
-  },
-  {
-    "id": 11875,
-    "IDcode": "FOCS-218",
-    "title": "朝から晩までチ〇コをいたわる即尺メイド ご主人様の精子を見たい！味わいたい！浴びたい！大量射精でおしゃぶり搾精ご奉仕 松井日奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "女僕",
-      "女僕制服",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "自宅",
-      "過膝襪・小腿襪",
-      "口交",
-      "形象俱樂部",
-      "淫亂",
-      "COSPLAY服飾",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/963b2161f2f185ab8676b56a46e5e071.jpg",
-    "actress": [
-      "松井日奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-218"
-  },
-  {
-    "id": 11681,
-    "IDcode": "FOCS-219",
-    "title": "我照顾男友的鸡巴-希和みこと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "純粹的慾望",
-      "純愛・戀愛",
-      "自宅",
-      "中出",
-      "口交",
-      "女上位",
-      "騎乗位",
-      "劇情"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/c39d383e55a1188df2bdc540a3335a3e.jpg",
-    "actress": [
-      "希和みこと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-219"
-  },
-  {
-    "id": 11652,
-    "IDcode": "FOCS-220",
-    "title": "童颜美少女丰满乳晕活跃JD-松原ひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "美少女",
-      "羞恥",
-      "中性",
-      "出道作品",
-      "色白",
-      "美乳",
-      "口交",
-      "短髮",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "美臀",
-      "紀念作",
-      "女優",
-      "清純",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/de6fea675b817340f114378ef300e60b.jpg",
-    "actress": [
-      "松原ひな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-220"
-  },
-  {
-    "id": 11150,
-    "IDcode": "FOCS-221",
-    "title": "脱引きニート計画は巨美尻義妹のピタパン誘惑！？ えちえち美尻の挑発に我慢出来ずバクピスで尻ぶっかけ＆連続中出し放題！ 樟葉杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "表姐・表妹",
-      "臀控",
-      "牛仔褲",
-      "美少女",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "美乳",
-      "口交",
-      "短髮",
-      "蠻橫嬌羞",
-      "中出",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "女上位",
-      "騎乗位",
-      "宅男・宅女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/561d89f7483e94301cb4eb20d86d9abe.jpg",
-    "actress": [
-      "樟葉杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-221"
-  },
-  {
-    "id": 10936,
-    "IDcode": "FOCS-222",
-    "title": "NTR婚礼前夕-宫城理惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "若妻",
-      "慾求不滿",
-      "癡女",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "NTR",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "前女友",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895d08255337d7f7ba45695/cover.jpg",
-    "actress": [
-      "宮城理惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-222"
-  },
-  {
-    "id": 10938,
-    "IDcode": "FOCS-223",
-    "title": "出差共享房间NTR-滨边志穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "慾求不滿",
-      "出差",
-      "飯店",
-      "和服・浴衣・喪服",
-      "OL",
-      "胸控・戀乳癖",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "女上司",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "貴婦",
-      "NTR",
-      "同住一屋・相部屋",
-      "淫妻",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "黑絲",
-      "女上位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/ea25967d45e635f8ed4d0eb0c482c7dd.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-223"
-  },
-  {
-    "id": 10466,
-    "IDcode": "FOCS-224",
-    "title": "甘サド変態ナース高橋ほなみ 唾液まみれでアナルから尿道までベロ舐めでM男を生産！白濁精子を搾取する白衣の堕天使痴女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "醫院・診所",
-      "吞精",
-      "M男・M女",
-      "口爆",
-      "慾求不滿",
-      "護士制服",
-      "苗條",
-      "護士",
-      "美少女",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "變態",
-      "口交",
-      "形象俱樂部",
-      "女王",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "無毛",
-      "看病・住院",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678926055d57b64bfd0b8f3b/cover.jpg",
-    "actress": [
-      "高橋ほなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-224"
-  },
-  {
-    "id": 10431,
-    "IDcode": "FOCS-225",
-    "title": "性欲强烈的私人教练-五十岚清华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "慾求不滿",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "自宅",
-      "美乳",
-      "瑜珈·健身",
-      "巨乳",
-      "性感",
-      "口交",
-      "美人妻",
-      "人妻",
-      "健身教練",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122011053274274.jpg",
-    "actress": [
-      "五十嵐清華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-225"
-  },
-  {
-    "id": 10465,
-    "IDcode": "FOCS-226",
-    "title": "一开门就5秒内直接进行性交-千川とわ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "巨尻",
-      "多P",
-      "M男・M女",
-      "口爆",
-      "真實拍攝",
-      "美少女",
-      "癡女",
-      "即時插入",
-      "色白",
-      "按摩棒",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/202411220129054343.jpg",
-    "actress": [
-      "千川とわ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-226"
-  },
-  {
-    "id": 10273,
-    "IDcode": "FOCS-227",
-    "title": "草食息子の彼女は肉便器志願のM娘 中年チ〇ポ求める中出し種付けプレス NTR激セックス 広瀬このみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "老頭子",
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "苗條",
-      "阪道系",
-      "美少女",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "兒媳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "NTR",
-      "公公",
-      "淫亂",
-      "淫妻",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678902045d57b64bfd7ff3e4/cover.jpg",
-    "actress": [
-      "廣瀬好美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-227"
-  },
-  {
-    "id": 9749,
-    "IDcode": "FOCS-228",
-    "title": "隣の絶倫隣人金髪推しギャルに誘惑されて…覗きがバレた罪滅ぼしに肉バイブ扱いで痴女られた僕… 希咲那奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "小隻馬",
-      "慾求不滿",
-      "網襪",
-      "苗條",
-      "辣妹/GAL系",
-      "網路紅人",
-      "鄰居",
-      "美少女",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "口交",
-      "形象俱樂部",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "偶像",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789063b5d57b64bfd908298/cover.jpg",
-    "actress": [
-      "希咲那奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-228"
-  },
-  {
-    "id": 74312,
-    "IDcode": "FOCS-229",
-    "title": "只有口交就不算是出轨吗-宫本聪美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "OL",
-      "出轨",
-      "口交",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bab75d57b64bfd025391/cover.jpg",
-    "actress": [
-      "宮本聡美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-229"
-  },
-  {
-    "id": 9427,
-    "IDcode": "FOCS-230",
-    "title": "自宅沙龙被性欲怪兽袭来-北冈果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "若妻",
-      "慾求不滿",
-      "鄰居",
-      "肉絲",
-      "美腳",
-      "變態",
-      "制服",
-      "口交",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "高顏值",
-      "出軌",
-      "按摩女郎",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "按摩・物理治療・美容",
-      "御姐系",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69e76cf22ae3e041b79a6/cover.jpg",
-    "actress": [
-      "北岡果林"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-230"
-  },
-  {
-    "id": 9406,
-    "IDcode": "FOCS-231",
-    "title": "从未交过女友的素人处男-月间若叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "飯店",
-      "苗條",
-      "美腳",
-      "癡女",
-      "OL",
-      "眼鏡",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "地味",
-      "內衣",
-      "文藝女",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787ae905d57b64bfdfb9ec7/cover.jpg",
-    "actress": [
-      "月見若葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-231"
-  },
-  {
-    "id": 8806,
-    "IDcode": "FOCS-232",
-    "title": "不感症烦恼后竟然用乳头开发觉醒了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "辦公室",
-      "肉絲",
-      "OL",
-      "加班",
-      "地味",
-      "眼鏡",
-      "文藝女",
-      "美乳",
-      "中出",
-      "制服",
-      "美人",
-      "後入",
-      "性感",
-      "口交",
-      "騎乗位",
-      "美臀",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075321918918.jpg",
-    "actress": [
-      "松下莉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-232"
-  },
-  {
-    "id": 8830,
-    "IDcode": "FOCS-233",
-    "title": "不论是骯脏房间还是肉棒-美木雏乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "女僕",
-      "女僕制服",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123080438856856.jpg",
-    "actress": [
-      "美木雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-233"
-  },
-  {
-    "id": 187412,
-    "IDcode": "FOCS-234",
-    "title": "【剛毛】超敏感ボディが大量おもらし びっしり生えそろった陰毛がいやらしく愛液・潮噴射で輝く ぬるぬる快楽オイルエステ 一色さら",
+    "id": 466581,
+    "IDcode": "FTHT-210",
+    "title": "【挑釁！ ！超級變態怪物小櫻（化名）】FALENO變態快遞！ ！一個變態女OO在車上秀內褲挑釁我。無法抗拒嗎？他媽的我？它消失了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689fdc269550e292a7763d3b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-210"
+  },
+  {
+    "id": 525592,
+    "IDcode": "FTHT-211",
+    "title": "巷で话题の吸うやつ！！ウーマナ〇ザーでプレジャー体験！！ご好评につき第2弾！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240717/X9pIYcGc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-211"
+  },
+  {
+    "id": 525593,
+    "IDcode": "FTHT-212",
+    "title": "検证！！巷で话题の里メニュー！！TE●GAEGGで女性をイカせることが出来るのか？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240717/4PcLFlLj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-212"
+  },
+  {
+    "id": 544767,
+    "IDcode": "FTHT-214",
+    "title": "た～っぷり舐めてくれる【じゅぽっじゅぽっ】フェラちゅう！！【とつぜん恐缩ですがフェラチオしても",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240928/TuQCqUDs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-214"
+  },
+  {
+    "id": 564951,
+    "IDcode": "FTHT-216",
+    "title": "ち〇ぽあらい屋さんのお仕事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/dAgNcULJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-216"
+  },
+  {
+    "id": 499398,
+    "IDcode": "FTHT-217",
+    "title": "我鼓起勇气去了传闻中的反向兔子工作的地下赌场，结果很受欢迎！【天然巨乳新兔女郎M収录时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/f4e2225990c2e75d60e821d60811635f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-217"
+  },
+  {
+    "id": 564949,
+    "IDcode": "FTHT-218",
+    "title": "巷でウワサの逆バニーが在籍している里カジノに勇気を出して行ってみたらアタリだった！【ツンデレ天",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/DyBWm2PB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-218"
+  },
+  {
+    "id": 493251,
+    "IDcode": "FTHT-221",
+    "title": "在拥挤的电影院里，一个美丽的女人偷偷靠近我，对我低声说着恶魔的话，并玩弄我的鸡巴，以収录时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/f4a4a61922b32ae1b465ddaeadc076a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-221"
+  },
+  {
+    "id": 493267,
+    "IDcode": "FTHT-222",
+    "title": "拥挤的电影院里，苗条美女偷偷靠近我，低声说甜言蜜语，在电影中玩弄我的鸡巴，以免我发现収录时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/d7a74f95f74db98a3a1205a08f5e839f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-222"
+  },
+  {
+    "id": 492984,
+    "IDcode": "FTHT-225",
+    "title": "在棉被里头口交的女友。8 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/767e6ac2970d0d0915db8bdc3277ee5d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-225"
+  },
+  {
+    "id": 493263,
+    "IDcode": "FTHT-229",
+    "title": "一段与你周围的人的顽皮奇闻趣事视频，会让你想知道「这个人是谁？」素人女子的出走行为最未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/81282dde1d92b810fff40220c679bfb9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-229"
+  },
+  {
+    "id": 493268,
+    "IDcode": "FTHT-230",
+    "title": "一段与你周围的人的顽皮奇闻趣事视频，会让你想知道「这个人是谁？」素人女子的出走行为最未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/924f682d3352af23a450b519af8af360.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-230"
+  },
+  {
+    "id": 493273,
+    "IDcode": "FTHT-243",
+    "title": "心跳！？女性之间的一场汗流浃背，多汁的扭转游戏！如果你赢了，你会得到一块钱！如果你収录时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/134c84da7b5732e5bd5f0cead235dd33.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-243"
+  },
+  {
+    "id": 503366,
+    "IDcode": "FTHT-244",
+    "title": "心跳！？女性之间的一场汗流浃背，多汁的扭转游戏！如果你赢了，你会得到一块钱！如果你収录时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/2971656912c85ab8e376e7894910fe4b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-244"
+  },
+  {
+    "id": 70616,
+    "IDcode": "FTHT-248",
+    "title": "ノーハンドフェラチオで僕のチ〇ポにしゃぶりつく女の子【配信限定vol.2】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "素人作品",
+      "姐姐",
+      "戏剧",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-234"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-248"
   },
   {
-    "id": 8636,
-    "IDcode": "FOCS-235",
-    "title": "【NTR】あざと可愛すぎてもはや罪！彼女の姉ちゃん（巨乳）が涎流してベロキス誘惑 妹にバレないようにこっそり激しく声我慢中出しSEX 椎名心春",
+    "id": 70615,
+    "IDcode": "FTHT-249",
+    "title": "ノーハンドフェラチオで僕のチ〇ポにしゃぶりつく女の子【配信限定vol.3】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "綠茶婊",
-      "臀控",
-      "美少女",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "女友姐姐",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "NTR",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "淫妻",
-      "出軌",
       "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "偷竊",
-      "女上位",
-      "騎乗位"
+      "乳房",
+      "素人作品",
+      "姐姐",
+      "戏剧",
+      "企画"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084928461461.jpg",
-    "actress": [
-      "椎名心春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-235"
-  },
-  {
-    "id": 8077,
-    "IDcode": "FOCS-236",
-    "title": "隣の絶倫隣人アイドルに誘惑されて… 覗きがバレたその日から超絶ビッチな鉄マン推しの子が誘惑し続けてくる神シチュ！ 永野鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "女學生",
-      "純粹的慾望",
-      "慾求不滿",
-      "口爆",
-      "鄰居",
-      "美少女",
-      "JK校服",
-      "羞恥",
-      "勾引・誘惑",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "NTR",
-      "高顏值",
-      "校花",
-      "淫亂",
-      "蠻橫嬌羞",
-      "出軌",
-      "中出",
-      "美人",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd75214e7d663df4db88e6/cover.jpg",
-    "actress": [
-      "永野鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-236"
-  },
-  {
-    "id": 8086,
-    "IDcode": "FOCS-237",
-    "title": "彼女持ち患者を逆NTR 退院拒否必死レベルの追撃フェラ好きな献身的性看護師 18発射 なつみ柑奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "醫院・診所",
-      "艷遇",
-      "小隻馬",
-      "口爆",
-      "護士制服",
-      "苗條",
-      "護士",
-      "美腳",
-      "癡女",
-      "勾引・誘惑",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "NTR",
-      "深喉",
-      "淫妻",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "看病・住院",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd76904e7d663df4db88eb/cover.jpg",
-    "actress": [
-      "夏巳百合香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-237"
-  },
-  {
-    "id": 7868,
-    "IDcode": "FOCS-238",
-    "title": "久々に帰省したら巨乳の幼馴染がムッツリ性豪喪女ニートになっていて… 汚部屋で金玉空っぽになる程中出しセックスで搾り取られた僕 わか菜ほの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "艷遇",
-      "叛逆少女",
-      "慾求不滿",
-      "純粹的慾望",
-      "豐滿",
-      "癡女",
-      "主觀視角",
-      "眼鏡",
-      "探親",
-      "勾引・誘惑",
-      "美乳",
-      "口交",
-      "早漏",
-      "性感",
-      "巨乳",
-      "形象俱樂部",
-      "地味",
-      "傲嬌",
-      "文藝女",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "青梅竹馬",
-      "女上位",
-      "騎乗位",
-      "宅男・宅女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/06/67c97e2e4e7d663df4d51706/cover.jpg",
-    "actress": [
-      "若宮穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-238"
-  },
-  {
-    "id": 7860,
-    "IDcode": "FOCS-239",
-    "title": "悶絶暴発7発射！甘サド誘惑痴女 巨乳ギャルが陰キャ童貞男子をホテルに連れ込み優しい淫語で凄テク筆おろし 芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "情趣飯店",
-      "慾求不滿",
-      "純粹的慾望",
-      "豐滿",
-      "苗條",
-      "美腳",
-      "JK校服",
-      "勾引・誘惑",
-      "美乳",
-      "早漏",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "淫亂",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "美人",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "乳交",
-      "白眼失神",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/06/67c979704e7d663df4d516df/cover.jpg",
-    "actress": [
-      "蘆名穗花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-239"
-  },
-  {
-    "id": 7339,
-    "IDcode": "FOCS-240",
-    "title": "婚礼前夜NTR-濑田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "昭和系",
-      "豐滿",
-      "阪道系",
-      "朋友女友・妻子",
-      "凌辱",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "色白",
-      "美乳",
-      "寢取",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "淫妻",
-      "中出",
-      "後入",
-      "劇情",
-      "乳交",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113742297297.jpg",
-    "actress": [
-      "瀬田一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-240"
-  },
-  {
-    "id": 7342,
-    "IDcode": "FOCS-241",
-    "title": "陽光辣妹最愛宅男！？ 生日快樂☆童貞君☆你的禮物就是我哦☆ 甜辣GAL妹突襲童貞宅，夢幻初體驗SEX ~ 冰堂梨梨愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "口爆",
-      "真實拍攝",
-      "港區女子",
-      "辣妹/GAL系",
-      "美腳",
-      "真人秀",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "處男",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "短髮",
-      "內衣",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "女優",
-      "上門福利",
-      "美少女電影",
-      "舔腳",
-      "乳交",
-      "足交",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/2025032011413433.jpg",
-    "actress": [
-      "冰堂梨梨愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-241"
-  },
-  {
-    "id": 69632,
-    "IDcode": "FOCS-242",
-    "title": "在暴雨中湿透的前辈那生动诱人的H罩杯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efe7d44e7d663df47f763a/cover.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-242"
-  },
-  {
-    "id": 69631,
-    "IDcode": "FOCS-243",
-    "title": "狡猾可愛美少女咖啡店店員的小惡魔誘惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "出轨",
-      "中出",
-      "服务生",
-      "女生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "南日菜乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-243"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-249"
   },
   {
-    "id": 6743,
-    "IDcode": "FOCS-244",
-    "title": "パパ活女子が沼る乳首調教 伸ばされ！噛まれ！舐め吸われ！徹底した乳首責め開発に変態ドM覚醒中出しセックス 虹村ゆみ",
+    "id": 399777,
+    "IDcode": "FTHT-264",
+    "title": "我的大屌在穿著泳衣混浴時被發現了！ ？與兩位年輕美女混合沐浴。當發現他完全勃起的大陰莖時,女人們變得對它非常感興趣。近距離後宮反向搭訕引發混亂！ [僅限串流媒體第 2 卷]",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "獵豔",
-      "M男・M女",
-      "苗條",
-      "美少女",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美乳",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "人妻",
-      "高顏值",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "美腿",
-      "劇情",
-      "絕頂高潮",
-      "應召・援交",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "運動女孩",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092854103103_thumbnail.webp",
-    "actress": [
-      "虹村由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-244"
-  },
-  {
-    "id": 67671,
-    "IDcode": "FOCS-245",
-    "title": "清纯女大学生堕落色情社团实录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "巨乳",
-      "滥交",
-      "运动",
-      "单体作品"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "桃瀨日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-245"
-  },
-  {
-    "id": 6748,
-    "IDcode": "FOCS-246",
-    "title": "被她讨厌的丈夫的老板强奸了七天",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "阪道系",
-      "凌辱",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "寢取",
-      "變態",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "高顏值",
-      "內衣",
-      "下屬女友・妻子",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "清純",
-      "自慰",
-      "御姐系",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417093343196196_thumbnail.webp",
-    "actress": [
-      "西野絵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-246"
-  },
-  {
-    "id": 6438,
-    "IDcode": "FOCS-247",
-    "title": "随时愿意打扫主人房间还有肉棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "女僕",
-      "游戲COSPLAY",
-      "口爆",
-      "慾求不滿",
-      "苗條",
-      "女僕制服",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "自宅",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "正統派",
-      "單體作品",
-      "深喉",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "COSPLAY服飾",
-      "中出",
-      "美人",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045313334334_thumbnail.webp",
-    "actress": [
-      "南條彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-247"
-  },
-  {
-    "id": 6437,
-    "IDcode": "FOCS-248",
-    "title": "クズ彼氏のトンデモ借金返済！俺の口座は彼女の口の中！？チュパジュボチン舐め舌レロ都合のいい彼女のイラマ＆おま●こ決済 相坂すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女友・妻子",
-      "吞精",
-      "多P",
-      "小隻馬",
-      "M男・M女",
-      "口爆",
-      "凌辱",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "欠債肉償",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "兩男一女",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "脅迫做愛",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044531150150_thumbnail.webp",
-    "actress": [
-      "相坂すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-248"
-  },
-  {
-    "id": 5866,
-    "IDcode": "FOCS-249",
-    "title": "限界OL水乃なのは 不眠不休ブラック企業でイライラムラムラ「仕事で役に立たないならチ●コ立たせない！」無能部下たちとのストレス解消残業中出しSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "小隻馬",
-      "巨尻",
-      "慾求不滿",
-      "飯店",
-      "職場",
-      "網路紅人",
-      "辦公室",
-      "肉絲",
-      "OL",
-      "癡女",
-      "加班",
-      "勾引・誘惑",
-      "美乳",
-      "制服",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "女上司",
-      "形象俱樂部",
-      "單體作品",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522083624407407_thumbnail.webp",
-    "actress": [
-      "水乃菜乃華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-249"
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d34c85631cc64eb57b5bf4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-264"
   }
 ];

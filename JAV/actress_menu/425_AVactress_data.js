@@ -74,7 +74,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "KIRAKIRA",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
       "actress": [
@@ -124,7 +124,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "Mr.Michiru",
+      "company": "TMA",
       "publish_date": "2024-10-10",
       "cover_url": "https://picture.yoshiclub.xyz/20240916/649d99a9-53fa-4f48-9acf-23a576fd2a70.jpg",
       "actress": [

@@ -1,266 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 545204,
-    "IDcode": "CMC-310",
-    "title": "连続暴行浣肠魔牛头鬼5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240708/EEm69daC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-310"
-  },
-  {
-    "id": 545053,
-    "IDcode": "CMC-311",
-    "title": "美畜秘书の系谱 二重スパイ指令笼络の手顺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/vPT8WMO6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-311"
-  },
-  {
-    "id": 545063,
-    "IDcode": "CMC-312",
-    "title": "背徳未亡人美熟肉奴调教SPECIAL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/CtdlHnKE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-312"
-  },
-  {
-    "id": 525431,
-    "IDcode": "CMC-313",
-    "title": "変态先生のお気に入り 制服肉便器元サヤ调教2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240925/JcDkzoMC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-313"
-  },
-  {
-    "id": 525432,
-    "IDcode": "CMC-314",
-    "title": "里町心疗整体师の秘密カルテ2 恋人蹂躙调教のトラウマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240925/HqjZs52j/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-314"
-  },
-  {
-    "id": 476940,
-    "IDcode": "CMC-315",
-    "title": "Cinemagic DVD 最佳 30 部第 XVIII 部分 塩见彩,竹内夏希,壬生恋白等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/ec9adb1e6cbedb9639830fc74e6a3dd8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-315"
-  },
-  {
-    "id": 493350,
-    "IDcode": "CMC-316",
-    "title": "肛门破坏女教师_经验丰富且虐待性的看门人的俘虏_花松百叶花松桃羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/276fa0a8ab6609b3b581e98972795265.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-316"
-  },
-  {
-    "id": 565042,
-    "IDcode": "CMC-317",
-    "title": "S叔父と打掷マゾ侄 禁断の美丽尻弄虐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241218/CVS7G3sH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-317"
-  },
-  {
-    "id": 9151,
-    "IDcode": "CMC-318",
-    "title": "無慈悲蹂躙を熱望する女体育教師 足立友梨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "口爆",
-      "慾求不滿",
-      "猥亵",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "苗條",
-      "放尿",
-      "凌辱",
-      "女教師",
-      "淫語",
-      "緊縛",
-      "美腳",
-      "癡女",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "美乳",
-      "口交",
-      "跳蛋",
-      "暗黑系",
-      "熟女",
-      "形象俱樂部",
-      "導尿",
-      "潮吹",
-      "人妻",
-      "深喉",
-      "美人妻",
-      "淫亂",
-      "中出",
-      "美人",
-      "後入",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "口球",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "拳擊交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250113/603f99e8-c180-4f3b-9030-91a88191a358.jpg",
-    "actress": [
-      "足立友梨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-318"
-  },
-  {
-    "id": 550646,
-    "IDcode": "CMC-320",
-    "title": "家畜娼妇に転落した女 夜の浣肠肉奴に嵌まった昼职美人OL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250314/YXHWkruo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-320"
-  },
-  {
     "id": 566901,
     "IDcode": "CMC-321",
     "title": "连続暴行浣肠魔牛头鬼6",
@@ -269,13 +8,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250511/ZyXOURaR/1.jpg",
     "actress": [],
@@ -290,13 +23,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250511/DSmBqqSg/1.jpg",
     "actress": [],
@@ -310,64 +37,58 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "游戲COSPLAY",
-      "M男・M女",
-      "口爆",
-      "兔女郎妝扮",
       "真實拍攝",
-      "性虐癖",
-      "打屁股",
-      "蠟燭",
-      "鬼畜片",
-      "臀控",
-      "阪道系",
-      "凌辱",
-      "緊縛",
-      "中囯服裝",
-      "美腳",
-      "OL",
-      "拘束・拷問",
-      "羞恥",
-      "美乳",
       "清楚系",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "SM",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "口球",
-      "高妹",
-      "高跟鞋",
-      "調教",
-      "黑絲",
-      "白眼失神",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
       "女秘書",
+      "高妹",
+      "兔女郎妝扮",
+      "口爆",
+      "臀控",
+      "SM",
+      "打屁股",
+      "單體作品",
+      "美臀",
+      "人妻",
+      "口球",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "中囯服裝",
+      "極品美人",
+      "美少女電影",
+      "調教",
+      "蠟燭",
+      "絕頂高潮",
+      "M男・M女",
+      "緊縛",
+      "高顏值",
+      "企畫",
+      "黑絲",
+      "阪道系",
+      "游戲COSPLAY",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
       "女上位",
-      "騎乗位"
+      "高跟鞋",
+      "OL",
+      "白眼失神",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621063255379379_thumbnail.webp",
     "actress": [
@@ -383,53 +104,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
       "豐滿",
-      "插入異物",
-      "性虐癖",
       "鬼畜片",
-      "緊縛",
-      "拘束・拷問",
-      "變態",
+      "性虐癖",
       "風俗夜場",
-      "巨乳",
-      "口交",
-      "性感",
-      "跳蛋",
-      "淫蕩・硬核",
-      "暗黑系",
+      "ASMR顱内高潮",
+      "拘束・拷問",
+      "口爆",
+      "SM",
       "單體作品",
       "人妻",
-      "ASMR顱内高潮",
-      "風俗娘",
+      "舔陰",
       "淫亂",
       "中出",
-      "美人",
-      "後入",
-      "SM",
       "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "魔鬼系",
       "調教",
-      "肛交",
-      "白眼失神",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "緊縛",
+      "變態",
+      "暗黑系",
+      "插入異物",
+      "手指插入",
+      "騎乗位",
+      "美人",
+      "素人",
+      "吞精",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "風俗娘",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "白眼失神",
+      "後入",
+      "性感",
+      "跳蛋",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718215833393393_66256_thumbnail.webp",
     "actress": [
@@ -445,75 +160,69 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "吞精",
-      "殘忍畫面",
-      "M男・M女",
-      "口爆",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "打屁股",
-      "蠟燭",
-      "鬼畜片",
-      "苗條",
-      "放尿",
-      "凌辱",
-      "女教師",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "變態",
-      "美乳",
-      "清楚系",
-      "早漏",
-      "口交",
-      "跳蛋",
-      "淫蕩・硬核",
-      "暗黑系",
-      "導尿",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "刑架",
-      "深喉",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
       "少女",
-      "重口味",
-      "後入",
+      "清楚系",
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "美腳",
+      "拘束・拷問",
+      "女學生",
+      "口爆",
       "美臀",
-      "顏射",
-      "絕頂高潮",
       "SM",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
+      "打屁股",
+      "單體作品",
+      "深喉",
+      "刑架",
+      "重口味",
       "口球",
-      "無毛",
+      "舔陰",
+      "中出",
+      "美少女電影",
+      "殘忍畫面",
       "調教",
-      "白眼失神",
+      "美少女",
+      "早漏",
+      "蠟燭",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "無毛",
+      "色白",
+      "緊縛",
+      "苗條",
+      "變態",
+      "高顏值",
+      "暗黑系",
+      "企畫",
+      "顏射",
+      "插入異物",
+      "手指插入",
+      "導尿",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "吞精",
+      "口交",
+      "校花",
+      "潮吹",
+      "清純",
       "女上位",
-      "騎乗位"
+      "放尿",
+      "白眼失神",
+      "女教師",
+      "大奶头",
+      "JK校服",
+      "唾液敷面",
+      "跳蛋"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212356318318_11372_thumbnail.webp",
     "actress": [
@@ -530,13 +239,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -551,7 +254,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250112-1/ec00eb28841507a2fc3732757858022e.jpg",
     "actress": [],
@@ -566,7 +269,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241031-1/3547046fce88ed9f6ecfad3774d5f047.jpg",
     "actress": [],
@@ -581,7 +284,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250924-1/476560fb7847a647b2b198e77db66c8b.jpg",
     "actress": [],
@@ -596,7 +299,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/7b863189ea7ee15b6a365e062f118af0.jpg",
     "actress": [],
@@ -611,7 +314,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/e8c333d229e1b66740bdef6d42dac135.jpg",
     "actress": [],
@@ -626,7 +329,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/aa5055911be9cb9645f1b5fa56cba35a.jpg",
     "actress": [],
@@ -641,7 +344,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/f060efdc8504ffc3e9bd5a32596046c3.jpg",
     "actress": [],
@@ -656,7 +359,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -670,12 +373,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "各种职业",
       "荡妇",
+      "各种职业",
       "企画"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -694,7 +397,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -709,7 +412,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ALNvgyQM.jpg",
     "actress": [],
@@ -718,7 +421,7 @@ window.PAGE_DATA = [
   {
     "id": 590416,
     "IDcode": "CMD-018",
-    "title": "[]诱惑美容院 铃木里美",
+    "title": "诱惑美容院 铃木里美",
     "year": "",
     "country": "",
     "genre": "",
@@ -726,7 +429,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/8fwotYyJ.jpg",
     "actress": [],
@@ -740,12 +443,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "各种职业",
       "荡妇",
+      "各种职业",
       "企画"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/46efe337adceb41f48943f391da84d1b.jpg",
     "actress": [
@@ -762,7 +465,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230221-1/a0175415fc105eaa14c1dccee0c1347e.jpg",
     "actress": [],
@@ -777,7 +480,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -792,7 +495,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dde321460908c05e164c02f6328fff88.jpg",
     "actress": [],
@@ -809,7 +512,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -824,12 +527,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "角色扮演者",
-      "中出",
       "素人作品",
-      "偷窥"
+      "偷窥",
+      "中出"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cb897f0b8e86c303c0f0222b84fe81f2.jpg",
     "actress": [
@@ -846,7 +549,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -861,7 +564,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d59eeeeb67774efbb84db3/cover.jpg",
     "actress": [],
@@ -876,7 +579,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4464ed6fbef4e90c40fda/cover.jpg",
     "actress": [],
@@ -891,7 +594,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250114-1/346ea61c342c3cf701563cb2ab46320e.jpg",
     "actress": [],
@@ -906,7 +609,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241103-1/724ae69964be13de7c940f2eaa326c00.jpg",
     "actress": [],
@@ -921,13 +624,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/b942454c867d35e2c2a3f367af978100.jpg",
     "actress": [],
@@ -942,13 +639,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d993314e7d663df4047b7a/cover.jpg",
     "actress": [],
@@ -963,13 +654,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250523/U0hdnQ9F/1.jpg",
     "actress": [],
@@ -984,13 +669,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1004,21 +683,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
+      "角色扮演者",
       "凌辱",
       "恋乳癖",
       "巨乳",
-      "角色扮演者",
+      "捆绑",
       "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "2020-03-07",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/3d23429a18a512225847563b81debef3.jpg",
     "actress": [
@@ -1037,13 +710,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241113-1/2ac2964526f6ba8c34112d5a0b0bdab7.jpg",
     "actress": [],
@@ -1057,20 +724,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
       "凌辱",
+      "灌肠",
+      "单体作品",
       "空中小姐",
-      "SM",
-      "单体作品"
+      "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/62d0dd173816751733f4af294e24b0f3.jpg",
     "actress": [
@@ -1086,21 +747,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "监禁",
-      "巨大屁股",
       "巨乳",
+      "灌肠",
+      "单体作品",
+      "巨大屁股",
       "SM",
-      "单体作品"
+      "监禁"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/7e0c92fb3a69dc157c9f0403ce862477.jpg",
     "actress": [],
@@ -1114,20 +769,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
+      "SM",
       "捆绑",
       "女大学生",
-      "肛交",
-      "SM",
-      "单体作品"
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c6c0d3ed39b57c0f6869c/cover.jpg",
     "actress": [
@@ -1144,13 +793,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221214/epvP7mmd/1.jpg",
     "actress": [],
@@ -1165,13 +808,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://pic48.anzise.com/pic/20230227/1419121c5d3917c3f19543950bdfd33d/1.jpg",
     "actress": [],
@@ -1186,13 +823,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230407/9tpRgYCk/1.jpg",
     "actress": [],
@@ -1209,13 +840,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240521/cmf079pl.jpg!320x216.jpg",
     "actress": [],
@@ -1229,20 +854,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "已婚妇女",
       "恋物癖",
-      "巨乳",
-      "SM",
-      "单体作品"
+      "单体作品",
+      "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/7ef71769770b58dab9a366a2092d8bf2.jpg",
     "actress": [
@@ -1258,20 +877,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "灌肠",
       "寡妇",
-      "婆婆",
       "SM",
-      "单体作品"
+      "婆婆"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/e143ad53d3d1efb8aa6d6372c7dd4765.jpg",
     "actress": [
@@ -1287,20 +900,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "寡妇",
+      "单体作品",
       "巨大屁股",
-      "婆婆",
+      "寡妇",
       "SM",
-      "单体作品"
+      "婆婆"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/e22c1dc486585d347490502e3558e895.jpg",
     "actress": [
@@ -1317,13 +924,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/853a9fd3d9e052e20284da5b439155b0.jpg",
     "actress": [],
@@ -1337,37 +938,31 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "監獄",
-      "性虐癖",
-      "蠟燭",
       "凌辱",
-      "緊縛",
+      "性虐癖",
       "拘束・拷問",
-      "胸控・戀乳癖",
-      "美乳",
-      "灌腸",
-      "按摩棒",
-      "巨乳",
-      "性感",
-      "跳蛋",
-      "中出",
       "蕩婦",
       "SM",
-      "劇情",
-      "抹油",
-      "絕頂高潮",
       "口球",
-      "肛交",
-      "女上位"
+      "中出",
+      "劇情",
+      "按摩棒",
+      "蠟燭",
+      "絕頂高潮",
+      "緊縛",
+      "監獄",
+      "美乳",
+      "灌腸",
+      "巨乳",
+      "女上位",
+      "胸控・戀乳癖",
+      "抹油",
+      "性感",
+      "跳蛋",
+      "肛交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240513/63c30da2-bc9c-4003-a9ef-1299284e1f0e.jpg",
     "actress": [],
@@ -1382,13 +977,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240624/DrOsA2GX/1.jpg",
     "actress": [],
@@ -1403,13 +992,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/6e4c06ccc386ca616aebbdaff34368f5.jpg",
     "actress": [],
@@ -1423,52 +1006,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "老頭子",
-      "插入異物",
-      "性虐癖",
       "凌辱",
-      "緊縛",
-      "強姦",
+      "性虐癖",
+      "老頭子",
       "拘束・拷問",
-      "羞恥",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "監禁",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "暗黑系",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "貴婦",
-      "美人妻",
-      "名人妻子",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
       "SM",
       "美臀",
-      "劇情",
-      "脚控・戀足癖",
+      "人妻",
+      "中出",
       "御姐控",
-      "魔鬼系",
+      "劇情",
       "調教",
+      "按摩棒",
+      "強姦",
+      "色白",
+      "緊縛",
+      "貴婦",
+      "變態",
+      "美人妻",
+      "暗黑系",
+      "插入異物",
+      "名人妻子",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "監禁",
+      "魔鬼系",
       "女上位",
-      "騎乗位"
+      "胸控・戀乳癖",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "2025-02-25",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/fd59f7d1-3f42-44fb-b56c-90b765ad6550.jpg",
     "actress": [
@@ -1484,20 +1061,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "捆绑",
+      "单体作品",
       "灌肠",
       "插入异物",
-      "SM",
-      "单体作品"
+      "捆绑",
+      "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251012/vraMWvpo/1.jpg",
     "actress": [
@@ -1516,13 +1087,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1531,7 +1096,7 @@ window.PAGE_DATA = [
   {
     "id": 590219,
     "IDcode": "CMI-002",
-    "title": "[]下劣的究极映像 二人目",
+    "title": "下劣的究极映像 二人目",
     "year": "",
     "country": "",
     "genre": "",
@@ -1539,7 +1104,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220513-1/a55b28b3d2b8b17522f71fbfed872c48.jpg",
     "actress": [],
@@ -1548,7 +1113,7 @@ window.PAGE_DATA = [
   {
     "id": 590199,
     "IDcode": "CMI-003",
-    "title": "[]下劣的究极映像 第3人",
+    "title": "下劣的究极映像 第3人",
     "year": "",
     "country": "",
     "genre": "",
@@ -1556,7 +1121,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220425-1/196970c2753337b1e3d22564a89aa7f7.jpg",
     "actress": [],
@@ -1571,7 +1136,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://pic56.anzise.com/pic/20230603/16b0daabc74d5b1c4354828eac86fabc/1.jpg",
     "actress": [],
@@ -1586,7 +1151,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1601,7 +1166,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca2ff1d6fbef4e90afa813/cover.jpg",
     "actress": [],
@@ -1618,7 +1183,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1632,15 +1197,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "已婚妇女",
-      "白天出轨",
       "业余",
-      "巨乳"
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "偷窥",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1659,7 +1224,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1677,7 +1242,7 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1691,15 +1256,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "业余",
       "人妻",
-      "偷窥",
       "已婚妇女",
       "中文字幕",
-      "业余",
+      "偷窥",
       "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1715,15 +1280,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "业余",
       "人妻",
-      "偷窥",
       "已婚妇女",
       "中文字幕",
-      "业余",
+      "偷窥",
       "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1740,12 +1305,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "素人作品",
       "女生",
-      "偷窥"
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1760,15 +1325,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "偷窥",
-      "中文字幕",
       "业余",
-      "素人作品",
       "巨乳",
+      "中文字幕",
+      "偷窥",
+      "素人作品",
       "女生"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1783,7 +1348,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783718b2a47ebb1a8948af2/cover.jpg",
     "actress": [],
@@ -1797,14 +1362,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "女大学生",
-      "偷窥",
       "业余",
-      "巨乳"
+      "巨乳",
+      "偷窥",
+      "校服",
+      "女大学生"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f2667de0fcf152f777a06312181de388.jpg",
     "actress": [],
@@ -1818,17 +1383,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "已婚妇女",
-      "中文字幕",
       "业余",
-      "素人作品",
+      "人妻",
       "巨乳",
-      "高清画质"
+      "已婚妇女",
+      "高清画质",
+      "中文字幕",
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0c6e2e27825a08e2f8efcb6a2d04d798.jpg",
     "actress": [
@@ -1846,12 +1411,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "素人作品",
       "女生",
-      "偷窥"
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9731c87e083903f89ee562c356ed524.jpg",
     "actress": [
@@ -1867,15 +1432,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偷窥",
-      "巨大屁股",
-      "中文字幕",
       "业余",
-      "素人作品",
-      "高清画质"
+      "高清画质",
+      "中文字幕",
+      "巨大屁股",
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/56dc85471b2a017cecaf80f4a10c450d.jpg",
     "actress": [
@@ -1891,14 +1456,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偷窥",
-      "中文字幕",
       "业余",
-      "素人作品",
-      "高清画质"
+      "高清画质",
+      "中文字幕",
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/643797a5330f04c1704a4b8694890028.jpg",
     "actress": [],
@@ -1912,14 +1477,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "偷窥",
-      "已婚妇女",
       "业余",
+      "人妻",
+      "已婚妇女",
+      "偷窥",
       "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8f5741ce8ed60245e273b6e8a37d5b8.jpg",
     "actress": [
@@ -1937,12 +1502,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "素人作品",
       "女生",
-      "偷窥"
+      "偷窥",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/95f1b5a4849d8a7eb0100f4a1f2a4d0d.jpg",
     "actress": [],
@@ -1961,7 +1526,7 @@ window.PAGE_DATA = [
       "偷窥"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a1eaefccbeeda6a955fe4c0311b004d0.jpg",
     "actress": [],
@@ -1976,13 +1541,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1997,13 +1556,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2018,13 +1571,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250110-1/5b9dbaf51cffe09cfc3f188a049c2d49.jpg",
     "actress": [],
@@ -2039,13 +1586,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2059,22 +1600,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "灌肠",
       "调教",
-      "新娘，年轻妻子",
-      "肛交",
+      "SM",
       "制服",
-      "精选，综合",
-      "SM"
+      "肛交",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "2019-02-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2091,13 +1626,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2112,13 +1641,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2132,19 +1655,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "SM",
+      "大小姐",
       "凌辱",
-      "恋物癖",
-      "大小姐"
+      "SM",
+      "恋物癖"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "2020-01-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2160,18 +1677,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "大小姐",
       "捆绑",
-      "SM",
-      "大小姐"
+      "SM"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e0a9b7f0d723438fc58180f317a81484.jpg",
     "actress": [
@@ -2189,13 +1700,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2210,13 +1715,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://pic30.anzise.com/pic/20220612/3893403f8ba9ff70d80e4e4877802aaa/1.jpg",
     "actress": [],
@@ -2231,13 +1730,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/8d2edc93f8375384282fd5bc924e7ac8.jpg",
     "actress": [],
@@ -2252,13 +1745,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240325/na6uDXal/1.jpg",
     "actress": [],
@@ -2275,13 +1762,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/sUCPgVbC/1.jpg",
     "actress": [],
@@ -2296,13 +1777,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/C14wWJgc/1.jpg",
     "actress": [],
@@ -2317,16 +1792,239 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "CineMagic",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_CineMagic",
-        "works_count": 154
-      }
-    ],
+    "company": "CineMagic",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240708/1TT6cYNQ/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-241"
+  },
+  {
+    "id": 560624,
+    "IDcode": "CMN-242",
+    "title": "絶望の女潜入捜查官 水责め浣肠痴狱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240722/Li2mvobP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-242"
+  },
+  {
+    "id": 544548,
+    "IDcode": "CMN-244",
+    "title": "寝取られ浣肠美人妻 全穴使用许可不伦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-244"
+  },
+  {
+    "id": 492966,
+    "IDcode": "CMN-245",
+    "title": "S级十字线M女Muzankarei Yuuhi Nana完成4小时 ゆうひ菜那",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/eba5e2620191e7b7c60984df2a0128d8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-245"
+  },
+  {
+    "id": 499433,
+    "IDcode": "CMN-246",
+    "title": "Cinemagic乳头酷刑无情系列12三浦かなみ,鹤田加奈,有村のぞみ等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/1eb979a4f25dc3cacb1bf7dafc65b64c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-246"
+  },
+  {
+    "id": 457238,
+    "IDcode": "CMN-248",
+    "title": "生意気で可愛い女狐OLに絶叫脅迫浣腸鞭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/c45af713474b81015d9dfd40e70e5726.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-248"
+  },
+  {
+    "id": 69277,
+    "IDcode": "CMN-252",
+    "title": "絶望の女潜入捜査官 踏みにじられた麗しの膣穴＆アナル 仲条さき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "灌肠",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/6719c51ef0ea09c7f74c189ecc95f830.jpg",
+    "actress": [
+      "仲条さき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-252"
+  },
+  {
+    "id": 403298,
+    "IDcode": "CMN-253",
+    "title": "コスプレ地獄に引き摺り込まれた応募メイド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/755116588d5f32f6b444566e46a58b65.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-253"
+  },
+  {
+    "id": 403296,
+    "IDcode": "CMN-254",
+    "title": "エネマ痴帯EX24",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/08ed805bdd6070017fed289135e7bbee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-254"
+  },
+  {
+    "id": 3677,
+    "IDcode": "CMN-256",
+    "title": "婚礼直前二泊三日の熱望不倫飼育 琥珀やや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "鬼畜片",
+      "性虐癖",
+      "凌辱",
+      "ASMR顱内高潮",
+      "出軌",
+      "瘙癢",
+      "美腳",
+      "網襪",
+      "拘束・拷問",
+      "小隻馬",
+      "口爆",
+      "SM",
+      "打屁股",
+      "單體作品",
+      "美臀",
+      "深喉",
+      "口球",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "殘忍畫面",
+      "抹油",
+      "調教",
+      "美少女",
+      "早漏",
+      "蠟燭",
+      "後入",
+      "絕頂高潮",
+      "淫蕩・硬核",
+      "M男・M女",
+      "緊縛",
+      "苗條",
+      "變態",
+      "高顏值",
+      "暗黑系",
+      "企畫",
+      "顏射",
+      "插入異物",
+      "黑絲",
+      "手指插入",
+      "導尿",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "唾液敷面",
+      "美乳",
+      "美腿",
+      "吞精",
+      "口交",
+      "流汗",
+      "拳擊交",
+      "潮吹",
+      "魔鬼系",
+      "乳交",
+      "清純",
+      "女上位",
+      "放尿",
+      "白眼失神",
+      "大奶头",
+      "濕身",
+      "肛交",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "CineMagic",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "日向ひかげ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-256"
+  },
+  {
+    "id": 517443,
+    "IDcode": "CMN253",
+    "title": "：应召女仆深陷cosplay激情地狱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/23/68803bbf3ed39b57c085e331/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN253"
   }
 ];

@@ -1573,7 +1573,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "FITCH",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787eac95d57b64bfd10d601/cover.jpg",
       "actress": [
@@ -2954,7 +2954,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MOODYZ",
+      "company": "CineMagic",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/08/26/65970cc90cdebd103e71725fd6b66f1d.jpg",
       "actress": [

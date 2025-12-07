@@ -566,7 +566,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "GRATZ",
       "publish_date": "",
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/35a12b6e98d04b00ccc602bbf4ee7cf4.jpg",
       "actress": [

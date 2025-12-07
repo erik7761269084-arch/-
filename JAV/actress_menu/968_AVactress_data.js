@@ -115,7 +115,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "GOGOS",
+      "company": "MAXING",
       "publish_date": "2024-04-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240416/1e1fb45e-7133-4ef5-9aac-3fe77d96f55b.jpg",
       "actress": [
@@ -214,7 +214,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "TMA",
+      "company": "蚊香社",
       "publish_date": "2020-03-13",
       "cover_url": "",
       "actress": [

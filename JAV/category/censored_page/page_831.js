@@ -1,168 +1,1129 @@
 window.PAGE_DATA = [
   {
-    "id": 519421,
-    "IDcode": "MBMA-054",
-    "title": "ラグジュアリーエロス 清楚で品良くセレブな熟女たち ナンパ中出し12人4时间SP15",
+    "id": 549853,
+    "IDcode": "MDVHJ-083",
+    "title": "“お义父様、许してこれ以上されたら私は…”夫の父の絶伦肉棒にイキまくる嫁…第5章 小早川怜子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250820/9pCJRs7N/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230802/qIPoLmtP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-083"
   },
   {
-    "id": 519424,
-    "IDcode": "MBMA-055",
-    "title": "“あの人（旦那）が相手してくれないから…” 言い訳妻の浮気心 女盛りの肉体を持て余す我慢出来な",
+    "id": 536440,
+    "IDcode": "MDVHJ-084",
+    "title": "姑と嫁の夜●いレズビアン10章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250820/xCDO8H2a/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230802/hD1cEv1C/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-084"
   },
   {
-    "id": 519418,
-    "IDcode": "MBMA-056",
-    "title": "旅先で开放的になったところをすかさずナンパ 奥様の性欲爆発！ 本能むき出しエッチ 人妻旅先不伦",
+    "id": 530589,
+    "IDcode": "MDVHJ-085",
+    "title": "被与丈夫的大鸡巴不忠性交所着迷的婆婆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250116-1/537890498e1cce10fef964dc22951033.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-085"
+  },
+  {
+    "id": 549903,
+    "IDcode": "MDVHJ-086",
+    "title": "娘の夫に犯●れた母たち…（5）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230803/1BZ66uBD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-086"
+  },
+  {
+    "id": 549977,
+    "IDcode": "MDVHJ-087",
+    "title": "“あなたのためなのよ”そんな言い訳をしながら引きこもりで童贞な息子のデカチンを贪る义母（3）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230828/o7SMMLhM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-087"
+  },
+  {
+    "id": 550062,
+    "IDcode": "MDVHJ-088",
+    "title": "谁にも言えない…娘の夫に无理やり抱かれたなんて…（10）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230928/8eaMyOe9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-088"
+  },
+  {
+    "id": 550066,
+    "IDcode": "MDVHJ-089",
+    "title": "夫の连れ子のデカチンで絶伦性交の虏になる义母たち…（4）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230928/q7YAsADE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-089"
+  },
+  {
+    "id": 536835,
+    "IDcode": "MDVHJ-090",
+    "title": "姑と嫁の夜●いレズビアン11章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250808/YVYZ9HWc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-090"
+  },
+  {
+    "id": 550141,
+    "IDcode": "MDVHJ-091",
+    "title": "“夫には絶対に言えません”义父に抱かれたなんて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231030/AdDSQtxk/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-091"
+  },
+  {
+    "id": 18125,
+    "IDcode": "MDVHJ-092",
+    "title": "[公公，請原諒我不要....] 被公公的大肉棒內射的佐々木夏菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "人妻",
+      "巨乳",
+      "口交",
+      "大雞巴",
+      "強姦",
+      "公公",
+      "中出",
+      "劇情",
+      "性感",
+      "亂倫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
+    "company": "",
+    "publish_date": "2023-10-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029004916396396.jpg",
+    "actress": [
+      "佐々木夏菜"
     ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250820/F1Q6EX8Q/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-092"
   },
   {
-    "id": 519423,
-    "IDcode": "MBMA-057",
-    "title": "ノンフィクション ハメられた女たち 20名-盛られて狂ってイキまくり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250820/LCKZ2hVi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-057"
-  },
-  {
-    "id": 519419,
-    "IDcode": "MBMA-058",
-    "title": "密かに欲求不満を抱えながら闷々と暮らしている 一见真面目な地方のおばさん 12人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250820/nP6OaxTn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-058"
-  },
-  {
-    "id": 4355,
-    "IDcode": "MBMA-059",
-    "title": "媽媽我想擁有！不行啦，這種事… 禁忌之戀家庭內瘋狂愛戀第12集第10幕",
+    "id": 17567,
+    "IDcode": "MDVHJ-093",
+    "title": "「公公，请原諒我，你再操話，我會…」丈夫父亲的绝伦肉棒 第7章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "母親",
-      "精選總編集",
-      "口爆",
-      "三十路",
-      "4小時以上作品",
+      "人妻",
+      "口交",
+      "大雞巴",
+      "公公",
+      "淫亂",
+      "乱伦",
+      "出軌",
+      "中出",
+      "劇情",
       "亂倫",
-      "精選綜合",
-      "羞恥",
+      "兒媳",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-11-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20231128/344b3ea9-d056-484d-9840-ac512152ea94.jpg",
+    "actress": [
+      "香椎佳穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-093"
+  },
+  {
+    "id": 550736,
+    "IDcode": "MDVHJ-094",
+    "title": "乱伦 - 儿子的妻子和媳妇的妹妹被拥有巨大鸡巴的公公的性所迷住",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/tQDY48iq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-094"
+  },
+  {
+    "id": 550280,
+    "IDcode": "MDVHJ-095",
+    "title": "“夫には絶対に言えません”义父に抱かれたなんて…2章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231229/nQPhfrJJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-095"
+  },
+  {
+    "id": 550287,
+    "IDcode": "MDVHJ-096",
+    "title": "母亲失格…夫の连れ子との禁断相奸にはまり狂う义母… 第4章 中山穂香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240219/48mdvhj096pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-096"
+  },
+  {
+    "id": 517006,
+    "IDcode": "MDVHJ-097",
+    "title": "被公公絶倫肉棒搞到高潮的媳婦…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb4a291572686be786c572/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-097"
+  },
+  {
+    "id": 101375,
+    "IDcode": "MDVHJ-098",
+    "title": "近親乱交相姦 絶倫でデカチンな義父のセックスの虜になる息子の嫁と嫁の妹（2） 一条みおさんと奥菜みさきさんのチェキとパンティ2枚付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "乱伦",
+      "乱交",
+      "巨大阴茎",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-02-27",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/48mdvhj098/48mdvhj098pl.jpg",
+    "actress": [
+      "桐香悠裡",
+      "奥菜みさき",
+      "一条美绪",
+      "永瀬爱菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-098"
+  },
+  {
+    "id": 453914,
+    "IDcode": "MDVHJ-099",
+    "title": "無法對別人訴說…被女婿強OO抱住… （11）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e5fe07944bbe4ef0349ec7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-099"
+  },
+  {
+    "id": 453917,
+    "IDcode": "MDVHJ-100",
+    "title": "姑姑與媳婦的夜襲蕾絲邊12章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e5f22c944bbe4ef0348a2f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-100"
+  },
+  {
+    "id": 531938,
+    "IDcode": "MDVHJ-101",
+    "title": "“我永远不能告诉我的丈夫”我的岳父拥抱了我… Chapter 3 3,075 26 - 雨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240329/E5GFzk2w/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-101"
+  },
+  {
+    "id": 545916,
+    "IDcode": "MDVHJ-102",
+    "title": "童贞な仆がデカチンと知った义母は1度だけよと言ってたのに自ら何度も何度も求めてくるんです…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240329/inn5qY6M/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-102"
+  },
+  {
+    "id": 560846,
+    "IDcode": "MDVHJ-104",
+    "title": "夫の连れ子のデカチンで絶伦性交の虏になる义母たち… 5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240529/jXELsHu7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-104"
+  },
+  {
+    "id": 517102,
+    "IDcode": "MDVHJ-105",
+    "title": "我不能告訴任何人…我女兒的丈夫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690531a228bb452860f8ff67/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-105"
+  },
+  {
+    "id": 13085,
+    "IDcode": "MDVHJ-106",
+    "title": "永遠不能告訴丈夫，我被公公操了......合集4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "蕩婦",
+      "美臀",
+      "人妻",
+      "中出",
+      "美少女電影",
+      "接吻",
+      "劇情",
+      "色白",
+      "騎乗位",
+      "精選總編集",
+      "形象俱樂部",
+      "兒媳",
+      "美乳",
+      "口交",
+      "巨乳",
+      "公公",
+      "女上位",
       "胸控・戀乳癖",
-      "自宅",
+      "熟女",
+      "後入",
+      "性感",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43892dbf24d4ed3012e65/cover.jpg",
+    "actress": [
+      "宮西光",
+      "水端麻美",
+      "稲森美憂",
+      "成宮彩葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-106"
+  },
+  {
+    "id": 545108,
+    "IDcode": "MDVHJ-107",
+    "title": "“あなた许してください”娘の旦那との禁断性交にイキ狂うわたしを…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240730/xgJB1drj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-107"
+  },
+  {
+    "id": 544692,
+    "IDcode": "MDVHJ-108",
+    "title": "谁にも言えない…娘の夫に无理やり抱かれたなんて 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-108"
+  },
+  {
+    "id": 174815,
+    "IDcode": "MDVHJ-109",
+    "title": "絶倫な夫の連れ子の巨根に溺れてしまう義母 第7章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/40f752122e8e41893f8f1ec5bdf34096.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-109"
+  },
+  {
+    "id": 174831,
+    "IDcode": "MDVHJ-110",
+    "title": "姑と嫁の禁断レズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/2b7147071d210a62d614a03550d336cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-110"
+  },
+  {
+    "id": 178031,
+    "IDcode": "MDVIJ-001",
+    "title": "禁断性交！夫の連れ子のデカチンを貪る義母…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-001"
+  },
+  {
+    "id": 181523,
+    "IDcode": "MDVIJ-002",
+    "title": "「夫には絶対に言えません」義父に抱かれたなんて…5章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b14dbe15c08d63a9908a56/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-002"
+  },
+  {
+    "id": 75719,
+    "IDcode": "MDVIJ-003",
+    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大阴茎",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "成宫いろは",
+      "夏八木彩月",
+      "稲葉果織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-003"
+  },
+  {
+    "id": 75708,
+    "IDcode": "MDVIJ-004",
+    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて（14）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大阴茎",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/58e5b8f24cb6afb9e78b81159b038270.jpg",
+    "actress": [
+      "野上しおり",
+      "一条美绪",
+      "有贺みなほ",
+      "浜辺香奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-004"
+  },
+  {
+    "id": 8752,
+    "IDcode": "MDVIJ-005",
+    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "人妻",
+      "辦公室",
+      "劇情",
+      "絕頂高潮",
+      "女同事",
+      "企畫",
+      "飯店",
+      "美人妻",
+      "若妻",
+      "精選總編集",
+      "制服",
+      "羞恥",
+      "美人",
+      "形象俱樂部",
       "美乳",
       "巨乳",
-      "口交",
-      "熟女",
-      "人妻",
-      "母子",
-      "淫亂",
-      "四十路",
-      "中出",
-      "美人",
+      "OL",
+      "性感",
+      "寢取"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250127/85eb805d-4e2d-4914-8d2a-bbb0d970aa94.jpg",
+    "actress": [
+      "清巳麗乃",
+      "藤咲紫",
+      "及川海",
+      "兼咲美優",
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-005"
+  },
+  {
+    "id": 8753,
+    "IDcode": "MDVIJ-006",
+    "title": "私、夫の父親に抱かれイキまくってしまうダメな嫁です 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "公公",
       "企畫",
-      "後入",
-      "重口味",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "高妹",
-      "乳交",
+      "美人",
+      "4小時以上作品",
+      "兒媳",
+      "精選總編集",
+      "形象俱樂部",
+      "寢取",
+      "家庭主妇"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250127/27f3395c-f820-421b-a311-370b50897869.jpg",
+    "actress": [
+      "小早川怜子",
+      "鈴木真夕",
+      "香椎佳穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-006"
+  },
+  {
+    "id": 71954,
+    "IDcode": "MDVIJ-007",
+    "title": "姑と嫁の禁断レズビアン 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "女同性恋",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "希和みこと",
+      "峰田奈奈美",
+      "冬爱琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
+  },
+  {
+    "id": 71973,
+    "IDcode": "MDVIJ-008",
+    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい… 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大阴茎",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏川步美",
+      "那賀崎雪音",
+      "東条実澪",
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-008"
+  },
+  {
+    "id": 402770,
+    "IDcode": "MDVIJ-009",
+    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて15",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250720-1/a1af23ebfa48416fb5d416ff322dd1e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-009"
+  },
+  {
+    "id": 69646,
+    "IDcode": "MDVIJ-010",
+    "title": "「夫には絶対に言えません」義父に抱かれたなんて…6章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大阴茎",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏川步美",
+      "那賀崎雪音",
+      "東条実澪",
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-010"
+  },
+  {
+    "id": 67514,
+    "IDcode": "MDVIJ-011",
+    "title": "夫の連れ子のデカチンで絶倫性交の虜になる義母たち… 6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "4小时以上作品",
+      "巨大阴茎",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "姫川礼子",
+      "森萤",
+      "月岛さくら",
+      "中山穂香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-011"
+  },
+  {
+    "id": 67971,
+    "IDcode": "MDVIJ-012",
+    "title": "娘の旦那との禁断性交にイキ狂うわたしを… 2長澤里実 姫川礼子 海埜ほたる 平井栞奈 葵百合香 仲野梢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "4小时以上作品",
+      "巨大阴茎",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250623-1/23f6e5d661cb3ab996e84d115c684571.jpg",
+    "actress": [
+      "葵百合香",
+      "姫川礼子",
+      "森萤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-012"
+  },
+  {
+    "id": 540488,
+    "IDcode": "MDVIJ-013",
+    "title": "絶伦な夫の连れ子の巨根に溺れてしまう义母 第8章",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250822/ei4938wm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-013"
+  },
+  {
+    "id": 62310,
+    "IDcode": "MDVIJ-014",
+    "title": "姑と嫁の禁断レズビアン 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "女同性恋",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "朝比ゆの",
+      "鈴河めぐみ",
+      "江澄ゆゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-014"
+  },
+  {
+    "id": 62309,
+    "IDcode": "MDVIJ-015",
+    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち… 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "巨大阴茎",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子",
+      "翔田千里",
+      "月野ゆりね",
+      "成宫いろは"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-015"
+  },
+  {
+    "id": 184457,
+    "IDcode": "MDVIJ-016",
+    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-016"
+  },
+  {
+    "id": 178007,
+    "IDcode": "MDVIJ-017",
+    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち…（3）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-017"
+  },
+  {
+    "id": 173990,
+    "IDcode": "MDVIJ-018",
+    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい… 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-018"
+  },
+  {
+    "id": 592972,
+    "IDcode": "MDVR-242",
+    "title": "沉浸式体验石川澪成为你的女友 感受终极甜蜜恋爱互动双重亲密接触 石川澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250602-1/bc49483f44bc29e4de92fe2108657b05.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-242"
+  },
+  {
+    "id": 70374,
+    "IDcode": "MDVR-336",
+    "title": "专属我的女仆傲娇过头了-石川澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "荡妇",
+      "单体作品",
+      "主观视角",
+      "羞耻",
+      "VR",
+      "淫语",
+      "女佣"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-336"
+  },
+  {
+    "id": 60162,
+    "IDcode": "MDVR-341",
+    "title": "风俗店内射性爱五重奏-新有菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "单体作品",
+      "中出",
+      "礼仪小姐",
+      "VR",
       "女上位",
-      "騎乗位"
+      "姐姐",
+      "接吻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "新有菜"
     ],
-    "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716083601253253_65397_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-341"
   },
   {
-    "id": 525220,
-    "IDcode": "MBMA-060",
-    "title": "人妻 里 露出 4时间12人",
+    "id": 175866,
+    "IDcode": "MDVR-369",
+    "title": "和全世界最爱的澪久违约会重温当初纯情悸动的感觉-石川澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-369"
+  },
+  {
+    "id": 410304,
+    "IDcode": "MDX-0049",
+    "title": "刹那的凌辱拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDX-0049"
+  },
+  {
+    "id": 591522,
+    "IDcode": "MDX-009",
+    "title": "[广告] 男友着迷打H-Game 华人女优怎么办？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDX-009"
+  },
+  {
+    "id": 410103,
+    "IDcode": "MDXD-096",
+    "title": "近親相姦　究極の欲望・禁じられた関係",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68885ddec92318f97d01fbf6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDXD-096"
+  },
+  {
+    "id": 410004,
+    "IDcode": "MDYD-053",
+    "title": "義母奴隷　友崎亜希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995cfe55337d7f7bd1054f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-053"
+  },
+  {
+    "id": 409930,
+    "IDcode": "MDYD-073",
+    "title": "兄嫁 白石さゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8f1a07f3b7c929073fbff/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-073"
+  },
+  {
+    "id": 409973,
+    "IDcode": "MDYD-092",
+    "title": "お姉さま画報［第一号］ 風間ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0711905de9f92f0d01a07/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-092"
+  },
+  {
+    "id": 409960,
+    "IDcode": "MDYD-109",
+    "title": "義母奴隷 葉山遥子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a537b28cce1a927afcd8d3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-109"
+  },
+  {
+    "id": 409877,
+    "IDcode": "MDYD-143",
+    "title": "義母奴隷 白鳥美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acb3505f03a092cf746e56/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-143"
+  },
+  {
+    "id": 409876,
+    "IDcode": "MDYD-144",
+    "title": "女医莉奈 向井莉奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acb3a75f03a092cf746e57/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-144"
+  },
+  {
+    "id": 409942,
+    "IDcode": "MDYD-183",
+    "title": "義母奴隷 日吉ルミコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7ed0f9550e292a7823f32/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-183"
+  },
+  {
+    "id": 409944,
+    "IDcode": "MDYD-186",
+    "title": "人妻画報 坂本梨沙",
     "year": "",
     "country": "",
     "genre": "",
@@ -170,194 +1131,331 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250821/22vbWZNv/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7ed9d9550e292a7824720/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-186"
   },
   {
-    "id": 190663,
-    "IDcode": "MBMA-061",
-    "title": "お義母さん…素敵です… あんな小娘よりも私の方が良いでしょ？ 美しき義母の色香に惑わされ 禁断の愛を受け入れてしまった母 12人4時間4",
+    "id": 409943,
+    "IDcode": "MDYD-191",
+    "title": "デカ尻女上司 星月優菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7ed429550e292a7824443/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-191"
   },
   {
-    "id": 62595,
-    "IDcode": "MBMA-062",
-    "title": "麻縄の甘美な快楽に堕ちていく美熟女たち 厳選映像六話収録 240分マニアSPECIAL4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "SM"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-062"
-  },
-  {
-    "id": 62594,
-    "IDcode": "MBMA-063",
-    "title": "無防備すぎる母がチラ見せする乳首がエロすぎて…僕はもう我慢出来ない！黒乳首を見られて発情する女たち 8人4時間SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "成熟的女人",
-      "口交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-063"
-  },
-  {
-    "id": 190711,
-    "IDcode": "MBMA-064",
-    "title": "遅咲き熟女 良き妻・良き母を務めてきた遊びを知らないお堅い女が…過呼吸になるほどの濃密なSEX 20人4時間10",
+    "id": 409927,
+    "IDcode": "MDYD-197",
+    "title": "義母奴隷 山本艶子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250727-1/0073ebd712f2365c15af08d9c3fc4b01.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8f1cb7f3b7c929073fc00/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-064"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-197"
   },
   {
-    "id": 62593,
-    "IDcode": "MBMA-065",
-    "title": "【人生最大の大悲報】 知らぬ間に自慢の彼女がネトラレまして…。 大好きだった彼女の知らなかったウラの顔 6人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "业余",
-      "中出",
-      "猎艳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-065"
-  },
-  {
-    "id": 190146,
-    "IDcode": "MBMA-066",
-    "title": "「うちの母がエロ過ぎて困ってます…」誰にも言えない僕の悩み 旺盛な性欲を全力で振りかざしてくる母とガマンの限界が近づくボクの物語12話4時間6",
+    "id": 409911,
+    "IDcode": "MDYD-207",
+    "title": "義母奴隷 風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa379d9550e292a785dc79/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-207"
   },
   {
-    "id": 62592,
-    "IDcode": "MBMA-067",
-    "title": "「俺のサオが吸い上げられるぅぅぅ～」絡まり吸い付く至高の密壺！濃厚熟女騎乗位FUCK 12人4時間11",
+    "id": 409913,
+    "IDcode": "MDYD-210",
+    "title": "美熟女画報 竹内順子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "4小时以上作品",
-      "舔阴",
-      "成熟的女人",
-      "女上位"
-    ],
+    "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa37779550e292a785db22/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-210"
   },
   {
-    "id": 190097,
-    "IDcode": "MBMA-069",
-    "title": "こういう女を狙え！！ 絶対ヤレる人妻ナンパ ヤリたい盛りの既婚者たち ナンパ中出し12人4時間@08",
+    "id": 409866,
+    "IDcode": "MDYD-217",
+    "title": "友人の母 五十川みどり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b43a265fdaf263a25cc897/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-217"
+  },
+  {
+    "id": 409867,
+    "IDcode": "MDYD-220",
+    "title": "美熟女画報 山本艶子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b443e05fdaf263a25cfb2f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-220"
+  },
+  {
+    "id": 409865,
+    "IDcode": "MDYD-223",
+    "title": "美人営業肉体訪問 ～契約して下さい～ 押切麗奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b4449c5fdaf263a25cfb30/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-223"
+  },
+  {
+    "id": 409873,
+    "IDcode": "MDYD-240",
+    "title": "義母奴隷 志村玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b4483b5fdaf263a25d1f40/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-240"
+  },
+  {
+    "id": 409860,
+    "IDcode": "MDYD-241",
+    "title": "美熟女画報 増尾彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b448855fdaf263a25d256a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-241"
+  },
+  {
+    "id": 409836,
+    "IDcode": "MDYD-252",
+    "title": "義母奴隷 立花優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc1e6f2ee23a639b1c3a07/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-252"
+  },
+  {
+    "id": 409838,
+    "IDcode": "MDYD-253",
+    "title": "美熟女画報 白石さゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc1ed72ee23a639b1c3a08/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-253"
+  },
+  {
+    "id": 409842,
+    "IDcode": "MDYD-261",
+    "title": "義母奴隷 朝宮涼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba75bc4898416418381768/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-261"
+  },
+  {
+    "id": 409857,
+    "IDcode": "MDYD-263",
+    "title": "義母 梨沙 坂本梨沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba7658489841641838176a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-263"
+  },
+  {
+    "id": 210268,
+    "IDcode": "MDYD-267",
+    "title": "変態家庭教師 生田沙織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/18/90aab4c6a3dd6645668362dcbfe99eab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-267"
+  },
+  {
+    "id": 409794,
+    "IDcode": "MDYD-289",
+    "title": "義母 しほり 艶堂しほり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c324585f13d063bcdf55f2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-289"
+  },
+  {
+    "id": 409775,
+    "IDcode": "MDYD-300",
+    "title": "義母奴隷 五十川みどり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7e35d79f1ac4ec45adc46/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-300"
+  },
+  {
+    "id": 409762,
+    "IDcode": "MDYD-310",
+    "title": "義母奴隷 浅宮ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c91cfbd6fbef4e90ae793f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-310"
+  },
+  {
+    "id": 409755,
+    "IDcode": "MDYD-315",
+    "title": "義母 京香 姫野京香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c92b76d6fbef4e90aeaa0c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-315"
+  },
+  {
+    "id": 409751,
+    "IDcode": "MDYD-318",
+    "title": "母さんのケツの穴 安奈ルコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c92b38d6fbef4e90aeaa0b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-318"
+  },
+  {
+    "id": 409747,
+    "IDcode": "MDYD-321",
+    "title": "義母奴隷 松浦ユキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68caaf92ce5a404e9b9df512/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-321"
+  },
+  {
+    "id": 409742,
+    "IDcode": "MDYD-324",
+    "title": "小説家の妻 増尾彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68cab2fdce5a404e9b9e0b4d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-324"
+  },
+  {
+    "id": 409746,
+    "IDcode": "MDYD-325",
+    "title": "人妻教師OO教室 羽生しのぶ",
     "year": "",
     "country": "",
     "genre": "",
@@ -365,840 +1463,79 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68cab160eb67774efba4457c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-069"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-325"
   },
   {
-    "id": 62591,
-    "IDcode": "MBMA-070",
-    "title": "SEXするなら絶対 地方の人妻！！ヤリたい盛りの奧さんたち 平日昼間はイケない浮気タイム 清楚に見えて…実はヤリマン？旦那は知らない愛妻の淫らな性癖12名240分@11batch",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "4小时以上作品",
-      "新娘，年轻妻子",
-      "业余",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-070"
-  },
-  {
-    "id": 190660,
-    "IDcode": "MBMA-072",
-    "title": "「絶対に内緒にして下さいね？」あなたの知り合いが絶対います…うっかりナンパされ、流されてセックス…まさかのAV流出 魔が差したご近所妻 12人240分8",
+    "id": 409737,
+    "IDcode": "MDYD-327",
+    "title": "義母 夏美 北原夏美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68cab913ce5a404e9b9e2e09/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-072"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-327"
   },
   {
-    "id": 190172,
-    "IDcode": "MBMA-074",
-    "title": "いくつになってもオンナです（ハート） 濃厚でエロすぎるSEX！ グイグイ自ら求めるマエムキ熟女 12人240分3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-074"
-  },
-  {
-    "id": 62590,
-    "IDcode": "MBMA-075",
-    "title": "ノンフィクション ハメられた女たち 20名-知らぬ間に撮影された痴態",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "平胸",
-      "4小时以上作品",
-      "乳房",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-075"
-  },
-  {
-    "id": 190586,
-    "IDcode": "MBMA-076",
-    "title": "百姓だってセックスはしてえだよ！ 抑え切れない欲求不満がついに爆発！ 我慢出来ない農家のおばさん12人4時間2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-076"
-  },
-  {
-    "id": 62589,
-    "IDcode": "MBMA-077",
-    "title": "ほとばしる熟女のエロチズム 乳首ビンビン五十路熟女 使い込まれ肥大化したデカ乳首をフル勃起させて快感に没入していく 20人4時間15",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "中出",
-      "成熟的女人",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-077"
-  },
-  {
-    "id": 182980,
-    "IDcode": "MBMA-078",
-    "title": "黒人にナンパされた熟女さんはデカマラに興味津々 想像以上の巨根を膣奥まで突っ込まれ狂ったようにイキまくる 黒人マラで昇天する素人熟女12人4時間SP4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1499115c08d63a9907ab9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-078"
-  },
-  {
-    "id": 61668,
-    "IDcode": "MBMA-080",
-    "title": "中高年夫婦の愛ある濃厚中出し交尾 長年連れ添った熟年夫婦だからこその ねっとり密着情交 12組4時間DX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "乳房",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "口交"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-080"
-  },
-  {
-    "id": 182970,
-    "IDcode": "MBMA-081",
-    "title": "熟れ頃垂れパイ 超絶感度の爆乳熟女 12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-081"
-  },
-  {
-    "id": 61667,
-    "IDcode": "MBMA-082",
-    "title": "隣の奥さんがエロすぎて困ってます…溜まりに溜まった欲求不満をご近所肉棒で解消する人妻たち12名4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "人妻",
-      "荡妇",
-      "已婚妇女",
-      "4小时以上作品",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/3bc6b4d3f26eea920f14859f4d00d3f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-082"
-  },
-  {
-    "id": 61666,
-    "IDcode": "MBMA-083",
-    "title": "ムスコのあそこがデカ過ぎて…。性欲旺盛！禁断の情欲が治まらない 完熟お母さんのド痴女セックス 12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "4小时以上作品",
-      "舔阴",
-      "中出",
-      "成熟的女人",
-      "骑乗位"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21d6afbe7fd63de7f71fd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-083"
-  },
-  {
-    "id": 61665,
-    "IDcode": "MBMA-086",
-    "title": "絶頂！潮吹き！大噴射！ダダ漏れお漏らし美人妻の潮吹き膣奥オーガズム 12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "已婚妇女",
-      "4小时以上作品",
-      "成熟的女人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-086"
-  },
-  {
-    "id": 182967,
-    "IDcode": "MBMA-088",
-    "title": "声だけで抜けるってマジっすか！？可愛すぎるハニーマイルドなアエギ声に激シコ！甘く切なくイキまくる人妻12人4時間10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-088"
-  },
-  {
-    "id": 182988,
-    "IDcode": "MBMA-090",
-    "title": "【清楚で品良くセレブな人妻たち】 ナンパ中出し ラグジュアリーエロス 12人4時間SP3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-090"
-  },
-  {
-    "id": 61664,
-    "IDcode": "MBMA-092",
-    "title": "超ド級爆乳！メガトン級おばさん 性豪熟女とドすけべカーニバル 今夜もザーメンタンク残量ゼロ…12人4時間7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "乳交",
-      "超乳",
-      "成熟的女人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-092"
-  },
-  {
-    "id": 61663,
-    "IDcode": "MBMA-093",
-    "title": "セフレにするなら絶対 五十路の母親！！ ムラムラしたら、いつでも中出し放題！ 母と貪る肉欲セックス 12人4時間7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "母亲"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-093"
-  },
-  {
-    "id": 59929,
-    "IDcode": "MBMA-094",
-    "title": "爆乳美熟女中出しソープ これぞ桃源郷 極上のおもてなしで果てしなく男を奮い立たせる巨乳美熟女12人4時間SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4小时以上作品",
-      "超乳",
-      "成熟的女人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6d225e4a73d4f15a627b6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-094"
-  },
-  {
-    "id": 178796,
-    "IDcode": "MBMA-095",
-    "title": "大人の為の逸品 美しき還暦熟女が魅せる 味わい深く濃厚なエロスシネマ 厳選映像六話収録240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-095"
-  },
-  {
-    "id": 178791,
-    "IDcode": "MBMA-096",
-    "title": "麻縄遊戯 古びた蔵の中で、密かにマゾ快楽に堕ちていく年端もいかぬ娘たち 六話収録240分マニアSPECIAL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-096"
-  },
-  {
-    "id": 178474,
-    "IDcode": "MBMA-097",
-    "title": "イイじゃない！減るモンじゃないんだから！ムラムラ熟女の肉棒狩り 淫乱大爆発！！迫られた男達13人240分6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-097"
-  },
-  {
-    "id": 59791,
-    "IDcode": "MBMA-098",
-    "title": "【若年格安○○事情】○さゆえの何でもあり！！ト○横○○○ 中出し本番アルバイト 家出○○たちのリアルな実態 12人4時間@07",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "无毛",
-      "角色扮演者"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-098"
-  },
-  {
-    "id": 59923,
-    "IDcode": "MBMA-100",
-    "title": "あなた誤解してますよ！黒髪清楚な人妻って、実は隠れヤリマンだったりします。。。清楚系エロギャップ最強説！ 12人240分8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "人妻",
-      "中出",
-      "新娘，年轻妻子"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-100"
-  },
-  {
-    "id": 178062,
-    "IDcode": "MBMA-101",
-    "title": "あなたのスマホ大丈夫？ 天才ハッカーがスマホから抜き取った 一般人のエロ動画がヤバすぎる4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/08/f3fb4bf84a7cd2d9e7d1d531920c5f7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-101"
-  },
-  {
-    "id": 59928,
-    "IDcode": "MBMA-103",
-    "title": "声の出せない状況で…絶頂するオンナたち おかしくなるほど気持ちイイのに…漏れ出る喘ぎ声を必死に堪えながら悶絶…イキまくり！12人4時間5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "护士",
-      "成熟的女人",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-103"
-  },
-  {
-    "id": 59787,
-    "IDcode": "MBMA-104",
-    "title": "素人ナンパドキュメント 服の上からでもわかる膨らみ＆可愛さMAX！ 美巨乳娘 12人4時間8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "素人",
-      "乳交",
-      "猎艳",
-      "业余",
-      "乳房",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/01/c106c81ebfcb0b48034b248c32cfee03.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-104"
-  },
-  {
-    "id": 178839,
-    "IDcode": "MBMA-106",
-    "title": "ノンフィクション ハメられた女たち 20名-OLお持ち帰り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-106"
-  },
-  {
-    "id": 178486,
-    "IDcode": "MBMA-107",
-    "title": "SEXするなら絶対 地方のおばさん！！12人240分7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-107"
-  },
-  {
-    "id": 175349,
-    "IDcode": "MBMA-109",
-    "title": "お義母さん…素敵です… あんな小娘よりも私の方が良いでしょ？ 美しき義母の色香に惑わされ 禁断の愛を受け入れてしまった母 12人4時間5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/23/520b99981b2f09429724b9cb6a7bcabe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-109"
-  },
-  {
-    "id": 174249,
-    "IDcode": "MBMA-110",
-    "title": "麻縄の甘美な快楽に堕ちていく美熟女たち 厳選映像六話収録 240分マニアSPECIAL5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-110"
-  },
-  {
-    "id": 174301,
-    "IDcode": "MBMA-111",
-    "title": "無防備すぎる母がチラ見せする乳首がエロすぎて…僕はもう我慢出来ない！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/da4dbb33144c92edbe163b3425e8785a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-111"
-  },
-  {
-    "id": 175620,
-    "IDcode": "MBMA-112",
-    "title": "配信サイトで驚異の売り上げを叩き出した伝説的コンテンツをDVD化！ ザワつく素人熟女神動画10 控えめ熟女の人生初浮気×受精セックスが熱い！ 12人240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-112"
-  },
-  {
-    "id": 175627,
-    "IDcode": "MBMA-113",
-    "title": "セックスしたくて色々考えてみたら… 1番簡単にやれるオンナは母だった！ 家庭内濃密肉欲セックス 4時間12人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-113"
-  },
-  {
-    "id": 174320,
-    "IDcode": "MBMA-114",
-    "title": "むっちむちドすけべボディ！ ミニスカおばさん ミニスカート熟女は欲求不満 私だってまだまだオンナよ！！12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/c28ecca4a3b298883ca6723e1718c153.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-114"
-  },
-  {
-    "id": 175678,
-    "IDcode": "MBMA-116",
-    "title": "人妻爆乳祭10 この乳を見ずにデカパイを語るな！ 12人240分Bestセレクション",
+    "id": 409708,
+    "IDcode": "MDYD-351",
+    "title": "人妻奴隷 夫の目の前で… 白石さゆり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfad28eb67774efbaba2ac/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-351"
   },
   {
-    "id": 173430,
-    "IDcode": "MBMA-117",
-    "title": "こういう女を狙え！！ 絶対ヤレる人妻ナンパ ヤリたい盛りの既婚者たち ナンパ中出し12人4時間@09",
+    "id": 409695,
+    "IDcode": "MDYD-369",
+    "title": "女教師冴子 君島冴子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d088e752c12b4e681026ce/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-369"
+  },
+  {
+    "id": 409698,
+    "IDcode": "MDYD-373",
+    "title": "美人営業肉体訪問 ～契約して下さい～ 宮田佳子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0899b52c12b4e6810271a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-373"
+  },
+  {
+    "id": 409693,
+    "IDcode": "MDYD-374",
+    "title": "人妻OO日記 宮崎彩香",
     "year": "",
     "country": "",
     "genre": "",
@@ -1206,822 +1543,210 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d088a952c12b4e681026cd/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-374"
   },
   {
-    "id": 175690,
-    "IDcode": "MBMA-121",
-    "title": "ラグジュアリーエロス 清楚で品良くセレブな熟女たち ナンパ中出し12人4時間SP16",
+    "id": 409675,
+    "IDcode": "MDYD-376",
+    "title": "義母 涼子 村上涼子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/0f74915d7918af3ca097cacfa50a7165.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d2080ce4a73d4f159b687e/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-376"
   },
   {
-    "id": 173418,
-    "IDcode": "MBMA-122",
-    "title": "ノンフィクション ハメられた女たち 20名-奪われた尊厳",
+    "id": 409653,
+    "IDcode": "MDYD-413",
+    "title": "義母 美紀",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d44554d6fbef4e90c40fd4/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-413"
   },
   {
-    "id": 175636,
-    "IDcode": "MBMA-123",
-    "title": "密かに欲求不満を抱えながら悶々と暮らしている 一見真面目な地方のおばさん 12人4時間2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-123"
-  },
-  {
-    "id": 173396,
-    "IDcode": "MBMA-124",
-    "title": "母さんがほしい！！ いけないわ、そんな事… 一度は遮り、口を突いた言葉とは裏腹に、 互いの想いが交錯する 一線を越えた家庭内狂愛 12編第11幕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-124"
-  },
-  {
-    "id": 173410,
-    "IDcode": "MBMA-125",
-    "title": "極上美爆乳フェスティバル！心揺さぶる厳選デカパイ美女12人4時間SUPERSELECTION",
+    "id": 409630,
+    "IDcode": "MDYD-420",
+    "title": "人妻奴隷 夫の目の前で… 風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "人妻",
+      "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "MBM",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MBM",
-        "works_count": 86
-      }
-    ],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d745dddd88d14f060c5227/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-125"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-420"
   },
   {
-    "id": 567409,
-    "IDcode": "MBMH-001",
-    "title": "绮丽なおばさんは好きですか【奇迹のAV出演】耻じらい五十路セックス品良く乱れる熟熟5人第01集",
+    "id": 409518,
+    "IDcode": "MDYD-422",
+    "title": "女教師 美花 山口美花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e23f0231a2714f1c434859/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-422"
   },
   {
-    "id": 567408,
-    "IDcode": "MBMH-003",
-    "title": "极美味ボンレスボディ！スーツぱっつんぱっつん！とんでもなくムチム第01集",
+    "id": 409592,
+    "IDcode": "MDYD-439",
+    "title": "女上司繪美子 小池繪美子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da03fdce5a404e9bbc9c5b/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-439"
   },
   {
-    "id": 541060,
-    "IDcode": "MBMH-006",
-    "title": "墓まで持ってゆく淫らな情事…溺爱する息子と肌を重ねてしま第01集",
+    "id": 409601,
+    "IDcode": "MDYD-444",
+    "title": "義母 恭子 三咲恭子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da059fce5a404e9bbc9c63/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-444"
   },
   {
-    "id": 541059,
-    "IDcode": "MBMH-007",
-    "title": "墓まで持ってゆく秘め事…抗えず息子に犯されたあの日から肌第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-007"
-  },
-  {
-    "id": 536063,
-    "IDcode": "MBMH-009",
-    "title": "_A 狂おしいエロスのブラックホール 极美味ボンレスボディのねっとり激レ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200730/118mbmh009pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-009"
-  },
-  {
-    "id": 541058,
-    "IDcode": "MBMH-011",
-    "title": "墓まで持ってゆく淫らな情事…気付いていた息子の気持ち第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-011"
-  },
-  {
-    "id": 547564,
-    "IDcode": "MBMH-013",
-    "title": "[第1集]告白 五十路母の黒历史 息子の友人に犯されて感じてしまったが最后 とめどない调教を受け若い男の性癖に染められる… バレたら人生崩壊の6人240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191211-1/d911b8b9d0c74b3d67655415883c8945.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-013"
-  },
-  {
-    "id": 567541,
-    "IDcode": "MBMH-015",
-    "title": "绮丽なおばさんは好きですか？【奇迹のAV出演】耻じらい五十路セックス3品良く乱れる熟女5人第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-015"
-  },
-  {
-    "id": 536266,
-    "IDcode": "MBMH-016",
-    "title": "_B 狂おしいエロスのブラックホール 组んずほぐれつ3P熟女レズ！ 四六时中乱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-016"
-  },
-  {
-    "id": 560791,
-    "IDcode": "MBMH-049",
-    "title": "大発掘！ブラジル人！容姿が可爱い过ぎてデビュー！超絶美人の美尻！ど素人ムスメ初撮り！ アリス·",
+    "id": 409582,
+    "IDcode": "MDYD-450",
+    "title": "繼母奴隸廣瀨光",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240612/5WdPq0W8/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dae107d6fbef4e90d1c131/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-450"
   },
   {
-    "id": 454027,
-    "IDcode": "MBMH-050",
-    "title": "我的兒子回家後變成了一個美麗的變性人！ 米蘭達美優",
+    "id": 409590,
+    "IDcode": "MDYD-452",
+    "title": "女上司 悠美 風間悠美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d97f63ce5a404e9bbb2dd7/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dae067d6fbef4e90d1bc38/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-452"
   },
   {
-    "id": 563847,
-    "IDcode": "MBMH-059",
-    "title": "実は仆···ニューハーフになりました！ニューハーフの巨根にハマる家族のガチイキ连発の近亲相●物语！！",
+    "id": 409591,
+    "IDcode": "MDYD-454",
+    "title": "奥様妄想劇場 村上涼子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/abMmnB43/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dad362d6fbef4e90d18a89/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-454"
   },
   {
-    "id": 563848,
-    "IDcode": "MBMH-060",
-    "title": "奇迹的にSNSで知り合ったオルチャン女子と韩国で待ち合わせしてオフパコ！ セボンちゃん＆ジョア",
+    "id": 409566,
+    "IDcode": "MDYD-455",
+    "title": "女教師恭子 三咲恭子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/EDlfpQmX/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcfd3bce5a404e9bc48d1c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-455"
   },
   {
-    "id": 548405,
-    "IDcode": "MBMH-061",
-    "title": "ヨーロッパ観光ついでにナンパ！ 东欧で巨乳长身美女からフィットネスチャンピオンまで…まさかの！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230821/udKhNuf0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-061"
-  },
-  {
-    "id": 411321,
-    "IDcode": "MBMH-062",
-    "title": "反向变性搭讪！体内射精！琥珀与凛",
+    "id": 216779,
+    "IDcode": "MDYD-458",
+    "title": "友人の母-河合律子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd11994e7d663df4d75a1d/cover.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/79d0fc7958128b8fbe627559f93d3704.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-062"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-458"
   },
   {
-    "id": 563489,
-    "IDcode": "MBMH-063",
-    "title": "奇迹的にSNSで知り合ったオルチャン女子と韩国で待ち合わせしてオフパコ！ イスゥちゃん＆トーヒ",
+    "id": 409537,
+    "IDcode": "MDYD-472",
+    "title": "女教師 紫乃 真波紫乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/W2iR6968/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e041b979f1ac4ec48bdbf2/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-472"
   },
   {
-    "id": 563488,
-    "IDcode": "MBMH-064",
-    "title": "熟年同窗会～30年振りに再会したクラスのマドンナに媚薬を盛って海老反りセックス～",
+    "id": 409538,
+    "IDcode": "MDYD-475",
+    "title": "密室OO 墮落女上司 細川麻里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/gwmxGPJk/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e041e779f1ac4ec48bdbf3/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-064"
-  },
-  {
-    "id": 563394,
-    "IDcode": "MBMH-065",
-    "title": "いやらしい五十路はお嫌いですか？【念愿のAV出演】情热的な性欲溢れるセックス 感度极まる熟女5人9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230917/BDeLAotG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-065"
-  },
-  {
-    "id": 563395,
-    "IDcode": "MBMH-066",
-    "title": "まさかの！バスタオルポロリ！ エロ过ぎる身体を见て仆の股间はフル勃起！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230917/BiTgi0g9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-066"
-  },
-  {
-    "id": 562965,
-    "IDcode": "MBMH-067",
-    "title": "いやらしい六十路はお嫌いですか？【人生最后のAV出演】一番奥を贯かれ切なく乱れる初撮り熟女5人10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/cRQ6M4Tv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-067"
-  },
-  {
-    "id": 516952,
-    "IDcode": "MBMH-068",
-    "title": "叫第三性應召後來的居然是成為可愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd3e8e944bbe4ef05baa56/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-068"
-  },
-  {
-    "id": 562958,
-    "IDcode": "MBMH-069",
-    "title": "五十路で美人で爆乳って最强かよっ！ 初撮りおばさん 厳选素人6人4时间11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/xOlz5qwk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-069"
-  },
-  {
-    "id": 547058,
-    "IDcode": "MBMH-070",
-    "title": "ニューハーフ逆ナンパ！中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/0Z6c8hLK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-070"
-  },
-  {
-    "id": 562095,
-    "IDcode": "MBMH-071",
-    "title": "いやらしい五十路はお嫌いですか？【念愿のAV出演】情热的な性欲溢れるセックス 感度极まる熟女5人10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/cNdzkTgL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-071"
-  },
-  {
-    "id": 562091,
-    "IDcode": "MBMH-072",
-    "title": "五十路で美人で爆乳って最强かよっ！ 初撮りおばさん 厳选素人6人4时间12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/6lW8j6AW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-072"
-  },
-  {
-    "id": 562052,
-    "IDcode": "MBMH-073",
-    "title": "ナンパして连れ込んだらニューハーフ！そして仆のものよりデカチンが…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/IheuIhxA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-073"
-  },
-  {
-    "id": 561816,
-    "IDcode": "MBMH-074",
-    "title": "いやらしい六十路はお嫌いですか？【人生最后のAV出演】一番奥を贯かれ切なく乱れる初撮り熟女5人11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240218/x96mBji4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-074"
-  },
-  {
-    "id": 408349,
-    "IDcode": "MBMH-075",
-    "title": "ニューハーフデリヘル呼んだら美しい女の子になった息子でした…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/07/6894552355337d7f7b90f173/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-075"
-  },
-  {
-    "id": 549776,
-    "IDcode": "MBMH-076",
-    "title": "いやらしい五十路はお嫌いですか？【念愿のAV出演】情热的な性欲溢れるセックス 感度极まる熟女5人11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240522/Gy40IEcS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-076"
-  },
-  {
-    "id": 545256,
-    "IDcode": "MBMH-077",
-    "title": "いやらしい六十路はお嫌いですか？【人生最后のAV出演】一番奥を贯かれ切なく乱れる初撮り熟女5人12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240626/Zjz37RYW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-077"
-  },
-  {
-    "id": 493039,
-    "IDcode": "MBMH-078",
-    "title": "讨厌淫荡的五字头熟女吗？【念愿AV出演】情热洋溢性欲性爱 感度极致熟女5人12 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/9b12014c120201088e59991eead7e82b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-078"
-  },
-  {
-    "id": 493430,
-    "IDcode": "MBMH-079",
-    "title": "～ヨーロッパの街角から～絶世のむっつり欧州美女とナンパ中出しSEX交流！現地収録撮り下ろし3名",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251017-1/ee7707b9f0c6e0895f4ebc7bb2300a8b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-079"
-  },
-  {
-    "id": 499457,
-    "IDcode": "MBMH-080",
-    "title": "初撮り爆乳おばさん初めて撮られる緊張感が一生に一度の快感を引き出す爆乳を揺らす五十路熟女の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251017-1/255f4a220f0c7ad3c41673bddba05413.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-080"
-  },
-  {
-    "id": 456954,
-    "IDcode": "MBMH-081",
-    "title": "～韓国の街角から～「無料マッサージ体験しませんか？」韓国美女をナンパしたらむっつりエロすぎ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/ab811bd450853908c7d5d4ad4b777b4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-081"
-  },
-  {
-    "id": 440265,
-    "IDcode": "MBMH-082",
-    "title": "初撮り爆乳おばさん初めて撮られる緊張感が一生に一度の快感を引き出す爆乳を揺らす五十路熟女の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/a653d4c14825c832355d235b32d709b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-082"
-  },
-  {
-    "id": 402756,
-    "IDcode": "MBMH-084",
-    "title": "いやらしい五十路はお嫌いですか？【念願のAV出演】情熱的な性欲溢れるセックス感度極まる熟女5人13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250720-1/04df4556b91e7713f9a8dffe8afc3ed6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-084"
-  },
-  {
-    "id": 198761,
-    "IDcode": "MBMH-085",
-    "title": "韓国の街角から～ 「無料マッサージ体験しませんか？」 美乳！美脚！プリ尻！ コリアン美女を現地調達3名ゲット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-085"
-  },
-  {
-    "id": 438963,
-    "IDcode": "MBMH-086",
-    "title": "50岁爆乳熟女初登场！紧张初拍引爆极致高潮，巨乳狂摇欲火焚身",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/db295edd533cd7fae1a48d6d7e1fe93e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-086"
-  },
-  {
-    "id": 190574,
-    "IDcode": "MBMH-087",
-    "title": "～韓国の街角から～ ま、まぶしいッス！ 光り輝く神美脚 愛らしいキャラクター 美意識高すぎ完璧ボディ 韓国が誇るエロ過ぎ最強美女とナンパ＆SEX交流！ 3人ゲット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-087"
-  },
-  {
-    "id": 178476,
-    "IDcode": "MBMH-088",
-    "title": "いやらしい五十路はお嫌いですか？【念願のAV出演】情熱的な性欲溢れるセックス 感度極まる熟女5人14",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-088"
-  },
-  {
-    "id": 175343,
-    "IDcode": "MBMH-089",
-    "title": "まさかの！湯上りの韓流美人妻と鉢合わせ！慌てた奥さまのバスタオルがポロっと落ちて…あらわになった美しすぎる裸体に目が釘付け！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMH-089"
-  },
-  {
-    "id": 563834,
-    "IDcode": "MBMP-020",
-    "title": "色情浪漫 シネマポルノ 人妻官能エロス【第6章】 抗えない状况に追い込まれ肉体を差し出す人妻た",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/r7Ixvnjf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMP-020"
-  },
-  {
-    "id": 563830,
-    "IDcode": "MBMP-021",
-    "title": "やってみたらチョロすぎた！ 絶対ヤレる！个撮モデル！ 撮ったど！！ 地下アイドルオフパコ术 ギ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/qOU4M7vE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMP-021"
-  },
-  {
-    "id": 563842,
-    "IDcode": "MBMP-022",
-    "title": "やってみたらチョロすぎた！ 个撮モデルを骗し讨ち！ 梦はグラビアアイドルの爆乳モデルオフパコ术",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/bIlh5jNW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMP-022"
-  },
-  {
-    "id": 563833,
-    "IDcode": "MBMP-023",
-    "title": "昭和浪漫 シネマポルノ 人妻官能エロス 浓厚熟女爱憎剧 【第6幕】四话収录240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "companys": [],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230801/9pylcgrm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMP-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-475"
   }
 ];

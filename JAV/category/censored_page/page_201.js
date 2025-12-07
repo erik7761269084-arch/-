@@ -1,47 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 213989,
-    "IDcode": "ADN-125",
-    "title": "淫荡的白日梦-八神さおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/19/15a201757c06632c0d9d03728a5125a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-125"
-  },
-  {
-    "id": 209129,
-    "IDcode": "ADN-126",
-    "title": "壺に堕とされた女-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/12/06/QQ201912061522306dcfa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-126"
-  },
-  {
     "id": 78828,
     "IDcode": "ADN-127",
     "title": "湿润的同情心-めぐり",
@@ -49,17 +7,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "戏剧"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/e70daa686de5d0f77b7ae4abb96e5921.jpg",
     "actress": [
@@ -76,18 +28,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "淫妻",
       "强奸",
-      "出轨",
-      "淫妻"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/5b9c42371f58d74b3ec15a85b595cf34.jpg",
     "actress": [
@@ -104,13 +50,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/3745e04dc80a1b5fd2dea87ce51ea74c.jpg",
     "actress": [],
@@ -125,13 +65,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/07/07/6091b5a6dec2703ca64f3077020ade7d.jpg",
     "actress": [],
@@ -146,13 +80,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/250a8ef06523096511cd9e37fa29c4ba.jpg",
     "actress": [],
@@ -167,13 +95,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/e9c2f393a672cd2d03122c785850c871.jpg",
     "actress": [
@@ -190,13 +112,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/2a10ff212172bfc73c67aa2ac17029d4.jpg",
     "actress": [],
@@ -214,13 +130,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/ca110530b541b23d0ee02d1e5393d9a1.jpg",
     "actress": [],
@@ -234,17 +144,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "戏剧"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/22/e84892dfa477e0e9b70cee7e40c262a2.jpg",
     "actress": [
@@ -263,13 +167,7 @@ window.PAGE_DATA = [
       "淫妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/22/248531327d5628b8574b326a87bc5a40.jpg",
     "actress": [],
@@ -286,13 +184,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/16/4024eeae/vod.jpg",
     "actress": [],
@@ -307,18 +199,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
+      "已婚妇女",
       "强奸",
-      "乱伦",
-      "已婚妇女"
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0a83a7d2800d43f2c17c2ac4c428d46a.jpg",
     "actress": [
@@ -336,13 +222,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/22/c38756ac80df6bd60de718bbe703c3c8.jpg",
     "actress": [],
@@ -356,19 +236,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "人妻",
-      "出轨",
-      "已婚妇女"
+      "戏剧",
+      "已婚妇女",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802ca3f9a2e9b1d474ccac/cover.jpg",
     "actress": [
@@ -386,13 +260,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/30/2d1af1a4a71898faac79bed0e7710dba.jpg",
     "actress": [],
@@ -409,13 +277,7 @@ window.PAGE_DATA = [
       "出軌"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/30/3983f49d9178abd272c12f6c51ad2040.jpg",
     "actress": [
@@ -433,17 +295,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "强奸",
-      "已婚妇女"
+      "已婚妇女",
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/30/8d5d25084f34fbf69277a8cbb6514448.jpg",
     "actress": [
@@ -460,13 +316,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/3f7fddc9312d68c657afdca9c0806c08.jpg",
     "actress": [],
@@ -482,18 +332,12 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "已婚妇女",
-      "强奸",
+      "淫妻",
       "戏剧",
-      "淫妻"
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/b7b96801ef1328a8693d01157e277c23.jpg",
     "actress": [
@@ -510,13 +354,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/11/30/95dd280a686e14cbb91a2c575058fc4b.jpg",
     "actress": [],
@@ -531,18 +369,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "出轨",
       "单体作品",
-      "已婚妇女"
+      "已婚妇女",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/09/03/QQ201909040713466b9fa.jpg",
     "actress": [
@@ -559,13 +391,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/bb180d89776f8ae641ed343283878593.jpg",
     "actress": [],
@@ -580,13 +406,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/978595a0f6c885b9530d73c4c35be6c7.jpg",
     "actress": [],
@@ -601,13 +421,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/08/09/QQ201908091425203b053.jpg",
     "actress": [],
@@ -622,13 +436,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240427-1/22930705bc7942717e36f44a2af82286.jpg",
     "actress": [],
@@ -645,13 +453,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/08/09/QQ201908091425201d288.jpg",
     "actress": [],
@@ -666,13 +468,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/614049fb4ac9d41d36d5886af5b86d5c.jpg",
     "actress": [],
@@ -689,13 +485,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/a2d300a0b9ed4d0053f045f47e1f39f3.jpg",
     "actress": [],
@@ -710,13 +500,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/ab19de3f6f6d2315d38550799c7e8f87.jpg",
     "actress": [],
@@ -731,13 +515,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/0cbc4469453b9183c60d44a45c7d9bef.jpg",
     "actress": [],
@@ -753,18 +531,12 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
+      "单体作品",
       "无码破解",
-      "单体作品"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/67804f63c179ffb1db6d7625/cover.jpg",
     "actress": [
@@ -781,13 +553,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/41e55c68d06d4a615310522dec8fa6cc.jpg",
     "actress": [],
@@ -802,13 +568,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/8b8401d67093c6eef449681aed10b32d.jpg",
     "actress": [],
@@ -823,13 +583,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/01/7f2b551f6fa603b5573b0601499577c7.jpg",
     "actress": [],
@@ -844,13 +598,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/01/629c7d195292210650e1a040b2019a1e.jpg",
     "actress": [],
@@ -865,13 +613,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240512-1/8deaf6ee697989b1f557c480b50ebb7b.jpg",
     "actress": [],
@@ -886,13 +628,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/01/8a016fee277d465d6b8a6604d731b525.jpg",
     "actress": [],
@@ -907,13 +643,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/8b1cc4f9d74d7c6dd569a93253dfb550.jpg",
     "actress": [],
@@ -930,13 +660,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -951,13 +675,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/11/28/QQ2019112811023603ac9.jpg",
     "actress": [],
@@ -972,13 +690,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67816fd1c179ffb1db7014b3/cover.jpg",
     "actress": [],
@@ -993,18 +705,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "出轨",
       "凌辱",
-      "已婚妇女"
+      "已婚妇女",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d28c187f47b09ff819bb15a1fa42f4f9.jpg",
     "actress": [
@@ -1021,13 +727,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/11/28/QQ20191128110236f3d8a.jpg",
     "actress": [],
@@ -1042,18 +742,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "出轨",
+      "已婚妇女",
       "强奸",
-      "已婚妇女"
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/542f7677db12e0cda6827e5746c9baee.jpg",
     "actress": [
@@ -1070,19 +764,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "人妻",
+      "戏剧",
       "凌辱",
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fd789a942069c9df4662010ae9c7def6.jpg",
     "actress": [
@@ -1103,13 +791,7 @@ window.PAGE_DATA = [
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240502-1/6f7721a6c24c75dadce19c7d6f615d5c.jpg",
     "actress": [
@@ -1127,18 +809,12 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
       "乱伦",
+      "戏剧",
       "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/99f21c66451ecb7f145a781fe594a318.jpg",
     "actress": [
@@ -1159,13 +835,7 @@ window.PAGE_DATA = [
       "女教师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/55e3c9cc2f1faac71408c49a386eff55.jpg",
     "actress": [
@@ -1182,18 +852,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "强奸",
+      "已婚妇女",
       "淫妻",
-      "已婚妇女"
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240415-1/7468679db46c2f3d9601ba5efbf033fa.jpg",
     "actress": [
@@ -1211,13 +875,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784ee7789def9b1b8f34343/cover.jpg",
     "actress": [],
@@ -1232,13 +890,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/08/04/QQ2019080418391278f41.jpg",
     "actress": [],
@@ -1253,13 +905,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/678161c689def9b1b8dbcca6/cover.jpg",
     "actress": [],
@@ -1274,13 +920,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/11/28/QQ201911281102365b514.jpg",
     "actress": [],
@@ -1295,13 +935,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67818ec72a47ebb1a8906df9/cover.jpg",
     "actress": [],
@@ -1315,20 +949,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "监禁",
-      "戏剧",
-      "强奸",
+      "轮奸",
       "女教师",
-      "轮奸"
+      "戏剧",
+      "监禁",
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678530c1478d611da774d884/cover.jpg",
     "actress": [
@@ -1345,17 +973,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "乱伦",
-      "已婚妇女"
+      "已婚妇女",
+      "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250128-1/d2e5e2cc420f898c2a9b624a20fedd19.jpg",
     "actress": [
@@ -1372,13 +994,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/25143245715c90175a847a8958d73dd1.jpg",
     "actress": [],
@@ -1395,13 +1011,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/07/b15dec616ea8ad161d3d193d098b2b73.jpg",
     "actress": [],
@@ -1415,19 +1025,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "強姦",
       "中出",
-      "巨乳"
+      "人妻",
+      "巨乳",
+      "強姦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250301-1/76673bfc5b3f1091c1fe11afdf2bc7c5.jpg",
     "actress": [
@@ -1444,13 +1048,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250301-1/887d6805f2591b59174f77086b0f0727.jpg",
     "actress": [],
@@ -1465,19 +1063,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "已婚妇女",
-      "强奸",
-      "戏剧",
       "淫妻",
-      "舔阴"
+      "舔阴",
+      "戏剧",
+      "强奸"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250301-1/55a5aa3ed49f5ac83c8facc65a753a2e.jpg",
     "actress": [
@@ -1494,19 +1086,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "已婚妇女",
-      "戏剧",
       "出轨",
-      "巨乳"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/13/678411eef9a2e9b1d49872fd/cover.jpg",
     "actress": [
@@ -1527,13 +1113,7 @@ window.PAGE_DATA = [
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240505-1/089439a862ff3474fff300a6d941c670.jpg",
     "actress": [
@@ -1554,13 +1134,7 @@ window.PAGE_DATA = [
       "女教师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240406-1/95202ab3e8b20d01c7887a56a74f3b72.jpg",
     "actress": [
@@ -1577,13 +1151,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/04/17/a3bff1aa6b72efa2889b62e163481a4b.jpg",
     "actress": [],
@@ -1600,13 +1168,7 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/fbd59f160d7f519e3564583dfe795c20.jpg",
     "actress": [],
@@ -1621,13 +1183,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/e0a57c41601d63febbfc36960a921f3c.jpg",
     "actress": [],
@@ -1642,17 +1198,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "出轨",
-      "已婚妇女"
+      "已婚妇女",
+      "出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240313-1/69c4d991433d68e516cfdcb1415eea32.jpg",
     "actress": [
@@ -1670,17 +1220,11 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "凌辱",
-      "白天出轨",
-      "已婚妇女"
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240313-1/a41f3626b90a3ece7418a63ca02728b7.jpg",
     "actress": [
@@ -1699,17 +1243,11 @@ window.PAGE_DATA = [
       "人妻",
       "凌辱",
       "已婚妇女",
-      "戏剧",
-      "出轨"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240313-1/7dde29e65fe5619148429e7f1565be1e.jpg",
     "actress": [
@@ -1728,18 +1266,12 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
+      "巨乳",
       "出轨",
-      "巨乳"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/82429db30091eefdcef8068c6a01f60c.jpg",
     "actress": [
@@ -1755,21 +1287,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
+      "精选，综合",
       "巨乳",
-      "精选，综合"
+      "已婚妇女",
+      "素人作品",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1786,23 +1312,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "接吻"
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "素人作品",
+      "接吻",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/220dbd3582f3cb665929fa8345da192d.jpg",
     "actress": [
@@ -1819,13 +1339,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240329-1/883ad78fcf2cdb7fd9ee575e68fe763c.jpg",
     "actress": [],
@@ -1839,22 +1353,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
       "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
       "巨乳",
-      "精选，综合"
+      "素人作品",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ae0be1658ff1f0089449774810f07e48.jpg",
     "actress": [
@@ -1872,13 +1380,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/07/24/QQ201907250703171066e.jpg",
     "actress": [],
@@ -1893,13 +1395,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/07/24/QQ20190725070317368f4.jpg",
     "actress": [],
@@ -1914,13 +1410,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/07/24/QQ2019072507031773936.jpg",
     "actress": [],
@@ -1935,13 +1425,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/07/24/QQ20190725070317c7aad.jpg",
     "actress": [],
@@ -1956,13 +1440,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/12/05/QQ2019120514530262277.jpg",
     "actress": [],
@@ -1977,13 +1455,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/07/23/20d2d24e970f699d7d7a8b29a9a007d2.jpg",
     "actress": [],
@@ -2000,13 +1472,7 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2021,21 +1487,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "護士",
-      "醫院・診所",
       "精選綜合",
       "強姦",
+      "無碼破解",
+      "護士",
       "素人作品",
-      "無碼破解"
+      "醫院・診所"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240413-1/1b998812aaef5f419ff2e3c7181d77d0.jpg",
     "actress": [
@@ -2053,22 +1513,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "精选，综合",
       "已婚妇女",
-      "戏剧",
-      "出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "苗条",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240413-1/0c9a08d36a64632aa464878a3aaa0237.jpg",
     "actress": [
@@ -2085,21 +1539,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "已婚妇女",
-      "戏剧",
-      "出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/635938471d8e70fe01bd972f8ee2ea76.jpg",
     "actress": [
@@ -2117,13 +1565,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6784de7cc179ffb1db8527d7/cover.jpg",
     "actress": [],
@@ -2137,23 +1579,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dc4ea2e972f0d82c88e8f26db4f13637.jpg",
     "actress": [
@@ -2169,21 +1605,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女教師",
       "精選綜合",
-      "素人作品",
+      "凌辱",
       "巨乳",
-      "無碼破解"
+      "無碼破解",
+      "素人作品",
+      "女教師"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/678047fdc179ffb1db6d75d6/cover.jpg",
     "actress": [
@@ -2200,22 +1630,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d22ca8c3f6071c6c1f272dfd66baa24a.jpg",
     "actress": [
@@ -2231,22 +1655,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
+      "精选，综合",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/06/4d8d94c9aa6944dd7000fb26cf1d3b55.jpg",
     "actress": [
@@ -2263,19 +1681,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "精選綜合",
       "出軌",
-      "素人作品",
-      "巨乳"
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240624-1/81a6190d78416b843797d484081bb11b.jpg",
     "actress": [
@@ -2292,23 +1704,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
       "凌辱",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b0cd09891f93f0be45ced27f4e2b50cf.jpg",
     "actress": [
@@ -2324,21 +1730,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "戏剧",
+      "精选，综合",
       "已婚妇女",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "按摩",
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67816e6fc179ffb1db6f99ed/cover.jpg",
     "actress": [
@@ -2354,21 +1754,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "已婚妇女",
-      "白天出轨",
       "素人作品",
-      "精选，综合"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0956fc10b9767186f678b5f662e7b47d.jpg",
     "actress": [
@@ -2384,23 +1778,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6783dd5c478d611da774ba81/cover.jpg",
     "actress": [
@@ -2417,18 +1805,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "白天出轨",
+      "已婚妇女",
       "淫妻",
-      "已婚妇女"
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678283bc89def9b1b8e47a23/cover.jpg",
     "actress": [
@@ -2444,23 +1826,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "素人作品",
       "OL",
       "出轨",
-      "素人作品",
-      "巨乳",
-      "精选，综合"
+      "戏剧"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/413909750fcf85f5be6ac04a51b65335.jpg",
     "actress": [
@@ -2482,18 +1858,61 @@ window.PAGE_DATA = [
       "已婚妇女"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "ATTACKERS",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
-        "works_count": 1087
-      }
-    ],
+    "company": "ATTACKERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/07/ae201c1a3e9c6f038d2084082f4a7cf0.jpg",
     "actress": [
       "高坂ますみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-226"
+  },
+  {
+    "id": 72086,
+    "IDcode": "ADN-227",
+    "title": "老爸不行只能由我来满足我年轻貌美的后妈东凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "凌辱",
+      "乱伦",
+      "素人作品",
+      "婆婆",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-227"
+  },
+  {
+    "id": 71619,
+    "IDcode": "ADN-228",
+    "title": "背德的性交被公公调教内射的人妻结城乃乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "中出",
+      "素人作品",
+      "调教",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/498aeb90f977db53c3c5631879b6a7cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-228"
   }
 ];

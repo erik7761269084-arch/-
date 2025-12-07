@@ -77,7 +77,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2025-02-18",
       "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214051857569569.jpg",
       "actress": [
@@ -187,7 +187,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "MUGEN",
+      "company": "PREMIUM",
       "publish_date": "2020-03-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/903e51c527c4d2ced2dc4fb5135ce85e.jpg",
       "actress": [

@@ -1,29 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 174894,
-    "IDcode": "BNST-083",
-    "title": "プッシャーズ ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "TMA",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
-        "works_count": 5163
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNST-083"
-  },
-  {
-    "id": 409567,
-    "IDcode": "BOBB-026",
-    "title": "巨乳妹「濱崎里緒&amp;辻紗希」BOX 濱崎里緒&amp;辻紗希",
+    "id": 516494,
+    "IDcode": "BOBB-071",
+    "title": "乳奴隷 美乳偏執狂OO 立花結衣",
     "year": "",
     "country": "",
     "genre": "",
@@ -31,34 +10,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dbc267ce5a404e9bc0f02e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-026"
-  },
-  {
-    "id": 516494,
-    "IDcode": "BOBB-071",
-    "title": "乳奴隷 美乳偏執狂OO 立花結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68ff1b96dd88d14f0657a3c9/poster2.jpg",
     "actress": [],
@@ -75,13 +27,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69011849d6fbef4e901560ca/poster2.jpg",
     "actress": [],
@@ -90,21 +36,16 @@ window.PAGE_DATA = [
   {
     "id": 591520,
     "IDcode": "BOBB-155",
-    "title": "[]“美月优芽”Box3",
+    "title": "“美月优芽”Box3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -113,22 +54,16 @@ window.PAGE_DATA = [
   {
     "id": 590426,
     "IDcode": "BOBB-159",
-    "title": "[]Boin“星野来梦”Box 粉红巨乳晕 新癖好马赛克",
+    "title": "Boin“星野来梦”Box 粉红巨乳晕 新癖好马赛克",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "巨乳"
+      "巨乳",
+      "中文字幕"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230322-1/195b7ae1203ee6f3e69f047898b4eb7d.jpg",
     "actress": [],
@@ -145,13 +80,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -168,13 +97,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -187,15 +110,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -209,19 +128,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "恋乳癖",
-      "美少女电影",
       "制服",
+      "美少女电影",
+      "恋乳癖",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2019-05-01",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -236,15 +149,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/62459_cover_2025-06-10_023318.jpg",
     "actress": [],
@@ -257,15 +166,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/87267_cover_2025-06-10_024419.jpg",
     "actress": [],
@@ -279,19 +184,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "恋乳癖",
-      "美少女电影",
       "制服",
+      "美少女电影",
+      "恋乳癖",
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2019-07-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bobb319/bobb319pl.jpg",
     "actress": [
@@ -307,20 +206,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "美少女电影",
+      "精选，综合",
       "恋乳癖",
       "巨乳",
-      "精选，综合"
+      "美少女电影",
+      "校服"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2019-08-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bobb320/bobb320pl.jpg",
     "actress": [
@@ -336,20 +229,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
+      "角色扮演者",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "角色扮演者"
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb68a901b013acf7a9cffa119add60f1.jpg",
     "actress": [],
@@ -363,20 +250,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "恋乳癖",
+      "巨乳",
       "乳交",
       "乳房",
-      "美少女电影",
-      "恋乳癖",
-      "巨乳"
+      "美少女电影"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2021-11-16",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -390,20 +271,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "恋乳癖",
       "超乳",
       "首次亮相",
-      "美少女电影",
-      "恋乳癖",
-      "巨乳"
+      "巨乳",
+      "美少女电影"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2021-12-07",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -420,13 +295,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -440,20 +309,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
+      "角色扮演者",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "角色扮演者"
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -470,13 +333,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -490,21 +347,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "乳房",
-      "美少女电影",
       "恋乳癖",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳房",
+      "美少女电影",
+      "苗条"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/fc73b3e5dd9e85b3019e27ef899c7406.jpg",
     "actress": [],
@@ -517,15 +368,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -538,15 +385,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -560,21 +403,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
       "单体作品",
+      "乳交",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -591,13 +428,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/DZ7wOWMf.jpg",
     "actress": [],
@@ -611,17 +442,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出道作",
-      "巨乳"
+      "巨乳",
+      "出道作"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/r4bmAvZP.jpg",
     "actress": [],
@@ -638,13 +463,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1315841865a2a2c548e09fb4bcff30af.jpg",
     "actress": [],
@@ -657,15 +476,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2a6d96e02954b6ca861bc7c58c94427a.jpg",
     "actress": [],
@@ -679,22 +494,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "超乳",
-      "中出",
-      "巨乳",
       "角色扮演者",
+      "巨乳",
+      "超乳",
       "恋乳癖",
-      "兔女郎",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "兔女郎"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/81d9c3ce3519386b3354b8204c34d87f.jpg",
     "actress": [],
@@ -708,21 +517,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "超乳",
       "恋乳癖",
-      "巨乳",
+      "超乳",
       "单体作品",
+      "巨乳",
+      "乳液",
       "美容院"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -741,13 +544,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/29fea5ec63bc1261bf7c4bac5ba2265d.jpg",
     "actress": [],
@@ -761,21 +558,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "乳液",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "按摩",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2022-07-12",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0a3b3403a673e24d4e06af0abdfff83d.jpg",
     "actress": [
@@ -794,13 +585,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/94d281e530c0e61bb62e88e6118a0d82.jpg",
     "actress": [],
@@ -817,13 +602,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aacf0874de0b8fd9138de271ec221682.jpg",
     "actress": [],
@@ -837,21 +616,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳房",
-      "中出",
-      "美少女电影",
       "恋乳癖",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "乳房",
+      "美少女电影"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2022-08-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/6666014c47eed72612777a315bbb051c.jpg",
     "actress": [],
@@ -865,21 +638,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "白天出轨",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2022-09-06",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/VSag5MXs.jpg",
     "actress": [],
@@ -896,13 +663,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca2e77956188452286973cf34b9fe1ba.jpg",
     "actress": [],
@@ -916,21 +677,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "中出",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2022-09-20",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/7e098471323484f2d8f5bac3b0310290.jpg",
     "actress": [
@@ -946,21 +701,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "纪录片",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "纪录片",
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2022-09-20",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5f4c0493a57de7911c480c2ff36bf3a7.jpg",
     "actress": [
@@ -977,21 +726,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "超乳",
-      "护士",
-      "中出",
       "恋乳癖",
+      "护士",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1007,21 +750,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "女教师",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "女教师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1040,13 +777,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d464113bba3f28c94da273a35ff636c9.jpg",
     "actress": [],
@@ -1060,21 +791,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "白天出轨",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1090,21 +815,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "多P",
-      "乳房",
       "恋乳癖",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳房",
+      "苗条",
+      "多P"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1120,22 +839,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "超乳",
+      "恋乳癖",
+      "单体作品",
       "纪录片",
       "中出",
-      "巨乳",
-      "恋乳癖",
-      "奶妈",
-      "单体作品"
+      "奶妈"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/abd6545d63cbb5c07c7fb45d9c2cffa4.jpg",
     "actress": [
@@ -1154,13 +867,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221219/0fETFpN3/1.jpg",
     "actress": [],
@@ -1173,15 +880,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221219/T7bbPMwG/1.jpg",
     "actress": [],
@@ -1195,21 +898,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "护士",
       "恋乳癖",
+      "护士",
+      "超乳",
       "巨乳",
+      "乳交",
       "单体作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1225,21 +922,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "超乳",
-      "中出",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "白天出轨"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/a82431a3ec1d58fbffdf51f6e19e57a1.jpg",
     "actress": [
@@ -1255,21 +946,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "护士",
       "恋乳癖",
+      "护士",
+      "超乳",
       "巨乳",
+      "乳交",
       "单体作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1283,21 +968,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "乳交",
-      "超乳",
-      "恋乳癖",
       "巨乳",
-      "单体作品"
+      "恋乳癖",
+      "超乳",
+      "单体作品",
+      "乳交",
+      "乳液"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1313,21 +992,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "中出",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1343,20 +1016,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1372,20 +1039,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "超乳",
       "恋乳癖",
+      "超乳",
+      "单体作品",
       "巨乳",
-      "各种职业",
-      "单体作品"
+      "各种职业"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1399,21 +1060,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "女教师",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "女教师"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/06/68427620bea44e060618a38b/cover.jpg",
     "actress": [
@@ -1428,15 +1083,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230323/mBJET22w/1.jpg",
     "actress": [],
@@ -1453,13 +1104,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230324/uI3lgjTH/1.jpg",
     "actress": [],
@@ -1473,21 +1118,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
-      "护士",
       "恋乳癖",
+      "护士",
+      "超乳",
       "巨乳",
+      "乳交",
       "单体作品"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1506,13 +1145,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20230424/sluEtvAx/1.jpg?t=1682341376",
     "actress": [],
@@ -1526,21 +1159,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "乳房",
-      "中出",
       "恋乳癖",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出",
+      "乳房"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1557,13 +1184,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230519/tf61f3Y8/1.jpg",
     "actress": [],
@@ -1576,15 +1197,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230519/5sd0tIGT/1.jpg",
     "actress": [],
@@ -1599,20 +1216,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
-      "OL",
       "超乳",
       "恋乳癖",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "OL"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1626,21 +1237,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "护士",
-      "中出",
       "恋乳癖",
+      "护士",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1654,21 +1259,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "超乳",
-      "中出",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "各种职业",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "各种职业"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240506-1/f0b4fc8de1b0b88e66148bc0988fd4df.jpg",
     "actress": [
@@ -1683,15 +1282,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230621/oaeeEMe1/1.jpg",
     "actress": [],
@@ -1708,13 +1303,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230621/4DtQkaIN/1.jpg",
     "actress": [],
@@ -1731,13 +1320,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230629/bhJ5vCbL/1.jpg",
     "actress": [],
@@ -1754,13 +1337,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/7Mpz8Lsa/1.jpg",
     "actress": [],
@@ -1777,13 +1354,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/X9VXBGB9/1.jpg",
     "actress": [],
@@ -1800,13 +1371,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230820/uP7gommf/1.jpg",
     "actress": [],
@@ -1820,21 +1385,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "超乳",
       "恋乳癖",
+      "超乳",
       "巨乳",
-      "手淫",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "手淫"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1851,21 +1410,15 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "乱伦",
-      "乳交",
-      "中出",
       "巨乳",
       "恋乳癖",
+      "乳交",
+      "中出",
+      "乱伦",
       "母亲"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1880,15 +1433,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230916/evLnckHK/1.jpg",
     "actress": [],
@@ -1905,13 +1454,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230916/dzixwAGm/1.jpg",
     "actress": [],
@@ -1928,13 +1471,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231007/gThitJOT/1.jpg",
     "actress": [],
@@ -1951,13 +1488,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231007/kM1ZXZXP/1.jpg",
     "actress": [],
@@ -1970,15 +1501,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231007/7Gd26lfz/1.jpg",
     "actress": [],
@@ -1995,13 +1522,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/uER7NngV/1.jpg",
     "actress": [],
@@ -2014,15 +1535,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/3NmHupC6/1.jpg",
     "actress": [],
@@ -2039,13 +1556,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231119/ShCqmBWc/1.jpg",
     "actress": [],
@@ -2058,15 +1569,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231203/alX5iWce/1.jpg",
     "actress": [],
@@ -2079,15 +1586,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231231/Wu52Mf70/1.jpg",
     "actress": [],
@@ -2100,15 +1603,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231231/VeGofEGI/1.jpg",
     "actress": [],
@@ -2125,13 +1624,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240121/kuEzz8HW/1.jpg",
     "actress": [],
@@ -2144,15 +1637,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250429/iRANFoVs/1.jpg",
     "actress": [],
@@ -2165,15 +1654,11 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
+    "genres": [
+      "巨乳"
     ],
+    "type": "有码",
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250429/FQHM6o1H/1.jpg",
     "actress": [],
@@ -2190,13 +1675,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250429/YzVIa3wI/1.jpg",
     "actress": [],
@@ -2213,13 +1692,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240303/NrbTWxBt/1.jpg",
     "actress": [],
@@ -2236,13 +1709,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240303/PXNgwkle/1.jpg",
     "actress": [],
@@ -2259,13 +1726,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/ACPewkHL/1.jpg",
     "actress": [],
@@ -2282,13 +1743,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240407/r4ec7heo/1.jpg",
     "actress": [],
@@ -2302,46 +1757,40 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "巨尻",
-      "苗條",
-      "放尿",
-      "美少女",
+      "少女",
       "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
+      "女學生",
+      "美臀",
       "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
       "大乳暈",
+      "舔陰",
       "淫亂",
       "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "美臀",
+      "自宅",
       "抹油",
+      "美少女",
       "絕頂高潮",
-      "舔陰",
-      "手指插入",
       "無毛",
-      "乳交",
-      "女上位",
+      "企畫",
+      "苗條",
+      "手指插入",
       "騎乗位",
-      "情趣內衣"
+      "美乳",
+      "美腿",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "胸控・戀乳癖",
+      "放尿",
+      "後入",
+      "性感"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2024-04-09",
     "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407220903858858.jpg",
     "actress": [
@@ -2360,13 +1809,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240407/HUSYdEmF/1.jpg",
     "actress": [],
@@ -2383,13 +1826,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240504/f9rxCjow/1.jpg",
     "actress": [],
@@ -2403,27 +1840,21 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "風俗娘",
-      "乳交",
-      "按摩・物理治療・美容",
       "豐滿",
-      "按摩女郎",
-      "美乳",
-      "中出",
-      "蕩婦",
+      "風俗娘",
       "口交",
       "巨乳",
+      "乳交",
+      "中出",
+      "按摩女郎",
+      "按摩・物理治療・美容",
+      "蕩婦",
       "劇情",
-      "抹油"
+      "抹油",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2024-06-04",
     "cover_url": "https://picture.yoshiclub.xyz/20240602/20240602023655841841.jpg",
     "actress": [
@@ -2442,13 +1873,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240602/m4elS5NS/1.jpg",
     "actress": [],
@@ -2465,13 +1890,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240630/hihJogEs/1.jpg",
     "actress": [],
@@ -2485,33 +1904,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
-      "美少女",
-      "淫亂",
-      "乳交",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "中出",
       "口交",
-      "企畫",
-      "女上位",
       "巨乳",
-      "騎乗位",
-      "抹油",
       "紀念作",
       "絕頂高潮",
-      "女優"
+      "淫亂",
+      "乳交",
+      "潮吹",
+      "色白",
+      "中出",
+      "企畫",
+      "女優",
+      "女上位",
+      "美少女電影",
+      "胸控・戀乳癖",
+      "騎乗位",
+      "抹油",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2024-08-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802005901756756.jpg",
     "actress": [
@@ -2527,36 +1940,108 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "美少女",
-      "羞恥",
-      "出道作",
-      "出道作品",
-      "胸控・戀乳癖",
-      "乳交",
-      "美乳",
-      "中出",
-      "口交",
-      "企畫",
-      "女上位",
       "少女",
+      "口交",
       "巨乳",
       "絕頂高潮",
-      "女優"
+      "出道作",
+      "乳交",
+      "中出",
+      "女優",
+      "企畫",
+      "女上位",
+      "美少女電影",
+      "胸控・戀乳癖",
+      "出道作品",
+      "羞恥",
+      "美少女",
+      "美乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "妄想族",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
-        "works_count": 4538
-      }
-    ],
+    "company": "妄想族",
     "publish_date": "2024-08-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802015653447447.jpg",
     "actress": [
       "望月乃々"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-415"
+  },
+  {
+    "id": 12861,
+    "IDcode": "BOBB-416",
+    "title": "H罩杯豐滿巨乳的魅力發揮到極致的戀乳癖淫蕩角色扮演 7 ~ 星明日菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兔女郎妝扮",
+      "蕩婦",
+      "中出",
+      "猥褻穿著",
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "女優",
+      "企畫",
+      "游戲COSPLAY",
+      "騎乗位",
+      "美乳",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802023431774774.jpg",
+    "actress": [
+      "星明日菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-416"
+  },
+  {
+    "id": 12265,
+    "IDcode": "BOBB-417",
+    "title": "父子專屬巨乳女僕美乳L罩杯服務，大好親子三昧！ ~ 新田雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "網襪",
+      "女僕",
+      "亂交 • 群P",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "女僕制服",
+      "口交",
+      "巨乳",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2024-09-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830005058407407.jpg",
+    "actress": [
+      "新田雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-417"
   }
 ];

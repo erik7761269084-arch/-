@@ -268,7 +268,7 @@ window.actressData = {
       "country": "",
       "genre": "",
       "type": "",
-      "company": "DEEP'S",
+      "company": "一本道",
       "publish_date": "",
       "cover_url": "https://lust103.cc/upload/vod/20250512-5/7f41f8b3be4e5fe873e477311752db8d.jpg",
       "actress": [

@@ -1,258 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 559584,
-    "IDcode": "DGCEMD-017",
-    "title": "限时送随著奖金视频地狱太不耐烦了太热闹太地狱了强壹岐忍耐是最强的提升灵敏度的黑秘术森泽假名-森泽佳奈饭冈佳奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/09/16672_cover_2025-07-09_170059.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-017"
-  },
-  {
-    "id": 411439,
-    "IDcode": "DGCEMD-018",
-    "title": "★配信限定！特典映像付★この女達「M女」！3人が奏でるレズビアンM女の断末魔！ドMだからわかる痛みのその先にある非日常の快楽！ 塩見彩 紗紗原百合 渡邊真央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c9b8af9a2e9b1d45c3545/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-018"
-  },
-  {
-    "id": 521019,
-    "IDcode": "DGCEMD-055",
-    "title": "瀬名ひかり- ★配信限定！特典映像付★男をいじめると感じる女子は実在する！瀬名ひかり ～男の苦痛を耐える",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20250925/OwPE1p3J/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-055"
-  },
-  {
-    "id": 84300,
-    "IDcode": "DGCEMD-086",
-    "title": "★配信限定！特典映像付★身体も心も崩壊して僕の言いなりになった 高瀬りな ～淫乱な言いなりペットになった私を見てください。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "拘束",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "精选，综合",
-      "放尿"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/5a7b80b970b7f1f090dc24cc5c5df4b7.jpg",
-    "actress": [
-      "高瀬りな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-086"
-  },
-  {
-    "id": 435757,
-    "IDcode": "DGCEMD-087",
-    "title": "感じすぎていっぱいおもらしごめんなさい…32 白桃花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9af4359ec923e2aebb377d75d6851af1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-087"
-  },
-  {
-    "id": 84318,
-    "IDcode": "DGCEMD-088",
-    "title": "★配信限定！特典映像付★中出し！いいなりご奉仕メイド2 さつき芽衣 ～俺の命令は絶対！完全支配できる「さつき芽衣」の身体！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "女佣",
-      "乳房",
-      "成熟的女人",
-      "素人作品",
-      "手淫",
-      "精选，综合",
-      "主观视角"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f0897d77b36eba789eb6bf3e271155a0.jpg",
-    "actress": [
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-088"
-  },
-  {
-    "id": 539149,
-    "IDcode": "DGCEMD-089",
-    "title": "新村あかり- ★配信限定！特典映像付★酒酔いアナルSEX！ 新村あかり ～お酒を呑み淫らになった身体はア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250610/MqipCmpQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-089"
-  },
-  {
-    "id": 84296,
-    "IDcode": "DGCEMD-090",
-    "title": "★配信限定！特典映像付★ゴミ屋敷に住む巨乳美人 瀬名ひかり ～ゴミ屋敷で行う激しいSEXで女は淫乱Hカップを揺らし、何度もイキ狂う！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "戏剧",
-      "无毛",
-      "中出",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "2021-11-23",
-    "cover_url": "https://xing.sex8sex833.com/20250925/JTKBpKi4/1.jpg",
-    "actress": [
-      "瀨名光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-090"
-  },
-  {
-    "id": 84314,
-    "IDcode": "DGCEMD-097",
-    "title": "★配信限定！特典映像付★誘惑Tバック家政婦！ 北野未奈 ～Hカップ爆乳とTバック尻で精子を搾り取る淫乱家政婦！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "4K",
-      "巨大屁股",
-      "中出",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "精选，综合"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "2021-12-14",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-097"
-  },
-  {
-    "id": 539150,
-    "IDcode": "DGCEMD-105",
-    "title": "新村あかり- ★配信限定！特典映像付★七瀬いおりレズ解禁！×春菜はな×新村あかり～巨乳美女3人が激しく络",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250610/FXSpxkgC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-105"
-  },
-  {
     "id": 84316,
     "IDcode": "DGCEMD-119",
     "title": "★配信限定！特典映像付★母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として義母のアナルを責める淫らな変態娘！",
@@ -260,23 +7,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "乱伦",
-      "肛交",
-      "成熟的女人",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "乱伦",
+      "4K",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "肛交",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -294,13 +35,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/25/67bd57b24e7d663df4a85b7a/cover.jpg",
     "actress": [],
@@ -315,13 +50,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc639f9a2e9b1d45c6b7f/cover.jpg",
     "actress": [],
@@ -335,24 +64,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "4K",
-      "戏剧",
-      "巨大屁股",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "单体作品"
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "4K",
+      "素人作品",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-02-22",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -369,13 +92,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/8b0f96e931bd9f74f1a913693220ce8b.jpg",
     "actress": [],
@@ -389,24 +106,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "戏剧",
-      "巨大屁股",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "口交",
       "精选，综合",
-      "单体作品"
+      "口交",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "4K",
+      "素人作品",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-03-22",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/6ff1ef67a26a99d1070c1388209e94d6.jpg",
     "actress": [
@@ -422,24 +133,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "荡妇",
-      "4K",
-      "巨大屁股",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "主观视角"
+      "荡妇",
+      "单体作品",
+      "巨乳",
+      "巨大屁股",
+      "4K",
+      "素人作品",
+      "主观视角",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-05-10",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -456,13 +161,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250610/8VGsOH67/1.jpg",
     "actress": [],
@@ -476,23 +175,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "精选，综合",
       "潮吹",
       "4K",
-      "女同接吻",
-      "成熟的女人",
+      "淫乱，真实",
       "素人作品",
       "女同性恋",
-      "精选，综合"
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-07-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/7033e058f40a4a3d00841e58977e18be.jpg",
     "actress": [
@@ -508,24 +201,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "4K",
-      "巨大屁股",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "淫语",
       "精选，综合",
-      "单体作品"
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "4K",
+      "素人作品",
+      "淫语",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-07-26",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/66ef107603e2646410a05947c2f986d8.jpg",
     "actress": [],
@@ -539,24 +226,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "4K",
-      "已婚妇女",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "淫语",
       "精选，综合",
-      "单体作品"
+      "荡妇",
+      "巨乳",
+      "已婚妇女",
+      "单体作品",
+      "4K",
+      "素人作品",
+      "淫语",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-07-26",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/4245defca2c9721682ce3aa50c4c95d0.jpg",
     "actress": [
@@ -572,24 +253,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "4K",
-      "多P",
+      "精选，综合",
+      "单体作品",
       "乳房",
-      "成熟的女人",
+      "4K",
+      "淫乱，真实",
       "素人作品",
       "女上位",
-      "精选，综合",
-      "单体作品"
+      "多P",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-07-26",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/3096544d72c7c9d2fe511114f416edea.jpg",
     "actress": [
@@ -605,23 +280,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "巨大屁股",
-      "肛交",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "单体作品"
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "4K",
+      "素人作品",
+      "肛交",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-07-26",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/7c68db777aae22475d7402a88baa169b.jpg",
     "actress": [
@@ -637,24 +306,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "汽车性爱",
-      "4K",
-      "巨大屁股",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "单体作品"
+      "巨乳",
+      "单体作品",
+      "巨大屁股",
+      "4K",
+      "汽车性爱",
+      "淫乱，真实",
+      "素人作品",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-08-23",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/a57d3063f44d27d9105010bbf3266149.jpg",
     "actress": [
@@ -670,24 +333,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "4K",
-      "已婚妇女",
-      "内衣",
-      "成熟的女人",
-      "素人作品",
       "精选，综合",
-      "单体作品"
+      "荡妇",
+      "单体作品",
+      "已婚妇女",
+      "4K",
+      "淫乱，真实",
+      "素人作品",
+      "内衣",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-08-23",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -701,24 +358,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "4K",
-      "戏剧",
-      "乳房",
-      "中出",
-      "成熟的女人",
-      "素人作品",
       "精选，综合",
-      "单体作品"
+      "荡妇",
+      "单体作品",
+      "中出",
+      "乳房",
+      "4K",
+      "素人作品",
+      "戏剧",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-08-23",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -734,24 +385,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "精选，综合",
+      "巨乳",
+      "单体作品",
       "潮吹",
       "4K",
-      "成熟的女人",
       "素人作品",
-      "巨乳",
-      "精选，综合",
-      "单体作品",
-      "放尿"
+      "淫乱，真实",
+      "放尿",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-09-24",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/3d2ed1143c36d48587ab1f43c7e0ca9b.jpg",
     "actress": [],
@@ -765,23 +410,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "4K",
-      "女同接吻",
-      "成熟的女人",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "4K",
+      "素人作品",
+      "淫乱，真实",
       "女同性恋",
-      "精选，综合"
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-09-24",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/57441401dd79987015e36b9eeb00edb3.jpg",
     "actress": [
@@ -798,24 +437,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "巨大阴茎",
-      "4K",
-      "乳液",
-      "成熟的女人",
-      "素人作品",
       "精选，综合",
       "单体作品",
-      "子宫颈"
+      "4K",
+      "淫乱，真实",
+      "素人作品",
+      "乳液",
+      "巨大阴茎",
+      "子宫颈",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/35969c5afba1a00d47c58c4f567a7fa0.jpg",
     "actress": [
@@ -831,24 +464,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "已婚妇女",
-      "内衣",
-      "乱伦",
-      "超乳",
-      "成熟的女人",
-      "素人作品",
       "精选，综合",
-      "单体作品"
+      "单体作品",
+      "超乳",
+      "已婚妇女",
+      "乱伦",
+      "4K",
+      "素人作品",
+      "内衣",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "2022-09-24",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/8e98fca5078319b31536a26588785f6b.jpg",
     "actress": [],
@@ -857,7 +484,7 @@ window.PAGE_DATA = [
   {
     "id": 535686,
     "IDcode": "DGCEMD-247",
-    "title": "[] 初レズ解禁！北乃ゆな～お姊さんにいじめられたい with 新村あかり",
+    "title": "初レズ解禁！北乃ゆな～お姊さんにいじめられたい with 新村あかり",
     "year": "",
     "country": "",
     "genre": "",
@@ -865,13 +492,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230622/cemd247pl.jpg!320x216.jpg",
     "actress": [],
@@ -886,13 +507,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250611/UIfa0ZME/1.jpg",
     "actress": [],
@@ -907,13 +522,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://pic41.anzise.com/pic/20221214/7b406bec694a21767d35be54497c2a76/1.jpg",
     "actress": [],
@@ -922,7 +531,7 @@ window.PAGE_DATA = [
   {
     "id": 535690,
     "IDcode": "DGCEMD-264",
-    "title": "[] 大人の极上美女レズビアン2 波多野结衣×枢木あお",
+    "title": "大人の极上美女レズビアン2 波多野结衣×枢木あお",
     "year": "",
     "country": "",
     "genre": "",
@@ -930,13 +539,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230630/cemd264pl.jpg!320x216.jpg",
     "actress": [],
@@ -953,13 +556,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ccfef2a47ebb1a8683eb0/cover.jpg",
     "actress": [],
@@ -974,13 +571,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ccfec2a47ebb1a8683eaf/cover.jpg",
     "actress": [],
@@ -989,7 +580,7 @@ window.PAGE_DATA = [
   {
     "id": 535697,
     "IDcode": "DGCEMD-301",
-    "title": "[] 波多野心疗内科 洗脳レズビアン疗法で贵女のお悩み解决します。",
+    "title": "波多野心疗内科 洗脳レズビアン疗法で贵女のお悩み解决します。",
     "year": "",
     "country": "",
     "genre": "",
@@ -997,13 +588,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230717/cemd301pl.jpg!320x216.jpg",
     "actress": [],
@@ -1012,22 +597,16 @@ window.PAGE_DATA = [
   {
     "id": 533180,
     "IDcode": "DGCEMD-319",
-    "title": "[] もしも！男性限定のマンツーマン料理教室の先生が美人で巨乳でド淫乱だったら？ 穂花あいり",
+    "title": "もしも！男性限定のマンツーマン料理教室の先生が美人で巨乳でド淫乱だったら？ 穂花あいり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240522/cemd319pl.jpg!320x216.jpg",
     "actress": [],
@@ -1036,7 +615,7 @@ window.PAGE_DATA = [
   {
     "id": 535700,
     "IDcode": "DGCEMD-322",
-    "title": "[] SEXモンスター“望月あやか”が新人女优“花芽ありす”に手取り足取り教え込む！终わり无きレズビアン",
+    "title": "SEXモンスター“望月あやか”が新人女优“花芽ありす”に手取り足取り教え込む！终わり无きレズビアン",
     "year": "",
     "country": "",
     "genre": "",
@@ -1044,13 +623,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230730/cemd322pl.jpg!320x216.jpg",
     "actress": [],
@@ -1059,7 +632,7 @@ window.PAGE_DATA = [
   {
     "id": 535705,
     "IDcode": "DGCEMD-323",
-    "title": "[] 见つめあう幸せのレズビアン～SEXドキュメント 枢木あおい×末広纯",
+    "title": "见つめあう幸せのレズビアン～SEXドキュメント 枢木あおい×末広纯",
     "year": "",
     "country": "",
     "genre": "",
@@ -1067,13 +640,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230813/cemd323pl.jpg!320x216.jpg",
     "actress": [],
@@ -1088,13 +655,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://pic57.anzise.com/pic/20230611/612092db9ae0e2fa4a8b8df0465be7e0/1.jpg",
     "actress": [],
@@ -1103,7 +664,7 @@ window.PAGE_DATA = [
   {
     "id": 535713,
     "IDcode": "DGCEMD-345",
-    "title": "[] 望月あやかがレズ开発＆调教！アヘ颜ヨリ目で快楽レズビアン沼に落ちた一条みお",
+    "title": "望月あやかがレズ开発＆调教！アヘ颜ヨリ目で快楽レズビアン沼に落ちた一条みお",
     "year": "",
     "country": "",
     "genre": "",
@@ -1111,13 +672,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230823/cemd345pl.jpg!320x216.jpg",
     "actress": [],
@@ -1126,7 +681,7 @@ window.PAGE_DATA = [
   {
     "id": 535725,
     "IDcode": "DGCEMD-351",
-    "title": "[] アナルで発情！～本能で感じる！美女があえぎ狂う快感レズビアン～ 小松杏×新村あかり",
+    "title": "アナルで発情！～本能で感じる！美女があえぎ狂う快感レズビアン～ 小松杏×新村あかり",
     "year": "",
     "country": "",
     "genre": "",
@@ -1134,13 +689,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230826/cemd351pl.jpg!320x216.jpg",
     "actress": [],
@@ -1155,13 +704,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230711/LIBDOTNu/1.jpg",
     "actress": [],
@@ -1170,7 +713,7 @@ window.PAGE_DATA = [
   {
     "id": 535729,
     "IDcode": "DGCEMD-376",
-    "title": "[] 望月あやかに“ごめんなさい”と言わせるまで责め続け、イカせ続けるノンストップレズ さつき芽衣×望月あやか",
+    "title": "望月あやかに“ごめんなさい”と言わせるまで责め続け、イカせ続けるノンストップレズ さつき芽衣×望月あやか",
     "year": "",
     "country": "",
     "genre": "",
@@ -1178,13 +721,7 @@ window.PAGE_DATA = [
       "高清画质"
     ],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1199,13 +736,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250611/2101RYKf/1.jpg",
     "actress": [],
@@ -1220,13 +751,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231212/AUU1nPme/1.jpg",
     "actress": [],
@@ -1241,13 +766,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250524/NLkibkQa/1.jpg",
     "actress": [],
@@ -1262,13 +781,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [
-      {
-        "company": "セレブの友",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
-        "works_count": 768
-      }
-    ],
+    "company": "セレブの友",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240722/CZrOrNIU/1.jpg",
     "actress": [],
@@ -1283,7 +796,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1298,7 +811,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250411/1F0VbWW5/1.jpg",
     "actress": [],
@@ -1313,7 +826,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250411/jXw1uU7b/1.jpg",
     "actress": [],
@@ -1328,7 +841,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/KjlRXfMj/1.jpg",
     "actress": [],
@@ -1343,7 +856,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/RBVNNOCe/1.jpg",
     "actress": [],
@@ -1358,7 +871,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/i1jt75GT/1.jpg",
     "actress": [],
@@ -1373,7 +886,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/rIwXsGa6/1.jpg",
     "actress": [],
@@ -1388,7 +901,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/QjzdfQI7/1.jpg",
     "actress": [],
@@ -1403,7 +916,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1417,16 +930,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女同接吻",
-      "成熟的女人",
+      "精选，综合",
       "素人作品",
+      "淫乱，真实",
       "女同性恋",
       "淫语",
-      "精选，综合"
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-03-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1444,7 +957,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/cM9cYbFn/1.jpg",
     "actress": [],
@@ -1461,7 +974,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1475,17 +988,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "巨乳",
+      "素人作品",
       "淫乱，真实",
+      "女同性恋",
       "多P",
       "肛交",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "女同性恋",
-      "精选，综合"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-05-13",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1504,7 +1017,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/JVdRobzm/1.jpg",
     "actress": [],
@@ -1519,7 +1032,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1534,7 +1047,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241027/VsHoc8nG/1.jpg",
     "actress": [],
@@ -1549,7 +1062,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782ab2ef9a2e9b1d486bfb5/cover.jpg",
     "actress": [],
@@ -1564,7 +1077,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250412/gD1XFh8L/1.jpg",
     "actress": [],
@@ -1579,7 +1092,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873c7a5d57b64bfdd98f6d/cover.jpg",
     "actress": [],
@@ -1593,16 +1106,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "纪录片",
-      "成熟的女人",
-      "素人作品",
+      "精选，综合",
       "巨乳",
+      "纪录片",
+      "素人作品",
       "女同性恋",
-      "精选，综合"
+      "女同接吻",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-10-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1620,7 +1133,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1637,7 +1150,7 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1651,16 +1164,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "巨乳",
+      "素人作品",
       "69",
       "舔阴",
-      "成熟的女人",
-      "素人作品",
-      "巨乳",
       "女同性恋",
-      "精选，综合"
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2019-11-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1678,7 +1191,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250413/IJLH7nqh/1.jpg",
     "actress": [],
@@ -1693,7 +1206,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1708,7 +1221,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1723,7 +1236,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250413/yC6KBZpe/1.jpg",
     "actress": [],
@@ -1738,7 +1251,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1753,7 +1266,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1767,16 +1280,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "精选，综合",
       "潮吹",
       "中出",
-      "成熟的女人",
       "素人作品",
-      "精选，综合",
-      "放尿"
+      "淫乱，真实",
+      "放尿",
+      "成熟的女人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2020-02-25",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -1793,7 +1306,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1808,7 +1321,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1823,7 +1336,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1838,7 +1351,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1853,7 +1366,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/dd4bf116fa99814532aa4c50191aab70.jpg",
     "actress": [],
@@ -1868,7 +1381,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/5cd4f8b702ade6b5521e207a7230d8ae.jpg",
     "actress": [],
@@ -1883,7 +1396,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/3eaf3e1cdc1ead11a92ce91566fb9332.jpg",
     "actress": [],
@@ -1898,7 +1411,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/946df9d9f5ba29371ba7a5224539b657.jpg",
     "actress": [],
@@ -1913,7 +1426,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c7af0f9a2e9b1d45c0bd6/cover.jpg",
     "actress": [],
@@ -1928,7 +1441,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1943,7 +1456,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230222-1/c31576e5470c5a7a72e4ba85b5d4804b.jpg",
     "actress": [],
@@ -1958,7 +1471,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230222-1/11f5aa345fb952095a43d846b6c59e04.jpg",
     "actress": [],
@@ -1973,7 +1486,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -1987,15 +1500,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "户外",
-      "凌辱",
-      "无码破解",
-      "素人作品",
       "精选，综合",
-      "单体作品"
+      "凌辱",
+      "户外",
+      "单体作品",
+      "无码破解",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2012,13 +1525,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "精選綜合",
-      "乳交",
-      "素人作品",
       "巨乳",
-      "其他職業"
+      "其他職業",
+      "乳交",
+      "素人作品"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/33b466659c669a46ec77a6e261b9b8ab.jpg",
     "actress": [
@@ -2034,15 +1547,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "OL",
+      "精选，综合",
+      "单体作品",
       "无码破解",
       "素人作品",
-      "精选，综合",
-      "单体作品"
+      "OL",
+      "多P"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
@@ -2061,7 +1574,7 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "2014-01-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2076,7 +1589,7 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
@@ -2095,7 +1608,7 @@ window.PAGE_DATA = [
       "M男"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221104-1/055c1af2b54572ebd37ba81db697b57a.jpg",
     "actress": [
@@ -2114,7 +1627,7 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461b66ccb447f8c367c5e/cover.jpg",
     "actress": [],
@@ -2129,10 +1642,308 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "有码",
-    "companys": [],
+    "company": "",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461d66ccb447f8c367c60/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHEL-001"
+  },
+  {
+    "id": 470277,
+    "IDcode": "DHHS-003",
+    "title": "人妻秘密捜査官狂乱 ～濃厚なる女躰淫辱～ 第三話 英里子の件-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461d06ccb447f8c367c5f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHHS-003"
+  },
+  {
+    "id": 470272,
+    "IDcode": "DHJM-001",
+    "title": "ハジメテの衝撃！強制絶頂撮影会 with素人娘 性感解放研究所-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461f66ccb447f8c367c66/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHJM-001"
+  },
+  {
+    "id": 15091,
+    "IDcode": "DHLD-001",
+    "title": "我去美容院的新員工培訓時，那裏只有我一個男人！ ？從頭到尾我在訓練中雞巴都硬着，都被當作了練習的性玩具……",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "蕩婦",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "性感",
+      "按摩・美容店",
+      "美少女",
+      "絕頂高潮",
+      "女同事",
+      "辣妹/GAL系",
+      "艷遇",
+      "美乳",
+      "雙飛",
+      "口交",
+      "巨乳",
+      "風俗娘",
+      "慾求不滿",
+      "按摩女郎",
+      "女上位",
+      "足交",
+      "多P",
+      "一男多女",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2024-05-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240502/3f9c9157-876e-4263-81de-602952a06cc6.jpg",
+    "actress": [
+      "皆月光",
+      "渚光希",
+      "日乃詩織",
+      "NATSUKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-001"
+  },
+  {
+    "id": 14235,
+    "IDcode": "DHLD-002",
+    "title": "你勃起了嗎？看到我美麗的屁股後，同學對我甜蜜地低語。羣交大片！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "接吻",
+      "大亂交",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "學校",
+      "色白",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "多P",
+      "後入",
+      "JK校服",
+      "性感",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240603/34b6545a-24a0-4f7b-b4fb-550a656fc47d.jpg",
+    "actress": [
+      "皆月光",
+      "渚光希",
+      "星仲ここみ",
+      "日乃詩織",
+      "NATSUKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-002"
+  },
+  {
+    "id": 14226,
+    "IDcode": "DHLD-003",
+    "title": "你是腿控嗎？ 我，一個新員工，被OL的漂亮絲襪腿誘惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上司",
+      "美腳",
+      "蕩婦",
+      "亂交 • 群P",
+      "舔陰",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "辦公室",
+      "劇情",
+      "按摩棒",
+      "絕頂高潮",
+      "女同事",
+      "企畫",
+      "苗條",
+      "黑絲",
+      "手指插入",
+      "騎乗位",
+      "制服",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "女上位",
+      "足交",
+      "OL",
+      "性感",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240603/aeecc03c-7bce-4baf-8663-cd9065ab99fb.jpg",
+    "actress": [
+      "沙月惠奈",
+      "優梨舞奈",
+      "伊織雛乃",
+      "二宮桃",
+      "南見つばさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-003"
+  },
+  {
+    "id": 13503,
+    "IDcode": "DHLD-004",
+    "title": "女大學生姐姐們來我家裏的淫蕩之夜！處男弟弟的6P性愛懲罰！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "蕩婦",
+      "亂交 • 群P",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "性感",
+      "美少女",
+      "乱伦",
+      "騎乗位",
+      "艷遇",
+      "美乳",
+      "雙飛",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "多P",
+      "一男多女"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240707/c29f6389-ba98-4cf9-b263-9c416ec2460d.jpg",
+    "actress": [
+      "沙月惠奈",
+      "優梨舞奈",
+      "伊織雛乃",
+      "二宮桃",
+      "南見つばさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-004"
+  },
+  {
+    "id": 545098,
+    "IDcode": "DHLD-005",
+    "title": "ヨガ体験教室の生徒で男は仆だけ…エロ目的での参加だと误解されてはいけないと思えば思う程、美人イ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240803/SFHCo4Rm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-005"
+  },
+  {
+    "id": 560318,
+    "IDcode": "DHLD-006",
+    "title": "コレが献身的な看护というものなのか…入浴出来ない仆のカラダ（やたらと乳首）を拭いてくれる美人ナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240925/uTA5N7Wh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-006"
+  },
+  {
+    "id": 157915,
+    "IDcode": "DHLD-007",
+    "title": "お泊り会でウチに来た姉の友達は巨乳なヤリマンビッチばかり！？しかも全員 がいつでも誰でも自由なウェルカムドスケベお姉さん達だった！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/65089f19fee5e8bd79ee0cb0320a3954.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-007"
+  },
+  {
+    "id": 177354,
+    "IDcode": "DHLD-008",
+    "title": "美女ばかりが在籍しているという噂のメンズエステ店に行ったら、お姉さんたちのエロすぎる施術にチ●ポが暴発寸前！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OFFICE K’S",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/40636669f26355dd1b16af5f86d3a2a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-008"
   }
 ];
