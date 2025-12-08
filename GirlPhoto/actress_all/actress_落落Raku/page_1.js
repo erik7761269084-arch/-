@@ -418,5 +418,110 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6651"
+  },
+  {
+    "id": 6962,
+    "IDcode": "21442",
+    "title": "落落Raku - SUCCUBUS BAR",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3804ac629211a1f6927b9.jpg",
+    "actress": [
+      {
+        "name": "落落Raku",
+        "img_url": "https://image.acg.lol/file/2025/03/25/0058d1818ac7b594c6abdfd78d65233e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_落落Raku.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=21442"
+  },
+  {
+    "id": 5891,
+    "IDcode": "20479",
+    "title": "落落Raku x Haruka_ハルカ - 林檎",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/c293081bc7424fe6f2af1.jpg",
+    "actress": [
+      {
+        "name": "落落Raku",
+        "img_url": "https://image.acg.lol/file/2025/03/25/0058d1818ac7b594c6abdfd78d65233e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_落落Raku.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20479"
+  },
+  {
+    "id": 5890,
+    "IDcode": "20478",
+    "title": "落落Raku - 同級生 Her",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3077496e9412f3095ec7e.jpg",
+    "actress": [
+      {
+        "name": "落落Raku",
+        "img_url": "https://image.acg.lol/file/2025/03/25/0058d1818ac7b594c6abdfd78d65233e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_落落Raku.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20478"
+  },
+  {
+    "id": 5889,
+    "IDcode": "20477",
+    "title": "落落raku 工作日",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/66b140f122f307eac7cd5.jpg",
+    "actress": [
+      {
+        "name": "落落Raku",
+        "img_url": "https://image.acg.lol/file/2025/03/25/0058d1818ac7b594c6abdfd78d65233e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_落落Raku.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20477"
+  },
+  {
+    "id": 5794,
+    "IDcode": "20391",
+    "title": "落落Raku - 同級生の秘密 -Her secret",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/fc6a3343166aea7b83815.jpg",
+    "actress": [
+      {
+        "name": "落落Raku",
+        "img_url": "https://image.acg.lol/file/2025/03/25/0058d1818ac7b594c6abdfd78d65233e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_落落Raku.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20391"
   }
 ];

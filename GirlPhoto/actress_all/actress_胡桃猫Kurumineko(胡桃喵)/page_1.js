@@ -457,6 +457,11 @@ window.PAGE_DATA = [
         "name": "胡桃猫Kurumineko(胡桃喵)",
         "img_url": "https://image.acg.lol/file/2025/02/28/1-5853ce2c2e3655d58a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_胡桃猫Kurumineko(胡桃喵).html"
+      },
+      {
+        "name": "巧克力小圆面包",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_巧克力小圆面包.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5584"

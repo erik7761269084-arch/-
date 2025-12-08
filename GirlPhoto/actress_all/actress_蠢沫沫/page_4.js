@@ -58,6 +58,11 @@ window.PAGE_DATA = [
         "name": "蠢沫沫",
         "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "桃良阿宅",
+        "img_url": "https://telegra.ph/file/b57a7cc256c62d11980c5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桃良阿宅.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3867"
@@ -625,6 +630,11 @@ window.PAGE_DATA = [
         "name": "蠢沫沫",
         "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "浅安安",
+        "img_url": "https://image.acg.lol/file/2025/03/03/1-52edfa2d66fce5c8af.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_浅安安.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3840"
@@ -1741,5 +1751,31 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3787"
+  },
+  {
+    "id": 17,
+    "IDcode": "10015",
+    "title": "蠢沫沫x桃良阿宅 莉可莉丝",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/fff64f97678772d2c4b97.jpg",
+    "actress": [
+      {
+        "name": "蠢沫沫",
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "桃良阿宅",
+        "img_url": "https://telegra.ph/file/b57a7cc256c62d11980c5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桃良阿宅.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10015"
   }
 ];

@@ -478,6 +478,11 @@ window.PAGE_DATA = [
         "name": "一小央泽",
         "img_url": "https://telegra.ph/file/b19251350a4259ce5e9e2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一小央泽.html"
+      },
+      {
+        "name": "雯妹不讲道理",
+        "img_url": "https://telegra.ph/file/8659f398fa988874d8b5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雯妹不讲道理.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12407"

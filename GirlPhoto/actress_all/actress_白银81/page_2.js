@@ -646,6 +646,11 @@ window.PAGE_DATA = [
         "name": "白银81",
         "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      },
+      {
+        "name": "千阳(ちよ)",
+        "img_url": "https://telegra.ph/file/8f2f1bc2b1004b45a6014.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_千阳(ちよ).html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3198"

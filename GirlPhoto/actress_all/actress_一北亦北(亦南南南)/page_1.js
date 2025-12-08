@@ -331,6 +331,11 @@ window.PAGE_DATA = [
         "name": "一北亦北(亦南南南)",
         "img_url": "https://image.acg.lol/file/2025/01/02/1-19ece5668882c865cd.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一北亦北(亦南南南).html"
+      },
+      {
+        "name": "是一只熊仔",
+        "img_url": "https://image.acg.lol/file/2025/05/01/1-41.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是一只熊仔.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12341"

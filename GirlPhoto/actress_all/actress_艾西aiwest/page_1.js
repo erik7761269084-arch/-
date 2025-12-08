@@ -37,6 +37,11 @@ window.PAGE_DATA = [
         "name": "艾西aiwest",
         "img_url": "https://image.acg.lol/file/2025/01/29/1-40eb348d8e804f74ac.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_艾西aiwest.html"
+      },
+      {
+        "name": "喜欢爱理吗",
+        "img_url": "https://image.acg.lol/file/2025/07/14/2024_05_22_002012.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜欢爱理吗.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3087"

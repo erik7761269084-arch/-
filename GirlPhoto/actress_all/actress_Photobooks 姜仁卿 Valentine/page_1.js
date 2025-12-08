@@ -793,6 +793,11 @@ window.PAGE_DATA = [
         "name": "Photobooks 姜仁卿 Valentine",
         "img_url": "https://image.acg.lol/file/2025/03/02/1-566fb8502120702088.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Photobooks 姜仁卿 Valentine.html"
+      },
+      {
+        "name": "Mini",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mini.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1767"

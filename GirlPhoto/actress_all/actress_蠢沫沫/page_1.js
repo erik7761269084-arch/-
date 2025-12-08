@@ -625,6 +625,11 @@ window.PAGE_DATA = [
         "name": "蠢沫沫",
         "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "浅安安",
+        "img_url": "https://image.acg.lol/file/2025/03/03/1-52edfa2d66fce5c8af.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_浅安安.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4140"

@@ -184,6 +184,11 @@ window.PAGE_DATA = [
         "name": "蠢沫沫",
         "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "桃良阿宅",
+        "img_url": "https://telegra.ph/file/b57a7cc256c62d11980c5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桃良阿宅.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3961"
@@ -2032,6 +2037,11 @@ window.PAGE_DATA = [
         "name": "蠢沫沫",
         "img_url": "https://image.acg.lol/file/2025/08/14/1-126.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蠢沫沫.html"
+      },
+      {
+        "name": "桃良阿宅",
+        "img_url": "https://telegra.ph/file/b57a7cc256c62d11980c5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桃良阿宅.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3873"

@@ -541,6 +541,11 @@ window.PAGE_DATA = [
         "name": "金鱼",
         "img_url": "https://telegra.ph/file/b3c74076539fe77c7289a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金鱼.html"
+      },
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5828"

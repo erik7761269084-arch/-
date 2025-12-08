@@ -37,6 +37,11 @@ window.PAGE_DATA = [
         "name": "尤幽 NIKKE",
         "img_url": "https://telegra.ph/file/e227fefbb4e2b0821d2a6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_尤幽 NIKKE.html"
+      },
+      {
+        "name": "糖果果Candy",
+        "img_url": "https://telegra.ph/file/f121289ef71d89a99f205.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_糖果果Candy.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13062"

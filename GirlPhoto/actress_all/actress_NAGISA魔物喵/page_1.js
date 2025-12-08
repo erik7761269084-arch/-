@@ -163,6 +163,11 @@ window.PAGE_DATA = [
         "name": "NAGISA魔物喵",
         "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "水淼",
+        "img_url": "https://image.acg.lol/file/2025/04/05/Ganyu_jk_01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_水淼.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1543"

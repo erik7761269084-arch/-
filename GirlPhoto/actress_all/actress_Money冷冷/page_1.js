@@ -58,6 +58,11 @@ window.PAGE_DATA = [
         "name": "Money冷冷",
         "img_url": "https://image.acg.lol/file/2025/08/01/1-44240b2b57afb78bb4.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Money冷冷.html"
+      },
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1459"

@@ -1003,6 +1003,11 @@ window.PAGE_DATA = [
         "name": "鱼子酱",
         "img_url": "https://telegra.ph/file/1910de7c1ada5cec2557d.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鱼子酱.html"
+      },
+      {
+        "name": "杏子",
+        "img_url": "https://telegra.ph/file/fbf45fcde8c7f631bd66b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_杏子.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13285"
@@ -1402,6 +1407,11 @@ window.PAGE_DATA = [
         "name": "鱼子酱",
         "img_url": "https://telegra.ph/file/1910de7c1ada5cec2557d.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鱼子酱.html"
+      },
+      {
+        "name": "杏子",
+        "img_url": "https://telegra.ph/file/fbf45fcde8c7f631bd66b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_杏子.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13266"

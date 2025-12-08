@@ -1045,6 +1045,11 @@ window.PAGE_DATA = [
         "name": "Bomi (보미)",
         "img_url": "https://telegra.ph/file/9f9ed4773903f5647be1e.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bomi (보미).html"
+      },
+      {
+        "name": "Mini",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mini.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=210"

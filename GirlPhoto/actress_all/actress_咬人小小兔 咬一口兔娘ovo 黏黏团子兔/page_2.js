@@ -1,26 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 2456,
-    "IDcode": "12212",
-    "title": "咬一口兔娘 六月T3专属特典『穹妹浴衣』42P",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/58d721a4879337099a537.png",
-    "actress": [
-      {
-        "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
-        "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12212"
-  },
-  {
     "id": 2455,
     "IDcode": "12211",
     "title": "咬一口兔娘 六月订阅『高扬斯卡娅兔女郎』54P+1V小剧场",
@@ -1633,6 +1612,11 @@ window.PAGE_DATA = [
         "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
         "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
+      },
+      {
+        "name": "Mini",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mini.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12135"
@@ -2098,5 +2082,26 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12113"
+  },
+  {
+    "id": 2345,
+    "IDcode": "12112",
+    "title": "咬一口兔娘 - 12月作品『地铁萌妹』164P+1V 恋爱循环",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://image.acg.lol/file/2024/12/15/Yiko-1.jpg",
+    "actress": [
+      {
+        "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
+        "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12112"
   }
 ];

@@ -1255,6 +1255,11 @@ window.PAGE_DATA = [
         "name": "不呆猫",
         "img_url": "https://image.acg.lol/file/2025/07/01/1-162a984ff1ee72c36.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_不呆猫.html"
+      },
+      {
+        "name": "三無人型",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-1c105295a2acc0ee6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三無人型.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3459"

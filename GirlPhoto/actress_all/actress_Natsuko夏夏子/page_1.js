@@ -247,6 +247,11 @@ window.PAGE_DATA = [
         "name": "Natsuko夏夏子",
         "img_url": "https://i.postimg.cc/sD0QhmCT/1-1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Natsuko夏夏子.html"
+      },
+      {
+        "name": "星澜是澜澜叫澜妹呀",
+        "img_url": "https://image.acg.lol/file/2025/04/21/1-2f4a134612be4d988.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星澜是澜澜叫澜妹呀.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1619"

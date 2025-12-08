@@ -772,6 +772,11 @@ window.PAGE_DATA = [
         "name": "过期米线线喵(米线 鹿小姐 云南米线 米线线sama)",
         "img_url": "https://telegra.ph/file/d1d6d7d1de83d966aa5b2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_过期米线线喵(米线 鹿小姐 云南米线 米线线sama).html"
+      },
+      {
+        "name": "妈妈子",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妈妈子.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5328"
@@ -961,6 +966,11 @@ window.PAGE_DATA = [
         "name": "过期米线线喵(米线 鹿小姐 云南米线 米线线sama)",
         "img_url": "https://telegra.ph/file/d1d6d7d1de83d966aa5b2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_过期米线线喵(米线 鹿小姐 云南米线 米线线sama).html"
+      },
+      {
+        "name": "妈妈子",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妈妈子.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5319"

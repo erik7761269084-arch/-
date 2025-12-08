@@ -709,6 +709,11 @@ window.PAGE_DATA = [
         "name": "张思允Nice",
         "img_url": "https://telegra.ph/file/4114f473b06edc1df76ba.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_张思允Nice.html"
+      },
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13715"
@@ -751,6 +756,11 @@ window.PAGE_DATA = [
         "name": "张思允Nice",
         "img_url": "https://telegra.ph/file/4114f473b06edc1df76ba.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_张思允Nice.html"
+      },
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13713"

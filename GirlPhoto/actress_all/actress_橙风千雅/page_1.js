@@ -16,6 +16,11 @@ window.PAGE_DATA = [
         "name": "橙风千雅",
         "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
+      },
+      {
+        "name": "小和甜酒",
+        "img_url": "https://telegra.ph/file/5a426e18db0c2cb8ce90c.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_小和甜酒.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3682"

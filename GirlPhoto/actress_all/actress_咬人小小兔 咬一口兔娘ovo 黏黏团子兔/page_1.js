@@ -966,27 +966,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12267"
   },
   {
-    "id": 2515,
-    "IDcode": "12266",
-    "title": "阿包也是兔娘 碧蓝航线英仙座旗袍[30P]小屋出品，必属精品December 08, 2024",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"汉服\", \"碧蓝航线\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "",
-    "actress": [
-      {
-        "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
-        "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12266"
-  },
-  {
     "id": 2514,
     "IDcode": "12265",
     "title": "咬一口兔娘ovo 四月T3特典『女仆小叽』70P",
@@ -2098,5 +2077,26 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12213"
+  },
+  {
+    "id": 2456,
+    "IDcode": "12212",
+    "title": "咬一口兔娘 六月T3专属特典『穹妹浴衣』42P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/58d721a4879337099a537.png",
+    "actress": [
+      {
+        "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
+        "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12212"
   }
 ];

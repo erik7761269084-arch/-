@@ -1,26 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 2345,
-    "IDcode": "12112",
-    "title": "咬一口兔娘 - 12月作品『地铁萌妹』164P+1V 恋爱循环",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://image.acg.lol/file/2024/12/15/Yiko-1.jpg",
-    "actress": [
-      {
-        "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
-        "img_url": "https://image.acg.lol/file/2025/07/30/7-01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_咬人小小兔 咬一口兔娘ovo 黏黏团子兔.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12112"
-  },
-  {
     "id": 2344,
     "IDcode": "12111",
     "title": "咬一口兔娘 - 1月作品『布道圣女』72P+1V Abracadabra·傲慢扭胯舞 （1月11打赏群资源",
