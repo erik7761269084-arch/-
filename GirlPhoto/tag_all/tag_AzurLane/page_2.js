@@ -1,51 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 5330,
-    "IDcode": "1974",
-    "title": "rioko凉凉子 - 碧蓝档案 TOKI兔兔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "碧蓝航线"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a3196b393faae2b33b879.jpg",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1974"
-  },
-  {
-    "id": 5332,
-    "IDcode": "1976",
-    "title": "rioko凉凉子 - 碧蓝航线 花园",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "碧蓝航线"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e70740856fd199b5e05e5.jpg",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1976"
-  },
-  {
     "id": 5334,
     "IDcode": "1978",
     "title": "rioko凉凉子(肉扣热热子) - 柴郡冰雪公主",
@@ -205,7 +159,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/c36291d2b0ed406462eeb.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "无颜小天使",
+        "img_url": "https://telegra.ph/file/4166b13e6e31c0881bff1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_无颜小天使.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20595"
   },
   {
@@ -285,7 +245,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/3d411af2df268f2dbe0ca.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "曉美媽",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_曉美媽.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20989"
   },
   {
@@ -638,6 +604,11 @@ window.PAGE_DATA = [
         "name": "艾西aiwest",
         "img_url": "https://image.acg.lol/file/2025/01/29/1-40eb348d8e804f74ac.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_艾西aiwest.html"
+      },
+      {
+        "name": "喜欢爱理吗",
+        "img_url": "https://image.acg.lol/file/2025/07/14/2024_05_22_002012.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜欢爱理吗.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3087"
@@ -2246,5 +2217,52 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5960"
+  },
+  {
+    "id": 12048,
+    "IDcode": "5964",
+    "title": "九曲Jean 碧蓝航线 泳装",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "碧蓝航线"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6f5c04591150ee070a1b5.jpg",
+    "actress": [
+      {
+        "name": "九曲jean",
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-40ec11ff67885d400d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九曲jean.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5964"
+  },
+  {
+    "id": 12049,
+    "IDcode": "5965",
+    "title": "九曲Jean 碧蓝航线 旗袍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服",
+      "碧蓝航线"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a0c1978df25c1f277094c.jpg",
+    "actress": [
+      {
+        "name": "九曲jean",
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-40ec11ff67885d400d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九曲jean.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5965"
   }
 ];

@@ -294,6 +294,29 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20284"
   },
   {
+    "id": 5793,
+    "IDcode": "20390",
+    "title": "钛合金 绿娇红",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/c3ac3ad81783382b4996c.jpg",
+    "actress": [
+      {
+        "name": "钛合金",
+        "img_url": "https://telegra.ph/file/f51ac56d04d50314ffef0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_钛合金.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20390"
+  },
+  {
     "id": 5880,
     "IDcode": "20469",
     "title": "疯猫 2022夏日限定 B本 热裤肉本/破碎半袖本/黑旗袍长本/黑旗袍短本",
@@ -307,7 +330,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/3a535a12823fe093927ee.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "疯猫ss",
+        "img_url": "https://image.acg.lol/file/2025/08/01/1-16b6174d3e329f57f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_疯猫ss.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20469"
   },
   {
@@ -342,7 +371,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/c36291d2b0ed406462eeb.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "无颜小天使",
+        "img_url": "https://telegra.ph/file/4166b13e6e31c0881bff1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_无颜小天使.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20595"
   },
   {
@@ -434,7 +469,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=21195"
   },
   {
@@ -588,6 +629,29 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2187"
   },
   {
+    "id": 7548,
+    "IDcode": "21970",
+    "title": "2022.09.06 VOL.858 小蛮妖Yummy",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/497cd65572698c5c9add6.jpg",
+    "actress": [
+      {
+        "name": "小蛮妖Yummy",
+        "img_url": "https://telegra.ph/file/1f63f578c1d674b632dec.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_小蛮妖Yummy.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=21970"
+  },
+  {
     "id": 7615,
     "IDcode": "2202",
     "title": "Shika小鹿鹿 -   艾达王旗袍",
@@ -670,7 +734,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/0d97e8a0d4e18b35a12dc.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "飄飄",
+        "img_url": "https://telegra.ph/file/0d97e8a0d4e18b35a12dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_飄飄.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=22222"
   },
   {
@@ -1547,6 +1617,11 @@ window.PAGE_DATA = [
         "name": "橙风千雅",
         "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
+      },
+      {
+        "name": "小和甜酒",
+        "img_url": "https://telegra.ph/file/5a426e18db0c2cb8ce90c.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_小和甜酒.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3682"
@@ -2152,51 +2227,5 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4725"
-  },
-  {
-    "id": 10692,
-    "IDcode": "4743",
-    "title": "HML.002 二佐Nisa 旗袍狐耳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0a458f119d905f6e54ffb.jpg",
-    "actress": [
-      {
-        "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4743"
-  },
-  {
-    "id": 10693,
-    "IDcode": "4744",
-    "title": "HML.018  二佐Nisa 碧蓝大凤旗袍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0afd2eab610a73ea41fa3.jpg",
-    "actress": [
-      {
-        "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4744"
   }
 ];

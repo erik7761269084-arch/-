@@ -1796,7 +1796,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/36f739bd8b4aa59cf2926.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "美少女晕崽",
+        "img_url": "https://telegra.ph/file/6e095261cc6b500a01320.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_美少女晕崽.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6865"
   },
   {
@@ -1813,7 +1819,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/41213524d0b3690a36c7d.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "魅瞳Meroko",
+        "img_url": "https://telegra.ph/file/32801c1b4b9964da84bee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_魅瞳Meroko.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6879"
   },
   {
@@ -1830,7 +1842,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/927aa4820350de7ca6277.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6904"
   },
   {
@@ -1847,7 +1865,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/11f114e1d23164282dbb9.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6906"
   },
   {
@@ -1864,7 +1888,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/60227ea4d80a93c0df9c1.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6915"
   },
   {
@@ -1898,7 +1928,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/8c70214be1e3441a5ae3c.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "蜜汁猫裘",
+        "img_url": "https://image.acg.lol/file/2024/12/09/1-18.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蜜汁猫裘.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7181"
   },
   {
@@ -1915,7 +1951,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/19aa3ffcc9a2266efe30d.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "蜜汁猫裘",
+        "img_url": "https://image.acg.lol/file/2024/12/09/1-18.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蜜汁猫裘.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7193"
   },
   {
@@ -2117,7 +2159,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/5bf66433927c8dece2963.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "末夜787",
+        "img_url": "https://image.acg.lol/file/2024/09/19/1-5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_末夜787.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7543"
   },
   {
@@ -2134,7 +2182,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/f268bc70934bf16446233.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "末夜787",
+        "img_url": "https://image.acg.lol/file/2024/09/19/1-5.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_末夜787.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7558"
   },
   {
@@ -2152,7 +2206,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/d6ebb6055c23cc09014d3.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "木绵绵OwO",
+        "img_url": "https://telegra.ph/file/7565b995ff0113ba7488d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_木绵绵OwO.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7598"
   },
   {
@@ -2170,7 +2230,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/4f84093f880527af376dd.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "木绵绵OwO",
+        "img_url": "https://telegra.ph/file/7565b995ff0113ba7488d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_木绵绵OwO.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7627"
   },
   {
@@ -2233,7 +2299,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/1c7725104bf275eff5425.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "奈汐酱nice",
+        "img_url": "https://telegra.ph/file/01ba036e7b1accd898387.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_奈汐酱nice.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7681"
   }
 ];

@@ -873,7 +873,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/15fa2e4f8a5f4b36acf7b.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "钛合金",
+        "img_url": "https://telegra.ph/file/f51ac56d04d50314ffef0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_钛合金.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20295"
   },
   {
@@ -930,7 +936,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/48aadb5a3c3b13221c7bf.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "疯猫ss",
+        "img_url": "https://image.acg.lol/file/2025/08/01/1-16b6174d3e329f57f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_疯猫ss.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20471"
   },
   {
@@ -1010,7 +1022,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/d490657a16b6350731911.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "是本末末",
+        "img_url": "https://telegra.ph/file/d490657a16b6350731911.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是本末末.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20679"
   },
   {
@@ -1050,7 +1068,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/32801c1b4b9964da84bee.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "魅瞳Meroko",
+        "img_url": "https://telegra.ph/file/32801c1b4b9964da84bee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_魅瞳Meroko.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20778"
   },
   {
@@ -1985,6 +2009,11 @@ window.PAGE_DATA = [
         "name": "村上西瓜",
         "img_url": "https://telegra.ph/file/5350c77e2d7e23cef84e1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_村上西瓜.html"
+      },
+      {
+        "name": "西瓜",
+        "img_url": "https://telegra.ph/file/0527fef0628b1139c7b1f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4186"

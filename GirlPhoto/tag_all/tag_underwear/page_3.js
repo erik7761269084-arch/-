@@ -409,7 +409,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/70f477e2fb220d15d8e0a.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "日奈娇",
+        "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8786"
   },
   {
@@ -426,7 +432,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/46d8731f9cdf8fa1e1210.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "日奈娇",
+        "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8853"
   },
   {
@@ -443,7 +455,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/86f6b20629b555495afd7.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "日奈娇",
+        "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8907"
   },
   {
@@ -460,7 +478,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/c15404f265825f896f7f7.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "阮邑_Fairy",
+        "img_url": "https://telegra.ph/file/4f9e5e109934f9f506d82.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阮邑_Fairy.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8969"
   },
   {
@@ -478,7 +502,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/8fdbd206dcd8d4dd28449.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9399"
   },
   {
@@ -495,7 +525,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/91686ba01a686aa858466.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "依酱",
+        "img_url": "https://telegra.ph/file/e5e5af147a508a001675c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_依酱.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9528"
   },
   {
@@ -512,7 +548,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/63d4e4fc59b95e1b3ad0d.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "依酱",
+        "img_url": "https://telegra.ph/file/e5e5af147a508a001675c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_依酱.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9536"
   },
   {
@@ -529,7 +571,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/e29a9001683277c982be4.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "水淼",
+        "img_url": "https://image.acg.lol/file/2025/04/05/Ganyu_jk_01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_水淼.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9689"
   },
   {
@@ -546,7 +594,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/1cb815c039421d9cfc5bd.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "水淼",
+        "img_url": "https://image.acg.lol/file/2025/04/05/Ganyu_jk_01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_水淼.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9690"
   }
 ];

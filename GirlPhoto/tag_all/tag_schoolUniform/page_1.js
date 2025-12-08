@@ -13,7 +13,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/a4809f9e3fc97d491c79d.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "铁手叫兽",
+        "img_url": "https://telegra.ph/file/2e54d7529d99f201962c4.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_铁手叫兽.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10060"
   },
   {
@@ -30,7 +36,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/11c69a90ac2d4679af72d.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "瓦斯塔亚小龙虾",
+        "img_url": "https://telegra.ph/file/4a38a4c6c798e08e53607.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_瓦斯塔亚小龙虾.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10076"
   },
   {
@@ -70,7 +82,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/7380dfd302feca294b9d7.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "五更百鬼",
+        "img_url": "https://telegra.ph/file/2e51dfa814732741daa8f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_五更百鬼.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10451"
   },
   {
@@ -87,7 +105,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/d2c1b8f9b0c338433809b.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "五更百鬼",
+        "img_url": "https://telegra.ph/file/2e51dfa814732741daa8f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_五更百鬼.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10457"
   },
   {
@@ -105,7 +129,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/949b408b07c7fdf792151.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "西瓜",
+        "img_url": "https://telegra.ph/file/0527fef0628b1139c7b1f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10492"
   },
   {
@@ -123,7 +153,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/cbca8a53807a42178f7c7.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "西瓜",
+        "img_url": "https://telegra.ph/file/0527fef0628b1139c7b1f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10493"
   },
   {
@@ -302,6 +338,11 @@ window.PAGE_DATA = [
         "name": "村上西瓜",
         "img_url": "https://telegra.ph/file/5350c77e2d7e23cef84e1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_村上西瓜.html"
+      },
+      {
+        "name": "西瓜",
+        "img_url": "https://telegra.ph/file/0527fef0628b1139c7b1f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4180"
@@ -326,6 +367,11 @@ window.PAGE_DATA = [
         "name": "村上西瓜",
         "img_url": "https://telegra.ph/file/5350c77e2d7e23cef84e1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_村上西瓜.html"
+      },
+      {
+        "name": "西瓜",
+        "img_url": "https://telegra.ph/file/0527fef0628b1139c7b1f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4181"
@@ -575,7 +621,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/0d0dc64e9aac32b289cb7.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "柒柒不可爱",
+        "img_url": "https://telegra.ph/file/10bc39531287eb3720a79.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_柒柒不可爱.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8278"
   },
   {
@@ -638,7 +690,13 @@ window.PAGE_DATA = [
     "company": "",
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/543a5d8b85fd85b757390.jpg",
-    "actress": [],
+    "actress": [
+      {
+        "name": "日奈娇",
+        "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      }
+    ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8820"
   },
   {
