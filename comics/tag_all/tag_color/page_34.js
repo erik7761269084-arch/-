@@ -1,117 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 246,
-    "IDcode": "10221",
-    "title": "[あれのわいよ。 (あれー)] なまロリなまハメなま配信。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3a69c2c9fe772c25684ab.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10221"
-  },
-  {
-    "id": 248,
-    "IDcode": "10223",
-    "title": "[あれのわいよ。 (あれー)] 雨の日えっち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fe8da7c1e2c9d2f31d5e0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10223"
-  },
-  {
-    "id": 4786,
-    "IDcode": "14310",
-    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5b9cfe584d94d667f6566.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14310"
-  },
-  {
-    "id": 5590,
-    "IDcode": "15487",
-    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7b6cf63d74dd1a18dbb86.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15487"
-  },
-  {
-    "id": 5591,
-    "IDcode": "15488",
-    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない2 -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/81e54a100e9eba1913e00.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15488"
-  },
-  {
-    "id": 143,
-    "IDcode": "10129",
-    "title": "[あんこまん] BBちゃんvsゴブリン (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/08ed5c8665950c34f2931.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10129"
-  },
-  {
-    "id": 232,
-    "IDcode": "10209",
-    "title": "[あんこまん] Re：ゼロから始めるエルザおばさん孕ませ生活(Re:ゼロから始める異世界生活)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8dec97853949a832cf773.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10209"
-  },
-  {
     "id": 15144,
     "IDcode": "9118",
     "title": "[あんこまん] ぐだ子、アストルフォと仲良くなる (Fate/Grand Order)",
@@ -302,22 +190,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/0f97bc331f9f174214b99.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10180"
-  },
-  {
-    "id": 912,
-    "IDcode": "10822",
-    "title": "[あんこまん] バニースカサハ、聖杯戦線を満喫する (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e3f2d9088b0f9668d8de0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10822"
   },
   {
     "id": 2771,
@@ -590,22 +462,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/f08ee55d9edbaeca455ef.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9693"
-  },
-  {
-    "id": 237,
-    "IDcode": "10213",
-    "title": "[あんこまん] 謎のヒロインXXの部屋に行った結果… (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/30f9201fe41d6dc3b911b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10213"
   },
   {
     "id": 1107,
@@ -926,22 +782,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/faa4d37339df2901590d7.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8682"
-  },
-  {
-    "id": 14899,
-    "IDcode": "8899",
-    "title": "[いづも合衆国 (ももも合衆国)] ボイスロイドのあたまわるいサイド (VOICEROID)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e4d1f793dd327c7ffd22d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8899"
   },
   {
     "id": 1196,
@@ -1568,22 +1408,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12261"
   },
   {
-    "id": 3337,
-    "IDcode": "13006",
-    "title": "[うに屋ぁ (ヨショー)] むちむちRUSH!!!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/60f0be0fc9cb5e16c6866.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13006"
-  },
-  {
     "id": 406,
     "IDcode": "10366",
     "title": "[うぱ西。] そばにいる (COMIC 快楽天 2020年11月号)",
@@ -1598,5 +1422,181 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/dd7523981d66a50da8e9d.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10366"
+  },
+  {
+    "id": 3380,
+    "IDcode": "13045",
+    "title": "[うぱ西。] アポニアお姉さんにお仕置きされたい…っ(崩壊3rd) [中国翻译]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/bb2afdf889d7ed735ea11.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13045"
+  },
+  {
+    "id": 3164,
+    "IDcode": "12851",
+    "title": "[うぱ西。] 三人の幸せな生活 (COMIC 快楽天 2022年7月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1ee27120d8d6cd833eb5a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12851"
+  },
+  {
+    "id": 1900,
+    "IDcode": "11712",
+    "title": "[うぱ西。] 快感シグナル (COMIC 快楽天 2021年2月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a4d79e22b1737cb465802.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11712"
+  },
+  {
+    "id": 4738,
+    "IDcode": "14268",
+    "title": "[うぱ西。] 教えてあげる (COMIC 快楽天 2021年9月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4ff18f04e77fa66ddfa5f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14268"
+  },
+  {
+    "id": 2252,
+    "IDcode": "12029",
+    "title": "[うましか] エプロンドレス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/54997a50bb5a061da28d6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12029"
+  },
+  {
+    "id": 92,
+    "IDcode": "10083",
+    "title": "[うみうし] 抱きしめたい彼女。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a5830a533e2ac0a7c1398.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10083"
+  },
+  {
+    "id": 983,
+    "IDcode": "10887",
+    "title": "[うみうし] 抱きしめたい彼女。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1811d04a1c7601236812d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10887"
+  },
+  {
+    "id": 2521,
+    "IDcode": "12272",
+    "title": "[うみどり] 攫われたお嬢様 (ロード・エルメロイII世の事件簿)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a2823400d63f91c3011dd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12272"
+  },
+  {
+    "id": 4311,
+    "IDcode": "13884",
+    "title": "[うめ丸] いまから彼女が寝盗られます",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/98be28881c11152e5ae92.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13884"
+  },
+  {
+    "id": 582,
+    "IDcode": "10524",
+    "title": "[うらさざん (南乃さざん)] かぞくになろう! (ラストオリジン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0dae68a720f7321eb6a32.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10524"
+  },
+  {
+    "id": 6730,
+    "IDcode": "16512",
+    "title": "[うらちーぬ] お兄ちゃんの性癖はおしまい! (お兄ちゃんはおしまい!)  -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3280747/ee69b6e915/00000001.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16512"
   }
 ];

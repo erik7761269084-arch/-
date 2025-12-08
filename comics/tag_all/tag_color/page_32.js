@@ -1,21 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 6780,
-    "IDcode": "16558",
-    "title": "[risui] 紅魔館の女たち 第12話 (東方Project) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3351837/94e909222c/00_1.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16558"
-  },
-  {
     "id": 6811,
     "IDcode": "16586",
     "title": "[risui] 紅魔館の女たち 第13話 (東方Project) -Preview",
@@ -238,22 +222,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/9cd31887612b3a0cebe6e.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13140"
-  },
-  {
-    "id": 3545,
-    "IDcode": "13194",
-    "title": "[sage・ジョー] ご都合カノジョ | 御都合即食女友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cf3822bbf6160541fa69b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13194"
   },
   {
     "id": 16001,
@@ -480,22 +448,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10271"
   },
   {
-    "id": 2990,
-    "IDcode": "12695",
-    "title": "[skyzen] 僵尸娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ae4de1719ba860a20a629.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12695"
-  },
-  {
     "id": 3119,
     "IDcode": "12810",
     "title": "[skyzen] 僵尸娘 1-9 + 番外篇",
@@ -688,9 +640,9 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15112"
   },
   {
-    "id": 6448,
-    "IDcode": "16259",
-    "title": "[syou] 逢いたい君と、とけあうココロ (COMIC BAVEL 2020年12月号)  -Preview",
+    "id": 10105,
+    "IDcode": "4549",
+    "title": "[t-aoba] 人妻女医の催眠生殖機能検査",
     "year": "",
     "country": "",
     "genre": "",
@@ -700,8 +652,8 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/2135321/f146b8fc6c/01.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16259"
+    "cover_url": "https://telegra.ph/file/a3dbf7b6ba9649459b7ce.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4549"
   },
   {
     "id": 16066,
@@ -816,6 +768,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8496"
   },
   {
+    "id": 9580,
+    "IDcode": "4076",
+    "title": "[urute] なまいき!いモ〜と乳イヤ〜 (なまめいろラプソディー)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ca4371e3ce130dd559e6f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4076"
+  },
+  {
     "id": 1250,
     "IDcode": "11126",
     "title": "[urute] みこみこコンコン (コミックメガストアDEEP Vol.28)",
@@ -832,6 +800,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11126"
   },
   {
+    "id": 9449,
+    "IDcode": "3959",
+    "title": "[urute] アジアンビューティーティーパーティー (なまめいろラプソディー)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/68ab47a6abb58e6d8cc5d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3959"
+  },
+  {
     "id": 2337,
     "IDcode": "12106",
     "title": "[usa] 45分で彼を届けて (COMIC BAVEL 2020年12月号)",
@@ -846,22 +830,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/54664347cf22a945328a6.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12106"
-  },
-  {
-    "id": 1325,
-    "IDcode": "11194",
-    "title": "[utu] くちどけピース！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/84ff312026496a1492d34.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11194"
   },
   {
     "id": 3145,
@@ -1168,6 +1136,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14045"
   },
   {
+    "id": 8830,
+    "IDcode": "33",
+    "title": "[yasu] エロマンガ家のすゝめ 第一話 (コミックグレープ Vol.100)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2a607de154d887ff5f979.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=33"
+  },
+  {
     "id": 4510,
     "IDcode": "14062",
     "title": "[yasu] 催眠学性指導～それぞれの結末～ (コミックアンリアル 2021年2月号 Vol.89)",
@@ -1472,22 +1456,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15433"
   },
   {
-    "id": 6258,
-    "IDcode": "16088",
-    "title": "[あ (イズミノミツバ)] り。 りなりーのH時における表情の考察 (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)  -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ddfc0579ec84360c4f122.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16088"
-  },
-  {
     "id": 5699,
     "IDcode": "15585",
     "title": "[あいいろさくら (相川りょう)] にゃんにゃんリンちゃんとわんわんなでしこ (ゆるキャン△) -Preview",
@@ -1598,5 +1566,37 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/53db0670b5b4aeef8970a.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14474"
+  },
+  {
+    "id": 16043,
+    "IDcode": "9928",
+    "title": "[あいらんどう] パパと娘の義務教育えっち (COMIC LO 2020年11月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/97f29621de0c0f1e1f32c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9928"
+  },
+  {
+    "id": 2088,
+    "IDcode": "11882",
+    "title": "[あいらんどう] メスっこ女将わからせ取材記録",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0aabf6b222149552e3842.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11882"
   }
 ];

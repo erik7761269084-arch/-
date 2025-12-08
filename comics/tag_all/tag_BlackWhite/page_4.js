@@ -1,53 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 8884,
-    "IDcode": "3449",
-    "title": "(C95) [鳩小屋 (駿河りぬ)] もっとなでなでして (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9f5a3ecfe7375895ff08b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3449"
-  },
-  {
-    "id": 10632,
-    "IDcode": "5022",
-    "title": "(C95) たいにーいーびるちゃんず! 1 無邪気で残酷な少女たちのえっちな短編集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/62193653132a25fc55fc3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5022"
-  },
-  {
-    "id": 10948,
-    "IDcode": "5308",
-    "title": "(C95) 口を吸いねェ (Fate Grand Order) [黑锅汉化组]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fe95ed0b80c714a8a9cb3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5308"
-  },
-  {
     "id": 10868,
     "IDcode": "5235",
     "title": "(C95) 淫魔のレシピ",
@@ -334,22 +286,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/17ee77fd88cd0679131b8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1772"
-  },
-  {
-    "id": 9212,
-    "IDcode": "3745",
-    "title": "(C96) [けんじゃたいむ (MANA)] FATE/GENTLE ORDER「☆☆☆☆☆」(Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/18a44828bdd381a07448a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3745"
   },
   {
     "id": 8274,
@@ -1598,5 +1534,69 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/6a5c1da196de3d22b2d7a.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=336"
+  },
+  {
+    "id": 9906,
+    "IDcode": "436",
+    "title": "(C97) [星空ステッキ (如月なな)] 女王サマの搾り搾られ発情交尾 (Fate/Grand Order)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6a5c1da196de3d22b2d7a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=436"
+  },
+  {
+    "id": 7462,
+    "IDcode": "2167",
+    "title": "(C97) [有言実行 (ゴンざぶろー)] 今日はどの綾波でする…ですか?❤ (アズールレーン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7a7595654b42eda2084b4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2167"
+  },
+  {
+    "id": 10664,
+    "IDcode": "5051",
+    "title": "(C97) [林檎のなる木 (木瀬 樹)] Kud After3 (リトルバスターズ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d5b02b4f4e78187eea500.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5051"
+  },
+  {
+    "id": 10665,
+    "IDcode": "5052",
+    "title": "(C97) [林檎のなる木 (木瀬 樹)] クドがわんちゃんになって好きにされちゃう本 (リトルバスターズ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f3b58076a0589c177cf6c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5052"
   }
 ];

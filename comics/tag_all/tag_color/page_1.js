@@ -240,22 +240,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12730"
   },
   {
-    "id": 3034,
-    "IDcode": "12734",
-    "title": "(AC2) [Circle Eden (ヂイスケ)] 奥さんのおっぱいがデカすぎるのが悪い!3 (東方Project)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a5f09022225201d526715.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12734"
-  },
-  {
     "id": 1713,
     "IDcode": "11543",
     "title": "(AC2) [K+W (ささちん)] 雷電ちゃん×罰ゲーム (艦隊これくしょん -艦これ-)",
@@ -350,22 +334,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/3238598c6e65f286c0b69.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12191"
-  },
-  {
-    "id": 2823,
-    "IDcode": "12544",
-    "title": "(AC2) [X∞MODEL (錦♡愛)] カリソメのカノジョII コスプレH篇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/04a70a899cfc1ca101acc.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12544"
   },
   {
     "id": 1225,
@@ -496,22 +464,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11109"
   },
   {
-    "id": 1611,
-    "IDcode": "11451",
-    "title": "(AC2) [きのこのみ (konomi)] ニャンコロジ10 -宇佐美さんと秘密の研究生活-",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c1e80197d282881602a4e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11451"
-  },
-  {
     "id": 1239,
     "IDcode": "11116",
     "title": "(AC2) [けんじゃたいむ (MANA)] ジェントルコネクト!Re:Dive 3 「Amakuchi」 (プリンセスコネクト!Re:Dive)",
@@ -542,22 +494,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/21dd24f3af0bb231c75bb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11132"
-  },
-  {
-    "id": 1289,
-    "IDcode": "11161",
-    "title": "(AC2) [けんじゃたいむ (MANA)] ジェントルコネクト!Re:Dive 3 「Karakuchi」 (プリンセスコネクト!Re:Dive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/95f67604d00700beca1fb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11161"
   },
   {
     "id": 5189,
@@ -718,22 +654,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/6033b8e0117a8839480c3.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11440"
-  },
-  {
-    "id": 1738,
-    "IDcode": "11566",
-    "title": "(AC2) [カームホワイト (真白しらこ)] 梅雨、夏服、アパートにて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b5e1a9f132743588778c8.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11566"
   },
   {
     "id": 1683,
@@ -942,22 +862,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/f385bfba22d6d95538312.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11129"
-  },
-  {
-    "id": 1256,
-    "IDcode": "11131",
-    "title": "(AC2) [萌姫連合 (xin、obiwan)] カーニバル32-お目覚めはいかがですか? (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/713d35c96180d07bdc8f9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11131"
   },
   {
     "id": 1970,
@@ -1598,5 +1502,101 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/bf1c6e168a37b6fbd7d72.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15338"
+  },
+  {
+    "id": 5424,
+    "IDcode": "15337",
+    "title": "(BanG Dreamer&#039;s Party! 9th STAGE) [Tobatya2ke (Miso Tya)] Koyoi, Yoi Yoi Ko | 今宵，醉酒的好孩子 (BanG Dream!)  [EZR個人漢化]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7b9f3b617a7be3152dd6d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15337"
+  },
+  {
+    "id": 6514,
+    "IDcode": "16318",
+    "title": "(BanG Dreamer&#039;s Party! 9th STAGE) [とばちゃづけ (みそ茶)] 純粋ナイト (BanG Dream!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/1781895/06ac686194/01.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16318"
+  },
+  {
+    "id": 15876,
+    "IDcode": "9778",
+    "title": "(BanG Dreamer's Party! 10th STAGE) [virophilia (織日ちひろ)] 夜烏の歌 (BanG Dream!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f38a77ee49d22664f7635.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9778"
+  },
+  {
+    "id": 5268,
+    "IDcode": "15197",
+    "title": "(BanG Dreamer's Party! 10th STAGE) [いしやきいも (いしだ)] 2H×1S (BanG Dream!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/81e41ee3dbfb2b9de01bf.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15197"
+  },
+  {
+    "id": 5068,
+    "IDcode": "15016",
+    "title": "(BanG Dreamer's Party! 11th STAGE) [ヨアケ行燈 (かうちぽてと)] Be# (BanG Dream!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/884e8f00214f0b6728d2c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15016"
+  },
+  {
+    "id": 5079,
+    "IDcode": "15026",
+    "title": "(BanG Dreamer's Party! 4th STAGE) [こまどり農園 (秋野かぼちゃ)] 君に、四つ葉 (BanG Dream!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/dcc2f850a9c534450961a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15026"
   }
 ];

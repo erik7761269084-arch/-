@@ -1,53 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 15442,
-    "IDcode": "9387",
-    "title": "[euD] アルトリアとイチャイチャ (Fate/GrandOrder)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b5c48e3aa4ffe342adeb9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9387"
-  },
-  {
-    "id": 14163,
-    "IDcode": "8235",
-    "title": "[fanbox(lunch)] ツムギちゃんにインタビュー()",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f4355ae5f3b9ed71cf941.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8235"
-  },
-  {
-    "id": 14338,
-    "IDcode": "8393",
-    "title": "[fanbox(lunch)] ミソラちゃんやっつけた()",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cd8959fce7027902f3283.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8393"
-  },
-  {
     "id": 2805,
     "IDcode": "12528",
     "title": "[flanvia] かみなりさま (コミックゼロス #89)",
@@ -832,22 +784,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12329"
   },
   {
-    "id": 2587,
-    "IDcode": "12331",
-    "title": "[kakao] ココロノアメ (COMIC 快楽天ビースト 2021年3月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4efb7e26818c7a36e1e4f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12331"
-  },
-  {
     "id": 882,
     "IDcode": "10795",
     "title": "[kakao] ジーニアスゲーム (COMIC 快楽天ビースト 2020年11月号)",
@@ -1598,5 +1534,69 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/91c42d19ab0ca0fb0fd2d.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15583"
+  },
+  {
+    "id": 5135,
+    "IDcode": "15077",
+    "title": "[mamou馬呣] 學姐不要啊！ (Puella Magi Madoka Magica)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ec318eb0bd53bb8cf7c36.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15077"
+  },
+  {
+    "id": 2233,
+    "IDcode": "12011",
+    "title": "[matai] ビッチ 貞子 (リング)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/df8281b92eaaed3ca13e1.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12011"
+  },
+  {
+    "id": 6702,
+    "IDcode": "16488",
+    "title": "[milkysiesta (vanilla)] completed. (東方Project)  -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3237862/460c229b93/001.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16488"
+  },
+  {
+    "id": 5369,
+    "IDcode": "15288",
+    "title": "[mizutamari (Mizuki)] Taiyou Mitai na Kimi no Koto (#COMPASS)[阿求X觀樂汉化]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/aa1d9c55050158fbd9ab0.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15288"
   }
 ];

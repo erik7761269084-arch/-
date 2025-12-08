@@ -1,5 +1,101 @@
 window.PAGE_DATA = [
   {
+    "id": 1522,
+    "IDcode": "11371",
+    "title": "[Number2 (たくじ)] 全員中出しまとめ本２０２０フルカラー総集編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/33da5b0a5f2f7381632c9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11371"
+  },
+  {
+    "id": 1691,
+    "IDcode": "11523",
+    "title": "[O.S (ばーるん)] REAL WINNER (ブラック・ラグーン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/84898fbedfe2e9364ba19.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11523"
+  },
+  {
+    "id": 1692,
+    "IDcode": "11524",
+    "title": "[O.S (ばーるん)] メイドinロアナプラ (ブラック・ラグーン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/88335659146736c2ce32d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11524"
+  },
+  {
+    "id": 1466,
+    "IDcode": "11320",
+    "title": "[O.S (ばーるん)] メイド彼女と年下彼氏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a421abb5af8d4c95bce9e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11320"
+  },
+  {
+    "id": 3318,
+    "IDcode": "12990",
+    "title": "[O157] いぢられ上手の若妻さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/035011a5742784346d1b3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12990"
+  },
+  {
+    "id": 15088,
+    "IDcode": "9068",
+    "title": "[OKINA] NEOPHILIA (夜の孵る音)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/45f6d12465f76bf2d0800.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9068"
+  },
+  {
     "id": 15154,
     "IDcode": "9127",
     "title": "[OKINA] Slave Object (夜の孵る音)",
@@ -576,22 +672,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12540"
   },
   {
-    "id": 2931,
-    "IDcode": "12641",
-    "title": "[PLATONiCA (にょるべえ)] ふたなりお姉さんにわからされた男の娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/34abc48012bf94a1d47c9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12641"
-  },
-  {
     "id": 14868,
     "IDcode": "8870",
     "title": "[POETTO (ハリュー)] 猫と天狗どっちがお好き？2",
@@ -768,6 +848,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16113"
   },
   {
+    "id": 9128,
+    "IDcode": "366",
+    "title": "[Pd] 妄想世界H (英雄联盟)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/88c8054522223ed062497.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=366"
+  },
+  {
     "id": 1266,
     "IDcode": "11140",
     "title": "[Pd] 守护者之Xing2 (League of Legends)",
@@ -800,22 +896,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8675"
   },
   {
-    "id": 312,
-    "IDcode": "10281",
-    "title": "[Pennel] 放課後は冒険の時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4f60a0acd7b92e805cdf9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10281"
-  },
-  {
     "id": 4545,
     "IDcode": "14094",
     "title": "[Pennel] 放課後は冒険の時間",
@@ -830,22 +910,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/6fcb5710947e80c3c50b9.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14094"
-  },
-  {
-    "id": 16084,
-    "IDcode": "9965",
-    "title": "[Pennel] 放課後は冒険の時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ea137d85abc3073aa221b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9965"
   },
   {
     "id": 5289,
@@ -878,22 +942,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/f412e634242f1a352f014.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15390"
-  },
-  {
-    "id": 6084,
-    "IDcode": "15931",
-    "title": "[Petra-β (risui)] 美鈴に可愛がられる咲夜さんが見たい本 (東方Project)  -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/535601bb0514c2511d84a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15931"
   },
   {
     "id": 2598,
@@ -944,22 +992,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12411"
   },
   {
-    "id": 4602,
-    "IDcode": "14145",
-    "title": "[Pin-Point (もんぷち)] 夏休み明けの彼女は…～チャラ男好みの黒ギャルビッチに～ 後編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/290745839c77a4ffa3a2a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14145"
-  },
-  {
     "id": 5407,
     "IDcode": "15321",
     "title": "[Piripun (Piripun)] Fall of the Wall -Princess Nemesis- (Princess Principal)  [Digital]",
@@ -1006,6 +1038,22 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/4352d092d324671c0de3f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8750"
+  },
+  {
+    "id": 9428,
+    "IDcode": "393",
+    "title": "[Pixiv Fanbox] OSTEREi  (Ongoing; until 2022/11)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/97517fe704085623af6ac.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=393"
   },
   {
     "id": 4436,
@@ -1550,53 +1598,5 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/af02a00278cfeed106146.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10734"
-  },
-  {
-    "id": 6678,
-    "IDcode": "16466",
-    "title": "[ROUTE885 (ハチウルフ)] ワタシはキミのもの (BanG Dream!) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3215546/22632896da/000.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16466"
-  },
-  {
-    "id": 2360,
-    "IDcode": "12127",
-    "title": "[RUBBISH選別隊 (無望菜志)] RE-EX 幸薄いボクっ娘が幸せ?になるまでの話2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d3363273e4d2f52902a18.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12127"
-  },
-  {
-    "id": 1950,
-    "IDcode": "11758",
-    "title": "[RUBBISH選別隊 (無望菜志)] RE31 (Fate/Stay Night)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ddc5437ef31196eb960e3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11758"
   }
 ];

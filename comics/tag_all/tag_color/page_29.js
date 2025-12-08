@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 6236,
-    "IDcode": "16068",
-    "title": "[Waterfall (嵩乃朔)] 美少女が天使をやし なう話。  -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d74f62f56b57e10f578ba.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16068"
-  },
-  {
-    "id": 3125,
-    "IDcode": "12816",
-    "title": "[Werk (安藤周記)] オシゴトシアター11 (アイドルマスター ミリオンライブ!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b7becff73316b2817145e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12816"
-  },
-  {
     "id": 2047,
     "IDcode": "11845",
     "title": "[Werk (安藤周記)] オシゴトシアター4 (アイドルマスターミリオンライブ!)",
@@ -976,22 +944,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11416"
   },
   {
-    "id": 2082,
-    "IDcode": "11877",
-    "title": "[cabin] 板挟みな分かち愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/05ed248737e4217309182.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11877"
-  },
-  {
     "id": 1851,
     "IDcode": "11669",
     "title": "[cabin] 板挟みな分かち愛 2",
@@ -1598,5 +1550,53 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/bd6dbf1006423469c8999.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12677"
+  },
+  {
+    "id": 15442,
+    "IDcode": "9387",
+    "title": "[euD] アルトリアとイチャイチャ (Fate/GrandOrder)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b5c48e3aa4ffe342adeb9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9387"
+  },
+  {
+    "id": 14163,
+    "IDcode": "8235",
+    "title": "[fanbox(lunch)] ツムギちゃんにインタビュー()",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f4355ae5f3b9ed71cf941.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8235"
+  },
+  {
+    "id": 14338,
+    "IDcode": "8393",
+    "title": "[fanbox(lunch)] ミソラちゃんやっつけた()",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/cd8959fce7027902f3283.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8393"
   }
 ];

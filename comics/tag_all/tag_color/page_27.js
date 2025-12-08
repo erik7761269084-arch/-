@@ -1,5 +1,53 @@
 window.PAGE_DATA = [
   {
+    "id": 6678,
+    "IDcode": "16466",
+    "title": "[ROUTE885 (ハチウルフ)] ワタシはキミのもの (BanG Dream!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3215546/22632896da/000.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16466"
+  },
+  {
+    "id": 2360,
+    "IDcode": "12127",
+    "title": "[RUBBISH選別隊 (無望菜志)] RE-EX 幸薄いボクっ娘が幸せ?になるまでの話2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d3363273e4d2f52902a18.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12127"
+  },
+  {
+    "id": 1950,
+    "IDcode": "11758",
+    "title": "[RUBBISH選別隊 (無望菜志)] RE31 (Fate/Stay Night)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ddc5437ef31196eb960e3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11758"
+  },
+  {
     "id": 4071,
     "IDcode": "13668",
     "title": "[RainWaterServer (雨宮ミズキ)] 双子ステップ",
@@ -160,22 +208,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9444"
   },
   {
-    "id": 542,
-    "IDcode": "10489",
-    "title": "[Rhasta] フォーミダブル (アズールレーン) [Fanbox]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7b7768fbcaa98510f55ec.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10489"
-  },
-  {
     "id": 15551,
     "IDcode": "9485",
     "title": "[Rhasta] フォーミダブル (アズールレーン) [Fanbox]",
@@ -222,22 +254,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/ba3a4864dbf8e773a8b61.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14081"
-  },
-  {
-    "id": 16077,
-    "IDcode": "9959",
-    "title": "[Rhasta] 肉欲に溺れた変態ドM秘書艦 (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/270d76eb5a38be0afdf49.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9959"
   },
   {
     "id": 15724,
@@ -1232,6 +1248,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9144"
   },
   {
+    "id": 8044,
+    "IDcode": "2691",
+    "title": "[STUDIOふあん (来鈍)] 飯犯トラベラーズ 沖縄集団レイプ済 ハーレムひとり旅編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/02dcb2e749992de2cd591.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2691"
+  },
+  {
     "id": 4891,
     "IDcode": "14405",
     "title": "[STUDIO畑 (たろおいも)] 沙優淫乱前日譚 (ひげを剃る。そして女子高生を拾う。)",
@@ -1312,6 +1344,38 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12491"
   },
   {
+    "id": 9577,
+    "IDcode": "4073",
+    "title": "[Scarlett Ann] MILF Airline [假日威龙陈开着塔迪斯转鲨萝莉控汉化组]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1b2c7294596d83bb4265f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4073"
+  },
+  {
+    "id": 7896,
+    "IDcode": "2558",
+    "title": "[Scarlett Ann] 淫乱の巨乳风俗母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a6c0b8e3b0a1840e946fd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2558"
+  },
+  {
     "id": 1861,
     "IDcode": "11678",
     "title": "[September (三九)] 僕は妻が寝取られ何度もイかされる姿を見続けた。",
@@ -1326,38 +1390,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/22974a853918be581f8c0.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11678"
-  },
-  {
-    "id": 1932,
-    "IDcode": "11741",
-    "title": "[September (三九)] 僕は妻が寝取られ何度もイかされる姿を見続けた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2be66269830a5662c6489.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11741"
-  },
-  {
-    "id": 3889,
-    "IDcode": "13503",
-    "title": "[September (三九)] 僕は妻が寝取られ何度もイかされる姿を見続けた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2be66269830a5662c6489.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13503"
   },
   {
     "id": 4028,
@@ -1422,22 +1454,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/eeb0a764854fb262a4d36.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13654"
-  },
-  {
-    "id": 4269,
-    "IDcode": "13846",
-    "title": "[ShiBi] サキュバスカンパニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b2259373bf9315bea2d30.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13846"
   },
   {
     "id": 2068,
@@ -1582,21 +1598,5 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/ee6819ada401806a2356b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11042"
-  },
-  {
-    "id": 6854,
-    "IDcode": "16624",
-    "title": "[SoftCurl (雪花蟲)] 私(女の子)はママの女友達の性奴隷になりました! -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3436689/a174cb9c3a/0.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16624"
   }
 ];

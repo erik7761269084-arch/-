@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 11682,
-    "IDcode": "596",
-    "title": "(C92) [セルビッチ水産 (魚デニム)] GuP Hside (ガールズ&パンツァー)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/aa6388d932973a9777a08.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=596"
-  },
-  {
-    "id": 10074,
-    "IDcode": "4520",
-    "title": "(C92) [朧&天蓬元帥堂 (天蓬元帥)] セーラーAV企画～JS3人組に出演交渉!! クラスメイトの目の前でガチンコ子作りSEX!?～ (美少女戦士セーラームーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9407aa36b7ba9b943e646.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4520"
-  },
-  {
     "id": 5937,
     "IDcode": "1579",
     "title": "(C92) [毒パン工房 (毒コロネ)] 小野塚小町壁尻の刑に処す (東方Project)",
@@ -478,22 +446,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/8627ec04040d27489c2cb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=674"
-  },
-  {
-    "id": 9348,
-    "IDcode": "3868",
-    "title": "(C94) [Clochette (咲良ゆき)] 洗脳淫紋監獄 MA/STER (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d3f33c8a0522207145462.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3868"
   },
   {
     "id": 9370,
@@ -1598,5 +1550,53 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/8c6b0198c8e2b4747cebb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=866"
+  },
+  {
+    "id": 8884,
+    "IDcode": "3449",
+    "title": "(C95) [鳩小屋 (駿河りぬ)] もっとなでなでして (アズールレーン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/9f5a3ecfe7375895ff08b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3449"
+  },
+  {
+    "id": 10632,
+    "IDcode": "5022",
+    "title": "(C95) たいにーいーびるちゃんず! 1 無邪気で残酷な少女たちのえっちな短編集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/62193653132a25fc55fc3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5022"
+  },
+  {
+    "id": 10948,
+    "IDcode": "5308",
+    "title": "(C95) 口を吸いねェ (Fate Grand Order) [黑锅汉化组]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/fe95ed0b80c714a8a9cb3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5308"
   }
 ];

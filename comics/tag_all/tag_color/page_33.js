@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 16043,
-    "IDcode": "9928",
-    "title": "[あいらんどう] パパと娘の義務教育えっち (COMIC LO 2020年11月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/97f29621de0c0f1e1f32c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9928"
-  },
-  {
-    "id": 2088,
-    "IDcode": "11882",
-    "title": "[あいらんどう] メスっこ女将わからせ取材記録",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0aabf6b222149552e3842.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11882"
-  },
-  {
     "id": 3416,
     "IDcode": "13078",
     "title": "[あいらんどう] 妹はムズかしいお年頃 (COMIC LO 2022年5月号)",
@@ -464,22 +432,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14222"
   },
   {
-    "id": 3582,
-    "IDcode": "13227",
-    "title": "[あきのそら] 異世界来たのでスケベスキルで全力謳歌しようと思う 6射目 (コミック エグゼ 37)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b6c20ce46526d9f02e062.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13227"
-  },
-  {
     "id": 3470,
     "IDcode": "13126",
     "title": "[あきのそら] 異世界来たのでスケベスキルで全力謳歌しようと思う 6射目 + side魔王",
@@ -784,6 +736,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14404"
   },
   {
+    "id": 10325,
+    "IDcode": "4747",
+    "title": "[あとり秋尚] 母子交尾実習",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2264b022179e87d85f4ac.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4747"
+  },
+  {
     "id": 14647,
     "IDcode": "8671",
     "title": "[あのん2億年] 催眠家庭教師",
@@ -1008,22 +976,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14026"
   },
   {
-    "id": 4703,
-    "IDcode": "14236",
-    "title": "[あまくち少女 (うまくち醤油)] 時雨ワンスアウィーク (艦隊これくしょん -艦これ-)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1c6bc67833757f1001200.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14236"
-  },
-  {
     "id": 2609,
     "IDcode": "12351",
     "title": "[あまみや真実] メイド・アラモード (コミックアンリアル 2021年2月号 Vol.89)",
@@ -1054,22 +1006,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/e76ca6134e7cb15d4c0d8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8722"
-  },
-  {
-    "id": 14906,
-    "IDcode": "8904",
-    "title": "[あむぁいおかし製作所 (あほげきのこ)] 少年ヒーロー戦隊、TS愛玩ペット化の罠!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/139654a360ec41cdbcb3f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8904"
   },
   {
     "id": 15450,
@@ -1294,38 +1230,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://i2.linghua.xyz/ex/3391157/af3fc80dc3/LOGO_2024_2.0.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16593"
-  },
-  {
-    "id": 6564,
-    "IDcode": "16363",
-    "title": "[あやね] あまてらすごはん 第1話  (進行中) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3107732/629a42413c/LOGO_2024_2.0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16363"
-  },
-  {
-    "id": 6366,
-    "IDcode": "16185",
-    "title": "[あやね] あまてらすごはん 第1話 (永遠娘 16)  -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a6dfd9c01a1adf5cdb51c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16185"
   },
   {
     "id": 494,
@@ -1584,9 +1488,9 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8971"
   },
   {
-    "id": 15226,
-    "IDcode": "9192",
-    "title": "[あるぷ] 魔狂の湯 (COMIC アンスリウム 2021年11月号)",
+    "id": 246,
+    "IDcode": "10221",
+    "title": "[あれのわいよ。 (あれー)] なまロリなまハメなま配信。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1596,7 +1500,103 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/dd9d13c43ae9a434b5764.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9192"
+    "cover_url": "https://telegra.ph/file/3a69c2c9fe772c25684ab.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10221"
+  },
+  {
+    "id": 248,
+    "IDcode": "10223",
+    "title": "[あれのわいよ。 (あれー)] 雨の日えっち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/fe8da7c1e2c9d2f31d5e0.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10223"
+  },
+  {
+    "id": 4786,
+    "IDcode": "14310",
+    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/5b9cfe584d94d667f6566.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14310"
+  },
+  {
+    "id": 5590,
+    "IDcode": "15487",
+    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7b6cf63d74dd1a18dbb86.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15487"
+  },
+  {
+    "id": 5591,
+    "IDcode": "15488",
+    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない2 -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/81e54a100e9eba1913e00.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15488"
+  },
+  {
+    "id": 143,
+    "IDcode": "10129",
+    "title": "[あんこまん] BBちゃんvsゴブリン (Fate/Grand Order)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/08ed5c8665950c34f2931.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10129"
+  },
+  {
+    "id": 232,
+    "IDcode": "10209",
+    "title": "[あんこまん] Re：ゼロから始めるエルザおばさん孕ませ生活(Re:ゼロから始める異世界生活)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8dec97853949a832cf773.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10209"
   }
 ];

@@ -1,101 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 5424,
-    "IDcode": "15337",
-    "title": "(BanG Dreamer&#039;s Party! 9th STAGE) [Tobatya2ke (Miso Tya)] Koyoi, Yoi Yoi Ko | 今宵，醉酒的好孩子 (BanG Dream!)  [EZR個人漢化]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7b9f3b617a7be3152dd6d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15337"
-  },
-  {
-    "id": 6514,
-    "IDcode": "16318",
-    "title": "(BanG Dreamer&#039;s Party! 9th STAGE) [とばちゃづけ (みそ茶)] 純粋ナイト (BanG Dream!) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/1781895/06ac686194/01.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16318"
-  },
-  {
-    "id": 15876,
-    "IDcode": "9778",
-    "title": "(BanG Dreamer's Party! 10th STAGE) [virophilia (織日ちひろ)] 夜烏の歌 (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f38a77ee49d22664f7635.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9778"
-  },
-  {
-    "id": 5268,
-    "IDcode": "15197",
-    "title": "(BanG Dreamer's Party! 10th STAGE) [いしやきいも (いしだ)] 2H×1S (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/81e41ee3dbfb2b9de01bf.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15197"
-  },
-  {
-    "id": 5068,
-    "IDcode": "15016",
-    "title": "(BanG Dreamer's Party! 11th STAGE) [ヨアケ行燈 (かうちぽてと)] Be# (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/884e8f00214f0b6728d2c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15016"
-  },
-  {
-    "id": 5079,
-    "IDcode": "15026",
-    "title": "(BanG Dreamer's Party! 4th STAGE) [こまどり農園 (秋野かぼちゃ)] 君に、四つ葉 (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/dcc2f850a9c534450961a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15026"
-  },
-  {
     "id": 5187,
     "IDcode": "15123",
     "title": "(BanG Dreamer's Party! 4th STAGE) [びびっどサンダー (ズミクニ)] Kiss Me Do (BanG Dream!)",
@@ -366,22 +270,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/3ac45d18057b30f94b72c.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13511"
-  },
-  {
-    "id": 4086,
-    "IDcode": "13681",
-    "title": "(C100) [MIGNON WORKS (mignon)] 濡れおなか3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ffcc573f032d192619713.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13681"
   },
   {
     "id": 5392,
@@ -782,22 +670,6 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/7ff0cf6a18a5b5cc2b2f6.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13591"
-  },
-  {
-    "id": 3627,
-    "IDcode": "13268",
-    "title": "(C100) [こーひーめーかー (朝峰テル)] 俺のメリュ子がぐいぐいクる本。 (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8d416363b70d0bc511454.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13268"
   },
   {
     "id": 3636,
@@ -1424,22 +1296,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15329"
   },
   {
-    "id": 3832,
-    "IDcode": "13452",
-    "title": "(C100) [純銀星 (たかしな浅妃)] 幼なじみで恋人の彼女と温泉宿で一晩中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1eb9211effad735d78558.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13452"
-  },
-  {
     "id": 4012,
     "IDcode": "13614",
     "title": "(C100) [純銀星 (たかしな浅妃)] 幼なじみで恋人の彼女と温泉宿で一晩中",
@@ -1598,5 +1454,149 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/ba06354f3a6414681eef1.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13233"
+  },
+  {
+    "id": 3687,
+    "IDcode": "13321",
+    "title": "(C100) [雷神会 (はるきゲにあ)] リコリコ・ミッション♥ (リコリス・リコイル)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/670bd0fd45c89d7aecf2f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13321"
+  },
+  {
+    "id": 5455,
+    "IDcode": "15365",
+    "title": "(C101) [Fukkaru Tiger (Yukitora)] Gotou Hitori wa Kiss ga Shitai (Bocchi the Rock!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/449d658f33915db905dbf.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15365"
+  },
+  {
+    "id": 5524,
+    "IDcode": "15427",
+    "title": "(C101) [HARVEST MOON (真田一輝)] 恋せよとても、生まれざりけり。 (ウマ娘 プリティーダービー)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e394b7d9ffd33d87fa784.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15427"
+  },
+  {
+    "id": 5464,
+    "IDcode": "15373",
+    "title": "(C101) [Kitaku Jikan (Kitaku)] Rikoteki Emotion (Lycoris Recoil)  [宫吧老哥漢化]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6e53391e2ff60de96d661.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15373"
+  },
+  {
+    "id": 5502,
+    "IDcode": "15407",
+    "title": "(C101) [Mahoroba Drag (Yukimiya)] AIDIAL SENSATION 1 (Uma Musume Pretty Derby)  [EZR個人漢化]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4928695cc6127fb353b0d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15407"
+  },
+  {
+    "id": 5484,
+    "IDcode": "15391",
+    "title": "(C101) [Sleeper (猫村)] ごめんね、×××できなくて (白雪巴、健屋花那)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/19a3e4e8637912dfab223.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15391"
+  },
+  {
+    "id": 5489,
+    "IDcode": "15396",
+    "title": "(C101) [Toriko Trick (Shiratama Moti)] Momoi &amp; Midori | 小绿桃井 (Byuru Archive Blue Archive Ecchi Goudou) (Blue Archive)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/255f4589d7f4fb54c23d5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15396"
+  },
+  {
+    "id": 5575,
+    "IDcode": "15473",
+    "title": "(C101) [Waterfall (嵩乃朔)] 神琳が雨嘉にやきもちをやく話 (アサルトリリィ) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d5ea96d28fc376d1a9a2f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15473"
+  },
+  {
+    "id": 6490,
+    "IDcode": "16297",
+    "title": "(C101) [tigeregit (虎)] 変なこと禁止 (機動戦士ガンダム水星の魔女) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3081355/2d8f8bb225/001.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16297"
   }
 ];

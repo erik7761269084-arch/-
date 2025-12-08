@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 9906,
-    "IDcode": "436",
-    "title": "(C97) [星空ステッキ (如月なな)] 女王サマの搾り搾られ発情交尾 (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6a5c1da196de3d22b2d7a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=436"
-  },
-  {
-    "id": 7462,
-    "IDcode": "2167",
-    "title": "(C97) [有言実行 (ゴンざぶろー)] 今日はどの綾波でする…ですか?❤ (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7a7595654b42eda2084b4.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2167"
-  },
-  {
-    "id": 10664,
-    "IDcode": "5051",
-    "title": "(C97) [林檎のなる木 (木瀬 樹)] Kud After3 (リトルバスターズ!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d5b02b4f4e78187eea500.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5051"
-  },
-  {
-    "id": 10665,
-    "IDcode": "5052",
-    "title": "(C97) [林檎のなる木 (木瀬 樹)] クドがわんちゃんになって好きにされちゃう本 (リトルバスターズ!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f3b58076a0589c177cf6c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5052"
-  },
-  {
     "id": 9327,
     "IDcode": "3849",
     "title": "(C97) [横島んち。 (Ash横島)] マテリア×ガール#2 ティファのミニマム大作戦! (ファイナルファンタジーVII)",
@@ -992,38 +928,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2039"
   },
   {
-    "id": 7909,
-    "IDcode": "256",
-    "title": "(C99) [Number2 (たくじ)] パパ活パコリーヌ! (プリンセスコネクト!Re:Dive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/262afac03ec77ad2ff386.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=256"
-  },
-  {
-    "id": 8693,
-    "IDcode": "3276",
-    "title": "(C99) [Number2 (たくじ)] パパ活パコリーヌ! (プリンセスコネクト!Re:Dive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c797e3ded96f98dbc3928.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3276"
-  },
-  {
     "id": 9252,
     "IDcode": "3781",
     "title": "(C99) [OVing (おぶい)] サンプルH0539 交配レポート (ファイナルファンタジーVII)",
@@ -1392,22 +1296,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10"
   },
   {
-    "id": 7610,
-    "IDcode": "22",
-    "title": "(C99) [YuKi-IRo (ゆきうさぎ。)] まりょく補給中 (東方Project)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4b1ac673046e84756ca76.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=22"
-  },
-  {
     "id": 7971,
     "IDcode": "2625",
     "title": "(C99) [ZiP (萌木原ふみたけ)] 甘雨ちゃんは、ヌクモリティを待っている。 (原神)",
@@ -1520,22 +1408,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=313"
   },
   {
-    "id": 9651,
-    "IDcode": "413",
-    "title": "(C99) [squeezecandyheaven (いちはや)] 作ろう!理想の妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4dc32689e24988ba8426a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=413"
-  },
-  {
     "id": 10651,
     "IDcode": "503",
     "title": "(C99) [squeezecandyheaven (いちはや)] 妹とこんまぽんち",
@@ -1584,9 +1456,9 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2021"
   },
   {
-    "id": 8845,
-    "IDcode": "3413",
-    "title": "(C99) [あめうさぎ (飴玉コン)] チノちゃんの可愛いところ見せて (ご注文はうさぎですか?)",
+    "id": 8780,
+    "IDcode": "3355",
+    "title": "(C99) [あやしい墓地 (PINTA)] ぽんぽこサマー・キャンプ (Fate/Grand Order)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1596,7 +1468,135 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ba3df1e30d3c99fd144dc.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3413"
+    "cover_url": "https://telegra.ph/file/d9467d7a289af0e5f6bb5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3355"
+  },
+  {
+    "id": 8816,
+    "IDcode": "3388",
+    "title": "(C99) [あんみつよもぎ亭 (みちきんぐ)] 奥野田が精通上手で酔魔せん (東方Project)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2855b4546e5402ae37efc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3388"
+  },
+  {
+    "id": 1885,
+    "IDcode": "1169",
+    "title": "(C99) [いとのうり (hemachi)] 堕ちゆく薔薇のデビュタント (プリンセスコネクト!Re:Dive)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7d6de6145fe3798b46cc4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1169"
+  },
+  {
+    "id": 13815,
+    "IDcode": "788",
+    "title": "(C99) [えのころくらげ (NOSA)] その手いっぱい伸ばしたら (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8bb5ba6d9b34498546eef.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=788"
+  },
+  {
+    "id": 8045,
+    "IDcode": "2692",
+    "title": "(C99) [おちあき]郷に従う九条さん。(原神)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/add4838e14a6f09da01dc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2692"
+  },
+  {
+    "id": 8992,
+    "IDcode": "3546",
+    "title": "(C99) [からきし傭兵団 真雅 (砂原渉)] ピンクのバカヂカラ (NARUTO -ナルト-、ドラゴンクエスト ダイの大冒険)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1710f699673a1ca5152c2.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3546"
+  },
+  {
+    "id": 7958,
+    "IDcode": "2613",
+    "title": "(C99) [きつね屋 (リーフィ)] ないしょのおるすばん (はじめてのおるすばん)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8c4b36cda45993ec5f4d4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2613"
+  },
+  {
+    "id": 9000,
+    "IDcode": "3553",
+    "title": "(C99) [きのこのみ (konomi)] TSあきら君の性生活6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8a5399187a6e6e19e337d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3553"
+  },
+  {
+    "id": 9063,
+    "IDcode": "3610",
+    "title": "(C99) [きのこのみ (konomi)] ギャルゆいなちゃんとえっち3 -片思いの彼女がボクに赤面!?-",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/fc0c8619815fc13c7929b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3610"
   }
 ];

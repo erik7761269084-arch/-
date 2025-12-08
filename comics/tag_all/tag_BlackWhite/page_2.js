@@ -240,22 +240,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=322"
   },
   {
-    "id": 9751,
-    "IDcode": "422",
-    "title": "(C87) [ありすの宝箱 (水龍敬)] よいこのスケベ童話シリーズ1 裸の痴女王様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/75312e413e32ae67da29d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=422"
-  },
-  {
     "id": 10023,
     "IDcode": "4475",
     "title": "(C87) [ひとりようのポット (春日まゆ)] これが笑顔の魔法ですか (アイドルマスター シンデレラガールズ)",
@@ -928,22 +912,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2706"
   },
   {
-    "id": 8990,
-    "IDcode": "3544",
-    "title": "(C90) [オザ式 (砂川多良)] 淫ノ獣 (ドラゴンクエストヒーローズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0ebaa1fb173186bc8a6c3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3544"
-  },
-  {
     "id": 6979,
     "IDcode": "1732",
     "title": "(C90) [カミナリネコ (えーたろー)] まほさんと後継作りがしたい!! (ガールズ&パンツァー)",
@@ -1598,5 +1566,37 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/7040ff55fe3a93679a044.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3138"
+  },
+  {
+    "id": 11682,
+    "IDcode": "596",
+    "title": "(C92) [セルビッチ水産 (魚デニム)] GuP Hside (ガールズ&パンツァー)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/aa6388d932973a9777a08.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=596"
+  },
+  {
+    "id": 10074,
+    "IDcode": "4520",
+    "title": "(C92) [朧&天蓬元帥堂 (天蓬元帥)] セーラーAV企画～JS3人組に出演交渉!! クラスメイトの目の前でガチンコ子作りSEX!?～ (美少女戦士セーラームーン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/9407aa36b7ba9b943e646.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4520"
   }
 ];

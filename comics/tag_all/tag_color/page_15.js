@@ -1,741 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 15205,
-    "IDcode": "9173",
-    "title": "(コミティア139) [miyubi (きいち)] 角を曲がって",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1c6d3db0bc27a936dc2a1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9173"
-  },
-  {
-    "id": 6429,
-    "IDcode": "16241",
-    "title": "(コミティア140) [えねるぎあ (ぴかち)] 同性交遊倶楽部 -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3060526/a69c92543f/0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16241"
-  },
-  {
-    "id": 6313,
-    "IDcode": "16137",
-    "title": "(コミティア141) [ほむら屋★プレアデス (焔すばる)] どきどき★アイドル♥エステ -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b9c979668ebf0bbe9e5ff.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16137"
-  },
-  {
-    "id": 6754,
-    "IDcode": "16534",
-    "title": "(コミティア144) [ほむら屋★プレアデス (焔すばる)] どきどき★ ガールズ動画撮影会 -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3311824/a8ae988e80/001.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16534"
-  },
-  {
-    "id": 6291,
-    "IDcode": "16117",
-    "title": "(コミティア144) [美術部 (しづきみちる)] 肌色のエスビアン -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/80ea1b5f1451be95a7721.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16117"
-  },
-  {
-    "id": 6531,
-    "IDcode": "16333",
-    "title": "(コミティア148) [ほむら屋★プレアデス (焔すばる)] ユリトレ♥トライアド -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3096395/19927233c5/001.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16333"
-  },
-  {
-    "id": 6729,
-    "IDcode": "16511",
-    "title": "(コミトレ24) [ムラムラPocky, しのしの (カスミ, しのはらしのめ)] チョコレートフィーバー (ラブライブ!) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3276884/aa39be6604/000000011.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16511"
-  },
-  {
-    "id": 5504,
-    "IDcode": "15409",
-    "title": "(サンクリ2016 Winter) [あめうさぎ (飴玉コン)] ご注文はチノうさですか? (ご注文はうさぎですか?)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d4ca8a576bc497470dced.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15409"
-  },
-  {
-    "id": 5121,
-    "IDcode": "15064",
-    "title": "(サンクリ2018 Spring) [GRINP (ねことうふ)] SCHWARZLILIE (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c3b1adf65a2b22c41dbeb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15064"
-  },
-  {
-    "id": 14333,
-    "IDcode": "8389",
-    "title": "(サンクリ2018 Spring) [チャバシラチェーンソー (茶々らん)] ダージリンと恋温泉 (ガールズ&パンツァー)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b47bb25e2f53ed3fddd09.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8389"
-  },
-  {
-    "id": 551,
-    "IDcode": "10497",
-    "title": "(サンクリ2018 Spring) [ナギヤマスギ (那岐山)] 女子校生集団痴漢電車3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/161e2cf3064184b546a32.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10497"
-  },
-  {
-    "id": 1755,
-    "IDcode": "11581",
-    "title": "(サンクリ2019 Autumn) [Tears39 (空維深夜)] 真夜中満喫♥アソビ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/77708e6889b2575ac9260.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11581"
-  },
-  {
-    "id": 15569,
-    "IDcode": "9500",
-    "title": "(サンクリ2019 Autumn) [カドルーム (pacchu)] ニトクリスは癒されたい (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4e7ea134656f128a6fcfd.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9500"
-  },
-  {
-    "id": 4934,
-    "IDcode": "14444",
-    "title": "(サンクリ2019 Autumn) [ゲルマニウムデトロイト (みそたぬきインカ帝国)] 私を本気にさせたのは誰なのかしら? (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/95754ba76d2a974d73966.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14444"
-  },
-  {
-    "id": 15768,
-    "IDcode": "9680",
-    "title": "(サンクリ2019 Autumn) [七色のねりぶくろ (七色風香)] ゴトちゃんと金曜の夜 (艦隊これくしょん -艦これ-)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/81d36809303da7f4037de.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9680"
-  },
-  {
-    "id": 1186,
-    "IDcode": "11069",
-    "title": "(サンクリ2019 Spring) [ぽぽちち (八尋ぽち)] 縁結日のたわわ (月曜日のたわわ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/21f4a007b0bd7bd563327.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11069"
-  },
-  {
-    "id": 2661,
-    "IDcode": "12399",
-    "title": "(サンクリ2019 Spring) [五月雨斬り (森本清名、くろうり)] シリアスの抱擁がお慰めになれるのでしたらいつでも喜んで致します♥ (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/78f11c6f137e7ab4f339e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12399"
-  },
-  {
-    "id": 14120,
-    "IDcode": "8197",
-    "title": "(サンクリ2019 Winter) [小鳥日堂 (koto)] 狙われたパイモンのおなか (原神)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/69802227d7b84a7fd4163.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8197"
-  },
-  {
-    "id": 15027,
-    "IDcode": "9012",
-    "title": "(サンクリ2020 Autumn) [Aqua Pot (初。)] MOFURITE! (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/82e3c0f9624e6f7bb4109.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9012"
-  },
-  {
-    "id": 6,
-    "IDcode": "10005",
-    "title": "(サンクリ2020 Autumn) [Come Through (あづみ一樹)] サキュバスデリバリーS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/16666c16041221da8b627.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10005"
-  },
-  {
-    "id": 814,
-    "IDcode": "10733",
-    "title": "(サンクリ2020 Autumn) [TwinBox (花花捲、草草饅)] AutumnColors～秋色～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/240794d14e68b9df067f7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10733"
-  },
-  {
-    "id": 219,
-    "IDcode": "10198",
-    "title": "(サンクリ2020 Autumn) [おほしさま堂 (GEKO)] 媚薬漬けぺコリーヌ～催淫キノコは誘惑の香り～ (プリンセスコネクト!Re:Dive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/aa8749483636d1c7c9f53.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10198"
-  },
-  {
-    "id": 1964,
-    "IDcode": "11770",
-    "title": "(サンクリ2020 Autumn) [ぽんぽんぺいん (ぽんぽん)] 堕とされたZ46ちゃん (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cf0146d603292d31a0813.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11770"
-  },
-  {
-    "id": 872,
-    "IDcode": "10786",
-    "title": "(サンクリ2020 Autumn) [仲町ラボ (仲町まち)] いろはすと。 (やはり俺の青春ラブコメはまちがっている。)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c1461cd4a71e606cabad6.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10786"
-  },
-  {
-    "id": 1756,
-    "IDcode": "11582",
-    "title": "(サンクリ2020 Autumn) [番外特異点特派チーム (よろず)] 番外特異点 vierter! fetishism anthology (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2def29c456bd0efd1f272.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11582"
-  },
-  {
-    "id": 5559,
-    "IDcode": "15459",
-    "title": "(サンクリ2022 Autumn) [まるあらい (新井カズキ)] ヒメゴト (リコリス・リコイル)-Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/27f4ac951cc20bde3a0e5.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15459"
-  },
-  {
-    "id": 5875,
-    "IDcode": "15743",
-    "title": "(サンクリ42) [canaria mint (こな)] スローリザレクション (東方Project) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f521bfdfc157920e5a9e9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15743"
-  },
-  {
-    "id": 16028,
-    "IDcode": "9914",
-    "title": "(サンクリ60) [クレスタ (呉マサヒロ)] CL-orz 29 (境界線上のホライゾン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4d6116493a4383d1168bb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9914"
-  },
-  {
-    "id": 5224,
-    "IDcode": "15157",
-    "title": "(サンクリ62) [Cloud Palette (黒夢奈音, 紅薙ようと)] kiss or kiss? (東方Project)(中国翻译)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5f49fcaa49a0f7aace80b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15157"
-  },
-  {
-    "id": 15721,
-    "IDcode": "9638",
-    "title": "(サンクリ65) [クレスタ (呉マサヒロ)] CL-orz 40 (ラブライブ!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b6d32471776bba4992747.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9638"
-  },
-  {
-    "id": 5761,
-    "IDcode": "15640",
-    "title": "(サンシャインクリエイション2021summer)[なないろ畑(佐倉おりこ)]Seasonal girls【Swing!!畫集&amp;百合漫畫套組】-Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9721f8828e21a8eb4c8d9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15640"
-  },
-  {
-    "id": 800,
-    "IDcode": "10720",
-    "title": "(サークルハロウィンフェスタ) [塩ちょこ (ナハ78)] フリードリヒのショタ甘母淫溺 (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5a78dbc742618ecdff675.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10720"
-  },
-  {
-    "id": 6232,
-    "IDcode": "16064",
-    "title": "(シャイニーフェスティバル17) [電派絵師団 (しろし)] MxTってなんですか????? (アイドルマスター シャイニーカラーズ) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/05a068e776541e4f0fa0b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16064"
-  },
-  {
-    "id": 5244,
-    "IDcode": "15175",
-    "title": "(シンデレラ☆ステージ7STEP) [ツキノウラガワ (ろみ)] サンタさんへ (アイドルマスターシンデレラガールズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6fb11890c94af7f880302.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15175"
-  },
-  {
-    "id": 2647,
-    "IDcode": "12386",
-    "title": "(シンデレラ☆ステージ7STEP) [ペッタン道場 (ペッタンP)] O livro de Natalia 2 (アイドルマスター シンデレラガールズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/af89fc282bc72be2bbee4.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12386"
-  },
-  {
-    "id": 968,
-    "IDcode": "10873",
-    "title": "(シンデレラ☆ステージ8STEP) [ペッタン道場 (ペッタンP)] ナターリアの本 温泉編 (アイドルマスター シンデレラガールズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fdb89750b681e2253fa2e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10873"
-  },
-  {
-    "id": 5122,
-    "IDcode": "15065",
-    "title": "(スタァライト・ストーリィズ 8th REVUE) [空想舟 (くらげもどき)] トリックVSトリック (少女☆歌劇レヴュースタァライト)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/222309877d791b635cc1d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15065"
-  },
-  {
-    "id": 5270,
-    "IDcode": "15199",
-    "title": "(スタァライト・ストーリィズ 8th REVUE) [空想舟 (くらげもどき)] トリックVSトリック (少女☆歌劇レヴュースタァライト)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2bef986d8cb310740f1ae.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15199"
-  },
-  {
-    "id": 6843,
-    "IDcode": "16614",
-    "title": "(ハナサキノレン-花咲祝蓮-) [virophilia (織日ちひろ)] Hypersomnia “春眠不覺曉” (ラブライブ! 蓮ノ空女学院スクールアイドルクラブ)-Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3427121/6d911a5d27/cover.webp",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16614"
-  },
-  {
-    "id": 2294,
-    "IDcode": "12068",
-    "title": "(バレンタインフェスタ第2回) [Tears39 (空維深夜)] 今夜、私が頂かれるのは…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6d1fdb5851eb6370e7a58.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12068"
-  },
-  {
-    "id": 5114,
-    "IDcode": "15058",
-    "title": "(バンドリ!スターフェスティバル4) [にしはるカフェ (西沢はるな、ちーちゃん54)] 拘束 (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/386262a981ab2e59d6fb3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15058"
-  },
-  {
-    "id": 5230,
-    "IDcode": "15162",
-    "title": "(バンドリ!スターフェスティバル5) [高級ジャムパン (アツヤ)] パステルまじっく! (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/469308696a947bb2124ae.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15162"
-  },
-  {
-    "id": 5209,
-    "IDcode": "15143",
-    "title": "(バンドリ!スターフェスティバル6) [発光どんぐり (きのただ)] おねーちゃん、えっちしよ❤ (BanG Dream!)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/69cc6958de77932252a96.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15143"
-  },
-  {
-    "id": 607,
-    "IDcode": "10547",
-    "title": "(プリコネ大百科5) [シンセカイセット (菖蒲)] シオリコネ! (プリンセスコネクト!Re:Dive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d0fa7e690a495e91617f7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10547"
-  },
-  {
-    "id": 6499,
-    "IDcode": "16304",
-    "title": "(プリティーステークス 20R) [めきめき亭 (めきめき)] 15cmの距離 (ウマ娘 プリティーダービー) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://i2.linghua.xyz/ex/3081969/3ccdcd57eb/img001_2.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16304"
-  },
-  {
-    "id": 3001,
-    "IDcode": "12704",
-    "title": "(プリティーステークス) [残高77円 (しろおび)] ゴルシちゃんファン感謝デー!! (ウマ娘 プリティーダービー)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/34c7896a9174c85ea6231.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12704"
-  },
-  {
     "id": 351,
     "IDcode": "10316",
     "title": "(ホロクル) [はっぴぃライム (桜ポチ)] ホロライブおっぱい (白銀ノエル、赤井はあと、宝鐘マリン)",
@@ -1598,5 +862,741 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://telegra.ph/file/4314610b126eeabe881f3.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15524"
+  },
+  {
+    "id": 5824,
+    "IDcode": "15698",
+    "title": "(例大祭20) [milkysiesta (vanilla)] Spring Bloom (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d4c9151cac80e1f132270.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15698"
+  },
+  {
+    "id": 5634,
+    "IDcode": "15526",
+    "title": "(例大祭20) [poprication (べにしゃけ)] Cage (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/82a7bf1722f430e2f6469.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15526"
+  },
+  {
+    "id": 5985,
+    "IDcode": "15842",
+    "title": "(例大祭20) [ランダムランド (イチムラ)] アリス120%  (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f86dbff97ac9b8882b1cf.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15842"
+  },
+  {
+    "id": 6452,
+    "IDcode": "16262",
+    "title": "(例大祭21) [azmaya (あずまあや)] 距離感ゼロセンチメンタル (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3069318/cd07f506fa/2_00.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16262"
+  },
+  {
+    "id": 6573,
+    "IDcode": "16371",
+    "title": "(例大祭21) [きなこもち郷 (いけやん)] ぶきような初恋 (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3111587/06e1585315/_01.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16371"
+  },
+  {
+    "id": 6206,
+    "IDcode": "16040",
+    "title": "(例大祭21) [ムゲンダイ (フメイ)] 秘封倶楽部にしかできないこと 無重力えっち編 (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/58a38f7bfe438da1dd92d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16040"
+  },
+  {
+    "id": 6784,
+    "IDcode": "16561",
+    "title": "(例大祭22) [ゆむしえん (かわやばぐ)] その人形は無視できない! (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3354059/c9f74b84d2/001.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16561"
+  },
+  {
+    "id": 6820,
+    "IDcode": "16594",
+    "title": "(例大祭22) [星りんご] 湯けむり珍道中 (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3398981/cf40eee209/001.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16594"
+  },
+  {
+    "id": 6586,
+    "IDcode": "16383",
+    "title": "(例大祭7) [黄金☆ぷりん (伊吹蓮)] けいねはもこの嫁! (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3119388/58cbfb7195/01.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16383"
+  },
+  {
+    "id": 6770,
+    "IDcode": "16549",
+    "title": "(例大祭8) [RUMP (凡)] 紅い歴史に碧のスパイス参 (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3328680/5d10c8b7ed/1.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16549"
+  },
+  {
+    "id": 5171,
+    "IDcode": "15109",
+    "title": "(例大祭8) [SoNと壱 (soN)] 星巡りの夜 (東方Project)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a5003089a208faa6b23ba.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15109"
+  },
+  {
+    "id": 5628,
+    "IDcode": "15520",
+    "title": "(例大祭8) [ひとみしり (甘党)] ハナトオトメ (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/202177e7bd609795a2751.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15520"
+  },
+  {
+    "id": 5129,
+    "IDcode": "15071",
+    "title": "(例大祭9) [おいもと (鈴音ゆうじ)] スウィートダイアリー (東方Project)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b8ca9509100389f70f1f6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15071"
+  },
+  {
+    "id": 6268,
+    "IDcode": "16097",
+    "title": "(例大祭9) [サークルぬるま屋 (月わに)] 免許がない幻想郷 (東方Project) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/cc0e457dcbcff3312267c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16097"
+  },
+  {
+    "id": 6622,
+    "IDcode": "16415",
+    "title": "(僕らのラブライブ! 10) [Omise! (miseo)] きみはわたしの (ラブライブ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3151938/957ce8d447/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16415"
+  },
+  {
+    "id": 5307,
+    "IDcode": "15231",
+    "title": "(僕らのラブライブ! 11) [Sette mari (長)] Dear my... (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/83afe6d4cde7e541b1c51.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15231"
+  },
+  {
+    "id": 5141,
+    "IDcode": "15082",
+    "title": "(僕らのラブライブ! 11) [prism*pink (かるは)] 愛のたまもの (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1d7985573194c37c6e88b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15082"
+  },
+  {
+    "id": 5290,
+    "IDcode": "15216",
+    "title": "(僕らのラブライブ! 12) [回転キカン (りた)] 星屑オレンジ (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2846cf0113b65abf63653.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15216"
+  },
+  {
+    "id": 6591,
+    "IDcode": "16388",
+    "title": "(僕らのラブライブ! 13) [Candy Club (スカイ)] Endless Love ～初心～ (ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3123776/ab7f59c861/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16388"
+  },
+  {
+    "id": 5902,
+    "IDcode": "15768",
+    "title": "(僕らのラブライブ! 13) [Do well !!! (ながれぼし)] 涙がゼロになるまで (ラブライブ! サンシャイン!!)-Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1e17a46686b24ad2d0650.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15768"
+  },
+  {
+    "id": 5261,
+    "IDcode": "15190",
+    "title": "(僕らのラブライブ! 14) [桜やしき (水雪洞)] side: (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4a84a5d0030f19df891b9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15190"
+  },
+  {
+    "id": 6478,
+    "IDcode": "16286",
+    "title": "(僕らのラブライブ! 15) [Do well !!! (ながれぼし)] 雨音アバンドーネ (ラブライブ!、ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3072445/065f428c25/000000011.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16286"
+  },
+  {
+    "id": 6855,
+    "IDcode": "16625",
+    "title": "(僕らのラブライブ! 15) [SHAMROCK (おぎ)] 昨日の僕と明日の君 (ラブライブ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3437352/62268f3284/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16625"
+  },
+  {
+    "id": 6562,
+    "IDcode": "16361",
+    "title": "(僕らのラブライブ! 16) [Do well !!! (ながれぼし)] ご注文はエンドロールのあとに (ラブライブ!、ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3107654/de0159ccb4/000000011.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16361"
+  },
+  {
+    "id": 5794,
+    "IDcode": "15670",
+    "title": "(僕らのラブライブ! 16) [float* (はづき)] よしりこねこみみ事件!? (ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/5f2f37b2acd252fc1dd11.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15670"
+  },
+  {
+    "id": 16103,
+    "IDcode": "9982",
+    "title": "(僕らのラブライブ! 16) [陰謀の帝国 (印カ・オブ・ザ・デッド、イトハナ)] エロネーム交換だヨ! ダイマリよしまる噴乳おもらし祭!! (ラブライブ! サンシャイン!!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/72d1a0c08818086810d7b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9982"
+  },
+  {
+    "id": 6752,
+    "IDcode": "16532",
+    "title": "(僕らのラブライブ! 19) [Do well !!! (ながれぼし)] 桜姫アルフィーネ (ラブライブ!、ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3306489/93e4af2eb1/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16532"
+  },
+  {
+    "id": 6832,
+    "IDcode": "16604",
+    "title": "(僕らのラブライブ! 19) [なしくずし (なしえしな)] Give you All My Love! (ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3417829/c8037b4be9/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16604"
+  },
+  {
+    "id": 6545,
+    "IDcode": "16346",
+    "title": "(僕らのラブライブ! 21) [たんこんぶ。 (たん昆布)] 「ただいま」と「おかえり」 (ラブライブ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3102279/5520011f72/000000011.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16346"
+  },
+  {
+    "id": 6498,
+    "IDcode": "16303",
+    "title": "(僕らのラブライブ! 22) [furry kitty (えねこ)] おはなとおひめさま (ラブライブ! サンシャイン!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3082847/5287d155b7/000000011.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16303"
+  },
+  {
+    "id": 5087,
+    "IDcode": "15033",
+    "title": "(僕らのラブライブ! 24) [玄米茶 (モグ)] In The Dark (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/fd04b050f43cd1c01c200.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15033"
+  },
+  {
+    "id": 307,
+    "IDcode": "10277",
+    "title": "(僕らのラブライブ! 26) [帰宅時間 (きたく)] NIJIGASAKI RAKUGAKI BOOK (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/3f47a9862abbcb25e2e9a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10277"
+  },
+  {
+    "id": 191,
+    "IDcode": "10172",
+    "title": "(僕らのラブライブ! 27) [Spica (かぜぱな)] 女神様の罰ゲーム (ラブライブ!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/664a948d2e6ab2b934903.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10172"
+  },
+  {
+    "id": 5909,
+    "IDcode": "15774",
+    "title": "(僕らのラブライブ! 28) [むしやき!! (上林眞)] 想いはとめどないけど (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d5a3b1bf00e6f32a0cd7f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15774"
+  },
+  {
+    "id": 5077,
+    "IDcode": "15024",
+    "title": "(僕らのラブライブ! 28) [帰宅時間 (きたく)] Rainbow Memories 2 (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2ddc9905721f51ac02e8c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15024"
+  },
+  {
+    "id": 6822,
+    "IDcode": "16596",
+    "title": "(僕らのラブライブ! 3) [スイートピー (大島智)] 真姫ちゃんがおトイレを我慢するお話。 (ラブライブ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3397169/2da1f809be/000000011.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16596"
+  },
+  {
+    "id": 6506,
+    "IDcode": "16310",
+    "title": "(僕らのラブライブ! 30) [B.Ren (びーれん)] 知らないココロ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [-Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/2033811/40e04abd52/01.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16310"
+  },
+  {
+    "id": 6256,
+    "IDcode": "16086",
+    "title": "(僕らのラブライブ! 30) [えのころくらげ (NOSA)] ゆずれない想い 変わらない思い (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/dc2c2a2ae353692398fe9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16086"
+  },
+  {
+    "id": 14721,
+    "IDcode": "8738",
+    "title": "(僕らのラブライブ! 31) [えのころくらげ (NOSA)] 走り出した思い歩みは止まらない (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0e6f5efc43230f6be792c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8738"
+  },
+  {
+    "id": 6319,
+    "IDcode": "16142",
+    "title": "(僕らのラブライブ! 33) [zacocom (ざこ)] ななかりプレシャス (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/84a668ccde5fbe34a92df.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16142"
+  },
+  {
+    "id": 6481,
+    "IDcode": "16289",
+    "title": "(僕らのラブライブ! 34) [ふわふわパレット (HIRO)] 星空メモリー (ラブライブ!スーパースター!!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3076512/00b7186672/FWoWSkVUcAE92Gp.jfif.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16289"
+  },
+  {
+    "id": 5348,
+    "IDcode": "15269",
+    "title": "(僕らのラブライブ! 34) [ふわふわパレット (HIRO)] 見てやがれデス! (ラブライブ! スーパースター!!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2d6731e88c537480d897e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15269"
+  },
+  {
+    "id": 5766,
+    "IDcode": "15645",
+    "title": "(僕らのラブライブ! 34) [淡めのブルー (ななつのうみ)] 年下彼女の下克上 (ラブライブ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e20dd84c96f715748cb85.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15645"
+  },
+  {
+    "id": 5508,
+    "IDcode": "15412",
+    "title": "(僕らのラブライブ! 36) [めざましセット (めざし)] 夢みるセカイはありえない!? (ラブライブ!スーパースター!!)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4ee9b496625dd5ac4a70f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15412"
+  },
+  {
+    "id": 5499,
+    "IDcode": "15404",
+    "title": "(僕らのラブライブ! 36) [帰宅時間 (きたく)] 虹色劇場へようこそ♡ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6ee096818d70d4f0464be.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15404"
+  },
+  {
+    "id": 5631,
+    "IDcode": "15523",
+    "title": "(僕らのラブライブ! 36) [東線重工、virophilia (Fataaa、織日ちひろ)] MIRROR (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/469a7b92ccc1ac6d0b126.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15523"
   }
 ];

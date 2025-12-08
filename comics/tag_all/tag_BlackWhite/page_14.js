@@ -1,1461 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 13316,
-    "IDcode": "743",
-    "title": "[DT工房 (DAIGO)] 憧れのツナデ様と赤ちゃんを作ろう (NARUTO -ナルト-)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c4cbdbae89581a98ff348.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=743"
-  },
-  {
-    "id": 7328,
-    "IDcode": "2046",
-    "title": "[DYTM] 淫雨に濡れてII 第1話 (コミックホットミルク 2022年3月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6c5849ed8148a53aad11c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2046"
-  },
-  {
-    "id": 10532,
-    "IDcode": "4933",
-    "title": "[Dako] Takao (Azur Lane) (ongoing)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8a3319c2593cdf1c1635f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4933"
-  },
-  {
-    "id": 9809,
-    "IDcode": "4282",
-    "title": "[Darkmaya]  PekoraMama  [Decensored]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/42e19b56e3b0c3127ca0a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4282"
-  },
-  {
-    "id": 9786,
-    "IDcode": "4261",
-    "title": "[Darkmaya] Assassin Tamamo Vitch (Fate/Grand Order)  [Decensored]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0bdb94fe5220776adae95.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4261"
-  },
-  {
-    "id": 9838,
-    "IDcode": "4308",
-    "title": "[Darkmaya] VTuber UsagiHime Comic  [Decensored]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1753e7259ceb1d8c7fce7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4308"
-  },
-  {
-    "id": 9048,
-    "IDcode": "3598",
-    "title": "[Darkmaya] クロニー新婚三択-あたし篇 (オーロ・クロニー)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1dd9c0935a7616c901934.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3598"
-  },
-  {
-    "id": 9124,
-    "IDcode": "3666",
-    "title": "[Darkmaya] クロニー新婚三択お風呂篇 (オーロ・クロニー)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/53d8d0a2102f4edc47016.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3666"
-  },
-  {
-    "id": 9513,
-    "IDcode": "4015",
-    "title": "[Darkmaya] 光のコヤンスカヤ (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4c39d595d00cf293eaaeb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4015"
-  },
-  {
-    "id": 9047,
-    "IDcode": "3597",
-    "title": "[Darkmaya] 沙花叉に風呂に入らせて大作戦 part1 (沙花叉クロヱ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/28e57006ebbb0505e44db.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3597"
-  },
-  {
-    "id": 5760,
-    "IDcode": "1563",
-    "title": "[Darkmaya] 沙花叉に風呂に入らせて大作戦 part2 (沙花叉クロヱ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5473e0117e4f7484aa7e7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1563"
-  },
-  {
-    "id": 1443,
-    "IDcode": "112",
-    "title": "[Darkmaya] 沙花叉に風呂に入らせて大作戦 part3 (沙花叉クロヱ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/dbbc7542f67552475692c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=112"
-  },
-  {
-    "id": 9531,
-    "IDcode": "4031",
-    "title": "[Darkmaya] 白血球敗北 (はたらく細胞)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cfeac74f3455c20fd6dab.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4031"
-  },
-  {
-    "id": 9787,
-    "IDcode": "4262",
-    "title": "[Darkmaya] 白血球敗北 (はたらく細胞)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cfeac74f3455c20fd6dab.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4262"
-  },
-  {
-    "id": 9514,
-    "IDcode": "4016",
-    "title": "[Darkmaya] 糸球体ソープランド (はたらく細胞)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a4565db0b801d3a9dd0a3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4016"
-  },
-  {
-    "id": 9788,
-    "IDcode": "4263",
-    "title": "[Darkmaya] 糸球体ソープランド (はたらく細胞)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ba3d464be5949383545d9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4263"
-  },
-  {
-    "id": 11716,
-    "IDcode": "59",
-    "title": "[Darkmaya] 魔女と子羊 第一話 part1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c8b616dc82d1c68fdda50.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=59"
-  },
-  {
-    "id": 11828,
-    "IDcode": "60",
-    "title": "[Darkmaya] 魔女と子羊 第一話 part2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b2e1e1854b4d5850e69d3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=60"
-  },
-  {
-    "id": 9697,
-    "IDcode": "4181",
-    "title": "[Deadflow] おまけホシノ (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5828ebccb398942e1394c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4181"
-  },
-  {
-    "id": 3540,
-    "IDcode": "1318",
-    "title": "[Deadflow] がんばるアリスちゃんを応援する会 (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/58b3438089b72b7e6cb50.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1318"
-  },
-  {
-    "id": 9564,
-    "IDcode": "4061",
-    "title": "[Deadflow] ソラのアルバイト (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f71428d77d539e1984e96.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4061"
-  },
-  {
-    "id": 9899,
-    "IDcode": "4363",
-    "title": "[Deadflow] ソラのアルバイト2 (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/753be808c96e295842e6d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4363"
-  },
-  {
-    "id": 3884,
-    "IDcode": "1349",
-    "title": "[Deadflow] バニーアリスちゃんと (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e2f6fd80ad416b1749e28.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1349"
-  },
-  {
-    "id": 2107,
-    "IDcode": "1189",
-    "title": "[Deadflow] マリーの噂 (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e2c4e88911917b9d88c54.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1189"
-  },
-  {
-    "id": 10740,
-    "IDcode": "511",
-    "title": "[Deadflow] ムツキと着物っくす (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/bb2c6d6dbccdb42bdbc53.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=511"
-  },
-  {
-    "id": 9696,
-    "IDcode": "4180",
-    "title": "[Deadflow] ユウカさんその2 (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/24a942bb1c4406d51da4d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4180"
-  },
-  {
-    "id": 9694,
-    "IDcode": "4179",
-    "title": "[Deadflow] ユウカまとめ (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/09e81f292912e23ac804a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4179"
-  },
-  {
-    "id": 8636,
-    "IDcode": "3224",
-    "title": "[Deadflow] 大潮ちゃんぱいずりまとめ (アズールレーン)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e83551820b0cc0cf95f37.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3224"
-  },
-  {
-    "id": 8581,
-    "IDcode": "3175",
-    "title": "[Deadflow] 西島さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b0576ba53a2dbb49fbf35.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3175"
-  },
-  {
-    "id": 8120,
-    "IDcode": "275",
-    "title": "[DiceBomb (カジノ)] Strawberry Secret (アイドルマスター シンデレラガールズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3ffc3a190db3d08c3573c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=275"
-  },
-  {
-    "id": 12125,
-    "IDcode": "6368",
-    "title": "[Digital Lover (なかじまゆか)] D.L. action85",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5e5a3857c48fc49e3a535.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6368"
-  },
-  {
-    "id": 7901,
-    "IDcode": "2562",
-    "title": "[Digital Lover (なかじまゆか)] 人妻幼馴染とひと夏のできごと4 DLO-18",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fa54a47348b22b06ba69c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2562"
-  },
-  {
-    "id": 7313,
-    "IDcode": "2032",
-    "title": "[Digital Lover (なかじまゆか)] 大人馴染2 DLO-12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2242cd0baf0f1099286da.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2032"
-  },
-  {
-    "id": 9669,
-    "IDcode": "4156",
-    "title": "[Digital Lover (なかじまゆか)] 大人馴染3 DLO-13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b02c8041dadb4e323d577.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4156"
-  },
-  {
-    "id": 5194,
-    "IDcode": "1512",
-    "title": "[Digital Lover (なかじまゆか)] 孕ませ屋 DLO-16",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/926919453317005ec9260.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1512"
-  },
-  {
-    "id": 7450,
-    "IDcode": "2156",
-    "title": "[Digital Lover (なかじまゆか)] 孕ませ屋2 DLO-19",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4f9f6ed00471ce5db99a8.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2156"
-  },
-  {
-    "id": 9176,
-    "IDcode": "3712",
-    "title": "[Dikk0] 差分４６枚！白上Fbkちゃんといっぱい交尾しまくるCG集! (白上フブキ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/11e789a0f94d41ddae098.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3712"
-  },
-  {
-    "id": 7418,
-    "IDcode": "2127",
-    "title": "[Dodok] W (Arknights)  [Lowsen]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c72a0e10935ca53a63cff.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2127"
-  },
-  {
-    "id": 7315,
-    "IDcode": "2034",
-    "title": "[Dodok] 方舟性闻录1 (Arknights) [明日方舟]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9c66d85d2329b9a9b1968.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2034"
-  },
-  {
-    "id": 10524,
-    "IDcode": "4926",
-    "title": "[Doggie-YU] 拉克絲 x 達瑞文",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f12eb2a49791c0da19f71.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4926"
-  },
-  {
-    "id": 11777,
-    "IDcode": "6054",
-    "title": "[Dr.P] サーペンタイン・ラブ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7378458052504dbc59d8c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6054"
-  },
-  {
-    "id": 11864,
-    "IDcode": "6132",
-    "title": "[Dr.P] センパイハンティング",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fee3e9a73bfb8220322bd.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6132"
-  },
-  {
-    "id": 11877,
-    "IDcode": "6144",
-    "title": "[Dr.P] フラストレーション・ホールド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/af30d2da65f91266263e3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6144"
-  },
-  {
-    "id": 11879,
-    "IDcode": "6146",
-    "title": "[Dr.P] フラストレーション・ホールド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/53df80a5350aad85e093c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6146"
-  },
-  {
-    "id": 11700,
-    "IDcode": "5986",
-    "title": "[Dr.P] プリペイドハニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/dd6018284b6394c2f74d1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5986"
-  },
-  {
-    "id": 8438,
-    "IDcode": "3045",
-    "title": "[Duokuma] 乗っ取り彼女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/945d7c614003e0ef87894.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3045"
-  },
-  {
-    "id": 4740,
-    "IDcode": "1426",
-    "title": "[Duokuma] 原神乗っ取り (原神) (中国翻译)  [pixiv]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/18823b5813fe18754f9ee.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1426"
-  },
-  {
-    "id": 8378,
-    "IDcode": "2992",
-    "title": "[Duokuma] 楽しい入院生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b12431a947c44c95088b3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2992"
-  },
-  {
-    "id": 7532,
-    "IDcode": "222",
-    "title": "[EBA] ラブホイール 最終話 (COMIC アンスリウム 2022年5月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/920334d183312ccc76390.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=222"
-  },
-  {
-    "id": 8651,
-    "IDcode": "3238",
-    "title": "[EBA] ラブホイール 第三話 (COMIC アンスリウム 2022年1月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a3da768f169b689d6181e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3238"
-  },
-  {
-    "id": 8600,
-    "IDcode": "3192",
-    "title": "[EBA] ラブホイール 第二話 (COMIC アンスリウム 2021年11月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8fdc8118f3aa1f4083dfd.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3192"
-  },
-  {
-    "id": 7395,
-    "IDcode": "2106",
-    "title": "[EBA] ラブホイール 第四話 (COMIC アンスリウム 2022年3月号)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/37c2626d843fbbf4b7309.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2106"
-  },
-  {
-    "id": 8150,
-    "IDcode": "2787",
-    "title": "[EBA] 能力学園下克上 ～僕が学園を制すまで～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3a509dba24a61c14c08b0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2787"
-  },
-  {
-    "id": 8632,
-    "IDcode": "3220",
-    "title": "[ED] 友達のままじゃ嫌だから",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6172441f986efe3477c08.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3220"
-  },
-  {
-    "id": 8759,
-    "IDcode": "3336",
-    "title": "[ERECT TOUCH (エレクトさわる)] BUNNY SLAVE 〜ご主人様の性欲処理しちゃいます〜 (ブルーアーカイブ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a31b83596bed7042bd1e9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3336"
-  },
-  {
-    "id": 8578,
-    "IDcode": "3172",
-    "title": "[EROTOMANIA (Nanae)] えっちなギャルJKと雨宿りついでに浮気交尾しちゃうやつ。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/db826a919b159c7f40806.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3172"
-  },
-  {
-    "id": 8086,
-    "IDcode": "2729",
-    "title": "[Edge Garam] 숨겨진 뒷이야기 - 이이노 미코 (かぐや様は告らせたい)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/28e9a07855ff532c22269.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2729"
-  },
-  {
-    "id": 10187,
-    "IDcode": "4622",
-    "title": "[ElectricSheep (シビレヒツジ)] 実験体J秘匿洗脳改造実験ファイル (バイオハザード)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f9d73b91cbe736d6a213b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4622"
-  },
-  {
-    "id": 10898,
-    "IDcode": "5263",
-    "title": "[Eonsang] FFM Manga (Girls' Frontline) [中国翻译] [Decensored]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1cf4959db9402b190e574.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5263"
-  },
-  {
-    "id": 10899,
-    "IDcode": "5264",
-    "title": "[Eonsang] MDR Manga(少女前线)  [大受气包烤RO组汉化][Decensored]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/71aaf87927aa68768516d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5264"
-  },
-  {
-    "id": 7822,
-    "IDcode": "2491",
-    "title": "[Eonsang] kalina manga",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5f15bf64f2e7f6155fc57.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2491"
-  },
-  {
-    "id": 10900,
-    "IDcode": "5265",
-    "title": "[Eonsang] 용돈낭비금지♥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6274ea8e68217f5df2413.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5265"
-  },
-  {
-    "id": 10897,
-    "IDcode": "5262",
-    "title": "[Eonsang] AK12 manga (少女前線)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/39b21af8b3192212f6f05.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5262"
-  },
-  {
-    "id": 11360,
-    "IDcode": "567",
-    "title": "[EroRhythm (にわリズム)] 格闘レイプ ―最強少女・跳花が犯された日―",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/da194ad68d9d20324fcd1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=567"
-  },
-  {
-    "id": 13838,
-    "IDcode": "790",
-    "title": "[ErotIs (成田コウ)] 合法痴漢優先席～膣に中出しパコれよ乙女～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f428eb8ced47d9298ab96.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=790"
-  },
-  {
-    "id": 10185,
-    "IDcode": "4620",
-    "title": "[ErotIs (成田コウ)] 継母といっしょ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3fab3ba259b79eb16087c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4620"
-  },
-  {
-    "id": 7788,
-    "IDcode": "2460",
-    "title": "[Estrus Girls (彩社長)] トイレのマリア様 (Melty H)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/005c410093f78d01a9a95.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2460"
-  },
-  {
-    "id": 8537,
-    "IDcode": "3134",
-    "title": "[EsuEsu] 発狂催眠アプリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/73276b2bba6f2cb513b01.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3134"
-  },
-  {
-    "id": 8629,
-    "IDcode": "3218",
-    "title": "[EsuEsu] 魔法少女VS淫魔生物",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3288ba0b135a322d877c1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3218"
-  },
-  {
-    "id": 8617,
-    "IDcode": "3207",
-    "title": "[EsuEsu] 魔法少女vs淫魔生物 15",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/316607a66f12d24f0ab72.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3207"
-  },
-  {
-    "id": 9073,
-    "IDcode": "361",
-    "title": "[F.W.ZHolic (FAN)] お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/53041eaa81dfd7d4d27e1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=361"
-  },
-  {
-    "id": 10184,
-    "IDcode": "461",
-    "title": "[F.W.ZHolic (FAN)] お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/53041eaa81dfd7d4d27e1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=461"
-  },
-  {
-    "id": 9398,
-    "IDcode": "3912",
-    "title": "[F.W.ZHolic (FAN)] 美少女暴君乳搾人格排泄録 (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6ce2ca82a11f40ce6b68c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3912"
-  },
-  {
-    "id": 15812,
-    "IDcode": "971",
-    "title": "[FANBOX] にど/Degree123",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f64f3dc8a8fb6acf8f49c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=971"
-  },
-  {
-    "id": 5039,
-    "IDcode": "148",
-    "title": "[FANBOX] にど/Degree123 [ページ欠落]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/11a997702f68d0d475ef9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=148"
-  },
-  {
-    "id": 6405,
-    "IDcode": "1621",
-    "title": "[FANBOX] 紅玉 (3337516)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0ffaff11fe35551e88d97.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1621"
-  },
-  {
-    "id": 10029,
-    "IDcode": "4480",
-    "title": "[FANBOX]橘子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5a2463df3aa5bf34a3235.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4480"
-  },
-  {
-    "id": 8607,
-    "IDcode": "3199",
-    "title": "[FANBOX]藤原書記的催眠麵館",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/809ebe516766f2d1e9063.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3199"
-  },
-  {
-    "id": 9302,
-    "IDcode": "3826",
-    "title": "[FAP製作所 (瀧本ゆかり)] わわべだちゃんに抜き尽くされるっ!! (童田明治)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6ed0c41ce38753bb3856a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3826"
-  },
-  {
-    "id": 11316,
-    "IDcode": "563",
-    "title": "[FOOL's ART GALLERY (誉)] 久しぶりに会った元カノが親友の人妻に・・・",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9459573392127759153f0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=563"
-  },
-  {
-    "id": 210,
-    "IDcode": "1018",
-    "title": "[Family Affair (Family Man)] 大好きな弟が血の繋がってない妹に取られそうでヤキモキするお姉ちゃんの話。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6ef446030b43690148b7d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1018"
-  },
-  {
-    "id": 14168,
-    "IDcode": "823",
-    "title": "[Fan No Hitori] ナイチンゲール オナホ化人格排泄 (Fate/Grand Order)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cdcd410471be7af522306.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=823"
-  },
-  {
-    "id": 8941,
-    "IDcode": "34",
-    "title": "[Fanbox&Pixiv]雨存[中文化]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a8b38a6c8ede2432ca261.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=34"
-  },
-  {
-    "id": 7331,
-    "IDcode": "2049",
-    "title": "[Fanbox] Laserflip (2021-06-03 - 2022-01-30)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/992365d479e1a6446018c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2049"
-  },
-  {
-    "id": 7108,
-    "IDcode": "1849",
-    "title": "[Fanbox] atahuta",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7061f99c91849a3af5d88.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1849"
-  },
-  {
-    "id": 8968,
-    "IDcode": "3524",
-    "title": "[Fanbox] ikemeru十九",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/96c24c1f46d5ca3b5bc71.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3524"
-  },
-  {
-    "id": 8162,
-    "IDcode": "2798",
-    "title": "[Fanbox] ikemeru十九 (2021.10-11)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9ecc06b6b8b433dfb04b9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2798"
-  },
-  {
-    "id": 10136,
-    "IDcode": "4577",
-    "title": "[Fanbox] がおう  (Ongoing)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/eb4d4e2dd753188272491.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4577"
-  },
-  {
-    "id": 8755,
-    "IDcode": "3332",
-    "title": "[Fanbox] 菜さん - 飴色教徒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ba83ec95fd3e65c0f0e45.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3332"
-  },
-  {
-    "id": 2463,
-    "IDcode": "1221",
-    "title": "[Fanbox] 豹紋院ござる NTR洗脳ユエ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/45ffc2911e4963aba8742.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1221"
-  },
-  {
-    "id": 9355,
-    "IDcode": "3874",
-    "title": "[Fanbox] 隈吉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cc6167f0234105063c9b6.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3874"
-  },
-  {
     "id": 7322,
     "IDcode": "2040",
     "title": "[Fanbox] 隈吉 追加",
@@ -1536,38 +80,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1074"
   },
   {
-    "id": 12205,
-    "IDcode": "643",
-    "title": "[Fatalpulse (朝凪)] VictimGirls19 JEZEBEL AMAZONES (ダンジョンに出会いを求めるのは間違っているだろうか)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ff071a76c431027308a47.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=643"
-  },
-  {
-    "id": 11538,
-    "IDcode": "583",
-    "title": "[Fatalpulse (朝凪)] VictimGirls19 JEZEBEL AMAZONES (ダンジョンに出会いを求めるのは間違っているだろうか)  [カラー化]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑白"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ff071a76c431027308a47.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=583"
-  },
-  {
     "id": 8706,
     "IDcode": "3288",
     "title": "[Fatalpulse (朝凪)] レディ、メイドに堕つ (アズールレーン)",
@@ -1584,9 +96,9 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3288"
   },
   {
-    "id": 8722,
-    "IDcode": "3301",
-    "title": "[Fatalpulse (朝凪)] レディ、メイドに堕つ (アズールレーン)",
+    "id": 7636,
+    "IDcode": "2323",
+    "title": "[Finecraft69 (井硲六郎)] ある家族の肖像",
     "year": "",
     "country": "",
     "genre": "",
@@ -1596,7 +108,1495 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1c9b4ff40c46f08a0fad6.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3301"
+    "cover_url": "https://telegra.ph/file/2dae3101e8e1ccdc7a3fc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2323"
+  },
+  {
+    "id": 9243,
+    "IDcode": "3773",
+    "title": "[Fishneak (クロFn)] 潜入慰安将校イナミ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ecafb56ee0b9458304424.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3773"
+  },
+  {
+    "id": 10529,
+    "IDcode": "4930",
+    "title": "[Flicker10 (くろニャン)] シャーリーと新婚甘々子作H本 (ストライクウィッチーズ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/22ee482e63151e46628e2.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4930"
+  },
+  {
+    "id": 13669,
+    "IDcode": "7758",
+    "title": "[Foundation／1 (MANA)] ジェントルリズム4 (東方Project)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/872f2cafc314147a8ead7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=7758"
+  },
+  {
+    "id": 13661,
+    "IDcode": "7750",
+    "title": "[Foundation／1 (MANA)] ジェントルリズム5 (東方Project)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2c4702c20a0ccb7a632f7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=7750"
+  },
+  {
+    "id": 8297,
+    "IDcode": "2919",
+    "title": "[Free Style] 囚われのベッドルーム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/28fae4940c84d0e8b9eee.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2919"
+  },
+  {
+    "id": 10018,
+    "IDcode": "4470",
+    "title": "[French letter (藤崎ひかり)] シスタークレアの淫らな秘密 (シスター・クレア)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/3a6a46c6c1635a7f0bbe3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4470"
+  },
+  {
+    "id": 11826,
+    "IDcode": "6099",
+    "title": "[Fue] はむらびっ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2229ee42619e96fd49ec8.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6099"
+  },
+  {
+    "id": 11793,
+    "IDcode": "6069",
+    "title": "[Fue] 淫魔のミカタ! ～タダより高いモノはない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6d0c3477e41f304ab69ef.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6069"
+  },
+  {
+    "id": 11820,
+    "IDcode": "6093",
+    "title": "[Fue] 淫魔のミカタ! ～吸精主のお仕事は～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/32addf23cad1f70e11f99.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6093"
+  },
+  {
+    "id": 12018,
+    "IDcode": "6271",
+    "title": "[Fue] 淫魔のミカタ！~目には目を、堅物には堅ブツを~",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2f923824450224dc139e4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6271"
+  },
+  {
+    "id": 9704,
+    "IDcode": "4188",
+    "title": "[Futamare (あきあまれ)] ふたなりJK理乃子ちゃん❤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f658acd17b589402d0620.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4188"
+  },
+  {
+    "id": 9277,
+    "IDcode": "3803",
+    "title": "[F宅 (安間)] 失恋と喪失",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6e89d35bc476b820b4212.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3803"
+  },
+  {
+    "id": 8163,
+    "IDcode": "2799",
+    "title": "[GABUGABU (ガブリ)] 30歳になる処女の姉は焦っている",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6e9654b0857904b1ee373.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2799"
+  },
+  {
+    "id": 7952,
+    "IDcode": "2608",
+    "title": "[GADGET (A-10)] 懇願種付け公衆便所 巴マミvs豚 (魔法少女まどか☆マギカ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e599f47684461c29d9cdb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2608"
+  },
+  {
+    "id": 11726,
+    "IDcode": "6008",
+    "title": "[GEKO] 堕ちた優等生 -皐月-",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e7823b2c084b317dd2165.png",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6008"
+  },
+  {
+    "id": 11479,
+    "IDcode": "5787",
+    "title": "[GEN] 竜姫契草紙 (モンスター少女との痴情)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/73334cc0b357920d4dd82.png",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5787"
+  },
+  {
+    "id": 8644,
+    "IDcode": "3231",
+    "title": "[GGGG]加賀さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/21b91e6ab5e72a85c3397.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3231"
+  },
+  {
+    "id": 11775,
+    "IDcode": "6052",
+    "title": "[GIGIメット] 俺の得意魔法はエロ魔法でした",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/332b6b2b14e70bf286a62.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6052"
+  },
+  {
+    "id": 7204,
+    "IDcode": "1935",
+    "title": "[GR-2] ふたなりサキュバス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/20706123bd46f20f7fb39.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1935"
+  },
+  {
+    "id": 1908,
+    "IDcode": "1171",
+    "title": "[GR-2] 悪魔召喚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d34c6896f10d14db037b3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1171"
+  },
+  {
+    "id": 5471,
+    "IDcode": "1537",
+    "title": "[Gehyul Great Demon(魔神ゲヒュール)]催眠アプリでかんたん指導!! [周央珊瑚汉化组]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8c249e10d5d46857ae860.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1537"
+  },
+  {
+    "id": 10154,
+    "IDcode": "4593",
+    "title": "[Godletter] Emperor's Whore",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7c841a50b29c4e14a8f1d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4593"
+  },
+  {
+    "id": 7977,
+    "IDcode": "2630",
+    "title": "[Gorani]皮城执法官人格排泄 Arcane Slut Cops! (League of Legends)（djsymq机翻汉化）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b06024d287b89c8354353.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2630"
+  },
+  {
+    "id": 10630,
+    "IDcode": "5020",
+    "title": "[Grand Plié. (Erohamu)] Chikubi Batsu 乳头惩罚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ec94e58accfba874f5c81.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5020"
+  },
+  {
+    "id": 7232,
+    "IDcode": "1960",
+    "title": "[Grand lemon (隣)] 幼女先輩(20)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e38e4dd206f7d95682843.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1960"
+  },
+  {
+    "id": 8232,
+    "IDcode": "2860",
+    "title": "[Grand lemon (隣)] 続・ぽんこつサキュバスちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e40098f32e87c76442bfb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2860"
+  },
+  {
+    "id": 9362,
+    "IDcode": "3880",
+    "title": "[Gゼロ] 家事代行サービス人妻NTRモノ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/93e7fa469cf636318641d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3880"
+  },
+  {
+    "id": 11386,
+    "IDcode": "5702",
+    "title": "[H9] 続・迷える子羊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4d25196f5418e2fdffacd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5702"
+  },
+  {
+    "id": 8359,
+    "IDcode": "2975",
+    "title": "[H9] 罰と恋 (にょたいか！ものがたり)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/77fc3140a20cda70f3dc4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2975"
+  },
+  {
+    "id": 11495,
+    "IDcode": "5800",
+    "title": "[HANABi] S♥Debut！あふた～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/79de0d00f96cf4bca3310.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5800"
+  },
+  {
+    "id": 11138,
+    "IDcode": "547",
+    "title": "[HANABi] おねショタ心霊スポット 前編 + 後編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/96967e7e4af105feb943f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=547"
+  },
+  {
+    "id": 7745,
+    "IDcode": "2421",
+    "title": "[HANEE] (ooc)罗德岛性处理部干员档案—水月篇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/91c4b552167d17e31ddd4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2421"
+  },
+  {
+    "id": 3640,
+    "IDcode": "1327",
+    "title": "[HANEE]性处理部·芳汀-出勤报告Extra",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/1bc94602e8535919d8f1c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1327"
+  },
+  {
+    "id": 3651,
+    "IDcode": "1328",
+    "title": "[HANEE]罗德岛性处理部干员档案—安塞尔篇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/36713b0ebda2e49b26814.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1328"
+  },
+  {
+    "id": 13732,
+    "IDcode": "7814",
+    "title": "[HAPPO流(八宝備仁)] IMMORAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/456c962f58ce51b4361aa.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=7814"
+  },
+  {
+    "id": 9447,
+    "IDcode": "3957",
+    "title": "[HGH (HG茶川)] キミはやさしく寝取られる2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7f6bac6e944863ae610ac.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3957"
+  },
+  {
+    "id": 8531,
+    "IDcode": "3129",
+    "title": "[HGTラボ (津差宇土)] 自治会の人妻はとてもHでした。2 地区センター職員 中原恵子編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/51aa17538b2f117c392c1.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3129"
+  },
+  {
+    "id": 8762,
+    "IDcode": "3339",
+    "title": "[HGTラボ (津差宇土)] 自治会の人妻はとてもHでした。2 地区センター職員 中原恵子編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/51aa17538b2f117c392c1.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3339"
+  },
+  {
+    "id": 8791,
+    "IDcode": "3365",
+    "title": "[HGTラボ (津差宇土)] 自治会の人妻はとてもHでした。副会長一ノ瀬真美編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/7c3f8863d03a93517e69a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3365"
+  },
+  {
+    "id": 8300,
+    "IDcode": "2921",
+    "title": "[HG茶川] 夜姦進入 (ANGEL 倶楽部 2016年6月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/5ab039cf281ed4eabb192.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2921"
+  },
+  {
+    "id": 7937,
+    "IDcode": "2595",
+    "title": "[HIDARIkiki (傷希レイ)] ゲームオブビッチーズ2  [カラー化]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/606c81b8967d965243a3f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2595"
+  },
+  {
+    "id": 8118,
+    "IDcode": "2758",
+    "title": "[HIGH RISK REVOLUTION (あいざわひろし)] さよなら、every2 (ラブプラス EVERY)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/aae762457ffb8e8089377.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2758"
+  },
+  {
+    "id": 7874,
+    "IDcode": "2538",
+    "title": "[HLL.ALSG99]魔法少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b3238ed03fac3b8616d6f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2538"
+  },
+  {
+    "id": 7740,
+    "IDcode": "2417",
+    "title": "[HLL.ALSG99]魔法少女续",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/11361bd32ed58beb7eae4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2417"
+  },
+  {
+    "id": 10537,
+    "IDcode": "4938",
+    "title": "[HOT CALPIS] 生きるために私がしたこと1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b2ca3bfc3afe50a6cdf4e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4938"
+  },
+  {
+    "id": 7938,
+    "IDcode": "2596",
+    "title": "[Haikey (になこ275)] 冷徹王子は溺愛の素質があるかもしれない2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b878eb0ec0c6988233c8d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2596"
+  },
+  {
+    "id": 10275,
+    "IDcode": "4701",
+    "title": "[Half Mile (Yaomai)] PACOPACO BUKKAKE SEX (Senran Kagura) [chinese]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/181bfc5baa3f67d1fbc60.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4701"
+  },
+  {
+    "id": 9326,
+    "IDcode": "3848",
+    "title": "[Hamao] Prepayment (COMIC快楽天 2022年2月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b44669f7093a656874357.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3848"
+  },
+  {
+    "id": 5016,
+    "IDcode": "1469",
+    "title": "[Hamao] diss (コミックゼロス #50)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6a5c854b64ae2b74e96d5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1469"
+  },
+  {
+    "id": 9085,
+    "IDcode": "3630",
+    "title": "[Hamao] straying (COMIC 快楽天 2021年11月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/a73fcfcd6c9462a65699f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3630"
+  },
+  {
+    "id": 12383,
+    "IDcode": "65",
+    "title": "[Hamao] かわいいひと (COMIC 快楽天 2022年3月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/37636718f4ffbfb4fad79.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=65"
+  },
+  {
+    "id": 7887,
+    "IDcode": "254",
+    "title": "[Hamao] この後どうします? (COMIC 快楽天 2022年6月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/3a55102f400b654cd6657.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=254"
+  },
+  {
+    "id": 10048,
+    "IDcode": "4498",
+    "title": "[Hamao] ショコラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/28a02caca60b6801b655f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4498"
+  },
+  {
+    "id": 10803,
+    "IDcode": "5177",
+    "title": "[Hamao] プレゼント (COMIC快楽天 2022年10月号) [MJK-22-Z2815]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/65af45f8b3fff34fdf3d3.png",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5177"
+  },
+  {
+    "id": 11769,
+    "IDcode": "6047",
+    "title": "[Hirno] ゾンビパニック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/9d605331f16b6e586e588.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6047"
+  },
+  {
+    "id": 13643,
+    "IDcode": "7734",
+    "title": "[Hiroki Yagami] G-taste 5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d4c2f0865797efd2a8025.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=7734"
+  },
+  {
+    "id": 8889,
+    "IDcode": "3453",
+    "title": "[HoneyRoad (Bee導師)] 配達バニーガール",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/8f1759c657e39570c1a9a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3453"
+  },
+  {
+    "id": 9501,
+    "IDcode": "4004",
+    "title": "[Hotel Negresco (Negresco)] hepatica8.0 郷愁の章 (ゼノブレイド2)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/9d29b21b4a238c31cbd38.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4004"
+  },
+  {
+    "id": 8976,
+    "IDcode": "3531",
+    "title": "[I-Raf-you (B-RIVER)] みんな、我がママ? (マイクローンマガジン Vol.60)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6790f7b38b1d48a271644.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3531"
+  },
+  {
+    "id": 6194,
+    "IDcode": "1602",
+    "title": "[I-Raf-you (bowalia)] ヒーロートレーニング (マイクローンマガジン Vol.43)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/efaa5e19016b21d27903b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1602"
+  },
+  {
+    "id": 10213,
+    "IDcode": "4646",
+    "title": "[ICE] ヒミツの淫猥病棟 (穢されグラマラス)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/82dd8bcb6abb6e4cac905.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4646"
+  },
+  {
+    "id": 7257,
+    "IDcode": "1983",
+    "title": "[ICE] マッチング上司 相性はカラダでチェック (ANGEL 倶楽部 2022年3月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f62f3a1bda94d44bcc114.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1983"
+  },
+  {
+    "id": 10238,
+    "IDcode": "4669",
+    "title": "[ICE] 淫姦オークション 後編 (穢されグラマラス)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/cfcbddaa8f7819054fea3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4669"
+  },
+  {
+    "id": 14235,
+    "IDcode": "82",
+    "title": "[ICE] 秘めたる雌の心を燈して (ANGEL倶楽部 2021年10月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/f0a5128cd261b4dcb38a5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=82"
+  },
+  {
+    "id": 7054,
+    "IDcode": "17",
+    "title": "[ICE] 秘めたる雌の火照り鎮めて (ANGEL 倶楽部 2021年4月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/c090906330f9c490bf6d1.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=17"
+  },
+  {
+    "id": 8166,
+    "IDcode": "2800",
+    "title": "[ICHIGAIN] 先輩、かわE!!! (COMIC 快楽天 2020年12月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0f601b500d4b2e92b54f7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2800"
+  },
+  {
+    "id": 8502,
+    "IDcode": "3102",
+    "title": "[INAGO] ペットのキモチ (COMIC BAVEL 2019年1月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/117c99207b7294ca413c2.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3102"
+  },
+  {
+    "id": 9909,
+    "IDcode": "4372",
+    "title": "[INAGO] 黒く染められたキャンバス (COMIC BAVEL 2015年6月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b2bec38d9c92b9ebede44.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4372"
+  },
+  {
+    "id": 10619,
+    "IDcode": "5010",
+    "title": "[Ichijikushirabe Shiki (Shirabe Shiki)] Teikyuu Zako Inma no Shokushu ga Fukai nanode Kankaku Shadan Mahou o Tenkai Shimashita wa!!  [Entiendio汉化,风间仁重嵌] [Decensored]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4e486366021fc8e4e80c5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5010"
+  },
+  {
+    "id": 9910,
+    "IDcode": "4373",
+    "title": "[Imitation Moon (成海優)] クールな彼女はもう俺には微笑んでくれない… (ソードアート・オンライン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/44c25ed24b69d199f1b6b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4373"
+  },
+  {
+    "id": 8875,
+    "IDcode": "3440",
+    "title": "[Imitation Moon (成海優)] 黒の剣士と呼ばれた俺はもういない… (ソードアート・オンライン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/793d6853e75c1892edac7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3440"
+  },
+  {
+    "id": 9839,
+    "IDcode": "4309",
+    "title": "[In The Sky (中乃空)] ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/b15720d5763859d9459e4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4309"
+  },
+  {
+    "id": 6970,
+    "IDcode": "1724",
+    "title": "[In The Sky (中乃空)] ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ae93b66739cdd984641d8.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1724"
+  },
+  {
+    "id": 8671,
+    "IDcode": "3256",
+    "title": "[Ink Complex (智弘カイ)] 秘公開サブプラン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/252d9663a26d98301d1a4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3256"
+  },
+  {
+    "id": 765,
+    "IDcode": "1068",
+    "title": "[Iris art (戸田比佐也)] 今夜、妻が他人と寝る",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/90c6d18a4d989721b4191.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1068"
+  },
+  {
+    "id": 8172,
+    "IDcode": "2806",
+    "title": "[IronSugar] 初めての相手はお父さんでした ＃3 淫乱巨乳な長女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2a42c8e73c4440f39600c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2806"
+  },
+  {
+    "id": 4306,
+    "IDcode": "1387",
+    "title": "[Iwao] BLEACH の巨乳3人組を即堕ちさせたい といろいろ（Chinese）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/80b2946123cebbb02c0e7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1387"
+  },
+  {
+    "id": 13349,
+    "IDcode": "746",
+    "title": "[Iwao] ヨガパンツ乱菊 といろいろ（Chinese）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/56fc4e3a9f32f240bf16c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=746"
+  },
+  {
+    "id": 8741,
+    "IDcode": "331",
+    "title": "[Iwao] 御門先生の治療♡ といろいろ（Chinese）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/d57df908e67a517b1a5da.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=331"
+  },
+  {
+    "id": 7180,
+    "IDcode": "1913",
+    "title": "[JJ.JJ]  56. \"Happy New Year!!!\" (CN, Eng, JP, Kor, NoText)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/aa5056c584c6384b33506.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1913"
+  },
+  {
+    "id": 7368,
+    "IDcode": "2082",
+    "title": "[JJ.JJ] 57. \"Acerola and Lana\" (CN, Eng, JP, Kor, NoText)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0a0c3bb1d8198baef92bc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2082"
+  },
+  {
+    "id": 998,
+    "IDcode": "108",
+    "title": "[JJ.JJ] Closers Futanari (CLOSERS)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/809bca9bd57a911c8089e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=108"
+  },
+  {
+    "id": 8076,
+    "IDcode": "271",
+    "title": "[JJ.JJ] Fubuki Anal Expansion",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2fff4310ddedbdc504733.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=271"
+  },
+  {
+    "id": 8720,
+    "IDcode": "32",
+    "title": "[JJ.JJ] Personality Expression Akari (Pokemon Legends Arceus)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/9f5d18f57c9a2c3e27bea.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=32"
+  },
+  {
+    "id": 8148,
+    "IDcode": "2785",
+    "title": "[JJ.JJ] Rinko's Personality Excretion 凛子人格排泄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/cff1ec247bd42b916ba4c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2785"
+  },
+  {
+    "id": 12939,
+    "IDcode": "70",
+    "title": "[JJ.JJ] Selene and Gloria Hypnosis (Pokemon)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/08618e93cae18c4655b70.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=70"
+  },
+  {
+    "id": 7742,
+    "IDcode": "2419",
+    "title": "[JK君] 奴隸援交妹——零珠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4246ae064b3b03ac4cac6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2419"
+  },
+  {
+    "id": 16034,
+    "IDcode": "991",
+    "title": "[JOKERKIN]-(pixiv)  Bunny & tentacles[中文字幕］",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/4280207cea9fa478380dc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=991"
+  },
+  {
+    "id": 6882,
+    "IDcode": "1664",
+    "title": "[JUNKセンター亀横ビル (ちりま屋)] お母さん美津子 お受験ママの代理セックス〜高田家のお兄ちゃん〜 (ヒカルの碁)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/195f9e94fab761e0b8c2e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1664"
+  },
+  {
+    "id": 12916,
+    "IDcode": "707",
+    "title": "[JUNKセンター亀横ビル] ゴミ部屋息子との性生活が習慣化しているお母さんが、思わぬ性感帯を開発されてしまった話。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/3843e6710287aa5a142db.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=707"
+  },
+  {
+    "id": 10409,
+    "IDcode": "4822",
+    "title": "[JUNKセンター亀横ビル] 今夜、母と妊活します。参 〜夜伽村の抱きまんま〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/71a112f2c11368797e24d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4822"
+  },
+  {
+    "id": 8928,
+    "IDcode": "3489",
+    "title": "[Jun] FEEL SO ASS ~運命、感じちゃった♥~ (COMIC天魔 2015年12月号)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/733837b1e26e177a63244.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3489"
+  },
+  {
+    "id": 9715,
+    "IDcode": "4198",
+    "title": "[Jun] けもの道 (COMIC外楽 Vol.07)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑白"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/48fa2652ddeb21342aa96.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4198"
   }
 ];
