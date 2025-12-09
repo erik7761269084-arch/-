@@ -343,7 +343,8 @@ function initPlayer() {
     descriptionEl.textContent = seriesInfo.description || "";
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
-
+	document.title = `${seriesInfo.IDcode} - ${seriesInfo.title} - ${name}`;
+	
 	/* ========== 出品厂商 + 数量 等宽 + 闪亮动画 + 不换行 ========== */
 	if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
 
