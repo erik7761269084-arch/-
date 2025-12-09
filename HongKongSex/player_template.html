@@ -351,6 +351,7 @@ function initPlayer() {
     descriptionEl.textContent = seriesInfo.description || "";
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
+	document.title = `${seriesInfo.title} ${name}`;
 
     actressGrid.innerHTML = "";
     if(Array.isArray(seriesInfo.actresses)){
