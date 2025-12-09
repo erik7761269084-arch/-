@@ -1,22 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 146849,
-    "title": "麻豆原创强制灌精女室友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "麻豆传媒",
-      "原创"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-7/6aa945c08929b41ae7c333c5d3c4197b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=146849"
-  },
-  {
     "id": 147972,
     "title": "麻豆原创我爱棒棒糖",
     "year": "",

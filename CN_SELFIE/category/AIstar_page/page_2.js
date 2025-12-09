@@ -1,21 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 261030,
-    "title": "[AI换脸]江疏影 乳交的快乐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/3836c896d48589d82ff3d71f6f40e5b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261030"
-  },
-  {
     "id": 261078,
     "title": "[AI换脸]江疏影 办公室内的性爱",
     "year": "",
@@ -445,22 +429,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260851"
   },
   {
-    "id": 260947,
-    "title": "[AI换脸]范冰冰 白色的诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/5ebe389a20598a4a8b98e5dc5d30dcf6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260947"
-  },
-  {
     "id": 260855,
     "title": "[AI换脸]范冰冰 直播黑丝自慰 很销魂",
     "year": "",
@@ -709,41 +677,6 @@ window.PAGE_DATA = [
     "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/95fe0dafb79dd27206f88ef8a41a3342.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260846"
-  },
-  {
-    "id": 261011,
-    "title": "[AI换脸]费沁源 学生制服性爱视频",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "情趣诱惑",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/0855adc34acdae7cae51543aa0183f56.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261011"
-  },
-  {
-    "id": 261008,
-    "title": "[AI换脸]费沁源 舔逼逼真香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "舔逼玩穴"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/eecacad8be625e3413a12e2439375432.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261008"
   },
   {
     "id": 261032,
@@ -1646,5 +1579,71 @@ window.PAGE_DATA = [
     "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/28d400134fe61c72816b4d693b6519dc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260876"
+  },
+  {
+    "id": 261059,
+    "title": "[AI换脸]迪丽热巴 美腿上位热巴版本",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/2b658320902a02524b91b7a934b59635.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261059"
+  },
+  {
+    "id": 260926,
+    "title": "[AI换脸]迪丽热巴 自慰喷潮 上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/954d9c25f3fdcfe17e95745532de0732.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260926"
+  },
+  {
+    "id": 260885,
+    "title": "[AI换脸]迪丽热巴 自摸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/4fc46b86db31dcdd0f69306ab52409b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260885"
+  },
+  {
+    "id": 261003,
+    "title": "[AI换脸]迪丽热巴 自摸诱惑，激情做爱内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/7435df61669a46f2864d0ac548c0cdf8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261003"
   }
 ];

@@ -1,6 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20240830/ZE9MUdUa/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20240830/ZE9MUdUa/index.m3u8",
+    "线路2": "https://lsbbf5.com/20240206/U3nal0JY/index.m3u8",
+    "线路3": "https://lsbbf2.com/20231017/jWOYeXQV/index.m3u8",
+    "线路4": "https://lsbbf5.com/20241118/eO3mS28d/index.m3u8"
   },
   "seriesInfo": {
     "id": 60571,

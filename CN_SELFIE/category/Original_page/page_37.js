@@ -1753,22 +1753,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154004"
   },
   {
-    "id": 139371,
-    "title": "最新原创大片-江苏商学院王悠悠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "原创"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231109-1/79513cad0b8dda2ac7e3cedacaece538.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139371"
-  },
-  {
     "id": 117886,
     "title": "最新原创大片-江苏商学院王悠悠第一期",
     "year": "",
@@ -1819,5 +1803,25 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/a031f2gy4jb.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=55693"
+  },
+  {
+    "id": 55694,
+    "title": "最新流出91原创出品女同事援交实录极品白虎嫩嫩外送女模到府上做爱1080P高清原版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "原创",
+      "女同",
+      "极品尤物",
+      "黑料泄密",
+      "91系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/tbjjzjtdmhu.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=55694"
   }
 ];

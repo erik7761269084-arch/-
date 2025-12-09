@@ -1,22 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 251505,
-    "title": "【水果派】美女和大叔交换灵魂1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "水果派",
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=251505"
-  },
-  {
     "id": 251731,
     "title": "【水果派】老绿奴献计-成全幻想中的美人妻1",
     "year": "",
@@ -1810,5 +1793,22 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240620-1/9232cf2159621b377d0875387fe12e5d.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=122266"
+  },
+  {
+    "id": 165769,
+    "title": "【绿奴调教】小白鞋训练贱狗超刺激淫语不断",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67ef61c84e7d663df47a4b11/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165769"
   }
 ];

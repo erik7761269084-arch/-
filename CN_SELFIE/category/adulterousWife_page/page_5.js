@@ -1,25 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 24547,
-    "title": "KTV换妻探花回归4P首秀还是原来的味道KTV唱歌喝酒回房间开操交换一人一个后入猛顶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "探花系列",
-      "淫妻系列",
-      "多人淫乱",
-      "KTV",
-      "后入"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240914-4/4b36cf78d3e5d973eddc49b6d23ff133.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24547"
-  },
-  {
     "id": 25145,
     "title": "KTV换妻探花约一对.夫妻交.换4P.KT.V唱歌撕开.丝袜扣穴",
     "year": "",
@@ -1687,5 +1667,21 @@ window.PAGE_DATA = [
     "cover_url": "/upload/vod/20250715-5/7c2cd93574c42636ecb662b59944b220.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3670"
+  },
+  {
+    "id": 72940,
+    "title": "PMC072 竟给自己戴绿帽叫男模一起操妻子 乔安(苏娅)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-5/fef797d27b5b8e9bb06ed45c15a672ad.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=72940"
   }
 ];

@@ -1,124 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 139209,
-    "title": "约炮在校学生喜欢吸精深喉颜射一脸技术秒杀岛国女优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
-      "学生系列",
-      "口交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231114-1/2fecba34e68554625a2a4e605b91f9d6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139209"
-  },
-  {
-    "id": 117184,
-    "title": "约炮在校学生喜欢吸精深喉颜射一脸技术秒杀岛国女优!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
-      "学生系列",
-      "口交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240206-1/0833a3af4025463f953b0183ae599eca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=117184"
-  },
-  {
-    "id": 101076,
-    "title": "约炮在校清纯舞蹈生-小飞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "约炮系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/22/422ad27fca9801780f095c1c232c1ea0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=101076"
-  },
-  {
-    "id": 82095,
-    "title": "约炮在诊所上班的妹子-才子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250507-1/2c246fd0bc0651e79761daaab2bcb161.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=82095"
-  },
-  {
-    "id": 1950,
-    "title": "约炮外围女 上下皆粉的美女，乖巧配合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-18/c2485af12562f8c75ab133423dc20b8f.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1950"
-  },
-  {
-    "id": 335663,
-    "title": "约炮外围女神嗲叫声销魂大叫好深顶到了射里面对白淫荡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.ml0987.com/thumb/802884.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=335663"
-  },
-  {
-    "id": 72708,
-    "title": "约炮外围学生妹 身材简直不要太好 草的好多淫水",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-5/b19dcbd471ede1a5e2741fa903cb3254.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=72708"
-  },
-  {
     "id": 128161,
     "title": "约炮外围小少妇对白清楚像谈恋爱的小情侣",
     "year": "",
@@ -1810,5 +1691,124 @@ window.PAGE_DATA = [
     "cover_url": "https://avxq104.cc/upload/vod/20250401-1/7233fa44f157829de2abf1d430dfe7f5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=83019"
+  },
+  {
+    "id": 76337,
+    "title": "约炮女校长-小郎君",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/29/26c76e4efe2a4414a505e76f234067ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=76337"
+  },
+  {
+    "id": 37299,
+    "title": "约炮女神搭讪约炮酒吧女神逆天高颜值大长腿刚吃完避孕药",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "约炮系列",
+      "高颜值"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d578131572686be75d4d69/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37299"
+  },
+  {
+    "id": 81413,
+    "title": "约炮好久没有性爱的少妇-南橘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250615-1/64860c67fc3f70cb4061a9bfcd800830.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=81413"
+  },
+  {
+    "id": 101004,
+    "title": "约炮好身材的银行柜台小姐姐-91大屌哥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "约炮系列",
+      "91系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/19/b17f9a52fd8afa1ba8cc90cbe2b5b001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=101004"
+  },
+  {
+    "id": 74604,
+    "title": "约炮妹子 居然嫌弃500太少 要800 操的她欲仙欲死",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-1/d82ee82ef9f086067c90d552cd565d79.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=74604"
+  },
+  {
+    "id": 230690,
+    "title": "约炮娇嫩白虎反差萝莉 喷水湿透床单",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列",
+      "反差婊"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/11/67d04b6d4e7d663df4e49d03/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=230690"
+  },
+  {
+    "id": 154032,
+    "title": "约炮娇嫩白虎反差萝莉喷水湿透床单",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "反差婊",
+      "约炮系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/6cf5c951d8e3d3676ca2da9d1965c4d6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154032"
   }
 ];

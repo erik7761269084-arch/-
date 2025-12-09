@@ -1,314 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 484443,
-    "title": "The Best Of Alyssia Kent",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/24/68317f16916c69f83f82cad5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=484443"
-  },
-  {
-    "id": 166885,
-    "title": "TIMD-006 順從的受虐狂男孩 Alice &amp;amp; Haruka",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/12/67d17b5e4e7d663df4e641af/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166885"
-  },
-  {
-    "id": 484568,
-    "title": "When Cherry Met Alexis",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682de6db7e1ae1e49a4cbf48/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=484568"
-  },
-  {
-    "id": 263188,
-    "title": "WINTER FAIRY MAKES YOU JERK OFF TO HER! - INDIGO WHITE",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/b3f58c7782bde280949c63c97f318cae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=263188"
-  },
-  {
-    "id": 263474,
-    "title": "ZERO TWO ANAL TRAINING - INDIGO WHITE",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/5b1c0a1015f7ca56725031a704468846.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=263474"
-  },
-  {
-    "id": 397844,
-    "title": "『杨幂』风骚挑逗，尽显女神本色 ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/06/67c9a3bb29ca3a5aed12ba8d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397844"
-  },
-  {
-    "id": 19584,
-    "title": "【AI人工智能-让女神下海不是梦】之 圣诞淫娃”彭十六“一线天嫩穴被灌满精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "高颜值",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=19584"
-  },
-  {
-    "id": 32851,
-    "title": "【AI人工智能-让女神下海不是梦】之鞠婧祎 直播黑丝自慰#骚逼#情趣内衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "主播",
-      "极品尤物",
-      "高颜值",
-      "主播网红",
-      "直播",
-      "明星换脸",
-      "自慰",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250422-1/8c0d0f7597c267f0f90036b96f786e9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=32851"
-  },
-  {
-    "id": 32849,
-    "title": "【AI去衣】【裸舞群】 高中生露出反差日记",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "明星换脸",
-      "露出",
-      "反差婊"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250422-1/343a775bac9f5a1fea6d983f59d23821.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=32849"
-  },
-  {
-    "id": 396488,
-    "title": "【AI巨星性体验】人工智能让女神下海不是梦之神仙姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a40545d7791f9273fd73b7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396488"
-  },
-  {
-    "id": 259896,
-    "title": "【AI巨星性体验】人工智能让女神下海不是梦之神仙姐姐『刘亦菲』善解人意的女秘书",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "情趣诱惑",
-      "乱伦系列",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20230915-1/e9872e4f7cda68c258f217d93027771d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259896"
-  },
-  {
-    "id": 398182,
-    "title": "【AI换脸】Lisa 带我进入她的闺房，然后骑到我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f0d4c846149d7bc4bf220/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398182"
-  },
-  {
-    "id": 398171,
-    "title": "【AI换脸】SHN48宋昕冉 从厨房干到沙发欲罢不",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f0ff3846149d7bc4bfcbb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398171"
-  },
-  {
-    "id": 398277,
-    "title": "【AI换脸】【AI换脸】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f30a0846149d7bc4c782c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398277"
-  },
-  {
-    "id": 398375,
-    "title": "【AI换脸】万茜 一日女友体验卡1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f4ad4db8c77d79bb2465f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398375"
-  },
-  {
-    "id": 398081,
-    "title": "【AI换脸】万茜 一日女友体验卡2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/13/67ad562f846149d7bcfb4c06/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398081"
-  },
-  {
-    "id": 398097,
-    "title": "【AI换脸】万茜 一日女友体验卡3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/13/67ad56104e7d663df463e3a7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398097"
-  },
-  {
-    "id": 396476,
-    "title": "【AI换脸】人工智能Al让女神下海不是梦之宅男女神",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a40516d7791f9273fd7190/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396476"
-  },
-  {
     "id": 259868,
     "title": "【AI换脸】人工智能Al让女神下海不是梦之宅男女神『景田』幻装和服美女无套抽插爆精颜射",
     "year": "",
@@ -1687,5 +1378,312 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202501/22/67908bc58f1cbfc7a9d2eb26/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398468"
+  },
+  {
+    "id": 398522,
+    "title": "【AI换脸】刘浩存 记录性福的一天",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/679094098f1cbfc7a9d2ecc5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398522"
+  },
+  {
+    "id": 398366,
+    "title": "【AI换脸】刘涛 人妻空姐性欲高涨，沦为公司高管团",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "人妻系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f46c5846149d7bc4ccc6f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398366"
+  },
+  {
+    "id": 398447,
+    "title": "【AI换脸】刘涛 美教师与性瘾学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/6790873c8f1cbfc7a9d2e956/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398447"
+  },
+  {
+    "id": 398299,
+    "title": "【AI换脸】刘涛 被迷惑的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f38d1db8c77d79bb201ae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398299"
+  },
+  {
+    "id": 398285,
+    "title": "【AI换脸】刘涛-小凤结婚（宋佳客串）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f2f72846149d7bc4c7397/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398285"
+  },
+  {
+    "id": 398138,
+    "title": "【AI换脸】刘知珉 新来的巨乳邻居，想和我搞好关系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679ef7594e7d663df44f7ef1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398138"
+  },
+  {
+    "id": 398254,
+    "title": "【AI换脸】刘诗诗 我的性豪女上司 上部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f295adb8c77d79bb1c7b2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398254"
+  },
+  {
+    "id": 398382,
+    "title": "【AI换脸】古力娜扎 一日女友体验卡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f48b5846149d7bc4cd55e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398382"
+  },
+  {
+    "id": 398060,
+    "title": "【AI换脸】古力娜扎 一日女友体验卡2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/13/67ad5581846149d7bcfb3b50/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398060"
+  },
+  {
+    "id": 398504,
+    "title": "【AI换脸】古力娜扎 学生时期援交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/679090236f34c2c7a20e60ed/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398504"
+  },
+  {
+    "id": 398303,
+    "title": "【AI换脸】古力娜扎 美女教师家访被班级学生侵犯身",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f34eadb8c77d79bb1f2e4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398303"
+  },
+  {
+    "id": 398115,
+    "title": "【AI换脸】古力娜扎直播3P激情性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主播",
+      "主播网红",
+      "直播",
+      "明星换脸",
+      "多人淫乱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/13/67ad56674e7d663df463e3b2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398115"
+  },
+  {
+    "id": 23440,
+    "title": "【AI换脸】可爱少女彭十六 自己撸多没意思就让十六姐姐帮你撸射吧 Onlyone",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "乱伦系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23440"
+  },
+  {
+    "id": 398211,
+    "title": "【AI换脸】周也 成为老板的情妇-上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f19b3db8c77d79bb18d5a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398211"
+  },
+  {
+    "id": 398221,
+    "title": "【AI换脸】周也 成为老板的情妇-下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f14eb846149d7bc4c1000/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398221"
+  },
+  {
+    "id": 398124,
+    "title": "【AI换脸】周也 机器人女友",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679efd82846149d7bc4bb50b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398124"
+  },
+  {
+    "id": 398509,
+    "title": "【AI换脸】周子瑜 酒店开房被大哥无套内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "内射",
+      "无套系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/679090cd6f34c2c7a20e60fc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398509"
+  },
+  {
+    "id": 398489,
+    "title": "【AI换脸】周子瑜 黑丝女教师前来家访，我忍不住霸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/67908c478f1cbfc7a9d2eb81/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398489"
   }
 ];

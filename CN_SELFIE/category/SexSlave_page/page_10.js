@@ -1,183 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 1461,
-    "title": "cos八重神子 稚嫩白虎美穴又粉又嫩又紧 被主人开发成小母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-17/0bbb8b2d2be369a530f4bdef8a9f8e74.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1461"
-  },
-  {
-    "id": 75302,
-    "title": "cos原神心海 美脚足交 口交ASMR 对镜拍自慰 视觉与听觉的大福利 沐沐酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "足交",
-      "自慰",
-      "性奴调教",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250714-2/25cc63dd998af589549ebe29e2fd0b23.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75302"
-  },
-  {
-    "id": 76241,
-    "title": "COS母狗被继父干到求饶-懒懒猪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/23/69a6678b4e9e3cbfed38f6e4bf19857f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=76241"
-  },
-  {
-    "id": 18127,
-    "title": "Cos系列之约尔 束缚调教强制深喉 捆绑深插内射 浵卡Tokar",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "内射",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18127"
-  },
-  {
-    "id": 18126,
-    "title": "Cos系列之魅魔 抠逼调教抱起深插 全程浪叫 浵卡Tokar",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18126"
-  },
-  {
-    "id": 39791,
-    "title": "Couplelove巨乳肥臀反差母狗口技展示求着让肉棒肏自慰到高潮-露脸口交道具自慰高潮喷水",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
-      "巨乳",
-      "口交",
-      "性奴调教",
-      "自慰"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250108-1/2a7b019f632ea831cca712a3a6cc1cd2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39791"
-  },
-  {
-    "id": 12432,
-    "title": "CUS-020 娘炮的蜕变下集 两女一男前舔后操 捆绑玩弄扩阴器内观 林丽 白晶晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241011-1/8b603a38bcc0ae1d6c7f6ab0be3f8256.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=12432"
-  },
-  {
-    "id": 12437,
-    "title": "CUS-030 拜金母狗人妻 骑操朋友丰臀巨乳人妻 狂插骚逼淫水白浆四溢 苏然",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "巨乳",
-      "人妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241011-1/220669339a9e36730205dba938e7dcb6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=12437"
-  },
-  {
-    "id": 12478,
-    "title": "CUS-037 借贷肉偿 少女裸贷无力偿还 低贱如母狗般被大肉棒调教内射 林丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "裸贷",
-      "内射",
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241011-1/5c518f7fcccee00cc19ce57bf3a6d53c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=12478"
-  },
-  {
-    "id": 12602,
-    "title": "CUS-084 番外篇 爸气十足ep4(下) 手铐调教制服游戏 绫波丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241012-1/fd786960d03032d2a47ddbe0a14c0601.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=12602"
-  },
-  {
     "id": 13803,
     "title": "CUS-1028 私人玩物4终章 捆绑拘束淫欲觉醒 高梨遥香",
     "year": "",
@@ -1683,5 +1505,175 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231018-1/aee24492a04f948677b441207f3a9406.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=118309"
+  },
+  {
+    "id": 156689,
+    "title": "D先生 约炮调教性感母狗的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列",
+      "情趣诱惑",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240217-1/77457695f537f205420fc80e8f0dc20b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=156689"
+  },
+  {
+    "id": 73087,
+    "title": "D先生 给母狗戴上工具开始调教做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-5/8e44fc1eb251646366dd3164516b4fd9.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73087"
+  },
+  {
+    "id": 229818,
+    "title": "D先生约炮调教性感母狗...",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "性奴调教",
+      "约炮系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/174f305c05200afbb29ff60edd86a0e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=229818"
+  },
+  {
+    "id": 28630,
+    "title": "ED MOASIC-母狗调教(2)捆绑调教饥渴母狗肉棒满足。全程露脸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=28630"
+  },
+  {
+    "id": 994,
+    "title": "ED Mosaic 伊芙蝶去马场骑不够回来骑男人！反被调教一番,肚子射满满精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-17/01a2755c6f9b594021d21cd03c6b0d9c.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=994"
+  },
+  {
+    "id": 58349,
+    "title": "ED Mosaic❤️21岁美乳少女以为自己这次当女王，结果还是只能当一条小母狗1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "性奴调教",
+      "巨乳"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/olzaaco240c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58349"
+  },
+  {
+    "id": 58350,
+    "title": "ED Mosaic❤️21岁美乳少女以为自己这次当女王，结果还是只能当一条小母狗2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "性奴调教",
+      "巨乳"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/f4hcmrxnucg.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58350"
+  },
+  {
+    "id": 84227,
+    "title": "EDmosaic01-21滴蠟調教用假屌自慰後",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "自慰"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250124-1/0686b7cae4227214853202267c157aab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=84227"
+  },
+  {
+    "id": 89988,
+    "title": "EDmosaic02-19乳環學生妹慘遭多人拘束調教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20240222-1/45ad1d7a70acf1e991f44ff4da6e4f43.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=89988"
+  },
+  {
+    "id": 83590,
+    "title": "EDmosaic03-05芋圓被4男輪流調教內射口爆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250306-1/840cee15e88d899cc9aaea8410b5ac21.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=83590"
   }
 ];

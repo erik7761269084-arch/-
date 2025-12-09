@@ -1,88 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 261059,
-    "title": "[AI换脸]迪丽热巴 美腿上位热巴版本",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/2b658320902a02524b91b7a934b59635.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261059"
-  },
-  {
-    "id": 260926,
-    "title": "[AI换脸]迪丽热巴 自慰喷潮 上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/954d9c25f3fdcfe17e95745532de0732.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260926"
-  },
-  {
-    "id": 260982,
-    "title": "[AI换脸]迪丽热巴 自慰喷潮 下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/1134de6081b6285e3c5891ef5db98705.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260982"
-  },
-  {
-    "id": 260885,
-    "title": "[AI换脸]迪丽热巴 自摸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/4fc46b86db31dcdd0f69306ab52409b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260885"
-  },
-  {
-    "id": 261003,
-    "title": "[AI换脸]迪丽热巴 自摸诱惑，激情做爱内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内射",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/7435df61669a46f2864d0ac548c0cdf8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261003"
-  },
-  {
     "id": 260950,
     "title": "[AI换脸]迪丽热巴 被猥琐男沙发上内射",
     "year": "",
@@ -313,23 +230,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261091"
   },
   {
-    "id": 261090,
-    "title": "[AI换脸]迪丽热巴 黑丝性爱 下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/f856d0010a31e125a7cead390bb44061.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261090"
-  },
-  {
     "id": 261072,
     "title": "[AI换脸]迪丽热巴 黑丝连裤袜 无码性爱 潮水四溅",
     "year": "",
@@ -460,23 +360,6 @@ window.PAGE_DATA = [
     "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/c3bfbe0df4edeb4ec0ebd75caa408a6a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260943"
-  },
-  {
-    "id": 260960,
-    "title": "[AI换脸]迪丽热巴巨乳中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/99b07ecd43434281085b9f4b37f7e4fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260960"
   },
   {
     "id": 260958,
@@ -1047,22 +930,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260971"
   },
   {
-    "id": 261023,
-    "title": "[AI换脸]鞠婧祎 疯狂的享受",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/3c1b5d30ea3844786d25cfe778fa8319.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261023"
-  },
-  {
     "id": 260930,
     "title": "[AI换脸]鞠婧祎 白丝情趣诱惑 完整版",
     "year": "",
@@ -1227,22 +1094,6 @@ window.PAGE_DATA = [
     "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/c4a7e4dfea05879011f4aec4e6df5125.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260933"
-  },
-  {
-    "id": 260942,
-    "title": "[AI换脸]高圆圆 当着男友面前 勾引小鲜肉 无码性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/03d939c38b8ab4b181ce859d3d8c42bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260942"
   },
   {
     "id": 260845,
@@ -1655,5 +1506,154 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/23/6808bb5bcf22ae3e047c9432/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397593"
+  },
+  {
+    "id": 259044,
+    "title": "AI-佟丽娅-兔女郎服务上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250602-1/710c69830a67bb8518944785dfb006b8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259044"
+  },
+  {
+    "id": 51906,
+    "title": "AI-佟丽娅-全程多套衣服对话风骚骚逼情趣内衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c165a300693963767eac26/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=51906"
+  },
+  {
+    "id": 259051,
+    "title": "AI-佟丽娅-医院检查身体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/cc0e87d539408ad9c832539ea17ea3e1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259051"
+  },
+  {
+    "id": 259042,
+    "title": "AI-佟丽娅-双马尾极致诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250602-1/d15dbb65088613049b03352bd7ab42b8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259042"
+  },
+  {
+    "id": 259057,
+    "title": "AI-佟丽娅-在沙发上的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/b27d676efe6f6eef6d8ca65c40f50d2c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259057"
+  },
+  {
+    "id": 259038,
+    "title": "AI-佟丽娅-家居日常",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250603-1/213cd49e6f93a7c3470c8d277055e00e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259038"
+  },
+  {
+    "id": 259045,
+    "title": "AI-佟丽娅-我的翘臀女上司",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250602-1/8ec327378af85cb692f94ef5e92e240c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259045"
+  },
+  {
+    "id": 259041,
+    "title": "AI-佟丽娅-摩托摇爸爸今晚不回家儿子我们做爱吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250602-1/ef4dfd49d1af3890b6e85d6a76e81da2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259041"
+  },
+  {
+    "id": 259037,
+    "title": "AI-佟丽娅-放飞自我的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250603-1/4a82770700a9d9f107f7f690006dc02d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=259037"
   }
 ];

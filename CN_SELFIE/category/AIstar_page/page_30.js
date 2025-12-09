@@ -1,155 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 397360,
-    "title": "Al—刘涛 电车被痴汉激情爆操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68145724c57e2706695c31fe/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397360"
-  },
-  {
-    "id": 397352,
-    "title": "Al—刘知珉 淫穴被巨屌塞满",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68145785c57e2706695c3208/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397352"
-  },
-  {
-    "id": 397464,
-    "title": "Al—古力娜扎 打飞机后来一场激情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f46235b6f25c1693486d4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397464"
-  },
-  {
-    "id": 397350,
-    "title": "Al—名井南 享受快速抽插表情好骚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/681457adc57e2706695c320b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397350"
-  },
-  {
-    "id": 397347,
-    "title": "Al—名井南 射精倒计时内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内射",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/681457aec57e2706695c320c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397347"
-  },
-  {
-    "id": 397348,
-    "title": "Al—名井南 淫荡的翘臀骑乘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "女上位"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/6814579ec57e2706695c320a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397348"
-  },
-  {
-    "id": 397349,
-    "title": "Al—名井南 温柔的舔肉棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/6814579bc57e2706695c3209/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397349"
-  },
-  {
-    "id": 397500,
-    "title": "Al—吴宣仪 喜欢各种玩法的人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "人妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/26/680c94d6cf22ae3e0487ab41/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397500"
-  },
-  {
-    "id": 397823,
-    "title": "Al—周子瑜 性感女神足交肉战",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "极品尤物",
-      "明星换脸",
-      "足交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb96e1cf22ae3e041cbc53/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397823"
-  },
-  {
     "id": 397824,
     "title": "Al—周子瑜 抠白丝嫩逼小穴",
     "year": "",
@@ -1677,5 +1527,152 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45e95b6f25c1693486b1/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397467"
+  },
+  {
+    "id": 397466,
+    "title": "Al—迪丽热巴 女神被大屌黑人干翻了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45fe5b6f25c1693486ba/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397466"
+  },
+  {
+    "id": 397468,
+    "title": "Al—迪丽热巴 敏感的骚穴高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45f95b6f25c1693486b9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397468"
+  },
+  {
+    "id": 397470,
+    "title": "Al—迪丽热巴 教男孩做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45d45b6f25c1693486a7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397470"
+  },
+  {
+    "id": 397471,
+    "title": "Al—迪丽热巴 甜品没有肉棒好吃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45e85b6f25c1693486b0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397471"
+  },
+  {
+    "id": 397465,
+    "title": "Al—迪丽热巴 身材妖娆很是诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f460e5b6f25c1693486c8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397465"
+  },
+  {
+    "id": 397472,
+    "title": "Al—迪丽热巴 道具自慰真刺激",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f45c75b6f25c16934869f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397472"
+  },
+  {
+    "id": 397460,
+    "title": "Al—迪丽热巴 长卷发啪啪很嗨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f46255b6f25c1693486d5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397460"
+  },
+  {
+    "id": 397411,
+    "title": "Al—金多贤 各种道具刺激骚逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/30/68119746cf22ae3e04b6e7a0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397411"
+  },
+  {
+    "id": 397415,
+    "title": "Al—金多贤 后入操细腰美臀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "后入"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/30/68119746cf22ae3e04b6e79f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397415"
   }
 ];

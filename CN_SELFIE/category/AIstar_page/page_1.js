@@ -886,22 +886,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261046"
   },
   {
-    "id": 261104,
-    "title": "[AI换脸]古力娜扎 積極的索求",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/1a0d18dcef9ef23c6e7260cf46bd40f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261104"
-  },
-  {
     "id": 261049,
     "title": "[AI换脸]古力娜扎 红色旗袍性爱",
     "year": "",
@@ -1707,5 +1691,21 @@ window.PAGE_DATA = [
     "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/393ad2d1f94a6f98bb81a5ce766c58f9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=260990"
+  },
+  {
+    "id": 261030,
+    "title": "[AI换脸]江疏影 乳交的快乐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://lsbzytp.com:3519/upload/vod/20231025-34/3836c896d48589d82ff3d71f6f40e5b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=261030"
   }
 ];

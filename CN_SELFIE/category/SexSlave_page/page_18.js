@@ -1,149 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 34730,
-    "title": "SM自拍流出老板有钱.任性打.炮与贱货玩.SM主人.和性奴游.戏调教的真.不错.对白太.淫荡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "国产自拍",
-      "黑料泄密",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241202-1/d20799581becbc2697d30f08f14b5d63.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=34730"
-  },
-  {
-    "id": 32583,
-    "title": "SM自拍流出老板有钱任性打炮与贱货玩SM主人和性奴游戏调教的真不错对白太淫荡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "国产自拍",
-      "黑料泄密",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241108-1/e2b746725e6bede3f7a0674ea06f465f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=32583"
-  },
-  {
-    "id": 165710,
-    "title": "SM蒙眼囚禁JK美少女超暴力口部炮机调教项链遛狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f165c84e7d663df48c3a12/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165710"
-  },
-  {
-    "id": 348581,
-    "title": "sm调教 反手捆绑打屁股责罚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-9/d29ffcc75a11d74262e85cca9b7164da.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=348581"
-  },
-  {
-    "id": 166087,
-    "title": "SM调教00后学妹，屁股打红哭着求饶结果反被灌肠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67caf668ee8e6dba55074d3a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166087"
-  },
-  {
-    "id": 166144,
-    "title": "SM调教00后母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c38b34cf22ae3e040e8168/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166144"
-  },
-  {
-    "id": 316301,
-    "title": "sm调教00后清纯妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.ml0987.com/thumb/829589.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=316301"
-  },
-  {
-    "id": 165038,
-    "title": "SM调教19岁小母狗叫爸爸!SM虐待情趣内衣滴蜡..",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "性奴调教",
-      "乱伦系列",
-      "学生系列",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/57e30295c0c2d2480438b4bb6b1a7c7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165038"
-  },
-  {
     "id": 124110,
     "title": "SM调教19岁小萝莉母狗~叫爸爸!#SM#虐待#情趣内衣#滴蜡",
     "year": "",
@@ -1735,5 +1591,139 @@ window.PAGE_DATA = [
     "cover_url": "https://img1.souavzy.org/upload/vod/20250511-1/64004773db7dcf1939d589c988e91a8b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=36833"
+  },
+  {
+    "id": 136201,
+    "title": "TMY0005  母狗养成计划的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/8e8c202ebbba6d1a696e3597f8108857.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=136201"
+  },
+  {
+    "id": 72249,
+    "title": "TMY0005 母狗养成计划1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-6/ecd7a62b0270554e6522e4fa668537e2.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=72249"
+  },
+  {
+    "id": 136199,
+    "title": "TMY0005母狗養成計劃的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/ce69fa25fc6c4100f58921ce19a83d66.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=136199"
+  },
+  {
+    "id": 72274,
+    "title": "TMY0020 暑假来我家玩的表妹2 性奴养成",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-6/9e326cb31dbb84014012284d98a95ecc.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=72274"
+  },
+  {
+    "id": 117078,
+    "title": "TMY0020署假來我家玩的表妹2性奴養成的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/e84ecd94fca1ac70170ff5cae7622398.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=117078"
+  },
+  {
+    "id": 71212,
+    "title": "TMY0033 SM被强奸的女王前台",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "强奸",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-8/1b3b52a26d76c1505822db8c1aa1eb26.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=71212"
+  },
+  {
+    "id": 166753,
+    "title": "TOTK-011 白浊汁强X大量颜射＆吞精！肛交调教 鞠琉璃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "口交",
+      "肛交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8ea677f3b7c929073ca9f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166753"
+  },
+  {
+    "id": 166750,
+    "title": "TOTK-011 白濁汁強X大量顏射＆吞精！肛交調教 鞠琉璃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "肛交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa2c51d7791f9273060495/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166750"
   }
 ];

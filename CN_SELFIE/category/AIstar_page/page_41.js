@@ -1,302 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 398212,
-    "title": "【AI换脸】迪丽热巴 又大又圆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f1944db8c77d79bb18bba/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398212"
-  },
-  {
-    "id": 398143,
-    "title": "【AI换脸】迪丽热巴 双马尾学生妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "情侣做爱",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f0451db8c77d79bb13d0d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398143"
-  },
-  {
-    "id": 398287,
-    "title": "【AI换脸】迪丽热巴 和最讨厌的老板下地考察",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f2c94db8c77d79bb1d3e7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398287"
-  },
-  {
-    "id": 398508,
-    "title": "【AI换脸】迪丽热巴 女星私密时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/679090d26f34c2c7a20e60fd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398508"
-  },
-  {
-    "id": 398409,
-    "title": "【AI换脸】迪丽热巴 女神的另一面",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f4791cf22ae3e049eb4ac/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398409"
-  },
-  {
-    "id": 398305,
-    "title": "【AI换脸】迪丽热巴 女神的另一面2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f34c0db8c77d79bb1f266/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398305"
-  },
-  {
-    "id": 398377,
-    "title": "【AI换脸】迪丽热巴 女神的另一面4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f4a80db8c77d79bb24527/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398377"
-  },
-  {
-    "id": 398276,
-    "title": "【AI换脸】迪丽热巴 女秘书下班乘电车遇到一群饥渴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f30d7846149d7bc4c791a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398276"
-  },
-  {
-    "id": 398123,
-    "title": "【AI换脸】迪丽热巴 女警官被绑匪劫持到秘密基地强",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679efdfe846149d7bc4bb6fc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398123"
-  },
-  {
-    "id": 398258,
-    "title": "【AI换脸】迪丽热巴 寂寞老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f28d7db8c77d79bb1c5dd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398258"
-  },
-  {
-    "id": 398475,
-    "title": "【AI换脸】迪丽热巴 寂寞老师2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/67908c1c8f1cbfc7a9d2eb59/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398475"
-  },
-  {
-    "id": 398149,
-    "title": "【AI换脸】迪丽热巴 强制的性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f036ddb8c77d79bb139b0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398149"
-  },
-  {
-    "id": 398480,
-    "title": "【AI换脸】迪丽热巴 欠款的小姐姐被金主用肉债偿还",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/6790900f6f34c2c7a20e60ea/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398480"
-  },
-  {
-    "id": 398444,
-    "title": "【AI换脸】迪丽热巴 沉迷于乡下的姐姐湿身香汗之中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/22/679087a18f1cbfc7a9d2e957/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398444"
-  },
-  {
-    "id": 398340,
-    "title": "【AI换脸】迪丽热巴 浴室女店长为好评献身客户",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f4416846149d7bc4cc1f3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398340"
-  },
-  {
-    "id": 21199,
-    "title": "【AI换脸】迪丽热巴 淫魔老板强上黑丝秘书 被操爽后连叫老公 Onlyone",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21199"
-  },
-  {
-    "id": 398240,
-    "title": "【AI换脸】迪丽热巴 玉指绕穴柔，淫欲扰清梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f1c19db8c77d79bb19645/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398240"
-  },
-  {
-    "id": 398346,
-    "title": "【AI换脸】迪丽热巴 电车痴女诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679f42bedb8c77d79bb22815/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398346"
-  },
-  {
     "id": 398517,
     "title": "【AI换脸】迪丽热巴 痴女医生的射精计划",
     "year": "",
@@ -1678,5 +1381,312 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682ac456ae3235deaa2d63e9/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139434"
+  },
+  {
+    "id": 397116,
+    "title": "【AI明星淫梦】女神下海之迪丽热巴女仆装女上位骑乘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "女上位",
+      "极品尤物",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/15/6825e200130ac02b587ea650/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397116"
+  },
+  {
+    "id": 139437,
+    "title": "【AI明星淫梦】女神下海之迪丽热巴女仆装女上位骑乘抽插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "女上位",
+      "极品尤物",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/15/6825e200130ac02b587ea650/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139437"
+  },
+  {
+    "id": 396968,
+    "title": "【AI明星淫梦】女神杨幂在家道具自慰流出白色液体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "黑料泄密",
+      "极品尤物",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c89d3ae3235deaa4335e1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396968"
+  },
+  {
+    "id": 397003,
+    "title": "【AI明星淫梦】女神杨幂扮演古灵精怪小喵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b524dae3235deaa370506/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397003"
+  },
+  {
+    "id": 397070,
+    "title": "【AI明星淫梦】巨乳女神范冰冰看见肉棒就忍不住的想",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "巨乳",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/16/6826f40ffd7201c48dd87168/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397070"
+  },
+  {
+    "id": 397302,
+    "title": "【AI明星淫梦】巨乳张予曦被老人给上了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "巨乳"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/04/68178768361668305aa84bae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397302"
+  },
+  {
+    "id": 397089,
+    "title": "【AI明星淫梦】张敏无码内射粉穴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/16/6826f4e5fd7201c48dd87ac0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397089"
+  },
+  {
+    "id": 397041,
+    "title": "【AI明星淫梦】明星 刘亦菲 短发巨乳图书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸",
+      "巨乳"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829c44c5d899f6361123b05/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397041"
+  },
+  {
+    "id": 396972,
+    "title": "【AI明星淫梦】明星 杨颖 江疏影 杨幂 试镜时被",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c9223ae3235deaa4353b4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396972"
+  },
+  {
+    "id": 139445,
+    "title": "【AI明星淫梦】明星AI换脸周冬雨金瓶梅-金莲孽欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/16/6826fae2fd7201c48dd8a3b3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139445"
+  },
+  {
+    "id": 396965,
+    "title": "【AI明星淫梦】明星换脸 被骑脸输出的大幂幂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c8d6dae3235deaa433cf8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396965"
+  },
+  {
+    "id": 397047,
+    "title": "【AI明星淫梦】明星换脸#范冰冰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/6827e1bcfd7201c48dddb821/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397047"
+  },
+  {
+    "id": 397008,
+    "title": "【AI明星淫梦】明星换脸-迪丽热巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b500eae3235deaa36be89/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397008"
+  },
+  {
+    "id": 397812,
+    "title": "【AI明星淫梦】明星淫梦水中性生活 迪丽热巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb9665cf22ae3e041cbc3f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397812"
+  },
+  {
+    "id": 397005,
+    "title": "【AI明星淫梦】明星淫梦漂亮姐姐 江疏影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b50ebae3235deaa36d4b1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397005"
+  },
+  {
+    "id": 117921,
+    "title": "【AI明星淫梦】景甜 酒店私拍（高清无码）内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682ac5dcae3235deaa2d6ac6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=117921"
+  },
+  {
+    "id": 122996,
+    "title": "【AI明星淫梦】景甜 酒店私拍（高清无码）内射!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/0a327ba8700dc6f6b5957d9cf06a6169.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=122996"
+  },
+  {
+    "id": 397007,
+    "title": "【AI明星淫梦】最新消息知名演员刘亦菲护士服诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "明星换脸"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b5064ae3235deaa36beb2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=397007"
   }
 ];
