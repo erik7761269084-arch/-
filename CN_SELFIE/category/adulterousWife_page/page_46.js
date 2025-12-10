@@ -1,78 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 160802,
-    "title": "超淫母狗人妻深绿岸全新淫乱双飞骚妻和绿帽老公调教3P黑丝闺蜜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "淫妻系列",
-      "多女后宫",
-      "人妻系列",
-      "多人淫乱",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250405-1/26409b15629d4e9f3ec2a906b9917ad1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160802"
-  },
-  {
-    "id": 52717,
-    "title": "超淫荡夫妻【MZ夫妻】，绿帽望着单男一件件的剥下老婆的衣服，性爱质量达到了空前的满意",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=52717"
-  },
-  {
-    "id": 328782,
-    "title": "超淫荡香港前台淫妻肛交暴操！母狗便器，特写爆菊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "性奴调教",
-      "肛交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.ml0987.com/thumb/943230.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=328782"
-  },
-  {
-    "id": 231229,
-    "title": "超淫荡黑丝骚妇被两个大鸡鸡单男双洞齐插爽的受不了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/24/6793f7f489def9b1b83481e7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=231229"
-  },
-  {
     "id": 234757,
     "title": "超清AI画质增强真实夫妻换妻探花22岁夫妻共进晚餐回酒店",
     "year": "",
@@ -1727,5 +1654,74 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6941331a2714f1c2b5c44/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=230163"
+  },
+  {
+    "id": 67662,
+    "title": "重磅推荐绿帽淫妻，170G奶骚女友，黑丝豪乳乱颤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "淫妻系列",
+      "情侣做爱",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/171dd89f6538807d8996a5af944bdc9e.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67662"
+  },
+  {
+    "id": 69635,
+    "title": "重磅泄密 全网独家 淫妻出轨同时勾搭多p",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "淫妻系列",
+      "偷情系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-10/5a6eff71b8c70a14cec67653c0df5968.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69635"
+  },
+  {
+    "id": 15049,
+    "title": "重磅高价付费自购 ！震惊合欢宗重现！香港绿帽换妻遙距任務",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=15049"
+  },
+  {
+    "id": 14804,
+    "title": "重磅高价付费自购 ！震惊！合欢宗重现！香港绿帽换妻NTR劇情引誘老公朋友",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=14804"
   }
 ];

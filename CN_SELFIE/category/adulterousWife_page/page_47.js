@@ -1,74 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 67662,
-    "title": "重磅推荐绿帽淫妻，170G奶骚女友，黑丝豪乳乱颤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "淫妻系列",
-      "情侣做爱",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/171dd89f6538807d8996a5af944bdc9e.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67662"
-  },
-  {
-    "id": 69635,
-    "title": "重磅泄密 全网独家 淫妻出轨同时勾搭多p",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑料泄密",
-      "淫妻系列",
-      "偷情系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-10/5a6eff71b8c70a14cec67653c0df5968.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69635"
-  },
-  {
-    "id": 15049,
-    "title": "重磅高价付费自购 ！震惊合欢宗重现！香港绿帽换妻遙距任務",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=15049"
-  },
-  {
-    "id": 14804,
-    "title": "重磅高价付费自购 ！震惊！合欢宗重现！香港绿帽换妻NTR劇情引誘老公朋友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=14804"
-  },
-  {
     "id": 15306,
     "title": "重磅高价付费自购 ！震惊！合欢宗重现！香港绿帽换妻劇情片-兄妹亂倫-真實換妻",
     "year": "",
@@ -668,24 +599,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=85484"
   },
   {
-    "id": 227977,
-    "title": "韵味美少妇巨乳大奶酒店里面和单男啪啪做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "淫妻系列",
-      "人妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250926-1/442292af6602af5245b87eb54e8f85f3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=227977"
-  },
-  {
     "id": 41883,
     "title": "韵味美少妇巨乳大奶，酒店里面和单男啪啪做爱，对大鸡巴是爱不释手，无套内射",
     "year": "",
@@ -701,7 +614,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250926-1/442292af6602af5245b87eb54e8f85f3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=41883"
   },
@@ -1647,8 +1560,8 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=113103"
   },
   {
-    "id": 145271,
-    "title": "首发剧情约啪单男淫乱狂欢 丽江夫妻 3P之骚逼轮为老板们的性奴 太淫荡了 榨干精液到射不出来1",
+    "id": 40254,
+    "title": "首发剧情约啪单男淫乱狂欢 丽江夫妻 3P之骚逼轮为老板们的性奴 太淫荡了 榨干精液到射不出来",
     "year": "",
     "country": "",
     "genre": "",
@@ -1660,9 +1573,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231016-1/353badede47dc1f78d0268dd4893408d.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250302/VBUxYLZO/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=145271"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=40254"
   },
   {
     "id": 243999,
@@ -1804,5 +1717,87 @@ window.PAGE_DATA = [
     "cover_url": "https://tutu1.space/images/2025/11/07/a89dea167d225fe2965efed16924c92a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75994"
+  },
+  {
+    "id": 162938,
+    "title": "香港换妻一族",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/02/68dd38e1bf45974ea60a1156/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=162938"
+  },
+  {
+    "id": 318567,
+    "title": "香港瑜伽教练淫妻偷情大屌学员！完美翘臀，白虎骚逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偷情系列",
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/935209.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318567"
+  },
+  {
+    "id": 318916,
+    "title": "香港第一电臀！华裔淫妻教练高难度女上位，超震撼视觉冲击",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "女上位"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/955518.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318916"
+  },
+  {
+    "id": 34716,
+    "title": "香菱单身综合症梦操淫妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241202-1/6f5592dfa928fbf989024011f0e13a25.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=34716"
+  },
+  {
+    "id": 86980,
+    "title": "香蕉秀jdsy-094我帮加班的兄弟照顾他的欲望淫妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20241015-1/52fe84fa7b9dfcf9b99d6f9f7663eecd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=86980"
   }
 ];

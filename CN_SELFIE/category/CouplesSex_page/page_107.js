@@ -1,55 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 73946,
-    "title": "女友的口交教学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-4/8d65bdb35270e88f6b3c93a021ab666e.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73946"
-  },
-  {
-    "id": 134636,
-    "title": "女友的口活很棒的!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "口交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240523-1/bd72c488768fcb2659707ff38ea406f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=134636"
-  },
-  {
-    "id": 17393,
-    "title": "女友的哄好技巧 故意冷落性娃una 看她到底如何哄好 Una尤奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-9/ba389d2f9a746d86a33af24fe15ef16e.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=17393"
-  },
-  {
     "id": 108756,
     "title": "女友的哄好技巧-尤奈",
     "year": "",
@@ -1677,5 +1627,54 @@ window.PAGE_DATA = [
     "cover_url": "https://avxq104.cc/upload/vod/20250619-1/f5d1b8ad17e6a2098dfe202f5a97e455.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=80470"
+  },
+  {
+    "id": 266167,
+    "title": "女友避免不了男友的肉棒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a5877843fd44c2c4e69c2b56708412fe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=266167"
+  },
+  {
+    "id": 109635,
+    "title": "女友邀请闺蜜一起自慰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/11/10/04ac673afa3ea5f5ead0b4bedee37a46.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=109635"
+  },
+  {
+    "id": 266168,
+    "title": "女友醒来就要吃我的肉棒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/78b9efed5d397b51b5ffbd4b6767853c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=266168"
   }
 ];

@@ -1237,26 +1237,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=66441"
-  },
-  {
-    "id": 343395,
-    "title": "高中生 卖掉初夜 真实破处",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "处女"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
     "cover_url": "/upload/vod/20250715-14/3e3cd41fc4c02439b793206781b9c728.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=343395"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=66441"
   },
   {
     "id": 131209,

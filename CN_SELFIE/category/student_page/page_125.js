@@ -1,178 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 149035,
-    "title": "洋鬼子狂操美国留学生母狗，精液狂喷满脸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/88787fe52f654057181799dd2f5480b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=149035"
-  },
-  {
-    "id": 67645,
-    "title": "洗浴中心调教学生母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "探花系列",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/800e0ea35fd92d659722fabfa13a28c2.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67645"
-  },
-  {
-    "id": 64389,
-    "title": "洗浴会所96年毕业的女神级气质性感大学美女酒店被顾客搞了2次还不舍得放她走,人美逼嫩叫的淫荡!国语!.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高颜值",
-      "情趣诱惑",
-      "学生系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250217-1/701a4d2bc1f0714e31e2f75c75574a0e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=64389"
-  },
-  {
-    "id": 10327,
-    "title": "洗澡被学弟肉棒前进突刺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-6/944b595a08537fe3c105675ff8354be9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=10327"
-  },
-  {
-    "id": 159711,
-    "title": "洗脑调教猥亵可爱高中学生妹妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250807-1/99117ed56ad29c5b04925de163d3c0ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=159711"
-  },
-  {
-    "id": 129251,
-    "title": "洛丽塔学生美少女自慰各种道具玩弄自己的小嫩通",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "情侣做爱",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/d85f2c0fdea4af86e6cd09629503cceb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=129251"
-  },
-  {
-    "id": 71364,
-    "title": "洛丽塔小妹妹被凌虐 米娜学姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "乱伦系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-8/b38ec2b2a861c8236a1b83df11938124.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=71364"
-  },
-  {
-    "id": 8474,
-    "title": "洛杉矶华人留学生『茉莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240907-1/daf04b743a6c8cf1a358a84383cfb11b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=8474"
-  },
-  {
-    "id": 115679,
-    "title": "洛杉矶华人留学生『茉莉.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241018-1/c5bf48c20776c4b16004a7398c5a6871.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=115679"
-  },
-  {
-    "id": 149010,
-    "title": "洛杉矶华裔留学生，沦为洋人母狗，大屌狂操，精液口爆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "口交",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8b61c4ba23949c2f333ff4e495decf19.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=149010"
-  },
-  {
     "id": 149459,
     "title": "洛杉矶高颜值华人留学生妮可儿甄选完整版 极品女友的叫醒服务 怒操爆射美臀",
     "year": "",
@@ -1769,5 +1596,185 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/293df6de34bba12f7847c3b03b984fa7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=113807"
+  },
+  {
+    "id": 76565,
+    "title": "淫亂派對2男2女大雜交-黑傑克",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/20/d8430f4ed432e8d8b8f8f469356ac116.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=76565"
+  },
+  {
+    "id": 9577,
+    "title": "淫女高校制服诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/04c7192af0072786011ae6ed1e428944.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=9577"
+  },
+  {
+    "id": 45297,
+    "title": "淫奴学生妹母狗的养成 鲜嫩白虎小穴无敌粉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=45297"
+  },
+  {
+    "id": 33139,
+    "title": "淫奴学生妹母狗的养成鲜嫩白虎小穴无敌粉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241116-1/eb3bf667c7b62ee33f64a536feb3baa8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=33139"
+  },
+  {
+    "id": 73396,
+    "title": "淫奴母狗 浴室春情骚母狗的肉棒洗护 许木学长 肤白翘乳帖肾服务 吸屌深入蜜穴直击花蕊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-4/eb2ae9fa211acd03cba4747d59639bd1.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73396"
+  },
+  {
+    "id": 73201,
+    "title": "淫奴母狗调在校学妹肉便器 狗链调教古装青楼女子 肉棒插入瞬间满足",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-4/5c43295acdcea581a0ec9a7640adb6d4.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73201"
+  },
+  {
+    "id": 51023,
+    "title": "淫妻少妇上海大学生约炮淫妻少妇少妇经验更丰富",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "约炮系列",
+      "淫妻系列",
+      "学生系列",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20250511-1/f08df72da12728a19c1a726d0e3194c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=51023"
+  },
+  {
+    "id": 35019,
+    "title": "淫妻绿帽3P中年夫妻约在读大学单男3P少妇喜欢被舔穴夫妻俩拿手机同步拍摄记录超级刺激浪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻系列",
+      "学生系列",
+      "多人淫乱",
+      "淫妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241205-1/12703703e90237b3bdf643d1fd865d7f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=35019"
+  },
+  {
+    "id": 33144,
+    "title": "淫妻调教真实教室不为人知的一面便器人妻日常私拍一个酷爱吃精液的肉便器老婆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "性奴调教",
+      "口交",
+      "学生系列",
+      "淫妻系列",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241116-1/13158a09eadef7f746454769e2d93efc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=33144"
+  },
+  {
+    "id": 120958,
+    "title": "淫娃大学浪货18岁嫩妹酒后化身榨精母狗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "极品尤物",
+      "学生系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250616-1/68fb256a8911eda0a891164dacc86f39.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=120958"
   }
 ];

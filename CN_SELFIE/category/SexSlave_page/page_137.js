@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 53355,
-    "title": "调教母狗开发洞 捆绑操得母狗直喊不要",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=53355"
-  },
-  {
-    "id": 41608,
-    "title": "调教母狗必须有特别的手段来调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=41608"
-  },
-  {
     "id": 1569,
     "title": "调教母狗淫荡骚女儿 蜜桃臀+蜜桃穴 究极后入铿锵有力 这视觉太上头了",
     "year": "",
@@ -1762,5 +1730,39 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1827"
+  },
+  {
+    "id": 265569,
+    "title": "调教男友 把手塞进男友肛门",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/b469073ec712a7c15b5a02bb3003494f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=265569"
+  },
+  {
+    "id": 140094,
+    "title": "调教男友和我一起情趣内衣，忘情内射1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "情趣诱惑",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/11e1c779d0386c4dc1cf7335e15476ab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=140094"
   }
 ];

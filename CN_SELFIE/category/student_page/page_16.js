@@ -1,22 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 396258,
-    "title": "AI换脸：赵露思-学生时期上门援交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69130ca772c0032a43005d44/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=396258"
-  },
-  {
     "id": 396363,
     "title": "AI明星换脸-大学女神杜渐制服诱惑矫表哥起床",
     "year": "",
@@ -1704,5 +1687,21 @@ window.PAGE_DATA = [
     "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/de1c2334dab50359ff338c40b0b43037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16237"
+  },
+  {
+    "id": 16230,
+    "title": "CUS-2245 自宅羞耻教室诱惑授课",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/39c5d2f0cef053dc18bab22e69af1f4f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16230"
   }
 ];

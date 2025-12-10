@@ -827,22 +827,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=65093"
   },
   {
-    "id": 70590,
-    "title": "黄色连衣裙孕妇操逼怀胎十月挺着大肚子也要满足性欲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-9/de4e099da6853c13b3b73c39d07cd81d.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70590"
-  },
-  {
     "id": 68234,
     "title": "黄色连衣裙孕妇操逼，怀胎10月挺着大肚子，也要满足性欲",
     "year": "",

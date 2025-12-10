@@ -1,39 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 114674,
-    "title": "重磅泄密事件广州地铁被AI一键脱衣美女独家视频流出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星换脸",
-      "黑料泄密"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250621-1/033d5613cd7cef2ca290b778fa4e7806.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114674"
-  },
-  {
-    "id": 82421,
-    "title": "长得神似关晓彤的小嫩模酒店被导演潜规则",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑料泄密",
-      "明星换脸"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250425-1/2ceb0fb030b0bbe06589153db55a9484.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=82421"
-  },
-  {
     "id": 75190,
     "title": "长相神似女明星鞠婧祎的反差淫娃被男友大力抽插，直接操到喷水，高潮不断全身抽搐！",
     "year": "",
@@ -220,26 +186,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=398023"
   },
   {
-    "id": 36824,
-    "title": "鞠婧祎情趣黑丝无码直播#骚逼#情趣内衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "主播",
-      "主播网红",
-      "直播",
-      "明星换脸",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250511-1/776f99a2e942fc59f37c512dc43dde3a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=36824"
-  },
-  {
     "id": 52015,
     "title": "鞠婧祎情趣黑丝无码直播骚逼情趣内衣",
     "year": "",
@@ -356,28 +302,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70263"
-  },
-  {
-    "id": 347623,
-    "title": "高颜值翻版范冰冰 黑丝高跟全自动女上位榨汁 老公都被干累坏了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "明星换脸",
-      "极品尤物",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
     "cover_url": "/upload/vod/20250715-10/7a6215f21d2ce6b0d0e04a4ba44d7f87.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=347623"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70263"
   },
   {
     "id": 397964,

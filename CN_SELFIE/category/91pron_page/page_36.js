@@ -1315,23 +1315,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=137856"
   },
   {
-    "id": 137849,
-    "title": "魔唇劫1991年香港三级片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "三级片",
-      "91系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231220-1/7770da07f3725bcf3a5378f72ed8e27d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=137849"
-  },
-  {
     "id": 1850,
     "title": "鸡蛋饼 窈窕身材少女91小魔女 饥渴的阿狸上下齐开 边口交边炮机插穴",
     "year": "",
@@ -1516,26 +1499,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=22644"
-  },
-  {
-    "id": 97896,
-    "title": "黑丝女郎小穴被玩弄的湿答答-91兔兔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "91系列",
-      "情趣诱惑"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
     "cover_url": "https://avxq104.cc/https://tutu1.space/images/2022/01/04/67508b6c42474ca6953e104052fddc8e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=97896"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=22644"
   },
   {
     "id": 18265,

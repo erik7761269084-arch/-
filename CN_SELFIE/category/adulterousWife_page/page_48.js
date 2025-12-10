@@ -1,87 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 162938,
-    "title": "香港换妻一族",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/02/68dd38e1bf45974ea60a1156/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=162938"
-  },
-  {
-    "id": 318567,
-    "title": "香港瑜伽教练淫妻偷情大屌学员！完美翘臀，白虎骚逼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷情系列",
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.ml0987.com/thumb/935209.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318567"
-  },
-  {
-    "id": 318916,
-    "title": "香港第一电臀！华裔淫妻教练高难度女上位，超震撼视觉冲击",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "女上位"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.ml0987.com/thumb/955518.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318916"
-  },
-  {
-    "id": 34716,
-    "title": "香菱单身综合症梦操淫妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241202-1/6f5592dfa928fbf989024011f0e13a25.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=34716"
-  },
-  {
-    "id": 86980,
-    "title": "香蕉秀jdsy-094我帮加班的兄弟照顾他的欲望淫妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20241015-1/52fe84fa7b9dfcf9b99d6f9f7663eecd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=86980"
-  },
-  {
     "id": 88215,
     "title": "香蕉秀xjx0118绿帽男怒操劈腿小骚逼",
     "year": "",
@@ -885,23 +803,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=111264"
   },
   {
-    "id": 39489,
-    "title": "高利贷小混混上门讨债无果拿欠债人老婆出气绿帽老公无奈观战忍不住也一起欺负老婆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250105-1/fdf1e5d7daaa4c952285e05a6ceece17.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39489"
-  },
-  {
     "id": 44502,
     "title": "高利贷小混混上门讨债无果拿欠债人老婆出气，绿帽老公无奈观战忍不住也一起欺负老婆",
     "year": "",
@@ -914,7 +815,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://fqjpg4.top/upload/vod/20250105-1/fdf1e5d7daaa4c952285e05a6ceece17.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=44502"
   },
@@ -1259,22 +1160,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=330465"
   },
   {
-    "id": 70740,
-    "title": "高跟肉丝淫妻 帅哥你有点温柔啊 我怕弄疼你",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-9/b4c1e6bb2aae5a2793640dc8f7c6b20d.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70740"
-  },
-  {
     "id": 230084,
     "title": "高跟肉丝淫妻 帅哥你有点温柔啊 我怕弄疼你 舒服吗媳妇 一般 放进去不出来可以吗 单男貌似操逼不多半天插不进去",
     "year": "",
@@ -1440,24 +1325,6 @@ window.PAGE_DATA = [
     "cover_url": "https://avxq104.cc/upload/vod/20250715-11/835a1f9a2f95bae053a31478592fedc1.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68735"
-  },
-  {
-    "id": 68774,
-    "title": "魔都绿帽淫妻强壮黑人鸭草美乳女友 抱着打桩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "情侣做爱",
-      "淫妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avxq104.cc/upload/vod/20250715-11/42382b3334d3fa6708b87700990a8a9c.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68774"
   },
   {
     "id": 319980,
@@ -1759,5 +1626,146 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250803-1/6a320b18da077768554c938223e95b90.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237800"
+  },
+  {
+    "id": 237673,
+    "title": "麻豆-木下日葵绿帽老公的畸恋EP2私密性爱情欲解谜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/8ea0071116fe24dcc23a72628c104990.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237673"
+  },
+  {
+    "id": 237687,
+    "title": "麻豆-绿帽始祖武大郎-倪哇哇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250826-1/c0298cd8a73a29494bddd2cf9a62e30e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237687"
+  },
+  {
+    "id": 237692,
+    "title": "麻豆-绿帽控空姐3P大战宅男-雪千夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "多人淫乱",
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/fd6dcd91ba0f3a905d4035d06e870604.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237692"
+  },
+  {
+    "id": 237689,
+    "title": "麻豆-绿帽老公的畸恋谋定后动性爱游戏-木下日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/b7687ab1cd455f9fdbccc28d3a9de70b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237689"
+  },
+  {
+    "id": 237691,
+    "title": "麻豆-绿帽老公的私欲老公面前忘情抽插-陈可心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/6a24b84cfdf83ab9031d827f7df6aa91.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237691"
+  },
+  {
+    "id": 85735,
+    "title": "麻豆传媒 MCY-0271 巨乳淫妻嫌弃早泄男 白虎骚穴被大鸡巴塞满 孟若羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "巨乳",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20241215-1/d00d7038d9872a40431b30fc99d21649.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=85735"
+  },
+  {
+    "id": 85546,
+    "title": "麻豆传媒 MD-0314 苏畅 白色情人节交换伴侣 巨乳女友换人操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "麻豆传媒",
+      "淫妻系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20241215-1/bf2bd3a7e54c0b5a066264b4d941e654.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=85546"
+  },
+  {
+    "id": 5681,
+    "title": "麻豆传媒 MD0224 丈夫的绿帽嗜欲 看着妻子被陌生肉棒抽插玩弄 - 梁芸菲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "麻豆传媒"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250714-1/5b65715871b9d21d29bfaf8287627c79.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=5681"
   }
 ];

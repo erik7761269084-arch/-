@@ -1,61 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 41617,
-    "title": "双女大秀 日系女友小怡 轮操女友和她的闺蜜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "多女后宫",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=41617"
-  },
-  {
-    "id": 39349,
-    "title": "双女大秀日系女友小怡轮操女友和她的闺蜜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "多女后宫",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250104-1/c1fdcf703658eed58f0ede7478e78952.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39349"
-  },
-  {
-    "id": 230523,
-    "title": "双女杯联赛少妇与少女的爱情故事，激情3P一起伺候蒙面大哥，口交大鸡巴让大哥轮草抽插玩弄，姐妹玩骚奶子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "人妻系列",
-      "多女后宫",
-      "多人淫乱",
-      "口交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fd1d844e7d663df4d8813e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=230523"
-  },
-  {
     "id": 326447,
     "title": "双奴伺候情侣主",
     "year": "",
@@ -1755,5 +1699,59 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202502/17/67b30dd8846149d7bca5a836/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158293"
+  },
+  {
+    "id": 70444,
+    "title": "双马尾学妹初次性体验！在校大学生小母狗，双马尾才是最好的方向盘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "性奴调教",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-9/b8859020626cd3169b28e07978b8c32f.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70444"
+  },
+  {
+    "id": 126238,
+    "title": "双马尾学妹和男友开房操逼黑丝袜纤细美腿骑乘打桩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "学生系列",
+      "情侣做爱",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3cf444e7d663df49780f6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=126238"
+  },
+  {
+    "id": 126232,
+    "title": "双马尾学生妹小男友舔骚逼快操我吧第一视角猛怼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3ce3e4e7d663df49780d4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=126232"
   }
 ];
