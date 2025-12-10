@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://le.lefhao20250923.top//20241110/1dKDln6N/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-043.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://pic1.thzpic.com/forum/202112/09/142805uigvy5zvvzmf71uv.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-044.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-44/6b22a4dbb5a8e8d0043871376cb3e194.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-045.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211226-1/af44cf70871dc88713e208c49572a41a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-046.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240220-1/00e8187b2f6ed0843985cc48a95e5a3e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-047.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://pic1.thzpic.com/forum/202201/23/102816jipzzxzfhl4plxmp.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-048.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240219-1/7b456f0ca96d394e67e6a459366bac32.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-049.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220125-1/fa7443a8fe342eb200e734c14a432b17.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-050.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240219-1/37068454b22c64bbc31bc9b82683639c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-051.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220331-1/e4748261aec794b24c09414c25a136d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-052.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://guzwiayz.com/20231202/rgujE5O5/1.jpg?t=1701498479",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-053.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://bwjpg.top/upload/vod/20251009-1/e3b2eedaa03a85dac92f501ec9a3d9a8.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-054.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://guzwiayz.com/20231202/oIDDno2Z/1.jpg?t=1701498913",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-055.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/lHoBGONd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-056.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/B7DT92b1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-057.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -265,7 +265,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://da.da15525716.com/images/2022/10/01/guochan2713.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-058.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/14aaf95a23c8d239f936fb3d54d1ce4e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-059.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/bOVEhAyg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-060.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://tutu1.space/images/2022/07/25/58392bcdc04a26310de6883f13ebb322.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-061.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -333,7 +333,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://tutu1.space/images/2022/08/04/16573dc766847cea826eeee80ce0d189.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-062.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -350,7 +350,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://15.155250922.com/upload/vod/20250714-1/c8ce2015cf94613c66bdcbbe44b1476a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-063.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220911-1/7935a8da31b4ed8510f6141a58825206.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-064.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220922-1/d52da1ac6378aa2b7e687ea09e9ec20c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-065.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221007-1/721b43171d794e509327a7c01858eb0a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-066.jpg",
     "actress": [
       "吴梦梦",
       "金宝娜"
@@ -419,7 +419,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221020-1/15f9bb0ac917ba9b49a9fa838c1e0db0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-067.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -436,7 +436,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/fa6aa5f0deb7b91b300e94c3963cde8e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-068.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -453,7 +453,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221124-1/a65ca8267c6f9124198f518ec78e3681.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-069.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -470,7 +470,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221217-1/33b09c85a607bdeb84350442625ff613.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-070.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -487,7 +487,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230103-1/b139bd75c1e37f411f1457d8812de65d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-071.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -504,7 +504,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/d6836186cc340280626aeba099457176.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-072.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230226-1/1bef8cf6333319ad0124eb98c8c45157.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-073.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -538,7 +538,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230310-1/d7e5917f2977edcc21c38b4666f71629.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-074.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230414-1/2f2a7013f6d53e0fe2b7dd7486ecddfa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-075.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230427-1/ee86b462311deb80d5864defe2033b09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-076.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -589,7 +589,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230520-1/d6c787e15c3f17075f254526b84dca68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-077.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -606,7 +606,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230603-1/e56f9677760109bfdfd29dab43f17db9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-078.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -623,7 +623,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230708-1/b3ec9aa90bcd0327d715ce1628aab41c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-079.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -640,7 +640,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230720-1/eb8a1329fc2f397636711669c2b00415.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-080.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -657,7 +657,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230824-1/746095d11cfbe5e8efc408120c3f80e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-081.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -674,7 +674,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://tutu1.space/images/2023/08/28/f2cf48fb90bbaab82c507368b70b5b35.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-083.jpg",
     "actress": [
       "吴梦梦",
       "羽芮"
@@ -692,7 +692,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://bwjpg.top/upload/vod/20250909-1/780928a5b469196cb716cbbb0b1b6be8.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-084.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -709,7 +709,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231019-1/356235b4ba74ab228f1913cedce28724.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-085.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -726,7 +726,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/347a19e301143f485e60fd3a611e3876.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-086.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -743,7 +743,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231119-1/d5d271efd912e45ba7eca30c94a34730.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-087.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -760,7 +760,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231208-1/2f4ff8968206c2a2f132179408a24b7f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-088.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -777,7 +777,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MM-089.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MM-089"
   },
@@ -792,7 +792,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240421-1/0e71f97c8b2e6e3d78c84967fc9b5f2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-092.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -809,7 +809,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://da.da15525716.com/20241123/de82QChY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-093.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MM-093"
   },
@@ -824,7 +824,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://da.da15525716.com/20241123/iNsw78xY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-094.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -841,7 +841,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://da.da15525716.com/20241123/uzcoHPUN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-095.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -858,7 +858,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "http://da.da15525716.com/20241123/IgBagLXX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-097.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -875,7 +875,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://cctv123456.com/i/xpyenv6i.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-100.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -892,7 +892,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://cctv123456.com/i/y06tspci.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-101.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -909,7 +909,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://cctv123456.com/i/n0exd5z8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-102.jpg",
     "actress": [
       "吴梦梦",
       "苏畅"
@@ -927,7 +927,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MM-103.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-103.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -944,7 +944,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://tutu1.space/images/2025/09/24/f3203beacc420f632a7ff2178ba359b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-104.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -961,7 +961,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://thjpg10.top/upload/vod/20241230-1/25b38474ae4fdfd339030ed5b0891b13.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-157.jpg",
     "actress": [
       "素人"
     ],
@@ -978,7 +978,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240918-1/797a391ee743363033ea40294ec15836.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-2021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MM-2021"
   },
@@ -993,7 +993,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240912-1/3def4fe22817ec8b25104efaffb0864c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-2022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MM-2022"
   },
@@ -1008,7 +1008,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-08-28",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250531-1/b71b4edad91b3352cee77afcb33ccba5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MM-234.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MM-234"
   },
@@ -1023,7 +1023,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20241123/GU2hupjG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMG-005.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -1040,7 +1040,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://cctv123456.com/i/1lqfgzui.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMV-030.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -1060,7 +1060,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721081813298298.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-001.jpg",
     "actress": [
       "素人",
       "寻小小"
@@ -1082,7 +1082,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721092721731731.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-002.jpg",
     "actress": [
       "白若冰"
     ],
@@ -1103,7 +1103,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721093016588588.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-003.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1124,7 +1124,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721093131298298.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-004.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1148,7 +1148,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202106/02/140114sewawro0t1rrrytm.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-005.jpg",
     "actress": [
       "胡心瑤"
     ],
@@ -1169,7 +1169,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721094313659659.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-006.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1191,7 +1191,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721094440906906.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-007.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1213,7 +1213,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721094746631631.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-008.jpg",
     "actress": [
       "白若冰"
     ],
@@ -1235,7 +1235,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721095143613613.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-009.jpg",
     "actress": [
       "胡心瑤"
     ],
@@ -1257,7 +1257,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721095319363363.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-010.jpg",
     "actress": [
       "白若冰"
     ],
@@ -1279,7 +1279,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/202307212344277878.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-011.jpg",
     "actress": [
       "寻小小",
       "甜心"
@@ -1300,7 +1300,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721234831186186.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-012.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1324,7 +1324,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230721235043482482.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-013.jpg",
     "actress": [
       "葉如夢"
     ],
@@ -1345,7 +1345,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722000509746746.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-014.jpg",
     "actress": [
       "素人",
       "郭童童"
@@ -1368,7 +1368,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250412-1/20c65e079b8f4588fb25cc1f00f086b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-015.jpg",
     "actress": [
       "白若冰"
     ],
@@ -1389,7 +1389,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250412-1/f1f8e846671e44c3b2c0f9ae842068f7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-016.jpg",
     "actress": [
       "葉如夢"
     ],
@@ -1410,7 +1410,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250413-1/159983ad81dd43579db0f8b0e22e443b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-017.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1427,7 +1427,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202110/14/012532nmh9qq9tmuetm0ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-018.jpg",
     "actress": [
       "白若冰",
       "杜娟"
@@ -1454,7 +1454,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250413-1/c299851f0b4f5fac33571c133d07d3ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-019.jpg",
     "actress": [
       "白若冰"
     ],
@@ -1475,7 +1475,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722003032282282.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-020.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1492,7 +1492,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250413-1/d08e39214dc79bcd4d6ca57f5cc87c83.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-021.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1509,7 +1509,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250414-1/e2761571998d3c46ee246f43648833a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-022.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1533,7 +1533,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://fm.sltu250927.top/upload/vod/20251012-1/06ba5a90f9da7d86f218ca2c951889f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-023.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1550,7 +1550,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250414-1/9baa208c978bc890d8b6e11a95b132d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-024.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1567,7 +1567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250414-1/a9ad6a404d00b1bbee0afb9408b71e05.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-025.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1584,7 +1584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250414-1/7c718ee16ef59bc38fa9a60d52f38155.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-027.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1601,7 +1601,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/BOqc9sYh.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-028.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1618,7 +1618,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202111/15/200900ryupc1wsy33ys3ke.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-029.jpg",
     "actress": [
       "白若冰",
       "杜娟"
@@ -1636,7 +1636,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202112/14/120546j8wbl8l8o8qhdbob.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-030.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1653,7 +1653,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202111/30/031652j8x87pqinxpx6kpk.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-031.jpg",
     "actress": [
       "顾桃桃"
     ],
@@ -1670,7 +1670,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211221-1/a59297fe48bf7ade0e65d69cc2757831.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-032.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1687,7 +1687,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202112/08/143601yqcywwbwbxkqgcxp.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-033.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1721,7 +1721,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250416-1/8be148f87f9e4d55b3c7dfc854fabdbe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-035.jpg",
     "actress": [
       "赵一曼"
     ],
@@ -1738,7 +1738,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/USJh8Pts.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-036.jpg",
     "actress": [
       "赵一曼"
     ],
@@ -1755,7 +1755,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202201/10/072149m3wus9rn99sn84ns.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-037.jpg",
     "actress": [
       "寻小小"
     ],
@@ -1772,7 +1772,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211206-1/1a96370f92e3ab494bc3324e80282fa5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-038.jpg",
     "actress": [
       "林怡梦"
     ],
@@ -1789,7 +1789,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2024-09-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202202/11/072939ixqeruarsrr761aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MMZ-039.jpg",
     "actress": [
       "寻小小"
     ],

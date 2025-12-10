@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-147.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-147.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-149.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-149"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://upload.xchina.io/video/64e995bd10285.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-150.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-150"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-151.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-151"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-152.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-152"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-153.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-153"
   },
@@ -102,7 +102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-156.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-156.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-156"
   },
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-157.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-157"
   },
@@ -132,7 +132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2022-06-28",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-158.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91KCM-158.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-158"
   },
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/BVxPIlUF.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-001.jpg",
     "actress": [
       "金巧巧",
       "素人"
@@ -173,7 +173,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/v0Ole7hr.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-002.jpg",
     "actress": [
       "91新人"
     ],
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/TfHuI4nx.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-003.jpg",
     "actress": [
       "91新人",
       "素人",
@@ -217,7 +217,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/b5eb1b8820101f266b054e72617050aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-004.jpg",
     "actress": [
       "91新人",
       "陈小陈"
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/mKpn7x0k.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-005.jpg",
     "actress": [
       "苏然",
       "91新人",
@@ -262,7 +262,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240811-1/ae1c047a04b6ee038703792a9af925f0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-006.jpg",
     "actress": [
       "91新人",
       "素人"
@@ -285,7 +285,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/fbcBoM6K.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-007.jpg",
     "actress": [
       "温婉"
     ],
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/vtqifURM.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-008.jpg",
     "actress": [
       "91新人",
       "素人"
@@ -328,7 +328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvguochanzipai/wy7ZcIjA/0.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-009.jpg",
     "actress": [
       "陈悠悠"
     ],
@@ -345,7 +345,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211012-1/ac9ad9b694cb47f2f7d839e6f222dea5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-010.jpg",
     "actress": [
       "李曼丽"
     ],
@@ -362,7 +362,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240823-1/20334a1055f50ea63b6b8044a7371ec6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-011.jpg",
     "actress": [
       "徐洛瑶"
     ],
@@ -379,7 +379,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/AuHv0br6.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-012.jpg",
     "actress": [
       "夏玉玲"
     ],
@@ -396,7 +396,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-40/995dd2d9f8c6aac07666a076631fc1ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-013.jpg",
     "actress": [
       "李萍"
     ],
@@ -413,7 +413,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/cgMEn3wT.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91MS-014.jpg",
     "actress": [
       "唐倩"
     ],
@@ -430,7 +430,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231115-1/a7c6b68d5dcf9b83011f6b5da9b6adb6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-004.jpg",
     "actress": [
       "季研希",
       "季妍希"
@@ -448,7 +448,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231115-1/c84dba4ab5f667d70c211783fb5df806.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-005.jpg",
     "actress": [
       "季研希",
       "季妍希"
@@ -466,7 +466,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top//20241122/YbWUk7j8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-006.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -483,7 +483,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250905-1/7fcb663cb6fb7848689c4b59c49bea97.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-008.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -500,7 +500,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91PCM-009.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-009.jpg",
     "actress": [
       "岚可彤",
       "温芮欣"
@@ -518,7 +518,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "果冻传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20241123/KqsbYDM7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91PCM-010.jpg",
     "actress": [
       "岚可彤"
     ],
@@ -535,7 +535,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/eh7F8YmS.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/91RAS-0139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91RAS-0139"
   },
@@ -550,7 +550,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-03-19",
-    "cover_url": "https://thjpg10.top/upload/vod/20250521-1/5ee0466399d92c553054e90efec5fbf5.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91TCM-001.jpg",
     "actress": [
       "莉娜"
     ],
@@ -567,7 +567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-03-19",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250827-1/a4604adcf9190940a4503f6296d59798.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91TCM-005.jpg",
     "actress": [
       "斑斑"
     ],
@@ -584,7 +584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-03-19",
-    "cover_url": "https://upload.xchina.io/video/63d167859ebba.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91TCM-009.jpg",
     "actress": [
       "唐芯"
     ],
@@ -601,7 +601,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201029-1/8847d1022a48c3ada8df179d8c85a04e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91XH98HX.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91XH98HX"
   },
@@ -616,7 +616,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://tutu1.space/images/2022/08/04/400a0fc48ab118772411e5f81735ebba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-001"
   },
@@ -631,7 +631,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://tutu1.space/images/2022/08/04/e8e1a2da39efd19bd9471c998faf7c78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-002"
   },
@@ -646,7 +646,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XLbNBV49.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-004"
   },
@@ -661,7 +661,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/527c8d56863b37e6cc86bcc4983e70ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-005"
   },
@@ -676,7 +676,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/RLUn8bYg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-006.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -693,7 +693,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-007.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-007.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -710,7 +710,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/vNQCpg67.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-008.jpg",
     "actress": [
       "小鱼"
     ],
@@ -727,7 +727,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/oSsPkAyp.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-009.jpg",
     "actress": [
       "小鱼"
     ],
@@ -744,7 +744,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-010.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-010"
   },
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/0c6cc3a906414fcf296bbb63a09dd7e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-011"
   },
@@ -774,7 +774,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-012.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-012"
   },
@@ -789,7 +789,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221015-1/0204294a725531f83e32530129faa614.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-013"
   },
@@ -804,7 +804,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-014.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-014"
   },
@@ -819,7 +819,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220901-1/7dda17a2dc4347e2e36f70b323ebb2c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-016.jpg",
     "actress": [
       "明步奈"
     ],
@@ -836,7 +836,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-018.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-018"
   },
@@ -851,7 +851,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-019.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-019.jpg",
     "actress": [
       "美凉子"
     ],
@@ -868,7 +868,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-020.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-020"
   },
@@ -883,7 +883,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://guzwiayz.com/20241014/GMc1iVpl/1.jpg?t=1728973417",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-021.jpg",
     "actress": [
       "美樱"
     ],
@@ -900,7 +900,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-022.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-022"
   },
@@ -915,7 +915,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-023.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-023.jpg",
     "actress": [
       "吴凯彤"
     ],
@@ -932,7 +932,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/P07pG4Zo.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-024.jpg",
     "actress": [
       "莉娜"
     ],
@@ -949,7 +949,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221022-1/ca4e0d18ac172cbd5f59fe96f7e87068.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-025.jpg",
     "actress": [
       "莉娜"
     ],
@@ -966,7 +966,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-026.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-026"
   },
@@ -981,7 +981,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221023-1/f232100d1affcf68792d906a11282c2e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-027"
   },
@@ -996,7 +996,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "http://da.da15525716.com/20241114/SickVblf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-029"
   },
@@ -1011,7 +1011,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221104-1/675553576e761e2fe24e424358299bc7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-030"
   },
@@ -1026,7 +1026,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/c2c84637daac0dacb81c939f61bdedfa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-031"
   },
@@ -1041,7 +1041,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221115-1/e458808c99670b8bf033408aa49f9762.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-032.jpg",
     "actress": [
       "舒舒"
     ],
@@ -1075,7 +1075,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan114.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-036.jpg",
     "actress": [
       "梁云菲",
       "梁芸菲"
@@ -1093,7 +1093,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan113.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-037.jpg",
     "actress": [
       "美樱"
     ],
@@ -1110,7 +1110,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan112.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-038.jpg",
     "actress": [
       "百川麻衣"
     ],
@@ -1127,7 +1127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan111.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-039"
   },
@@ -1142,7 +1142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan110.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-040"
   },
@@ -1157,7 +1157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan109.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-041.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -1174,7 +1174,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan108.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-042"
   },
@@ -1189,7 +1189,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan107.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-043.jpg",
     "actress": [
       "梁云菲",
       "梁芸菲"
@@ -1207,7 +1207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan106.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-045.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1224,7 +1224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221229-1/16a0f9b4fed7054abdf88d1aa760aaa1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-048.jpg",
     "actress": [
       "羽芮"
     ],
@@ -1241,7 +1241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/38d8f137730ab7760e5f841f36b77704.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-049.jpg",
     "actress": [
       "羽芮"
     ],
@@ -1258,7 +1258,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230129-1/1a713e55f08bfc3c76d1262ed2d35b75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-050.jpg",
     "actress": [
       "莉娜"
     ],
@@ -1275,7 +1275,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan105.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-053.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1292,7 +1292,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan104.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91YCM-054"
   },
@@ -1307,7 +1307,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan103.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-056.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1324,7 +1324,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan102.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-057.jpg",
     "actress": [
       "季研希",
       "季妍希"
@@ -1342,7 +1342,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/c3efa32faf030e8467b802090fedd82d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-058.jpg",
     "actress": [
       "季妍希"
     ],
@@ -1359,7 +1359,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://da.da15525716.com/images/2023/11/30/guochan101.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-059.jpg",
     "actress": [
       "向若云"
     ],
@@ -1376,7 +1376,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230505-1/d73dc716a9306c38e22f1b374a49b0dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-061.jpg",
     "actress": [
       "李依依"
     ],
@@ -1393,7 +1393,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230507-1/918f558807dd70cffec0a8344b272e97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-062.jpg",
     "actress": [
       "李依依"
     ],
@@ -1427,7 +1427,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20250520-1/81be1092df0186511058de03a84550c0.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-070.jpg",
     "actress": [
       "艾熙"
     ],
@@ -1444,7 +1444,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/76bf04ec487987abab30e78495ebd3c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-071.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -1461,7 +1461,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/145dc3e72649bf14920ca607e937cdfc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-080.jpg",
     "actress": [
       "爱悠"
     ],
@@ -1478,7 +1478,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/417657d5d47e1567e6e00cceaf7e2e85.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-082.jpg",
     "actress": [
       "爱悠"
     ],
@@ -1495,7 +1495,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://tuaskbgnekr.com/20250929/pF87Znaw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-083.jpg",
     "actress": [
       "梁云菲",
       "梁芸菲"
@@ -1513,7 +1513,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20240705-1/fe9e501a7fef93c9ae3d0dce4e64c80f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-084.jpg",
     "actress": [
       "梁云菲"
     ],
@@ -1530,7 +1530,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20240705-1/c7a4b700fb0b48eb93cbd2d3b4b78f3d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-085.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1547,7 +1547,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20240705-1/32d4151e155d068e1c4ad3b649f97d41.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-087.jpg",
     "actress": [
       "季妍希"
     ],
@@ -1564,7 +1564,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20240705-1/cc33be521842f6e91735297f95c87577.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-088.jpg",
     "actress": [
       "季妍希"
     ],
@@ -1581,7 +1581,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230928-1/7cfca303d91e3cd7ac5f30e9cb1cb067.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-089.jpg",
     "actress": [
       "向若云"
     ],
@@ -1598,7 +1598,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91制片厂",
     "publish_date": "2023-11-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231109-1/068a5a6e7e97d609ab3bb4da9ee1cc6f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/91YCM-092.jpg",
     "actress": [
       "李依依"
     ],
@@ -1615,7 +1615,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250811-1/40de1b66dbf0da4072fb5243e61703c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/95YJYJ-123.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=95YJYJ-123"
   },
@@ -1630,7 +1630,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/uptu/20231006/2vt4uDOz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/A451.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=A451"
   },
@@ -1645,7 +1645,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250503-1/37fd736b78468e5242b0063cfaacf89b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ABP-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ABP-001"
   },
@@ -1660,7 +1660,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250510-1/7dd2b383b3387b391c922a33986d1d7a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ABP-123.jpg",
     "actress": [
       "桃乃木香奈"
     ],
@@ -1677,7 +1677,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250813-1/e9c4bd4701415fabd2229bdb1cffa04b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ABP-554.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ABP-554"
   }

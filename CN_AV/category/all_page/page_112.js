@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-10/3e5663da365a62fa5856e13bbf441905.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/酒醉姐姐捡回家-EP4.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=酒醉姐姐捡回家-EP4"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250930-1/409a35a527b6e4b8273feff459bfbd4e.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/野外露初-EP02.jpg",
     "actress": [
       "秦可欣"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/银家大院-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=银家大院-EP1"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/银家大院-EP4.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=银家大院-EP4"
   },
@@ -102,7 +102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/银家大院-EP5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=银家大院-EP5"
   },
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-8/d0c92d5451008437cff2113408d48603.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/阖家啪啪庆团贺-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=阖家啪啪庆团贺-EP1"
   },
@@ -132,7 +132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-8/cac8483600d60e3759ae9f15d86f99b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/阖家啪啪庆团贺-EP2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=阖家啪啪庆团贺-EP2"
   },
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250821-1/341f41521ef237c211943a5bfcfb2de1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/霸道父亲-EP5.jpg",
     "actress": [
       "小泽纱香"
     ],
@@ -164,7 +164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-17/5c338500a2bbff773cd996f63d34bc7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/风俗按摩体验所-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=风俗按摩体验所-EP1"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2024-02-17",
-    "cover_url": "https://tutu1.space/images/2025/02/10/7328cc357feb1a1ede535bf5eef8d51d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/香港素人AV系列-EP3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=香港素人AV系列-EP3"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2024-02-17",
-    "cover_url": "https://tutu1.space/images/2025/04/19/907bcc0f6cf65acb588fdb63a854b54c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/香港素人AV系列-EP6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=香港素人AV系列-EP6"
   },
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/08/88142_cover_2025-10-08_001525.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/高树三姐妹-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=高树三姐妹-EP1"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240108/nr8sZnZ6/1.jpg?t=1704682873",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY01"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240228/n6DMj9SD/1.jpg?t=1709095795",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY02"
   },
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://fan.lefhao20250923.top/20250929/GMboz5Km/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆三十天特别企划-DAY04.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY04"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240228/bti5lLjY/1.jpg?t=1709095545",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY05.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY05"
   },
@@ -284,7 +284,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240229/CUIWeOqf/1.jpg?t=1709174940",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY07.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY07"
   },
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240229/5BRd5zQo/1.jpg?t=1709174843",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY08.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY08"
   },
@@ -314,7 +314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://fan.lefhao20250923.top/20251001/UHh6LLAR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY09.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY09"
   },
@@ -329,7 +329,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240229/J6GX8Y5g/1.jpg?t=1709175005",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY11.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY11"
   },
@@ -344,7 +344,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240229/LnyfMGdy/1.jpg?t=1709174766",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY12.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY12"
   },
@@ -359,7 +359,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240229/7jWr42Qf/1.jpg?t=1709174866",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY13.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY13"
   },
@@ -374,7 +374,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240302/pT3vc1nt/1.jpg?t=1709354951",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY16.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY16"
   },
@@ -389,7 +389,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240302/Ubynn26F/1.jpg?t=1709354605",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY18.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY18"
   },
@@ -404,7 +404,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240302/WFzhe9BM/1.jpg?t=1709354661",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY19.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY19"
   },
@@ -419,7 +419,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240302/7DeuZL6a/1.jpg?t=1709354690",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY20.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY20"
   },
@@ -434,7 +434,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240303/ldCmmKgQ/1.jpg?t=1709441923",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY21.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY21"
   },
@@ -449,7 +449,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240303/lR3mvwlS/1.jpg?t=1709441957",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY22.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY22"
   },
@@ -464,7 +464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240303/KvD4mHEW/1.jpg?t=1709442094",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY23.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY23"
   },
@@ -479,7 +479,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240303/6iPtoa5r/1.jpg?t=1709441920",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY25.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY25"
   },
@@ -494,7 +494,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240304/GMHeWV7s/1.jpg?t=1709535669",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY26.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY26"
   },
@@ -509,7 +509,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240304/CE2mSNnS/1.jpg?t=1709535698",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY27.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY27"
   },
@@ -524,7 +524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240304/dlPtdcps/1.jpg?t=1709535628",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆三十天特别企划-DAY28.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY28"
   },
@@ -539,7 +539,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://guzwiayz.com/20240304/JDHacIzn/1.jpg?t=1709535571",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆三十天特别企划-DAY29.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY29"
   },
@@ -554,7 +554,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "大象传媒",
     "publish_date": "2025-10-03",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20250131-1/eed7ceb5a6c876629a83d4d772051698.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆三十天特别企划-DAY30.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆三十天特别企划-DAY30"
   },
@@ -569,7 +569,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230406-1/470e19151b3372e49a47dfdade8055bc.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆传媒男女优生死斗-EP3.jpg",
     "actress": [
       "凌薇",
       "苏语棠"
@@ -587,7 +587,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/20/05777fc729bd278a5fb946a0133b7cb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/麻豆全新系列之突袭女优计划-EP2.jpg",
     "actress": [
       "艾秋",
       "羽芮"
@@ -605,7 +605,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/20251002/kHuswpBG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆换妻-EP2.jpg",
     "actress": [
       "季妍希",
       "苏娅",
@@ -624,7 +624,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200928-1/8364089652657fe7189601f6609d068a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆有你-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=麻豆有你-EP1"
   },
@@ -639,7 +639,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210730-1/cddf6f4ca05c6a9b2c6e3fdb3a81db53.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆男女优生死斗-EP1.jpg",
     "actress": [
       "林思妤",
       "凌薇",
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210817-1/a9f08540d31d8b0d199cafbf92eeed75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆男女优生死斗-EP1-番外篇.jpg",
     "actress": [
       "林思妤",
       "凌薇",
@@ -677,7 +677,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210814-1/a8f0080374ff544b4c1637718b916a8b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/麻豆男女优生死斗-EP3.jpg",
     "actress": [
       "凌薇",
       "苏语棠"

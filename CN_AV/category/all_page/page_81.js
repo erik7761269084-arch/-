@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230115-1/eb7e1617f01eb67eb5240fc3cd454966.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0053"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230119-1/f14b563339f8198c9291f50cc58233ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0054"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230120-1/fa933c46da0f223a87b9f5c0097eddb6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0055.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230121-1/edf0993cc468ee3be1d599ac27977b8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0056"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/6ef5e21b0dcd8e23963164c012d5723b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0057"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/fa19b8647a52653bb5377fe7654f3413.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0058.jpg",
     "actress": [
       "小遥"
     ],
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/bf8fef9a50508cb82fe604d245779a20.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0059.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230130-1/b9b559985fc0812f3a8cb2e9241e70c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0060"
   },
@@ -136,7 +136,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230202-1/9d74bcd6a38962c4bf287a8b268a0435.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0061.jpg",
     "actress": [
       "小遥"
     ],
@@ -153,7 +153,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/ac7a679e996747360118a25965fc23f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0062.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -170,7 +170,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/a92c50eed5889f26a55b99a1f51101ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0063.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -187,7 +187,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230214-1/462f270ab06781f812fb8de766cbec9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0064"
   },
@@ -202,7 +202,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230212-1/0ad62842bf656652be4a7567f5986bee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0065.jpg",
     "actress": [
       "小遥"
     ],
@@ -219,7 +219,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SAT0066.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0066"
   },
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230216-1/5dc2a4eb3ea71cea3afa7cc36c6cb84b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0067"
   },
@@ -249,7 +249,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230220-1/797ec46154b5e0d7c7bde00eab0ae461.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0069.jpg",
     "actress": [
       "MOMO"
     ],
@@ -266,7 +266,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230224-1/e055e7c056c0c3a65bbe7b8ee664a3af.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0070.jpg",
     "actress": [
       "MOMO"
     ],
@@ -283,7 +283,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230224-1/e1daa90d08e652a67e612475b13e2c4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0071.jpg",
     "actress": [
       "MOMO"
     ],
@@ -300,7 +300,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230220-1/2b01c4dd2e8972ddaf7e62a8d4a10583.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0072.jpg",
     "actress": [
       "心萱"
     ],
@@ -317,7 +317,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230224-1/8b67b804212d90a7f93cdb73ce678f5b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0073.jpg",
     "actress": [
       "心萱"
     ],
@@ -334,7 +334,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230313-1/6b9a15b217c9f058d4b34da01782c39e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0074.jpg",
     "actress": [
       "翁雨澄",
       "羽芮"
@@ -352,7 +352,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230327-1/72be7db874c214accd7d3d092e6f0992.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0075.jpg",
     "actress": [
       "羽芮"
     ],
@@ -369,7 +369,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230405-1/94acb7cb4be7cbdd64ba39909d751632.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0076"
   },
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230412-1/d3611e5e3b3ea5c378f36931bcb83786.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0077.jpg",
     "actress": [
       "小遥"
     ],
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230518-1/24258bc67ace6e09f2e66caa36f8917f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0078.jpg",
     "actress": [
       "李允熙"
     ],
@@ -418,7 +418,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230522-1/82772a56925e96a7f1339c8e04b307ee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0079.jpg",
     "actress": [
       "唐芯",
       "嘿尼",
@@ -437,7 +437,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/9f0bedc845ce3a93a6ba7c22867beff9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0080.jpg",
     "actress": [
       "小遥"
     ],
@@ -454,7 +454,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230425-1/5bca78887dd88f800a928207abf3d0c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0081.jpg",
     "actress": [
       "小遥"
     ],
@@ -471,7 +471,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/d523a9b4ae842482aaf4a3ba0a98361b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0082.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0082"
   },
@@ -486,7 +486,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SAT0083.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0083"
   },
@@ -501,7 +501,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230505-1/bf9c9660e0734ab7a800ba1ec2aee1ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0084.jpg",
     "actress": [
       "林洋"
     ],
@@ -518,7 +518,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/977c23e3dc1d877fc98b677203747150.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0085.jpg",
     "actress": [
       "林洋"
     ],
@@ -535,7 +535,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/98f8a35ec14e5d91d7b6eeb648768901.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0087.jpg",
     "actress": [
       "程程"
     ],
@@ -552,7 +552,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230401-1/6ddd4cd9ec00b24bd4f19c470f16aa00.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0088.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -569,7 +569,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2023/06/19/8f3bfa3941e556ea17bc503402c56814.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAT0089.jpg",
     "actress": [
       "蕗奈"
     ],
@@ -586,7 +586,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230628-1/1ee30ed34c79b78121056f4fddfa17e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0090.jpg",
     "actress": [
       "蕗奈"
     ],
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230704-1/d19fbe777beec2c47af8ba2e573ef55f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0091.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0091"
   },
@@ -618,7 +618,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240127-1/64d3da1c206181a1ce8d26217b6e04d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0094.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0094"
   },
@@ -633,7 +633,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/d03e493b0d8c6ebd052199955201df5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0095.jpg",
     "actress": [
       "唐芯",
       "嘿尼",
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/afe2de48e5e16fc39e7e440332c76f88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0096.jpg",
     "actress": [
       "心萱"
     ],
@@ -669,7 +669,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240206-1/8ff8f19c388b5ae332d10fcb2c569561.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0097"
   },
@@ -684,7 +684,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240206-1/219af168a405cc44084106d5e2b0bed2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0098.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0098"
   },
@@ -699,7 +699,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240214-1/6b234cd0ee6e82fdadfc4fdc3c704775.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0099.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0099"
   },
@@ -714,7 +714,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240225-1/cfd1d88178bb916a40ad6494f4ccc3d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0100.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0100"
   },
@@ -729,7 +729,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240527-1/0611d666ac561d862883bc1ced88baa2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0102.jpg",
     "actress": [
       "艾莉丝",
       "小遥",
@@ -748,7 +748,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240527-1/8aacd0c3816a30ecbc17d73f90be099f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0103.jpg",
     "actress": [
       "艾莉丝",
       "小遥",
@@ -767,7 +767,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/Dh4yZsRl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0104.jpg",
     "actress": [
       "妮妮",
       "佳佳",
@@ -786,7 +786,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240604-1/5f1a610d187915584f6d695a2236f4b1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0105.jpg",
     "actress": [
       "艾莉丝",
       "小遥",
@@ -805,7 +805,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240609-1/235cdb4145e835cc09378d1ec49063e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0106.jpg",
     "actress": [
       "艾莉丝",
       "小遥",
@@ -824,7 +824,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240613-1/ef7d7555115746bc8fb87cec382d08bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAT0107.jpg",
     "actress": [
       "艾莉丝",
       "小遥",
@@ -843,7 +843,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/12/65e67ba3891cb45bdacbaa1bfca1287b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM002"
   },
@@ -858,7 +858,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/24/a3150047504108d72254d1d74d8953ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM003"
   },
@@ -873,7 +873,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/25/4ed98c499bef07840546e8285c57c59d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM004"
   },
@@ -888,7 +888,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/31/e4c179ae08d7ef9d8dcb04afc8a072ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM005.jpg",
     "actress": [
       "喜鹊"
     ],
@@ -905,7 +905,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/28/04749b94befaa3c1b095c613fc7d1625.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM006"
   },
@@ -920,7 +920,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/28/ae3299aebffd7d7b13bb4be4917f8a72.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM007"
   },
@@ -935,7 +935,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/26/002bec1f4ca4c6e86cfcdd7ba528d740.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM009"
   },
@@ -950,7 +950,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/19/21abe16a0e4dea3a97488e574882b743.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM010"
   },
@@ -965,7 +965,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/30/26fdcf33fb9f22279b954c156b9bb26f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM011"
   },
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/23/53ceadb0c7557b08c64dadb0cce9c48a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM012"
   },
@@ -995,7 +995,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/20/09ace575342786e0f4b8e041e3754911.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM013"
   },
@@ -1010,7 +1010,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/02/911fb9d2595c0e60a92f85460067082d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM016"
   },
@@ -1025,7 +1025,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SATM017.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM017"
   },
@@ -1040,7 +1040,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/23/0ddf191c5415516a8cea5aab45656c67.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM018"
   },
@@ -1055,7 +1055,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/13/9d55607e217a5bc29872c9bf1e6b6541.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM021"
   },
@@ -1070,7 +1070,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/01/6976e0b3b4ac2821b7ed6529fdc5b3c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM023"
   },
@@ -1085,7 +1085,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/31/7865da464f164b3518bca2d329cecc3a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM028.jpg",
     "actress": [
       "林洋"
     ],
@@ -1102,7 +1102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/03/d9ecc8f4980dd0901fe9e17a610ee400.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM031"
   },
@@ -1117,7 +1117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/02/8760a1d70bc61ad471e8aa83518a2659.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM032"
   },
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/13/4b38651eef52901d3f37605904e30fa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM033"
   },
@@ -1147,7 +1147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/17/8dee12929fd9333a068a5bbe58badc93.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM034"
   },
@@ -1162,7 +1162,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/14/e2cc0addb291c90be351fb5086a1eabc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM035"
   },
@@ -1177,7 +1177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/13/6dcdcb20720808b3f3569346401815ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM036"
   },
@@ -1192,7 +1192,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/21/7e9662843424f1b051d0b3c675c9c6f9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM039"
   },
@@ -1207,7 +1207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/14/9f609e4f1f4352fcd09962179e509cbe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM040"
   },
@@ -1222,7 +1222,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/12/a82d7fcc02b9267fc1127721ba1ed6f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM043"
   },
@@ -1237,7 +1237,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/26/74e959853e286995b9e8af1d7fcdd831.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM048"
   },
@@ -1252,7 +1252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/05/db4ae71631dae6b64ab243e96f8ff060.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM049.jpg",
     "actress": [
       "林洋"
     ],
@@ -1269,7 +1269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/21/3b961c43ae089bdd7642fd85bbd740f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM050"
   },
@@ -1284,7 +1284,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/06/00d705e681b0500b974cc477f98f215a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM052.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM052"
   },
@@ -1299,7 +1299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/03/abb8216f1c258b4f001329cd8791307f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM055"
   },
@@ -1314,7 +1314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/24/09390637bfac05633dca1789363d3a82.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM056"
   },
@@ -1329,7 +1329,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/28/16c70025825287d8cfc403c7be7e5d5e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM057"
   },
@@ -1344,7 +1344,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/14/03c9f19a10c94876f4574bfb10b57a91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM058"
   },
@@ -1359,7 +1359,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/30/afe2fbee560834f7cbf57a0c97e07c24.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM060"
   },
@@ -1374,7 +1374,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/12/9ef9ad697955847374e9fa2717623f81.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM062"
   },
@@ -1389,7 +1389,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/24/89d3c9f7e77094e1bea725e08e59c01b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM072"
   },
@@ -1404,7 +1404,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/01/742f99890c12b2cf8cc3220ebd6a0f55.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM083"
   },
@@ -1419,7 +1419,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/05/f5f7101295e3da96c59338a271e22889.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM085"
   },
@@ -1434,7 +1434,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/14/0c082ad380af790e08f6d5813b3e317e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM086.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM086"
   },
@@ -1449,7 +1449,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/22/efedd27ecf364e179d51544c24ace5d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM096.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM096"
   },
@@ -1464,7 +1464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/05/933af6853986462e5f4b4e6f96a29c77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM098.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM098"
   },
@@ -1479,7 +1479,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/20/df26557b1c1974c8debdddd0a50f0ac5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM099.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM099"
   },
@@ -1494,7 +1494,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/03/942cafe733f7c4fa50da1a8fa44d21b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SATM100.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM100"
   },
@@ -1509,7 +1509,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/02/b1169191f38dcb54c3973cc5d6ede636.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM101.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM101"
   },
@@ -1524,7 +1524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/25/0171ce8eded9ea141aa7f73df74cb7cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM106.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM106"
   },
@@ -1539,7 +1539,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/23/b73fb5ca2a5a893f968610a15ec84b46.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM107.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM107"
   },
@@ -1554,7 +1554,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/04/01/2ea98d8fd032ac9fcc2ba07ce2f5dc9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM117.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM117"
   },
@@ -1569,7 +1569,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/25/142b49e6dfc82f1d6f9b2cb23b988b0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM118.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM118"
   },
@@ -1584,7 +1584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒",
     "publish_date": "2025-03-13",
-    "cover_url": "https://tutu1.space/images/2025/03/31/2817c97c18bf94426851ecd11ea50862.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SATM120.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATM120"
   }

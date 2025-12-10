@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230310-1/b0e0f36dd362b6c21747f71d1101c28a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMG-007.jpg",
     "actress": [
       "吴芳宜",
       "黎芷萱"
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230325-1/ed84ab99f50fedb1a3584001617b4a50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMG-009.jpg",
     "actress": [
       "斑斑"
     ],
@@ -45,7 +45,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/04/guochan110.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMG-011.jpg",
     "actress": [
       "宋南伊",
       "宋南"
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/04/guochan109.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMG-012.jpg",
     "actress": [
       "林嫣"
     ],
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/04/guochan108.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMG-013.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8a46a693a97330de415125361a47f81d.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMILYQUEEN-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMILYQUEEN-01"
   },
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3a3415a685b1722a294c7fdeeeb6c508.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMILYQUEEN-03.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMILYQUEEN-03"
   },
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221110-1/7bd9eee1abf6644625334f5092fc7799.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMITGJ2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMITGJ2"
   },
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221110-1/af7ae8b9e37363624506b0e2d38de0b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMITGJ3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMITGJ3"
   },
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240514-1/d96b0c49e3f3b59be723e6d900405ad6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-001.jpg",
     "actress": [
       "林思妤"
     ],
@@ -174,7 +174,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240520-1/d5a1c49c2904f5155188841421ead90c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-002.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -191,7 +191,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240531-1/7d4310e6fea6b3bdb6a93e697dded5bf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-003.jpg",
     "actress": [
       "米歐"
     ],
@@ -208,7 +208,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240608-1/272d3f63aef97be72a6fb0156548d23a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-004.jpg",
     "actress": [
       "梁芸菲"
     ],
@@ -225,7 +225,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240611-1/4abf6f01dbaef7969e886f4039e225af.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-005.jpg",
     "actress": [
       "玖玖"
     ],
@@ -242,7 +242,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240618-1/c10b1eb8c743049ec2bdb6b6aa8e34d1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-006.jpg",
     "actress": [
       "斑斑"
     ],
@@ -259,7 +259,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240627-1/e8683c4108e3e03dbc29b97ee5265f5a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-007.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/acc15f718d69cd32233e3f38ce6512d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-008.jpg",
     "actress": [
       "翁雨澄"
     ],
@@ -293,7 +293,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-08-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/85b35002e1eccc4091238d7d632168d6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMKY-009.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -310,7 +310,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/db518dc431e31490b8c7ffff9cff0be4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMMETTBABE-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMMETTBABE-01"
   },
@@ -325,7 +325,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-10-16",
-    "cover_url": "https://thjpg10.top/upload/vod/20250112-1/d8e0701e466935742ea1ffd57e08a95c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMS-002.jpg",
     "actress": [
       "黎芷萱"
     ],
@@ -342,7 +342,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-10-16",
-    "cover_url": "https://cctv123456.com/i/wn9uapsp.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMS-004.jpg",
     "actress": [
       "思乐",
       "金莲"
@@ -360,7 +360,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-10-16",
-    "cover_url": "https://cctv123456.com/i/dtvye76b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMS-005.jpg",
     "actress": [
       "思乐"
     ],
@@ -377,7 +377,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-10-16",
-    "cover_url": "https://cctv123456.com/i/rytceqym.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMS-006.jpg",
     "actress": [
       "思乐"
     ],
@@ -394,7 +394,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-10-16",
-    "cover_url": "https://tutu1.space/images/2023/09/01/49e1c8e9aa52abb4f0db36af19663004.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMS-007.jpg",
     "actress": [
       "金莲"
     ],
@@ -411,7 +411,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231120-1/4e3ffb0863f16edb12a8a2a25998f6ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-001.jpg",
     "actress": [
       "羽芮"
     ],
@@ -428,7 +428,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/6a6fea281b4cdb27573ee96f76d9b234.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-002.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -445,7 +445,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/d1811695395a36c1f06971588d206632.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-003.jpg",
     "actress": [
       "向若芸"
     ],
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/e1d34219d58b9d30900d0600cdbbeeb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-004.jpg",
     "actress": [
       "乔安"
     ],
@@ -479,7 +479,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/c338b26a398fa1a529586c766eae527b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-005.jpg",
     "actress": [
       "米歐"
     ],
@@ -496,7 +496,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240123-1/d30da73a24f316450ed474f029ffe7ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-006.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -513,7 +513,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/IAjm1F5F/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-007.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -530,7 +530,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/gx02RACX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-008.jpg",
     "actress": [
       "周甯"
     ],
@@ -547,7 +547,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240110-1/e940d6522ac23bf2afa6e580d2d39e99.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMTC-009"
   },
@@ -562,7 +562,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240110-1/81594c52c79ac44d193b4afbc0892b58.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-010.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -579,7 +579,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240107-1/a05d02dffabc86e16b2323ee67458332.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-011.jpg",
     "actress": [
       "李薇薇"
     ],
@@ -596,7 +596,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240130-1/f6995eb3a6e415a423fb45e000e2ef69.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-012.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -613,7 +613,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/pW5SUDfq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-013.jpg",
     "actress": [
       "白葵司"
     ],
@@ -630,7 +630,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/jM51JiC2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-014.jpg",
     "actress": [
       "岚可彤"
     ],
@@ -647,7 +647,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240206-1/582f8b9689f80e33bb96bec5ac6c3126.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-015.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -664,7 +664,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/a8YjQurE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-016.jpg",
     "actress": [
       "夏天",
       "李娜娜"
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240226-1/d907cd661d5ec4791167127e46918b6e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-017.jpg",
     "actress": [
       "Alice"
     ],
@@ -699,7 +699,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240306-1/0ead14b5e5f404060f1911d5c875a5a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-018.jpg",
     "actress": [
       "艾悠"
     ],
@@ -716,7 +716,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://da.da15525716.com/20241123/xBtFeXUk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-019.jpg",
     "actress": [
       "艾玛"
     ],
@@ -733,7 +733,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240318-1/2fefcfab89fdecb610b79835a77a9ca4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-020.jpg",
     "actress": [
       "韩金妮"
     ],
@@ -750,7 +750,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240324-1/53dd5dd33c6d8c03459cffdd8cf73412.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-021.jpg",
     "actress": [
       "江雨嘉"
     ],
@@ -767,7 +767,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240407-1/930f08092bb7b9b2a8ecddfe7ff7d42d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-022.jpg",
     "actress": [
       "楚梦舒"
     ],
@@ -784,7 +784,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-11-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240407-1/66f9e9443f6cde157dc02a3200b86912.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMTC-023.jpg",
     "actress": [
       "艾熙"
     ],
@@ -801,7 +801,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230323-1/7574d5934d1a3163e3be11350f27549f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-001.jpg",
     "actress": [
       "雪霏"
     ],
@@ -818,7 +818,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://bwjpg.top/upload/vod/20250907-1/b27d2bf20664bb9c244e25d17c44b6ed.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-020.jpg",
     "actress": [
       "宋南伊",
       "泡泡"
@@ -836,7 +836,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230720-1/75b9e4d8ad2d4ce2fe350d99d5b20e37.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-021.jpg",
     "actress": [
       "林嫣"
     ],
@@ -853,7 +853,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/23405c6da7573ba8fb186b728e97c45d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-022.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -870,7 +870,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230806-1/0d76474525cd29e44fad4ca604802cc6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-023.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -887,7 +887,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230813-1/38491d12f28621f4fd83244f8db34523.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-024.jpg",
     "actress": [
       "米歐"
     ],
@@ -904,7 +904,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2023/09/01/7d64bef2259685bf983d3b5cf6559a92.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-025.jpg",
     "actress": [
       "雨婷",
       "吴文淇"
@@ -939,7 +939,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/c645b21997c59548e031c40f7c144fea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-027.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -956,7 +956,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230922-1/701eb74430b5599e52f1e7a219804fb4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-028.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -973,7 +973,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230928-1/e1770270539186825d67a3ad655afb0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-029.jpg",
     "actress": [
       "林嫣"
     ],
@@ -990,7 +990,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/00ed1e7c7e1d2b0da5d215bf4647bf6f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-030.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1007,7 +1007,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231012-1/07c5189fb88aa40574e9c3b8e048e96d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-031.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1024,7 +1024,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2023/10/17/36c0ddb13e08f868dd7915f3b13a7d22.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-032.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -1041,7 +1041,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231024-1/80bd3a66321bd80f67d30b568c387393.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-033.jpg",
     "actress": [
       "艾熙"
     ],
@@ -1058,7 +1058,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/46e5f42bc9bef48d722a1e5458b7823e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-034.jpg",
     "actress": [
       "翁雨澄"
     ],
@@ -1075,7 +1075,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/71f3e7941bedae6d3aeb3f29f5cffdbb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-035.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1092,7 +1092,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/4cb6eb5608f95e6e1d31c56f213c79d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-040.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1109,7 +1109,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240127-1/d9041f9ffd665b57dd328bb2c9fdda63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-042.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -1126,7 +1126,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240304-1/fb78556bb53059f50e3a35fccef732c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-043.jpg",
     "actress": [
       "李允熙"
     ],
@@ -1143,7 +1143,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://thjpg10.top/upload/vod/20240915-1/e1807e0a9887254ee7f8c67642d66c73.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-044.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -1160,7 +1160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://da.da15525716.com/20241123/170CK5HD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-045.jpg",
     "actress": [
       "翁雨澄"
     ],
@@ -1177,7 +1177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240123-1/f9b2c45f04efab882b232401f2df9b4b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-046.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -1194,7 +1194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/05/03/0ae1a4977c615a722be41cf127c25b88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-051.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1211,7 +1211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240514-1/84457fe07d98e127014d3b57e52f50d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-052.jpg",
     "actress": [
       "林嫣"
     ],
@@ -1228,7 +1228,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240527-1/a6536034de41a7e48d821224129ec4d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-053.jpg",
     "actress": [
       "艾熙"
     ],
@@ -1245,7 +1245,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "http://da.da15525716.com/20241123/Mki7Fs0t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-054.jpg",
     "actress": [
       "米歐"
     ],
@@ -1262,7 +1262,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/08/10/d02c47e9cff848c5494e952df1836d1e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-055.jpg",
     "actress": [
       "苏旋"
     ],
@@ -1279,7 +1279,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240818-1/27ce32326d180d91cdabc075f35e782b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-056.jpg",
     "actress": [
       "李薇薇"
     ],
@@ -1296,7 +1296,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240821-1/c96374b3f88de566793be25f2aa52795.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-057.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -1313,7 +1313,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/08/28/6778a44abaf81952a00ab6f2a627d910.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-058.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1330,7 +1330,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/EMX-059.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-059.jpg",
     "actress": [
       "姚婉儿"
     ],
@@ -1347,7 +1347,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231209-1/1208140418e7cc077348e887cead0eba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-060.jpg",
     "actress": [
       "程葳"
     ],
@@ -1364,7 +1364,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://fan.lefhao20250923.top/20241124/wX6CEetk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-061.jpg",
     "actress": [
       "白允儿"
     ],
@@ -1381,7 +1381,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://ll.lasha250923.top/20241124/rRJbBVY9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-062.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -1398,7 +1398,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/11/04/979ee3e4bde4389e7c574bb434ecc8a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMX-063"
   },
@@ -1413,7 +1413,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/11/07/9b0e3888c81ecc057c41c005acf5052e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-064.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1430,7 +1430,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "http://da.da15525716.com/20241124/hJtycqpw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-065.jpg",
     "actress": [
       "白允儿"
     ],
@@ -1447,7 +1447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241129-1/d66e43b513f9307898e3f238d3369ca5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMX-066.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1464,7 +1464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2024/12/10/0957691f0ebb256ac9016e9682a0e0f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-069.jpg",
     "actress": [
       "艾熙"
     ],
@@ -1481,7 +1481,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/02/14/8e8b7b2799233e50191ce403a5661a31.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-074.jpg",
     "actress": [
       "李薇薇"
     ],
@@ -1498,7 +1498,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/03/01/5d880cac21af0e6c4461e3a48879e0ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-076.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1515,7 +1515,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/03/06/a147ce945fd23c99aa5f9078427aeee0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-077.jpg",
     "actress": [
       "苏旋",
       "苏璇"
@@ -1533,7 +1533,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/03/19/a0555b0a56c310eef635bee599090504.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-078.jpg",
     "actress": [
       "凌葳"
     ],
@@ -1550,7 +1550,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/04/02/8601aa68303ba6f63ddca4e039562546.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-079.jpg",
     "actress": [
       "艾熙"
     ],
@@ -1567,7 +1567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2023-03-26",
-    "cover_url": "https://tutu1.space/images/2025/04/13/917d97792df0cadd8146d37d96d955c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EMX-080.jpg",
     "actress": [
       "宝宝",
       "兔兔",
@@ -1586,7 +1586,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-02-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240225-1/bf89dfcabb1290bbe584deb0c7e8e77c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMYH-001.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1603,7 +1603,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-02-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240226-1/9e481ce3679df0836e68d813f6238cdd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMYH-002.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -1620,7 +1620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-02-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240302-1/5d69418d65ebe8ea153aa6fc775b83f5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMYH-003.jpg",
     "actress": [
       "宋南伊",
       "宋南"
@@ -1638,7 +1638,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-02-24",
-    "cover_url": "https://da.da15525716.com/20241123/GN3MV25t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMYH-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EMYH-004"
   },
@@ -1653,7 +1653,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱神国际传媒",
     "publish_date": "2024-02-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240304-1/2d18cda112e3e42aab01f63992807b0b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EMYH-005.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -1670,7 +1670,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/06/07/fde7756149a6bed0710291f2a710db7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-001.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -1687,7 +1687,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/21/b19c873b/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-002.jpg",
     "actress": [
       "斑斑"
     ],

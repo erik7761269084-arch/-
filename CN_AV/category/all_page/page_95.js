@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/4ebea2f2faad585e0d133ba171bdf8fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0142.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0142"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/017147c6f820fff7de29039208e26675.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0144.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://da.da15525716.com/20241123/dCliofE8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0145.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://da.da15525716.com/20241123/BpXLfDEY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0146.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0146"
   },
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://da.da15525716.com/20241123/fogf5l3k/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0147.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/vH7BNDyx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0148.jpg",
     "actress": [
       "依依"
     ],
@@ -125,7 +125,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/i7hACBXa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0149.jpg",
     "actress": [
       "司语"
     ],
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/THrzPAzr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0150.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0150"
   },
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/38674114ec1f9cd13fb3c6eb46f0cbd5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0151"
   },
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/937e58962df5dbbfe5da1b3703aaa0c1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0152.jpg",
     "actress": [
       "芒果姐姐"
     ],
@@ -189,7 +189,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/4f206ae6872c58d59accdfa53e1e3ba2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0153.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -206,7 +206,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/e055fd4dff2e5e9f2629f8f603d01d8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0154.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -223,7 +223,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/081422ff6bfd8f0a15c67e9506847387.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0155.jpg",
     "actress": [
       "依依"
     ],
@@ -240,7 +240,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/f7258f2d2f1664837a6a264fdbece981.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0156.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0156"
   },
@@ -255,7 +255,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/40d3a27a8e1e29e5bfb767d95a254ce3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0157"
   },
@@ -270,7 +270,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/c63ac22a7e32bff4855fe42e3c1eb623.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0158.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0158"
   },
@@ -285,7 +285,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/6be8e160c454a83e545de5e4b17258df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0159.jpg",
     "actress": [
       "依依"
     ],
@@ -302,7 +302,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240803-1/51931b90d0eb1c8c339d28e1e9fa3e38.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0160.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -319,7 +319,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240803-1/acb927ff957815661f4c106a28935411.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0161.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0161"
   },
@@ -334,7 +334,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/Zt1XyXOG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0162.jpg",
     "actress": [
       "芒果姐姐"
     ],
@@ -398,7 +398,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/08/10/128897fcfa32c32a20811742a06517fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0166.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -415,7 +415,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240818-1/67d5551d686dc3a25cc6cc88044b5688.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0168.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0168"
   },
@@ -430,7 +430,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240818-1/324725b7bc40527e76210f8b6eddb477.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0169.jpg",
     "actress": [
       "紫嫣（女优）"
     ],
@@ -447,7 +447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240818-1/04e49713169e42032ad56d27ed83912d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0170.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0170"
   },
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240820-1/227cdbce1532705b6bd3b3c732ecfb1b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0171.jpg",
     "actress": [
       "念念"
     ],
@@ -479,7 +479,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/SVHX4oX0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0172.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0172"
   },
@@ -494,7 +494,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240822-1/9f1943c2fe4fbbf3678f3324e3d18b64.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0173.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0173"
   },
@@ -509,7 +509,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240824-1/975b0e55d3f176732e24247bda734b60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0174.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0174"
   },
@@ -524,7 +524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240826-1/c56012b920b09ec0e467ccef925f118f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0175.jpg",
     "actress": [
       "念念"
     ],
@@ -541,7 +541,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/08/26/0150239926a88e2dcf9e76626e806194.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0176.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0176"
   },
@@ -556,7 +556,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://cctv123456.com/i/9i4jrcpj.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0177.jpg",
     "actress": [
       "吴文琪"
     ],
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://le.lefhao20250923.top//20241123/8P15wIhK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0178.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -590,7 +590,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/nlddQtel/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0179.jpg",
     "actress": [
       "娜美"
     ],
@@ -607,7 +607,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/3aSfESuW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0180.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0180"
   },
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0181.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0181.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0181"
   },
@@ -637,7 +637,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/09/fa904ba061448366cfcca345ccdc8c54.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0182.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -654,7 +654,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://cctv123456.com/i/cogau6yw.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0183.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -671,7 +671,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/5KsU4jDO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0184.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -688,7 +688,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/XrpGEq5M/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0185.jpg",
     "actress": [
       "苏樱花"
     ],
@@ -705,7 +705,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/16/6d9376f7196671b04db7da7c5d532e09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0186.jpg",
     "actress": [
       "莉娜"
     ],
@@ -722,7 +722,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/ZQHTxIbc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0187.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0187"
   },
@@ -737,7 +737,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/22/99ddc855e088014629f538b86dc3bcb0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0188.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0188"
   },
@@ -752,7 +752,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/ondnNjfZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0189.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -769,7 +769,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/27/b1f3c5b3bdd5219116725123a8bc1b52.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0190.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0190"
   },
@@ -784,7 +784,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/27/f7c189b66879fbdd28d4a0b25866299c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0191.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -801,7 +801,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/09/30/6435da5415f569a566fcb495a72411e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0192.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0192"
   },
@@ -816,7 +816,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/10/01/c761eb2c93b4bdefad3c378ec1886a7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0193.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0193"
   },
@@ -831,7 +831,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/Nundo0Ss/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0194.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -848,7 +848,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/7tbTnQrc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0195.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0195"
   },
@@ -863,7 +863,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/fzjwx6yq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0196.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -880,7 +880,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/o2oT3w4m/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0197.jpg",
     "actress": [
       "可可"
     ],
@@ -897,7 +897,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241123/zwZpdbne/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0198.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -914,7 +914,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/10/13/667cb5b9260399df472eaea15c0e79bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0199.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -931,7 +931,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/oGLYQLZS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0200.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -948,7 +948,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/qiqxOaiY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0201"
   },
@@ -963,7 +963,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/veNvMmXG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0202.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/10/21/fa949f168d9acfc834eba054674a4b13.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0203.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -997,7 +997,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/IYqhYGox/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0204.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0204"
   },
@@ -1012,7 +1012,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/10/27/9af2178f58a910d00f18c1e88ce09af5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0206.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0206"
   },
@@ -1027,7 +1027,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/QZgjW6ws/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0207.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -1044,7 +1044,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/e5J7ieDl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0208.jpg",
     "actress": [
       "邦尼熊熊"
     ],
@@ -1061,7 +1061,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0209.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0209.jpg",
     "actress": [
       "可可"
     ],
@@ -1078,7 +1078,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/11/07/73083c3df54c168a2af8fdca9aff8baf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0210.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -1095,7 +1095,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/PuybpxXH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0211.jpg",
     "actress": [
       "小熊奈奈"
     ],
@@ -1112,7 +1112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/15zEG4Bj/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0212.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0212"
   },
@@ -1127,7 +1127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/sN1MkHPo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0213.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0213"
   },
@@ -1142,7 +1142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/IBy4llx2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0214.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0214"
   },
@@ -1157,7 +1157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/IwrDIBuY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0216"
   },
@@ -1172,7 +1172,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "http://da.da15525716.com/20241124/TLtFh3zt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0217.jpg",
     "actress": [
       "青青草"
     ],
@@ -1189,7 +1189,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/c1dbb33d0470518a189b9ac55a00319e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0228.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -1206,7 +1206,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/99baea340604f772ac182407a653d634.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0230.jpg",
     "actress": [
       "金宝莉"
     ],
@@ -1223,7 +1223,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/6431966c62df3c03cd184cf7fa5e9aeb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0231.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -1240,7 +1240,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/150a6887005074b584bc50828af42e99.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0232.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0232"
   },
@@ -1255,7 +1255,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/a2d31ebcb7bfa97b923d4a22b5d7023c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0233.jpg",
     "actress": [
       "金宝莉"
     ],
@@ -1272,7 +1272,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/5b44220d85759e3753a2001da3466bad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0234.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0234"
   },
@@ -1287,7 +1287,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/01/13/a848c78870410bc30aacf42485ac176b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0244.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0244"
   },
@@ -1302,7 +1302,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/01/13/d8e9e590c8c47bb568fee3c36752fcdd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0245.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0245"
   },
@@ -1317,7 +1317,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/01/13/cbd30684346fac4bc2cb58f309636ba1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0246.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0246"
   },
@@ -1332,7 +1332,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/01/20/e93c893f4f7e37af2c1e901a983184e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0247.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0247"
   },
@@ -1347,7 +1347,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0248.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0248.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0248"
   },
@@ -1362,7 +1362,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0249.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0249.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0249"
   },
@@ -1377,7 +1377,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0250.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0250.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0250"
   },
@@ -1392,7 +1392,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0251.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0251.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0251"
   },
@@ -1407,7 +1407,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0252.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0252.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0252"
   },
@@ -1422,7 +1422,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0253.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0253.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0253"
   },
@@ -1437,7 +1437,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0254.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0254.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0254"
   },
@@ -1452,7 +1452,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0255.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0255.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0255"
   },
@@ -1467,7 +1467,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0256.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0256.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0256"
   },
@@ -1482,7 +1482,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0257.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XJX-0257.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0257"
   },
@@ -1497,7 +1497,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/08/f691b45769a42f4c3452bac058c12e91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0258.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0258"
   },
@@ -1512,7 +1512,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/08/33fa30b37667c7ae540cdde33f75bfb1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0259.jpg",
     "actress": [
       "狐不妖"
     ],
@@ -1529,7 +1529,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/11/6fb08ef0f2caa3885dfcc55f67e0f2d3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0260.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0260"
   },
@@ -1544,7 +1544,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/15/d0835f974d04c47bba1c7bcbba0675dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0261.jpg",
     "actress": [
       "小猫咪"
     ],
@@ -1561,7 +1561,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/15/358c84e3a87d4f6eb63eb22b996a7da1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0262.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0262"
   },
@@ -1576,7 +1576,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/19/716cef118f28665ac76fa7d5e45fc747.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0263.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0263"
   },
@@ -1591,7 +1591,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频",
     "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2025/02/19/f0ea3ee2f30068a4f4f6259c254a04bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XJX-0264.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XJX-0264"
   }

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/10/22/guochan9048.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-003.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/10/22/guochan9046.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-004.jpg",
     "actress": [
       "小敏儿"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/10/22/guochan9043.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-005.jpg",
     "actress": [
       "小敏儿"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10274.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-006.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10266.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-007.jpg",
     "actress": [
       "粉色情人",
       "小野"
@@ -96,7 +96,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10265.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QQOG-008"
   },
@@ -111,7 +111,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10275.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QQOG-009"
   },
@@ -126,7 +126,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10263.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QQOG-010"
   },
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2023/02/06/guochan10934.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-011.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -158,7 +158,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-013.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-013.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-014.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-014.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-023.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-023.jpg",
     "actress": [
       "冉冉学姐"
     ],
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2023/03/18/guochan11235.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-029.jpg",
     "actress": [
       "小敏儿"
     ],
@@ -226,7 +226,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2023/06/01/guochan11592.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-036.jpg",
     "actress": [
       "冉冉学姐"
     ],
@@ -243,7 +243,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://da.da15525716.com/images/2023/06/21/guochan11676.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-038.jpg",
     "actress": [
       "小敏儿"
     ],
@@ -260,7 +260,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250927-1/264c6bc9c8df7e300b46cbfbe2fd47eb.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-039.jpg",
     "actress": [
       "Nina"
     ],
@@ -277,7 +277,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒",
     "publish_date": "2022-10-03",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/nZ2UrCTI.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QQOG-050.jpg",
     "actress": [
       "樱桃"
     ],
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241112-1/53f56d6fb79bbe7becdd5244e3d7eeda.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0001.jpg",
     "actress": [
       "芊芊"
     ],
@@ -311,7 +311,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240214-1/e3ec3007d69ae361eb50872f76356aa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0002.jpg",
     "actress": [
       "唐月琴"
     ],
@@ -328,7 +328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240306-1/c88ecfb28e3f46e344b3b93c128f24b0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0003.jpg",
     "actress": [
       "柔柔"
     ],
@@ -345,7 +345,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241112-1/2b3970a33172332efb1f58dc19a7831c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0004.jpg",
     "actress": [
       "柔柔"
     ],
@@ -362,7 +362,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://da.da15525716.com/20241123/VMsCtAob/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0005.jpg",
     "actress": [
       "梦柔"
     ],
@@ -379,7 +379,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X青铜映画",
     "publish_date": "2024-02-19",
-    "cover_url": "https://da.da15525716.com/20241123/yc0uY6gV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QT-0006.jpg",
     "actress": [
       "肖寒"
     ],
@@ -396,7 +396,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/29d65e26686b7a8cd5896ebf28405808.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/QUANNA-02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QUANNA-02"
   },
@@ -411,7 +411,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221020-1/f20a298a4dfedc88e9c48717bbd88a20.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-001.jpg",
     "actress": [
       "林思妤"
     ],
@@ -428,7 +428,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221203-1/23397b57a44772dc905718ba018b7176.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-002.jpg",
     "actress": [
       "李允熙"
     ],
@@ -445,7 +445,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230522-1/cbea0380625b87fd17772d95131541c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-003.jpg",
     "actress": [
       "金莉娜",
       "钟宛冰",
@@ -464,7 +464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230930-1/2cf40527c3e2619b96d1e6a7994f5fa5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-004.jpg",
     "actress": [
       "王以欣"
     ],
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230703-1/adf7de22fa1e130413ad9e0805b6d63a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-005.jpg",
     "actress": [
       "林玥玥"
     ],
@@ -498,7 +498,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://thjpg10.top/upload/vod/20250322-1/2ebbeedf92a1bf672288c451bd6bd869.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-006.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -515,7 +515,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2023-12-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231218-1/16d03b7e7c3907aed55a8c04437cc3b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXF-001.jpg",
     "actress": [
       "程葳"
     ],
@@ -532,7 +532,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2023-12-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/1f744ae384e913b106e95a5845307b8d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXF-002.jpg",
     "actress": [
       "黎娜",
       "程藏"
@@ -550,7 +550,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231103-1/d0dbf1dc5a4ae53f4cae2cee28583085.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXP-001.jpg",
     "actress": [
       "波妮"
     ],
@@ -567,7 +567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-05-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240520-1/5e898b79886bc1190f9f80d230c09d01.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QY-001.jpg",
     "actress": [
       "艾熙"
     ],
@@ -584,7 +584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-05-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240601-1/194eb2fcc3c36b9826d841574f298086.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QY-002.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -601,7 +601,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/04/25/fb971bdc054060456d861924b337d1cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/QZ-40.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QZ-40"
   },
@@ -616,7 +616,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250919-1/364360fe7150f6fe95f7921b65d1ca86.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0003.jpg",
     "actress": [
       "小夜夜"
     ],
@@ -633,7 +633,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/RAS-0008.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0008"
   },
@@ -648,7 +648,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250901-1/b190dace9d8696f4a739dfbf9f0e32cd.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0032.jpg",
     "actress": [
       "小夜夜"
     ],
@@ -665,7 +665,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/RAS-0042.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0042.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://bwjpg.top/upload/vod/20250905-1/4526703783fdc1600da0b6e94adf17c4.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0046.jpg",
     "actress": [
       "蒋佑怡"
     ],
@@ -714,7 +714,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/644e6a941cb65.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0062"
   },
@@ -729,7 +729,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/66350396c4b18.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0063"
   },
@@ -744,7 +744,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64e36c87ca2d4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0064.jpg",
     "actress": [
       "张雅婷"
     ],
@@ -761,7 +761,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/644b9e82417d4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0065"
   },
@@ -776,7 +776,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/04/03/guochan11396.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0086.jpg",
     "actress": [
       "夜夜"
     ],
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/664c9b8e0cde3.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0089.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643f2acec5eee.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0092"
   },
@@ -825,7 +825,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/03/21/guochan11274.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0093.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -842,7 +842,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/kqOQSXub.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0094.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://guzwiayz.com/20230902/JMf5fMMA/1.jpg?t=1693626487",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0095.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0095"
   },
@@ -874,7 +874,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/OG9KrxQS.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0096.jpg",
     "actress": [
       "尤莉"
     ],
@@ -891,7 +891,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/63d04a5ddb4e2.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0098.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -908,7 +908,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/yd3IRJrL.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/RAS-0103.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0103"
   },
@@ -923,7 +923,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/63d1b3ed9f8b0.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0105.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0105"
   },
@@ -938,7 +938,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6426eefd8c971.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0107.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0107"
   },
@@ -953,7 +953,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6426a269cc19a.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0107-BTS.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0107-BTS"
   },
@@ -968,7 +968,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6426a2c9c9b0d.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0108"
   },
@@ -983,7 +983,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6442cc868301f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0114.jpg",
     "actress": [
       "吴芳宜",
       "嘉仪"
@@ -1001,7 +1001,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643a69df87a90.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0124.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -1018,7 +1018,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://guzwiayz.com/20230904/17f5wRuU/1.jpg?t=1693803925",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0125.jpg",
     "actress": [
       "吴芳宜",
       "嘉仪"
@@ -1036,7 +1036,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/636e66a0afc53.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0126.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0126"
   },
@@ -1051,7 +1051,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://guzwiayz.com/20231128/8j9gWvgv/1.jpg?t=1701142400",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0127.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0127"
   },
@@ -1066,7 +1066,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/645257c8b2d51.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0128.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0128"
   },
@@ -1081,7 +1081,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/642b6db767186.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0131.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -1098,7 +1098,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://bwjpg.top/upload/vod/20250901-1/bd89e239c2f5f1d03195520af756acbe.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0135.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -1115,7 +1115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/62d3e8de6862b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0138.jpg",
     "actress": [
       "小夜夜"
     ],
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/5yd0A8n1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0139"
   },
@@ -1147,7 +1147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://thjpg10.top/upload/vod/20250208-1/69efda1a030b2fceb6ef31535a6ffe2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0140.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/642b700c6721c.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0141.jpg",
     "actress": [
       "乐奈子",
       "夜夜"
@@ -1182,7 +1182,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/642b7390672a9.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0142.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -1199,7 +1199,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6345b1378bc47.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0143.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0143"
   },
@@ -1229,7 +1229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://guzwiayz.com/20231108/wvuOGllH/1.jpg?t=1699413601",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0146.jpg",
     "actress": [
       "黎娜"
     ],
@@ -1246,7 +1246,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643aec9e8b88f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0147.jpg",
     "actress": [
       "黎星若",
       "小野"
@@ -1264,7 +1264,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643e6aedf34af.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0148.jpg",
     "actress": [
       "夜夜"
     ],
@@ -1281,7 +1281,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64372428d6d00.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0149.jpg",
     "actress": [
       "吴芳宜",
       "嘉仪"
@@ -1299,7 +1299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6436ec0cd6d4f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0152"
   },
@@ -1314,7 +1314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://guzwiayz.com/20230904/vD1xSEoY/1.jpg?t=1693803860",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0153.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -1331,7 +1331,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64e36960dc0b3.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0154.jpg",
     "actress": [
       "夜夜"
     ],
@@ -1348,7 +1348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64e1b9028ec61.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0155.jpg",
     "actress": [
       "夜夜"
     ],
@@ -1365,7 +1365,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6434683990156.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0156.jpg",
     "actress": [
       "尤莉"
     ],
@@ -1382,7 +1382,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://thjpg10.top/upload/vod/20241019-1/4a07cade23efcf1162bb2a75e2a158e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0157.jpg",
     "actress": [
       "翁雨澄",
       "白晰"
@@ -1400,7 +1400,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/03/21/guochan11275.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0158.jpg",
     "actress": [
       "夜夜"
     ],
@@ -1417,7 +1417,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/642580ac493ad.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0159.jpg",
     "actress": [
       "米歐"
     ],
@@ -1434,7 +1434,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/641424ad39a4e.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0160.jpg",
     "actress": [
       "玖玖"
     ],
@@ -1451,7 +1451,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643aedc78a001.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0161.jpg",
     "actress": [
       "玖玖"
     ],
@@ -1468,7 +1468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6437136fd6f10.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0162.jpg",
     "actress": [
       "羽芮"
     ],
@@ -1485,7 +1485,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643ade1087d38.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0163.jpg",
     "actress": [
       "羽芮"
     ],
@@ -1502,7 +1502,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/6425de967d1e0.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0164.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0164"
   },
@@ -1517,7 +1517,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/03/26/guochan11302.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0165.jpg",
     "actress": [
       "林思妤"
     ],
@@ -1534,7 +1534,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/0miftnGj.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0166.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0166"
   },
@@ -1549,7 +1549,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/03/26/guochan11301.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0167.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0167"
   },
@@ -1564,7 +1564,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://da.da15525716.com/images/2023/04/22/guochan11502.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0168.jpg",
     "actress": [
       "夜夜"
     ],
@@ -1581,7 +1581,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64273b54a2073.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0169.jpg",
     "actress": [
       "翁雨澄"
     ],
@@ -1598,7 +1598,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/643ee937c726c.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0170.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RAS-0170"
   },
@@ -1613,7 +1613,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64381686d6bb3.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0171.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -1630,7 +1630,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220930-2/5eb997c1569518fe50130c81c7531db0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0172.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -1647,7 +1647,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "LOVE6皇家华人",
     "publish_date": "2024-05-19",
-    "cover_url": "https://upload.xchina.io/video/64e35b62c5b2c.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RAS-0173.jpg",
     "actress": [
       "甜心"
     ],

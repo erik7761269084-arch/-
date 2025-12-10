@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230318-1/e7b2f579d99a4c9da3764a978b96722d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-145.jpg",
     "actress": [
       "Sunny"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/1010b2afed89189f9ab9f0e0d0e13171.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-146.jpg",
     "actress": [
       "羽芮"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/ad4a45f678e0ec0db3528972ea89657c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-147.jpg",
     "actress": [
       "玖玖"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230323-1/88cc06d832c3ecd0e1ed9eae9985e25c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-148.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250926-1/8734d65f335aa23b8b587e3da31937fd.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-150.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230401-1/da1614cc214c753e9558c971219fd9ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-151.jpg",
     "actress": [
       "玖玖"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230405-1/a481ebbcaf6e853aec59a8474247bb02.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-152.jpg",
     "actress": [
       "仙儿嫒"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230405-1/054cc6d2ffcd48d2dfbbefde6c26588c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-153.jpg",
     "actress": [
       "黎儿"
     ],
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230408-1/5752d3cbaa6c407ed23736f67afd1f06.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-154.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250908-1/3dbd8a900f2023f088fed816f911e62f.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-155.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230412-1/3637e17267764fe8ddc8d98c6ecf1732.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-156.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/4180b4a5a371dbba64e577fa78790e10.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-158.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250917-1/88345ef77f787a2ef1518aaa57d2f13a.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-159.jpg",
     "actress": [
       "黎儿"
     ],
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230422-1/d2b066e36656e3d05b0e4cd52d64bdf7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-160.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230425-1/9ed382a2272f2be42f28002913cedd2d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-161.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -265,7 +265,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230412-1/c6da1e5d21a65a9a2f4a249b104778b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-162.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMW-162"
   },
@@ -280,7 +280,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/ac7f043e436ea61c2f7713f5ce163161.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-163.jpg",
     "actress": [
       "仙儿嫒"
     ],
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230510-1/12db28f68edcf7f33abbf03060c2378f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-164.jpg",
     "actress": [
       "羽芮"
     ],
@@ -314,7 +314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230510-1/6858a32e8d876c87b2cfc65d82f961db.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-166.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -331,7 +331,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/a89faed4d959ffb1e39b5a3e4a542fca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-167.jpg",
     "actress": [
       "仙儿嫒"
     ],
@@ -348,7 +348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230510-1/643ea0c1b3dddcec51dd2d5e0e5743e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-168.jpg",
     "actress": [
       "莉奈"
     ],
@@ -365,7 +365,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230511-1/26bd3353797fa2581ab1a18433cb2a92.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-169.jpg",
     "actress": [
       "莉奈"
     ],
@@ -382,7 +382,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230516-1/2df3edab95bedfb4c737a5d20a365969.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-170.jpg",
     "actress": [
       "樱樱"
     ],
@@ -399,7 +399,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230516-1/24c4258644224e5c6dc80d4f97ea1fff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-171.jpg",
     "actress": [
       "尤莉"
     ],
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250911-1/6b78f93a96f754b90d088490c7aa08d2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-172.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -433,7 +433,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230522-1/c9c23932f133f43849ef1f6ae09590d3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-173.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -450,7 +450,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/d13a71b3aabadee9598bd08412e8600e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-174.jpg",
     "actress": [
       "尤莉"
     ],
@@ -467,7 +467,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/06c958ef90aa789826ab342338145970.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-175.jpg",
     "actress": [
       "魏乔安"
     ],
@@ -484,7 +484,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230602-1/0bc7b34bce5f584212b86538071307b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-176.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -501,7 +501,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230609-1/28a4c462e54ffdfcf4cf3be616bb1d28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-177.jpg",
     "actress": [
       "莉奈"
     ],
@@ -518,7 +518,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/e69056dcc71a151a16eb89766ca13c9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-178.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -535,7 +535,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/b7d74ab99fdd462393c34306efa7e0ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-179.jpg",
     "actress": [
       "莉奈"
     ],
@@ -552,7 +552,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/de910c74c36a1022b51cc158f768dc18.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-180.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -586,7 +586,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230624-1/bc1d5aba989d2fefec77fcc50cade72e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-182.jpg",
     "actress": [
       "张欣妍"
     ],
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/06/26/ceb795e7137c5ab6d246aa1b52f3911e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-183.jpg",
     "actress": [
       "樱樱"
     ],
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230701-1/e3fd10976b865db92520df1af95c2434.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-184.jpg",
     "actress": [
       "乔安"
     ],
@@ -637,7 +637,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20241218-1/015b3fe8b7a3fb5ca7552d6561fa186c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-185.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMW-185"
   },
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230708-1/23658b7fa6f14490186c94675ea3c0c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-186.jpg",
     "actress": [
       "黎儿",
       "泡泡"
@@ -670,7 +670,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/07/12/cc61dc9be7a538f123a154f1ce3361d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-187.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -687,7 +687,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230715-1/1abbc578fdfb98332b00e0db1a592dd4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-188.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -704,7 +704,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230718-1/62f882dc8f5c8a16bdd5546cfe480c97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-189.jpg",
     "actress": [
       "羽芮"
     ],
@@ -721,7 +721,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230722-1/4efc4af00b86465aa25d0bf6b4770c23.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-190.jpg",
     "actress": [
       "仙儿嫒"
     ],
@@ -738,7 +738,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20241015-1/da2546a6f499dddf7a5f045c6a832037.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-191.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -772,7 +772,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/07/28/e9219ed44351e26184328445790f58a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-193.jpg",
     "actress": [
       "羽芮"
     ],
@@ -789,7 +789,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250903-1/af9fcabd87a85cd54301c08a00e65dd6.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-194.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -806,7 +806,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230803-1/80186a026907a2444e50a6542781c430.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-195.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -823,7 +823,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230809-1/1eb2c030a8088aa4c7bf43fdffaecd70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-196.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -840,7 +840,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230813-1/1236db400d0da7566f2717ddb74b6356.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-197.jpg",
     "actress": [
       "苏雨彤"
     ],
@@ -857,7 +857,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://bwjpg.top/upload/vod/20250914-1/72b18ce703df5766de40435ea4962624.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-198.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -874,7 +874,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://da.da15525716.com/images/2023/09/07/guochan113.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-199.jpg",
     "actress": [
       "尤莉"
     ],
@@ -891,7 +891,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/08/31/752195473f37a20fdabde204efdf9186.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMW-200.jpg",
     "actress": [
       "苏雨彤"
     ],
@@ -908,7 +908,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/09/03/b596559dcb0c35a9ce6fc43565cb389c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-201.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -925,7 +925,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/09/07/7b576ce763fff3f3943aba4424b10c76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-202.jpg",
     "actress": [
       "林玥玥"
     ],
@@ -942,7 +942,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/6e7d95683bbe621df4094d94592ef177.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-204.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -959,7 +959,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-205.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-205.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -976,7 +976,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/971f33c9893e5c6a085c8965b147f98d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-206.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -993,7 +993,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/771dbd4487329026c383605a3350b06a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-207.jpg",
     "actress": [
       "湘湘"
     ],
@@ -1010,7 +1010,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231022-1/b22c44a0c7ed5d7241f7cfa5ed579061.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-208.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -1027,7 +1027,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231023-1/6d4f8b98c92e6afa84c2040141c7cf8b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-209.jpg",
     "actress": [
       "周甯"
     ],
@@ -1044,7 +1044,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231031-1/89078a61c386a93a2a775d5dc8e050f4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-210.jpg",
     "actress": [
       "梁芸菲"
     ],
@@ -1061,7 +1061,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231109-1/2485b832c1c6d78a129587193302d203.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-211.jpg",
     "actress": [
       "白思吟"
     ],
@@ -1078,7 +1078,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231113-1/4769218781ffbe1541afc15c79f4b3cf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-212.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -1095,7 +1095,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231119-1/5a293a59a518de989a6b8c24e889a81b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-213.jpg",
     "actress": [
       "施子涵"
     ],
@@ -1112,7 +1112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231119-1/fef7f516ea15f3383a441ca58ca632fe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-214.jpg",
     "actress": [
       "艾悠",
       "泡泡"
@@ -1130,7 +1130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231120-1/76c58f3e9abaec016fee248ad9de46b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-215.jpg",
     "actress": [
       "花花"
     ],
@@ -1147,7 +1147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231124-1/15a667f5bd20cca5df4134f432824b81.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-216.jpg",
     "actress": [
       "苏璇"
     ],
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231128-1/9911ac516187b6000709b1a9a35fd95e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-217.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -1181,7 +1181,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231201-1/32fdc280437503d682ce187b3be91fba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-218.jpg",
     "actress": [
       "苏璇"
     ],
@@ -1198,7 +1198,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231205-1/8a5b7e38073799867c9f3743655b7211.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-219.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -1215,7 +1215,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231209-1/804e42df88f11d34e7db594ab5447dd9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-220.jpg",
     "actress": [
       "茶理"
     ],
@@ -1232,7 +1232,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231212-1/6c568ac2fe829fde9d31cad0ed1db120.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-221.jpg",
     "actress": [
       "花花"
     ],
@@ -1249,7 +1249,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/2ccba1cdc1e37682af483489ca8c9da3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-222.jpg",
     "actress": [
       "乔安"
     ],
@@ -1266,7 +1266,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231218-1/f4ab75fdc83690a496f5bf3ddd20d19b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-223.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -1283,7 +1283,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231218-1/e072b39dc2b33c198fd0349476314d85.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-224.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -1300,7 +1300,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/bcff92f916e9cb0061f91786bd906f09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-225.jpg",
     "actress": [
       "蜜苏"
     ],
@@ -1317,7 +1317,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/6e2796d9dbee3913b15ff8fcb5ecd136.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-226.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -1334,7 +1334,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/08d276faabc6a276fb8a72f6d516abf2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-227.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -1351,7 +1351,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231229-1/70a2a39a34c3684860cd0854fa3f4e12.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-228.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1368,7 +1368,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2023/12/31/09438374fe2347c31c802b06e8d4dc9a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMW-229.jpg",
     "actress": [
       "周甯"
     ],
@@ -1385,7 +1385,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240105-1/3e58a1f3437ffe6de5ece7d1eaabd3c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-230.jpg",
     "actress": [
       "艾悠"
     ],
@@ -1402,7 +1402,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240109-1/1392fe754f86b495a1c4c8203f59aa0c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-231.jpg",
     "actress": [
       "施子涵"
     ],
@@ -1419,7 +1419,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/4855a8e45299bdad670708bf8a38807e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-232.jpg",
     "actress": [
       "茶理"
     ],
@@ -1436,7 +1436,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240118-1/6c5cf442b5811d034db4eb27504a3c50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-233.jpg",
     "actress": [
       "施子涵",
       "小野"
@@ -1454,7 +1454,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://tutu1.space/images/2024/01/18/db5813e34bc2ebc6a31d3ed459e70dd4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-234.jpg",
     "actress": [
       "艾悠"
     ],
@@ -1471,7 +1471,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240127-1/ebf917cba1507a89d72b5d92bc0f0ed2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-235.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -1488,7 +1488,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/9b001157670373c4c33d969adddecff4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-236.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1505,7 +1505,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2025-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240203-1/cb41058e14ce4d4f831112594fcc2dc1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMW-237.jpg",
     "actress": [
       "黎儿"
     ],
@@ -1522,7 +1522,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://tutu1.space/images/2022/07/11/8383dee5aba34c056b8b4bfc7f5d3467.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMX001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX001"
   },
@@ -1537,7 +1537,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://tutu1.space/images/2022/07/26/3dc68db7de3925167b364ae64ff74300.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMX002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX002"
   },
@@ -1552,7 +1552,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://tutu1.space/images/2022/08/09/1a8e939061c5b44f52c9301057926ce1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMX003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX003"
   },
@@ -1567,7 +1567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://tutu1.space/images/2022/08/14/b5367e0636bc8aae155ff89819a18eec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TMX004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX004"
   },
@@ -1582,7 +1582,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220823-1/2238aac8fc0a4f4a4a07c32ad7d2a1e9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMX005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX005"
   },
@@ -1597,7 +1597,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/0a8b8095283f6fb1f725ed61ccf2a6bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMX006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX006"
   },
@@ -1612,7 +1612,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/4081901b2b164cd7f452f9a9a978f60d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMX007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMX007"
   },
@@ -1627,7 +1627,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220921-1/ad731e00b2c22df83fbc2db2247f3714.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMX008.jpg",
     "actress": [
       "丝丝"
     ],
@@ -1644,7 +1644,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2023-01-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/9ba19c3f3b5f1a639b9017e6b8c0f7e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMXL001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMXL001"
   },
@@ -1659,7 +1659,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2023-01-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230120-1/499d0f56c2552bd8497797e927bd727e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMXL002.jpg",
     "actress": [
       "程葳"
     ],
@@ -1676,7 +1676,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天美传媒",
     "publish_date": "2023-01-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230121-1/35a8d2f2e0f25f3d1cb54e85df795466.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TMXL003.jpg",
     "actress": [
       "白允儿"
     ],

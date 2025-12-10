@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/64f53d4bdf188dd87ee70a3720884d5a.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-02"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aba037d37abef81459c10850572a79dd.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-05.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-05"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4c6ec9eba00117f52b9a1a763295d07c.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-06.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-06"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2a9e93ab7dcd48320484a413a3ccf50e.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-10.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-10"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0b57fee226644e55e48aacdc93186b83.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-11.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-11"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ed4ddf654ccdfe9a7b1663b841fe1b04.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-12.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-12"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3d57369a59c2b36cd1a8065d1a82fd30.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-16.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-16"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-02-08",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/098e7b1960d006a70f4ba640cb26b192.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LINLINBEBE-19.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-19"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/155a747c5e0b5ab5c0eddf2703fe672a.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LIZBABY-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LIZBABY-01"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/eb2f2659ad889ad72bb57dfe5aa9221b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LIZBABY-02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LIZBABY-02"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/88dc793afb843498554ce7c76aa11afe.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0001"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20211214-1/ed78e1a19a09b727864b24d28167098c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LJ-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0002"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/53fa6b10331d7f765a0d674cad07f36b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0003"
   },
@@ -205,7 +205,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/410093ee7ed738359bec347f6e4d6453.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0005"
   },
@@ -220,7 +220,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/2a6609cb9ec30ea24fb3941bf31eb91e.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0006.jpg",
     "actress": [
       "翁雨澄"
     ],
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/3fbd0c8a5901501abaecd150c509799d.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0009"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f1a56375a42ece4d729b5fadb335a661.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LJ-0010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0010"
   },
@@ -267,7 +267,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6aa54403a6f6ce132cd83ead03bf6a16.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0011"
   },
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6d61900a5ed7ba6bae24f4968469176b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LJ-0012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0012"
   },
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "糖心Vlog",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/01/01/guochan10949.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LL-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LL-002"
   },
@@ -312,7 +312,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/80ed65fb2cf8d119beb2e80c55aecf87.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LLD-0001.jpg",
     "actress": [
       "小沐"
     ],
@@ -329,7 +329,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250109-1/5f5c1a52cfe0dcdf8057b4329fdb5994.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LMG-002.jpg",
     "actress": [
       "钟宛冰",
       "莉娜"
@@ -347,7 +347,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/31308a36c4a524351619e04e6fd1c5d4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-02"
   },
@@ -362,7 +362,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5a8d21d821e807666b225fafdbd00f2e.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-03.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-03"
   },
@@ -377,7 +377,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/54396f4c0c933cdc2e791c7731c0626b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-04.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-04"
   },
@@ -392,7 +392,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4560edebe7017ecf4268387fa7e7c62e.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-07.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-07"
   },
@@ -407,7 +407,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5615e18bf28557e8d8d417ae9a524c13.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-08.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-08"
   },
@@ -422,7 +422,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3afdc4f438425dcf69966fd7679125de.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-10.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-10"
   },
@@ -437,7 +437,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/82bd4db8bf483868dc4f4dcdbb83c2fd.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-12.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-12"
   },
@@ -452,7 +452,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/801956a7918ad5ba85010bf45e7e8623.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-13.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-13"
   },
@@ -467,7 +467,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/fd692300cc0faae74deff8ab961177ed.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-14.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-14"
   },
@@ -482,7 +482,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f041cf4b8d567cb5e7e7001c16759ffc.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LOVESISI-16.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LOVESISI-16"
   },
@@ -497,7 +497,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/7ca15b54e9abd2365172b418529291b2.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0001"
   },
@@ -512,7 +512,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/36458c37491480713f51c3b148cbdcb6.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0002"
   },
@@ -527,7 +527,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/68d730486dbde91839b61f190e11223b.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0003.jpg",
     "actress": [
       "芊芊"
     ],
@@ -544,7 +544,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/7239a2f108db4d38a7461c0727551fe4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0004"
   },
@@ -559,7 +559,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/5ad46667e688cb7e3656a53da34d6493.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0005"
   },
@@ -574,7 +574,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/37d0c7fa6daaf071a5498e4c5307fc0d.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0006"
   },
@@ -589,7 +589,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/aeea11fe762337c375b4e1d9904eff82.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0007"
   },
@@ -604,7 +604,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20211223-1/4067890ba271adc3b02997bd849e20d1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LS-0008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0008"
   },
@@ -619,7 +619,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/2a5659e07ddd6126ce8f4867475e8038.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0009"
   },
@@ -634,7 +634,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/d6166069e9e024b72d363e3bec951d94.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0010"
   },
@@ -649,7 +649,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6ff00ba828caab3392d60e2325351556.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0012.jpg",
     "actress": [
       "princessdolly"
     ],
@@ -666,7 +666,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/81559ea6c418a45fe8cd8ea473af31b0.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0013"
   },
@@ -681,7 +681,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/b068ee664b080a8947c226125f3b0630.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0014"
   },
@@ -696,7 +696,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/7924a1059da90fb881a13f2621fdf1cf.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0015"
   },
@@ -711,7 +711,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/890a091f48c571711736b79a96c68f4f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0016"
   },
@@ -741,7 +741,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/44e073bd994652f69d2c4be9471d6f2f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0018"
   },
@@ -756,7 +756,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/0a1cab4761745a7ae97b1a7e8b351adc.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0019"
   },
@@ -771,7 +771,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/5d4262a3f55a8406c36c83f5a606649f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0020"
   },
@@ -786,7 +786,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/730f5a438c6d9abaa9316f6cccb4a1d4.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0021"
   },
@@ -801,7 +801,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/fdea088833241e6d7bba1a2048b7fbb5.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0022"
   },
@@ -816,7 +816,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f3b61e7eb3cef06450966e0376217db0.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0024"
   },
@@ -831,7 +831,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/9c42b864bc90facc6092365082d858f7.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0025"
   },
@@ -846,7 +846,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/905d741713cc49ad65c608216e277e03.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0026.jpg",
     "actress": [
       "柔柔"
     ],
@@ -863,7 +863,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/cdf36cdea4e6e44fd9ac35edb694baf6.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0027"
   },
@@ -878,7 +878,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SWAG",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/cef43d230a6452b0ea87b1ca053f5238.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LS-0028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LS-0028"
   },
@@ -893,7 +893,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/03/143926s6mn04fjfjtz8fzu.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0001"
   },
@@ -908,7 +908,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10272.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0002"
   },
@@ -923,7 +923,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220410-1/9c1c81b8c171701cad433eec270e1593.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0003"
   },
@@ -938,7 +938,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/18/091700vo5o3qt5obaq9o2t.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0004"
   },
@@ -953,7 +953,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/29/201650ynv2vkh15kzwup1w.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0005"
   },
@@ -968,7 +968,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "http://pic1.thzpic.com/forum/202205/02/181341t8m3pn2p35n907yg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0006"
   },
@@ -983,7 +983,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220508-1/b8eb4e3cedc5c528467b0b9c9d6ef83e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0007"
   },
@@ -998,7 +998,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "http://pic1.thzpic.com/forum/202205/15/183045hort8qcofqro8jtz.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0008"
   },
@@ -1013,7 +1013,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220313-1/861a5797939d2238b01f6b4b7b54e2eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0009"
   },
@@ -1028,7 +1028,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220324-1/672c77cea174211337081e4dad1f7390.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0010"
   },
@@ -1043,7 +1043,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/3e5b59af9363d762a089af780d10c65d.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0011"
   },
@@ -1058,7 +1058,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/0386d3419bd9f7ade7fcff8b266b2e42.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0012"
   },
@@ -1073,7 +1073,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/090c008fb3faf1651a8fa2579fe75849.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0013"
   },
@@ -1088,7 +1088,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230417-39/1e9c9c9c03ceb682ec68bf62f079aed8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0014"
   },
@@ -1103,7 +1103,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/fc670bdc3bca767c2f120b0529ea3207.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0015"
   },
@@ -1118,7 +1118,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/a0ea5148708012f37e77a7446ac30e25.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0016"
   },
@@ -1133,7 +1133,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/faf958368b663df503f9dc54787197c3.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0017"
   },
@@ -1148,7 +1148,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230405-1/b8b6e2748b85e9408e8ca4c6c78724b5.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0018"
   },
@@ -1163,7 +1163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://tutu1.space/images/2022/07/17/8db5c748b2567246c9b4d0136979db9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LTV-0019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0019"
   },
@@ -1178,7 +1178,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://tutu1.space/images/2022/07/25/011aa9bab16a184ced22dc67cb0a77ab.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0020"
   },
@@ -1193,7 +1193,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://tutu1.space/images/2022/08/09/eda53fd1753c266d15f3a75da9ca9c22.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LTV-0022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0022"
   },
@@ -1208,7 +1208,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://tutu1.space/images/2022/08/14/3b2e74d6f9a1259082414f2227048858.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LTV-0023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0023"
   },
@@ -1223,7 +1223,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/426c83df4891095eaae1b074c882f955.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0025"
   },
@@ -1238,7 +1238,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/b62fe4597d82da4288125691b86dc03e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0026"
   },
@@ -1253,7 +1253,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/tyA2bfCX.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0027"
   },
@@ -1268,7 +1268,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220921-1/d1e449f533f6586cc2a9c6f90463c1ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0028"
   },
@@ -1283,7 +1283,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/e5db1eece4e7fe1850c43a06c5aad950.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0029"
   },
@@ -1298,7 +1298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/8164b95cac9ed1088b244c9dda36a8cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0030"
   },
@@ -1313,7 +1313,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221017-1/9b4c5439ef079a43086bc7371cc26797.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0031"
   },
@@ -1328,7 +1328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221023-1/e1184ba2a2c4713346da93dffad0b904.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LTV-0032"
   },
@@ -1343,7 +1343,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画MDUS系列",
     "publish_date": "2023-03-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230121-1/a6efe455acc43ccd7f9d21b9a1c3f5c3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LTV-0040.jpg",
     "actress": [
       "赖畇希",
       "南芊允"
@@ -1361,7 +1361,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/f8TRKyxn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LUCKYDOG7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LUCKYDOG7"
   },
@@ -1376,7 +1376,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/05/05/956c3d3ead15817185dd17223d96b3dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LUCKYOL777.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LUCKYOL777"
   },
@@ -1391,7 +1391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/05/08/2b0c6bd67a911e9439611a5f941f8ab9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LUCKYQL777.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LUCKYQL777"
   },
@@ -1406,7 +1406,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/fe3ac249ccadf22eae37748b82e36a9a.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LUCYNANA-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LUCYNANA-01"
   },
@@ -1421,7 +1421,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/N9xKPvZy.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LUNA000.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LUNA000"
   },
@@ -1434,9 +1434,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://thjpg10.top/upload/vod/20250611-1/e7a9188a2aa9d96ce7f9061cd2713b56.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-001.jpg",
     "actress": [
       "苏宁儿"
     ],
@@ -1451,9 +1451,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221115-1/132152f2f1561f90d1e1c3da6a2825f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LY-002"
   },
@@ -1466,9 +1466,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221121-1/7ff2f0de9a168966d072c80ddc952c7d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-003.jpg",
     "actress": [
       "妍希"
     ],
@@ -1483,9 +1483,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/c177e91ca7f59f5e45eee0417f768255.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-004.jpg",
     "actress": [
       "苏宁儿"
     ],
@@ -1500,9 +1500,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/52b0a8af3379dc717a8fc0daa885f6da.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LY-005"
   },
@@ -1515,9 +1515,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [],
     "type": "无码",
-    "company": "麻豆映画传媒x绝对领域",
+    "company": "麻豆传媒映画x绝对领域",
     "publish_date": "2022-11-03",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/3d1455c620ae00e54037c59db77521d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LY-006.jpg",
     "actress": [
       "苏宁儿"
     ],

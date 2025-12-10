@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/eeea04bb/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-275.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-275"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/c8c52a35/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-276.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-276"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/19/8abbd7656c44d133663b07936be9dccc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-277.jpg",
     "actress": [
       "妮可爱"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/20/08b8e4dad77c29f8034811cb4cc785ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-278.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-278"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/21/d0878a2fda62d7cda48d9e04e0a89d85.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-279.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-279"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/b4cc0488/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-280.jpg",
     "actress": [
       "米菲兔"
     ],
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/23/9634ce04b7fdc685f3be7595001819c6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-281.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-281"
   },
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/24/d4bc4c8c6ab825b78202f9117d48b47d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-282.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-282"
   },
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/25/8e1c3ef7359750397a0df6fb8b91d075.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-283.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-283"
   },
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/26/d8184d6ef454ebcd37d761de9fef8da9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-284.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-284"
   },
@@ -164,7 +164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/27/501da697a676d6b7cefa06dc03ab8cf1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-285.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-285"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/28/468f0733f5fddeddb8f1aea2a5897eaf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-286.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-286"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/06/29/c09431eddc9a4533610f478fcb3b64e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-287.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-287"
   },
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/7f1000ca/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-288.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-288"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/01/12231a357a9c19e9912f4a0b182c2572.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-289.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-289"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/02/56f1e3216adfd89cd96c855af3e36988.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-290.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-290"
   },
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDSYN-291.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSYN-291.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-291"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/04/177deab5b6e434680a4a2fe782c95b68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-292.jpg",
     "actress": [
       "小水水"
     ],
@@ -286,7 +286,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/05/e43326586a536e137c12e4bfc759c2a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-293.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-293"
   },
@@ -301,7 +301,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/06/1b83c6f6c284d50ce7bf14b91e8d0d5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-294.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-294"
   },
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/07/f901562ab4ffbfeb928958e9ac6373f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-295.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-295"
   },
@@ -331,7 +331,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/08/f2d22f8a425412b533409b10dfae1279.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-296.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-296"
   },
@@ -361,7 +361,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/10/20451db53d8f1d28c43070519a264a63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-298.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-298"
   },
@@ -376,7 +376,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/11/26876b1d28f2a9de2ab695d6d5550d78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-299.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-299"
   },
@@ -391,7 +391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/12/0633bcc6ed51183ed1b856d32b70e760.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSYN-300.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-300"
   },
@@ -406,7 +406,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/14/675123314d8a795c9ce033ab3ae85de3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-301.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-301"
   },
@@ -421,7 +421,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/15/dde7af2bbb59eadd3616a6405308e9dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-302.jpg",
     "actress": [
       "佳佳"
     ],
@@ -438,7 +438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/16/936b8461ba3d412f2989fe6fd1c9de8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-303.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-303"
   },
@@ -453,7 +453,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/17/d4dd9341d4a851b1ebae18b0b0339036.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-304.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-304"
   },
@@ -468,7 +468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/19/01d9fd5345f749869a98564fd0e37178.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-306.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-306"
   },
@@ -483,7 +483,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/21/caa4cdcc7ab171c7c8ddbb5f110fbf65.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-307.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-307"
   },
@@ -498,7 +498,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/23/346034a2110f84e947562019aff74e1e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-308.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-308"
   },
@@ -513,7 +513,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/23/1fe2ad403b6716318024633559f96a15.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-309.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-309"
   },
@@ -528,7 +528,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/24/98ef205c78e682a26509d0eead5f81eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-310.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-310"
   },
@@ -543,7 +543,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/24/8227e601dd204faaabb6917c7d20b6c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-311.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-311"
   },
@@ -558,7 +558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/25/ae11bd604984b5c655eafd69f85c3ab6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-312.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-312"
   },
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/ae38f1c7/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-313.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-313"
   },
@@ -588,7 +588,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/27/5534c9299783f5d25b357160dfd284a5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-314.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-314"
   },
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/29/effeb327/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-315.jpg",
     "actress": [
       "小水水"
     ],
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/30/1c703b3b93bfb0f7c5fa264b201ff658.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-316.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-316"
   },
@@ -635,7 +635,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/07/30/7458145267b1b3de070691227bb8f74e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-317.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-317"
   },
@@ -650,7 +650,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/01/f3a2d0ba968605b2f8e157d48d862ac3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-318.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-318"
   },
@@ -665,7 +665,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/01/874685be6e2dad426961cf68d0d0eeb7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-319.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-319"
   },
@@ -680,7 +680,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/02/8fc55c47743f12b0ae8d49eb87e7cc68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-320.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-320"
   },
@@ -695,7 +695,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/03/a51721b51a8c1df7cf8538704d35cdca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-321.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-321"
   },
@@ -710,7 +710,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/04/e33cc6b37ac06d0a5d9ab7d406b55269.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-322.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-322"
   },
@@ -725,7 +725,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/05/d8d40e31fcb5c8b645612185b0f29d0e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-323.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-323"
   },
@@ -740,7 +740,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/06/b14baa57525e8a725c5c468e6ca1f865.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-324.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-324"
   },
@@ -755,7 +755,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/07/1e01051e2ff895218548a4d43ea31d8c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-325.jpg",
     "actress": [
       "小水水"
     ],
@@ -772,7 +772,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/08/2c6065e7e3ab162a798b116d56c29a1a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-326.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-326"
   },
@@ -787,7 +787,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/09/915c1b262ef1a2c4269d1aa807e76f82.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-327.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-327"
   },
@@ -802,7 +802,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/10/78de32743aecb9b7762aedb8a29776cb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-328.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-328"
   },
@@ -817,7 +817,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/11/7211081c0924e7c4be01ca465cfee1f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-329.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-329"
   },
@@ -832,7 +832,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/12/625bada6548cc07cd52c63c3d2ee6e5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-330.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-330"
   },
@@ -847,7 +847,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/13/5b1370c78a320866e5a09c6a56fe0250.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-331.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-331"
   },
@@ -862,7 +862,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/14/bcbc6360535b20820b97b708aabd409e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-332.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-332"
   },
@@ -877,7 +877,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/15/a00149891b14b609729e0cb5b51946c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-333.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-333"
   },
@@ -892,7 +892,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/16/ea0e394c05a9b8d0d0a71360266ee14a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-334.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-334"
   },
@@ -907,7 +907,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/17/1fe6a53c1b4794e4aac9d580231da8e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-335.jpg",
     "actress": [
       "唐月琴"
     ],
@@ -924,7 +924,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/18/4f4b6a21cd97a728a10184a5975e7d9f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-336.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-336"
   },
@@ -939,7 +939,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/19/ae0683eaa237349b4981a78ec5d253c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-337.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-337"
   },
@@ -954,7 +954,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/20/f570d7722d57b425651ebf0cd45c89e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-338.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-338"
   },
@@ -969,7 +969,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/21/20701bc2347790b7e46b6998ab97fc62.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-339.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-339"
   },
@@ -984,7 +984,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/22/4a673ea0619d2d28e4e13adb12139bc2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-340.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-340"
   },
@@ -999,7 +999,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/24/7222a3fc030795fc2c368a4968a9c5fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-341.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-341"
   },
@@ -1014,7 +1014,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/25/e80914b7322acdc60cde465c769e672b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-342.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-342"
   },
@@ -1029,7 +1029,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/26/34b74e4194d8e9b70d4bdd78661ac1df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-343.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-343"
   },
@@ -1044,7 +1044,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/515ac983/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-344.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-344"
   },
@@ -1059,7 +1059,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/27/c70209a3bab04a05322c88fde8416f3b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-345.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-345"
   },
@@ -1074,7 +1074,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/29/cb4e785e98e5791c40c1b6f610926e04.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-346.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-346"
   },
@@ -1089,7 +1089,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/c6acec3734fe3c484688b7422d29f95c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-347.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-347"
   },
@@ -1104,7 +1104,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/c0051694812f65049dff359bec2ec27a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-348.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-348"
   },
@@ -1119,7 +1119,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/01/4968b06e6b61b8b25e4a207d074d16d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-349.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-349"
   },
@@ -1134,7 +1134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/02/e066396787aca1daf959871c3745c8ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-350.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-350"
   },
@@ -1149,7 +1149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/02/061b378226043cb838accd2af1895ce1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-351.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-351"
   },
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/04/7baaba1dcadcb94e1ba8d4022f641d17.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-352.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-352"
   },
@@ -1179,7 +1179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/05/607382330bd520589736423cba930e7d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-353.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-353"
   },
@@ -1194,7 +1194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/06/f2fb561cab65c7fcbd2bd5e48f0f24d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-354.jpg",
     "actress": [
       "小水水"
     ],
@@ -1211,7 +1211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/06/094165fa49144938ff1002860cec49e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-355.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-355"
   },
@@ -1226,7 +1226,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/2cb1572c/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-356.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-356"
   },
@@ -1241,7 +1241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/08/0e41326a15a03ddf7eae52daaa91dc3e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-357.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-357"
   },
@@ -1256,7 +1256,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/09/5772f7204b3666a7b485323ebda57ca0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-358.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-358"
   },
@@ -1271,7 +1271,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/11/56fc4463a1c9be331e96ac8af2842712.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-359.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-359"
   },
@@ -1286,7 +1286,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/12/923e561639cea8688fbffc9f38387759.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-360.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-360"
   },
@@ -1301,7 +1301,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/12/d419247ab69989a693826b4794c71211.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSYN-361.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-361"
   },
@@ -1316,7 +1316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/13/6a226e3b079d32edf8cca8a6b97a86dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-362.jpg",
     "actress": [
       "米菲兔"
     ],
@@ -1333,7 +1333,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/16/3755b6958a28d99ea7987d0e44a677ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-363.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-363"
   },
@@ -1348,7 +1348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/16/74c7b015de2bf11d2dbaf75bd5f59092.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-364.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-364"
   },
@@ -1363,7 +1363,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/17/76feee036ab0839e74ec26f3b1655990.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-365.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-365"
   },
@@ -1378,7 +1378,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/17/8c90f00c55acbc48749170af4756e36a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-366.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-366"
   },
@@ -1393,7 +1393,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/19/7c888a547181a1bfd0519e7860aa960a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-367.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-367"
   },
@@ -1408,7 +1408,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/19/4cc33fe90cb4c5f12183e12e379487eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-368.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-368"
   },
@@ -1423,7 +1423,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/20/545262db1e97f365d4940ff86c648d31.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSYN-369.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-369"
   },
@@ -1438,7 +1438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/21/9d466cf27b2360fde715d6a324e0d155.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-370.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-370"
   },
@@ -1453,7 +1453,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/22/eace23e54b51a1e0e0d10ba7db116a2c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-371.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-371"
   },
@@ -1468,7 +1468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/23/06b9c313a50b35a139f297f7cb629062.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-372.jpg",
     "actress": [
       "米菲兔"
     ],
@@ -1485,7 +1485,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/24/18f4bc287c62ce13ef451af848848c43.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-373.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-373"
   },
@@ -1500,7 +1500,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/25/fc8c36d50e73476a5a1bbe9ea538ff80.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-374.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-374"
   },
@@ -1515,7 +1515,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "香蕉视频传媒X焦点盛宴",
     "publish_date": "2024-12-31",
-    "cover_url": "https://tutu1.space/images/2025/09/26/615735a162b867bbddbf9cb6bf8dd000.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSYN-375.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSYN-375"
   }
