@@ -333,7 +333,7 @@ function getSeriesName() {
 }
 
 function loadSeriesData(seriesName) {
-	const dataUrl = `${window.location.origin}/CN_AV/menu/${seriesName}_data.json`;
+	const dataUrl = `https://yunvgong.com/CN_AV/menu/${seriesName}_data.json`;
     fetch(dataUrl)
     .then(res => {
         if(!res.ok) throw new Error(`HTTP ${res.status}`);
