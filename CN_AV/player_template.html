@@ -256,14 +256,11 @@ body > .container {
             <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
             <p><strong>剧情介绍:</strong> <span id="description"></span></p>
 
-<h2 style="font-weight:bold; text-align:center; margin:20px 0;">
-  <a href="https://t.me/TT_Japanchihan" target="_blank" style="color:#ffa500; text-decoration:none;">
-    加入官方电报群 | 解锁更多片
-  </a>
-</h2>
-
-
-
+            <h2 style="font-weight:bold; text-align:center; margin:20px 0;">
+              <a href="https://t.me/TT_Japanchihan" target="_blank" style="color:#ffa500; text-decoration:none;">
+                加入官方电报群 | 解锁更多片
+              </a>
+            </h2>
         </div>
     </div>
 
@@ -332,47 +329,54 @@ function getSeriesName() {
     return params.get('series') || 'test';
 }
 
+// =================== 加载剧集数据 ===================
 function loadSeriesData(seriesName) {
-	const dataUrl = `https://yunvgong.com/CN_AV/menu/${seriesName}_data.json`;
+    const dataUrl = `https://yunvgong.com/CN_AV/menu/${seriesName}_data.json`;
     fetch(dataUrl)
-    .then(res => {
-        if(!res.ok) throw new Error(`HTTP ${res.status}`);
-        return res.json();
-    })
-    .then(data => {
-        window.episodes = data.episodes;
-        window.seriesInfo = data.seriesInfo;
-        if(seriesInfo.cover_url){
-            document.body.style.setProperty('--bg-url', `url('${seriesInfo.cover_url}')`);
-        }
-        initPlayer();
-    })
-    .catch(err => {
-        console.error("剧集数据加载失败:", err);
-        alert("剧集数据加载失败，请确认 URL 或 CORS 设置");
-    });
+        .then(res => res.json())
+        .then(data => {
+            window.episodes = data.episodes;
+            window.seriesInfo = data.seriesInfo;
+
+            if (seriesInfo.cover_url) {
+                document.body.style.setProperty('--bg-url', `url('${seriesInfo.cover_url}')`);
+            }
+
+            initPlayerWithCompanies();
+        })
+        .catch(err => console.error("剧集数据加载失败:", err));
 }
 
-// ================= 公司信息匹配（最终完整修复版） =================
-async function fillCompanyInfo(companyName) {
-    if (!companyName) return;
-
+// =================== 异步获取公司数据 ===================
+async function loadMaxPage(companys) {
     try {
-        const res = await fetch('https://yunvgong.com/CN_AV/new_company_menu/company_list.json');
-        const companyList = await res.json();
+        const res = await fetch("https://yunvgong.com/CN_AV/new_company_menu/company_list.json");
+        const json = await res.json();
 
-        const companyData = companyList.find(c => c.company === companyName);
+        const companyArray = Array.isArray(companys) ? companys.map(c => c.company) : [companys];
 
-        if (!companyData) {
-            companyEl.textContent = companyName + ' (未找到信息)';
-            return;
-        }
+        const matchedCompanies = json.filter(item => companyArray.includes(item.company));
 
-        const companyUrl = companyData.company_url || "#";
-        const works = companyData.works_count ?? "";
+        window.matchedCompanies = matchedCompanies;
+        return matchedCompanies;
 
-        // 输出 UI
-        companyEl.innerHTML = `
+    } catch (e) {
+        console.error("company_list.json 加载失败：", e);
+        return [];
+    }
+}
+
+// =================== 初始化播放器并显示公司 ===================
+async function initPlayerWithCompanies() {
+    if (!window.seriesInfo) return;
+
+    const companiesData = await loadMaxPage(seriesInfo.companys);
+
+    if (companiesData.length > 0) {
+        companyEl.innerHTML = companiesData.map(c => {
+            const companyUrl = c.company_url || "#";
+            const works = c.works_count ?? "";
+            return `
             <span style="display:inline-flex; gap:0; width:260px; vertical-align:middle;">
                 <a href="${companyUrl}" 
                    target="_blank"
@@ -380,19 +384,17 @@ async function fillCompanyInfo(companyName) {
                    style="flex:1;text-decoration:none;background:#C9B1FF;color:#3F2771;
                           padding:6px 0;text-align:center;font-weight:bold;
                           border-radius:6px 0 0 6px;display:inline-block;">
-                    ${companyName}
+                    ${c.company}
                 </a>
-
                 <div class="flash-target"
                      style="flex:1;background:#7DDB8A;color:#084F15;
                             padding:6px 0;text-align:center;font-weight:bold;
                             border-radius:0 6px 6px 0;cursor:pointer;">
                     ${works}部
                 </div>
-            </span>
-        `;
+            </span>`;
+        }).join("");
 
-        // 闪亮动画
         document.querySelectorAll(".flash-target").forEach(el => {
             el.addEventListener("click", () => {
                 el.classList.remove("flash-click");
@@ -400,90 +402,77 @@ async function fillCompanyInfo(companyName) {
                 el.classList.add("flash-click");
             });
         });
-
-    } catch (e) {
-        console.error("公司信息加载失败:", e);
-        companyEl.textContent = companyName + ' (加载失败)';
+    } else {
+        companyEl.textContent = seriesInfo.company || "(无公司信息)";
     }
-}
 
-function initPlayer() {
+    // 播放器其他信息
     bottomTitle.textContent = seriesInfo.title || "剧名";
     idcodeEl.textContent = seriesInfo.IDcode || "";
     descriptionEl.textContent = seriesInfo.description || "";
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
-	document.title = `${seriesInfo.IDcode} - ${seriesInfo.title} - ${name}`;
-	
-	if(Array.isArray(seriesInfo.companys)&&seriesInfo.companys.length>0){
-        fillCompanyInfo(seriesInfo.companys[0].company);
-    } else { companyEl.textContent=seriesInfo.company||""; }
+    document.title = `${seriesInfo.IDcode} - ${seriesInfo.title}`;
 
-	
-	/* ========== 出品厂商 + 数量 等宽 + 闪亮动画 + 不换行  调用 fillCompanyInfo========== */
-    if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
-        fillCompanyInfo(seriesInfo.companys[0].company);
-    } else {
-        companyEl.textContent = seriesInfo.company || "";
-    }
-	
+    // 出演女优
     actressGrid.innerHTML = "";
-    if(Array.isArray(seriesInfo.actresses)){
-        seriesInfo.actresses.forEach(a=>{
+    if (Array.isArray(seriesInfo.actresses)) {
+        seriesInfo.actresses.forEach(a => {
             const card = document.createElement('div');
-            card.className="actress-card";
-            card.innerHTML=`<a href="${a.profile_url}" target="_blank"><img src="${a.img_url}" alt="${a.name}"><div class="name">${a.name}</div></a>`;
+            card.className = "actress-card";
+            card.innerHTML = `<a href="${a.profile_url}" target="_blank">
+                <img src="${a.img_url}" alt="${a.name}">
+                <div class="name">${a.name}</div>
+            </a>`;
             actressGrid.appendChild(card);
         });
     }
 
-    playlist.innerHTML="";
-    Object.entries(episodes).forEach(([name,url])=>{
-        const btn=document.createElement('button');
-        btn.textContent=name;
-        btn.onclick=()=>loadEpisode(name,url,btn);
+    // 剧集播放列表
+    playlist.innerHTML = "";
+    Object.entries(window.episodes).forEach(([name, url]) => {
+        const btn = document.createElement('button');
+        btn.textContent = name;
+        btn.onclick = () => loadEpisode(name, url, btn);
         playlist.appendChild(btn);
     });
 
-    if(playlist.firstChild){
+    if (playlist.firstChild) {
         playlist.firstChild.classList.add('active');
-        const firstKey = Object.keys(episodes)[0];
-        loadEpisode(firstKey, episodes[firstKey], playlist.firstChild);
+        const firstKey = Object.keys(window.episodes)[0];
+        loadEpisode(firstKey, window.episodes[firstKey], playlist.firstChild);
     }
 }
 
-function loadEpisode(name,url,btn){
-    if(!url) return;
-    if(hls){ hls.destroy(); hls=null; }
+// =================== 播放单集 ===================
+function loadEpisode(name, url, btn) {
+    if (!url) return;
+    if (hls) { hls.destroy(); hls = null; }
 
-    overlay.textContent=`${seriesInfo.title} - ${name}`;
-    overlay.style.opacity=0;
+    overlay.textContent = `${seriesInfo.title} - ${name}`;
+    overlay.style.opacity = 0;
     video.crossOrigin = "anonymous";
 
-    if(Hls.isSupported()){
-        hls = new Hls({
-            maxBufferLength: 30,
-            enableWorker: true,
-            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; }
-        });
+    if (Hls.isSupported()) {
+        hls = new Hls({ maxBufferLength: 30, enableWorker: true });
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=> video.play().catch(()=>console.warn("自动播放被阻止")));
-        hls.on(Hls.Events.ERROR,(event,data)=>{
-            console.error("HLS 错误:",data);
-            if(data.fatal) alert("播放出错，请刷新或更换线路");
+        hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => console.warn("自动播放被阻止")));
+        hls.on(Hls.Events.ERROR, (event, data) => {
+            console.error("HLS 错误:", data);
+            if (data.fatal) alert("播放出错，请刷新或更换线路");
         });
-    } else if(video.canPlayType('application/vnd.apple.mpegurl')){
-        video.src=url;
-        video.addEventListener('loadedmetadata',()=>video.play());
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+        video.addEventListener('loadedmetadata', () => video.play());
     } else alert("浏览器不支持 HLS 播放");
 
-    document.querySelectorAll('#playlist button').forEach(b=>b.classList.remove('active'));
-    if(btn) btn.classList.add('active');
+    document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
 }
 
-video.addEventListener('pause',()=>overlay.style.opacity=1);
-video.addEventListener('play',()=>overlay.style.opacity=0);
+video.addEventListener('pause', () => overlay.style.opacity = 1);
+video.addEventListener('play', () => overlay.style.opacity = 0);
 
 loadSeriesData(getSeriesName());
 </script>
