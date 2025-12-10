@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/e68eed302c87b897fbbfe899ab769378.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXB-0001.jpg",
     "actress": [
       "白思吟"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/4d90440d6e47fe211c5b5adfe367e13f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXB-0002.jpg",
     "actress": [
       "妲己"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230624-1/b6b18cde47f4adbb5298325ec85ccc4c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXB-0004.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/3a2e53e3e78e2069679cb25598ebaf97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXB-0005.jpg",
     "actress": [
       "温芮欣",
       "白思吟"
@@ -79,7 +79,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://tuaskbgnekr.com/20221201/znqAAbjz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XB-64.jpg",
     "actress": [
       "美酱"
     ],
@@ -96,7 +96,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://tuaskbgnekr.com/20221201/9mCiJxt2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XB-65.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XB-65"
   },
@@ -111,7 +111,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://tuaskbgnekr.com/20221201/Me0tsxd9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XB-66.jpg",
     "actress": [
       "美酱"
     ],
@@ -128,7 +128,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-03-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220914-1/16fc852c59353fb58d40b6c96f3d2461.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XB0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XB0001"
   },
@@ -143,7 +143,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250605-1/eaf56faf23f905b5119a7c755dc83dd3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8001.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250605-1/69be48febff78e97cfdf61e5a4986dbf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8002.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250605-1/270e628d1be376ba712977e208a0f88b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8006.jpg",
     "actress": [
       "嘉仪"
     ],
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250605-1/ad77564639e318862fcd5947079dc2a5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8011.jpg",
     "actress": [
       "瑶贝"
     ],
@@ -211,7 +211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250605-1/68f3ce5895e2ecf7bf1d1f1d61a8f861.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8012.jpg",
     "actress": [
       "程雨沫",
       "瑶贝"
@@ -229,7 +229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250606-1/320f8699566f5f1eb60cfeed5bf1d0f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8013.jpg",
     "actress": [
       "程雨沫",
       "瑶贝"
@@ -247,7 +247,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250606-1/837b7d25ab6b8d0616ab71fcc8ca71cb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8014.jpg",
     "actress": [
       "王拉拉"
     ],
@@ -264,7 +264,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/33f5671f876b433d2d0b6f3c6e269da1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8015.jpg",
     "actress": [
       "黄雪纯",
       "王拉拉"
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/83710364e31f49b12e85f96a4ecd5150.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8016.jpg",
     "actress": [
       "王拉拉"
     ],
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210502-1/fb88f7b2ac1a29094884056181fd0571.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8020.jpg",
     "actress": [
       "黄雪纯",
       "王拉拉"
@@ -317,7 +317,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/d0acc1e18ec933ed26ff96f230dcac78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8021.jpg",
     "actress": [
       "李文雯"
     ],
@@ -334,7 +334,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/fc5f863a96c1d0713a620d7e2d070045.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8025.jpg",
     "actress": [
       "苏清歌"
     ],
@@ -351,7 +351,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210529-1/c0189d26a81fec4abbed7229ac0783dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8026.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -368,7 +368,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "杏吧原创",
     "publish_date": "2023-12-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250608-1/bd493b4a3b29098bcb01cd5475fb8312.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKXB-8028.jpg",
     "actress": [
       "孙欣欣"
     ],

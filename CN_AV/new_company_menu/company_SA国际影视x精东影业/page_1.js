@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230602-1/dddc68ca14e826c4056ffd3abe51085a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAJD012"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230602-1/d63dcfb1fe945be2f87ac35fd9f07bcd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD013.jpg",
     "actress": [
       "MOMO"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230604-1/db558b8f6b0e3384de001245c552e8f3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD015.jpg",
     "actress": [
       "小遥"
     ],
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230604-1/32699e406eaaaa874ba1d6ca90deb5ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD016.jpg",
     "actress": [
       "小遥"
     ],
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230609-1/428de8bef97f51ed2c759949c9945382.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD017.jpg",
     "actress": [
       "小遥"
     ],
@@ -93,7 +93,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/db72e415660269cb55438200598d8af2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD019.jpg",
     "actress": [
       "晨曦"
     ],
@@ -110,7 +110,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际影视x精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/15d6948c04451dc2cbc2c2f2cd94afe6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAJD020.jpg",
     "actress": [
       "李允熙",
       "晨曦"

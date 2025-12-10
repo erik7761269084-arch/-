@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/47161e1171ba8bb0be72b95e9496a5e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP064.jpg",
     "actress": [
       "赵敏"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/e448ecae801ec77541191dd70ed490ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP065.jpg",
     "actress": [
       "小梅"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/9fc0d6619d0f90a477f809608b86d8ab.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP066.jpg",
     "actress": [
       "李子依"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/4754cd8ffd08d16bc807277ba73093a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP067.jpg",
     "actress": [
       "陈静"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/584de34ffe393efe3d6a7fd21f1c60ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP068.jpg",
     "actress": [
       "谭琳"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/424f6070c017a7f205c21a486a0297a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP069.jpg",
     "actress": [
       "香菱"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/ffffb531162aa709aa920cb28f74effd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP070.jpg",
     "actress": [
       "美嘉"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/242b85b8a4b0a1bf6cc5f3efc9094c90.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP071.jpg",
     "actress": [
       "香菱"
     ],
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/ec2304c7cefd4d1a19db398d21666e08.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP072.jpg",
     "actress": [
       "蔷薇"
     ],
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/0e2e75af3fc59016980b18eb7b127cc8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP073.jpg",
     "actress": [
       "琳达"
     ],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240729-1/96629b983db2cce03cc1deacf20928c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP074.jpg",
     "actress": [
       "琳达"
     ],
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240803-1/0182d3dd534bcfc22f7ceecfbc97558e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP075.jpg",
     "actress": [
       "琳达"
     ],
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240803-1/640f484baabb58c6bfe32e6bd72453c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP076.jpg",
     "actress": [
       "小雅"
     ],
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240803-1/eb84ee410390076f05445733ba8a2fa9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP077.jpg",
     "actress": [
       "琳达"
     ],
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/ae447075eb660e75f1affdcefd7da7a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP080.jpg",
     "actress": [
       "唐月琴"
     ],
@@ -265,7 +265,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/08d4e2bc76f42b51730dfb1815fd7011.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP081.jpg",
     "actress": [
       "晴天"
     ],
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/7a5e3a90a9febfdcb4c7b479807e5289.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP082.jpg",
     "actress": [
       "晴天"
     ],
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/31be4232e6d516e15aceb3fb7ec818b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP083.jpg",
     "actress": [
       "晴天"
     ],
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/93d9e50ea8c88dc22db8a7f30af1d949.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP084.jpg",
     "actress": [
       "林洋"
     ],
@@ -333,7 +333,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240811-1/e29812c94ce45e70e075b14945e01f4a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP085.jpg",
     "actress": [
       "丽丽"
     ],
@@ -350,7 +350,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240811-1/3a65e58516ab0e5a7d4e1db76c32b83e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP086.jpg",
     "actress": [
       "王灿灿"
     ],
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240811-1/63f09c4623fb919afb624a0d438febff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP087.jpg",
     "actress": [
       "林洋"
     ],
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/09T5PHHO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP088.jpg",
     "actress": [
       "林洋"
     ],
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/RdxXrH4h/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP089.jpg",
     "actress": [
       "王玥"
     ],
@@ -418,7 +418,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/reUGS3QH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP090.jpg",
     "actress": [
       "晴天"
     ],
@@ -435,7 +435,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/mrvY2OTa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP091.jpg",
     "actress": [
       "林洋"
     ],
@@ -452,7 +452,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240815-1/49aac7f427ee814f578b31be66ea7343.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP093.jpg",
     "actress": [
       "欣欣"
     ],
@@ -469,7 +469,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240820-1/5e50d50f5d0eccae6f3df0df1bfaad33.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP096.jpg",
     "actress": [
       "冬月结衣",
       "冬雨结衣"
@@ -487,7 +487,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240820-1/b2ebc2ed684faa4e11971416779a756e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP098.jpg",
     "actress": [
       "林思妤"
     ],
@@ -504,7 +504,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240821-1/323fbe74453eccf3281e65e43fcd323a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP099.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240821-1/fc303e035a9347f9f8d3e9182c8122b6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP100.jpg",
     "actress": [
       "香菱"
     ],
@@ -538,7 +538,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240822-1/a6b6c05b432e16ac89ba6dab98f20b4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP101.jpg",
     "actress": [
       "欣欣"
     ],
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/wTZAFWOe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP103.jpg",
     "actress": [
       "仙儿媛"
     ],
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240824-1/51cf6bb5ad4f193be778eab26f17826d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP104.jpg",
     "actress": [
       "橙子"
     ],
@@ -589,7 +589,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240826-1/4ad6b9610c9da180b3a78fdab8f7abff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP105.jpg",
     "actress": [
       "花花"
     ],
@@ -606,7 +606,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240826-1/5d2bc1832eddfc157f20ac67f41a6660.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP106.jpg",
     "actress": [
       "凯西"
     ],
@@ -623,7 +623,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/CDfjDtWb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP107.jpg",
     "actress": [
       "李丹彤"
     ],
@@ -640,7 +640,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/CFNmkhBv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP108.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -657,7 +657,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/WsWfeRFB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP109.jpg",
     "actress": [
       "白允儿"
     ],
@@ -674,7 +674,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/5cSgQUsP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP110.jpg",
     "actress": [
       "可依"
     ],
@@ -691,7 +691,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/08/31/4d55a0beff91e770143f498ee012480f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP111.jpg",
     "actress": [
       "凌波丽"
     ],
@@ -708,7 +708,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/DUJyr79l/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP112.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -725,7 +725,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://le.lefhao20250923.top//20241123/f5ve4I6C/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP113.jpg",
     "actress": [
       "李丹彤"
     ],
@@ -742,7 +742,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/BAljG9rr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP114.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/3DRKmxFB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP115.jpg",
     "actress": [
       "桥本爱菜"
     ],
@@ -776,7 +776,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/04/6de41f89680f49ad3c4bb944b9d2930d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP116.jpg",
     "actress": [
       "甄可依"
     ],
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/OJP0LYHf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP117.jpg",
     "actress": [
       "欣欣"
     ],
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/ja44r15y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP118.jpg",
     "actress": [
       "清水"
     ],
@@ -827,7 +827,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/jL2P7aVc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP119.jpg",
     "actress": [
       "可娜"
     ],
@@ -844,7 +844,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/P3ulI3i2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP120.jpg",
     "actress": [
       "欣欣"
     ],
@@ -861,7 +861,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/U20amTIp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP121.jpg",
     "actress": [
       "橙子"
     ],
@@ -878,7 +878,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/Wr08phtU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP122.jpg",
     "actress": [
       "白允儿"
     ],
@@ -895,7 +895,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/tu1vr2om/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP123.jpg",
     "actress": [
       "橙子"
     ],
@@ -912,7 +912,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/W5namzdA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP124.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -929,7 +929,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/M8Lw1e6P/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP125.jpg",
     "actress": [
       "清水"
     ],
@@ -946,7 +946,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/iN46HWWw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP126.jpg",
     "actress": [
       "白婷婷"
     ],
@@ -963,7 +963,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/mJaG8Cyc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP127.jpg",
     "actress": [
       "橙子"
     ],
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/KrGUwlVy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP128.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -997,7 +997,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/okLhvXNM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP129.jpg",
     "actress": [
       "香菱"
     ],
@@ -1014,7 +1014,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/NCByrnys/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP130.jpg",
     "actress": [
       "珠珠"
     ],
@@ -1031,7 +1031,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/1Z7ieXCA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP131.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -1048,7 +1048,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/atvrCDKl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP132.jpg",
     "actress": [
       "香菱"
     ],
@@ -1065,7 +1065,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/22/efffd1d4c26e6092d8af2ec43d3ca75c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP133.jpg",
     "actress": [
       "金铭"
     ],
@@ -1082,7 +1082,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/24/062d76e8e685c507bfc8f5ef3ff32a50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP134.jpg",
     "actress": [
       "欣欣"
     ],
@@ -1099,7 +1099,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/24/c3876a7aea6b64e7217bda6dbb4c9fa2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP135.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -1116,7 +1116,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/25/20a54baa07e41ffabd50b64969fe318f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP136.jpg",
     "actress": [
       "波妮"
     ],
@@ -1133,7 +1133,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/bQBxsUWa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP137.jpg",
     "actress": [
       "橙子"
     ],
@@ -1150,7 +1150,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/27/c93d376a04562fbbee3bb7418b00df19.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP138.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -1167,7 +1167,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/28/96e00877808b8daa1ae4669f29b46863.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP139.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -1184,7 +1184,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/09/30/ef7491d24899043e5a3323ae9c9cf876.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP140.jpg",
     "actress": [
       "波妮"
     ],
@@ -1201,7 +1201,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/10/01/7af8e28b364b340c45df9b451444461e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP141.jpg",
     "actress": [
       "金铭"
     ],
@@ -1218,7 +1218,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/lFPs85qc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP142.jpg",
     "actress": [
       "白沛瑶"
     ],
@@ -1235,7 +1235,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/nR45s03x/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP143.jpg",
     "actress": [
       "宋可"
     ],
@@ -1252,7 +1252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/Ndav8NOI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP144.jpg",
     "actress": [
       "宋可"
     ],
@@ -1269,7 +1269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/M9WElH37/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP145.jpg",
     "actress": [
       "白允儿"
     ],
@@ -1286,7 +1286,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/67dWbNrc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP146.jpg",
     "actress": [
       "白允儿"
     ],
@@ -1303,7 +1303,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/UE3EN5H9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP147.jpg",
     "actress": [
       "橙子"
     ],
@@ -1320,7 +1320,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/FRmVYpVZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP148.jpg",
     "actress": [
       "季妍希"
     ],
@@ -1337,7 +1337,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/XNroRAsW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP149.jpg",
     "actress": [
       "宋可"
     ],
@@ -1354,7 +1354,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/10/09/35ae1e2c1af29c4a2e59407e91101ca5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP150.jpg",
     "actress": [
       "柔伊"
     ],
@@ -1371,7 +1371,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/NJtgUliw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP151.jpg",
     "actress": [
       "香菱"
     ],
@@ -1388,7 +1388,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/MkebsLs7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP152.jpg",
     "actress": [
       "季妍希"
     ],
@@ -1405,7 +1405,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/gWWoYqxo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP153.jpg",
     "actress": [
       "金铭"
     ],
@@ -1422,7 +1422,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/BUFAI5hV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP154.jpg",
     "actress": [
       "柔伊"
     ],
@@ -1439,7 +1439,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://tutu1.space/images/2024/10/12/71d8844679de8d3283dbfe2bb4141ea7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKVP155.jpg",
     "actress": [
       "茉莉"
     ],
@@ -1456,7 +1456,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241123/CKyxd3dH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP156.jpg",
     "actress": [
       "唐芯"
     ],
@@ -1473,7 +1473,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241124/QGmc9QW1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP157.jpg",
     "actress": [
       "欣欣"
     ],
@@ -1490,7 +1490,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241124/rHdZzhfH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP158.jpg",
     "actress": [
       "宋可"
     ],
@@ -1507,7 +1507,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241124/3E1SUEfZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP159.jpg",
     "actress": [
       "小琦"
     ],
@@ -1524,7 +1524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "http://da.da15525716.com/20241124/MUUfG3b2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP160.jpg",
     "actress": [
       "茉莉"
     ],
@@ -1541,7 +1541,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2024-05-16",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240712-1/899ed23f3d0aa0da9fc2f76dca6932ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKVP59.jpg",
     "actress": [
       "白允儿"
     ],
@@ -1558,7 +1558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220928-1/d94fdab9ed0137b5795bb36f2a61422e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKYP001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKYP001"
   },
@@ -1573,7 +1573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://tutu1.space/images/2025/03/23/ed1e8759f91334a34b3e2aa23b898d6d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKYP002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKYP002"
   },
@@ -1588,7 +1588,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://tutu1.space/images/2022/08/14/602226f20e3bf5a5fcce83e6da377b33.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKYP005.jpg",
     "actress": [
       "桥本爱菜"
     ],
@@ -1605,7 +1605,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220916-1/9ce1e635ca6c76b088a0ce073b6f3341.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKYP006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKYP006"
   },
@@ -1620,7 +1620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220902-1/5b819647e6506bc4d2a9dd38b50a4e50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKYP008.jpg",
     "actress": [
       "中条爱莉"
     ],
@@ -1637,7 +1637,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/0WZE1lNB.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKYP009.jpg",
     "actress": [
       "橙子"
     ],
@@ -1654,7 +1654,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒",
     "publish_date": "2022-07-07",
-    "cover_url": "https://tutu1.space/images/2025/05/25/777850586999aa20691bd33b9bfdda75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKYP010.jpg",
     "actress": [
       "欣欣"
     ],

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "宝宝米奇",
     "publish_date": "2024-10-05",
-    "cover_url": "https://tutu1.space/images/2024/10/09/bef9120f5ddc7fb9e66877279e016a25.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LEJQ-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LEJQ-024"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "宝宝米奇",
     "publish_date": "2024-10-16",
-    "cover_url": "https://tutu1.space/images/2025/04/23/9b754ad8599913e01d50be57dfb5fc1c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/LEYP-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LEYP-029"
   }

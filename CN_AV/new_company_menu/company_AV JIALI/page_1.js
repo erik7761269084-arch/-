@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/a17826c3/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-128.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-128"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/67c3fb33/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-165.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-165"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/12/0fc7880e1c3ea8348d65eb6457508594.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-228.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-228"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/08/2a2117f956ebb045d3c692afce7dcebd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-229.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-229"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/18/9b6a375e5638bccbdc5d627ae9a9a6d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-244.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/22/30387b9da0914a8bda71b431489c1197.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-259.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/11/2d1de7b8d6a2ed2a4064cfaf3f93b55d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-260.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/11/8cbf067a67b7bb94b67aac5fa675260e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-267.jpg",
     "actress": [
       "仙儿媛"
     ],
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/09/14419dd1f3efe07aa2e20abb895334d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-275.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-275"
   },
@@ -153,7 +153,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/22/82c810eff6d1c0cd258ecc1dd3951bda.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-277.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-277"
   },
@@ -168,7 +168,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/21/aff669df17ff1ed5d68771ea138bb5be.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-278.jpg",
     "actress": [
       "仙儿媛"
     ],
@@ -185,7 +185,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/21/6733e55f05a58a8cb57dccfa1bdd9775.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-280.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -202,7 +202,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/07/c37a093f8c699a92523201d1b72921ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-281.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-281"
   },
@@ -217,7 +217,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/21/afc13ed39ed131c0c0bb68cac07928a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-282.jpg",
     "actress": [
       "羽芮"
     ],
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/22/b5bf583f6374534d1736c45e4dd544f9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-286.jpg",
     "actress": [
       "黎儿"
     ],
@@ -251,7 +251,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/20/4fae3aaae40dcaa1751f827aa4f4e1a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-287.jpg",
     "actress": [
       "黎芷媗"
     ],
@@ -268,7 +268,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/20/df89e2c51ab2854c2ababdd5a4d58fed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-288.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -285,7 +285,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/19/89b745ebd0143af64842ca6f3f06d85d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-289.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -302,7 +302,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/20/3c708e4b8be3127c32cb2a3714b4b4b1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-290.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-290"
   },
@@ -317,7 +317,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/18/6c6dcaa30d9582b7bb27028b08088910.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-291.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-291"
   },
@@ -332,7 +332,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/11/6b9582300254b307fd038124a54a61dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-292.jpg",
     "actress": [
       "尤莉"
     ],
@@ -349,7 +349,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/19/60c3f275cf8158e5ee521df47717a496.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-293.jpg",
     "actress": [
       "米歐"
     ],
@@ -366,7 +366,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/10/326b9ebca2fd32c9e430b316ef3ffa4a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-294.jpg",
     "actress": [
       "乔安"
     ],
@@ -383,7 +383,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/15/80a42413302b4f23d358c130deef1880.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-295.jpg",
     "actress": [
       "乔安"
     ],
@@ -400,7 +400,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/13/3ba45845605d525734cb70000a1fb3be.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-296.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -417,7 +417,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/10/775a761b/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-297.jpg",
     "actress": [
       "樱樱"
     ],
@@ -434,7 +434,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/08/8fe177583bc0a530ec0aaec4db745429.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-299.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-299"
   },
@@ -449,7 +449,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/08/b7024a512fdebdd6a9ba9cccfaff7149.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-300.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -466,7 +466,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/15/3af539542dfc5902b9befbdc72223ad2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-303.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-303"
   },
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/10/e6b55e67f446927656462d51e1e042ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-304.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-304"
   },
@@ -496,7 +496,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/15/a79cb47c5ab4ca6938a405397afedc60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-305.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -513,7 +513,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/12/778237bf2b0097bd02c38f746d33a509.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-306.jpg",
     "actress": [
       "黎儿"
     ],
@@ -530,7 +530,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/05/5dfd0f1a1e7f6ee085ab98a30da30e3d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-307.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-307"
   },
@@ -545,7 +545,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/05/deadf2322fdb02dd6aa8b981ccb97091.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-308.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-308"
   },
@@ -560,7 +560,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/09/cb3e8ce483c86d9d79449f1faf4b0020.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-309.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-309"
   },
@@ -575,7 +575,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/05/860265d0464075645613fe95550bd0b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-311.jpg",
     "actress": [
       "张欣妍"
     ],
@@ -592,7 +592,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/04/13ba8746de1c6c81546dff12b19d37a5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-312.jpg",
     "actress": [
       "张欣妍"
     ],
@@ -609,7 +609,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/be013801/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-313.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-313"
   },
@@ -624,7 +624,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/06/132172c19e9af457d4a5c24b2f352471.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-314.jpg",
     "actress": [
       "樱樱"
     ],
@@ -641,7 +641,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/04/2d90e2920c9e5e67be62b1e33ca6e2f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-315.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/03/c9a16bae31aedd31ae093611f0ee3fe2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-317.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-317"
   },
@@ -673,7 +673,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/03/dd1df82e506a0a4f15da0a47e4b56332.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-319.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-319"
   },
@@ -688,7 +688,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/02/d77023ff1afc328b7e2cd43b7d5a3591.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-321.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-321"
   },
@@ -703,7 +703,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/03/994886e799778b96137ea53031e69b2d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-322.jpg",
     "actress": [
       "仙儿媛"
     ],
@@ -720,7 +720,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/02/5a1b7f275b15e31dcfc77c87ba63270f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-324.jpg",
     "actress": [
       "苏雨彤"
     ],
@@ -737,7 +737,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/17/91d9fe129740b3c5a8625d7a566981f6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AMA-003.jpg",
     "actress": [
       "萝希"
     ],
@@ -754,7 +754,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/13/cfa25e4783f0549777d44ced53f6151e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AVJI-AN9-004"
   },
@@ -769,7 +769,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/18/51302a92a4845869da2c8f43982f2444.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-005.jpg",
     "actress": [
       "Alice"
     ],
@@ -786,7 +786,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/18/15132295a7767705fa746e5492a80dd9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-006.jpg",
     "actress": [
       "仙儿嫒"
     ],
@@ -803,7 +803,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/17/ee3f32a71ae0b5176b58a2fca21a9070.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-007.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -820,7 +820,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/04/1e21d363b0a779f6bc495832693a2337.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-012.jpg",
     "actress": [
       "斑斑"
     ],
@@ -837,7 +837,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/09/8b2b09a70c4a9bd75514f15484c2abe0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-AN9-022.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -854,7 +854,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/12/f3f9092c2f71a3b9ef39fc79d86b2144.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-GON-002.jpg",
     "actress": [
       "林洋"
     ],
@@ -871,7 +871,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/19/6ef96982e4ceb993e74a1df2e37b5b26.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-GON-003.jpg",
     "actress": [
       "梁芸菲"
     ],
@@ -888,7 +888,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/27/5a9553c21cc42af79a15d4ee9326e66c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-GON-004.jpg",
     "actress": [
       "韩棠"
     ],
@@ -905,7 +905,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/17/73fe1ec0ad7b2d5e0ca33cafc694ba62.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-UPR-001.jpg",
     "actress": [
       "小巴"
     ],
@@ -922,7 +922,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/13/dbbcf155e9c0e0036e45e2b9f7386cd8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-UPR-002.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -939,7 +939,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "AV JIALI",
     "publish_date": "2025-06-01",
-    "cover_url": "https://tutu1.space/images/2025/06/13/8b5e0689097159e54bf01954a15f86df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AVJI-UPR-003.jpg",
     "actress": [
       "温芮欣"
     ],

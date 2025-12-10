@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-017.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-017"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-019.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-019"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-020.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-020"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/e7d02092412133d394f6dec3f2c89690.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-023"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/dc5edc77cee0bd7a28e72fad32d52733.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-024"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/62f091031bf6fe95b26f77a01b0ff202.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-025"
   }

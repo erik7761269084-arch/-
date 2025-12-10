@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://tutu1.space/images/2022/08/09/9c682657a63009b1dff277c170c493b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/ae7aa3da1586e636c9b03bdad5627e8a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-002.jpg",
     "actress": [
       "素人"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220915-1/fe3a96701441372fc6b87642d9e27731.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-003"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/c31cf62e260e73bb7f6ef6d96d13d94f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-004"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/5610613611b858cee8a92e672beb9c65.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-005"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/1ff376c604f176695368496bcbb9aeda.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-006"
   },
@@ -102,7 +102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://thjpg10.top/upload/vod/20250305-1/80b18d8afc895e03d240707a173c3ef3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-007.jpg",
     "actress": [
       "素人"
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221007-1/2d6d55ee32a0839bfbb1d6b690867fd0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-008"
   },
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/36e1bfb592e1a9106e4654352c5402ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-009.jpg",
     "actress": [
       "素人"
     ],
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221020-1/3dad57600caede0384cf036001e1916a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-010"
   },
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/cd64dd4357ebe94a6dfb67d1b546e008.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-011"
   },
@@ -181,7 +181,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/23ccf68f959fa5f5abd0a7fcb2bb00bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-012.jpg",
     "actress": [
       "丝丝"
     ],
@@ -198,7 +198,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221102-1/ea249fc79d60563c56e3737b2a3e610b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-013"
   },
@@ -213,7 +213,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/17c84c4affec18f9b50b1a65dfdbc105.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-014"
   },
@@ -228,7 +228,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://bwjpg.top/upload/vod/20251016-1/54023ed9a54ab08140023368cf1982cb.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-015.jpg",
     "actress": [
       "素人"
     ],
@@ -245,7 +245,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221124-1/b04bbac84689025837205421f573119d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-016"
   },
@@ -260,7 +260,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蝌蚪传媒",
     "publish_date": "2023-06-29",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221130-1/56f77763c22c7bbaf10ee477cdaba976.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KD-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KD-017"
   }

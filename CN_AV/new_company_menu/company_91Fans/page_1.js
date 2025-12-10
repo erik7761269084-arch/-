@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91Fans",
     "publish_date": "2025-05-12",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250512-1/0294c2750f5c45b4fc96508255d2604c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XM-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XM-0001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91Fans",
     "publish_date": "2025-05-12",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/16be67675161e5335043cc9bb4620d7f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XM-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XM-0002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91Fans",
     "publish_date": "2025-05-12",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a3541a12887213b578f6889034de09ae.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XM-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XM-0003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91Fans",
     "publish_date": "2025-05-12",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f8074599d1522ec7b7cb2eb682e06945.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XM-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XM-0005"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "91Fans",
     "publish_date": "2025-05-12",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/0b5a3f45d7d4d79995bb84c367bfaa9f.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XM-0006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XM-0006"
   }

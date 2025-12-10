@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "昕漾传媒",
     "publish_date": "2025-09-27",
-    "cover_url": "https://bwjpg.top/upload/vod/20250912-1/ade6e4044fb27555a6b2b0b5993be7f6.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DBS-0002.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "昕漾传媒",
     "publish_date": "2025-09-27",
-    "cover_url": "https://thjpg10.top/upload/vod/20250305-1/1c7a4e6caac48ef2061714b23fc2546b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DBS-0003.jpg",
     "actress": [
       "波妮",
       "黎芷媗",

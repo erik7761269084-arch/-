@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/fc36259d5c8c6d54a5b403ee4df6eec2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ21-EP1-1.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/58f1130af72f5c88e684211e3683128b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ21-EP1-2.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230202-1/1330db41990580164c484fced73789ee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ21-EP2.jpg",
     "actress": [
       "梁芸菲",
       "周甯",
@@ -68,7 +68,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/62a2f93475f0a3a098a206c3817d1c4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP1.jpg",
     "actress": [
       "小麦",
       "虎仔"
@@ -86,7 +86,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/21ea145ca6a7ecd14f44476ac3e5bfd7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP1-性爱篇-1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVQ22-EP1-性爱篇-1"
   },
@@ -101,7 +101,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/21ea145ca6a7ecd14f44476ac3e5bfd7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP1-性爱篇-2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVQ22-EP1-性爱篇-2"
   },
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://tutu1.space/images/2023/04/23/099c1d959ca515db499f41d742daad46.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP2.jpg",
     "actress": [
       "小麦",
       "虎仔"
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230421-1/7d33bb0cc9a5b809af3945e6faa8590c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP2-性爱篇.jpg",
     "actress": [
       "虎仔"
     ],
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://tutu1.space/images/2023/04/23/359a321d66a3d35724f037f77bd5e5e2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ22-EP3-性爱篇.jpg",
     "actress": [
       "虎仔"
     ],
@@ -189,7 +189,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230718-1/80b0e13b38aa990eda56c1a5e4a38a0d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ23-EP1.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -223,7 +223,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240502/20240502015615835835.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ23-EP2.jpg",
     "actress": [
       "秋元"
     ],
@@ -260,7 +260,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230801-1/b1162e2a03acb43920329de2aabf06b6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ23-EP3.jpg",
     "actress": [
       "古伊娜"
     ],
@@ -277,7 +277,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230809-1/965aaacd52007db56714f6183f30495d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ23-EP4.jpg",
     "actress": [
       "言嘉佑"
     ],
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://da.da15525716.com/images/2023/08/23/zhubo1095.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ23-EP5.jpg",
     "actress": [
       "白思吟"
     ],
@@ -311,7 +311,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/13239f57f72dc1972cee2ccb0f1de377.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ24-EP1.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -328,7 +328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/b9298f957f4fc00ec7aa529c876106d4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ24-EP2.jpg",
     "actress": [
       "夏晴子",
       "夏睛子"
@@ -346,7 +346,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/c988e0df187dc6e2d5ac2db94990a9a5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ24-EP3.jpg",
     "actress": [
       "古伊娜"
     ],
@@ -363,7 +363,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/e9bcf1f459617e847aaeec22c87fb9cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ24-EP4.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -380,7 +380,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://bwjpg.top/upload/vod/20251011-1/e4868b70d7d1a82cda63199f8193fad0.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ1-EP01-性爱篇.jpg",
     "actress": [
       "南芊允"
     ],
@@ -397,7 +397,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-10-17",
-    "cover_url": "https://le.lefhao20250923.top//20241110/1MHfGQbH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ1-EP01-节目篇.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVSQ1-EP01-节目篇"
   },
@@ -412,7 +412,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://upload.xchina.io/video/64445a5962eb3.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ1-EP06-节目篇.jpg",
     "actress": [
       "双儿"
     ],
@@ -429,7 +429,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://upload.xchina.io/video/62fa54391510c.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ1-EP08-节目篇.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://upload.xchina.io/video/6303c3ee4fed0.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ1-EP09-节目篇.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -463,7 +463,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221003-1/afb667bf3efc38ac12e6566edb2b9c74.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVSQ2-EP01"
   },
@@ -478,7 +478,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221007-1/350eeb9621cc597c993c0928853d3f7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP02.jpg",
     "actress": [
       "黎菲尔"
     ],
@@ -495,7 +495,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20251009-1/310f3c750bda735bf7658ebf3c5faef8.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP03.jpg",
     "actress": [
       "紫宸",
       "苡琍",
@@ -514,7 +514,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221018-1/e4db24e9a19df4e55042ee8e9751536e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP04.jpg",
     "actress": [
       "米仓亚美",
       "紫宸",
@@ -534,7 +534,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "http://da.da15525716.com/20241114/h8rhFKMo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP05.jpg",
     "actress": [
       "紫宸",
       "苡琍",
@@ -554,7 +554,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221115-1/22fa389f9e08bed2a8a248f2e1a1fdfa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP06.jpg",
     "actress": [
       "斯斯",
       "苡琍",
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240927-1/ae18a95453eae7342bee38beb5d5cdef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP07.jpg",
     "actress": [
       "斯斯",
       "苡琍",
@@ -594,7 +594,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/8a07dbf6083feb949226faeece980fbf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP08.jpg",
     "actress": [
       "斯斯",
       "紫宸",
@@ -618,7 +618,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221207-1/a79f6faa2805aaa3dc5e8c91f9826ea9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP09.jpg",
     "actress": [
       "斯斯",
       "苡琍",
@@ -638,7 +638,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/a420680a1e3486cfaba08fd54283e9ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP10.jpg",
     "actress": [
       "斯斯",
       "苡琍",
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/4c4bb9638870ea8f85fadb013921ea65.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP11.jpg",
     "actress": [
       "斯斯",
       "紫宸",
@@ -678,7 +678,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221226-1/ff7ba1862015ea709b6e31288264b147.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVSQ2-EP12.jpg",
     "actress": [
       "斯斯",
       "苡琍",
@@ -698,7 +698,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250930-1/1c3d6d906e8f3033db85d378d64a8433.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0001-1.jpg",
     "actress": [
       "木下日葵"
     ],
@@ -715,7 +715,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0001-2.jpg",
     "actress": [
       "木下日葵"
     ],
@@ -732,7 +732,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://upload.xchina.io/video/63f07e7a0c9dd.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0002-1.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -749,7 +749,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220221-1/a44f1241ff97cb662df4b0d7654c7850.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0002-2.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -766,7 +766,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211109-1/211fa77388e94745f71bcc02c991654f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0003-1.jpg",
     "actress": [
       "姬咲华"
     ],
@@ -783,7 +783,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250920-1/31c2c3b4f3da869f49933e6f07df0e61.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0003-2.jpg",
     "actress": [
       "姬咲华"
     ],
@@ -800,7 +800,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MXJ-0004-1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0004-1.jpg",
     "actress": [
       "星谷瞳"
     ],
@@ -817,7 +817,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://le.lefhao20250923.top//20241110/aLL5lWSy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0004-2.jpg",
     "actress": [
       "泡泡",
       "星谷瞳"
@@ -835,7 +835,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220103-1/f44966a7122fcc14aeb4ad5f822e99ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0005-EP1.jpg",
     "actress": [
       "弥生美月"
     ],
@@ -852,7 +852,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/05acaffc4b249637b7846ab333972807.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0005-EP2.jpg",
     "actress": [
       "弥生美月"
     ],
@@ -869,7 +869,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "http://pic1.thzpic.com/forum/202201/24/142355w8crahcxzhg7t5ih.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0006-1.jpg",
     "actress": [
       "逢见梨花"
     ],
@@ -886,7 +886,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220131-1/ad0e9202716d5de6baa42c88acaf85d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0006-2.jpg",
     "actress": [
       "逢见梨花"
     ],
@@ -920,7 +920,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/12/051429fj34m9ezdl3o9weo.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0007-2.jpg",
     "actress": [
       "真木今日子"
     ],
@@ -937,7 +937,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/21/113148lyfxls2zzbsfxjez.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0007-3.jpg",
     "actress": [
       "真木今日子",
       "卯水咲"
@@ -955,7 +955,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/21a34d6d44b57f81ac0ca53c3e733d03.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0008-1.jpg",
     "actress": [
       "伊东爱瑠"
     ],
@@ -972,7 +972,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-03-13",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MXJ-0008-2.jpg",
     "actress": [
       "伊东爱瑠"
     ],
@@ -989,7 +989,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-38/d717da19b0d54f20bb9a77b1973f0044.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OS-001.jpg",
     "actress": [
       "素人",
       "张雅婷"
@@ -1007,7 +1007,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/277f4ce9c851b07676273fe63c91d9a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OS-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=OS-002"
   },
@@ -1022,7 +1022,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221023-1/d677afb147e6319edfa7c45c21adb2a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OS-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=OS-003"
   },
@@ -1037,7 +1037,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://thjpg10.top/upload/vod/20241013-1/f3f43e26967e085c6459b4cb36b5d844.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OS-004.jpg",
     "actress": [
       "素人"
     ],
@@ -1054,7 +1054,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://thjpg10.top/upload/vod/20241225-1/47f082bce8c40f50ab840d978863e762.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OSTAROS002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=OSTAROS002"
   },
@@ -1069,7 +1069,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://da.da15525716.com/images/2022/09/28/guochan2676.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-001.jpg",
     "actress": [
       "真希波"
     ],
@@ -1086,7 +1086,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220703-1/2558e9bd23c2d440dde04905e9fb329f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-002"
   },
@@ -1101,7 +1101,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241024-1/49605243e0af5483d23eb7fb56d337e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-003.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1118,7 +1118,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220923-1/036343462d19ab21387bbb3e97de3910.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-004.jpg",
     "actress": [
       "神谷怜"
     ],
@@ -1135,7 +1135,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/c01983664b301a0dc1e22c644298c33d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-005"
   },
@@ -1150,7 +1150,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/5c773a3b4a881b3ac6d3a34a89835034.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-006.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1167,7 +1167,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220827-1/506582a4574970d383a07b1dab6f14c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-007"
   },
@@ -1182,7 +1182,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220912-1/b925f27129096812813bd022fff01c2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-008"
   },
@@ -1197,7 +1197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/5b0d54b2148ac75776103785bedfa90c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-009.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1214,7 +1214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220926-1/c0c73ae1b76a105e94487566b1ee2ec0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-011.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1231,7 +1231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221002-1/89df81e9d9c72bcee6cb78c28aabb21f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-012.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1248,7 +1248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221010-1/84efd7020c7bad220a566ed82f66f73c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-013.jpg",
     "actress": [
       "藤田美绪",
       "Hunter"
@@ -1266,7 +1266,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221017-1/132ab075b455445bd605e88fbab618bf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-014.jpg",
     "actress": [
       "高岛薰"
     ],
@@ -1283,7 +1283,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221022-1/c9976abe9d0d7b59e9d42343b04775e9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-015"
   },
@@ -1298,7 +1298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://thjpg10.top/upload/vod/20241223-1/7367d6c86dbbeba6f44a5876fb26e4d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PS-016"
   },
@@ -1313,7 +1313,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221106-1/9a781a0691a0962c1472b2193db84eb9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-017.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1330,7 +1330,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221113-1/2d7990aeccd336a02441ba01ec9758e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-018.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1347,7 +1347,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-40/5081e28ea44e333e2b92917c9eaf26c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-019.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1364,7 +1364,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/930db5c5f045b55727da9995df43b71e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-020.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1381,7 +1381,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221207-1/c76d56ec2a0d7a185507173c0db82746.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-021.jpg",
     "actress": [
       "冰室梨花",
       "Hunter"
@@ -1399,7 +1399,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221211-1/d726db792ecc80c740989acb76d728b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-022.jpg",
     "actress": [
       "天音美纱",
       "Hunter"
@@ -1417,7 +1417,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221220-1/f292fa2c41d5b60c4441c28f80620eb4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-023.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1434,7 +1434,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230109-1/eaf0634a0dc3c609079e3ac33389dbcf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-024.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1451,7 +1451,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230115-1/f272deb9fca5732f25ad5721f091a2ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-025.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1468,7 +1468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230214-1/2b641bf246584f375712de12a34b2def.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-026.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1485,7 +1485,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230311-1/ce814dfa1f4ee140e923b57b8c35c75d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-027.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1502,7 +1502,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230403-1/ab2ea7971de36a76e714797dbe91c546.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-028.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1519,7 +1519,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/20989493ae9514210eeb3e6f53687afa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-029.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1536,7 +1536,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230505-1/d97e04deccec266dd460c4e61b58a492.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-030.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1553,7 +1553,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231103-1/668f88eebc96fbc2a402aa9809c7e2a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-031.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1570,7 +1570,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231120-1/10a3aee0941a8c6bd9cd8a8ec5336081.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-032.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1587,7 +1587,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PS-033.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-033.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1604,7 +1604,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231218-1/2f0cb77d5483968a398c756f3ee20982.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-034.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1621,7 +1621,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/bc4da6b8de3c199ce024df9fb0d9de2c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-035.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1655,7 +1655,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2021-04-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240107-1/074d9d35f9708e78decba24b1f46fefe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PS-037.jpg",
     "actress": [
       "Hunter"
     ],
@@ -1672,7 +1672,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231103-1/d0dbf1dc5a4ae53f4cae2cee28583085.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXP-001.jpg",
     "actress": [
       "波妮"
     ],
@@ -1689,7 +1689,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250831-1/a718f78235518de16cacc9a7825adfe9.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RDS001.jpg",
     "actress": [
       "黎芷媗",
       "黎芷萱"
@@ -1707,7 +1707,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-31",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/xTbyBX0q.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RR-001.jpg",
     "actress": [
       "素人"
     ],
@@ -1724,7 +1724,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-31",
-    "cover_url": "https://guzwiayz.com/20240502/mNcLGgPi/1.jpg?t=1714726793",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RR-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RR-002"
   },
@@ -1739,7 +1739,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-31",
-    "cover_url": "https://bwjpg.top/upload/vod/20250906-1/e276ef5b349824741369240e04f687c6.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RR-003.jpg",
     "actress": [
       "李蓉蓉",
       "蓉蓉"
@@ -1757,7 +1757,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-31",
-    "cover_url": "http://pic1.thzpic.com/forum/202202/26/165555i33kkt63g2eod0za.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RR-004.jpg",
     "actress": [
       "素人"
     ],
@@ -1774,7 +1774,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-31",
-    "cover_url": "https://le.lefhao20250923.top//20241110/mey0pSnD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/RR-005.jpg",
     "actress": [
       "素人",
       "妃妃"

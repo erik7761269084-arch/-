@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "TWAV",
     "publish_date": "2021-12-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211222-1/43c332fc0f5df6fe50d4f2bd6f178628.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TWAV-D001.jpg",
     "actress": [
       "真田弦一华",
       "华根初上"
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "TWAV",
     "publish_date": "2021-12-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220313-1/6c1208a2c7b48b42de1560b8cf185132.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TWAV-D002.jpg",
     "actress": [
       "真田弦一华",
       "华根初上"
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "TWAV",
     "publish_date": "2021-12-20",
-    "cover_url": "https://tuaskbgnekr.com/20220930/CcwElAjv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TWAV-S02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TWAV-S02"
   }

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/emZ9XsRL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0001.jpg",
     "actress": [
       "素人"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/4Dw4VvAP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0002"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20230822/20230822012244967967.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0003"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/t4qh8Ba0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0004"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-38/12a097447937440fe65769958775ef99.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0005"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/bY327qYk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0006"
   },
@@ -102,7 +102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-38/a3e066a42d0e08b7a9bce8edb9d003bf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0007"
   },
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/3LihYIsK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0008"
   },
@@ -132,7 +132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/soxhShNQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0009"
   },
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://tuaskbgnekr.com/20221113/ZQpzvJxL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0010"
   },
@@ -162,7 +162,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-38/f7ad7b5bd7003d79b60dc03bfa796492.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0011.jpg",
     "actress": [
       "白晰"
     ],
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌鸦传媒",
     "publish_date": "2023-10-20",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/fWEKlYCX.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WY-0012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WY-0012"
   }

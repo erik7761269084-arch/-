@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250811-1/40de1b66dbf0da4072fb5243e61703c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/95YJYJ-123.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=95YJYJ-123"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230214-1/e063b33103cf3996b4a985fe1bd55fe8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AJY001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AJY001"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JY01.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY01"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240907-1/40dd8236076002caab98874674903b91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY03.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY03"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240907-1/01719a2b1df7856e2f2b2f71a595eb7b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY04.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY04"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20240907-1/671041970296bfe748dbd4ef269e6808.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY05.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY05"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240907-1/b10a622b9a17901ac3a06dbc923a6e95.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY06.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY06"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20240906-1/453803ed68d67b968537dcd745ff1b9b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY07.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY07"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20240906-1/1b8815d35fdb10eadea2a2b531be6920.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY08.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY08"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20240906-1/21e2bc320c440a87bdfa8195584ea33e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY09.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY09"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240906-1/0c0ce1d9e684f5894fb5d0876b0a171c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY10.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY10"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "鲸鱼传媒",
     "publish_date": "2023-04-11",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20240906-1/7ad3b18482adfea4220321b589875626.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JY11.jpg",
     "actress": [
       "素人"
     ],

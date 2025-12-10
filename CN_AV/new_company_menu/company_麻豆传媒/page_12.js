@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-173.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TZ-173.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TZ-173"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-174.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TZ-174.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TZ-174"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/d5ac10f70904c5202c9080aff545cea3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/TZ-179.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TZ-179"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-181.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TZ-181.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TZ-181"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-182.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TZ-182.jpg",
     "actress": [
       "竹内莉莉"
     ],
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-08-19",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-189.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TZ-189.jpg",
     "actress": [
       "长谷川けいか"
     ],
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/0c413f805d1da29f85858553fcfdd12f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/VOSS-133.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VOSS-133"
   },
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2022/10/22/guochan9058.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/YK001.jpg",
     "actress": [
       "穆嫣红"
     ],
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241024-1/005dfd7188b5d20622ac5f35ebf32936.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/YK002.jpg",
     "actress": [
       "本多胜雅"
     ],
@@ -183,7 +183,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220913-1/53ea8cd337dfc0ed1187e3389676b9a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/YK003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=YK003"
   },
@@ -198,7 +198,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://da.da15525716.com/uptu/20221110/VZ4dtDl0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/YOSHIKI2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=YOSHIKI2"
   },
@@ -213,7 +213,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://da.da15525716.com/uptu/20221110/hQtdFYcE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/YOSHIKI3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=YOSHIKI3"
   },
@@ -243,7 +243,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://tuaskbgnekr.com/20220926/7VjHeBYv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP01.jpg",
     "actress": [
       "秦可欣"
     ],
@@ -260,7 +260,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/e8cf7a15a43ef7033dff3fba8c0a95e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP02.jpg",
     "actress": [
       "艾秋"
     ],
@@ -277,7 +277,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/64364febeaf72d52debc8e5a5296ab2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP03.jpg",
     "actress": [
       "宁洋子"
     ],
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://tuaskbgnekr.com/20220926/JZ8zGuVF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP04.jpg",
     "actress": [
       "羅瑾萱"
     ],
@@ -311,7 +311,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://tuaskbgnekr.com/20220926/nmmeVdnH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP05.jpg",
     "actress": [
       "吴梦梦"
     ],
@@ -328,7 +328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250904-1/795731bf82406809e404f9e1ba059d12.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP06.jpg",
     "actress": [
       "沈娜娜"
     ],
@@ -345,7 +345,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://thjpg10.top/upload/vod/20250604-1/d5389e993dc98d737777fb8beaed2866.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP07.jpg",
     "actress": [
       "林思妤"
     ],
@@ -362,7 +362,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/dc2896ed1cc6cacd5b3accf63a09dfea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP08.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -379,7 +379,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/4b503368a67044516bbedbf7050d13c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP09.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -396,7 +396,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2023/02/16/guochan10950.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP10.jpg",
     "actress": [
       "张芸熙"
     ],
@@ -413,7 +413,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/51d930d570f777e5182d67c4a2a00915.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP11.jpg",
     "actress": [
       "苏娅"
     ],
@@ -430,7 +430,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/4eaede137c55b337c17c52cc9734f30e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP12.jpg",
     "actress": [
       "李文雯"
     ],
@@ -447,7 +447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10373.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP13.jpg",
     "actress": [
       "苏清歌"
     ],
@@ -464,7 +464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10374.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP14.jpg",
     "actress": [
       "素人",
       "戚雨薇"
@@ -482,7 +482,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10375.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP15.jpg",
     "actress": [
       "素人",
       "苏语棠"
@@ -500,7 +500,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10376.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP16.jpg",
     "actress": [
       "韩宝儿"
     ],
@@ -517,7 +517,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://da.da15525716.com/images/2022/11/15/guochan10354.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP17.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=情趣K歌房-EP17"
   },
@@ -532,7 +532,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP19.jpg",
     "actress": [
       "唐菲"
     ],
@@ -549,7 +549,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241008-1/fc13451edf0351e56da3eb0be55d017c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/情趣K歌房-EP20.jpg",
     "actress": [
       "潭英英"
     ],
@@ -566,7 +566,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/0aeecae1a01471008a5972424d74d01d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP01"
   },
@@ -581,7 +581,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/22235668436647d9d35488d830e88bc1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP02"
   },
@@ -596,7 +596,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230407-1/90b14f24e66a662b9506dde7aff07435.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP03.jpg",
     "actress": [
       "浅野爱"
     ],
@@ -613,7 +613,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/8aed9b5b00cae41c082687d23ff1f17a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP03-番外篇.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP03-番外篇"
   },
@@ -628,7 +628,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://guzwiayz.com/20250822/bojCh30B/1.jpg?t=1755926255",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP04-上.jpg",
     "actress": [
       "绫波丽"
     ],
@@ -645,7 +645,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250821-1/cf121f7456a7dc3fe354e3d20a1a808d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP04-下.jpg",
     "actress": [
       "绫波丽"
     ],
@@ -662,7 +662,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/61c0e912cc9429e9282342e755a21a43.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP04-番外篇.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP04-番外篇"
   },
@@ -677,7 +677,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230407-1/e0cb3172b6290bc9b376b4b02a39779a.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP05.jpg",
     "actress": [
       "小泽纱香"
     ],
@@ -694,7 +694,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/R0BIS7jg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP06.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP06"
   },
@@ -709,7 +709,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241010-1/9333237e9708017e972b37d51d6ca771.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP07.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP07"
   },
@@ -724,7 +724,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20251013-1/f21c9cebc25261a46118a4696b0358f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP08.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP08"
   },
@@ -739,7 +739,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241022-1/a757e8221c67e0b2a00a0040585871d3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP09.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP09"
   },
@@ -754,7 +754,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241023-1/37e5ded272290d0253e052851d30ddc4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP11.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP11"
   },
@@ -769,7 +769,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241024-1/d7690a2c182a5fdc26843039c4070aea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP12.jpg",
     "actress": [
       "明日香"
     ],
@@ -786,7 +786,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/dc0aa356d7cbad9bd81b741e3e934e28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP13.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP13"
   },
@@ -801,7 +801,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-13/2b8e22c0fcfdf5eab4000b6ae1ee1076.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP14.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP14"
   },
@@ -816,7 +816,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-12/74d611618c3aaab9df58942501ec9fd3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP15.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP15"
   },
@@ -831,7 +831,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-12/c4ab12be38aed07df0f6855b36b16ed2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP16.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP16"
   },
@@ -846,7 +846,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-12/c3d68d4b347ca11de36a05fa1d8d5dcb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP17.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP17"
   },
@@ -861,7 +861,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-12/551a8778e965e88b6297c94cfd6edf4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP18.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP18"
   },
@@ -876,7 +876,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-12/ce7e7669124e6defef4bac62b0357613.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP19.jpg",
     "actress": [
       "中条爱莉"
     ],
@@ -893,7 +893,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Q4CvF8b9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP20.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP20"
   },
@@ -908,7 +908,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-11/52cbc20b404c0f5fefd35a63977d7072.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/爸气十足-EP21.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=爸气十足-EP21"
   },
@@ -938,7 +938,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒",
     "publish_date": "2023-05-03",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/爸气十足-EP49.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/爸气十足-EP49.jpg",
     "actress": [
       "横井智美"
     ],

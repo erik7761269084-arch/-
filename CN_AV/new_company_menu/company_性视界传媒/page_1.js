@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-08",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250712-1/14d7852640a5c10e738e8158de7c837a.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJHG009.jpg",
     "actress": [
       "斑斑"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9YJ2fLZ6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XSJKY010.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/KnSF5mBl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY013.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://da.da15525716.com/images/2023/03/06/guochan1001.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY014.jpg",
     "actress": [
       "李娜娜"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://da.da15525716.com/images/2023/03/03/guochan11107.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY016.jpg",
     "actress": [
       "莉娜"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://da.da15525716.com/images/2023/03/06/guochan1002.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY017.jpg",
     "actress": [
       "斑斑"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://bwjpg.top/upload/vod/20250831-1/5f17120aac081a3c7a02641f6c59f763.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY032.jpg",
     "actress": [
       "斑斑"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/27/88412_cover_2025-09-27_162732.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XSJKY035"
   },
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20241015-1/9f78053921332e25d868cf4ff7782452.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY037.jpg",
     "actress": [
       "李允熙"
     ],
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20241015-1/33c6d12867737a30fe28eb78281e2f31.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY042.jpg",
     "actress": [
       "金宝娜"
     ],
@@ -178,7 +178,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20250522-1/18442ea67021d26c0b2d3220c1de40a7.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY045.jpg",
     "actress": [
       "羽芮"
     ],
@@ -195,7 +195,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://bwjpg.top/upload/vod/20251010-1/5482b713cd50bba0d598349baec02c42.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY048.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -212,7 +212,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9eLwl6Zk.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY057.jpg",
     "actress": [
       "李允熙"
     ],
@@ -229,7 +229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://bwjpg.top/upload/vod/20250902-1/d48a4c6523955d8cbef6339ff957ebd4.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY113.jpg",
     "actress": [
       "苗方"
     ],
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2022-12-05",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20251011-1/2f4eb4275efa37ae667fb58cad7805aa.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJKY115.jpg",
     "actress": [
       "蜜蜜"
     ],
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2024-10-10",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/DkS69vm7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJTC02.jpg",
     "actress": [
       "湘湘"
     ],
@@ -280,7 +280,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2024-10-10",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9gu3csBA.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJTC03.jpg",
     "actress": [
       "吴芳宜",
       "黎芷萱"
@@ -298,7 +298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性视界传媒",
     "publish_date": "2023-09-24",
-    "cover_url": "https://bwjpg.top/upload/vod/20251002-1/621818e8b3c9841d37704aadd1559002.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XSJYH01.jpg",
     "actress": [
       "羽芮"
     ],

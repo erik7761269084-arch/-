@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg//rMiqeDAb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EDEA-297.jpg",
     "actress": [
       "ED Mosaic"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg/Mx6sqklR.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EDEA-330.jpg",
     "actress": [
       "若若",
       "ED Mosaic"
@@ -45,7 +45,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg/9LHFIRkN.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EDEA-434.jpg",
     "actress": [
       "Mia",
       "ED Mosaic"
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/4sObB7Iu.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-498.jpg",
     "actress": [
       "翁雨澄",
       "芷媗",
@@ -82,7 +82,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250902-1/95cd9f5033c8bb132734238c7a11e08f.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-499.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EDEA-499"
   },
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://thjpg10.top/upload/vod/20240924-1/06ff421fb1edad2d54a6052d874d53ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-500.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EDEA-500"
   },
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250906-1/75e2af29924d9e598f808d7392cd40b9.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-507.jpg",
     "actress": [
       "EdMosaic"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250917-1/4a5202adc218a04e86c7103fa650a6b2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-523.jpg",
     "actress": [
       "黎芷萱",
       "EdMosaic"
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/91pnghyv.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-534.jpg",
     "actress": [
       "艾悠",
       "ED Mosaic"
@@ -165,7 +165,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-20/bf9cd643ae875a7270cc5dcfe6351c07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EDEA-551.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EDEA-551"
   },
@@ -210,7 +210,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250903-1/95705cb082eba0f5146c63f25a583911.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/EDEA-563.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=EDEA-563"
   },
@@ -225,7 +225,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "Ed mosaic",
     "publish_date": "2025-08-22",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg/olm701O8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/EDEA-614.jpg",
     "actress": [
       "ED Mosaic"
     ],

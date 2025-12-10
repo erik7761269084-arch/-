@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230308-1/4db6cf14f08cd4f5390bff611ee70e5a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0155.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230311-1/f994c1e98878bfa194d3ca32e7d1e9d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0156.jpg",
     "actress": [
       "苏念瑾"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230315-1/60082ad2b0a2605e3134b41b91d854e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0157.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230315-1/06f7c9d38dc0d4aacae8cb38f400e31c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0158.jpg",
     "actress": [
       "季妍希"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230318-1/32bb214742fe433257ff58955bff2e97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0159.jpg",
     "actress": [
       "林嫣"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/146d381394ad30db5477a03b6c2b9f66.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0160.jpg",
     "actress": [
       "艾熙"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/c3836336482196928b76ae33677af4a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0161.jpg",
     "actress": [
       "艾秋"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/ab65635db8fe76a3dc63c9f9f5d1db91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0162.jpg",
     "actress": [
       "周甯"
     ],
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230323-1/5b97b4f6580eb46fbb212b428e9f12d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0163.jpg",
     "actress": [
       "艾秋"
     ],
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230328-1/8b80189a6fe97ec363f3e66d67011f98.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0164.jpg",
     "actress": [
       "楚梦舒"
     ],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230330-1/ad22a9902923bbe36c274b6981789ea4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0165.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230401-1/0e81eacf1b54c5169d3b668be63a17d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0166.jpg",
     "actress": [
       "管明美"
     ],
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/13/guochan122.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0167.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230407-1/442c1054eea4fd417ab60478bbab0a08.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0168.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20231215-1/faf4779872750d21d2a6b4605f390bbd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0169.jpg",
     "actress": [
       "苏安亚"
     ],
@@ -265,7 +265,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230408-1/2b9e3da9d4c81acf5525fd40c85dafe1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0170.jpg",
     "actress": [
       "韩棠"
     ],
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230411-1/93a5fc5b3bf833523139e9412616ca0a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0171.jpg",
     "actress": [
       "宋东琳"
     ],
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20231215-1/934799f44ebf4823adca2d841fc66c66.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0172.jpg",
     "actress": [
       "管明美"
     ],
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/13/guochan116.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0173.jpg",
     "actress": [
       "唐芯"
     ],
@@ -333,7 +333,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230417-1/e543e4fded64c220d335f83786c77080.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0174.jpg",
     "actress": [
       "季妍希"
     ],
@@ -350,7 +350,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230419-1/c9906133c52cf8052cf5f7eb5f2209fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0175.jpg",
     "actress": [
       "梁芸菲"
     ],
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/bb2da3e62573807d24b6d7fa767d71b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0176.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/f048d01bc04160ae729de1b66596ac3f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0177.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230129-1/6864618360d794616c846088493e700e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0178.jpg",
     "actress": [
       "向若芸"
     ],
@@ -418,7 +418,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/6dbab621810fb876f20d3b4b3cf36839.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0179.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -435,7 +435,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230201-1/24fc38c8b449258998023dfa09e087a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0180.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -452,7 +452,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230421-1/cba24520cd617dbc2472c04e33a7638d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0181.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -469,7 +469,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230422-1/d01d602f0ad0b99353f994485d9f82d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0182.jpg",
     "actress": [
       "韩棠"
     ],
@@ -486,7 +486,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/13/guochan111.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0183.jpg",
     "actress": [
       "白思吟"
     ],
@@ -503,7 +503,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://da.da15525716.com/images/2023/12/13/guochan110.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0184.jpg",
     "actress": [
       "倪宛儿",
       "倪菀儿"
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/618c847823ec63e32450197c4e6bd4db.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0185.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -538,7 +538,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20231216-1/b5c57bab5155d2f041ad0bf764476897.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0186.jpg",
     "actress": [
       "邓紫晴"
     ],
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230505-1/423d1ee469d9c40901a49db612035576.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0187.jpg",
     "actress": [
       "吴文琪"
     ],
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230505-1/19cdcb3e71aee65e432c5041561ae902.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0188.jpg",
     "actress": [
       "韩棠"
     ],
@@ -589,7 +589,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20231214-1/472e3938d4d12b8d15d30b4250b57a89.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0189.jpg",
     "actress": [
       "徐蕾"
     ],
@@ -606,7 +606,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230507-1/b3aea770d71f318e2d0269109d069f14.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0190.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -623,7 +623,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/49e8673903a3fa8545ae37dda44fd183.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0191.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -640,7 +640,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230510-1/e6f93bf2a55413a81d86e94bede7aed6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0192.jpg",
     "actress": [
       "管明美"
     ],
@@ -657,7 +657,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230511-1/ebd0e1fe61f451fccc6d9eab466c49f4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0193.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -674,7 +674,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230513-1/f0a1689de18993dad54e4f86d0a37471.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0194.jpg",
     "actress": [
       "徐蕾"
     ],
@@ -691,7 +691,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230516-1/0227068c59577156986c21ef8b338e8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0195.jpg",
     "actress": [
       "艾熙"
     ],
@@ -708,7 +708,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230518-1/b2dc791c712002ed8cb5d0e863706eb4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0196.jpg",
     "actress": [
       "白思吟"
     ],
@@ -725,7 +725,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230520-1/9df411706632decc0158c60ee42fd517.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0197.jpg",
     "actress": [
       "苏念瑾"
     ],
@@ -742,7 +742,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230520-1/48b1b007de3eca5d33255448c19a7f25.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0198.jpg",
     "actress": [
       "宋东琳"
     ],
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230525-1/c1afeaac98c2eca7810df2a5a67e04aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0199.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -776,7 +776,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230525-1/d2e784bf3a464def93109b7c8f8e2042.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0200.jpg",
     "actress": [
       "秦可欣"
     ],
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/19053b104dc12253a26bb0592aa949bf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0201.jpg",
     "actress": [
       "周甯"
     ],
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/30141b1fa220ab57822efc14bc80eab5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0202.jpg",
     "actress": [
       "邓紫晴"
     ],
@@ -827,7 +827,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230602-1/31f97d8591ec461be2f95cdc22af0ca1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0203.jpg",
     "actress": [
       "梁芸菲"
     ],
@@ -844,7 +844,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230603-1/39e09aaf787ab845f9f8a285ecd3dcc9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0204.jpg",
     "actress": [
       "苏念瑾"
     ],
@@ -861,7 +861,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/a02191edccca930a42dfe46a8bc3e3fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0205.jpg",
     "actress": [
       "苏念瑾"
     ],
@@ -878,7 +878,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230609-1/13c9d3fd36e626f3d5a8050fb5626880.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0206.jpg",
     "actress": [
       "韩棠"
     ],
@@ -895,7 +895,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230609-1/38232e02a66b5091689711d616c93098.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0207.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -912,7 +912,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/eabc55f3e91989f2da991b381cbb3941.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0209.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -929,7 +929,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/37b5b7421596c72fa757343ff2c85e6d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0210.jpg",
     "actress": [
       "韩棠"
     ],
@@ -946,7 +946,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/images/2023/06/26/d20cc1d06ec3bf52fc4e22a8c3543d7a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0212.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -963,7 +963,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/5e95dbd85904d1468cc2620e845851fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0213.jpg",
     "actress": [
       "徐蕾"
     ],
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/56263fae4451796e7247f065b97f1a01.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0214.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -997,7 +997,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230622-1/c210a7e187cb90fdfe04351d7095ec1f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0215.jpg",
     "actress": [
       "管明美"
     ],
@@ -1014,7 +1014,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230624-1/68ef46d31e96696ec369131de3a5433c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0216.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1031,7 +1031,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230703-1/668217132c80d76a4202528ab7276197.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0217.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1048,7 +1048,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230628-1/cb9e53940319dce80e54236aff9e0160.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0218.jpg",
     "actress": [
       "秦可欣"
     ],
@@ -1065,7 +1065,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230707-1/d62e258ebc09b5d8f05a0eb6301abf1c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0219.jpg",
     "actress": [
       "秦可欣"
     ],
@@ -1082,7 +1082,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230703-1/f835d3302c7a0fe628982b4ce05ac3c3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0220.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -1099,7 +1099,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230708-1/2bedfe1c8f6744d5ab4ea7f2a9743c35.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0221.jpg",
     "actress": [
       "雪千夏"
     ],
@@ -1116,7 +1116,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230707-1/a64479c0f153fe25e45278735ff90abf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0222.jpg",
     "actress": [
       "管明美"
     ],
@@ -1133,7 +1133,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230713-1/4ed1567a5d713c59a3f9997588daf8ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0223.jpg",
     "actress": [
       "舒可芯"
     ],
@@ -1150,7 +1150,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/images/2023/07/11/23390ff7980d63097ebd41d626ea7d5d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MCY-0224.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1167,7 +1167,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230720-1/9bf1b57d8ad64d33c10742e420911838.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0225.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1184,7 +1184,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/images/2023/07/12/520f3a14af8c633ddfca9e18787ae82a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MCY-0226.jpg",
     "actress": [
       "林嫣"
     ],
@@ -1201,7 +1201,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230718-1/bbe2cea2137485dea5a0008b708b4a56.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0227.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -1218,7 +1218,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230728-1/e7bb2e13fd2ac07c320484b748c34738.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0228.jpg",
     "actress": [
       "凌薇"
     ],
@@ -1235,7 +1235,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/f460d6420f32c33e74ec23ea9e8e3b65.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0229.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -1252,7 +1252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230722-1/b3ee49d92344863b3e7969f91a14f540.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0230.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1269,7 +1269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230801-1/8235dee8ddc80cd6f793ed8af1ff5ff4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0231.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1286,7 +1286,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230725-1/c9857222e3b944ff8546cafd0f9e0ea6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0232.jpg",
     "actress": [
       "管明美"
     ],
@@ -1303,7 +1303,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230718-1/22eca8e2ee82786e20d97b9629eeb722.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0233.jpg",
     "actress": [
       "徐蕾"
     ],
@@ -1320,7 +1320,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230801-1/0aae97886916e2ba6892c87c7f8416fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0234.jpg",
     "actress": [
       "周甯"
     ],
@@ -1337,7 +1337,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230803-1/473f131e8a35ad82db188fb6351039ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0235.jpg",
     "actress": [
       "周甯"
     ],
@@ -1354,7 +1354,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/images/2023/09/09/bcd9f57b09942c972409686c198990bd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0236.jpg",
     "actress": [
       "凌薇"
     ],
@@ -1371,7 +1371,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/36dde0fc4a16a78dd2ab2557a20f10b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0237.jpg",
     "actress": [
       "凌薇"
     ],
@@ -1388,7 +1388,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/images/2023/09/09/0eb55eba4f89a5f1f8309e6e3fbc3a90.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0238.jpg",
     "actress": [
       "言芯恬"
     ],
@@ -1405,7 +1405,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230922-1/fb75dbbd607ba04b1ae47fc013ac779e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0239.jpg",
     "actress": [
       "言芯恬"
     ],
@@ -1422,7 +1422,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230912-1/ca13d42afea1c11913a7fada449ab7fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0240.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1439,7 +1439,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230924-1/c0c85cafb06a196e0dc127274d17a7f6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0241.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1456,7 +1456,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230914-1/b0a283ada27e274cbc18354bacfbe070.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0242.jpg",
     "actress": [
       "古伊娜"
     ],
@@ -1473,7 +1473,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/a002bfe27d43b20e23f87084526d359e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0243.jpg",
     "actress": [
       "古伊娜"
     ],
@@ -1490,7 +1490,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/e695be6301c8ab14f8dcdcf1cc5ef89b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0244.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -1507,7 +1507,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230928-1/64caf85155ea4bf524a322481e4d6273.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0245.jpg",
     "actress": [
       "玥可岚"
     ],
@@ -1524,7 +1524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230929-1/9e8fbab3156b07af2dac45d70f057885.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0246.jpg",
     "actress": [
       "凌薇"
     ],
@@ -1541,7 +1541,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231018-1/99be713296fab8c7158b053dce209e58.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0247.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1558,7 +1558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231022-1/df3ef79b9592950a1fa0921072f70b59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0248.jpg",
     "actress": [
       "苏语棠"
     ],
@@ -1575,7 +1575,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/54fcced4db3ea0d809b182477f101db8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0249.jpg",
     "actress": [
       "魏乔安"
     ],
@@ -1592,7 +1592,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/aad4c32bb06d617871175ee2cdbade61.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0250.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1609,7 +1609,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230930-1/98c82919cabb4bb4630e0144750b959e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0251.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1626,7 +1626,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231014-1/5bb22f83009400b96b4c8310cbcc6a83.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0252.jpg",
     "actress": [
       "李蓉蓉"
     ],
@@ -1643,7 +1643,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231012-1/aa39590d6fb2367f8bf743bfb089cab0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0253.jpg",
     "actress": [
       "凌薇"
     ],
@@ -1660,7 +1660,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/822a1218bef0bab11fc7a3c8951bb6e6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0255.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -1677,7 +1677,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://cctv123456.com/i/m0inh8ek.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0256.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MCY-0256"
   },
@@ -1692,7 +1692,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画",
     "publish_date": "2025-05-08",
-    "cover_url": "https://cctv123456.com/i/y0mnuaoh.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0257.jpg",
     "actress": [
       "梁芸菲"
     ],

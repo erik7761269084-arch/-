@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://le.lefhao20250923.top//20241110/ttCo0wBV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-001.jpg",
     "actress": [
       "白沛瑶"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://le.lefhao20250923.top//20241110/2q9DfvlM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-002.jpg",
     "actress": [
       "南芊允",
       "韩棠"
@@ -45,7 +45,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "http://pic1.thzpic.com/forum/202203/11/223319m01uoluhb0gb7ab0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-003.jpg",
     "actress": [
       "南芊允",
       "苏清歌"
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220313-1/75734c18a4c731ab0a651fe31b7fbe9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-004.jpg",
     "actress": [
       "白沛瑶",
       "沈娜娜"
@@ -81,7 +81,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-WM-005.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-005.jpg",
     "actress": [
       "夏晴子"
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "http://pic1.thzpic.com/forum/202203/21/150956lm00n00qvvok4jjk.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-006.jpg",
     "actress": [
       "徐蕾",
       "管明美"
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "http://pic1.thzpic.com/forum/202203/26/103741w6chcm67vv0g0tc0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-007.jpg",
     "actress": [
       "韩棠"
     ],
@@ -133,7 +133,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220329-1/bf8892e0cdf66b3fdb24ca959931c20a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MKY-WM-008.jpg",
     "actress": [
       "凌薇",
       "艾秋"

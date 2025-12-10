@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/c8c6e01d34355ec4bc00d8125482b887.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY298.jpg",
     "actress": [
       "益达"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/c77fb121023583563b7f4bc558f18db8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY299.jpg",
     "actress": [
       "莎莎"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/3d363e6dcdd15763cacbd963f05a68bf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY300.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAWY300"
   },
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/6ffa85185186d914304a974c9b79302a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY301.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAWY301"
   },
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230326-1/03c0a468b77af11158f22d0a711397aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY322.jpg",
     "actress": [
       "口罩酱"
     ],
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230326-1/b9307158f80bc2b410659dbb6faa7131.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY323.jpg",
     "actress": [
       "香菱",
       "口罩酱"
@@ -109,7 +109,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230326-1/b4d47735116d6e74c8bb880022ec12a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY324.jpg",
     "actress": [
       "口罩酱"
     ],
@@ -126,7 +126,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://tutu1.space/images/2023/12/26/47bba367167567b264b9fd720ea70808.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAWY325.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAWY325"
   },
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230326-1/3133365c507734f1541f67f92a34c0a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY326.jpg",
     "actress": [
       "安琪"
     ],
@@ -158,7 +158,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230326-1/4a1e411e464abbeb0f0d5eec487f5d44.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY333.jpg",
     "actress": [
       "锅锅酱"
     ],
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://tutu1.space/images/2023/12/26/486edd37a7d9eb9566767d62a3b71fc7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAWY340.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAWY340"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230328-1/fbca5fb4d72a5d4b495f31a83575333a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY354.jpg",
     "actress": [
       "不见星空"
     ],
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230328-1/a1dd00d9ebaa9c2f28396a2cfea7e59a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY356.jpg",
     "actress": [
       "不见星空"
     ],
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230328-1/68ae39710bd281ff5125590302e399d2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY357.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SA国际传媒x无忧传媒",
     "publish_date": "2023-03-23",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230322-1/888a9ef122716be3b4059384c51e9573.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAWY381.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAWY381"
   }

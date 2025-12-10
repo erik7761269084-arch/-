@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220629-1/715563adad394ddc046e362bdb302c8b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220629-1/b3f5979571e8a5d1b0d86076f0fd6d78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-003.jpg",
     "actress": [
       "许木学长"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220629-1/9c6e8d104548266b368473b9d06a2a2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-004.jpg",
     "actress": [
       "不见星空"
     ],
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/k8Q15Lia.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-007.jpg",
     "actress": [
       "不见星空"
     ],
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/03/06/guochan1003.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-010.jpg",
     "actress": [
       "小鹿酱"
     ],
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/03/06/guochan1004.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-011"
   },
@@ -123,7 +123,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/03/06/guochan1005.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-012.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11525.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-013.jpg",
     "actress": [
       "不见星空"
     ],
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11526.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-014.jpg",
     "actress": [
       "许木学长"
     ],
@@ -174,7 +174,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11527.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-015.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -191,7 +191,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11528.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-016.jpg",
     "actress": [
       "许木学长"
     ],
@@ -208,7 +208,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11530.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-019.jpg",
     "actress": [
       "丝丝"
     ],
@@ -225,7 +225,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11531.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-020.jpg",
     "actress": [
       "小鹿酱"
     ],
@@ -242,7 +242,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11532.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-021.jpg",
     "actress": [
       "粉色情人"
     ],
@@ -259,7 +259,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/3rbGdnL4.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-022"
   },
@@ -274,7 +274,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11534.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-023.jpg",
     "actress": [
       "许木学长"
     ],
@@ -291,7 +291,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11535.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-024.jpg",
     "actress": [
       "粉红兔",
       "许木学长"
@@ -309,7 +309,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11536.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-025.jpg",
     "actress": [
       "不见星空"
     ],
@@ -326,7 +326,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-026.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-026.jpg",
     "actress": [
       "cola酱"
     ],
@@ -343,7 +343,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11537.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-027.jpg",
     "actress": [
       "cola酱"
     ],
@@ -360,7 +360,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/04/31/guochan11538.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-028"
   },
@@ -375,7 +375,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/HWVu1b4y.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-030.jpg",
     "actress": [
       "丝丝"
     ],
@@ -392,7 +392,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/z2lj4zmauqm.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-031"
   },
@@ -407,7 +407,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/tutrcr1rvfd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-032"
   },
@@ -422,7 +422,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/a4m5s4wnf3e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-033"
   },
@@ -437,7 +437,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/JDxdmcqr.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-034.jpg",
     "actress": [
       "不见星空"
     ],
@@ -454,7 +454,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/bjhp044qwqo.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-035.jpg",
     "actress": [
       "丝丝"
     ],
@@ -471,7 +471,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/xz3kzggc0lx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-036"
   },
@@ -486,7 +486,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/qfpxyqdbedr.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/FSOG-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-037"
   },
@@ -501,7 +501,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/lD3r8xjZ.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-039.jpg",
     "actress": [
       "许木学长"
     ],
@@ -518,7 +518,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-040.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-040.jpg",
     "actress": [
       "许木学长"
     ],
@@ -535,7 +535,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-041.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-041"
   },
@@ -550,7 +550,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-042.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-042.jpg",
     "actress": [
       "丝丝"
     ],
@@ -567,7 +567,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/tezBbuKg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-043.jpg",
     "actress": [
       "锅锅酱"
     ],
@@ -584,7 +584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/po1fSunx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-044.jpg",
     "actress": [
       "不见星空"
     ],
@@ -601,7 +601,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/G6wLVZx4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-045.jpg",
     "actress": [
       "不见星空"
     ],
@@ -618,7 +618,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2749.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-046"
   },
@@ -633,7 +633,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/407rMHqg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-047.jpg",
     "actress": [
       "口罩酱"
     ],
@@ -650,7 +650,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221008-1/2ef2fcd2665c5aea6c60c8291b7899d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-048"
   },
@@ -665,7 +665,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2751.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-049.jpg",
     "actress": [
       "水水"
     ],
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2767.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-050"
   },
@@ -697,7 +697,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221008-1/39089ef8bc28b5196b93d72e6eb06f7a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-051.jpg",
     "actress": [
       "新姿势爆操18岁学妹"
     ],
@@ -714,7 +714,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2755.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-052.jpg",
     "actress": [
       "cola酱"
     ],
@@ -731,7 +731,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2763.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-054.jpg",
     "actress": [
       "小敏儿"
     ],
@@ -748,7 +748,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/qrJ7fSmP.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-055"
   },
@@ -763,7 +763,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2761.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-056"
   },
@@ -778,7 +778,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221008-1/253d53ef89c1659f2ce8aca1a8f21443.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-057"
   },
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2771.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-058.jpg",
     "actress": [
       "锅锅酱"
     ],
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10262.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-059"
   },
@@ -825,7 +825,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10252.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-061"
   },
@@ -840,7 +840,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10282.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-062"
   },
@@ -855,7 +855,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2022/11/09/guochan10256.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-063"
   },
@@ -870,7 +870,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/02/06/guochan10936.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-066.jpg",
     "actress": [
       "cola酱"
     ],
@@ -887,7 +887,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/06/01/guochan11591.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-067.jpg",
     "actress": [
       "cola酱"
     ],
@@ -904,7 +904,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://da.da15525716.com/images/2023/02/06/guochan10935.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-069"
   },
@@ -919,7 +919,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-079.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-079"
   },
@@ -934,7 +934,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://bwjpg.top/upload/vod/20251006-1/12c3142f7add4e16e4bb0ad08c58b75c.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-080"
   },
@@ -949,7 +949,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-081.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-081"
   },
@@ -964,7 +964,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-082.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-082.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-082"
   },
@@ -979,7 +979,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-083.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-083"
   },
@@ -994,7 +994,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-085.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-085"
   },
@@ -1009,7 +1009,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-086.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-086.jpg",
     "actress": [
       "然然学姐"
     ],
@@ -1026,7 +1026,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-087.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-087.jpg",
     "actress": [
       "Vita"
     ],
@@ -1043,7 +1043,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-088.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-088"
   },
@@ -1058,7 +1058,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-089.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-089"
   },
@@ -1073,7 +1073,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-090.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-090.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-090"
   },
@@ -1088,7 +1088,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-091.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-091.jpg",
     "actress": [
       "Vita"
     ],
@@ -1105,7 +1105,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-092.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-092.jpg",
     "actress": [
       "卡瑞莎"
     ],
@@ -1122,7 +1122,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-093.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-093.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-093"
   },
@@ -1137,7 +1137,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-096.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-096.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-096"
   },
@@ -1152,7 +1152,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-097.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-097.jpg",
     "actress": [
       "Via"
     ],
@@ -1169,7 +1169,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-098.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-098.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-098"
   },
@@ -1184,7 +1184,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/71341ae8be425e1da087518de5d4d299.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-099.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-099"
   },
@@ -1199,7 +1199,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/013f1b8e513944205f33b6b619b5d864.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-101.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-101"
   },
@@ -1214,7 +1214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/78ae418bdc4a5d22cbb5ea56f15b6944.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-102.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-102"
   },
@@ -1229,7 +1229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241104-1/d12728f9c72936df64b0f9ac011439eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-103.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-103"
   },
@@ -1244,7 +1244,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/dea74d409ed546ab4677c3ed28f3e8bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-105.jpg",
     "actress": [
       "Vita"
     ],
@@ -1261,7 +1261,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/8800f408f5f84f8db539ca767125c5a7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-106.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-106"
   },
@@ -1276,7 +1276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/9ace3c6e80cab04ad30ee334b965ca45.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-107.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-107"
   },
@@ -1291,7 +1291,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/082f57ca60efb2c44f7e855e361a31c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-108"
   },
@@ -1306,7 +1306,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/cd6c492f3182d6cd53a48da32df012a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-109.jpg",
     "actress": [
       "憨憨"
     ],
@@ -1323,7 +1323,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/cf5948f4673a91ca5b6b78bab09b7da5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-110.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-110"
   },
@@ -1338,7 +1338,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/67b61a5a7b0ad0c85b7252cdb42d3ea6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-111.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-111"
   },
@@ -1353,7 +1353,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/668db997caa881256120ad63ed368309.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-112.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-112"
   },
@@ -1368,7 +1368,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-113.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-113.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-113"
   },
@@ -1383,7 +1383,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-114.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-114.jpg",
     "actress": [
       "水水"
     ],
@@ -1400,7 +1400,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2023-12-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-115.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/FSOG-115.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=FSOG-115"
   },
@@ -1415,7 +1415,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://da.da15525716.com/images/2023/03/03/guochan11112.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-005.jpg",
     "actress": [
       "cola酱"
     ],
@@ -1432,7 +1432,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-006.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-006"
   },
@@ -1447,7 +1447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://da.da15525716.com/images/2023/06/01/guochan11588.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-007.jpg",
     "actress": [
       "cola酱"
     ],
@@ -1464,7 +1464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-008.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-008"
   },
@@ -1479,7 +1479,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-009.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-009"
   },
@@ -1494,7 +1494,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-010.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-010"
   },
@@ -1509,7 +1509,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-011.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-011"
   },
@@ -1524,7 +1524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-012.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-012"
   },
@@ -1539,7 +1539,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-013.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-013"
   },
@@ -1554,7 +1554,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-014.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-014"
   },
@@ -1569,7 +1569,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-015.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-015"
   },
@@ -1584,7 +1584,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "扣扣传媒x91Fans",
     "publish_date": "2022-11-25",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20251014-1/3e19b3a3b4cb8302529dc9edd9b8b92e.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QDOG-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=QDOG-016"
   }

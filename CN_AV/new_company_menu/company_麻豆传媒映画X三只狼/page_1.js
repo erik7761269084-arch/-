@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2024/03/11/f8b394547c69f51b26398aae92604a88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-001.jpg",
     "actress": [
       "莎莎"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240318-1/d37b9bda9e571ac65847b098523dacbb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-002.jpg",
     "actress": [
       "花花"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240328-1/f8c866e6f27f7cd6ce956f1136f3eb1d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-003.jpg",
     "actress": [
       "花花"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240403-1/05656039646549cf72330138fdb2cab9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-004.jpg",
     "actress": [
       "李雨萌",
       "柔柔"
@@ -79,7 +79,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240410-1/c96bc7eaef00546d69ed180c31d5e829.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-005.jpg",
     "actress": [
       "花花",
       "樱花小猫"
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "http://da.da15525716.com/20241123/gfLrfoue/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-006.jpg",
     "actress": [
       "娜娜"
     ],
@@ -114,7 +114,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240812-1/f55f6e76347dac14681b36c701fb1562.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-007.jpg",
     "actress": [
       "可可"
     ],
@@ -131,7 +131,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240820-1/c3b47f795f1402729b9b4020df13fba5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-008.jpg",
     "actress": [
       "安安"
     ],
@@ -148,7 +148,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2024/09/01/d1a79111e45a9149d6a5d191ccfb1993.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-009"
   },
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/kahqsv5m.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-010.jpg",
     "actress": [
       "菲菲"
     ],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20240922-1/e1dd3f7d521837dfd0c3f19525f13388.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-011.jpg",
     "actress": [
       "梦碟"
     ],
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "http://da.da15525716.com/20241123/kHmd585l/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-012.jpg",
     "actress": [
       "甜甜"
     ],
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/9yyxvxfl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-013.jpg",
     "actress": [
       "若兮"
     ],
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2024/10/07/1e83690dc9e6362071a50d8631f9f427.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-014"
   },
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2024/10/25/262d38c0cdb3b805f8a37d98378551b9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-015"
   },
@@ -261,7 +261,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/emdrlivg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-016"
   },
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/qgudzodx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-017"
   },
@@ -291,7 +291,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241125-1/104d7815baaba8ae43a082f57e85b6e6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-018"
   },
@@ -306,7 +306,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/q4frgipb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-019.jpg",
     "actress": [
       "奈瑶"
     ],
@@ -323,7 +323,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2024/12/01/cf667db7e4db9584f026954b43e0996c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-020.jpg",
     "actress": [
       "晨晨"
     ],
@@ -340,7 +340,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250215-1/7b2dc4c0067e469c35915f9a2db2910a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-021.jpg",
     "actress": [
       "萱萱"
     ],
@@ -357,7 +357,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/29c60282d8cbef80e052a463d4088030.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SZL-022.jpg",
     "actress": [
       "梦熙"
     ],
@@ -374,7 +374,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250106-1/de3d594c51304f54ce2f2642a7c88f51.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-023.jpg",
     "actress": [
       "梦熙"
     ],
@@ -391,7 +391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250920-1/75bd39318668d63d41b435d5165b9141.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-024.jpg",
     "actress": [
       "梦熙"
     ],
@@ -408,7 +408,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/acyd5edj.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-025"
   },
@@ -423,7 +423,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/fj3jf9ui.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-026"
   },
@@ -438,7 +438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/bvedyxw8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-027"
   },
@@ -453,7 +453,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/3nm5m3k7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-028.jpg",
     "actress": [
       "洛溪"
     ],
@@ -470,7 +470,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250211-1/a13aab6f22543263c818ada8096b1c56.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-029.jpg",
     "actress": [
       "雯雯"
     ],
@@ -487,7 +487,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250220-1/4d8dfcd0fecdf737b64b04f137c61f77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-030.jpg",
     "actress": [
       "洛溪"
     ],
@@ -504,7 +504,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250225-1/d2d9001f2626110699c309f8228f3829.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-031.jpg",
     "actress": [
       "洛溪"
     ],
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2025/03/09/696a3352853223bcc017e10dd63d0af3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SZL-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-033"
   },
@@ -536,7 +536,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://tutu1.space/images/2025/03/23/42babdfefb3ada13e6dc10ca6c225930.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SZL-035.jpg",
     "actress": [
       "思雨"
     ],
@@ -553,7 +553,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X三只狼",
     "publish_date": "2024-03-12",
-    "cover_url": "https://cctv123456.com/i/ikvtnsp2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SZL-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SZL-036"
   }

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241229-1/808aab73c58ac6a912a0185625e7fcb3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241229-1/ed84cf4f99532d447a8ae1c64bf10b74.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241229-1/c779b767399160c26bcd25d88c67cccf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241229-1/d7b1dc5bc9c00dec9e25a3f1eb9188f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW004"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241229-1/87eced63e4d155e04f3be9f7219cf628.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW005"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240902-1/043ad5c9b44d230383f080620b677f09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW006"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240902-1/51270d6f8e8a7c0ce12a8877c8e8d847.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW007"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240902-1/c82ba5744f3334366d713873d57b6e3c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW008"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://guzwiayz.com/20230828/hrPBUnem/1.jpg?t=1693230063",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HLW009.jpg",
     "actress": [
       "素人"
     ],
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20241230-1/5cf93fcf2852f5039df85dad350894ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW010"
   },
@@ -162,7 +162,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250102-1/4f2ef598c9bafed31badbe21c307226a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW011"
   },
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250102-1/9e83117bd05e97d1a0a0b0aeab779283.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW012"
   },
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20251003-1/039ed37fbb8962b179bfbc5ea1ac2d85.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW013"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250102-1/e14508beacb9a771a02240c7ab09d30b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HLW014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLW014"
   },
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "2024-09-13",
-    "cover_url": "https://guzwiayz.com/20230829/4gNeTffz/1.jpg?t=1693313189",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HLWXTYC001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HLWXTYC001"
   },
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/c0bVrgdx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-003"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250724-1/85f337b9fb1cd65fadcb713e356fa4fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-007"
   },
@@ -267,7 +267,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250724-1/7bd03c2aac33c5eac55053db5db88dd9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-011"
   },
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/05/19/guochan11611.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-012"
   },
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211121-1/5dd2c85fcbe4075e76d8b949ce937a0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-013"
   },
@@ -312,7 +312,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211121-1/648597ef2db7e19d85b531eae54a95d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-014"
   },
@@ -327,7 +327,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/xk48zyQA.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-015"
   },
@@ -342,7 +342,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/IJcpt6hl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-016"
   },
@@ -357,7 +357,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240904-1/7fc4587fe5b3e868c629936c386bbd40.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-017"
   },
@@ -372,7 +372,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240904-1/3bda36f16d9cb1d765def3ef0a5adb59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-018"
   },
@@ -387,7 +387,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240904-1/eee93cfee136e44ee3f41c400d0d408b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-019"
   },
@@ -402,7 +402,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240904-1/148b1754ca932a82a8ae92274317405d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-020"
   },
@@ -417,7 +417,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/1oyIa9JX.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-021"
   },
@@ -432,7 +432,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240908-1/436b33c5263d490f14ec7d26ca6d7974.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-022"
   },
@@ -447,7 +447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230830/5GbgqZTK/1.jpg?t=1693403232",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-023"
   },
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230830/7nxUd7TO/1.jpg?t=1693403304",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-024"
   },
@@ -477,7 +477,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211223-1/2fbef06bcfedb26709d6064f11af9c44.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-025.jpg",
     "actress": [
       "米妮"
     ],
@@ -494,7 +494,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211226-1/08cff98516e19ed7769ee91a0e55c1f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-026.jpg",
     "actress": [
       "莎莎",
       "妮寇"
@@ -512,7 +512,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220103-1/f0f6b7fbe390d1181303cee21be34761.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-027"
   },
@@ -527,7 +527,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/05/19/guochan11612.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-028"
   },
@@ -542,7 +542,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220108-1/cc747bdbdfbb2072ab6ebb02816f72fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-029"
   },
@@ -557,7 +557,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/2o6ftGgS.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-030"
   },
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/4caWvZXI.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-031"
   },
@@ -587,7 +587,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220131-1/3679c328c9ff41c0a2ba413ceb249ebd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/HUL-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=HUL-032"
   },
@@ -602,7 +602,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/14/318e9ddcdb9e2ba712a71f941dfb58d1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-034.jpg",
     "actress": [
       "夜夜",
       "蒋佑怡"
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/19/aa8fc15dc6c1af436eb48ba14a88f754.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-035.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -637,7 +637,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "葫芦影业",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/29/ced827f9bd678bc6ccc48d0944730c84.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/HUL-036.jpg",
     "actress": [
       "吴芳宜",
       "嘉仪"

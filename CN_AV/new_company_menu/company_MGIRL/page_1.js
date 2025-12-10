@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/01/13/2dfd6aac3ca3460e5587ea898fe32406.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-136"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/01/4d3a3a887c20a9598612b6d63ea3f85e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-145-2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-145-2"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/02/b8a20b5199d2e4191cf77befd66ac131.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-146.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-146"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/07/0b8cf56cc2f19ff5f6cf4d9559a067a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-149"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/10/660f872d1c730f34e1cdb6faa4473909.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-151"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/11/50db43d30480e6ba05f4717279e325de.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MGIRL-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-152"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/14/0098882d9e8e0fe2e0d0acb29863df70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-153"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/16/9fdcdd4ec90be82c95fb91a3259aedd4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-154.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-154"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MGIRL",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2025/02/18/cea8f6e5c632ac1dd2b0d0377be1e7ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MGIRL-155.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MGIRL-155"
   }

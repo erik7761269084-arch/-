@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/a23f6462343e5285c7bb0c5d4a6585f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5304.jpg",
     "actress": [
       "小薇"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241219-1/06c414e647fb37f1e5b707e3c5a96b59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5305.jpg",
     "actress": [
       "觅嫣"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230520-1/39fabf08231a24626c84b29b275ec390.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5306.jpg",
     "actress": [
       "紫寒"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250503-1/b41184ad21a1efa7d3d8a17a8d6888ba.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5307.jpg",
     "actress": [
       "灵枝"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/06/19/749af1eed09e37efe456f3ed09c0f2d2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ID5308.jpg",
     "actress": [
       "瑶瑶"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230604-1/953a43e803a9fd370adbe21281424216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5309.jpg",
     "actress": [
       "紫寒"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230701-1/959ab6e54f13169e560d18decd817d37.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5310.jpg",
     "actress": [
       "灵枝"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/0569b6ed18168cc83ce905de33f22887.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5311.jpg",
     "actress": [
       "莉娜"
     ],
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230624-1/d12333aa741f965968bc5b3e690779e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5312.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ID5312"
   },
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/06/19/1fc708d00856799898ba18763b0f9a33.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ID5313.jpg",
     "actress": [
       "觅嫣"
     ],
@@ -178,7 +178,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230603-1/530ac884b282f514906d592b9188e062.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5314.jpg",
     "actress": [
       "觅嫣"
     ],
@@ -195,7 +195,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230701-1/62b518c6d0b73fe63c0f585de8a765f9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5315.jpg",
     "actress": [
       "觅嫣"
     ],
@@ -212,7 +212,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230708-1/2e0d123a2e45080a6b2e153cea03f18d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5316.jpg",
     "actress": [
       "觅嫣"
     ],
@@ -229,7 +229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250908-1/cd61c03e94831b9bd8afd035103e29bd.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5317.jpg",
     "actress": [
       "凯丽"
     ],
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241218-1/4e4ddb2fd463fb9966d8a478041bac06.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5318.jpg",
     "actress": [
       "凯丽"
     ],
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230708-1/be90032164779f8daa22e5dfc9c2a4a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5319.jpg",
     "actress": [
       "瑶瑶"
     ],
@@ -280,7 +280,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20251013-1/a7461113849015512b152a0327bcb79a.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5320.jpg",
     "actress": [
       "惠敏"
     ],
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20251015-1/4a84819bbfc424980cfab1ec8137ac59.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5321.jpg",
     "actress": [
       "晨沁"
     ],
@@ -314,7 +314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230715-1/261545451ea3488c4ed1d00e886a3de3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5322.jpg",
     "actress": [
       "诗琪"
     ],
@@ -331,7 +331,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230704-1/8f88234463e4cf6f77dce7e6eb674ebd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5323.jpg",
     "actress": [
       "清妍"
     ],
@@ -348,7 +348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20251010-1/bc39e36b2bb552cbbcc28e4b5d1a65ff.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5324.jpg",
     "actress": [
       "清妍"
     ],
@@ -365,7 +365,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20251016-1/46220f29041febd0a8f5e6852973fa4a.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5325.jpg",
     "actress": [
       "莉娜"
     ],
@@ -382,7 +382,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230722-1/4159cb91848f88886e8fc0e29d152a39.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5326.jpg",
     "actress": [
       "惠敏"
     ],
@@ -399,7 +399,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250909-1/1b884d2856456d6ab5348c5c82204c9c.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5327.jpg",
     "actress": [
       "雯茜"
     ],
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230722-1/fd6499159b7cc00e5721fc0b95589ffa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5328.jpg",
     "actress": [
       "紫寒"
     ],
@@ -433,7 +433,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250916-1/86ba3e188c9a502f8f24c93fed2aa8d4.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5329.jpg",
     "actress": [
       "书涵"
     ],
@@ -450,7 +450,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230725-1/ed852500a4270ee3745508460882bfed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5330.jpg",
     "actress": [
       "书涵"
     ],
@@ -467,7 +467,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230725-1/b739060125dc168b24d2b343d19422dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5331.jpg",
     "actress": [
       "惠敏"
     ],
@@ -484,7 +484,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230930-1/3f551b0e165dcd267f1d816867f7c24b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5332.jpg",
     "actress": [
       "芷萱"
     ],
@@ -501,7 +501,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250325-1/ba4f2e09c85b11e795c34cf5e730475c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5333.jpg",
     "actress": [
       "小洁",
       "文慧"
@@ -519,7 +519,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/69c48bc8dbe95849c46bc5dcaa2965cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5334.jpg",
     "actress": [
       "诗琪"
     ],
@@ -536,7 +536,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230801-1/6d524159ca51b7eb19b0081b75607f62.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5335.jpg",
     "actress": [
       "妍予"
     ],
@@ -553,7 +553,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230803-1/908565ea794893907bd9c92aefab9dc8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5336.jpg",
     "actress": [
       "羽芮"
     ],
@@ -570,7 +570,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230803-1/aecf69fe5f9b0af233eb3e8d5df4346b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5337.jpg",
     "actress": [
       "惠敏"
     ],
@@ -587,7 +587,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230813-1/e20bf3764fe4f8b1fc0bb0f66f764797.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5338.jpg",
     "actress": [
       "雯茜"
     ],
@@ -604,7 +604,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230809-1/2f0f914778e4c8debe3602201e42a292.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5339.jpg",
     "actress": [
       "阿柒"
     ],
@@ -621,7 +621,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230809-1/6e94e1c4ab6f1f0007c0723abaacda1c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5340.jpg",
     "actress": [
       "思嫒"
     ],
@@ -638,7 +638,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/08/23/zhubo1006.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5341.jpg",
     "actress": [
       "思媛"
     ],
@@ -655,7 +655,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230813-1/1a77536693683e0b50803d324caa8c76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5342.jpg",
     "actress": [
       "语伊"
     ],
@@ -672,7 +672,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/4ee3ab33113e09ed5756f3c3e6f3545f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5343.jpg",
     "actress": [
       "灵枝"
     ],
@@ -689,7 +689,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/08/23/zhubo1007.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5344.jpg",
     "actress": [
       "语伊"
     ],
@@ -706,7 +706,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230824-1/6d0af5a22d5ac683f2667799585bade6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5345.jpg",
     "actress": [
       "多多"
     ],
@@ -723,7 +723,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230818-1/24f33ed66a243a6cb0fc50caf7b75b23.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5346.jpg",
     "actress": [
       "小捷"
     ],
@@ -740,7 +740,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/08/24/22ab21f24caf3e037651a4c3ba87a75a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5347.jpg",
     "actress": [
       "小捷"
     ],
@@ -757,7 +757,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250906-1/54f8e6c3d2dbf47b33e906d645dc1688.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5348.jpg",
     "actress": [
       "惠敏"
     ],
@@ -774,7 +774,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250905-1/dd2ed485d1588247592a19e30506d51d.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5349.jpg",
     "actress": [
       "惠敏"
     ],
@@ -791,7 +791,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230818-1/665dc76d9e92d05219ebfaf649236517.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5350.jpg",
     "actress": [
       "惠敏"
     ],
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241229-1/e6425df1af1d2ba7cd0736665e1a9fdd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5351.jpg",
     "actress": [
       "雯茜"
     ],
@@ -825,7 +825,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/images/2023/09/07/guochan119.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5352.jpg",
     "actress": [
       "曼曼"
     ],
@@ -842,7 +842,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/09/11/39e102bca38c12fdea1e6531888f439c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5353.jpg",
     "actress": [
       "珍珍"
     ],
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230916-1/6c202fab576681d925b9a72c7999e865.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5354.jpg",
     "actress": [
       "湘湘"
     ],
@@ -876,7 +876,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/b7ddee0c01a2acf63a337b71a287c58d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5356.jpg",
     "actress": [
       "甜心",
       "阿柒"
@@ -894,7 +894,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230922-1/596547f83f0cfd0cf17eae5733533d15.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5357.jpg",
     "actress": [
       "乔安"
     ],
@@ -911,7 +911,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230924-1/4510c6e359046e92b2dcd71e32870204.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5358.jpg",
     "actress": [
       "湘湘"
     ],
@@ -928,7 +928,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230930-1/525675543f8b6d249f08e4372e689156.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5359.jpg",
     "actress": [
       "晨沁"
     ],
@@ -945,7 +945,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/245af8789b07e74daeacf945e183e746.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5360.jpg",
     "actress": [
       "婧女"
     ],
@@ -962,7 +962,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/12f2bbd1f2caa6eb5293c6de379d1656.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5361.jpg",
     "actress": [
       "乔安"
     ],
@@ -979,7 +979,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/7725eb6e58b8ad00c1d36f50618b221c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5362.jpg",
     "actress": [
       "唐月琴"
     ],
@@ -996,7 +996,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231014-1/99b46b18e105da969137c4bb7b87450f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5363.jpg",
     "actress": [
       "都可可"
     ],
@@ -1013,7 +1013,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/e4c68d254d849f19909947590e38fea1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5364.jpg",
     "actress": [
       "苗方"
     ],
@@ -1030,7 +1030,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/41d582ec86baff9217465de42350e85a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5365.jpg",
     "actress": [
       "沫沫"
     ],
@@ -1047,7 +1047,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/718fc891ed515b4fa38493433b215d63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5366.jpg",
     "actress": [
       "香菱"
     ],
@@ -1064,7 +1064,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/ebe4034c7b209c679d9505a46366f19e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5367.jpg",
     "actress": [
       "苗方"
     ],
@@ -1081,7 +1081,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231119-1/82df9a3632a7c4835d30894906dea176.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5368.jpg",
     "actress": [
       "慧敏"
     ],
@@ -1098,7 +1098,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20241122/IV6uowWT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5369.jpg",
     "actress": [
       "莉娜"
     ],
@@ -1115,7 +1115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250917-1/6db0b778128bb27bdb3176b3f53205fd.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5371.jpg",
     "actress": [
       "乔安"
     ],
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231223-1/af3c214a15e1a4600b32ae20583509b6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5372.jpg",
     "actress": [
       "乔安"
     ],
@@ -1149,7 +1149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231209-1/7506ae2c0f46bdb9011ec92ff0a04d2c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5373.jpg",
     "actress": [
       "芷萱"
     ],
@@ -1166,7 +1166,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/cff0899616e3488ab1bdfeb8a3289dfd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5374.jpg",
     "actress": [
       "小乔"
     ],
@@ -1183,7 +1183,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20241123/M8cnLJYH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5375.jpg",
     "actress": [
       "晨沁"
     ],
@@ -1200,7 +1200,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231217-1/29e839d5f1b9bbb7a340af154b18cef3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5376.jpg",
     "actress": [
       "米兰"
     ],
@@ -1217,7 +1217,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250904-1/a8387b6a44b1f1d01ece897927c7e215.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5377.jpg",
     "actress": [
       "米兰"
     ],
@@ -1234,7 +1234,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250906-1/bee2af34076842f0a329123fedbc276c.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5378.jpg",
     "actress": [
       "米兰"
     ],
@@ -1251,7 +1251,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240114-1/d8f7056a15b49deb29d0541dedd5427e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5379.jpg",
     "actress": [
       "芷萱"
     ],
@@ -1268,7 +1268,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240310-1/9982ca43cda3cf2b3482707669fd2b84.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5381.jpg",
     "actress": [
       "心萱"
     ],
@@ -1285,7 +1285,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240426-1/76e60dd4cda70d21d7d82e7b626475da.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5383.jpg",
     "actress": [
       "芷萱"
     ],
@@ -1302,7 +1302,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20241123/xMoSPEWi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5398.jpg",
     "actress": [
       "慧敏"
     ],
@@ -1319,7 +1319,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240618-1/d3470f6f4f98b766431d7672900ad8f6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5399.jpg",
     "actress": [
       "柔柔"
     ],
@@ -1336,7 +1336,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240706-1/b81911218a010e76475c51511f3ec4b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ID5400.jpg",
     "actress": [
       "慧敏"
     ],
@@ -1353,7 +1353,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/a25bf13998eab5ced4325e8ae65ee8f9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5386.jpg",
     "actress": [
       "陈柠"
     ],
@@ -1370,7 +1370,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241122/u6ruJHIj/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5387.jpg",
     "actress": [
       "丹丹"
     ],
@@ -1387,7 +1387,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241122/4m5reZgZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5388.jpg",
     "actress": [
       "芳芳"
     ],
@@ -1404,7 +1404,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241122/GtcEbEbk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5389.jpg",
     "actress": [
       "露露"
     ],
@@ -1421,7 +1421,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241122/AqusTgke/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5390.jpg",
     "actress": [
       "露露"
     ],
@@ -1438,7 +1438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241122/Q0q8daT9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5391.jpg",
     "actress": [
       "婷婷"
     ],
@@ -1455,7 +1455,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/JzoOEjgz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5392.jpg",
     "actress": [
       "冰冰"
     ],
@@ -1472,7 +1472,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://bwjpg.top/upload/vod/20250918-1/1151aadccdf622510b4acbf0cd92262f.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5393.jpg",
     "actress": [
       "萱萱"
     ],
@@ -1489,7 +1489,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://le.lefhao20250923.top//20241123/xROZsU9H/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5395.jpg",
     "actress": [
       "月月"
     ],
@@ -1506,7 +1506,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://le.lefhao20250923.top//20241123/xCGksEhU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5396.jpg",
     "actress": [
       "丽萨"
     ],
@@ -1523,7 +1523,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://le.lefhao20250923.top//20241123/TGxbM2sJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5397.jpg",
     "actress": [
       "丽萨"
     ],
@@ -1540,7 +1540,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/ieUUJmUi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5401.jpg",
     "actress": [
       "璐璐"
     ],
@@ -1557,7 +1557,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240206-1/941da685cad7c881253f9019cd382c6b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5402.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=IDG5402"
   },
@@ -1572,7 +1572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/QGkoH5bZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5407.jpg",
     "actress": [
       "小雨"
     ],
@@ -1589,7 +1589,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/UOtCIF8x/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5408.jpg",
     "actress": [
       "小雨"
     ],
@@ -1606,7 +1606,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/Hn28EW1e/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5409.jpg",
     "actress": [
       "嘉仪"
     ],
@@ -1623,7 +1623,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/QcEdmDpS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5410.jpg",
     "actress": [
       "嘉仪"
     ],
@@ -1640,7 +1640,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/o01IN5pQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5411.jpg",
     "actress": [
       "晓曼"
     ],
@@ -1657,7 +1657,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/1u5MMyhR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5412.jpg",
     "actress": [
       "晓曼"
     ],
@@ -1674,7 +1674,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/8MRC3Wvt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5413.jpg",
     "actress": [
       "小美"
     ],
@@ -1691,7 +1691,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "爱豆传媒",
     "publish_date": "2023-07-25",
-    "cover_url": "https://da.da15525716.com/20241123/FGgLO4uu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/IDG5414.jpg",
     "actress": [
       "小美"
     ],

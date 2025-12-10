@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220822-1/e8aa14c3b57e539dab3d27642b84ff62.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/h9nMbP0y.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-003.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250820-1/a7da9fc45ba46c8e0e26556a818b0497.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-004.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221116-1/3bb9a333f74bf9ad30a95c207f7f5956.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-005"
   },
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221116-1/5f47429fdba7c19eb6144ade476b1ab2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-006.jpg",
     "actress": [
       "林思妤"
     ],
@@ -109,7 +109,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221116-1/d383e488b78d3938233f83e9109116ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-008.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -126,7 +126,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221116-1/3ed0a89f6e6791244c342cb4dd058b3c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-009.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -143,7 +143,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/aaa02fa0d0a493b5b3cb033e50e73742.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-010"
   },
@@ -158,7 +158,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/c49bd1bf271f213a2d81ec82b66793a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-011"
   },
@@ -173,7 +173,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/16b960cd8bde87d151486dd136e272c1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-012"
   },
@@ -188,7 +188,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/f35a9daf5e14092a6d98f46c8dd883ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-013"
   },
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/294245fb0248c5a986bce779aa8e200a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-014"
   },
@@ -218,7 +218,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/3cf0efc42db9a921c5f398918e6e3e2c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-015"
   },
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/077bef8ba4b7afd50416b87f3776dd28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-016"
   },
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/e7dc8a97736dea7cdbdf2ae655e39c1d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-017"
   },
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/2c251ec16f7629bf917d448fd1e41bc2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-018"
   },
@@ -278,7 +278,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/7cbcbf1887c30a5cda967fae2f3c7827.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-019"
   },
@@ -293,7 +293,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221118-1/1296684b81dadaa30b1054c5750f8ad1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-020.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -310,7 +310,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/WTB-022.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-022.jpg",
     "actress": [
       "林思妤"
     ],
@@ -327,7 +327,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/3be230372166a631a08e1df1e1e13e15.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-029"
   },
@@ -342,7 +342,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/80b787517215cbc88167d8e618bf8551.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-030"
   },
@@ -357,7 +357,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/4607935b10d08e2df0931056d3db3af4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-031"
   },
@@ -372,7 +372,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/5df5d0affce3281a1fc00b40692d2484.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-032"
   },
@@ -387,7 +387,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/8e97adc93a5821494a2f698e18131533.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-033"
   },
@@ -402,7 +402,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230124-1/9ff4c7e2fb11239ec846978f268c71d6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-034"
   },
@@ -417,7 +417,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230124-1/0023145d9f544eb02392046ce0e2fee2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-035"
   },
@@ -432,7 +432,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230124-1/3652bb51b3959ab9f21093dab13dc7e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-036"
   },
@@ -447,7 +447,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230124-1/b9f023e2fc9e4c934c95470507be5858.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-037"
   },
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230124-1/fa03548fe890ad0f04620ff0edc8637a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-038"
   },
@@ -477,7 +477,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230210-1/8b796bc91c58e710af121e0e4a28fc2b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-045"
   },
@@ -492,7 +492,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230210-1/c83e19feaf1ab2f42608b89903c61be9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-046"
   },
@@ -507,7 +507,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230210-1/864ee63e6747dbf7724122e778c87e64.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-047"
   },
@@ -522,7 +522,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230210-1/bc821f82ccebfa078b772246a9da4150.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-048.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -539,7 +539,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250814-1/ab37adfdb3eaabaec8b749f1b06666eb.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-057.jpg",
     "actress": [
       "邓紫晴"
     ],
@@ -556,7 +556,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://da.da15525716.com/images/2023/06/21/guochan11666.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-058.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230304-1/90a3d491f495a75ca54f58113caa83a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-059"
   },
@@ -588,7 +588,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/1f820f700851c967a2f1b424c5f557f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-060.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -605,7 +605,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/2efcd3d911b352336eed75e11dfa541f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-061.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230305-1/4104c34110aec3fd7b8c57644ab9c436.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-062"
   },
@@ -637,7 +637,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/89a8028c1ea2d80c0448939384100d70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-063"
   },
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230304-1/6d38e4a4555e00d91bd314341cf06b98.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-064.jpg",
     "actress": [
       "斑斑"
     ],
@@ -669,7 +669,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/3ba08ee5ffb962a6497c9684809137ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-065"
   },
@@ -684,7 +684,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230306-1/79c8783455eeaa4a64bda249e54fc610.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-066"
   },
@@ -699,7 +699,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230313-1/348ab65af94926b99a6b5156952daddc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-067"
   },
@@ -714,7 +714,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230313-1/c6c42a0e8cfaa1bf906b54447ed6fdcd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-068"
   },
@@ -729,7 +729,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230313-1/341c631255ba46be2e3ddeb7a1fba0df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-069"
   },
@@ -744,7 +744,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230313-1/763cb20edbd6c63acf9630349ab81667.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-071"
   },
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230315-1/5d99a7ffd4b8eada6c155048941ba24b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-072.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -776,7 +776,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230315-1/c1b71a390563d7ed84af88b712a6f3f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-073.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230324-1/a99f305c65e6a8be0e1d5872bf917375.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-075"
   },
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230330-1/60c2909b48b78ebcb728c52f21be6746.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-077.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-077"
   },
@@ -823,7 +823,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/fc616e8bba8fc4bfe817ae94c2363f74.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-082.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-082"
   },
@@ -838,7 +838,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/e767355a36431f63df1786056b9f6d88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-083"
   },
@@ -853,7 +853,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230429-1/90eebd8851f24b882315727475653fa3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-084"
   },
@@ -868,7 +868,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/0ccdc7fcfeee8bbd4801895730846cfe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-088"
   },
@@ -883,7 +883,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XnuINF5C.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-089"
   },
@@ -898,7 +898,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/9ac1608b6a3b40cafd8448218b66990e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-092"
   },
@@ -913,7 +913,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/c8556d691f4dfba1d3fd20c4af81915a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-093.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-093"
   },
@@ -928,7 +928,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2023-06-25",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/69f855b4a30462f7f4542b425a26fb39.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTB-094.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTB-094"
   },
@@ -943,7 +943,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2022-08-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220912-1/d55c285fda06e56a115ebda195f433a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/XKWTB001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKWTB001"
   },
@@ -958,7 +958,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2022-08-22",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/pMlBeatw.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKWTB002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKWTB002"
   },
@@ -973,7 +973,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2022-08-22",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230212-1/a68ffda7fc9dab404d453d0741609b1d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKWTB038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKWTB038"
   },
@@ -988,7 +988,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "星空无限传媒x乌托邦",
     "publish_date": "2022-08-22",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230214-1/1d3ca992065e4475d72520b8d1668a29.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/XKWTB041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKWTB041"
   }

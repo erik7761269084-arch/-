@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230511-1/4bb07483ef089b5bf00afafaf489e00b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230518-1/37a91c6d2836358dd3f8c15f823329a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/13a7b99ba5b2bfe6c89cc5f4f9a2a443.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230507-1/565cd9374c4d6bdedf589332d696f5fe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0004"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230525-1/9334ed4eee11b25e45d94d871a67ad9a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0005"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230602-1/18a135ba4e0a8c6f5b3b250291528f90.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0006.jpg",
     "actress": [
       "閔度允",
       "尹律"
@@ -103,7 +103,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/19780615290e48efc4e099e2f8c7804f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0007"
   },
@@ -118,7 +118,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/e73e553be76b44a2618cfc40dea7708e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0008"
   },
@@ -133,7 +133,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230622-1/3b18d4dd568efe8b037e5155928577b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0009"
   },
@@ -148,7 +148,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230701-1/fc1d7274987387509ec83b6bef497663.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0010"
   },
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230707-1/2e1f76d2819370831f3efc17b2713e97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0011"
   },
@@ -178,7 +178,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241106-1/e56176b055d8683e1be6e560fbab9396.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0012"
   },
@@ -193,7 +193,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230720-1/76c47296aa81dc809fd9cf6b919d0403.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0013"
   },
@@ -208,7 +208,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230728-1/1ec01adce4691d84b70770e26e1ce8ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0014"
   },
@@ -223,7 +223,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230803-1/4bf7e6846aa9fa7d854934607433cad8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0015"
   },
@@ -238,7 +238,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230810-1/0005d695fc0e02b87dd44fa44b40cfaf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0016"
   },
@@ -253,7 +253,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230816-1/e0de085b659d85b6468febaef6b0a186.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0017"
   },
@@ -268,7 +268,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230824-1/c771332650844a07c41bc8b0c23b7a35.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0018"
   },
@@ -283,7 +283,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2023/08/31/6710662e1a61bf0c6143f90ad0d7174b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0019"
   },
@@ -298,7 +298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2023/09/06/b8dbf78287248eae204fdadfec079a1f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0020"
   },
@@ -313,7 +313,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230912-1/1f70d5a0d9daa2a43e5ad62aea67c087.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0021"
   },
@@ -328,7 +328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230922-1/29964f140fcba5b89f5dfd3122b587b1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0022"
   },
@@ -343,7 +343,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231003-1/4a19b42da336d7c581173f46f084295b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0023"
   },
@@ -358,7 +358,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/76d5ba6c4e4562219683cecf5b252dad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0024"
   },
@@ -373,7 +373,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231012-1/223833c7b6ec107fcd40b5c74258118e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0025"
   },
@@ -388,7 +388,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231018-1/6471db4ffaec9e33d9c6bb7ea924f97e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0026"
   },
@@ -403,7 +403,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/86327f5d423fef9849937ee24c393c31.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0027"
   },
@@ -418,7 +418,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231113-1/4f57b3dbc8fa654deab64eef2cd5bf78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0028"
   },
@@ -433,7 +433,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231116-1/d2135763f6aa2b5bbb2881073089fccc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0029"
   },
@@ -448,7 +448,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241122/89LTOAJE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0030"
   },
@@ -463,7 +463,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241122/SUVlI6ob/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0031"
   },
@@ -478,7 +478,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241122/ljVe2gOx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0032"
   },
@@ -493,7 +493,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241122/1YDANAPu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0033"
   },
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/960cbc3db64b21f317b2c06ae1e6436a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0034"
   },
@@ -523,7 +523,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/dbb9657f21e56af6301ab354b0c50611.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0036"
   },
@@ -538,7 +538,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231023-1/7ffe0aea33712f0ff790c02929d421d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0037"
   },
@@ -553,7 +553,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/1fb139c2eca1ace4d927004742492e78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0038"
   },
@@ -568,7 +568,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/e00950babe5926559d60a0a6f9c61287.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0039"
   },
@@ -583,7 +583,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/phnbEEvF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0040"
   },
@@ -598,7 +598,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://le.lefhao20250923.top//20241123/4u6ETSeW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0041"
   },
@@ -613,7 +613,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://le.lefhao20250923.top//20241123/o39eJwKZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0042"
   },
@@ -628,7 +628,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://le.lefhao20250923.top//20241123/cFEhEsIx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0043"
   },
@@ -643,7 +643,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/yJImV7er/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0044"
   },
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/erRwkZGY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0045"
   },
@@ -673,7 +673,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/tXh3DCbA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0046"
   },
@@ -688,7 +688,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240208-1/e4575149c3ab6ae5f74685bee46b06df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0047"
   },
@@ -703,7 +703,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/RijocT8b/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0048"
   },
@@ -718,7 +718,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/lG9wAEIA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0049"
   },
@@ -733,7 +733,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/94W8LqpB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0050"
   },
@@ -748,7 +748,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/3MsRATaf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0051"
   },
@@ -763,7 +763,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/sf5G2eG8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0052.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0052"
   },
@@ -778,7 +778,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/SCbAMgPf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0053"
   },
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240328-1/dbb25f5d949d51d0b7ccc4fef450cd5f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0054"
   },
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MFK-0055.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0055"
   },
@@ -823,7 +823,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/09yucdqs.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0056-1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0056-1"
   },
@@ -838,7 +838,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/yrik1hib.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0056-2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0056-2"
   },
@@ -853,7 +853,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/cusxvh6s.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0057-1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0057-1"
   },
@@ -868,7 +868,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/txgp00wf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0057-2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0057-2"
   },
@@ -883,7 +883,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240421-1/e2fa4e979d192b1e2a25819c2f0a820d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0058"
   },
@@ -898,7 +898,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240421-1/dcbea36ecd9d0864ce70839729673442.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0059"
   },
@@ -913,7 +913,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://le.lefhao20250923.top//20241122/xjIhENhb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0060"
   },
@@ -928,7 +928,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240501-1/d029716738ccb02b0eb667b3f4b31c31.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0061"
   },
@@ -943,7 +943,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240501-1/5df1510734e52bd019f4ece4ed098b04.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0062"
   },
@@ -958,7 +958,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240516-1/fd6a866ae3661de13c8848a757c3feaa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0063"
   },
@@ -973,7 +973,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/6aXMmZWU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0064"
   },
@@ -988,7 +988,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240520-1/b51d5862848f6acf24979230e82249ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0065"
   },
@@ -1003,7 +1003,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240118-1/8fe6601e4c49439e567ff3a6770ec88c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0066"
   },
@@ -1018,7 +1018,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240523-1/ddf131967a026b5e11b84f8e47e7a471.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0067"
   },
@@ -1033,7 +1033,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240531-1/559283e6de6b9c7ffb7590a44f68d66e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0068"
   },
@@ -1048,7 +1048,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://tutu1.space/images/2024/06/14/7d0f765a88eade7304d914eb4e475f3f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0069"
   },
@@ -1063,7 +1063,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://thjpg10.top/upload/vod/20241012-1/0314349a1124b1756a62d6e49da8a1d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0070.jpg",
     "actress": [
       "素人"
     ],
@@ -1080,7 +1080,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://thjpg10.top/upload/vod/20241216-1/8a050eba2e66d4445ea3e7fd365334e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0071.jpg",
     "actress": [
       "素人"
     ],
@@ -1097,7 +1097,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/b62ea60e080c888169f21733754d5227.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0072"
   },
@@ -1112,7 +1112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://da.da15525716.com/20241123/eWhGl5b1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0073.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0073"
   },
@@ -1127,7 +1127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240712-1/b30824ab3c02510d759b8f92c4d5a906.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0074.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0074"
   },
@@ -1142,7 +1142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/262bf80df68d293663bdb441945a184d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0075"
   },
@@ -1157,7 +1157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/b11f76f868232fc97e0f03b9a091818c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0076"
   },
@@ -1172,7 +1172,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/qnvctefn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0077.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0077"
   },
@@ -1187,7 +1187,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "http://da.da15525716.com/20241123/zcHMhiKi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0078"
   },
@@ -1202,7 +1202,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "http://da.da15525716.com/20241123/1qw5BQ2P/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0079"
   },
@@ -1217,7 +1217,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "http://da.da15525716.com/20241123/ZW5J2GYH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0080"
   },
@@ -1232,7 +1232,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/hgfickz0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0081"
   },
@@ -1247,7 +1247,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/es2edleo.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0082.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0082"
   },
@@ -1262,7 +1262,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/mmlegqdt.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0083"
   },
@@ -1277,7 +1277,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://cctv123456.com/i/n8nfmyy6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0084"
   },
@@ -1292,7 +1292,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://aliyun.cctv05.com/i/cq1vpkih.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0085"
   },
@@ -1307,7 +1307,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001778.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0086.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0086"
   },
@@ -1322,7 +1322,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xFLICKO",
     "publish_date": "2023-05-11",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001812.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MFK-0087.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MFK-0087"
   }

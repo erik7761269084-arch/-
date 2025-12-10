@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "抖音学院",
     "publish_date": "2023-09-16",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250908-1/f29bdc6e8545dcd5571bac39a6e7ef68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DYXY-003.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "抖音学院",
     "publish_date": "2023-09-16",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/PnV37dNx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DYXY-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DYXY-007"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "抖音学院",
     "publish_date": "2023-09-16",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/V5UpkfnG.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DYXY-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DYXY-008"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "抖音学院",
     "publish_date": "2023-09-16",
-    "cover_url": "https://da.da15525716.com/images/2023/01/24/guochan10939.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DYXY-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DYXY-010"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "抖音学院",
     "publish_date": "2023-09-16",
-    "cover_url": "https://bwjpg.top/upload/vod/20251004-1/4ef988e1e0c0778b6d9f75f06c0d906f.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DYXY-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DYXY-014"
   }

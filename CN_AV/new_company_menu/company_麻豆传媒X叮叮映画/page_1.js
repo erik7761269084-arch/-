@@ -20,7 +20,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://da.da15525716.com/images/2023/03/18/guochan11253.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DD-001.jpg",
     "actress": [
       "金巧巧"
     ],
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/13/18895_cover_2025-06-13_041855.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DD-002.jpg",
     "actress": [
       "陈美琳"
     ],
@@ -54,7 +54,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/FPl4adzQ.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DD-003.jpg",
     "actress": [
       "柯晓"
     ],
@@ -71,7 +71,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/af5ed2bb16197acd3f2c235273873935.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DD-004.jpg",
     "actress": [
       "冯思玥"
     ],
@@ -88,7 +88,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/rHZjfdqs.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DD-005.jpg",
     "actress": [
       "林晚琬",
       "如烟"
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/EkNH5P0D.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/DDF-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DDF-001"
   },
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X叮叮映画",
     "publish_date": "2022-01-10",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250713-1/50cbfb76c8b25abd385bdd4555aa0a77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/YMDD-173.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=YMDD-173"
   }

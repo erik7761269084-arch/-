@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/fea566500cc71dd849e2d99ce5b031fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-001.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/142142000bb6e85a2998cc62a255470e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-003.jpg",
     "actress": [
       "斑斑"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231014-1/39ff9c9fba2c43a3128ea6aed0d71a8d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-004.jpg",
     "actress": [
       "莉娜"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/0fcb375b13d5d0044dd696c6056326fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VNS-005"
   },
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241109-1/8ff29002f6ff9da910efa42e39b878a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VNS-006"
   },
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://da.da15525716.com/20241122/pVh2emph/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VNS-007"
   },
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://da.da15525716.com/20241122/wmyyCZ8K/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VNS-008"
   },
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x维纳斯",
     "publish_date": "2023-09-20",
-    "cover_url": "https://le.lefhao20250923.top//20241123/UXYo6wZ9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/VNS-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=VNS-009"
   }

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001840.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-002-1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MHG-002-1"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001841.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-002-2.jpg",
     "actress": [
       "苏畅"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001842.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-002-3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MHG-002-3"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001843.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-002-4.jpg",
     "actress": [
       "周甯"
     ],
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/a1001844.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-002-5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MHG-002-5"
   },
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x涩点点",
     "publish_date": "2025-08-20",
-    "cover_url": "https://aliyun.cctv05.com/i/twcckuev.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MHG-005-02.jpg",
     "actress": [
       "舒舒",
       "苏畅"

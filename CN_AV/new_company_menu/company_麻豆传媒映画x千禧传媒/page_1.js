@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221020-1/f20a298a4dfedc88e9c48717bbd88a20.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-001.jpg",
     "actress": [
       "林思妤"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221203-1/23397b57a44772dc905718ba018b7176.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-002.jpg",
     "actress": [
       "李允熙"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230522-1/cbea0380625b87fd17772d95131541c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-003.jpg",
     "actress": [
       "金莉娜",
       "钟宛冰",
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230930-1/2cf40527c3e2619b96d1e6a7994f5fa5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-004.jpg",
     "actress": [
       "王以欣"
     ],
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230703-1/adf7de22fa1e130413ad9e0805b6d63a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-005.jpg",
     "actress": [
       "林玥玥"
     ],
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2022-10-21",
-    "cover_url": "https://thjpg10.top/upload/vod/20250322-1/2ebbeedf92a1bf672288c451bd6bd869.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QX-006.jpg",
     "actress": [
       "孟若羽"
     ],
@@ -114,7 +114,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2023-12-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231218-1/16d03b7e7c3907aed55a8c04437cc3b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXF-001.jpg",
     "actress": [
       "程葳"
     ],
@@ -131,7 +131,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x千禧传媒",
     "publish_date": "2023-12-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/1f744ae384e913b106e95a5845307b8d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QXF-002.jpg",
     "actress": [
       "黎娜",
       "程藏"

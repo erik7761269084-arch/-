@@ -16,7 +16,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230807/20230807031341655655.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KXG0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KXG0002"
   },
@@ -31,7 +31,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2021-06-07",
-    "cover_url": "https://tuaskbgnekr.com/20221108/ZENbWZHd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KXG0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KXG0003"
   },
@@ -52,7 +52,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/cu6n3qt4.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KXG0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=KXG0004"
   },
@@ -67,7 +67,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2024-12-25",
-    "cover_url": "https://tutu1.space/images/2025/02/15/733baa756665d22475fd151d5cc29ecb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MEIGI-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MEIGI-017"
   },
@@ -82,7 +82,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2024-12-25",
-    "cover_url": "https://tutu1.space/images/2025/04/07/7b28517a96da66d82d60124d88cc14f3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MEIGI-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MEIGI-022"
   },
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2024-12-25",
-    "cover_url": "https://tutu1.space/images/2025/04/18/ee33bd6b81ac89e08ba67001deac137f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MEIGI-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MEIGI-023"
   },
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2024-12-25",
-    "cover_url": "https://tutu1.space/images/2025/07/06/1f442ce2fba7ccd6d28a60d5d40363c3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MEIGI-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MEIGI-030"
   },
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://thjpg10.top/upload/vod/20250113-1/353a801c52562dbcc8ea7ac0b97cec5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SAK-0019.jpg",
     "actress": [
       "樱樱"
     ],
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/01/13/89a62f7ec3707f1da0e428ab21b4af0e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAK-0024"
   },
@@ -159,7 +159,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/02/08/a2250cf3e1d6f0e0a69a99011c402a19.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0026.jpg",
     "actress": [
       "樱樱"
     ],
@@ -176,7 +176,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/06/06/448419c0a941671d2e61e733735eb823.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0027.jpg",
     "actress": [
       "樱樱"
     ],
@@ -193,7 +193,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/07/01/6e0cc35f304fd3b8804ffd46df02e918.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0030.jpg",
     "actress": [
       "兔兔",
       "樱樱"
@@ -211,7 +211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/08/12/a6929b1b4cb10617b8d5e5a78596acc1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0032.jpg",
     "actress": [
       "樱樱"
     ],
@@ -228,7 +228,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/08/18/e357e24109c88b08221d48125b9e325f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0034.jpg",
     "actress": [
       "樱樱"
     ],
@@ -245,7 +245,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "开心鬼传媒",
     "publish_date": "2025-08-18",
-    "cover_url": "https://tutu1.space/images/2025/09/26/11588e8abe0a82301848073989637084.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/SAK-0037.jpg",
     "actress": [
       "樱樱"
     ],

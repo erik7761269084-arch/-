@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/8860bd97323f352000e13253b321495c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://thjpg10.top/upload/vod/20240823-1/24690cc7a9d9f388db3400240e8e8f9c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220919-1/ee3d4dc3e7fe3e64472212663ffff654.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/9ec7b4362dcba61c8f7636d06b48f493.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0004"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221027-1/3900a7941d3822094ec104d99f70c30e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0005"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/8c39536fe025d43045c5fa9747edfdf1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0006"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x桃花源",
     "publish_date": "2022-08-09",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/481a48413c2673e64e42f489411739a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/THY-0007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=THY-0007"
   }

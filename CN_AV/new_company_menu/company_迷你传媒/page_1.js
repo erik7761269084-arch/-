@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221109/iRn1YCnJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI001.jpg",
     "actress": [
       "千凌"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221109/uJRy6i5T/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI002.jpg",
     "actress": [
       "千凌"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221109/BKESKISW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI003.jpg",
     "actress": [
       "千凌"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221109/DKGd9c6S/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI004.jpg",
     "actress": [
       "千凌"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221109/6VmV8lTK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI005.jpg",
     "actress": [
       "千凌"
     ],
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230809/20230809033723923923.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI006.jpg",
     "actress": [
       "千凌"
     ],
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "迷你传媒",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Gk4Y3ndq.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MINI007.jpg",
     "actress": [
       "白晰"
     ],

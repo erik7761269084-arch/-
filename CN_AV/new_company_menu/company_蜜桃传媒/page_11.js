@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231122-1/47dc335fdc709785e8dba543317b16a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PMXY-001.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231122-1/272bc84e09dbddba5021aba549d9d3ad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PMXY-002.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231122-1/8a0890f40c7c617e4b393c3fe174ded5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PMXY-003.jpg",
     "actress": [
       "白允儿"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231124-1/4f5b9a14a48a418921c740b7f56f2b41.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PMXY-004.jpg",
     "actress": [
       "吴芳宜"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20210823-1/b0d258b3c2ec5a7acc42a57767be5bfe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PTG001-EP1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PTG001-EP1"
   },
@@ -93,7 +93,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-05-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240520-1/5e898b79886bc1190f9f80d230c09d01.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QY-001.jpg",
     "actress": [
       "艾熙"
     ],
@@ -110,7 +110,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-05-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240601-1/194eb2fcc3c36b9826d841574f298086.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/QY-002.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-02-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240206-1/3b7c2937c87a0ff39cb3d44baa0b05d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SPJH-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SPJH-001"
   },
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-02-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240208-1/f346601b96750aedf9b0e29d01641625.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SPJH-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SPJH-002"
   },
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "蜜桃传媒",
     "publish_date": "2024-02-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240214-1/870ba7d0ead3c2fabac6a319632c47e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SPJH-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SPJH-003"
   }

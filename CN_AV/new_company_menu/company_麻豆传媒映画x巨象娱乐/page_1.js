@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://tutu1.space/images/2022/07/06/4110f7778943bc0c3d37740bc2c42b0d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SSN-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://da.da15525716.com/images/2022/09/22/guochan2519.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SSN-002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221210-1/d0968a32377f37caffeb9af3a96e2e99.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-003.jpg",
     "actress": [
       "莉娜"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231024-1/b1423f086e5cf97b1af83ed53a95bd12.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-004.jpg",
     "actress": [
       "LUNA"
     ],
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20241011-1/2a347d3917f4e689ab313ed88f2f3e07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-005.jpg",
     "actress": [
       "恩恩"
     ],
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240109-1/106c0c9b1b71a7dffbed54ed86bed13e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-006.jpg",
     "actress": [
       "宋雨川"
     ],
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240118-1/0572a1408d2a3ade870c425570563d4e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-007.jpg",
     "actress": [
       "芽芽"
     ],
@@ -125,7 +125,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SSN-008.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SSN-008"
   },
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20250105-1/b3baf5c26e1ba3236199668b8478486b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-009.jpg",
     "actress": [
       "恩恩"
     ],
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20241117-1/b43618028d8ef73a66ec4ee3a64fdca7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-010.jpg",
     "actress": [
       "芽芽"
     ],
@@ -174,7 +174,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240214-1/ad927283aca450fce091f0327ca32a13.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-011.jpg",
     "actress": [
       "斑斑"
     ],
@@ -191,7 +191,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x巨象娱乐",
     "publish_date": "2022-07-08",
-    "cover_url": "https://thjpg10.top/upload/vod/20241222-1/358e9a1966acf96391d604996a9379f7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/SSN-012.jpg",
     "actress": [
       "斑斑"
     ],

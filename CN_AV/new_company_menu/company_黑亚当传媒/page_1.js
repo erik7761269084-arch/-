@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "黑亚当传媒",
     "publish_date": "2025-10-06",
-    "cover_url": "https://img.siwazywimg2.com:5278/cvjpg/Tc0udBIP.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/BAK-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=BAK-021"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "黑亚当传媒",
     "publish_date": "2025-10-06",
-    "cover_url": "https://tutu1.space/images/2025/08/08/6317274880e18a34de1018d983bb900f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/BAK-192.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=BAK-192"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "黑亚当传媒",
     "publish_date": "2025-10-06",
-    "cover_url": "https://tutu1.space/images/2025/08/07/2c9e710f104a3769271408a5fd05179d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/BAK-193.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=BAK-193"
   }

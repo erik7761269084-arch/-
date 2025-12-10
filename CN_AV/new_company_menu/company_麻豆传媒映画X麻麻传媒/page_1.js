@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220930-1/c4a053a201fd83550f2f7d2bfb660f18.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-001.jpg",
     "actress": [
       "素人",
       "泡泡"
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/bec3546538f11cdc0c94a3c55eed601d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MT-002"
   },
@@ -43,7 +43,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221113-1/a3a225d8431dcf90a9c62de862e3ea29.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-003.jpg",
     "actress": [
       "憨憨",
       "可儿"
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://tuaskbgnekr.com/20221019/Iwywjl4L/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MT-004"
   },
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://tutu1.space/images/2022/08/12/253fcde55eebb2987c4efa65ea0b438a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/MT-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MT-005"
   },
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220830-1/8c511179635856143b68bb25e4ccc7d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-006.jpg",
     "actress": [
       "艾艾"
     ],
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220911-1/0c9018e9d2dbc22be4eb6a05e023a2db.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-007.jpg",
     "actress": [
       "艾艾",
       "翁雨澄"
@@ -126,7 +126,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221002-1/2e53e9429503977631c821df93459ca5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-008.jpg",
     "actress": [
       "艾艾"
     ],
@@ -143,7 +143,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/78752149169f263fba43bf61f14d3089.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-009.jpg",
     "actress": [
       "艾艾"
     ],
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/a3fc46eb9ee3169ba2e7fbcd19fdca68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-010.jpg",
     "actress": [
       "雪莉"
     ],
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://bwjpg.top/upload/vod/20250904-1/53029e1db7fcaa5237c1c1d8d0116691.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-011.jpg",
     "actress": [
       "艾艾"
     ],
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220926-1/d4f10b5b4f56df2c645fd091c6d65115.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-012.jpg",
     "actress": [
       "艾艾"
     ],
@@ -211,7 +211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/e6f8db620884a9a19ad4fb3b1e941d63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-013.jpg",
     "actress": [
       "艾艾",
       "素人"
@@ -229,7 +229,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230222-1/07984bcb0e500b86c95df7563ef1ce53.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-014.jpg",
     "actress": [
       "艾艾"
     ],
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://da.da15525716.com/images/2022/11/06/guochan10215.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-015.jpg",
     "actress": [
       "可儿"
     ],
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221102-1/6edaa55e4f842120e4e8a6ce969f917d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-016.jpg",
     "actress": [
       "可儿",
       "林洋"
@@ -281,7 +281,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241029-1/d99b9e05ddfb20b67a28b1c3da1e02d6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-017.jpg",
     "actress": [
       "憨憨"
     ],
@@ -298,7 +298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230107-1/a6dede73a1c7fad4eb29ae7d6c42bf16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-018.jpg",
     "actress": [
       "憨憨"
     ],
@@ -315,7 +315,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/5e74ec5dffba36defd26ee64b837cc51.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-019.jpg",
     "actress": [
       "雪莉"
     ],
@@ -332,7 +332,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230301-1/cf22465430c008d8781f23c1c4dc94a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-021.jpg",
     "actress": [
       "风铃"
     ],
@@ -349,7 +349,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250807-1/f81f3e8bba3a35f64824006a319ee3f2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-022.jpg",
     "actress": [
       "艾艾",
       "可儿",
@@ -368,7 +368,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/0a9ad01a364c02ff2a8d1d8c66e95736.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-023.jpg",
     "actress": [
       "可儿",
       "林洋"
@@ -386,7 +386,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230119-1/334aa437a7ee689b5ad097cc3e883d07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-024.jpg",
     "actress": [
       "憨憨"
     ],
@@ -403,7 +403,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230208-1/a2febb8edb6333599d7a8af364323904.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-026.jpg",
     "actress": [
       "风铃"
     ],
@@ -420,7 +420,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://thjpg10.top/upload/vod/20250103-1/d99db9c75401aae8361952b7130b5909.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-027.jpg",
     "actress": [
       "可儿",
       "林洋"
@@ -438,7 +438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241111-1/a41d18eb76fc8f9f77d5c0a60938c3e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-028.jpg",
     "actress": [
       "可儿",
       "林洋"
@@ -456,7 +456,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230227-1/17986e395bc8e6236f5c197981879c5f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-029.jpg",
     "actress": [
       "憨憨"
     ],
@@ -473,7 +473,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/149712f6ec6e4d4e16c97dd18bd04015.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-030.jpg",
     "actress": [
       "姗彤"
     ],
@@ -490,7 +490,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221220-1/73675f58ebae24500c1edea2ed433bd7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-031.jpg",
     "actress": [
       "姗彤"
     ],
@@ -507,7 +507,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230113-1/6724552dc4436b6c73faa1116d154dd4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-032.jpg",
     "actress": [
       "素人"
     ],
@@ -524,7 +524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/9341825f43fcfcc6e72d9807b72631d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-033.jpg",
     "actress": [
       "姗彤"
     ],
@@ -558,7 +558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231031-1/c8c3813d67a20124462efff08b22ede1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-035.jpg",
     "actress": [
       "Alice",
       "翁雨澄"
@@ -576,7 +576,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X麻麻传媒",
     "publish_date": "2022-06-19",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/e2e613a93741ec991e7f0710f3ef933e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MT-036.jpg",
     "actress": [
       "Alice"
     ],

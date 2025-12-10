@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231023-1/e365d5265a7730e77d46d3f7a5ebab18.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-001.jpg",
     "actress": [
       "斑斑"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/f8b99ee898d2e8253cc0f2f41952d93f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-002.jpg",
     "actress": [
       "微微"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://da.da15525716.com/20241123/zF2jz0gn/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-003.jpg",
     "actress": [
       "薇薇"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241110-1/fbc02da3a31dee7a018cad4ff51d489e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-004.jpg",
     "actress": [
       "季妍希",
       "纪妍希"
@@ -79,7 +79,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/baa91964eefb045686191be5462d535d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-005.jpg",
     "actress": [
       "斑斑"
     ],
@@ -96,7 +96,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x麦尼传媒",
     "publish_date": "2023-10-24",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/31ea731ba7bfd218fbfd20382e63263d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/NI-006.jpg",
     "actress": [
       "季妍希"
     ],

@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性夢者",
     "publish_date": "2021-07-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722223836320320.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MSM-001.jpg",
     "actress": [
       "林洋",
       "兮兮"
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性夢者",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XB9rOm0s.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MSM-002.jpg",
     "actress": [
       "林洋",
       "兮兮"
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性夢者",
     "publish_date": "2021-10-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722225229640640.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MSM-003.jpg",
     "actress": [
       "兮兮"
     ],
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "性夢者",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722225359455455.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MSM-004.jpg",
     "actress": [
       "唐雨菲",
       "林洋",

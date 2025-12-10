@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2025-03-06",
-    "cover_url": "https://tutu1.space/images/2025/03/08/8de465dd3a0fa8f2f90000cbeca75d6d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDQP010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDQP010"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231028/oF8yTmLy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-003-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-003-JD"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231028/BNWHFue1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-004-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-004-JD"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231028/ZFrGZo5L/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-005-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-005-JD"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231029/JfK0SubT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-006-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-006-JD"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231029/A3MzhobU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-007-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-007-JD"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/bda11b7457e9740e77c1aa16748460a2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-008-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-008-JD"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220331-1/ba205a41fafd40943184e5efa361adbd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-009-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-009-JD"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/78d8036ae3b479cc0e6fab22032de742.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-010-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-010-JD"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/5d9f0fb344c0b1e92c540371d5dcd047.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-011-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-011-JD"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/3a6197b56b6000397662e454ed147e73.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-012-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-012-JD"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231017-1/8ee5b996a0a68c10c2c4de504aa2b3c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-013-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-013-JD"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/a54b46872f7df07ba04460e825377aa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-014-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-014-JD"
   },
@@ -205,7 +205,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/8a149af6725761aef4fa572c6ab343f7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-015-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-015-JD"
   },
@@ -220,7 +220,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250530-1/40e81ee90462a8b1d87b49f0e2aa4ef0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-016-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-016-JD"
   },
@@ -235,7 +235,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/94c6a44ac1efcd1a9a360c9932eca943.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-017-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-017-JD"
   },
@@ -250,7 +250,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/sj1vLAdD.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-018-JD.jpg",
     "actress": [
       "艾咪"
     ],
@@ -267,7 +267,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250531-1/045410c87cb1fd45d04e1636ad2f1eea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-019-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-019-JD"
   },
@@ -282,7 +282,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/21/114541y3w4dhrrrh4wkfka.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-020-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-020-JD"
   },
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/23/140317vt5gzv1k6mvimmvk.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-021-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-021-JD"
   },
@@ -312,7 +312,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/23/141441c3l9tqhlflmfwbfz.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-022-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-022-JD"
   },
@@ -327,7 +327,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "http://pic1.thzpic.com/forum/202204/26/113026iu0zlq5l7nl567xa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-023-JD.jpg",
     "actress": [
       "小影"
     ],
@@ -344,7 +344,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231031/wkYTKVFi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-024-JD.jpg",
     "actress": [
       "墨涵"
     ],
@@ -361,7 +361,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231101/hDeqGhS9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-025-JD.jpg",
     "actress": [
       "妲己"
     ],
@@ -378,7 +378,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231101/DueRHJdE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-026-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-026-JD"
   },
@@ -393,7 +393,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231101/22rkAavu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-027-JD.jpg",
     "actress": [
       "草莓"
     ],
@@ -410,7 +410,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Bncm65fW.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-028-JD.jpg",
     "actress": [
       "董欣",
       "肖云"
@@ -428,7 +428,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/95p1gzrs.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-029-JD.jpg",
     "actress": [
       "董欣",
       "肖云"
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220508-1/3ee72df90584dd3e8fba83a8a6d3ab28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-030-JD.jpg",
     "actress": [
       "Alice"
     ],
@@ -463,7 +463,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/5fyTw46Y.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-031-JD.jpg",
     "actress": [
       "香菱"
     ],
@@ -480,7 +480,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tutu1.space/images/2022/05/14/2170827a6b88e4f88fdecc6653f9891f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-032-JD.jpg",
     "actress": [
       "小白"
     ],
@@ -531,7 +531,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231102/YWlhutuA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSY-035-JD.jpg",
     "actress": [
       "米娅"
     ],
@@ -548,7 +548,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220522-1/a7a8e860e80019623ba87f05120d12bb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-036-JD.jpg",
     "actress": [
       "笑笑（女优）"
     ],
@@ -565,7 +565,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231103/R7uBDSmZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-037-JD.jpg",
     "actress": [
       "小影"
     ],
@@ -582,7 +582,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-038-JD.jpg",
     "actress": [
       "米娅"
     ],
@@ -599,7 +599,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231103/78M6CS23/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-039-JD.jpg",
     "actress": [
       "米娅"
     ],
@@ -616,7 +616,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231103/yyLUCdFI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-040-JD.jpg",
     "actress": [
       "素人"
     ],
@@ -633,7 +633,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231103/uV8Qu3KQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-041-JD.jpg",
     "actress": [
       "安安"
     ],
@@ -650,7 +650,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tuaskbgnekr.com/20231103/BS9OKZyx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-042-JD.jpg",
     "actress": [
       "小白"
     ],
@@ -667,7 +667,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://tutu1.space/images/2022/08/23/546238f3e15a691b47be1f47405b512a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSY-043-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-043-JD"
   },
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://guzwiayz.com/20240827/Drwd66KC/1.jpg?t=1724802429",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDSY-044-JD.jpg",
     "actress": [
       "奈奈"
     ],
@@ -699,7 +699,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220827-1/0d139369893d993c37ca0973fdb265a1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-046-JD.jpg",
     "actress": [
       "果冻姐姐"
     ],
@@ -716,7 +716,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/29d3ef1a3e7966c34f2c11dd1827c4df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-047-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-047-JD"
   },
@@ -731,7 +731,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/7293197313a54695bdcf9ab670c363f3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-048-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-048-JD"
   },
@@ -746,7 +746,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/c42acdb7a3e05f2d6daa3399ac98f2b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-049-JD.jpg",
     "actress": [
       "果冻姐姐"
     ],
@@ -763,7 +763,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-03-18",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220904-1/f2112ae95fac35c6445951669c8c194f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDSY-050-JD.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDSY-050-JD"
   },
@@ -778,7 +778,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2024-10-31",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220925-1/c8c1f52ec751c8e9be65dddf8a403e57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTC001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTC001"
   },
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2024-10-31",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220910-1/f1e3168f0c0df286bf610f76608d83db.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTC002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTC002"
   },
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221130-1/ea961f0915f69d18da33ca2babe80162.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY001.jpg",
     "actress": [
       "莉娜"
     ],
@@ -825,7 +825,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/12/02/0f745413b7f6e257498727d91eab4d57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY002.jpg",
     "actress": [
       "莉娜"
     ],
@@ -842,7 +842,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/8f2487b17d6ee53f9aaa464f3785341f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY003.jpg",
     "actress": [
       "莉娜"
     ],
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221207-1/5c405776daf900de0c2ff848d32a54fb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY004"
   },
@@ -874,7 +874,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/fdc9083d3f0604779148ab44af9d8841.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY005"
   },
@@ -889,7 +889,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221210-1/c0ab335ddc1e72fac2201a415b9edfc8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY006.jpg",
     "actress": [
       "莉娜"
     ],
@@ -906,7 +906,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221207-1/140e4042a8673705f7c65d86753f14d1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY007.jpg",
     "actress": [
       "唐雨霏"
     ],
@@ -923,7 +923,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221225-1/ba72d85dbd00787b18cfba096c24eee7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY008.jpg",
     "actress": [
       "唐雨霏"
     ],
@@ -940,7 +940,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221207-1/25fb89105abebf79be1744a22436b01a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY009.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -957,7 +957,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221226-1/325f3c6887b110565b47fce326695727.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY010.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -974,7 +974,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/18/1c7526d3378a2fc285ae81468b759ccb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTY011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY011"
   },
@@ -989,7 +989,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/081d659b737b3ffe152a63a8b719c141.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY012.jpg",
     "actress": [
       "白熙雨"
     ],
@@ -1006,7 +1006,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221124-1/455222f1f913d4df01493a7197e30eb7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY013"
   },
@@ -1021,7 +1021,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221124-1/e3314e4bc2d35917532574433671ca76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY014"
   },
@@ -1036,7 +1036,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/24/a9b08c30088f74995b386a72ca980899.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTY015.jpg",
     "actress": [
       "唐雨霏"
     ],
@@ -1053,7 +1053,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221113-1/61283375d046008e44295ad620a21093.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY016"
   },
@@ -1068,7 +1068,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/5f8ab8e206a848a5fbf149833432b5e9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY017.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -1085,7 +1085,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221115-1/79bb6719f82d1ab38798e4a1547a6c28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY018"
   },
@@ -1100,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/24/9c62dd27b009fced8785f3bffdd27fce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTY019.jpg",
     "actress": [
       "李微微"
     ],
@@ -1117,7 +1117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221116-1/bc8e487cd3c9cbb27857646703696f1e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY020"
   },
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/24/b90d341421158369b0616c279a4f863f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTY021.jpg",
     "actress": [
       "张雅婷"
     ],
@@ -1149,7 +1149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/18/dd5415f692ef8345b6b7257cf304c07e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTY022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY022"
   },
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://tutu1.space/images/2022/11/24/d4d3973e78da23e3ae85706739f8d11d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY023.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -1181,7 +1181,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221217-1/f65056955ef8f8883c95e741dea802a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTY024"
   },
@@ -1196,7 +1196,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/f6e10adf114267dfd02a62ee6f57fed5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY025.jpg",
     "actress": [
       "吴文淇"
     ],
@@ -1213,7 +1213,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/b409cb9526d18821cae588fd768adb45.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY026.jpg",
     "actress": [
       "增田枫"
     ],
@@ -1230,7 +1230,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/d814da2329edad768970217b28827257.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY027.jpg",
     "actress": [
       "苏宁儿"
     ],
@@ -1247,7 +1247,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221220-1/cde3ac6ae6b366c94e279a792a7251d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY028.jpg",
     "actress": [
       "苏宁儿"
     ],
@@ -1264,7 +1264,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221127-1/9f998989dbad42589d17cdd188c4d8ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY029.jpg",
     "actress": [
       "苏茜"
     ],
@@ -1281,7 +1281,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-01-11",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/986e6d7d3dbeb4e3f03da803e26854ea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTY030.jpg",
     "actress": [
       "苏茜"
     ],
@@ -1298,7 +1298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-15",
-    "cover_url": "https://tutu1.space/images/2022/07/15/3bd1492d83a172d6965ef4884eb5ee9b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDTYC001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTYC001"
   },
@@ -1313,7 +1313,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220826-1/9403574457358f460014a4b6253c3da3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTYC004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDTYC004"
   },
@@ -1328,7 +1328,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-15",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220826-1/7afddff171224d40981fe3648af79eaa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDTYC005.jpg",
     "actress": [
       "经理~我的小穴合格吗？",
       "素人"
@@ -1346,7 +1346,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "https://da.da15525716.com/images/2022/11/15/guochan10362.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDX001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDX001"
   },
@@ -1361,7 +1361,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2023-05-20",
-    "cover_url": "http://pic1.thzpic.com/forum/202203/05/151457f67uorlr9h7rol2u.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDX002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDX002"
   },
@@ -1376,7 +1376,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220907-1/d8a67e761487ef17923d579bf1aef149.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/JDXYX001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX001"
   },
@@ -1391,7 +1391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX005.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX005.jpg",
     "actress": [
       "小日向可怜"
     ],
@@ -1408,7 +1408,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/4a14ef1889a8bbe370dd466260ce5ce2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX006"
   },
@@ -1423,7 +1423,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/2c4912f734c6e919bfda4e231c80573b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX007"
   },
@@ -1438,7 +1438,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX008.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX008"
   },
@@ -1453,7 +1453,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX009.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX009"
   },
@@ -1468,7 +1468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX010.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX010"
   },
@@ -1483,7 +1483,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX011.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX011"
   },
@@ -1498,7 +1498,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDXYX012.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX012"
   },
@@ -1513,7 +1513,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/u1elWFm6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX014"
   },
@@ -1528,7 +1528,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221104-1/837eacb4f90146060aea72e3ce17ebad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX015"
   },
@@ -1543,7 +1543,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221109-1/45e4da170fbeade4338acbfa3de85a9a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX016"
   },
@@ -1558,7 +1558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/7b430a7228b62958b39ed03bc67ddae1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX017.jpg",
     "actress": [
       "冰室梨花"
     ],
@@ -1575,7 +1575,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/53913d8f242961c8ca0f7bdddff00a01.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX018"
   },
@@ -1590,7 +1590,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "精东影业",
     "publish_date": "2022-07-26",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/c6a000a8752db922b56d68b79ef83742.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/JDXYX019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDXYX019"
   }

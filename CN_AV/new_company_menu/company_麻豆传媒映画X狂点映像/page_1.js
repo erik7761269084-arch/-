@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/3f4ab6976f367c7dfb385ba2c612db3f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=CP-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://bwjpg.top/upload/vod/20251012-1/4be5b619e80bd5b6bafd752bdf1be85d.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-002.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230407-1/6e7782c8ba20e40bcf8f38549822a559.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-003.jpg",
     "actress": [
       "仙儿媛"
     ],
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241103-1/202784f2af0140c24d72fa44563b5ceb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=CP-004"
   },
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/JbCc3Tf6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-005.jpg",
     "actress": [
       "李蓉蓉",
       "蓉蓉"
@@ -92,7 +92,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/c708ff032b3686cefce48c1a38062cbc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-007.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -109,7 +109,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230516-1/b7ac59ae273af145568236fe0235f0dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=CP-008"
   },
@@ -124,7 +124,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230522-1/411804492889df4952815d5784d69375.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-009.jpg",
     "actress": [
       "莉娜"
     ],
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230530-1/5a5644cb92921150dc5d45d185b03966.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-010.jpg",
     "actress": [
       "黎娜"
     ],
@@ -158,7 +158,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230704-1/fe8238656fbd0e7b8b7938ce82121552.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=CP-011"
   },
@@ -173,7 +173,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://tutu1.space/images/2023/06/26/ea87f3d13bcd987d5c501a2c2f9313ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/CP-012.jpg",
     "actress": [
       "湘湘"
     ],
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/0b80511294c57b6b475a936dd162ecd9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-013.jpg",
     "actress": [
       "湘湘"
     ],
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/7bfdb4052d54afc14d542b6a9eea6c76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-014.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://tutu1.space/images/2023/09/09/5597420df88be8f79e5dfdd964d211ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-015.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/cc3ad6d918bcf238948ec3b0f8314de6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-016.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -258,7 +258,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/e97e614ca0ac488822e483d6c62af56e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-017.jpg",
     "actress": [
       "艾瑞卡",
       "茶茶"
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231010-1/7fd799c47a1a52d19a8e29bbf056f9b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-018.jpg",
     "actress": [
       "艾瑞卡",
       "茶茶"
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画X狂点映像",
     "publish_date": "2023-10-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231003-1/8ffacf3cc616552766e2948084ce7076.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/CP-019.jpg",
     "actress": [
       "小婷"
     ],

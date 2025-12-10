@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a4bf86598891ce143fa190b26a1ed54d.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/NINICATT-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=NINICATT-01"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://thjpg10.top/upload/vod/20250117-1/2baf28b3c64b56c19b93292ebaf67238.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-002.jpg",
     "actress": [
       "韩宝儿"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/yoarPzu7.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-003.jpg",
     "actress": [
       "管明美"
     ],
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/hEIoqyRg.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-005.jpg",
     "actress": [
       "孟若羽",
       "孟若雨"
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211223-1/6060c91e83adf8a832e5263f436ce1d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-006.jpg",
     "actress": [
       "孟若羽",
       "孟若雨",
@@ -96,7 +96,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/zWwLhQ05.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TT-007"
   },
@@ -111,7 +111,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画x豚豚傳媒",
     "publish_date": "2024-01-12",
-    "cover_url": "https://guzwiayz.com/20240223/qvxooWy7/1.jpg?t=1708656792",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/TT-008.jpg",
     "actress": [
       "孟若羽"
     ],

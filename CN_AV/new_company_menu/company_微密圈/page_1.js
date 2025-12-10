@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://tutu1.space/images/2023/09/07/316c2c4772d6bc8a523a0271d2167488.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/WMOG-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://tutu1.space/images/2023/09/04/9df426b517825d58f39b365c2ece25a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230919-1/21dfc8b789124c6d3c26006d9121e00a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230928-1/87f5fbe363af3230b4d91bfe6f9327d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-005"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231019-1/0eaa79d38bad23b96f1925c7ac859ae9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-006"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231107-1/f3509b915f2f50961ed8f42c404eb5f3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-007"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231109-1/cd779aa636c0f4d65c339eae3f6f74c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-008"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://thjpg10.top/upload/vod/20250115-1/da948bc22daa4856d828620a8fab018c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-009"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://thjpg10.top/upload/vod/20250509-1/ff0c0b8d5dc289e9b751ad7bfa42bbf2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-010"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://da.da15525716.com/20241122/Da6ZBMqX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-011.jpg",
     "actress": [
       "小水水"
     ],
@@ -162,7 +162,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231224-1/f07d31e169ac471f6735eea4833a2054.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-012"
   },
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20231228-1/bc4984d49e9e9573f53a0e0a0d5fe021.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-013"
   },
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240123-1/2b9c4bc576516799f1b5481ab2735941.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-014"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240218-1/8ad91d9b7920357ba0c5778ebe1354a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-016"
   },
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240225-1/ed7b7aea7d83351adaded22a68f5e85a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-017"
   },
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240310-1/d413199dc368f1b4b5caa6be26240c2f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-018"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20240403-1/6bd92dee6d4ca41765608656cca2e7b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-019"
   },
@@ -267,7 +267,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "微密圈",
     "publish_date": "2023-09-06",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/WMOG-021.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WMOG-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-021"
   }

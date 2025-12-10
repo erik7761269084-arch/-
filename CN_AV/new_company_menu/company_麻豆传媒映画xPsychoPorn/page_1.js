@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20230723/20230723012851238238.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-002"
   },
@@ -29,7 +29,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/p6L7lujT.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-040"
   },
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/bf89be3498dea2d54231feb229079a0b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-041"
   },
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240125-1/af9675a6b7dd830edb42f0710bb78732.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-042"
   },
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250507-1/ac663383f71a652b8245fb7071a6cc96.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-043"
   },
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240124-1/df99a9ec9ecd6ee86d0baaeeed1a618f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-044"
   },
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241007-1/9b75330b8870cf9ea70e0803d27be26e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-045"
   },
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240124-1/b1575621607646e22638b5d54d2f6650.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-046"
   },
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/f6c2acccc6dba309e7cb6ac8c678aef1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-047"
   },
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/66bfe5e19d52a8ec57718306c5d33fbf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-048"
   },
@@ -164,7 +164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/f46aaa247be7f4c59c639a96d79cdda3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-049"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241007-1/49526ad408b6fbba284852bf3633eeec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-050"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20240924/AUZJuzrN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-051"
   },
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/508de8b8d825241f5ff8d9ab493a5719.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-052.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-052"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250509-1/0de50ce3b92a7795e60ca853b6b1681b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-053"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-26/20b49e4a4391fddd8ea9c8ac636d8169.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-054"
   },
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/21/guochan10423.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-055"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10389.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-056"
   },
@@ -284,7 +284,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2023/08/23/zhubo1014.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-057"
   },
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/18/guochan10377.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-058"
   },
@@ -314,7 +314,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/15/guochan10352.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-059"
   },
@@ -329,7 +329,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/15/guochan10340.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-060.jpg",
     "actress": [
       "爱爱"
     ],
@@ -346,7 +346,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240122-1/96abedf2918a57fa483ddc78668ef428.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-061"
   },
@@ -361,7 +361,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/11/03/guochan10131.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-062"
   },
@@ -376,7 +376,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/10/31/guochan10085.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-063"
   },
@@ -391,7 +391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221025-1/c2d9058d8edfc3ead1ae5ee3b9329358.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-064"
   },
@@ -406,7 +406,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/10/16/guochan8929.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-065"
   },
@@ -421,7 +421,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2805.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-066"
   },
@@ -436,7 +436,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2764.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-067"
   },
@@ -451,7 +451,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/09/28/guochan2669.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-069"
   },
@@ -466,7 +466,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/09/28/guochan2677.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-070"
   },
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220920-1/8ca14999ebde3814f3dbea727a02c20f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-071"
   },
@@ -496,7 +496,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/6XZuyxPj.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-072"
   },
@@ -511,7 +511,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2022/09/12/guochan2050.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-073-2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-073-2"
   },
@@ -526,7 +526,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240920-1/1a09ca283ff0ccb47f76ee787fbf497d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-077-1.jpg",
     "actress": [
       "素人"
     ],
@@ -543,7 +543,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/VqAheORs.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-078"
   },
@@ -558,7 +558,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://guzwiayz.com/20231103/ugi7OjSz/1.jpg?t=1698975645",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-080"
   },
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/6241463a07bb6ed9ee86e1253deccbe9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-081"
   },
@@ -588,7 +588,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/r5iJAdLa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-083"
   },
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2023/04/13/guochan11478.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-084"
   },
@@ -618,7 +618,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/images/2023/03/18/guochan11250.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-085"
   },
@@ -633,7 +633,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/IzngZ98z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-112.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-112"
   },
@@ -648,7 +648,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241122/bCfyAef3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-123.jpg",
     "actress": [
       "乐奈子"
     ],
@@ -665,7 +665,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241122/1iQpaZMu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-124.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-124"
   },
@@ -680,7 +680,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/lhirM8t4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-125.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-125"
   },
@@ -695,7 +695,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241122/yi6kAhp2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-126.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-126"
   },
@@ -710,7 +710,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://le.lefhao20250923.top//20241122/ad5bhbPf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-127.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-127"
   },
@@ -725,7 +725,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241124/9hAaJyR3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-128.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-128"
   },
@@ -740,7 +740,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241124/wBWfv03w/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-129.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-129"
   },
@@ -755,7 +755,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250920-1/d897dc9263e7c2b32d36c53790b602f2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-130.jpg",
     "actress": [
       "温芮欣"
     ],
@@ -772,7 +772,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/EtqQiqDs/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-131.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-131"
   },
@@ -787,7 +787,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250111-1/09159e2af0befd847082659c4a230c8a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-132.jpg",
     "actress": [
       "素人"
     ],
@@ -804,7 +804,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20251010-1/46e9af828af6bd38a56acf2a8ffec4a8.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-133.jpg",
     "actress": [
       "施子涵"
     ],
@@ -821,7 +821,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PH-135.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-135.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-135"
   },
@@ -836,7 +836,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/13JuiC4i/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-136"
   },
@@ -851,7 +851,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/lNREVK5f/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-137.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-137"
   },
@@ -866,7 +866,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/XEjCGdKd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-140.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-140"
   },
@@ -881,7 +881,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/DDaCyPAw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-141.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-141"
   },
@@ -896,7 +896,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/pBMOUhrZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-142.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-142"
   },
@@ -911,7 +911,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/UI3ZveGp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-143.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-143"
   },
@@ -926,7 +926,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/yum4ctey/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-144.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-144"
   },
@@ -941,7 +941,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PH-145.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-145.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-145"
   },
@@ -956,7 +956,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/5WP8OD4t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-146.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-146"
   },
@@ -971,7 +971,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/b6Ts7KxJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-147.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-147"
   },
@@ -986,7 +986,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/gD4Ektn4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-149"
   },
@@ -1001,7 +1001,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/4fHvlXzr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-150.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-150"
   },
@@ -1016,7 +1016,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/3czpGspo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-151"
   },
@@ -1031,7 +1031,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/wlizFsF7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-152"
   },
@@ -1046,7 +1046,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://da.da15525716.com/20241123/dpvedpj0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-153"
   },
@@ -1061,7 +1061,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/9XByhHDY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-154.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-154"
   },
@@ -1076,7 +1076,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/pBIUqVJu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-155.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-155"
   },
@@ -1091,7 +1091,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/5BznWl57/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-156.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -1108,7 +1108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241123/ta3giHgT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-157"
   },
@@ -1123,7 +1123,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241124/UkcWK91z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-158.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-158"
   },
@@ -1138,7 +1138,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20241226-1/4ef5c4bdb6e98c009b9d69575229a68d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-159.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1155,7 +1155,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250911-1/76e8eb5e75bfa5ac93f56b76e7484ce5.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-161.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-161"
   },
@@ -1170,7 +1170,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "http://da.da15525716.com/20241124/MMDKOpT2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-162.jpg",
     "actress": [
       "素人"
     ],
@@ -1187,7 +1187,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-21/ce17785d800f00fa7291a543751b68c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-163.jpg",
     "actress": [
       "赖昀希"
     ],
@@ -1204,7 +1204,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250208-1/96fa7eae20c0b982ba28a338cd217d0e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-164.jpg",
     "actress": [
       "玖玖"
     ],
@@ -1221,7 +1221,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20241217-1/dab9762b1c9c681d83071296e01a4b04.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-165.jpg",
     "actress": [
       "乔雨昕"
     ],
@@ -1238,7 +1238,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250103-1/dd03175e85092394a2292a6d274fd968.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-166.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1255,7 +1255,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250109-1/619e754892d1bede57fcee1df6dea753.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-167.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1272,7 +1272,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20251010-1/dd175c0ea85adbc5017c13e79af1e5dd.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-168.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1289,7 +1289,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250914-1/b01c69b1e9689bf83c59a01dc019ea47.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-170.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1306,7 +1306,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250204-1/dee7f7eca389e03b79dc8816863f78ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-171.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1323,7 +1323,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250914-1/f6fbca279af5c021b21cd6f37ab4abe8.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-172.jpg",
     "actress": [
       "乔雨昕"
     ],
@@ -1340,7 +1340,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250128-1/d9807b01d6b7654d1be71ca579cbe359.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-173.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -1357,7 +1357,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250206-1/64c9debc8ee4e287e8fa6d30689357ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-174.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -1374,7 +1374,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250912-1/20f92e508525e6c133f6c680cb1fe36c.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-175.jpg",
     "actress": [
       "乔雨昕"
     ],
@@ -1391,7 +1391,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250906-1/6238656d745b72a64e2ff809b6b7b0f1.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-176.jpg",
     "actress": [
       "斑斑"
     ],
@@ -1408,7 +1408,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://bwjpg.top/upload/vod/20250927-1/b0820667f53e129afc9e56de9d42e409.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-177.jpg",
     "actress": [
       "赖畇希"
     ],
@@ -1425,7 +1425,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250304-1/0c79db257da3ea794e5b80c06482bf07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-178.jpg",
     "actress": [
       "乔雨昕"
     ],
@@ -1442,7 +1442,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://thjpg10.top/upload/vod/20250529-1/293cdef513ce4c01188f8e05be357785.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-179.jpg",
     "actress": [
       "苏璇"
     ],
@@ -1459,7 +1459,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250403-1/faa4d98b0e56690279daa26a560a3b9c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-180.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-180"
   },
@@ -1474,7 +1474,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250410-1/1f7c7a119d04f0269a12151b97744935.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-185.jpg",
     "actress": [
       "苏璇"
     ],
@@ -1491,7 +1491,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250415-1/9e52af888c98ea4db514ee7cad874013.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-189.jpg",
     "actress": [
       "苏璇"
     ],
@@ -1508,7 +1508,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250716-1/cb2a8d4c56cf089ebbe05bfea8fa3e3d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-191.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -1525,7 +1525,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250515-1/9e42c510d3bd6d9d9a5b4127129b1677.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-193.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PH-193"
   },
@@ -1540,7 +1540,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250523-1/29a345347dbea46326dc3cd00de2ae8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-194.jpg",
     "actress": [
       "赖昀希"
     ],
@@ -1557,7 +1557,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒映画xPsychoPorn",
     "publish_date": "2023-07-30",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250619-1/d1be86c5d71aad2cf1b0d121593547cb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/PH-195.jpg",
     "actress": [
       "赖昀希"
     ],

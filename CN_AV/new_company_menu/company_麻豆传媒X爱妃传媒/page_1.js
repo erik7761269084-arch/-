@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230409-1/65005fa2494c722ec7aa3313db34abc2.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20211125-1/fe7a0c1570a79ea2845ca1d59ef22730.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/ODE-003.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-003.jpg",
     "actress": [
       "白晰"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250925-1/9fe2051bd0bcbca13ca5bb31b31b0a28.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-004"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://tuaskbgnekr.com/20221111/sE8mEVBU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-005"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240824-1/6f81cb3086e4d8904eeda4f9300ee41a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-006"
   },
@@ -102,7 +102,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220313-1/e01280a03305b37b24ae4b200226b49f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-007"
   },
@@ -117,7 +117,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "http://pic1.thzpic.com/forum/202202/15/190033r9vhuhjc7hgghu7z.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-008.jpg",
     "actress": [
       "甜心"
     ],
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://guzwiayz.com/20230805/oB4NR1Rf/1.jpg?t=1691244544",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-009"
   },
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-38/3848c95c04da0cdcdb071bfce7c06232.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-010"
   },
@@ -164,7 +164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "http://pic1.thzpic.com/forum/202205/06/153221zymbygcg66c6c75x.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-011"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://thjpg10.top/upload/vod/20250115-1/ec47ccba0d78651bf10562f02648dba7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-012.jpg",
     "actress": [
       "素人"
     ],
@@ -196,7 +196,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-39/73ef036ec32fb6be96312070911788e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-013"
   },
@@ -211,7 +211,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "http://pic1.thzpic.com/forum/202205/18/201352kcpucpfre1pr9yp9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-014"
   },
@@ -226,7 +226,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://da.da15525716.com/images/2022/10/10/guochan2811.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-015"
   },
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://da.da15525716.com/images/2022/10/07/guochan2802.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-016"
   },
@@ -256,7 +256,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X爱妃传媒",
     "publish_date": "2022-01-10",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220529-1/54efc75b23341d4816b403a2be043c9e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ODE-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-017"
   }

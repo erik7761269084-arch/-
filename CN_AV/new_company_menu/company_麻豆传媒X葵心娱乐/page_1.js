@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X葵心娱乐 ",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/BPYLcyv3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KH-001.jpg",
     "actress": [
       "孟若羽",
       "金宝娜"
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "麻豆传媒X葵心娱乐 ",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241023-1/564bad215b081295f5f6e7678e128c94.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/KH-001-02.jpg",
     "actress": [
       "孟若羽",
       "金宝娜"

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "偶蜜国际",
     "publish_date": "2023-01-01",
-    "cover_url": "https://thjpg10.top/upload/vod/20241007-1/b4d25f599db7069d80060b5166cfd52a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/LILITOM-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LILITOM-002"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "偶蜜国际",
     "publish_date": "2023-01-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221229-1/8974b3f610edb57845e8823b8bc9b231.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OM-001.jpg",
     "actress": [
       "梁佳芯"
     ],
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "偶蜜国际",
     "publish_date": "2023-01-01",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230106-1/0d5a06104787d2de7d2e9bd756d13c58.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OM-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=OM-002"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "偶蜜国际",
     "publish_date": "2023-01-01",
-    "cover_url": "https://bwjpg.top/upload/vod/20250901-1/c195305fbdbd4ef1e05136f5b7db4645.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OM-003.jpg",
     "actress": [
       "邓紫晴"
     ],
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "偶蜜国际",
     "publish_date": "2023-01-01",
-    "cover_url": "https://bwjpg.top/upload/vod/20250925-1/a27c9bce10d9a4336fdeeaf43fbadfa1.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/OM-004.jpg",
     "actress": [
       "梁芸菲"
     ],

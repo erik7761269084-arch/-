@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://tutu1.space/images/2023/02/01/1dee5ccda4befff57a6e77c78fdee4cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/WM-25031.jpg",
     "actress": [
       "嘉琪"
     ],
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://tutu1.space/images/2023/02/01/1b1ef0058c60b5e9f3e87aeae352e25a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WM-25032.jpg",
     "actress": [
       "嘉琪"
     ],
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://tutu1.space/images/2023/02/01/db2fbeaeccae016b2cdcb154670e7865.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/WM-25033.jpg",
     "actress": [
       "欣欣"
     ],
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250722-1/9eea48c98eecee2d9f625724d768e169.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WM-25034.jpg",
     "actress": [
       "欣欣"
     ],
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://tutu1.space/images/2023/02/01/78dd48e5982e7508919954637073886b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WM-25036.jpg",
     "actress": [
       "百合"
     ],
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://tutu1.space/images/2023/02/01/1eeacae39e139ee1eb3bbbf3ac284ff7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/WM-25039.jpg",
     "actress": [
       "薇薇"
     ],
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "维秘传媒",
     "publish_date": "2023-02-02",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250811-1/fdecc27a309f99ea1a39d067821e6d96.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/WM-25041.jpg",
     "actress": [
       "瑶瑶"
     ],

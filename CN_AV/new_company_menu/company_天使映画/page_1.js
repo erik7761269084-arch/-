@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250904-1/3097fc03afdbc04612ef7dec201fc98c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/ALICEAN9005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ALICEAN9005"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/06/55199_cover_2025-10-06_213047.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AN9-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AN9-006"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/06/41220_cover_2025-10-06_211015.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AN9-007.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/06/24904_cover_2025-10-06_211015.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AN9-011.jpg",
     "actress": [
       "林思妤"
     ],
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-23/80090a06826951c31c93a4d4762a83e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AN9-012.jpg",
     "actress": [
       "斑斑"
     ],
@@ -91,7 +91,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250917-1/42a3bf1720c37343bce833523247ff88.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AN9-018.jpg",
     "actress": [
       "唐雨菲"
     ],
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://tutu1.space/images/2025/06/02/9773d29ae38a8d2178ba6280367b922c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AN9-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AN9-019"
   },
@@ -123,7 +123,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://tutu1.space/images/2025/03/30/1fb78ac4a0a8332496bdc0009fd2f85b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AN9-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AN9-039"
   },
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://thjpg10.top/upload/vod/20250720-1/a83318f8b290a8a9a1af22efd3642315.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AN9-041.jpg",
     "actress": [
       "白思吟"
     ],
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250817-1/f8c2224f653cae544542d9fd706df721.png",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/AN9-047.jpg",
     "actress": [
       "宋南伊"
     ],
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2024-01-22",
-    "cover_url": "https://tutu1.space/images/2025/08/08/ddcf4907bced2c097274c5df00781908.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/AN9-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=AN9-054"
   },
@@ -187,7 +187,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/06/07/fde7756149a6bed0710291f2a710db7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-001.jpg",
     "actress": [
       "雷梦娜"
     ],
@@ -204,7 +204,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/21/b19c873b/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-002.jpg",
     "actress": [
       "斑斑"
     ],
@@ -221,7 +221,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/07/18/0fba0d54ec0fc96101ef04a0db135b41.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-003.jpg",
     "actress": [
       "花花"
     ],
@@ -238,7 +238,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/08/02/56a5c513a9b8699fffdf644d94a77b26.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-004.jpg",
     "actress": [
       "林洋"
     ],
@@ -255,7 +255,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/08/15/0644aabf691a576710a87e69297ca7e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-005.jpg",
     "actress": [
       "小巴"
     ],
@@ -272,7 +272,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/07/04/032e34f27e2f0cbacc4e3391e02d9afc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-008.jpg",
     "actress": [
       "芷媗"
     ],
@@ -289,7 +289,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "天使映画",
     "publish_date": "2023-01-18",
-    "cover_url": "https://tutu1.space/images/2025/09/06/eaa05c1a6a9577e65ad4692fb90dfcdc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/非正式封面/ENCY-011.jpg",
     "actress": [
       "玖玖"
     ],

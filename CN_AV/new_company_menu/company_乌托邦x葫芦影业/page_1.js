@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌托邦x葫芦影业",
     "publish_date": "2023-01-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230117-1/c1473a1d33f384da7b7a4ea35adb0a4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTBZY-01.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTBZY-01"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌托邦x葫芦影业",
     "publish_date": "2023-01-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230117-1/0e12a983e7ad00758dc76851c6960415.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTBZY-02.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTBZY-02"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌托邦x葫芦影业",
     "publish_date": "2023-01-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230117-1/933283ce45224e62120afbb961fea226.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTBZY-03.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTBZY-03"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "乌托邦x葫芦影业",
     "publish_date": "2023-01-17",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230117-1/ed42f9f9fc2f174deb3f653e316326df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/WTBZY-04.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WTBZY-04"
   }
