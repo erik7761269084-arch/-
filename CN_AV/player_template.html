@@ -353,22 +353,58 @@ function loadSeriesData(seriesName) {
     });
 }
 
-// ================= 公司信息匹配 =================
-async function fillCompanyInfo(companyName){
-    if(!companyName) return;
-    try{
-        const res=await fetch('https://yunvgong.com/CN_AV/new_company_menu/company_list.json');
-        const companyList=await res.json();
-        const companyData=companyList.find(c=>c.company===companyName);
-        if(!companyData){ companyEl.textContent=companyName+' (未找到信息)'; return; }
-        const companyUrl=companyData.company_url||"#";
-        const works=companyData.works_count??"";
-        companyEl.innerHTML=`<span style="display:inline-flex; gap:0; vertical-align:middle; width:260px;">
-            <a href="${companyUrl}" target="_blank" class="flash-target" style="flex:1;text-decoration:none;background:#C9B1FF;color:#3F2771;padding:6px 0;text-align:center;font-weight:bold;border-radius:6px 0 0 6px;display:inline-block;">${companyData.company}</a>
-            <div class="flash-target" style="flex:1;background:#7DDB8A;color:#084F15;padding:6px 0;text-align:center;font-weight:bold;border-radius:0 6px 6px 0;display:inline-block;cursor:pointer;">${works}部</div>
-        </span>`;
-        document.querySelectorAll(".flash-target").forEach(el=>el.addEventListener("click",()=>{ el.classList.remove("flash-click"); void el.offsetWidth; el.classList.add("flash-click"); }));
-    }catch(e){ console.error("公司信息加载失败:", e); companyEl.textContent=companyName+' (加载失败)'; }
+// ================= 公司信息匹配（最终完整修复版） =================
+async function fillCompanyInfo(companyName) {
+    if (!companyName) return;
+
+    try {
+        const res = await fetch('https://yunvgong.com/CN_AV/new_company_menu/company_list.json');
+        const companyList = await res.json();
+
+        const companyData = companyList.find(c => c.company === companyName);
+
+        if (!companyData) {
+            companyEl.textContent = companyName + ' (未找到信息)';
+            return;
+        }
+
+        const companyUrl = companyData.company_url || "#";
+        const works = companyData.works_count ?? "";
+
+        // 输出 UI
+        companyEl.innerHTML = `
+            <span style="display:inline-flex; gap:0; width:260px; vertical-align:middle;">
+                <a href="${companyUrl}" 
+                   target="_blank"
+                   class="flash-target"
+                   style="flex:1;text-decoration:none;background:#C9B1FF;color:#3F2771;
+                          padding:6px 0;text-align:center;font-weight:bold;
+                          border-radius:6px 0 0 6px;display:inline-block;">
+                    ${companyName}
+                </a>
+
+                <div class="flash-target"
+                     style="flex:1;background:#7DDB8A;color:#084F15;
+                            padding:6px 0;text-align:center;font-weight:bold;
+                            border-radius:0 6px 6px 0;cursor:pointer;">
+                    ${works}部
+                </div>
+            </span>
+        `;
+
+        // 闪亮动画
+        document.querySelectorAll(".flash-target").forEach(el => {
+            el.addEventListener("click", () => {
+                el.classList.remove("flash-click");
+                void el.offsetWidth;
+                el.classList.add("flash-click");
+            });
+        });
+
+    } catch (e) {
+        console.error("公司信息加载失败:", e);
+        companyEl.textContent = companyName + ' (加载失败)';
+    }
 }
 
 function initPlayer() {
@@ -384,70 +420,13 @@ function initPlayer() {
     } else { companyEl.textContent=seriesInfo.company||""; }
 
 	
-	/* ========== 出品厂商 + 数量 等宽 + 闪亮动画 + 不换行 ========== */
-	if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
-
-		const c = seriesInfo.companys[0];
-
-		const companyUrl = c.company_url || "#";
-		const works = c.works_count ?? "";
-
-		companyEl.innerHTML = `
-			<span style="
-				display: inline-flex;
-				gap: 0;
-				vertical-align: middle;
-				width: 260px;
-			">
-
-				<!-- 公司（淡紫色） -->
-				<a href="${companyUrl}" 
-				   target="_blank"
-				   class="flash-target"
-				   style="
-					   flex: 1;
-					   text-decoration: none;
-					   background: #C9B1FF;
-					   color: #3F2771;
-					   padding: 6px 0;
-					   text-align: center;
-					   font-weight: bold;
-					   border-radius: 6px 0 0 6px;
-					   display: inline-block;
-				   ">
-					${c.company}
-				</a>
-
-				<!-- 数量（绿色） -->
-				<div class="flash-target" style="
-					flex: 1;
-					background: #7DDB8A;
-					color: #084F15;
-					padding: 6px 0;
-					text-align: center;
-					font-weight: bold;
-					border-radius: 0 6px 6px 0;
-					display: inline-block;
-					cursor: pointer;
-				">
-					${works}部
-				</div>
-
-			</span>
-		`;
-
-		/* 添加点击闪亮动画 */
-		document.querySelectorAll(".flash-target").forEach(el => {
-			el.addEventListener("click", () => {
-				el.classList.remove("flash-click");
-				void el.offsetWidth;   // 关键：强制重绘，确保每次点击都能重播动画
-				el.classList.add("flash-click");
-			});
-		});
-
-	} else {
-		companyEl.textContent = seriesInfo.company || "";
-	}
+	/* ========== 出品厂商 + 数量 等宽 + 闪亮动画 + 不换行  调用 fillCompanyInfo========== */
+    if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
+        fillCompanyInfo(seriesInfo.companys[0].company);
+    } else {
+        companyEl.textContent = seriesInfo.company || "";
+    }
+	
     actressGrid.innerHTML = "";
     if(Array.isArray(seriesInfo.actresses)){
         seriesInfo.actresses.forEach(a=>{
