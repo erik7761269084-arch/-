@@ -1,10 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202408/25/ZQNdSFNc3w1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202408/25/ZQNdSFNc3w1/video/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/10/17/92bc3a2b/index.m3u8"
   },
   "seriesInfo": {
     "id": 7874,
-    "title": "饺子不如嫂子香 一杆进洞一发入魂",
+    "title": "饺子不如嫂子香 一杆进洞一发入魂-熙熙",
     "publish_date": "",
     "type": "无码",
     "company": "",

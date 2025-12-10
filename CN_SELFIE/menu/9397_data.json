@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202406/04/E6kgjnGYCW1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202406/04/E6kgjnGYCW1/video/index.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20250106/xndTVXT5/index.m3u8",
+    "线路3": "https://lsbbf5.com/20231022/b4V8GnIX/index.m3u8"
   },
   "seriesInfo": {
     "id": 9397,

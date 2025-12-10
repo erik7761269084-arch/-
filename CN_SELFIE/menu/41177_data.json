@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202505/31/Gb03ZB4esV2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202505/31/Gb03ZB4esV2/video/index.m3u8",
+    "线路2": "https://fqm3u8.com/20241112/xUY1cUGM/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68ccd4172c5ed64ee9ab8027.m3u8"
   },
   "seriesInfo": {
     "id": 41177,

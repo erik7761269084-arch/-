@@ -1,7 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://yutubf.lsbbf3.com/20241130/SUFdrIi5/index.m3u8",
-    "线路2": "https://lsbbf5.com/20241130/SUFdrIi5/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673d6b0f2c1c92ed2c45b3e1.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20241130/SUFdrIi5/index.m3u8",
+    "线路3": "https://lsbbf5.com/20231021/pLoI1Z3o/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202508/18/68a2f361d7791f9273fc9ba3/8256bb/index.m3u8",
+    "线路5": "https://lsbbf5.com/20241130/SUFdrIi5/index.m3u8",
+    "线路6": "https://m3u8.cdn2025.life/movie/auto/673d6b0f2c1c92ed2c45b3e1.m3u8"
   },
   "seriesInfo": {
     "id": 161184,

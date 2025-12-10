@@ -1,7 +1,11 @@
 {
   "episodes": {
     "主线路": "https://yutubf.lsbbf3.com/20250707/rtmqpMql/index.m3u8",
-    "线路2": "https://lsbbf5.com/20250707/rtmqpMql/index.m3u8"
+    "线路2": "https://lsbbf5.com/20240304/42QfAFC4/index.m3u8",
+    "线路3": "https://lsbbf2.com/20231018/OkXhOmf5/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20241201/YH3eOkSS/index.m3u8",
+    "线路5": "https://lsbbf5.com/20250707/rtmqpMql/index.m3u8",
+    "线路6": "https://lsbbf5.com/20241201/YH3eOkSS/index.m3u8"
   },
   "seriesInfo": {
     "id": 160348,

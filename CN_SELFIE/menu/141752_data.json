@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20231023/Y3TnVh9c/index.m3u8"
+    "主线路": "https://lsbbf5.com/20231023/Y3TnVh9c/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231015/JkX7z2ig/index.m3u8",
+    "线路3": "https://lsbbf5.com/20240408/NVbWKn7w/index.m3u8"
   },
   "seriesInfo": {
     "id": 141752,

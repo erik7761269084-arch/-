@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202412/07/4cCvWB5rmj1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202412/07/4cCvWB5rmj1/video/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2022/06/09/cf89e027/index.m3u8"
   },
   "seriesInfo": {
     "id": 19868,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://tutu1.space/images/2022/06/09/6a5f5458e5477504182428eff1aae654.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=19868",
     "actresses": []

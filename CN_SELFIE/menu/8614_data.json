@@ -1,6 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202405/23/1d7ZJfaSmA1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202405/23/1d7ZJfaSmA1/video/index.m3u8",
+    "线路2": "https://lsbbf5.com/20240813/KnieMbFd/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202508/16/68a0de80d41c35925d09beba/b043c5/index.m3u8",
+    "线路4": "https://lsbbf5.com/20241117/cMEPO5y0/index.m3u8"
   },
   "seriesInfo": {
     "id": 8614,

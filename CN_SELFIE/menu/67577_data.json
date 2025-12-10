@@ -1,7 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673b85ca9db76f817961cc68.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/673b85ca9db76f817961cc68.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673b81a59db76f817961ca83.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673b85ca9db76f817961cc68.m3u8",
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/673b81a59db76f817961ca83.m3u8",
+    "线路4": "https://m3u8.cdn2025.life/movie/auto/673b85ca9db76f817961cc68.m3u8"
   },
   "seriesInfo": {
     "id": 67577,

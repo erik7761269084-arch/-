@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/movie/auto/68e4c2a6e4a73d4f15c1edfd.m3u8"
+    "主线路": "https://voddadaizi.com:52866/movie/auto/68e4c2a6e4a73d4f15c1edfd.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68d271b6ce5a404e9bab91d0.m3u8"
   },
   "seriesInfo": {
     "id": 230102,
