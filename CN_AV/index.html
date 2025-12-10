@@ -263,19 +263,39 @@ function renderActresses(list) {
 
 /* 厂商（无分页） */
 async function loadCompanyList() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
+  const res = await fetch("https://yunvgong.com/CN_AV/new_company_menu/company_list.json");
   const data = await res.json();
-  const companies = data.filter(c=>c.company).slice(0,20);
+
+  // 过滤 company，取前 20 条
+  const companies = data.filter(c => c.company).slice(0, 20);
+
   const target = document.getElementById('companyGrid');
   target.innerHTML = '';
+
   companies.forEach(c => {
-    const card = document.createElement('div'); card.className='card';
-    const img = c.cover || c.img_url || "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
-    card.innerHTML = `<img src="${img}" alt="${c.company}"><div class="card-title">${c.company}</div>`;
-    card.onclick = () => { if (c.company_url) window.location.href = c.company_url; };
+    const card = document.createElement('div');
+    card.className = 'card';
+
+    // 新结构：cover_url
+    const img =
+      c.cover_url ||
+      c.cover ||
+      c.img_url ||
+      "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg"; // 默认封面
+
+    card.innerHTML = `
+      <img src="${img}" alt="${c.company}">
+      <div class="card-title">${c.company}</div>
+    `;
+
+    card.onclick = () => {
+      if (c.company_url) window.location.href = c.company_url;
+    };
+
     target.appendChild(card);
   });
 }
+
 
 /* 国产AV专区（无分页） */
 async function loadChinaDramas() {
