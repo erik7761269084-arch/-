@@ -14,8 +14,8 @@
     "companys": [
       {
         "company": "麻豆传媒映画",
-        "company_url": "",
-        "works_count": 0
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒映画.html",
+        "works_count": 1176
       }
     ],
     "genres": [
@@ -30,18 +30,18 @@
       "美少女電影"
     ],
     "description": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221226-1/5bfd030db86c68e4794498f2a7bc0923.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MDHS-0008.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MDHS-0008",
     "actresses": [
       {
         "name": "楚梦舒",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20240429/20240429034513901901.avif",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8659&name=%E6%A5%9A%E6%A2%A6%E8%88%92"
       },
       {
         "name": "秦可欣",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20230414/bb579e05-74c9-45c6-a19e-f99943417019.jpg",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
       }
     ]

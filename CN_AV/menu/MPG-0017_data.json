@@ -11,13 +11,13 @@
     "companys": [
       {
         "company": "麻豆传媒",
-        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
-        "works_count": 1149
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒.html",
+        "works_count": 1
       }
     ],
     "genres": [],
     "description": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20221210-1/e120c4ccccd6ef5cd7cecf7e99bf1b48.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MPG-0017.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MPG-0017",
     "actresses": [
@@ -28,7 +28,7 @@
       },
       {
         "name": "凌薇",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20230514/9827583b-7119-453a-953f-e06adb293b04.jpg",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8670&name=%E5%87%8C%E8%96%87"
       }
     ]

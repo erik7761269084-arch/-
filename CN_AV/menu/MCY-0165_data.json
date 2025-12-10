@@ -11,19 +11,19 @@
     "companys": [
       {
         "company": "麻豆传媒映画",
-        "company_url": "",
-        "works_count": 0
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒映画.html",
+        "works_count": 1176
       }
     ],
     "genres": [],
     "description": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20230330-1/ad22a9902923bbe36c274b6981789ea4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MCY-0165.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MCY-0165",
     "actresses": [
       {
         "name": "舒可芯",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20240429/20240429035040552552.avif",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8657&name=%E8%88%92%E5%8F%AF%E8%8A%AF"
       }
     ]

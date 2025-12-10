@@ -14,19 +14,19 @@
     "companys": [
       {
         "company": "麻豆传媒映画",
-        "company_url": "",
-        "works_count": 0
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒映画.html",
+        "works_count": 1176
       }
     ],
     "genres": [],
     "description": "",
-    "cover_url": "https://cctv123456.com/i/kd0mohcq.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MD-0332.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MD-0332",
     "actresses": [
       {
         "name": "艾鲤",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20250114/d9f34f96-c8f5-4929-8d17-9e00f17b2eb8.jpg",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8644&name=%E8%89%BE%E9%B2%A4"
       }
     ]

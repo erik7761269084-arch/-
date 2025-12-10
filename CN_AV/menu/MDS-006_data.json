@@ -11,19 +11,19 @@
     "companys": [
       {
         "company": "麻豆传媒映画",
-        "company_url": "",
-        "works_count": 0
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒映画.html",
+        "works_count": 1176
       }
     ],
     "genres": [],
     "description": "",
-    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDS-006.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MDS-006.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MDS-006",
     "actresses": [
       {
         "name": "張妮妮",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20230530/173c5100-bddf-45d7-8ec1-c80fddb19813.jpg",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9445&name=%E5%BC%B5%E5%A6%AE%E5%A6%AE"
       }
     ]

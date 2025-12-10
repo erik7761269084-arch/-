@@ -11,19 +11,19 @@
     "companys": [
       {
         "company": "麻豆传媒",
-        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
-        "works_count": 1149
+        "company_url": "https://yunvgong.com/CN_AV/new_company_menu/company_麻豆传媒.html",
+        "works_count": 1
       }
     ],
     "genres": [],
     "description": "",
-    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/eb09fba420d93a24b4097222286f98fb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/covers/main/国内av/正式封面/MTVQ19-EP2.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVQ19-EP2",
     "actresses": [
       {
         "name": "秦可欣",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://picture.yoshiclub.xyz/20230414/bb579e05-74c9-45c6-a19e-f99943417019.jpg",
         "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
       }
     ]
