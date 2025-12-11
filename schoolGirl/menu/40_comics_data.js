@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 40,
+    "title": "御女宫少女阁 少女三十八",
+    "sourceUrl": "https://telegra.ph/御女宫少女阁-少女三十八-09-03",
+    "images": [
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/3.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(1).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(10).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(12).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(13).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(14).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(2).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(3).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(4).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(5).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(6).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(7).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(8).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/1%E8%87%AA%E6%8B%8D%E7%B4%A0%20(9).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/2%E8%87%AA%E6%8B%8D%E9%BB%91%E8%A1%A3%20(1).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/2%E8%87%AA%E6%8B%8D%E9%BB%91%E8%A1%A3%20(2).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/2%E8%87%AA%E6%8B%8D%E9%BB%91%E8%A1%A3%20(3).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/3%20(1).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/3%20(2).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/3%20(3).jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030147_849.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030148_073.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030148_630.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030148_667.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030148_683.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030152_224.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030152_241.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030152_651.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030152_683.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030153_243.jpg",
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B338%2031p%20+%202v/IMG_20250903_030153_500.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,11 @@
+const comicData = {
+    "IDcode": 12,
+    "title": "御女宫少女阁 少女十一",
+    "sourceUrl": "https://telegra.ph/御女宫少女阁-少女十一-09-03",
+    "images": [
+        "https://erik7761269084-arch.github.io/japanencoxada/%E5%B0%91%E5%A5%B3%E9%98%81%E9%A2%91%E9%81%93/%E5%B0%91%E5%A5%B311%2012v/IMG_20250903_001936_587.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};
