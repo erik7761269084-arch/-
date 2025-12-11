@@ -1,0 +1,233 @@
+window.PAGE_DATA = [
+  {
+    "id": 14499,
+    "IDcode": "8172",
+    "title": "七七娜娜子",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/4a4e24a6c809bd1ca878f.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8172"
+  },
+  {
+    "id": 14498,
+    "IDcode": "8171",
+    "title": "七七娜娜子 圣诞魔太郎 [23P4V-273MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/72eca97914d927ea9bb38.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8171"
+  },
+  {
+    "id": 14497,
+    "IDcode": "8170",
+    "title": "七七娜娜子 金莲[65P+2V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/8271b245f4d0ec936a837.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8170"
+  },
+  {
+    "id": 14495,
+    "IDcode": "8169",
+    "title": "七七娜娜子 竞泳[40P+3V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"泳裝\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/886b98767a96033c6ef4e.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8169"
+  },
+  {
+    "id": 14494,
+    "IDcode": "8168",
+    "title": "七七娜娜子 布莱默顿新春旗袍 [108P6V-770MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"汉服\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/473f19872ed27aee1e91d.png",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8168"
+  },
+  {
+    "id": 14493,
+    "IDcode": "8167",
+    "title": "七七娜娜子 小僵尸 [29P1V-252MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/e14cc93fbb009da25a971.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8167"
+  },
+  {
+    "id": 14492,
+    "IDcode": "8166",
+    "title": "七七娜娜子 碧蓝航线 光荣新春 [47P-268MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/7d9d8a06b0c8ea42be143.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8166"
+  },
+  {
+    "id": 14491,
+    "IDcode": "8165",
+    "title": "七七娜娜子 雪拉 [67P3V-448MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3cc59e593268efe9f21d3.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8165"
+  },
+  {
+    "id": 14490,
+    "IDcode": "8164",
+    "title": "七七娜娜子 久岐忍同人 [41P9V-319MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"原神\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/69cecc81728d3951bb38c.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8164"
+  },
+  {
+    "id": 14489,
+    "IDcode": "8163",
+    "title": "七七娜娜子 樫野牛牛女仆 [42P7V-363MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"女仆\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/73d2963cb322d59cea448.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8163"
+  },
+  {
+    "id": 14488,
+    "IDcode": "8162",
+    "title": "七七娜娜子 怨仇办公室 [42P1V-397MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+    "actress": [
+      {
+        "name": "七七娜娜子",
+        "img_url": "https://telegra.ph/file/c2b4451dae583a84ded21.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_七七娜娜子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8162"
+  }
+];
