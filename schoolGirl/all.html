@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>漫画书架 - FC2</title>
+<title>少女阁</title>
 <style>
 body {
     margin:0;
@@ -152,7 +152,7 @@ let MAX_PAGE = 1;
 
 async function loadMaxPage(){
   try{
-    const res = await fetch("https://yunvgong.com/comics/category/stats.json");
+    const res = await fetch("https://yunvgong.com/schoolGirl/category/stats.json");
     const json = await res.json();
     MAX_PAGE = parseInt(json["all_page"]) || 1;
   }catch(e){
@@ -170,7 +170,7 @@ function initPage(){
   renderPagination(pageNumber);
 
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/comics/category/all_page/page_${pageNumber}.js`;
+  script.src = `https://yunvgong.com/schoolGirl/category/all_page/page_${pageNumber}.js`;
   script.onload = ()=>{
     if(typeof window.PAGE_DATA !== 'undefined'){
       renderAll(window.PAGE_DATA);
