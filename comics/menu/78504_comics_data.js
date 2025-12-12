@@ -3,7 +3,32 @@ const comicData = {
     "title": "[NANIMOSHINAI (笹森トモエ)] サキュバステードライフ7(C93)",
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-78504.html",
     "images": [
+        "https://img2.qy0.ru/data/0785/04/03_002.jpg",
+        "https://img2.qy0.ru/data/0785/04/15_014.jpg",
+        "https://img2.qy0.ru/data/0785/04/25_024.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img2.qy0.ru/data/0785/04/18_017.jpg",
+        "https://img2.qy0.ru/data/0785/04/10_009.jpg",
+        "https://img2.qy0.ru/data/0785/04/24_023.jpg",
+        "https://img2.qy0.ru/data/0785/04/08_007.jpg",
+        "https://img2.qy0.ru/data/0785/04/17_016.jpg",
+        "https://img2.qy0.ru/data/0785/04/26_025.jpg",
+        "https://img2.qy0.ru/data/0785/04/21_020.jpg",
+        "https://img2.qy0.ru/data/0785/04/05_004.jpg",
+        "https://img2.qy0.ru/data/0785/04/22_021.jpg",
+        "https://img2.qy0.ru/data/0785/04/13_012.jpg",
+        "https://img2.qy0.ru/data/0785/04/06_005.jpg",
+        "https://img2.qy0.ru/data/0785/04/16_015.jpg",
+        "https://img2.qy0.ru/data/0785/04/20_019.jpg",
+        "https://img2.qy0.ru/data/0785/04/02_000.jpg",
+        "https://img2.qy0.ru/data/0785/04/14_013.jpg",
+        "https://img2.qy0.ru/data/0785/04/04_003.jpg",
         "https://img2.qy0.ru/data/0785/04/01_001.jpg",
-        "https://img2.qy0.ru/data/0785/04/02_000.jpg"
+        "https://img2.qy0.ru/data/0785/04/23_022.jpg",
+        "https://img2.qy0.ru/data/0785/04/11_010.jpg",
+        "https://img2.qy0.ru/data/0785/04/07_006.jpg",
+        "https://img2.qy0.ru/data/0785/04/09_008.jpg",
+        "https://img2.qy0.ru/data/0785/04/19_018.jpg",
+        "https://img2.qy0.ru/data/0785/04/12_011.jpg"
     ]
 };

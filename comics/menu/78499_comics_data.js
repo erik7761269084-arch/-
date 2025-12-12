@@ -2,5 +2,32 @@ const comicData = {
     "IDcode": 78499,
     "title": "[NANIMOSHINAI (笹森トモエ)] サキュバステードライフ3 [空気系☆漢化](C89)",
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-78499.html",
-    "images": []
+    "images": [
+        "https://img2.qy0.ru/data/0784/99/25_024.jpg",
+        "https://img2.qy0.ru/data/0784/99/11_010.jpg",
+        "https://img2.qy0.ru/data/0784/99/12_011.jpg",
+        "https://img2.qy0.ru/data/0784/99/09_008.jpg",
+        "https://img2.qy0.ru/data/0784/99/04_003.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img2.qy0.ru/data/0784/99/22_021.jpg",
+        "https://img2.qy0.ru/data/0784/99/21_020.jpg",
+        "https://img2.qy0.ru/data/0784/99/20_019.jpg",
+        "https://img2.qy0.ru/data/0784/99/03_002.jpg",
+        "https://img2.qy0.ru/data/0784/99/13_012.jpg",
+        "https://img2.qy0.ru/data/0784/99/16_015.jpg",
+        "https://img2.qy0.ru/data/0784/99/15_014.jpg",
+        "https://img2.qy0.ru/data/0784/99/10_009.jpg",
+        "https://img2.qy0.ru/data/0784/99/08_007.jpg",
+        "https://img2.qy0.ru/data/0784/99/02_000.jpg",
+        "https://img2.qy0.ru/data/0784/99/01_001.jpg",
+        "https://img2.qy0.ru/data/0784/99/19_018.jpg",
+        "https://img2.qy0.ru/data/0784/99/23_022.jpg",
+        "https://img2.qy0.ru/data/0784/99/06_005.jpg",
+        "https://img2.qy0.ru/data/0784/99/17_016.jpg",
+        "https://img2.qy0.ru/data/0784/99/14_013.jpg",
+        "https://img2.qy0.ru/data/0784/99/24_023.jpg",
+        "https://img2.qy0.ru/data/0784/99/07_006.jpg",
+        "https://img2.qy0.ru/data/0784/99/05_004.jpg",
+        "https://img2.qy0.ru/data/0784/99/18_017.jpg"
+    ]
 };
