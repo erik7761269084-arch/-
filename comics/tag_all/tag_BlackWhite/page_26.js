@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 11034,
-    "IDcode": "5386",
-    "title": "[こくまろちょうせい豆乳 (オーマンズリーダス)] 透き通るような世界観なのに…Vol.04 (ブルーアーカイブ)",
+    "id": 11895,
+    "IDcode": "6160",
+    "title": "[すえみつぢっか] まけたくないの",
     "year": "",
     "country": "",
     "genre": "",
@@ -12,13 +12,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://i2.iciallo.uk/mangz/ZZ/dcf1cb9967abf821f09e61e3e39959b11/1.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5386"
+    "cover_url": "https://telegra.ph/file/652710f8923707f0c1387.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6160"
   },
   {
-    "id": 11486,
-    "IDcode": "5793",
-    "title": "[こけこっこ★こま] 雨の中走り出せ",
+    "id": 8731,
+    "IDcode": "330",
+    "title": "[すがいし] クイック オア スロー (COMIC 快楽天 2013年7月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -28,13 +28,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/58e8318a47e98d548d7f5.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5793"
+    "cover_url": "https://telegra.ph/file/fc09be8bd8c7fdf018e4c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=330"
   },
   {
-    "id": 9524,
-    "IDcode": "4025",
-    "title": "[ここあんこう] 自堕落マキナの性活 (コミックアンリアル 2021年8月号 Vol.92)",
+    "id": 9840,
+    "IDcode": "430",
+    "title": "[すがいし] クイック オア スロー (COMIC 快楽天 2013年7月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -44,13 +44,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/54385de9b8bd5eb34dbfd.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4025"
+    "cover_url": "https://telegra.ph/file/fc09be8bd8c7fdf018e4c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=430"
   },
   {
-    "id": 7814,
-    "IDcode": "2484",
-    "title": "[ここまち] 2022年1月号",
+    "id": 4173,
+    "IDcode": "1375",
+    "title": "[すぎぢー] しょうじきなカラダ (コミックホットミルク 2022年5月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -60,13 +60,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/79dad79b75b0fb2301d92.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2484"
+    "cover_url": "https://telegra.ph/file/671e41da34ef0bf1e1efd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1375"
   },
   {
-    "id": 11468,
-    "IDcode": "5777",
-    "title": "[こごろー] オセロ",
+    "id": 15240,
+    "IDcode": "9204",
+    "title": "[すぎぢー] カイランズハイ (COMIC 失楽天 2021年11月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -76,13 +76,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/af73e6654977110cad4b3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5777"
+    "cover_url": "https://telegra.ph/file/34a5ce0dce88364d3d0a3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9204"
   },
   {
-    "id": 11794,
-    "IDcode": "606",
-    "title": "[こしの] Ducky (COMIC BAVEL 2022年6月号)",
+    "id": 15262,
+    "IDcode": "9224",
+    "title": "[すぎぢー] カイランズハイ (COMIC 失楽天 2021年11月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -92,13 +92,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/eb75234ca3ad209b1ceb4.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=606"
+    "cover_url": "https://telegra.ph/file/c0dec0a16b1fbfafdc367.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9224"
   },
   {
-    "id": 8947,
-    "IDcode": "3505",
-    "title": "[こしの] Heart Monologue (COMIC BAVEL 2020年7月号)",
+    "id": 11858,
+    "IDcode": "6127",
+    "title": "[すぎぢー] スリップアウト",
     "year": "",
     "country": "",
     "genre": "",
@@ -108,13 +108,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6d5ea0749544b02bf37c4.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3505"
+    "cover_url": "https://telegra.ph/file/4b8467c2b6958daa3dbeb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6127"
   },
   {
-    "id": 6727,
-    "IDcode": "1650",
-    "title": "[こしの] おやすみからおはよう、まで (COMIC BAVEL 2019年5月号)",
+    "id": 15553,
+    "IDcode": "9487",
+    "title": "[すぎぢー] 堕妻ノ情乱 最終話 (コミックホットミルク 2020年8月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -124,13 +124,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/79f86acc0f1f91f3a5d18.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1650"
+    "cover_url": "https://telegra.ph/file/f9a6f270f66885dfe90ef.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9487"
   },
   {
-    "id": 6969,
-    "IDcode": "1723",
-    "title": "[こしの] コントレイル (COMIC BAVEL 2021年2月号)",
+    "id": 115,
+    "IDcode": "10103",
+    "title": "[すぎぢー] 生々ゲーミング (COMIC 失楽天 2020年10月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -140,13 +140,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8e27b6e397adc68ace2dc.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1723"
+    "cover_url": "https://telegra.ph/file/7792e150b4d29f9604037.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10103"
   },
   {
-    "id": 6994,
-    "IDcode": "1746",
-    "title": "[こしの] バスロマン (COMIC BAVEL 2020年2月号)",
+    "id": 11928,
+    "IDcode": "6190",
+    "title": "[すずはねすず] コスは淫らな仮面",
     "year": "",
     "country": "",
     "genre": "",
@@ -156,13 +156,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e6000680fc117b959651b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1746"
+    "cover_url": "https://telegra.ph/file/2301a232e26e5c332c49e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6190"
   },
   {
-    "id": 8196,
-    "IDcode": "2828",
-    "title": "[こしの] ホールインワン (COMIC BAVEL 2021年11月号)",
+    "id": 11595,
+    "IDcode": "5891",
+    "title": "[すたーきー] テンタクルメイデン",
     "year": "",
     "country": "",
     "genre": "",
@@ -172,13 +172,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/7b9e96e205ec4776e91fd.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2828"
+    "cover_url": "https://telegra.ph/file/c8090bdcf8942872765e9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5891"
   },
   {
-    "id": 8704,
-    "IDcode": "3286",
-    "title": "[こしの] 恋愛回路 (COMIC BAVEL 2021年6月号)",
+    "id": 1468,
+    "IDcode": "11322",
+    "title": "[すたーきー] 返り咲く淫魔王 2話 (くっ殺ヒロインズ Vol.7)",
     "year": "",
     "country": "",
     "genre": "",
@@ -188,13 +188,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/387710e82a239ecaa3c53.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3286"
+    "cover_url": "https://telegra.ph/file/8c0da3eeb35fd09fbbd4f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11322"
   },
   {
-    "id": 14434,
-    "IDcode": "847",
-    "title": "[こすび] 委員長が堕とされる漫画 (月ノ美兎)",
+    "id": 6396,
+    "IDcode": "16211",
+    "title": "[すどおかおる] ふたりはオナとも! (彩百合 vol.10) -Preview",
     "year": "",
     "country": "",
     "genre": "",
@@ -204,13 +204,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/69c6b0a4b65c15c2c3c16.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=847"
+    "cover_url": "https://telegra.ph/file/a22aa49301f67943eccd7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16211"
   },
   {
-    "id": 7848,
-    "IDcode": "2514",
-    "title": "[こっそり隠れ処 (あいらんど)] Sword Art Lilycization.Md (ソードアート・オンライン)",
+    "id": 2287,
+    "IDcode": "12061",
+    "title": "[すみすず] 魔法少女マーテルレア",
     "year": "",
     "country": "",
     "genre": "",
@@ -220,13 +220,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cebe67cf502bcc2dceaeb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2514"
+    "cover_url": "https://telegra.ph/file/49216a141f2f78fcc57cd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12061"
   },
   {
-    "id": 6952,
-    "IDcode": "1708",
-    "title": "[こっぺ] そして君は育まれる (COMIC 快楽天ビースト 2021年10月号)",
+    "id": 4166,
+    "IDcode": "13753",
+    "title": "[すみすず] 魔法少女マーテルレア -囚われの魔法少女- (コミックアンリアル 2021年4月号 Vol.90)",
     "year": "",
     "country": "",
     "genre": "",
@@ -236,13 +236,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b00a30f0ba30d665fe6b3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1708"
+    "cover_url": "https://telegra.ph/file/690370c7780396cc9b375.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13753"
   },
   {
-    "id": 9803,
-    "IDcode": "4277",
-    "title": "[こっぺ] ヨルノトバリ (COMIC 快楽天ビースト 2019年7月号)",
+    "id": 9336,
+    "IDcode": "3857",
+    "title": "[すみだれパンツ]女退魔師VS妖怪（中文翻译）",
     "year": "",
     "country": "",
     "genre": "",
@@ -252,13 +252,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/110bb90f01f14ac56c9c4.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4277"
+    "cover_url": "https://telegra.ph/file/17db7a0dd2c47d9711738.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3857"
   },
   {
-    "id": 10770,
-    "IDcode": "5147",
-    "title": "[こっぺ]滴る女 + 4Pリーフレット(单行本)",
+    "id": 383,
+    "IDcode": "10345",
+    "title": "[すみやお] 教授と化け猫 (永遠娘 九)",
     "year": "",
     "country": "",
     "genre": "",
@@ -268,13 +268,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/17f45cfcad2bb52f404f9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5147"
+    "cover_url": "https://telegra.ph/file/10faef7094b81b95011ed.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10345"
   },
   {
-    "id": 12054,
-    "IDcode": "6303",
-    "title": "[こっぽり生ビール] 宵のまにまに",
+    "id": 7411,
+    "IDcode": "2120",
+    "title": "[すーぱーぞんび] おしかりニャンコ (COMIC 快楽天ビースト 2021年12月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -284,13 +284,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cf2c0f6c45fe03acac918.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6303"
+    "cover_url": "https://telegra.ph/file/93247672bc3a4ee3e4f20.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2120"
   },
   {
-    "id": 8912,
-    "IDcode": "3474",
-    "title": "[こまねすと (クックロビン)] DokiDokiラブリーこいしちゃん! (東方Project)",
+    "id": 15763,
+    "IDcode": "9676",
+    "title": "[すーぱーぞんび] おゆかけニャンコ (COMIC 快楽天ビースト 2020年10月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -300,13 +300,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c999af683c1b753e15cc7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3474"
+    "cover_url": "https://telegra.ph/file/f4123d486e814232e6a38.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9676"
   },
   {
-    "id": 14090,
-    "IDcode": "816",
-    "title": "[こめざわ] 今日は特別ナマ配信♡ (COMIC 快楽天 2021年1月号)",
+    "id": 15801,
+    "IDcode": "970",
+    "title": "[すーぱーぞんび] やさぐれうさぎと雨とぼく (COMIC 快楽天ビースト 2022年4月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -316,13 +316,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/27119026c1919cc5f3c45.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=816"
+    "cover_url": "https://telegra.ph/file/e741775afeecad8ead87d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=970"
   },
   {
-    "id": 14101,
-    "IDcode": "817",
-    "title": "[こめざわ] 同じ笑顔で (COMIC 快楽天 2021年11月号)",
+    "id": 11342,
+    "IDcode": "5663",
+    "title": "[せいほうけい] 妹の親友",
     "year": "",
     "country": "",
     "genre": "",
@@ -332,13 +332,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3d5e3e505bff33120d2fa.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=817"
+    "cover_url": "https://telegra.ph/file/5af4c5d10b3afe05fbb08.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5663"
   },
   {
-    "id": 9092,
-    "IDcode": "3637",
-    "title": "[こらんだむ] カーマVSカーマ (Fate/Grand Order)",
+    "id": 11566,
+    "IDcode": "5865",
+    "title": "[せいほうけい] 学級恋愛",
     "year": "",
     "country": "",
     "genre": "",
@@ -348,13 +348,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9fba56358acd049313f54.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3637"
+    "cover_url": "https://telegra.ph/file/0092367c551ca84acacee.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5865"
   },
   {
-    "id": 9055,
-    "IDcode": "3603",
-    "title": "[こらんだむ] セックスを我慢したら出られる部屋",
+    "id": 2674,
+    "IDcode": "1240",
+    "title": "[せぶんがー] あの娘の乳首は開発済",
     "year": "",
     "country": "",
     "genre": "",
@@ -364,13 +364,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/77b4f3d44f553f1b350c9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3603"
+    "cover_url": "https://telegra.ph/file/30d280baace2e1fce6956.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1240"
   },
   {
-    "id": 5338,
-    "IDcode": "1525",
-    "title": "[こらんだむ] メリュ子なんかに絶対負けないマスター (Fate/Grand Order)",
+    "id": 3219,
+    "IDcode": "12900",
+    "title": "[せぶんがー] オス競べ -私の彼とセフレのセンパイ- (COMIC クリベロン DUMA 2022年4月号 Vol.35)",
     "year": "",
     "country": "",
     "genre": "",
@@ -380,13 +380,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/acdffc17755701a6e6e3d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1525"
+    "cover_url": "https://telegra.ph/file/4e1928898fe7025f0f291.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12900"
   },
   {
-    "id": 15867,
-    "IDcode": "976",
-    "title": "[こらんだむ] 傾国 -caution- (Fate/Grand Order)",
+    "id": 4025,
+    "IDcode": "13626",
+    "title": "[せぶんがー] シスターとゴブリンの新婚生活",
     "year": "",
     "country": "",
     "genre": "",
@@ -396,13 +396,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a2c6cf54ad2a9e2f512f8.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=976"
+    "cover_url": "https://telegra.ph/file/8138adc366fc2f54228e6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13626"
   },
   {
-    "id": 7233,
-    "IDcode": "1961",
-    "title": "[こらんだむ] 幼精騎士ロリスタン (Fate/Grand Order)",
+    "id": 3638,
+    "IDcode": "13278",
+    "title": "[せぶんがー] チンハメ争奪トーナメント (コミックホットミルク 2022年9月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -412,13 +412,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f60d2a335d23ee8eec22c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1961"
+    "cover_url": "https://telegra.ph/file/fac6934a2bd0c238d95e3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13278"
   },
   {
-    "id": 9941,
-    "IDcode": "4400",
-    "title": "[こらんだむ] 悪い子たちに教育するマスタ (Fate/Grand Order)",
+    "id": 122,
+    "IDcode": "1010",
+    "title": "[せぶんがー] ミスコン出場巨乳JD おじさんに全裸土下座",
     "year": "",
     "country": "",
     "genre": "",
@@ -428,13 +428,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9d93d48fb82bc322288ef.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4400"
+    "cover_url": "https://telegra.ph/file/7362995dcfa02d7e6d9e2.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1010"
   },
   {
-    "id": 7578,
-    "IDcode": "2271",
-    "title": "[こらんだむ] 最強のエナジードリンクを完成させたロリンチちゃん (Fate/Grand Order)",
+    "id": 355,
+    "IDcode": "1031",
+    "title": "[せぶんがー] 上京した一人娘がAV堕ちして黒人に中田氏される",
     "year": "",
     "country": "",
     "genre": "",
@@ -444,13 +444,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/beab17f2bc390516c62b5.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2271"
+    "cover_url": "https://telegra.ph/file/e95d0e97728895f23c70a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1031"
   },
   {
-    "id": 8520,
-    "IDcode": "3119",
-    "title": "[こらんだむ] 絆Lv10になりたてのバーヴァンシー (Fate/Grand Order)",
+    "id": 3117,
+    "IDcode": "12809",
+    "title": "[せぶんがー] 囚われの女騎士、快楽肉人形にされる",
     "year": "",
     "country": "",
     "genre": "",
@@ -460,13 +460,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3e885ce9fc03fa5265f09.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3119"
+    "cover_url": "https://telegra.ph/file/ad5dd57964ce973639963.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12809"
   },
   {
-    "id": 7991,
-    "IDcode": "2643",
-    "title": "[こらんだむ] 絆レベル別でみるエッチ中の態度 (Fate/Grand Order)",
+    "id": 299,
+    "IDcode": "1026",
+    "title": "[せぶんがー] 女番長無様敗北",
     "year": "",
     "country": "",
     "genre": "",
@@ -476,13 +476,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/f45727afa5edfc9d0752b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2643"
+    "cover_url": "https://telegra.ph/file/02a83e7f69570aa27e5fd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1026"
   },
   {
-    "id": 9419,
-    "IDcode": "3931",
-    "title": "[ころもたけ] 性欲管理検査",
+    "id": 14426,
+    "IDcode": "8472",
+    "title": "[せぶんがー] 嬌声調教合宿 -現役JDモデル 大城冴姫- (COMIC クリベロン DUMA 2021年10月号 Vol.29)",
     "year": "",
     "country": "",
     "genre": "",
@@ -492,13 +492,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1cc0fb7d8f6bd6ec941c0.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3931"
+    "cover_url": "https://telegra.ph/file/999a88aad8d244f6fe92b.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8472"
   },
   {
-    "id": 9515,
-    "IDcode": "4017",
-    "title": "[こんにゃく] おねしょた和希先輩  [進行中]",
+    "id": 3134,
+    "IDcode": "12824",
+    "title": "[せぶんがー] 巨乳マネージャーを快楽調教で堕とす",
     "year": "",
     "country": "",
     "genre": "",
@@ -508,13 +508,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/a7a500b0b23975ae2f03c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4017"
+    "cover_url": "https://telegra.ph/file/fedac3710679ec025525d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12824"
   },
   {
-    "id": 10162,
-    "IDcode": "45",
-    "title": "[こんにゃく] メスガキ店員わからせ中♥ (WEEKLY快楽天 2021 No.47)",
+    "id": 3051,
+    "IDcode": "1274",
+    "title": "[せぶんがー] 巨乳看護師NTR ヤンキー彼氏との変態プレイ流出映像",
     "year": "",
     "country": "",
     "genre": "",
@@ -524,13 +524,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/bb0726002482905d1cc18.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=45"
+    "cover_url": "https://telegra.ph/file/7b91ebb3f17e9a3713609.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1274"
   },
   {
-    "id": 8521,
-    "IDcode": "311",
-    "title": "[こんにゃく] 和希先輩ほんばん",
+    "id": 788,
+    "IDcode": "1070",
+    "title": "[せぶんがー] 年上お姉さんオラオラ系DQNに返り討ちにされ雌堕ち",
     "year": "",
     "country": "",
     "genre": "",
@@ -540,13 +540,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e721ac1eb84601a75870a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=311"
+    "cover_url": "https://telegra.ph/file/1f2ef61e9c2148ea9dcb5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1070"
   },
   {
-    "id": 11031,
-    "IDcode": "5383",
-    "title": "[こんにゃく] 天才オナホ彩香ちゃん",
+    "id": 1132,
+    "IDcode": "1101",
+    "title": "[せぶんがー] 年上チアリーダーの彼女を先輩のデカチンに寝取られる",
     "year": "",
     "country": "",
     "genre": "",
@@ -556,13 +556,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://i2.iciallo.uk/mangz/ZZ/435d24725d7e642817c6784a063f792c1/1.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5383"
+    "cover_url": "https://telegra.ph/file/1739f6e1c047e51dd28b7.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1101"
   },
   {
-    "id": 8674,
-    "IDcode": "3259",
-    "title": "[こーひーめーかー (朝峰テル)] 紫式部搾精本。 (Fate/Grand Order)",
+    "id": 310,
+    "IDcode": "1027",
+    "title": "[せぶんがー] 幼馴染の新人教師のお姉さんがヤンキー男子に調教され尽くしてた",
     "year": "",
     "country": "",
     "genre": "",
@@ -572,13 +572,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b1cc4d2a2cc7a7f06359c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3259"
+    "cover_url": "https://telegra.ph/file/8232a556ea5e1840a32fd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1027"
   },
   {
-    "id": 11349,
-    "IDcode": "566",
-    "title": "[こーり] 恭子さんには敵わない (COMIC BAVEL 2022年3月号)",
+    "id": 1198,
+    "IDcode": "1107",
+    "title": "[せぶんがー] 彼氏持ちJK 円〇おじさんに中田氏を決められる",
     "year": "",
     "country": "",
     "genre": "",
@@ -588,13 +588,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/819c59053d0ecd4199592.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=566"
+    "cover_url": "https://telegra.ph/file/8e33e176f4e5d3aff234f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1107"
   },
   {
-    "id": 7767,
-    "IDcode": "2441",
-    "title": "[ごさいじ] アマイアイマイ -前編- (COMIC 快楽天 2022年4月号)",
+    "id": 3933,
+    "IDcode": "13543",
+    "title": "[せぶんがー] 敗戦国のシスター、ゴブリンと結婚させられる。",
     "year": "",
     "country": "",
     "genre": "",
@@ -604,13 +604,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c4596dd3ed2194051661f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2441"
+    "cover_url": "https://telegra.ph/file/33fe47a336dfc56e27f21.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13543"
   },
   {
-    "id": 10808,
-    "IDcode": "5181",
-    "title": "[ごさいじ] アマイアイマイ -後編- (COMIC快楽天 2022年4月号) [MJK-22-Z2758]",
+    "id": 4319,
+    "IDcode": "13891",
+    "title": "[せぶんがー] 旦那が出張中にセフレとやりまくる人妻NTR",
     "year": "",
     "country": "",
     "genre": "",
@@ -620,13 +620,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/03690b1623f18017aa216.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5181"
+    "cover_url": "https://telegra.ph/file/2110dcfb91108364d6a5f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13891"
   },
   {
-    "id": 10807,
-    "IDcode": "5180",
-    "title": "[ごさいじ] アマイアイマイ-前篇- (COMIC快楽天 2022年4月号) [MJK-22-Z2707]",
+    "id": 7113,
+    "IDcode": "1853",
+    "title": "[せぶんがー] 粗チンから女の子を救う会 (コミックホットミルク 2022年3月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -636,13 +636,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/349af4198ed5e04f88e48.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5180"
+    "cover_url": "https://telegra.ph/file/1ec59a4b7f01ea0e10222.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1853"
   },
   {
-    "id": 6995,
-    "IDcode": "1747",
-    "title": "[ごさいじ] レイヤー彼女は推し作家の夢を見るか (COMIC アンスリウム 2021年10月号)",
+    "id": 11260,
+    "IDcode": "558",
+    "title": "[せぶんがー] 続あの子の乳首は開発済",
     "year": "",
     "country": "",
     "genre": "",
@@ -652,13 +652,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d1b58e95b6892de920029.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1747"
+    "cover_url": "https://telegra.ph/file/7fcfcb24c083198534022.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=558"
   },
   {
-    "id": 10832,
-    "IDcode": "5202",
-    "title": "[ごさいじ] 卒業reward ~fin~ (COMIC快楽天 2021年3月号) [MJK-22-Z2762]",
+    "id": 3133,
+    "IDcode": "12823",
+    "title": "[せぶんがー] 続・年上チアリーダーの彼女を先輩のデカチンに寝取られる",
     "year": "",
     "country": "",
     "genre": "",
@@ -668,13 +668,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ff111f25bd3d3044932f1.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5202"
+    "cover_url": "https://telegra.ph/file/c3ee9b4b520bdc4c234c6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12823"
   },
   {
-    "id": 9178,
-    "IDcode": "3714",
-    "title": "[ごさいじ] 同人作家は売れっ子作家の夢を見るか (COMIC アンスリウム 2022年1月号)",
+    "id": 3923,
+    "IDcode": "13534",
+    "title": "[せぶんがー] 続続あの子の乳首は開発済",
     "year": "",
     "country": "",
     "genre": "",
@@ -684,13 +684,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cefda889a916ed35b2fc2.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3714"
+    "cover_url": "https://telegra.ph/file/bca6c156c0e44987ad592.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13534"
   },
   {
-    "id": 7178,
-    "IDcode": "1911",
-    "title": "[ごてん] スライム危機イッパツ! (異世快楽天 Vol.6)",
+    "id": 15428,
+    "IDcode": "9374",
+    "title": "[せぶんがー] 見ず知らずの黒人にすっかり変えられてしまった僕の彼女",
     "year": "",
     "country": "",
     "genre": "",
@@ -700,13 +700,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e46c1545bbc22018d2b74.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1911"
+    "cover_url": "https://telegra.ph/file/5c7b574f3b553fc7d6a00.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9374"
   },
   {
-    "id": 11212,
-    "IDcode": "5546",
-    "title": "[ごばん] Please kiss me",
+    "id": 4038,
+    "IDcode": "13638",
+    "title": "[せぶんがー] 馬にされたあの娘 高身長バレー部女子",
     "year": "",
     "country": "",
     "genre": "",
@@ -716,13 +716,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b7e7ad5f4e01ac85fff7a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5546"
+    "cover_url": "https://telegra.ph/file/876b8e96e416c759ed04c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13638"
   },
   {
-    "id": 8643,
-    "IDcode": "3230",
-    "title": "[ごむはち (ゴム)] Temptation (プリンセスコネクト!Re:Dive)",
+    "id": 2703,
+    "IDcode": "12436",
+    "title": "[せみもぐら (由家)] 4,5時間目",
     "year": "",
     "country": "",
     "genre": "",
@@ -732,13 +732,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4b828f7a66135abbcbd8a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3230"
+    "cover_url": "https://telegra.ph/file/eb02dfeb959dfc642ac78.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12436"
   },
   {
-    "id": 11962,
-    "IDcode": "6220",
-    "title": "[ごや] バブ堕ち 中編",
+    "id": 8571,
+    "IDcode": "3166",
+    "title": "[そら豆さん] アブナイ隣人♥ (COMIC BAVEL 2022年2月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -748,13 +748,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c6484edc3858b810c5fd9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6220"
+    "cover_url": "https://telegra.ph/file/946874b3cb5d09f7c4ae6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3166"
   },
   {
-    "id": 3140,
-    "IDcode": "1282",
-    "title": "[ごるごんぞーら] 藤原書記コレクション (かぐや様は告らせたい)",
+    "id": 4072,
+    "IDcode": "13669",
+    "title": "[そら豆さん] ドキドキ痴漢キュン♥ (COMIC BAVEL 2022年10月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -764,13 +764,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b7347b3c6e8f3947e0b85.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1282"
+    "cover_url": "https://telegra.ph/file/6cb8506e60f3fde23ef0e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13669"
   },
   {
-    "id": 10889,
-    "IDcode": "5255",
-    "title": "[さいおがうま] とろネコメイドのエレーナさん (COMIC 快楽天ビースト 2023年5月号) 中文翻譯",
+    "id": 15046,
+    "IDcode": "902",
+    "title": "[そら豆さん] ナマイキ催眠術♥ (COMIC BAVEL 2022年5月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -780,13 +780,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ebf794e6028944315ac81.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5255"
+    "cover_url": "https://telegra.ph/file/beedf33db623080f0e05c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=902"
   },
   {
-    "id": 10360,
-    "IDcode": "4779",
-    "title": "[さいこ] 弁護士 (おにれんぼ)",
+    "id": 6934,
+    "IDcode": "1692",
+    "title": "[そら豆さん] 巫女さんの鬼退治 (コミックエウロパ vol.11)",
     "year": "",
     "country": "",
     "genre": "",
@@ -796,13 +796,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/dda19b242c9236851b626.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4779"
+    "cover_url": "https://telegra.ph/file/9e81f6d7da85c54d19a4a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1692"
   },
   {
-    "id": 11076,
-    "IDcode": "5423",
-    "title": "[さいもん] Love & Sick",
+    "id": 4087,
+    "IDcode": "13682",
+    "title": "[そら豆さん] 童貞くんはモテ期 (COMIC BAVEL 2022年7月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -812,13 +812,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0dbf266f577e9ae73262e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5423"
+    "cover_url": "https://telegra.ph/file/f391d85a5160b0028d76f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13682"
   },
   {
-    "id": 8023,
-    "IDcode": "2672",
-    "title": "[さいもん] Loveリスタート！ (コミック エグゼ 32)",
+    "id": 3323,
+    "IDcode": "12995",
+    "title": "[そら豆さん] 童貞カウンセリング♥ (COMIC BAVEL 2022年8月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -828,13 +828,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/71704b5ae748e2818c99c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2672"
+    "cover_url": "https://telegra.ph/file/da2403d72bf71d322bdb5.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12995"
   },
   {
-    "id": 7570,
-    "IDcode": "2264",
-    "title": "[さいもん] コハルブレイク! (コミック エグゼ 35)",
+    "id": 11223,
+    "IDcode": "5556",
+    "title": "[そりむらようじ] ロリビッチかうんせりんぐ",
     "year": "",
     "country": "",
     "genre": "",
@@ -844,13 +844,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d8b701925dc33dee7d03d.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2264"
+    "cover_url": "https://telegra.ph/file/ebb8324685be62dca33fc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5556"
   },
   {
-    "id": 11717,
-    "IDcode": "5",
-    "title": "[さいもん] 曇りガラスの向こうの中で (初恋時間。)",
+    "id": 7289,
+    "IDcode": "2010",
+    "title": "[ぞんだ] トライアングル (COMIC マグナムX Vol.29)",
     "year": "",
     "country": "",
     "genre": "",
@@ -860,13 +860,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b83f488ab23a46bb1a41b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5"
+    "cover_url": "https://telegra.ph/file/d9ba7cb4d571ca6b7bc5e.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2010"
   },
   {
-    "id": 7655,
-    "IDcode": "2340",
-    "title": "[さがみおきば (さがみ)] クラスの女子に女装させられて犯されちゃう",
+    "id": 11934,
+    "IDcode": "6196",
+    "title": "[ぞんだ] ナマ☆イキ",
     "year": "",
     "country": "",
     "genre": "",
@@ -876,13 +876,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/93a4fd02589cad142c427.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2340"
+    "cover_url": "https://telegra.ph/file/af509bc3c1776b44c7ef6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6196"
   },
   {
-    "id": 15623,
-    "IDcode": "954",
-    "title": "[さがみおきば (さがみゆき)] 男の子さらって女装させる部 ～可愛い男の子を女装男子に目覚めさせよう！～",
+    "id": 1789,
+    "IDcode": "11611",
+    "title": "[ぞんだ] フェラチオ研究部 第1話 (COMIC 夢幻転生 2020年12月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -892,13 +892,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0340a2822b9d7dc4b822e.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=954"
+    "cover_url": "https://telegra.ph/file/7df4abd3f9eaa40e79cfc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11611"
   },
   {
-    "id": 9656,
-    "IDcode": "4144",
-    "title": "[さくま司] 桃色ドロップ",
+    "id": 10094,
+    "IDcode": "4539",
+    "title": "[ぞんだ] フェラチオ研究部 第2話 (COMIC 夢幻転生 2021年7月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -908,13 +908,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/4d1ef5b23854615c929a6.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4144"
+    "cover_url": "https://telegra.ph/file/3e1e3aae0c97c00d2f2cd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4539"
   },
   {
-    "id": 12149,
-    "IDcode": "638",
-    "title": "[さくらがーでん (しろすず)] かるでああうとどあちゃれんじ アビーちゃんと一緒3 (Fate/Grand Order)",
+    "id": 15431,
+    "IDcode": "9377",
+    "title": "[ぞんだ] フェラチオ研究部 第3話 (COMIC 夢幻転生 2022年2月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -924,13 +924,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ea66bc67c902cc5c627d7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=638"
+    "cover_url": "https://telegra.ph/file/ff19728802b80f5b7c462.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9377"
   },
   {
-    "id": 8608,
-    "IDcode": "319",
-    "title": "[さくらがーでん (しろすず)] マスターさんをこらしめ穴でおしおきしてあげまーす (Fate/Grand Order)",
+    "id": 3220,
+    "IDcode": "12901",
+    "title": "[ぞんだ] フェラチオ研究部 第4話 (COMIC 夢幻転生 2022年6月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -940,13 +940,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fc9ec1e31d2ffd0d65057.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=319"
+    "cover_url": "https://telegra.ph/file/66999cd1dd4c97cc0d819.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12901"
   },
   {
-    "id": 9717,
-    "IDcode": "419",
-    "title": "[さくらがーでん (しろすず)] マスターさんをこらしめ穴でおしおきしてあげまーす (Fate/Grand Order)",
+    "id": 11935,
+    "IDcode": "6197",
+    "title": "[ぞんだ] 再壊",
     "year": "",
     "country": "",
     "genre": "",
@@ -956,13 +956,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fc9ec1e31d2ffd0d65057.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=419"
+    "cover_url": "https://telegra.ph/file/82ae6e719224a5b5af782.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6197"
   },
   {
-    "id": 8360,
-    "IDcode": "2976",
-    "title": "[さくらぷちろー] にょたなづま (にょたいか！ものがたり)",
+    "id": 11943,
+    "IDcode": "6203",
+    "title": "[ぞんだ] 寝取り屋本舗",
     "year": "",
     "country": "",
     "genre": "",
@@ -972,13 +972,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2a104d1f713fd7f3732c3.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2976"
+    "cover_url": "https://telegra.ph/file/19753f58eb9e0fb40e3c4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6203"
   },
   {
-    "id": 11414,
-    "IDcode": "5728",
-    "title": "[さくらぷちろー] 幼馴染は眠り姫",
+    "id": 11157,
+    "IDcode": "5497",
+    "title": "[たいばんステーキ] 同情から始まる女装のすすめ",
     "year": "",
     "country": "",
     "genre": "",
@@ -988,13 +988,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/21433547539242c5cbc9a.png",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5728"
+    "cover_url": "https://telegra.ph/file/838cec220b1f67e167b34.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5497"
   },
   {
-    "id": 7659,
-    "IDcode": "2344",
-    "title": "[ささちん] おしかけ×2♡ (COMIC BAVEL 2022年4月号)",
+    "id": 3793,
+    "IDcode": "13417",
+    "title": "[たかしな浅妃] お姉ちゃんのこっそり♥甘やかセックス (コミック エグゼ 37)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1004,13 +1004,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8c6e4970fb5eb9e21d206.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2344"
+    "cover_url": "https://telegra.ph/file/f1629b5657e7746c03994.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13417"
   },
   {
-    "id": 10214,
-    "IDcode": "4647",
-    "title": "[ささちん] むーでぃーべいびー♥ (COMIC BAVEL 2020年5月号)",
+    "id": 14597,
+    "IDcode": "8626",
+    "title": "[たかしな浅妃] お姉ちゃんの幸せ甘やかし計画 (COMIC ExE 33)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1020,13 +1020,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3ff5b6a11c965080db760.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4647"
+    "cover_url": "https://telegra.ph/file/e4cd1a61f6a8af61a371a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8626"
   },
   {
-    "id": 10527,
-    "IDcode": "4929",
-    "title": "[ささちん] 理想のカノジョ2 (COMIC BAVEL 2021年8月号)",
+    "id": 4003,
+    "IDcode": "13606",
+    "title": "[たかしな浅妃] お姉ちゃんの甘やか♥おやすみタイム (コミック エグゼ 35)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1036,13 +1036,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c9b480a4c9f4a5dde9048.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4929"
+    "cover_url": "https://telegra.ph/file/9a0a82a470b3671ed85fb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13606"
   },
   {
-    "id": 8319,
-    "IDcode": "2939",
-    "title": "[さざれいと (大仲いと)] わたし…変えられちゃいました。―アラサーOLがヤリチン大学生達のチ○ポにドハマリするまで―",
+    "id": 7005,
+    "IDcode": "1756",
+    "title": "[たかのゆき] みんな発情期!",
     "year": "",
     "country": "",
     "genre": "",
@@ -1052,13 +1052,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c53e6256081d97b924511.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2939"
+    "cover_url": "https://telegra.ph/file/5b0267b6b6cb3d2602638.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1756"
   },
   {
-    "id": 9579,
-    "IDcode": "4075",
-    "title": "[さざれいと (大仲いと)] 雌犬契約 快楽堕ちマコト (プリンセスコネクト!Re:Dive)",
+    "id": 261,
+    "IDcode": "10235",
+    "title": "[たかのゆき] ツルツルぱんすとのおんがえし (COMIC 阿吽 2018年8月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1068,13 +1068,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c02bc0d8934d1a147104a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4075"
+    "cover_url": "https://telegra.ph/file/c46feaf332b0884757e21.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10235"
   },
   {
-    "id": 8019,
-    "IDcode": "2669",
-    "title": "[さしみ定食 (さしみ)] 人妻NTR家族旅行",
+    "id": 12056,
+    "IDcode": "6305",
+    "title": "[たかやKi] ドキドキ★コミュニティーライフ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1084,13 +1084,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/8bc01d7cee3f970ee3819.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2669"
+    "cover_url": "https://telegra.ph/file/8f6324b60cbd0900e4818.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6305"
   },
   {
-    "id": 11380,
-    "IDcode": "5698",
-    "title": "[さじぺん] 彼女はＨなゲーム脳",
+    "id": 11532,
+    "IDcode": "5834",
+    "title": "[たかやKi] 年下しんどろ～む",
     "year": "",
     "country": "",
     "genre": "",
@@ -1100,13 +1100,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/62ef909e8220c9e2a5491.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5698"
+    "cover_url": "https://telegra.ph/file/b02c15b14be49ddc4aedb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5834"
   },
   {
-    "id": 7519,
-    "IDcode": "2218",
-    "title": "[さすまたせぶん (あって七草)] シィちゃんのちっちゃい本 (Tokyo 7th シスターズ)",
+    "id": 9415,
+    "IDcode": "3928",
+    "title": "[たかやKi] 恋糸記念日 新装版",
     "year": "",
     "country": "",
     "genre": "",
@@ -1116,13 +1116,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e48715b2bcee902249a66.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2218"
+    "cover_url": "https://telegra.ph/file/febf7af9e85628b9a15ec.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3928"
   },
   {
-    "id": 7520,
-    "IDcode": "2219",
-    "title": "[さすまたせぶん (あって七草)] チチのえっちな花嫁修行 (ドラゴンボール)",
+    "id": 9850,
+    "IDcode": "4319",
+    "title": "[たくみ屋 (ごばん)] いきなり子作り活動2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1132,13 +1132,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cfd1307c1591aedc917ea.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2219"
+    "cover_url": "https://telegra.ph/file/a962f20cb1e98539e03eb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4319"
   },
   {
-    "id": 7119,
-    "IDcode": "1859",
-    "title": "[さなつき] アライズ即堕ち漫画 (テイルズオブアライズ)（流木个人汉化）",
+    "id": 11797,
+    "IDcode": "6072",
+    "title": "[たじ] 囚獄のエルフ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1148,13 +1148,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/88868e5f242f9f6e2a783.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1859"
+    "cover_url": "https://telegra.ph/file/3fcc084b69adcd800b89d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6072"
   },
   {
-    "id": 10255,
-    "IDcode": "4684",
-    "title": "[さやかた紅茶館 (さやかたかつみ)] 幻想郷淫語ラップ選手権 (東方Project)",
+    "id": 2984,
+    "IDcode": "1268",
+    "title": "[たつか] 初情期 (COMIC アンスリウム 2022年3月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1164,13 +1164,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/71d94099ab09a3a31c7ab.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4684"
+    "cover_url": "https://telegra.ph/file/3ec3047f512a42a920694.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1268"
   },
   {
-    "id": 9631,
-    "IDcode": "4121",
-    "title": "[さわお] ジルのリハビリ (バイオハザード) [進行中](中文翻译)",
+    "id": 8216,
+    "IDcode": "2846",
+    "title": "[たつか] 性長期 (COMIC アンスリウム 2021年11月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1180,13 +1180,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b146c8b6f941b98daee22.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4121"
+    "cover_url": "https://telegra.ph/file/a27f0b3cc2cede618c4e6.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2846"
   },
   {
-    "id": 9042,
-    "IDcode": "3592",
-    "title": "[さんじゅうろう]フラストレーション (コミックゼロス #94)",
+    "id": 4624,
+    "IDcode": "14165",
+    "title": "[たつか] 約束の続きを (COMIC アンスリウム 2021年7月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1196,13 +1196,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/977e8b11190655daf6301.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3592"
+    "cover_url": "https://telegra.ph/file/2161657b713cbee2fe48a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14165"
   },
   {
-    "id": 10515,
-    "IDcode": "4918",
-    "title": "[さんじろ♨] なつみめもりある  [肉包汉化组]",
+    "id": 170,
+    "IDcode": "10153",
+    "title": "[たつか] 誘写 (COMIC アンスリウム 2020年10月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1212,13 +1212,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5ce185dd3ba289b9087c5.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4918"
+    "cover_url": "https://telegra.ph/file/7454dc0baba332abff992.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10153"
   },
   {
-    "id": 2840,
-    "IDcode": "1255",
-    "title": "[さーくるスパイス] 息子に会いに上京した母",
+    "id": 12002,
+    "IDcode": "6257",
+    "title": "[たにし] トラップ式はんてぃんぐ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1228,13 +1228,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/298fabfb62399eaf83eb7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1255"
+    "cover_url": "https://telegra.ph/file/a7ebf6699f20cbb89288d.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6257"
   },
   {
-    "id": 8062,
-    "IDcode": "2707",
-    "title": "[さーくるスパイス] 息子に何度も口説かれて根負けした母",
+    "id": 10531,
+    "IDcode": "4932",
+    "title": "[たにし] 勇者くんと賢者のエルフさん♥",
     "year": "",
     "country": "",
     "genre": "",
@@ -1244,13 +1244,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/95c395bba599e773c0c7f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2707"
+    "cover_url": "https://telegra.ph/file/6eb0d7b27c73214abc930.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4932"
   },
   {
-    "id": 3040,
-    "IDcode": "1273",
-    "title": "[さーくるスパイス] 息子に弱みを握られた元ヤンの母",
+    "id": 11999,
+    "IDcode": "6254",
+    "title": "[たにし] 大小らばーず",
     "year": "",
     "country": "",
     "genre": "",
@@ -1260,13 +1260,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ee1adf78098c1f9222ab8.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1273"
+    "cover_url": "https://telegra.ph/file/eb89f77c7275fdd83c8d8.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6254"
   },
   {
-    "id": 7643,
-    "IDcode": "232",
-    "title": "[さーくるスパイス] 未亡人の母・小夜子～四畳半に住む親子の交尾記録～",
+    "id": 12000,
+    "IDcode": "6255",
+    "title": "[たにし] 縁結びのお毛々",
     "year": "",
     "country": "",
     "genre": "",
@@ -1276,13 +1276,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/1be491d8b1a61b3558e6b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=232"
+    "cover_url": "https://telegra.ph/file/0a43e3c215c9fea7c34ea.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6255"
   },
   {
-    "id": 2296,
-    "IDcode": "1206",
-    "title": "[ざわぱれっと (逢沢もにょ)] あまくちサキュバス",
+    "id": 10476,
+    "IDcode": "4883",
+    "title": "[たぬきんぐすりーぷ (ドラチェフ)] シコヌキでメリクリ!! (Fate/Grand Order)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1292,13 +1292,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2054a361cd79200c69541.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1206"
+    "cover_url": "https://telegra.ph/file/8d18882536569027572b3.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4883"
   },
   {
-    "id": 6283,
-    "IDcode": "1610",
-    "title": "[ざんか] いつでもメイドさんを誘惑するお嬢様",
+    "id": 9599,
+    "IDcode": "4093",
+    "title": "[たねなしくりぼ] JK愛玩痴育日誌 3話",
     "year": "",
     "country": "",
     "genre": "",
@@ -1308,13 +1308,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c687b04c0effa72864ee2.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1610"
+    "cover_url": "https://telegra.ph/file/b2556716b302dba377f40.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4093"
   },
   {
-    "id": 7891,
-    "IDcode": "2553",
-    "title": "[ざんか] お仕置きされたいメイドさんとしたいお嬢様",
+    "id": 9600,
+    "IDcode": "4094",
+    "title": "[たねなしくりぼ] JK愛玩痴育日誌 4話",
     "year": "",
     "country": "",
     "genre": "",
@@ -1324,13 +1324,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d6d39dd58bac5560944a8.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2553"
+    "cover_url": "https://telegra.ph/file/e5fbaf1b313e41d05f5bf.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4094"
   },
   {
-    "id": 15024,
-    "IDcode": "900",
-    "title": "[ざんか] お仕置きしたいお嬢様とされたいメイドさん",
+    "id": 15401,
+    "IDcode": "934",
+    "title": "[たまごろー] ぼくとお姉さんのナイショ (ハメトモコレクション)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1340,13 +1340,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/38a787571de8e83571906.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=900"
+    "cover_url": "https://telegra.ph/file/ab8957644acf86928f5d4.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=934"
   },
   {
-    "id": 7493,
-    "IDcode": "2195",
-    "title": "[ざんか] お嬢様にいけないことしちゃうメイドさん [中国語翻訳]",
+    "id": 11369,
+    "IDcode": "5688",
+    "title": "[たまごろー] タノシイコト",
     "year": "",
     "country": "",
     "genre": "",
@@ -1356,13 +1356,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/afd9277c16c81df585ebb.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2195"
+    "cover_url": "https://telegra.ph/file/bfe1829bfbde8aec56aa8.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5688"
   },
   {
-    "id": 14135,
-    "IDcode": "820",
-    "title": "[ざんか] メイドさんに縛られたいお嬢様",
+    "id": 9975,
+    "IDcode": "4431",
+    "title": "[たまごろー] ハメトモコレクション 第1-3話   [个人简单重嵌]",
     "year": "",
     "country": "",
     "genre": "",
@@ -1372,13 +1372,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/80e0acf97262da06cb707.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=820"
+    "cover_url": "https://telegra.ph/file/ef997b024b42e164c2908.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4431"
   },
   {
-    "id": 7143,
-    "IDcode": "1880",
-    "title": "[ざんか] メイドさんを求めるお嬢様",
+    "id": 11363,
+    "IDcode": "5682",
+    "title": "[たまごろー] 男子堕落委員会",
     "year": "",
     "country": "",
     "genre": "",
@@ -1388,13 +1388,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/149298918b46ba61c147a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1880"
+    "cover_url": "https://telegra.ph/file/0d9e6818fc09fcc0e113f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5682"
   },
   {
-    "id": 14123,
-    "IDcode": "819",
-    "title": "[ざんか] メイドさんを誘惑するお嬢様",
+    "id": 11366,
+    "IDcode": "5685",
+    "title": "[たまごろー] 男子更生委員会",
     "year": "",
     "country": "",
     "genre": "",
@@ -1404,13 +1404,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/108a5689151e55fc34ebf.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=819"
+    "cover_url": "https://telegra.ph/file/472ba32ae75eb1579b66c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5685"
   },
   {
-    "id": 5527,
-    "IDcode": "1542",
-    "title": "[ざんか] 双子メイドさんに取り合いされるお嬢様",
+    "id": 11444,
+    "IDcode": "5755",
+    "title": "[たまごろー] 男子更生委員会 対 男子堕落委員会",
     "year": "",
     "country": "",
     "genre": "",
@@ -1420,13 +1420,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/17b3b39da2bb5c273a98a.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1542"
+    "cover_url": "https://telegra.ph/file/f49ab4108f14c73079e4f.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5755"
   },
   {
-    "id": 7890,
-    "IDcode": "2552",
-    "title": "[ざんか] 狐耳メイドさんとお嬢様の夜",
+    "id": 9173,
+    "IDcode": "370",
+    "title": "[たまたま山脈 (たまたぬき)] くノ一あざみが堕ちるまで 2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1436,13 +1436,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/43edc3bd25789f6716ef7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2552"
+    "cover_url": "https://telegra.ph/file/079350c44b0a6d502cad9.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=370"
   },
   {
-    "id": 9690,
-    "IDcode": "4175",
-    "title": "[しあし屋] Mama♥Lover -Summertime!",
+    "id": 10276,
+    "IDcode": "4702",
+    "title": "[たまたま山脈 (たまたぬき)] オナニー大好き姫様と秘密の深夜交配",
     "year": "",
     "country": "",
     "genre": "",
@@ -1452,13 +1452,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/26d2bcfeee5cdc63d9fc9.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4175"
+    "cover_url": "https://telegra.ph/file/9ba8f1652bf50bb20aa90.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4702"
   },
   {
-    "id": 9667,
-    "IDcode": "4154",
-    "title": "[しあし屋] 昔家族を裏切った母はやっぱり今もドスケベでした。",
+    "id": 10564,
+    "IDcode": "4962",
+    "title": "[たまび] ここから (COMIC アンスリウム 2021年10月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1468,13 +1468,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9c222d228a0458d889237.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4154"
+    "cover_url": "https://telegra.ph/file/40fdc489c5525a4b4e2ea.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4962"
   },
   {
-    "id": 7979,
-    "IDcode": "2632",
-    "title": "[しいたけ農園 (Kanabun)] ほけんしつでいろいろする",
+    "id": 7058,
+    "IDcode": "1803",
+    "title": "[たまび] ベストカップルの条件 (COMIC アンスリウム 2022年2月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1484,13 +1484,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9096887e31a9c33895344.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2632"
+    "cover_url": "https://telegra.ph/file/c9823391f2478c95c5c5a.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1803"
   },
   {
-    "id": 10181,
-    "IDcode": "4617",
-    "title": "[しいたけ農園 (Kanabun)] ビーチであそぼ  [進行中]",
+    "id": 10542,
+    "IDcode": "4942",
+    "title": "[たまび] 怖がりはどっち？ (COMIC アンスリウム 2021年8月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1500,13 +1500,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/55302774436b702069b41.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4617"
+    "cover_url": "https://telegra.ph/file/f54e4c83aed283a646dad.png",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4942"
   },
   {
-    "id": 10274,
-    "IDcode": "4700",
-    "title": "[しいたけ農園 (kanabun)] 花岡 ゆりx 木谷 千沙 - はじめてのアルバイト",
+    "id": 1320,
+    "IDcode": "1118",
+    "title": "[たまび] 言わない関係 (COMIC アンスリウム 2022年4月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1516,13 +1516,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/acbf9ecb29dc8d764ddb7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4700"
+    "cover_url": "https://telegra.ph/file/c5a547537c5786b73bccd.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1118"
   },
   {
-    "id": 8135,
-    "IDcode": "2773",
-    "title": "[しいねこ]【ソープランドカルデア】風俗嬢・ブーディカ～",
+    "id": 8473,
+    "IDcode": "3077",
+    "title": "[たまび] 鍋と雪と本音 (COMIC アンスリウム 2021年12月号)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1532,13 +1532,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/cf8133e0b245601b245e7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2773"
+    "cover_url": "https://telegra.ph/file/3da26c166a592ed686e05.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=3077"
   },
   {
-    "id": 9745,
-    "IDcode": "4224",
-    "title": "[しいねこ]【番外編】【ソープランド♥カルデア】乳牛家畜ハーレム♥～その１～ (Fate/Grand Order)",
+    "id": 7964,
+    "IDcode": "2619",
+    "title": "[たまランド (たまの父)] 暴挙暴行百合暴力",
     "year": "",
     "country": "",
     "genre": "",
@@ -1548,13 +1548,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/b4b2e2d64fd37a7a36f9f.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=4224"
+    "cover_url": "https://telegra.ph/file/9e9f8bc4efa267e00d809.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=2619"
   },
   {
-    "id": 9162,
-    "IDcode": "36",
-    "title": "[しぐにゃん (しぐにゃん)] エマにおねがい 寅",
+    "id": 11387,
+    "IDcode": "5703",
+    "title": "[たらぞお] ナイトwithにゃんこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1564,13 +1564,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/98cd3c259092ee91589a7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=36"
+    "cover_url": "https://telegra.ph/file/b3dc79ecd50ea6962cfbc.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=5703"
   },
   {
-    "id": 3740,
-    "IDcode": "1336",
-    "title": "[しぐまりお] 「面接中なのにセックスしたい…!」新卒女子を100%イかす媚薬アロマ",
+    "id": 11865,
+    "IDcode": "6133",
+    "title": "[たらぞお] 八百屋小町",
     "year": "",
     "country": "",
     "genre": "",
@@ -1580,13 +1580,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/d1c5a7f9ad8d3fa8a2850.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1336"
+    "cover_url": "https://telegra.ph/file/de9043c0b7568ac6992bb.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6133"
   },
   {
-    "id": 654,
-    "IDcode": "1058",
-    "title": "[ししおとめ (ししを)] ド田舎サンドイッチ ～全校生徒三名の学校で女子二人のオモチャにされる僕～",
+    "id": 11920,
+    "IDcode": "6183",
+    "title": "[たろプン] Linked Mirror",
     "year": "",
     "country": "",
     "genre": "",
@@ -1596,7 +1596,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://telegra.ph/file/baa200ee4e30ec2cf7ff7.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=1058"
+    "cover_url": "https://telegra.ph/file/fe62e07044447ac6d9314.png",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=6183"
   }
 ];

@@ -1,37 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 6098,
-    "IDcode": "15944",
-    "title": "(C101) [ぐつとま (タチ)] お嬢様は百合メイドに挟まりたくない! -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/e7ae4e18a9ab07fa3b28c.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15944"
-  },
-  {
-    "id": 6141,
-    "IDcode": "15983",
-    "title": "(C101) [ざわめきじゃんぼ (ざわめき)] よくばりなあたしたち (BanG Dream!) -Preview",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/6a660e78b3785241c0f65.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15983"
-  },
-  {
     "id": 6311,
     "IDcode": "16135",
     "title": "(C101) [にらたま(せきはら)] 媚薬飲まないと出られない部屋MG (Fate/Grand Order) -Preview",
@@ -1598,5 +1566,37 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://i2.linghua.xyz/ex/3164489/57b727cac1/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16427"
+  },
+  {
+    "id": 6413,
+    "IDcode": "16227",
+    "title": "(C104) [美術部 (しづきみちる)] La ビアン2 -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3053013/3cdd66913a/0.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16227"
+  },
+  {
+    "id": 6674,
+    "IDcode": "16462",
+    "title": "(C105) [EDGE WORTH (ぞくさん)] キミと一緒にわんだふる!!2 (わんだふるぷりきゅあ!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://i2.linghua.xyz/ex/3201040/03a09b28ed/001_0.webp",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16462"
   }
 ];

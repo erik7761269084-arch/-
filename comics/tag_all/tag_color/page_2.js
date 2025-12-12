@@ -1312,22 +1312,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13614"
   },
   {
-    "id": 3642,
-    "IDcode": "13281",
-    "title": "(C100) [自宅vacation (うるりひ)] Limited SUKEBE Works in C100 (アイドルマスター シャイニーカラーズ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/c38d4c2ac7c61212b7b2b.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13281"
-  },
-  {
     "id": 3724,
     "IDcode": "13355",
     "title": "(C100) [自宅vacation (うるりひ)] SUKEBE ORDER VOL.3 (Fate/Grand Order)",
@@ -1552,22 +1536,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15391"
   },
   {
-    "id": 5489,
-    "IDcode": "15396",
-    "title": "(C101) [Toriko Trick (Shiratama Moti)] Momoi &amp; Midori | 小绿桃井 (Byuru Archive Blue Archive Ecchi Goudou) (Blue Archive)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "彩色"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/255f4589d7f4fb54c23d5.jpg",
-    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15396"
-  },
-  {
     "id": 5575,
     "IDcode": "15473",
     "title": "(C101) [Waterfall (嵩乃朔)] 神琳が雨嘉にやきもちをやく話 (アサルトリリィ) -Preview",
@@ -1598,5 +1566,37 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://i2.linghua.xyz/ex/3081355/2d8f8bb225/001.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16297"
+  },
+  {
+    "id": 6098,
+    "IDcode": "15944",
+    "title": "(C101) [ぐつとま (タチ)] お嬢様は百合メイドに挟まりたくない! -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/e7ae4e18a9ab07fa3b28c.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15944"
+  },
+  {
+    "id": 6141,
+    "IDcode": "15983",
+    "title": "(C101) [ざわめきじゃんぼ (ざわめき)] よくばりなあたしたち (BanG Dream!) -Preview",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "彩色"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/6a660e78b3785241c0f65.jpg",
+    "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15983"
   }
 ];
