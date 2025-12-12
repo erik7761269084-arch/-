@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 332117,
+    "title": "[Shaggy SUSU] キュレネ (崩壊：スターレイル) [日本語、中国語]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-332117.html",
+    "images": [
+        "https://img5.qy0.ru/data/3321/17/01.jpg",
+        "https://img5.qy0.ru/data/3321/17/02.jpg",
+        "https://img5.qy0.ru/data/3321/17/03.jpg",
+        "https://img5.qy0.ru/data/3321/17/04.jpg",
+        "https://img5.qy0.ru/data/3321/17/05.jpg",
+        "https://img5.qy0.ru/data/3321/17/06.jpg",
+        "https://img5.qy0.ru/data/3321/17/07.jpg",
+        "https://img5.qy0.ru/data/3321/17/08.jpg",
+        "https://img5.qy0.ru/data/3321/17/09.jpg",
+        "https://img5.qy0.ru/data/3321/17/10.jpg",
+        "https://img5.qy0.ru/data/3321/17/11.jpg",
+        "https://img5.qy0.ru/data/3321/17/12.jpg",
+        "https://img5.qy0.ru/data/3321/17/13.jpg",
+        "https://img5.qy0.ru/data/3321/17/14.jpg",
+        "https://img5.qy0.ru/data/3321/17/15.jpg",
+        "https://img5.qy0.ru/data/3321/17/16.jpg",
+        "https://img5.qy0.ru/data/3321/17/17.jpg",
+        "https://img5.qy0.ru/data/3321/17/18.jpg",
+        "https://img5.qy0.ru/data/3321/17/19.jpg",
+        "https://img5.qy0.ru/data/3321/17/20.jpg",
+        "https://img5.qy0.ru/data/3321/17/21.jpg",
+        "https://img5.qy0.ru/data/3321/17/22.jpg",
+        "https://img5.qy0.ru/data/3321/17/23.jpg",
+        "https://img5.qy0.ru/data/3321/17/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

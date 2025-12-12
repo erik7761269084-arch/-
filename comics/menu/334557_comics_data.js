@@ -1,0 +1,13 @@
+const comicData = {
+    "IDcode": 334557,
+    "title": "[慶人] スーパーの爆乳奥さん。 (Web配信月刊隣の気になる奥さん vol.057) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-334557.html",
+    "images": [
+        "https://img5.qy0.ru/data/3345/57/01.jpg",
+        "https://img5.qy0.ru/data/3345/57/02.jpg",
+        "https://img5.qy0.ru/data/3345/57/03.jpg",
+        "https://img5.qy0.ru/data/3345/57/04.jpg",
+        "https://img5.qy0.ru/data/3345/57/05.jpg",
+        "https://img5.qy0.ru/data/3345/57/06.jpg"
+    ]
+};

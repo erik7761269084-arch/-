@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 335060,
+    "title": "[Come Through (あづみ一樹)] 甘えていいよ、お兄ちゃん2 [藍人個人機翻] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-335060.html",
+    "images": [
+        "https://img5.qy0.ru/data/3350/60/01.jpg",
+        "https://img5.qy0.ru/data/3350/60/02.jpg",
+        "https://img5.qy0.ru/data/3350/60/03.jpg",
+        "https://img5.qy0.ru/data/3350/60/04.jpg",
+        "https://img5.qy0.ru/data/3350/60/05.jpg",
+        "https://img5.qy0.ru/data/3350/60/06.jpg",
+        "https://img5.qy0.ru/data/3350/60/07.jpg",
+        "https://img5.qy0.ru/data/3350/60/08.jpg",
+        "https://img5.qy0.ru/data/3350/60/09.jpg",
+        "https://img5.qy0.ru/data/3350/60/10.jpg",
+        "https://img5.qy0.ru/data/3350/60/11.jpg",
+        "https://img5.qy0.ru/data/3350/60/12.jpg",
+        "https://img5.qy0.ru/data/3350/60/13.jpg",
+        "https://img5.qy0.ru/data/3350/60/14.jpg",
+        "https://img5.qy0.ru/data/3350/60/15.jpg",
+        "https://img5.qy0.ru/data/3350/60/16.jpg",
+        "https://img5.qy0.ru/data/3350/60/17.jpg",
+        "https://img5.qy0.ru/data/3350/60/18.jpg",
+        "https://img5.qy0.ru/data/3350/60/19.jpg",
+        "https://img5.qy0.ru/data/3350/60/20.jpg",
+        "https://img5.qy0.ru/data/3350/60/21.jpg",
+        "https://img5.qy0.ru/data/3350/60/22.jpg",
+        "https://img5.qy0.ru/data/3350/60/23.jpg",
+        "https://img5.qy0.ru/data/3350/60/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

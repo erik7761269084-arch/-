@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 332128,
+    "title": "[よんよん] body modification",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-332128.html",
+    "images": [
+        "https://img5.qy0.ru/data/3321/28/005_pg_005_1.21_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/006_pg_006_1.16_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/007_pg_007_1.05_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/008_pg_008_960.46_KB.jpg",
+        "https://img5.qy0.ru/data/3321/28/009_pg_009_1.04_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/010_pg_010_1.12_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/011_pg_011_1.16_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/012_pg_012_1.14_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/013_pg_013_1.10_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/014_pg_014_1.10_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/015_pg_015_1.15_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/016_pg_016_1.15_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/017_pg_017_1.13_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/018_pg_018_1.15_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/019_pg_019_1.21_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/020_pg_020_1.02_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/021_pg_021_1.13_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/022_pg_022_1.22_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/023_pg_023_1.13_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/024_pg_024_1.12_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/025_pg_025_1.29_MB.jpg",
+        "https://img5.qy0.ru/data/3321/28/026_pg_026_1.23_MB.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

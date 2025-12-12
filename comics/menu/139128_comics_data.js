@@ -1,0 +1,8 @@
+const comicData = {
+    "IDcode": 139128,
+    "title": "(秋季例大祭8) [ナギヤマスギ (那岐山)] 秘封陵辱9 (東方Project) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-139128.html",
+    "images": [
+        "https://img3.qy0.ru/data/1391/28/01.jpg"
+    ]
+};

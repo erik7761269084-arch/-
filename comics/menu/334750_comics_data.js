@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 334750,
+    "title": "[甘トウ宣言 (トウ)] 巨乳オタク彼女とオフパコアフター [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-334750.html",
+    "images": [
+        "https://img5.qy0.ru/data/3347/50/0000.jpg",
+        "https://img5.qy0.ru/data/3347/50/0001.jpg",
+        "https://img5.qy0.ru/data/3347/50/0002.jpg",
+        "https://img5.qy0.ru/data/3347/50/0003.jpg",
+        "https://img5.qy0.ru/data/3347/50/0004.jpg",
+        "https://img5.qy0.ru/data/3347/50/0005.jpg",
+        "https://img5.qy0.ru/data/3347/50/0006.jpg",
+        "https://img5.qy0.ru/data/3347/50/0007.jpg",
+        "https://img5.qy0.ru/data/3347/50/0008.jpg",
+        "https://img5.qy0.ru/data/3347/50/0009.jpg",
+        "https://img5.qy0.ru/data/3347/50/0010.jpg",
+        "https://img5.qy0.ru/data/3347/50/0011.jpg",
+        "https://img5.qy0.ru/data/3347/50/0012.jpg",
+        "https://img5.qy0.ru/data/3347/50/0013.jpg",
+        "https://img5.qy0.ru/data/3347/50/0014.jpg",
+        "https://img5.qy0.ru/data/3347/50/0015.jpg",
+        "https://img5.qy0.ru/data/3347/50/0016.jpg",
+        "https://img5.qy0.ru/data/3347/50/0017.jpg",
+        "https://img5.qy0.ru/data/3347/50/0018.jpg",
+        "https://img5.qy0.ru/data/3347/50/0019.jpg",
+        "https://img5.qy0.ru/data/3347/50/0020.jpg",
+        "https://img5.qy0.ru/data/3347/50/0021.jpg",
+        "https://img5.qy0.ru/data/3347/50/0022.jpg",
+        "https://img5.qy0.ru/data/3347/50/0023.jpg",
+        "https://img5.qy0.ru/data/3347/50/0024.jpg",
+        "https://img5.qy0.ru/data/3347/50/0025.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 331970,
+    "title": "[敲西六]新乔安传3.5.1",
+    "sourceUrl": "https://www.wnacg.com/photos-list-aid-331970.html",
+    "images": [
+        "https://img5.qy0.ru/data/3319/70/001.jpg",
+        "https://img5.qy0.ru/data/3319/70/002.jpg",
+        "https://img5.qy0.ru/data/3319/70/003.jpg",
+        "https://img5.qy0.ru/data/3319/70/004.jpg",
+        "https://img5.qy0.ru/data/3319/70/005.jpg",
+        "https://img5.qy0.ru/data/3319/70/006.jpg",
+        "https://img5.qy0.ru/data/3319/70/007.jpg",
+        "https://img5.qy0.ru/data/3319/70/008.jpg",
+        "https://img5.qy0.ru/data/3319/70/009.jpg",
+        "https://img5.qy0.ru/data/3319/70/010.jpg",
+        "https://img5.qy0.ru/data/3319/70/011.jpg",
+        "https://img5.qy0.ru/data/3319/70/012.jpg",
+        "https://img5.qy0.ru/data/3319/70/013.jpg",
+        "https://img5.qy0.ru/data/3319/70/014.jpg",
+        "https://img5.qy0.ru/data/3319/70/015.jpg",
+        "https://img5.qy0.ru/data/3319/70/016.jpg",
+        "https://img5.qy0.ru/data/3319/70/017.jpg",
+        "https://img5.qy0.ru/data/3319/70/018.jpg",
+        "https://img5.qy0.ru/data/3319/70/019.jpg",
+        "https://img5.qy0.ru/data/3319/70/020.jpg",
+        "https://img5.qy0.ru/data/3319/70/021.jpg",
+        "https://img5.qy0.ru/data/3319/70/022.jpg",
+        "https://img5.qy0.ru/data/3319/70/023.jpg",
+        "https://img5.qy0.ru/data/3319/70/024.jpg",
+        "https://img5.qy0.ru/data/3319/70/025.jpg"
+    ]
+};

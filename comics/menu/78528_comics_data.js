@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 78528,
+    "title": "[無邪気漢化組] (例大祭14) [笑顔で暴力 (mogg)] 妄想少女 (東方Project)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-78528.html",
+    "images": [
+        "https://img2.qy0.ru/data/0785/28/01.png",
+        "https://img2.qy0.ru/data/0785/28/02.png",
+        "https://img2.qy0.ru/data/0785/28/03.png",
+        "https://img2.qy0.ru/data/0785/28/04.png",
+        "https://img2.qy0.ru/data/0785/28/05.png",
+        "https://img2.qy0.ru/data/0785/28/06.png",
+        "https://img2.qy0.ru/data/0785/28/07.png",
+        "https://img2.qy0.ru/data/0785/28/08.png",
+        "https://img2.qy0.ru/data/0785/28/09.png",
+        "https://img2.qy0.ru/data/0785/28/10.png",
+        "https://img2.qy0.ru/data/0785/28/11.png",
+        "https://img2.qy0.ru/data/0785/28/12.png",
+        "https://img2.qy0.ru/data/0785/28/13.png",
+        "https://img2.qy0.ru/data/0785/28/14.png",
+        "https://img2.qy0.ru/data/0785/28/15.png",
+        "https://img2.qy0.ru/data/0785/28/16.png",
+        "https://img2.qy0.ru/data/0785/28/17.png",
+        "https://img2.qy0.ru/data/0785/28/18.png",
+        "https://img2.qy0.ru/data/0785/28/19.png",
+        "https://img2.qy0.ru/data/0785/28/20.png",
+        "https://img2.qy0.ru/data/0785/28/21.png",
+        "https://img2.qy0.ru/data/0785/28/22.png",
+        "https://img2.qy0.ru/data/0785/28/23.png",
+        "https://img2.qy0.ru/data/0785/28/24.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

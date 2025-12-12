@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 78529,
+    "title": "[無邪気漢化組] (例大祭15) [笑顔で暴力 (mogg)] PSR (東方Project)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-78529.html",
+    "images": [
+        "https://img2.qy0.ru/data/0785/29/01.jpg",
+        "https://img2.qy0.ru/data/0785/29/02.jpg",
+        "https://img2.qy0.ru/data/0785/29/03.jpg",
+        "https://img2.qy0.ru/data/0785/29/04.jpg",
+        "https://img2.qy0.ru/data/0785/29/05.jpg",
+        "https://img2.qy0.ru/data/0785/29/06.jpg",
+        "https://img2.qy0.ru/data/0785/29/07.jpg",
+        "https://img2.qy0.ru/data/0785/29/08.jpg",
+        "https://img2.qy0.ru/data/0785/29/09.jpg",
+        "https://img2.qy0.ru/data/0785/29/10.jpg",
+        "https://img2.qy0.ru/data/0785/29/11.jpg",
+        "https://img2.qy0.ru/data/0785/29/12.jpg",
+        "https://img2.qy0.ru/data/0785/29/13.jpg",
+        "https://img2.qy0.ru/data/0785/29/14.jpg",
+        "https://img2.qy0.ru/data/0785/29/15.jpg",
+        "https://img2.qy0.ru/data/0785/29/16.jpg",
+        "https://img2.qy0.ru/data/0785/29/17.jpg",
+        "https://img2.qy0.ru/data/0785/29/18.jpg",
+        "https://img2.qy0.ru/data/0785/29/19.jpg",
+        "https://img2.qy0.ru/data/0785/29/20.jpg",
+        "https://img2.qy0.ru/data/0785/29/21.jpg",
+        "https://img2.qy0.ru/data/0785/29/22.jpg",
+        "https://img2.qy0.ru/data/0785/29/23.jpg",
+        "https://img2.qy0.ru/data/0785/29/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};
