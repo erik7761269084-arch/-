@@ -11,12 +11,6 @@ const comicData = {
         "https://img5.qy0.ru/data/3349/26/006_0_6.jpg",
         "https://img5.qy0.ru/data/3349/26/007_0_7.jpg",
         "https://img5.qy0.ru/data/3349/26/008_0_8.jpg",
-        "https://img5.qy0.ru/data/3349/26/009_0_9.jpg",
-        "https://img5.qy0.ru/data/3349/26/010_0_10.jpg",
-        "https://img5.qy0.ru/data/3349/26/011_0_11.jpg",
-        "https://img5.qy0.ru/data/3349/26/012_0_12.jpg",
-        "https://img5.qy0.ru/data/3349/26/013_1_1.jpg",
-        "https://img5.qy0.ru/data/3349/26/014_1_2.jpg",
-        "https://img5.qy0.ru/data/3349/26/015_1_3.jpg"
+        "https://img5.qy0.ru/data/3349/26/009_0_9.jpg"
     ]
 };

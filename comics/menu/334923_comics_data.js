@@ -11,6 +11,24 @@ const comicData = {
         "https://img5.qy0.ru/data/3349/23/006_06.jpg",
         "https://img5.qy0.ru/data/3349/23/007_07.jpg",
         "https://img5.qy0.ru/data/3349/23/008_08.jpg",
-        "https://img5.qy0.ru/data/3349/23/009_09.jpg"
+        "https://img5.qy0.ru/data/3349/23/009_09.jpg",
+        "https://img5.qy0.ru/data/3349/23/010_010.jpg",
+        "https://img5.qy0.ru/data/3349/23/011_011.jpg",
+        "https://img5.qy0.ru/data/3349/23/012_012.jpg",
+        "https://img5.qy0.ru/data/3349/23/013_013.jpg",
+        "https://img5.qy0.ru/data/3349/23/014_014.jpg",
+        "https://img5.qy0.ru/data/3349/23/015_015.jpg",
+        "https://img5.qy0.ru/data/3349/23/016_016.jpg",
+        "https://img5.qy0.ru/data/3349/23/017_017.jpg",
+        "https://img5.qy0.ru/data/3349/23/018_018.jpg",
+        "https://img5.qy0.ru/data/3349/23/019_019.jpg",
+        "https://img5.qy0.ru/data/3349/23/020_020.jpg",
+        "https://img5.qy0.ru/data/3349/23/021_021.jpg",
+        "https://img5.qy0.ru/data/3349/23/022_022.jpg",
+        "https://img5.qy0.ru/data/3349/23/023_023.jpg",
+        "https://img5.qy0.ru/data/3349/23/024_024.jpg",
+        "https://img5.qy0.ru/data/3349/23/025_025.jpg",
+        "https://img5.qy0.ru/data/3349/23/026_026.jpg",
+        "https://img5.qy0.ru/data/3349/23/027_027.jpg"
     ]
 };
