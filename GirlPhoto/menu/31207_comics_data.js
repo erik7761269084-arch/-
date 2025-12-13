@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31207,
+    "title": "爆机少女喵小吉 Cosplay 曙光爵银龙 拟人 Malzeno",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉-Cosplay-曙光爵银龙-拟人-Malzeno-08-16",
+    "images": [
+        "https://telegra.ph/file/48d3c9ed57d46edc79d37.jpg",
+        "https://telegra.ph/file/51e337e18a0dc4f4aa991.jpg",
+        "https://telegra.ph/file/d65324149440fd4ccd2ae.jpg",
+        "https://telegra.ph/file/c36e20afe3d5632c995ee.jpg",
+        "https://telegra.ph/file/a323fb9fd532b519d632b.jpg",
+        "https://telegra.ph/file/f017d05a411937717950e.jpg",
+        "https://telegra.ph/file/06d842995e1fe0c665718.jpg",
+        "https://telegra.ph/file/efc33ec67e119a815a0b8.jpg",
+        "https://telegra.ph/file/9c6b622be702891de37cb.jpg",
+        "https://telegra.ph/file/fde3e3b964e29955168ea.jpg",
+        "https://telegra.ph/file/fe37b4e66d001b2783a41.jpg",
+        "https://telegra.ph/file/a0998a07234c58338b5cc.jpg",
+        "https://telegra.ph/file/e56aa101bf55d848ccdaa.jpg",
+        "https://telegra.ph/file/ffb66d105cfb3690adc04.jpg",
+        "https://telegra.ph/file/39b060ee8189374369e70.jpg",
+        "https://telegra.ph/file/4fcf600759f3970731633.jpg",
+        "https://telegra.ph/file/dbc759a2d71545e504c9a.jpg",
+        "https://telegra.ph/file/ef44b209221946a1c334b.jpg",
+        "https://telegra.ph/file/527905f05f0b088001fea.jpg",
+        "https://telegra.ph/file/dedcd7600b36901b4671a.jpg",
+        "https://telegra.ph/file/9b212b9cef7c7d2149b7e.jpg",
+        "https://telegra.ph/file/efb778dd87764d80ac6c8.jpg",
+        "https://telegra.ph/file/e37696d14f9f8351143d1.jpg",
+        "https://telegra.ph/file/b1613de37ef7b82f62f15.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

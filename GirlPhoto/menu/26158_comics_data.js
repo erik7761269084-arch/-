@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26158,
+    "title": "[性感写真]秋和柯基 - 把艺术打在公屏上 [25P]",
+    "sourceUrl": "https://telegra.ph/%E6%80%A7%E6%84%9F%E5%86%99%E7%9C%9F%E7%A7%8B%E5%92%8C%E6%9F%AF%E5%9F%BA---%E6%8A%8A%E8%89%BA%E6%9C%AF%E6%89%93%E5%9C%A8%E5%85%AC%E5%B1%8F%E4%B8%8A-25P-11-27",
+    "images": [
+        "https://telegra.ph/file/50faed908b4bf3338d4d7.jpg",
+        "https://telegra.ph/file/5326797154d32c95aaa6d.jpg",
+        "https://telegra.ph/file/2b912cf370983f6a07e64.jpg",
+        "https://telegra.ph/file/ac5f4d5b1b9656c434b30.jpg",
+        "https://telegra.ph/file/309c503dddcd5eb85d1c1.jpg",
+        "https://telegra.ph/file/e9a613370c87e01238512.jpg",
+        "https://telegra.ph/file/68e8f7cf8d6cb15f086c6.jpg",
+        "https://telegra.ph/file/17404191d229cf3b6ea8f.jpg",
+        "https://telegra.ph/file/c8b588bc3fefdffa07b3c.jpg",
+        "https://telegra.ph/file/89a535535b9225e8f17b6.jpg",
+        "https://telegra.ph/file/a10878f772ee56f474194.jpg",
+        "https://telegra.ph/file/e24f05a2e19612211bea1.jpg",
+        "https://telegra.ph/file/3a12e9532256b5402cb98.jpg",
+        "https://telegra.ph/file/aab5e4e3ddf84da2ec0b8.jpg",
+        "https://telegra.ph/file/4ccfc35f007cdb05ff47b.jpg",
+        "https://telegra.ph/file/5cbd764fe7a758ed90193.jpg",
+        "https://telegra.ph/file/6db053c14bde37e858d5b.jpg",
+        "https://telegra.ph/file/16ef79a1d62db0820fd8e.jpg",
+        "https://telegra.ph/file/c31c723d9dd83b806d3e5.jpg",
+        "https://telegra.ph/file/7dc764cfbbf2773032269.jpg",
+        "https://telegra.ph/file/69924339155c3f38c575e.jpg",
+        "https://telegra.ph/file/dd23f20e251175f48f2ea.jpg",
+        "https://telegra.ph/file/044dcd316dd7989668b1f.jpg",
+        "https://telegra.ph/file/05831c83f642f5707412f.jpg",
+        "https://telegra.ph/file/30faa278a254ded26cc87.jpg"
+    ]
+};

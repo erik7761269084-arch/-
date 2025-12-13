@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41525,
+    "title": "Potato Godzilla - Kafka (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Kafka-Honkai-Star-Rail-05-24",
+    "images": [
+        "https://telegra.ph/file/b619fddec4b43e561ac8f.jpg",
+        "https://telegra.ph/file/34518eb9a4695ff22f5b2.jpg",
+        "https://telegra.ph/file/aa40747693c208a7a2c67.jpg",
+        "https://telegra.ph/file/fee97e582aa615134b487.jpg",
+        "https://telegra.ph/file/ed0558b8a563fd088757b.jpg",
+        "https://telegra.ph/file/1da70b962e9169c768c2d.jpg",
+        "https://telegra.ph/file/581bcdbf95f6807d08955.jpg",
+        "https://telegra.ph/file/bcc8664e27c21b0f28ada.jpg",
+        "https://telegra.ph/file/9489b8a02411f4e8a202a.jpg",
+        "https://telegra.ph/file/91554af1c207f5940da60.jpg",
+        "https://telegra.ph/file/7245804cbbc8baffc65d9.jpg",
+        "https://telegra.ph/file/4147b77481d0791670f80.jpg",
+        "https://telegra.ph/file/3db8ed159f21e9158910c.jpg",
+        "https://telegra.ph/file/edaee187ecbf51fd539eb.jpg",
+        "https://telegra.ph/file/cc24039cd26afa6c20237.jpg",
+        "https://telegra.ph/file/d23759164375093f4e440.jpg",
+        "https://telegra.ph/file/e03c5bd9f4725ae1e7ea2.jpg",
+        "https://telegra.ph/file/dcf2d247879dd6cf3752a.jpg",
+        "https://telegra.ph/file/9b46f5b560fafae44868c.jpg",
+        "https://telegra.ph/file/469b07847a39105b5e28f.jpg",
+        "https://telegra.ph/file/e4706dadaaaad4019fe85.jpg",
+        "https://telegra.ph/file/17e55ffc4e3939be79de9.jpg",
+        "https://telegra.ph/file/3979eef2fc5e9e852faf6.jpg",
+        "https://telegra.ph/file/73fa72cbf137ba409fa35.jpg",
+        "https://telegra.ph/file/d480dc12aebf70a4fc0f1.jpg",
+        "https://telegra.ph/file/5963fee4d9442aeb8eef2.jpg"
+    ]
+};

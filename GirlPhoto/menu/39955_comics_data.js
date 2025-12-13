@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39955,
+    "title": "贞子蜜桃 - 春日椿 Vol.013 Tsubaki (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/贞子蜜桃---春日椿-Vol013-Tsubaki-Azur-Lane-12-05",
+    "images": [
+        "https://telegra.ph/file/2dd82e09a0695f8fa422a.jpg",
+        "https://telegra.ph/file/bb3aad493da56d1138560.jpg",
+        "https://telegra.ph/file/b3c3420957f07d168ef6a.jpg",
+        "https://telegra.ph/file/457e94309a5cf4fb5093d.jpg",
+        "https://telegra.ph/file/3c50d67e62680237d55a5.jpg",
+        "https://telegra.ph/file/5cdf500197fddfa0e9e48.jpg",
+        "https://telegra.ph/file/488d7644a1ba157db0b47.jpg",
+        "https://telegra.ph/file/0eb205d283ee9a887ea2b.jpg",
+        "https://telegra.ph/file/44a267a0dc37209c70b74.jpg",
+        "https://telegra.ph/file/28ddbd4e12ec11029f224.jpg",
+        "https://telegra.ph/file/696450c33ede8342d000d.jpg",
+        "https://telegra.ph/file/ba82b516611efeebe5f77.jpg",
+        "https://telegra.ph/file/1150b5283a5430ef8f115.jpg",
+        "https://telegra.ph/file/892ff68f6ad2d3c1ceaf8.jpg",
+        "https://telegra.ph/file/373c3e277729dade25c49.jpg",
+        "https://telegra.ph/file/20e0e4077868d4f3f157f.jpg",
+        "https://telegra.ph/file/dd669dc57807ee68a6524.jpg",
+        "https://telegra.ph/file/f8f6f65b3402b93dba023.jpg",
+        "https://telegra.ph/file/664ecd2e5459a973002f3.jpg",
+        "https://telegra.ph/file/c56b942922d9c7d30b4c1.jpg",
+        "https://telegra.ph/file/177d0b86a70b92c1da2b8.jpg",
+        "https://telegra.ph/file/0ff3f9e494c2122e5a313.jpg",
+        "https://telegra.ph/file/1330013bf8ed5ae5290d8.jpg",
+        "https://telegra.ph/file/f90269e10f4ad56af2fc5.jpg"
+    ]
+};

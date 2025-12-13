@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31877,
+    "title": "[Korean Realgraphic] No.58 빨래 빨아줄까?",
+    "sourceUrl": "https://telegra.ph/Korean-Realgraphic-No58-빨래-빨아줄까-09-20",
+    "images": [
+        "https://telegra.ph/file/8902d39e7903999344ef4.jpg",
+        "https://telegra.ph/file/fa0b8b571ec267ce08319.jpg",
+        "https://telegra.ph/file/e2444c4d355ad19012945.jpg",
+        "https://telegra.ph/file/c3c025f26d698940de3f4.jpg",
+        "https://telegra.ph/file/0fd15d64f145713395aff.jpg",
+        "https://telegra.ph/file/447139441453b51391259.jpg",
+        "https://telegra.ph/file/87ccff452e9d0761b79dd.jpg",
+        "https://telegra.ph/file/71667936ff0f5c364473d.jpg",
+        "https://telegra.ph/file/f01092b947319e4d4f676.jpg",
+        "https://telegra.ph/file/446f83b27e2aa2887726d.jpg",
+        "https://telegra.ph/file/5953d94ecf9a713691a47.jpg",
+        "https://telegra.ph/file/72110812cf9fa2bd88301.jpg",
+        "https://telegra.ph/file/b93be0a53242cce643ae9.jpg",
+        "https://telegra.ph/file/e5f21bacd0606bd679b68.jpg",
+        "https://telegra.ph/file/bf8fa66dc666ed7e8dd5c.jpg",
+        "https://telegra.ph/file/413cc5b0d498f2634bd60.jpg",
+        "https://telegra.ph/file/df54714b0bdc5225a4e63.jpg",
+        "https://telegra.ph/file/2fc95d76c769b674a41f0.jpg",
+        "https://telegra.ph/file/2e50dde32f7121a8daaf5.jpg",
+        "https://telegra.ph/file/83a334c5a6d109955fd2b.jpg",
+        "https://telegra.ph/file/e38d1ada20923734a9f11.jpg",
+        "https://telegra.ph/file/76c4007f3791bdd1a12b4.jpg",
+        "https://telegra.ph/file/7cfdb2da3c2d478f26838.jpg",
+        "https://telegra.ph/file/f3a332b3ecf68e9d12faa.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

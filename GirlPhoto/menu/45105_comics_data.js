@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45105,
+    "title": "Hana Bunny - Red Yor",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Red-Yor-06-23",
+    "images": [
+        "https://telegra.ph/file/bbbc62e4ef4fb6e7f1a9c.jpg",
+        "https://telegra.ph/file/68c0e393fb315ef258c2c.jpg",
+        "https://telegra.ph/file/db9fced16dc3e03e2c9cf.jpg",
+        "https://telegra.ph/file/cae828cd145637a20bee4.jpg",
+        "https://telegra.ph/file/3a0f9828b93fd038a0be6.jpg",
+        "https://telegra.ph/file/4d070b765e2f2edd095aa.jpg",
+        "https://telegra.ph/file/51f5105bee32085561fc1.jpg",
+        "https://telegra.ph/file/c01c9edd305095ecadffc.jpg",
+        "https://telegra.ph/file/6e96a780d923e78a44c0e.jpg",
+        "https://telegra.ph/file/56499f07fa2c90103fe00.jpg",
+        "https://telegra.ph/file/e15d4dfee8c78a285608a.jpg",
+        "https://telegra.ph/file/66c9b125d2591aea56044.jpg",
+        "https://telegra.ph/file/7e348aaa7b62304cb9277.jpg",
+        "https://telegra.ph/file/1b411c8c4ec0fb7cefcfd.jpg",
+        "https://telegra.ph/file/bf1fddb337202a1573388.jpg",
+        "https://telegra.ph/file/562f9a9e5d92ff5ba492b.jpg",
+        "https://telegra.ph/file/4fd7f2f3a5014dd8c35df.jpg",
+        "https://telegra.ph/file/d9af89477c20008b8c8fd.jpg",
+        "https://telegra.ph/file/84c57201e9d2a8a8808d2.jpg",
+        "https://telegra.ph/file/0384562b50d09e1b21341.jpg",
+        "https://telegra.ph/file/23dd00653299a5b4f2632.jpg",
+        "https://telegra.ph/file/72231fb4ed7e0b2770af7.jpg",
+        "https://telegra.ph/file/75c43fb88394c4a09f082.jpg",
+        "https://telegra.ph/file/a9b25ab7ff34977b4f0c0.jpg",
+        "https://telegra.ph/file/23daf721cdfcfc95b858a.jpg"
+    ]
+};

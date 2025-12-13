@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31090,
+    "title": "Mingming 밍밍, [ArtGravia] Vol.138 아트그라비아 Set.01",
+    "sourceUrl": "https://telegra.ph/Mingming-밍밍-ArtGravia-Vol138-아트그라비아-Set01-08-13",
+    "images": [
+        "https://telegra.ph/file/f51b1c8fa27e3f2eac603.jpg",
+        "https://telegra.ph/file/d9a8dbe7b298dfdd93bdf.jpg",
+        "https://telegra.ph/file/f87298a0b074639f161c0.jpg",
+        "https://telegra.ph/file/00b567688f82a8675ea9d.jpg",
+        "https://telegra.ph/file/06218dacf3e665772350f.jpg",
+        "https://telegra.ph/file/2b89280604b19d74829b9.jpg",
+        "https://telegra.ph/file/20d5087b9dfaf5170cd84.jpg",
+        "https://telegra.ph/file/f0534fef5fc1300e04da3.jpg",
+        "https://telegra.ph/file/8c95514f02a164dc8734b.jpg",
+        "https://telegra.ph/file/9e806414a47e99036863e.jpg",
+        "https://telegra.ph/file/d4733b755d35a42b6218f.jpg",
+        "https://telegra.ph/file/6ee3c251d8eed44ccde96.jpg",
+        "https://telegra.ph/file/4007be3c4314dee0866ea.jpg",
+        "https://telegra.ph/file/bc6acfe3c25398d8b95fd.jpg",
+        "https://telegra.ph/file/29400331591b2ea1c28d2.jpg",
+        "https://telegra.ph/file/bf524a16007b7326be8e7.jpg",
+        "https://telegra.ph/file/6568e172fa65b3bec8b19.jpg",
+        "https://telegra.ph/file/c9d53e24d6d3944ac1c5b.jpg",
+        "https://telegra.ph/file/f06a363d6f4c53afb0958.jpg",
+        "https://telegra.ph/file/890c11513cf1649395f38.jpg",
+        "https://telegra.ph/file/48356eb1902c2292274dc.jpg",
+        "https://telegra.ph/file/840d12a994685705ba5df.jpg",
+        "https://telegra.ph/file/8757ebb8a282169a85547.jpg",
+        "https://telegra.ph/file/287c78301951740e279cd.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27532,
+    "title": "雨波_HaneAme-2.5次元的誘惑[24P]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme-25%E6%AC%A1%E5%85%83%E7%9A%84%E8%AA%98%E6%83%9124P-09-15",
+    "images": [
+        "https://telegra.ph/file/d6dc56a36293aff662d62.jpg",
+        "https://telegra.ph/file/3873add44e5d8fe106bdc.jpg",
+        "https://telegra.ph/file/b4809bb9edeb53b1f538e.jpg",
+        "https://telegra.ph/file/db3b3ed17b50621d52d42.jpg",
+        "https://telegra.ph/file/a6dfe0d278b8134203aba.jpg",
+        "https://telegra.ph/file/6a7c0ab2a3486d48003f2.jpg",
+        "https://telegra.ph/file/d6d709e42b04df0f362b3.jpg",
+        "https://telegra.ph/file/35dad0d1f9870f8f3e3cc.jpg",
+        "https://telegra.ph/file/24edffb1893934194254b.jpg",
+        "https://telegra.ph/file/1f8bafb5a60fdd468c57c.jpg",
+        "https://telegra.ph/file/28d3a7c026274d3efe736.jpg",
+        "https://telegra.ph/file/8f1f251e17631a044c80a.jpg",
+        "https://telegra.ph/file/a1b4a59165a570425969f.jpg",
+        "https://telegra.ph/file/577e4a76caafec4909283.jpg",
+        "https://telegra.ph/file/f0f13ea20834c22e033c4.jpg",
+        "https://telegra.ph/file/37ad8dfebda942629471a.jpg",
+        "https://telegra.ph/file/589e3ab004b3c21368420.jpg",
+        "https://telegra.ph/file/5117a84c6fe14e8c8619d.jpg",
+        "https://telegra.ph/file/75d73eecec5bf11e39fae.jpg",
+        "https://telegra.ph/file/4c1f1d4ad69fe0393886a.jpg",
+        "https://telegra.ph/file/7958190951ed2f1a0982c.jpg",
+        "https://telegra.ph/file/be45f87f003fbf5f1e17f.jpg",
+        "https://telegra.ph/file/c89c8c975692f0dd40efc.jpg",
+        "https://telegra.ph/file/5bf0b53a97d60bfd9a78f.jpg",
+        "https://telegra.ph/file/8867c66ff618734b692f2.jpg"
+    ]
+};

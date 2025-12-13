@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43841,
+    "title": "蠢沫沫 - 原神 宵宫 [25P／278MB]",
+    "sourceUrl": "https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB---%E5%8E%9F%E7%A5%9E-%E5%AE%B5%E5%AE%AB-25P278MB-11-14",
+    "images": [
+        "https://telegra.ph/file/b1b3ac1a680f54e7fb7eb.jpg",
+        "https://telegra.ph/file/36c7fab60cbd6c4f0228f.jpg",
+        "https://telegra.ph/file/d244517e08d78f9316d0e.jpg",
+        "https://telegra.ph/file/6b2cffd2afab4eb01bf27.jpg",
+        "https://telegra.ph/file/f34d8e2f6a98c50d1d7bd.jpg",
+        "https://telegra.ph/file/6e85a87343580350ac645.jpg",
+        "https://telegra.ph/file/917cd1874c48cda6c54dc.jpg",
+        "https://telegra.ph/file/96b1ff7b807d8f60aed72.jpg",
+        "https://telegra.ph/file/11457c4af80d53f87aeb3.jpg",
+        "https://telegra.ph/file/1f00c496b9a7ff0d6cf3c.jpg",
+        "https://telegra.ph/file/f83111439e421316ad90b.jpg",
+        "https://telegra.ph/file/76b9a8421fe35e474bc18.jpg",
+        "https://telegra.ph/file/38a23d2763c4b8d4576f5.jpg",
+        "https://telegra.ph/file/480321e39a15cacc95127.jpg",
+        "https://telegra.ph/file/6771084dc0152bda1f8f2.jpg",
+        "https://telegra.ph/file/b8a6633eeed0d117942c8.jpg",
+        "https://telegra.ph/file/5a4824837e2dbe2b8d754.jpg",
+        "https://telegra.ph/file/f3715ff6eae80eb7f5034.jpg",
+        "https://telegra.ph/file/128e27408619793a8504e.jpg",
+        "https://telegra.ph/file/83c1feceb0f6456717599.jpg",
+        "https://telegra.ph/file/050c1159acec50f3ffac1.jpg",
+        "https://telegra.ph/file/65cfc38251e906984a9b3.jpg",
+        "https://telegra.ph/file/cbdb1db51378bbfbe718e.jpg",
+        "https://telegra.ph/file/5ac9ac56e099b33203815.jpg",
+        "https://telegra.ph/file/dee11d30d861c2e30912c.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 29948,
+    "title": "AT鲨 - 蓝色上衣 [25P-75MB]",
+    "sourceUrl": "https://telegra.ph/AT%E9%B2%A8---%E8%93%9D%E8%89%B2%E4%B8%8A%E8%A1%A3-25P-75MB-02-01",
+    "images": [
+        "https://telegra.ph/file/8321a5de0d38f89574897.png",
+        "https://telegra.ph/file/a5d35571ecc252389b7a7.png",
+        "https://telegra.ph/file/856f73ffd232c1d9ba0da.png",
+        "https://telegra.ph/file/54093f6cf5fa6e168c70a.png",
+        "https://telegra.ph/file/6cfceea03f93e70a7d79b.png",
+        "https://telegra.ph/file/0da7cfaf81e8ddd6649c7.png",
+        "https://telegra.ph/file/74bd501ff89a11bd301b4.png",
+        "https://telegra.ph/file/190b3f9f43ff112063e32.png",
+        "https://telegra.ph/file/be8756a2ccfcf3d41b6f3.png",
+        "https://telegra.ph/file/16c1513d9ecf4fbb22d65.png",
+        "https://telegra.ph/file/79b4e879500bddd966d8b.png",
+        "https://telegra.ph/file/32ccd2aa539e6502380f5.png",
+        "https://telegra.ph/file/a4e129bfb6e10c757e558.png",
+        "https://telegra.ph/file/1cf0883a07aca8d89f4ec.png",
+        "https://telegra.ph/file/26e1f3f42b3813432167c.png",
+        "https://telegra.ph/file/5f5c4bd362ab9f6a9e98e.png",
+        "https://telegra.ph/file/fa366227dacb86a58aad5.png",
+        "https://telegra.ph/file/3d26ea673750d2748e4ad.png",
+        "https://telegra.ph/file/d9e3c60d9dff9c2c5c8b3.png",
+        "https://telegra.ph/file/4c0ad7cbf9cdb34391bd2.png",
+        "https://telegra.ph/file/0aaefa3ed7f193c775899.png",
+        "https://telegra.ph/file/cfde1af73dbf0d272fcc7.png",
+        "https://telegra.ph/file/219efbb87ab303fe15113.png",
+        "https://telegra.ph/file/410f04478a7e045837b12.png",
+        "https://telegra.ph/file/8a43e1c7e4d077e6ffb85.png"
+    ]
+};

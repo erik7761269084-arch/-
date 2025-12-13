@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23118,
+    "title": "PAKI酱 花园兔女郎 [25P3V-285MB]",
+    "sourceUrl": "https://telegra.ph/PAKI%E9%85%B1-%E8%8A%B1%E5%9B%AD%E5%85%94%E5%A5%B3%E9%83%8E-25P3V-285MB-01-22",
+    "images": [
+        "https://telegra.ph/file/2c2aa5b1251c85d769276.jpg",
+        "https://telegra.ph/file/077bee2c1126a5a04c7ab.jpg",
+        "https://telegra.ph/file/ea4ef8347ddc993adb44c.jpg",
+        "https://telegra.ph/file/61889002621142aa1c577.jpg",
+        "https://telegra.ph/file/9645111a32724a550275f.jpg",
+        "https://telegra.ph/file/e9feed14596b95328abbb.jpg",
+        "https://telegra.ph/file/24c4fc58ceacb6d4380b3.jpg",
+        "https://telegra.ph/file/62dceef58b9e097b73bf4.jpg",
+        "https://telegra.ph/file/c9f197c10e041eaa27a3f.jpg",
+        "https://telegra.ph/file/5233c91120ef34b1eca3b.jpg",
+        "https://telegra.ph/file/566fc5d708146e4835239.jpg",
+        "https://telegra.ph/file/4ef0fb327c968267973ec.jpg",
+        "https://telegra.ph/file/f2ce1cf4683022d85bb52.jpg",
+        "https://telegra.ph/file/6b7475a7023867297a8c8.jpg",
+        "https://telegra.ph/file/485b40a96b243e3a029a7.jpg",
+        "https://telegra.ph/file/9a227aefd0ed47dc5b30b.jpg",
+        "https://telegra.ph/file/3c38d8b9c031d05d768a3.jpg",
+        "https://telegra.ph/file/c6a84e33bfbdaf09bc594.jpg",
+        "https://telegra.ph/file/daf7fc20aa8117f32a095.jpg",
+        "https://telegra.ph/file/41bf055e25908e31b5fc5.jpg",
+        "https://telegra.ph/file/8bcd42c91b46555bf1973.jpg",
+        "https://telegra.ph/file/61d7bbd24f8be37825a2f.jpg",
+        "https://telegra.ph/file/c475865a4f9ae9de77a0b.jpg",
+        "https://telegra.ph/file/de5b4677f0383f58e58cd.jpg",
+        "https://telegra.ph/file/f96295c45e4187b65e270.jpg"
+    ]
+};

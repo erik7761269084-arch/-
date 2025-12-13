@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40750,
+    "title": "Milena Dereka - Holo (Spice and Wolf)",
+    "sourceUrl": "https://telegra.ph/Milena-Dereka---Holo-Spice-and-Wolf-09-27",
+    "images": [
+        "https://telegra.ph/file/c02647ac850f35fcd7305.jpg",
+        "https://telegra.ph/file/fc80f5b1e1c246d3a3617.jpg",
+        "https://telegra.ph/file/28578444d94aff85f58a1.jpg",
+        "https://telegra.ph/file/a5c051ed82d97e7c2a6e9.jpg",
+        "https://telegra.ph/file/07c7aa7c6cd0dd9edbd3e.jpg",
+        "https://telegra.ph/file/0a8a7eade7531de65c9a8.jpg",
+        "https://telegra.ph/file/2c46e4af38657fca5f006.jpg",
+        "https://telegra.ph/file/24f79c362339523a46532.jpg",
+        "https://telegra.ph/file/bee2292565f4bea4ec47b.jpg",
+        "https://telegra.ph/file/5f2e5b36044474ab00ecb.jpg",
+        "https://telegra.ph/file/194f5771882d4864560a2.jpg",
+        "https://telegra.ph/file/434035d37f2df168520d1.jpg",
+        "https://telegra.ph/file/9c8f5ae300c53685c2fcb.jpg",
+        "https://telegra.ph/file/d365e865d252cfc2cf05b.jpg",
+        "https://telegra.ph/file/cbc67fefa9aeaa1f5a663.jpg",
+        "https://telegra.ph/file/ade21e3b326f73a8d5c8f.jpg",
+        "https://telegra.ph/file/ef5500085ed377934b492.jpg",
+        "https://telegra.ph/file/68b7fb60e265ccde3c464.jpg",
+        "https://telegra.ph/file/b2813243078933cced15e.jpg",
+        "https://telegra.ph/file/0b55f23c379dde92fbd09.jpg",
+        "https://telegra.ph/file/52a6c643cc548ec2ac7ae.jpg",
+        "https://telegra.ph/file/1e20e711825ace4210931.jpg",
+        "https://telegra.ph/file/07045c550afbbde3cab5d.jpg"
+    ]
+};

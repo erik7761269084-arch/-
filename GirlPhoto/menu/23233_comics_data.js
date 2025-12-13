@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23233,
+    "title": "鱼神微密圈 - 跨年福利 [24P／56MB]",
+    "sourceUrl": "https://telegra.ph/%E9%B1%BC%E7%A5%9E%E5%BE%AE%E5%AF%86%E5%9C%88---%E8%B7%A8%E5%B9%B4%E7%A6%8F%E5%88%A9-24P56MB-02-02",
+    "images": [
+        "https://telegra.ph/file/2f27c42cd45e9f117e44d.jpg",
+        "https://telegra.ph/file/2564ae142ab6038b84b29.jpg",
+        "https://telegra.ph/file/1fe7267461e78111254d2.jpg",
+        "https://telegra.ph/file/036d111d9a9591a7a0cd9.jpg",
+        "https://telegra.ph/file/ee1d7b893709a42c5ede7.jpg",
+        "https://telegra.ph/file/63c0c3ad50668a5b820e6.jpg",
+        "https://telegra.ph/file/3b573f9ef7583db57fe80.jpg",
+        "https://telegra.ph/file/60e79c07109c0e4007104.jpg",
+        "https://telegra.ph/file/8cdb19b488fc762a2dd0f.jpg",
+        "https://telegra.ph/file/d94f39f0ab7f221b5f546.jpg",
+        "https://telegra.ph/file/9f0ef05ea1c6077fc2c9e.jpg",
+        "https://telegra.ph/file/073217347fa53cf941d53.jpg",
+        "https://telegra.ph/file/c56e7c6a521c438cb96db.jpg",
+        "https://telegra.ph/file/417d3e72dabe95da970c3.jpg",
+        "https://telegra.ph/file/49f210f5a1d86cb93d993.jpg",
+        "https://telegra.ph/file/d1f349a575cee63d65cd4.jpg",
+        "https://telegra.ph/file/aa33619bb0e8ef5921b09.jpg",
+        "https://telegra.ph/file/334d7dc4d5b08a2c7c598.jpg",
+        "https://telegra.ph/file/8d024f3425ef4baca9e5e.jpg",
+        "https://telegra.ph/file/0ef0bd954bde9757e0ce1.jpg",
+        "https://telegra.ph/file/d3bdade73528e36971913.jpg",
+        "https://telegra.ph/file/c11d74c77beb10375645f.jpg",
+        "https://telegra.ph/file/dc39ddf63ee61b5025b61.jpg",
+        "https://telegra.ph/file/08287ac9aac246f868f62.jpg"
+    ]
+};

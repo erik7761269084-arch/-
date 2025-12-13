@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 32650,
+    "title": "Cosplay 七月喵子 幻想兽娘集月食 捷克提亚",
+    "sourceUrl": "https://telegra.ph/Cosplay-七月喵子-幻想兽娘集月食-捷克提亚-12-17",
+    "images": [
+        "https://telegra.ph/file/bb46e082fca6fd4c65381.jpg",
+        "https://telegra.ph/file/68bc3b8c3e03a8fc091d2.jpg",
+        "https://telegra.ph/file/42cb062d87d2e02cc50a3.jpg",
+        "https://telegra.ph/file/8c92dc807e5c095024e0d.jpg",
+        "https://telegra.ph/file/b543f5176aeb74c2bef92.jpg",
+        "https://telegra.ph/file/954cce9e6387b8ea4f0de.jpg",
+        "https://telegra.ph/file/b95ceb52edd5e77c49dc7.jpg",
+        "https://telegra.ph/file/42a2dacccce29905f72f7.jpg",
+        "https://telegra.ph/file/992187d82803efaaf1972.jpg",
+        "https://telegra.ph/file/8961209145171f40d6fa0.jpg",
+        "https://telegra.ph/file/baff53db12837e6f6fa4b.jpg",
+        "https://telegra.ph/file/a0ff3af53089b39ecd37d.jpg",
+        "https://telegra.ph/file/2dbfcc8d5f2ed957a619c.jpg",
+        "https://telegra.ph/file/92550a0c76a3d7c07eeda.jpg",
+        "https://telegra.ph/file/c11f42628e6b344a475a1.jpg",
+        "https://telegra.ph/file/0b28308ed4aacd1896bf1.jpg",
+        "https://telegra.ph/file/b02998617a4617d4ea751.jpg",
+        "https://telegra.ph/file/805aa82611c078e779094.jpg",
+        "https://telegra.ph/file/6c7e4ec3fbd09d039b255.jpg",
+        "https://telegra.ph/file/d11b42cc3d7094aded33c.jpg",
+        "https://telegra.ph/file/3c8fad931e9f9c668cf2f.jpg",
+        "https://telegra.ph/file/6b86ecc6109b161ceefe1.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

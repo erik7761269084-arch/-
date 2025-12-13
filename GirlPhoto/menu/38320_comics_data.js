@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38320,
+    "title": "Kitkat - Misaki (Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/Kitkat---Misaki-Dead-or-Alive-10-05",
+    "images": [
+        "https://telegra.ph/file/4102292c86ec7e98e08f5.jpg",
+        "https://telegra.ph/file/d16c8d6cd5d38622b8ae5.jpg",
+        "https://telegra.ph/file/9c265a3ca6ac83cd5927e.jpg",
+        "https://telegra.ph/file/e098f41679d99d37a759b.jpg",
+        "https://telegra.ph/file/61f4af5e6299507bd4f2c.jpg",
+        "https://telegra.ph/file/b0c2cf75fa87e49e42b52.jpg",
+        "https://telegra.ph/file/acf56369a44cd52ab5408.jpg",
+        "https://telegra.ph/file/48d0ce1c1afcfee5ca453.jpg",
+        "https://telegra.ph/file/4f019bc7836651103e29a.jpg",
+        "https://telegra.ph/file/887bdf39c1f1f7ba64ea9.jpg",
+        "https://telegra.ph/file/0381fa51d8e527eedb093.jpg",
+        "https://telegra.ph/file/35ba6540ff3d0feeb8e82.jpg",
+        "https://telegra.ph/file/a7a6a62997ec2137ed9b5.jpg",
+        "https://telegra.ph/file/d69cd118563964e4a119f.jpg",
+        "https://telegra.ph/file/23fb4cb781e8a1dfb5165.jpg",
+        "https://telegra.ph/file/3e412d503c6099f27650b.jpg",
+        "https://telegra.ph/file/0f4d9a475bb72edc6ea21.jpg",
+        "https://telegra.ph/file/a7e882f4eb6cce05652f0.jpg",
+        "https://telegra.ph/file/619816d5a21c2c7c21326.jpg",
+        "https://telegra.ph/file/cb5b95a9c3f55745c43dc.jpg",
+        "https://telegra.ph/file/bab4c646e9dda24ddb241.jpg",
+        "https://telegra.ph/file/109fc8709e3062f782804.jpg",
+        "https://telegra.ph/file/65f5bdf5b6ab44e59331b.jpg",
+        "https://telegra.ph/file/655553952233b2f87ae62.jpg",
+        "https://telegra.ph/file/e46d9ecf6166429fd0e63.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40259,
+    "title": "Carry Key - Tatsumaki (One Punch Men)",
+    "sourceUrl": "https://telegra.ph/Carry-Key---Tatsumaki-One-Punch-Men-04-11",
+    "images": [
+        "https://telegra.ph/file/c45b18d67ed623c4849cd.jpg",
+        "https://telegra.ph/file/e695a215999c5d2b97e84.jpg",
+        "https://telegra.ph/file/269f5728eb8cac43a3056.jpg",
+        "https://telegra.ph/file/913b8446af77a5b398a58.jpg",
+        "https://telegra.ph/file/c3c4f3a03d50897c956ad.jpg",
+        "https://telegra.ph/file/18332c9ea4c1e53e6a60d.jpg",
+        "https://telegra.ph/file/f9e8656e0cae40c672fa9.jpg",
+        "https://telegra.ph/file/9a1363b57322931ed21fd.jpg",
+        "https://telegra.ph/file/7003a2fed642e25067173.jpg",
+        "https://telegra.ph/file/c9fe9213027a2ef8010e1.jpg",
+        "https://telegra.ph/file/4ed88abb7a605f8f09539.jpg",
+        "https://telegra.ph/file/2ec753e0abca3ed1af952.jpg",
+        "https://telegra.ph/file/cd689b4a3d3be60e09277.jpg",
+        "https://telegra.ph/file/d3a504e19a34a90babc3f.jpg",
+        "https://telegra.ph/file/ab27ee350f229f01e6613.jpg",
+        "https://telegra.ph/file/c6a8093d6c0c98f1a5782.jpg",
+        "https://telegra.ph/file/eb5149786a9e928e0fdac.jpg",
+        "https://telegra.ph/file/d3ba56f5300d466455eee.jpg",
+        "https://telegra.ph/file/78677438c771863cb9eee.jpg",
+        "https://telegra.ph/file/1954ff7f2ba7d1a33ebbd.jpg",
+        "https://telegra.ph/file/7a7817fd0f4d627d5349f.jpg",
+        "https://telegra.ph/file/8320dfc32886112095653.jpg",
+        "https://telegra.ph/file/4c7549e1059e4e6416680.jpg"
+    ]
+};

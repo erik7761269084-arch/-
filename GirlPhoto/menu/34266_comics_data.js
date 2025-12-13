@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 34266,
+    "title": "Jeong Bomi 정보미, [DJAWA] Bomistry #2 Set.01 （Girl Crush 걸크러쉬）",
+    "sourceUrl": "https://telegra.ph/Jeong-Bomi-정보미-DJAWA-Bomistry-2-Set01-Girl-Crush-걸크러쉬-05-27",
+    "images": [
+        "https://telegra.ph/file/37499de26148f50f87131.jpg",
+        "https://telegra.ph/file/5a7945afec96bf3d47c0b.jpg",
+        "https://telegra.ph/file/38f9dc293adaec9b6de22.jpg",
+        "https://telegra.ph/file/6761f63faa0e6d470175c.jpg",
+        "https://telegra.ph/file/104678820a40e6efaed66.jpg",
+        "https://telegra.ph/file/9d6990010b4732d158afa.jpg",
+        "https://telegra.ph/file/6d69430892e704cf1c0dd.jpg",
+        "https://telegra.ph/file/1d2022e7212e4b5f4c977.jpg",
+        "https://telegra.ph/file/cebd07abc44e824a026ef.jpg",
+        "https://telegra.ph/file/78033edb678ebedac9322.jpg",
+        "https://telegra.ph/file/483e4a3250f2d067484dc.jpg",
+        "https://telegra.ph/file/01e24ac3614e31334341a.jpg",
+        "https://telegra.ph/file/59fbeea92600079124422.jpg",
+        "https://telegra.ph/file/ba29c2dd1271df4801f11.jpg",
+        "https://telegra.ph/file/ddb2f887d835fcc0ad07b.jpg",
+        "https://telegra.ph/file/38159864467aa37718c08.jpg",
+        "https://telegra.ph/file/5fbfdc91ca20e6a1b83a3.jpg",
+        "https://telegra.ph/file/6653689778bdda33c0890.jpg",
+        "https://telegra.ph/file/54a18860f1d650c0630fa.jpg",
+        "https://telegra.ph/file/2842d56f435c44c8a4391.jpg",
+        "https://telegra.ph/file/378b97a405551ffa34bfe.jpg",
+        "https://telegra.ph/file/c3d89bf63de9be5dba92b.jpg",
+        "https://telegra.ph/file/e32e71cbfb91c27c7589f.jpg",
+        "https://telegra.ph/file/eea59acbb4f36a6cec6fa.jpg"
+    ]
+};

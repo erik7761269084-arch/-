@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45714,
+    "title": "Byoru - Amber - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru---Amber---Page-1-10-19",
+    "images": [
+        "https://telegra.ph/file/8d56973591ebf3b8b729d.jpg",
+        "https://telegra.ph/file/1740a5bbd4238ea51059c.jpg",
+        "https://telegra.ph/file/e6815cc321ef839c22f39.jpg",
+        "https://telegra.ph/file/9a7255517272b94255217.jpg",
+        "https://telegra.ph/file/c4efc377348d1277ac3ea.jpg",
+        "https://telegra.ph/file/24c9f642a09c90861eb34.jpg",
+        "https://telegra.ph/file/bf98da9420abfca386b08.jpg",
+        "https://telegra.ph/file/e22c790b009de65a1e5d8.jpg",
+        "https://telegra.ph/file/43bca6a8af8206ec5c4e8.jpg",
+        "https://telegra.ph/file/bb039a821c779d84e66ee.jpg",
+        "https://telegra.ph/file/2a9fe47761dca766d7356.jpg",
+        "https://telegra.ph/file/a0324e2b4cfe3ae8c2bff.jpg",
+        "https://telegra.ph/file/bd09e52617ef65eaa9311.jpg",
+        "https://telegra.ph/file/a51db0c6d7d690ab76f04.jpg",
+        "https://telegra.ph/file/c1c6e749c73819893bf12.jpg",
+        "https://telegra.ph/file/5cd52465da247ba992337.jpg",
+        "https://telegra.ph/file/e912ddb2378249e73bcc3.jpg",
+        "https://telegra.ph/file/b6335186cd529c1e06771.jpg",
+        "https://telegra.ph/file/7a1eed623fca02f96f7db.jpg",
+        "https://telegra.ph/file/967e09db74ec0630262e8.jpg",
+        "https://telegra.ph/file/3cfc8d337a35da95d4fe4.jpg",
+        "https://telegra.ph/file/12e468542f3390349351e.jpg",
+        "https://telegra.ph/file/dd964b8c7fa629ccc1190.jpg"
+    ]
+};

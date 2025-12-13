@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41251,
+    "title": "Yummichiyo - Rio (Blue Archive)",
+    "sourceUrl": "https://telegra.ph/Yummichiyo---Rio-Blue-Archive-03-13",
+    "images": [
+        "https://telegra.ph/file/4948add2de88e4a173b11.jpg",
+        "https://telegra.ph/file/f21126cb26c4db7c938da.jpg",
+        "https://telegra.ph/file/6887ce8e5804f16971025.jpg",
+        "https://telegra.ph/file/bca852b2edc1898af5951.jpg",
+        "https://telegra.ph/file/5fcf26bd570d962e14cf6.jpg",
+        "https://telegra.ph/file/0b90744e251fc6c8b085f.jpg",
+        "https://telegra.ph/file/251149b30e13751e4feba.jpg",
+        "https://telegra.ph/file/ac82dde6c265f070ef2d9.jpg",
+        "https://telegra.ph/file/f07fc15f9bfa82de7f7bd.jpg",
+        "https://telegra.ph/file/aab01c511398d827c8d51.jpg",
+        "https://telegra.ph/file/251d50f42087c69671bdd.jpg",
+        "https://telegra.ph/file/030c5e58b5f7686a681a2.jpg",
+        "https://telegra.ph/file/9e78fb06e66795893500a.jpg",
+        "https://telegra.ph/file/83decc23b0d0d4ee0bd0e.jpg",
+        "https://telegra.ph/file/e83fd430994ca4dc0b026.jpg",
+        "https://telegra.ph/file/0676ac435135b9b32e26a.jpg",
+        "https://telegra.ph/file/ec65438714fd3d39a5eb2.jpg",
+        "https://telegra.ph/file/43cfe4ad49b3d9e3dd2a9.jpg",
+        "https://telegra.ph/file/058cf347a2c4bcc5cccc8.jpg",
+        "https://telegra.ph/file/9d9bea8f33335b3273dd2.jpg",
+        "https://telegra.ph/file/decc76a8faed619b9326a.jpg",
+        "https://telegra.ph/file/da23cb2d8f67d2d71e591.jpg",
+        "https://telegra.ph/file/4c925add4cc99368107e9.jpg",
+        "https://telegra.ph/file/3114c82daaea120109e43.jpg",
+        "https://telegra.ph/file/38b7834ce5b558a2326a5.jpg",
+        "https://telegra.ph/file/6aa3375da57d98c8d5c8c.jpg"
+    ]
+};

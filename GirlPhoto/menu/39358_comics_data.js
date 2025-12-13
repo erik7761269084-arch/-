@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39358,
+    "title": "UyUy - Nyotengu (Dead Or Alive)",
+    "sourceUrl": "https://telegra.ph/UyUy---Nyotengu-Dead-Or-Alive-07-11",
+    "images": [
+        "https://telegra.ph/file/0361bf7b6fad0d376f1ad.jpg",
+        "https://telegra.ph/file/e9badc94c96723f37ae41.jpg",
+        "https://telegra.ph/file/b77f9888fbe6a7d1d6d26.jpg",
+        "https://telegra.ph/file/cf0c9d9056b4b4262df78.jpg",
+        "https://telegra.ph/file/8ff7e7bcec0ca264e66f9.jpg",
+        "https://telegra.ph/file/de4ae1464e7d6193654a9.jpg",
+        "https://telegra.ph/file/51500e7fccbba5eaaeffb.jpg",
+        "https://telegra.ph/file/7004a1c6f8d4076d91db7.jpg",
+        "https://telegra.ph/file/aef55a3d0c4ec5271d314.jpg",
+        "https://telegra.ph/file/cb980327fc9ae77f8d07e.jpg",
+        "https://telegra.ph/file/0e291217d31beef54ff48.jpg",
+        "https://telegra.ph/file/79f85fc199c79fa92dbe9.jpg",
+        "https://telegra.ph/file/392ee470ebc0945fa5d83.jpg",
+        "https://telegra.ph/file/9b2e386cd83e82db8b1ec.jpg",
+        "https://telegra.ph/file/6aba09e238b1bca4fc30c.jpg",
+        "https://telegra.ph/file/deb664d2584ac05e6dca8.jpg",
+        "https://telegra.ph/file/63c5ff2011e99258ddc90.jpg",
+        "https://telegra.ph/file/c94d441179ae7c6fb03cf.jpg",
+        "https://telegra.ph/file/ec84612d810442e3f2002.jpg",
+        "https://telegra.ph/file/90ea05a19d24bbe5e999e.jpg",
+        "https://telegra.ph/file/5aa0737a33ffadfc002f5.jpg",
+        "https://telegra.ph/file/24e02b4cf5b071ca7d2fa.jpg",
+        "https://telegra.ph/file/6905e81e9ce43d8233460.jpg",
+        "https://telegra.ph/file/1d42dfdb69dfaf243a9af.jpg",
+        "https://telegra.ph/file/d813f3fcbb2e5ac12f936.jpg",
+        "https://telegra.ph/file/6dc39a02eee57c30505d8.jpg"
+    ]
+};

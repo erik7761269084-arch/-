@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43216,
+    "title": "KuukoW - Lady Avalon",
+    "sourceUrl": "https://telegra.ph/KuukoW---Lady-Avalon-09-10",
+    "images": [
+        "https://telegra.ph/file/8becbee9e5d3c2b55c826.jpg",
+        "https://telegra.ph/file/35d08e987b66782c98050.jpg",
+        "https://telegra.ph/file/80b506ba4a00583a1fada.jpg",
+        "https://telegra.ph/file/bb9e1e95f302d9830c87b.jpg",
+        "https://telegra.ph/file/25417f0336b860d493549.jpg",
+        "https://telegra.ph/file/eaeaef9b075c9e67828a9.jpg",
+        "https://telegra.ph/file/4c4851065069ac75f9299.jpg",
+        "https://telegra.ph/file/ee1d19fc0f97216d254a7.jpg",
+        "https://telegra.ph/file/d8582653b04dcc9cb86f0.jpg",
+        "https://telegra.ph/file/52fac1e32c536c1854be3.jpg",
+        "https://telegra.ph/file/b2ebb92f2b6e91dc4cf23.jpg",
+        "https://telegra.ph/file/64583f1725f5f922c147f.jpg",
+        "https://telegra.ph/file/dc20f4540b53efa7fb087.jpg",
+        "https://telegra.ph/file/0f596fff379f30dab9da5.jpg",
+        "https://telegra.ph/file/91a77492a29d4c91f5348.jpg",
+        "https://telegra.ph/file/341933923f19c82f46b8e.jpg",
+        "https://telegra.ph/file/f08dc90acfc739c5054e8.jpg",
+        "https://telegra.ph/file/305753e9400111a35c503.jpg",
+        "https://telegra.ph/file/0c822d5e8d22e8a046009.jpg",
+        "https://telegra.ph/file/e9bb6eec7099f049f103c.jpg",
+        "https://telegra.ph/file/b452cd60578fc10145e7d.jpg",
+        "https://telegra.ph/file/74129bea8adae2c3342df.jpg",
+        "https://telegra.ph/file/ca0e73e557c0e5686bba1.jpg",
+        "https://telegra.ph/file/c33cdf171a3c1bdbbf4aa.jpg",
+        "https://telegra.ph/file/00468f2ccaae5da3bbdc1.jpg",
+        "https://telegra.ph/file/9f82bb6c5e53369d2914b.jpg"
+    ]
+};

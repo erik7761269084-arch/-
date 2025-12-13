@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30400,
+    "title": "[XiuRen秀人网]  No.5136 小果冻儿 美腿丝袜",
+    "sourceUrl": "https://telegra.ph/XiuRen秀人网-No5136-小果冻儿-美腿丝袜-05-29",
+    "images": [
+        "https://telegra.ph/file/5e5e0b50f36d160ba4b57.jpg",
+        "https://telegra.ph/file/0f7a92a6319af822644c5.jpg",
+        "https://telegra.ph/file/c687ea721ec72aa6b27aa.jpg",
+        "https://telegra.ph/file/63a8a4af162b7235a9ca5.jpg",
+        "https://telegra.ph/file/a52e98ac945d46e8747da.jpg",
+        "https://telegra.ph/file/9837fc8bc93aabe454d88.jpg",
+        "https://telegra.ph/file/97587d8c2aca31e90ed78.jpg",
+        "https://telegra.ph/file/66fb47cd27a5e21d822cf.jpg",
+        "https://telegra.ph/file/835a0c244bc1079822494.jpg",
+        "https://telegra.ph/file/80672cd07f08a76e6cc82.jpg",
+        "https://telegra.ph/file/1b8f83577f0d9cf002334.jpg",
+        "https://telegra.ph/file/6f9ae2fcc88ea9ec3513f.jpg",
+        "https://telegra.ph/file/2a76cfd377a48d1cba129.jpg",
+        "https://telegra.ph/file/d871b1d7029deb811e4eb.jpg",
+        "https://telegra.ph/file/70a716b043e62b5dec60c.jpg",
+        "https://telegra.ph/file/bb697b01b9ef9fdd76c87.jpg",
+        "https://telegra.ph/file/11e14a297c2cea0db4186.jpg",
+        "https://telegra.ph/file/c251d5d4a3614ff4b1552.jpg",
+        "https://telegra.ph/file/c88a6a48d410bf01c271a.jpg",
+        "https://telegra.ph/file/9ec43521704730adb9dfc.jpg",
+        "https://telegra.ph/file/74019164d24b54ecff731.jpg",
+        "https://telegra.ph/file/832a8b8d41a62f87d0d2f.jpg",
+        "https://telegra.ph/file/978d72592279e083caf34.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

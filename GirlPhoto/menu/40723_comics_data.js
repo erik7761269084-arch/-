@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40723,
+    "title": "Choi Ji Yun - Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Power-Chainsaw-Man-09-18",
+    "images": [
+        "https://telegra.ph/file/ff9296bd4818bd3094dcc.jpg",
+        "https://telegra.ph/file/0252c3749d2dac0afc88a.jpg",
+        "https://telegra.ph/file/63624f3f5b0621c40ae55.jpg",
+        "https://telegra.ph/file/d0d62255feb7d78f7e0ce.jpg",
+        "https://telegra.ph/file/0686af9b15a911b3f2f5f.jpg",
+        "https://telegra.ph/file/f5424973b1321ee7825ae.jpg",
+        "https://telegra.ph/file/f3affbbb4ab94c0f93820.jpg",
+        "https://telegra.ph/file/ac9da9ad258b6fb0397be.jpg",
+        "https://telegra.ph/file/2b5e6b55f4ddd5f2b6d7a.jpg",
+        "https://telegra.ph/file/9757c78ebf8eae2f2d71f.jpg",
+        "https://telegra.ph/file/9366e3dcbdefedcf1ed40.jpg",
+        "https://telegra.ph/file/f430f4d37f5e338fdefda.jpg",
+        "https://telegra.ph/file/f193c6011a7928d456341.jpg",
+        "https://telegra.ph/file/6b940ece47d8a4242a5ea.jpg",
+        "https://telegra.ph/file/1488dd0aee9acb6a47cbe.jpg",
+        "https://telegra.ph/file/d3dc6f974730fea4a7c5f.jpg",
+        "https://telegra.ph/file/1e9b2468198b1057d2ee7.jpg",
+        "https://telegra.ph/file/57656a9229f291d1f4e04.jpg",
+        "https://telegra.ph/file/05749b51285a610ff47ef.jpg",
+        "https://telegra.ph/file/1d2e89b6e4b1e8b9bfb91.jpg",
+        "https://telegra.ph/file/417124ad87e681e90926b.jpg",
+        "https://telegra.ph/file/efc98e10c525e94c9c1f9.jpg",
+        "https://telegra.ph/file/4a24c28669569b62333bb.jpg"
+    ]
+};

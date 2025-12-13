@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41658,
+    "title": "Kuro Kitsune - Kafka (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Kuro-Kitsune---Kafka-Honkai-Star-Rail-07-02",
+    "images": [
+        "https://telegra.ph/file/e7569e802074f61a4fa39.jpg",
+        "https://telegra.ph/file/cb843d9fc5446ec424817.jpg",
+        "https://telegra.ph/file/0cc04ef3a151a97a09668.jpg",
+        "https://telegra.ph/file/c4767a0eb152b55ab6da4.jpg",
+        "https://telegra.ph/file/3445630cd46b2d3bc48bd.jpg",
+        "https://telegra.ph/file/eb0d859bdceb68be593d5.jpg",
+        "https://telegra.ph/file/c7e32a1d37211ef4d8153.jpg",
+        "https://telegra.ph/file/4bb209be8780927d0bb6e.jpg",
+        "https://telegra.ph/file/1fcb14db104ea06824f70.jpg",
+        "https://telegra.ph/file/93df23992a6327602e654.jpg",
+        "https://telegra.ph/file/6c98bfee1a3317defe30b.jpg",
+        "https://telegra.ph/file/784c2fb73a24478975bbd.jpg",
+        "https://telegra.ph/file/eb61b643411370638e574.jpg",
+        "https://telegra.ph/file/81afe0f40385b4d32dad5.jpg",
+        "https://telegra.ph/file/c5db5888600f6b5d9e0ea.jpg",
+        "https://telegra.ph/file/fbb455628cba4ba416edd.jpg",
+        "https://telegra.ph/file/424b3d2f2c38ce5f08386.jpg",
+        "https://telegra.ph/file/434c409b57b786c53e40c.jpg",
+        "https://telegra.ph/file/b150d4ba870ac423a22f0.jpg",
+        "https://telegra.ph/file/66e2ddfe61a6f4affc852.jpg",
+        "https://telegra.ph/file/59723a9ca14ccf320bc2d.jpg",
+        "https://telegra.ph/file/45b93edf703f1f025ecf0.jpg",
+        "https://telegra.ph/file/175af5a46438d30000898.jpg",
+        "https://telegra.ph/file/19c3cb5205b9af8fa8c01.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42094,
+    "title": "Hana Bunny - Boa Hancock (One Piece)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-15-7",
+    "images": [
+        "https://i.ibb.co/LzP4sRtg/01-Hana-Bunny-Snake-Boa-Hancock-1.jpg",
+        "https://i.ibb.co/NgS7Kj1Q/02-Hana-Bunny-Snake-Boa-Hancock-2.jpg",
+        "https://i.ibb.co/Hpp21kBp/03-Hana-Bunny-Snake-Boa-Hancock-3.jpg",
+        "https://i.ibb.co/Gvn6R6r4/04-Hana-Bunny-Snake-Boa-Hancock-4.jpg",
+        "https://i.ibb.co/WNtQ36zZ/05-Hana-Bunny-Snake-Boa-Hancock-5.jpg",
+        "https://i.ibb.co/V0GjbygV/06-Hana-Bunny-Snake-Boa-Hancock-6.jpg",
+        "https://i.ibb.co/VYgwg28P/07-Hana-Bunny-Snake-Boa-Hancock-7.jpg",
+        "https://i.ibb.co/YTVYqKwF/08-Hana-Bunny-Snake-Boa-Hancock-8.jpg",
+        "https://i.ibb.co/gMdSz6xh/09-Hana-Bunny-Snake-Boa-Hancock-9.jpg",
+        "https://i.ibb.co/CKWZLmFK/10-Hana-Bunny-Snake-Boa-Hancock-10.jpg",
+        "https://i.ibb.co/gLDbXWKn/11-Hana-Bunny-Snake-Boa-Hancock-11.jpg",
+        "https://i.ibb.co/C3y8yxFb/12-Hana-Bunny-Snake-Boa-Hancock-12.jpg",
+        "https://i.ibb.co/jZBpc9sb/13-Hana-Bunny-Snake-Boa-Hancock-13.jpg",
+        "https://i.ibb.co/842mpVm7/14-Hana-Bunny-Snake-Boa-Hancock-S1.jpg",
+        "https://i.ibb.co/q3gWF2fv/15-Hana-Bunny-Snake-Boa-Hancock-S2.jpg",
+        "https://i.ibb.co/twQPx847/16-Hana-Bunny-Snake-Boa-Hancock-Spicy-1.jpg",
+        "https://i.ibb.co/rGS37HnN/17-Hana-Bunny-Snake-Boa-Hancock-Spicy-2.jpg",
+        "https://i.ibb.co/b5jdWk9y/18-Hana-Bunny-Snake-Boa-Hancock-Spicy-3.jpg",
+        "https://i.ibb.co/Kx7gskDm/19-Hana-Bunny-Snake-Boa-Hancock-Spicy-4.jpg",
+        "https://i.ibb.co/tgPgh38/20-Hana-Bunny-Snake-Boa-Hancock-Spicy-5.jpg",
+        "https://i.ibb.co/S4B5K9vS/21-Hana-Bunny-Snake-Boa-Hancock-Spicy-6.jpg",
+        "https://i.ibb.co/DHzm8yZ5/22-Hana-Bunny-Snake-Boa-Hancock-Spicy-7.jpg",
+        "https://i.ibb.co/m5V54T6r/23-Hana-Bunny-Snake-Boa-Hancock-Spicy-8.jpg",
+        "https://i.ibb.co/VWXN4dPk/24-Hana-Bunny-Snake-Boa-Hancock-Spicy-9.jpg",
+        "https://i.ibb.co/1ffJM2st/25-Hana-Bunny-Snake-Boa-Hancock-Spicy-10.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38624,
+    "title": "Kiera Marie - Asuna bathroom (Sword Art Online)",
+    "sourceUrl": "https://telegra.ph/Kiera-Marie---Asuna-bathroom-Sword-Art-Online-12-17",
+    "images": [
+        "https://telegra.ph/file/1bb9f54eda97d25b26cbf.jpg",
+        "https://telegra.ph/file/24812c7b93461b909db75.jpg",
+        "https://telegra.ph/file/504cf35c396d98046a42b.jpg",
+        "https://telegra.ph/file/05b77f729aad5c9cb4201.jpg",
+        "https://telegra.ph/file/7131a5b294e4069d29404.jpg",
+        "https://telegra.ph/file/6d0331c8e535c3f03fa12.jpg",
+        "https://telegra.ph/file/270b52f59f226996bf09c.jpg",
+        "https://telegra.ph/file/42db709d7f33e6b85062f.jpg",
+        "https://telegra.ph/file/24b2463ee6c4d49e98d65.jpg",
+        "https://telegra.ph/file/c993b0d8ea2af2f17de5f.jpg",
+        "https://telegra.ph/file/6c4b8637ec4e396f8f295.jpg",
+        "https://telegra.ph/file/d5ae523bb3ce0096a986a.jpg",
+        "https://telegra.ph/file/7785abcd6fcf2bb9f541a.jpg",
+        "https://telegra.ph/file/795012e804b5c6dcf8c59.jpg",
+        "https://telegra.ph/file/446bd67cf9f718bc2992c.jpg",
+        "https://telegra.ph/file/980134893024985779a78.jpg",
+        "https://telegra.ph/file/eb1d964aba8858f2d1d1c.jpg",
+        "https://telegra.ph/file/4c5d2132a16266af26afe.jpg",
+        "https://telegra.ph/file/bdc9620fe7af802ee64cd.jpg",
+        "https://telegra.ph/file/16ef81bd819a8565b96e6.jpg",
+        "https://telegra.ph/file/fbee27a43f215d5fcd94c.jpg",
+        "https://telegra.ph/file/e9566b328a8d51d9ea580.jpg",
+        "https://telegra.ph/file/df8869e74ba4803907f62.jpg"
+    ]
+};

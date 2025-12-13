@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 24302,
+    "title": "[Cos]阿包也是兔娘 - 温泉巫女 [24P]",
+    "sourceUrl": "https://telegra.ph/Cos%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98---%E6%B8%A9%E6%B3%89%E5%B7%AB%E5%A5%B3-24P-08-14",
+    "images": [
+        "https://telegra.ph/file/890c68dbf5b6bdace2aae.jpg",
+        "https://telegra.ph/file/70747fe3ebce4d491ee02.jpg",
+        "https://telegra.ph/file/765ba4df146e4e1321d82.jpg",
+        "https://telegra.ph/file/72050cfa3ef8be7e68626.jpg",
+        "https://telegra.ph/file/635304537c278dc19f6e5.jpg",
+        "https://telegra.ph/file/f638ae5d41836c5a3bcef.jpg",
+        "https://telegra.ph/file/3bf7d125aa625697caa9f.jpg",
+        "https://telegra.ph/file/5652e5267e1ee85ec1ca5.jpg",
+        "https://telegra.ph/file/673df3e436d6aeafb0795.jpg",
+        "https://telegra.ph/file/99e26c0b8b8d77b59a710.jpg",
+        "https://telegra.ph/file/f1da8c9e9357729d9f011.jpg",
+        "https://telegra.ph/file/a0febe86fb4c280bf3a45.jpg",
+        "https://telegra.ph/file/cceda9d2564833597ef7d.jpg",
+        "https://telegra.ph/file/6700f392c38626c62a520.jpg",
+        "https://telegra.ph/file/0fec99c11278ef952313f.jpg",
+        "https://telegra.ph/file/bfbf64b9a3aea10b0f7bb.jpg",
+        "https://telegra.ph/file/cfbd2137430659b007c8b.jpg",
+        "https://telegra.ph/file/dbf104c47f4e71aca344b.jpg",
+        "https://telegra.ph/file/a2df464989450e6544b6b.jpg",
+        "https://telegra.ph/file/955c980afce66eecd8dc7.jpg",
+        "https://telegra.ph/file/d2a2045f77335c7c99890.jpg",
+        "https://telegra.ph/file/bb6810281138c779132bf.jpg",
+        "https://telegra.ph/file/1705af0c12015de9eaf0a.jpg",
+        "https://telegra.ph/file/c51c984ef5c2a0fba77fa.jpg"
+    ]
+};

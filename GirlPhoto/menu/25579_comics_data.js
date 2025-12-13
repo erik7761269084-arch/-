@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25579,
+    "title": "20220302 制服を着た一日 [26P1V-137MB]",
+    "sourceUrl": "https://telegra.ph/20220302-%E5%88%B6%E6%9C%8D%E3%82%92%E7%9D%80%E3%81%9F%E4%B8%80%E6%97%A5-26P1V-137MB-04-04",
+    "images": [
+        "https://telegra.ph/file/9d496ea0e0f72efeceff7.jpg",
+        "https://telegra.ph/file/aac4817ac8aedbad41b5c.jpg",
+        "https://telegra.ph/file/4c81b65350891d03b7649.jpg",
+        "https://telegra.ph/file/b58e86a31521ee82f7ff9.jpg",
+        "https://telegra.ph/file/eed768c1c8fda360edb71.jpg",
+        "https://telegra.ph/file/2a38e959701945cc075f6.jpg",
+        "https://telegra.ph/file/f2036d86338fa69a3fe3b.jpg",
+        "https://telegra.ph/file/8a6c2494993c12111c4df.jpg",
+        "https://telegra.ph/file/fdffff1f303db0bc6bdd6.jpg",
+        "https://telegra.ph/file/8c89792f800984d5dde55.jpg",
+        "https://telegra.ph/file/1faebf84d48d2453f2c81.jpg",
+        "https://telegra.ph/file/31d80610a12cbb7894c74.jpg",
+        "https://telegra.ph/file/1bf2e8f3f5ab7a3ad6583.jpg",
+        "https://telegra.ph/file/98cbcbb9650331b72ec18.jpg",
+        "https://telegra.ph/file/43e98bc8374cfef8f965c.jpg",
+        "https://telegra.ph/file/215607706e3d709e50a69.jpg",
+        "https://telegra.ph/file/42194442e6f6a359665cf.jpg",
+        "https://telegra.ph/file/cb782d5e428db4d39d6b8.jpg",
+        "https://telegra.ph/file/e040f2022cdbd357cf0b4.jpg",
+        "https://telegra.ph/file/2aaa261a4d94572ce5ad9.jpg",
+        "https://telegra.ph/file/fdb1a3304147bd9bd0435.jpg",
+        "https://telegra.ph/file/117f497f683e1a126f1af.jpg",
+        "https://telegra.ph/file/001452a9cc701b7ed4b21.jpg",
+        "https://telegra.ph/file/039313044c38e7d796c8b.jpg",
+        "https://telegra.ph/file/744585796695c3264946b.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 26276,
+    "title": "三寸萝莉-JK制服双马尾[23P1V]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%89%E5%AF%B8%E8%90%9D%E8%8E%89-JK%E5%88%B6%E6%9C%8D%E5%8F%8C%E9%A9%AC%E5%B0%BE23P1V-07-07",
+    "images": [
+        "https://telegra.ph/file/b5fc7b03314c98cff6dfc.jpg",
+        "https://telegra.ph/file/1c3237bd1cbdbefcd86f7.jpg",
+        "https://telegra.ph/file/8cd2e81e463249b3934a7.jpg",
+        "https://telegra.ph/file/9295cf9697207c72af9cf.jpg",
+        "https://telegra.ph/file/bba134538fbcd507d9fb6.jpg",
+        "https://telegra.ph/file/d83c01ff6320bae1becd6.jpg",
+        "https://telegra.ph/file/94ed69ea84d4223403095.jpg",
+        "https://telegra.ph/file/2aa5d833063e185a40ff4.jpg",
+        "https://telegra.ph/file/91356bffa42ddf79fd847.jpg",
+        "https://telegra.ph/file/d28f283ba607bb3974d58.jpg",
+        "https://telegra.ph/file/09613506fcf99abeb1c22.jpg",
+        "https://telegra.ph/file/24359e6ed9f659fd783d6.jpg",
+        "https://telegra.ph/file/854670be11cfb60ef5d37.jpg",
+        "https://telegra.ph/file/d1b96c364bdec4b2601f9.jpg",
+        "https://telegra.ph/file/b7fd7a792210b5115bf2a.jpg",
+        "https://telegra.ph/file/c83ade68e7df33c314ce0.jpg",
+        "https://telegra.ph/file/9f1d91ab01088c327cd82.jpg",
+        "https://telegra.ph/file/c2d6d59b3fad630cf750c.jpg",
+        "https://telegra.ph/file/1a066e5d03a2e204a78a9.jpg",
+        "https://telegra.ph/file/0664c4f1924c6dd03dedf.jpg",
+        "https://telegra.ph/file/e32bbd6bb8a829cfb1844.jpg",
+        "https://telegra.ph/file/714977317d035aef0ec3b.jpg",
+        "https://telegra.ph/file/ef849642a3c83406960db.jpg"
+    ]
+};

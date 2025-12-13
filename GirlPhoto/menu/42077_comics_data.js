@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42077,
+    "title": "Donna Loli - Tatsumaki lingerie (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-10-5",
+    "images": [
+        "https://i.ibb.co/Y4wGzRSC/donnaloli-senritsunotatsumakilingerie-001-compress6.jpg",
+        "https://i.ibb.co/9kFScVXw/donnaloli-senritsunotatsumakilingerie-002-compress0.jpg",
+        "https://i.ibb.co/CK8TbfKy/donnaloli-senritsunotatsumakilingerie-003-compress46.jpg",
+        "https://i.ibb.co/NnH0sGbc/donnaloli-senritsunotatsumakilingerie-004-compress99.jpg",
+        "https://i.ibb.co/PsR6j4KF/donnaloli-senritsunotatsumakilingerie-005-compress15.jpg",
+        "https://i.ibb.co/WNZZBmrc/donnaloli-senritsunotatsumakilingerie-006-compress88.jpg",
+        "https://i.ibb.co/W44NTf2q/donnaloli-senritsunotatsumakilingerie-007-compress96.jpg",
+        "https://i.ibb.co/rRgHs9vm/donnaloli-senritsunotatsumakilingerie-008-compress44.jpg",
+        "https://i.ibb.co/wZfgyLLt/donnaloli-senritsunotatsumakilingerie-009-compress15.jpg",
+        "https://i.ibb.co/HTpr1gSd/donnaloli-senritsunotatsumakilingerie-010-compress85.jpg",
+        "https://i.ibb.co/LX2F3dPt/donnaloli-senritsunotatsumakilingerie-011-compress2.jpg",
+        "https://i.ibb.co/MDC8xgsF/donnaloli-senritsunotatsumakilingerie-012-compress41.jpg",
+        "https://i.ibb.co/nqYWqhD2/donnaloli-senritsunotatsumakilingerie-013-compress33.jpg",
+        "https://i.ibb.co/FkL4R25h/donnaloli-senritsunotatsumakilingerie-014-compress17.jpg",
+        "https://i.ibb.co/hxgjQK8g/donnaloli-senritsunotatsumakilingerie-015-compress91.jpg",
+        "https://i.ibb.co/600T58Nx/donnaloli-senritsunotatsumakilingerie-016-compress38.jpg",
+        "https://i.ibb.co/pCrv2cK/donnaloli-senritsunotatsumakilingerie-017-compress12.jpg",
+        "https://i.ibb.co/G4rGCWSn/donnaloli-senritsunotatsumakilingerie-018-compress27.jpg",
+        "https://i.ibb.co/hJgznp59/donnaloli-senritsunotatsumakilingerie-019-compress18.jpg",
+        "https://i.ibb.co/ync01FBz/donnaloli-senritsunotatsumakilingerie-020-compress84.jpg",
+        "https://i.ibb.co/6Rn3YPNm/donnaloli-senritsunotatsumakilingerie-021-compress21.jpg",
+        "https://i.ibb.co/bgb15YBY/donnaloli-senritsunotatsumakilingerie-022-compress72.jpg",
+        "https://i.ibb.co/zh3VPWk1/donnaloli-senritsunotatsumakilingerie-023-compress67.jpg",
+        "https://i.ibb.co/2YmkxSzZ/donnaloli-senritsunotatsumakilingerie-024-compress19.jpg",
+        "https://i.ibb.co/bgLYRDNn/donnaloli-senritsunotatsumakilingerie-025-compress97.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31227,
+    "title": "Cosplay Azami あざみ 夜兰 Yelan",
+    "sourceUrl": "https://telegra.ph/Cosplay-Azami-あざみ-夜兰-Yelan-08-16",
+    "images": [
+        "https://telegra.ph/file/00b2bc5f51d26dda02aa5.jpg",
+        "https://telegra.ph/file/6852f5e20529e28e37120.jpg",
+        "https://telegra.ph/file/fc40c1b8b90d0dd0a5e30.jpg",
+        "https://telegra.ph/file/110e89bccfb8dcaea3e75.jpg",
+        "https://telegra.ph/file/aec5abf85483d669cdf31.jpg",
+        "https://telegra.ph/file/cae017205ebb19ffbb068.jpg",
+        "https://telegra.ph/file/5206330c7789c86bdc584.jpg",
+        "https://telegra.ph/file/27c92b11302696cc90589.jpg",
+        "https://telegra.ph/file/2aa46904adc8f924d2b19.jpg",
+        "https://telegra.ph/file/6226ef3298a065ffb6505.jpg",
+        "https://telegra.ph/file/1151db390465399b88251.jpg",
+        "https://telegra.ph/file/c3d5f4e9ec248c4cc6217.jpg",
+        "https://telegra.ph/file/5b1d0d98be9032bec35ec.jpg",
+        "https://telegra.ph/file/d43d4b282e75709a20d21.jpg",
+        "https://telegra.ph/file/d63516e2a529e7b79a16a.jpg",
+        "https://telegra.ph/file/416e7d148ad16ddc2dbfd.jpg",
+        "https://telegra.ph/file/da241b7ecafb95ed60f9a.jpg",
+        "https://telegra.ph/file/98dbcb2ecf012b5eb502c.jpg",
+        "https://telegra.ph/file/fb80f6b920baa6dfe472d.jpg",
+        "https://telegra.ph/file/25d0bd4a3e32e86814748.jpg",
+        "https://telegra.ph/file/1d77d0e0fdd84de3e4e66.jpg",
+        "https://telegra.ph/file/5a12a804814e4ddcfed44.jpg",
+        "https://telegra.ph/file/6d68078eabbbd03cbd969.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

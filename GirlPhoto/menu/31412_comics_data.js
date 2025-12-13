@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31412,
+    "title": "[QUEENIE CHUPPY] Bremerton 布莱默顿",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY-Bremerton-布莱默顿-08-16",
+    "images": [
+        "https://telegra.ph/file/bdc7a2a2310e30ae3779d.jpg",
+        "https://telegra.ph/file/ee0b8ebd7095bfbc1741e.jpg",
+        "https://telegra.ph/file/bc047010d8b1290afc2ac.jpg",
+        "https://telegra.ph/file/dd048ef6a1653e028f78f.jpg",
+        "https://telegra.ph/file/f1132488413f8b5f2fb59.jpg",
+        "https://telegra.ph/file/c86a92847d26460a93335.jpg",
+        "https://telegra.ph/file/35ca76c46ab9c8de768f0.jpg",
+        "https://telegra.ph/file/d54b7f2b3846139077546.jpg",
+        "https://telegra.ph/file/e90431a27ef3be7fcab70.jpg",
+        "https://telegra.ph/file/a5cbe791c7ba13343c821.jpg",
+        "https://telegra.ph/file/0c856fb5adb4b5bb94328.jpg",
+        "https://telegra.ph/file/3e0a924a945b1a61b2628.jpg",
+        "https://telegra.ph/file/ce00b8486f8d91f100df1.jpg",
+        "https://telegra.ph/file/98c915428332eb2d7356f.jpg",
+        "https://telegra.ph/file/175073dea304667d0efad.jpg",
+        "https://telegra.ph/file/ca048af91a7d751ccb497.jpg",
+        "https://telegra.ph/file/dbbe7db0d4b5415700368.jpg",
+        "https://telegra.ph/file/fd275321a97414230c74e.jpg",
+        "https://telegra.ph/file/9cfd90c918d39312f5100.jpg",
+        "https://telegra.ph/file/ec49ac995b57201318490.jpg",
+        "https://telegra.ph/file/2c55f385cb7585dfce09a.jpg",
+        "https://telegra.ph/file/1ac91c847cc75d68a415b.jpg",
+        "https://telegra.ph/file/dac5eaa2416f59f4f22ad.jpg",
+        "https://telegra.ph/file/c1e92ee7d1098cede390c.jpg",
+        "https://telegra.ph/file/0d33d51e66a90f208a2c1.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

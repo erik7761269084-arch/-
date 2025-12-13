@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26915,
+    "title": "小仓千代w-透明女仆粉色[24P]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w-%E9%80%8F%E6%98%8E%E5%A5%B3%E4%BB%86%E7%B2%89%E8%89%B224P-08-18",
+    "images": [
+        "https://telegra.ph/file/f81522c776c26701a618d.jpg",
+        "https://telegra.ph/file/cb805a234fa758476996c.jpg",
+        "https://telegra.ph/file/ca606b8da467222653659.jpg",
+        "https://telegra.ph/file/fabc4ffe0c06c64c5966d.jpg",
+        "https://telegra.ph/file/b837a7d4e29db2dedf7f8.jpg",
+        "https://telegra.ph/file/2d079cca7d0453249cc8d.jpg",
+        "https://telegra.ph/file/5002c93a273bef7c61c70.jpg",
+        "https://telegra.ph/file/ee2cbf48b47846326bc59.jpg",
+        "https://telegra.ph/file/b5fa525eda799e8829a8b.jpg",
+        "https://telegra.ph/file/06d06608ef4599d6e91fc.jpg",
+        "https://telegra.ph/file/c9991633b52a7b36967de.jpg",
+        "https://telegra.ph/file/7abcf0f69ead5dca50115.jpg",
+        "https://telegra.ph/file/554983b1796d20ccdbb9c.jpg",
+        "https://telegra.ph/file/3f262898febeb744f4454.jpg",
+        "https://telegra.ph/file/e6a9db9764c306ae11e3d.jpg",
+        "https://telegra.ph/file/c93aaf4ff8f5858cb29e8.jpg",
+        "https://telegra.ph/file/9d87d16b17bdf54c440a5.jpg",
+        "https://telegra.ph/file/d8d2390a5788950c781ae.jpg",
+        "https://telegra.ph/file/7f9b8ed11d789a45fd6b5.jpg",
+        "https://telegra.ph/file/10872fb8c17acf8501928.jpg",
+        "https://telegra.ph/file/21021603e785560c0f2e1.jpg",
+        "https://telegra.ph/file/44176e465cf9cb37dbdfc.jpg",
+        "https://telegra.ph/file/10bb147f1670310c303aa.jpg",
+        "https://telegra.ph/file/c4b04cc6e334db2f61494.jpg"
+    ]
+};

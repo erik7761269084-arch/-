@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39768,
+    "title": "Carry Key - Nami Bathtub (One Piece)",
+    "sourceUrl": "https://telegra.ph/Carry-Key---Nami-Bathtub-One-Piece-10-05",
+    "images": [
+        "https://telegra.ph/file/194808b969ff2820c784c.jpg",
+        "https://telegra.ph/file/94d55915dec425289ac46.jpg",
+        "https://telegra.ph/file/e4ac8c00a60cb19c41d35.jpg",
+        "https://telegra.ph/file/c65819dcc1c4fafc6609f.jpg",
+        "https://telegra.ph/file/64b45c082be1e7d47b8fe.jpg",
+        "https://telegra.ph/file/5dd9f2494fa6c8fe49f56.jpg",
+        "https://telegra.ph/file/0a9b898190d94be324941.jpg",
+        "https://telegra.ph/file/6ad6a9f51a14c3db2722c.jpg",
+        "https://telegra.ph/file/b3205cda36769069ccca6.jpg",
+        "https://telegra.ph/file/8fa67bb61ad21397b8aec.jpg",
+        "https://telegra.ph/file/c6d039d5aaa629b078140.jpg",
+        "https://telegra.ph/file/a6ac23f39a766a73aae97.jpg",
+        "https://telegra.ph/file/9369cc3302423adf0e5f9.jpg",
+        "https://telegra.ph/file/62daede9245638157ac17.jpg",
+        "https://telegra.ph/file/7443e79e61552a6135769.jpg",
+        "https://telegra.ph/file/8482f5beac3be9373011c.jpg",
+        "https://telegra.ph/file/10ca26d1b6ae9b7883ab5.jpg",
+        "https://telegra.ph/file/85b73b018fb22b897d74d.jpg",
+        "https://telegra.ph/file/28addfcdd9359a86f429e.jpg",
+        "https://telegra.ph/file/52f75acb4b125bf0c23f9.jpg",
+        "https://telegra.ph/file/0e925ce949de0020123bc.jpg",
+        "https://telegra.ph/file/8381ecfe1910c7581e529.jpg",
+        "https://telegra.ph/file/134541ad7f605f2ec4d29.jpg",
+        "https://telegra.ph/file/3d43c7dfd927a47ffb4a4.jpg",
+        "https://telegra.ph/file/059c342ff1a3361593c15.jpg"
+    ]
+};

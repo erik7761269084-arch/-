@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44418,
+    "title": "Hinata2000 - Asuka",
+    "sourceUrl": "https://telegra.ph/Hinata2000---Asuka-11-14",
+    "images": [
+        "https://telegra.ph/file/e2cfca72ee3a7a739a0d4.jpg",
+        "https://telegra.ph/file/9476d8735cb3ac4ccbb7e.jpg",
+        "https://telegra.ph/file/af7665a9b889a6ba6b594.jpg",
+        "https://telegra.ph/file/a10b0c9ddf754f21c21e7.jpg",
+        "https://telegra.ph/file/3a24e01c6f310f708c9e9.jpg",
+        "https://telegra.ph/file/66ca8b244cccf197aa348.jpg",
+        "https://telegra.ph/file/890fef592efc6015f02fc.jpg",
+        "https://telegra.ph/file/6bedb629f7ae0a9095ec9.jpg",
+        "https://telegra.ph/file/bac40bc9ca5f413c853b5.jpg",
+        "https://telegra.ph/file/115a06dfe0bb511472042.jpg",
+        "https://telegra.ph/file/3c24b608e042f379c0204.jpg",
+        "https://telegra.ph/file/149432e06b9b2b4e7196a.jpg",
+        "https://telegra.ph/file/1c77a2b3bb53aa5610ef2.jpg",
+        "https://telegra.ph/file/f6d6ed90d2649cfd37ad9.jpg",
+        "https://telegra.ph/file/9606552a3081ce51efff3.jpg",
+        "https://telegra.ph/file/629daa88cd174a088c078.jpg",
+        "https://telegra.ph/file/b96a1e1696086e0df4559.jpg",
+        "https://telegra.ph/file/7961f1b20f6628e3425c1.jpg",
+        "https://telegra.ph/file/f6b869f3b4fb2e434fac3.jpg",
+        "https://telegra.ph/file/dd8560a99125b86ab8933.jpg",
+        "https://telegra.ph/file/edbcb895268d6aecfd506.jpg",
+        "https://telegra.ph/file/c1b13b3c175c10aed44a2.jpg",
+        "https://telegra.ph/file/0d00c0430bb5f6c96c20b.jpg"
+    ]
+};

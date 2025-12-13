@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40964,
+    "title": "Lada Lyumos - Daenerys (Game Of  Thrones)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Daenerys-Game-Of-Thrones-11-30",
+    "images": [
+        "https://telegra.ph/file/433303192b06619c32a20.jpg",
+        "https://telegra.ph/file/bc549423f000cccf51876.jpg",
+        "https://telegra.ph/file/1ec139e620154261c1b44.jpg",
+        "https://telegra.ph/file/25a5620db5090de44a1ef.jpg",
+        "https://telegra.ph/file/a25b94eee2f3ad13fc0a9.jpg",
+        "https://telegra.ph/file/222f8784a19e7a859a6a1.jpg",
+        "https://telegra.ph/file/c734da8dd0e53aed75492.jpg",
+        "https://telegra.ph/file/8cfdd00e280eb8fff2c54.jpg",
+        "https://telegra.ph/file/0fbe77e26cf3bd16c3c76.jpg",
+        "https://telegra.ph/file/a1da9a48ae7547237358e.jpg",
+        "https://telegra.ph/file/e2d145a369e6c6a94068e.jpg",
+        "https://telegra.ph/file/445b134d20130d2c4ea74.jpg",
+        "https://telegra.ph/file/7e8d17850158e344b7c90.jpg",
+        "https://telegra.ph/file/f00ad6c46298c687fa170.jpg",
+        "https://telegra.ph/file/8df3c1fdc660121f4a6d7.jpg",
+        "https://telegra.ph/file/242bbce97e623df7c13cc.jpg",
+        "https://telegra.ph/file/927f1abdc73ddb97276f6.jpg",
+        "https://telegra.ph/file/f9b9e075d0dfd5ac71de9.jpg",
+        "https://telegra.ph/file/8f070438e1b84defe05db.jpg",
+        "https://telegra.ph/file/d09770de47b08e11d69a8.jpg",
+        "https://telegra.ph/file/84f3f453c100dc29dba15.jpg",
+        "https://telegra.ph/file/c2ac527bf279f1c48252f.jpg",
+        "https://telegra.ph/file/4fd722d0f3468b9977584.jpg",
+        "https://telegra.ph/file/6a80164a5031a8e883944.jpg",
+        "https://telegra.ph/file/162a6a610a6f9d7de0213.jpg"
+    ]
+};

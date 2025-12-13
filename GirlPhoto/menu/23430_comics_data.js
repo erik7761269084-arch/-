@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23430,
+    "title": "かれしちゃん Fantia 2024年1月投稿 [1.42G]2024.1.11_",
+    "sourceUrl": "https://telegra.ph/%E3%81%8B%E3%82%8C%E3%81%97%E3%81%A1%E3%82%83%E3%82%93-Fantia-2024%E5%B9%B41%E6%9C%88%E6%8A%95%E7%A8%BF-142G2024111-02-25",
+    "images": [
+        "https://telegra.ph/file/0eb241ad00bbf29048698.jpg",
+        "https://telegra.ph/file/4b6fb5cafd59f11660572.jpg",
+        "https://telegra.ph/file/a56e63237ceecfc5cc7a8.jpg",
+        "https://telegra.ph/file/b618891ad639d5e41a89d.jpg",
+        "https://telegra.ph/file/76ec83e6ef4453c1eb7bb.jpg",
+        "https://telegra.ph/file/eee5ed32d4b738d549d63.jpg",
+        "https://telegra.ph/file/fa1426dfbd68f44a83173.jpg",
+        "https://telegra.ph/file/5038ed72b28648c43ba03.jpg",
+        "https://telegra.ph/file/cbecf639a065d2a72a3d8.jpg",
+        "https://telegra.ph/file/dd8b36808833b966c6fba.jpg",
+        "https://telegra.ph/file/7c4ef003fb09467dadf86.jpg",
+        "https://telegra.ph/file/61e2433246f76cd0325fa.jpg",
+        "https://telegra.ph/file/e3449746204f336e97fec.jpg",
+        "https://telegra.ph/file/a808501fcd14606030c48.jpg",
+        "https://telegra.ph/file/b642f011dabe26109e0d5.jpg",
+        "https://telegra.ph/file/2903dc8d9c4a551168c34.jpg",
+        "https://telegra.ph/file/b57a1708b95fd87db722c.jpg",
+        "https://telegra.ph/file/56cd3f7c359814f66ec5f.jpg",
+        "https://telegra.ph/file/f42e0425683ab2c2339f1.jpg",
+        "https://telegra.ph/file/8d2e11dc59d01d7a4ff9a.jpg",
+        "https://telegra.ph/file/462cf863fab12a81b34bc.jpg",
+        "https://telegra.ph/file/a7c97e361cc52bf344b01.jpg",
+        "https://telegra.ph/file/829892fae287e11896da1.jpg",
+        "https://telegra.ph/file/cda45d6779d38e9c69a29.jpg",
+        "https://telegra.ph/file/f06b0618b208b540f6d74.jpg",
+        "https://telegra.ph/file/81c270976d8d5a6e93ea5.jpg"
+    ]
+};

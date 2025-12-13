@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43550,
+    "title": "柘烟_Zuken - 吾妻原皮 [23P-204M]",
+    "sourceUrl": "https://telegra.ph/%E6%9F%98%E7%83%9F-Zuken---%E5%90%BE%E5%A6%BB%E5%8E%9F%E7%9A%AE-23P-204M-02-15",
+    "images": [
+        "https://telegra.ph/file/172030576c81affc38a70.jpg",
+        "https://telegra.ph/file/18c0eab4d570e10fe5105.jpg",
+        "https://telegra.ph/file/53557fb372684ebc518f0.jpg",
+        "https://telegra.ph/file/e8fdcf88bef052ff38a3c.jpg",
+        "https://telegra.ph/file/b2dc645d7171fbbe970d7.jpg",
+        "https://telegra.ph/file/04a7f82803945e49d1812.jpg",
+        "https://telegra.ph/file/f31b3c5b8ce0498f2ff4f.jpg",
+        "https://telegra.ph/file/7b0d8cdd5608db20e8193.jpg",
+        "https://telegra.ph/file/dbf43a6779454935f7f73.jpg",
+        "https://telegra.ph/file/7a6c1ab8c6346ebf2690e.jpg",
+        "https://telegra.ph/file/7466f652ef94929e6dba5.jpg",
+        "https://telegra.ph/file/ad25ad3d01afd172f6c60.jpg",
+        "https://telegra.ph/file/31d9a0d3516818ca76fab.jpg",
+        "https://telegra.ph/file/a0297c5ef44d7a52d4e2b.jpg",
+        "https://telegra.ph/file/931410019dd61dd4a3de8.jpg",
+        "https://telegra.ph/file/0ea4d4ec10f0c6f6e8b04.jpg",
+        "https://telegra.ph/file/c4072c57afc954d1b0cfa.jpg",
+        "https://telegra.ph/file/1576156e28de5009caa47.jpg",
+        "https://telegra.ph/file/93ac1135657d15c2f39d9.jpg",
+        "https://telegra.ph/file/738ff16675894ffe92553.jpg",
+        "https://telegra.ph/file/beedc97fdf140d85c3caa.jpg",
+        "https://telegra.ph/file/5a56523e3649eef7a9dc8.jpg",
+        "https://telegra.ph/file/92a0ed6b32114603d08fb.jpg"
+    ]
+};

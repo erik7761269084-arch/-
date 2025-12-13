@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44352,
+    "title": "Azami - Yor",
+    "sourceUrl": "https://telegra.ph/Azami---Yor-11-13",
+    "images": [
+        "https://telegra.ph/file/e017e55ae714948a821e6.jpg",
+        "https://telegra.ph/file/c0c294078a3084b962813.jpg",
+        "https://telegra.ph/file/4f995de8eb16d9e1336ad.jpg",
+        "https://telegra.ph/file/02d2b5a97b257f009905f.jpg",
+        "https://telegra.ph/file/2fe7a94efcea145b60e6e.jpg",
+        "https://telegra.ph/file/fb144ef0ccca29f386216.jpg",
+        "https://telegra.ph/file/0e8b22f4ca58366faf253.jpg",
+        "https://telegra.ph/file/7d05f7f412e51560145f0.jpg",
+        "https://telegra.ph/file/dd716c0f0b48305c3a098.jpg",
+        "https://telegra.ph/file/51bc1bc8f7884327781d0.jpg",
+        "https://telegra.ph/file/345984cd9bae7392bc4cb.jpg",
+        "https://telegra.ph/file/36601976e6fd327b87619.jpg",
+        "https://telegra.ph/file/c32ab8c4b6b016614e30b.jpg",
+        "https://telegra.ph/file/54cca4c558dc68fe5fa4b.jpg",
+        "https://telegra.ph/file/a33b6b3b3f7688896921e.jpg",
+        "https://telegra.ph/file/5f5b761cd07ba77b07f5c.jpg",
+        "https://telegra.ph/file/c582d6a61c63ffe8fa56a.jpg",
+        "https://telegra.ph/file/17d21ea9c3c41451073b4.jpg",
+        "https://telegra.ph/file/a90971ea31b195ad0daf4.jpg",
+        "https://telegra.ph/file/31d8720506979e7d2eaac.jpg",
+        "https://telegra.ph/file/a97d4efb8b2224585f96b.jpg",
+        "https://telegra.ph/file/3d6eb698836e1b0216409.jpg",
+        "https://telegra.ph/file/e33b499b754b7d939cc6a.jpg",
+        "https://telegra.ph/file/48e9f502e688937eb2c6c.jpg",
+        "https://telegra.ph/file/5fe2345983afc70f12aaa.jpg",
+        "https://telegra.ph/file/a1de173bc763821667780.jpg"
+    ]
+};

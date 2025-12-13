@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33630,
+    "title": "[QUEENIE CHUPPY] Ahri Spirit Blossom (league of legends)",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY-Ahri-Spirit-Blossom-league-of-legends-03-24",
+    "images": [
+        "https://telegra.ph/file/b5c3384d52e8b4f06b188.jpg",
+        "https://telegra.ph/file/622df272022d5640932ce.jpg",
+        "https://telegra.ph/file/4a23c8ddb1e211c7c1930.jpg",
+        "https://telegra.ph/file/6e56e48f36699dd360bdb.jpg",
+        "https://telegra.ph/file/86e3913cd5a522063eab7.jpg",
+        "https://telegra.ph/file/d2bc3ddb0a835168574ac.jpg",
+        "https://telegra.ph/file/7f9ea0d2dbffd40521b49.jpg",
+        "https://telegra.ph/file/eb901fdacd7f98476901d.jpg",
+        "https://telegra.ph/file/790b0285a404dd1711dfb.jpg",
+        "https://telegra.ph/file/c12c544d52820abbe54b3.jpg",
+        "https://telegra.ph/file/b183cdddf1aa53eeecb23.jpg",
+        "https://telegra.ph/file/282012860c52bb2b6f93f.jpg",
+        "https://telegra.ph/file/70a1e395947b50b9fa14d.jpg",
+        "https://telegra.ph/file/7991337ef742ee9bf94fa.jpg",
+        "https://telegra.ph/file/0a63eafa022cf1a0f3db6.jpg",
+        "https://telegra.ph/file/02c45196df306568920d1.jpg",
+        "https://telegra.ph/file/068530b5925547e02c933.jpg",
+        "https://telegra.ph/file/b64215ff9b2b332688572.jpg",
+        "https://telegra.ph/file/f74a6f1149d9d8dcfdb87.jpg",
+        "https://telegra.ph/file/0e079dca793ad7021cfb1.jpg",
+        "https://telegra.ph/file/c2671b1b78bb67f96e63a.jpg",
+        "https://telegra.ph/file/97a673621ed7ef0afbbf9.jpg",
+        "https://telegra.ph/file/f79f82e8f48cefd756175.jpg",
+        "https://telegra.ph/file/85f9818fe3ef9bb9cbb32.jpg",
+        "https://telegra.ph/file/8208caef4670c959ce83f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

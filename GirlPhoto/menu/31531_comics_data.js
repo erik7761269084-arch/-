@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31531,
+    "title": "橙子喵酱 Cosplay 明日方舟",
+    "sourceUrl": "https://telegra.ph/橙子喵酱-Cosplay-明日方舟-08-16-2",
+    "images": [
+        "https://telegra.ph/file/979d550492b61ca85eb02.jpg",
+        "https://telegra.ph/file/080f2f45107134f28e2a6.jpg",
+        "https://telegra.ph/file/af813b0e962e59e296ef9.jpg",
+        "https://telegra.ph/file/51322651eecc4dce5b777.jpg",
+        "https://telegra.ph/file/9e4a50dfe9325883b2b2c.jpg",
+        "https://telegra.ph/file/eacb5c6339105e0913033.jpg",
+        "https://telegra.ph/file/1eff111aabd4dee66859d.jpg",
+        "https://telegra.ph/file/5181663d1f657b22dcb72.jpg",
+        "https://telegra.ph/file/4b7b60b1b571b13ddf26c.jpg",
+        "https://telegra.ph/file/f771696a597689d8de6b4.jpg",
+        "https://telegra.ph/file/288fc7fd64120e6b0ded0.jpg",
+        "https://telegra.ph/file/e2a54114eb212ecf111af.jpg",
+        "https://telegra.ph/file/9c57a8e489c0330bf0b9c.jpg",
+        "https://telegra.ph/file/28e72e8dc4c6fccb4d52e.jpg",
+        "https://telegra.ph/file/0530e7289541fc16a3a72.jpg",
+        "https://telegra.ph/file/68f5ce65c86c81f0d693d.jpg",
+        "https://telegra.ph/file/7974b57074c18bdf82f02.jpg",
+        "https://telegra.ph/file/f40bd4e4f4cf67dda977d.jpg",
+        "https://telegra.ph/file/ca785165b98cbf49cb758.jpg",
+        "https://telegra.ph/file/42871cc6a878a5b9d63d1.jpg",
+        "https://telegra.ph/file/7eab630d3e017092f0c25.jpg",
+        "https://telegra.ph/file/29d048363239f892b3a52.jpg",
+        "https://telegra.ph/file/336d49bed46ef7dda41bf.jpg",
+        "https://telegra.ph/file/55a8c0d3221125eff08a6.jpg",
+        "https://telegra.ph/file/c0fb8e0b47cf31b900289.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

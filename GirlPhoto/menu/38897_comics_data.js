@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38897,
+    "title": "KuukoW - Rosalia (Honkai Gakuen)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Rosalia-Honkai-Gakuen-02-23",
+    "images": [
+        "https://telegra.ph/file/7e461f1b66498a64be508.jpg",
+        "https://telegra.ph/file/17eb2c2f8e6236a87dad8.jpg",
+        "https://telegra.ph/file/5396e04ef44461ef1dce1.jpg",
+        "https://telegra.ph/file/6ad3fa85a6dacc1a6b0b5.jpg",
+        "https://telegra.ph/file/f01c2bd7b14b5c470016c.jpg",
+        "https://telegra.ph/file/2050b13e6c3826baf26bc.jpg",
+        "https://telegra.ph/file/fdb783a80af6afc3b63e8.jpg",
+        "https://telegra.ph/file/08b715a948e1c10b2b8d1.jpg",
+        "https://telegra.ph/file/2e3be6adf6fab1c0447e0.jpg",
+        "https://telegra.ph/file/23c24d7ca67abf3aadc4b.jpg",
+        "https://telegra.ph/file/2dcea6fa2f0474bfb7660.jpg",
+        "https://telegra.ph/file/d956daf5986fdf362405d.jpg",
+        "https://telegra.ph/file/86df1afebda3bf21c0c11.jpg",
+        "https://telegra.ph/file/bae93cf9cd66134bc9b86.jpg",
+        "https://telegra.ph/file/7c03adae4129aac9b9033.jpg",
+        "https://telegra.ph/file/bb34dae6b817e0d7c7539.jpg",
+        "https://telegra.ph/file/01f4c7662961836c64dcb.jpg",
+        "https://telegra.ph/file/d58436207095d7901c431.jpg",
+        "https://telegra.ph/file/1ee3d2f090bb622aac20e.jpg",
+        "https://telegra.ph/file/1dfe08df34e25b632c7a8.jpg",
+        "https://telegra.ph/file/0560a49cf921d8f77e6eb.jpg",
+        "https://telegra.ph/file/80a8c54f3d82423952d63.jpg",
+        "https://telegra.ph/file/83de092bbe6444bcf9794.jpg",
+        "https://telegra.ph/file/b8b154642dfe0f361ea29.jpg"
+    ]
+};

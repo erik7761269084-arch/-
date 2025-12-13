@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35053,
+    "title": "Cosplay Sayathefox 2B Black + White",
+    "sourceUrl": "https://telegra.ph/Cosplay-Sayathefox-2B-Black--White-08-16",
+    "images": [
+        "https://telegra.ph/file/c268f3644b8418152e517.jpg",
+        "https://telegra.ph/file/c8a71c3825ab73a249669.jpg",
+        "https://telegra.ph/file/6dc434be6b2518f345c18.jpg",
+        "https://telegra.ph/file/145e1da99b473e01b5431.jpg",
+        "https://telegra.ph/file/7de81a634c1448471feac.jpg",
+        "https://telegra.ph/file/dc1c5fab9e9d059a99525.jpg",
+        "https://telegra.ph/file/0cc0f612cad273dbdac62.jpg",
+        "https://telegra.ph/file/5cd4801cbe58a00721b98.jpg",
+        "https://telegra.ph/file/08aaa187d4c99acb4e45f.jpg",
+        "https://telegra.ph/file/794752194f738126fe913.jpg",
+        "https://telegra.ph/file/5b0b31b7b341fcc00ef00.jpg",
+        "https://telegra.ph/file/a326e7f3238ccda1c3400.jpg",
+        "https://telegra.ph/file/dd6385c48df58cbfdf725.jpg",
+        "https://telegra.ph/file/a2632072aef6d6b0a743f.jpg",
+        "https://telegra.ph/file/f8f715cedc8771f14ce62.jpg",
+        "https://telegra.ph/file/04f3daa60f1f2fc90766d.jpg",
+        "https://telegra.ph/file/3ceda697d5c35fb2cd85b.jpg",
+        "https://telegra.ph/file/0bb355c104eec913344f3.jpg",
+        "https://telegra.ph/file/b053e3d9698f8ca4c381f.jpg",
+        "https://telegra.ph/file/26256848ec8e0f79ffb9b.jpg",
+        "https://telegra.ph/file/64037bfa93c11a50e8c8f.jpg",
+        "https://telegra.ph/file/eca3e79a2f4b54b7e893e.jpg",
+        "https://telegra.ph/file/c08bb684a95d8e073cf6b.jpg",
+        "https://telegra.ph/file/da4727b1a8ba0683957e7.jpg",
+        "https://telegra.ph/file/0da50f40058992b72ab6b.jpg",
+        "https://telegra.ph/file/335c8a0eab8f3078d9359.jpg"
+    ]
+};

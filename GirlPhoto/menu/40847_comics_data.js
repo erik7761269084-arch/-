@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40847,
+    "title": "Xidaidai - Hatsune Miku (Vocaloid)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Hatsune-Miku-Vocaloid-10-24",
+    "images": [
+        "https://telegra.ph/file/859bf5babd0a5bd75d175.jpg",
+        "https://telegra.ph/file/d14411c41d4aae94a03ce.jpg",
+        "https://telegra.ph/file/9e6c98e65dc27a8035b15.jpg",
+        "https://telegra.ph/file/ae904e495091652890c7b.jpg",
+        "https://telegra.ph/file/16516ad40cd4af2fbf117.jpg",
+        "https://telegra.ph/file/3151d01887d47cc64be34.jpg",
+        "https://telegra.ph/file/87ca4c1b26c311004bcf4.jpg",
+        "https://telegra.ph/file/17b70833ba174e77215c3.jpg",
+        "https://telegra.ph/file/19279886095c10604a4f0.jpg",
+        "https://telegra.ph/file/f680f630a43a1390d6dff.jpg",
+        "https://telegra.ph/file/f5fbf28c36b3e8b098758.jpg",
+        "https://telegra.ph/file/ec894db886d63824ae939.jpg",
+        "https://telegra.ph/file/0a68e08033063be32416a.jpg",
+        "https://telegra.ph/file/3ed9f964703dab8666fbf.jpg",
+        "https://telegra.ph/file/c2ce8d991b4ac34715484.jpg",
+        "https://telegra.ph/file/053adc610be095b09c882.jpg",
+        "https://telegra.ph/file/ed578d174f682cddee8e1.jpg",
+        "https://telegra.ph/file/c8a03929a9a4bbc544948.jpg",
+        "https://telegra.ph/file/6f260bc85d4c337f3b167.jpg",
+        "https://telegra.ph/file/2e1278250f3b6f03147d9.jpg",
+        "https://telegra.ph/file/bd29deca6097e34ac0f0e.jpg",
+        "https://telegra.ph/file/b267c8b194061c677d718.jpg",
+        "https://telegra.ph/file/4770549565a3ba3b13b65.jpg",
+        "https://telegra.ph/file/b56aa2d635d050a130793.jpg",
+        "https://telegra.ph/file/7657ec496a85c24483a35.jpg",
+        "https://telegra.ph/file/9b612290959d61a7a2263.jpg"
+    ]
+};

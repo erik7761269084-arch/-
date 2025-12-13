@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39241,
+    "title": "Queenie - Yor Forger (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Queenie---Yor-Forger-Spy-x-Family-06-10",
+    "images": [
+        "https://telegra.ph/file/ff65dc901cc1180effd53.jpg",
+        "https://telegra.ph/file/d762bc6992352839f5caf.jpg",
+        "https://telegra.ph/file/a40f2cbe4e1dd9491ff8a.jpg",
+        "https://telegra.ph/file/debdb338eb14dad1157eb.jpg",
+        "https://telegra.ph/file/780651b527b98869b8947.jpg",
+        "https://telegra.ph/file/9adbb5c96efc8cd5d1497.jpg",
+        "https://telegra.ph/file/5e1fcaa799b159d6cbc77.jpg",
+        "https://telegra.ph/file/fb5510938bdefb970aedd.jpg",
+        "https://telegra.ph/file/97a96428cfe58f43c9503.jpg",
+        "https://telegra.ph/file/8481c6d2786697ce1733b.jpg",
+        "https://telegra.ph/file/450a5ae8ca3289761ab35.jpg",
+        "https://telegra.ph/file/67148d6d4d588c6506991.jpg",
+        "https://telegra.ph/file/b0d8f6b3e0fa9b7978825.jpg",
+        "https://telegra.ph/file/648de7527a695b8ce18aa.jpg",
+        "https://telegra.ph/file/b96281e476c72c179b13b.jpg",
+        "https://telegra.ph/file/95b87878701088c6aecdf.jpg",
+        "https://telegra.ph/file/c5ad8b9064002305c706c.jpg",
+        "https://telegra.ph/file/a0e078eef992e937c3a9f.jpg",
+        "https://telegra.ph/file/4df04999bc02faefc937e.jpg",
+        "https://telegra.ph/file/ee54178beaa1e782ed021.jpg",
+        "https://telegra.ph/file/4df8fa7159af4a0344d1e.jpg",
+        "https://telegra.ph/file/a40e4f7d893d1044e0f98.jpg",
+        "https://telegra.ph/file/1870309ae7d33120524f1.jpg",
+        "https://telegra.ph/file/75053876bca010a4bb308.jpg",
+        "https://telegra.ph/file/45772299bdec8c56cd196.jpg",
+        "https://telegra.ph/file/124974b95d71749f988ee.jpg"
+    ]
+};

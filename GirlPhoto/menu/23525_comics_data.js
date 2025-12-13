@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23525,
+    "title": "小容仔咕咕咕w 菲谢尔[26P1V-253MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E5%AE%B9%E4%BB%94%E5%92%95%E5%92%95%E5%92%95w-%E8%8F%B2%E8%B0%A2%E5%B0%9426P1V-253MB-03-04",
+    "images": [
+        "https://telegra.ph/file/138ca549fb8c88b774cd9.jpg",
+        "https://telegra.ph/file/4e4c874ab3fdb53db2e36.jpg",
+        "https://telegra.ph/file/19698ff6306aa3c9b9341.jpg",
+        "https://telegra.ph/file/9950b794e9e8e45c4e3fe.jpg",
+        "https://telegra.ph/file/3ee62ecb119ce1d721018.jpg",
+        "https://telegra.ph/file/3c43997bd1fc2fb87058b.jpg",
+        "https://telegra.ph/file/abb7689bf1b9e2cc3fef6.jpg",
+        "https://telegra.ph/file/481e61a731220bb5d36a6.jpg",
+        "https://telegra.ph/file/33cf35a1f8ad4b95aab57.jpg",
+        "https://telegra.ph/file/dee56ee7946cebbaee721.jpg",
+        "https://telegra.ph/file/eeaf11bb17bf4b0b65d96.jpg",
+        "https://telegra.ph/file/3c12a99256dbc6fb9bda0.jpg",
+        "https://telegra.ph/file/a3d8bba766c9c05305fc8.jpg",
+        "https://telegra.ph/file/b38475f9a0d27d0a692e1.jpg",
+        "https://telegra.ph/file/9176423fa50a7664aaef7.jpg",
+        "https://telegra.ph/file/5024cc6abbdc0286acc60.jpg",
+        "https://telegra.ph/file/bd37b2549c10e86358f14.jpg",
+        "https://telegra.ph/file/816f5fa07488a47644d9c.jpg",
+        "https://telegra.ph/file/0b84b5fae82b6c7a8fe1c.jpg",
+        "https://telegra.ph/file/40cd35bc0e9d6499fdd02.jpg",
+        "https://telegra.ph/file/9d42cac0cffc5c5096bf2.jpg",
+        "https://telegra.ph/file/f60ff3397bc379ebec52f.jpg",
+        "https://telegra.ph/file/1f512cac7759919b8cda2.jpg",
+        "https://telegra.ph/file/f460eb3741e88b81b82c2.jpg",
+        "https://telegra.ph/file/ca3de2247744c1bd9a518.jpg",
+        "https://telegra.ph/file/57d142eb9214b494bbd98.jpg"
+    ]
+};

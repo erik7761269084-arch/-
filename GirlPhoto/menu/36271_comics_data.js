@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 36271,
+    "title": "Cosplay Meenfox 約爾太太",
+    "sourceUrl": "https://telegra.ph/Cosplay-Meenfox-約爾太太-12-16",
+    "images": [
+        "https://telegra.ph/file/d9c1d5dc3e5fb9a83b554.jpg",
+        "https://telegra.ph/file/63cbca82675d8ec5d8d49.jpg",
+        "https://telegra.ph/file/408a1344dddf4ffac1135.jpg",
+        "https://telegra.ph/file/7f39b0883967bfbdfda0e.jpg",
+        "https://telegra.ph/file/81913392e5c65a71d0042.jpg",
+        "https://telegra.ph/file/f6f8403159ddf232f96de.jpg",
+        "https://telegra.ph/file/23a696c4eb6772870b9d7.jpg",
+        "https://telegra.ph/file/7a0daaedd748069b5b258.jpg",
+        "https://telegra.ph/file/4cf551c17866dd012750d.jpg",
+        "https://telegra.ph/file/ed8a9cdc5ff92c2190d15.jpg",
+        "https://telegra.ph/file/e699637ee68ba1baf0252.jpg",
+        "https://telegra.ph/file/6c79000dea43086df93da.jpg",
+        "https://telegra.ph/file/18946f99b063357be38e9.jpg",
+        "https://telegra.ph/file/aa0c9776b4206d71d39af.jpg",
+        "https://telegra.ph/file/1284494be5c2dd411efce.jpg",
+        "https://telegra.ph/file/c8ca4924bb09e561b4a3a.jpg",
+        "https://telegra.ph/file/5a9f775f17ff86682d947.jpg",
+        "https://telegra.ph/file/a44831c9bbd49ac49c26d.jpg",
+        "https://telegra.ph/file/2557b50bf0b1ac193bbf6.jpg",
+        "https://telegra.ph/file/79e87f93601ff719ac14b.jpg",
+        "https://telegra.ph/file/43be0829d180993d733d5.jpg",
+        "https://telegra.ph/file/8e602208d88de58c025b1.jpg",
+        "https://telegra.ph/file/a6edee2dbafd7c9693ebf.jpg",
+        "https://telegra.ph/file/b809b51558760d5384d7f.jpg"
+    ]
+};

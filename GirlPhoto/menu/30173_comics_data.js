@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30173,
+    "title": "柚木 第06季 [赠品] 24p",
+    "sourceUrl": "https://telegra.ph/柚木-第06季-赠品-24p-04-08",
+    "images": [
+        "https://telegra.ph/file/8cd1e0f98d937b063e911.jpg",
+        "https://telegra.ph/file/87e4314bcf592d76970d6.jpg",
+        "https://telegra.ph/file/3ce1971efb0a7d7ecaafd.jpg",
+        "https://telegra.ph/file/9adb1621d8628c16adc57.jpg",
+        "https://telegra.ph/file/4dfc6e15c206dc7a348ec.jpg",
+        "https://telegra.ph/file/a1bd3f1b16d31c975fcd3.jpg",
+        "https://telegra.ph/file/478ef875540e030703934.jpg",
+        "https://telegra.ph/file/3437bd54d551773189649.jpg",
+        "https://telegra.ph/file/e8c469fd12e005f3610b9.jpg",
+        "https://telegra.ph/file/bd9f0cd72bc8528d6a539.jpg",
+        "https://telegra.ph/file/816ff8c9a8b224fbe09cd.jpg",
+        "https://telegra.ph/file/ff6e3c8fe6ff92e0fa941.jpg",
+        "https://telegra.ph/file/6ac0cd96d89b77fc3a11b.jpg",
+        "https://telegra.ph/file/a9eb018030a0fef27019a.jpg",
+        "https://telegra.ph/file/b65c82b864a1c2481edb1.jpg",
+        "https://telegra.ph/file/2b0e24166246c5ca96735.jpg",
+        "https://telegra.ph/file/bbd9322f80d938345b66e.jpg",
+        "https://telegra.ph/file/fc44764f0cc1a975870e2.jpg",
+        "https://telegra.ph/file/6c56560a74bbf5252fa9c.jpg",
+        "https://telegra.ph/file/78a50eb6262dd28f5df7a.jpg",
+        "https://telegra.ph/file/f48bfeccdb91e7cf3e630.jpg",
+        "https://telegra.ph/file/aef72c375a6e1bdb4480b.jpg",
+        "https://telegra.ph/file/769730ecadfe56b240942.jpg",
+        "https://telegra.ph/file/085cb6396f6a0e3b74e4a.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

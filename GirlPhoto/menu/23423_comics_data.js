@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23423,
+    "title": "Kitaro绮太郎 体操",
+    "sourceUrl": "https://telegra.ph/Kitaro%E7%BB%AE%E5%A4%AA%E9%83%8E-%E4%BD%93%E6%93%8D-02-25",
+    "images": [
+        "https://telegra.ph/file/264ab349dcdfa48e8a350.jpg",
+        "https://telegra.ph/file/76bd6d334841237f1f15d.jpg",
+        "https://telegra.ph/file/29f73be76bd4a6e845f47.jpg",
+        "https://telegra.ph/file/1e906349c324d177dfce0.jpg",
+        "https://telegra.ph/file/c4637bf604b794959b084.jpg",
+        "https://telegra.ph/file/e66591fd720da4b5ae3d1.jpg",
+        "https://telegra.ph/file/0d819bbfa9f7270e45e83.jpg",
+        "https://telegra.ph/file/7353017160559fff0ac02.jpg",
+        "https://telegra.ph/file/803c96b0bd9d77360da9a.jpg",
+        "https://telegra.ph/file/6492d4f824eaadb886be3.jpg",
+        "https://telegra.ph/file/3bcdeba6e1c4ed8bc3117.jpg",
+        "https://telegra.ph/file/fa98a8f271bd48b3e6d3e.jpg",
+        "https://telegra.ph/file/f9e49b187139768c8672c.jpg",
+        "https://telegra.ph/file/f00b015228fc4ef30a1e6.jpg",
+        "https://telegra.ph/file/4c0ff39093f1436721e4d.jpg",
+        "https://telegra.ph/file/b8e09a6eff91b7045e02c.jpg",
+        "https://telegra.ph/file/140af42d6eb6ba1db9eaf.jpg",
+        "https://telegra.ph/file/0052510c16936d6836a07.jpg",
+        "https://telegra.ph/file/d803842dbd792dae0764b.jpg",
+        "https://telegra.ph/file/46b66cdccdd10d8d15a90.jpg",
+        "https://telegra.ph/file/3458053efc07c8fff3850.jpg",
+        "https://telegra.ph/file/fc50ef33b1773cdb5ca88.jpg",
+        "https://telegra.ph/file/5481a856efc9589c1bf04.jpg",
+        "https://telegra.ph/file/cdaa08d09de89c35cf954.jpg"
+    ]
+};

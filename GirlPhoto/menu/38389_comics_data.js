@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38389,
+    "title": "UyUy - DVA Cop (Ovewatch)",
+    "sourceUrl": "https://telegra.ph/UyUy---DVA-Cop-Ovewatch-10-25",
+    "images": [
+        "https://telegra.ph/file/ed97dfe7788805260af3c.jpg",
+        "https://telegra.ph/file/0f89b1e7435d596343be6.jpg",
+        "https://telegra.ph/file/a328a69d52d94675ee28f.jpg",
+        "https://telegra.ph/file/b06a88aa7e0880915f9aa.jpg",
+        "https://telegra.ph/file/52defd8018f9636296b08.jpg",
+        "https://telegra.ph/file/41694fd0da88923de95c7.jpg",
+        "https://telegra.ph/file/e3843ad37495e760bef43.jpg",
+        "https://telegra.ph/file/439f3ec43786ee5c6b4fb.jpg",
+        "https://telegra.ph/file/9a79018b8ba2fb23f5bd7.jpg",
+        "https://telegra.ph/file/6a52cafdc783ce32228f7.jpg",
+        "https://telegra.ph/file/80ab6fec94058b6da7467.jpg",
+        "https://telegra.ph/file/d936010f97bd8e14fd30d.jpg",
+        "https://telegra.ph/file/db3b3cdb68f8aaaeab557.jpg",
+        "https://telegra.ph/file/d7c4d21986d431b507c5c.jpg",
+        "https://telegra.ph/file/ba07301dc41832cb8a618.jpg",
+        "https://telegra.ph/file/b29da04bf723b0091a5db.jpg",
+        "https://telegra.ph/file/99b6ea1ea235fd9c24e0e.jpg",
+        "https://telegra.ph/file/083dcf2925d08460a9a6b.jpg",
+        "https://telegra.ph/file/c8c6e02f85d19abea8e9d.jpg",
+        "https://telegra.ph/file/5f871a6fd9aef10110b81.jpg",
+        "https://telegra.ph/file/3eb0cca11445941ae8963.jpg",
+        "https://telegra.ph/file/a8db256ee50fcb336a3f8.jpg",
+        "https://telegra.ph/file/4e88de57dd3a36a517c18.jpg",
+        "https://telegra.ph/file/3bb3204e5e121ca9473ad.jpg"
+    ]
+};

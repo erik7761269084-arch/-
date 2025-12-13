@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38203,
+    "title": "Miholy - Megane/School (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Miholy---MeganeSchool-Random-Cosplay-08-28",
+    "images": [
+        "https://telegra.ph/file/67e5a56985c4abc167987.jpg",
+        "https://telegra.ph/file/7d8ba8aa8127f6701bbb4.jpg",
+        "https://telegra.ph/file/e45a7a0f8a34804a454fe.jpg",
+        "https://telegra.ph/file/436fcb950a5c848723ffb.jpg",
+        "https://telegra.ph/file/cb215fd6ee6c38c8baf79.jpg",
+        "https://telegra.ph/file/8aabe18426db572ed8e2f.jpg",
+        "https://telegra.ph/file/c0f9b823a700e13fa297c.jpg",
+        "https://telegra.ph/file/486be8eb4ba9dffd07641.jpg",
+        "https://telegra.ph/file/810f87615f8a4955904bb.jpg",
+        "https://telegra.ph/file/9250f8bf2aa791eaa9443.jpg",
+        "https://telegra.ph/file/847c83ff2686a6c2a532a.jpg",
+        "https://telegra.ph/file/2f0d17a03a4740ec9c6b0.jpg",
+        "https://telegra.ph/file/3a58e36d5ab7d6024f45b.jpg",
+        "https://telegra.ph/file/741d8094b3f1c42a672a2.jpg",
+        "https://telegra.ph/file/f97edd0e385e39f8645a9.jpg",
+        "https://telegra.ph/file/65ec0131239f7601b6310.jpg",
+        "https://telegra.ph/file/55aa4d852ad73b393f063.jpg",
+        "https://telegra.ph/file/f2ab9713e8a518c1b219e.jpg",
+        "https://telegra.ph/file/6b4720d26f429f1b7ea31.jpg",
+        "https://telegra.ph/file/f95664efe813df0970857.jpg",
+        "https://telegra.ph/file/6a5fb2e927ff772aebd68.jpg",
+        "https://telegra.ph/file/f48403b8356e7d50c49a3.jpg",
+        "https://telegra.ph/file/84b1deea16ee3725d4931.jpg",
+        "https://telegra.ph/file/5d0fa7246c5871657bbf7.jpg",
+        "https://telegra.ph/file/6bf5b1a1c7735d06b7772.jpg",
+        "https://telegra.ph/file/b7c309262102812df6abc.jpg"
+    ]
+};

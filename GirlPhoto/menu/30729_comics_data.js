@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30729,
+    "title": "[一笑芳香沁] 2B忍者 NieR_Automata ニーア オートマタ",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁-2B忍者-NieR-Automata-ニーア-オートマタ-07-07",
+    "images": [
+        "https://telegra.ph/file/c3193b740628fcaf3ae3f.jpg",
+        "https://telegra.ph/file/d4d8596ad752554739c8c.jpg",
+        "https://telegra.ph/file/25a8d86e4246e8a86f2ce.jpg",
+        "https://telegra.ph/file/ead9bce4f380b78cfbd4b.jpg",
+        "https://telegra.ph/file/22ea1856575c58f0e315d.jpg",
+        "https://telegra.ph/file/4920c4622055ded8dadc0.jpg",
+        "https://telegra.ph/file/eaaf1a2cd12866bb939fb.jpg",
+        "https://telegra.ph/file/f15c32020ec413f59e920.jpg",
+        "https://telegra.ph/file/0c5aa4dab07fc2bae7914.jpg",
+        "https://telegra.ph/file/c70a63c0ff30b3c9b3009.jpg",
+        "https://telegra.ph/file/c5e42439e20d57f30e190.jpg",
+        "https://telegra.ph/file/ea347a6cd6f5111eb3f0d.jpg",
+        "https://telegra.ph/file/c517d3cda858af009eebd.jpg",
+        "https://telegra.ph/file/967468272104d43ca69f4.jpg",
+        "https://telegra.ph/file/a50d0b59e75df997cec3d.jpg",
+        "https://telegra.ph/file/a6a56e1ba2f4edf7cbf3f.jpg",
+        "https://telegra.ph/file/340abaecd69ba1182e544.jpg",
+        "https://telegra.ph/file/ec054c48388e2dd597050.jpg",
+        "https://telegra.ph/file/bbda809870db7dec8d1bd.jpg",
+        "https://telegra.ph/file/d1c213f842e93f2a0ba0b.jpg",
+        "https://telegra.ph/file/567b7fc8ce8e01af6bb45.jpg",
+        "https://telegra.ph/file/ce673133d637d856a7ad7.jpg",
+        "https://telegra.ph/file/e8b8fd134cefe8350487c.jpg",
+        "https://telegra.ph/file/59d2e832ee9088c8b4682.jpg",
+        "https://telegra.ph/file/d53952d48cf8f6b750bdf.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

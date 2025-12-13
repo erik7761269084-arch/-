@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38149,
+    "title": "Virtual Geisha - Mikasa Ackerman (Shingeki No Kyojin)",
+    "sourceUrl": "https://telegra.ph/Virtual-Geisha---Mikasa-Ackerman-Shingeki-No-Kyojin-08-09",
+    "images": [
+        "https://telegra.ph/file/dcd380c8a0208b07bc254.jpg",
+        "https://telegra.ph/file/3d962b84587701fb134b0.jpg",
+        "https://telegra.ph/file/6a383d1528d47bd2942d4.jpg",
+        "https://telegra.ph/file/0aaa57361bf4998866514.jpg",
+        "https://telegra.ph/file/6a9609baa437342374c4f.jpg",
+        "https://telegra.ph/file/cf8a11fcf3ec092cb21a3.jpg",
+        "https://telegra.ph/file/6d97dfe342b1a194db67e.jpg",
+        "https://telegra.ph/file/e42ad5ac619b645e70706.jpg",
+        "https://telegra.ph/file/67de043cd97026c778867.jpg",
+        "https://telegra.ph/file/218f81f7cb071a79aac5f.jpg",
+        "https://telegra.ph/file/c280397d3bdd9d6d58d11.jpg",
+        "https://telegra.ph/file/80272a03f040360fe1f03.jpg",
+        "https://telegra.ph/file/da8ffc774fd2d911bb3e7.jpg",
+        "https://telegra.ph/file/4daf47db98571da55ca72.jpg",
+        "https://telegra.ph/file/1a714143c31a350383cd8.jpg",
+        "https://telegra.ph/file/9d5ad72d6cd46419a1504.jpg",
+        "https://telegra.ph/file/77ab5fd6c2b3fd3884b56.jpg",
+        "https://telegra.ph/file/fa1b9a249d89783404729.jpg",
+        "https://telegra.ph/file/62b42e4a6397267ed4b34.jpg",
+        "https://telegra.ph/file/350ec2ca5fba350848916.jpg",
+        "https://telegra.ph/file/bbacc19a61822d13f9200.jpg",
+        "https://telegra.ph/file/340109056e444b047baea.jpg",
+        "https://telegra.ph/file/befe7c0b13071eaf7ec52.jpg",
+        "https://telegra.ph/file/70c818fdc56eb1a478a0c.jpg",
+        "https://telegra.ph/file/84ec112632dbb1db06321.jpg"
+    ]
+};

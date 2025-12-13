@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31452,
+    "title": "[Ely] Tifa Lockhart Qipao &#8211; Final Fantasy VII",
+    "sourceUrl": "https://telegra.ph/Ely-Tifa-Lockhart-Qipao-8211-Final-Fantasy-VII-08-16",
+    "images": [
+        "https://telegra.ph/file/5f20250e1bd15368839b4.jpg",
+        "https://telegra.ph/file/00f861158f5d1580cc02b.jpg",
+        "https://telegra.ph/file/4d0bcdd2ce08a1b4073a7.jpg",
+        "https://telegra.ph/file/530689760334516745f13.jpg",
+        "https://telegra.ph/file/ae80b1a4ce65722672a4f.jpg",
+        "https://telegra.ph/file/fe2c2a4ab8ff97c56e73c.jpg",
+        "https://telegra.ph/file/d6cb9971bac6e3a84ac12.jpg",
+        "https://telegra.ph/file/6d33c3725b8086ab67591.jpg",
+        "https://telegra.ph/file/366ca84c9ef714f49693a.jpg",
+        "https://telegra.ph/file/706883b1da4f309720d8e.jpg",
+        "https://telegra.ph/file/b95d98b23a88ba41b184a.jpg",
+        "https://telegra.ph/file/fa8752534c176776912d3.jpg",
+        "https://telegra.ph/file/6c26ec3012a7b6be60aa6.jpg",
+        "https://telegra.ph/file/4f9d69d0c58c5e24e294c.jpg",
+        "https://telegra.ph/file/796d9c8416c86072b8a2f.jpg",
+        "https://telegra.ph/file/0f75b39b1d22dc5fe9cf6.jpg",
+        "https://telegra.ph/file/f41799ba003c77f3a071f.jpg",
+        "https://telegra.ph/file/d84dd9e646e35cd4ef3b1.jpg",
+        "https://telegra.ph/file/da0099f8e74d228a4e4ea.jpg",
+        "https://telegra.ph/file/42e9365bcb2564b5d2a07.jpg",
+        "https://telegra.ph/file/b8ea87402659a4305905f.jpg",
+        "https://telegra.ph/file/a0d98a86b6bfc3f1439e4.jpg",
+        "https://telegra.ph/file/31772548903f762dcbb55.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

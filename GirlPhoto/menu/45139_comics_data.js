@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45139,
+    "title": "Yamisung - Yelan",
+    "sourceUrl": "https://telegra.ph/Yamisung---Yelan-07-05",
+    "images": [
+        "https://telegra.ph/file/cbe1fda351d3b7d466a3d.jpg",
+        "https://telegra.ph/file/6398dcc94fdedb8c9686a.jpg",
+        "https://telegra.ph/file/4fcc2e383d359279205ea.jpg",
+        "https://telegra.ph/file/1006b8f8a853ea2ed5083.jpg",
+        "https://telegra.ph/file/c00bc6665f61ffc4e4af5.jpg",
+        "https://telegra.ph/file/113148a0c673011d3b00e.jpg",
+        "https://telegra.ph/file/2a19ccab6631327e03401.jpg",
+        "https://telegra.ph/file/a75919483cc9efd962af6.jpg",
+        "https://telegra.ph/file/cad2f2767364cbff48de2.jpg",
+        "https://telegra.ph/file/424a59269da608540144c.jpg",
+        "https://telegra.ph/file/2e5d2abee9e8c444cdae9.jpg",
+        "https://telegra.ph/file/b318f5b1e1cc64f19e163.jpg",
+        "https://telegra.ph/file/34ef68b993e4eccbc932c.jpg",
+        "https://telegra.ph/file/64acdd61b05f9fde15373.jpg",
+        "https://telegra.ph/file/8a8daa17855e8144d1f6b.jpg",
+        "https://telegra.ph/file/0136c137adc439448d8ed.jpg",
+        "https://telegra.ph/file/5ec2cc32d37e86894ced2.jpg",
+        "https://telegra.ph/file/438af371d0ca71317818a.jpg",
+        "https://telegra.ph/file/afb7ae8c5b69a6182d4b5.jpg",
+        "https://telegra.ph/file/0ce99d7341e7dac800ed1.jpg",
+        "https://telegra.ph/file/230ea33817b0f4ccd7113.jpg",
+        "https://telegra.ph/file/791290cd839687c9c88db.jpg",
+        "https://telegra.ph/file/53ed3e99a0790e4f80200.jpg"
+    ]
+};

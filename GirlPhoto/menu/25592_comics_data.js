@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25592,
+    "title": "迷之呆梨 テニスをするのはとても暑い～💦[25P+1V]",
+    "sourceUrl": "https://telegra.ph/%E8%BF%B7%E4%B9%8B%E5%91%86%E6%A2%A8-%E3%83%86%E3%83%8B%E3%82%B9%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E6%9A%91%E3%81%8425P1V-09-04",
+    "images": [
+        "https://telegra.ph/file/cf3f52d89677ec5eb7d1c.jpg",
+        "https://telegra.ph/file/eef23a4272996436a5ffc.jpg",
+        "https://telegra.ph/file/5816629cc6efbb1d4e1f7.jpg",
+        "https://telegra.ph/file/b6c68160250ea0a5b46d8.jpg",
+        "https://telegra.ph/file/1a87283f8b63b0181c049.jpg",
+        "https://telegra.ph/file/4c47b11aa376b03c944f7.jpg",
+        "https://telegra.ph/file/fa2c4b47e302cd3702131.jpg",
+        "https://telegra.ph/file/19ea9be86684c933f454d.jpg",
+        "https://telegra.ph/file/df9c95229fd79b975c0ab.jpg",
+        "https://telegra.ph/file/e48546a9c57407c5f67fb.jpg",
+        "https://telegra.ph/file/e29fe2a24ba47d581b13a.jpg",
+        "https://telegra.ph/file/778a02fd77695d5031a82.jpg",
+        "https://telegra.ph/file/06f6a3b078e3e63a0150d.jpg",
+        "https://telegra.ph/file/340b8c861c7f105d94ec8.jpg",
+        "https://telegra.ph/file/1d8b505d31c161e74009b.jpg",
+        "https://telegra.ph/file/528b0c08f1c64cd95b3f0.jpg",
+        "https://telegra.ph/file/bcae9f57a04eec469c1b7.jpg",
+        "https://telegra.ph/file/06f7c9987dacc26d2fd1f.jpg",
+        "https://telegra.ph/file/2f1f110f2b14de01e0263.jpg",
+        "https://telegra.ph/file/45c19b3748e325e3d4b5b.jpg",
+        "https://telegra.ph/file/d458554bc6b7434450cdf.jpg",
+        "https://telegra.ph/file/1822b90075a10e236b0b1.jpg",
+        "https://telegra.ph/file/591ead364b0b9a49a94af.jpg",
+        "https://telegra.ph/file/b2e99afe37c8089f85082.jpg",
+        "https://telegra.ph/file/09cc05fa8bdd1716e9324.jpg"
+    ]
+};

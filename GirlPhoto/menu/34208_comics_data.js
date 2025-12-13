@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 34208,
+    "title": "Cosplay 末夜787 白色泳装",
+    "sourceUrl": "https://telegra.ph/Cosplay-末夜787-白色泳装-05-22",
+    "images": [
+        "https://telegra.ph/file/0b2145f0e3fd93affbe7a.jpg",
+        "https://telegra.ph/file/b25979170a71d64aa88ce.jpg",
+        "https://telegra.ph/file/9cf7914f2d37a92dd915e.jpg",
+        "https://telegra.ph/file/95f6698479d4266c4a2ac.jpg",
+        "https://telegra.ph/file/8a715bac29efbeb538001.jpg",
+        "https://telegra.ph/file/74f9378dad38de8923382.jpg",
+        "https://telegra.ph/file/504c89a4f3d57a5d08247.jpg",
+        "https://telegra.ph/file/3007076e84eec350abffd.jpg",
+        "https://telegra.ph/file/d5cee4394e259a7c8eecf.jpg",
+        "https://telegra.ph/file/5d5115aa7379cdc4fa3ca.jpg",
+        "https://telegra.ph/file/ddda7baddd05faac95431.jpg",
+        "https://telegra.ph/file/5e5d328b194f27048edba.jpg",
+        "https://telegra.ph/file/1cd17fc55f0dfe58d4247.jpg",
+        "https://telegra.ph/file/e09d4c86a116619e77040.jpg",
+        "https://telegra.ph/file/d23bdae5eefbeeff4e69f.jpg",
+        "https://telegra.ph/file/ef2ca7da4f3402d8f68e0.jpg",
+        "https://telegra.ph/file/8e9bf189245bdab0c2c02.jpg",
+        "https://telegra.ph/file/0b00db5eb9f1400ceb54f.jpg",
+        "https://telegra.ph/file/3b80008567a9ca274a333.jpg",
+        "https://telegra.ph/file/45586f57e38982dd4b1d2.jpg",
+        "https://telegra.ph/file/e0426b43b6abc24f867ad.jpg",
+        "https://telegra.ph/file/5b11adc2c2db7e55fbe7e.jpg",
+        "https://telegra.ph/file/932d44ca18af813a0479b.jpg"
+    ]
+};

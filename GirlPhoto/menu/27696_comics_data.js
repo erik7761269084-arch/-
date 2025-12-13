@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27696,
+    "title": "ATFMAKER-Mesh Onesies 网袜[26P]",
+    "sourceUrl": "https://telegra.ph/ATFMAKER-Mesh-Onesies-%E7%BD%91%E8%A2%9C26P-07-23",
+    "images": [
+        "https://telegra.ph/file/7fc08bd197ecbdf2ef464.jpg",
+        "https://telegra.ph/file/10ddfa84e9350596bb9fd.jpg",
+        "https://telegra.ph/file/6e1f124be490cd0fe53ab.jpg",
+        "https://telegra.ph/file/8518f2338afc00749eb95.jpg",
+        "https://telegra.ph/file/4dd463b5318da34827004.jpg",
+        "https://telegra.ph/file/ccd70e96ad9d9595f4d6c.jpg",
+        "https://telegra.ph/file/46f672ece154409b7ced8.jpg",
+        "https://telegra.ph/file/f373f1a5fa50e2604e189.jpg",
+        "https://telegra.ph/file/d22f4368d4c9f0fe144c2.jpg",
+        "https://telegra.ph/file/bdd53daf76a42f65fa5f3.jpg",
+        "https://telegra.ph/file/a446216a8f8b9ca958071.jpg",
+        "https://telegra.ph/file/7db7de201a30fd97d32dc.jpg",
+        "https://telegra.ph/file/f7cce18892257c56313cf.jpg",
+        "https://telegra.ph/file/02c9f2c75a34470b5b2a5.jpg",
+        "https://telegra.ph/file/f8ca29b30926d558c613b.jpg",
+        "https://telegra.ph/file/64b00cc58ca949b30b331.jpg",
+        "https://telegra.ph/file/dba9688511d1c17018ee2.jpg",
+        "https://telegra.ph/file/c795fc3563282c7dbe8f2.jpg",
+        "https://telegra.ph/file/35da85e904473c5d03922.jpg",
+        "https://telegra.ph/file/d8eea19dadecf9ad277ae.jpg",
+        "https://telegra.ph/file/275435b4e01326ff9fd7c.jpg",
+        "https://telegra.ph/file/c7f16de8524de03af4a2a.jpg",
+        "https://telegra.ph/file/6068093f3c21343f8c0c8.jpg",
+        "https://telegra.ph/file/9832d51663c7642a0dfa7.jpg",
+        "https://telegra.ph/file/85a947e4cd19bb4e20c8a.jpg",
+        "https://telegra.ph/file/a389c11fe7b446ad6b5bd.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31507,
+    "title": "雨波HaneAme 黒獣 〜気高き聖女は白濁に染まる〜 オルガ コスプレ",
+    "sourceUrl": "https://telegra.ph/雨波HaneAme-黒獣-気高き聖女は白濁に染まる-オルガ-コスプレ-08-16",
+    "images": [
+        "https://telegra.ph/file/43b731714639f50800370.jpg",
+        "https://telegra.ph/file/dd744686eb1cab786f705.jpg",
+        "https://telegra.ph/file/1e56b7024425685e6f7db.jpg",
+        "https://telegra.ph/file/3018876d49c43ce66c49b.jpg",
+        "https://telegra.ph/file/bba900fb30cd938344ca9.jpg",
+        "https://telegra.ph/file/b45a97ba7739cc826e89d.jpg",
+        "https://telegra.ph/file/b0b1b713544811a5128f3.jpg",
+        "https://telegra.ph/file/5e90a33ea31008786662e.jpg",
+        "https://telegra.ph/file/e25a21c4d5bdc82602313.jpg",
+        "https://telegra.ph/file/973db3abae65ca3f378e0.jpg",
+        "https://telegra.ph/file/ed66ca835c79f05ccf8ad.jpg",
+        "https://telegra.ph/file/031eaaeb2d541188293ed.jpg",
+        "https://telegra.ph/file/5062813417df0bf689717.jpg",
+        "https://telegra.ph/file/8dd4d41572e79536b5164.jpg",
+        "https://telegra.ph/file/42fa5683073f89b0316cf.jpg",
+        "https://telegra.ph/file/6e770fdd58a0cf5d9404e.jpg",
+        "https://telegra.ph/file/e11275c93650635094ff6.jpg",
+        "https://telegra.ph/file/b83d6229bcf04ba1c0d82.jpg",
+        "https://telegra.ph/file/276408a6226f839dd563a.jpg",
+        "https://telegra.ph/file/f7f3dbaec95921d16cf26.jpg",
+        "https://telegra.ph/file/745e06807fddb1b587657.jpg",
+        "https://telegra.ph/file/ab010a50145712e4624e0.jpg",
+        "https://telegra.ph/file/c27254f3c18ffe042e233.jpg",
+        "https://telegra.ph/file/ea0eabbc950227259e43f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

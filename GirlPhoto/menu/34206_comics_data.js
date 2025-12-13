@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34206,
+    "title": "[DensTinon] 北京天使 Ariel&#038;Ana 城市全裸露出 Vol.01",
+    "sourceUrl": "https://telegra.ph/DensTinon-北京天使-Ariel038Ana-城市全裸露出-Vol01-05-21",
+    "images": [
+        "https://telegra.ph/file/b4521147c1bf7440a6038.jpg",
+        "https://telegra.ph/file/c653b22ac8ac27f67967f.jpg",
+        "https://telegra.ph/file/34f192bb116935e527a6f.jpg",
+        "https://telegra.ph/file/e9045ab20804f4850f7bf.jpg",
+        "https://telegra.ph/file/dcc9be3fd0222541058e7.jpg",
+        "https://telegra.ph/file/d6d700e020f606c0282ab.jpg",
+        "https://telegra.ph/file/ab654eeb22e7b9eea97ab.jpg",
+        "https://telegra.ph/file/ffc266dbcb5f2b64704d7.jpg",
+        "https://telegra.ph/file/19b4e10f87ac59cd0c83c.jpg",
+        "https://telegra.ph/file/06faaee0844014db3973e.jpg",
+        "https://telegra.ph/file/304218c2cc00c2188488c.jpg",
+        "https://telegra.ph/file/15725c2b47dc036f54ec8.jpg",
+        "https://telegra.ph/file/092b1ed68fa3550144878.jpg",
+        "https://telegra.ph/file/812b8cbc9c2d90e4823ca.jpg",
+        "https://telegra.ph/file/2a319753f739513644e15.jpg",
+        "https://telegra.ph/file/deec080df9ea9fcaf5996.jpg",
+        "https://telegra.ph/file/6371e66c65ec01f21a921.jpg",
+        "https://telegra.ph/file/1b438fe9fa49a2968fae9.jpg",
+        "https://telegra.ph/file/aa95a7a16552525d282b7.jpg",
+        "https://telegra.ph/file/cf200c6b19cd13ffc0834.jpg",
+        "https://telegra.ph/file/79ec35d15825c454894a4.jpg",
+        "https://telegra.ph/file/5f6f531f29ff0703e8fe8.jpg",
+        "https://telegra.ph/file/3297fcb59a37ae4a1b300.jpg",
+        "https://telegra.ph/file/52121ac915e764bd294be.jpg",
+        "https://telegra.ph/file/1103c570a351a2be277d3.jpg"
+    ]
+};

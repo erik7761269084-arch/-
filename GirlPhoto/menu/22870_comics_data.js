@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22870,
+    "title": "七月喵子-蒂迟亚希[24P]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%83%E6%9C%88%E5%96%B5%E5%AD%90-%E8%92%82%E8%BF%9F%E4%BA%9A%E5%B8%8C24P-12-19",
+    "images": [
+        "https://telegra.ph/file/96039c351ca846dec1c69.jpg",
+        "https://telegra.ph/file/4a85d8c5c0f90ac0136aa.jpg",
+        "https://telegra.ph/file/d5d1288375f975a07e422.jpg",
+        "https://telegra.ph/file/3c8b5f5ae814afc8edbe2.jpg",
+        "https://telegra.ph/file/18a6dc36014e455d57ed9.jpg",
+        "https://telegra.ph/file/cd354eb997e1f810d0def.jpg",
+        "https://telegra.ph/file/d2afaa4d7e75518c40956.jpg",
+        "https://telegra.ph/file/4f9bad3266b22165ca9b1.jpg",
+        "https://telegra.ph/file/ed18a052f8f446a17289a.jpg",
+        "https://telegra.ph/file/7c619c9176b4f3524c31f.jpg",
+        "https://telegra.ph/file/d9289b03811a08913add7.jpg",
+        "https://telegra.ph/file/3fee4a9690e96fa6fb753.jpg",
+        "https://telegra.ph/file/71728f4fd7a86a7cb7d77.jpg",
+        "https://telegra.ph/file/fe28b7508175173323add.jpg",
+        "https://telegra.ph/file/a5d8cc24eff1596847ca2.jpg",
+        "https://telegra.ph/file/a47c116625bac3488ab3e.jpg",
+        "https://telegra.ph/file/87d1dab3f6dcc8f36ff29.jpg",
+        "https://telegra.ph/file/e4af1f3b6b758417b5611.jpg",
+        "https://telegra.ph/file/7c7c0f53f12f9b1391e87.jpg",
+        "https://telegra.ph/file/8de85bec98cf1255d8a80.jpg",
+        "https://telegra.ph/file/12a4fff7448a56b66eff8.jpg",
+        "https://telegra.ph/file/06004b2424c77521329bf.jpg",
+        "https://telegra.ph/file/9b585d379e0ebc04bfca6.jpg",
+        "https://telegra.ph/file/3bb38e87bac3858d0455b.jpg"
+    ]
+};

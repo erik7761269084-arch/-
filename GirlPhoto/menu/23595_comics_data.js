@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23595,
+    "title": "桜桃喵 2023年12月 银色高跟鞋",
+    "sourceUrl": "https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5-2023%E5%B9%B412%E6%9C%88-%E9%93%B6%E8%89%B2%E9%AB%98%E8%B7%9F%E9%9E%8B-03-12",
+    "images": [
+        "https://telegra.ph/file/aeb706f65b9fbc60d2e7d.jpg",
+        "https://telegra.ph/file/bd14ce560fbcd4726aac2.jpg",
+        "https://telegra.ph/file/fb929bf84751bb0c4a4bb.jpg",
+        "https://telegra.ph/file/ed377aba6ca2aca3fec25.jpg",
+        "https://telegra.ph/file/370b54cf0da5369ed102b.jpg",
+        "https://telegra.ph/file/fef807317d4b273cb0a32.jpg",
+        "https://telegra.ph/file/1865dc977f4ecb3334a6f.jpg",
+        "https://telegra.ph/file/45f1aaad5246d1ccaa3c9.jpg",
+        "https://telegra.ph/file/a9cee6c1363b489d7a970.jpg",
+        "https://telegra.ph/file/b63c5a7cc2e7fdb4bcd29.jpg",
+        "https://telegra.ph/file/2f981ae9818d53e46f9bf.jpg",
+        "https://telegra.ph/file/dac1611991e02f5db12ac.jpg",
+        "https://telegra.ph/file/af0407a0c80061f02853d.jpg",
+        "https://telegra.ph/file/9406089f4ebd0b1ca512e.jpg",
+        "https://telegra.ph/file/e949ff1c5022bd9fcc60a.jpg",
+        "https://telegra.ph/file/bdd87371a8c58e7407091.jpg",
+        "https://telegra.ph/file/fd9faf5426c29287a6033.jpg",
+        "https://telegra.ph/file/0ef3399ef80b4d162613b.jpg",
+        "https://telegra.ph/file/e7e620665f98c6d6eb7f9.jpg",
+        "https://telegra.ph/file/c09b0507b2885ee533e45.jpg",
+        "https://telegra.ph/file/16a33010e1f968e4ef041.jpg",
+        "https://telegra.ph/file/8c4a4060ce679c9a6758b.jpg",
+        "https://telegra.ph/file/249642dd15523b96c0b44.jpg",
+        "https://telegra.ph/file/fdd9b93bfa339b268889b.jpg",
+        "https://telegra.ph/file/e322b3cc089ff89e6a173.jpg",
+        "https://telegra.ph/file/ddb2b8035ac191ae26495.jpg"
+    ]
+};

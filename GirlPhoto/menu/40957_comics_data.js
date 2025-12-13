@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40957,
+    "title": "Hologana - Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Hologana---Power-Chainsaw-Man-11-28",
+    "images": [
+        "https://telegra.ph/file/2fd2bd021151b6d989577.jpg",
+        "https://telegra.ph/file/e0593b5ee38632ff6df24.jpg",
+        "https://telegra.ph/file/6832723fb3b293039e979.jpg",
+        "https://telegra.ph/file/fe20e0551600f8aa028da.jpg",
+        "https://telegra.ph/file/7cd51daad2b49169c6b34.jpg",
+        "https://telegra.ph/file/1ec86903f8c2ff49c6c42.jpg",
+        "https://telegra.ph/file/88a86bc7d997223c7817e.jpg",
+        "https://telegra.ph/file/e977f3d8795fb507a092c.jpg",
+        "https://telegra.ph/file/4ebb1476ff89c9d063f9f.jpg",
+        "https://telegra.ph/file/f4a57896cc98620da8597.jpg",
+        "https://telegra.ph/file/cb74fd6a106fd5d9cd5cc.jpg",
+        "https://telegra.ph/file/2a86333e538a92506df8f.jpg",
+        "https://telegra.ph/file/6d1d7863eccde122bd7d6.jpg",
+        "https://telegra.ph/file/d7802a169ce89e0a98b84.jpg",
+        "https://telegra.ph/file/b5ac7bd7a04a51f1795cf.jpg",
+        "https://telegra.ph/file/784dfbd84f9e6f4019261.jpg",
+        "https://telegra.ph/file/722687d6e8f5d5aad489a.jpg",
+        "https://telegra.ph/file/02e669c0d225f148739e0.jpg",
+        "https://telegra.ph/file/f02dd74e25f38395a47f7.jpg",
+        "https://telegra.ph/file/3f2662ab963cba8f33fa0.jpg",
+        "https://telegra.ph/file/16713956d2178423a7ee9.jpg",
+        "https://telegra.ph/file/f6e7d64ca0120935dd20e.jpg",
+        "https://telegra.ph/file/3261624d35767ed93490d.jpg",
+        "https://telegra.ph/file/e11481444a667cafab8a2.jpg",
+        "https://telegra.ph/file/00670943e5dd6ca440010.jpg"
+    ]
+};

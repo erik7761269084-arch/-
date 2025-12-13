@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38783,
+    "title": "Sally Dorasnow - Ayaka (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Ayaka-Azur-Lane-01-28",
+    "images": [
+        "https://telegra.ph/file/666297b4ca9caff1aa5b1.jpg",
+        "https://telegra.ph/file/b0de19078883540c3d7ff.jpg",
+        "https://telegra.ph/file/6a416eee3b6900815df96.jpg",
+        "https://telegra.ph/file/8b608ea80b158e08191ae.jpg",
+        "https://telegra.ph/file/2bff8f02f783a720e399e.jpg",
+        "https://telegra.ph/file/3db1f001313883dad251c.jpg",
+        "https://telegra.ph/file/9839b82482d1e745c75a9.jpg",
+        "https://telegra.ph/file/aa646132bbc88548e0f64.jpg",
+        "https://telegra.ph/file/a6a531952aa623337dec3.jpg",
+        "https://telegra.ph/file/050ce0aa4fd380f974435.jpg",
+        "https://telegra.ph/file/008f3e7babbab0c4c8ee7.jpg",
+        "https://telegra.ph/file/37c28bce24b10f36551bc.jpg",
+        "https://telegra.ph/file/cc39668748b2e0d9f17eb.jpg",
+        "https://telegra.ph/file/426ba5ca3c37d97c6dc40.jpg",
+        "https://telegra.ph/file/fafef07e05a19ed64d858.jpg",
+        "https://telegra.ph/file/21707a040682ce8953de6.jpg",
+        "https://telegra.ph/file/125756266fe963b0dfe48.jpg",
+        "https://telegra.ph/file/327a96f323c30827dcf14.jpg",
+        "https://telegra.ph/file/f2063047ecf2a2a460108.jpg",
+        "https://telegra.ph/file/ab06ab75596c9daedbb0d.jpg",
+        "https://telegra.ph/file/f09155177ec95139816e9.jpg",
+        "https://telegra.ph/file/c6a715868adf3362d9677.jpg",
+        "https://telegra.ph/file/1bebcd6b5fa7cdbb65797.jpg",
+        "https://telegra.ph/file/719d8c05d5f49440dd513.jpg",
+        "https://telegra.ph/file/16fb5ff7ac87eaeab0ae5.jpg"
+    ]
+};

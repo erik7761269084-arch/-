@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27863,
+    "title": "[Cos]Byoru - Kainé[25P]",
+    "sourceUrl": "https://telegra.ph/CosByoru---Kain%C3%A925P-07-28",
+    "images": [
+        "https://telegra.ph/file/06c64115eaa5e324d2796.jpg",
+        "https://telegra.ph/file/40109474fcbc3182f57d7.jpg",
+        "https://telegra.ph/file/65b0711eff63cb1c6b32a.jpg",
+        "https://telegra.ph/file/4f76f4fce3d97943e80d2.jpg",
+        "https://telegra.ph/file/43484b78096ddb781f049.jpg",
+        "https://telegra.ph/file/78f629420ec8ad8c71ef4.jpg",
+        "https://telegra.ph/file/c81fecd3f033473ccf0cf.jpg",
+        "https://telegra.ph/file/51e3fad6c5cf204ced30a.jpg",
+        "https://telegra.ph/file/8c3cf080b9620c0c97f04.jpg",
+        "https://telegra.ph/file/c0dc7f72d96572cc3c807.jpg",
+        "https://telegra.ph/file/61d08bfc3223b979ff5ad.jpg",
+        "https://telegra.ph/file/eb953edcc4639fa4a3028.jpg",
+        "https://telegra.ph/file/d604cd9bc7be94915d60c.jpg",
+        "https://telegra.ph/file/8876d29575cc5224849f0.jpg",
+        "https://telegra.ph/file/76adcdd55c95acf14c3f0.jpg",
+        "https://telegra.ph/file/e13016c63e5ca27c3af36.jpg",
+        "https://telegra.ph/file/8e2a2d9a840f9a369cd81.jpg",
+        "https://telegra.ph/file/0d800b5dc6258f4a0d411.jpg",
+        "https://telegra.ph/file/8a62256c73d9e1666470b.jpg",
+        "https://telegra.ph/file/e76708cf38e11da6688bf.jpg",
+        "https://telegra.ph/file/0c3e8509a7c2cbd37bd21.jpg",
+        "https://telegra.ph/file/e65a38c096b22a1ccc80d.jpg",
+        "https://telegra.ph/file/5da8198c29f71dac5682e.jpg",
+        "https://telegra.ph/file/15ffc5fc5ee79134b2a31.jpg",
+        "https://telegra.ph/file/127f9982805bee87397f9.jpg"
+    ]
+};

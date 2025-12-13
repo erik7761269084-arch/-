@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30522,
+    "title": "Minaho Ariga 有賀みなほ, ヘアヌード写真集 「CRAZY SUMMER」 Set.05",
+    "sourceUrl": "https://telegra.ph/Minaho-Ariga-有賀みなほ-ヘアヌード写真集-CRAZY-SUMMER-Set05-06-19",
+    "images": [
+        "https://telegra.ph/file/cecc51e8d7e6d978cca5c.jpg",
+        "https://telegra.ph/file/a57d3f115f5560c228963.jpg",
+        "https://telegra.ph/file/986771e24ba7c0ad938e6.jpg",
+        "https://telegra.ph/file/f1f6a9c3abfa088f5116b.jpg",
+        "https://telegra.ph/file/48b40a648d2a24edd4c61.jpg",
+        "https://telegra.ph/file/199ab8ddfce478a02f00a.jpg",
+        "https://telegra.ph/file/0f1a476aedf9e7760ece1.jpg",
+        "https://telegra.ph/file/28f74bb16df9ada3bc7fe.jpg",
+        "https://telegra.ph/file/a4f737c8c498bfcd3ef37.jpg",
+        "https://telegra.ph/file/5be0229727a007f2b4d2a.jpg",
+        "https://telegra.ph/file/89e819acb0b0cd8e6f1d5.jpg",
+        "https://telegra.ph/file/1f93a0eee0f4a92c96efb.jpg",
+        "https://telegra.ph/file/67ef19052151e0384dec0.jpg",
+        "https://telegra.ph/file/5b4b2576ac6e221430e72.jpg",
+        "https://telegra.ph/file/e63a7f8bfb7eb1e4a2bee.jpg",
+        "https://telegra.ph/file/09d8d23d16352bcdf05bb.jpg",
+        "https://telegra.ph/file/17a07dc1322930c950256.jpg",
+        "https://telegra.ph/file/76c7d30d4b36142771e77.jpg",
+        "https://telegra.ph/file/ff0644a151e1929cae772.jpg",
+        "https://telegra.ph/file/4a04b7a84ccf80790db04.jpg",
+        "https://telegra.ph/file/8ed5121aa7e6a5dc75114.jpg",
+        "https://telegra.ph/file/5f3d639f1c3d832cd39bf.jpg",
+        "https://telegra.ph/file/2e0e24e8d227b3768783f.jpg",
+        "https://telegra.ph/file/224d3fa0228807b893129.jpg",
+        "https://telegra.ph/file/20e97efee95bee9b4bc28.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 36795,
+    "title": "Cosplay 前羽_rr 埃吉尔",
+    "sourceUrl": "https://telegra.ph/Cosplay-前羽-rr-埃吉尔-02-07",
+    "images": [
+        "https://telegra.ph/file/9084c28a15980d6ecd124.jpg",
+        "https://telegra.ph/file/788894f68fa45ee9c64b5.jpg",
+        "https://telegra.ph/file/c1f2bc0764e6ba1a68b62.jpg",
+        "https://telegra.ph/file/ca71c10c1ae42673d73cf.jpg",
+        "https://telegra.ph/file/fe2f069c19f5233683ce4.jpg",
+        "https://telegra.ph/file/437f241d7931b3f023999.jpg",
+        "https://telegra.ph/file/fa741847cc15190d4e394.jpg",
+        "https://telegra.ph/file/ef2596215e2fb290e3f78.jpg",
+        "https://telegra.ph/file/12165bdded7a72ebde29c.jpg",
+        "https://telegra.ph/file/0a6f7790f2bfdb4cf0224.jpg",
+        "https://telegra.ph/file/db87fe2348b6087862280.jpg",
+        "https://telegra.ph/file/60e4d1bb78f2a32cc7bf5.jpg",
+        "https://telegra.ph/file/3c725f4d81a2f9f38d597.jpg",
+        "https://telegra.ph/file/6ca45b33b8c76f67c7df0.jpg",
+        "https://telegra.ph/file/cb3c431df9deba2c5d44c.jpg",
+        "https://telegra.ph/file/1969e9584979e35e7da13.jpg",
+        "https://telegra.ph/file/687403c8230eab36bf822.jpg",
+        "https://telegra.ph/file/dcbb5e78ec07517d2fc63.jpg",
+        "https://telegra.ph/file/7b25b88c19b63616a4490.jpg",
+        "https://telegra.ph/file/a818e14ab5bfaa9f6afff.jpg",
+        "https://telegra.ph/file/918d484915d50d99cd9f2.jpg",
+        "https://telegra.ph/file/dc64724a155b95d28f4ec.jpg",
+        "https://telegra.ph/file/220f1fe6e717edc7dd011.jpg",
+        "https://telegra.ph/file/b916cfcbbe077a3bafbbd.jpg",
+        "https://telegra.ph/file/38c22bbf3352d836ff5b7.jpg",
+        "https://telegra.ph/file/d1039ce41e51e3efa1a95.jpg"
+    ]
+};

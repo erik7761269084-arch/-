@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39900,
+    "title": "Alcololi - Marie Rose (Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/Alcololi---Marie-Rose-Dead-or-Alive-11-18",
+    "images": [
+        "https://telegra.ph/file/5c97230602db053dd1c7f.jpg",
+        "https://telegra.ph/file/b0e1f1c6e7ee4cf41663c.jpg",
+        "https://telegra.ph/file/4a1099808a4d6e16a4092.jpg",
+        "https://telegra.ph/file/e89eec647794ac4961b15.jpg",
+        "https://telegra.ph/file/a7643c3e743557fdc522f.jpg",
+        "https://telegra.ph/file/b019734d1ff77af743a68.jpg",
+        "https://telegra.ph/file/43976be230dcd627a5220.jpg",
+        "https://telegra.ph/file/a5b65bcbe29365d1b29dd.jpg",
+        "https://telegra.ph/file/2385fbb60c7bed5e26ae4.jpg",
+        "https://telegra.ph/file/6b3879cd311ea20819675.jpg",
+        "https://telegra.ph/file/1dae0de60f97eaebe8a65.jpg",
+        "https://telegra.ph/file/63277632d095554849c31.jpg",
+        "https://telegra.ph/file/37a05d075d677deee5ff6.jpg",
+        "https://telegra.ph/file/3dd5d08f57570564cca21.jpg",
+        "https://telegra.ph/file/28c667b6665879589f862.jpg",
+        "https://telegra.ph/file/58d209b9fa89f1f419abb.jpg",
+        "https://telegra.ph/file/fc41de1cde23e12843460.jpg",
+        "https://telegra.ph/file/d169ef56732c9948d7728.jpg",
+        "https://telegra.ph/file/89fcf9b15e2fb3a681ff8.jpg",
+        "https://telegra.ph/file/05884fbd83c35b0aa1ae3.jpg",
+        "https://telegra.ph/file/7b0f40dfb3e1721b0c538.jpg",
+        "https://telegra.ph/file/d80f48a08266a4d8f6d86.jpg",
+        "https://telegra.ph/file/973dec53f45765e27f1ac.jpg",
+        "https://telegra.ph/file/24389818b0952bc6412a1.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38455,
+    "title": "Azami - Guitar Sister (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Azami---Guitar-Sister-Random-Cosplay-11-08",
+    "images": [
+        "https://telegra.ph/file/a605ea69927c9cf3a3d4e.jpg",
+        "https://telegra.ph/file/79ad16efe6a4ce9e09154.jpg",
+        "https://telegra.ph/file/e4a8a8390ae192f865d2d.jpg",
+        "https://telegra.ph/file/014c645a71ddf3cd2cd67.jpg",
+        "https://telegra.ph/file/32699180e89526dd03a06.jpg",
+        "https://telegra.ph/file/bbc066ac1b369c57c5314.jpg",
+        "https://telegra.ph/file/d0ca473427c8891b4fb90.jpg",
+        "https://telegra.ph/file/34857542df9d3d22c411a.jpg",
+        "https://telegra.ph/file/643c19d0198175b59cb7e.jpg",
+        "https://telegra.ph/file/e86db8de62497c8daf521.jpg",
+        "https://telegra.ph/file/b979dae60f1f7b6affbc6.jpg",
+        "https://telegra.ph/file/373e9f942b297e3017652.jpg",
+        "https://telegra.ph/file/a066d7db57f630a3e9271.jpg",
+        "https://telegra.ph/file/5237a13aa5bba7d57bd4d.jpg",
+        "https://telegra.ph/file/1eca2075e203012ed7085.jpg",
+        "https://telegra.ph/file/959a4edb30df41ec47c69.jpg",
+        "https://telegra.ph/file/54f460aafd6053194e3e9.jpg",
+        "https://telegra.ph/file/4bdd3c82c76e64cb57f95.jpg",
+        "https://telegra.ph/file/0f4436a222422c4f2f37d.jpg",
+        "https://telegra.ph/file/817aa8eaa8952c3907707.jpg",
+        "https://telegra.ph/file/73fefcd216c29156c61f8.jpg",
+        "https://telegra.ph/file/31b24b49b0a0436853cbd.jpg",
+        "https://telegra.ph/file/fa4d650a88f8567d20b73.jpg",
+        "https://telegra.ph/file/ad5b4da2048b4eac12fe6.jpg",
+        "https://telegra.ph/file/4d542e1a4d4d6b3f5e9d0.jpg",
+        "https://telegra.ph/file/e34894c07d69c0dce04f1.jpg"
+    ]
+};

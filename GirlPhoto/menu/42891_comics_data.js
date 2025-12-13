@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42891,
+    "title": "汉服I国风12套合集",
+    "sourceUrl": "https://telegra.ph/%E6%B1%89%E6%9C%8DI%E5%9B%BD%E9%A3%8E12%E5%A5%97%E5%90%88%E9%9B%86-07-09",
+    "images": [
+        "https://telegra.ph/file/ae7d7db2cad1fdddeeacb.jpg",
+        "https://telegra.ph/file/327ac6e5aca9d3a3dd6c7.jpg",
+        "https://telegra.ph/file/998be263c59323e418b9d.jpg",
+        "https://telegra.ph/file/ae07fb5999a2019d1f3d5.jpg",
+        "https://telegra.ph/file/d662a4f700aede3c04cb3.jpg",
+        "https://telegra.ph/file/6b03658e8d349ab95f50a.jpg",
+        "https://telegra.ph/file/dcd4e2b49049fd1257e9f.jpg",
+        "https://telegra.ph/file/5cc4627315bfac9b3e3ab.jpg",
+        "https://telegra.ph/file/f693089ba5b11999b0a5e.jpg",
+        "https://telegra.ph/file/cde5ea724615dc1d63e1b.jpg",
+        "https://telegra.ph/file/bac3f9235617bd5994419.jpg",
+        "https://telegra.ph/file/9414c710a98c64e97b9a2.jpg",
+        "https://telegra.ph/file/4037eef420846f19c9ca4.jpg",
+        "https://telegra.ph/file/501a61df98f50bf5e6e86.jpg",
+        "https://telegra.ph/file/c59f97b4823560e2d70ac.jpg",
+        "https://telegra.ph/file/b6c47a2800dbd6af98b06.jpg",
+        "https://telegra.ph/file/f8a760c76a9a4c86d14de.jpg",
+        "https://telegra.ph/file/5ddafc898c356879b80ac.jpg",
+        "https://telegra.ph/file/0fab4b5dfee553238b10a.jpg",
+        "https://telegra.ph/file/543fc1d60b24e45a18fe5.jpg",
+        "https://telegra.ph/file/b34caa7117e525d8078df.jpg",
+        "https://telegra.ph/file/e9aa7f3b6af7bba9cb3fd.jpg",
+        "https://telegra.ph/file/45005cd963ddd5e992ab1.jpg",
+        "https://telegra.ph/file/555dc65dd02d86a53748e.jpg",
+        "https://telegra.ph/file/c30595fc2e4e0d099489b.jpg",
+        "https://telegra.ph/file/43cbf157118cbdadb8158.jpg"
+    ]
+};

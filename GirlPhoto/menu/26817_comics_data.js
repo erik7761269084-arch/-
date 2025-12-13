@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26817,
+    "title": "[Cos]西瓜少女 - 私房猫尾 [24P]",
+    "sourceUrl": "https://telegra.ph/Cos%E8%A5%BF%E7%93%9C%E5%B0%91%E5%A5%B3---%E7%A7%81%E6%88%BF%E7%8C%AB%E5%B0%BE-24P-06-02",
+    "images": [
+        "https://telegra.ph/file/44fa590080488af8dcf8a.jpg",
+        "https://telegra.ph/file/bce2056b3232550bfba94.jpg",
+        "https://telegra.ph/file/3ad51ab4e6c619a50f6c8.jpg",
+        "https://telegra.ph/file/333fa80c1a25d855aa9c6.jpg",
+        "https://telegra.ph/file/8473cb47140ea2516b966.jpg",
+        "https://telegra.ph/file/500776c14d9c99fc8539f.jpg",
+        "https://telegra.ph/file/781aaaabf8d15600b623f.jpg",
+        "https://telegra.ph/file/7aa6a73d6939dc3736294.jpg",
+        "https://telegra.ph/file/e94b5a96bb75d68a80295.jpg",
+        "https://telegra.ph/file/81e23710ca3a5cfb8a1a3.jpg",
+        "https://telegra.ph/file/22d2b7bd0fe37c0cf30b5.jpg",
+        "https://telegra.ph/file/2cd6868463d673e97ac72.jpg",
+        "https://telegra.ph/file/04bc6ed172905242acfb0.jpg",
+        "https://telegra.ph/file/0b83e3da1e4ff9bde2671.jpg",
+        "https://telegra.ph/file/306cd59a3c22391c3cacb.jpg",
+        "https://telegra.ph/file/77f57532f8cbb4a9faf3a.jpg",
+        "https://telegra.ph/file/116ec7ff8cf211adddef1.jpg",
+        "https://telegra.ph/file/de6bd38fa9a0dc3f6cfe1.jpg",
+        "https://telegra.ph/file/88e3447af70b8465d5240.jpg",
+        "https://telegra.ph/file/003becf992c39493b3a45.jpg",
+        "https://telegra.ph/file/0608001fb4da10a1e1051.jpg",
+        "https://telegra.ph/file/e59dbb8e2169a434c11ca.jpg",
+        "https://telegra.ph/file/76e25bae3e3b5ce6abb93.jpg",
+        "https://telegra.ph/file/c0f16e7abd29d94d93d3d.jpg"
+    ]
+};

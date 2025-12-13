@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32816,
+    "title": "PingPing Cosplay ミスティオラ アーテー Mistioria Arte",
+    "sourceUrl": "https://telegra.ph/PingPing-Cosplay-ミスティオラ-アーテー-Mistioria-Arte-01-03",
+    "images": [
+        "https://telegra.ph/file/2b91a5247a9acc96b462e.jpg",
+        "https://telegra.ph/file/f3f58e16ae3a322a3e713.jpg",
+        "https://telegra.ph/file/bc5aa48943e07b0c5f122.jpg",
+        "https://telegra.ph/file/214ead732c79deb33dfed.jpg",
+        "https://telegra.ph/file/89d524570a13579dc430f.jpg",
+        "https://telegra.ph/file/4fe7ae45223f47c257d53.jpg",
+        "https://telegra.ph/file/e3f0b25c0cfa3aee9ea36.jpg",
+        "https://telegra.ph/file/30694589e75fa1fb9c5fc.jpg",
+        "https://telegra.ph/file/46273a06980d06586d000.jpg",
+        "https://telegra.ph/file/e3632f244149537def967.jpg",
+        "https://telegra.ph/file/922a2567248d9dd6cab02.jpg",
+        "https://telegra.ph/file/43536664040b683d58420.jpg",
+        "https://telegra.ph/file/39365949705668950b766.jpg",
+        "https://telegra.ph/file/f22b3c57719ca58cb169b.jpg",
+        "https://telegra.ph/file/12353e71ba546cf30a2e0.jpg",
+        "https://telegra.ph/file/87ab31f6a835be3c76f39.jpg",
+        "https://telegra.ph/file/6698a7f0e0d87244a2bd7.jpg",
+        "https://telegra.ph/file/0bd11c026655f2178558e.jpg",
+        "https://telegra.ph/file/233a1eadfebd295c06cb5.jpg",
+        "https://telegra.ph/file/92e35fc873b7a59db2e7e.jpg",
+        "https://telegra.ph/file/51f8a28388f97425b7285.jpg",
+        "https://telegra.ph/file/bd63aae73490ede64eff3.jpg",
+        "https://telegra.ph/file/c22da2f29222ab3022cfe.jpg",
+        "https://telegra.ph/file/18de7c9558d9d300deb18.jpg",
+        "https://telegra.ph/file/fde1aa34d663de4e088b6.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

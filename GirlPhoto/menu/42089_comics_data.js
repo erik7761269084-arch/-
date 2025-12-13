@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42089,
+    "title": "Hidori Rose - Himeko (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-14-6",
+    "images": [
+        "https://i.ibb.co/Y7BRvPGC/01.jpg",
+        "https://i.ibb.co/zH2PnmBy/02.jpg",
+        "https://i.ibb.co/vvZD80pH/03.jpg",
+        "https://i.ibb.co/2Y16qRVv/04.jpg",
+        "https://i.ibb.co/0pRp4SmK/05.jpg",
+        "https://i.ibb.co/FkMP2w2d/06.jpg",
+        "https://i.ibb.co/S7wqPSYT/07.jpg",
+        "https://i.ibb.co/b51Z2hSt/08.jpg",
+        "https://i.ibb.co/5W4GMsqd/09.jpg",
+        "https://i.ibb.co/9H8xR1g2/10.jpg",
+        "https://i.ibb.co/HL2k60Pq/11.jpg",
+        "https://i.ibb.co/HD7BHKf7/12.jpg",
+        "https://i.ibb.co/Q3Fg06t8/13.jpg",
+        "https://i.ibb.co/WNSp6RJD/14.jpg",
+        "https://i.ibb.co/G4tB7svj/15.jpg",
+        "https://i.ibb.co/pjYYmp51/16.jpg",
+        "https://i.ibb.co/PGbCgrFZ/17.jpg",
+        "https://i.ibb.co/p6fmjDp1/18.jpg",
+        "https://i.ibb.co/dsBfWCkD/19.jpg",
+        "https://i.ibb.co/BH3xXS17/20.jpg",
+        "https://i.ibb.co/sJ3h0j0W/21.jpg",
+        "https://i.ibb.co/pvswSL6C/22.jpg",
+        "https://i.ibb.co/1fNP5zp2/23.jpg",
+        "https://i.ibb.co/tTBQjgzB/24.jpg",
+        "https://i.ibb.co/qMjPdt7j/25.jpg",
+        "https://i.ibb.co/99KfZ68B/99.jpg"
+    ]
+};

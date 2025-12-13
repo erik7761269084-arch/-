@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38022,
+    "title": "Byoru - Ying Yang/Succubus (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Byoru---Ying-YangSuccubus-Random-Cosplay-07-09",
+    "images": [
+        "https://telegra.ph/file/ef0b7b0a2c46b8882d5fd.jpg",
+        "https://telegra.ph/file/eeb710a054ea8c2905761.jpg",
+        "https://telegra.ph/file/a5c54b7fcc7f3234f9281.jpg",
+        "https://telegra.ph/file/53fde8295cf035d7bcccc.jpg",
+        "https://telegra.ph/file/7699dff5bfe2efd157ed7.jpg",
+        "https://telegra.ph/file/e04faa8951059a220de1f.jpg",
+        "https://telegra.ph/file/480fc9fcc4d70636400cf.jpg",
+        "https://telegra.ph/file/a18c1c69386dacb92bccb.jpg",
+        "https://telegra.ph/file/728fee790a090b0faea2c.jpg",
+        "https://telegra.ph/file/0a3ac7aa76c0fadd136c9.jpg",
+        "https://telegra.ph/file/2862a626666963c8c1224.jpg",
+        "https://telegra.ph/file/387fcac89feadf3ce68d7.jpg",
+        "https://telegra.ph/file/e0ad3bde924cac30c16f1.jpg",
+        "https://telegra.ph/file/7b5b3c629c9ad42853ec5.jpg",
+        "https://telegra.ph/file/5d37a935a66916ff4b15e.jpg",
+        "https://telegra.ph/file/1527c64fd5914f902ec25.jpg",
+        "https://telegra.ph/file/f179349a202684dc2b11c.jpg",
+        "https://telegra.ph/file/643442e1383f78a488c30.jpg",
+        "https://telegra.ph/file/f78dafad6b477e4bd96d4.jpg",
+        "https://telegra.ph/file/f199bf08a13d6a0db1ef0.jpg",
+        "https://telegra.ph/file/462b8d5ca49f6c47b2b46.jpg",
+        "https://telegra.ph/file/a5fc035f4928d6671e222.jpg",
+        "https://telegra.ph/file/5a84d2b9a3a049433550a.jpg",
+        "https://telegra.ph/file/57c1927a982bdfe8dcdd1.jpg",
+        "https://telegra.ph/file/0818e3408c4ea942176f1.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40220,
+    "title": "Maria Desu - Seraphine (League Of Legends)",
+    "sourceUrl": "https://telegra.ph/Maria-Desu---Seraphine-League-Of-Legends-03-18",
+    "images": [
+        "https://telegra.ph/file/bbfa96c32d95b1ba3a3a6.jpg",
+        "https://telegra.ph/file/be5bfdec15518672b77d1.jpg",
+        "https://telegra.ph/file/ac5c21dfefb940c3f0ea6.jpg",
+        "https://telegra.ph/file/f4ff012059dbdbf173718.jpg",
+        "https://telegra.ph/file/36741b50d496e27793a1c.jpg",
+        "https://telegra.ph/file/8f4a17dcac4b1bfa44baf.jpg",
+        "https://telegra.ph/file/ee762dfdd5f0ba3b14e22.jpg",
+        "https://telegra.ph/file/3287ca6ecf68a0b183b30.jpg",
+        "https://telegra.ph/file/06780f1ea2b19ef11a42d.jpg",
+        "https://telegra.ph/file/0af5239fe61f48a4fcd16.jpg",
+        "https://telegra.ph/file/ed036bca6018c5489fc6e.jpg",
+        "https://telegra.ph/file/40c1d23777fb4521214be.jpg",
+        "https://telegra.ph/file/47e3470f74c01d81f5ea9.jpg",
+        "https://telegra.ph/file/ba5e602e4a65d074af0fa.jpg",
+        "https://telegra.ph/file/976b57bc823e4260a807f.jpg",
+        "https://telegra.ph/file/a91a3537b227ac9a7ad7b.jpg",
+        "https://telegra.ph/file/c4029fe9b396811ee7b3f.jpg",
+        "https://telegra.ph/file/e973a6c584b57e417c39a.jpg",
+        "https://telegra.ph/file/3feea2b09eb1aedae8673.jpg",
+        "https://telegra.ph/file/0ac63dffb27898dcbf446.jpg",
+        "https://telegra.ph/file/951b0381e71350dc7a4f2.jpg",
+        "https://telegra.ph/file/2601567a23764b6efcb47.jpg",
+        "https://telegra.ph/file/92920313431e0f56bf6cb.jpg",
+        "https://telegra.ph/file/8f28a5ccca0f874935bf0.jpg",
+        "https://telegra.ph/file/e34eaffec4399798d77b4.jpg",
+        "https://telegra.ph/file/e0a32befb9b58c68c8af0.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31135,
+    "title": "[沖田凜花Rinka] Marie Rose Bikini (Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka-Marie-Rose-Bikini-Dead-or-Alive-08-16",
+    "images": [
+        "https://telegra.ph/file/f3ad1cd51366ba56e5c98.jpg",
+        "https://telegra.ph/file/65d42aee037bf9d1f113d.jpg",
+        "https://telegra.ph/file/e8231287f1975a71a04a8.jpg",
+        "https://telegra.ph/file/2a865fdf626009fcc3e05.jpg",
+        "https://telegra.ph/file/2fa1e03cb4a5946876feb.jpg",
+        "https://telegra.ph/file/0de42b097720d0696216b.jpg",
+        "https://telegra.ph/file/345a80b51dea885802266.jpg",
+        "https://telegra.ph/file/df061e72cf67f2a038ffe.jpg",
+        "https://telegra.ph/file/bcc30ae318e55b19f53b5.jpg",
+        "https://telegra.ph/file/cc50736c3d8729c6ba77e.jpg",
+        "https://telegra.ph/file/e575bb5ed35dd94a3a902.jpg",
+        "https://telegra.ph/file/dc9ce02e61117c277e655.jpg",
+        "https://telegra.ph/file/aa265334222c8748426ef.jpg",
+        "https://telegra.ph/file/c2f1ebe6676e1eb2c9e84.jpg",
+        "https://telegra.ph/file/e37a1ffaa53925ef39538.jpg",
+        "https://telegra.ph/file/a80d6cbaa1a303801fdd4.jpg",
+        "https://telegra.ph/file/bf9ab0a3d0795b853265d.jpg",
+        "https://telegra.ph/file/eb3388370439e2a4cd40d.jpg",
+        "https://telegra.ph/file/70d7cd0033122b38deec8.jpg",
+        "https://telegra.ph/file/f6cbc1e1a227611cba0c2.jpg",
+        "https://telegra.ph/file/a4afcb90a4d595c9ae235.jpg",
+        "https://telegra.ph/file/f0afa0549e6e6bf898f8d.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

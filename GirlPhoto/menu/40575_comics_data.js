@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40575,
+    "title": "Helly Valentine - Sombra (Overwatch)",
+    "sourceUrl": "https://telegra.ph/Helly-Valentine---Sombra-Overwatch-08-08",
+    "images": [
+        "https://telegra.ph/file/7a57b83cf6ac36d3fa907.jpg",
+        "https://telegra.ph/file/f656e7468235413e44fdc.jpg",
+        "https://telegra.ph/file/eb3416c50589ba0ba8f5d.jpg",
+        "https://telegra.ph/file/8a54f786bab81104c9c22.jpg",
+        "https://telegra.ph/file/b5c9fa2eb97122fa7d228.jpg",
+        "https://telegra.ph/file/3c1d9b81d0d49516ebb2c.jpg",
+        "https://telegra.ph/file/eb1bda4be8d9f0a5eecc4.jpg",
+        "https://telegra.ph/file/2b2d14c8048fa1abf8fc8.jpg",
+        "https://telegra.ph/file/28285463108d64da5c62e.jpg",
+        "https://telegra.ph/file/bd7f822dfc0a59fce7d49.jpg",
+        "https://telegra.ph/file/7d5ccde10cc1946f650b7.jpg",
+        "https://telegra.ph/file/77cab09b92617c156838e.jpg",
+        "https://telegra.ph/file/2c65bbe55902c36b1d654.jpg",
+        "https://telegra.ph/file/bcfd7a3a72126f4986a74.jpg",
+        "https://telegra.ph/file/ceec0a937617894e01a6a.jpg",
+        "https://telegra.ph/file/14739ac8bd09a81a7a49d.jpg",
+        "https://telegra.ph/file/060d5f348fc86e61ec457.jpg",
+        "https://telegra.ph/file/6ec8e4864db2971aa05e9.jpg",
+        "https://telegra.ph/file/03f8c67dc7ef35a2a2531.jpg",
+        "https://telegra.ph/file/b108641c4d41b8c534014.jpg",
+        "https://telegra.ph/file/62fd32b69a9497b4708d5.jpg",
+        "https://telegra.ph/file/151a96efcdfe1bf2074e5.jpg",
+        "https://telegra.ph/file/5dbcb54b4579f3df6a439.jpg",
+        "https://telegra.ph/file/fa9d589f84cac9c8c0674.jpg",
+        "https://telegra.ph/file/1689f3a35048ac2ae476d.jpg"
+    ]
+};

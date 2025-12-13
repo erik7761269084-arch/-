@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23103,
+    "title": "浅安安 歪萌社修女 [24P-202MB]",
+    "sourceUrl": "https://telegra.ph/%E6%B5%85%E5%AE%89%E5%AE%89-%E6%AD%AA%E8%90%8C%E7%A4%BE%E4%BF%AE%E5%A5%B3-24P-202MB-01-20",
+    "images": [
+        "https://telegra.ph/file/0767793124323686dbf9e.jpg",
+        "https://telegra.ph/file/ed258daf27155cb4a49c0.jpg",
+        "https://telegra.ph/file/6b737c472990674e9e476.jpg",
+        "https://telegra.ph/file/7a61ec2589edae35340f5.jpg",
+        "https://telegra.ph/file/bb7a3d352bd1b3e3325d9.jpg",
+        "https://telegra.ph/file/c649c078ee34642ccbb8d.jpg",
+        "https://telegra.ph/file/96bc234cd5e2560000195.jpg",
+        "https://telegra.ph/file/f5cb3653e7fed95273d5b.jpg",
+        "https://telegra.ph/file/0baec7b184ea1172404e4.jpg",
+        "https://telegra.ph/file/3c159f7fe7605c7f47675.jpg",
+        "https://telegra.ph/file/78f132b1790633a9e566a.jpg",
+        "https://telegra.ph/file/673572eff5f90c12c27e0.jpg",
+        "https://telegra.ph/file/8bc2c7d1dfdcb6aecd6f7.jpg",
+        "https://telegra.ph/file/0673ea34a407e644b5c8d.jpg",
+        "https://telegra.ph/file/fe80bd24c082ac01d8167.jpg",
+        "https://telegra.ph/file/d6a027b16825fb27e472f.jpg",
+        "https://telegra.ph/file/9da276ac24cd3ff59a839.jpg",
+        "https://telegra.ph/file/2c3e24ebc70a682e67870.jpg",
+        "https://telegra.ph/file/48bbecc2dd001c16a6efe.jpg",
+        "https://telegra.ph/file/b3f59c37e28ab591a0beb.jpg",
+        "https://telegra.ph/file/239dda753f94f90b9ba59.jpg",
+        "https://telegra.ph/file/13196305ba60388320c99.jpg",
+        "https://telegra.ph/file/77c24f0763518f33b4a05.jpg",
+        "https://telegra.ph/file/78e31fbf0dee232059d67.jpg"
+    ]
+};

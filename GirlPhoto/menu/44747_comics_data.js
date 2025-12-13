@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44747,
+    "title": "Minichu - 2B Xmas present",
+    "sourceUrl": "https://telegra.ph/Minichu---2B-Xmas-present-02-06",
+    "images": [
+        "https://telegra.ph/file/9c7022b67e69820d760e3.jpg",
+        "https://telegra.ph/file/6c90d5b1f53ba712084da.jpg",
+        "https://telegra.ph/file/be67b351db7e4278a6391.jpg",
+        "https://telegra.ph/file/ed999142550fa9880858c.jpg",
+        "https://telegra.ph/file/9033a9a743cfd7e516d47.jpg",
+        "https://telegra.ph/file/2ddc760567b25bba3b017.jpg",
+        "https://telegra.ph/file/19770e95c199c75cfbc25.jpg",
+        "https://telegra.ph/file/9be41ad80b744672913b5.jpg",
+        "https://telegra.ph/file/866e6e28d6a1fff4bb692.jpg",
+        "https://telegra.ph/file/c8ddbd14af1272f77c6bb.jpg",
+        "https://telegra.ph/file/51d4059c4c1f7c26e729f.jpg",
+        "https://telegra.ph/file/eefa1ad505834ba5ca0ce.jpg",
+        "https://telegra.ph/file/ef133ef22ee4a78090efb.jpg",
+        "https://telegra.ph/file/f8dfb098f4f3744f67815.jpg",
+        "https://telegra.ph/file/e412ad6dacc479b21923b.jpg",
+        "https://telegra.ph/file/c0f7da7f2635b98f91d24.jpg",
+        "https://telegra.ph/file/dd6a5cfcbdefc4fa8aa3e.jpg",
+        "https://telegra.ph/file/3535fdfe191d5a4efd4e1.jpg",
+        "https://telegra.ph/file/ab6005b659c60b7e37a9f.jpg",
+        "https://telegra.ph/file/dcc865e0bfce5dabb6291.jpg",
+        "https://telegra.ph/file/661f99568f5e084754114.jpg",
+        "https://telegra.ph/file/22591818097e10d5d760d.jpg",
+        "https://telegra.ph/file/ece48ec97aea2c82b35a9.jpg"
+    ]
+};

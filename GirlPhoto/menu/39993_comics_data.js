@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39993,
+    "title": "Potato Godzilla - Rei Ayanami (Neon Genesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Rei-Ayanami-Neon-Genesis-Evangelion-12-14",
+    "images": [
+        "https://telegra.ph/file/026b01216d2e2c872003b.jpg",
+        "https://telegra.ph/file/96f0157f4b2213a04c144.jpg",
+        "https://telegra.ph/file/466ef36dfc7be2d4948e4.jpg",
+        "https://telegra.ph/file/48b1764a0091d89e08733.jpg",
+        "https://telegra.ph/file/196fc5aad01b913aaacd4.jpg",
+        "https://telegra.ph/file/073c85af7151278eb2dca.jpg",
+        "https://telegra.ph/file/aeec7345a374b02762c9f.jpg",
+        "https://telegra.ph/file/555b67840164ad0829969.jpg",
+        "https://telegra.ph/file/dcddcb531efce9861e0db.jpg",
+        "https://telegra.ph/file/0a9d342b7e63cb2bb875b.jpg",
+        "https://telegra.ph/file/aa711aef7feaf89150567.jpg",
+        "https://telegra.ph/file/757f37d8872a1ec7d3a6d.jpg",
+        "https://telegra.ph/file/22ce5d33ef8da3d0995e7.jpg",
+        "https://telegra.ph/file/7998027f0eab090f2bcd9.jpg",
+        "https://telegra.ph/file/47aa2b79b52584471bb9f.jpg",
+        "https://telegra.ph/file/22e1469c5187f775a70e6.jpg",
+        "https://telegra.ph/file/e1db2e444475035d64ad9.jpg",
+        "https://telegra.ph/file/c326eb9f0e6bdee089bad.jpg",
+        "https://telegra.ph/file/49cf0049b56b4797891db.jpg",
+        "https://telegra.ph/file/bccaf4cb1b9a70560ab80.jpg",
+        "https://telegra.ph/file/c70219839ce38338008e7.jpg",
+        "https://telegra.ph/file/d7039a23514352debf915.jpg",
+        "https://telegra.ph/file/8a4609508d58ac7e8c8cb.jpg",
+        "https://telegra.ph/file/4a7901ece80ff6af97d16.jpg",
+        "https://telegra.ph/file/6f7828819ef7edca48b02.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38387,
+    "title": "KuukoW - Yukizaki Mizuki (Mahou Kaiju)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Yukizaki-Mizuki-Mahou-Kaiju-10-25",
+    "images": [
+        "https://telegra.ph/file/e4e32085a2048d0e9f6b2.jpg",
+        "https://telegra.ph/file/8b80603683b1238bcc4d3.jpg",
+        "https://telegra.ph/file/33922906d89e09dea2bf7.jpg",
+        "https://telegra.ph/file/d8c9b1729d3b7389b1be6.jpg",
+        "https://telegra.ph/file/8fbca5495ae091f36b162.jpg",
+        "https://telegra.ph/file/7dde9b41dc74f0e6a9dbb.jpg",
+        "https://telegra.ph/file/eb75a213e3d583db63894.jpg",
+        "https://telegra.ph/file/119de8f071e0fcf60024b.jpg",
+        "https://telegra.ph/file/efb23dc4b636dea92b962.jpg",
+        "https://telegra.ph/file/03696b7f2a3e8cb7a902d.jpg",
+        "https://telegra.ph/file/b1a209820f3ce240ef104.jpg",
+        "https://telegra.ph/file/3752c2351b57e85ba8f5a.jpg",
+        "https://telegra.ph/file/e76d415f7430f6c3230ce.jpg",
+        "https://telegra.ph/file/852d07945e94d5acea081.jpg",
+        "https://telegra.ph/file/214e6e37b478687cf23bb.jpg",
+        "https://telegra.ph/file/f521b66c7899e9bd4cf1d.jpg",
+        "https://telegra.ph/file/1682d411c56e0b8677b0b.jpg",
+        "https://telegra.ph/file/e6235c0eae0958b1ccbce.jpg",
+        "https://telegra.ph/file/00580e2a60b37e18662ff.jpg",
+        "https://telegra.ph/file/410491c1978cb7910425e.jpg",
+        "https://telegra.ph/file/1336646a37ba118683493.jpg",
+        "https://telegra.ph/file/9b48d26fef440ea31c0f7.jpg",
+        "https://telegra.ph/file/7f2a491cb30a17d656529.jpg",
+        "https://telegra.ph/file/eb1ca8b8246b8302e2df0.jpg",
+        "https://telegra.ph/file/723004d62cb0f4b12ccdc.jpg",
+        "https://telegra.ph/file/a782d4caff42f14a984cb.jpg"
+    ]
+};

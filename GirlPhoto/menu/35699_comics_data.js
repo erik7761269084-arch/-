@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35699,
+    "title": "Sunny 혜선, LEEHEE EXPRESS LERB-221A Set.01",
+    "sourceUrl": "https://telegra.ph/Sunny-혜선-LEEHEE-EXPRESS-LERB-221A-Set01-10-20",
+    "images": [
+        "https://telegra.ph/file/187dd8d4c31f3d56ed20c.jpg",
+        "https://telegra.ph/file/fc1b8f2116f66ee6a2770.jpg",
+        "https://telegra.ph/file/5042ebdedaa221e1f4675.jpg",
+        "https://telegra.ph/file/f3b59ebd9bc632423916c.jpg",
+        "https://telegra.ph/file/e67b3b311a157a4e35465.jpg",
+        "https://telegra.ph/file/58ce2aabe9c1e54f86464.jpg",
+        "https://telegra.ph/file/4710b59dd16bc2846cef8.jpg",
+        "https://telegra.ph/file/ed17b8ac75bef85227569.jpg",
+        "https://telegra.ph/file/d67f45a222f9a741ed6e3.jpg",
+        "https://telegra.ph/file/64c059f960e1c56b92b05.jpg",
+        "https://telegra.ph/file/cac12538c56bef422b96b.jpg",
+        "https://telegra.ph/file/74979a3fbc382cccd2e8b.jpg",
+        "https://telegra.ph/file/4d9e8b555ea4894b0e31e.jpg",
+        "https://telegra.ph/file/0473fa5f4e05f4ee296f5.jpg",
+        "https://telegra.ph/file/f037f28e9adc78d5ba70f.jpg",
+        "https://telegra.ph/file/f8b7fd228518af7378372.jpg",
+        "https://telegra.ph/file/1ca1f3279d81f0c28a099.jpg",
+        "https://telegra.ph/file/fcdac2d2a23c6343c3c43.jpg",
+        "https://telegra.ph/file/9c991881bd58855893ae1.jpg",
+        "https://telegra.ph/file/10058c4ad7837de41dfeb.jpg",
+        "https://telegra.ph/file/c8a0467b4f90fe3429b6a.jpg",
+        "https://telegra.ph/file/7d72dbc9f7ba0f9dc74a8.jpg",
+        "https://telegra.ph/file/de9d7191b7d8864d548c0.jpg",
+        "https://telegra.ph/file/f518a8b04008238cb615e.jpg",
+        "https://telegra.ph/file/a3a9d694acace72e695ed.jpg"
+    ]
+};

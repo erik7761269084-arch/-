@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32579,
+    "title": "[Momoko葵葵] 龙尼塔 Ronita Cosplay",
+    "sourceUrl": "https://telegra.ph/Momoko葵葵-龙尼塔-Ronita-Cosplay-12-10",
+    "images": [
+        "https://telegra.ph/file/60dc570dfa3aab4294fb9.jpg",
+        "https://telegra.ph/file/2e252759e7f7535d2ba9f.jpg",
+        "https://telegra.ph/file/6ad4d66c72983d4e41d21.jpg",
+        "https://telegra.ph/file/caa1eb8dbe8fbadc2f301.jpg",
+        "https://telegra.ph/file/10e06dc25480e7643adef.jpg",
+        "https://telegra.ph/file/50c2d38a3a5aa8ab1a96a.jpg",
+        "https://telegra.ph/file/19031560997ece8e66927.jpg",
+        "https://telegra.ph/file/9f826c9f4c75cfe92e097.jpg",
+        "https://telegra.ph/file/59a958d58ec24b189ee35.jpg",
+        "https://telegra.ph/file/f9cdf9247abdff606f424.jpg",
+        "https://telegra.ph/file/7216fa252cbf32d6215db.jpg",
+        "https://telegra.ph/file/0b7263fde29f390401b8f.jpg",
+        "https://telegra.ph/file/587b8e5f73d27f533f4dd.jpg",
+        "https://telegra.ph/file/7d2390f2fd621b94b6268.jpg",
+        "https://telegra.ph/file/1b9fa8d85a2deedbb517c.jpg",
+        "https://telegra.ph/file/e8295d64d188ed304637c.jpg",
+        "https://telegra.ph/file/6d287acc0192d073ebb81.jpg",
+        "https://telegra.ph/file/fa2bc6af2a4a999f85701.jpg",
+        "https://telegra.ph/file/8bc29fc60bb7a5515a534.jpg",
+        "https://telegra.ph/file/e06787d4f1534af7d2586.jpg",
+        "https://telegra.ph/file/ffe26cccc48dfb19a626e.jpg",
+        "https://telegra.ph/file/82c71eda6faac28417240.jpg",
+        "https://telegra.ph/file/f56742d7feff299c6195d.jpg",
+        "https://telegra.ph/file/7353c863822c33f428a80.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

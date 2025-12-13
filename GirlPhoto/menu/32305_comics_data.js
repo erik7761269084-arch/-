@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32305,
+    "title": "Cosplay 芦苇苇苇 蓝色女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-芦苇苇苇-蓝色女仆-11-06",
+    "images": [
+        "https://telegra.ph/file/df5e7721a6e498e80e5a6.jpg",
+        "https://telegra.ph/file/8011c86d061dcd8bb261f.jpg",
+        "https://telegra.ph/file/43d3203028b75969e8f34.jpg",
+        "https://telegra.ph/file/e2ce63ef8f8976c87d1fe.jpg",
+        "https://telegra.ph/file/1dcc45399c72454a5409c.jpg",
+        "https://telegra.ph/file/09d8a2148dca7a7b6b6c5.jpg",
+        "https://telegra.ph/file/efcfbfb74320ca6d80823.jpg",
+        "https://telegra.ph/file/ed77eb04523e215a4a684.jpg",
+        "https://telegra.ph/file/7d4b348849b25ba24d33c.jpg",
+        "https://telegra.ph/file/c6b2916c12d140dcf75e9.jpg",
+        "https://telegra.ph/file/4123a078fd0530a11e961.jpg",
+        "https://telegra.ph/file/9f70469c3f15d3a916b91.jpg",
+        "https://telegra.ph/file/942680d127c0822f2773f.jpg",
+        "https://telegra.ph/file/b7c89b684d374e2f45ba7.jpg",
+        "https://telegra.ph/file/894bdf70a7633893efd25.jpg",
+        "https://telegra.ph/file/18a2c1bb3e88ea803eadc.jpg",
+        "https://telegra.ph/file/cc3e6bfd3f69c38ff3595.jpg",
+        "https://telegra.ph/file/2ec1337d92f8c93055675.jpg",
+        "https://telegra.ph/file/0a6bde214b9c3940f8347.jpg",
+        "https://telegra.ph/file/195d3f9327cfb1e401b33.jpg",
+        "https://telegra.ph/file/88b8216f03c4f7ce99ebd.jpg",
+        "https://telegra.ph/file/61947ed900f35a15151d0.jpg",
+        "https://telegra.ph/file/6ef7826bb3bd66bfd6cbb.jpg",
+        "https://telegra.ph/file/7f7991a48cb71b8f45a59.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27169,
+    "title": "眼酱大魔王w-办公小姐姐w[26P]",
+    "sourceUrl": "https://telegra.ph/%E7%9C%BC%E9%85%B1%E5%A4%A7%E9%AD%94%E7%8E%8Bw-%E5%8A%9E%E5%85%AC%E5%B0%8F%E5%A7%90%E5%A7%90w26P-07-28",
+    "images": [
+        "https://telegra.ph/file/b8602f44296acdff8b131.jpg",
+        "https://telegra.ph/file/f081b4b7fc0039792a5ab.jpg",
+        "https://telegra.ph/file/2f602b145c165b4cedf50.jpg",
+        "https://telegra.ph/file/427636819e5f5c0a28442.jpg",
+        "https://telegra.ph/file/5f362861990536904b54c.jpg",
+        "https://telegra.ph/file/13813ab0e9f0f069ccb1a.jpg",
+        "https://telegra.ph/file/c379eacbf8d4a77191397.jpg",
+        "https://telegra.ph/file/3de3cc458f1663bffd0a0.jpg",
+        "https://telegra.ph/file/3aa19a49b32c4b39c4770.jpg",
+        "https://telegra.ph/file/b79bd35663967a6e84b9c.jpg",
+        "https://telegra.ph/file/122c2d074d7b0521382b4.jpg",
+        "https://telegra.ph/file/a10f64842665c7d4b8ead.jpg",
+        "https://telegra.ph/file/91b3fc9b0f532547351e3.jpg",
+        "https://telegra.ph/file/caca00f3e8b6f23e5a53e.jpg",
+        "https://telegra.ph/file/2c471cf07b4633886c63d.jpg",
+        "https://telegra.ph/file/14fb3b136ec014e0787f9.jpg",
+        "https://telegra.ph/file/be3d5b2ab24cc23f1784a.jpg",
+        "https://telegra.ph/file/a6067bf5a1319c391835c.jpg",
+        "https://telegra.ph/file/d3daf07b747d42538594f.jpg",
+        "https://telegra.ph/file/a2cb837f8f63911c275ce.jpg",
+        "https://telegra.ph/file/3c4313590de169182c285.jpg",
+        "https://telegra.ph/file/58d1c593ce0a69ba50f43.jpg",
+        "https://telegra.ph/file/bf254d281816c634484bc.jpg",
+        "https://telegra.ph/file/2bf9d46c9c43c34c37a42.jpg"
+    ]
+};

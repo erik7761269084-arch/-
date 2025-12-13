@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29675,
+    "title": "瓦斯塔亚小龙虾 樫野女仆 [26P-287MB]",
+    "sourceUrl": "https://telegra.ph/%E7%93%A6%E6%96%AF%E5%A1%94%E4%BA%9A%E5%B0%8F%E9%BE%99%E8%99%BE-%E6%A8%AB%E9%87%8E%E5%A5%B3%E4%BB%86-26P-287MB-12-01",
+    "images": [
+        "https://telegra.ph/file/a7db04484ebff6e59096f.jpg",
+        "https://telegra.ph/file/d5f65cafd96738fc86451.jpg",
+        "https://telegra.ph/file/2a1d6fcf9ac0537bee557.jpg",
+        "https://telegra.ph/file/4cd9484ebd5ae5d3b4974.jpg",
+        "https://telegra.ph/file/6b7880dd29fb22b6fd0a8.jpg",
+        "https://telegra.ph/file/542f7b689d56899f3987f.jpg",
+        "https://telegra.ph/file/a2a842d64ec806387e1e2.jpg",
+        "https://telegra.ph/file/c4e9699218da93a6648d8.jpg",
+        "https://telegra.ph/file/038a837b1c78884a5f8a8.jpg",
+        "https://telegra.ph/file/f5f3c0147c335d4929407.jpg",
+        "https://telegra.ph/file/d300d21a68c470c418d73.jpg",
+        "https://telegra.ph/file/11affd2ae023100db424b.jpg",
+        "https://telegra.ph/file/cdfa26dda3e3d8efbb8d3.jpg",
+        "https://telegra.ph/file/22c5f61e2681975315e86.jpg",
+        "https://telegra.ph/file/0de9707257eb990c0f7a7.jpg",
+        "https://telegra.ph/file/4db94666f7f7fd297a64f.jpg",
+        "https://telegra.ph/file/bd541db9aa6624aab3c60.jpg",
+        "https://telegra.ph/file/c736cab363e2a5a657925.jpg",
+        "https://telegra.ph/file/6f0fe248f3d804a92f86a.jpg",
+        "https://telegra.ph/file/93a384fd8f0ed2b2614ae.jpg",
+        "https://telegra.ph/file/285c9cd1c5cd19f4f0f51.jpg",
+        "https://telegra.ph/file/696c215c059b134b2084a.jpg",
+        "https://telegra.ph/file/78771f1096735c1bfce2c.jpg",
+        "https://telegra.ph/file/0ba11fd178a621d7db74d.jpg",
+        "https://telegra.ph/file/2d8bf004190b1226bfbff.jpg",
+        "https://telegra.ph/file/cd325043f6f63f7b44a6f.jpg"
+    ]
+};

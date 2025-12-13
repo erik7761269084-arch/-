@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40280,
+    "title": "Choi Ji Yun - Tatsumaki (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Tatsumaki-One-Punch-Man-04-22",
+    "images": [
+        "https://telegra.ph/file/0c5def79572809b0344f9.jpg",
+        "https://telegra.ph/file/3ef995d5469fc6abb0332.jpg",
+        "https://telegra.ph/file/5d9632f6b1b7361cd143f.jpg",
+        "https://telegra.ph/file/cef21f0a9333cc5508a25.jpg",
+        "https://telegra.ph/file/cb89ebf7b0cd28be7751a.jpg",
+        "https://telegra.ph/file/aa12074d9f4da6fa6dfc3.jpg",
+        "https://telegra.ph/file/cc552e368289bcd197e6b.jpg",
+        "https://telegra.ph/file/154dc86cc86cefadd01f3.jpg",
+        "https://telegra.ph/file/fcfd9c3d81ef5cd86ed8c.jpg",
+        "https://telegra.ph/file/5bdcae5d40e70869d09e3.jpg",
+        "https://telegra.ph/file/970812a2de3435d35ba7b.jpg",
+        "https://telegra.ph/file/5531ca673b3b9291bfba5.jpg",
+        "https://telegra.ph/file/88ea58ece1affebd8479f.jpg",
+        "https://telegra.ph/file/9a8b32441df574d5afe2e.jpg",
+        "https://telegra.ph/file/16139ee3a8e4e70d93d2f.jpg",
+        "https://telegra.ph/file/256b0fbd64c7250a768b2.jpg",
+        "https://telegra.ph/file/a4011e89a76601af7a206.jpg",
+        "https://telegra.ph/file/727a346b9cf19eceb0be9.jpg",
+        "https://telegra.ph/file/74e00ea9f1b8cbf956019.jpg",
+        "https://telegra.ph/file/19caaa7587e0994d045ea.jpg",
+        "https://telegra.ph/file/1e2a78fb0ffbaea3efa7f.jpg",
+        "https://telegra.ph/file/676ccb03c8b0d6a9a387a.jpg",
+        "https://telegra.ph/file/b0ef32b92ff1ea508907f.jpg",
+        "https://telegra.ph/file/c096bb576ffc50bf18f31.jpg",
+        "https://telegra.ph/file/be4d82793405bc17d67b3.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41193,
+    "title": "Peachuu - Yuni (Nikke)",
+    "sourceUrl": "https://telegra.ph/Peachuu---Yuni-Nikke-02-27",
+    "images": [
+        "https://telegra.ph/file/9e494f93be0f5ce4e313b.jpg",
+        "https://telegra.ph/file/ae5edf01adb411f6b3af4.jpg",
+        "https://telegra.ph/file/8a735e8b6e79743784501.jpg",
+        "https://telegra.ph/file/75d1bf709d6bf035d0c74.jpg",
+        "https://telegra.ph/file/c4bd47f59bdc9bfdeacf5.jpg",
+        "https://telegra.ph/file/ee0008fdd675d151e0bf9.jpg",
+        "https://telegra.ph/file/ec285030bb74b08a4c70c.jpg",
+        "https://telegra.ph/file/4208b00dbebbec166f94e.jpg",
+        "https://telegra.ph/file/8366d752db6c6ffeab3ec.jpg",
+        "https://telegra.ph/file/5aecca48f440ccf812dc8.jpg",
+        "https://telegra.ph/file/51eedca8713418cdf53fb.jpg",
+        "https://telegra.ph/file/b04de75c5ca30cdc624dd.jpg",
+        "https://telegra.ph/file/524e33eb1edb204e415d8.jpg",
+        "https://telegra.ph/file/4e80a820bb284ed6a68a6.jpg",
+        "https://telegra.ph/file/30a75facfd55d5f370fd3.jpg",
+        "https://telegra.ph/file/1b34a6c0dacc3c9a62ac0.jpg",
+        "https://telegra.ph/file/5a722e87f0efec70075b9.jpg",
+        "https://telegra.ph/file/247c13c2efc110acc2165.jpg",
+        "https://telegra.ph/file/8768ddffe284855738209.jpg",
+        "https://telegra.ph/file/62ff177019ae7c2218829.jpg",
+        "https://telegra.ph/file/b5e4cf26b67e64869a3ed.jpg",
+        "https://telegra.ph/file/fb86f1235f08ab1a52aeb.jpg",
+        "https://telegra.ph/file/fe3bcee4c134cec3891cb.jpg",
+        "https://telegra.ph/file/f232084e855e19f191374.jpg"
+    ]
+};

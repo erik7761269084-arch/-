@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44772,
+    "title": "Minichu - Freia",
+    "sourceUrl": "https://telegra.ph/Minichu---Freia-02-15",
+    "images": [
+        "https://telegra.ph/file/5cc3fdf141d29807ab133.jpg",
+        "https://telegra.ph/file/8c12c7f506a7eeea5b854.jpg",
+        "https://telegra.ph/file/54b0f41d03afbc90c8ecc.jpg",
+        "https://telegra.ph/file/84745ff6352e8644af846.jpg",
+        "https://telegra.ph/file/396764a8f313d84cb61a0.jpg",
+        "https://telegra.ph/file/4c8d2a158efca38a9be16.jpg",
+        "https://telegra.ph/file/180e8abf306bb4fd798df.jpg",
+        "https://telegra.ph/file/37b9be2247131c4eb39c7.jpg",
+        "https://telegra.ph/file/c6a6cb837e8c640802d53.jpg",
+        "https://telegra.ph/file/28cdb930eb1b51795328f.jpg",
+        "https://telegra.ph/file/afff633d7dae70ae1b665.jpg",
+        "https://telegra.ph/file/28facd93dacdfc46da7a0.jpg",
+        "https://telegra.ph/file/c2d011e2dca619ba0f2dd.jpg",
+        "https://telegra.ph/file/f5e5f640c35c642289f32.jpg",
+        "https://telegra.ph/file/1c2a6dd0e1a6d11926a5c.jpg",
+        "https://telegra.ph/file/234344c4808763596982c.jpg",
+        "https://telegra.ph/file/22559a77e306044f7b02c.jpg",
+        "https://telegra.ph/file/124d5ccd2b53766001baa.jpg",
+        "https://telegra.ph/file/6721e3727ef508b168c64.jpg",
+        "https://telegra.ph/file/cf7225d69ff0a746576c6.jpg",
+        "https://telegra.ph/file/d6f310c3a22987b349519.jpg",
+        "https://telegra.ph/file/0343fb1eeff585817d93a.jpg",
+        "https://telegra.ph/file/76a294100af8279ce0243.jpg"
+    ]
+};

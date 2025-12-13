@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23768,
+    "title": "年年 蕾丝兔宝宝",
+    "sourceUrl": "https://telegra.ph/%E5%B9%B4%E5%B9%B4-%E8%95%BE%E4%B8%9D%E5%85%94%E5%AE%9D%E5%AE%9D-04-01",
+    "images": [
+        "https://telegra.ph/file/a9a063d20ab79518e5d81.jpg",
+        "https://telegra.ph/file/6fe35aed81924bd42fb81.jpg",
+        "https://telegra.ph/file/ee3c51532d31bdc239cc0.jpg",
+        "https://telegra.ph/file/a22cbb986432f8ee11412.jpg",
+        "https://telegra.ph/file/26de0966c773838696a1c.jpg",
+        "https://telegra.ph/file/104540fef5e5ec93ca71e.jpg",
+        "https://telegra.ph/file/20be7d69250490b834356.jpg",
+        "https://telegra.ph/file/66af7156f3a4168b15d10.jpg",
+        "https://telegra.ph/file/c3fb73e576d85b57e328b.jpg",
+        "https://telegra.ph/file/b961349d2a04e3c2eb61b.jpg",
+        "https://telegra.ph/file/4e2f8ca1877ced589f96b.jpg",
+        "https://telegra.ph/file/0ea7e488991a60b891d9d.jpg",
+        "https://telegra.ph/file/203df70fb8511ab403050.jpg",
+        "https://telegra.ph/file/dbb717314a197e8c7934b.jpg",
+        "https://telegra.ph/file/22c01d13bba0e128ead42.jpg",
+        "https://telegra.ph/file/a7f7185074e61b289e40a.jpg",
+        "https://telegra.ph/file/bd86c46cf088a1a74a638.jpg",
+        "https://telegra.ph/file/d952d921a44cfca326102.jpg",
+        "https://telegra.ph/file/e8502d7e4d8212cad5239.jpg",
+        "https://telegra.ph/file/95b6c53c9e2b6bea56ea8.jpg",
+        "https://telegra.ph/file/ed66d47bfa8aaeb0252dd.jpg",
+        "https://telegra.ph/file/3b683a3a0fab25ee7fafa.jpg",
+        "https://telegra.ph/file/08a15babc121212b2e0d3.jpg",
+        "https://telegra.ph/file/aa79ca139e060a5fda828.jpg",
+        "https://telegra.ph/file/436852f12004073e10411.jpg",
+        "https://telegra.ph/file/bbc7215df68f4e1992d70.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32108,
+    "title": "[Hoshilily 星之迟迟] Nero Claudius Maid ネロ・クラウディウス",
+    "sourceUrl": "https://telegra.ph/Hoshilily-星之迟迟-Nero-Claudius-Maid-ネロクラウディウス-10-19",
+    "images": [
+        "https://telegra.ph/file/e7f7f65056881e8a94293.jpg",
+        "https://telegra.ph/file/e0ce80aad6ad648356725.jpg",
+        "https://telegra.ph/file/8c497a96dff39931c0983.jpg",
+        "https://telegra.ph/file/a5532bd602bdcee8796f5.jpg",
+        "https://telegra.ph/file/1b3915a0c95557d4cde58.jpg",
+        "https://telegra.ph/file/62ad78b157cf5ff62df8e.jpg",
+        "https://telegra.ph/file/857fda320e3c9fad6f4e4.jpg",
+        "https://telegra.ph/file/ca597a6815d156b95ef6d.jpg",
+        "https://telegra.ph/file/e77c09a64113ce525cc33.jpg",
+        "https://telegra.ph/file/6c2a9ecb438bbc18f9440.jpg",
+        "https://telegra.ph/file/851f5275db8a89389deeb.jpg",
+        "https://telegra.ph/file/64aecd2501312f8c5de78.jpg",
+        "https://telegra.ph/file/804d3533eac3b0dfdb4e4.jpg",
+        "https://telegra.ph/file/e4fa7bca865e8f63cd3f7.jpg",
+        "https://telegra.ph/file/cd5680017d4281be516cb.jpg",
+        "https://telegra.ph/file/576b549e187c06ec676dd.jpg",
+        "https://telegra.ph/file/7a1c800106207262fd951.jpg",
+        "https://telegra.ph/file/0fd13f593e52df874cfef.jpg",
+        "https://telegra.ph/file/b21ffecf7872ddcc5c7d5.jpg",
+        "https://telegra.ph/file/519ecf25532d2d224f282.jpg",
+        "https://telegra.ph/file/e050fadc603a69982efe7.jpg",
+        "https://telegra.ph/file/63695f9ea68a1c8cff4d3.jpg",
+        "https://telegra.ph/file/0d1edee4b5fd8e5ef4f72.jpg",
+        "https://telegra.ph/file/2ebc057ee3234ae0e9947.jpg",
+        "https://telegra.ph/file/8f6a125721c5bc30f35c2.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

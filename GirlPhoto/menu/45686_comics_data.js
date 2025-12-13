@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45686,
+    "title": "[林檎蜜紀] ドスケベ過ぎる💖原神💖ヌチャテカ🧴オイルテカテカデカ尻八重神子🦊🌸 - Page 1",
+    "sourceUrl": "https://telegra.ph/林檎蜜紀-ドスケベ過ぎる原神ヌチャテカオイルテカテカデカ尻八重神子---Page-1-10-16",
+    "images": [
+        "https://telegra.ph/file/d2144f6de0e0ef71f5054.jpg",
+        "https://telegra.ph/file/62517e98eb817ba26ee8a.jpg",
+        "https://telegra.ph/file/5f6d21d8b4c152e743777.jpg",
+        "https://telegra.ph/file/991ba8526d5dbbaf7fa6d.jpg",
+        "https://telegra.ph/file/6a7d702f6d5565f5004dd.jpg",
+        "https://telegra.ph/file/9557d700788441f90ddb7.jpg",
+        "https://telegra.ph/file/329ef3dc87452c8299d5d.jpg",
+        "https://telegra.ph/file/3c6ea544c8dbcc683b2a4.jpg",
+        "https://telegra.ph/file/7aa271e4192963be64f3b.jpg",
+        "https://telegra.ph/file/437befb866b3dc1edd8b3.jpg",
+        "https://telegra.ph/file/9ab15631e1377b8c74e27.jpg",
+        "https://telegra.ph/file/643843fef3c9c8ddd1f08.jpg",
+        "https://telegra.ph/file/39514224b2636947ceede.jpg",
+        "https://telegra.ph/file/394d334f80353810555c9.jpg",
+        "https://telegra.ph/file/a532e0e60227166839184.jpg",
+        "https://telegra.ph/file/527543584bef62ef0f249.jpg",
+        "https://telegra.ph/file/da46d1508f79ffff4214c.jpg",
+        "https://telegra.ph/file/03bb3eaaa989a7b7fc98d.jpg",
+        "https://telegra.ph/file/7d3d16e429c971db33053.jpg",
+        "https://telegra.ph/file/d809a0db2cad7bffdc0c6.jpg",
+        "https://telegra.ph/file/500d2a64ee2d492ba5df9.jpg",
+        "https://telegra.ph/file/8f218f1ebfd999103798e.jpg",
+        "https://telegra.ph/file/4ae4caff473740f49ec28.jpg",
+        "https://telegra.ph/file/84ea4bbedf06910f0b162.jpg",
+        "https://telegra.ph/file/386e77227e29107da2f75.jpg"
+    ]
+};

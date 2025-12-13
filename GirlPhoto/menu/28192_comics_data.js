@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28192,
+    "title": "MissWarmJ-Bonus Step sis OF set[25P5V]",
+    "sourceUrl": "https://telegra.ph/MissWarmJ-Bonus-Step-sis-OF-set25P5V-08-17",
+    "images": [
+        "https://telegra.ph/file/61f44a94631c5398d30a5.jpg",
+        "https://telegra.ph/file/624e9702be51b19ac2378.jpg",
+        "https://telegra.ph/file/b57dcf442c98be41a8169.jpg",
+        "https://telegra.ph/file/57dcc9ca231a15a39bdb0.jpg",
+        "https://telegra.ph/file/1f1dac2c4df86685af8ef.jpg",
+        "https://telegra.ph/file/1be64a289dbd46dabfc0b.jpg",
+        "https://telegra.ph/file/78c3bfa4ee112915f3804.jpg",
+        "https://telegra.ph/file/a457148c52de79cce02c4.jpg",
+        "https://telegra.ph/file/58549f139e1df5a3c5435.jpg",
+        "https://telegra.ph/file/ccdb4450b6b3513138cee.jpg",
+        "https://telegra.ph/file/3f8fe28d179b1f75b70ad.jpg",
+        "https://telegra.ph/file/b5598b3ad4562264100ce.jpg",
+        "https://telegra.ph/file/4484f8e25826cab5ba6a7.jpg",
+        "https://telegra.ph/file/8fa25feb5ebaebac3c51f.jpg",
+        "https://telegra.ph/file/85d3e4ba3521bfc1079ca.jpg",
+        "https://telegra.ph/file/84c174881c7add1901bd9.jpg",
+        "https://telegra.ph/file/105988d6d083b5e760391.jpg",
+        "https://telegra.ph/file/2a062d9ee51a5ef0ddbe2.jpg",
+        "https://telegra.ph/file/95e504a8d698543958279.jpg",
+        "https://telegra.ph/file/0991eedfd01cee7cd1d90.jpg",
+        "https://telegra.ph/file/4628150ff7cd6ed35429c.jpg",
+        "https://telegra.ph/file/3a6cc48c1d791229a5cb6.jpg",
+        "https://telegra.ph/file/ab6387dd47e939789d93e.jpg",
+        "https://telegra.ph/file/29ebed16bba1d9953a0ba.jpg",
+        "https://telegra.ph/file/e95741eb70327acedcbfd.jpg"
+    ]
+};

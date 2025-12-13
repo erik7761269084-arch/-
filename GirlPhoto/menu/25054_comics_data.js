@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25054,
+    "title": "[Cos] 过期米线线SAMA-温暖午后[23P]",
+    "sourceUrl": "https://telegra.ph/Cos-%E8%BF%87%E6%9C%9F%E7%B1%B3%E7%BA%BF%E7%BA%BFSAMA-%E6%B8%A9%E6%9A%96%E5%8D%88%E5%90%8E23P-02-18",
+    "images": [
+        "https://telegra.ph/file/1c7ceaa108679631af66f.jpg",
+        "https://telegra.ph/file/d7cce56c3d621886c5333.jpg",
+        "https://telegra.ph/file/87d3a958087c913358b2b.jpg",
+        "https://telegra.ph/file/dc944f31f116ef552d07c.jpg",
+        "https://telegra.ph/file/6c9672c2d623b06bca30e.jpg",
+        "https://telegra.ph/file/5704a1911971513ac8ced.jpg",
+        "https://telegra.ph/file/7247ffb05700aee549893.jpg",
+        "https://telegra.ph/file/20c43291ff52f0662b327.jpg",
+        "https://telegra.ph/file/af149516875e993f90d80.jpg",
+        "https://telegra.ph/file/22f7ecf6cb5a345af2493.jpg",
+        "https://telegra.ph/file/7c41540123b1d9869d6ae.jpg",
+        "https://telegra.ph/file/6b5c10555d59bbe5f9897.jpg",
+        "https://telegra.ph/file/c3ca5b6127391309927e0.jpg",
+        "https://telegra.ph/file/0af4143cc32e7095cf520.jpg",
+        "https://telegra.ph/file/d1e66e0cc19980cad28a5.jpg",
+        "https://telegra.ph/file/10f65ae5db73afb647204.jpg",
+        "https://telegra.ph/file/2e77dfd0bb8ae7554d32b.jpg",
+        "https://telegra.ph/file/7d51983116b06e45279a7.jpg",
+        "https://telegra.ph/file/46d838063d974a34e5d7b.jpg",
+        "https://telegra.ph/file/1b4a45dfac178861411aa.jpg",
+        "https://telegra.ph/file/41eafa56fa33a8ee14fc8.jpg",
+        "https://telegra.ph/file/9fd6fd681ae8bc46f2fed.jpg",
+        "https://telegra.ph/file/6f25f92abdc33eaefee92.jpg",
+        "https://telegra.ph/file/cde830cae3c697a878478.jpg"
+    ]
+};

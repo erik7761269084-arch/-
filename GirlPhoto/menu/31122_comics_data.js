@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31122,
+    "title": "[Ying Tze] Illustrious Wedding Dress",
+    "sourceUrl": "https://telegra.ph/Ying-Tze-Illustrious-Wedding-Dress-08-16",
+    "images": [
+        "https://telegra.ph/file/8ccbd4919d52648d977e8.jpg",
+        "https://telegra.ph/file/a455e487c3141dfbd6cbb.jpg",
+        "https://telegra.ph/file/33bd2dd9d065dd17fd498.jpg",
+        "https://telegra.ph/file/0d706a71f1fd8b8234817.jpg",
+        "https://telegra.ph/file/18e02eebef63541c61df5.jpg",
+        "https://telegra.ph/file/fab041bd34524472e5307.jpg",
+        "https://telegra.ph/file/ce1736f5675b95a297f6b.jpg",
+        "https://telegra.ph/file/d98b3bb1bfe4141350064.jpg",
+        "https://telegra.ph/file/bce41af5e18a2fef131f2.jpg",
+        "https://telegra.ph/file/11b8f7f83cbe74597835e.jpg",
+        "https://telegra.ph/file/ec99e948f89230a3fed86.jpg",
+        "https://telegra.ph/file/73675fe8ed5d8c7b340fc.jpg",
+        "https://telegra.ph/file/ce17e067ff2c8d8c4c0d8.jpg",
+        "https://telegra.ph/file/9e4f754d53784bdde9687.jpg",
+        "https://telegra.ph/file/55a94b47f7a68f3a6df5e.jpg",
+        "https://telegra.ph/file/2a49668d8333b2fb59671.jpg",
+        "https://telegra.ph/file/79ff75fa823f1f24e4aa5.jpg",
+        "https://telegra.ph/file/5ec2f7dea854c80a89ddd.jpg",
+        "https://telegra.ph/file/d99078f86a3e3606dad72.jpg",
+        "https://telegra.ph/file/cc9fb357402def8bf9e64.jpg",
+        "https://telegra.ph/file/b2e23512dae36d153cb1a.jpg",
+        "https://telegra.ph/file/80f0f3d69e3ae5f8c7730.jpg",
+        "https://telegra.ph/file/242ea9594420bedc39b52.jpg",
+        "https://telegra.ph/file/70cbfebbef5eaa7bb7aa6.jpg",
+        "https://telegra.ph/file/1283c8fc268b18e5338ed.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

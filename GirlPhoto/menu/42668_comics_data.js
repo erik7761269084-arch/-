@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42668,
+    "title": "墨玉-M - NO.01 明日方舟 食铁兽 [25P-401MB]",
+    "sourceUrl": "https://telegra.ph/%E5%A2%A8%E7%8E%89-M---NO01-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-%E9%A3%9F%E9%93%81%E5%85%BD-25P-401MB-06-11",
+    "images": [
+        "https://telegra.ph/file/68a5482dc09d34b42b0ef.jpg",
+        "https://telegra.ph/file/62881c53ae650bc97c787.jpg",
+        "https://telegra.ph/file/1d7cb21fbc0b4465a9154.jpg",
+        "https://telegra.ph/file/0d997b09f7ceab56f7bf3.jpg",
+        "https://telegra.ph/file/a3170c68e1e0ff3eb70d9.jpg",
+        "https://telegra.ph/file/30ac9e9c762c76a2991d2.jpg",
+        "https://telegra.ph/file/1f42d7997573ad353045a.jpg",
+        "https://telegra.ph/file/5dede82e3f3635949d649.jpg",
+        "https://telegra.ph/file/4f676e9e1f9ddff7a8c32.jpg",
+        "https://telegra.ph/file/b6f25f07c386a791cd11a.jpg",
+        "https://telegra.ph/file/51ed25d8f59fe4206b1db.jpg",
+        "https://telegra.ph/file/fbdef72f5c1d3fdfc0c06.jpg",
+        "https://telegra.ph/file/b21537eeff608082ecda2.jpg",
+        "https://telegra.ph/file/0562a34094f5542e1c48f.jpg",
+        "https://telegra.ph/file/a3b0947dabae0cedc18f9.jpg",
+        "https://telegra.ph/file/7993e146c9589988dcfe2.jpg",
+        "https://telegra.ph/file/eb26e4e293b01581f61f8.jpg",
+        "https://telegra.ph/file/4d4fa1a05d87475810877.jpg",
+        "https://telegra.ph/file/5cbfcb1e60d3a13eda29b.jpg",
+        "https://telegra.ph/file/dd7e26cb4e1f11ead5f4e.jpg",
+        "https://telegra.ph/file/169e04a00489c215cfc49.jpg",
+        "https://telegra.ph/file/7a44ed7fcfe06780e2fa2.jpg",
+        "https://telegra.ph/file/5f5b218609bbea112be13.jpg",
+        "https://telegra.ph/file/2a4e2826e382ad4f5829c.jpg",
+        "https://telegra.ph/file/9b16301d11b4e545dd42a.jpg"
+    ]
+};

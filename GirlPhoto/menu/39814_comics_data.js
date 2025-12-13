@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39814,
+    "title": "阿薰kaOri - Nurse",
+    "sourceUrl": "https://telegra.ph/阿薰kaOri---Nurse-11-01",
+    "images": [
+        "https://telegra.ph/file/0d9bb46e5fe9919b7de81.jpg",
+        "https://telegra.ph/file/8143646b2165850bfbccc.jpg",
+        "https://telegra.ph/file/3541048c7d788c14f85c4.jpg",
+        "https://telegra.ph/file/724a2b4bff803c553e193.jpg",
+        "https://telegra.ph/file/8a213eb4addd9ddae0762.jpg",
+        "https://telegra.ph/file/7a44c144fae89812a7f49.jpg",
+        "https://telegra.ph/file/ac55caf0b3299b5efcf38.jpg",
+        "https://telegra.ph/file/c0acf2e5a5175ef49cda4.jpg",
+        "https://telegra.ph/file/beee3642d7f9647fc7d66.jpg",
+        "https://telegra.ph/file/74c4affd061f5b4eafcc0.jpg",
+        "https://telegra.ph/file/f469c860cd6e988f947ed.jpg",
+        "https://telegra.ph/file/fc8ad602f8055794cb624.jpg",
+        "https://telegra.ph/file/3022aaa6a544a21108158.jpg",
+        "https://telegra.ph/file/b7b97ad540772dad13494.jpg",
+        "https://telegra.ph/file/6bb62cc6ad2202fcc09d0.jpg",
+        "https://telegra.ph/file/091781906c0c80626f492.jpg",
+        "https://telegra.ph/file/565c37048ace9eefc2726.jpg",
+        "https://telegra.ph/file/ce86c1a5ac5759787c8bf.jpg",
+        "https://telegra.ph/file/e4e0348ceffbec0f8ffc0.jpg",
+        "https://telegra.ph/file/7598e4151f5cce67260c4.jpg",
+        "https://telegra.ph/file/17ac2a80be0f9c7a134cb.jpg",
+        "https://telegra.ph/file/d2ff05bb313b4791252e0.jpg",
+        "https://telegra.ph/file/1cde408f183feccd3a13b.jpg",
+        "https://telegra.ph/file/34efc607b46898fe7110d.jpg",
+        "https://telegra.ph/file/68146be0dc2f70131e53b.jpg"
+    ]
+};

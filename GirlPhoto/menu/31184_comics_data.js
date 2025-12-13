@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31184,
+    "title": "[Byoru ビヨル] Bunny Maid",
+    "sourceUrl": "https://telegra.ph/Byoru-ビヨル-Bunny-Maid-08-16",
+    "images": [
+        "https://telegra.ph/file/cd287a1d2ec6d145c824b.jpg",
+        "https://telegra.ph/file/f071e7a71fb51af36a58e.jpg",
+        "https://telegra.ph/file/4d751605d4cd698b55e84.jpg",
+        "https://telegra.ph/file/731e05845e5ea416bc0e0.jpg",
+        "https://telegra.ph/file/982c71c4c67b20dfeac33.jpg",
+        "https://telegra.ph/file/4a7c1f68c740e4b7bfdd8.jpg",
+        "https://telegra.ph/file/1bae5354c12026688ea13.jpg",
+        "https://telegra.ph/file/5179596951cb88c61c93c.jpg",
+        "https://telegra.ph/file/07db510cc8c1c97214545.jpg",
+        "https://telegra.ph/file/3a4ddea70f4d98949f5d3.jpg",
+        "https://telegra.ph/file/227d57e1210ac92dd87b6.jpg",
+        "https://telegra.ph/file/f169d36047a43befa3021.jpg",
+        "https://telegra.ph/file/c94172279da79611289f1.jpg",
+        "https://telegra.ph/file/81cb34407a6cf80a2d36d.jpg",
+        "https://telegra.ph/file/8556abbb76e75fbe96d36.jpg",
+        "https://telegra.ph/file/07ec686132df8f45ffe2b.jpg",
+        "https://telegra.ph/file/1a4f92b6ac66e47d7b252.jpg",
+        "https://telegra.ph/file/7cbe9f84fd7ef23096906.jpg",
+        "https://telegra.ph/file/3e5101cb4d935f74ab672.jpg",
+        "https://telegra.ph/file/b89d8be992f3c770205bc.jpg",
+        "https://telegra.ph/file/bd0fd50dc337d3e783f31.jpg",
+        "https://telegra.ph/file/47af7027330be92bd1f37.jpg",
+        "https://telegra.ph/file/09ffb384b2d90d3481aea.jpg",
+        "https://telegra.ph/file/a1b38f90d47a4f93cb1db.jpg",
+        "https://telegra.ph/file/4f3e4b88b879de249ae14.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

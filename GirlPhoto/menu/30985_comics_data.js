@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30985,
+    "title": "USA 宇咲, デジタル限定 YJ Photo Book 「古着屋バイトで、将来の夢を発見！？」 Set.01",
+    "sourceUrl": "https://telegra.ph/USA-宇咲-デジタル限定-YJ-Photo-Book-古着屋バイトで将来の夢を発見-Set01-08-02",
+    "images": [
+        "https://telegra.ph/file/bd3630467931672102a00.jpg",
+        "https://telegra.ph/file/c360a7adbf71394929ed3.jpg",
+        "https://telegra.ph/file/f11cd99eed17d37782002.jpg",
+        "https://telegra.ph/file/39282671de46bc5a8a73e.jpg",
+        "https://telegra.ph/file/b33ee5965ecf04187f323.jpg",
+        "https://telegra.ph/file/9cadd30c3e0ca179ea0ed.jpg",
+        "https://telegra.ph/file/8c14b851392ee361f346c.jpg",
+        "https://telegra.ph/file/9f47f7b9c3e46734f2674.jpg",
+        "https://telegra.ph/file/a2a8927b6cfc37b1801af.jpg",
+        "https://telegra.ph/file/f655de38567ce2919af88.jpg",
+        "https://telegra.ph/file/5bd7277731f647f940de8.jpg",
+        "https://telegra.ph/file/7e0985d4568cfc3b53115.jpg",
+        "https://telegra.ph/file/54a305c072d3b5a19d0da.jpg",
+        "https://telegra.ph/file/f6bea4a123b133e03f766.jpg",
+        "https://telegra.ph/file/2b7afec5a05c9812db1ba.jpg",
+        "https://telegra.ph/file/9a1e0abb3db75d8342f50.jpg",
+        "https://telegra.ph/file/71e4fbede8a0ea6b2cd33.jpg",
+        "https://telegra.ph/file/8498c53c5ad8afee2098a.jpg",
+        "https://telegra.ph/file/dd3d8b96364e4cf3b4b94.jpg",
+        "https://telegra.ph/file/555647c7ac0167fd7ff3b.jpg",
+        "https://telegra.ph/file/4411fa008c42d524ae74e.jpg",
+        "https://telegra.ph/file/dd29d8072866d6babaef8.jpg",
+        "https://telegra.ph/file/c19d4e907ec36744f3966.jpg",
+        "https://telegra.ph/file/d3343e7c281df11b6a2b3.jpg",
+        "https://telegra.ph/file/151a98682784ed0443932.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

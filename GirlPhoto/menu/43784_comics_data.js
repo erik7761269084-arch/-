@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43784,
+    "title": "霜月shimo - First August [23P-142M]",
+    "sourceUrl": "https://telegra.ph/%E9%9C%9C%E6%9C%88shimo---First-August-23P-142M-09-09",
+    "images": [
+        "https://telegra.ph/file/f533ebbc3e1af7ad0fc1c.jpg",
+        "https://telegra.ph/file/2be8f9ebb041954928d70.jpg",
+        "https://telegra.ph/file/7e81d8b426ebbce3082c7.jpg",
+        "https://telegra.ph/file/c98db7bae03799349f203.jpg",
+        "https://telegra.ph/file/98e075d3021cb16bd4e80.jpg",
+        "https://telegra.ph/file/7b2c149f43dc1a73f2514.jpg",
+        "https://telegra.ph/file/baef927f1ce4a09b91bd1.jpg",
+        "https://telegra.ph/file/3cf2c45e770c5f7f5dced.jpg",
+        "https://telegra.ph/file/6a90f6b1cf3aaf938ed5a.jpg",
+        "https://telegra.ph/file/c06dcc9d75ccb7caf6e6e.jpg",
+        "https://telegra.ph/file/789f085d6f2b72a8c7366.jpg",
+        "https://telegra.ph/file/8a0c782f5636d31a1238e.jpg",
+        "https://telegra.ph/file/c58215a5e0e42844cf88c.jpg",
+        "https://telegra.ph/file/5b206d223c38a0a589c50.jpg",
+        "https://telegra.ph/file/6690545aa707bdb0c5129.jpg",
+        "https://telegra.ph/file/a0484bb9b2b2a03e71865.jpg",
+        "https://telegra.ph/file/f4573e5e640d3a7faa8a4.jpg",
+        "https://telegra.ph/file/efb417dbb3789a965cacf.jpg",
+        "https://telegra.ph/file/2bb06ff2965fcfd32b65f.jpg",
+        "https://telegra.ph/file/35f2555407dd0d7375826.jpg",
+        "https://telegra.ph/file/4b2d50d79e1749efc236b.jpg",
+        "https://telegra.ph/file/b69f90a9347f888fdce8a.jpg",
+        "https://telegra.ph/file/e5f56b6eca5b4c22a290d.jpg"
+    ]
+};

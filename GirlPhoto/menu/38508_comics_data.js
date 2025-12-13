@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38508,
+    "title": "Byoru - Bunny Maid Reverse (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Byoru---Bunny-Maid-Reverse-Random-Cosplay-11-20",
+    "images": [
+        "https://telegra.ph/file/b12b0aa466755a3b427f8.jpg",
+        "https://telegra.ph/file/adee6be1373d3af941503.jpg",
+        "https://telegra.ph/file/a7f306d0bec32e6441bb4.jpg",
+        "https://telegra.ph/file/ce17de417bef9d9d5be16.jpg",
+        "https://telegra.ph/file/5b855b4b330961d59c84c.jpg",
+        "https://telegra.ph/file/2fd9731ba3ddebcf742cb.jpg",
+        "https://telegra.ph/file/68cc7f599a37db9756096.jpg",
+        "https://telegra.ph/file/badb838093533b2265328.jpg",
+        "https://telegra.ph/file/99ae64837ff4b627532d6.jpg",
+        "https://telegra.ph/file/8b0d2b9c20db83857ecd4.jpg",
+        "https://telegra.ph/file/565c298721cf60bc2ff78.jpg",
+        "https://telegra.ph/file/e31a5a7719e215923c86f.jpg",
+        "https://telegra.ph/file/921c7cb478f7ebbc2493a.jpg",
+        "https://telegra.ph/file/bc89925dab6116fe6de5b.jpg",
+        "https://telegra.ph/file/57321728cda289292a2f7.jpg",
+        "https://telegra.ph/file/03be943f72f015ae34c99.jpg",
+        "https://telegra.ph/file/4aa26de699d6a0015380b.jpg",
+        "https://telegra.ph/file/95f5cd9010ea3e0246308.jpg",
+        "https://telegra.ph/file/ef2392f2ce3184bdb769c.jpg",
+        "https://telegra.ph/file/add04682c3dd82adefe6f.jpg",
+        "https://telegra.ph/file/9f32938ff4da0eee9ed82.jpg",
+        "https://telegra.ph/file/de93c103dadd7cc6412de.jpg",
+        "https://telegra.ph/file/a9658e3eed5ede74e2f95.jpg",
+        "https://telegra.ph/file/14f0d395290f836d62de6.jpg",
+        "https://telegra.ph/file/95cc7d83f3b2a8ca5facb.jpg"
+    ]
+};

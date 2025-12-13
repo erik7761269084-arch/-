@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26488,
+    "title": "霜月shimo - Yor Forger [24P-46MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9C%9C%E6%9C%88shimo---Yor-Forger-24P-46MB-07-02",
+    "images": [
+        "https://telegra.ph/file/8383b123229d60bcd1d32.jpg",
+        "https://telegra.ph/file/7bd722e019387e6de9966.jpg",
+        "https://telegra.ph/file/a8c85dd9b45e2b866b00a.jpg",
+        "https://telegra.ph/file/a9943a61e6d3b57993c7b.jpg",
+        "https://telegra.ph/file/efb0a0f17c3ee022777b2.jpg",
+        "https://telegra.ph/file/a8b05c4a1d88306dac7d7.jpg",
+        "https://telegra.ph/file/3cf8b58622d568042c08a.jpg",
+        "https://telegra.ph/file/302ec1d8f60d7d5ce27aa.jpg",
+        "https://telegra.ph/file/04e30a923536aeec24997.jpg",
+        "https://telegra.ph/file/af994e2810e9bd76afb5b.jpg",
+        "https://telegra.ph/file/07b195421e313ae70e4ba.jpg",
+        "https://telegra.ph/file/0e01724d70dbf106fa27a.jpg",
+        "https://telegra.ph/file/566e3774e1f0d817d8dd4.jpg",
+        "https://telegra.ph/file/d4266613cc7f85a088e04.jpg",
+        "https://telegra.ph/file/a0f70fd6579fa4d2880e7.jpg",
+        "https://telegra.ph/file/49608c0bbe939b0697f87.jpg",
+        "https://telegra.ph/file/fed8a7dc9b6485ca38010.jpg",
+        "https://telegra.ph/file/894efe093bfc47445bba0.jpg",
+        "https://telegra.ph/file/22a60f72ee2e390ecb48c.jpg",
+        "https://telegra.ph/file/a89155ba97759d89e920d.jpg",
+        "https://telegra.ph/file/388005739d47d4a7d24d0.jpg",
+        "https://telegra.ph/file/eaf61aedf446437ebcc8b.jpg",
+        "https://telegra.ph/file/586fe5adb3102f87570bb.jpg",
+        "https://telegra.ph/file/fadaa7c943175943ee73c.jpg"
+    ]
+};

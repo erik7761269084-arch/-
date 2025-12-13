@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22756,
+    "title": "水淼Aqua-高雄JK",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCAqua-%E9%AB%98%E9%9B%84JK-12-11",
+    "images": [
+        "https://telegra.ph/file/6d39c2cf82d55f0006cc9.jpg",
+        "https://telegra.ph/file/50caa895767ad270f8c1f.jpg",
+        "https://telegra.ph/file/deb652f510500a8773b7e.jpg",
+        "https://telegra.ph/file/ed6e84d4da1d15ee2094b.jpg",
+        "https://telegra.ph/file/ff846fbcd5b6297eabe7c.jpg",
+        "https://telegra.ph/file/d4171d966d4d388a00680.jpg",
+        "https://telegra.ph/file/81c0d05cba603fce7fe71.jpg",
+        "https://telegra.ph/file/ca504aa924eb76b4245a1.jpg",
+        "https://telegra.ph/file/ca78cec8fe98116ca8ac2.jpg",
+        "https://telegra.ph/file/b4ed01e33fd84a463852f.jpg",
+        "https://telegra.ph/file/40395f1a02dcd056f0547.jpg",
+        "https://telegra.ph/file/c811e8a8ec8b42e965abb.jpg",
+        "https://telegra.ph/file/22a28432f70b4b647dcec.jpg",
+        "https://telegra.ph/file/9af455e33fbb4148efb55.jpg",
+        "https://telegra.ph/file/834a1a615a2fa5d2c4799.jpg",
+        "https://telegra.ph/file/d58b8b0b1d892757bd4de.jpg",
+        "https://telegra.ph/file/5acda4e1cf56245c208fd.jpg",
+        "https://telegra.ph/file/bdb3912c26cdf4f65313c.jpg",
+        "https://telegra.ph/file/ad52c0221ceabdbfaaf41.jpg",
+        "https://telegra.ph/file/20bab0f2ef9f35341b094.jpg",
+        "https://telegra.ph/file/225d069765e68f149dffd.jpg",
+        "https://telegra.ph/file/88fbaf75277c37279cbdf.jpg",
+        "https://telegra.ph/file/05d300bd6abe40857d792.jpg",
+        "https://telegra.ph/file/0fb5898e8980036a369bf.jpg"
+    ]
+};

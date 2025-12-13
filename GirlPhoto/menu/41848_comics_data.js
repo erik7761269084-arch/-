@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41848,
+    "title": "Anri Okita - Devil Body Topless",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-08-20-7",
+    "images": [
+        "https://i.ibb.co/4nkwSKLD/960x1280-09b76e6a423fe40e8a6207f24cf0822c.jpg",
+        "https://i.ibb.co/NgvHhh3r/960x1280-0d6c5462ab8c28bb3317d5a762d23f33.jpg",
+        "https://i.ibb.co/ds5Vhkr0/960x1280-0f61ca50e054d4b2305aef7fcbab69a6.jpg",
+        "https://i.ibb.co/B2Tq9gkc/960x1280-171afbb8d5bb550a7e2d7824f95b4b61.jpg",
+        "https://i.ibb.co/1fjf2fQq/960x1280-21894620c3b26058d57883e7dad9b2f6.jpg",
+        "https://i.ibb.co/1Cxt6CG/960x1280-3dc35d6a5c146d94938db3dbedfce55d.jpg",
+        "https://i.ibb.co/V0NtHdtf/960x1280-3ed0be5f020b73821a74055fcf4e45d1.jpg",
+        "https://i.ibb.co/99gJjCwr/960x1280-437064c54c60653ea928a509cbbb2c16.jpg",
+        "https://i.ibb.co/LdTknDwf/960x1280-59ceab7a668c84473de9d60720bc5cf3.jpg",
+        "https://i.ibb.co/F4HGDw4m/960x1280-5d3f2e8dd21246b04610da7027f1da99.jpg",
+        "https://i.ibb.co/hR6d7y9t/960x1280-7822528a7286d8d1ab6616f50533d5a1.jpg",
+        "https://i.ibb.co/RpVN2wjT/960x1280-8a9d21342f192bc2a404089b1d5e4bef.jpg",
+        "https://i.ibb.co/8Q1sTmb/960x1280-94b0cbbd117b98eee70ac8fdf0c272ba.jpg",
+        "https://i.ibb.co/fYD9D6Nv/960x1280-9c9a6613144a8426b0e19ee617de71ff.jpg",
+        "https://i.ibb.co/tp46Rv8W/960x1280-9f20eb8840111c54b8d57a0b96c46cf6.jpg",
+        "https://i.ibb.co/gZSNHYJS/960x1280-a95f3f36bf9910e85daa0c66a808492c.jpg",
+        "https://i.ibb.co/TxzYW2RZ/960x1280-abeefae6615ab5708b437de1bf3534ea.jpg",
+        "https://i.ibb.co/356HzRrg/960x1280-c83d5a63fe08f37f468ac8b4b1fbb7fb.jpg",
+        "https://i.ibb.co/vvYDk0K7/960x1280-cf7011280a62a19ee6d2e204c3c9e240.jpg",
+        "https://i.ibb.co/ycZFJvxc/960x1280-dc621d37763acf352d0f34f7fed28ee3.jpg",
+        "https://i.ibb.co/vCt0236Q/960x1280-e1be76b6229ec788c081822c017f45ee.jpg",
+        "https://i.ibb.co/pj14Y2r1/960x1280-e5be22c9a6cbb299dce4c6cb2a978df7.jpg",
+        "https://i.ibb.co/HL1dNqFH/960x1280-f9bb469c3f6c674859bfb4c3ec69b1f0.jpg"
+    ]
+};

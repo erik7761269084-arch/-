@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33245,
+    "title": "HaNari 하나리, [LEEHEE EXPRESS] LEHC-036 Set.02",
+    "sourceUrl": "https://telegra.ph/HaNari-하나리-LEEHEE-EXPRESS-LEHC-036-Set02-02-15",
+    "images": [
+        "https://telegra.ph/file/0758be66e256bf975b827.jpg",
+        "https://telegra.ph/file/66cbeefb2b40fa64fa9f7.jpg",
+        "https://telegra.ph/file/be09eb569543e5de92e8b.jpg",
+        "https://telegra.ph/file/b807d3edfe716ce499894.jpg",
+        "https://telegra.ph/file/fb4a521cf6f69a9c49558.jpg",
+        "https://telegra.ph/file/af14aded257e68612d343.jpg",
+        "https://telegra.ph/file/ad7eae434405f55e592a1.jpg",
+        "https://telegra.ph/file/579f46a2289b6c8b7e64f.jpg",
+        "https://telegra.ph/file/c468fab7e7f1ec399cc46.jpg",
+        "https://telegra.ph/file/596206ee3680d091d1149.jpg",
+        "https://telegra.ph/file/f38bf9d5337918b65ec7c.jpg",
+        "https://telegra.ph/file/74ac24032103c2e714e28.jpg",
+        "https://telegra.ph/file/9aca6dbb99f35b07a5fab.jpg",
+        "https://telegra.ph/file/a4f92fb6bc44575eac065.jpg",
+        "https://telegra.ph/file/26d2d73c945bb5f7e71ea.jpg",
+        "https://telegra.ph/file/9a820e7bfc908b425b61d.jpg",
+        "https://telegra.ph/file/d4d9ba29c29eff51a4dfb.jpg",
+        "https://telegra.ph/file/7135fe247ed0522ca3700.jpg",
+        "https://telegra.ph/file/c0b51346b8739061acef6.jpg",
+        "https://telegra.ph/file/12efe9be805e5e68c08fc.jpg",
+        "https://telegra.ph/file/43ee8ee1c479da93de8ee.jpg",
+        "https://telegra.ph/file/60c13ec02b43555658c33.jpg",
+        "https://telegra.ph/file/0d555582da76a38f9b7f1.jpg",
+        "https://telegra.ph/file/a4a5c58e02d6fde0646d3.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

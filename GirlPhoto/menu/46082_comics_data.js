@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46082,
+    "title": "[林檎蜜紀] 淫乱ぴんく💖生着替えもあるよ！ドスケベすぎるアズレン！テニス🎾ブレマートン - Page 1",
+    "sourceUrl": "https://telegra.ph/林檎蜜紀-淫乱ぴんく生着替えもあるよドスケベすぎるアズレンテニスブレマートン---Page-1-11-24",
+    "images": [
+        "https://telegra.ph/file/d7236c9edcc6341009686.jpg",
+        "https://telegra.ph/file/d83f9db6882033b3b5d36.jpg",
+        "https://telegra.ph/file/a4e0e3973eb182f1e4205.jpg",
+        "https://telegra.ph/file/23ccc551c9bd9c1121d81.jpg",
+        "https://telegra.ph/file/2412e3a2c2856d80945eb.jpg",
+        "https://telegra.ph/file/28bc0861a378b48e9deb0.jpg",
+        "https://telegra.ph/file/197b615cdf8359ada60a2.jpg",
+        "https://telegra.ph/file/9bc641d6d2685b8158014.jpg",
+        "https://telegra.ph/file/d8be76bb848c26d6f0a0e.jpg",
+        "https://telegra.ph/file/7dd7506e32d1cd75deb1f.jpg",
+        "https://telegra.ph/file/6b0d17c841aee35954799.jpg",
+        "https://telegra.ph/file/0da70dcf2686a786457b2.jpg",
+        "https://telegra.ph/file/28e5ff3cfcf611db7ef05.jpg",
+        "https://telegra.ph/file/c66402590a6aaa4c78c63.jpg",
+        "https://telegra.ph/file/0a62587501385017e24d7.jpg",
+        "https://telegra.ph/file/a8185b73fbd13e51e08e8.jpg",
+        "https://telegra.ph/file/d486bf7ac65501c637c6e.jpg",
+        "https://telegra.ph/file/ab590aba47368f016ec59.jpg",
+        "https://telegra.ph/file/3e99517b609ced108d3a1.jpg",
+        "https://telegra.ph/file/a323894a9079743bbefc3.jpg",
+        "https://telegra.ph/file/2d13b59df5d2a00ca3669.jpg",
+        "https://telegra.ph/file/59d46d2938a08ca3f2bba.jpg",
+        "https://telegra.ph/file/8fdbac42c1f68f1e8b852.jpg"
+    ]
+};

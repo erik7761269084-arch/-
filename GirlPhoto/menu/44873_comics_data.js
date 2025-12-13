@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44873,
+    "title": "小甜猪猪 - 和泉纱雾",
+    "sourceUrl": "https://telegra.ph/小甜猪猪---和泉纱雾-03-19",
+    "images": [
+        "https://telegra.ph/file/67a62c7e17357e6cd3640.jpg",
+        "https://telegra.ph/file/82b4eb12209e52f870678.jpg",
+        "https://telegra.ph/file/beae54af1da8623fa7939.jpg",
+        "https://telegra.ph/file/75a6e6555d8d51dff028f.jpg",
+        "https://telegra.ph/file/6a486b98bb0afad723eb9.jpg",
+        "https://telegra.ph/file/59ccca6fafedeb261b3d0.jpg",
+        "https://telegra.ph/file/cce68b49c64422512589b.jpg",
+        "https://telegra.ph/file/a54305ad390bc8f0c4f6a.jpg",
+        "https://telegra.ph/file/d02e22319819d189025da.jpg",
+        "https://telegra.ph/file/62fbbe5e9927b5d82c709.jpg",
+        "https://telegra.ph/file/a828865000a1f00adb115.jpg",
+        "https://telegra.ph/file/c5b3f690dcca84cc76456.jpg",
+        "https://telegra.ph/file/ea8f6c18aa2c5ddab775a.jpg",
+        "https://telegra.ph/file/086b3297bee33e0a8320e.jpg",
+        "https://telegra.ph/file/d96047eb9542a8fc72c4d.jpg",
+        "https://telegra.ph/file/429df4817b4a96fd437b6.jpg",
+        "https://telegra.ph/file/1f59558c4a58ae36dc0c9.jpg",
+        "https://telegra.ph/file/dab18cab021de84fb98c8.jpg",
+        "https://telegra.ph/file/f5941544b083ff2b75455.jpg",
+        "https://telegra.ph/file/2f4ddbf7944a20b1c6c28.jpg",
+        "https://telegra.ph/file/5214afa05cfdd921a5986.jpg",
+        "https://telegra.ph/file/95dd1109859aa3c254c22.jpg",
+        "https://telegra.ph/file/ae63b5efb78c877146fd5.jpg",
+        "https://telegra.ph/file/6ccf740d2531736f868d1.jpg",
+        "https://telegra.ph/file/f50ef3a88e7bfb7a423ce.jpg"
+    ]
+};

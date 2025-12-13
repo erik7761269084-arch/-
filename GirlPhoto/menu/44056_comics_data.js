@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44056,
+    "title": "橙子喵酱 - 樱岛麻衣 [25P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---樱岛麻衣-25P-09-27",
+    "images": [
+        "https://telegra.ph/file/66a84f87baeca525365d0.jpg",
+        "https://telegra.ph/file/a9fe65c3a62b33df6b943.jpg",
+        "https://telegra.ph/file/618fdfd0e769de0bf572a.jpg",
+        "https://telegra.ph/file/d2e7ea83c2d23ce5b6b27.jpg",
+        "https://telegra.ph/file/abe22920dc1415970f775.jpg",
+        "https://telegra.ph/file/6985dd3adbe5efc0a19ea.jpg",
+        "https://telegra.ph/file/08f67170ce11b20dc0f64.jpg",
+        "https://telegra.ph/file/53ffedd8a7e9645079c60.jpg",
+        "https://telegra.ph/file/3ef7592c32db4130992d6.jpg",
+        "https://telegra.ph/file/c50b5fe126d677623b770.jpg",
+        "https://telegra.ph/file/eb2fc7aedd357d14bac87.jpg",
+        "https://telegra.ph/file/15c67276021012d848cac.jpg",
+        "https://telegra.ph/file/585fa0aae42045c8b84c5.jpg",
+        "https://telegra.ph/file/23173efca73b3bdf5eb0d.jpg",
+        "https://telegra.ph/file/e67b866152bcaf14b9fea.jpg",
+        "https://telegra.ph/file/d20d402403e65d156ae6f.jpg",
+        "https://telegra.ph/file/2e527185dcf7440fc5563.jpg",
+        "https://telegra.ph/file/5116d40100906563e569d.jpg",
+        "https://telegra.ph/file/5c7a23f0a2987da45e1e9.jpg",
+        "https://telegra.ph/file/315ae2587af2371f83c78.jpg",
+        "https://telegra.ph/file/d9d6ef8011ac8efbe9866.jpg",
+        "https://telegra.ph/file/6f5f5898615d066e00aa4.jpg",
+        "https://telegra.ph/file/234db1334d3bfddb94ec0.jpg",
+        "https://telegra.ph/file/e77081f60a9a0a473db6b.jpg",
+        "https://telegra.ph/file/ff66876a619657448c4f7.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25782,
+    "title": "0125 透明なスク水",
+    "sourceUrl": "https://telegra.ph/0125-%E9%80%8F%E6%98%8E%E3%81%AA%E3%82%B9%E3%82%AF%E6%B0%B4-02-09-2",
+    "images": [
+        "https://telegra.ph/file/6abbc4d2ddfde6bffb4ec.jpg",
+        "https://telegra.ph/file/4843a2021ae473a7f4d7b.jpg",
+        "https://telegra.ph/file/ff5f284a7344516af54ce.jpg",
+        "https://telegra.ph/file/59e86bfb6ab3fc92bc27c.jpg",
+        "https://telegra.ph/file/abee4bdc02f9a02871eb1.jpg",
+        "https://telegra.ph/file/d50286f6509337beeec1c.jpg",
+        "https://telegra.ph/file/f535bfc083c801f437cca.jpg",
+        "https://telegra.ph/file/b61b0b779030a68eee509.jpg",
+        "https://telegra.ph/file/42a98aacfd17bb76df363.jpg",
+        "https://telegra.ph/file/a51957bcb31167f2d2607.jpg",
+        "https://telegra.ph/file/ad96e689d4db6a1af01e0.jpg",
+        "https://telegra.ph/file/d834abfc6f175b15f6118.jpg",
+        "https://telegra.ph/file/f33f8c2a78debe5321553.jpg",
+        "https://telegra.ph/file/ce5f54fcb6b621f2ec155.jpg",
+        "https://telegra.ph/file/d462524d00d3618103afe.jpg",
+        "https://telegra.ph/file/4fac20bf87f5745109a79.jpg",
+        "https://telegra.ph/file/6cdf1f91abd7fb4c03653.jpg",
+        "https://telegra.ph/file/44376ab2dfaf9fab0d0cf.jpg",
+        "https://telegra.ph/file/b604bb09df5de2ffa9855.jpg",
+        "https://telegra.ph/file/2d8c04e2dc6bd5cf46104.jpg",
+        "https://telegra.ph/file/71b626e4aed6b627c7971.jpg",
+        "https://telegra.ph/file/d1c932b4175bd21c7bc0b.jpg",
+        "https://telegra.ph/file/b04cf6bc8b4cb1b6cd2e8.jpg"
+    ]
+};

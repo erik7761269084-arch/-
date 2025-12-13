@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39716,
+    "title": "Lady Melamori - Azuka (Neon Genesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Azuka-Neon-Genesis-Evangelion-09-24",
+    "images": [
+        "https://telegra.ph/file/742167ba8e86c90f7e166.jpg",
+        "https://telegra.ph/file/7e9f8e601cc09f5c3cc15.jpg",
+        "https://telegra.ph/file/f97a4b5a49e6eb6a2c0c3.jpg",
+        "https://telegra.ph/file/444c6478111f93e06cf2b.jpg",
+        "https://telegra.ph/file/2518ade42f5d0500dd113.jpg",
+        "https://telegra.ph/file/25f80d833bbc35076666f.jpg",
+        "https://telegra.ph/file/9494ed066835e24feee5c.jpg",
+        "https://telegra.ph/file/93930eaa30dfede825f4a.jpg",
+        "https://telegra.ph/file/7c0354e603ec684d441d8.jpg",
+        "https://telegra.ph/file/ca3704801ccaaea1d6b4d.jpg",
+        "https://telegra.ph/file/130be64778fe7c2c41db4.jpg",
+        "https://telegra.ph/file/38bf597df235ba135988d.jpg",
+        "https://telegra.ph/file/8f030b768d9b4ae7d9c8f.jpg",
+        "https://telegra.ph/file/b8db25aaafab0cdb28698.jpg",
+        "https://telegra.ph/file/a16a7510558e02add38ce.jpg",
+        "https://telegra.ph/file/340c4417bcb70fa5eba17.jpg",
+        "https://telegra.ph/file/d9de48fdcc661d4c9e836.jpg",
+        "https://telegra.ph/file/a76f76f57078bb264f377.jpg",
+        "https://telegra.ph/file/a046c09a9d7e44376e821.jpg",
+        "https://telegra.ph/file/acaaa48af836906af1052.jpg",
+        "https://telegra.ph/file/10cec563f32b45951a21f.jpg",
+        "https://telegra.ph/file/9f4e73b21b8be0d8b4416.jpg",
+        "https://telegra.ph/file/435896a30933ae6dcefac.jpg"
+    ]
+};

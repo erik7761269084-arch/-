@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 29203,
+    "title": "ATFMaker - 初全裸Fullsize 25P",
+    "sourceUrl": "https://telegra.ph/ATFMaker---%E5%88%9D%E5%85%A8%E8%A3%B8Fullsize-25P-10-09",
+    "images": [
+        "https://telegra.ph/file/c9fa46f4e5a35d1e9ba72.jpg",
+        "https://telegra.ph/file/385643e3f051525590112.jpg",
+        "https://telegra.ph/file/4e29ac8b808e08d03a912.jpg",
+        "https://telegra.ph/file/cfda98af9ab20e311e0b9.jpg",
+        "https://telegra.ph/file/aff1986bbd7194f01ba98.jpg",
+        "https://telegra.ph/file/1b5f149d30fc5e8af0c40.jpg",
+        "https://telegra.ph/file/cbb6aeb3f678882bdb837.jpg",
+        "https://telegra.ph/file/c03061cfcf8200b6e8d43.jpg",
+        "https://telegra.ph/file/c21c8e697f00a4e9f83d0.jpg",
+        "https://telegra.ph/file/5317303d4ac2b33a25f76.jpg",
+        "https://telegra.ph/file/5dd78168b4a1fa0da808e.jpg",
+        "https://telegra.ph/file/2e677bc37065ef08ac6df.jpg",
+        "https://telegra.ph/file/c7f09924ebbddf0ca6341.jpg",
+        "https://telegra.ph/file/e59e90986f73369ec27f6.jpg",
+        "https://telegra.ph/file/a2bb71509f89a16b88211.jpg",
+        "https://telegra.ph/file/db20d96af841eec35495a.jpg",
+        "https://telegra.ph/file/abc2449ce9d94f949d54a.jpg",
+        "https://telegra.ph/file/cd71da3bc99b0c1566dff.jpg",
+        "https://telegra.ph/file/925c5b1ff4d9bab24d05e.jpg",
+        "https://telegra.ph/file/f794252a3ba6a5ca813ce.jpg",
+        "https://telegra.ph/file/dda1887779bf6f8da262f.jpg",
+        "https://telegra.ph/file/50f7dc3e794469be765af.jpg",
+        "https://telegra.ph/file/5b6c52324d3f5755d0221.jpg",
+        "https://telegra.ph/file/08a9f453a3695d5541350.jpg",
+        "https://telegra.ph/file/daf8064450095189360b9.jpg"
+    ]
+};

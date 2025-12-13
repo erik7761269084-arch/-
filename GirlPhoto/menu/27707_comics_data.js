@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27707,
+    "title": "ATFMAKER-Leather bikini FullSize 比基尼[25P]",
+    "sourceUrl": "https://telegra.ph/ATFMAKER-Leather-bikini-FullSize-%E6%AF%94%E5%9F%BA%E5%B0%BC25P-12-20",
+    "images": [
+        "https://telegra.ph/file/753b012d629e01acc93d0.jpg",
+        "https://telegra.ph/file/2ea8d0aa2b5c8faad2c32.jpg",
+        "https://telegra.ph/file/0ad3e649368a07114b0bd.jpg",
+        "https://telegra.ph/file/06307d23717e243393e3f.jpg",
+        "https://telegra.ph/file/5970e50255f3c9a87ce61.jpg",
+        "https://telegra.ph/file/aba24db5f2d45fc793099.jpg",
+        "https://telegra.ph/file/1c1eee26ae2065ad468e8.jpg",
+        "https://telegra.ph/file/68c59e25739c0a86eb998.jpg",
+        "https://telegra.ph/file/708d8597d9b8fb6c5577c.jpg",
+        "https://telegra.ph/file/8ebbfe7ca61d58e53fbc5.jpg",
+        "https://telegra.ph/file/afb84fa3339d3faddc499.jpg",
+        "https://telegra.ph/file/4a78f8e551f42451a6ade.jpg",
+        "https://telegra.ph/file/46154098a658775a68b65.jpg",
+        "https://telegra.ph/file/17e1c9ab65988947b1b38.jpg",
+        "https://telegra.ph/file/f45d6a7a63b3aa83ffdbc.jpg",
+        "https://telegra.ph/file/61813050d2c27e0c60725.jpg",
+        "https://telegra.ph/file/4f8dc580a09a7857d8951.jpg",
+        "https://telegra.ph/file/59d01fe9c4ef11652b9b8.jpg",
+        "https://telegra.ph/file/b730c6c306335a24a3d79.jpg",
+        "https://telegra.ph/file/1f35a9e41cdd4a09dcf8e.jpg",
+        "https://telegra.ph/file/9652e33b26b5040df7b44.jpg",
+        "https://telegra.ph/file/2b82c0285f5da7c844278.jpg",
+        "https://telegra.ph/file/9c361223ff127b09adda6.jpg",
+        "https://telegra.ph/file/8c467f9b0accf46e23276.jpg",
+        "https://telegra.ph/file/0d661ceeaada711a82a65.jpg"
+    ]
+};

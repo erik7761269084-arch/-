@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29764,
+    "title": "二佐Nisa 碧蓝圣路易斯泳装 [26P-267MB]",
+    "sourceUrl": "https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa-%E7%A2%A7%E8%93%9D%E5%9C%A3%E8%B7%AF%E6%98%93%E6%96%AF%E6%B3%B3%E8%A3%85-26P-267MB-12-22",
+    "images": [
+        "https://telegra.ph/file/b410db130586ca1175ec3.jpg",
+        "https://telegra.ph/file/f4cab9334f876a16c61eb.jpg",
+        "https://telegra.ph/file/5ec468e0d4318eff43f2e.jpg",
+        "https://telegra.ph/file/5a461744b3a87972c8a5b.jpg",
+        "https://telegra.ph/file/b486487236ae6d219378e.jpg",
+        "https://telegra.ph/file/cf5c73e1af71443ea7ede.jpg",
+        "https://telegra.ph/file/cd503007bdb54145026ad.jpg",
+        "https://telegra.ph/file/8ebf563f9aa1e588a5061.jpg",
+        "https://telegra.ph/file/5abd2cd0403407ce6068a.jpg",
+        "https://telegra.ph/file/7cbe819d47541b9c317ae.jpg",
+        "https://telegra.ph/file/2825f2faa581e41ffc883.jpg",
+        "https://telegra.ph/file/7555e5d282033f739c44e.jpg",
+        "https://telegra.ph/file/c55cd2e1283ae7bb69ea8.jpg",
+        "https://telegra.ph/file/52ce94b6fe72689177927.jpg",
+        "https://telegra.ph/file/c303cdb07bac41f8429d2.jpg",
+        "https://telegra.ph/file/86d34fb1248e8eee6e917.jpg",
+        "https://telegra.ph/file/c0d1732108c1f47a7b322.jpg",
+        "https://telegra.ph/file/767e64aff17829c3e43d1.jpg",
+        "https://telegra.ph/file/f9e51aa1595fd5732fe4d.jpg",
+        "https://telegra.ph/file/6e23740d3f9af198aac20.jpg",
+        "https://telegra.ph/file/225212124d6230abf0914.jpg",
+        "https://telegra.ph/file/3759fcef11e5c8b909895.jpg",
+        "https://telegra.ph/file/b21dfda12e6eaec8b5003.jpg",
+        "https://telegra.ph/file/5bfe3282276157a8c2f62.jpg",
+        "https://telegra.ph/file/3b314d4dbc63b828dded7.jpg",
+        "https://telegra.ph/file/447328856018f21b04177.jpg"
+    ]
+};

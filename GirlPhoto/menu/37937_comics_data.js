@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37937,
+    "title": "Ying Tze - Bowsette (Mario Bros)",
+    "sourceUrl": "https://telegra.ph/Ying-Tze---Bowsete-Mario-Bros-06-25",
+    "images": [
+        "https://telegra.ph/file/739d9c3d05ee9ad583d7c.jpg",
+        "https://telegra.ph/file/d61b23b60a5d5fd7a61fa.jpg",
+        "https://telegra.ph/file/0e56f64db1c6d8e9a523f.jpg",
+        "https://telegra.ph/file/1f6f5c3054cbe3674bad8.jpg",
+        "https://telegra.ph/file/142ecddbb961df6fd4ccc.jpg",
+        "https://telegra.ph/file/21c4b85448378c81b5f5f.jpg",
+        "https://telegra.ph/file/e902bf3efc92a3287922d.jpg",
+        "https://telegra.ph/file/3c17ce0a7681738560b4d.jpg",
+        "https://telegra.ph/file/98bd56068fe5404bcefe1.jpg",
+        "https://telegra.ph/file/29323f101967d5b5b2306.jpg",
+        "https://telegra.ph/file/7c180d4cde3321a2ccfd3.jpg",
+        "https://telegra.ph/file/6b129241124fd3f987f03.jpg",
+        "https://telegra.ph/file/7b98af66ba53f48fd2ef7.jpg",
+        "https://telegra.ph/file/1eeadaa8196ac9d4cc721.jpg",
+        "https://telegra.ph/file/af44711cf3271ee643c02.jpg",
+        "https://telegra.ph/file/40658cdf625a9e0e17127.jpg",
+        "https://telegra.ph/file/211c2160f1c97e626070b.jpg",
+        "https://telegra.ph/file/1ec4bc19ea866902c25b0.jpg",
+        "https://telegra.ph/file/9e956e0ca03cb5a977301.jpg",
+        "https://telegra.ph/file/47c6accb2b73e7248b25e.jpg",
+        "https://telegra.ph/file/eac3b9b82c4c83b03b265.jpg",
+        "https://telegra.ph/file/43914952da2e1583e38e4.jpg",
+        "https://telegra.ph/file/156149e0f370086ef6ab0.jpg",
+        "https://telegra.ph/file/fa794c317abbd2ea6c7c4.jpg",
+        "https://telegra.ph/file/c3aee90da0f64d1795477.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38159,
+    "title": "Byoru - Tifa Bunny (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/Byoru---Tifa-Bunny-Final-Fantasy-08-13",
+    "images": [
+        "https://telegra.ph/file/8f465b99c45970f6000f0.jpg",
+        "https://telegra.ph/file/1b8ab15bd160774378eb7.jpg",
+        "https://telegra.ph/file/87a282e0ab24df7fe0549.jpg",
+        "https://telegra.ph/file/50fe98e2ac1fa38159db3.jpg",
+        "https://telegra.ph/file/e1a3615a7a692edc671e9.jpg",
+        "https://telegra.ph/file/f3825159afd4fd9c2b864.jpg",
+        "https://telegra.ph/file/2af2f5c10efdae4d0524c.jpg",
+        "https://telegra.ph/file/46307043d254d1164b400.jpg",
+        "https://telegra.ph/file/4f1c3cd25b0555661dd37.jpg",
+        "https://telegra.ph/file/0edd459df6e8bd9d502ae.jpg",
+        "https://telegra.ph/file/24ca028463de51819112a.jpg",
+        "https://telegra.ph/file/d800598bb6b544e81ca53.jpg",
+        "https://telegra.ph/file/89f2a38da61ce9f4294cf.jpg",
+        "https://telegra.ph/file/3f38492879645f7d9ab2c.jpg",
+        "https://telegra.ph/file/5d39b5ede2e0f1e6e8d1f.jpg",
+        "https://telegra.ph/file/127c36c22a2410ca799d3.jpg",
+        "https://telegra.ph/file/a5eda05ebb58bf7ce5dff.jpg",
+        "https://telegra.ph/file/a26d211b3959944b6dcfb.jpg",
+        "https://telegra.ph/file/5bebd01eab1b63b8dc47f.jpg",
+        "https://telegra.ph/file/de5fc462ee33c1550b196.jpg",
+        "https://telegra.ph/file/2e76c5429f44611a7ff2e.jpg",
+        "https://telegra.ph/file/f3ffd0745777d211a19a9.jpg",
+        "https://telegra.ph/file/95d874a5cd9f191859c97.jpg",
+        "https://telegra.ph/file/e23d6730abbe35e7c6790.jpg",
+        "https://telegra.ph/file/d939dc88a4edfa02e7f02.jpg"
+    ]
+};

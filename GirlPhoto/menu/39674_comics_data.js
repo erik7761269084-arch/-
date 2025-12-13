@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39674,
+    "title": "KuukoW - Merlin (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Merlin-Fate-Grand-Order-09-16",
+    "images": [
+        "https://telegra.ph/file/71907b5fa46f67868f3e6.jpg",
+        "https://telegra.ph/file/bb1dd9614f4ff60747008.jpg",
+        "https://telegra.ph/file/c7c5251e170840da2ad3c.jpg",
+        "https://telegra.ph/file/f34d205f1eff03e5b0b38.jpg",
+        "https://telegra.ph/file/39a8a2d2e516a3961c681.jpg",
+        "https://telegra.ph/file/a3cd568f22e8f81c52fe5.jpg",
+        "https://telegra.ph/file/29db25568bfe950ed9f72.jpg",
+        "https://telegra.ph/file/97f17898041ddfec77daa.jpg",
+        "https://telegra.ph/file/9ca16116b790403238e3f.jpg",
+        "https://telegra.ph/file/fea3d383eab15cb1f4352.jpg",
+        "https://telegra.ph/file/2646793c9b2490f5048d6.jpg",
+        "https://telegra.ph/file/e0ebbbd2637c9f82ebf3a.jpg",
+        "https://telegra.ph/file/179e30fc93fefe0478e73.jpg",
+        "https://telegra.ph/file/f5c6853a6b657f66da722.jpg",
+        "https://telegra.ph/file/7ab79a60ba6b1277cdb4e.jpg",
+        "https://telegra.ph/file/a1d7e1af863bc10509ce2.jpg",
+        "https://telegra.ph/file/eb6d1942ccd5ed10a5a30.jpg",
+        "https://telegra.ph/file/43539830e8b89baf40d1e.jpg",
+        "https://telegra.ph/file/965010750f12d8559a2e6.jpg",
+        "https://telegra.ph/file/9b87c11c97bdfcbde7637.jpg",
+        "https://telegra.ph/file/ad043d7d6bcfccdb63f23.jpg",
+        "https://telegra.ph/file/47f877d65ca88846482f6.jpg",
+        "https://telegra.ph/file/608f1c68d068c1ff7f465.jpg",
+        "https://telegra.ph/file/ee33ceb3359908e503b11.jpg",
+        "https://telegra.ph/file/8a1e74f0c5f8b492e9633.jpg",
+        "https://telegra.ph/file/5551b46e7ff191aa2ddd0.jpg"
+    ]
+};

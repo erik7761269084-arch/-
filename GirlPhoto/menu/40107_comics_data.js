@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40107,
+    "title": "MissWarmj - Jill Valentine (Resident Evil)",
+    "sourceUrl": "https://telegra.ph/MissWarmj---Jill-Valentine-Resident-Evil-01-10",
+    "images": [
+        "https://telegra.ph/file/b61120dec647c4a740cd6.jpg",
+        "https://telegra.ph/file/1debd834141e753ab3f8a.jpg",
+        "https://telegra.ph/file/f50b89026c4c451b43f4a.jpg",
+        "https://telegra.ph/file/f70c8c827d6b2d7c8a5f1.jpg",
+        "https://telegra.ph/file/0f24fba09186bdee19989.jpg",
+        "https://telegra.ph/file/736c9cd7ee070a0692c8d.jpg",
+        "https://telegra.ph/file/ca80144ebf27cfcadb0ef.jpg",
+        "https://telegra.ph/file/1a96ab31e91829dab7ab9.jpg",
+        "https://telegra.ph/file/2574fa19e171c0862f362.jpg",
+        "https://telegra.ph/file/eae77343df30df031ee68.jpg",
+        "https://telegra.ph/file/95efdb02ade8d2cf6d49f.jpg",
+        "https://telegra.ph/file/3a2cd23151e1896b298f8.jpg",
+        "https://telegra.ph/file/16cdb312136e4a0b05395.jpg",
+        "https://telegra.ph/file/4b362c1bec10d24a6307c.jpg",
+        "https://telegra.ph/file/a0c9ad34b90d120339cd0.jpg",
+        "https://telegra.ph/file/db3c6100d3ebbab6ba8c3.jpg",
+        "https://telegra.ph/file/e45349b2b19f92b0ff2c5.jpg",
+        "https://telegra.ph/file/ba517528c98b59cd7cae2.jpg",
+        "https://telegra.ph/file/c27fac472990a8365809d.jpg",
+        "https://telegra.ph/file/0476ed865acd3386c833a.jpg",
+        "https://telegra.ph/file/32f354fee40b0b7e9c992.jpg",
+        "https://telegra.ph/file/f6a2a6bf01379f8b4e1b4.jpg",
+        "https://telegra.ph/file/e0dd5f8767483807d512f.jpg",
+        "https://telegra.ph/file/1deeb39dcc1aad9d8997b.jpg"
+    ]
+};

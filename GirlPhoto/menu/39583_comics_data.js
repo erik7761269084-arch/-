@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39583,
+    "title": "Potato Godzilla - Jeanne D'Arc Alter (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Jeanne-DArc-Alter-Fate-Grand-Order-08-29",
+    "images": [
+        "https://telegra.ph/file/865b2732a183d4b84b7aa.jpg",
+        "https://telegra.ph/file/cf04d780e76d0715091c9.jpg",
+        "https://telegra.ph/file/78542084da9ea65453100.jpg",
+        "https://telegra.ph/file/b3e2ac440ab5cad945741.jpg",
+        "https://telegra.ph/file/45a9ae145615c533fca8f.jpg",
+        "https://telegra.ph/file/16ddbcab925ccc7c9e4ad.jpg",
+        "https://telegra.ph/file/9c5f98759b4810cb280aa.jpg",
+        "https://telegra.ph/file/8e20871702d2d3978b89d.jpg",
+        "https://telegra.ph/file/3f11636e7b615255f056c.jpg",
+        "https://telegra.ph/file/6fe0ad7223396b89ea66d.jpg",
+        "https://telegra.ph/file/f57fce2b4f73b102d4f6d.jpg",
+        "https://telegra.ph/file/cfe20f68f42b0de4b6562.jpg",
+        "https://telegra.ph/file/74fcbab7c709a2b06e16c.jpg",
+        "https://telegra.ph/file/9cdf6df9f6f25958f7b73.jpg",
+        "https://telegra.ph/file/2bbe2b1eb857a2f3080d8.jpg",
+        "https://telegra.ph/file/913f2c92f8eb8da87b0ed.jpg",
+        "https://telegra.ph/file/85c9b21bb290ad881dcdb.jpg",
+        "https://telegra.ph/file/a761f1c6daadb5e496e4d.jpg",
+        "https://telegra.ph/file/3a166578db808097ed9be.jpg",
+        "https://telegra.ph/file/8779e488b960b4dcbb753.jpg",
+        "https://telegra.ph/file/9b0bec28bf9dd48ae9326.jpg",
+        "https://telegra.ph/file/227b8f274ae6a38865d56.jpg",
+        "https://telegra.ph/file/38de343bde2a89254e431.jpg",
+        "https://telegra.ph/file/b39d54b9c937e25f27fda.jpg"
+    ]
+};

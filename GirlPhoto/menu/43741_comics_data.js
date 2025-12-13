@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43741,
+    "title": "西园寺南歌 碧蓝航线恶毒兔女郎 25P10V",
+    "sourceUrl": "https://telegra.ph/%E8%A5%BF%E5%9B%AD%E5%AF%BA%E5%8D%97%E6%AD%8C-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E6%81%B6%E6%AF%92%E5%85%94%E5%A5%B3%E9%83%8E-25P10V-07-12",
+    "images": [
+        "https://telegra.ph/file/36b1e140cbf98b6cbf03b.jpg",
+        "https://telegra.ph/file/c43ef90100f994b7d4796.jpg",
+        "https://telegra.ph/file/68c402cc953939d3c6bcb.jpg",
+        "https://telegra.ph/file/006833cb387096124f6f1.jpg",
+        "https://telegra.ph/file/eb497f64a90eacc704bfc.jpg",
+        "https://telegra.ph/file/46c297aef85be95e0349d.jpg",
+        "https://telegra.ph/file/de2362cdb546b2e3b016a.jpg",
+        "https://telegra.ph/file/57ce5c7e9128a405cf6ca.jpg",
+        "https://telegra.ph/file/428d5aacc730505a2bd7e.jpg",
+        "https://telegra.ph/file/07a55c70092281ff0bc05.jpg",
+        "https://telegra.ph/file/80d205bf0de250d4818e8.jpg",
+        "https://telegra.ph/file/e6a0c406516e28d68b04b.jpg",
+        "https://telegra.ph/file/7b82aa4951e5cc464a03f.jpg",
+        "https://telegra.ph/file/9e6d38bd67a5168c28ccb.jpg",
+        "https://telegra.ph/file/a32e49a9cd487be2e96f5.jpg",
+        "https://telegra.ph/file/65c7ebf85be1b734f07c2.jpg",
+        "https://telegra.ph/file/8baba7a632fda6d7708b2.jpg",
+        "https://telegra.ph/file/ddd71415792b556406e4b.jpg",
+        "https://telegra.ph/file/4cf415c92c9054df140ca.jpg",
+        "https://telegra.ph/file/7f7143a9639bb04bdc3d8.jpg",
+        "https://telegra.ph/file/51c071c34f4adae98c113.jpg",
+        "https://telegra.ph/file/0b5392328631f8cd840ac.jpg",
+        "https://telegra.ph/file/bd414d915e69ac8e33330.jpg",
+        "https://telegra.ph/file/46243bc67133f4d67b098.jpg",
+        "https://telegra.ph/file/45b158eac24d53f73d0c3.jpg"
+    ]
+};

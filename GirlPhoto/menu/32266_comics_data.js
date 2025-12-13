@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32266,
+    "title": "工藤新伍 Cosplay 明日方舟 安洁莉娜 夏卉泳装",
+    "sourceUrl": "https://telegra.ph/工藤新伍-Cosplay-明日方舟-安洁莉娜-夏卉泳装-11-01",
+    "images": [
+        "https://telegra.ph/file/ebfed9ae80c78499491a4.jpg",
+        "https://telegra.ph/file/13eff2347ae2405fe2e1f.jpg",
+        "https://telegra.ph/file/26b5753b07c195bfd1e5c.jpg",
+        "https://telegra.ph/file/354cd62956a0c9eb385d7.jpg",
+        "https://telegra.ph/file/8eba021782759efb6cd83.jpg",
+        "https://telegra.ph/file/2c0f41a398cba56e6a35c.jpg",
+        "https://telegra.ph/file/f042ddf3ee9c03e065c4f.jpg",
+        "https://telegra.ph/file/a9d4ff74e08201d7510d4.jpg",
+        "https://telegra.ph/file/0d5b7868c9b9fa14c331c.jpg",
+        "https://telegra.ph/file/95eef5990125e94d8237d.jpg",
+        "https://telegra.ph/file/4992863d53f66989c24a0.jpg",
+        "https://telegra.ph/file/928f6cfd49b42c903d20c.jpg",
+        "https://telegra.ph/file/8e43c05ee8ea74f1217d0.jpg",
+        "https://telegra.ph/file/095654e1157d110331a2b.jpg",
+        "https://telegra.ph/file/8653ece3d66870a39199a.jpg",
+        "https://telegra.ph/file/0094eae3f3de15be5b839.jpg",
+        "https://telegra.ph/file/585c0d87dc96e3208b4ea.jpg",
+        "https://telegra.ph/file/9a898022b9354b46fc2eb.jpg",
+        "https://telegra.ph/file/ac6cebe41d88697721fb8.jpg",
+        "https://telegra.ph/file/ab736fe0c5c18aa692282.jpg",
+        "https://telegra.ph/file/344e7272e03c2da4c0ae3.jpg",
+        "https://telegra.ph/file/d0731fc1917a069b5158c.jpg",
+        "https://telegra.ph/file/2bfe42e3d6ac990386f41.jpg",
+        "https://telegra.ph/file/f8f64fb6412292916165a.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

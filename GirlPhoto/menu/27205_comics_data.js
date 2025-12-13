@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27205,
+    "title": "[Cos]一北亦北 - 和服泳装 [26P+1V]",
+    "sourceUrl": "https://telegra.ph/Cos%E4%B8%80%E5%8C%97%E4%BA%A6%E5%8C%97---%E5%92%8C%E6%9C%8D%E6%B3%B3%E8%A3%85-26P1V-10-22",
+    "images": [
+        "https://telegra.ph/file/39ff2495cc63323ce2172.jpg",
+        "https://telegra.ph/file/4bec840cdaec6731f1aec.jpg",
+        "https://telegra.ph/file/246a92037db7892f17ff6.jpg",
+        "https://telegra.ph/file/da270d0e3298e19c68dad.jpg",
+        "https://telegra.ph/file/fabdcaf6a4ffd079b5090.jpg",
+        "https://telegra.ph/file/d81a34d64abf39d22ed6e.jpg",
+        "https://telegra.ph/file/5637fdcaa3cf8a9f0731b.jpg",
+        "https://telegra.ph/file/456beb288585b91794def.jpg",
+        "https://telegra.ph/file/37b970c0fa893c48ae423.jpg",
+        "https://telegra.ph/file/b49e675e45248251d10bb.jpg",
+        "https://telegra.ph/file/790c9a6dac5d1885a3051.jpg",
+        "https://telegra.ph/file/32e706d9d50d572bbb0c9.jpg",
+        "https://telegra.ph/file/e521921f2fd03ae193120.jpg",
+        "https://telegra.ph/file/ca6800feab5a8855f7729.jpg",
+        "https://telegra.ph/file/9bf0c53c51d228b900803.jpg",
+        "https://telegra.ph/file/fa8fe2ee1f3410fdf17b5.jpg",
+        "https://telegra.ph/file/36152b974383df60d6201.jpg",
+        "https://telegra.ph/file/88be7bcd59783387c07c1.jpg",
+        "https://telegra.ph/file/05d12ecae5e4de5e19d05.jpg",
+        "https://telegra.ph/file/d79dcd3d6f588876c2dda.jpg",
+        "https://telegra.ph/file/dea4cc78cab276987b986.jpg",
+        "https://telegra.ph/file/a19d7c76c5b1d28da57d9.jpg",
+        "https://telegra.ph/file/4559c8d09b981bd6639d0.jpg",
+        "https://telegra.ph/file/c46596a434c6456ee4573.jpg",
+        "https://telegra.ph/file/8f6c9b510c75a0a6474a2.jpg",
+        "https://telegra.ph/file/96d5ca6cec615c2c3d0fd.jpg"
+    ]
+};

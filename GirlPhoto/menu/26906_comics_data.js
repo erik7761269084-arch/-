@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 26906,
+    "title": "香草喵露露-饼饼和香草喵 [23P]",
+    "sourceUrl": "https://telegra.ph/%E9%A6%99%E8%8D%89%E5%96%B5%E9%9C%B2%E9%9C%B2-%E9%A5%BC%E9%A5%BC%E5%92%8C%E9%A6%99%E8%8D%89%E5%96%B5-23P-12-09",
+    "images": [
+        "https://telegra.ph/file/0b954d8e75c0abc82b736.jpg",
+        "https://telegra.ph/file/816cd0ac5ad706112b928.jpg",
+        "https://telegra.ph/file/da99792e48e51fcd32a86.jpg",
+        "https://telegra.ph/file/8ab7f93bd9b02a1585ab8.jpg",
+        "https://telegra.ph/file/a63e33b962e7fc9863579.jpg",
+        "https://telegra.ph/file/18b83d4707e8bdcffa6e0.jpg",
+        "https://telegra.ph/file/eeb39431e4a1c10a9b01e.jpg",
+        "https://telegra.ph/file/84fb1637e77935453bfa0.jpg",
+        "https://telegra.ph/file/c9819e4ea01091ee0622a.jpg",
+        "https://telegra.ph/file/031a2998fd64173d44f5d.jpg",
+        "https://telegra.ph/file/054384bf2e2b7f48fee85.jpg",
+        "https://telegra.ph/file/7dc1ca57643e8fea6a925.jpg",
+        "https://telegra.ph/file/50c830d226dac1c9f376b.jpg",
+        "https://telegra.ph/file/80daaea46ea3044eeffd3.jpg",
+        "https://telegra.ph/file/a0f1b8f54457527cf4be2.jpg",
+        "https://telegra.ph/file/79f3e36b4983bafd5f61b.jpg",
+        "https://telegra.ph/file/2272943aa1b0e16946726.jpg",
+        "https://telegra.ph/file/3382f517797c1235aff78.jpg",
+        "https://telegra.ph/file/e357f649edf5936f84356.jpg",
+        "https://telegra.ph/file/039f9309553d7e960a197.jpg",
+        "https://telegra.ph/file/d93bb681915525c59c2f1.jpg",
+        "https://telegra.ph/file/c7095627f446376b229c9.jpg",
+        "https://telegra.ph/file/9c2e2a5077295cb6134ee.jpg"
+    ]
+};

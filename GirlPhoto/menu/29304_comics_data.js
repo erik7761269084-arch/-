@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 29304,
+    "title": "[ATFMaker] Selfie Vol 003  23P",
+    "sourceUrl": "https://telegra.ph/ATFMaker-Selfie-Vol-003-23P-07-12",
+    "images": [
+        "https://telegra.ph/file/c77813fb13dd905be400a.jpg",
+        "https://telegra.ph/file/a04132a1dcd6e2aa17139.jpg",
+        "https://telegra.ph/file/e4517c908c1f9cc8bab9f.jpg",
+        "https://telegra.ph/file/fe9780fe54afca3b5ee31.jpg",
+        "https://telegra.ph/file/d0e53f0ccd9c7399dddb9.jpg",
+        "https://telegra.ph/file/6002ac8e57f3cf7ce38a5.jpg",
+        "https://telegra.ph/file/ed4a70a642e31c2d0f62c.jpg",
+        "https://telegra.ph/file/21cf14f8c413c44cd328b.jpg",
+        "https://telegra.ph/file/771c8119acc5853172ed7.jpg",
+        "https://telegra.ph/file/612d57d60caee22df059a.jpg",
+        "https://telegra.ph/file/78c8ecd10d7ae3bdab817.jpg",
+        "https://telegra.ph/file/6bc8fcc1eb7fee25fdbc7.jpg",
+        "https://telegra.ph/file/5a264bd05817d9f260bc0.jpg",
+        "https://telegra.ph/file/97036002bbe7c2c461505.jpg",
+        "https://telegra.ph/file/8970a7f72abeaf85de212.jpg",
+        "https://telegra.ph/file/bdd30b5c6d4b904c35e78.jpg",
+        "https://telegra.ph/file/ef6540f1dec877d7eaafe.jpg",
+        "https://telegra.ph/file/c9b98d861ad7fab74720c.jpg",
+        "https://telegra.ph/file/aea73e5e8884014a825f3.jpg",
+        "https://telegra.ph/file/ca7bc205e32727e0fd03f.jpg",
+        "https://telegra.ph/file/11189afdc79f22c427d40.jpg",
+        "https://telegra.ph/file/439db2cfc1e31aac6f446.jpg",
+        "https://telegra.ph/file/a707ec07970448b43607d.jpg"
+    ]
+};

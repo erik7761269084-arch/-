@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33452,
+    "title": "Cosplay 樱晚gigi 惊鸿",
+    "sourceUrl": "https://telegra.ph/Cosplay-樱晚gigi-惊鸿-03-06",
+    "images": [
+        "https://telegra.ph/file/18ccd20e39e6c9f5e3f40.jpg",
+        "https://telegra.ph/file/318151b55b7a3f334f94c.jpg",
+        "https://telegra.ph/file/c56b51988b7d8d53b0b81.jpg",
+        "https://telegra.ph/file/32346629d7ce9996e2586.jpg",
+        "https://telegra.ph/file/b761edb00daf7c4115ea4.jpg",
+        "https://telegra.ph/file/852c961a7615614c58ffd.jpg",
+        "https://telegra.ph/file/1e7ac8ea9d6c133c997d4.jpg",
+        "https://telegra.ph/file/85444905054e4d8972b3b.jpg",
+        "https://telegra.ph/file/202431c357b42ae48d561.jpg",
+        "https://telegra.ph/file/0bd224d19f99fd07e8ac8.jpg",
+        "https://telegra.ph/file/901b465e609609ee64e3d.jpg",
+        "https://telegra.ph/file/7409e111b1498829f75bd.jpg",
+        "https://telegra.ph/file/a189f1fe18777269236f2.jpg",
+        "https://telegra.ph/file/92a119a13cc7d2b939ffb.jpg",
+        "https://telegra.ph/file/e77cae9758b3c48e4bcea.jpg",
+        "https://telegra.ph/file/402c691c8c4c6da9f8b40.jpg",
+        "https://telegra.ph/file/0f481e55a675039370fb8.jpg",
+        "https://telegra.ph/file/4a0a24dabe1d0f0b07c5f.jpg",
+        "https://telegra.ph/file/a405fe224410c6e81a0ec.jpg",
+        "https://telegra.ph/file/f7ad5d1628432101c9c89.jpg",
+        "https://telegra.ph/file/02679f5712e552c719363.jpg",
+        "https://telegra.ph/file/93b14ab09b9f793576daf.jpg",
+        "https://telegra.ph/file/603fda0f939fc59aafe74.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

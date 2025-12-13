@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 36369,
+    "title": "Merry [LEEHEE EXPRESS] LEDG-015 Set.02",
+    "sourceUrl": "https://telegra.ph/Merry-LEEHEE-EXPRESS-LEDG-015-Set02-12-26",
+    "images": [
+        "https://telegra.ph/file/85b6c729985e76d518363.jpg",
+        "https://telegra.ph/file/81bb168ad5d0e87944fc6.jpg",
+        "https://telegra.ph/file/c97cdde42f718ca378421.jpg",
+        "https://telegra.ph/file/9f8e9056226787347d9ea.jpg",
+        "https://telegra.ph/file/85b45a5df19ce2f2f4465.jpg",
+        "https://telegra.ph/file/f4f4ffa1c11844899c2dc.jpg",
+        "https://telegra.ph/file/4e9f9707a912133e767d0.jpg",
+        "https://telegra.ph/file/9c41851b871a9657f2a94.jpg",
+        "https://telegra.ph/file/2a2ba5e23e5b1f8d50d18.jpg",
+        "https://telegra.ph/file/cef7589395d9e537e5ed5.jpg",
+        "https://telegra.ph/file/a98391b154b5a3b4cbbaf.jpg",
+        "https://telegra.ph/file/7b3579be3299f9aae10d8.jpg",
+        "https://telegra.ph/file/998637ffad19423e27179.jpg",
+        "https://telegra.ph/file/e177a2bd933118335382c.jpg",
+        "https://telegra.ph/file/e922741ff2bc3ffab4cb7.jpg",
+        "https://telegra.ph/file/88e14c73ce62b87de48c8.jpg",
+        "https://telegra.ph/file/b500d67f0d59cd372f202.jpg",
+        "https://telegra.ph/file/cded4b506c5d5f7ca2064.jpg",
+        "https://telegra.ph/file/4ed2ea76b362c0fc205f1.jpg",
+        "https://telegra.ph/file/12ff07f3927adb5111b0f.jpg",
+        "https://telegra.ph/file/d5ed9b1329d2a4e52de29.jpg",
+        "https://telegra.ph/file/2fd334a291d3d81f9bc10.jpg",
+        "https://telegra.ph/file/c56bd7fbb4f1d29bd862d.jpg",
+        "https://telegra.ph/file/726ea74ee61a349d3bc87.jpg"
+    ]
+};

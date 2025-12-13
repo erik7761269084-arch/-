@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41578,
+    "title": "Potato Godzilla - Himeko (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Himeko-Honkai-Star-Rail-06-07",
+    "images": [
+        "https://telegra.ph/file/b7e271110e3db0a38f8de.jpg",
+        "https://telegra.ph/file/a3987a41f6f69b5f22c24.jpg",
+        "https://telegra.ph/file/0dfe0b3081b985753d21f.jpg",
+        "https://telegra.ph/file/739f283f8ca1a2506f4cf.jpg",
+        "https://telegra.ph/file/0d0071a8c94d42ddc84ae.jpg",
+        "https://telegra.ph/file/e75eac1b4c6916cacf7d9.jpg",
+        "https://telegra.ph/file/3267fb3862df371589b97.jpg",
+        "https://telegra.ph/file/4fe0984f225e408b4ea51.jpg",
+        "https://telegra.ph/file/d392076ba2ac068ded8af.jpg",
+        "https://telegra.ph/file/0a48c3dd5b414cf419edc.jpg",
+        "https://telegra.ph/file/c620e5b10a68ca9fcb756.jpg",
+        "https://telegra.ph/file/6d41f233f060004d41e3b.jpg",
+        "https://telegra.ph/file/827baeec972eff83515b8.jpg",
+        "https://telegra.ph/file/26ed1855a8894c2960f86.jpg",
+        "https://telegra.ph/file/1d947065afcf2b6df40d9.jpg",
+        "https://telegra.ph/file/adc98fecabf13589d5765.jpg",
+        "https://telegra.ph/file/b5e411a2f8bf260ec6c68.jpg",
+        "https://telegra.ph/file/f7a57aa526b9c97dec0a3.jpg",
+        "https://telegra.ph/file/a4067962a1cc24a9e3ac3.jpg",
+        "https://telegra.ph/file/db513026a94fd7468716c.jpg",
+        "https://telegra.ph/file/0663da11a9bbefb600265.jpg",
+        "https://telegra.ph/file/b0cdabc20a90585f5d38b.jpg",
+        "https://telegra.ph/file/4cbb3c9e1a23e28983a34.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45653,
+    "title": "阿包也是兔娘 - 神里凌华 - Page 1",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘---神里凌华---Page-1-10-14",
+    "images": [
+        "https://telegra.ph/file/8a4732f32e6484a3fa0f1.jpg",
+        "https://telegra.ph/file/ee1a51293ceead6994eee.jpg",
+        "https://telegra.ph/file/2751fe714fe7847471cb7.jpg",
+        "https://telegra.ph/file/c464f1345fb98e56441dc.jpg",
+        "https://telegra.ph/file/9f6e2d94dcddfe34bbe4a.jpg",
+        "https://telegra.ph/file/768dfee7c10f5cb0ac2e1.jpg",
+        "https://telegra.ph/file/73478eedef1e784be7260.jpg",
+        "https://telegra.ph/file/7fa3e6beacc78527d859f.jpg",
+        "https://telegra.ph/file/c02cc62ede85a61d5eba6.jpg",
+        "https://telegra.ph/file/57eb7263312dc6b480647.jpg",
+        "https://telegra.ph/file/288ade268d4c70c4e405a.jpg",
+        "https://telegra.ph/file/35b90e45b68b774dc776f.jpg",
+        "https://telegra.ph/file/a5d8d03c3ac66c1830454.jpg",
+        "https://telegra.ph/file/9b264b6ffea1db7612494.jpg",
+        "https://telegra.ph/file/b370b3d2e7e6fc33e0278.jpg",
+        "https://telegra.ph/file/10982f83a9a32ee7acd9d.jpg",
+        "https://telegra.ph/file/4cbc396f74f76ae1393fa.jpg",
+        "https://telegra.ph/file/c2966db77a6dee922d981.jpg",
+        "https://telegra.ph/file/dfd046628e3e1fce08266.jpg",
+        "https://telegra.ph/file/691b463c4fa09ea3d84e7.jpg",
+        "https://telegra.ph/file/36d87f6737b93a00cbe3f.jpg",
+        "https://telegra.ph/file/d0839ca5041eb7dcc2ad1.jpg",
+        "https://telegra.ph/file/5e1849f4a337ab9f7567e.jpg",
+        "https://telegra.ph/file/0361583e98c26fcaa96ea.jpg",
+        "https://telegra.ph/file/2ffde6ec8ba1693104eb0.jpg"
+    ]
+};

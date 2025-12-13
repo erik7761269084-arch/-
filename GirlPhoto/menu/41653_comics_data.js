@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41653,
+    "title": "Queenie - Chun Li (Street Fighter)",
+    "sourceUrl": "https://telegra.ph/Queenie---Chun-Li-Street-Fighter-07-01",
+    "images": [
+        "https://telegra.ph/file/4ce2cfc0483da279fdf46.jpg",
+        "https://telegra.ph/file/9f3c887c75761788cdeeb.jpg",
+        "https://telegra.ph/file/c87bbebecc19cc435de8a.jpg",
+        "https://telegra.ph/file/cd6376abb6bf2d59cf244.jpg",
+        "https://telegra.ph/file/5e7fd86f4eb9e62e3f5db.jpg",
+        "https://telegra.ph/file/a92afb3a0d527867850d2.jpg",
+        "https://telegra.ph/file/3bdbb224b8c675c563b1f.jpg",
+        "https://telegra.ph/file/22613638412b701b1a483.jpg",
+        "https://telegra.ph/file/e8f7523518469fbbdf676.jpg",
+        "https://telegra.ph/file/767df86884f0a0474ce8e.jpg",
+        "https://telegra.ph/file/d18579817804e68e8e482.jpg",
+        "https://telegra.ph/file/5fea79f8284a37060f6d9.jpg",
+        "https://telegra.ph/file/b7212e957f5ba7b260889.jpg",
+        "https://telegra.ph/file/fc1747cf842295d2b4aea.jpg",
+        "https://telegra.ph/file/69981273520d6d7c42eff.jpg",
+        "https://telegra.ph/file/941f2190c19a1edebd1f7.jpg",
+        "https://telegra.ph/file/82ea2c227c709ca6fa041.jpg",
+        "https://telegra.ph/file/d77efe4e300dcff753f67.jpg",
+        "https://telegra.ph/file/b2173fffa8b3da1febde5.jpg",
+        "https://telegra.ph/file/bb23542d1ce8f0de1212c.jpg",
+        "https://telegra.ph/file/6bdbc3088539cd6d0edd4.jpg",
+        "https://telegra.ph/file/e0e6322b3f9617e236f50.jpg",
+        "https://telegra.ph/file/b575da4506e3082827a47.jpg",
+        "https://telegra.ph/file/19aafcc53ec4e5c569f5d.jpg"
+    ]
+};

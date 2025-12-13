@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 24883,
+    "title": "布丁大法-发条少女-天使与恶魔[26P]",
+    "sourceUrl": "https://telegra.ph/%E5%B8%83%E4%B8%81%E5%A4%A7%E6%B3%95-%E5%8F%91%E6%9D%A1%E5%B0%91%E5%A5%B3-%E5%A4%A9%E4%BD%BF%E4%B8%8E%E6%81%B6%E9%AD%9426P-01-25",
+    "images": [
+        "https://telegra.ph/file/bac2bc2867a8348db8d7a.jpg",
+        "https://telegra.ph/file/cb14a41172e835231090d.jpg",
+        "https://telegra.ph/file/cf4c8974955845a5fc828.jpg",
+        "https://telegra.ph/file/3466ddd885695cca413f3.jpg",
+        "https://telegra.ph/file/05e337b9c0b2dceeebb5d.jpg",
+        "https://telegra.ph/file/3b53c90ca48812997d808.jpg",
+        "https://telegra.ph/file/86afe355fc67638909c08.jpg",
+        "https://telegra.ph/file/20bdb8b3246ee944a5bb0.jpg",
+        "https://telegra.ph/file/e82c019e265e361bc3409.jpg",
+        "https://telegra.ph/file/c193c264301c2214a33a8.jpg",
+        "https://telegra.ph/file/b3086ebfa751cc907f285.jpg",
+        "https://telegra.ph/file/addf5ff16a12e0311175e.jpg",
+        "https://telegra.ph/file/dd491106e2b96f00a444d.jpg",
+        "https://telegra.ph/file/732e81fc5ba1bbe22aad0.jpg",
+        "https://telegra.ph/file/da99fca6043b8b24a5b60.jpg",
+        "https://telegra.ph/file/f67db36961644881e9266.jpg",
+        "https://telegra.ph/file/b2dbf6bc40611d645cb0f.jpg",
+        "https://telegra.ph/file/99b530854ad9c23880440.jpg",
+        "https://telegra.ph/file/5cdd187ada12b4e0b055e.jpg",
+        "https://telegra.ph/file/09418dcb202a44a0867c9.jpg",
+        "https://telegra.ph/file/3df213649e6ba5da8e498.jpg",
+        "https://telegra.ph/file/d764fd54740ac1b2808e3.jpg",
+        "https://telegra.ph/file/122d14e230c804c5b6376.jpg",
+        "https://telegra.ph/file/efe339dcaef854a4f6fea.jpg",
+        "https://telegra.ph/file/eb89079359a8cc1d2f01b.jpg",
+        "https://telegra.ph/file/54b430c84a35025898bbb.jpg"
+    ]
+};

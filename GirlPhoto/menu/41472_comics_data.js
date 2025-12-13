@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41472,
+    "title": "Machi - Fern (Sousou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Machi---Fern-Sousou-No-Frieren-05-10",
+    "images": [
+        "https://telegra.ph/file/5bfb28543ceaed22599f6.jpg",
+        "https://telegra.ph/file/26714996a7564421a2a43.jpg",
+        "https://telegra.ph/file/0a338276be16bffe61bd5.jpg",
+        "https://telegra.ph/file/4144d274fa15155612942.jpg",
+        "https://telegra.ph/file/79acdd29810c00941c868.jpg",
+        "https://telegra.ph/file/e8709addcd3c4dd8d62e2.jpg",
+        "https://telegra.ph/file/525f9cc17c7856f41a7a9.jpg",
+        "https://telegra.ph/file/9730bc859312ea61ab6c1.jpg",
+        "https://telegra.ph/file/3075a91d3015fa9ff9895.jpg",
+        "https://telegra.ph/file/0095a19703205dc40b767.jpg",
+        "https://telegra.ph/file/9c37b0eca2c9d4f138b6e.jpg",
+        "https://telegra.ph/file/88c8396c9e106ff922f78.jpg",
+        "https://telegra.ph/file/17591621cf49ab7b5f0bf.jpg",
+        "https://telegra.ph/file/3b4c6cb7f5e6d6aa073f9.jpg",
+        "https://telegra.ph/file/a56cb1581ec0baa1e60f7.jpg",
+        "https://telegra.ph/file/97b4fad110ee836df4b7a.jpg",
+        "https://telegra.ph/file/53435bfefe2cf7fab32aa.jpg",
+        "https://telegra.ph/file/c6576fbc12709833f7431.jpg",
+        "https://telegra.ph/file/5e04f9d5a6276c1426ee1.jpg",
+        "https://telegra.ph/file/6ccba9d73a5fe8ebce5f4.jpg",
+        "https://telegra.ph/file/edf9d6dd947b79ae7b2cc.jpg",
+        "https://telegra.ph/file/decdf0474f4f161683661.jpg",
+        "https://telegra.ph/file/0a013f8bd276111765cc9.jpg",
+        "https://telegra.ph/file/e81c8ee9a9cda12f7cec1.jpg"
+    ]
+};

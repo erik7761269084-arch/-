@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 24754,
+    "title": "JVID - 掉掉狐狸尾巴户外露出与天台凌辱 62P1V",
+    "sourceUrl": "https://telegra.ph/JVID---%E6%8E%89%E6%8E%89%E7%8B%90%E7%8B%B8%E5%B0%BE%E5%B7%B4%E6%88%B7%E5%A4%96%E9%9C%B2%E5%87%BA%E4%B8%8E%E5%A4%A9%E5%8F%B0%E5%87%8C%E8%BE%B1-62P1V-06-30",
+    "images": [
+        "https://telegra.ph/file/15da3257257e4178c4c33.jpg",
+        "https://telegra.ph/file/73238f8e9276dae17bf97.jpg",
+        "https://telegra.ph/file/6e070c39a76ca6da351db.jpg",
+        "https://telegra.ph/file/feec3267ed7d4c4eaa3b5.jpg",
+        "https://telegra.ph/file/dcf7f0fc00d0ee8dfff20.jpg",
+        "https://telegra.ph/file/04acca0444729aa42d095.jpg",
+        "https://telegra.ph/file/63fb66c85e744ef09b752.jpg",
+        "https://telegra.ph/file/8b17907a5e7460d086589.jpg",
+        "https://telegra.ph/file/05043822a51655f538cc0.jpg",
+        "https://telegra.ph/file/b472b4366582238c590f6.jpg",
+        "https://telegra.ph/file/ccd4476b44c4511254403.jpg",
+        "https://telegra.ph/file/bfb1eade96492f6c37f1b.jpg",
+        "https://telegra.ph/file/e404e62e8ff4899b6b841.jpg",
+        "https://telegra.ph/file/8ffb16ef71c7c049281d3.jpg",
+        "https://telegra.ph/file/076db47f269a295600cdc.jpg",
+        "https://telegra.ph/file/3478362386d4cc08fd0d6.jpg",
+        "https://telegra.ph/file/ef86feaf75cf1dea3b432.jpg",
+        "https://telegra.ph/file/52416504d645ae20b15b5.jpg",
+        "https://telegra.ph/file/b6e65319386f821636f24.jpg",
+        "https://telegra.ph/file/9618d05364a40f4458dc9.jpg",
+        "https://telegra.ph/file/da83ab5912ad930a4e6d6.jpg",
+        "https://telegra.ph/file/2564343e8e6cd8ca337e7.jpg",
+        "https://telegra.ph/file/8470adb66dfe21a46390c.jpg",
+        "https://telegra.ph/file/7e71b3385051903bf7021.jpg"
+    ]
+};

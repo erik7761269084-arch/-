@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29222,
+    "title": "甜甜的甜 - 居家少女 [26P]",
+    "sourceUrl": "https://telegra.ph/%E7%94%9C%E7%94%9C%E7%9A%84%E7%94%9C---%E5%B1%85%E5%AE%B6%E5%B0%91%E5%A5%B3-26P-03-25",
+    "images": [
+        "https://telegra.ph/file/db0da498c4853aa3cdb74.jpg",
+        "https://telegra.ph/file/a58aee100bac70d909f78.jpg",
+        "https://telegra.ph/file/99090e1d729254c2f6153.jpg",
+        "https://telegra.ph/file/237e7c42f1fcfd26f04d5.jpg",
+        "https://telegra.ph/file/e51c05079088c9a803895.jpg",
+        "https://telegra.ph/file/5b0bdebc1b27c76d8c03b.jpg",
+        "https://telegra.ph/file/ac7a756e13bf59e9a15ce.jpg",
+        "https://telegra.ph/file/d319ae15317a1021373bf.jpg",
+        "https://telegra.ph/file/f318ebaaba985932b2222.jpg",
+        "https://telegra.ph/file/cfa631a9358ed1b334b02.jpg",
+        "https://telegra.ph/file/4f70f4bafadbd90cd6e77.jpg",
+        "https://telegra.ph/file/ee58a712d5f00195546d1.jpg",
+        "https://telegra.ph/file/e3026c3b827d7f1b41d9c.jpg",
+        "https://telegra.ph/file/c1a63abbe064712cd4411.jpg",
+        "https://telegra.ph/file/e96f3586269140bbec554.jpg",
+        "https://telegra.ph/file/e5b5fd7aba76244d36b55.jpg",
+        "https://telegra.ph/file/629be8effad0c5e13558f.jpg",
+        "https://telegra.ph/file/cea71981652c303a596af.jpg",
+        "https://telegra.ph/file/9240f9a7589cdaf0dc37a.jpg",
+        "https://telegra.ph/file/787dd9fafb4aee539a70e.jpg",
+        "https://telegra.ph/file/43d4efc79a4d959301ca9.jpg",
+        "https://telegra.ph/file/5607a4e4b85da6ac4ad9a.jpg",
+        "https://telegra.ph/file/09f87c891e1a65b3331be.jpg",
+        "https://telegra.ph/file/4dce51d8c866976a3ff08.jpg",
+        "https://telegra.ph/file/81d39c007a4eaaeabdcff.jpg",
+        "https://telegra.ph/file/4d5f716792a6cac606a9b.jpg"
+    ]
+};

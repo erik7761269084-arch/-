@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41031,
+    "title": "Rizuna - Elaina (Majo No Tabitabi)",
+    "sourceUrl": "https://telegra.ph/Rizuna---Elaina-Majo-No-Tabitabi-12-22",
+    "images": [
+        "https://telegra.ph/file/3908ac2f94ad51ec97b6e.jpg",
+        "https://telegra.ph/file/9621da9ea2e08678dfe39.jpg",
+        "https://telegra.ph/file/20d25f75893ab038b7239.jpg",
+        "https://telegra.ph/file/d4331ec23a89025350bd4.jpg",
+        "https://telegra.ph/file/10430627932dfba92b654.jpg",
+        "https://telegra.ph/file/a9399f4abe8da3bcf593c.jpg",
+        "https://telegra.ph/file/e30d5fd0b87cc16f337fc.jpg",
+        "https://telegra.ph/file/811fa4a9d02bbdf280fb7.jpg",
+        "https://telegra.ph/file/b48504ed3017104d08a26.jpg",
+        "https://telegra.ph/file/5845a314d11aeaddf76a3.jpg",
+        "https://telegra.ph/file/15b69f55556c6c5d3ee96.jpg",
+        "https://telegra.ph/file/741ebf14b186d9810434c.jpg",
+        "https://telegra.ph/file/3b72d4d37b619917f46d7.jpg",
+        "https://telegra.ph/file/2faa748dea798fe35ea68.jpg",
+        "https://telegra.ph/file/497da8b97bca991f456b8.jpg",
+        "https://telegra.ph/file/b59104436d04b8e3abeef.jpg",
+        "https://telegra.ph/file/6b17d0d3c2490dba07caf.jpg",
+        "https://telegra.ph/file/94f2a1dab4e1026111d09.jpg",
+        "https://telegra.ph/file/801b0279523f43db233a0.jpg",
+        "https://telegra.ph/file/7f0a1fdb0e457bdec64cb.jpg",
+        "https://telegra.ph/file/4734ecfae32b92f7816ee.jpg",
+        "https://telegra.ph/file/eaace6e86a848492d82f7.jpg",
+        "https://telegra.ph/file/2c5fa26e9b621e6705b2b.jpg",
+        "https://telegra.ph/file/2b27360317f2f27c5e89e.jpg",
+        "https://telegra.ph/file/963948edbca7ddd96b112.jpg",
+        "https://telegra.ph/file/1399c8cbe1b252a3ecf52.jpg"
+    ]
+};

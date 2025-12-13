@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42933,
+    "title": "Rioko凉凉子 - Yat Sen： Oath",
+    "sourceUrl": "https://telegra.ph/Rioko%E5%87%89%E5%87%89%E5%AD%90---Yat-Sen-Oath-07-15",
+    "images": [
+        "https://telegra.ph/file/44057f6c250338061157b.jpg",
+        "https://telegra.ph/file/d62c696821e007f61546b.jpg",
+        "https://telegra.ph/file/e1ed9cd6dfd7f91f31299.jpg",
+        "https://telegra.ph/file/ac319e6880f2f235e2880.jpg",
+        "https://telegra.ph/file/238feab0d0fdadc1a41ee.jpg",
+        "https://telegra.ph/file/39cb2495ddb143df3bfe2.jpg",
+        "https://telegra.ph/file/33e635091ece79fc455fb.jpg",
+        "https://telegra.ph/file/fea33916adc4b8c21f31c.jpg",
+        "https://telegra.ph/file/159ab88467a161add7a3f.jpg",
+        "https://telegra.ph/file/9c51c992b16af7282589d.jpg",
+        "https://telegra.ph/file/11b6fa3774d2073dafc55.jpg",
+        "https://telegra.ph/file/2c2380e6782b66385e6eb.jpg",
+        "https://telegra.ph/file/2431764f7eab71e7dc74a.jpg",
+        "https://telegra.ph/file/0acd1d12d04ce74974142.jpg",
+        "https://telegra.ph/file/950e7762b45718adad2b0.jpg",
+        "https://telegra.ph/file/09d8e597e643dc2a7f28f.jpg",
+        "https://telegra.ph/file/31be2cd887afd639a2dac.jpg",
+        "https://telegra.ph/file/57c692dcf50fc81f0ae02.jpg",
+        "https://telegra.ph/file/6f60b357197123077a15b.jpg",
+        "https://telegra.ph/file/9a2fbf7011ea40b1b07b7.jpg",
+        "https://telegra.ph/file/efa370de186a5e5aba8fa.jpg",
+        "https://telegra.ph/file/024ede60fdfb8957fefd5.jpg",
+        "https://telegra.ph/file/189a1f193bfb70cad9afc.jpg",
+        "https://telegra.ph/file/b99f079c79e93a7148f3a.jpg",
+        "https://telegra.ph/file/18fe6a6527804a4d2bfcf.jpg"
+    ]
+};

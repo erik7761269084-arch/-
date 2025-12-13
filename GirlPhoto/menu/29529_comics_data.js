@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29529,
+    "title": "Uy Uy – Nyotengu",
+    "sourceUrl": "https://telegra.ph/Uy-Uy--Nyotengu-12-16",
+    "images": [
+        "https://telegra.ph/file/66e31a429611664636d97.jpg",
+        "https://telegra.ph/file/10de8e1b5f370c5ec40f5.jpg",
+        "https://telegra.ph/file/235fc0b2c796bda4cb0df.jpg",
+        "https://telegra.ph/file/d40c2396a6268fae4c28b.jpg",
+        "https://telegra.ph/file/f9109d2656f3f325b5704.jpg",
+        "https://telegra.ph/file/6222a657392035a81b9ef.jpg",
+        "https://telegra.ph/file/812e04185aed2dc6c02c9.jpg",
+        "https://telegra.ph/file/1aa8ac1586d8a760fea64.jpg",
+        "https://telegra.ph/file/5d2cdc3b750a33674feef.jpg",
+        "https://telegra.ph/file/142853d516b2096c2a2d4.jpg",
+        "https://telegra.ph/file/80a3ac1de7f1bb6d6ec2c.jpg",
+        "https://telegra.ph/file/2e22a6c5a8f5a14ff38d2.jpg",
+        "https://telegra.ph/file/947acce3bf704b59045e3.jpg",
+        "https://telegra.ph/file/2b987c29d9b8275aae095.jpg",
+        "https://telegra.ph/file/1d0ce32050adf5a80f834.jpg",
+        "https://telegra.ph/file/287d87327cc4131e1a07b.jpg",
+        "https://telegra.ph/file/6c95cf34ef7c7d7966dd8.jpg",
+        "https://telegra.ph/file/de503d35434c6ad7fed70.jpg",
+        "https://telegra.ph/file/41dfd5b9142e5b4402148.jpg",
+        "https://telegra.ph/file/5b887aa77e29256164189.jpg",
+        "https://telegra.ph/file/13b16da4093cbd18de939.jpg",
+        "https://telegra.ph/file/85bf896e5a54ff3c4d7bc.jpg",
+        "https://telegra.ph/file/51b842f7429bea7e40e10.jpg",
+        "https://telegra.ph/file/3b96b58061ad62081653b.jpg",
+        "https://telegra.ph/file/4c77af67e680807873013.jpg",
+        "https://telegra.ph/file/6fb92d5acb4bac0593a56.jpg"
+    ]
+};

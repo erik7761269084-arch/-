@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27513,
+    "title": "雨波_HaneAme - NO.144 下平玲花 Gantz Reika [26P-67MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---NO144-%E4%B8%8B%E5%B9%B3%E7%8E%B2%E8%8A%B1-Gantz-Reika-26P-67MB-04-04",
+    "images": [
+        "https://telegra.ph/file/99869986af5cd24886160.jpg",
+        "https://telegra.ph/file/a0ee52f35be126e30dc89.jpg",
+        "https://telegra.ph/file/8a54289154df9bfb15957.jpg",
+        "https://telegra.ph/file/01c8cbf42dd1e1b8051a8.jpg",
+        "https://telegra.ph/file/d2b39c5e878cc3ce9c87b.jpg",
+        "https://telegra.ph/file/614b974c3881c0fd267d8.jpg",
+        "https://telegra.ph/file/7343e00d9f96a3fc3628a.jpg",
+        "https://telegra.ph/file/b01d1c3fe50d3c421bc6d.jpg",
+        "https://telegra.ph/file/7383567c98c315043eacd.jpg",
+        "https://telegra.ph/file/e679c90ce44c4ee845e69.jpg",
+        "https://telegra.ph/file/aa4ee96104cf84af41dcd.jpg",
+        "https://telegra.ph/file/5e8b6ff7dc57ccc8e8e07.jpg",
+        "https://telegra.ph/file/f6fee13681532c390ca37.jpg",
+        "https://telegra.ph/file/9e1a4fcb8f8cbc999b9b8.jpg",
+        "https://telegra.ph/file/a14bfc5e97928d93e88a8.jpg",
+        "https://telegra.ph/file/9e0adddcb5fb1faaed1f9.jpg",
+        "https://telegra.ph/file/42d92bf4a047d487c1d16.jpg",
+        "https://telegra.ph/file/1b9826087f59aecda95ce.jpg",
+        "https://telegra.ph/file/de9cb02abaa0629d97e83.jpg",
+        "https://telegra.ph/file/936ca0427aa90b09e8250.jpg",
+        "https://telegra.ph/file/4e59560303e9fa38725a9.jpg",
+        "https://telegra.ph/file/6166d6efe259986bc19fb.jpg",
+        "https://telegra.ph/file/5b65d7a0419701b326d9d.jpg",
+        "https://telegra.ph/file/0e4e3686cd918a471452e.jpg",
+        "https://telegra.ph/file/108b378e0b29571aeb885.jpg",
+        "https://telegra.ph/file/3869e169757afc907b2ee.jpg"
+    ]
+};

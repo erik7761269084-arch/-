@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38528,
+    "title": "MissWarmJ - Bowsette (Mario Bros)",
+    "sourceUrl": "https://telegra.ph/MissWarmJ---Bowsette-Mario-Bros-11-25",
+    "images": [
+        "https://telegra.ph/file/29afa8c3f0c9e4bf54223.jpg",
+        "https://telegra.ph/file/8496ed5ebc09b867cfe6f.jpg",
+        "https://telegra.ph/file/c5294c80222826f5ba3e5.jpg",
+        "https://telegra.ph/file/e4ee7d278208dcd9afa75.jpg",
+        "https://telegra.ph/file/e007b13e9616caa6cad42.jpg",
+        "https://telegra.ph/file/9f7e5bbb5af62225b875d.jpg",
+        "https://telegra.ph/file/8d096992effa2f4365fe1.jpg",
+        "https://telegra.ph/file/b1cb7ed7a3db6b2ecf897.jpg",
+        "https://telegra.ph/file/c171f4fa6de1a087cbf07.jpg",
+        "https://telegra.ph/file/5b1edcc1c6133f751f28f.jpg",
+        "https://telegra.ph/file/806dd4cf1f6c4dcd18ea2.jpg",
+        "https://telegra.ph/file/80fa40d0225bfc3c40c2b.jpg",
+        "https://telegra.ph/file/fb19e0eb7c6216ae626bc.jpg",
+        "https://telegra.ph/file/a692176ec6d9de154ffcf.jpg",
+        "https://telegra.ph/file/a95858496ea65c85fa2de.jpg",
+        "https://telegra.ph/file/b29fc326ed3e9bc1116bb.jpg",
+        "https://telegra.ph/file/c4aa69509e371319321c0.jpg",
+        "https://telegra.ph/file/be548c57e6c637eb21f9d.jpg",
+        "https://telegra.ph/file/9a3ef77a07d38dc1e9971.jpg",
+        "https://telegra.ph/file/c959b9a7b8819068a26ff.jpg",
+        "https://telegra.ph/file/38db69ed170a81def9c31.jpg",
+        "https://telegra.ph/file/4dee2a78864c6f6319d31.jpg",
+        "https://telegra.ph/file/eb040c7e16acbfb6078b7.jpg",
+        "https://telegra.ph/file/81acd5e71a58570eebc14.jpg",
+        "https://telegra.ph/file/8f1cd1c73222432367d26.jpg",
+        "https://telegra.ph/file/807fec331a65eec77a431.jpg"
+    ]
+};

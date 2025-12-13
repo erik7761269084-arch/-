@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41244,
+    "title": "Lady Melamori - Blair (Soul Eater)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Blair-Soul-Eater-03-11",
+    "images": [
+        "https://telegra.ph/file/ba1e2c96a0e90b8f62ac4.jpg",
+        "https://telegra.ph/file/a0ef7425df31ce2180336.jpg",
+        "https://telegra.ph/file/18c8c4ab175a752afbdf3.jpg",
+        "https://telegra.ph/file/44cd203c62f55989bfc32.jpg",
+        "https://telegra.ph/file/c8e4eddd61c9bcf7cbf23.jpg",
+        "https://telegra.ph/file/ae8c3c6e4b31005206501.jpg",
+        "https://telegra.ph/file/a53b4b22d300c3c49ec52.jpg",
+        "https://telegra.ph/file/b35a56ca2d6f2c358d2a8.jpg",
+        "https://telegra.ph/file/e776ce40d8883fc583597.jpg",
+        "https://telegra.ph/file/34a0a40d79d60e3983b63.jpg",
+        "https://telegra.ph/file/e0a643c8f40eb88b61f8f.jpg",
+        "https://telegra.ph/file/2ed304068d737c77c1ec8.jpg",
+        "https://telegra.ph/file/95296f053078e164cab17.jpg",
+        "https://telegra.ph/file/b5673f3af7a1e0e0012b8.jpg",
+        "https://telegra.ph/file/4257d22978f763f4c87a6.jpg",
+        "https://telegra.ph/file/c85f79471b364f5144020.jpg",
+        "https://telegra.ph/file/94a398a6185ba7671e300.jpg",
+        "https://telegra.ph/file/6c220e383e3a33a12f1f2.jpg",
+        "https://telegra.ph/file/9dfdc5ba2cd14df605bdc.jpg",
+        "https://telegra.ph/file/e342dfeaa6b5d43d768b7.jpg",
+        "https://telegra.ph/file/b52d9e6f05f35e0f4fab5.jpg",
+        "https://telegra.ph/file/580ab57e14d999a62bbf3.jpg",
+        "https://telegra.ph/file/4a74b15ab0a51f64c9c78.jpg",
+        "https://telegra.ph/file/647ad27c907f2ef91780d.jpg"
+    ]
+};

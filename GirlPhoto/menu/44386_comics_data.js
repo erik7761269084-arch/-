@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44386,
+    "title": "橙子喵酱 - Saber [24P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---Saber-24P-11-14",
+    "images": [
+        "https://telegra.ph/file/439f1f4fc011cecd1149e.jpg",
+        "https://telegra.ph/file/4454c3d6e2cd26d332666.jpg",
+        "https://telegra.ph/file/3f2eada65d3b38d9e0812.jpg",
+        "https://telegra.ph/file/8a259307c2384a687b1f3.jpg",
+        "https://telegra.ph/file/57f8342182474125f45d4.jpg",
+        "https://telegra.ph/file/82db27e2416d00100f78d.jpg",
+        "https://telegra.ph/file/bfefe5d266cff4a04e82c.jpg",
+        "https://telegra.ph/file/bd675eb547f70e7ff6bf8.jpg",
+        "https://telegra.ph/file/0ab4fc1575a9c0cc7b426.jpg",
+        "https://telegra.ph/file/56b4d0d359eb015cf5b6a.jpg",
+        "https://telegra.ph/file/f0df1c2aa4bfee89c224a.jpg",
+        "https://telegra.ph/file/85d727be4d31bb046d4b7.jpg",
+        "https://telegra.ph/file/81b109125d0633a93bf7a.jpg",
+        "https://telegra.ph/file/c9da9999bb6d74873f703.jpg",
+        "https://telegra.ph/file/9cb4505220939c51ea347.jpg",
+        "https://telegra.ph/file/178728b2675672ee9905d.jpg",
+        "https://telegra.ph/file/2e571278bf0a2abfe34b1.jpg",
+        "https://telegra.ph/file/c29c3741e6477037c1138.jpg",
+        "https://telegra.ph/file/860c2eaeef6179f3456bc.jpg",
+        "https://telegra.ph/file/9e5a37d4dde5265e441b2.jpg",
+        "https://telegra.ph/file/32845044c7ecbb345191b.jpg",
+        "https://telegra.ph/file/2875f8c4b3f44ed91a084.jpg",
+        "https://telegra.ph/file/3abbf3762ee94c5e7a2ee.jpg",
+        "https://telegra.ph/file/84e8b4b561357124203ca.jpg"
+    ]
+};

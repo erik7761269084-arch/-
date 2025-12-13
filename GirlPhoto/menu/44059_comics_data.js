@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44059,
+    "title": "橙子喵酱 - 西施 & 娜可露露 [24P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---西施--娜可露露-24P-09-27",
+    "images": [
+        "https://telegra.ph/file/72779886114a3332d270b.jpg",
+        "https://telegra.ph/file/fecf07f44fbc4167179cc.jpg",
+        "https://telegra.ph/file/3f5037c7b8a5f43f60c09.jpg",
+        "https://telegra.ph/file/b1426626a8d702b66a300.jpg",
+        "https://telegra.ph/file/5c1dc3110f6e44ddb07b6.jpg",
+        "https://telegra.ph/file/ab0dbf0b1f1382cb20090.jpg",
+        "https://telegra.ph/file/064a39bc677643f7d3d99.jpg",
+        "https://telegra.ph/file/b1fa80e076c0bbbe4a7df.jpg",
+        "https://telegra.ph/file/ac9359ba2e0bd61032891.jpg",
+        "https://telegra.ph/file/26240457bd5513eb6c911.jpg",
+        "https://telegra.ph/file/45af33d7297dd70ac99b6.jpg",
+        "https://telegra.ph/file/cb4243e9403d009c09f79.jpg",
+        "https://telegra.ph/file/5fd1faae0e4d8667add5b.jpg",
+        "https://telegra.ph/file/388f1b0519e87fc42e2b3.jpg",
+        "https://telegra.ph/file/08a26869e531aaf150760.jpg",
+        "https://telegra.ph/file/5484f40280d41c84bb9fa.jpg",
+        "https://telegra.ph/file/ebdda8bf805bd29bc0fee.jpg",
+        "https://telegra.ph/file/661cef3e7444dd7d576f6.jpg",
+        "https://telegra.ph/file/87e916f837f4e040cb08f.jpg",
+        "https://telegra.ph/file/81090983e9de6642e9429.jpg",
+        "https://telegra.ph/file/f0e13aa99661a100d4ecf.jpg",
+        "https://telegra.ph/file/a4e8503e57abcdb2e48f5.jpg",
+        "https://telegra.ph/file/40b88a6947ff2f2181cb5.jpg"
+    ]
+};

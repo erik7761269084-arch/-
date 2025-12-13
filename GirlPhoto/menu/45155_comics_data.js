@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45155,
+    "title": "Hidori Rose - OL Keqing",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---OL-Keqing-07-22",
+    "images": [
+        "https://telegra.ph/file/4d5edb4de01cf008d5756.jpg",
+        "https://telegra.ph/file/a2021d248cdfefb9a0047.jpg",
+        "https://telegra.ph/file/077b35cf01a84eb645810.jpg",
+        "https://telegra.ph/file/52786e39fb19d38c1a7cf.jpg",
+        "https://telegra.ph/file/4bbbb7859f5ddd7313490.jpg",
+        "https://telegra.ph/file/39117f1c6224d2853de4c.jpg",
+        "https://telegra.ph/file/331533b55b6bbd8f61d17.jpg",
+        "https://telegra.ph/file/2db033dd892931c87f022.jpg",
+        "https://telegra.ph/file/d7ef4647efc79b01e17e8.jpg",
+        "https://telegra.ph/file/1f25eb50174187ee935b9.jpg",
+        "https://telegra.ph/file/34b0c8df0084a7e1db681.jpg",
+        "https://telegra.ph/file/6f0fccb605e0a8e05bda8.jpg",
+        "https://telegra.ph/file/b4dcba3033bd69a91baa7.jpg",
+        "https://telegra.ph/file/b60c9986d5375069c9bd1.jpg",
+        "https://telegra.ph/file/875d5098eda434a6e508d.jpg",
+        "https://telegra.ph/file/3f6ba71bdeabf78889e6e.jpg",
+        "https://telegra.ph/file/5b584a73908e1a6c9f881.jpg",
+        "https://telegra.ph/file/6610bd74481d317946b06.jpg",
+        "https://telegra.ph/file/1a8cd0cc74aa870af05dc.jpg",
+        "https://telegra.ph/file/cd247964fe1b4645fbfe0.jpg",
+        "https://telegra.ph/file/645b2d7498b7a06cc285a.jpg",
+        "https://telegra.ph/file/87b06fd7d43e761e31cf6.jpg",
+        "https://telegra.ph/file/e4edeec1311e49e07cfd6.jpg",
+        "https://telegra.ph/file/9dd59a593ca5404d29c49.jpg",
+        "https://telegra.ph/file/029b56e00364c748b6337.jpg"
+    ]
+};

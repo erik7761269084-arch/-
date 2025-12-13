@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43001,
+    "title": "(習呆呆) Misa Daidai - Yae Miko",
+    "sourceUrl": "https://telegra.ph/%E7%BF%92%E5%91%86%E5%91%86-Misa-Daidai---Yae-Miko-07-22",
+    "images": [
+        "https://telegra.ph/file/7bcd307a35bc1e6f3346e.jpg",
+        "https://telegra.ph/file/977abed5c15b461d53277.jpg",
+        "https://telegra.ph/file/e6d631eddec5b9eb19a89.jpg",
+        "https://telegra.ph/file/3acdbc8e06719e97eaf57.jpg",
+        "https://telegra.ph/file/d54d0363c95ec8eb3f345.jpg",
+        "https://telegra.ph/file/e6545bb7df67ff9d41bd9.jpg",
+        "https://telegra.ph/file/177193328c533af6720ad.jpg",
+        "https://telegra.ph/file/a251109cd2bd3ad6cb1e8.jpg",
+        "https://telegra.ph/file/9c92902eb55cd4a5233e2.jpg",
+        "https://telegra.ph/file/45d49e7407358c1564c8d.jpg",
+        "https://telegra.ph/file/ce6b34480aa463297b3f9.jpg",
+        "https://telegra.ph/file/1e4c24ed19047c8a8842f.jpg",
+        "https://telegra.ph/file/531de29df631f5ab83c4d.jpg",
+        "https://telegra.ph/file/b1096f6f9cfd8a3eb3422.jpg",
+        "https://telegra.ph/file/7d2429447f452e366ef13.jpg",
+        "https://telegra.ph/file/85287b8fa31c566ee577b.jpg",
+        "https://telegra.ph/file/edfe36dbc0a1d09c22ef7.jpg",
+        "https://telegra.ph/file/394306209940dfacbf182.jpg",
+        "https://telegra.ph/file/b4edb88d7e263bcaffa67.jpg",
+        "https://telegra.ph/file/2c1fb91fbefb7d57831d2.jpg",
+        "https://telegra.ph/file/4d289dabcb90748707aab.jpg",
+        "https://telegra.ph/file/a457d6981f4edafdef8f0.jpg",
+        "https://telegra.ph/file/c89189ddcb7e0c2d0ed65.jpg",
+        "https://telegra.ph/file/afe97dca3dd58345a2d88.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34232,
+    "title": "Cosplay 柒柒要乖哦 清晨",
+    "sourceUrl": "https://telegra.ph/Cosplay-柒柒要乖哦-清晨-05-24",
+    "images": [
+        "https://telegra.ph/file/9ca1cf85c9facb8ab9978.jpg",
+        "https://telegra.ph/file/55d99510c2b95c3fe7720.jpg",
+        "https://telegra.ph/file/6466d9f13f2945482d5c7.jpg",
+        "https://telegra.ph/file/d229f3a22a0e938b1e22e.jpg",
+        "https://telegra.ph/file/147c93a418f23e72ec731.jpg",
+        "https://telegra.ph/file/719c7bc3548b0954a0ccd.jpg",
+        "https://telegra.ph/file/32079aad450e5ce36a01d.jpg",
+        "https://telegra.ph/file/9df9a91517591180391c4.jpg",
+        "https://telegra.ph/file/5b2c4b14803db910d96e4.jpg",
+        "https://telegra.ph/file/f98a8dc0c5e7da8dc7f99.jpg",
+        "https://telegra.ph/file/941f88705cea49b645f8c.jpg",
+        "https://telegra.ph/file/380f0313dd3f7552dc1ca.jpg",
+        "https://telegra.ph/file/34b7abfbbcab8d2de62b5.jpg",
+        "https://telegra.ph/file/8b679f2cb0deb2c86505f.jpg",
+        "https://telegra.ph/file/a903b713873a140d5c9e0.jpg",
+        "https://telegra.ph/file/1d3a37c8ab07889f1e170.jpg",
+        "https://telegra.ph/file/8d84b5b09aca2e9f54409.jpg",
+        "https://telegra.ph/file/53083d6e62865c215b00d.jpg",
+        "https://telegra.ph/file/c775514d6c2354c455cbb.jpg",
+        "https://telegra.ph/file/26802b0e1d1680a8d470a.jpg",
+        "https://telegra.ph/file/5ac240e06e91c57fb0b4e.jpg",
+        "https://telegra.ph/file/a32a0e429035666a625a4.jpg",
+        "https://telegra.ph/file/69e695fd3097eda1eb78d.jpg",
+        "https://telegra.ph/file/f227c070c38fa898496df.jpg",
+        "https://telegra.ph/file/e6ae917e21d57041ae84a.jpg"
+    ]
+};

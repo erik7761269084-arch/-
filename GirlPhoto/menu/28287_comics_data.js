@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28287,
+    "title": "PingPing - CHESHIRE [24P-259MB]",
+    "sourceUrl": "https://telegra.ph/PingPing---CHESHIRE-24P-259MB-05-20",
+    "images": [
+        "https://telegra.ph/file/fcd184266f80ac1e5751d.jpg",
+        "https://telegra.ph/file/113f71081b7ea59ce2c30.jpg",
+        "https://telegra.ph/file/d80ef6eab3b6daa98794e.jpg",
+        "https://telegra.ph/file/7666864dcf3cf8f0edd5d.jpg",
+        "https://telegra.ph/file/99b8ed8f360f743c3e703.jpg",
+        "https://telegra.ph/file/f052f3784f19bc33ce58f.jpg",
+        "https://telegra.ph/file/26c4a759f765765e49738.jpg",
+        "https://telegra.ph/file/02d134968b0ca62c035d5.jpg",
+        "https://telegra.ph/file/e2b054bf6a431744adfed.jpg",
+        "https://telegra.ph/file/eb37c74c9c15f98a35722.jpg",
+        "https://telegra.ph/file/f02af403265f5717d1735.jpg",
+        "https://telegra.ph/file/f39f74147b7758575385f.jpg",
+        "https://telegra.ph/file/1925ef0345c20dbab449c.jpg",
+        "https://telegra.ph/file/967439b0157d22aba55da.jpg",
+        "https://telegra.ph/file/0a9f88787394f080d290e.jpg",
+        "https://telegra.ph/file/09f3f94cfb6e025c8402f.jpg",
+        "https://telegra.ph/file/b9339430378dc764035bc.jpg",
+        "https://telegra.ph/file/e6b8b5a46df068d9366c3.jpg",
+        "https://telegra.ph/file/4e17b30561e12d380d2a5.jpg",
+        "https://telegra.ph/file/159aa1487176afe00a301.jpg",
+        "https://telegra.ph/file/310ac6826d6ec27e0158c.jpg",
+        "https://telegra.ph/file/6629db69b923efa7cc11f.jpg",
+        "https://telegra.ph/file/2893e8a342a7535fa9b2c.jpg",
+        "https://telegra.ph/file/1c8bd882618470be905ba.jpg"
+    ]
+};

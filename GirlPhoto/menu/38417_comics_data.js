@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38417,
+    "title": "Hidori Rose - Hatsune Miku Halloween (Vocaloid)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Hatsune-Miku-Halloween-Vocaloid-10-30",
+    "images": [
+        "https://telegra.ph/file/6e163bb4b711722f5fd4f.jpg",
+        "https://telegra.ph/file/f3356845f751c3643cf2a.jpg",
+        "https://telegra.ph/file/be1d8de4cc002a81d27f6.jpg",
+        "https://telegra.ph/file/2063b18d3d76e786021c5.jpg",
+        "https://telegra.ph/file/1fdd7b717fc956f8facca.jpg",
+        "https://telegra.ph/file/982ba4ac300bbec200fb3.jpg",
+        "https://telegra.ph/file/54d2dbf9ef5d3f1be88f1.jpg",
+        "https://telegra.ph/file/4c8f2fe0abd46dfadb45c.jpg",
+        "https://telegra.ph/file/749c906c758a96e4433e0.jpg",
+        "https://telegra.ph/file/ae5cc61571571da9e4819.jpg",
+        "https://telegra.ph/file/9e631bdb836d9cc536633.jpg",
+        "https://telegra.ph/file/dd40fe3d7b83391a9154f.jpg",
+        "https://telegra.ph/file/3ff4b950dd22388f33612.jpg",
+        "https://telegra.ph/file/1c08a887ab38d2b172720.jpg",
+        "https://telegra.ph/file/f3930ec12e72206333b96.jpg",
+        "https://telegra.ph/file/f2989599e0fb1a7be334f.jpg",
+        "https://telegra.ph/file/5e1f36b306555558254d8.jpg",
+        "https://telegra.ph/file/a70f4e2f54f288c7cfabc.jpg",
+        "https://telegra.ph/file/9be5b4c53b63bf7b167bb.jpg",
+        "https://telegra.ph/file/27b060cfb4e0562689b95.jpg",
+        "https://telegra.ph/file/84730d34aab46b17f00a9.jpg",
+        "https://telegra.ph/file/6cdbdc0b60eebd342d447.jpg",
+        "https://telegra.ph/file/7af51bf12db05b686ceb6.jpg",
+        "https://telegra.ph/file/8423ce049700e69e1a6e7.jpg",
+        "https://telegra.ph/file/27e7b5d9497a915910567.jpg",
+        "https://telegra.ph/file/3dcdf7df311ccaf3cf659.jpg"
+    ]
+};

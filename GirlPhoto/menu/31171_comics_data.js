@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31171,
+    "title": "Cosplay 洛璃LoLiSAMA 蛋糕",
+    "sourceUrl": "https://telegra.ph/Cosplay-洛璃LoLiSAMA-蛋糕-08-16",
+    "images": [
+        "https://telegra.ph/file/65093a8c610455c8dc741.jpg",
+        "https://telegra.ph/file/e7b8bbb985c85d03f07da.jpg",
+        "https://telegra.ph/file/4170788eb18e32eaaa72b.jpg",
+        "https://telegra.ph/file/39c214ead9106abc9a0bc.jpg",
+        "https://telegra.ph/file/33ad484fb67836d7995ac.jpg",
+        "https://telegra.ph/file/daf58a369c1bd943cdc9b.jpg",
+        "https://telegra.ph/file/c1aaf7d1b66e6933f6859.jpg",
+        "https://telegra.ph/file/508d71c93204c131a58f3.jpg",
+        "https://telegra.ph/file/0d9cf9ea24413f1fc8855.jpg",
+        "https://telegra.ph/file/9af988f1726cf2ff7f379.jpg",
+        "https://telegra.ph/file/9bf8d4beddb60c5171eb4.jpg",
+        "https://telegra.ph/file/0e41204fd0b96099cafa2.jpg",
+        "https://telegra.ph/file/81eeb9fb677fba33df8c9.jpg",
+        "https://telegra.ph/file/989d172706b991dad0193.jpg",
+        "https://telegra.ph/file/1245456634fd7eca325da.jpg",
+        "https://telegra.ph/file/3ba1412afde95cd24660a.jpg",
+        "https://telegra.ph/file/0ebff7cee39e89cf9bcf8.jpg",
+        "https://telegra.ph/file/603f3c894a4a7cc7b4c2f.jpg",
+        "https://telegra.ph/file/bd43f347085bc8fb5722e.jpg",
+        "https://telegra.ph/file/782f347d5d64d9fd4df5d.jpg",
+        "https://telegra.ph/file/6bb65a51eae6a093fd6d0.jpg",
+        "https://telegra.ph/file/a7c6fea66788009561150.jpg",
+        "https://telegra.ph/file/e73926152b31594fb5fd9.jpg",
+        "https://telegra.ph/file/09cde81b6640a2f1f9617.jpg",
+        "https://telegra.ph/file/56fed1c70affa298648df.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38579,
+    "title": "Sally Dorasnow - Nanami Mami (Kanojo Okarishimasu)",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Nanami-Mami-Kanojo-Okarishimasu-12-07",
+    "images": [
+        "https://telegra.ph/file/5ec5b6ed85e47c2a4d9e0.jpg",
+        "https://telegra.ph/file/12f07ba859ff664c4425d.jpg",
+        "https://telegra.ph/file/b14f96003183f017f2837.jpg",
+        "https://telegra.ph/file/ef223da253c35b98c1f13.jpg",
+        "https://telegra.ph/file/88af184a1e6226f5e7f23.jpg",
+        "https://telegra.ph/file/d8e13e7b2f5626c1e5899.jpg",
+        "https://telegra.ph/file/16a2e8583b2ec4ec9197f.jpg",
+        "https://telegra.ph/file/1388ff70f3b064e1447ee.jpg",
+        "https://telegra.ph/file/8f25bc1504a89c2806e0d.jpg",
+        "https://telegra.ph/file/83a3b3eab8ed78fa07c30.jpg",
+        "https://telegra.ph/file/4a6b34f2b056b6261cad4.jpg",
+        "https://telegra.ph/file/a50ccd989c743d6b0a964.jpg",
+        "https://telegra.ph/file/7ae691168ecd1c0cc5e5f.jpg",
+        "https://telegra.ph/file/b99380f730c8b5905e089.jpg",
+        "https://telegra.ph/file/98a41b16f7214d8fc332b.jpg",
+        "https://telegra.ph/file/b0fd83a64c39956697acc.jpg",
+        "https://telegra.ph/file/e540473631c006c047085.jpg",
+        "https://telegra.ph/file/e315717c04978a1894207.jpg",
+        "https://telegra.ph/file/6d9fb2b20057024d8e7a5.jpg",
+        "https://telegra.ph/file/3840fc36b44047e06cab4.jpg",
+        "https://telegra.ph/file/37605244f9fbabb539d7a.jpg",
+        "https://telegra.ph/file/37e181c3f2c92b792eae1.jpg",
+        "https://telegra.ph/file/394ba9e7d8b53ea3b2da8.jpg",
+        "https://telegra.ph/file/6c24ad874e3bcd568b855.jpg",
+        "https://telegra.ph/file/da723080785e052fdcf04.jpg"
+    ]
+};

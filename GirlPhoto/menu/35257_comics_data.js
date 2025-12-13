@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 35257,
+    "title": "[绮太郎Kitaro] Ganyu 甘雨 &#8211; Genshin Impact",
+    "sourceUrl": "https://telegra.ph/绮太郎Kitaro-Ganyu-甘雨-8211-Genshin-Impact-09-05",
+    "images": [
+        "https://telegra.ph/file/07816c876a2c957ed196e.jpg",
+        "https://telegra.ph/file/8980bb7c201e54b7fd518.jpg",
+        "https://telegra.ph/file/4d1a089e34c14bc5ee1b0.jpg",
+        "https://telegra.ph/file/b0860dbf4274e9e087af3.jpg",
+        "https://telegra.ph/file/500c02f0e18b75c8444b9.jpg",
+        "https://telegra.ph/file/29f3aa177145ad743e28b.jpg",
+        "https://telegra.ph/file/d22c8116fb657cdb48962.jpg",
+        "https://telegra.ph/file/94f7adf008e3a86a6cdd3.jpg",
+        "https://telegra.ph/file/6f39a88ef576365662a47.jpg",
+        "https://telegra.ph/file/761a0cf13f6335d99c1a2.jpg",
+        "https://telegra.ph/file/20523f1e73687c2de2bc9.jpg",
+        "https://telegra.ph/file/4c7b207afd8c210e7f7ae.jpg",
+        "https://telegra.ph/file/fd319bc7e74e564bca2bf.jpg",
+        "https://telegra.ph/file/87dc44ed12954248f391a.jpg",
+        "https://telegra.ph/file/ca711abb7af5d4c90bd78.jpg",
+        "https://telegra.ph/file/687ae396a67bfe15ee85b.jpg",
+        "https://telegra.ph/file/204f9025cdfd79339086d.jpg",
+        "https://telegra.ph/file/f9ebaa60c514a32a6e7f3.jpg",
+        "https://telegra.ph/file/ef357ac6187e5d8052560.jpg",
+        "https://telegra.ph/file/6b07c8c75fc41a9f8672f.jpg",
+        "https://telegra.ph/file/f71ad39cc87a68b0d3593.jpg",
+        "https://telegra.ph/file/634f3aaf53089fa63de54.jpg",
+        "https://telegra.ph/file/32e8e96fe91ee92b26c48.jpg"
+    ]
+};

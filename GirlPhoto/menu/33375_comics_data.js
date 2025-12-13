@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33375,
+    "title": "肥肥雅 Cosplay 穹妹兔女郎",
+    "sourceUrl": "https://telegra.ph/肥肥雅-Cosplay-穹妹兔女郎-02-28",
+    "images": [
+        "https://telegra.ph/file/05b911690b60750974f86.jpg",
+        "https://telegra.ph/file/b30fb44e6a32d0d2e7b15.jpg",
+        "https://telegra.ph/file/a85558a3eb782057fd62a.jpg",
+        "https://telegra.ph/file/8ade50dc40545509a671d.jpg",
+        "https://telegra.ph/file/ac89a8018de2764535661.jpg",
+        "https://telegra.ph/file/0940db78ea8263217bcb0.jpg",
+        "https://telegra.ph/file/fb05e14be29e9c137c411.jpg",
+        "https://telegra.ph/file/74b71c8bfbcb1765f85b3.jpg",
+        "https://telegra.ph/file/93ae11059b3ee6ffb530f.jpg",
+        "https://telegra.ph/file/3ad2e39d64ed530a3b295.jpg",
+        "https://telegra.ph/file/a2a58456073de53b5a9db.jpg",
+        "https://telegra.ph/file/ca0ed715971ec3e20feb9.jpg",
+        "https://telegra.ph/file/91bfa7a4dd581b35424c9.jpg",
+        "https://telegra.ph/file/f3d9b6408ef206d238ce3.jpg",
+        "https://telegra.ph/file/8ec4d9e3398b221315dc9.jpg",
+        "https://telegra.ph/file/9f927b4c39851a0735960.jpg",
+        "https://telegra.ph/file/dd300949428de222fc8b0.jpg",
+        "https://telegra.ph/file/0a7361722bc3456c9fb81.jpg",
+        "https://telegra.ph/file/ff59f70dbcd91c57ed6f0.jpg",
+        "https://telegra.ph/file/eb95084b281d3fdbd4a73.jpg",
+        "https://telegra.ph/file/36a4ed9443888386ffb78.jpg",
+        "https://telegra.ph/file/a7dedd5299bf7a9b59095.jpg",
+        "https://telegra.ph/file/28acd1ff08e47a5ca4d95.jpg",
+        "https://telegra.ph/file/ccd25fe5968b1ed8b1b40.jpg",
+        "https://telegra.ph/file/fce36c9925dbe261027fb.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

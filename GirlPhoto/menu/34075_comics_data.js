@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34075,
+    "title": "Sia 시아, [Paranhosu] Healer Set.01",
+    "sourceUrl": "https://telegra.ph/Sia-시아-Paranhosu-Healer-Set01-05-08",
+    "images": [
+        "https://telegra.ph/file/65db43c27f676ecf7d2b4.jpg",
+        "https://telegra.ph/file/015b394a25d027e462c70.jpg",
+        "https://telegra.ph/file/636ec7e1104c4aa3931eb.jpg",
+        "https://telegra.ph/file/78ae9f62f490eb30c2296.jpg",
+        "https://telegra.ph/file/f0466666633fa93830f13.jpg",
+        "https://telegra.ph/file/59ab1c8d0fb843c8b15d7.jpg",
+        "https://telegra.ph/file/c47cf9de0747d1b9ab16e.jpg",
+        "https://telegra.ph/file/667ae18991931c93fc1b8.jpg",
+        "https://telegra.ph/file/6ac502de969dd91fc2209.jpg",
+        "https://telegra.ph/file/8eaf365627749789728a9.jpg",
+        "https://telegra.ph/file/bbbc1281c1bcc9f07a28f.jpg",
+        "https://telegra.ph/file/1136fbca438fe9f91010d.jpg",
+        "https://telegra.ph/file/eb2d18d008466b3995e87.jpg",
+        "https://telegra.ph/file/db37eac476b0923a65fb7.jpg",
+        "https://telegra.ph/file/9776cf6eef7f9e2bc7033.jpg",
+        "https://telegra.ph/file/a236908c8a833878f7c9e.jpg",
+        "https://telegra.ph/file/40c28cce3ffb9ef81f3e0.jpg",
+        "https://telegra.ph/file/e5a8270924ee0e3f74c47.jpg",
+        "https://telegra.ph/file/d603e858fc45b5c9828bb.jpg",
+        "https://telegra.ph/file/a092fe5cbeb96b04a0f41.jpg",
+        "https://telegra.ph/file/390076ff825fa4e533fe2.jpg",
+        "https://telegra.ph/file/db2d37e2467a331375b11.jpg",
+        "https://telegra.ph/file/159909a6ecd90c4acb8d1.jpg",
+        "https://telegra.ph/file/ed7b24f8062703849605d.jpg",
+        "https://telegra.ph/file/f226bc67777288f6b6c5a.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27633,
+    "title": "贞子蜜桃 碧蓝档案 - 春日椿 25P 727MB",
+    "sourceUrl": "https://telegra.ph/%E8%B4%9E%E5%AD%90%E8%9C%9C%E6%A1%83-%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88---%E6%98%A5%E6%97%A5%E6%A4%BF-25P-727MB-09-17",
+    "images": [
+        "https://telegra.ph/file/b28e33a39986ea7f240fb.jpg",
+        "https://telegra.ph/file/f3d9c666ab5ff12d7b1c9.jpg",
+        "https://telegra.ph/file/5d78d15ebfded9c881033.jpg",
+        "https://telegra.ph/file/44892a571c16e466ac5b7.jpg",
+        "https://telegra.ph/file/273765e509e0aa1dc9e97.jpg",
+        "https://telegra.ph/file/0efb98e55196c39df8c72.jpg",
+        "https://telegra.ph/file/1711522ccf8e163a13fe4.jpg",
+        "https://telegra.ph/file/1a62eca2f5510ae562f36.jpg",
+        "https://telegra.ph/file/1893e08852f87b860bedf.jpg",
+        "https://telegra.ph/file/adb8d244c1883f1825ffc.jpg",
+        "https://telegra.ph/file/c43c1296d92eff3564533.jpg",
+        "https://telegra.ph/file/82b5bf26a9a5cf86238ad.jpg",
+        "https://telegra.ph/file/4ec553da71089214115c4.jpg",
+        "https://telegra.ph/file/9abf74f70f6a3fe45a7a4.jpg",
+        "https://telegra.ph/file/369358c73c9d838704a99.jpg",
+        "https://telegra.ph/file/ae0157ad7bc316f5e3272.jpg",
+        "https://telegra.ph/file/fd135c10b7a825e17bbb4.jpg",
+        "https://telegra.ph/file/14a68f63c97a8d5f86aaa.jpg",
+        "https://telegra.ph/file/9655102893fef9a58ea69.jpg",
+        "https://telegra.ph/file/fe1c4394195e19af1f308.jpg",
+        "https://telegra.ph/file/068dc47c50fa60123f4dc.jpg",
+        "https://telegra.ph/file/9fe573f097a690096eacb.jpg",
+        "https://telegra.ph/file/bd26dc383baa19be8aa7a.jpg",
+        "https://telegra.ph/file/b53c63fa2834cb844e7d4.jpg",
+        "https://telegra.ph/file/5d82c23e71d542cd5a1bc.jpg"
+    ]
+};

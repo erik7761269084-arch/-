@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 32076,
+    "title": "瓜希酱 Cosplay 路易九世礼服",
+    "sourceUrl": "https://telegra.ph/瓜希酱-Cosplay-路易九世礼服-10-15",
+    "images": [
+        "https://telegra.ph/file/6ccef05a318b4db75d55a.jpg",
+        "https://telegra.ph/file/cc839da1103a6ded91206.jpg",
+        "https://telegra.ph/file/2739dc96e5a568e66a542.jpg",
+        "https://telegra.ph/file/c921ab6926c4a2ea9e3da.jpg",
+        "https://telegra.ph/file/1787ba8dd4fabcef17b84.jpg",
+        "https://telegra.ph/file/096fae831abcfe6e4803e.jpg",
+        "https://telegra.ph/file/dc6bb591cf94987dc37fa.jpg",
+        "https://telegra.ph/file/097aee73cafb62a1c5ba5.jpg",
+        "https://telegra.ph/file/62214f02f069414f64046.jpg",
+        "https://telegra.ph/file/8321c3f6f3a2f2533b587.jpg",
+        "https://telegra.ph/file/a157c93e49142beaedb24.jpg",
+        "https://telegra.ph/file/9fd0823421cc31054db24.jpg",
+        "https://telegra.ph/file/893d943a704c182b384f5.jpg",
+        "https://telegra.ph/file/784961b2359e4d1c2da95.jpg",
+        "https://telegra.ph/file/1a0c2f36a746de91bd687.jpg",
+        "https://telegra.ph/file/8ee9ea3d3c88cb11bfd67.jpg",
+        "https://telegra.ph/file/14a4bf316b2526d70fc58.jpg",
+        "https://telegra.ph/file/9e78311a4c005da3c7470.jpg",
+        "https://telegra.ph/file/8d3ac1b62349efe186df6.jpg",
+        "https://telegra.ph/file/b580b9fc519dfa7511995.jpg",
+        "https://telegra.ph/file/b84871b8690840b12654a.jpg",
+        "https://telegra.ph/file/a51c56dcdb8b97b8956f8.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

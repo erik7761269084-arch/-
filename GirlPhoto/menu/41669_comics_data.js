@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41669,
+    "title": "Arty - Shigure (Kantai Collection)",
+    "sourceUrl": "https://telegra.ph/Arty---Shigure-Kantai-Collection-07-04-2",
+    "images": [
+        "https://telegra.ph/file/667434067eac79dfd1f26.jpg",
+        "https://telegra.ph/file/5986cb2d5bbca4ee53d59.jpg",
+        "https://telegra.ph/file/8d0d718db52b6a94aae51.jpg",
+        "https://telegra.ph/file/7bd004b8059b776f65742.jpg",
+        "https://telegra.ph/file/6d653cb14881431ace1de.jpg",
+        "https://telegra.ph/file/2494079d33f4e9c8cdba0.jpg",
+        "https://telegra.ph/file/ef1421fa5c2c1176c6d5d.jpg",
+        "https://telegra.ph/file/1153e774f8ad76154bc6f.jpg",
+        "https://telegra.ph/file/a67ce781dbd03eb4b4f9c.jpg",
+        "https://telegra.ph/file/bdfefdbfa628b8538a482.jpg",
+        "https://telegra.ph/file/e421c7c6a7b389a409150.jpg",
+        "https://telegra.ph/file/08fe838d4074fa2dd00c4.jpg",
+        "https://telegra.ph/file/e0bfcdb4eab49ca785559.jpg",
+        "https://telegra.ph/file/8ce116c54c27884c9131d.jpg",
+        "https://telegra.ph/file/9e49b65fae75f15a8e076.jpg",
+        "https://telegra.ph/file/739e38c05d1e890f6bc78.jpg",
+        "https://telegra.ph/file/6f2f493f6fc419e8cd7b2.jpg",
+        "https://telegra.ph/file/d96db35ed2b2271a97f9e.jpg",
+        "https://telegra.ph/file/ffb4a26ce1cbef6077572.jpg",
+        "https://telegra.ph/file/513692b1a291dd7a41d2e.jpg",
+        "https://telegra.ph/file/6b837dd3edc67b8c204ce.jpg",
+        "https://telegra.ph/file/acb43c8011129e0aba9b9.jpg",
+        "https://telegra.ph/file/c61600dd0bc9ecae88413.jpg",
+        "https://telegra.ph/file/712f90b028f466984a348.jpg",
+        "https://telegra.ph/file/ee607d0c464cbcb052fb3.jpg"
+    ]
+};

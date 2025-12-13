@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37950,
+    "title": "Hidori Rose / Mikomin Hokina / Virtual Geisha - Kasumigaoka Utaha / Megumi Kato / Eriri Spencer (Saenai Heroine)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose--Mikomin-Hokina--Virtual-Geisha---Kasumigaoka--Megumi-Kato--Eriri-Spencer-Saenai-Heroine-06-26",
+    "images": [
+        "https://telegra.ph/file/8438e9daa421fac383eed.jpg",
+        "https://telegra.ph/file/019f2b0a511a812463a72.jpg",
+        "https://telegra.ph/file/9ffcaa8f02f1436464370.jpg",
+        "https://telegra.ph/file/c5df9e897cfd77467914a.jpg",
+        "https://telegra.ph/file/9047638062935222904f1.jpg",
+        "https://telegra.ph/file/493da9d0069843613e0c2.jpg",
+        "https://telegra.ph/file/958af0d6a21d24964df8d.jpg",
+        "https://telegra.ph/file/c0fdc6d890570e54b42e5.jpg",
+        "https://telegra.ph/file/b7877de0df0c36090a5a2.jpg",
+        "https://telegra.ph/file/f1726df14085b58d18987.jpg",
+        "https://telegra.ph/file/164e01d721568c505a091.jpg",
+        "https://telegra.ph/file/69a226e10b0e3b993f789.jpg",
+        "https://telegra.ph/file/712f655c2b563470f1ab7.jpg",
+        "https://telegra.ph/file/6015cae56990b43c717bc.jpg",
+        "https://telegra.ph/file/3b0588e4bb9b716d14165.jpg",
+        "https://telegra.ph/file/ea1d5b71052768e183a44.jpg",
+        "https://telegra.ph/file/9fae8b4e0b88d8fbe968e.jpg",
+        "https://telegra.ph/file/2298bbbc11f711302841a.jpg",
+        "https://telegra.ph/file/2de4a5ec3d40dd2142956.jpg",
+        "https://telegra.ph/file/41d817d7588170e64ba89.jpg",
+        "https://telegra.ph/file/dd70f9496d289dba9f01b.jpg",
+        "https://telegra.ph/file/8fbccea03a2ecfe6c4afb.jpg",
+        "https://telegra.ph/file/4a0cfe657102196ded1ae.jpg",
+        "https://telegra.ph/file/b08a29016b4d12f159c10.jpg",
+        "https://telegra.ph/file/d88ebe8f82dfc2bd7b3a7.jpg",
+        "https://telegra.ph/file/d18a9220022ee4ecbe077.jpg"
+    ]
+};

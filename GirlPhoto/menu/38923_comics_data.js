@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38923,
+    "title": "Nora Fawn - Shimakaze (Kantai Collection)",
+    "sourceUrl": "https://telegra.ph/Nora-Fawn---Shimakaze-Kantai-Collection-03-02",
+    "images": [
+        "https://telegra.ph/file/c5e1ef4766f5fa92a6324.jpg",
+        "https://telegra.ph/file/f7f29e20e790d5a41c8ac.jpg",
+        "https://telegra.ph/file/b463ebdc5ea38eada0759.jpg",
+        "https://telegra.ph/file/9429413f4731ab47386bd.jpg",
+        "https://telegra.ph/file/5bf64d1d7f75871b4c44f.jpg",
+        "https://telegra.ph/file/364001987dff0d52b0994.jpg",
+        "https://telegra.ph/file/cea1de863536717310b86.jpg",
+        "https://telegra.ph/file/8b45ebf4481eba706aad7.jpg",
+        "https://telegra.ph/file/0d3f23ff334e3ba7aa434.jpg",
+        "https://telegra.ph/file/d921a5c31feb1e858123e.jpg",
+        "https://telegra.ph/file/1a4520b186884c233afa6.jpg",
+        "https://telegra.ph/file/c87a47c281121c09b520c.jpg",
+        "https://telegra.ph/file/2d7487c1b221385cd92cf.jpg",
+        "https://telegra.ph/file/aca000ddaf79365ad00ac.jpg",
+        "https://telegra.ph/file/0768ff53d0f00b8a81d64.jpg",
+        "https://telegra.ph/file/ceb25c81ec8147bc29106.jpg",
+        "https://telegra.ph/file/77fc1c9f658a1de18c594.jpg",
+        "https://telegra.ph/file/4eca98d77a918aae9efd9.jpg",
+        "https://telegra.ph/file/33d207bbd5af9c8b1dc1c.jpg",
+        "https://telegra.ph/file/6ca36ca2d0c99d8edc379.jpg",
+        "https://telegra.ph/file/2459208a3529791059914.jpg",
+        "https://telegra.ph/file/3212d8ec41843af9338ad.jpg",
+        "https://telegra.ph/file/2595d127c4fb86a2fdd9c.jpg",
+        "https://telegra.ph/file/69aa0a96cbe7fab88b7fd.jpg",
+        "https://telegra.ph/file/df3d7c3dae4acf2def1f9.jpg"
+    ]
+};

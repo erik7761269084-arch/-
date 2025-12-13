@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41409,
+    "title": "Lady Melamori - Black Cat (Spider-Man)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Black-Cat-Spider-Man-04-24",
+    "images": [
+        "https://telegra.ph/file/425d8b62b1c8b40fe1699.jpg",
+        "https://telegra.ph/file/fb7916c60e7e445c9704c.jpg",
+        "https://telegra.ph/file/9e46af64d40daa5a4ab08.jpg",
+        "https://telegra.ph/file/4bb64b764852fb18c61c5.jpg",
+        "https://telegra.ph/file/194a49b2d913146c9dbd4.jpg",
+        "https://telegra.ph/file/33827c190897091740f94.jpg",
+        "https://telegra.ph/file/1bc227ccf41147b38957f.jpg",
+        "https://telegra.ph/file/a8cfa2ed0318a98988ba0.jpg",
+        "https://telegra.ph/file/34c8e4523c17186dac02f.jpg",
+        "https://telegra.ph/file/91f9f5bceee3b2edf3ed7.jpg",
+        "https://telegra.ph/file/f2cfc4130a6949a29c968.jpg",
+        "https://telegra.ph/file/270601dfdc7f6f823eb26.jpg",
+        "https://telegra.ph/file/105e1aee0dce0ba5a3b7c.jpg",
+        "https://telegra.ph/file/4be09e84d27dc5fdaf8fd.jpg",
+        "https://telegra.ph/file/f07de1abfb473586ec6b4.jpg",
+        "https://telegra.ph/file/3bf7d161475b10fb84509.jpg",
+        "https://telegra.ph/file/06eb8d696f7a7ec451e9c.jpg",
+        "https://telegra.ph/file/585df29be5cdb4eb59443.jpg",
+        "https://telegra.ph/file/38310efa57e05a2289d39.jpg",
+        "https://telegra.ph/file/fb3f105a0cdb653a9e288.jpg",
+        "https://telegra.ph/file/2854e257910b410b07770.jpg",
+        "https://telegra.ph/file/1243f7799d4d793a4ec6f.jpg",
+        "https://telegra.ph/file/5fb752139b7b03087f5c5.jpg",
+        "https://telegra.ph/file/0b20cbb22c24824c184f7.jpg",
+        "https://telegra.ph/file/738730e7a179e7c11a455.jpg"
+    ]
+};

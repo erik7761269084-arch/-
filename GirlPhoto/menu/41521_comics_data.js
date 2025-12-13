@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41521,
+    "title": "Hidori Rose - Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Power-Chainsaw-Man-05-23",
+    "images": [
+        "https://telegra.ph/file/e7b327d44b0b5ff3ff5be.jpg",
+        "https://telegra.ph/file/066c8892e85db26eeda32.jpg",
+        "https://telegra.ph/file/50a4e019a23938ec4a3d6.jpg",
+        "https://telegra.ph/file/15a2fe543a0cc46b47dcb.jpg",
+        "https://telegra.ph/file/556476c4816cb28f03ee0.jpg",
+        "https://telegra.ph/file/3d9ee6f629e22089f00ec.jpg",
+        "https://telegra.ph/file/ef23581b238e258a174fd.jpg",
+        "https://telegra.ph/file/53da4d920cd681dccd792.jpg",
+        "https://telegra.ph/file/fb12291ebad6ac81a5b75.jpg",
+        "https://telegra.ph/file/3b3f80972e11e9a4f24c8.jpg",
+        "https://telegra.ph/file/5cd9c1eda2103f1e9937d.jpg",
+        "https://telegra.ph/file/18d0b5c3e16d5bc882042.jpg",
+        "https://telegra.ph/file/2e68437883dce2f44bc3f.jpg",
+        "https://telegra.ph/file/9ed6d31c9d80e9a8409aa.jpg",
+        "https://telegra.ph/file/320e2d6eee691d006666e.jpg",
+        "https://telegra.ph/file/bccd36fa1c88b08ac907b.jpg",
+        "https://telegra.ph/file/22afa9a71c90f254da021.jpg",
+        "https://telegra.ph/file/e587144b30b58280ec3f1.jpg",
+        "https://telegra.ph/file/c0146a869709f1f8b64a8.jpg",
+        "https://telegra.ph/file/af7adfdd2b9359c9018da.jpg",
+        "https://telegra.ph/file/d00e65a8a00b35a7a20bf.jpg",
+        "https://telegra.ph/file/b69d4e6fcaa2f5a6697d6.jpg",
+        "https://telegra.ph/file/4030d5ab7a40f174b5fc6.jpg",
+        "https://telegra.ph/file/d0d1da84a0fd1b9e5eb50.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37868,
+    "title": "Queenie Chuppy - Mitsuri ( Kimetsu No Yaiba)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Mitsuri--Kimetsu-No-Yaiba-06-16",
+    "images": [
+        "https://telegra.ph/file/47672fa71b8f74de1ba7e.jpg",
+        "https://telegra.ph/file/dd9cd6afd5b573c4c3045.jpg",
+        "https://telegra.ph/file/246e8d822c2537b1ba4bb.jpg",
+        "https://telegra.ph/file/0495224485ba5cca55cb7.jpg",
+        "https://telegra.ph/file/44fd9bfda5c98dc3f1cd3.jpg",
+        "https://telegra.ph/file/46e80ff0796f329f2e52b.jpg",
+        "https://telegra.ph/file/ce93003cd8951769990d3.jpg",
+        "https://telegra.ph/file/e360e1e5b42d7d1c87482.jpg",
+        "https://telegra.ph/file/d750b49a9e41842b04a1e.jpg",
+        "https://telegra.ph/file/a9a580e9333d4a19adf9f.jpg",
+        "https://telegra.ph/file/121b9ed0e1ccf9b1b7c93.jpg",
+        "https://telegra.ph/file/03ceb00bef3c69b41bb35.jpg",
+        "https://telegra.ph/file/3c664903253422a6208e7.jpg",
+        "https://telegra.ph/file/ea5d644c8e5765f4c3c50.jpg",
+        "https://telegra.ph/file/c97d9339b2bf56c0aa89a.jpg",
+        "https://telegra.ph/file/8130a0388d28cb4161bc2.jpg",
+        "https://telegra.ph/file/8dd15487365c4d8b28b52.jpg",
+        "https://telegra.ph/file/defc150caf7695a142dfd.jpg",
+        "https://telegra.ph/file/566bc3736b63b88aafcf0.jpg",
+        "https://telegra.ph/file/ceabafeaffbfe4e48acbd.jpg",
+        "https://telegra.ph/file/ab47d967063630a244a01.jpg",
+        "https://telegra.ph/file/e9f9a0ef6dd3a7399487e.jpg",
+        "https://telegra.ph/file/f2d7b1e7eae95c4ffaae2.jpg",
+        "https://telegra.ph/file/4c3993a924139a1f544c7.jpg",
+        "https://telegra.ph/file/f7a334ca5bb233aa10b23.jpg",
+        "https://telegra.ph/file/4ac1e303be1db15e7cd7e.jpg"
+    ]
+};

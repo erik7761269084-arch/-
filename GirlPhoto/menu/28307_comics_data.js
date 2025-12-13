@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28307,
+    "title": "rioko凉凉子更衣人偶 – 番外[44P+3V]",
+    "sourceUrl": "https://telegra.ph/rioko%E5%87%89%E5%87%89%E5%AD%90%E6%9B%B4%E8%A1%A3%E4%BA%BA%E5%81%B6--%E7%95%AA%E5%A4%9644P3V-02-27",
+    "images": [
+        "https://telegra.ph/file/7d078590325fcbb0327ee.jpg",
+        "https://telegra.ph/file/c5225c1835d15e0db6215.jpg",
+        "https://telegra.ph/file/c91a1f219e37138546b67.jpg",
+        "https://telegra.ph/file/0555852ac324e02839bf3.jpg",
+        "https://telegra.ph/file/3111d06f0d145ad5f8b20.jpg",
+        "https://telegra.ph/file/d760114465ed251960ba2.jpg",
+        "https://telegra.ph/file/8f73bfea21061943b027a.jpg",
+        "https://telegra.ph/file/340081d92797873840a69.jpg",
+        "https://telegra.ph/file/71295054e349bb589dcc0.jpg",
+        "https://telegra.ph/file/8780002dda43fc16fbe8a.jpg",
+        "https://telegra.ph/file/56de1c13ad4bc85859fce.jpg",
+        "https://telegra.ph/file/3a723e35934b38b891c4c.jpg",
+        "https://telegra.ph/file/64f8d6d370f55e816b1c7.jpg",
+        "https://telegra.ph/file/0d50a63cc3e12414ffbd9.jpg",
+        "https://telegra.ph/file/49fa1e120d235698cf583.jpg",
+        "https://telegra.ph/file/5ef6b4c0e2fef1c6e8bb8.jpg",
+        "https://telegra.ph/file/ac1072bcb103cc2a8cafa.jpg",
+        "https://telegra.ph/file/353d7fc383a94c97a3dc0.jpg",
+        "https://telegra.ph/file/6b44f0de5c32962a561c5.jpg",
+        "https://telegra.ph/file/1f3cdf0088426c55ac924.jpg",
+        "https://telegra.ph/file/d665bfc56f0ef09a1bf28.jpg",
+        "https://telegra.ph/file/2041be74255ec9ccbca4e.jpg",
+        "https://telegra.ph/file/90ea7847aff6a42c8a704.jpg",
+        "https://telegra.ph/file/65cad106931db9d7cf5ca.jpg"
+    ]
+};

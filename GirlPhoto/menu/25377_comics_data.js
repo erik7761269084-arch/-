@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25377,
+    "title": "[Cos]凉凉子 - 受伤的灰狼姐姐[25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%87%89%E5%87%89%E5%AD%90---%E5%8F%97%E4%BC%A4%E7%9A%84%E7%81%B0%E7%8B%BC%E5%A7%90%E5%A7%9025P-11-12",
+    "images": [
+        "https://telegra.ph/file/61055dfcc485559d01f90.jpg",
+        "https://telegra.ph/file/9520b91e4c2f9284b1f83.jpg",
+        "https://telegra.ph/file/8782fff302bfaf7e134be.jpg",
+        "https://telegra.ph/file/843e236810fcd665f34e0.jpg",
+        "https://telegra.ph/file/c559edde1d5badefd6911.jpg",
+        "https://telegra.ph/file/abf5ead0d7eec1629ae45.jpg",
+        "https://telegra.ph/file/99d5fe0a1a512b5db6a06.jpg",
+        "https://telegra.ph/file/37698a3b428533497c0e4.jpg",
+        "https://telegra.ph/file/82ea8ff63043ac2c33cea.jpg",
+        "https://telegra.ph/file/69d39c98be0c22f639a1e.jpg",
+        "https://telegra.ph/file/8559b536026c50b395708.jpg",
+        "https://telegra.ph/file/1f48c794d4227abc6b36d.jpg",
+        "https://telegra.ph/file/0732a6f2a7d7197428efc.jpg",
+        "https://telegra.ph/file/e477ff131d1a2e01830bd.jpg",
+        "https://telegra.ph/file/1e9de0aab7cd9b702e60f.jpg",
+        "https://telegra.ph/file/bb1f7b795200df5f52350.jpg",
+        "https://telegra.ph/file/cf3533537c37691beb91a.jpg",
+        "https://telegra.ph/file/4249fdbb8bb2452a3f607.jpg",
+        "https://telegra.ph/file/d4fceee6252e6d840e877.jpg",
+        "https://telegra.ph/file/9856d9f523864f5b0a24c.jpg",
+        "https://telegra.ph/file/32ebfae767cb5ae80e85d.jpg",
+        "https://telegra.ph/file/15872464670469b56f6ab.jpg",
+        "https://telegra.ph/file/4cc9d0a9be1f5d620d53e.jpg",
+        "https://telegra.ph/file/626a5c39995574f96838f.jpg",
+        "https://telegra.ph/file/e1ab1cc6c4843a301aa3f.jpg"
+    ]
+};

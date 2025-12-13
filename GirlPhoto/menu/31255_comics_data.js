@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31255,
+    "title": "Cosplay 樱晚gigi 蓝色比基尼",
+    "sourceUrl": "https://telegra.ph/Cosplay-樱晚gigi-蓝色比基尼-08-16",
+    "images": [
+        "https://telegra.ph/file/507c0579a6faba9e923bf.jpg",
+        "https://telegra.ph/file/8ae41d390a76f920adf51.jpg",
+        "https://telegra.ph/file/c647bc3caeaf5b8b7f91d.jpg",
+        "https://telegra.ph/file/905651691a6994c66163f.jpg",
+        "https://telegra.ph/file/2b8f754e52376defad23e.jpg",
+        "https://telegra.ph/file/7a915ed2c22e1956ed1c6.jpg",
+        "https://telegra.ph/file/8cc647f7b276bb59e41bd.jpg",
+        "https://telegra.ph/file/c074dd79db6a761adf488.jpg",
+        "https://telegra.ph/file/be1d098dbc8fd3472104f.jpg",
+        "https://telegra.ph/file/6e40367b60ea0ce0422db.jpg",
+        "https://telegra.ph/file/fa2330106b650f68e6cea.jpg",
+        "https://telegra.ph/file/e164173bcd21cdadb6036.jpg",
+        "https://telegra.ph/file/d5e90fd465216625db566.jpg",
+        "https://telegra.ph/file/ba743806f08a59e9db152.jpg",
+        "https://telegra.ph/file/cb911bb0a38cd1a90d1cc.jpg",
+        "https://telegra.ph/file/28bdc8473b5cd060390f5.jpg",
+        "https://telegra.ph/file/8552b7af1b3601454a612.jpg",
+        "https://telegra.ph/file/de9dbdba41f765df9050f.jpg",
+        "https://telegra.ph/file/5b73a8874fcaa055d57f1.jpg",
+        "https://telegra.ph/file/ac386ac53cacadc0d3f30.jpg",
+        "https://telegra.ph/file/2074b0cba4135cd8e4fe7.jpg",
+        "https://telegra.ph/file/13c6b52b1855fdead5448.jpg",
+        "https://telegra.ph/file/fea1d83ceb7bcc3133a92.jpg",
+        "https://telegra.ph/file/afb1447cf441745535df8.jpg",
+        "https://telegra.ph/file/1093be8bebac475535e38.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

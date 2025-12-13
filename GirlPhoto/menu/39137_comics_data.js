@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39137,
+    "title": "Ping Ping - Kaine (Nier Replicant)",
+    "sourceUrl": "https://telegra.ph/Ping-Ping---Kaine-Nier-Replicant-05-16",
+    "images": [
+        "https://telegra.ph/file/b0d1725b988241d371ab9.jpg",
+        "https://telegra.ph/file/3b2a0ca2ea8c6337766d9.jpg",
+        "https://telegra.ph/file/1a19c1a6dbd080a9457a9.jpg",
+        "https://telegra.ph/file/1f5e8da0f87a20555c343.jpg",
+        "https://telegra.ph/file/fc2186652ed0cff4e8c1c.jpg",
+        "https://telegra.ph/file/e2e4f0a7aaba440f415db.jpg",
+        "https://telegra.ph/file/3693dcf661a4bdb02c1f9.jpg",
+        "https://telegra.ph/file/0543e9d3b2377da1b701c.jpg",
+        "https://telegra.ph/file/c9e66426dc77e1e3b10d4.jpg",
+        "https://telegra.ph/file/e016fb31d5278ad07ed9a.jpg",
+        "https://telegra.ph/file/4e7a66f4f9b38bd3a01b1.jpg",
+        "https://telegra.ph/file/80797ad381a8c4c814a7d.jpg",
+        "https://telegra.ph/file/3e9ef95d8551c2ab7c167.jpg",
+        "https://telegra.ph/file/1bde7fb825f93c5abe7a2.jpg",
+        "https://telegra.ph/file/ac38294f79bd33e8d044e.jpg",
+        "https://telegra.ph/file/c54ffe161610f19e7fe64.jpg",
+        "https://telegra.ph/file/a16f4c28fdc4a5f2f36fb.jpg",
+        "https://telegra.ph/file/5aa29e967096c0fbb1548.jpg",
+        "https://telegra.ph/file/e68b376f856c32b7e35b9.jpg",
+        "https://telegra.ph/file/b883c048c48df860c7e24.jpg",
+        "https://telegra.ph/file/0d92f2e927b738becd17d.jpg",
+        "https://telegra.ph/file/aaee67c9b8c824923f829.jpg",
+        "https://telegra.ph/file/4abab66fb76f23ca2eaba.jpg",
+        "https://telegra.ph/file/8d419d7651a97145347c3.jpg",
+        "https://telegra.ph/file/60b420a8dd751213adaa9.jpg"
+    ]
+};

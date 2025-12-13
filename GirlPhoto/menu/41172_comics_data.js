@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41172,
+    "title": "Hinatasama - Jean (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Hinatasama---Jean-Genshin-Impact-02-20",
+    "images": [
+        "https://telegra.ph/file/14a8b73f6e051b302057d.jpg",
+        "https://telegra.ph/file/3f2f6a55f4b240d31c6b2.jpg",
+        "https://telegra.ph/file/ad27bd6af868136bd1741.jpg",
+        "https://telegra.ph/file/931a4d0403a026a63fe58.jpg",
+        "https://telegra.ph/file/3039d008c18e3579f3f1a.jpg",
+        "https://telegra.ph/file/88a203640ddf0155bee9d.jpg",
+        "https://telegra.ph/file/7233bf2c5873528e73ec2.jpg",
+        "https://telegra.ph/file/2c52b1bb02d441e9a61e4.jpg",
+        "https://telegra.ph/file/4e78453d31dcb801a3824.jpg",
+        "https://telegra.ph/file/ece3a10a231be5728d42d.jpg",
+        "https://telegra.ph/file/f270ac7d179951070c3fd.jpg",
+        "https://telegra.ph/file/f1455f07665fdeaaca981.jpg",
+        "https://telegra.ph/file/ef84dca6bab5e7ae27bca.jpg",
+        "https://telegra.ph/file/3cd171ac289ef11ebda6a.jpg",
+        "https://telegra.ph/file/ea3a6ef38bce39ce9f9e9.jpg",
+        "https://telegra.ph/file/17e6633fef0cd14705098.jpg",
+        "https://telegra.ph/file/5740fd5293f95f1e3da8c.jpg",
+        "https://telegra.ph/file/766a859fc0c48a902e558.jpg",
+        "https://telegra.ph/file/273e63f668cae99d67b9c.jpg",
+        "https://telegra.ph/file/8465422e0c3d578454afb.jpg",
+        "https://telegra.ph/file/17c99aa62e6de4aa13f7d.jpg",
+        "https://telegra.ph/file/2b004fee4103ec23d8911.jpg",
+        "https://telegra.ph/file/f3a85de02e2a6f136653c.jpg",
+        "https://telegra.ph/file/c88aa7cc7e834df4aeecd.jpg",
+        "https://telegra.ph/file/2d997494a43a621b8e597.jpg"
+    ]
+};

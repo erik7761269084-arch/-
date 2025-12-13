@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38410,
+    "title": "Queenie Chuppy - Cerestia (Last Origin)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Cerestia-Last-Origin-10-29",
+    "images": [
+        "https://telegra.ph/file/accfe996e41609d436bed.jpg",
+        "https://telegra.ph/file/505195a588ba624523dcf.jpg",
+        "https://telegra.ph/file/9f46c21f69009b6eb4775.jpg",
+        "https://telegra.ph/file/7d56b424c6b96acdcfb2b.jpg",
+        "https://telegra.ph/file/7da8e454a244ce7e380d6.jpg",
+        "https://telegra.ph/file/46592a352fb9884151a7d.jpg",
+        "https://telegra.ph/file/f3e2e9f3dfa7fd59e638c.jpg",
+        "https://telegra.ph/file/072795a1438cffcf0567a.jpg",
+        "https://telegra.ph/file/9d317a285b4de58b6a677.jpg",
+        "https://telegra.ph/file/11739b1ba4ce79cf3c881.jpg",
+        "https://telegra.ph/file/ddcc9e509e032af57edba.jpg",
+        "https://telegra.ph/file/595fb1a6e9db5fa7ce94d.jpg",
+        "https://telegra.ph/file/cc966395be82f9a896dbb.jpg",
+        "https://telegra.ph/file/1b83ab32492d826e5a3fe.jpg",
+        "https://telegra.ph/file/d3c9421552c7590731d2b.jpg",
+        "https://telegra.ph/file/b4fd1ca9e495af04fe85d.jpg",
+        "https://telegra.ph/file/3000cbe96f7fd00a434b2.jpg",
+        "https://telegra.ph/file/b9792087012a5de58ff25.jpg",
+        "https://telegra.ph/file/284ce055ed4b58298f5ba.jpg",
+        "https://telegra.ph/file/42a5ebccd5f9ce4009611.jpg",
+        "https://telegra.ph/file/0f87440494435f3faa972.jpg",
+        "https://telegra.ph/file/b0f3f98bffbc8b1b842ed.jpg",
+        "https://telegra.ph/file/ecb1baebfe411783c09cb.jpg",
+        "https://telegra.ph/file/3f2af2c4b4e8cc44cbbd8.jpg"
+    ]
+};

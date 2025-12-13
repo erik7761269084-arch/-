@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40105,
+    "title": "Hane Ame - Yor Forger casual (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Yor-Forger-Lingerie-Spy-x-Family-01-09-2",
+    "images": [
+        "https://telegra.ph/file/c479390dabba3fb7dfc1a.jpg",
+        "https://telegra.ph/file/559827cdc498b16185cd3.jpg",
+        "https://telegra.ph/file/552c0458901bf69e244bc.jpg",
+        "https://telegra.ph/file/7a2c9e7cf9cbe5ee6cf81.jpg",
+        "https://telegra.ph/file/dec258154d6e67d9beaba.jpg",
+        "https://telegra.ph/file/97b051cd2752c706c5133.jpg",
+        "https://telegra.ph/file/fce240a86adae7913af80.jpg",
+        "https://telegra.ph/file/5d38145c9d7f87c37ec1e.jpg",
+        "https://telegra.ph/file/4c47ec44147899a189068.jpg",
+        "https://telegra.ph/file/3d4015e46a5f28948f7f0.jpg",
+        "https://telegra.ph/file/02b2280622a374a2bc5f4.jpg",
+        "https://telegra.ph/file/890f3196f3d99e6dd4aab.jpg",
+        "https://telegra.ph/file/d053e5ba3b3e2e486111d.jpg",
+        "https://telegra.ph/file/9ccb00e1dd29031f8b1ac.jpg",
+        "https://telegra.ph/file/f231da3ccb944fda826bb.jpg",
+        "https://telegra.ph/file/0636069fdf894365609a6.jpg",
+        "https://telegra.ph/file/ca0af2e2ad17387ed09e4.jpg",
+        "https://telegra.ph/file/640921146a72e20b1ea5a.jpg",
+        "https://telegra.ph/file/efc503b424211ab8ae319.jpg",
+        "https://telegra.ph/file/5371f6087e45fd8944774.jpg",
+        "https://telegra.ph/file/dbcf0418d7d46aa576afe.jpg",
+        "https://telegra.ph/file/b84a127f0d0a926d8019e.jpg",
+        "https://telegra.ph/file/70e99d71a44610e04d30a.jpg",
+        "https://telegra.ph/file/4cf6a87a4d099b6a2d2e0.jpg",
+        "https://telegra.ph/file/139557bfed2b91a2ff219.jpg"
+    ]
+};

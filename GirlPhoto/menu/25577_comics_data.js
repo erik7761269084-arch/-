@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25577,
+    "title": "20220224 甘い桃🍑 [23P-114MB]",
+    "sourceUrl": "https://telegra.ph/20220224-%E7%94%98%E3%81%84%E6%A1%83-23P-114MB-03-03",
+    "images": [
+        "https://telegra.ph/file/4421b704872dc53dcc8b3.jpg",
+        "https://telegra.ph/file/4e8bf0544b45d52b68216.jpg",
+        "https://telegra.ph/file/c25a2b8bef8ae79b27d61.jpg",
+        "https://telegra.ph/file/3b94400b261fffda33263.jpg",
+        "https://telegra.ph/file/4317f4703ee4bee59afb1.jpg",
+        "https://telegra.ph/file/44ef3a5b192694738ba8a.jpg",
+        "https://telegra.ph/file/778af284855b3f0a788d4.jpg",
+        "https://telegra.ph/file/fdfe811f44ff6aa99093f.jpg",
+        "https://telegra.ph/file/6ab52f8ccdd51fb085e28.jpg",
+        "https://telegra.ph/file/5feff4eea877060dc04a2.jpg",
+        "https://telegra.ph/file/ae4de1b61c33a31cd5218.jpg",
+        "https://telegra.ph/file/e6db7b6190370431be513.jpg",
+        "https://telegra.ph/file/66e640765da71150f25f6.jpg",
+        "https://telegra.ph/file/a9b407a366f92b2d388a7.jpg",
+        "https://telegra.ph/file/3cd74906d5c59f71b806a.jpg",
+        "https://telegra.ph/file/991a5fd302aeb65fa0e84.jpg",
+        "https://telegra.ph/file/a43dc63e1f1a7b9c73a0e.jpg",
+        "https://telegra.ph/file/27ff38e0bbc139a5e80fa.jpg",
+        "https://telegra.ph/file/c7a230dc6b2007c79f600.jpg",
+        "https://telegra.ph/file/94649e31e0f51fa58b7b4.jpg",
+        "https://telegra.ph/file/9f7e852e9f2f82bedf289.jpg",
+        "https://telegra.ph/file/5e8c7cb76d2f37890743e.jpg",
+        "https://telegra.ph/file/23f5594842e0b76559036.jpg",
+        "https://telegra.ph/file/16c969135ea8021136781.jpg"
+    ]
+};

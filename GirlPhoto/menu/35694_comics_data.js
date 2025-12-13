@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35694,
+    "title": "Mymin 민정, LEEHEE EXPRESS LEBE-224A Set.01",
+    "sourceUrl": "https://telegra.ph/Mymin-민정-LEEHEE-EXPRESS-LEBE-224A-Set01-10-19",
+    "images": [
+        "https://telegra.ph/file/a651847feaf9f57a3de38.jpg",
+        "https://telegra.ph/file/5505c7b58e6001177c47f.jpg",
+        "https://telegra.ph/file/de23f82bffffa1af1e07b.jpg",
+        "https://telegra.ph/file/ab7097a56cd2d140c33da.jpg",
+        "https://telegra.ph/file/03b64b13dcf887636036b.jpg",
+        "https://telegra.ph/file/e27379f342c0d2b7b7af5.jpg",
+        "https://telegra.ph/file/716c7616b9c6c26eeece5.jpg",
+        "https://telegra.ph/file/933c0160cf3b8f18faea5.jpg",
+        "https://telegra.ph/file/02ff9de80f472e5e8afbd.jpg",
+        "https://telegra.ph/file/6da81d463723bac7c4a43.jpg",
+        "https://telegra.ph/file/eca7f0dc9d9bc33db52e3.jpg",
+        "https://telegra.ph/file/cc10efcefc275fd2a0102.jpg",
+        "https://telegra.ph/file/c055441b2857af124ba33.jpg",
+        "https://telegra.ph/file/da455c8b1a91aad6ce695.jpg",
+        "https://telegra.ph/file/5cdbe1322d7c1ddddf4d9.jpg",
+        "https://telegra.ph/file/bb4eb9c1acf562ba88a08.jpg",
+        "https://telegra.ph/file/efc98d403d51c329936d7.jpg",
+        "https://telegra.ph/file/b7a5d1e3065e91e7f5d83.jpg",
+        "https://telegra.ph/file/f4f05789760000d57d5bb.jpg",
+        "https://telegra.ph/file/c3c880667bd4fe202a7cb.jpg",
+        "https://telegra.ph/file/2b565836451390d638efb.jpg",
+        "https://telegra.ph/file/e3d92859224eb6a82922e.jpg",
+        "https://telegra.ph/file/d4a7fd8f65d7097ebea2b.jpg",
+        "https://telegra.ph/file/370ffec53994b72930936.jpg"
+    ]
+};

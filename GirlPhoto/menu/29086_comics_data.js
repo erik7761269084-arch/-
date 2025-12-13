@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 29086,
+    "title": "阿薰Kaori - 黑暗王朝 25P",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E8%96%B0Kaori---%E9%BB%91%E6%9A%97%E7%8E%8B%E6%9C%9D-25P-06-09",
+    "images": [
+        "https://telegra.ph/file/c12f5bb226088c378ddce.jpg",
+        "https://telegra.ph/file/3cea0c0cbc3abe56800f3.jpg",
+        "https://telegra.ph/file/7516016bdd40bebd27c61.jpg",
+        "https://telegra.ph/file/b5373330311f6375c6f9e.jpg",
+        "https://telegra.ph/file/31bde11e1b88b3634a557.jpg",
+        "https://telegra.ph/file/09f61b3a33626fc95765a.jpg",
+        "https://telegra.ph/file/8f6e6a1d43153358c1b29.jpg",
+        "https://telegra.ph/file/dc21f98568e98a1226b48.jpg",
+        "https://telegra.ph/file/94a5bca755f114bd2b510.jpg",
+        "https://telegra.ph/file/52b1640951bfc3c41ca16.jpg",
+        "https://telegra.ph/file/3e361e4259187312f57ef.jpg",
+        "https://telegra.ph/file/6dbe5258bb55005d19ec3.jpg",
+        "https://telegra.ph/file/a07ce3042994c20001cf8.jpg",
+        "https://telegra.ph/file/fe808950aa6d47d774862.jpg",
+        "https://telegra.ph/file/8f6e1a9571be46b4479a6.jpg",
+        "https://telegra.ph/file/0651d339f753d302d18e6.jpg",
+        "https://telegra.ph/file/3c1b53e693164af742ea3.jpg",
+        "https://telegra.ph/file/ffe631dc83a90d4827384.jpg",
+        "https://telegra.ph/file/c7c4d0e4c0a8634b9a29f.jpg",
+        "https://telegra.ph/file/cfff93f9f6d2186e19d58.jpg",
+        "https://telegra.ph/file/22c5e91b8b3bb8de44c21.jpg",
+        "https://telegra.ph/file/fa59e2d0571190d6de183.jpg",
+        "https://telegra.ph/file/81b67ca4b6bf92aa23db2.jpg",
+        "https://telegra.ph/file/9cb779f3af2ee69466660.jpg",
+        "https://telegra.ph/file/b6c944bb98ed6f20ddfb7.jpg"
+    ]
+};

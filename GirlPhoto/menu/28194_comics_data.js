@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 28194,
+    "title": "MissWarmJ-2020 Free New Year Set! 圣诞[26P]",
+    "sourceUrl": "https://telegra.ph/MissWarmJ-2020-Free-New-Year-Set-%E5%9C%A3%E8%AF%9E26P-09-25",
+    "images": [
+        "https://telegra.ph/file/2637a30980ad0a5517091.jpg",
+        "https://telegra.ph/file/a3ca61d6619e64736def5.jpg",
+        "https://telegra.ph/file/0b9cf2079d89e8f47b114.jpg",
+        "https://telegra.ph/file/203525f6759fa5a4533dd.jpg",
+        "https://telegra.ph/file/10e810aa7a77887b3075e.jpg",
+        "https://telegra.ph/file/f9e433c0a6eef3f7b3838.jpg",
+        "https://telegra.ph/file/63c640f67ef71127eef32.jpg",
+        "https://telegra.ph/file/0be30e7a891e35c5aaa5b.jpg",
+        "https://telegra.ph/file/74c4dfd39da3d9e2bb808.jpg",
+        "https://telegra.ph/file/f0079d339a7d5b9be0caa.jpg",
+        "https://telegra.ph/file/06814f372b0f90ce20615.jpg",
+        "https://telegra.ph/file/e5f5c4fa919d77b696b03.jpg",
+        "https://telegra.ph/file/b62f68cecf70ba23da2a2.jpg",
+        "https://telegra.ph/file/88fedf70fd4e6c625bc13.jpg",
+        "https://telegra.ph/file/f4f67fea30e66b756c045.jpg",
+        "https://telegra.ph/file/f9e346980e0fdeed2128d.jpg",
+        "https://telegra.ph/file/c38667e67205d496eb8de.jpg",
+        "https://telegra.ph/file/a2e77cc3cff93f24fe2be.jpg",
+        "https://telegra.ph/file/7f15dcb6c44c9bda0c883.jpg",
+        "https://telegra.ph/file/2b5209268ad3b695dbe09.jpg",
+        "https://telegra.ph/file/050758472dd6ed08de3fd.jpg",
+        "https://telegra.ph/file/7ec2f9e2b71cd7624c247.jpg",
+        "https://telegra.ph/file/9b84820fb6074244f216d.jpg",
+        "https://telegra.ph/file/742152e319f66021dac8e.jpg",
+        "https://telegra.ph/file/c18e6e6d501816ed6723f.jpg",
+        "https://telegra.ph/file/c1f09d2f7a3d4d8e68003.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41168,
+    "title": "Virtual Geisha - Raiden Shogun (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Virtual-Geisha---Raiden-Shogun-Genshin-Impact-02-18",
+    "images": [
+        "https://telegra.ph/file/085b3072787f5e6590563.jpg",
+        "https://telegra.ph/file/f1e0470ca0348639bc140.jpg",
+        "https://telegra.ph/file/e2e76a3133302a56c29e6.jpg",
+        "https://telegra.ph/file/be441ab2a734a8dad05e3.jpg",
+        "https://telegra.ph/file/2b800269e525448a5b5a1.jpg",
+        "https://telegra.ph/file/d33dc5c9994327e7160bf.jpg",
+        "https://telegra.ph/file/06c7faa936525cb63d569.jpg",
+        "https://telegra.ph/file/0afee27c2e71916d1ea01.jpg",
+        "https://telegra.ph/file/baaf3484192aa1091c6e0.jpg",
+        "https://telegra.ph/file/0e823102a71085a9292d8.jpg",
+        "https://telegra.ph/file/c470d918b5238cb408e88.jpg",
+        "https://telegra.ph/file/eb52ddae8a2d38155beb6.jpg",
+        "https://telegra.ph/file/5322a34482d194e30d53b.jpg",
+        "https://telegra.ph/file/4c14a2c91b503d1f48716.jpg",
+        "https://telegra.ph/file/144ca7224bc951bb0d457.jpg",
+        "https://telegra.ph/file/05e4621e82515a758dc6e.jpg",
+        "https://telegra.ph/file/6cd70bb251213bbc3add6.jpg",
+        "https://telegra.ph/file/d126db62323e0a56083bd.jpg",
+        "https://telegra.ph/file/97c7bcbf6b68fa188b42a.jpg",
+        "https://telegra.ph/file/26ed89e4cf265db28fa8c.jpg",
+        "https://telegra.ph/file/8a69633ce089dbc0a4645.jpg",
+        "https://telegra.ph/file/630cfca4b6365cca57fd4.jpg",
+        "https://telegra.ph/file/2eeefee54d33e884d578f.jpg"
+    ]
+};

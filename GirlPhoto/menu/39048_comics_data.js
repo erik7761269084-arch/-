@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39048,
+    "title": "Hokunaimeko - Celestine Lucullus 2 (Kuroinu)",
+    "sourceUrl": "https://telegra.ph/Hokunaimeko---Celestine-Lucullus-2-Kuroinu-04-20",
+    "images": [
+        "https://telegra.ph/file/7de913fdb76c5d0eff0b6.jpg",
+        "https://telegra.ph/file/9aa521094cf20124fd092.jpg",
+        "https://telegra.ph/file/edef40853aa3600aa31f4.jpg",
+        "https://telegra.ph/file/16849684559f946cf397a.jpg",
+        "https://telegra.ph/file/b52cc52cebb69ebde295d.jpg",
+        "https://telegra.ph/file/10de2c7304a734676ab1e.jpg",
+        "https://telegra.ph/file/39e479858f1d310d29b88.jpg",
+        "https://telegra.ph/file/a833a5b6c96e29f7e14ec.jpg",
+        "https://telegra.ph/file/060475906a81ed2791512.jpg",
+        "https://telegra.ph/file/e726d3b2985209910b5b1.jpg",
+        "https://telegra.ph/file/b4c0104f1b0638ca43777.jpg",
+        "https://telegra.ph/file/107450ec2f90f26e2832a.jpg",
+        "https://telegra.ph/file/7b9cb0a580329ca1ddb26.jpg",
+        "https://telegra.ph/file/4b42fd35d4d812221d106.jpg",
+        "https://telegra.ph/file/b8a2a6f4e252507d5e967.jpg",
+        "https://telegra.ph/file/76ddcc0782af451861b4e.jpg",
+        "https://telegra.ph/file/d82370840cb4268187cbe.jpg",
+        "https://telegra.ph/file/aeefd7b8237ebe7951395.jpg",
+        "https://telegra.ph/file/ca926f17bfd09fdec2d8b.jpg",
+        "https://telegra.ph/file/229dbb4d754f86545287f.jpg",
+        "https://telegra.ph/file/38e94e0f28311c81bb605.jpg",
+        "https://telegra.ph/file/15cd0db7503927a8f5799.jpg",
+        "https://telegra.ph/file/e3eceff12cdc92bba8597.jpg",
+        "https://telegra.ph/file/8fcc8d866f091f4a4ca96.jpg",
+        "https://telegra.ph/file/d5d8a34177f2bcf930836.jpg"
+    ]
+};

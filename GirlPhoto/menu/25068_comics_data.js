@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25068,
+    "title": "[Cos]过期米线线喵 - 和风浴衣[23P]",
+    "sourceUrl": "https://telegra.ph/Cos%E8%BF%87%E6%9C%9F%E7%B1%B3%E7%BA%BF%E7%BA%BF%E5%96%B5---%E5%92%8C%E9%A3%8E%E6%B5%B4%E8%A1%A323P-07-24",
+    "images": [
+        "https://telegra.ph/file/0f8576ece1f4054fb7ba6.jpg",
+        "https://telegra.ph/file/bae263b8703b181aff946.jpg",
+        "https://telegra.ph/file/fbaedd99881ad7f199821.jpg",
+        "https://telegra.ph/file/c649bf5bf30596a4c18be.jpg",
+        "https://telegra.ph/file/a89deb3414ba059d448ea.jpg",
+        "https://telegra.ph/file/2b8cc44e400bdb4284adc.jpg",
+        "https://telegra.ph/file/0b8538325f0511ed168d9.jpg",
+        "https://telegra.ph/file/febf0ea0eecc4402db728.jpg",
+        "https://telegra.ph/file/f229ffdd01a682d253b72.jpg",
+        "https://telegra.ph/file/2216892830abb267a265e.jpg",
+        "https://telegra.ph/file/404f784803c7bafd928f5.jpg",
+        "https://telegra.ph/file/a53eb19378173084fb618.jpg",
+        "https://telegra.ph/file/5df0bd209a3252f9f7973.jpg",
+        "https://telegra.ph/file/1deb2a3fdc2487c1f3066.jpg",
+        "https://telegra.ph/file/fdcfce0004de4bcdd4305.jpg",
+        "https://telegra.ph/file/4e8e44c0ffd87d9803690.jpg",
+        "https://telegra.ph/file/1ea826ad09c919ed7fc65.jpg",
+        "https://telegra.ph/file/2b6dde71bd50109f194f4.jpg",
+        "https://telegra.ph/file/76045f62e7c24c266a0d2.jpg",
+        "https://telegra.ph/file/9c935b3fa29c79a822a65.jpg",
+        "https://telegra.ph/file/7591821ded85e1f3346eb.jpg",
+        "https://telegra.ph/file/cccf12a266db5d2c34904.jpg",
+        "https://telegra.ph/file/8ff258782415a6ac78575.jpg"
+    ]
+};

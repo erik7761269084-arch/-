@@ -1,0 +1,27 @@
+const comicData = {
+    "IDcode": 22908,
+    "title": "百合欧皇子 - 小玉旗袍 [20P-174MB]",
+    "sourceUrl": "https://telegra.ph/%E7%99%BE%E5%90%88%E6%AC%A7%E7%9A%87%E5%AD%90---%E5%B0%8F%E7%8E%89%E6%97%97%E8%A2%8D-20P-174MB-12-22",
+    "images": [
+        "https://telegra.ph/file/b009601e5b485b45531fc.jpg",
+        "https://telegra.ph/file/d15a8b72796fcc1b54309.jpg",
+        "https://telegra.ph/file/c39cc675a6f04389e9591.jpg",
+        "https://telegra.ph/file/99ad9eb2a49309963264f.jpg",
+        "https://telegra.ph/file/a7f13677d1afc076541d7.jpg",
+        "https://telegra.ph/file/72303577738d24c4b6090.jpg",
+        "https://telegra.ph/file/1d9bee312807994a6b2ab.jpg",
+        "https://telegra.ph/file/48df373618d2db0851486.jpg",
+        "https://telegra.ph/file/81d9cbf8c83eba23e112d.jpg",
+        "https://telegra.ph/file/f6b837d239d05c040e32d.jpg",
+        "https://telegra.ph/file/28fcb25ba1e5180d71304.jpg",
+        "https://telegra.ph/file/3fadf592f1de316138507.jpg",
+        "https://telegra.ph/file/db6af767926a9e70edb4e.jpg",
+        "https://telegra.ph/file/9fd0bc1328373641a698f.jpg",
+        "https://telegra.ph/file/82d64c3ca8d8aaf47f8bd.jpg",
+        "https://telegra.ph/file/768f8cb8e303c1d2c9b55.jpg",
+        "https://telegra.ph/file/118c3647643d97df5929a.jpg",
+        "https://telegra.ph/file/b68569bfdaa7189fb05db.jpg",
+        "https://telegra.ph/file/74a4db0484c7d327ac4f4.jpg",
+        "https://telegra.ph/file/7a2a45dbf43b84cba1eca.jpg"
+    ]
+};

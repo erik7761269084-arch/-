@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39550,
+    "title": "Byoru - Mori Calliope (Hololive)",
+    "sourceUrl": "https://telegra.ph/Byoru---Mori-Calliope-Hololive-08-22",
+    "images": [
+        "https://telegra.ph/file/32b4587cb5fb38f32dd5e.jpg",
+        "https://telegra.ph/file/689bd5985b8190acd4c5f.jpg",
+        "https://telegra.ph/file/b0f285682259d8bbdac6a.jpg",
+        "https://telegra.ph/file/1a32aaf524e38d730f9d0.jpg",
+        "https://telegra.ph/file/0bbb406e33202352ba9b1.jpg",
+        "https://telegra.ph/file/706795eb7d14887babe0f.jpg",
+        "https://telegra.ph/file/37c81e2fc965fb4a0e59e.jpg",
+        "https://telegra.ph/file/146c9daedfa973444c239.jpg",
+        "https://telegra.ph/file/312c016847f22474737b7.jpg",
+        "https://telegra.ph/file/2519e40b7ca351c3cbddd.jpg",
+        "https://telegra.ph/file/6954d9f7a707f15f00d37.jpg",
+        "https://telegra.ph/file/c296033f7c65fcea4a5cc.jpg",
+        "https://telegra.ph/file/11e04546e52d15f81eed4.jpg",
+        "https://telegra.ph/file/c200f10fd424575915c38.jpg",
+        "https://telegra.ph/file/9f132fb59b2f7059a11c7.jpg",
+        "https://telegra.ph/file/ff5d6aaf96c1c162b01ac.jpg",
+        "https://telegra.ph/file/c37662315cc6df8fc1fad.jpg",
+        "https://telegra.ph/file/a396666168db455f76e50.jpg",
+        "https://telegra.ph/file/80923607f3a62b42514e5.jpg",
+        "https://telegra.ph/file/09fe8b18677cdbbc5cfa8.jpg",
+        "https://telegra.ph/file/13181f00034e44c23362f.jpg",
+        "https://telegra.ph/file/dd472cb30c02cd369637d.jpg",
+        "https://telegra.ph/file/6dff96564378b44bd89bc.jpg",
+        "https://telegra.ph/file/7062c8f2b05c54ee82929.jpg",
+        "https://telegra.ph/file/8d78aec99d1ddbb47f0c6.jpg"
+    ]
+};

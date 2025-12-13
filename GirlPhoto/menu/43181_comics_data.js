@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43181,
+    "title": "是本末末 - 莱莎泳装 [23P 118M]",
+    "sourceUrl": "https://telegra.ph/%E6%98%AF%E6%9C%AC%E6%9C%AB%E6%9C%AB---%E8%8E%B1%E8%8E%8E%E6%B3%B3%E8%A3%85-23P-118M-09-01",
+    "images": [
+        "https://telegra.ph/file/d7bdfda98c0f85859b75b.jpg",
+        "https://telegra.ph/file/47c381cc8f73a9e39402e.jpg",
+        "https://telegra.ph/file/3c169240a710d2084ace8.jpg",
+        "https://telegra.ph/file/d08853acc1c2ce6d5c141.jpg",
+        "https://telegra.ph/file/53fb9c38ad1985ec6eaab.jpg",
+        "https://telegra.ph/file/0d19b2697dc386155229c.jpg",
+        "https://telegra.ph/file/4f055d11c18652a11ad5f.jpg",
+        "https://telegra.ph/file/11e54f3140c148d63e06b.jpg",
+        "https://telegra.ph/file/abb8aca47e3102209b947.jpg",
+        "https://telegra.ph/file/7b666f91612344f818ee7.jpg",
+        "https://telegra.ph/file/e36c08f64c070b8b96fdc.jpg",
+        "https://telegra.ph/file/7aee3a3aefda59b8d6340.jpg",
+        "https://telegra.ph/file/083ae46ee458bb6945d4c.jpg",
+        "https://telegra.ph/file/426d60f1d4f3dd76dd90b.jpg",
+        "https://telegra.ph/file/570213098788e9102cb43.jpg",
+        "https://telegra.ph/file/4a5ad24ca1fe06615854c.jpg",
+        "https://telegra.ph/file/4f4828dffbe6f72730512.jpg",
+        "https://telegra.ph/file/50d10914ade7c7b2e0dd8.jpg",
+        "https://telegra.ph/file/878c70cd0933003a5544d.jpg",
+        "https://telegra.ph/file/330719303bde06f4ffde8.jpg",
+        "https://telegra.ph/file/6f112ad99dd7c893ee601.jpg",
+        "https://telegra.ph/file/9c1664359aabeddecc890.jpg",
+        "https://telegra.ph/file/d69e481c260e21c5ff28a.jpg"
+    ]
+};

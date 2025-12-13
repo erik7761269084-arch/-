@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27520,
+    "title": "3.DOA_GEM_TAMAKI",
+    "sourceUrl": "https://telegra.ph/3DOA-GEM-TAMAKI-04-08",
+    "images": [
+        "https://telegra.ph/file/ce1335d5ea58ae2592974.jpg",
+        "https://telegra.ph/file/e5ccca0ef5b3087d311cb.jpg",
+        "https://telegra.ph/file/7e60249099f944361ebdb.jpg",
+        "https://telegra.ph/file/9db264046c7ba6b3b006f.jpg",
+        "https://telegra.ph/file/aef994f0a176664810024.jpg",
+        "https://telegra.ph/file/c2e7a1490dff8218f013a.jpg",
+        "https://telegra.ph/file/5e78a4bd8836a60c7f80e.jpg",
+        "https://telegra.ph/file/9fdeca37d78fa369434be.jpg",
+        "https://telegra.ph/file/f02aa225a9d4aced77cea.jpg",
+        "https://telegra.ph/file/cfaedd34d8b94e8aab993.jpg",
+        "https://telegra.ph/file/4c0a1e44fa14d8ad13645.jpg",
+        "https://telegra.ph/file/cd03cd1aed14d0380bd8a.jpg",
+        "https://telegra.ph/file/008b4f480de6a1eeb3a8c.jpg",
+        "https://telegra.ph/file/221140f1465446d8b41bc.jpg",
+        "https://telegra.ph/file/db362c45d0b84d7ccf3cc.jpg",
+        "https://telegra.ph/file/1d5e8928b77f9df987f80.jpg",
+        "https://telegra.ph/file/e91c114c024ebe55305e5.jpg",
+        "https://telegra.ph/file/4973be19ee5252c2db13c.jpg",
+        "https://telegra.ph/file/e210d7e5971ba98365378.jpg",
+        "https://telegra.ph/file/4df801112215457ae5aa4.jpg",
+        "https://telegra.ph/file/2899ed9a88df1b85d1277.jpg",
+        "https://telegra.ph/file/273d97223157762007fb0.jpg",
+        "https://telegra.ph/file/18eb430bba1fe0e2890e3.jpg",
+        "https://telegra.ph/file/4f105bcfb9c4f2fc6e43f.jpg",
+        "https://telegra.ph/file/13e55fcfe911a4f2085a1.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42251,
+    "title": "前野太太 - Amagi (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-12-04-4",
+    "images": [
+        "https://i.ibb.co/FkbV9x4C/01-compress33.jpg",
+        "https://i.ibb.co/PZbFg09y/02-compress43.jpg",
+        "https://i.ibb.co/v630n1gJ/03-compress37.jpg",
+        "https://i.ibb.co/x8sWm14N/04-compress1.jpg",
+        "https://i.ibb.co/Rp0NJ8mn/05-compress65.jpg",
+        "https://i.ibb.co/7JhyLTFB/06-compress56.jpg",
+        "https://i.ibb.co/TBKdWn5C/07-compress80.jpg",
+        "https://i.ibb.co/C5BLWGdd/08-compress25.jpg",
+        "https://i.ibb.co/7dHMz5GZ/09-compress53.jpg",
+        "https://i.ibb.co/15pZRPZ/10-compress64.jpg",
+        "https://i.ibb.co/WWVbfNQW/11-compress38.jpg",
+        "https://i.ibb.co/H0zDfGG/12-compress11.jpg",
+        "https://i.ibb.co/MDcg0bfw/13-compress68.jpg",
+        "https://i.ibb.co/2Y0dwgst/14-compress84.jpg",
+        "https://i.ibb.co/VcCBTjhp/15-compress85.jpg",
+        "https://i.ibb.co/mrBLPgpQ/16-compress16.jpg",
+        "https://i.ibb.co/kscJ8T5t/17-compress90.jpg",
+        "https://i.ibb.co/FLT5M4Mx/18-compress9.jpg",
+        "https://i.ibb.co/3mncp0HW/19-compress83.jpg",
+        "https://i.ibb.co/qYp5mqsz/20-compress79.jpg",
+        "https://i.ibb.co/4ZDwCn7F/21-compress67.jpg",
+        "https://i.ibb.co/7tfZkkdH/22-compress66.jpg",
+        "https://i.ibb.co/hJXLGbbV/23-compress28.jpg",
+        "https://i.ibb.co/6RS10myM/24-compress86.jpg",
+        "https://i.ibb.co/ycvKnrnj/25-compress56.jpg",
+        "https://i.ibb.co/ZzJ2tBkz/26-compress54.jpg"
+    ]
+};

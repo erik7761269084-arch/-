@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40436,
+    "title": "Alin Ma/Xenon - Makima (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Alin-MaXenon---Makima-Chainsaw-Man-06-21",
+    "images": [
+        "https://telegra.ph/file/a9dddfbb841b89556e937.jpg",
+        "https://telegra.ph/file/062022e9434faa5adf2bd.jpg",
+        "https://telegra.ph/file/23573cae2b8e419b57276.jpg",
+        "https://telegra.ph/file/c6bed804d5b6218b60dc2.jpg",
+        "https://telegra.ph/file/41c50f0aa7e6ecc4d1987.jpg",
+        "https://telegra.ph/file/42167f16099fe3ced1f6b.jpg",
+        "https://telegra.ph/file/610b7f6ffabe44ea0a94e.jpg",
+        "https://telegra.ph/file/dc37b0317109188e9a216.jpg",
+        "https://telegra.ph/file/a5e9d227227ce800fa0d5.jpg",
+        "https://telegra.ph/file/539cf5d4500f6f73d73ad.jpg",
+        "https://telegra.ph/file/739e1efcb302d815df6b7.jpg",
+        "https://telegra.ph/file/40fb67e3b39a3f4cbd1ca.jpg",
+        "https://telegra.ph/file/22962aa49b99601273d13.jpg",
+        "https://telegra.ph/file/7de40b28d2865123bd9f0.jpg",
+        "https://telegra.ph/file/019ef1e9385e165d3e765.jpg",
+        "https://telegra.ph/file/b052b89350e3f6a216fa0.jpg",
+        "https://telegra.ph/file/49047bdb9836ad3106fbf.jpg",
+        "https://telegra.ph/file/2a4d7ad199eabf5d3f0d7.jpg",
+        "https://telegra.ph/file/a7b173624f527b7bcd51b.jpg",
+        "https://telegra.ph/file/bb3cbb12f414735a8f245.jpg",
+        "https://telegra.ph/file/3165699d96ab0f6f8b077.jpg",
+        "https://telegra.ph/file/04c32539b00be88e1fbaf.jpg",
+        "https://telegra.ph/file/5fca25d4eca7036872646.jpg"
+    ]
+};

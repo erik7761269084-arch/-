@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 36464,
+    "title": "[Byoru ビヨル] Tifa Lockhart Bunny Ver.",
+    "sourceUrl": "https://telegra.ph/Byoru-ビヨル-Tifa-Lockhart-Bunny-Ver-01-04",
+    "images": [
+        "https://telegra.ph/file/3c875dbdd176c3264685e.jpg",
+        "https://telegra.ph/file/7d67cc387f97c6089193e.jpg",
+        "https://telegra.ph/file/a78f8c8948f3b5d9dd20e.jpg",
+        "https://telegra.ph/file/ff41e8fdf7da5d00f5325.jpg",
+        "https://telegra.ph/file/31d6628f1f66bdbfb1f02.jpg",
+        "https://telegra.ph/file/c3ad411866fbfebbcb82c.jpg",
+        "https://telegra.ph/file/aecfb4dea2160303057d9.jpg",
+        "https://telegra.ph/file/51e4492ffb8aa314853ca.jpg",
+        "https://telegra.ph/file/4b01b2292e80cae60ad3f.jpg",
+        "https://telegra.ph/file/8e01b7a4d6b1c68555011.jpg",
+        "https://telegra.ph/file/dedbde0c84ad55f021919.jpg",
+        "https://telegra.ph/file/514289ab2881196fac95b.jpg",
+        "https://telegra.ph/file/06913e5741d0efe3328ae.jpg",
+        "https://telegra.ph/file/7c63ad6bfdfcc18736c6e.jpg",
+        "https://telegra.ph/file/54115a8fe9ffa5c6d1930.jpg",
+        "https://telegra.ph/file/c4a63520a93d630eabda3.jpg",
+        "https://telegra.ph/file/127b5873c960ad4e22b74.jpg",
+        "https://telegra.ph/file/dfd4bf6d5ac296cff926e.jpg",
+        "https://telegra.ph/file/7a338a9b0560a7490889f.jpg",
+        "https://telegra.ph/file/56251b3ad4a0c34fcb105.jpg",
+        "https://telegra.ph/file/0e379cd88aa5566ab114d.jpg",
+        "https://telegra.ph/file/cf635f9074e268e384664.jpg",
+        "https://telegra.ph/file/13582d6bd3245b785e4b1.jpg",
+        "https://telegra.ph/file/70e6b755ce4388fae30d7.jpg",
+        "https://telegra.ph/file/44e9d6d78888582734107.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31840,
+    "title": "可愛女友果寶寶帶我回家 全裸勾引好害羞沉浸式第一人稱視角",
+    "sourceUrl": "https://telegra.ph/可愛女友果寶寶帶我回家-全裸勾引好害羞沉浸式第一人稱視角-09-16",
+    "images": [
+        "https://telegra.ph/file/e453fd0658a83767a0176.jpg",
+        "https://telegra.ph/file/7165076c5c6af80f59f67.jpg",
+        "https://telegra.ph/file/7fe3d7c502ee3529c87a1.jpg",
+        "https://telegra.ph/file/34a4ee1636e008784f9b4.jpg",
+        "https://telegra.ph/file/cdef6f5f6ee58b08087af.jpg",
+        "https://telegra.ph/file/bb51a953b2279e93aca71.jpg",
+        "https://telegra.ph/file/d78bb4162b5a0ffbaced4.jpg",
+        "https://telegra.ph/file/e45b395708de1a72c9e79.jpg",
+        "https://telegra.ph/file/fef51e1706ff8b02debe2.jpg",
+        "https://telegra.ph/file/4c88a50475a27abb06f13.jpg",
+        "https://telegra.ph/file/7ed4e860684a7654670d1.jpg",
+        "https://telegra.ph/file/f93b7afba88a48fad61bb.jpg",
+        "https://telegra.ph/file/d86ddeb21faa71f664364.jpg",
+        "https://telegra.ph/file/fa9226273d0ae447d243f.jpg",
+        "https://telegra.ph/file/ef70696f48d9ae89e650c.jpg",
+        "https://telegra.ph/file/729876f3e6c6b1e92b907.jpg",
+        "https://telegra.ph/file/3eb8118b258d8485c52bc.jpg",
+        "https://telegra.ph/file/4a8dbfee5900c01809edc.jpg",
+        "https://telegra.ph/file/32c475655b4e2b3581c8f.jpg",
+        "https://telegra.ph/file/3393c3758387bac454aba.jpg",
+        "https://telegra.ph/file/b5172b0f5dc2f00e0572f.jpg",
+        "https://telegra.ph/file/74577c7d63c252e5f54fa.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

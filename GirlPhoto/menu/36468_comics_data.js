@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 36468,
+    "title": "Cosplay 洛璃LoLiSAMA 红兔 Set.02",
+    "sourceUrl": "https://telegra.ph/Cosplay-洛璃LoLiSAMA-红兔-Set02-01-05",
+    "images": [
+        "https://telegra.ph/file/09c5cf85fbc2863f30a0b.jpg",
+        "https://telegra.ph/file/dc8b664afb36d2440bcaa.jpg",
+        "https://telegra.ph/file/fa1c6ba4b7ec83421b9a1.jpg",
+        "https://telegra.ph/file/061d1f74013d0e4eebd0d.jpg",
+        "https://telegra.ph/file/300b2ea410d32c76474fa.jpg",
+        "https://telegra.ph/file/5b34eaa9b0de0b1b78b3f.jpg",
+        "https://telegra.ph/file/9d266981527968efd55f6.jpg",
+        "https://telegra.ph/file/4da38dce5d8027d454b0b.jpg",
+        "https://telegra.ph/file/0f5218d81382c9d76b3ca.jpg",
+        "https://telegra.ph/file/074c99a03cb42faba687c.jpg",
+        "https://telegra.ph/file/f55ef0dcd211ffb8f0c80.jpg",
+        "https://telegra.ph/file/4b67da7879def3ee1d116.jpg",
+        "https://telegra.ph/file/1738bbb8b8f58df13e717.jpg",
+        "https://telegra.ph/file/3f6d087d5efb71ddfed91.jpg",
+        "https://telegra.ph/file/4487e404fa9d7f20d9b7f.jpg",
+        "https://telegra.ph/file/bc16ab80d99de0364149e.jpg",
+        "https://telegra.ph/file/5e91912571f43b559808b.jpg",
+        "https://telegra.ph/file/d2b8b8ae2099ff2068905.jpg",
+        "https://telegra.ph/file/b9cd79dfb3d0ff0c2bb6a.jpg",
+        "https://telegra.ph/file/ee18956b57d4cfbae76d7.jpg",
+        "https://telegra.ph/file/e918743571fec91e09aa3.jpg",
+        "https://telegra.ph/file/23a10baac500a1f952cce.jpg",
+        "https://telegra.ph/file/67ff036fc425bce89ca23.jpg",
+        "https://telegra.ph/file/9afa598a3ac69724610af.jpg"
+    ]
+};

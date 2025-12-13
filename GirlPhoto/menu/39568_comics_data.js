@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39568,
+    "title": "Nekokoyoshi - Malzeno (Monster Hunter)",
+    "sourceUrl": "https://telegra.ph/Nekokoyoshi---Malzeno-Monster-Hunter-08-25",
+    "images": [
+        "https://telegra.ph/file/1e6a688a3f17637013c0b.jpg",
+        "https://telegra.ph/file/929a3716ff50bdad10e21.jpg",
+        "https://telegra.ph/file/eab55d8fcc0f83f17fa19.jpg",
+        "https://telegra.ph/file/94d7dc2d8f81b22b12ccb.jpg",
+        "https://telegra.ph/file/edd415d598d786d29255c.jpg",
+        "https://telegra.ph/file/745104c0cfb2755bca7f3.jpg",
+        "https://telegra.ph/file/4119902c6c6a7c4aab61a.jpg",
+        "https://telegra.ph/file/b02ac24e8ebdaad14dd78.jpg",
+        "https://telegra.ph/file/976ebfb111110e365918b.jpg",
+        "https://telegra.ph/file/1fc22a57dd8f770e7db2a.jpg",
+        "https://telegra.ph/file/7e425e14f10089bfa2abb.jpg",
+        "https://telegra.ph/file/37e4c9f05961f3255573b.jpg",
+        "https://telegra.ph/file/1c1e4cf1abfbc49118380.jpg",
+        "https://telegra.ph/file/9c8a451d03b0fbfdc4304.jpg",
+        "https://telegra.ph/file/cd835ae99cec25156147f.jpg",
+        "https://telegra.ph/file/41e6bba1084f6dbc76091.jpg",
+        "https://telegra.ph/file/45e70235d2a66b15b9952.jpg",
+        "https://telegra.ph/file/dfac7789ba1e3e830f611.jpg",
+        "https://telegra.ph/file/2499d67e0509b1d56d27e.jpg",
+        "https://telegra.ph/file/9fa2c4bc9ebd8a078ec3d.jpg",
+        "https://telegra.ph/file/ffae1809a77d802160427.jpg",
+        "https://telegra.ph/file/a941b49b7487349211620.jpg",
+        "https://telegra.ph/file/f3fa64256e44d9d8d8fd8.jpg",
+        "https://telegra.ph/file/c6113593c114a32a4f952.jpg"
+    ]
+};

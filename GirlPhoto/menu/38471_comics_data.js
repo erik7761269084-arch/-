@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38471,
+    "title": "Hackee - Sakura Futaba (Shin Megami Tensei V)",
+    "sourceUrl": "https://telegra.ph/Hackee---Mai-ShiranuiCow-The-King-Of-Fighters-11-12",
+    "images": [
+        "https://telegra.ph/file/59e950278303cff31a5f9.jpg",
+        "https://telegra.ph/file/f20fd6050ec64b21c4eb7.jpg",
+        "https://telegra.ph/file/8b4545def1a31a29eef2e.jpg",
+        "https://telegra.ph/file/bd69be4470754efaeac49.jpg",
+        "https://telegra.ph/file/c56f2c6502b8a77ffa686.jpg",
+        "https://telegra.ph/file/ef76187c2052204556ea3.jpg",
+        "https://telegra.ph/file/1c872f49f90248296ba25.jpg",
+        "https://telegra.ph/file/74455c34907cbb712f891.jpg",
+        "https://telegra.ph/file/812653d4082c8ee645886.jpg",
+        "https://telegra.ph/file/4f92f9f656cd4d2a7d957.jpg",
+        "https://telegra.ph/file/af8daec40026dbfb1331b.jpg",
+        "https://telegra.ph/file/0198c14675a8ca51cf1b0.jpg",
+        "https://telegra.ph/file/d0157a53ea8018c95df3b.jpg",
+        "https://telegra.ph/file/2756020b93e9d49777c58.jpg",
+        "https://telegra.ph/file/4ad974e95715f51dcc733.jpg",
+        "https://telegra.ph/file/5e8d5c7b8020f36d04d55.jpg",
+        "https://telegra.ph/file/95de3fb8318a7c327d543.jpg",
+        "https://telegra.ph/file/b09f1a7e664536f440d4d.jpg",
+        "https://telegra.ph/file/746b69793604952f1f74e.jpg",
+        "https://telegra.ph/file/c8eff349be617234b7b85.jpg",
+        "https://telegra.ph/file/666dc710290015df15ead.jpg",
+        "https://telegra.ph/file/13d9960da06affdf8608a.jpg",
+        "https://telegra.ph/file/7641ea280b119a75940b4.jpg"
+    ]
+};

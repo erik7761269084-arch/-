@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22502,
+    "title": "封疆疆 - 蕾姆花嫁[26P-118M]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%81%E7%96%86%E7%96%86---%E8%95%BE%E5%A7%86%E8%8A%B1%E5%AB%8126P-118M-11-27",
+    "images": [
+        "https://image.acg.lol/file/2025/11/27/1-17410fe546ed6797e.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-2d78b0fd7fdb237ae.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-3475824a873002294.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-4cf12731f2e68e497.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-5ee829299efe0cb13.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-6a8b566a2cd55e2e8.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-770d86c4bc730c561.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-85d4c07df6e83362d.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-9963cc914199b71f3.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-105f329de52817039a.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-1149854650e4d51874.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-1218c2914fe532a7fc.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-13ab3612745d0dcd35.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-14f99c5ecc0c0ba2e9.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-15041524ef0a5b4eaa.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-16c612ca2a8d35f6a4.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-179f08e08271006870.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-18e8bd71baaffcd7b3.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-19647e77de396cb5dc.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-201441a974b7d49a55.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-21bfd1d7ccc468c959.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-223eea2bf837bf502e.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-23921c9e63d2eda551.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-2430c92afea871696f.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-251f59e5463e658805.jpg",
+        "https://image.acg.lol/file/2025/11/27/1-26065d516343c39ac3.jpg"
+    ]
+};

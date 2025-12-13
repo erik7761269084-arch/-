@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40883,
+    "title": "Noi Oogami - Kafka (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Noi-Oogami---Kafka-Honkai-Star-Rail-11-04",
+    "images": [
+        "https://telegra.ph/file/2cd40039fb9b5098b67ba.jpg",
+        "https://telegra.ph/file/fdd0a6407706346ba3f0a.jpg",
+        "https://telegra.ph/file/7c7f4baedfe3ac3b2e1f8.jpg",
+        "https://telegra.ph/file/f2de31f211171c6746e52.jpg",
+        "https://telegra.ph/file/a01af836da320bc35dcfe.jpg",
+        "https://telegra.ph/file/e777b3f1178e7d42e3023.jpg",
+        "https://telegra.ph/file/1cd7e746be367ba1d5bd0.jpg",
+        "https://telegra.ph/file/c723daf577cda2374968f.jpg",
+        "https://telegra.ph/file/e732128f1f74abdccc9f3.jpg",
+        "https://telegra.ph/file/c51044d375bc7c753576b.jpg",
+        "https://telegra.ph/file/bda270b92ae43351fd307.jpg",
+        "https://telegra.ph/file/e6bbe3861a8c2bb155e92.jpg",
+        "https://telegra.ph/file/8c7be81362d50ca13c4e2.jpg",
+        "https://telegra.ph/file/67f4bfef68d81694198f0.jpg",
+        "https://telegra.ph/file/ac1308361ab149d476d61.jpg",
+        "https://telegra.ph/file/74f70c3333a928b22fdc5.jpg",
+        "https://telegra.ph/file/9b1d8ad692079ab92acf6.jpg",
+        "https://telegra.ph/file/0f07eb97093b672c8dfe2.jpg",
+        "https://telegra.ph/file/d599312947399279d2d6f.jpg",
+        "https://telegra.ph/file/73ebe3092c403db3971fd.jpg",
+        "https://telegra.ph/file/ebd364090afc701c41c74.jpg",
+        "https://telegra.ph/file/1c41954730b74e57e5682.jpg",
+        "https://telegra.ph/file/ad891e30ff2f37f0e6233.jpg",
+        "https://telegra.ph/file/49223d434ce6d07d5eb25.jpg",
+        "https://telegra.ph/file/d57e7a30b90e7c6d23810.jpg"
+    ]
+};

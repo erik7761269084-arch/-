@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 36045,
+    "title": "Jeong Bomi 정보미, [Loozy] Made For You Set.02",
+    "sourceUrl": "https://telegra.ph/Jeong-Bomi-정보미-Loozy-Made-For-You-Set02-11-23",
+    "images": [
+        "https://telegra.ph/file/84ed8a7e61ade6edb4f93.jpg",
+        "https://telegra.ph/file/043095db3b7ce00f2912b.jpg",
+        "https://telegra.ph/file/3962da0d0eede8d146cbd.jpg",
+        "https://telegra.ph/file/028ff83f1b98a928dc737.jpg",
+        "https://telegra.ph/file/cf596f5ff6045140a48de.jpg",
+        "https://telegra.ph/file/140f37aef8d512c989d2e.jpg",
+        "https://telegra.ph/file/a79a26c6fefcf6e03bcb7.jpg",
+        "https://telegra.ph/file/ec1b8b23f7a82a4c5f95f.jpg",
+        "https://telegra.ph/file/3593bc34e90b27c712776.jpg",
+        "https://telegra.ph/file/fcf29943fc7c240689ebc.jpg",
+        "https://telegra.ph/file/530d9c1d500469bbfec7e.jpg",
+        "https://telegra.ph/file/758f53f5b4540a40916ea.jpg",
+        "https://telegra.ph/file/706f5917b081b7192008b.jpg",
+        "https://telegra.ph/file/5e0ba1331cc0f962dae21.jpg",
+        "https://telegra.ph/file/b756c70f55cd9c47312bd.jpg",
+        "https://telegra.ph/file/d2bf530d5517bc8085574.jpg",
+        "https://telegra.ph/file/24cac2d007ab1d0350f76.jpg",
+        "https://telegra.ph/file/bbcf81e5d9eaba2a7462f.jpg",
+        "https://telegra.ph/file/51d6a35c98f539cdc0e1f.jpg",
+        "https://telegra.ph/file/a753f235cb794d506b87a.jpg",
+        "https://telegra.ph/file/e511692fa92802896fa5a.jpg",
+        "https://telegra.ph/file/d747a29483abd3af81910.jpg",
+        "https://telegra.ph/file/77813302c03297cc98252.jpg",
+        "https://telegra.ph/file/1fa5153ea7a8765855dfe.jpg",
+        "https://telegra.ph/file/b946739cf9b7215827a4c.jpg"
+    ]
+};

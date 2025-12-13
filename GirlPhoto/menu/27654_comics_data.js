@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27654,
+    "title": "紫姝 - 百鬼あやめ [22P-186MB]",
+    "sourceUrl": "https://telegra.ph/%E7%B4%AB%E5%A7%9D---%E7%99%BE%E9%AC%BC%E3%81%82%E3%82%84%E3%82%81-22P-186MB-03-11",
+    "images": [
+        "https://telegra.ph/file/fee20e73b68eff83df5aa.jpg",
+        "https://telegra.ph/file/523bd7a4d5bd8a4a5924e.jpg",
+        "https://telegra.ph/file/28ce5a1713c11d956bd6c.jpg",
+        "https://telegra.ph/file/919a50d6adb48099f5fd3.jpg",
+        "https://telegra.ph/file/55858af27224f8d266f38.jpg",
+        "https://telegra.ph/file/739dcc5c799839790daad.jpg",
+        "https://telegra.ph/file/92dfbe73f58b9dea8ae12.jpg",
+        "https://telegra.ph/file/8e370d59d1b8d17c008ef.jpg",
+        "https://telegra.ph/file/5cac2af5b4b49353a7172.jpg",
+        "https://telegra.ph/file/24deeba7a7558d0c0f12e.jpg",
+        "https://telegra.ph/file/ae36b65b3f13f305b4cc0.jpg",
+        "https://telegra.ph/file/20220697183bf8d80fd5f.jpg",
+        "https://telegra.ph/file/4bfb3569f03711f90bae4.jpg",
+        "https://telegra.ph/file/3a23c724aaba56b085873.jpg",
+        "https://telegra.ph/file/fdd1a44988f977f22b0ef.jpg",
+        "https://telegra.ph/file/6024d77d1aa0d20cf0020.jpg",
+        "https://telegra.ph/file/57caea4392d65b762141b.jpg",
+        "https://telegra.ph/file/c536c7ed386234c0b8d25.jpg",
+        "https://telegra.ph/file/a62178193f3100649d9fb.jpg",
+        "https://telegra.ph/file/5c3098c01efb2f3c8c6b7.jpg",
+        "https://telegra.ph/file/72e90cd29196ba5a1f404.jpg",
+        "https://telegra.ph/file/76ac4f9b4875969f37047.jpg",
+        "https://telegra.ph/file/7f6a1e69931c8db46421a.jpg"
+    ]
+};

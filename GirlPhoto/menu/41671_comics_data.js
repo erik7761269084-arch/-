@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41671,
+    "title": "Queenie - Boa Hancock (One Piece)",
+    "sourceUrl": "https://telegra.ph/Queenie---Boa-Hancock-One-Piece-07-05",
+    "images": [
+        "https://telegra.ph/file/48f9feb27a4e98254bc32.jpg",
+        "https://telegra.ph/file/135123ff7ea1ff45e903d.jpg",
+        "https://telegra.ph/file/101f70d2bdc2fbca2751a.jpg",
+        "https://telegra.ph/file/0879e9157651d5f7f953a.jpg",
+        "https://telegra.ph/file/fe4a83659a56af57ee158.jpg",
+        "https://telegra.ph/file/df5a32c710f80b127fdd3.jpg",
+        "https://telegra.ph/file/d03faf0e2c369d4fe739e.jpg",
+        "https://telegra.ph/file/89ee0487b9de5becbfbd5.jpg",
+        "https://telegra.ph/file/6cd7b918a267c74f5806f.jpg",
+        "https://telegra.ph/file/1032041181ba05f7cd4a1.jpg",
+        "https://telegra.ph/file/e598f80f8ae9301ceb0a9.jpg",
+        "https://telegra.ph/file/b208208fec745caae427a.jpg",
+        "https://telegra.ph/file/ec65dfd51a5688d441030.jpg",
+        "https://telegra.ph/file/0d5168cccc415c6ae3a28.jpg",
+        "https://telegra.ph/file/3b8cdb32834041ee3e7b0.jpg",
+        "https://telegra.ph/file/5287101a153fd9a7d3188.jpg",
+        "https://telegra.ph/file/b96976edc36a4b601700d.jpg",
+        "https://telegra.ph/file/a4d37dc380bd32d7d3176.jpg",
+        "https://telegra.ph/file/fb4a96fd0a160c2be4cc7.jpg",
+        "https://telegra.ph/file/55d673a16f3a9294032d9.jpg",
+        "https://telegra.ph/file/e578d9ccc96b3f4b5e2d9.jpg",
+        "https://telegra.ph/file/8dcd0ac274a822dbc94b1.jpg",
+        "https://telegra.ph/file/b8be92bd13dcdbe3a8f29.jpg",
+        "https://telegra.ph/file/bc566e657d1e0e461a9d5.jpg",
+        "https://telegra.ph/file/0fe471ea546ec33ce4c11.jpg"
+    ]
+};

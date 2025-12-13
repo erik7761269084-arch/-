@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39523,
+    "title": "Fantasy Factory - Bicolor Demond",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Bicolor-Demond-08-16",
+    "images": [
+        "https://telegra.ph/file/d0f452913ff3c7a406054.jpg",
+        "https://telegra.ph/file/64b4ce17e8645555b278f.jpg",
+        "https://telegra.ph/file/d9004ea0db8a0b1cd6917.jpg",
+        "https://telegra.ph/file/c713f6ade8781c5949c03.jpg",
+        "https://telegra.ph/file/83e5107e59a60edc19077.jpg",
+        "https://telegra.ph/file/41a6de2d9bbe3d8024641.jpg",
+        "https://telegra.ph/file/93a1a8427aeca812737df.jpg",
+        "https://telegra.ph/file/391df9b844acc5d6f726d.jpg",
+        "https://telegra.ph/file/37f57998aa6da217eb654.jpg",
+        "https://telegra.ph/file/3d793f1c8e2c7739a09cc.jpg",
+        "https://telegra.ph/file/fe7bc0a43842b8a327b54.jpg",
+        "https://telegra.ph/file/2e5e929db8e30acfbe8e9.jpg",
+        "https://telegra.ph/file/174b02811dbcff2a22d76.jpg",
+        "https://telegra.ph/file/ce40db8528c64de2cfb59.jpg",
+        "https://telegra.ph/file/467b37802b3fa46d7427d.jpg",
+        "https://telegra.ph/file/578432007dfc1bfa71e1d.jpg",
+        "https://telegra.ph/file/89902d5effe88e225f318.jpg",
+        "https://telegra.ph/file/7045cebb5865c7a1704cc.jpg",
+        "https://telegra.ph/file/3505a744bc4fe97dfbc8c.jpg",
+        "https://telegra.ph/file/c6d49206e830f335caa3e.jpg",
+        "https://telegra.ph/file/ed0122b69a80b5b4d6655.jpg",
+        "https://telegra.ph/file/eafa45d3cdfd0313478c5.jpg",
+        "https://telegra.ph/file/321024686beeb8d49b165.jpg",
+        "https://telegra.ph/file/ec8c70312eba11def1e45.jpg",
+        "https://telegra.ph/file/47cdfaf7f9c48082fa24d.jpg",
+        "https://telegra.ph/file/563f1dfdb6c0bc2c78e13.jpg"
+    ]
+};

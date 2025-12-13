@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37805,
+    "title": "Queenie Chuppy - 2B Nun (Nier Automata)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---2B-Nun-Nier-Automata-06-07",
+    "images": [
+        "https://telegra.ph/file/c76cf1fdcb77d465f2383.jpg",
+        "https://telegra.ph/file/c0615eb66ecab1935af49.jpg",
+        "https://telegra.ph/file/72b01f5f4c0f9449c9c38.jpg",
+        "https://telegra.ph/file/192b8a043cab2d3f8a3de.jpg",
+        "https://telegra.ph/file/42d7d055c54908e0d1ad3.jpg",
+        "https://telegra.ph/file/e4705217fcf1029f96142.jpg",
+        "https://telegra.ph/file/aaee48773a17a2898d578.jpg",
+        "https://telegra.ph/file/1c73f07adfdb4f36e93c2.jpg",
+        "https://telegra.ph/file/d08c366c2f774f5a054df.jpg",
+        "https://telegra.ph/file/e69574a2cb1b88122dfe6.jpg",
+        "https://telegra.ph/file/d5edf72671ef8da09a1ef.jpg",
+        "https://telegra.ph/file/c0678657cfda79aadb0db.jpg",
+        "https://telegra.ph/file/00c169de554234a5acd87.jpg",
+        "https://telegra.ph/file/83cadaf0769e7a192e1cf.jpg",
+        "https://telegra.ph/file/3821b40a7b83ebc78a0c8.jpg",
+        "https://telegra.ph/file/df99a07229bced15d394f.jpg",
+        "https://telegra.ph/file/dd217b92c2ce99160842f.jpg",
+        "https://telegra.ph/file/e76b1b6d52ce328ad735f.jpg",
+        "https://telegra.ph/file/7526bf4afc3262557934f.jpg",
+        "https://telegra.ph/file/8ebf11835f7509594fa78.jpg",
+        "https://telegra.ph/file/8458b11aec3749c527600.jpg",
+        "https://telegra.ph/file/9b66d0d79c53f9ff51fe6.jpg",
+        "https://telegra.ph/file/fd2d35bfced49e9774408.jpg",
+        "https://telegra.ph/file/3604aa76ad7c10fb20b79.jpg",
+        "https://telegra.ph/file/ad7375b63278f03bfc3b1.jpg"
+    ]
+};

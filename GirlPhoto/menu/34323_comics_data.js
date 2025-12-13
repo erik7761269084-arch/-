@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34323,
+    "title": "Cosplay 星之迟迟Hoshilily 黛朵",
+    "sourceUrl": "https://telegra.ph/Cosplay-星之迟迟Hoshilily-黛朵-06-02",
+    "images": [
+        "https://telegra.ph/file/a4c028b57c49765de07fb.jpg",
+        "https://telegra.ph/file/a2c76ad10c7dd9bdbcf6c.jpg",
+        "https://telegra.ph/file/ef5df8088640956432582.jpg",
+        "https://telegra.ph/file/b13ce2275967407d842a9.jpg",
+        "https://telegra.ph/file/fc4f3b5269ef232fd4dac.jpg",
+        "https://telegra.ph/file/d2bb946127dc58ebd5c1f.jpg",
+        "https://telegra.ph/file/dc51ae6de93bdfaed5bc0.jpg",
+        "https://telegra.ph/file/a9712fd96f2c0b8831401.jpg",
+        "https://telegra.ph/file/5ed85e97faf990089d38c.jpg",
+        "https://telegra.ph/file/27304d14f5856a6a244de.jpg",
+        "https://telegra.ph/file/20b8d5ecf79f2fe652161.jpg",
+        "https://telegra.ph/file/0c544b407a943b84f44c6.jpg",
+        "https://telegra.ph/file/3d9b769e9931c13250df1.jpg",
+        "https://telegra.ph/file/527280a77f7d8505319e7.jpg",
+        "https://telegra.ph/file/46de095c86c12860ff27b.jpg",
+        "https://telegra.ph/file/11aeb7f206ec32d2d7ce1.jpg",
+        "https://telegra.ph/file/15b5cc7eafc5dfc8db692.jpg",
+        "https://telegra.ph/file/17f25d3bb52aeb827a101.jpg",
+        "https://telegra.ph/file/17064f1b013eb963b300c.jpg",
+        "https://telegra.ph/file/4af50573ae8e5a6faae01.jpg",
+        "https://telegra.ph/file/faf301c8f217cdb968f75.jpg",
+        "https://telegra.ph/file/f4b773a076d7848af69b5.jpg",
+        "https://telegra.ph/file/96c5792e5db86473f47c6.jpg",
+        "https://telegra.ph/file/71a88cadc5d9e954f188c.jpg",
+        "https://telegra.ph/file/f4f3a884403554394a783.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22532,
+    "title": "禅院熏 触手 [24P-210MB]",
+    "sourceUrl": "https://telegra.ph/%E7%A6%85%E9%99%A2%E7%86%8F-%E8%A7%A6%E6%89%8B-24P-210MB-11-12",
+    "images": [
+        "https://telegra.ph/file/f6312567beb3fcea0baa2.jpg",
+        "https://telegra.ph/file/e120d4e02ffef4421e296.jpg",
+        "https://telegra.ph/file/d706d3f954ee670f184f8.jpg",
+        "https://telegra.ph/file/c5b944f42b87046dc5570.jpg",
+        "https://telegra.ph/file/d75707517b815948cd2ec.jpg",
+        "https://telegra.ph/file/3f038a47a04c34f0cd288.jpg",
+        "https://telegra.ph/file/1d625b29cf2319ccbb463.jpg",
+        "https://telegra.ph/file/9388820d2b54c81890fa4.jpg",
+        "https://telegra.ph/file/36aa91f80cbe282ced6be.jpg",
+        "https://telegra.ph/file/7a31636d04b67571f0309.jpg",
+        "https://telegra.ph/file/088d70c2c508fa51ef470.jpg",
+        "https://telegra.ph/file/7cbf5a102ffaec774847d.jpg",
+        "https://telegra.ph/file/ad503db04fa8b9f528791.jpg",
+        "https://telegra.ph/file/7a0428ac4b3097102490e.jpg",
+        "https://telegra.ph/file/37439c9418b466add4190.jpg",
+        "https://telegra.ph/file/8dcb5d9492614d24cbb93.jpg",
+        "https://telegra.ph/file/181dffcec8677ac54c1c1.jpg",
+        "https://telegra.ph/file/f71da8df8769e89aa49e8.jpg",
+        "https://telegra.ph/file/9cd04c29213b2af9db74f.jpg",
+        "https://telegra.ph/file/80008f18b8a9fe59a2246.jpg",
+        "https://telegra.ph/file/d2a916b2c44a876e13124.jpg",
+        "https://telegra.ph/file/40e00855785fc767224e7.jpg",
+        "https://telegra.ph/file/3a694926faa4d016f2793.jpg",
+        "https://telegra.ph/file/f371092d07311a39f1ead.jpg"
+    ]
+};

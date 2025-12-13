@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22951,
+    "title": "Natsuko夏夏子 - NO.015 虎鲸 自摄 [25P-101MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO015-%E8%99%8E%E9%B2%B8-%E8%87%AA%E6%91%84-25P-101MB-12-29",
+    "images": [
+        "https://telegra.ph/file/145e81b831aeb45922227.jpg",
+        "https://telegra.ph/file/9b4be6a8dd33e1f2af657.jpg",
+        "https://telegra.ph/file/1a1822f888095e5e0b082.jpg",
+        "https://telegra.ph/file/8b7b56c93c85f1f3e1808.jpg",
+        "https://telegra.ph/file/4695b3ac7fd1304db935e.jpg",
+        "https://telegra.ph/file/e10392789d1e2c7cdd4ed.jpg",
+        "https://telegra.ph/file/f02c1382c770c9f3d43a3.jpg",
+        "https://telegra.ph/file/89f5d6e72824e28985c06.jpg",
+        "https://telegra.ph/file/707ba0f3edd36ff4e837d.jpg",
+        "https://telegra.ph/file/6e73a1ba88d677992e34d.jpg",
+        "https://telegra.ph/file/995815c14a169bde8563a.jpg",
+        "https://telegra.ph/file/88740409de831e594906c.jpg",
+        "https://telegra.ph/file/8a3e32fa90afbe914ed4d.jpg",
+        "https://telegra.ph/file/73203f83aca71a212d220.jpg",
+        "https://telegra.ph/file/c445cc1ccdfad672d1152.jpg",
+        "https://telegra.ph/file/fb3bc8f7c7e841d48c535.jpg",
+        "https://telegra.ph/file/7da63da7421c6926ce909.jpg",
+        "https://telegra.ph/file/15dc2adbd5e61c90ec9f6.jpg",
+        "https://telegra.ph/file/ffcc1a86ce20de7da12f3.jpg",
+        "https://telegra.ph/file/f0d9ecf16e913d378901b.jpg",
+        "https://telegra.ph/file/656e37eaeecbda25ea5ca.jpg",
+        "https://telegra.ph/file/04f97055f242ba5f8e922.jpg",
+        "https://telegra.ph/file/bcacdc5fbcfbbdc86be2d.jpg",
+        "https://telegra.ph/file/d4c389cbd528c054da6d1.jpg",
+        "https://telegra.ph/file/4e232dca9e1d6f66d561a.jpg"
+    ]
+};

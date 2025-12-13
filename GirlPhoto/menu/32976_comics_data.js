@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 32976,
+    "title": "是本末末 Cosplay 爱宕泳装 Atago",
+    "sourceUrl": "https://telegra.ph/是本末末-Cosplay-爱宕泳装-Atago-01-19",
+    "images": [
+        "https://telegra.ph/file/d6d96f7287b9ab59db99b.jpg",
+        "https://telegra.ph/file/9cc418e766784455922ca.jpg",
+        "https://telegra.ph/file/5fd9486a0198afc6648b2.jpg",
+        "https://telegra.ph/file/058f160cdf9e1844978a3.jpg",
+        "https://telegra.ph/file/c45467f7173b68e497e23.jpg",
+        "https://telegra.ph/file/9c1bf742dece1fc5a457b.jpg",
+        "https://telegra.ph/file/b3943b4e78f50afc4180a.jpg",
+        "https://telegra.ph/file/0eda0b36dcb5a985a6347.jpg",
+        "https://telegra.ph/file/19c48d31a9dd4bc1185d4.jpg",
+        "https://telegra.ph/file/a6ec84752ebe11b7e1d63.jpg",
+        "https://telegra.ph/file/6d35c7441caa28a039661.jpg",
+        "https://telegra.ph/file/63cb1c730e1801589473d.jpg",
+        "https://telegra.ph/file/dddae963a66cdf2cc0e01.jpg",
+        "https://telegra.ph/file/d86f056ac9f4c38c05672.jpg",
+        "https://telegra.ph/file/977296c2b444b580ec197.jpg",
+        "https://telegra.ph/file/8ee27e032ab255a71d766.jpg",
+        "https://telegra.ph/file/b38e8155c0db413b445e1.jpg",
+        "https://telegra.ph/file/b4d0ad571dc2c35b6c5c6.jpg",
+        "https://telegra.ph/file/fb4f4113fbdbda98f4fb5.jpg",
+        "https://telegra.ph/file/55e9d80cb35bfd6feebf0.jpg",
+        "https://telegra.ph/file/7651b418477e60d484314.jpg",
+        "https://telegra.ph/file/7777203140be7296944ad.jpg",
+        "https://telegra.ph/file/4ec6ec2a2573dd08493ca.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

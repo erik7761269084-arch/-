@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30063,
+    "title": "米线 鹿小姐（1月6打赏群资源）",
+    "sourceUrl": "https://telegra.ph/%E7%B1%B3%E7%BA%BF-%E9%B9%BF%E5%B0%8F%E5%A7%901%E6%9C%886%E6%89%93%E8%B5%8F%E7%BE%A4%E8%B5%84%E6%BA%90-01-06",
+    "images": [
+        "https://telegra.ph/file/9385a5b35fb430f786eb5.png",
+        "https://telegra.ph/file/021c80eb2c0c6462ade09.jpg",
+        "https://telegra.ph/file/e0d64f93f8806bbd25da5.jpg",
+        "https://telegra.ph/file/a9daa1162eeb99c0525e7.jpg",
+        "https://telegra.ph/file/d3b10d478db729f480817.jpg",
+        "https://telegra.ph/file/ca1b8914761aafdec0dca.jpg",
+        "https://telegra.ph/file/868cbe9b76e1411c57cc7.jpg",
+        "https://telegra.ph/file/79f26cfea5d5b5844f99a.jpg",
+        "https://telegra.ph/file/544cb540a4f623a4cdfca.jpg",
+        "https://telegra.ph/file/fad90e6480c1485450c4f.jpg",
+        "https://telegra.ph/file/d75bffae91822e65caf74.jpg",
+        "https://telegra.ph/file/3f2ca5ef25758182951de.jpg",
+        "https://telegra.ph/file/824a7da7caccbf452ac91.jpg",
+        "https://telegra.ph/file/27713ee893ce039c43666.jpg",
+        "https://telegra.ph/file/2f3c37cf2e22e14293e1b.jpg",
+        "https://telegra.ph/file/0b67429db1eb00e02041c.jpg",
+        "https://telegra.ph/file/4054b80afd0e07a2026f9.jpg",
+        "https://telegra.ph/file/265f3815bd2456edbccb3.jpg",
+        "https://telegra.ph/file/30de1540f96ebfd261efd.jpg",
+        "https://telegra.ph/file/33db43ee3fdb55c38583a.jpg",
+        "https://telegra.ph/file/ccd7048634e20b0f2485f.jpg",
+        "https://telegra.ph/file/bdb2c9d79e1aeedbe687a.jpg",
+        "https://telegra.ph/file/50b77a0158d0641a119fa.jpg"
+    ]
+};

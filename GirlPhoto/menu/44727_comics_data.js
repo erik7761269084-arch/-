@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44727,
+    "title": "凉凉子 - Yat Sen: Oath",
+    "sourceUrl": "https://telegra.ph/凉凉子---Yat-Sen-Oath-01-31",
+    "images": [
+        "https://telegra.ph/file/09dd299d76674a789a99d.jpg",
+        "https://telegra.ph/file/51870edf78111eb7ffed3.jpg",
+        "https://telegra.ph/file/5af5f71dbc18d32a6df18.jpg",
+        "https://telegra.ph/file/3efd99c7152f4fe66b3b3.jpg",
+        "https://telegra.ph/file/39abd6a7a2d60ca4736ca.jpg",
+        "https://telegra.ph/file/27734e79e01f7df29ca88.jpg",
+        "https://telegra.ph/file/708175bf741c5ad55048f.jpg",
+        "https://telegra.ph/file/7a0b9e977efecbbc282e2.jpg",
+        "https://telegra.ph/file/0f8e253299ed4a6c3b0ba.jpg",
+        "https://telegra.ph/file/f62ce28544d017b0f0a51.jpg",
+        "https://telegra.ph/file/3a69f68a62e5c9daa74aa.jpg",
+        "https://telegra.ph/file/04f460ce589079262f2c1.jpg",
+        "https://telegra.ph/file/ab986c0207d86b0851f56.jpg",
+        "https://telegra.ph/file/076c41ac3b1b425b727c8.jpg",
+        "https://telegra.ph/file/67f056c1f152b44b3f3d3.jpg",
+        "https://telegra.ph/file/c9f5cfa652c51aa3e8c1d.jpg",
+        "https://telegra.ph/file/d2733173021ebb70a76cd.jpg",
+        "https://telegra.ph/file/0d5922f847f3b306232f0.jpg",
+        "https://telegra.ph/file/543d9b1fd5d428300b565.jpg",
+        "https://telegra.ph/file/c4ff77153483b52cd0b1a.jpg",
+        "https://telegra.ph/file/0a5e22215b4dfc09ce82d.jpg",
+        "https://telegra.ph/file/1b526fabafa078b80b55d.jpg",
+        "https://telegra.ph/file/6a1aa8d3337a440e521d2.jpg",
+        "https://telegra.ph/file/f66dd787245e8652a2556.jpg",
+        "https://telegra.ph/file/9d012ea80d82e771f421c.jpg"
+    ]
+};

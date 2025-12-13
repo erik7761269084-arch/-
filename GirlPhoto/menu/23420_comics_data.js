@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23420,
+    "title": "铃木美咲 美脚的赐福-姬子篇",
+    "sourceUrl": "https://telegra.ph/%E9%93%83%E6%9C%A8%E7%BE%8E%E5%92%B2-%E7%BE%8E%E8%84%9A%E7%9A%84%E8%B5%90%E7%A6%8F-%E5%A7%AC%E5%AD%90%E7%AF%87-02-24",
+    "images": [
+        "https://telegra.ph/file/d4cbfa07b13d1c01ce493.jpg",
+        "https://telegra.ph/file/41d075fb52ab74f26baa3.jpg",
+        "https://telegra.ph/file/a8353533c8d10b75de86b.jpg",
+        "https://telegra.ph/file/a3e6e71198d5eead8e928.jpg",
+        "https://telegra.ph/file/0aa43081ec7c5cbbb17f0.jpg",
+        "https://telegra.ph/file/7b1a184eedfaab7e3117e.jpg",
+        "https://telegra.ph/file/6a86b63b84d5e595df4ab.jpg",
+        "https://telegra.ph/file/30f63502a9f91742f482b.jpg",
+        "https://telegra.ph/file/dd20c792fc35bcb7394d3.jpg",
+        "https://telegra.ph/file/ad2a3b09addc729b13c92.jpg",
+        "https://telegra.ph/file/8d82b5634cef57f4bcc43.jpg",
+        "https://telegra.ph/file/a8c12ef2b80e83aa1840c.jpg",
+        "https://telegra.ph/file/3de49415ef858eadec235.jpg",
+        "https://telegra.ph/file/735663ef367e87d950080.jpg",
+        "https://telegra.ph/file/984efd99127f6deb01e3b.jpg",
+        "https://telegra.ph/file/e9498e5040e1afc9a2be7.jpg",
+        "https://telegra.ph/file/b321d7aa2732f4f7dabee.jpg",
+        "https://telegra.ph/file/45ec6d989ada4eb10010a.jpg",
+        "https://telegra.ph/file/64539fb29018c6cd99f1c.jpg",
+        "https://telegra.ph/file/a6e9207544418921e0f56.jpg",
+        "https://telegra.ph/file/0479e05b25823f9f32629.jpg",
+        "https://telegra.ph/file/09ddc79ddf40cdb2ea76f.jpg",
+        "https://telegra.ph/file/b8af2ef3f0e683cce3f4f.jpg"
+    ]
+};

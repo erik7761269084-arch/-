@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32084,
+    "title": "Cosplay 蠢沫沫 Chunmomo 生日福利",
+    "sourceUrl": "https://telegra.ph/Cosplay-蠢沫沫-Chunmomo-生日福利-10-16",
+    "images": [
+        "https://telegra.ph/file/a23175d63cc981c23766b.jpg",
+        "https://telegra.ph/file/fc4b90aab8c45f4ef9bbf.jpg",
+        "https://telegra.ph/file/a03a19b5a7982e43248f4.jpg",
+        "https://telegra.ph/file/b97bc1e072828092c82f9.jpg",
+        "https://telegra.ph/file/1091ca9eb5399301732d0.jpg",
+        "https://telegra.ph/file/e670c37a46e745207a5b3.jpg",
+        "https://telegra.ph/file/f59f7b4e2de2e58cf88cf.jpg",
+        "https://telegra.ph/file/b24584dad6c8e9cc03939.jpg",
+        "https://telegra.ph/file/c240b6237a5a27a1ef4f1.jpg",
+        "https://telegra.ph/file/22b5c52e7ae20852d8d9c.jpg",
+        "https://telegra.ph/file/3e0fba36f3ca9517595b3.jpg",
+        "https://telegra.ph/file/3f48c4294ebc011c71825.jpg",
+        "https://telegra.ph/file/5dc0d8d6d3bc3afecfd25.jpg",
+        "https://telegra.ph/file/1ed56d615a9877c5ecefa.jpg",
+        "https://telegra.ph/file/9aff84438f792a6e7684f.jpg",
+        "https://telegra.ph/file/bacec8297deecf5a47a24.jpg",
+        "https://telegra.ph/file/5bc3e74d92ef663efaae7.jpg",
+        "https://telegra.ph/file/f42b11a2adce2fb953f9d.jpg",
+        "https://telegra.ph/file/9071f4265c92d8888fcc0.jpg",
+        "https://telegra.ph/file/ee7c2012fe6ef0938b6b1.jpg",
+        "https://telegra.ph/file/42063e3140624724c7c10.jpg",
+        "https://telegra.ph/file/41982b5fa2d953c113b3b.jpg",
+        "https://telegra.ph/file/f5d5a0d95759d722ad06d.jpg",
+        "https://telegra.ph/file/e285c6ce1f9b481bb4308.jpg",
+        "https://telegra.ph/file/19539379e3083620338eb.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

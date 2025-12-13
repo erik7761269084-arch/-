@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 29220,
+    "title": "[黄金二逼王] 油光酮体 25P",
+    "sourceUrl": "https://telegra.ph/%E9%BB%84%E9%87%91%E4%BA%8C%E9%80%BC%E7%8E%8B-%E6%B2%B9%E5%85%89%E9%85%AE%E4%BD%93-25P-03-23",
+    "images": [
+        "https://telegra.ph/file/70d9b6db3b80a1399d0c1.jpg",
+        "https://telegra.ph/file/a5e9289ef4ad23b2be4dc.jpg",
+        "https://telegra.ph/file/4202b92393a8845ac913c.jpg",
+        "https://telegra.ph/file/f31c74d742d17d74eb5ad.jpg",
+        "https://telegra.ph/file/b864f5e16c8f71517dd31.jpg",
+        "https://telegra.ph/file/b476d240bba9245b31958.jpg",
+        "https://telegra.ph/file/617298eac80ddaa4d2713.jpg",
+        "https://telegra.ph/file/2cba2e36bb7441da0f02a.jpg",
+        "https://telegra.ph/file/712e459a1be17e3687b46.jpg",
+        "https://telegra.ph/file/6d3e7c31dae483e9dbd39.jpg",
+        "https://telegra.ph/file/cb0a0c8e4a04cb02d7fd4.jpg",
+        "https://telegra.ph/file/56a2f3b0f5c6b8bce4a91.jpg",
+        "https://telegra.ph/file/02df8157021eff1876214.jpg",
+        "https://telegra.ph/file/3ecae7834c6ec7a4089c4.jpg",
+        "https://telegra.ph/file/aa83bb8641b4e2b79796b.jpg",
+        "https://telegra.ph/file/16b7b1e5c80fc436b6fc0.jpg",
+        "https://telegra.ph/file/98abdefb6cbd3887e428a.jpg",
+        "https://telegra.ph/file/446370c2891896bb4d80b.jpg",
+        "https://telegra.ph/file/b27aabffcd46082458309.jpg",
+        "https://telegra.ph/file/ccc147cfee6fadb06b403.jpg",
+        "https://telegra.ph/file/0321a4277a97d6357e097.jpg",
+        "https://telegra.ph/file/9a9fbc9ec730660851007.jpg",
+        "https://telegra.ph/file/e7716ae39da6a422148d2.jpg",
+        "https://telegra.ph/file/07713ce019971bbd26a3e.jpg",
+        "https://telegra.ph/file/4d9ab5679bfde265a529e.jpg"
+    ]
+};

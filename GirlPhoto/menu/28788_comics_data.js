@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28788,
+    "title": "夏美八重樱 24P",
+    "sourceUrl": "https://telegra.ph/%E5%A4%8F%E7%BE%8E%E5%85%AB%E9%87%8D%E6%A8%B1-24P-08-15",
+    "images": [
+        "https://telegra.ph/file/48c8b3884cc3e6ef56f0b.jpg",
+        "https://telegra.ph/file/db782eca810af3462135e.jpg",
+        "https://telegra.ph/file/08105aa410d1ca3b9815b.jpg",
+        "https://telegra.ph/file/de0239c9dfb09c4af8ce4.jpg",
+        "https://telegra.ph/file/7547a0e84015c01e38b38.jpg",
+        "https://telegra.ph/file/8fff1e13e4184bf1701a2.jpg",
+        "https://telegra.ph/file/d32a6de803a3580409721.jpg",
+        "https://telegra.ph/file/68323c53dfbe727254920.jpg",
+        "https://telegra.ph/file/b530c557f0a781c38c4b9.jpg",
+        "https://telegra.ph/file/90a43a5669fd41ab042b5.jpg",
+        "https://telegra.ph/file/ab217b76907a3912db7fc.jpg",
+        "https://telegra.ph/file/43c507aedfa5cc5bb291e.jpg",
+        "https://telegra.ph/file/c666d8cefc725bf81c5eb.jpg",
+        "https://telegra.ph/file/ff8a21f7f5b2e51bc2f35.jpg",
+        "https://telegra.ph/file/ddd538cf163e5a5714234.jpg",
+        "https://telegra.ph/file/d7687a63c8836271914b8.jpg",
+        "https://telegra.ph/file/5a53fccb398715fd994e4.jpg",
+        "https://telegra.ph/file/9af562c9fed5cac3414af.jpg",
+        "https://telegra.ph/file/48827051b4adc66248347.jpg",
+        "https://telegra.ph/file/4135cf9b40fa789b15551.jpg",
+        "https://telegra.ph/file/2ab4b5724226c205318d2.jpg",
+        "https://telegra.ph/file/eb2ae72eb340db6220d1e.jpg",
+        "https://telegra.ph/file/4f4119e02a7dfab1c4cf2.jpg",
+        "https://telegra.ph/file/fdc5b3298d93788c471a9.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31231,
+    "title": "[Messie Huang] Atchisson AA-12",
+    "sourceUrl": "https://telegra.ph/Messie-Huang-Atchisson-AA-12-08-16",
+    "images": [
+        "https://telegra.ph/file/efed9fc49d84f4d61cfc1.jpg",
+        "https://telegra.ph/file/0c8f7d047c74f051b0ec9.jpg",
+        "https://telegra.ph/file/c8fbd83f41227984062f1.jpg",
+        "https://telegra.ph/file/870aaacb28377bbb34cc3.jpg",
+        "https://telegra.ph/file/d91976b547b7c9558e2f6.jpg",
+        "https://telegra.ph/file/40a96b041c1848764fc70.jpg",
+        "https://telegra.ph/file/c098d0e6746ced90b929e.jpg",
+        "https://telegra.ph/file/c1eac931659afc0acb4a4.jpg",
+        "https://telegra.ph/file/26cda0c6a43c77a503c94.jpg",
+        "https://telegra.ph/file/2f402e4c711719f8339c5.jpg",
+        "https://telegra.ph/file/c500df5267a5763399f8f.jpg",
+        "https://telegra.ph/file/377d2a6112837aead0322.jpg",
+        "https://telegra.ph/file/5f09f0f82db07abc84a40.jpg",
+        "https://telegra.ph/file/b54044776529795444d7a.jpg",
+        "https://telegra.ph/file/de3c97ee9ff19a5e1543b.jpg",
+        "https://telegra.ph/file/cfab18a30ded92e654808.jpg",
+        "https://telegra.ph/file/68f2fb1a00f48456a3be2.jpg",
+        "https://telegra.ph/file/f02fbe477d856e1d4a357.jpg",
+        "https://telegra.ph/file/735e4ea3f08991bf24de4.jpg",
+        "https://telegra.ph/file/36c89f1faba4d32052ef7.jpg",
+        "https://telegra.ph/file/d25926c29978760000a00.jpg",
+        "https://telegra.ph/file/8bc515ba6323667249848.jpg",
+        "https://telegra.ph/file/b39cbbeb29f7395b9a457.jpg",
+        "https://telegra.ph/file/21efb0e50c6e699ddebf4.jpg",
+        "https://telegra.ph/file/70bc0fda19037cb57c8e8.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

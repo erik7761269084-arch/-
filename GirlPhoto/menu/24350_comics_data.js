@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24350,
+    "title": "[Cos]啊日日 - 吊挂式后辈[27P]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%95%8A%E6%97%A5%E6%97%A5---%E5%90%8A%E6%8C%82%E5%BC%8F%E5%90%8E%E8%BE%8827P-09-01",
+    "images": [
+        "https://telegra.ph/file/ad00f1f2fdf63b2098340.jpg",
+        "https://telegra.ph/file/fbbbf7d4e6a505ec8b387.jpg",
+        "https://telegra.ph/file/cea5d537c790aef8df795.jpg",
+        "https://telegra.ph/file/219cf971890c1384470a0.jpg",
+        "https://telegra.ph/file/373271348c44169e0d265.jpg",
+        "https://telegra.ph/file/032c1bc8c3d1fc459cd79.jpg",
+        "https://telegra.ph/file/7e4d96247e7365bf7d86d.jpg",
+        "https://telegra.ph/file/c6864df41c18a426f29d1.jpg",
+        "https://telegra.ph/file/d098efdb3491c93896f61.jpg",
+        "https://telegra.ph/file/3544adf0c7a5698d7c26e.jpg",
+        "https://telegra.ph/file/f63ea3994e446c9e3e0d1.jpg",
+        "https://telegra.ph/file/5d9efe6d74eb9e0b74368.jpg",
+        "https://telegra.ph/file/5cc3d5a81fdea200d7c03.jpg",
+        "https://telegra.ph/file/e24ee806dde561c028b51.jpg",
+        "https://telegra.ph/file/e7d8ffd1f983af736aade.jpg",
+        "https://telegra.ph/file/ee4fd559948a664c0879c.jpg",
+        "https://telegra.ph/file/80c17d828dee68901646d.jpg",
+        "https://telegra.ph/file/776d716aef1377f6b3618.jpg",
+        "https://telegra.ph/file/88e4ff37afabec8b5e700.jpg",
+        "https://telegra.ph/file/449bd937c4d49a3536b9e.jpg",
+        "https://telegra.ph/file/0b0f1ad0048c081715fbd.jpg",
+        "https://telegra.ph/file/9f78dff16ce8c08a9dcb5.jpg",
+        "https://telegra.ph/file/018fc5e69d5983a2901ca.jpg",
+        "https://telegra.ph/file/6f9387a0dccc3d4b27568.jpg",
+        "https://telegra.ph/file/8af2ac97283570664a66f.jpg"
+    ]
+};

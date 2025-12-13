@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38418,
+    "title": "Alina Becker - Ankha (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Alina-Becker---Ankha-Random-Cosplay-10-30",
+    "images": [
+        "https://telegra.ph/file/96bf6cc13a100c7ba8d09.jpg",
+        "https://telegra.ph/file/86a717b5771c1ed415c27.jpg",
+        "https://telegra.ph/file/173b807768f4559aa8f84.jpg",
+        "https://telegra.ph/file/9a1905e7742fbf34173d6.jpg",
+        "https://telegra.ph/file/00cae052410f57b147622.jpg",
+        "https://telegra.ph/file/fecd222dbf40c5d8714fb.jpg",
+        "https://telegra.ph/file/4279d7430529babb6784a.jpg",
+        "https://telegra.ph/file/c2b7eb4c38571d7f69ae9.jpg",
+        "https://telegra.ph/file/63dcc5df4d032e12f0876.jpg",
+        "https://telegra.ph/file/85ff817f2f2e4d3ffe730.jpg",
+        "https://telegra.ph/file/59f263b714b713df7d056.jpg",
+        "https://telegra.ph/file/61d96c6f1dc2da48aa834.jpg",
+        "https://telegra.ph/file/ce709f62d2813b54b9a7e.jpg",
+        "https://telegra.ph/file/a9fd77d2672a966bdd3e5.jpg",
+        "https://telegra.ph/file/c2142278c05b3331c1228.jpg",
+        "https://telegra.ph/file/8147aaee1922fb47b351b.jpg",
+        "https://telegra.ph/file/55b3b6234c53199e1ee07.jpg",
+        "https://telegra.ph/file/61581960169250ab1c4e5.jpg",
+        "https://telegra.ph/file/fda63e71afcddb981d154.jpg",
+        "https://telegra.ph/file/2b5c1e8b8e8fd7b3974c8.jpg",
+        "https://telegra.ph/file/29ba47c3b51dfa24502ee.jpg",
+        "https://telegra.ph/file/7dba04dd191b1576dffdb.jpg",
+        "https://telegra.ph/file/a4e8396500ec37198f5b4.jpg"
+    ]
+};

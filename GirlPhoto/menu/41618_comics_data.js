@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41618,
+    "title": "Potato Godzilla - Student",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Student-06-20",
+    "images": [
+        "https://telegra.ph/file/01f173ee4f33cb9801444.jpg",
+        "https://telegra.ph/file/f36b1735f24568d806f91.jpg",
+        "https://telegra.ph/file/55518ddf6f143b2c0eea1.jpg",
+        "https://telegra.ph/file/f830d705f3a4fb87f9bb6.jpg",
+        "https://telegra.ph/file/6aa1eec710d069ac8de01.jpg",
+        "https://telegra.ph/file/fff12b3aefb6d08aa08a2.jpg",
+        "https://telegra.ph/file/02eba65bc694e66d1ba78.jpg",
+        "https://telegra.ph/file/cec757ae845eb4294abda.jpg",
+        "https://telegra.ph/file/839a5b1f7a15794bda226.jpg",
+        "https://telegra.ph/file/7db1a67ee77ce426a0ee9.jpg",
+        "https://telegra.ph/file/5bc179b16d38029c814c3.jpg",
+        "https://telegra.ph/file/dc0580758369f81cc11ef.jpg",
+        "https://telegra.ph/file/4e1650a3444905e2d685d.jpg",
+        "https://telegra.ph/file/e078d8522a79baeb194de.jpg",
+        "https://telegra.ph/file/f1314ff6b5f3059a4a763.jpg",
+        "https://telegra.ph/file/567bbaaa9e808cb981e02.jpg",
+        "https://telegra.ph/file/2342cd5d7e9a3695739db.jpg",
+        "https://telegra.ph/file/c1220ed2e1bd8c13ffa2d.jpg",
+        "https://telegra.ph/file/4f6c1c921cbc56aba3901.jpg",
+        "https://telegra.ph/file/c110554c3837ba431d2b9.jpg",
+        "https://telegra.ph/file/ddd1327d47e6a6dab7038.jpg",
+        "https://telegra.ph/file/2c24f8cc7c79008371f41.jpg",
+        "https://telegra.ph/file/183f5be116a677e389f45.jpg",
+        "https://telegra.ph/file/06a477af9da21f4a92d8c.jpg",
+        "https://telegra.ph/file/7cc73f04d3b7c5511ad40.jpg"
+    ]
+};

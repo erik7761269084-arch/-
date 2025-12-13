@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31584,
+    "title": "[一北亦北] 玛修同人服",
+    "sourceUrl": "https://telegra.ph/一北亦北-玛修同人服-08-16",
+    "images": [
+        "https://telegra.ph/file/8e62cabc46d0ab115bee6.jpg",
+        "https://telegra.ph/file/a3610b65bff056b6f8db4.jpg",
+        "https://telegra.ph/file/e2a4abd2df910bd48eee6.jpg",
+        "https://telegra.ph/file/b2644d5626543ded42740.jpg",
+        "https://telegra.ph/file/fe6e509aa2a8e6c59d2a7.jpg",
+        "https://telegra.ph/file/ceac73bccb4e7c32d3cd2.jpg",
+        "https://telegra.ph/file/c14376bddda0cf274c155.jpg",
+        "https://telegra.ph/file/7ec485a0ea6371f863703.jpg",
+        "https://telegra.ph/file/49d600f0d512ad57f7196.jpg",
+        "https://telegra.ph/file/663d80b3fc9995f1af7d7.jpg",
+        "https://telegra.ph/file/457048d991205b96284f1.jpg",
+        "https://telegra.ph/file/eede4eaa198670c77e239.jpg",
+        "https://telegra.ph/file/17e6b575bee4336d9facc.jpg",
+        "https://telegra.ph/file/bbcca9fb0c1fd0472aab5.jpg",
+        "https://telegra.ph/file/b14a116d7a70a24981744.jpg",
+        "https://telegra.ph/file/7f915b536f3f407b6432a.jpg",
+        "https://telegra.ph/file/74f5290b4beb38e128f37.jpg",
+        "https://telegra.ph/file/eb786f6cef97cfa18f0f3.jpg",
+        "https://telegra.ph/file/31e994e34bdf991c9fc96.jpg",
+        "https://telegra.ph/file/20f45b6256e44aeebb63c.jpg",
+        "https://telegra.ph/file/20e7f37596ecca23296e0.jpg",
+        "https://telegra.ph/file/1cbb703af4ad227b01bc1.jpg",
+        "https://telegra.ph/file/9bd0f0d2984ea7a52f510.jpg",
+        "https://telegra.ph/file/77d9113e434baf6546d55.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

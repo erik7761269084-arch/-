@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25300,
+    "title": "[Cos]九曲Jean - 大凤机车[24P]",
+    "sourceUrl": "https://telegra.ph/Cos%E4%B9%9D%E6%9B%B2Jean---%E5%A4%A7%E5%87%A4%E6%9C%BA%E8%BD%A624P-06-18",
+    "images": [
+        "https://telegra.ph/file/b4b2f60c832fff259132b.jpg",
+        "https://telegra.ph/file/2fcf298fce226f3d5bccb.jpg",
+        "https://telegra.ph/file/ca6cfe6263c220760e814.jpg",
+        "https://telegra.ph/file/7a9bc0cf066392925a9bf.jpg",
+        "https://telegra.ph/file/9317d80ab1e6283a76f61.jpg",
+        "https://telegra.ph/file/b5a21a52cf8b7c6ae0c55.jpg",
+        "https://telegra.ph/file/de96729f799c38d64d560.jpg",
+        "https://telegra.ph/file/35e69b674e6fefd7f143a.jpg",
+        "https://telegra.ph/file/fd7e7826ba8dd9263e160.jpg",
+        "https://telegra.ph/file/77058fc295fdd323caf78.jpg",
+        "https://telegra.ph/file/ae9ac42166a6d1dc2e0a6.jpg",
+        "https://telegra.ph/file/8db69e86d0314639e29be.jpg",
+        "https://telegra.ph/file/cb3771e89189d18f17409.jpg",
+        "https://telegra.ph/file/3ff52cbc81440e845905b.jpg",
+        "https://telegra.ph/file/6ef49098dc8ccf19b0c57.jpg",
+        "https://telegra.ph/file/4069cb615fc091a6090c6.jpg",
+        "https://telegra.ph/file/28e4c8d5010958b589aeb.jpg",
+        "https://telegra.ph/file/5765e76b8a548e58e6000.jpg",
+        "https://telegra.ph/file/409fc9e43166a1d9330ce.jpg",
+        "https://telegra.ph/file/be17b1502176898c1326e.jpg",
+        "https://telegra.ph/file/ab86b88c5cf82a369fd68.jpg",
+        "https://telegra.ph/file/deb19277db5d65deb9a15.jpg",
+        "https://telegra.ph/file/e64a590dfb58cd3103ca3.jpg",
+        "https://telegra.ph/file/bfe272606d4213b31e870.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22626,
+    "title": "Asagiriai（愛ちゃん）- NO.009 常服自拍 [24P-81MB]",
+    "sourceUrl": "https://telegra.ph/Asagiriai%E6%84%9B%E3%81%A1%E3%82%83%E3%82%93--NO009-%E5%B8%B8%E6%9C%8D%E8%87%AA%E6%8B%8D-24P-81MB-11-29",
+    "images": [
+        "https://telegra.ph/file/27097ca1588d8611eee07.jpg",
+        "https://telegra.ph/file/580f84442db76f0e10e3a.jpg",
+        "https://telegra.ph/file/ee2d77067952ba712515b.jpg",
+        "https://telegra.ph/file/be4d2c1ad6c45b6ae9957.jpg",
+        "https://telegra.ph/file/4d2fa35633bb82d511ddc.jpg",
+        "https://telegra.ph/file/09bf415a9fd9f0703b29c.jpg",
+        "https://telegra.ph/file/aa0b2ef8367f8a5d27b54.jpg",
+        "https://telegra.ph/file/c28cf5e68e47249b1e971.jpg",
+        "https://telegra.ph/file/58054d7f4cdc9e9f2b164.jpg",
+        "https://telegra.ph/file/b7e1e6702803ce298c04f.jpg",
+        "https://telegra.ph/file/f5f593a9b9072600f6a8e.jpg",
+        "https://telegra.ph/file/f13b334e8479cb71f58c1.jpg",
+        "https://telegra.ph/file/542d758156e2cac9d21dc.jpg",
+        "https://telegra.ph/file/e0f0f058e143a2a710094.jpg",
+        "https://telegra.ph/file/a6ed0fb4969048ca9fc55.jpg",
+        "https://telegra.ph/file/41bed468d9b48564fba58.jpg",
+        "https://telegra.ph/file/b4c75a4f0e7c7f3985573.jpg",
+        "https://telegra.ph/file/22ff718f0561ece108e33.jpg",
+        "https://telegra.ph/file/4367244ec368eccf1133a.jpg",
+        "https://telegra.ph/file/c003ee446ea4e66691ce6.jpg",
+        "https://telegra.ph/file/bd78370fb9bd29e95382a.jpg",
+        "https://telegra.ph/file/b7ed6d17a701035133c98.jpg",
+        "https://telegra.ph/file/fb22b8c4764e780e700b5.jpg",
+        "https://telegra.ph/file/cc7469fb695b54d5024e4.jpg"
+    ]
+};

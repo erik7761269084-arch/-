@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39839,
+    "title": "Shirogane Sama - Kitagawa Marin (Sono Bisque Doll Wa Koi Wo Suru)",
+    "sourceUrl": "https://telegra.ph/Shirogane-Sama---Kitagawa-Marin-Sono-Bisque-Doll-Wa-Koi-Wo-Suru-11-05",
+    "images": [
+        "https://telegra.ph/file/1e61e85bc73953915d7f6.jpg",
+        "https://telegra.ph/file/eb8b71570a7ee8816c6c2.jpg",
+        "https://telegra.ph/file/dabe8e59a6fb63c5f487d.jpg",
+        "https://telegra.ph/file/3f45fc3325305276d8fa0.jpg",
+        "https://telegra.ph/file/7f5e0dcd520d7a0321afd.jpg",
+        "https://telegra.ph/file/f350d9f380c1677e99ddb.jpg",
+        "https://telegra.ph/file/9772d94c313465eb281c2.jpg",
+        "https://telegra.ph/file/5a752c46d83825d176bde.jpg",
+        "https://telegra.ph/file/adb829c09fa139fe7808c.jpg",
+        "https://telegra.ph/file/64e8d2a4fd9bdd534761e.jpg",
+        "https://telegra.ph/file/762fcc31ce42deb76afa4.jpg",
+        "https://telegra.ph/file/ed8b7ffcd95809a4cd19b.jpg",
+        "https://telegra.ph/file/37c7909d576ddf89f0b56.jpg",
+        "https://telegra.ph/file/aeb76a6b5dcbc0ecbd8f1.jpg",
+        "https://telegra.ph/file/581b12d86a5b9c6ea7385.jpg",
+        "https://telegra.ph/file/a29ce81dbcb00ba318a24.jpg",
+        "https://telegra.ph/file/1db5ba674e2e3b002b38b.jpg",
+        "https://telegra.ph/file/cdd883846a1aa7d859f22.jpg",
+        "https://telegra.ph/file/cabf21d90f57e59ccd6a8.jpg",
+        "https://telegra.ph/file/6da5521344373f3c116fb.jpg",
+        "https://telegra.ph/file/3d9e32323604d807f5c1e.jpg",
+        "https://telegra.ph/file/e452cfc975416d3e48828.jpg",
+        "https://telegra.ph/file/48872a89a3225c7c4ce65.jpg",
+        "https://telegra.ph/file/129911ce0d2b3f3cb002f.jpg",
+        "https://telegra.ph/file/581c988fd55d6bf92448d.jpg"
+    ]
+};

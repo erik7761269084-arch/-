@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 45678,
+    "title": "Azami - Noelle - Page 1",
+    "sourceUrl": "https://telegra.ph/Azami---Noelle---Page-1-10-16",
+    "images": [
+        "https://telegra.ph/file/08eb1e2c1c2463c3d5ec9.jpg",
+        "https://telegra.ph/file/b7a2dd407dc6c619243e7.jpg",
+        "https://telegra.ph/file/b6538fd466876bce1f18b.jpg",
+        "https://telegra.ph/file/440fc3a928850bff45b21.jpg",
+        "https://telegra.ph/file/860c73ffc0b5a8ed50a65.jpg",
+        "https://telegra.ph/file/91503fd28d0696d911a12.jpg",
+        "https://telegra.ph/file/dddd913f38d7dd8a93276.jpg",
+        "https://telegra.ph/file/6c6748d4f42b55f5d5378.jpg",
+        "https://telegra.ph/file/7a79d157afd1cb78ed1a2.jpg",
+        "https://telegra.ph/file/5aa9bf64d7520ab6eea50.jpg",
+        "https://telegra.ph/file/1221cd78fc8c13a81584d.jpg",
+        "https://telegra.ph/file/6fc2a732307788c7a5bd9.jpg",
+        "https://telegra.ph/file/c20208cc8ddd480f41688.jpg",
+        "https://telegra.ph/file/df279401b0f4c3af089c3.jpg",
+        "https://telegra.ph/file/02174665225c758dd1b66.jpg",
+        "https://telegra.ph/file/873243445a5d91f70fceb.jpg",
+        "https://telegra.ph/file/de71a53bf67ebc3510626.jpg",
+        "https://telegra.ph/file/de50fb84185061b590c7c.jpg",
+        "https://telegra.ph/file/f70df5cccf3d588a24c3b.jpg",
+        "https://telegra.ph/file/a2c149470c82d212ebdce.jpg",
+        "https://telegra.ph/file/23b30056ea24942dcd127.jpg",
+        "https://telegra.ph/file/715bb483b9eb7b712327f.jpg",
+        "https://telegra.ph/file/559a23585f4ef6491b96b.jpg",
+        "https://telegra.ph/file/a511272a6e8145af79849.jpg",
+        "https://telegra.ph/file/ebe24f4fb3178312887f0.jpg",
+        "https://telegra.ph/file/4d57dca6424b5a4aba63d.jpg"
+    ]
+};

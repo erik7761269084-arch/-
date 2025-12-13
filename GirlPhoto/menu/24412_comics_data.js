@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 24412,
+    "title": "半半子 - 今日は黑 – 视图26P1V95MB",
+    "sourceUrl": "https://telegra.ph/%E5%8D%8A%E5%8D%8A%E5%AD%90---%E4%BB%8A%E6%97%A5%E3%81%AF%E9%BB%91--%E8%A7%86%E5%9B%BE26P1V95MB-05-10",
+    "images": [
+        "https://telegra.ph/file/c0aa331cdaee9cadc0c84.jpg",
+        "https://telegra.ph/file/f91fb736663d5c17b16bc.jpg",
+        "https://telegra.ph/file/4a0c14249d5cb4ca5b882.jpg",
+        "https://telegra.ph/file/3e24514cf71bcd8e781f1.jpg",
+        "https://telegra.ph/file/ace0fbf1dad7775359ea8.jpg",
+        "https://telegra.ph/file/14d26815b2650b4e4d010.jpg",
+        "https://telegra.ph/file/3f80eb16ef5b28e5f9798.jpg",
+        "https://telegra.ph/file/f46b57a84bd88c090bf41.jpg",
+        "https://telegra.ph/file/aff654931e155cbde14e1.jpg",
+        "https://telegra.ph/file/23f53d5372c5d80ad51d5.jpg",
+        "https://telegra.ph/file/4f5a4b11ed3513c52d7a9.jpg",
+        "https://telegra.ph/file/7eac91f2eab18322bda6a.jpg",
+        "https://telegra.ph/file/b4a143cee184b54f3876d.jpg",
+        "https://telegra.ph/file/d42d306bdbacd5461988f.jpg",
+        "https://telegra.ph/file/197e3e6aa473034a76907.jpg",
+        "https://telegra.ph/file/52652d04c3acb36db50be.jpg",
+        "https://telegra.ph/file/69b62dd773161ad7b7366.jpg",
+        "https://telegra.ph/file/94bab5b0f03e8041386b2.jpg",
+        "https://telegra.ph/file/fb63e4461413602508f37.jpg",
+        "https://telegra.ph/file/6c2ad9122be59091247af.jpg",
+        "https://telegra.ph/file/78a712abe9c20b9b4427d.jpg",
+        "https://telegra.ph/file/2e881167c221d1b512e94.jpg",
+        "https://telegra.ph/file/80220a16ebd9f25ebd348.jpg",
+        "https://telegra.ph/file/ec4b66da297f2d36505c2.jpg",
+        "https://telegra.ph/file/fb87831fbc9b1d6eb6fd1.jpg",
+        "https://telegra.ph/file/4846c305dc8ff9d12bb07.jpg"
+    ]
+};

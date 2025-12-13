@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37836,
+    "title": "Potato Godzilla - Hatsune Miku (Senbonsakura)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Hatsune-Miku-Senbonsakura-06-11",
+    "images": [
+        "https://telegra.ph/file/27e6c37d5e6c6f5860b62.jpg",
+        "https://telegra.ph/file/35e3bc42ed2dbfd3c65d1.jpg",
+        "https://telegra.ph/file/db983106aa7ee5451829d.jpg",
+        "https://telegra.ph/file/13f8859ed935157653cf2.jpg",
+        "https://telegra.ph/file/9a1e3a5de9cf43cd36b8d.jpg",
+        "https://telegra.ph/file/74166e5cdb2adf7c7bffc.jpg",
+        "https://telegra.ph/file/9e28b6ae100a50a0f7b51.jpg",
+        "https://telegra.ph/file/16e453155ab8d08b17705.jpg",
+        "https://telegra.ph/file/8388caa5468a4bbc608b6.jpg",
+        "https://telegra.ph/file/1b04d55d614170d225dee.jpg",
+        "https://telegra.ph/file/5081ffde0ad574daa4516.jpg",
+        "https://telegra.ph/file/585d07346738e7c8ab0aa.jpg",
+        "https://telegra.ph/file/480f23c7bd4dff1068937.jpg",
+        "https://telegra.ph/file/36b0591cead6c74882299.jpg",
+        "https://telegra.ph/file/d5c16e7c34549c8b498b8.jpg",
+        "https://telegra.ph/file/cab0ee028389f4a5ef152.jpg",
+        "https://telegra.ph/file/ceea6783a236f326eda80.jpg",
+        "https://telegra.ph/file/352fc01b7a1ad392e9a65.jpg",
+        "https://telegra.ph/file/7dcaf4b3fcb4e76a9bb74.jpg",
+        "https://telegra.ph/file/e55f0a7601fba70305ebc.jpg",
+        "https://telegra.ph/file/5cb7ffe66f34af932a9b8.jpg",
+        "https://telegra.ph/file/747a8a130079a5dd9237f.jpg",
+        "https://telegra.ph/file/fbb0e396ad5ecdca51a64.jpg",
+        "https://telegra.ph/file/9a783d1bd4afdbca3b574.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34959,
+    "title": "Seoe 박서이, HONGDAN Vol.06 Photobook Set.02",
+    "sourceUrl": "https://telegra.ph/Seoe-박서이-HONGDAN-Vol06-Photobook-Set02-08-06",
+    "images": [
+        "https://telegra.ph/file/8dabe427845695cfece34.jpg",
+        "https://telegra.ph/file/6211a3a1e69a102260943.jpg",
+        "https://telegra.ph/file/2369a120ab6940a0d2893.jpg",
+        "https://telegra.ph/file/4e814c43807e7b3588777.jpg",
+        "https://telegra.ph/file/93910f05a71dfeb88fa6c.jpg",
+        "https://telegra.ph/file/f5c7b46a0908b1f40320f.jpg",
+        "https://telegra.ph/file/c2b89eeca0af2237b7f1e.jpg",
+        "https://telegra.ph/file/948cec19cdaa12fb9966e.jpg",
+        "https://telegra.ph/file/71cc0332c5bf64dd29d4d.jpg",
+        "https://telegra.ph/file/905c1cb160b2e2896f57a.jpg",
+        "https://telegra.ph/file/3c9f44963412fa90e29a1.jpg",
+        "https://telegra.ph/file/d3b8a2a328c8addcedcb6.jpg",
+        "https://telegra.ph/file/7b540aca931b35f5764b2.jpg",
+        "https://telegra.ph/file/b9934ebc4f47fd29a4a73.jpg",
+        "https://telegra.ph/file/61a7b3c6626e4b2f7ac38.jpg",
+        "https://telegra.ph/file/c41f3dcfa30508479b08f.jpg",
+        "https://telegra.ph/file/25eb27440e0e3d8be33ca.jpg",
+        "https://telegra.ph/file/873185f82ff6275e9279f.jpg",
+        "https://telegra.ph/file/cc636c626003958bbc4fd.jpg",
+        "https://telegra.ph/file/d9e9289c9c9934f4b0829.jpg",
+        "https://telegra.ph/file/528f90db7ce536a113aa0.jpg",
+        "https://telegra.ph/file/5184bd87d7d6c27aa84d1.jpg",
+        "https://telegra.ph/file/adcc8bba37a9e8565186f.jpg",
+        "https://telegra.ph/file/5dcd1617c883bc11f9b5a.jpg",
+        "https://telegra.ph/file/199c6e6115886be3da746.jpg"
+    ]
+};

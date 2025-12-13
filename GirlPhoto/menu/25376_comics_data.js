@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25376,
+    "title": "[Cos]凉凉子 - 精灵姐姐[31P+5V]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%87%89%E5%87%89%E5%AD%90---%E7%B2%BE%E7%81%B5%E5%A7%90%E5%A7%9031P5V-07-24",
+    "images": [
+        "https://telegra.ph/file/56487f2db655bb9761b5a.jpg",
+        "https://telegra.ph/file/bcd7665b0886f93cdc76b.jpg",
+        "https://telegra.ph/file/a3e58b1d9b8de9a380464.jpg",
+        "https://telegra.ph/file/5ac2d22069191f85d5320.jpg",
+        "https://telegra.ph/file/bf0965efe30a7a5b0cad7.jpg",
+        "https://telegra.ph/file/b1a58ed52008cafdc6cc3.jpg",
+        "https://telegra.ph/file/6002e843a609bcce33eef.jpg",
+        "https://telegra.ph/file/d5b7fda32a34dfc0ec711.jpg",
+        "https://telegra.ph/file/47550f05fba46ada7a94f.jpg",
+        "https://telegra.ph/file/7d1c9cb27c40005a16d42.jpg",
+        "https://telegra.ph/file/9db1dfafeec78a81c052c.jpg",
+        "https://telegra.ph/file/a60c6da889955a9619780.jpg",
+        "https://telegra.ph/file/a7b37afcb79d749588a8f.jpg",
+        "https://telegra.ph/file/7c8eccfddb9f9130d0c27.jpg",
+        "https://telegra.ph/file/b2b816b5e7e820d655a34.jpg",
+        "https://telegra.ph/file/3c761276e21f7fa505e32.jpg",
+        "https://telegra.ph/file/ece18acafbf48a27cb944.jpg",
+        "https://telegra.ph/file/59f055ca60592f4b09994.jpg",
+        "https://telegra.ph/file/3d0d15f0f589350211284.jpg",
+        "https://telegra.ph/file/5fd6813bf76b9ed8d6e8e.jpg",
+        "https://telegra.ph/file/b0ae55e7ec48c790a7202.jpg",
+        "https://telegra.ph/file/9a36fdadcc1e1410e1e81.jpg",
+        "https://telegra.ph/file/aebaf1c171632de020adc.jpg",
+        "https://telegra.ph/file/3e9ae1cf67077c514692d.jpg"
+    ]
+};

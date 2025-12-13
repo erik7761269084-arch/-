@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39517,
+    "title": "Fantasy Factory - Yuukyuu Kikan Elf",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Yuukyuu-Kikan-Elf-08-16",
+    "images": [
+        "https://telegra.ph/file/1e137776f585a0587646f.jpg",
+        "https://telegra.ph/file/edd0805fb6653468895b4.jpg",
+        "https://telegra.ph/file/874bbb5c55accb2253eca.jpg",
+        "https://telegra.ph/file/6dd7fd880daae27788f5e.jpg",
+        "https://telegra.ph/file/ad59702e63e5f367a7fb8.jpg",
+        "https://telegra.ph/file/796224e38ca9f72b15d66.jpg",
+        "https://telegra.ph/file/c0357345c3a0801a515c3.jpg",
+        "https://telegra.ph/file/01f3a612ca8bbd245bcc0.jpg",
+        "https://telegra.ph/file/4b5a106a7c88286cd28aa.jpg",
+        "https://telegra.ph/file/fffe81a3c6b0a4ed2c016.jpg",
+        "https://telegra.ph/file/31a88005793e8d8336e25.jpg",
+        "https://telegra.ph/file/becae2f4ba8239fad6633.jpg",
+        "https://telegra.ph/file/9f735ee97cc9847ea903d.jpg",
+        "https://telegra.ph/file/0add40ca9a45dc284ac46.jpg",
+        "https://telegra.ph/file/18aa6de404e075b313214.jpg",
+        "https://telegra.ph/file/fb9ec058dfb2bee670f46.jpg",
+        "https://telegra.ph/file/4e739b864a0bca86c2730.jpg",
+        "https://telegra.ph/file/7fce48225e3dc7aa2018e.jpg",
+        "https://telegra.ph/file/8153e8663876231c65e1e.jpg",
+        "https://telegra.ph/file/f89c99cc141476fae33c2.jpg",
+        "https://telegra.ph/file/543477b76fe86e6f7a478.jpg",
+        "https://telegra.ph/file/cd0a0d557b13da3aa4331.jpg",
+        "https://telegra.ph/file/3408aeee6b091ff80d277.jpg",
+        "https://telegra.ph/file/fd100f395cb675b87c2db.jpg"
+    ]
+};

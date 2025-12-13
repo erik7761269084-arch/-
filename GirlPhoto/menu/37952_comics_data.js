@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37952,
+    "title": "Queenie Chuppy - Rem (Re: Zero)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Rem-Re-Zero-06-26",
+    "images": [
+        "https://telegra.ph/file/9397699a9544bba234765.jpg",
+        "https://telegra.ph/file/b41b72851ca72371559f8.jpg",
+        "https://telegra.ph/file/db1057aae7bfe87cda00b.jpg",
+        "https://telegra.ph/file/3d3aa7b55ef042ba4d338.jpg",
+        "https://telegra.ph/file/e83f2464cebe2c2f2999c.jpg",
+        "https://telegra.ph/file/f0eaf3c9b00a28ebfe778.jpg",
+        "https://telegra.ph/file/5a8f874f13b3aa50e017a.jpg",
+        "https://telegra.ph/file/3e0fd325b0f8f1af28ff3.jpg",
+        "https://telegra.ph/file/f005b950fede2c8ecb892.jpg",
+        "https://telegra.ph/file/2221f0dc7c17cea6a7e04.jpg",
+        "https://telegra.ph/file/e2c791627f1d19506f645.jpg",
+        "https://telegra.ph/file/bcda8ecbb0a1ac42678c0.jpg",
+        "https://telegra.ph/file/82831fe0e75d1ea3453dd.jpg",
+        "https://telegra.ph/file/5c628b141501a120fabc9.jpg",
+        "https://telegra.ph/file/abd43b555180ad9fc9af1.jpg",
+        "https://telegra.ph/file/7c5fea07dd5afb83feec1.jpg",
+        "https://telegra.ph/file/2c166b75fc40a64c8b3eb.jpg",
+        "https://telegra.ph/file/96fabe1028dedef406fec.jpg",
+        "https://telegra.ph/file/a02327ba4eb25f9069b43.jpg",
+        "https://telegra.ph/file/43e68c0422f9b190d62a9.jpg",
+        "https://telegra.ph/file/9dc3c0c0375c866731125.jpg",
+        "https://telegra.ph/file/6747c76a91c7f32aedf30.jpg",
+        "https://telegra.ph/file/3e3a7c1b68b93beefd365.jpg",
+        "https://telegra.ph/file/15b0c35049b42bdcf8d8d.jpg",
+        "https://telegra.ph/file/7b4d72dc8b71fea76e649.jpg"
+    ]
+};

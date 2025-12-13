@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30872,
+    "title": "漂泊在網咖渡日的少女婕咪 睡夢中被扒光啪啪啪 Vol.03",
+    "sourceUrl": "https://telegra.ph/漂泊在網咖渡日的少女婕咪-睡夢中被扒光啪啪啪-Vol03-07-21",
+    "images": [
+        "https://telegra.ph/file/07c0247a016c552a3b911.jpg",
+        "https://telegra.ph/file/9c4a10c19d079eb03211c.jpg",
+        "https://telegra.ph/file/167efdfa6afcc8619bcd3.jpg",
+        "https://telegra.ph/file/4b3a97913b1e33347a7d4.jpg",
+        "https://telegra.ph/file/ea33b05463adc2a318ccb.jpg",
+        "https://telegra.ph/file/691638626ae0955643120.jpg",
+        "https://telegra.ph/file/5a56390b088862b953d19.jpg",
+        "https://telegra.ph/file/091fa6ba68f88dbcc0382.jpg",
+        "https://telegra.ph/file/00bf142d1b693252408f2.jpg",
+        "https://telegra.ph/file/831e36c3561881b682b97.jpg",
+        "https://telegra.ph/file/0ae27c7cb03e2d0117433.jpg",
+        "https://telegra.ph/file/6413dde3290b869aa9a78.jpg",
+        "https://telegra.ph/file/b554ab9bbf95be2fbcce5.jpg",
+        "https://telegra.ph/file/d952b25603b51da5e95a3.jpg",
+        "https://telegra.ph/file/22c31264298bef2ea196c.jpg",
+        "https://telegra.ph/file/887a968cc599ff9d18454.jpg",
+        "https://telegra.ph/file/e60b7b174f2f728e7ed76.jpg",
+        "https://telegra.ph/file/054edee437eacfee6ee5a.jpg",
+        "https://telegra.ph/file/d776f48862ac8f9b804de.jpg",
+        "https://telegra.ph/file/8e9fd67f19669df2dbba1.jpg",
+        "https://telegra.ph/file/3bc0e2cd829d1d1adcd7f.jpg",
+        "https://telegra.ph/file/f1faa5266dae18cf8c06f.jpg",
+        "https://telegra.ph/file/9466b19e75155006100e6.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

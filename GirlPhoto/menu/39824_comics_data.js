@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39824,
+    "title": "Potato Godzilla - Lingerie Selfie",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Lingerie-Selfie-11-02",
+    "images": [
+        "https://telegra.ph/file/af8d8d4137fb942ac58b3.jpg",
+        "https://telegra.ph/file/f1ce040d0c9022917e6b2.jpg",
+        "https://telegra.ph/file/98d711d5b35d9a3ff96ae.jpg",
+        "https://telegra.ph/file/db1e0b16d7af21718f99c.jpg",
+        "https://telegra.ph/file/e6ef5a7f15b97ea67e87d.jpg",
+        "https://telegra.ph/file/d9db5a937cd916bc6f7fc.jpg",
+        "https://telegra.ph/file/f2e0c86e72a412bf24100.jpg",
+        "https://telegra.ph/file/fffcc4cd8303e8188820c.jpg",
+        "https://telegra.ph/file/d11fca0ee53ee0de08c7e.jpg",
+        "https://telegra.ph/file/ae653eee62ed51cf8c42b.jpg",
+        "https://telegra.ph/file/3c8e492544db007902030.jpg",
+        "https://telegra.ph/file/241239aa89e00c7ec50b4.jpg",
+        "https://telegra.ph/file/e7c46e068a04b885b803b.jpg",
+        "https://telegra.ph/file/5f0ffc09c539ec27f2204.jpg",
+        "https://telegra.ph/file/75f6d15986772f3b5f84b.jpg",
+        "https://telegra.ph/file/c6b74e08a529db09e5b04.jpg",
+        "https://telegra.ph/file/ea692e379589ae8bfbe3f.jpg",
+        "https://telegra.ph/file/56428acc2375305cf2e72.jpg",
+        "https://telegra.ph/file/e81f7bd8907a24f49c434.jpg",
+        "https://telegra.ph/file/d1ca35e2c385d1d6fce4e.jpg",
+        "https://telegra.ph/file/5b1b50942eaf7e75e16d7.jpg",
+        "https://telegra.ph/file/ba2bcd0c8053b5ce1fd06.jpg",
+        "https://telegra.ph/file/ded48ba9c3b96fd8904df.jpg",
+        "https://telegra.ph/file/644916bba769b271ce5b4.jpg"
+    ]
+};

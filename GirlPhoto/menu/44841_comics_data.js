@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44841,
+    "title": "AT鲨 - Rem",
+    "sourceUrl": "https://telegra.ph/AT鲨---Rem-03-19",
+    "images": [
+        "https://telegra.ph/file/5286521220038bb907892.jpg",
+        "https://telegra.ph/file/cdebdb4a4a1695323993e.jpg",
+        "https://telegra.ph/file/ec45aba0146ae299c0e92.jpg",
+        "https://telegra.ph/file/1547c45fed3b0dc34413c.jpg",
+        "https://telegra.ph/file/942e5f3eed7cf97cbab56.jpg",
+        "https://telegra.ph/file/6dbbb1d2749093d8ccb68.jpg",
+        "https://telegra.ph/file/61211c08f7e8b34cdc59b.jpg",
+        "https://telegra.ph/file/7ad40061b7c4cc937cfeb.jpg",
+        "https://telegra.ph/file/4ba87b744f0a961a1adf0.jpg",
+        "https://telegra.ph/file/873d9e488e67a5a61acdf.jpg",
+        "https://telegra.ph/file/f792087ead0228c223a01.jpg",
+        "https://telegra.ph/file/bdd6f66aa4e4f7e02164e.jpg",
+        "https://telegra.ph/file/a1560723004ec021887aa.jpg",
+        "https://telegra.ph/file/5ae2cfa777fffbaf4314a.jpg",
+        "https://telegra.ph/file/7b47f0df0b6a896421afa.jpg",
+        "https://telegra.ph/file/637e16fedba89851a0844.jpg",
+        "https://telegra.ph/file/1a51366d6903c4a531de0.jpg",
+        "https://telegra.ph/file/60e57cb3a45ab6c6a790c.jpg",
+        "https://telegra.ph/file/41b5793f18cffa101ccd6.jpg",
+        "https://telegra.ph/file/fc62b6fa830fa291bb456.jpg",
+        "https://telegra.ph/file/17ba4bc67efe248bc60f4.jpg",
+        "https://telegra.ph/file/8f981ff03235ea041718e.jpg",
+        "https://telegra.ph/file/e2c3d773cea0e4b63c14e.jpg",
+        "https://telegra.ph/file/90bbf630993a8e88fcf90.jpg",
+        "https://telegra.ph/file/3fa526bd9ee15f66c2eea.jpg",
+        "https://telegra.ph/file/9c79aadbb431719929a10.jpg"
+    ]
+};

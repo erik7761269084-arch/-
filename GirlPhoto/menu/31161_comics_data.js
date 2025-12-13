@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31161,
+    "title": "Cosplay 小仓千代w 喜多川海夢泳装",
+    "sourceUrl": "https://telegra.ph/Cosplay-小仓千代w-喜多川海夢泳装-08-16",
+    "images": [
+        "https://telegra.ph/file/3a4e7a082e15aff756fff.jpg",
+        "https://telegra.ph/file/e4bf4a2227c8ab6ddbf3a.jpg",
+        "https://telegra.ph/file/1b750ecc1364d84191bd7.jpg",
+        "https://telegra.ph/file/ed4f894ecbb5c6bf63801.jpg",
+        "https://telegra.ph/file/f1f943314faa4f16ae9ce.jpg",
+        "https://telegra.ph/file/a127cf3af1f0aeff5e4e5.jpg",
+        "https://telegra.ph/file/67a400ddc78c637d4e02d.jpg",
+        "https://telegra.ph/file/a14b9b64e0f3c33681943.jpg",
+        "https://telegra.ph/file/c02de576ce3ac1783b61c.jpg",
+        "https://telegra.ph/file/138179f634abb6b2b8c6d.jpg",
+        "https://telegra.ph/file/75566234d5b95da619d07.jpg",
+        "https://telegra.ph/file/04bcf62a3539047b7b307.jpg",
+        "https://telegra.ph/file/68394d3d678af79fe20cd.jpg",
+        "https://telegra.ph/file/5bd44d46b133e3ad315d4.jpg",
+        "https://telegra.ph/file/9400e126e0629d9b5edbe.jpg",
+        "https://telegra.ph/file/56d7f39df6ac514a53338.jpg",
+        "https://telegra.ph/file/6b3518e0478e46ae5160b.jpg",
+        "https://telegra.ph/file/da01c1267540e94752ec5.jpg",
+        "https://telegra.ph/file/6f973a7128bf635b33e80.jpg",
+        "https://telegra.ph/file/e979e2db6bdbbb67f8730.jpg",
+        "https://telegra.ph/file/53bcaebbb3e725eecd5e1.jpg",
+        "https://telegra.ph/file/44dc5e14eabe8054939f6.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

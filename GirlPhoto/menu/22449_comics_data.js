@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22449,
+    "title": "小和甜酒 - 伏罗希洛夫护士",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E5%92%8C%E7%94%9C%E9%85%92---%E4%BC%8F%E7%BD%97%E5%B8%8C%E6%B4%9B%E5%A4%AB%E6%8A%A4%E5%A3%AB-10-23",
+    "images": [
+        "https://image.acg.lol/file/2025/10/23/01-1d1d5c5f8d9506188.jpg",
+        "https://image.acg.lol/file/2025/10/23/01-2e012839999230ff0.jpg",
+        "https://image.acg.lol/file/2025/10/23/01-312e998aa96e57831.jpg",
+        "https://image.acg.lol/file/2025/10/23/01-41fd3d3e6086cc07e.jpg",
+        "https://image.acg.lol/file/2025/10/23/01-5bb66cc1ecec5ca77.jpg",
+        "https://image.acg.lol/file/2025/10/23/12c25a39d9002309c.jpg",
+        "https://image.acg.lol/file/2025/10/23/22cc115e2f95a77b4.jpg",
+        "https://image.acg.lol/file/2025/10/23/3c6932cadb16e8880.jpg",
+        "https://image.acg.lol/file/2025/10/23/4b0317386e88404d0.jpg",
+        "https://image.acg.lol/file/2025/10/23/5663f86339cae32d2.jpg",
+        "https://image.acg.lol/file/2025/10/23/6604b7c0eab5edb65.jpg",
+        "https://image.acg.lol/file/2025/10/23/79899133aacd96c72.jpg",
+        "https://image.acg.lol/file/2025/10/23/8377c321355ecf35d.jpg",
+        "https://image.acg.lol/file/2025/10/23/9b40cbd22d766fbb0.jpg",
+        "https://image.acg.lol/file/2025/10/23/10bafda1b5735a2e89.jpg",
+        "https://image.acg.lol/file/2025/10/23/11951e76c6db48105c.jpg",
+        "https://image.acg.lol/file/2025/10/23/122de5fbd4b7029a9d.jpg",
+        "https://image.acg.lol/file/2025/10/23/13b2097cbb10f22c5f.jpg",
+        "https://image.acg.lol/file/2025/10/23/141671ea66ac2076dd.jpg",
+        "https://image.acg.lol/file/2025/10/23/15ce631756d91ef20a.jpg",
+        "https://image.acg.lol/file/2025/10/23/169e10f58d53908b6d.jpg",
+        "https://image.acg.lol/file/2025/10/23/1793d63d5f7842eb1f.jpg",
+        "https://image.acg.lol/file/2025/10/23/1831ba0c1b76925cbe.jpg",
+        "https://image.acg.lol/file/2025/10/23/19643061b2665fc644.jpg",
+        "https://image.acg.lol/file/2025/10/23/2088e2d8eda0beff91.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40446,
+    "title": "Choi Ji Yun - Ichinose Asuna (Blue Archive)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Ichinose-Asuna-Blue-Archive-06-24",
+    "images": [
+        "https://telegra.ph/file/98bb641a5e71679450b96.jpg",
+        "https://telegra.ph/file/3a7aebf97db9a8d055665.jpg",
+        "https://telegra.ph/file/778a356229fb5dd48d21e.jpg",
+        "https://telegra.ph/file/190e5373fb848189beede.jpg",
+        "https://telegra.ph/file/379f3e8005193069e702b.jpg",
+        "https://telegra.ph/file/943d65c21f9d0b8854bfd.jpg",
+        "https://telegra.ph/file/161e6933f5b9a0eeeb251.jpg",
+        "https://telegra.ph/file/ad6a26f90e5f7ad097e5b.jpg",
+        "https://telegra.ph/file/0d022f0a643ce6bdfd1f0.jpg",
+        "https://telegra.ph/file/42a12d02f5f85e440055f.jpg",
+        "https://telegra.ph/file/fa1bf5e3b177ec85c5d8f.jpg",
+        "https://telegra.ph/file/5bb121b65fa6595dc4900.jpg",
+        "https://telegra.ph/file/842f78c4f5115408906b6.jpg",
+        "https://telegra.ph/file/658f9b5cc7aa0c4ccf32a.jpg",
+        "https://telegra.ph/file/be924761ae597fa611548.jpg",
+        "https://telegra.ph/file/c60003b127290b4f46096.jpg",
+        "https://telegra.ph/file/8fb0a6601350da35518ea.jpg",
+        "https://telegra.ph/file/093d4a53ce1745910fc20.jpg",
+        "https://telegra.ph/file/7df6ad4fa51ff86b8af7d.jpg",
+        "https://telegra.ph/file/65f159320e821c3304abb.jpg",
+        "https://telegra.ph/file/3021d7d7826062988c7e8.jpg",
+        "https://telegra.ph/file/b63f2546ec03ef8c2d693.jpg",
+        "https://telegra.ph/file/c4d06f23efb626ae7d2ee.jpg",
+        "https://telegra.ph/file/7aa66ba84ef7f0416fa2b.jpg"
+    ]
+};

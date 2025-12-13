@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44695,
+    "title": "Lucy Langley - Bayonetta",
+    "sourceUrl": "https://telegra.ph/Lucy-Langley---Bayonetta-01-18",
+    "images": [
+        "https://telegra.ph/file/bd3eb51d24d5ca5f7e514.jpg",
+        "https://telegra.ph/file/bafab82f3a9451f63c4ae.jpg",
+        "https://telegra.ph/file/f2c7173d91416c52e6fbd.jpg",
+        "https://telegra.ph/file/b1a425ae21ced44514791.jpg",
+        "https://telegra.ph/file/08901b01df909a56f3c92.jpg",
+        "https://telegra.ph/file/58f662cc8d64cc2051c2d.jpg",
+        "https://telegra.ph/file/51c0405a5d92472ebe9e4.jpg",
+        "https://telegra.ph/file/cead1dee6427236a68918.jpg",
+        "https://telegra.ph/file/d529cd77c7437a245d742.jpg",
+        "https://telegra.ph/file/9b30a1845c593b9c8e3b6.jpg",
+        "https://telegra.ph/file/55ee88d984a40a4379226.jpg",
+        "https://telegra.ph/file/10b21f561f1c6953d802d.jpg",
+        "https://telegra.ph/file/7862f85837cde05f22f63.jpg",
+        "https://telegra.ph/file/a4c05c3eda288b8380a23.jpg",
+        "https://telegra.ph/file/8b4e384527f049e7f1ff7.jpg",
+        "https://telegra.ph/file/01c5cf912843d37f927f9.jpg",
+        "https://telegra.ph/file/89b3de2d38a57a0f9f5bb.jpg",
+        "https://telegra.ph/file/7ca800ba5af74613ec699.jpg",
+        "https://telegra.ph/file/4c9139fbbf1aace1979ba.jpg",
+        "https://telegra.ph/file/acf31f582042ae9783322.jpg",
+        "https://telegra.ph/file/53a0728b14525043b1067.jpg",
+        "https://telegra.ph/file/1842a3d6c7ad746d0eaf1.jpg",
+        "https://telegra.ph/file/460708104aea1f8705bb1.jpg",
+        "https://telegra.ph/file/8a3dc6ba358ebfad6806a.jpg",
+        "https://telegra.ph/file/d1cc669cf668573ccf08e.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27123,
+    "title": "轩萧学姐 - 眼镜娘 [26P]",
+    "sourceUrl": "https://telegra.ph/%E8%BD%A9%E8%90%A7%E5%AD%A6%E5%A7%90---%E7%9C%BC%E9%95%9C%E5%A8%98-26P-12-18",
+    "images": [
+        "https://telegra.ph/file/a0cd4b2ae6e150b970d51.jpg",
+        "https://telegra.ph/file/845acf0f22f6c8abb0c3a.jpg",
+        "https://telegra.ph/file/478bb1c5a6194e74c8310.jpg",
+        "https://telegra.ph/file/5e10122cfe5458ea1a639.jpg",
+        "https://telegra.ph/file/554b82901c485fd45da7a.jpg",
+        "https://telegra.ph/file/6473bacaffa4eb8727cf9.jpg",
+        "https://telegra.ph/file/5a752cd72f5793d8f8838.jpg",
+        "https://telegra.ph/file/bf2a40da871eb07f079c8.jpg",
+        "https://telegra.ph/file/f15dec179c332bb9a9b5d.jpg",
+        "https://telegra.ph/file/9c6b489cc0f80fe789181.jpg",
+        "https://telegra.ph/file/c263968864e8ed9f63f5b.jpg",
+        "https://telegra.ph/file/b6ed409f9cb4fdb631e0e.jpg",
+        "https://telegra.ph/file/0af64ea182fe7a5738724.jpg",
+        "https://telegra.ph/file/ec696909e5356d73646e0.jpg",
+        "https://telegra.ph/file/0e0a739349fa12452351b.jpg",
+        "https://telegra.ph/file/0ecefb311582e483d0180.jpg",
+        "https://telegra.ph/file/e17218022ffc1672c7367.jpg",
+        "https://telegra.ph/file/bc02c13160d9e73b74e02.jpg",
+        "https://telegra.ph/file/096ec017d882e8121795f.jpg",
+        "https://telegra.ph/file/836227546771d023580fe.jpg",
+        "https://telegra.ph/file/32fb41a39d0a38c76c7d3.jpg",
+        "https://telegra.ph/file/ceed1a23c08ba4102128f.jpg",
+        "https://telegra.ph/file/c9efcc5331a69d561a6c2.jpg",
+        "https://telegra.ph/file/7e65f70d3c581ae3b3276.jpg",
+        "https://telegra.ph/file/cc2de1a614ca3865ac5d5.jpg",
+        "https://telegra.ph/file/22dd1a5f289774ba56f54.jpg"
+    ]
+};

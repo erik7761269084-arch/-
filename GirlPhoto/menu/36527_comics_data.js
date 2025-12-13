@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 36527,
+    "title": "[Messie Huang] Tamamo no Mae 玉藻の前 Dancer",
+    "sourceUrl": "https://telegra.ph/Messie-Huang-Tamamo-no-Mae-玉藻の前-Dancer-01-11",
+    "images": [
+        "https://telegra.ph/file/8936db69675918faaa2e2.jpg",
+        "https://telegra.ph/file/aaa37480a9fac293b0f13.jpg",
+        "https://telegra.ph/file/bbbd680b89a4cbed3c1b0.jpg",
+        "https://telegra.ph/file/0d7b0901b230786cf59c7.jpg",
+        "https://telegra.ph/file/41793c305133331956bb3.jpg",
+        "https://telegra.ph/file/12e92a02b2fe0bdf07274.jpg",
+        "https://telegra.ph/file/ff85bf814a47ab1998496.jpg",
+        "https://telegra.ph/file/a7408940e1b5db8edd4b5.jpg",
+        "https://telegra.ph/file/a72df528a739c6c4e4300.jpg",
+        "https://telegra.ph/file/dff1c55be8f8c6a539101.jpg",
+        "https://telegra.ph/file/4fbc17abf4393c95abc7d.jpg",
+        "https://telegra.ph/file/68fa1daeadb3966319b5a.jpg",
+        "https://telegra.ph/file/6ce3477d68d08df7baac8.jpg",
+        "https://telegra.ph/file/0c25ad0607eebbdfbf591.jpg",
+        "https://telegra.ph/file/0730ce538a0e05834d198.jpg",
+        "https://telegra.ph/file/c196514b2ce8846996258.jpg",
+        "https://telegra.ph/file/f5e1e689c4f8fb3503c30.jpg",
+        "https://telegra.ph/file/647566d29404ad31c2714.jpg",
+        "https://telegra.ph/file/b500f02821c219a9797d1.jpg",
+        "https://telegra.ph/file/834df27a029c090b568ff.jpg",
+        "https://telegra.ph/file/0ae5f61985c5236c63da5.jpg",
+        "https://telegra.ph/file/dface358fe984f7a12735.jpg",
+        "https://telegra.ph/file/7dbbc34cbbafa909dc4c1.jpg",
+        "https://telegra.ph/file/d665554b5412a28142e75.jpg",
+        "https://telegra.ph/file/704b18e6866c533cc4c5d.jpg",
+        "https://telegra.ph/file/0ac3d375101d1000d7ce9.jpg"
+    ]
+};

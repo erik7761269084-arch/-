@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29267,
+    "title": "抖娘-利世 -  粉色西装 [26P]",
+    "sourceUrl": "https://telegra.ph/%E6%8A%96%E5%A8%98-%E5%88%A9%E4%B8%96---%E7%B2%89%E8%89%B2%E8%A5%BF%E8%A3%85-26P-05-21",
+    "images": [
+        "https://telegra.ph/file/d4909a7053fbff848954f.jpg",
+        "https://telegra.ph/file/64945bc30c38d5e90c82b.jpg",
+        "https://telegra.ph/file/3d7c97884b8212f2145c4.jpg",
+        "https://telegra.ph/file/2caae89a294bfc4fbbf91.jpg",
+        "https://telegra.ph/file/a25a82ac7261aabdf3ba9.jpg",
+        "https://telegra.ph/file/5bb6029755f0951c19615.jpg",
+        "https://telegra.ph/file/7fd01db09280b18be80ab.jpg",
+        "https://telegra.ph/file/6379f88fab4f5c4263b9b.jpg",
+        "https://telegra.ph/file/761319bafd24b6712e128.jpg",
+        "https://telegra.ph/file/fa7c1cbf854777d3057be.jpg",
+        "https://telegra.ph/file/4832f2329340c25282439.jpg",
+        "https://telegra.ph/file/ad35dc446325f81d6334d.jpg",
+        "https://telegra.ph/file/91012e5e099c4b8f811fc.jpg",
+        "https://telegra.ph/file/40659ed642695b83f4a8a.jpg",
+        "https://telegra.ph/file/328a88b57f4b40e36c8b1.jpg",
+        "https://telegra.ph/file/08f33cc7e7676dce37151.jpg",
+        "https://telegra.ph/file/3c4a8bedbed2369e75451.jpg",
+        "https://telegra.ph/file/093229a68fa8327577e13.jpg",
+        "https://telegra.ph/file/72e54dd6e6f10b9c12f62.jpg",
+        "https://telegra.ph/file/6b516751a17635572d098.jpg",
+        "https://telegra.ph/file/0b5eebfbc6e2a9efe222e.jpg",
+        "https://telegra.ph/file/01bbf02b32249c47ac039.jpg",
+        "https://telegra.ph/file/9a46a6f029f152931664c.jpg",
+        "https://telegra.ph/file/1cb6544bf716a7860ea10.jpg",
+        "https://telegra.ph/file/e7a6ae7d774dfcca5e5dd.jpg",
+        "https://telegra.ph/file/f4da0b01dfa161a30540d.jpg"
+    ]
+};

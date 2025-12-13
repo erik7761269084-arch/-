@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27499,
+    "title": "雨波 火影忍者寫真書 1.Tsunade",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%AF%AB%E7%9C%9F%E6%9B%B8-1Tsunade-08-17",
+    "images": [
+        "https://telegra.ph/file/690e5fe8de86028a8b01c.jpg",
+        "https://telegra.ph/file/9ce0736242563108a5f65.jpg",
+        "https://telegra.ph/file/aad12fbb4f1482d39c8df.jpg",
+        "https://telegra.ph/file/1ddff791b074dcf7c5b8c.jpg",
+        "https://telegra.ph/file/bd9d1aa2b81c48abf402a.jpg",
+        "https://telegra.ph/file/87946d9bf435123bba26e.jpg",
+        "https://telegra.ph/file/461a9c71621168415e023.jpg",
+        "https://telegra.ph/file/c858c5a5d20e3470bfe2d.jpg",
+        "https://telegra.ph/file/9dddfaafb7d2e9b5e2510.jpg",
+        "https://telegra.ph/file/40615c9aeb75faa5a2871.jpg",
+        "https://telegra.ph/file/3f8dd5a52a314cfeb09ac.jpg",
+        "https://telegra.ph/file/ee64d25a6072990866d01.jpg",
+        "https://telegra.ph/file/c6245464f275ce9919a16.jpg",
+        "https://telegra.ph/file/1e57bd7e3a4f8944e1533.jpg",
+        "https://telegra.ph/file/566848844c909c9f73279.jpg",
+        "https://telegra.ph/file/4730d28c442f2e4447abd.jpg",
+        "https://telegra.ph/file/d82534bbe91859480bbb5.jpg",
+        "https://telegra.ph/file/95f7fa35fb580e5536bca.jpg",
+        "https://telegra.ph/file/209ac17ca57fb03a2e4dc.jpg",
+        "https://telegra.ph/file/8208685c5743c5537e444.jpg",
+        "https://telegra.ph/file/17cc11b7287c79bda0fec.jpg",
+        "https://telegra.ph/file/657cb26c5e5a013f04c6c.jpg",
+        "https://telegra.ph/file/978c35621d945d6265bc1.jpg",
+        "https://telegra.ph/file/7b42d424bb961762ff041.jpg",
+        "https://telegra.ph/file/75cf17788be4eef649174.jpg"
+    ]
+};

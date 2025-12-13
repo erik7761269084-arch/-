@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25852,
+    "title": "奈汐酱nice - 26号本 网网[25P10V]",
+    "sourceUrl": "https://telegra.ph/%E5%A5%88%E6%B1%90%E9%85%B1nice---26%E5%8F%B7%E6%9C%AC-%E7%BD%91%E7%BD%9125P10V-01-20",
+    "images": [
+        "https://telegra.ph/file/ef87cec30b0c0b1b74238.jpg",
+        "https://telegra.ph/file/76e9aff15eda90c7477f8.jpg",
+        "https://telegra.ph/file/0bcd9cfe68483d7fbb5ac.jpg",
+        "https://telegra.ph/file/6a5c17925604e1635db34.jpg",
+        "https://telegra.ph/file/28565f3f1838c919c6c7a.jpg",
+        "https://telegra.ph/file/68761914a1f64546a43e8.jpg",
+        "https://telegra.ph/file/280960761bd7c0cdf9d10.jpg",
+        "https://telegra.ph/file/944df3ef85ae6cc1a1984.jpg",
+        "https://telegra.ph/file/ebf2c80120075b1d5d619.jpg",
+        "https://telegra.ph/file/35cfc6466bb1ec3f187d1.jpg",
+        "https://telegra.ph/file/92e555f368dcc30d61a21.jpg",
+        "https://telegra.ph/file/22deade6bd207d1012130.jpg",
+        "https://telegra.ph/file/93ec0266fcd0e5636b00c.jpg",
+        "https://telegra.ph/file/531fc92c6bf8c37bdf6c1.jpg",
+        "https://telegra.ph/file/bdcff11f6242a85e8ad8c.jpg",
+        "https://telegra.ph/file/fe102c5f5fc854d95a7c8.jpg",
+        "https://telegra.ph/file/a8a7869714d5893b48b1e.jpg",
+        "https://telegra.ph/file/0eae8052633eecd7c9c0e.jpg",
+        "https://telegra.ph/file/8cc2407070adeb4a62a37.jpg",
+        "https://telegra.ph/file/94621ba5d6a3aae0a0bde.jpg",
+        "https://telegra.ph/file/6ff914e210a7ab90a5225.jpg",
+        "https://telegra.ph/file/3a2ac46f5735fd6f09b91.jpg",
+        "https://telegra.ph/file/f067a7adea48ff7f81991.jpg",
+        "https://telegra.ph/file/8308be67d1d2b2f1b7032.jpg",
+        "https://telegra.ph/file/ffd06613950aece653140.jpg"
+    ]
+};

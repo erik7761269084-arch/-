@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26581,
+    "title": "钛合金 - 风玲公主[23P]",
+    "sourceUrl": "https://telegra.ph/%E9%92%9B%E5%90%88%E9%87%91---%E9%A3%8E%E7%8E%B2%E5%85%AC%E4%B8%BB23P-06-29",
+    "images": [
+        "https://telegra.ph/file/39eccd3750a40f8c14656.jpg",
+        "https://telegra.ph/file/47268fc4492155a7d91b1.jpg",
+        "https://telegra.ph/file/a06ff1c41ae303496f5ea.jpg",
+        "https://telegra.ph/file/236189672b9b2a6a124ed.jpg",
+        "https://telegra.ph/file/4f71fc92b32b8826ddc91.jpg",
+        "https://telegra.ph/file/50d6e8995733864233465.jpg",
+        "https://telegra.ph/file/5f6219132a6d09f00d941.jpg",
+        "https://telegra.ph/file/acc342661f5e8809a1ace.jpg",
+        "https://telegra.ph/file/720f44b2a7d9dc33374e5.jpg",
+        "https://telegra.ph/file/e32836de792eefa96cbe1.jpg",
+        "https://telegra.ph/file/c4dcc882cf827c0c0dbcf.jpg",
+        "https://telegra.ph/file/741f3cdca3f534c88d4f2.jpg",
+        "https://telegra.ph/file/24ae9a81582290c85ef05.jpg",
+        "https://telegra.ph/file/dfbe96196979dd23d5724.jpg",
+        "https://telegra.ph/file/f36ff96fd39e29526ce76.jpg",
+        "https://telegra.ph/file/ffbb4035ae3497700479e.jpg",
+        "https://telegra.ph/file/0494f82ce977040f87074.jpg",
+        "https://telegra.ph/file/5414ff5d85351e3822ec3.jpg",
+        "https://telegra.ph/file/ccb60be9d272db20d8e08.jpg",
+        "https://telegra.ph/file/650e396b9cb88e5f80974.jpg",
+        "https://telegra.ph/file/ee789b91a6d777eb0707b.jpg",
+        "https://telegra.ph/file/1977b52d6629666e42f80.jpg",
+        "https://telegra.ph/file/2359f4062a03edca9cd88.jpg",
+        "https://telegra.ph/file/0a2607e85bbde0b1b6d02.jpg"
+    ]
+};

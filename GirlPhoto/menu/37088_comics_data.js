@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37088,
+    "title": "Cosplay 不呆猫 白色情趣婚纱",
+    "sourceUrl": "https://telegra.ph/Cosplay-不呆猫-白色情趣婚纱-03-09",
+    "images": [
+        "https://telegra.ph/file/af5f56062b9b8483baa8e.jpg",
+        "https://telegra.ph/file/8b1d9c8bd440b1ac1dfea.jpg",
+        "https://telegra.ph/file/17b2e25ca52a0d9e77ecd.jpg",
+        "https://telegra.ph/file/d78d9dac017387b169300.jpg",
+        "https://telegra.ph/file/95721f228eb5ae353d4e4.jpg",
+        "https://telegra.ph/file/4c6b0e1759cb8e0e8cc1c.jpg",
+        "https://telegra.ph/file/8abd693eefa1230aeb609.jpg",
+        "https://telegra.ph/file/d2454b63c8a8cf9a12a7c.jpg",
+        "https://telegra.ph/file/1b84dc28b65b71119f5f3.jpg",
+        "https://telegra.ph/file/2a005e6c1d50fabb0305f.jpg",
+        "https://telegra.ph/file/389428532600e8fbf6754.jpg",
+        "https://telegra.ph/file/7fef535e7fab09e8309fb.jpg",
+        "https://telegra.ph/file/6a4a038876b61a568be59.jpg",
+        "https://telegra.ph/file/ced552690d16acae1fba3.jpg",
+        "https://telegra.ph/file/672ba6458b1d998dea1c4.jpg",
+        "https://telegra.ph/file/3223edbe7d8e7c915afb1.jpg",
+        "https://telegra.ph/file/c11da2dd72adf4de35530.jpg",
+        "https://telegra.ph/file/5d60d4c741302cea81721.jpg",
+        "https://telegra.ph/file/81ee5ef33431356be6d43.jpg",
+        "https://telegra.ph/file/371f3257d1983c6abe786.jpg",
+        "https://telegra.ph/file/3acd051c2e41bd742d3a1.jpg",
+        "https://telegra.ph/file/9755a98cf5d8d20db2e30.jpg",
+        "https://telegra.ph/file/4f0668477e37aa1f64c75.jpg",
+        "https://telegra.ph/file/389feb59db88cb0ab7e52.jpg"
+    ]
+};

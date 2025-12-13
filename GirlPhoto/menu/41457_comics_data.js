@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41457,
+    "title": "Peachuu - St. Louis (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Peachuu---St-Louis-Azur-Lane-05-07",
+    "images": [
+        "https://telegra.ph/file/135f7cfb172110084a99b.jpg",
+        "https://telegra.ph/file/441bfbbafde17c04bd991.jpg",
+        "https://telegra.ph/file/253ca4008c11f7c516cfa.jpg",
+        "https://telegra.ph/file/974bebbe09ea48e4e525a.jpg",
+        "https://telegra.ph/file/806a9af2c29d639bedf51.jpg",
+        "https://telegra.ph/file/36f8aff80515f49f8db59.jpg",
+        "https://telegra.ph/file/117d77c62f55735616d1f.jpg",
+        "https://telegra.ph/file/514eef33ffed469eeb185.jpg",
+        "https://telegra.ph/file/b9fb96adaeef0ec79a9a6.jpg",
+        "https://telegra.ph/file/fa7dc6a521c4469243944.jpg",
+        "https://telegra.ph/file/4a51d245e47fe650a4488.jpg",
+        "https://telegra.ph/file/04f567490b5dda5632e3e.jpg",
+        "https://telegra.ph/file/07a68c9c9f4ead43ae400.jpg",
+        "https://telegra.ph/file/c9d92cb243e51532a7d14.jpg",
+        "https://telegra.ph/file/e2dccb4b8b2985175138b.jpg",
+        "https://telegra.ph/file/acb8320ed5270e3ef22c4.jpg",
+        "https://telegra.ph/file/9ef95d7b8a6b5074a45d4.jpg",
+        "https://telegra.ph/file/0d113aa5ce53d6cef4050.jpg",
+        "https://telegra.ph/file/769c4084f26f4aa28f341.jpg",
+        "https://telegra.ph/file/9fbb0ff129cd400e3dfca.jpg",
+        "https://telegra.ph/file/918694edea3a33429913d.jpg",
+        "https://telegra.ph/file/786a0e5f24bf1ea956993.jpg",
+        "https://telegra.ph/file/dba5dc479a745664af9dd.jpg"
+    ]
+};

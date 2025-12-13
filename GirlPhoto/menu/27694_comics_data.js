@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27694,
+    "title": "ATFMAKER-Nudistただの体、初全裸Fullsize[25P]",
+    "sourceUrl": "https://telegra.ph/ATFMAKER-Nudist%E3%81%9F%E3%81%A0%E3%81%AE%E4%BD%93%E5%88%9D%E5%85%A8%E8%A3%B8Fullsize25P-07-07",
+    "images": [
+        "https://telegra.ph/file/1a6e84ea09711a148703a.jpg",
+        "https://telegra.ph/file/38a7ef74172b016f6e970.jpg",
+        "https://telegra.ph/file/0ff9ad8f6a48935b43084.jpg",
+        "https://telegra.ph/file/12f987958ba054534167d.jpg",
+        "https://telegra.ph/file/880d36ff3cacac2fdb5fd.jpg",
+        "https://telegra.ph/file/1ace54db0054bbfa5396d.jpg",
+        "https://telegra.ph/file/c836f14c6668a66d8ab07.jpg",
+        "https://telegra.ph/file/23aacdd45333af306c558.jpg",
+        "https://telegra.ph/file/527c0325f87d307fe0b61.jpg",
+        "https://telegra.ph/file/dd47d7048a11205fa7219.jpg",
+        "https://telegra.ph/file/42397f8258727756395e2.jpg",
+        "https://telegra.ph/file/ba171c406086c386faf45.jpg",
+        "https://telegra.ph/file/d2ac212cd0b141479112f.jpg",
+        "https://telegra.ph/file/45a02b4d5b7a25424a447.jpg",
+        "https://telegra.ph/file/e72d3271a041fef55f811.jpg",
+        "https://telegra.ph/file/bfafe722932cbc4e62e21.jpg",
+        "https://telegra.ph/file/44bb9880612637240bad4.jpg",
+        "https://telegra.ph/file/683534d183bf59b49e8f8.jpg",
+        "https://telegra.ph/file/2edd16b72e7c54adf5ec4.jpg",
+        "https://telegra.ph/file/fe4118e4991dfb517cca8.jpg",
+        "https://telegra.ph/file/eed60ce7c7931de7d6e82.jpg",
+        "https://telegra.ph/file/fbf3a3ba0f807f7c5548f.jpg",
+        "https://telegra.ph/file/07093ab6ee5d2fd13cb55.jpg",
+        "https://telegra.ph/file/faed50804b6122c803b76.jpg",
+        "https://telegra.ph/file/9baf2cb182535e290ac75.jpg"
+    ]
+};

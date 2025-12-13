@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33404,
+    "title": "Cosplay 一米八的大梨子 2B Bride",
+    "sourceUrl": "https://telegra.ph/Cosplay-一米八的大梨子-2B-Bride-03-01",
+    "images": [
+        "https://telegra.ph/file/19f2d6211a2948a3a6d3d.jpg",
+        "https://telegra.ph/file/acf37db79f5d31b269a56.jpg",
+        "https://telegra.ph/file/c471f331deac358ecaa67.jpg",
+        "https://telegra.ph/file/8f1d0170f29bd93326d83.jpg",
+        "https://telegra.ph/file/630a5bcd9632d1e519941.jpg",
+        "https://telegra.ph/file/cc0ad3fc40eac5635612f.jpg",
+        "https://telegra.ph/file/86379900958ae8cfc41d9.jpg",
+        "https://telegra.ph/file/97bab8eed0294e5d6b37a.jpg",
+        "https://telegra.ph/file/e40cd17f38387edc141ca.jpg",
+        "https://telegra.ph/file/b191fc69268795b7f8d9a.jpg",
+        "https://telegra.ph/file/8ba03cce77ac862697f21.jpg",
+        "https://telegra.ph/file/e4e2ba935679ec0a77047.jpg",
+        "https://telegra.ph/file/ab6175ab7d12833371a72.jpg",
+        "https://telegra.ph/file/b4490f47e9dd79a21d7dc.jpg",
+        "https://telegra.ph/file/6259bf6adb666e92a9ec3.jpg",
+        "https://telegra.ph/file/81b52ba57eeef2a6ed1a1.jpg",
+        "https://telegra.ph/file/d0ba6b281cc9b2612d3da.jpg",
+        "https://telegra.ph/file/0ebe48916b04ea941f2f0.jpg",
+        "https://telegra.ph/file/4cc099d089ec59fcea137.jpg",
+        "https://telegra.ph/file/989342495d28ccf0f34c9.jpg",
+        "https://telegra.ph/file/5f9ed8c5a206c83ecf78a.jpg",
+        "https://telegra.ph/file/42026fd4e029ca18610ab.jpg",
+        "https://telegra.ph/file/c8df32036ea1f184cc881.jpg",
+        "https://telegra.ph/file/5861c265d1187d3d8ede4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

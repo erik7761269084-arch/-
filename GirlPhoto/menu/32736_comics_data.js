@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32736,
+    "title": "Cosplay 柘烟Zuken 大凤旗袍",
+    "sourceUrl": "https://telegra.ph/Cosplay-柘烟Zuken-大凤旗袍-12-26",
+    "images": [
+        "https://telegra.ph/file/3590fb6976de0d7fc9449.jpg",
+        "https://telegra.ph/file/4f1b5797bbbdf828dbf04.jpg",
+        "https://telegra.ph/file/2bec60edf6f35f7387bd5.jpg",
+        "https://telegra.ph/file/ba466bb2574c4f676a19d.jpg",
+        "https://telegra.ph/file/15db1e4cc451bcb03a632.jpg",
+        "https://telegra.ph/file/a4b24031666d2ee77358d.jpg",
+        "https://telegra.ph/file/c7ac50b7545e2658f8418.jpg",
+        "https://telegra.ph/file/5e3734e7c81472767eb63.jpg",
+        "https://telegra.ph/file/fdc9f89901873bbb7bc72.jpg",
+        "https://telegra.ph/file/d53da427f2005a3c34be6.jpg",
+        "https://telegra.ph/file/927c3c2ecdde9a849fc80.jpg",
+        "https://telegra.ph/file/f13f57f0a35f10e56435e.jpg",
+        "https://telegra.ph/file/22f30a9e48486c6d53e71.jpg",
+        "https://telegra.ph/file/97e9d99c394da57eeeefb.jpg",
+        "https://telegra.ph/file/d7870037ec5801c34d80a.jpg",
+        "https://telegra.ph/file/ec3e04740a22ea8ba29a4.jpg",
+        "https://telegra.ph/file/f04b5a5d477aabd99e073.jpg",
+        "https://telegra.ph/file/f4e8eedb64f7d67898534.jpg",
+        "https://telegra.ph/file/62dc832d8000324596f21.jpg",
+        "https://telegra.ph/file/61df1be4eab8192ed9574.jpg",
+        "https://telegra.ph/file/9964c304a49ddc0a586df.jpg",
+        "https://telegra.ph/file/987f624e9db02695ba40a.jpg",
+        "https://telegra.ph/file/5acadcaab8a6bd373e5bb.jpg",
+        "https://telegra.ph/file/97de133bdd149f03bff76.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 34431,
+    "title": "FALENO（ファレノ）, 週刊ポストデジタル写真集 ファレノALLSTARS　HEAVEN",
+    "sourceUrl": "https://telegra.ph/FALENOファレノ-週刊ポストデジタル写真集-ファレノALLSTARS-HEAVEN-06-13",
+    "images": [
+        "https://telegra.ph/file/50b5b51f01752e0189085.jpg",
+        "https://telegra.ph/file/34e77f75cfdfe522b9997.jpg",
+        "https://telegra.ph/file/61a6084643cae888e3b8c.jpg",
+        "https://telegra.ph/file/710f84694d081a51d0aee.jpg",
+        "https://telegra.ph/file/976139be2ee540b78ca83.jpg",
+        "https://telegra.ph/file/7e565c013b0d29a2ed969.jpg",
+        "https://telegra.ph/file/d3d3bdc76daf63abe682c.jpg",
+        "https://telegra.ph/file/8c4919c19fb601d6824f7.jpg",
+        "https://telegra.ph/file/990e7e7b2d6bea9db69c5.jpg",
+        "https://telegra.ph/file/91a03aa49ba287ce2a423.jpg",
+        "https://telegra.ph/file/711d356be5974df3776d8.jpg",
+        "https://telegra.ph/file/ca45b1257ba71a1d99851.jpg",
+        "https://telegra.ph/file/8ad4da6d8dcb3aafa56a9.jpg",
+        "https://telegra.ph/file/9f9332468cfafdae79736.jpg",
+        "https://telegra.ph/file/f103e09548c04c4169e8a.jpg",
+        "https://telegra.ph/file/17ee472ba51c319fa3578.jpg",
+        "https://telegra.ph/file/a0586672214f7685bc894.jpg",
+        "https://telegra.ph/file/986fcb3385a24523905a1.jpg",
+        "https://telegra.ph/file/7dae33153b7c9effc17da.jpg",
+        "https://telegra.ph/file/c55222e0b2ec736e42918.jpg",
+        "https://telegra.ph/file/6e179d9c629a177f96845.jpg",
+        "https://telegra.ph/file/64e6d1c70821e616e8b32.jpg",
+        "https://telegra.ph/file/bf87e79cef845a85d2e66.jpg",
+        "https://telegra.ph/file/6dcd2726e8a220df6b853.jpg",
+        "https://telegra.ph/file/2f149c5ed5224cb63b6ac.jpg",
+        "https://telegra.ph/file/9680f4ac07f6be38d9d4a.jpg"
+    ]
+};

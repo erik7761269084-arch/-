@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37506,
+    "title": "Cosplay 洛桑w伊梓 猫耳小恶魔",
+    "sourceUrl": "https://telegra.ph/Cosplay-洛桑w伊梓-猫耳小恶魔-04-21",
+    "images": [
+        "https://telegra.ph/file/b746942cfb74eb11dbb86.jpg",
+        "https://telegra.ph/file/c1655a5ad8e45c480031f.jpg",
+        "https://telegra.ph/file/25f8785a54a57e09811b2.jpg",
+        "https://telegra.ph/file/f46df14526c825c92ec5b.jpg",
+        "https://telegra.ph/file/10195e5225a2095762ef7.jpg",
+        "https://telegra.ph/file/f1d155b3fbdf88255e6b7.jpg",
+        "https://telegra.ph/file/3356236864eb6baaf75cc.jpg",
+        "https://telegra.ph/file/f95e19d258fe41c341eda.jpg",
+        "https://telegra.ph/file/17394702b1e24041bc385.jpg",
+        "https://telegra.ph/file/553cd9e8a4752e16e206e.jpg",
+        "https://telegra.ph/file/397ac162342f5ca8305df.jpg",
+        "https://telegra.ph/file/dfea66ca3a4a6b6b47c13.jpg",
+        "https://telegra.ph/file/098102b70cd77d8b9e0f9.jpg",
+        "https://telegra.ph/file/199383e6d145f398fa4de.jpg",
+        "https://telegra.ph/file/6606dc7cdd326174c0521.jpg",
+        "https://telegra.ph/file/21df04a6a219003e3d691.jpg",
+        "https://telegra.ph/file/46705c17d742140291ecc.jpg",
+        "https://telegra.ph/file/debdf8d4eb1e6b18f7f7c.jpg",
+        "https://telegra.ph/file/f39e0c5281b6820cb40e3.jpg",
+        "https://telegra.ph/file/c9189599c1db103f81e8f.jpg",
+        "https://telegra.ph/file/ae63f3f315e1aacf2e29c.jpg",
+        "https://telegra.ph/file/b16aa7e71918ce7c03925.jpg",
+        "https://telegra.ph/file/cf7ae246814ee16c8f906.jpg",
+        "https://telegra.ph/file/fc0968ea17d82042db7fd.jpg",
+        "https://telegra.ph/file/484e377430a5e4329d1ce.jpg"
+    ]
+};

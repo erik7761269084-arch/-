@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35166,
+    "title": "G.su [LEEHEE EXPRESS] LERB-014 Set.02",
+    "sourceUrl": "https://telegra.ph/Gsu-LEEHEE-EXPRESS-LERB-014-Set02-08-27",
+    "images": [
+        "https://telegra.ph/file/9215d071b211c8a494543.jpg",
+        "https://telegra.ph/file/5b0d28a5d9669fdab5078.jpg",
+        "https://telegra.ph/file/f7838da6c78a9ce3f5db2.jpg",
+        "https://telegra.ph/file/a1a731cb1a216756adba7.jpg",
+        "https://telegra.ph/file/431885be2803bf1876e80.jpg",
+        "https://telegra.ph/file/a89f72a9f1d6dfabd206d.jpg",
+        "https://telegra.ph/file/8416bad30572ab03311f2.jpg",
+        "https://telegra.ph/file/ebffbf9756c2675d7c14e.jpg",
+        "https://telegra.ph/file/24638439f16420e46f67c.jpg",
+        "https://telegra.ph/file/6abf5d7d7a44d512de7b0.jpg",
+        "https://telegra.ph/file/b42a63b5db7300be6c8d6.jpg",
+        "https://telegra.ph/file/24030d077630d18454423.jpg",
+        "https://telegra.ph/file/be76e27e7ba65112e5ef9.jpg",
+        "https://telegra.ph/file/5b7cfe4d418c48c229031.jpg",
+        "https://telegra.ph/file/67c380fe1dad009f777de.jpg",
+        "https://telegra.ph/file/f5f22e145f7872ff28288.jpg",
+        "https://telegra.ph/file/4820eff99d4ae22d1da89.jpg",
+        "https://telegra.ph/file/2a53ab152b87392144879.jpg",
+        "https://telegra.ph/file/203271a7ee4c383b9e3e5.jpg",
+        "https://telegra.ph/file/bafe950bc5ac997783547.jpg",
+        "https://telegra.ph/file/69bbaaf6dc0b612947a23.jpg",
+        "https://telegra.ph/file/8c68db71c7d55a048cdc5.jpg",
+        "https://telegra.ph/file/f92d5fe6004150d3ccfd4.jpg",
+        "https://telegra.ph/file/74b115f7419f9f3894d70.jpg",
+        "https://telegra.ph/file/92e3905a07b928f1853d0.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32211,
+    "title": "Cosplay KaYa萱 阿尔托莉雅女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-KaYa萱-阿尔托莉雅女仆-10-31",
+    "images": [
+        "https://telegra.ph/file/c48865348f84595efc379.jpg",
+        "https://telegra.ph/file/42e171a164165b408048a.jpg",
+        "https://telegra.ph/file/25fe5f64818d36ee30e77.jpg",
+        "https://telegra.ph/file/3d98dec8ae892593b6299.jpg",
+        "https://telegra.ph/file/80b5e4577911823f5b644.jpg",
+        "https://telegra.ph/file/fa32268925c170b4da017.jpg",
+        "https://telegra.ph/file/0ae4cd5da46319569f6af.jpg",
+        "https://telegra.ph/file/c661183189db1736834d2.jpg",
+        "https://telegra.ph/file/965335ada5eca22f7ffdd.jpg",
+        "https://telegra.ph/file/3e4d73bfcaa0dd2f2d484.jpg",
+        "https://telegra.ph/file/685fa5f1c9f71128b6969.jpg",
+        "https://telegra.ph/file/2e37863f50d9c25526d00.jpg",
+        "https://telegra.ph/file/5b9868602781c7367a975.jpg",
+        "https://telegra.ph/file/2922ed3e8114aeb77e987.jpg",
+        "https://telegra.ph/file/0db762a2374e793f24168.jpg",
+        "https://telegra.ph/file/c471376834b088f243daf.jpg",
+        "https://telegra.ph/file/b31a9346bd2ae72ca1b2c.jpg",
+        "https://telegra.ph/file/96edaea40d105522fd5e0.jpg",
+        "https://telegra.ph/file/f830ce440548b656c481b.jpg",
+        "https://telegra.ph/file/8bb121cb1f5747bd3c200.jpg",
+        "https://telegra.ph/file/1776c86b53abf304d50e3.jpg",
+        "https://telegra.ph/file/f1c8c567be0c4c528f7cd.jpg",
+        "https://telegra.ph/file/fe62591ab54e73854b460.jpg",
+        "https://telegra.ph/file/dc131e7fdc987268483f4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

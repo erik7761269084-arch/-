@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38587,
+    "title": "習呆呆 - Yao (king of Glory)",
+    "sourceUrl": "https://telegra.ph/習呆呆---Yao-king-of-Glory-12-09",
+    "images": [
+        "https://telegra.ph/file/dd5cef2b8f9893d0203cb.jpg",
+        "https://telegra.ph/file/5f1e23d395eca646a8c9c.jpg",
+        "https://telegra.ph/file/ec919eea2d824c0c12086.jpg",
+        "https://telegra.ph/file/9dbb578448ee097ee4161.jpg",
+        "https://telegra.ph/file/56b494d11b4612612ef4a.jpg",
+        "https://telegra.ph/file/7196ff245d5339cb5f1a7.jpg",
+        "https://telegra.ph/file/2571d600772f05b6ff5b8.jpg",
+        "https://telegra.ph/file/b6a66bcd7b2a7548afed8.jpg",
+        "https://telegra.ph/file/d976c665a107e7265e5fc.jpg",
+        "https://telegra.ph/file/c7b7375ea7edcca0926d4.jpg",
+        "https://telegra.ph/file/26980c8ed3f0de3996948.jpg",
+        "https://telegra.ph/file/4392372a0359399cfc566.jpg",
+        "https://telegra.ph/file/a7dd69ed04ef16c6ad93f.jpg",
+        "https://telegra.ph/file/f380d8228236af606bd9a.jpg",
+        "https://telegra.ph/file/1973a0f9194c23d85a915.jpg",
+        "https://telegra.ph/file/af2b6e9915b7f7558df9b.jpg",
+        "https://telegra.ph/file/641e3a1afdad961a5a220.jpg",
+        "https://telegra.ph/file/8ec37c24c9fefd2f1c0b6.jpg",
+        "https://telegra.ph/file/48c72edd4b4b487ffac25.jpg",
+        "https://telegra.ph/file/022ffcda45eab24abfafc.jpg",
+        "https://telegra.ph/file/93189652d6cc099046946.jpg",
+        "https://telegra.ph/file/ec35f11bc7d7fb02063cc.jpg",
+        "https://telegra.ph/file/be81c8c6e4f12139606c6.jpg"
+    ]
+};

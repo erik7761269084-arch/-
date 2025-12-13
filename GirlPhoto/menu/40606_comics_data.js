@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40606,
+    "title": "Byoru - Alice (Nikke)",
+    "sourceUrl": "https://telegra.ph/Byoru---Alice-Nikke-08-15",
+    "images": [
+        "https://telegra.ph/file/0263cf980c2d53304823f.jpg",
+        "https://telegra.ph/file/b4e611366f8ffe0a265a8.jpg",
+        "https://telegra.ph/file/61d63d6ff820c0e396432.jpg",
+        "https://telegra.ph/file/d3162822a461f7dc2240e.jpg",
+        "https://telegra.ph/file/801e9c0fb1811c6182fdb.jpg",
+        "https://telegra.ph/file/6e914d6abe0f85d8daf5f.jpg",
+        "https://telegra.ph/file/869cbe5ce5d5786913dda.jpg",
+        "https://telegra.ph/file/b35e6fd214e3f368f70f5.jpg",
+        "https://telegra.ph/file/fc593ee9293f893d098eb.jpg",
+        "https://telegra.ph/file/8508b1d4236204b604a16.jpg",
+        "https://telegra.ph/file/67ec224b2047d0d87dec7.jpg",
+        "https://telegra.ph/file/72026a5ff950c9ef23dcf.jpg",
+        "https://telegra.ph/file/fd8aca359c905227a96a8.jpg",
+        "https://telegra.ph/file/517d7c740bd9789613d01.jpg",
+        "https://telegra.ph/file/43d610026e7bdda65ac3f.jpg",
+        "https://telegra.ph/file/d2941f81e944045fb4bcd.jpg",
+        "https://telegra.ph/file/5b1b8f3a8805c2ed21f79.jpg",
+        "https://telegra.ph/file/4884be0259671ff4e5fcb.jpg",
+        "https://telegra.ph/file/fb9cd676ad1f0b2b975fc.jpg",
+        "https://telegra.ph/file/f3943250f6ec73ccc95ad.jpg",
+        "https://telegra.ph/file/6340f379bbdb2c17558cf.jpg",
+        "https://telegra.ph/file/964cf9ef9baa539e15748.jpg",
+        "https://telegra.ph/file/ea592ba2a58e445d0bd30.jpg",
+        "https://telegra.ph/file/1b717386778b5b9ed7558.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 28242,
+    "title": "Neppuネップ - Housou Marine [23P-477MB]",
+    "sourceUrl": "https://telegra.ph/Neppu%E3%83%8D%E3%83%83%E3%83%97---Housou-Marine-23P-477MB-07-02",
+    "images": [
+        "https://telegra.ph/file/13bdc4c309d21911fa39a.jpg",
+        "https://telegra.ph/file/86f8b18d4e06dd3f665ac.jpg",
+        "https://telegra.ph/file/ec25c7c57a56c61d42e30.jpg",
+        "https://telegra.ph/file/8275af6b58b1f1b561312.jpg",
+        "https://telegra.ph/file/a9abd72c8d2517aa425b9.jpg",
+        "https://telegra.ph/file/42049700aad9f5c357801.jpg",
+        "https://telegra.ph/file/73309a51f9c50a67e0b53.jpg",
+        "https://telegra.ph/file/259b548491a1bbb3f7cb3.jpg",
+        "https://telegra.ph/file/26f507c22096b785fe4ec.jpg",
+        "https://telegra.ph/file/ea2dbb9368a9d9bf40d15.jpg",
+        "https://telegra.ph/file/e4dc22e1461e9391d14f1.jpg",
+        "https://telegra.ph/file/a3602cccefe1217b7e5b1.jpg",
+        "https://telegra.ph/file/b631869f1ae91f806a987.jpg",
+        "https://telegra.ph/file/ab0c4719376b93180c4a7.jpg",
+        "https://telegra.ph/file/a3bdad856f448f17c27bb.jpg",
+        "https://telegra.ph/file/fca41bd53f37c2f729569.jpg",
+        "https://telegra.ph/file/c13d9cf809772c2671b48.jpg",
+        "https://telegra.ph/file/693c8515f6f55f8ca52f3.jpg",
+        "https://telegra.ph/file/a8af222b5798a137918ae.jpg",
+        "https://telegra.ph/file/18729e4ac6ac5e16a114a.jpg",
+        "https://telegra.ph/file/8e9ee95c6f65a09e2d5fe.jpg",
+        "https://telegra.ph/file/4f821ff78d594212c16c2.jpg",
+        "https://telegra.ph/file/2c03e1dc3e9a183c71a13.jpg"
+    ]
+};

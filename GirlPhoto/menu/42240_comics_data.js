@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42240,
+    "title": "Xidaidai 习呆呆 - Cipher (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-28-2",
+    "images": [
+        "https://i.ibb.co/dwTqGNtw/01-2-IMG-3433.jpg",
+        "https://i.ibb.co/vx04r8fs/02-3-IMG-34353.jpg",
+        "https://i.ibb.co/8nh0sny9/03-4-IMG-34371.jpg",
+        "https://i.ibb.co/YBDCyQ3w/04-5-IMG-3438.jpg",
+        "https://i.ibb.co/JWYNtJ7b/05-6-IMG-3439.jpg",
+        "https://i.ibb.co/0vLzQqx/06-7-IMG-3440.jpg",
+        "https://i.ibb.co/kFCYF9B/07-8-IMG-3441.jpg",
+        "https://i.ibb.co/ynV4GDSC/08-9-IMG-3442.jpg",
+        "https://i.ibb.co/CK0Qft1R/09-10-IMG-34433.jpg",
+        "https://i.ibb.co/d4N8JWMk/10-11-IMG-3444.jpg",
+        "https://i.ibb.co/gb9GXM14/11-12-IMG-3445.jpg",
+        "https://i.ibb.co/ZzX05RYb/12-13-IMG-3447.jpg",
+        "https://i.ibb.co/pvv1C5KM/13-14-IMG-3448.jpg",
+        "https://i.ibb.co/Hpr17vL5/14-15-IMG-3449.jpg",
+        "https://i.ibb.co/zTrt7WJN/15-16-IMG-34501.jpg",
+        "https://i.ibb.co/gMX52LHv/16-17-IMG-3451.jpg",
+        "https://i.ibb.co/93mJLZP8/17-18-IMG-3452.jpg",
+        "https://i.ibb.co/bjLZMp8F/18-19-IMG-3453.jpg",
+        "https://i.ibb.co/8D2fKb28/19-20-IMG-34564.jpg",
+        "https://i.ibb.co/6RQNrCPB/20-21-IMG-3459.jpg",
+        "https://i.ibb.co/1JJ1bs8S/21-22-IMG-34541.jpg",
+        "https://i.ibb.co/1YcRP8wc/22-23-IMG-34581.jpg",
+        "https://i.ibb.co/5WF4yLZS/23-24-IMG-34552.jpg",
+        "https://i.ibb.co/SwsnX6Cs/24-0-video-processed-00-00-00-00-00-30.jpg",
+        "https://i.ibb.co/Y4FCHtkQ/25-1-video-processed-00-00-00-00-00-30.jpg"
+    ]
+};

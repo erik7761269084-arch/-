@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31307,
+    "title": "Cosplay Choi Ji Yun エイダ・ウォン Ada Wong",
+    "sourceUrl": "https://telegra.ph/Cosplay-Choi-Ji-Yun-エイダウォン-Ada-Wong-08-16",
+    "images": [
+        "https://telegra.ph/file/160fb9e8fab3edadcb004.jpg",
+        "https://telegra.ph/file/6c4916d3a02430bc1ae72.jpg",
+        "https://telegra.ph/file/0f6fee9777552e8a3cc03.jpg",
+        "https://telegra.ph/file/d60ce51d1a8fb3c64bc58.jpg",
+        "https://telegra.ph/file/c9ff310be8a2d2c3a5d85.jpg",
+        "https://telegra.ph/file/2a983db5faa8670b697e1.jpg",
+        "https://telegra.ph/file/60f64f85ae1e99a591836.jpg",
+        "https://telegra.ph/file/c961385764ed814e31717.jpg",
+        "https://telegra.ph/file/13416bd663c84fbe85f33.jpg",
+        "https://telegra.ph/file/e8dc121adbc5f1329a526.jpg",
+        "https://telegra.ph/file/64d9a8b5e02d4ab0597d7.jpg",
+        "https://telegra.ph/file/f8186d009f4ffd4eac968.jpg",
+        "https://telegra.ph/file/4464066afe54efe1278c9.jpg",
+        "https://telegra.ph/file/f7a0c7d83e11d458f6179.jpg",
+        "https://telegra.ph/file/82164d561e2e606aad16e.jpg",
+        "https://telegra.ph/file/49be4b1f56d298802f1b9.jpg",
+        "https://telegra.ph/file/69f4325645e596197b96a.jpg",
+        "https://telegra.ph/file/7d028b0edc7488a23e059.jpg",
+        "https://telegra.ph/file/75cab7f5ef85b79238e2d.jpg",
+        "https://telegra.ph/file/c40ff92812962fadb679e.jpg",
+        "https://telegra.ph/file/8c3c65c2c07994252b971.jpg",
+        "https://telegra.ph/file/4730cd90c18f60b37b644.jpg",
+        "https://telegra.ph/file/4418daa0e0a607e3bec4c.jpg",
+        "https://telegra.ph/file/6735f866c095905f50aef.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40175,
+    "title": "Rinnie Riot - Momo (Boku no Hero Academia)",
+    "sourceUrl": "https://telegra.ph/Rinnie-Riot---Momo-Boku-no-Hero-Academia-02-18",
+    "images": [
+        "https://telegra.ph/file/08dace79e22e09c42a72c.jpg",
+        "https://telegra.ph/file/b8a3ff1bcc61eb88df63a.jpg",
+        "https://telegra.ph/file/65e7dcdac18e2f6873c21.jpg",
+        "https://telegra.ph/file/c8c9e11ca31dbc3976ce5.jpg",
+        "https://telegra.ph/file/ae2544184cc213159fec1.jpg",
+        "https://telegra.ph/file/9c479ee9d7e92c38e86c8.jpg",
+        "https://telegra.ph/file/2b0a7b8bc5ad421fab700.jpg",
+        "https://telegra.ph/file/5b494be918da58643c984.jpg",
+        "https://telegra.ph/file/6fb4d0da0786364f1043a.jpg",
+        "https://telegra.ph/file/c3285abf0f8d76ce1534a.jpg",
+        "https://telegra.ph/file/77dab35c3c29c02b70ce1.jpg",
+        "https://telegra.ph/file/6ad0ee1374748d1c15270.jpg",
+        "https://telegra.ph/file/ffe76f9a3a53ffa7dec30.jpg",
+        "https://telegra.ph/file/05425a5e361512dd58b07.jpg",
+        "https://telegra.ph/file/0396764cc045417d285fa.jpg",
+        "https://telegra.ph/file/9f67b65c148710e5ccdf9.jpg",
+        "https://telegra.ph/file/faa46ee409828dd8a9830.jpg",
+        "https://telegra.ph/file/b9f9190d726146cdab07b.jpg",
+        "https://telegra.ph/file/4fa73a9290134ddd37892.jpg",
+        "https://telegra.ph/file/2a04ea550b128580f37c7.jpg",
+        "https://telegra.ph/file/80fdb5d8d668311c07539.jpg",
+        "https://telegra.ph/file/49ed033b6c4b623be7a10.jpg",
+        "https://telegra.ph/file/2abf82a5832d90cfd3464.jpg",
+        "https://telegra.ph/file/3a6ee964319a99d543cae.jpg",
+        "https://telegra.ph/file/0e395fcbd402cf73cd2e8.jpg",
+        "https://telegra.ph/file/eb1f4dcebac87c6aff051.jpg"
+    ]
+};

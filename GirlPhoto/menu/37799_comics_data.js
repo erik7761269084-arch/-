@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37799,
+    "title": "Azami - Zero Two/Christmas (Darling in the Franxx)",
+    "sourceUrl": "https://telegra.ph/Azami---Zero-TwoChristmas-Darling-in-the-Franxx-06-05",
+    "images": [
+        "https://telegra.ph/file/7d8e576e88feee67c080d.jpg",
+        "https://telegra.ph/file/2846f93d993c877333d1d.jpg",
+        "https://telegra.ph/file/9eee2073ae8ff7e8c0cad.jpg",
+        "https://telegra.ph/file/8bc11069ef3d4a0411fc6.jpg",
+        "https://telegra.ph/file/a01fa7578ce2d499bdec9.jpg",
+        "https://telegra.ph/file/ec1ee611c4104c8625722.jpg",
+        "https://telegra.ph/file/0a555901408e8ff229e71.jpg",
+        "https://telegra.ph/file/f7aac8ed1056763ce70d1.jpg",
+        "https://telegra.ph/file/3d214fc8d8c0fda4d7fad.jpg",
+        "https://telegra.ph/file/76301c3e37faa135c11e4.jpg",
+        "https://telegra.ph/file/1824e1c540279db7d76f9.jpg",
+        "https://telegra.ph/file/2c74db0eac0796dbdafa8.jpg",
+        "https://telegra.ph/file/e2bccc6c3bd7fdfc54264.jpg",
+        "https://telegra.ph/file/6afc2942c29e94bdc962c.jpg",
+        "https://telegra.ph/file/3e34cc7dfb48dc9f9b336.jpg",
+        "https://telegra.ph/file/e066ce688d6a372018711.jpg",
+        "https://telegra.ph/file/d0075befb208da2eaa293.jpg",
+        "https://telegra.ph/file/5170dad4ad4f0b0aff52b.jpg",
+        "https://telegra.ph/file/a59e975097d22e54c855b.jpg",
+        "https://telegra.ph/file/d83fe3596dc4af2e5dc46.jpg",
+        "https://telegra.ph/file/3131cea9481a38aed5403.jpg",
+        "https://telegra.ph/file/4fb9491168532463ddf48.jpg",
+        "https://telegra.ph/file/7a442bae8eb472c03a109.jpg"
+    ]
+};

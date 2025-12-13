@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 33098,
+    "title": "Cosplay 一笑芳香沁 牛仔",
+    "sourceUrl": "https://telegra.ph/Cosplay-一笑芳香沁-牛仔-01-31",
+    "images": [
+        "https://telegra.ph/file/fdb045c2cfe7c6258c75a.jpg",
+        "https://telegra.ph/file/cc76247e14a526f2407dd.jpg",
+        "https://telegra.ph/file/77f412147d4bbdf97564e.jpg",
+        "https://telegra.ph/file/2c1e5e4410b648fe58b82.jpg",
+        "https://telegra.ph/file/e1675cf2618398f0b77a7.jpg",
+        "https://telegra.ph/file/6a1fa38bdf7d8f05057ea.jpg",
+        "https://telegra.ph/file/34e6768692285df39700a.jpg",
+        "https://telegra.ph/file/fe027191323fda0abc9b4.jpg",
+        "https://telegra.ph/file/2c8fb5f614884100dee5f.jpg",
+        "https://telegra.ph/file/f41ce5decac147727d980.jpg",
+        "https://telegra.ph/file/6a94ad02df0decd70176e.jpg",
+        "https://telegra.ph/file/873f100d937388e35b64b.jpg",
+        "https://telegra.ph/file/242c8b6eedc4cfe2a8a6c.jpg",
+        "https://telegra.ph/file/b0e8242ff2c159e46f7da.jpg",
+        "https://telegra.ph/file/421604696f4af6b2ecde4.jpg",
+        "https://telegra.ph/file/a0d81defa42355011c6c4.jpg",
+        "https://telegra.ph/file/f9bbe5e8a09e86e89c091.jpg",
+        "https://telegra.ph/file/989d80a5dd36164ce0062.jpg",
+        "https://telegra.ph/file/27401d3bfae11d6ced40b.jpg",
+        "https://telegra.ph/file/36fa0f076ba75d32dc24f.jpg",
+        "https://telegra.ph/file/c93ce588b00162a70c978.jpg",
+        "https://telegra.ph/file/6433d1f909bfd1032e517.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

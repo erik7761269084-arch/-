@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39073,
+    "title": "Queenie Chuppy - Bela Dimitrescu (Resident Evil)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Bela-Dimitrescu-Resident-Evil-04-26",
+    "images": [
+        "https://telegra.ph/file/1ade21c1881783e3dde86.jpg",
+        "https://telegra.ph/file/2c5066dca5c8dbf186813.jpg",
+        "https://telegra.ph/file/1554b6c9b8d761badb377.jpg",
+        "https://telegra.ph/file/c8fdf4553ab70674c0440.jpg",
+        "https://telegra.ph/file/42015b9afc2fad6dc0520.jpg",
+        "https://telegra.ph/file/e95a2df651b5e64dcc432.jpg",
+        "https://telegra.ph/file/a3ec080341651935e7f20.jpg",
+        "https://telegra.ph/file/daadf1c57d56e5e7a00e1.jpg",
+        "https://telegra.ph/file/32373c086c58ef41f61cb.jpg",
+        "https://telegra.ph/file/5ff795fae309df7f0e5cb.jpg",
+        "https://telegra.ph/file/624b820b94e4ae57afeb8.jpg",
+        "https://telegra.ph/file/622f365a8f2a5dd4c1dc7.jpg",
+        "https://telegra.ph/file/c7c60ae2871446305e167.jpg",
+        "https://telegra.ph/file/14a5140d8a68c33d62bfd.jpg",
+        "https://telegra.ph/file/182a38629cac2c21e2e36.jpg",
+        "https://telegra.ph/file/81428ab009d6fc2bdaaf7.jpg",
+        "https://telegra.ph/file/2347a1fa1ca18f58885e9.jpg",
+        "https://telegra.ph/file/e18a657eed1cba7404578.jpg",
+        "https://telegra.ph/file/9f2836e536afbf3279e7c.jpg",
+        "https://telegra.ph/file/e7287fb9716a43fa32e2d.jpg",
+        "https://telegra.ph/file/9f8660b2633a5aab1d316.jpg",
+        "https://telegra.ph/file/3c8f0c250aebb696972b1.jpg",
+        "https://telegra.ph/file/d87cef6684d374a41e536.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39082,
+    "title": "Hane Ame - Mash Dangerous Beast (Fate Grad Order)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Mash-Dangerous-Beast-Fate-Grad-Order-04-27",
+    "images": [
+        "https://telegra.ph/file/59508678155484fcb3ccf.jpg",
+        "https://telegra.ph/file/e918401a7f6438c278845.jpg",
+        "https://telegra.ph/file/5be4bc22f058020518945.jpg",
+        "https://telegra.ph/file/5b1119afff5025e57dc7b.jpg",
+        "https://telegra.ph/file/acedf3268709977b7a683.jpg",
+        "https://telegra.ph/file/c9dd47d02678a38234c9a.jpg",
+        "https://telegra.ph/file/6cd03d99c05c328c903be.jpg",
+        "https://telegra.ph/file/4dec4162579f5518b4754.jpg",
+        "https://telegra.ph/file/cecff9fe2e4f4d6ff653a.jpg",
+        "https://telegra.ph/file/5cce71b2001e814aa55f1.jpg",
+        "https://telegra.ph/file/223d4d36e2c86ed196b84.jpg",
+        "https://telegra.ph/file/e8d42603a5049ffb1676d.jpg",
+        "https://telegra.ph/file/4ba92bc234ea3f91523d0.jpg",
+        "https://telegra.ph/file/e675456227f43210fafc8.jpg",
+        "https://telegra.ph/file/51b25345d5bec1329a1cd.jpg",
+        "https://telegra.ph/file/4523e062ef7ee807f0e9a.jpg",
+        "https://telegra.ph/file/a19c34be720c3260ab2d5.jpg",
+        "https://telegra.ph/file/699b0e9fd090937de3fc0.jpg",
+        "https://telegra.ph/file/709dc166987c454ed69c6.jpg",
+        "https://telegra.ph/file/e3ad487f04ce1226585cf.jpg",
+        "https://telegra.ph/file/6eea7f9bbbe7d1b9fef8e.jpg",
+        "https://telegra.ph/file/e7478fa369178f946fa03.jpg",
+        "https://telegra.ph/file/74deefbb0151ea361423c.jpg",
+        "https://telegra.ph/file/567fe0015e56a1b6978a2.jpg",
+        "https://telegra.ph/file/b0bd477d25a49401441d7.jpg",
+        "https://telegra.ph/file/f60d175cf4d8330184e51.jpg"
+    ]
+};

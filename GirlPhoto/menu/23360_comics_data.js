@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23360,
+    "title": "miko酱ww - 束缚精灵",
+    "sourceUrl": "https://telegra.ph/miko%E9%85%B1ww---%E6%9D%9F%E7%BC%9A%E7%B2%BE%E7%81%B5-02-19",
+    "images": [
+        "https://telegra.ph/file/5b2f068fd22b96724da8a.jpg",
+        "https://telegra.ph/file/f8ec780bc4e20bbc43c78.jpg",
+        "https://telegra.ph/file/85036614e8ceae1d1f69a.jpg",
+        "https://telegra.ph/file/36cb87d95818ad0ace61f.jpg",
+        "https://telegra.ph/file/fa7cfcb161f2ec488ef1c.jpg",
+        "https://telegra.ph/file/74be94e244bb1637c8c96.jpg",
+        "https://telegra.ph/file/89da44ec03b1e1bd75cb6.jpg",
+        "https://telegra.ph/file/751d8759d280146b81072.jpg",
+        "https://telegra.ph/file/b0054f9f589630c4741fb.jpg",
+        "https://telegra.ph/file/9a352c9eb397c0780a35d.jpg",
+        "https://telegra.ph/file/fcda3f8ae88a6490be4a9.jpg",
+        "https://telegra.ph/file/46bc4b320e71ac56ba879.jpg",
+        "https://telegra.ph/file/6e3e31ce861e9a5392dfe.jpg",
+        "https://telegra.ph/file/cb90f9ff9acabe6fcce53.jpg",
+        "https://telegra.ph/file/26a72fd73cc18d4aa951c.jpg",
+        "https://telegra.ph/file/5251e839948b092f239c4.jpg",
+        "https://telegra.ph/file/dcc3d3fdaf7f977bfb998.jpg",
+        "https://telegra.ph/file/d0cd5bfa07eb4d6fc6fde.jpg",
+        "https://telegra.ph/file/520f0d2fab425b03f887e.jpg",
+        "https://telegra.ph/file/93b713ec5c2c5f65758ea.jpg",
+        "https://telegra.ph/file/3a974ee1a8392f5370b8c.jpg",
+        "https://telegra.ph/file/fc2a72995f4c22b02882d.jpg",
+        "https://telegra.ph/file/c9c3516aaafebdb2fa495.jpg",
+        "https://telegra.ph/file/ccb0e23841da9d48d054a.jpg"
+    ]
+};

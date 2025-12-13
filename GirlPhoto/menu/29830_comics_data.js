@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29830,
+    "title": "雨波_HaneAme 间谍过家家 約兒写真集",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme-%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6-%E7%B4%84%E5%85%92%E5%86%99%E7%9C%9F%E9%9B%86-01-06-3",
+    "images": [
+        "https://telegra.ph/file/c996ddd01f4844712b361.png",
+        "https://telegra.ph/file/c6e2d3fe197dcac1752a5.jpg",
+        "https://telegra.ph/file/473f20e681bcbcc9ac67c.jpg",
+        "https://telegra.ph/file/16da1f12b392543c681ea.jpg",
+        "https://telegra.ph/file/48bcd8dd599a35d15888c.jpg",
+        "https://telegra.ph/file/7e4dfa356cf28a7c20c2c.jpg",
+        "https://telegra.ph/file/5d3f1b83af4258db41d5e.jpg",
+        "https://telegra.ph/file/65416438b8b7967441287.jpg",
+        "https://telegra.ph/file/c36535684de820aae1171.jpg",
+        "https://telegra.ph/file/433d6d46378e4cff5eb3e.jpg",
+        "https://telegra.ph/file/670cfdae98eac3ccea15b.jpg",
+        "https://telegra.ph/file/6cafac49b6773c22ba65f.jpg",
+        "https://telegra.ph/file/77fb24bec6b3af127fb3f.jpg",
+        "https://telegra.ph/file/858bc7dbdc4d8b805647d.jpg",
+        "https://telegra.ph/file/421db0af00ef324498228.jpg",
+        "https://telegra.ph/file/e7a78fa08f4dd9e9b7241.jpg",
+        "https://telegra.ph/file/3ef2cdc370c044209ff13.jpg",
+        "https://telegra.ph/file/7049b6666275e7354c059.jpg",
+        "https://telegra.ph/file/e4d35c5239431019bec09.jpg",
+        "https://telegra.ph/file/4ca1649cd123e2d1fc3f7.jpg",
+        "https://telegra.ph/file/5d4ad3670c052b7cfbb7a.jpg",
+        "https://telegra.ph/file/37e64795bfc098a7c20ae.jpg",
+        "https://telegra.ph/file/4ce20db1069ccd96ba0cc.jpg",
+        "https://telegra.ph/file/62526c8b89db5c2c6dec4.jpg",
+        "https://telegra.ph/file/19f5b5a3df5616c7fdbd5.jpg",
+        "https://telegra.ph/file/b8b0602c98144f9141c4a.jpg"
+    ]
+};

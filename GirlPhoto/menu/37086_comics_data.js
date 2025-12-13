@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37086,
+    "title": "Siri 매시리, Espacia Korea EHC#098 Set.01",
+    "sourceUrl": "https://telegra.ph/Siri-매시리-Espacia-Korea-EHC098-Set01-03-09",
+    "images": [
+        "https://telegra.ph/file/9afd64710a848344d71e6.jpg",
+        "https://telegra.ph/file/e3a6f1a3d0997feef7ecc.jpg",
+        "https://telegra.ph/file/9dffbe56a06965a789239.jpg",
+        "https://telegra.ph/file/98ff7cc121bfcd5e5a604.jpg",
+        "https://telegra.ph/file/ea1345e4593baa1a2a937.jpg",
+        "https://telegra.ph/file/3748ed1bd1e8fa2977d9c.jpg",
+        "https://telegra.ph/file/35c635b155cff9d34107b.jpg",
+        "https://telegra.ph/file/32a2f7b62e50d36c2e02c.jpg",
+        "https://telegra.ph/file/c54ad202d5f61a6004e21.jpg",
+        "https://telegra.ph/file/691f7b940452e32ddcde8.jpg",
+        "https://telegra.ph/file/3c972a63b93fe4f5514ed.jpg",
+        "https://telegra.ph/file/8d3b6f2374d2bd427c069.jpg",
+        "https://telegra.ph/file/bb41bf4c8eef5332ae176.jpg",
+        "https://telegra.ph/file/04f6c645293290796ddc8.jpg",
+        "https://telegra.ph/file/1eda3d3d1e8f5e5db76ef.jpg",
+        "https://telegra.ph/file/7c0d5b6fae35ed3ea8025.jpg",
+        "https://telegra.ph/file/9826f61c26ef29dc82757.jpg",
+        "https://telegra.ph/file/21a0506d359839fa75a4c.jpg",
+        "https://telegra.ph/file/3ed640716ca7f7419c091.jpg",
+        "https://telegra.ph/file/18998b84d39a42a2eee63.jpg",
+        "https://telegra.ph/file/2f77a9cba76cf65bcafc6.jpg",
+        "https://telegra.ph/file/56c58e9c698a393aef057.jpg",
+        "https://telegra.ph/file/3692d6ba63934e7c963de.jpg",
+        "https://telegra.ph/file/8f39959ec8beda778d34e.jpg"
+    ]
+};

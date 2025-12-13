@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30376,
+    "title": "[XiuRen秀人网]  No.5156 西门小玉 美腿黑丝",
+    "sourceUrl": "https://telegra.ph/XiuRen秀人网-No5156-西门小玉-美腿黑丝-05-23",
+    "images": [
+        "https://telegra.ph/file/3ab40d240ab27f216b174.jpg",
+        "https://telegra.ph/file/c928c67618d96b1b40dfb.jpg",
+        "https://telegra.ph/file/822e2afe0c89d0763b4f4.jpg",
+        "https://telegra.ph/file/b13d6317ccc8992151d46.jpg",
+        "https://telegra.ph/file/5a1133db189506eae5b51.jpg",
+        "https://telegra.ph/file/5c2d8fb274b110dacce1d.jpg",
+        "https://telegra.ph/file/5566b74d72f805dd3b082.jpg",
+        "https://telegra.ph/file/2066efd7c9b8537ad0e7a.jpg",
+        "https://telegra.ph/file/62934af0c55f487a4410c.jpg",
+        "https://telegra.ph/file/147fc129d5ab4902f7257.jpg",
+        "https://telegra.ph/file/7ff35a93cae0f2ae71632.jpg",
+        "https://telegra.ph/file/2d329d79051bea7c75c6e.jpg",
+        "https://telegra.ph/file/9906c9eb89498acf2914d.jpg",
+        "https://telegra.ph/file/7bbc405d1818aa0088573.jpg",
+        "https://telegra.ph/file/a2daf044dd27eff0aa271.jpg",
+        "https://telegra.ph/file/f1c5ac33362f2fe087a3a.jpg",
+        "https://telegra.ph/file/845897a0faf65b143739c.jpg",
+        "https://telegra.ph/file/20a293668b1fbefa510e9.jpg",
+        "https://telegra.ph/file/b626cb60392633c2073b2.jpg",
+        "https://telegra.ph/file/a70e43a392a79d80c692e.jpg",
+        "https://telegra.ph/file/82b4f58a61c8feb6b55b8.jpg",
+        "https://telegra.ph/file/d7169f7c1ba92e836acd5.jpg",
+        "https://telegra.ph/file/6fb98125125f40889b0fb.jpg",
+        "https://telegra.ph/file/4b4bf664855383bbc6577.jpg",
+        "https://telegra.ph/file/29f55fc4b2aa4cdb06022.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

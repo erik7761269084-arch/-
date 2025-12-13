@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43684,
+    "title": "Sayo Momo - Laffey 26P",
+    "sourceUrl": "https://telegra.ph/Sayo-Momo---Laffey-26P-06-02",
+    "images": [
+        "https://telegra.ph/file/a19018e3947f997bf0179.jpg",
+        "https://telegra.ph/file/74e8a51100083994a900d.jpg",
+        "https://telegra.ph/file/31faa4bfe17225197fb73.jpg",
+        "https://telegra.ph/file/01d1dd7afa74ffc02d454.jpg",
+        "https://telegra.ph/file/26ae88d28a996b24b780f.jpg",
+        "https://telegra.ph/file/e89c16dcf906fee4ee088.jpg",
+        "https://telegra.ph/file/7c5082bb1462edb7a64c7.jpg",
+        "https://telegra.ph/file/a872b8da05fc2fe8fdafb.jpg",
+        "https://telegra.ph/file/d17183327ae3fad80f8f4.jpg",
+        "https://telegra.ph/file/60492781aba96921544ad.jpg",
+        "https://telegra.ph/file/b97ad4de806ce9c0e2d74.jpg",
+        "https://telegra.ph/file/3e88edac2bff43d8cc00c.jpg",
+        "https://telegra.ph/file/348af2f0d561315c8e09c.jpg",
+        "https://telegra.ph/file/0a1a8211d8a2331415f15.jpg",
+        "https://telegra.ph/file/9960b3de974313741093c.jpg",
+        "https://telegra.ph/file/caef68c0ff2c55fd1a5db.jpg",
+        "https://telegra.ph/file/4832a70b1a270c3705ba8.jpg",
+        "https://telegra.ph/file/b3afae357af63ee6bb3ab.jpg",
+        "https://telegra.ph/file/cb6b493adec1e048e6630.jpg",
+        "https://telegra.ph/file/f50b71d85a4c6e3c37a75.jpg",
+        "https://telegra.ph/file/2dd2cf433e1451484e213.jpg",
+        "https://telegra.ph/file/52e10a8a7d1ae88607bb7.jpg",
+        "https://telegra.ph/file/9dea379ff0e07f1835483.jpg",
+        "https://telegra.ph/file/703c7dcb0e2c09f467565.jpg",
+        "https://telegra.ph/file/8cc1cd24c10c1189322ad.jpg",
+        "https://telegra.ph/file/9ff0c7d3f1f9a91d72bb3.jpg"
+    ]
+};

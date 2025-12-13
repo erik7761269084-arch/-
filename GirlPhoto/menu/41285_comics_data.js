@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41285,
+    "title": "Caticornplay - Raven (Teen Titans)",
+    "sourceUrl": "https://telegra.ph/Caticornplay---Raven-Teen-Titans-03-22",
+    "images": [
+        "https://telegra.ph/file/18ec092731a5bd71fdd0c.jpg",
+        "https://telegra.ph/file/818749b757a44cdda2b5e.jpg",
+        "https://telegra.ph/file/57196e1f76abb0bc7af30.jpg",
+        "https://telegra.ph/file/a0f41a2054a238db4c7ef.jpg",
+        "https://telegra.ph/file/de3a0dff94b98f0333db7.jpg",
+        "https://telegra.ph/file/9ecdf121886ac023b961e.jpg",
+        "https://telegra.ph/file/ca582f3834b3dd454fc9c.jpg",
+        "https://telegra.ph/file/fce7d8fb33c131d61776e.jpg",
+        "https://telegra.ph/file/c75f7daed155ab44e5e8b.jpg",
+        "https://telegra.ph/file/b981c246e7ee5753507d5.jpg",
+        "https://telegra.ph/file/b68448feed7300ef65f5b.jpg",
+        "https://telegra.ph/file/7a590692ac35282b373e2.jpg",
+        "https://telegra.ph/file/10995a0017d0063c897ae.jpg",
+        "https://telegra.ph/file/b237d8aa25056c9b6bb89.jpg",
+        "https://telegra.ph/file/0ae86c3a5275cf8e3f6f0.jpg",
+        "https://telegra.ph/file/02df5fa31517a334ba93d.jpg",
+        "https://telegra.ph/file/d01741b8d20dc1221cfa9.jpg",
+        "https://telegra.ph/file/7903661eb1b228346e777.jpg",
+        "https://telegra.ph/file/4c94b0dd60536e49c3692.jpg",
+        "https://telegra.ph/file/08330681030686ab60c6b.jpg",
+        "https://telegra.ph/file/b567ff0409ea025ffdf00.jpg",
+        "https://telegra.ph/file/1845ca2a7b8ef3ba13314.jpg",
+        "https://telegra.ph/file/af6c35efc58366baade21.jpg",
+        "https://telegra.ph/file/90c4224d988afdf28dd4f.jpg",
+        "https://telegra.ph/file/f5626c7fa6a86d77c8447.jpg",
+        "https://telegra.ph/file/41d328a5ee30b907b558c.jpg"
+    ]
+};

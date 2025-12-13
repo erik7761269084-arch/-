@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40284,
+    "title": "Nagisa - 透明セーラー服",
+    "sourceUrl": "https://telegra.ph/Nagisa---透明セーラー服-04-24",
+    "images": [
+        "https://telegra.ph/file/b592946df18f834637def.jpg",
+        "https://telegra.ph/file/00d0875e4625b7944da25.jpg",
+        "https://telegra.ph/file/72b736c7acf6e765ee44a.jpg",
+        "https://telegra.ph/file/7c5a803304eaefcb11ae7.jpg",
+        "https://telegra.ph/file/b65972945f9878a9b61c5.jpg",
+        "https://telegra.ph/file/27ac2b02eb7f68f8d7af6.jpg",
+        "https://telegra.ph/file/5b78dae17b9cc26aaac3c.jpg",
+        "https://telegra.ph/file/d117edea90cf460951d46.jpg",
+        "https://telegra.ph/file/a04729a5fff0d1e58c5d3.jpg",
+        "https://telegra.ph/file/9aae99ff47a4b41d72c16.jpg",
+        "https://telegra.ph/file/e4d88e8e6a26df5364400.jpg",
+        "https://telegra.ph/file/944c406d0adc074ebe44f.jpg",
+        "https://telegra.ph/file/2d8bb2a16313fe61cb8dd.jpg",
+        "https://telegra.ph/file/77876acf943190d4dbb14.jpg",
+        "https://telegra.ph/file/240bc3a5ecd86a4f12b17.jpg",
+        "https://telegra.ph/file/1e3038b66d62aae449a07.jpg",
+        "https://telegra.ph/file/674871909a42d64e2dd38.jpg",
+        "https://telegra.ph/file/27b57682450bcec511411.jpg",
+        "https://telegra.ph/file/39f9f1d970d1b4aa33044.jpg",
+        "https://telegra.ph/file/8d59b8fb5ef51a06f2e9c.jpg",
+        "https://telegra.ph/file/061415515a94b165474ee.jpg",
+        "https://telegra.ph/file/8b87b924b6168a5f96e26.jpg",
+        "https://telegra.ph/file/f1e1c85eeb8b785b97fcb.jpg",
+        "https://telegra.ph/file/3476d80a24bb9908cfe97.jpg"
+    ]
+};

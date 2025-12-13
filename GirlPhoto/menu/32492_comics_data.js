@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32492,
+    "title": "Cosplay Potato Godzilla 麗日お茶子 Uraraka",
+    "sourceUrl": "https://telegra.ph/Cosplay-Potato-Godzilla-麗日お茶子-Uraraka-12-01",
+    "images": [
+        "https://telegra.ph/file/fb491281d08e7fa2bc3f8.jpg",
+        "https://telegra.ph/file/e0b3c2ca161ce314ebfde.jpg",
+        "https://telegra.ph/file/61e9249b871adce081e19.jpg",
+        "https://telegra.ph/file/b554b76ac4bd91a6251c0.jpg",
+        "https://telegra.ph/file/22015ae0cee09be86020b.jpg",
+        "https://telegra.ph/file/b3379659165651db77ece.jpg",
+        "https://telegra.ph/file/f5b9ec42aed6b02361190.jpg",
+        "https://telegra.ph/file/2e29eab201acf1dff7138.jpg",
+        "https://telegra.ph/file/80d99f93f25f7e7e85f05.jpg",
+        "https://telegra.ph/file/8ede075a8f42863e106ac.jpg",
+        "https://telegra.ph/file/588d45f71054a36c90cfe.jpg",
+        "https://telegra.ph/file/545c5ef81aebbeea9d206.jpg",
+        "https://telegra.ph/file/11c938b70b72bb2ee5146.jpg",
+        "https://telegra.ph/file/7d8aaa35aae1c49ec4bae.jpg",
+        "https://telegra.ph/file/c21f11a9a09a36d1e5a34.jpg",
+        "https://telegra.ph/file/112af0ee1ae4eb5846a86.jpg",
+        "https://telegra.ph/file/577c3fcde397f8fbd04d9.jpg",
+        "https://telegra.ph/file/e5bb1a32d23d3cd890c42.jpg",
+        "https://telegra.ph/file/b13161c87b61fa8c718ea.jpg",
+        "https://telegra.ph/file/7c34a07c5c74b5923e21e.jpg",
+        "https://telegra.ph/file/804a4e49711910796f4da.jpg",
+        "https://telegra.ph/file/febfbbdbd9c42faff4b0d.jpg",
+        "https://telegra.ph/file/b4eae62ac7dd11d720c6f.jpg",
+        "https://telegra.ph/file/ede3ff64895199e861952.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

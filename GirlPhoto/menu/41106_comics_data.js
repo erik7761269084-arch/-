@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41106,
+    "title": "BakaChi - 2B (Nier Automata)",
+    "sourceUrl": "https://telegra.ph/BakaChi---2B-Nier-Automata-01-30",
+    "images": [
+        "https://telegra.ph/file/fb808aa800edac50cb672.jpg",
+        "https://telegra.ph/file/3312c35cb837821d05798.jpg",
+        "https://telegra.ph/file/de27c425b89b27825efca.jpg",
+        "https://telegra.ph/file/d4a81fcaecd06f638e8aa.jpg",
+        "https://telegra.ph/file/c3e2401b7ede974e5f3ca.jpg",
+        "https://telegra.ph/file/1fe7f87b429ac24a9d3f3.jpg",
+        "https://telegra.ph/file/5642ab3b64d6548e93ace.jpg",
+        "https://telegra.ph/file/c2e568d474d9058a308fc.jpg",
+        "https://telegra.ph/file/c3295f4921988c293ab40.jpg",
+        "https://telegra.ph/file/8df749ce583eb772daaf6.jpg",
+        "https://telegra.ph/file/d01c25f063b5b9cd264e3.jpg",
+        "https://telegra.ph/file/b4bedf61c46eb9c44c215.jpg",
+        "https://telegra.ph/file/463c5d4a958e0ee70faca.jpg",
+        "https://telegra.ph/file/3a2bdebdb78cc691c972c.jpg",
+        "https://telegra.ph/file/ae1e3b1515fe4128c56de.jpg",
+        "https://telegra.ph/file/faf14b85351c61f4c9a1f.jpg",
+        "https://telegra.ph/file/1024ed7a97f450fda022c.jpg",
+        "https://telegra.ph/file/e0cca7bd92c7a2f45b760.jpg",
+        "https://telegra.ph/file/b4cb4fef76939dc1331af.jpg",
+        "https://telegra.ph/file/a40a213007312da2cd886.jpg",
+        "https://telegra.ph/file/edc6901e43d8e1cbeb6d8.jpg",
+        "https://telegra.ph/file/9f6254c1a460b60fedf05.jpg",
+        "https://telegra.ph/file/16877c6fdcb2ccc44749d.jpg",
+        "https://telegra.ph/file/15a50550353154f939634.jpg",
+        "https://telegra.ph/file/a654e8f6eed1fcd2868d1.jpg"
+    ]
+};

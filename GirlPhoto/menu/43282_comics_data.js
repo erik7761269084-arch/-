@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43282,
+    "title": "HaneAme - Aponia",
+    "sourceUrl": "https://telegra.ph/HaneAme---Aponia-10-05-2",
+    "images": [
+        "https://telegra.ph/file/238f2abbc7b99d01abfc9.jpg",
+        "https://telegra.ph/file/fbfdc8e906c34780fcf9f.jpg",
+        "https://telegra.ph/file/de7c47f03978e68381198.jpg",
+        "https://telegra.ph/file/46870907887cde47790ed.jpg",
+        "https://telegra.ph/file/3f4e8d7f8197ccd50b086.jpg",
+        "https://telegra.ph/file/9478a3787c7e77394c956.jpg",
+        "https://telegra.ph/file/e79d43be081e67df9a773.jpg",
+        "https://telegra.ph/file/e196788fde0f47b4af472.jpg",
+        "https://telegra.ph/file/eb91f8b94a38de4bd20ef.jpg",
+        "https://telegra.ph/file/add06a9177435be53bcc4.jpg",
+        "https://telegra.ph/file/d96647620c9601bc9ca1e.jpg",
+        "https://telegra.ph/file/53bee69c0a128e507f7a8.jpg",
+        "https://telegra.ph/file/dc8bdc2af628265fba6fd.jpg",
+        "https://telegra.ph/file/0992d548b65ed2dda3ef4.jpg",
+        "https://telegra.ph/file/f69221dcf10eb8fa749f3.jpg",
+        "https://telegra.ph/file/fa6d301fc8b7c3c7b2c22.jpg",
+        "https://telegra.ph/file/191a5b94791ff4ff19a30.jpg",
+        "https://telegra.ph/file/7b604704c3a5543673af6.jpg",
+        "https://telegra.ph/file/c6e5326a9ba1d5872dd49.jpg",
+        "https://telegra.ph/file/568041a269e125ba5a43c.jpg",
+        "https://telegra.ph/file/79f7b2a4122466dcdce07.jpg",
+        "https://telegra.ph/file/18b0f4eca8e82914c68b7.jpg",
+        "https://telegra.ph/file/337f122c033b32c813ab1.jpg",
+        "https://telegra.ph/file/c90b3269a9a74ec11f56a.jpg",
+        "https://telegra.ph/file/d94794ba64e14352f97af.jpg"
+    ]
+};

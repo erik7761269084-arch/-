@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41247,
+    "title": "Queenie - Raiden (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Queenie---Raiden-Genshin-Impact-03-12",
+    "images": [
+        "https://telegra.ph/file/1abae9bfb6731b5817c1e.jpg",
+        "https://telegra.ph/file/f7af38f05c544b5281a97.jpg",
+        "https://telegra.ph/file/62dbc2ee67f388b4372c2.jpg",
+        "https://telegra.ph/file/13a334dd7a287be94687b.jpg",
+        "https://telegra.ph/file/866b863033b23473d0f06.jpg",
+        "https://telegra.ph/file/6457399fb46cd7f5f4dfe.jpg",
+        "https://telegra.ph/file/d6065b34d087fc71b1845.jpg",
+        "https://telegra.ph/file/c6a8344081eaf282448aa.jpg",
+        "https://telegra.ph/file/d96c13fa2a127c28f46a6.jpg",
+        "https://telegra.ph/file/5c6ee99688ca1b69f02dd.jpg",
+        "https://telegra.ph/file/a9b6bc0e0e8b9f4c6da03.jpg",
+        "https://telegra.ph/file/bb3bf9f1349c2863cc1aa.jpg",
+        "https://telegra.ph/file/de199720aeb01f3c607fa.jpg",
+        "https://telegra.ph/file/3505b8cf304078c0918ac.jpg",
+        "https://telegra.ph/file/bab39564ab04dcd12172b.jpg",
+        "https://telegra.ph/file/dff4d6ed938ace1facbcf.jpg",
+        "https://telegra.ph/file/1d497e4350ea8e298a523.jpg",
+        "https://telegra.ph/file/a1ae07467567492b161b6.jpg",
+        "https://telegra.ph/file/647337b4a30c8c932245a.jpg",
+        "https://telegra.ph/file/5d43dd36bff424a57704c.jpg",
+        "https://telegra.ph/file/4e44ee7374131d298f3c1.jpg",
+        "https://telegra.ph/file/43f00572b0c99e4336d8d.jpg",
+        "https://telegra.ph/file/27c2d0a0b07682b0cbfd5.jpg",
+        "https://telegra.ph/file/2bb475c94259d92d7a075.jpg",
+        "https://telegra.ph/file/84c3500b4af3669436c0a.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22542,
+    "title": "蠢沫沫 9月",
+    "sourceUrl": "https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB-9%E6%9C%88-11-13",
+    "images": [
+        "https://telegra.ph/file/5c6ca3e68ba2f78c85c13.jpg",
+        "https://telegra.ph/file/bf7c6353bb130b881c15e.jpg",
+        "https://telegra.ph/file/0bd95c716c9c95ffa4baa.jpg",
+        "https://telegra.ph/file/5c1956ba16ddfec6eb672.jpg",
+        "https://telegra.ph/file/756ab8a96d8e3c983b9aa.jpg",
+        "https://telegra.ph/file/4bb22b5e63e4cd517e813.jpg",
+        "https://telegra.ph/file/be5150ef7f93b9b7f57bc.jpg",
+        "https://telegra.ph/file/695cb950d7d3ad4f1ba59.jpg",
+        "https://telegra.ph/file/1d5bedfd0bda7b4c0668f.jpg",
+        "https://telegra.ph/file/5cf06d3701d0c6e637356.jpg",
+        "https://telegra.ph/file/660377d2328fa6a40c513.jpg",
+        "https://telegra.ph/file/caa70ec95d9e06eafb25c.jpg",
+        "https://telegra.ph/file/50671cefdd98fc0969d97.jpg",
+        "https://telegra.ph/file/b63896622845fb01b4297.jpg",
+        "https://telegra.ph/file/8ac86a20f898841f4ffbf.jpg",
+        "https://telegra.ph/file/31875d5e2808509ba1695.jpg",
+        "https://telegra.ph/file/38bea47496dc3e8217835.jpg",
+        "https://telegra.ph/file/ff9b2febcbaa983204104.jpg",
+        "https://telegra.ph/file/4aeb9e1c7f5275e27551c.jpg",
+        "https://telegra.ph/file/93a84dfbd74ba6ea33d01.jpg",
+        "https://telegra.ph/file/beabfbc295248b7e85d93.jpg",
+        "https://telegra.ph/file/946ff7312bbfdabb9dc79.jpg",
+        "https://telegra.ph/file/aa9231839c5857d747130.jpg",
+        "https://telegra.ph/file/353fb401a7213cedcb43b.jpg",
+        "https://telegra.ph/file/1c82f1c3aaeb151e26ffe.jpg",
+        "https://telegra.ph/file/6a1ad489a9d79c03573bf.jpg"
+    ]
+};

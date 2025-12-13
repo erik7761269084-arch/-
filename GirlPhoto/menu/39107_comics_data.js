@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39107,
+    "title": "Byoru - Shuten Douji (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Byoru---Shuten-Douji-Fate-Grand-Order-05-03",
+    "images": [
+        "https://telegra.ph/file/9b9374bd50fe3ae59778c.jpg",
+        "https://telegra.ph/file/5590d3a54a6e69a99aa7f.jpg",
+        "https://telegra.ph/file/da17946c434fa196deb43.jpg",
+        "https://telegra.ph/file/186d9cc43a187380ba6ad.jpg",
+        "https://telegra.ph/file/7be2778e8e57ce42368a0.jpg",
+        "https://telegra.ph/file/1f98653ef35206958c4ff.jpg",
+        "https://telegra.ph/file/1fcd460894668adfc7ec3.jpg",
+        "https://telegra.ph/file/e6732b1eca790ad044103.jpg",
+        "https://telegra.ph/file/19e94077c0a049790873f.jpg",
+        "https://telegra.ph/file/3e94b58fd2c862b5f0966.jpg",
+        "https://telegra.ph/file/1654b63dc49475ab9c4ac.jpg",
+        "https://telegra.ph/file/714c31cb60e6516bf2ef1.jpg",
+        "https://telegra.ph/file/4fc16cbc8ce5e8a063e16.jpg",
+        "https://telegra.ph/file/8b3768c76cf40f739bb1b.jpg",
+        "https://telegra.ph/file/2d3f2e538e8705848a470.jpg",
+        "https://telegra.ph/file/09e70d1d65026a9e65f85.jpg",
+        "https://telegra.ph/file/95fdd2e301499654d5a39.jpg",
+        "https://telegra.ph/file/9274963166fa41f6fb9a4.jpg",
+        "https://telegra.ph/file/254e3e456378e434e3fbb.jpg",
+        "https://telegra.ph/file/4b989ad5de61bb0820adb.jpg",
+        "https://telegra.ph/file/acc4aa11ec353811e4114.jpg",
+        "https://telegra.ph/file/27a2cb7fd38d25481a6ae.jpg",
+        "https://telegra.ph/file/099c610e21d90c8c8d07f.jpg",
+        "https://telegra.ph/file/2d902a24354a2b48a6cf4.jpg",
+        "https://telegra.ph/file/53fb9398e443077f09c15.jpg"
+    ]
+};

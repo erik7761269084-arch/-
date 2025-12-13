@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 25292,
+    "title": "[福利姬]镜颜欢 - 深夜街道[26P]",
+    "sourceUrl": "https://telegra.ph/%E7%A6%8F%E5%88%A9%E5%A7%AC%E9%95%9C%E9%A2%9C%E6%AC%A2---%E6%B7%B1%E5%A4%9C%E8%A1%97%E9%81%9326P-10-08",
+    "images": [
+        "https://telegra.ph/file/b9a7f97a6b4383a72e43a.jpg",
+        "https://telegra.ph/file/372fd1a4c87b1f3a346a2.jpg",
+        "https://telegra.ph/file/269be99c238924fe0dca1.jpg",
+        "https://telegra.ph/file/7782051390b72dd949a05.jpg",
+        "https://telegra.ph/file/bb5ad279a05f339070b12.jpg",
+        "https://telegra.ph/file/99ca39972d75a2afccbc6.jpg",
+        "https://telegra.ph/file/544c26552f8c9c011e698.jpg",
+        "https://telegra.ph/file/7eb507794c73ba43908da.jpg",
+        "https://telegra.ph/file/112fefea34d99f7a71a2a.jpg",
+        "https://telegra.ph/file/40e229ece53cb03e4eea8.jpg",
+        "https://telegra.ph/file/e89923ba74108302c06bd.jpg",
+        "https://telegra.ph/file/46f2d38157dcc1780ff21.jpg",
+        "https://telegra.ph/file/9d036028f3a25b0c0f0d6.jpg",
+        "https://telegra.ph/file/60a65cd90124ccabd92c7.jpg",
+        "https://telegra.ph/file/74652814d0038514a8c2d.jpg",
+        "https://telegra.ph/file/5298fef043fd7c71fc4db.jpg",
+        "https://telegra.ph/file/39ab43627d7e6d948a78d.jpg",
+        "https://telegra.ph/file/ad6079610ad558eb0665c.jpg",
+        "https://telegra.ph/file/7e977112a04887fc1bda8.jpg",
+        "https://telegra.ph/file/da7aa96dec9e4b48c76d1.jpg",
+        "https://telegra.ph/file/2a0c8df96ae247d22a16d.jpg",
+        "https://telegra.ph/file/78119db0e853957a5af89.jpg",
+        "https://telegra.ph/file/6f53a9ed2808714025eec.jpg",
+        "https://telegra.ph/file/28030054d032121d1fe6b.jpg",
+        "https://telegra.ph/file/57695c3b7c81593a9b667.jpg",
+        "https://telegra.ph/file/f2ee17b60e8655e49efc6.jpg"
+    ]
+};

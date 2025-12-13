@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41579,
+    "title": "Ino - Hana Midorikawa (Prison School)",
+    "sourceUrl": "https://telegra.ph/Ino---Hana-Midorikawa-Prison-School-06-08",
+    "images": [
+        "https://telegra.ph/file/7199bb411a5a70a44572c.jpg",
+        "https://telegra.ph/file/c053501e7ebd2c1d09f92.jpg",
+        "https://telegra.ph/file/0f3c0c7f99319ff6d68d1.jpg",
+        "https://telegra.ph/file/78525d227105181620332.jpg",
+        "https://telegra.ph/file/e7bc25c5e7b0e2a366667.jpg",
+        "https://telegra.ph/file/81da94dec936c75fb9887.jpg",
+        "https://telegra.ph/file/35849b4083498a8173d8d.jpg",
+        "https://telegra.ph/file/388473bfbdb3451e74ab9.jpg",
+        "https://telegra.ph/file/6846a4a8109f7b93341f9.jpg",
+        "https://telegra.ph/file/0fcdac2bc9db1d81bf42a.jpg",
+        "https://telegra.ph/file/14084ed80842d40f1b5d2.jpg",
+        "https://telegra.ph/file/91ee903598720864aea05.jpg",
+        "https://telegra.ph/file/5eadf56bf774ca088121a.jpg",
+        "https://telegra.ph/file/c1713c89458d4d4414e5f.jpg",
+        "https://telegra.ph/file/59d10628cf38d147a014f.jpg",
+        "https://telegra.ph/file/13237b0234f32b26cede4.jpg",
+        "https://telegra.ph/file/4063c4e7d53596b1631c9.jpg",
+        "https://telegra.ph/file/5df3f968bd4d95c4c34f4.jpg",
+        "https://telegra.ph/file/1ebbf926b56a1a0cdeb10.jpg",
+        "https://telegra.ph/file/72721c5e93e442fbf124a.jpg",
+        "https://telegra.ph/file/b68d114c5be47e823d8ca.jpg",
+        "https://telegra.ph/file/b52d85d1376559c195577.jpg",
+        "https://telegra.ph/file/431a99489cd49a177e406.jpg",
+        "https://telegra.ph/file/07d79bd5d34a6d6afad31.jpg",
+        "https://telegra.ph/file/0efce76c504c6d8691b5d.jpg",
+        "https://telegra.ph/file/c18131082085a3b58204f.jpg"
+    ]
+};

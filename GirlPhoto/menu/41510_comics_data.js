@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41510,
+    "title": "Alina Becker - Strapped Akatsuki (Naruto Shippuden)",
+    "sourceUrl": "https://telegra.ph/Alina-Becker---Strapped-Akatsuki-Naruto-Shippuden-05-21",
+    "images": [
+        "https://telegra.ph/file/51bb211380c0f904f1e1c.jpg",
+        "https://telegra.ph/file/e9430b70708c6fe331b29.jpg",
+        "https://telegra.ph/file/2806831b5e45ed2b6ff5c.jpg",
+        "https://telegra.ph/file/e8c7d8be84138b1a63097.jpg",
+        "https://telegra.ph/file/b3181c7bb1064afbe772c.jpg",
+        "https://telegra.ph/file/38fc4c387b6724c939aeb.jpg",
+        "https://telegra.ph/file/d9c1b66dd67de6b98de3c.jpg",
+        "https://telegra.ph/file/475d28220e288567bfe48.jpg",
+        "https://telegra.ph/file/8f50fc1c075dbc316399e.jpg",
+        "https://telegra.ph/file/b67e972317c933bf7ac6a.jpg",
+        "https://telegra.ph/file/b3e116dbed1d64bbc8581.jpg",
+        "https://telegra.ph/file/cea6d9a74511d2008f39e.jpg",
+        "https://telegra.ph/file/f6d77765f1e200d821bd8.jpg",
+        "https://telegra.ph/file/e02dcb47cbd3fa10e4afe.jpg",
+        "https://telegra.ph/file/32f8df74b94b00a53b411.jpg",
+        "https://telegra.ph/file/b356b68c92d6b497b3505.jpg",
+        "https://telegra.ph/file/520418d8d426e3198d38f.jpg",
+        "https://telegra.ph/file/43b0e8dc6bebaa26adb06.jpg",
+        "https://telegra.ph/file/8b7c2554cd813508163d5.jpg",
+        "https://telegra.ph/file/3a8f1045664f77954948f.jpg",
+        "https://telegra.ph/file/54cb9928f9eaa2965607e.jpg",
+        "https://telegra.ph/file/89ce3a50200172a7936f3.jpg",
+        "https://telegra.ph/file/a8091dc776033d92847a5.jpg",
+        "https://telegra.ph/file/2de80a720ccae2c87debe.jpg",
+        "https://telegra.ph/file/524b12a3d6b650361f1e8.jpg",
+        "https://telegra.ph/file/d93bec7549c43f5aeb60d.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39524,
+    "title": "Potato Godzilla - Shizuku-tan (Sono Bisque Doll Wa Koi Wo Suru)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Shizuku-tan-Sono-Bisque-Doll-Wa-Koi-Wo-Suru-08-16",
+    "images": [
+        "https://telegra.ph/file/f25999d39820b0af2e699.jpg",
+        "https://telegra.ph/file/1985048d44c556864ca5e.jpg",
+        "https://telegra.ph/file/2012b49a1cb0a377863dc.jpg",
+        "https://telegra.ph/file/378b5729292f247ef047e.jpg",
+        "https://telegra.ph/file/af095e5d0dab18fd33517.jpg",
+        "https://telegra.ph/file/0ace353cc8d606031aa1f.jpg",
+        "https://telegra.ph/file/6531569973bbd10471a27.jpg",
+        "https://telegra.ph/file/402df3fe44bf43720eb20.jpg",
+        "https://telegra.ph/file/948315f161b24d9faca58.jpg",
+        "https://telegra.ph/file/77e40d8d1bc24897948cd.jpg",
+        "https://telegra.ph/file/5269f802b5df76d1cd189.jpg",
+        "https://telegra.ph/file/e709c0d13f45476e12190.jpg",
+        "https://telegra.ph/file/903412479b509dc84b358.jpg",
+        "https://telegra.ph/file/edcf46963526c9ccc4e4b.jpg",
+        "https://telegra.ph/file/894e3e5bb4ae389030e4d.jpg",
+        "https://telegra.ph/file/5281d0f0f380a8d9cd81a.jpg",
+        "https://telegra.ph/file/f937d720bcfcb1c4676ec.jpg",
+        "https://telegra.ph/file/2819331acfad72bae6145.jpg",
+        "https://telegra.ph/file/7e76d8f071c9972e9f919.jpg",
+        "https://telegra.ph/file/5a4a74afb02b475e9db94.jpg",
+        "https://telegra.ph/file/b5ddba926f09019adb4f9.jpg",
+        "https://telegra.ph/file/bfa383655c1009bb5bb54.jpg",
+        "https://telegra.ph/file/23c6d7bc96477d813d26e.jpg",
+        "https://telegra.ph/file/ef0cef74394698f9ee9e3.jpg"
+    ]
+};

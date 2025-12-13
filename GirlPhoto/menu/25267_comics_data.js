@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 25267,
+    "title": "捷哥-牛奶浴[26P]",
+    "sourceUrl": "https://telegra.ph/%E6%8D%B7%E5%93%A5-%E7%89%9B%E5%A5%B6%E6%B5%B452P-09-03",
+    "images": [
+        "https://telegra.ph/file/6d0c2d3a9bee33ad9dc78.jpg",
+        "https://telegra.ph/file/ace9a22f50ca27513173a.jpg",
+        "https://telegra.ph/file/8734cbfa84b66c1f745a7.jpg",
+        "https://telegra.ph/file/05adf8493e0f04f7cdf90.jpg",
+        "https://telegra.ph/file/18f28a31cdf8caa5791d0.jpg",
+        "https://telegra.ph/file/d3cb9fd6aa16a5c532e95.jpg",
+        "https://telegra.ph/file/7dac82c155bd61e865595.jpg",
+        "https://telegra.ph/file/8033477b00afbcfa58fde.jpg",
+        "https://telegra.ph/file/433fed676f341d1f1c96c.jpg",
+        "https://telegra.ph/file/9d53b9c9c6726a73e5c86.jpg",
+        "https://telegra.ph/file/d4586f2ab8c59d3c5a9c9.jpg",
+        "https://telegra.ph/file/b69e6a7a5b8e3604b0195.jpg",
+        "https://telegra.ph/file/7d4b73157b83942401e44.jpg",
+        "https://telegra.ph/file/c55cc3fd0282890d8e575.jpg",
+        "https://telegra.ph/file/b3769239b5b6060f3303c.jpg",
+        "https://telegra.ph/file/bef637c45273376e7044c.jpg",
+        "https://telegra.ph/file/09bd8e48c324ce7d2acd1.jpg",
+        "https://telegra.ph/file/65d14aba19ea0741b77b1.jpg",
+        "https://telegra.ph/file/7b6e1903e42d8115b3c25.jpg",
+        "https://telegra.ph/file/24152435208a672291ae3.jpg",
+        "https://telegra.ph/file/a0b19f3e7c4cab3b86148.jpg",
+        "https://telegra.ph/file/c5b7cb816624caf8c0940.jpg",
+        "https://telegra.ph/file/c84cfdd19a0a28ac322ef.jpg",
+        "https://telegra.ph/file/63a321fac7460a83e3bc2.jpg",
+        "https://telegra.ph/file/80709a4a5e7f788dadbe4.jpg",
+        "https://telegra.ph/file/b6f4ad81c60b1579088df.jpg"
+    ]
+};

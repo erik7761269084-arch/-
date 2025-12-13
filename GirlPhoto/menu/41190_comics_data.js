@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41190,
+    "title": "Yummichiyo - Taihou (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Yummichiyo---Taihou-Azur-Lane-02-26",
+    "images": [
+        "https://telegra.ph/file/2ed12e41dccf2ff03b3c0.jpg",
+        "https://telegra.ph/file/0f4e40c9b54fabaaad114.jpg",
+        "https://telegra.ph/file/d40ff8435d1775f7ed162.jpg",
+        "https://telegra.ph/file/2194fb86f8019f3c6f5d3.jpg",
+        "https://telegra.ph/file/d687fa23f60417228c686.jpg",
+        "https://telegra.ph/file/5c089b9af55f4227444ec.jpg",
+        "https://telegra.ph/file/17288b8e438e2d63dd22c.jpg",
+        "https://telegra.ph/file/154f7b42c9e4e07ca87fc.jpg",
+        "https://telegra.ph/file/46906c09cef5a6194fcd9.jpg",
+        "https://telegra.ph/file/db5736b993aba4b294a1f.jpg",
+        "https://telegra.ph/file/4ac12ff526a1be1348255.jpg",
+        "https://telegra.ph/file/61181421fc9bc9615a67a.jpg",
+        "https://telegra.ph/file/979739f94352712e17751.jpg",
+        "https://telegra.ph/file/6cce9257ff2d60066b7fe.jpg",
+        "https://telegra.ph/file/af47de477922e4fc04464.jpg",
+        "https://telegra.ph/file/b73741f03a07f35e087e7.jpg",
+        "https://telegra.ph/file/3abe75b453364a5ec65e2.jpg",
+        "https://telegra.ph/file/befaf773ea6eaa216dbb5.jpg",
+        "https://telegra.ph/file/2a1a087a0167f21e960d2.jpg",
+        "https://telegra.ph/file/d9ec7db5d20e5b43c1f37.jpg",
+        "https://telegra.ph/file/718692c7c2b25b3261f78.jpg",
+        "https://telegra.ph/file/b443e35b5e3acc7c9e5a6.jpg",
+        "https://telegra.ph/file/51bca8b8656cd40c86201.jpg",
+        "https://telegra.ph/file/26e530b7234f2efb42409.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27704,
+    "title": "ATFMAKER-雨衣[21P]",
+    "sourceUrl": "https://telegra.ph/ATFMAKER-%E9%9B%A8%E8%A1%A321P-09-23",
+    "images": [
+        "https://telegra.ph/file/d294c6d2f0c66d40dc93d.jpg",
+        "https://telegra.ph/file/2207673e958e0c94f440a.jpg",
+        "https://telegra.ph/file/85d2a9e74aa33af3afa71.jpg",
+        "https://telegra.ph/file/cfc72c06debb341f3be1c.jpg",
+        "https://telegra.ph/file/75abcef4b263a7ec2dbad.jpg",
+        "https://telegra.ph/file/252c3d37080b300ebbfa2.jpg",
+        "https://telegra.ph/file/7d7fe1dd657ca1de897c6.jpg",
+        "https://telegra.ph/file/8706869a31e3fdee320a6.jpg",
+        "https://telegra.ph/file/1ceaa919878729c5ce1ac.jpg",
+        "https://telegra.ph/file/fcff884badccaa9a1d519.jpg",
+        "https://telegra.ph/file/5ac1eb6ee35d7c4353e25.jpg",
+        "https://telegra.ph/file/2448cc0f46334a3830d3c.jpg",
+        "https://telegra.ph/file/3e739a0b08c39455de0bc.jpg",
+        "https://telegra.ph/file/90c110831568180519082.jpg",
+        "https://telegra.ph/file/7570f68c9e87174bfee87.jpg",
+        "https://telegra.ph/file/3f30e246f442aa23466d9.jpg",
+        "https://telegra.ph/file/4b908826d03ea1182e0c5.jpg",
+        "https://telegra.ph/file/63cd8b925a2501b91943d.jpg",
+        "https://telegra.ph/file/ac5c9b4dce1dd4fe0a497.jpg",
+        "https://telegra.ph/file/c168460652a433ccba593.jpg",
+        "https://telegra.ph/file/969db445df46c4802c180.jpg",
+        "https://telegra.ph/file/05c9b4abb65f01402522c.jpg",
+        "https://telegra.ph/file/25c9e3029e1c58c4b72b6.jpg"
+    ]
+};

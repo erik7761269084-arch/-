@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 32931,
+    "title": "机智的哔啵 Cosplay Zero Two Bunnygirl",
+    "sourceUrl": "https://telegra.ph/机智的哔啵-Cosplay-Zero-Two-Bunnygirl-01-14",
+    "images": [
+        "https://telegra.ph/file/4c385f83ea2adf128c4a8.jpg",
+        "https://telegra.ph/file/c261becad06618b067dda.jpg",
+        "https://telegra.ph/file/42771746681a894605e91.jpg",
+        "https://telegra.ph/file/000feea64e9d9359a55bb.jpg",
+        "https://telegra.ph/file/f84f5250ca592949d4e4f.jpg",
+        "https://telegra.ph/file/e2c813ef00a61552ccc9e.jpg",
+        "https://telegra.ph/file/6d873a941cddc236cd6c8.jpg",
+        "https://telegra.ph/file/81f90543499409483a4ab.jpg",
+        "https://telegra.ph/file/53264c906ed10e6b1af65.jpg",
+        "https://telegra.ph/file/1ad2fe8b75077991cf883.jpg",
+        "https://telegra.ph/file/fa0cc80009a339619d5d0.jpg",
+        "https://telegra.ph/file/8d5884ed776551cda2988.jpg",
+        "https://telegra.ph/file/413f55e0998a168165b95.jpg",
+        "https://telegra.ph/file/a8fd76838565dc45c519d.jpg",
+        "https://telegra.ph/file/ceb7af9f15b304621fcad.jpg",
+        "https://telegra.ph/file/735ced1783d2e491e5eef.jpg",
+        "https://telegra.ph/file/20acc33ceb71b158cd87a.jpg",
+        "https://telegra.ph/file/b2076a17d0ad3179b73b6.jpg",
+        "https://telegra.ph/file/406272a95bfb681e0a7da.jpg",
+        "https://telegra.ph/file/8feb5a00a6a64dffcb7a1.jpg",
+        "https://telegra.ph/file/b24af9ad2682ee371ad6d.jpg",
+        "https://telegra.ph/file/5f0cffb2f1d54f2b0db23.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

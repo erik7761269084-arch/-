@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27925,
+    "title": "FullFive-碉樓小露[23P]",
+    "sourceUrl": "https://telegra.ph/FullFive-%E7%A2%89%E6%A8%93%E5%B0%8F%E9%9C%B223P-09-23",
+    "images": [
+        "https://telegra.ph/file/7084f927b6e6877a522ea.jpg",
+        "https://telegra.ph/file/27b8ac9103699cf271e79.jpg",
+        "https://telegra.ph/file/9d02c6f24b8cb010d781e.jpg",
+        "https://telegra.ph/file/90cc2cb0aa9b4e89f795d.jpg",
+        "https://telegra.ph/file/022dc76de358998e65462.jpg",
+        "https://telegra.ph/file/cd3d1780c4ce315b8188d.jpg",
+        "https://telegra.ph/file/98ae7c4422845cbd19e99.jpg",
+        "https://telegra.ph/file/f1258e7d4d446c4984620.jpg",
+        "https://telegra.ph/file/319f842a616ae1899a81e.jpg",
+        "https://telegra.ph/file/66e1f6146ba1fc40934b6.jpg",
+        "https://telegra.ph/file/edbe1e347868f0c6f4421.jpg",
+        "https://telegra.ph/file/269366f4a38b7404c88f9.jpg",
+        "https://telegra.ph/file/53af433b6a63660dc7608.jpg",
+        "https://telegra.ph/file/79613833fe664852421b0.jpg",
+        "https://telegra.ph/file/6545617a76f83349d4b24.jpg",
+        "https://telegra.ph/file/da57f5d2055c23b0ea3f4.jpg",
+        "https://telegra.ph/file/098ab8c0c42a398c1a55c.jpg",
+        "https://telegra.ph/file/2b5f58c6e37217b2f3a0d.jpg",
+        "https://telegra.ph/file/59e705fb5ac4e979616f6.jpg",
+        "https://telegra.ph/file/fa3ea9c7abbae24c3ad2b.jpg",
+        "https://telegra.ph/file/0886e710445b1ff33a954.jpg",
+        "https://telegra.ph/file/a15dda61fe1141fdfe2c7.jpg",
+        "https://telegra.ph/file/1dbb4f9f23f06321a9327.jpg"
+    ]
+};

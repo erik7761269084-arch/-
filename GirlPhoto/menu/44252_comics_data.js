@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44252,
+    "title": "山中いの",
+    "sourceUrl": "https://telegra.ph/山中いの-09-29",
+    "images": [
+        "https://telegra.ph/file/323475566f28c2642bf15.jpg",
+        "https://telegra.ph/file/9ab4406de131c6d9e7c8c.jpg",
+        "https://telegra.ph/file/efe85cd399982a6ebbd8e.jpg",
+        "https://telegra.ph/file/bdb737a1d9319e20a70be.jpg",
+        "https://telegra.ph/file/3503047c9c1cbcae7da15.jpg",
+        "https://telegra.ph/file/301f5fd79bb33196edd58.jpg",
+        "https://telegra.ph/file/027a99ea6a762ca39203c.jpg",
+        "https://telegra.ph/file/d5af5c409ebb38eca39e4.jpg",
+        "https://telegra.ph/file/94db2743719bd28bd23bf.jpg",
+        "https://telegra.ph/file/23000586a1a7d4e9033e5.jpg",
+        "https://telegra.ph/file/de0147be28f2736bacfc6.jpg",
+        "https://telegra.ph/file/ffa526de8c6a681204b41.jpg",
+        "https://telegra.ph/file/dfd6716ff92d32bcef788.jpg",
+        "https://telegra.ph/file/ba63453c58cade2168ff2.jpg",
+        "https://telegra.ph/file/1ff5955db96ea1dabf3a3.jpg",
+        "https://telegra.ph/file/acd3d6434091c07bf2676.jpg",
+        "https://telegra.ph/file/7fd015d658a730f992a7a.jpg",
+        "https://telegra.ph/file/e22fa104c2e013f59a549.jpg",
+        "https://telegra.ph/file/7a8b60f9fa394a98fb332.jpg",
+        "https://telegra.ph/file/16a45bde7db7c737babbd.jpg",
+        "https://telegra.ph/file/44913f301e2ec96e65ccc.jpg",
+        "https://telegra.ph/file/c4eb8cc653d7098c59bd1.jpg",
+        "https://telegra.ph/file/f5da4ce264b521427bba6.jpg",
+        "https://telegra.ph/file/d353d4c7c1c21f7394afc.jpg"
+    ]
+};

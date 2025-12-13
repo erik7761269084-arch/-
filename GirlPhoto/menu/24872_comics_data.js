@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 24872,
+    "title": "二佐Nisa-2b同人花嫁[26P]",
+    "sourceUrl": "https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa-2b%E5%90%8C%E4%BA%BA%E8%8A%B1%E5%AB%8126P-11-30",
+    "images": [
+        "https://telegra.ph/file/ade1994268e8501e031b0.jpg",
+        "https://telegra.ph/file/a44681884ba90d27d542e.jpg",
+        "https://telegra.ph/file/66dbbc122aca55d5f8fc5.jpg",
+        "https://telegra.ph/file/9ed75d14d6a31d03f81e7.jpg",
+        "https://telegra.ph/file/dc525c12eebf189f1ad72.jpg",
+        "https://telegra.ph/file/47061a3a86abca8b699b4.jpg",
+        "https://telegra.ph/file/d8637a37b2b9a7ab409f6.jpg",
+        "https://telegra.ph/file/1d48f7acd8a81ac3feeef.jpg",
+        "https://telegra.ph/file/56cd10a761a7f2e55f30c.jpg",
+        "https://telegra.ph/file/eea1061aacb0a934897ec.jpg",
+        "https://telegra.ph/file/5e478505a8f0ffe76cfca.jpg",
+        "https://telegra.ph/file/8758b89cc0eff7fc860ab.jpg",
+        "https://telegra.ph/file/76a4f2069af0107eb945f.jpg",
+        "https://telegra.ph/file/a36d63a6fe6cbd9403e60.jpg",
+        "https://telegra.ph/file/bd6d4528c2aa94f33e95b.jpg",
+        "https://telegra.ph/file/7dff577d811167566998c.jpg",
+        "https://telegra.ph/file/a421f5de7de348b1a2b78.jpg",
+        "https://telegra.ph/file/6e60852336e93111e1137.jpg",
+        "https://telegra.ph/file/24b8c1efe2dd58c2cceda.jpg",
+        "https://telegra.ph/file/d98867df3f6be8d598270.jpg",
+        "https://telegra.ph/file/aacbb68bc0ff92386f36c.jpg",
+        "https://telegra.ph/file/88a2798be0258bb39fd8d.jpg",
+        "https://telegra.ph/file/f5f004171af03581abbcf.jpg",
+        "https://telegra.ph/file/9b28dda64794dca223e27.jpg",
+        "https://telegra.ph/file/4bc363da2a792cefd9f25.jpg",
+        "https://telegra.ph/file/476d491c65c75a121834a.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40207,
+    "title": "Xidaidai - Takina Inoue (Lycoris Recoil)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Takina-Inoue-Lycoris-Recoil-03-07",
+    "images": [
+        "https://telegra.ph/file/823410126b65a92c649c6.jpg",
+        "https://telegra.ph/file/9a9ad4ac6950236e81df6.jpg",
+        "https://telegra.ph/file/d33198a69ecf973271101.jpg",
+        "https://telegra.ph/file/5aaf14868cd114cbdc2ab.jpg",
+        "https://telegra.ph/file/3b697c6c3450ebd13472f.jpg",
+        "https://telegra.ph/file/5d05c28ebf21e4f3d4b55.jpg",
+        "https://telegra.ph/file/dcb3f241c0a32f593100e.jpg",
+        "https://telegra.ph/file/6623918ba26dd2ed712e7.jpg",
+        "https://telegra.ph/file/ab1e12b1b31c82a20cfbc.jpg",
+        "https://telegra.ph/file/1af0c44ca7b5a379ae801.jpg",
+        "https://telegra.ph/file/f0fe27ffd0d39e350e482.jpg",
+        "https://telegra.ph/file/fb1a9756be847aadabaec.jpg",
+        "https://telegra.ph/file/f398ed5c50e878cc4306d.jpg",
+        "https://telegra.ph/file/b0826f22e5b05b7acac89.jpg",
+        "https://telegra.ph/file/82746d65f0f819d575c64.jpg",
+        "https://telegra.ph/file/da3d59a2adb324ab89020.jpg",
+        "https://telegra.ph/file/7fb027d054711f685c3f2.jpg",
+        "https://telegra.ph/file/af8cab68cf67792de6432.jpg",
+        "https://telegra.ph/file/31c9290a2cef40afa3467.jpg",
+        "https://telegra.ph/file/90606641ad0ef0b3c3cf6.jpg",
+        "https://telegra.ph/file/3718847a82a2309949660.jpg",
+        "https://telegra.ph/file/a13c9b17a4ad0c1f22839.jpg",
+        "https://telegra.ph/file/bdcd1fad7a5daf663d866.jpg",
+        "https://telegra.ph/file/6ea106489371c5d47cf72.jpg"
+    ]
+};

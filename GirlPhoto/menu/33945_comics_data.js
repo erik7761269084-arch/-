@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33945,
+    "title": "[桃色れく] Asuka Shikinami Langley (式波・アスカ・ラングレー)",
+    "sourceUrl": "https://telegra.ph/桃色れく-Asuka-Shikinami-Langley-式波アスカラングレー-04-24",
+    "images": [
+        "https://telegra.ph/file/23c3bfc5a3c0713861226.jpg",
+        "https://telegra.ph/file/2f8645430bb5c8195ab0c.jpg",
+        "https://telegra.ph/file/8ccfdc3fb2ca382e5e656.jpg",
+        "https://telegra.ph/file/7a12958648dbead436fa6.jpg",
+        "https://telegra.ph/file/8cfa0695155033cf18edd.jpg",
+        "https://telegra.ph/file/8e2bab23260e576d4f1ca.jpg",
+        "https://telegra.ph/file/5aac6de739ad2490b3246.jpg",
+        "https://telegra.ph/file/2ac1fde14d35951adc50b.jpg",
+        "https://telegra.ph/file/a0803f0e10ce6e3b8e58e.jpg",
+        "https://telegra.ph/file/7e771731760d686c474b0.jpg",
+        "https://telegra.ph/file/759c089b46a003b6d17d9.jpg",
+        "https://telegra.ph/file/e8b63749c99474ff74487.jpg",
+        "https://telegra.ph/file/ce3af2043f173c56337c5.jpg",
+        "https://telegra.ph/file/b01323a9cdbd549c50b60.jpg",
+        "https://telegra.ph/file/7dc7577c4fa84f84a2f8b.jpg",
+        "https://telegra.ph/file/3d95cb68047574307c37b.jpg",
+        "https://telegra.ph/file/23c296e190a849cf6d1da.jpg",
+        "https://telegra.ph/file/65477edcd15f3b3923473.jpg",
+        "https://telegra.ph/file/784f62445bac68c1f82df.jpg",
+        "https://telegra.ph/file/c630048231ee7b4e0ec8d.jpg",
+        "https://telegra.ph/file/f98c7a88ff07ee3e704dc.jpg",
+        "https://telegra.ph/file/7b805cfbcf8f705bafa5e.jpg",
+        "https://telegra.ph/file/3ae80beaf3810c033075c.jpg",
+        "https://telegra.ph/file/d34e5f6f3de35c4869886.jpg",
+        "https://telegra.ph/file/eb7e4947cbe5a77db1b23.jpg"
+    ]
+};

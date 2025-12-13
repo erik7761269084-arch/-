@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37770,
+    "title": "Potato Godzilla - Stay Home",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Stay-Home-05-31",
+    "images": [
+        "https://telegra.ph/file/6a61f5cc8519890907f52.jpg",
+        "https://telegra.ph/file/c2534cd6b76d74412d5b3.jpg",
+        "https://telegra.ph/file/d7d93f342ba5ec0f18239.jpg",
+        "https://telegra.ph/file/4bdd9bf88f6187a790d66.jpg",
+        "https://telegra.ph/file/cb74566295323710e6398.jpg",
+        "https://telegra.ph/file/e69ec8b33e189a1178414.jpg",
+        "https://telegra.ph/file/6a46c5be5c18a23645fc7.jpg",
+        "https://telegra.ph/file/ee6f55e219ae5a646239b.jpg",
+        "https://telegra.ph/file/7424747cc1561bd29064e.jpg",
+        "https://telegra.ph/file/bb673e9f0689211e7f200.jpg",
+        "https://telegra.ph/file/f66cf76079d924006318f.jpg",
+        "https://telegra.ph/file/607d56baf73bdd96b1167.jpg",
+        "https://telegra.ph/file/57bf098873cbf62ccbeae.jpg",
+        "https://telegra.ph/file/9a744900808988e86885d.jpg",
+        "https://telegra.ph/file/be303e1081e81fd4fe4c4.jpg",
+        "https://telegra.ph/file/06231341d94679dd73a7e.jpg",
+        "https://telegra.ph/file/3416b0d7dc266cbe8ab19.jpg",
+        "https://telegra.ph/file/7133051475083524baa21.jpg",
+        "https://telegra.ph/file/de6d64426c9431bcf7085.jpg",
+        "https://telegra.ph/file/aa61212a15c68a386f9c5.jpg",
+        "https://telegra.ph/file/8873cb2aec3752c232adf.jpg",
+        "https://telegra.ph/file/ee5a172656d8da4bf4e1c.jpg",
+        "https://telegra.ph/file/1c8a7b5ad0a59a5de1bd3.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37923,
+    "title": "Momoko葵葵 - Dragon Nun Tower (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Momoko葵葵---Dragon-Nun-Tower-Random-Cosplay-06-23",
+    "images": [
+        "https://telegra.ph/file/18b15d59f7c98cb01637c.jpg",
+        "https://telegra.ph/file/ae3004d73a55f3e25478d.jpg",
+        "https://telegra.ph/file/da936d3466eb71ba10893.jpg",
+        "https://telegra.ph/file/d237937b38b1385c905ed.jpg",
+        "https://telegra.ph/file/4c72ae31f4046158d8cbd.jpg",
+        "https://telegra.ph/file/e8d391e80e27342a85c94.jpg",
+        "https://telegra.ph/file/9234b2c1dc8fff6b31ce7.jpg",
+        "https://telegra.ph/file/b70cd2d7245c50cf2b959.jpg",
+        "https://telegra.ph/file/784a5d6e1f397485140a8.jpg",
+        "https://telegra.ph/file/2bc4d90eefc29f1772828.jpg",
+        "https://telegra.ph/file/a3481e819834bc2dc7373.jpg",
+        "https://telegra.ph/file/fe48c07d9a1086a625fcc.jpg",
+        "https://telegra.ph/file/8bb2a79c35d0723f8ac27.jpg",
+        "https://telegra.ph/file/a9149ebc1d613de5c7c3d.jpg",
+        "https://telegra.ph/file/5c06b496659a7c3e16a6e.jpg",
+        "https://telegra.ph/file/80e85239cc268ce686552.jpg",
+        "https://telegra.ph/file/89adc1de260a44ec4de6d.jpg",
+        "https://telegra.ph/file/aa4bbab55de539e125d28.jpg",
+        "https://telegra.ph/file/bbd8308f787b62f28963a.jpg",
+        "https://telegra.ph/file/2a6c114cf3fe002355ee2.jpg",
+        "https://telegra.ph/file/b56fe11d40936f113f666.jpg",
+        "https://telegra.ph/file/c8c69cfbc6abe0cfa4c1e.jpg",
+        "https://telegra.ph/file/9bf7d6a49796ebc538786.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44463,
+    "title": "Lostwind10 - Sajuna Inui",
+    "sourceUrl": "https://telegra.ph/Lostwind10---Sajuna-Inui-11-27",
+    "images": [
+        "https://telegra.ph/file/75593df546557c807bd4f.jpg",
+        "https://telegra.ph/file/9eaff1f79da4526a792ad.jpg",
+        "https://telegra.ph/file/e1f2ee6c7bef9cd560322.jpg",
+        "https://telegra.ph/file/4bda6caa4073b3df2a8b0.jpg",
+        "https://telegra.ph/file/5a8fd9b881d54db1664b6.jpg",
+        "https://telegra.ph/file/e9e4960f33a31cf8c00b9.jpg",
+        "https://telegra.ph/file/3744ded9c9f1b8fa11d40.jpg",
+        "https://telegra.ph/file/a36a48f3041ace1585544.jpg",
+        "https://telegra.ph/file/cb858979d0fc5c0300e39.jpg",
+        "https://telegra.ph/file/de40ef04d90381bf33a36.jpg",
+        "https://telegra.ph/file/aa97c61f59204218257b0.jpg",
+        "https://telegra.ph/file/948651338bd22b6d927d7.jpg",
+        "https://telegra.ph/file/1efe3eb3f968563ec89e0.jpg",
+        "https://telegra.ph/file/9257a358e8daafba34ba6.jpg",
+        "https://telegra.ph/file/87af923fc746ae28f0165.jpg",
+        "https://telegra.ph/file/72965f8b4b2799ce10283.jpg",
+        "https://telegra.ph/file/c0a9aad39bd37effaeedf.jpg",
+        "https://telegra.ph/file/8d0a7d6b2507cb3565c84.jpg",
+        "https://telegra.ph/file/04ba5ab89fe9599f622b6.jpg",
+        "https://telegra.ph/file/f642acff5cd220b3854d8.jpg",
+        "https://telegra.ph/file/37b7537e9f7c4ff7e0319.jpg",
+        "https://telegra.ph/file/3a04d7d176d0d2d5df6be.jpg",
+        "https://telegra.ph/file/76913cfe26e5452ec8d35.jpg",
+        "https://telegra.ph/file/0d6d5c6cbecfda75e2321.jpg"
+    ]
+};

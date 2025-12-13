@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31291,
+    "title": "[周叽是可爱兔兔] Vol.007 一周年礼服",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔-Vol007-一周年礼服-08-16",
+    "images": [
+        "https://telegra.ph/file/5c1ccc16d72946b049ad9.jpg",
+        "https://telegra.ph/file/30e688f40b6abb39f1a5a.jpg",
+        "https://telegra.ph/file/acee97701e09a2f82b565.jpg",
+        "https://telegra.ph/file/983b0750aba8d003a2b9f.jpg",
+        "https://telegra.ph/file/5e5cfa98cb5f835fdbb25.jpg",
+        "https://telegra.ph/file/bde3d10a6bb77070b4935.jpg",
+        "https://telegra.ph/file/d58708cdbc9a73481d47b.jpg",
+        "https://telegra.ph/file/d0aeace410c27c1e5ef7a.jpg",
+        "https://telegra.ph/file/b1787a7bfefa61bc5b56b.jpg",
+        "https://telegra.ph/file/58872fc8515caf03d5149.jpg",
+        "https://telegra.ph/file/3dbcba9b841a3db6a1350.jpg",
+        "https://telegra.ph/file/937f998f98fa9a6053f08.jpg",
+        "https://telegra.ph/file/99ef7dab54d711cf5ecbd.jpg",
+        "https://telegra.ph/file/2863a6030ff011c1c5b90.jpg",
+        "https://telegra.ph/file/41513b9715ea600a276fa.jpg",
+        "https://telegra.ph/file/3a9d54189a2da7ffafc65.jpg",
+        "https://telegra.ph/file/c028cc31e2f6f45c55262.jpg",
+        "https://telegra.ph/file/4d56c817ad76751dd759c.jpg",
+        "https://telegra.ph/file/a9ad43dc5c684ff07c95c.jpg",
+        "https://telegra.ph/file/29da59f9113527580bc55.jpg",
+        "https://telegra.ph/file/63da7fccbec3f26dea7fd.jpg",
+        "https://telegra.ph/file/4bd9b04b8a7924ff8e76d.jpg",
+        "https://telegra.ph/file/c17246746735f0dffc253.jpg",
+        "https://telegra.ph/file/3fa252baae59fb892a362.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

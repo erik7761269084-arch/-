@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31425,
+    "title": "Cosplay 一北亦北 ZB-26 暗蔷摇曳",
+    "sourceUrl": "https://telegra.ph/Cosplay-一北亦北-ZB-26-暗蔷摇曳-08-16",
+    "images": [
+        "https://telegra.ph/file/4cea2cb41d41e307874dd.jpg",
+        "https://telegra.ph/file/fa1cd5204df99fbea7def.jpg",
+        "https://telegra.ph/file/574bb1aceaff636cff684.jpg",
+        "https://telegra.ph/file/0d8158ea99b7db70b2566.jpg",
+        "https://telegra.ph/file/67faf53b70bda3b9653b9.jpg",
+        "https://telegra.ph/file/d13d54198b84d461e3c71.jpg",
+        "https://telegra.ph/file/1ba3f9177e1f1e4a2d36d.jpg",
+        "https://telegra.ph/file/52c88dabb2477e00085a3.jpg",
+        "https://telegra.ph/file/285d8b241a0e3f55a9cba.jpg",
+        "https://telegra.ph/file/28ccfd6fdd38530c51368.jpg",
+        "https://telegra.ph/file/b6b5cd912d275a9a2a3d2.jpg",
+        "https://telegra.ph/file/ab0a8abbb63d6db99bf1f.jpg",
+        "https://telegra.ph/file/3104a54b94b3cd8e1a3aa.jpg",
+        "https://telegra.ph/file/bd16bba2c57cdda42f5b6.jpg",
+        "https://telegra.ph/file/42759dacbf33952501adf.jpg",
+        "https://telegra.ph/file/f2ed830119f1180d482b1.jpg",
+        "https://telegra.ph/file/63d21afc6df84244dde40.jpg",
+        "https://telegra.ph/file/ed4a47a99d5d7ce6d0752.jpg",
+        "https://telegra.ph/file/e6c60b85bd2566e1f17ee.jpg",
+        "https://telegra.ph/file/77628f8c600e91dd9117c.jpg",
+        "https://telegra.ph/file/7ed78e75149d10d2f34c3.jpg",
+        "https://telegra.ph/file/c5e266b90695b6f15cef4.jpg",
+        "https://telegra.ph/file/24e967b5a5b76bc89a989.jpg",
+        "https://telegra.ph/file/426cb7fee49edc00bfe34.jpg",
+        "https://telegra.ph/file/af2a367bcc43435f8a300.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

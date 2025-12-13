@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30001,
+    "title": "G44不会受伤 碧蓝档案 砂狼白子泳装 [26P-288MB]",
+    "sourceUrl": "https://telegra.ph/G44%E4%B8%8D%E4%BC%9A%E5%8F%97%E4%BC%A4-%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E7%A0%82%E7%8B%BC%E7%99%BD%E5%AD%90%E6%B3%B3%E8%A3%85-26P-288MB-02-08",
+    "images": [
+        "https://telegra.ph/file/88b5a4fcf0f5a44abd4ed.jpg",
+        "https://telegra.ph/file/3d7d82a75810ba75afa7d.jpg",
+        "https://telegra.ph/file/950f694c250bbee2974f4.jpg",
+        "https://telegra.ph/file/8c70942faa82cf6cb2e9f.jpg",
+        "https://telegra.ph/file/e594aa380117c155e1f41.jpg",
+        "https://telegra.ph/file/55ecaff98798f2607b731.jpg",
+        "https://telegra.ph/file/bb9e8e0274c223fcc2727.jpg",
+        "https://telegra.ph/file/e73fa6e1bd791a9a47bd1.jpg",
+        "https://telegra.ph/file/73840dcc034c124956f34.jpg",
+        "https://telegra.ph/file/dc4b814514b579885387e.jpg",
+        "https://telegra.ph/file/3d09f0c8f8ac67c94973a.jpg",
+        "https://telegra.ph/file/d24081eabf2e7e604deda.jpg",
+        "https://telegra.ph/file/c1b3a0ea865bf48038f02.jpg",
+        "https://telegra.ph/file/e56aa4fadf2dd14e0f0fc.jpg",
+        "https://telegra.ph/file/59bd6132b8284a6588e82.jpg",
+        "https://telegra.ph/file/baa74ab2c08ebbc6c5ee7.jpg",
+        "https://telegra.ph/file/6948d9d6bfdc103172ab8.jpg",
+        "https://telegra.ph/file/1997e3523c11511d02694.jpg",
+        "https://telegra.ph/file/f81b39bc3b4320e47d260.jpg",
+        "https://telegra.ph/file/17ff3d9122b5cc4a22a1b.jpg",
+        "https://telegra.ph/file/e4fd5489b17a985df566a.jpg",
+        "https://telegra.ph/file/ceecf6a9c73790496548e.jpg",
+        "https://telegra.ph/file/a32c385d1187dd54f42b3.jpg",
+        "https://telegra.ph/file/949462617909446972ca4.jpg",
+        "https://telegra.ph/file/9c5cf72e98b1b52c55908.jpg",
+        "https://telegra.ph/file/8a94943ecaff3d637b303.jpg"
+    ]
+};

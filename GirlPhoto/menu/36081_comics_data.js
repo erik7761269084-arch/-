@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 36081,
+    "title": "Manami Shindo 新藤まなみ, FLASH フラッシュ サンプル版 Secret NUDE",
+    "sourceUrl": "https://telegra.ph/Manami-Shindo-新藤まなみ-FLASH-フラッシュ-サンプル版-Secret-NUDE-11-27",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6GS41ejEDX_0yxj6S8D7INEgAAj_GMRvE_jlSeSyufQABVS4NAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6GYju4Ub1TYo4No0DL1Cl-vMAAjzGMRvE_jlSowpEXxCHWoUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6Gdsfo3TwT5nHxucSHmRTFdoAAj3GMRvE_jlS4Iz7mDUAAZtfAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6GWIOLLFIm4Hkzlotm4-rFzsAAj7GMRvE_jlS07fsJQSqTZcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6GcU9UxwrKgNJPLCxAeZjce0AAkDGMRvE_jlSUS6-p9IGSeIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6PPP6t6GfGT0J08KkEFsoDkoAAkLGMRvE_jlSyc_mobxYaGoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6PPnGrYxBG_DiAAFGprqWCb9xAAJBxjEbxP45Ujwamr8oAAHwhAEAAwIAA3cAAzYE.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6PJ33FiKV5YsTTH-qhj-vodIAAkPGMRvE_jlSQ6h33hSHP-kBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6PNRrlr3H0onzDapDDfe0eyAAAkTGMRvE_jlSxaT2r-VUM1gBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6PCptjCyPEHUudvzW1m7uBNMAAkXGMRvE_jlSCq6jPLjjhKkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6U6v3DjGco3U_HE1koohZmjMAAkrGMRvE_jlSYgtI_Ar1CqgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6U90J8gY717bJwUD0zypOhTkAAknGMRvE_jlSjSZAwXhOCK8BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6Uy2QWf4DWm7i5WCqgur-X18AAkfGMRvE_jlS3jDnpSvXrcsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6U9OjE4lCFVfVEgxBIwQuM4UAAkjGMRvE_jlSQexZXAItemgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6WDWhkLm6xzejL62aAsFU3JsAAkzGMRvE_jlSyY2tDB9-3EcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6U3XkdoPxDTaujlcMITiHVnIAAkvGMRvE_jlSkDxfnbf4axcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6WBXGEY9XNBYjXoUdk-zVCn0AAk_GMRvE_jlS9jG5Yd7Y4jABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6WJRUQO_sZHgKAfZVBgG7DSMAAk3GMRvE_jlSHHInuKsbCWgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6WMcxE13Tn63KlYdXaMqlxUMAAk7GMRvE_jlSTQNHzroPsc0BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6SaKEGzG7CqXs8wwUw0zTyVoAAkbGMRvE_jlSJuRSooIEkaMBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6f___upL5lwPljQMdy3nOgeYAAlDGMRvE_jlSeD__UnTrczkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6f5OcYX4Fkj7hC1Yg52OdJu8AAlHGMRvE_jlSxq3IZCCzgJ8BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z6f5CEqHxOm9wsokMmrETaXq8AAlLGMRvE_jlSYW0AAZt-yxCDAQADAgADdwADNgQ.jpg"
+    ]
+};

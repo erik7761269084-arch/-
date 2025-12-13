@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38337,
+    "title": "Meenfox - Marie Rose (Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/Meenfox---Marie-Rose-Dead-or-Alive-10-11",
+    "images": [
+        "https://telegra.ph/file/19bce907f3f8e826f971e.jpg",
+        "https://telegra.ph/file/07cd323d2378c63992a74.jpg",
+        "https://telegra.ph/file/bb565ea32b06fa3b7591f.jpg",
+        "https://telegra.ph/file/b50ebb9bcc84e2bc4a318.jpg",
+        "https://telegra.ph/file/635e8f552756fba64b0d6.jpg",
+        "https://telegra.ph/file/ebd01e1d68561267ae494.jpg",
+        "https://telegra.ph/file/ddddfe115e2d3d812ffc9.jpg",
+        "https://telegra.ph/file/0359fd87ed3973e06a08c.jpg",
+        "https://telegra.ph/file/e3f086e8eeddb5415ad44.jpg",
+        "https://telegra.ph/file/fb5e457d00e7827228b2b.jpg",
+        "https://telegra.ph/file/bc5d0b3691db9edcdba29.jpg",
+        "https://telegra.ph/file/a6eabe5efe8daeeb43595.jpg",
+        "https://telegra.ph/file/4f364eb85fcb054c7860b.jpg",
+        "https://telegra.ph/file/23decaf0d022d9fee098c.jpg",
+        "https://telegra.ph/file/f4df9e4d74aff72db996b.jpg",
+        "https://telegra.ph/file/a78be9bbbc05acec39cb7.jpg",
+        "https://telegra.ph/file/3b57a5cab3a88648600da.jpg",
+        "https://telegra.ph/file/8874b235f8ddef0315344.jpg",
+        "https://telegra.ph/file/bacbad5fa16787702aeed.jpg",
+        "https://telegra.ph/file/28ff41fcf330b43eb3cd1.jpg",
+        "https://telegra.ph/file/dc2ea5a4c8d22c3e8c168.jpg",
+        "https://telegra.ph/file/bf96ea543a60334d68e3a.jpg",
+        "https://telegra.ph/file/4b809af51997618d0ade3.jpg",
+        "https://telegra.ph/file/99b23a15a8c224fc1fbf5.jpg",
+        "https://telegra.ph/file/863d997123d6784eb15ed.jpg",
+        "https://telegra.ph/file/43a237b315a639da66855.jpg"
+    ]
+};

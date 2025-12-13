@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40140,
+    "title": "Virtual Geisha - Fubuki (One Punch Men)",
+    "sourceUrl": "https://telegra.ph/Virtual-Geisha---Fubuki-One-Punch-Men-01-20",
+    "images": [
+        "https://telegra.ph/file/567fcad22c984473a4436.jpg",
+        "https://telegra.ph/file/3b6187b6cb09e759c9761.jpg",
+        "https://telegra.ph/file/1e4ea23505851d647df61.jpg",
+        "https://telegra.ph/file/20e04ccf7f44076e8e221.jpg",
+        "https://telegra.ph/file/95dc3954bc6c351bce002.jpg",
+        "https://telegra.ph/file/d2e410182b73ccdd07c22.jpg",
+        "https://telegra.ph/file/3568c41aedf2345059484.jpg",
+        "https://telegra.ph/file/a300a33edea09faa12276.jpg",
+        "https://telegra.ph/file/9faf2122e4c2f59d03348.jpg",
+        "https://telegra.ph/file/864b385214fa841777974.jpg",
+        "https://telegra.ph/file/7c5896829da4e9244228e.jpg",
+        "https://telegra.ph/file/8b525217b30695d5c0d50.jpg",
+        "https://telegra.ph/file/e806b503c012c20471efd.jpg",
+        "https://telegra.ph/file/e1faf7f32df0008456b28.jpg",
+        "https://telegra.ph/file/036282278c5ebfac31916.jpg",
+        "https://telegra.ph/file/d27ca6b4e5c47eab00f9c.jpg",
+        "https://telegra.ph/file/6dace2bc8afd30dd6fde9.jpg",
+        "https://telegra.ph/file/38cdad3567cde27af8e97.jpg",
+        "https://telegra.ph/file/bab9c414e4c9b1d793bfe.jpg",
+        "https://telegra.ph/file/ddcc1e4fe199f9f490290.jpg",
+        "https://telegra.ph/file/b6ee6f04024c8ef884a2f.jpg",
+        "https://telegra.ph/file/62b5edf7366453c261856.jpg",
+        "https://telegra.ph/file/c57c01c5289c4cb905d57.jpg",
+        "https://telegra.ph/file/bc43eb5e982f1262585de.jpg"
+    ]
+};

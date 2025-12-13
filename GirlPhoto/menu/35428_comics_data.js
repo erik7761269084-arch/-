@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 35428,
+    "title": "桜井宁宁 Cosplay 加藤惠 Megumi Kato",
+    "sourceUrl": "https://telegra.ph/桜井宁宁-Cosplay-加藤惠-Megumi-Kato-09-22",
+    "images": [
+        "https://telegra.ph/file/9ce1d5d6e211549488583.jpg",
+        "https://telegra.ph/file/74f1d8fbae074dd92e89a.jpg",
+        "https://telegra.ph/file/a47f81f87a1a0210617ae.jpg",
+        "https://telegra.ph/file/758b135e847b7c1d0f3c2.jpg",
+        "https://telegra.ph/file/41632786351168a51a83b.jpg",
+        "https://telegra.ph/file/70b937e330ba5d1311ec4.jpg",
+        "https://telegra.ph/file/69c8337d1b3c4585f511c.jpg",
+        "https://telegra.ph/file/839c56cea12cf02ec5127.jpg",
+        "https://telegra.ph/file/1a8f8641ec5797d35f76e.jpg",
+        "https://telegra.ph/file/55b67b70584f849125aa5.jpg",
+        "https://telegra.ph/file/50217804b799411d93092.jpg",
+        "https://telegra.ph/file/331644b51ca9e284a6157.jpg",
+        "https://telegra.ph/file/100e435200666900710c8.jpg",
+        "https://telegra.ph/file/43b46f40df4f0341168fc.jpg",
+        "https://telegra.ph/file/311a628e1eaadfe6b4357.jpg",
+        "https://telegra.ph/file/d7c48f56387548bb554bf.jpg",
+        "https://telegra.ph/file/9e3e2ca7eae887a4b8eff.jpg",
+        "https://telegra.ph/file/63da16296f2798578a7ab.jpg",
+        "https://telegra.ph/file/68ee9cc80ae0b38df80f6.jpg",
+        "https://telegra.ph/file/0760be0f2bf9447ca31b9.jpg",
+        "https://telegra.ph/file/8f2b355e5b5e27f9dd055.jpg",
+        "https://telegra.ph/file/7826f854a5af600fd794f.jpg",
+        "https://telegra.ph/file/ccc71f76e3707bfa41ca3.jpg"
+    ]
+};

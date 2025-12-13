@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31865,
+    "title": "[九曲Jean] Richelieu 黎塞留 Swimsuit Ver.",
+    "sourceUrl": "https://telegra.ph/九曲Jean-Richelieu-黎塞留-Swimsuit-Ver-09-19",
+    "images": [
+        "https://telegra.ph/file/b9d7fae1475066dd55774.jpg",
+        "https://telegra.ph/file/256df802424c6baf7f36e.jpg",
+        "https://telegra.ph/file/e478de264f73096799d26.jpg",
+        "https://telegra.ph/file/c7d16de74e4264451afb0.jpg",
+        "https://telegra.ph/file/a8083b995a4b3a02870fd.jpg",
+        "https://telegra.ph/file/7965aeb70bf5386657e59.jpg",
+        "https://telegra.ph/file/b5c5ad5949ee31ece4013.jpg",
+        "https://telegra.ph/file/87328425c6f737141629d.jpg",
+        "https://telegra.ph/file/297b7c225c4dc8f7395ce.jpg",
+        "https://telegra.ph/file/37b0f1bddadd32bb82dfb.jpg",
+        "https://telegra.ph/file/76b663aa58eb7af9fecde.jpg",
+        "https://telegra.ph/file/c7e7ad9a6ec00a7ba4d75.jpg",
+        "https://telegra.ph/file/7ac16d432ad3879438609.jpg",
+        "https://telegra.ph/file/4fb125427953d0ef1cc0e.jpg",
+        "https://telegra.ph/file/9a81c01a7c62c49cb3c23.jpg",
+        "https://telegra.ph/file/ec93628d46bb77f62ee97.jpg",
+        "https://telegra.ph/file/e09941aaeda663b929785.jpg",
+        "https://telegra.ph/file/3c829fdf85867071b2122.jpg",
+        "https://telegra.ph/file/ca1da523e4c14e2a80818.jpg",
+        "https://telegra.ph/file/9c5bb90b07794cf98979e.jpg",
+        "https://telegra.ph/file/22e0bbd1c7387752c3042.jpg",
+        "https://telegra.ph/file/e7c59a7caf0a51a27c207.jpg",
+        "https://telegra.ph/file/648a17deb4a80a6ad61de.jpg",
+        "https://telegra.ph/file/1b877841e4b0dedde84ce.jpg",
+        "https://telegra.ph/file/b9a220be2745e99760464.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38192,
+    "title": "Choi Ji Yun - Mahito (Jujutsu Kaisen)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Mahito-Jujutsu-Kaisen-08-27",
+    "images": [
+        "https://telegra.ph/file/b5dfb1eade28022359a62.jpg",
+        "https://telegra.ph/file/82dd512b4a5deb78d83ea.jpg",
+        "https://telegra.ph/file/899c199ede993c6ededd2.jpg",
+        "https://telegra.ph/file/b02b2395fc38543da5816.jpg",
+        "https://telegra.ph/file/54d46dbd48247436a9fcb.jpg",
+        "https://telegra.ph/file/28b70df777b536cf7f50d.jpg",
+        "https://telegra.ph/file/df18c9b866e0a7572c56f.jpg",
+        "https://telegra.ph/file/a7acf1f59855800c5f5fc.jpg",
+        "https://telegra.ph/file/24d30943ad50f502cf2cc.jpg",
+        "https://telegra.ph/file/a29daf9200d20203699bc.jpg",
+        "https://telegra.ph/file/45921d41f3d86e4210d3c.jpg",
+        "https://telegra.ph/file/32a61f189c41d2a648bef.jpg",
+        "https://telegra.ph/file/b93b0a9d060a96e312e22.jpg",
+        "https://telegra.ph/file/7960b2572e8147bdf85d5.jpg",
+        "https://telegra.ph/file/b86f2b4c44f87b4a300ec.jpg",
+        "https://telegra.ph/file/d439bcc0a3bdc61f0b21e.jpg",
+        "https://telegra.ph/file/ded024032b5bf0be2a9ad.jpg",
+        "https://telegra.ph/file/8be07b4b908d0ad735ff3.jpg",
+        "https://telegra.ph/file/4924d0ee39fc7000ff786.jpg",
+        "https://telegra.ph/file/8a995dca885ed81a6a6cc.jpg",
+        "https://telegra.ph/file/bc96965ecc643e071d931.jpg",
+        "https://telegra.ph/file/f609fdd279c7197dce51a.jpg",
+        "https://telegra.ph/file/8ef66083b9dd48db27dff.jpg",
+        "https://telegra.ph/file/0c7fd0ab95b751824df06.jpg",
+        "https://telegra.ph/file/e018e8a9d4d6bd79a33f1.jpg",
+        "https://telegra.ph/file/7ea01eae766430b2146fb.jpg"
+    ]
+};

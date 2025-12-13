@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41903,
+    "title": "Ayame - Houshou Marine (Hololive)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-01-3",
+    "images": [
+        "https://i.ibb.co/s9Smdv3b/Ayame-001-compress49.jpg",
+        "https://i.ibb.co/4wPDny96/Ayame-002-compress44.jpg",
+        "https://i.ibb.co/gxJjYFC/Ayame-003-compress22.jpg",
+        "https://i.ibb.co/ZppL3XkR/Ayame-004-compress29.jpg",
+        "https://i.ibb.co/k211q62W/Ayame-005-compress38.jpg",
+        "https://i.ibb.co/BKzSNJmq/Ayame-006-compress24.jpg",
+        "https://i.ibb.co/zhptXGCw/Ayame-007-compress36.jpg",
+        "https://i.ibb.co/XxGWfDGD/Ayame-008-compress35.jpg",
+        "https://i.ibb.co/Kpz3XGCH/Ayame-009-compress21.jpg",
+        "https://i.ibb.co/0VJ0SXvk/Ayame-010-compress11.jpg",
+        "https://i.ibb.co/rGLPYcTC/Ayame-011-compress96.jpg",
+        "https://i.ibb.co/93qkS7Mt/Ayame-012-compress47.jpg",
+        "https://i.ibb.co/cjR57YB/Ayame-013-compress40.jpg",
+        "https://i.ibb.co/D3ySHwb/Ayame-014-compress29.jpg",
+        "https://i.ibb.co/7dzYPtsf/Ayame-015-compress85.jpg",
+        "https://i.ibb.co/bgTvVY8Z/Ayame-016-compress62.jpg",
+        "https://i.ibb.co/M4Yv3YC/Ayame-017-compress3.jpg",
+        "https://i.ibb.co/nqdTFpJN/Ayame-018-compress77.jpg",
+        "https://i.ibb.co/3ynBygFx/Ayame-019-compress23.jpg",
+        "https://i.ibb.co/KjzRjMnQ/Ayame-020-compress49.jpg",
+        "https://i.ibb.co/kVLH8f3B/Ayame-021-compress80.jpg",
+        "https://i.ibb.co/4RPTFGvz/Ayame-022-compress47.jpg",
+        "https://i.ibb.co/W44HbGhX/Ayame-023-compress70.jpg",
+        "https://i.ibb.co/Lz0pS0Qm/Ayame-024-compress61.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40194,
+    "title": "Lana Bee - Gwenpool",
+    "sourceUrl": "https://telegra.ph/Lana-Bee---Gwenpool-02-28",
+    "images": [
+        "https://telegra.ph/file/4ee68df76caebe35297c7.jpg",
+        "https://telegra.ph/file/3762c13289e18d130a8bb.jpg",
+        "https://telegra.ph/file/f095e3065955a0e5d7ad0.jpg",
+        "https://telegra.ph/file/c7cd5b41464648489d8c7.jpg",
+        "https://telegra.ph/file/04d1f0e7ab0881a4820f0.jpg",
+        "https://telegra.ph/file/4bab5660a798abfbe4ce6.jpg",
+        "https://telegra.ph/file/ec76ca71cfdd262f74a0b.jpg",
+        "https://telegra.ph/file/ac943dd9a52976e806f43.jpg",
+        "https://telegra.ph/file/bc09e0b40be0857874512.jpg",
+        "https://telegra.ph/file/6ed48fe5e37b301bf1f18.jpg",
+        "https://telegra.ph/file/9f4b3aa34bb620039733c.jpg",
+        "https://telegra.ph/file/e4646891a839e8e65f80e.jpg",
+        "https://telegra.ph/file/ee2dc4dc8f27bb46012b7.jpg",
+        "https://telegra.ph/file/c69ec55c03e2baa8a20fc.jpg",
+        "https://telegra.ph/file/5f173debda4bb5141b7a9.jpg",
+        "https://telegra.ph/file/fa0b226078f4d9b5f0333.jpg",
+        "https://telegra.ph/file/1aa23ea9f686c56126d3e.jpg",
+        "https://telegra.ph/file/f3470beb5e17c610f2e7f.jpg",
+        "https://telegra.ph/file/bbbd957d1a53097206865.jpg",
+        "https://telegra.ph/file/b895eb3b77ff6576bcdc6.jpg",
+        "https://telegra.ph/file/2efee41cafe4f71f0ba5f.jpg",
+        "https://telegra.ph/file/2b533546cb43aa68ae263.jpg",
+        "https://telegra.ph/file/6db885c728808fa89a409.jpg",
+        "https://telegra.ph/file/c34cc66afcda31fc4ab18.jpg",
+        "https://telegra.ph/file/ea19c8db23a908065db1a.jpg"
+    ]
+};

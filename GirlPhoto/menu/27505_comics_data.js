@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27505,
+    "title": "Honkai Impact 3rd _Aponia_阿波尼亞（10月11打赏群资源）",
+    "sourceUrl": "https://telegra.ph/Honkai-Impact-3rd-Aponia-%E9%98%BF%E6%B3%A2%E5%B0%BC%E4%BA%9E10%E6%9C%8811%E6%89%93%E8%B5%8F%E7%BE%A4%E8%B5%84%E6%BA%90-10-11",
+    "images": [
+        "https://telegra.ph/file/f1c34643ceb09a2d878da.png",
+        "https://telegra.ph/file/978f09225dc5cebc62c9d.jpg",
+        "https://telegra.ph/file/0bf843c43484144d44fba.jpg",
+        "https://telegra.ph/file/e1cd35af5f8421b0a34a0.jpg",
+        "https://telegra.ph/file/965a352906fbb4fc9d442.jpg",
+        "https://telegra.ph/file/eea94fe23be863afa69c8.jpg",
+        "https://telegra.ph/file/68f5ca5d4d36e21d6570c.jpg",
+        "https://telegra.ph/file/d8d18c9def2e00df1a1e2.jpg",
+        "https://telegra.ph/file/4e247c066676a7502c77f.jpg",
+        "https://telegra.ph/file/b87e8d6c79692f11a97b2.jpg",
+        "https://telegra.ph/file/6956992bec79c0940acd5.jpg",
+        "https://telegra.ph/file/7dc39ebd540fc2845bfee.jpg",
+        "https://telegra.ph/file/349865694cc6abda86257.jpg",
+        "https://telegra.ph/file/a4e1efe3dd6a523565362.jpg",
+        "https://telegra.ph/file/a0cf953e55cf23e17e626.jpg",
+        "https://telegra.ph/file/048fe6778809bcf8441dd.jpg",
+        "https://telegra.ph/file/23cdb277cc23adfd85ce8.jpg",
+        "https://telegra.ph/file/c0833c235c88fbc8bd4de.jpg",
+        "https://telegra.ph/file/3ca485e45dc3bc8e3d613.jpg",
+        "https://telegra.ph/file/0a17d9406c6ab22a848be.jpg",
+        "https://telegra.ph/file/9cebb370ffca7cdb973af.jpg",
+        "https://telegra.ph/file/dff815c60ac27b6d64574.jpg",
+        "https://telegra.ph/file/1df98a62f36ea38f2cc2f.jpg",
+        "https://telegra.ph/file/69c98e3bbbef0850f3b20.jpg",
+        "https://telegra.ph/file/e402c699295e23096c364.jpg",
+        "https://telegra.ph/file/99231ca82254d5364763e.jpg"
+    ]
+};

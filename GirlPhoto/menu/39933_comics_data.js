@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39933,
+    "title": "Fantasy Factory - Shuten douji (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Shuten-douji-Fate-Grand-Order-11-29",
+    "images": [
+        "https://telegra.ph/file/1f0938b181706a3017b86.jpg",
+        "https://telegra.ph/file/5da950ded3b92e3912923.jpg",
+        "https://telegra.ph/file/f7f5bcc5214a71aaffec1.jpg",
+        "https://telegra.ph/file/35b7cac4aa9a1ac7049f5.jpg",
+        "https://telegra.ph/file/4cad231251699a9acd9a2.jpg",
+        "https://telegra.ph/file/9c6affa99be2267c37a0c.jpg",
+        "https://telegra.ph/file/3fad17f3dce1a7705a91b.jpg",
+        "https://telegra.ph/file/d11fd3de0d6035b20d5b4.jpg",
+        "https://telegra.ph/file/c37f1913b307cd7cfc7c9.jpg",
+        "https://telegra.ph/file/d980b124e78a81e95c1fc.jpg",
+        "https://telegra.ph/file/d4edbd5c86ddeaceaae89.jpg",
+        "https://telegra.ph/file/aafc434ee3287827a867b.jpg",
+        "https://telegra.ph/file/596b4cbafa6eccbf1b32d.jpg",
+        "https://telegra.ph/file/6358bf1c80fddd9087f4a.jpg",
+        "https://telegra.ph/file/c17c82ba4597d3adec4c4.jpg",
+        "https://telegra.ph/file/6d2fbe133123b70dec37f.jpg",
+        "https://telegra.ph/file/37251ed4a0f99ad2a9834.jpg",
+        "https://telegra.ph/file/e17d27dea3c9ef78c106e.jpg",
+        "https://telegra.ph/file/e11447f40460ebfc3a019.jpg",
+        "https://telegra.ph/file/93aa9e9c4500368748611.jpg",
+        "https://telegra.ph/file/4f4f1eb89e9812d90c67e.jpg",
+        "https://telegra.ph/file/eb3a13e7b3208b756143b.jpg",
+        "https://telegra.ph/file/1381ffc869deeb3eee355.jpg",
+        "https://telegra.ph/file/2cdffb340ccd1adbedfb0.jpg",
+        "https://telegra.ph/file/6437ea5045a0ef4f90b1f.jpg"
+    ]
+};

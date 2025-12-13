@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22899,
+    "title": "Neppuネップ MILKY MOO [25P658MB]",
+    "sourceUrl": "https://telegra.ph/Neppu%E3%83%8D%E3%83%83%E3%83%97-MILKY-MOO-25P658MB-12-22",
+    "images": [
+        "https://telegra.ph/file/6b2d62def26d0104c4966.jpg",
+        "https://telegra.ph/file/b049a784086330f798932.jpg",
+        "https://telegra.ph/file/9cfc3c500dde3344cc9dc.jpg",
+        "https://telegra.ph/file/6c7a85a216be341c22dc1.jpg",
+        "https://telegra.ph/file/a70a2e8924b3b54e8d991.jpg",
+        "https://telegra.ph/file/6fb9c35ac7dceddd0795e.jpg",
+        "https://telegra.ph/file/37a682b8b48f5d3df2f8e.jpg",
+        "https://telegra.ph/file/87ab2eb50c2ceb1f7db24.jpg",
+        "https://telegra.ph/file/9c4ae549dd16e3e61a63b.jpg",
+        "https://telegra.ph/file/88c1aa83d3e8858e61205.jpg",
+        "https://telegra.ph/file/65332dde5cd7bf834b8d0.jpg",
+        "https://telegra.ph/file/b1aec43258a6e0a8ae7f0.jpg",
+        "https://telegra.ph/file/1d03ffcdf81b3b8a34d6f.jpg",
+        "https://telegra.ph/file/74971859a853a4e588717.jpg",
+        "https://telegra.ph/file/a68f0bd93fc5a57805b2d.jpg",
+        "https://telegra.ph/file/66b6a7b0d0ee32ad8361e.jpg",
+        "https://telegra.ph/file/c99bbacb37cf1a0c80aaf.jpg",
+        "https://telegra.ph/file/2ff468f8556d413558137.jpg",
+        "https://telegra.ph/file/4b7c212f51be847c2f67c.jpg",
+        "https://telegra.ph/file/576781e4c14397a11d0d3.jpg",
+        "https://telegra.ph/file/dd168f8bb39744a8bea4e.jpg",
+        "https://telegra.ph/file/4da6bfba6100d61d2622d.jpg",
+        "https://telegra.ph/file/07d5b60ed782bc0ed0931.jpg",
+        "https://telegra.ph/file/5bbeb34c2869c94b3b8e5.jpg",
+        "https://telegra.ph/file/45ceb9bdd0b7d5759d9c0.jpg"
+    ]
+};

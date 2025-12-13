@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39666,
+    "title": "橙子喵酱 - Raiden Shogun (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---Raiden-Shogun-Genshin-Impact-09-13",
+    "images": [
+        "https://telegra.ph/file/20b13137fbf50e73b9fbe.jpg",
+        "https://telegra.ph/file/7d2ba1f014aad9118f450.jpg",
+        "https://telegra.ph/file/88a57703406b12e7dd31b.jpg",
+        "https://telegra.ph/file/9eea686bbbabf6840b099.jpg",
+        "https://telegra.ph/file/4a4071a0d3fac3cd322c1.jpg",
+        "https://telegra.ph/file/10f65cdc7d180505f2de3.jpg",
+        "https://telegra.ph/file/78238a56f0caa6a0b25cc.jpg",
+        "https://telegra.ph/file/f38653a3fc554cc62c194.jpg",
+        "https://telegra.ph/file/ee062592ab16d1b874cb2.jpg",
+        "https://telegra.ph/file/42554aa7307b038cf517c.jpg",
+        "https://telegra.ph/file/a42f0f3fcdc2bfc2763c3.jpg",
+        "https://telegra.ph/file/66766985deb37e576f7da.jpg",
+        "https://telegra.ph/file/bc49996c8fc4bcf4a334d.jpg",
+        "https://telegra.ph/file/a2a4d4a246743b35fb23a.jpg",
+        "https://telegra.ph/file/fe29de12d9226aacf1adf.jpg",
+        "https://telegra.ph/file/8c4a06e20c80c62a6d9b6.jpg",
+        "https://telegra.ph/file/3219ff6033367b9ef0d57.jpg",
+        "https://telegra.ph/file/369e17452a428ff05c6b6.jpg",
+        "https://telegra.ph/file/6e09e55507ab946142c10.jpg",
+        "https://telegra.ph/file/f0e2e6f1daa918bfbfcbd.jpg",
+        "https://telegra.ph/file/3347fcd950116d3db43dc.jpg",
+        "https://telegra.ph/file/f5d3d06690041f0bbf042.jpg",
+        "https://telegra.ph/file/ea39897b016081bce82cb.jpg",
+        "https://telegra.ph/file/bc3bb5f61cdf38fe46bc0.jpg",
+        "https://telegra.ph/file/ca5e633d44fc636d20317.jpg",
+        "https://telegra.ph/file/4db62435440e5db861880.jpg"
+    ]
+};

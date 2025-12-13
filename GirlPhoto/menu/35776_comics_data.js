@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35776,
+    "title": "Bitnara 김빛나라, [SAINT Photolife] “BITNARA Vol.2” Set.02",
+    "sourceUrl": "https://telegra.ph/Bitnara-김빛나라-SAINT-Photolife-BITNARA-Vol2-Set02-10-27",
+    "images": [
+        "https://telegra.ph/file/4a34b32b669c696c943aa.jpg",
+        "https://telegra.ph/file/09e2820298c5c5dd70f8b.jpg",
+        "https://telegra.ph/file/b85bca0b31a115b2f82f6.jpg",
+        "https://telegra.ph/file/a65505342afcf66b94ae3.jpg",
+        "https://telegra.ph/file/2a4c7d93c257294e19461.jpg",
+        "https://telegra.ph/file/413354fe488a478734657.jpg",
+        "https://telegra.ph/file/3a826a56be31e4d58462a.jpg",
+        "https://telegra.ph/file/1339a921300be23e4cc12.jpg",
+        "https://telegra.ph/file/a1b93406f028076843350.jpg",
+        "https://telegra.ph/file/004fe40aa2064dda02b67.jpg",
+        "https://telegra.ph/file/17f6a088387a04e633e30.jpg",
+        "https://telegra.ph/file/67133a650724551068e80.jpg",
+        "https://telegra.ph/file/e1f14e7d8aee67f7b92a8.jpg",
+        "https://telegra.ph/file/632e89fd516a5df63ba84.jpg",
+        "https://telegra.ph/file/40308f05798e53f2b80bb.jpg",
+        "https://telegra.ph/file/04686cdb4fd06f11dc9c9.jpg",
+        "https://telegra.ph/file/247f2c0acb522622dda48.jpg",
+        "https://telegra.ph/file/bc26477d2d18b9e9621b8.jpg",
+        "https://telegra.ph/file/8c85d5e53c98b63d2aff5.jpg",
+        "https://telegra.ph/file/1a94edb71669f9633d9c0.jpg",
+        "https://telegra.ph/file/a93fdd2237f4e284aa7fa.jpg",
+        "https://telegra.ph/file/beacba08935cb0846ed1c.jpg",
+        "https://telegra.ph/file/14aa9073ddf935e15889c.jpg",
+        "https://telegra.ph/file/aa3fb4d1eb746302ebd2c.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41143,
+    "title": "Lady Melamori - Tracer (Overwatch)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Tracer-Overwatch-02-09",
+    "images": [
+        "https://telegra.ph/file/64c87077dbdec991128d4.jpg",
+        "https://telegra.ph/file/72a844372a2b983a1d9f0.jpg",
+        "https://telegra.ph/file/ff3a5fdfc945c1f94eb9c.jpg",
+        "https://telegra.ph/file/a6281c306836f1e0b1d20.jpg",
+        "https://telegra.ph/file/ff970a0c4c706142c5e14.jpg",
+        "https://telegra.ph/file/ed685005a9e76da3c057e.jpg",
+        "https://telegra.ph/file/3d4dc84b9303d897a7efb.jpg",
+        "https://telegra.ph/file/fa2e89d5b62a0464f0f66.jpg",
+        "https://telegra.ph/file/caf82e082228d8adbb86e.jpg",
+        "https://telegra.ph/file/38a9c00dd812e6869c041.jpg",
+        "https://telegra.ph/file/9e0bec1c871bd9622d37d.jpg",
+        "https://telegra.ph/file/29ef73b8fc0a5a750da4a.jpg",
+        "https://telegra.ph/file/faee95a72d97b9af5ccc7.jpg",
+        "https://telegra.ph/file/366323517c693f5e5d394.jpg",
+        "https://telegra.ph/file/05f97cf50896b82dc4c8b.jpg",
+        "https://telegra.ph/file/5831e82d530dc5bf08364.jpg",
+        "https://telegra.ph/file/adf28a6e1092abd011f8b.jpg",
+        "https://telegra.ph/file/34de09957ef66bf931014.jpg",
+        "https://telegra.ph/file/44374e98965cffdc408b8.jpg",
+        "https://telegra.ph/file/da17638866681851ed838.jpg",
+        "https://telegra.ph/file/4380741051d906dfbf648.jpg",
+        "https://telegra.ph/file/1f0221a7c9a04b1610e98.jpg",
+        "https://telegra.ph/file/17d4c87522e71e2aedc2c.jpg",
+        "https://telegra.ph/file/e3aec47245f9e2484c660.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31367,
+    "title": "Cosplay G44不会受伤 水兰儿宅T",
+    "sourceUrl": "https://telegra.ph/Cosplay-G44不会受伤-水兰儿宅T-08-16",
+    "images": [
+        "https://telegra.ph/file/5b90853281ab260f8129a.jpg",
+        "https://telegra.ph/file/99879c4cc372d4923a054.jpg",
+        "https://telegra.ph/file/f51498d7e09488630b394.jpg",
+        "https://telegra.ph/file/3b54d38885652369665ef.jpg",
+        "https://telegra.ph/file/b16837c2948d009120d4c.jpg",
+        "https://telegra.ph/file/5f67bf63204f78cbb88c0.jpg",
+        "https://telegra.ph/file/a5de4c770009899170887.jpg",
+        "https://telegra.ph/file/bb3b7985eff1740921a5f.jpg",
+        "https://telegra.ph/file/5d620df701f6046fa170b.jpg",
+        "https://telegra.ph/file/93de203d20dc9eaa715c1.jpg",
+        "https://telegra.ph/file/1bebb893c879040e766a5.jpg",
+        "https://telegra.ph/file/7f60e22310a55dbbd4d3c.jpg",
+        "https://telegra.ph/file/ab8eb4053a847fb00ef7d.jpg",
+        "https://telegra.ph/file/5286a59c4d873126cfe96.jpg",
+        "https://telegra.ph/file/b6c8b65fe4bb92ced9ff0.jpg",
+        "https://telegra.ph/file/f86f27836ac59f92406ee.jpg",
+        "https://telegra.ph/file/e4878ab4dc91824b28592.jpg",
+        "https://telegra.ph/file/acfa50634e6f6f31d11e5.jpg",
+        "https://telegra.ph/file/8ccb447e21821ba0c231e.jpg",
+        "https://telegra.ph/file/eaab75d67ffe62fc33fc5.jpg",
+        "https://telegra.ph/file/419a45716b65f7cfaf39d.jpg",
+        "https://telegra.ph/file/26e9866f47f582365660e.jpg",
+        "https://telegra.ph/file/df482c49b998898de17dc.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

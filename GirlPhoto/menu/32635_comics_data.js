@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32635,
+    "title": "Mona 모나, Inah 이나, [Lilynah] The Lust of Ladies Set.02",
+    "sourceUrl": "https://telegra.ph/Mona-모나-Inah-이나-Lilynah-The-Lust-of-Ladies-Set02-12-16",
+    "images": [
+        "https://telegra.ph/file/68ea5fcad44929a043e13.jpg",
+        "https://telegra.ph/file/a743b4b7f671e284ef0a8.jpg",
+        "https://telegra.ph/file/0b2a2510134a4a2bc31e3.jpg",
+        "https://telegra.ph/file/352612e56fece99e95ad0.jpg",
+        "https://telegra.ph/file/32222895dceebe3fa9f4c.jpg",
+        "https://telegra.ph/file/3382679988570ace77cf7.jpg",
+        "https://telegra.ph/file/a82bfde7709539e47bf0a.jpg",
+        "https://telegra.ph/file/36a62b0371291fe9e6312.jpg",
+        "https://telegra.ph/file/f9ea632ae000481a4b26c.jpg",
+        "https://telegra.ph/file/b6a009482789d3384023f.jpg",
+        "https://telegra.ph/file/62a885db9d2b0a716a39b.jpg",
+        "https://telegra.ph/file/96ebd08af6b0a60cfeeda.jpg",
+        "https://telegra.ph/file/04e2c08c1f5c02e62d32f.jpg",
+        "https://telegra.ph/file/7d916522aa4194a3c62fc.jpg",
+        "https://telegra.ph/file/4be163ec4b65a65c55b7b.jpg",
+        "https://telegra.ph/file/aeddc7694d2751faef06c.jpg",
+        "https://telegra.ph/file/0f93ed388c46437645f14.jpg",
+        "https://telegra.ph/file/ae7fbad5e65c49c9ea56e.jpg",
+        "https://telegra.ph/file/3d4f56a7f707a4ad0dd21.jpg",
+        "https://telegra.ph/file/a9dd3c3d6bbd9e8aef61a.jpg",
+        "https://telegra.ph/file/ab900c36321f178b93d40.jpg",
+        "https://telegra.ph/file/209ac7546d34ea59fc786.jpg",
+        "https://telegra.ph/file/a27e0477201391afc8a63.jpg",
+        "https://telegra.ph/file/685da97acd13f0a989981.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

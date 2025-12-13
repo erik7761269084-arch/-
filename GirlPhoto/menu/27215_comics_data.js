@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27215,
+    "title": "一北 暗蔷摇曳（9月11会员资源）",
+    "sourceUrl": "https://telegra.ph/%E4%B8%80%E5%8C%97-%E6%9A%97%E8%94%B7%E6%91%87%E6%9B%B39%E6%9C%8811%E4%BC%9A%E5%91%98%E8%B5%84%E6%BA%90-09-11",
+    "images": [
+        "https://telegra.ph/file/4709989125fa96cefad3f.jpg",
+        "https://telegra.ph/file/c037980329b159e499af4.jpg",
+        "https://telegra.ph/file/f3d421e0eea3a41d5a8a7.jpg",
+        "https://telegra.ph/file/fad731d337f1e9e08bd9f.jpg",
+        "https://telegra.ph/file/fc50a8e7504b90ec27b55.jpg",
+        "https://telegra.ph/file/c99780e712c76ef1a5ac4.jpg",
+        "https://telegra.ph/file/40719201cb29abcde6dfe.jpg",
+        "https://telegra.ph/file/a8c929b5bdbf0826e26f0.jpg",
+        "https://telegra.ph/file/4f83c15d3551c2c4670be.jpg",
+        "https://telegra.ph/file/04490cb4fcfb7d67e9f41.jpg",
+        "https://telegra.ph/file/666cbdc26ecedfa5a02ae.jpg",
+        "https://telegra.ph/file/ee931751578ead750ec16.jpg",
+        "https://telegra.ph/file/9e53c6228ddaf1f1acb45.jpg",
+        "https://telegra.ph/file/f0fed2bff9698c17423b7.jpg",
+        "https://telegra.ph/file/21b2439520e183a3f2311.jpg",
+        "https://telegra.ph/file/4d0b135e0e9ffa09a22ee.jpg",
+        "https://telegra.ph/file/8d02cb33f815c2a030c08.jpg",
+        "https://telegra.ph/file/aa04861d49133dc3ce794.jpg",
+        "https://telegra.ph/file/e4040035a137ece2bd9eb.jpg",
+        "https://telegra.ph/file/1360139a339a6c9464935.jpg",
+        "https://telegra.ph/file/9292216ff913e1505feb5.jpg",
+        "https://telegra.ph/file/bdaf3a58a6264319d285e.jpg",
+        "https://telegra.ph/file/35a121839f46778b95559.jpg",
+        "https://telegra.ph/file/05cf210c531c34be34a82.jpg",
+        "https://telegra.ph/file/6d85890f01ce1101660b6.jpg"
+    ]
+};

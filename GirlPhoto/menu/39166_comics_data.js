@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39166,
+    "title": "Nekokoyoshi 爆机少女喵小吉 - 瓶中精灵 Elf",
+    "sourceUrl": "https://telegra.ph/Nekokoyoshi-爆机少女喵小吉---瓶中精灵-Elf-05-23",
+    "images": [
+        "https://telegra.ph/file/195c985a3b3cebd9731a6.jpg",
+        "https://telegra.ph/file/c0379ba6e01c344a4c017.jpg",
+        "https://telegra.ph/file/12b34f1be67937c6192fb.jpg",
+        "https://telegra.ph/file/89830f39d4fddef8caa0a.jpg",
+        "https://telegra.ph/file/4b2cb95c33716fa97d961.jpg",
+        "https://telegra.ph/file/48956f8eeadfcabca5330.jpg",
+        "https://telegra.ph/file/985682f9bfb5985fd0cd9.jpg",
+        "https://telegra.ph/file/979e5f31aa711ae0150ec.jpg",
+        "https://telegra.ph/file/3cd08d1e1138188f057b4.jpg",
+        "https://telegra.ph/file/b55d7e8222dd6417b9f32.jpg",
+        "https://telegra.ph/file/8aefecb56cfbc6cb29ed8.jpg",
+        "https://telegra.ph/file/5fbc1da73bacc48b340d5.jpg",
+        "https://telegra.ph/file/5872da8b76e9857dd8701.jpg",
+        "https://telegra.ph/file/e92702a9d4cac4c23c1a9.jpg",
+        "https://telegra.ph/file/7e7d07c678ec7699f0bb8.jpg",
+        "https://telegra.ph/file/af050f6d6049892b54664.jpg",
+        "https://telegra.ph/file/d44a8cc74b42be1151609.jpg",
+        "https://telegra.ph/file/dd92f5341300d91279364.jpg",
+        "https://telegra.ph/file/519193bcf86366c02b801.jpg",
+        "https://telegra.ph/file/930ac521419734b8e7cdb.jpg",
+        "https://telegra.ph/file/7e1f967ab017a26fd7150.jpg",
+        "https://telegra.ph/file/e123fe174319602d1e6a0.jpg",
+        "https://telegra.ph/file/4e3c7eb9ba2f00d5cbba0.jpg"
+    ]
+};

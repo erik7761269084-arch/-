@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39201,
+    "title": "Helly Valentine - Aerith (Final Fantasy 7)",
+    "sourceUrl": "https://telegra.ph/Helly-Valentine---Aerith-Final-Fantasy-7-06-01",
+    "images": [
+        "https://telegra.ph/file/c7d16f4df635bcccb1211.jpg",
+        "https://telegra.ph/file/9cc2e822165b528e449f7.jpg",
+        "https://telegra.ph/file/4360bec57b562a85f1676.jpg",
+        "https://telegra.ph/file/55a59ea24b15288e5e59f.jpg",
+        "https://telegra.ph/file/4dd5ec021589af623da5d.jpg",
+        "https://telegra.ph/file/72719f70e70e502b2a7a6.jpg",
+        "https://telegra.ph/file/f8ea9175f11d3e43a62e1.jpg",
+        "https://telegra.ph/file/bc0704da1c14b8eb2961d.jpg",
+        "https://telegra.ph/file/574b26204c248fce3d794.jpg",
+        "https://telegra.ph/file/9376583edae5b94c8fcea.jpg",
+        "https://telegra.ph/file/d4ce290044337fdd7ff99.jpg",
+        "https://telegra.ph/file/5999b8c497cf87aefe0c3.jpg",
+        "https://telegra.ph/file/ec63ada3027f5aedfb1db.jpg",
+        "https://telegra.ph/file/fc26d0b6c4af1aee9f410.jpg",
+        "https://telegra.ph/file/5c6a3ce06c41aa58c362f.jpg",
+        "https://telegra.ph/file/6f9ce7e63b30fe726fd8e.jpg",
+        "https://telegra.ph/file/6f6aae5ea97e19adac20c.jpg",
+        "https://telegra.ph/file/4c304674092b3426d7c89.jpg",
+        "https://telegra.ph/file/108c27d7e30c361eb08ad.jpg",
+        "https://telegra.ph/file/fed1c6a627c650978c67b.jpg",
+        "https://telegra.ph/file/17ffcf94e0bfb2fcc4933.jpg",
+        "https://telegra.ph/file/104c396cb97757493abf6.jpg",
+        "https://telegra.ph/file/86983eceecb55c361c1ad.jpg",
+        "https://telegra.ph/file/66ae1da480af79bb76da3.jpg"
+    ]
+};

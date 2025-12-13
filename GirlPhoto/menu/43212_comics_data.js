@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43212,
+    "title": "一北亦北 - 斯卡哈同人女仆 FGO Scáthach Maid [24P-108M]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%80%E5%8C%97%E4%BA%A6%E5%8C%97---%E6%96%AF%E5%8D%A1%E5%93%88%E5%90%8C%E4%BA%BA%E5%A5%B3%E4%BB%86-FGO-Sc%C3%A1thach-Maid-24P-108M-09-09",
+    "images": [
+        "https://telegra.ph/file/a76a163614f587fc4b3a9.jpg",
+        "https://telegra.ph/file/4e73a4eef339fd70ad3f4.jpg",
+        "https://telegra.ph/file/5a42b49fc57520613038e.jpg",
+        "https://telegra.ph/file/83b8aa130cfa783e83b2d.jpg",
+        "https://telegra.ph/file/a9432f45881cbec7fa948.jpg",
+        "https://telegra.ph/file/905f690a4cfe53fd8ab51.jpg",
+        "https://telegra.ph/file/e593fbd37e729f4c7de9c.jpg",
+        "https://telegra.ph/file/e4440ff29688f008a34c7.jpg",
+        "https://telegra.ph/file/d73f94b2067a97e31826d.jpg",
+        "https://telegra.ph/file/e0d0c200606738e4d2029.jpg",
+        "https://telegra.ph/file/a1cbff1a77103065aa6ec.jpg",
+        "https://telegra.ph/file/e21f385566c49ac1d1067.jpg",
+        "https://telegra.ph/file/29d18b150318ec8ef315c.jpg",
+        "https://telegra.ph/file/ea633c37f7055f4658e62.jpg",
+        "https://telegra.ph/file/0780548c2f1da03ccab8c.jpg",
+        "https://telegra.ph/file/44aa2e0c3983cf668fe92.jpg",
+        "https://telegra.ph/file/0468e4d63f5254039aaca.jpg",
+        "https://telegra.ph/file/a94fe4dd079828b2df098.jpg",
+        "https://telegra.ph/file/fc76d3f8b981d53911639.jpg",
+        "https://telegra.ph/file/bb3c33fd6db802036aa4b.jpg",
+        "https://telegra.ph/file/c8f1fde0627c5f6bf3be8.jpg",
+        "https://telegra.ph/file/0d18e3a58e011dba349a5.jpg",
+        "https://telegra.ph/file/078751158b21e80154499.jpg",
+        "https://telegra.ph/file/8299d161d3177c5cf5c75.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41704,
+    "title": "Sladkoslava - Poison Ivy (Batman)",
+    "sourceUrl": "https://telegra.ph/Sladkoslava---Poison-Ivy-Batman-07-13",
+    "images": [
+        "https://i.ibb.co/HTz3m9hC/file-893.jpg",
+        "https://i.ibb.co/b8wCTy3/file-894.jpg",
+        "https://i.ibb.co/SX3ymZKW/file-895.jpg",
+        "https://i.ibb.co/93zW74yc/file-896.jpg",
+        "https://i.ibb.co/8n3dbL66/file-897.jpg",
+        "https://i.ibb.co/dwvDSw2K/file-898.jpg",
+        "https://i.ibb.co/S7VkNVYQ/file-899.jpg",
+        "https://i.ibb.co/KcPhww8f/file-900.jpg",
+        "https://i.ibb.co/hF7XXvZC/file-901.jpg",
+        "https://i.ibb.co/S4D8vBbV/file-902.jpg",
+        "https://i.ibb.co/My3nNdp8/file-903.jpg",
+        "https://i.ibb.co/SXFCVYFf/file-904.jpg",
+        "https://i.ibb.co/S9SzGmY/file-905.jpg",
+        "https://i.ibb.co/Jw9DTfng/file-906.jpg",
+        "https://i.ibb.co/4gR9Ydg8/file-909.jpg",
+        "https://i.ibb.co/1GyhLvMj/file-908.jpg",
+        "https://i.ibb.co/Zq7RDYL/file-911.jpg",
+        "https://i.ibb.co/gMm4FGDz/file-912.jpg",
+        "https://i.ibb.co/pj70pZL2/file-910.jpg",
+        "https://i.ibb.co/q3821Qkb/file-907.jpg",
+        "https://i.ibb.co/DPHpGPG4/file-913.jpg",
+        "https://i.ibb.co/G4rcVwbF/file-914.jpg",
+        "https://i.ibb.co/Y7W9zCfy/file-915.jpg",
+        "https://i.ibb.co/wF1SmPQ1/file-916.jpg",
+        "https://i.ibb.co/1YnJHnPM/file-917.jpg"
+    ]
+};

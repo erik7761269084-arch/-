@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42887,
+    "title": "Sally Dorasnow - Mami-Bikini [25P-123MB]",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Mami-Bikini-25P-123MB-07-09",
+    "images": [
+        "https://telegra.ph/file/d8b6ce5b8b56cc9d3efb5.jpg",
+        "https://telegra.ph/file/de3fb7eaf52bae6b9a5b7.jpg",
+        "https://telegra.ph/file/83de3f585f0606fd129bd.jpg",
+        "https://telegra.ph/file/9432b72d46099d4eddf60.jpg",
+        "https://telegra.ph/file/f393740aba3c56ed1ebe8.jpg",
+        "https://telegra.ph/file/88821e0600c5829ee8f7e.jpg",
+        "https://telegra.ph/file/f67df2a3c0d6c390b1e13.jpg",
+        "https://telegra.ph/file/958bafbbc129d683e8d5f.jpg",
+        "https://telegra.ph/file/9256c44d36043b2e991ca.jpg",
+        "https://telegra.ph/file/edcc5cf8e5c5d8de9817f.jpg",
+        "https://telegra.ph/file/b7d4f9350295bba633540.jpg",
+        "https://telegra.ph/file/d6ee886a133570723c3eb.jpg",
+        "https://telegra.ph/file/5fcf51a397653f68e5bc6.jpg",
+        "https://telegra.ph/file/f105bfe47cfcefbcfcd4c.jpg",
+        "https://telegra.ph/file/fda666bdda1df594406fb.jpg",
+        "https://telegra.ph/file/043be82a84bcd3b285a53.jpg",
+        "https://telegra.ph/file/e493c3c69ee8e1960f39e.jpg",
+        "https://telegra.ph/file/81808ecd51dcbc0faf26c.jpg",
+        "https://telegra.ph/file/aab06d2c77f62c230e6ba.jpg",
+        "https://telegra.ph/file/7ff50a40db2a68498b21d.jpg",
+        "https://telegra.ph/file/ffc427a74a7517cf0c983.jpg",
+        "https://telegra.ph/file/a3cdff4ac2c42d415a87f.jpg",
+        "https://telegra.ph/file/33a60922ce5fa52fea58a.jpg",
+        "https://telegra.ph/file/c58559895f19e06e0757a.jpg",
+        "https://telegra.ph/file/219caaf47720d92fc61af.jpg"
+    ]
+};

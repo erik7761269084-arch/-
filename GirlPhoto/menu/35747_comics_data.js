@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35747,
+    "title": "Son Yeeun 손예은, [DJAWA] Holidays in Eden Set.02",
+    "sourceUrl": "https://telegra.ph/Son-Yeeun-손예은-DJAWA-Holidays-in-Eden-Set02-10-24",
+    "images": [
+        "https://telegra.ph/file/639b3a52c52c3f261d52b.jpg",
+        "https://telegra.ph/file/e89c7c4c025d369a016bb.jpg",
+        "https://telegra.ph/file/6f5e60fc8aa52298a768f.jpg",
+        "https://telegra.ph/file/217a728accdfa8a554d88.jpg",
+        "https://telegra.ph/file/fff495f56e7493a6b1e2a.jpg",
+        "https://telegra.ph/file/1a70bf97c9bc8dba433de.jpg",
+        "https://telegra.ph/file/9e45b38a3e6b6a5aaccae.jpg",
+        "https://telegra.ph/file/8df6f64d183b9bd5c0f00.jpg",
+        "https://telegra.ph/file/309ae9c08bc5faee4c25e.jpg",
+        "https://telegra.ph/file/d7819acdebb87c0edb28f.jpg",
+        "https://telegra.ph/file/358e8510b38e90478b72f.jpg",
+        "https://telegra.ph/file/bdb3bb9be6af34a0a07f4.jpg",
+        "https://telegra.ph/file/a7f6a26948189864e9a3d.jpg",
+        "https://telegra.ph/file/2b1ccd9c242f589ef1b1f.jpg",
+        "https://telegra.ph/file/1d29efff1a08b6459c2d0.jpg",
+        "https://telegra.ph/file/b710caad05989a5cf0804.jpg",
+        "https://telegra.ph/file/a12b28ffdb7c1826843b8.jpg",
+        "https://telegra.ph/file/2d51e66c9a811970ecb9a.jpg",
+        "https://telegra.ph/file/afa0da84533b6e098e626.jpg",
+        "https://telegra.ph/file/821e1e0ee9710e75f1278.jpg",
+        "https://telegra.ph/file/81d69796627f26bce32df.jpg",
+        "https://telegra.ph/file/963b4be2dce877f06bc1f.jpg",
+        "https://telegra.ph/file/8cf9412116f079fd0a479.jpg",
+        "https://telegra.ph/file/1a71cb72900505eb31fdc.jpg"
+    ]
+};

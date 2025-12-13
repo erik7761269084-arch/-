@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43072,
+    "title": "瓜希酱 - 能代衬衣 [23P-108MB]",
+    "sourceUrl": "https://telegra.ph/%E7%93%9C%E5%B8%8C%E9%85%B1---%E8%83%BD%E4%BB%A3%E8%A1%AC%E8%A1%A3-23P-108MB-08-02",
+    "images": [
+        "https://telegra.ph/file/d7c519ece565063fdd44c.jpg",
+        "https://telegra.ph/file/c24890b4d93207ca7f855.jpg",
+        "https://telegra.ph/file/d5c8bd92442a1605f5d78.jpg",
+        "https://telegra.ph/file/73bba5cf02c725bc064a5.jpg",
+        "https://telegra.ph/file/d1cd84bcc6e12d7fb2a18.jpg",
+        "https://telegra.ph/file/7932edd838efa302247ac.jpg",
+        "https://telegra.ph/file/ca696604cd92c2b73dfaf.jpg",
+        "https://telegra.ph/file/570c0a7f3b29e5f1e88e7.jpg",
+        "https://telegra.ph/file/7c9130c83817b69dd71ae.jpg",
+        "https://telegra.ph/file/b262bf75648675885c6de.jpg",
+        "https://telegra.ph/file/feb5006453efdc8b6f760.jpg",
+        "https://telegra.ph/file/d166dbebff9fa3979dc31.jpg",
+        "https://telegra.ph/file/bb2357748d9a6c6a7ad63.jpg",
+        "https://telegra.ph/file/9bb4a90d4ea35d4ff1efb.jpg",
+        "https://telegra.ph/file/b8814a49c30b0b3ea24ec.jpg",
+        "https://telegra.ph/file/ea1f6a4356e137e559931.jpg",
+        "https://telegra.ph/file/ae479eff3d06d803fde22.jpg",
+        "https://telegra.ph/file/b972a6942fbece53b2697.jpg",
+        "https://telegra.ph/file/48cf091a59a7a20afeb7a.jpg",
+        "https://telegra.ph/file/1514a693db3c43aea3006.jpg",
+        "https://telegra.ph/file/a7bf81dcded768d56a2b6.jpg",
+        "https://telegra.ph/file/210ac05861f2942351bd1.jpg",
+        "https://telegra.ph/file/2917f3acbeb58f47a52bf.jpg"
+    ]
+};

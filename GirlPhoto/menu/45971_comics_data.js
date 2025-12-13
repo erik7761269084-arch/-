@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45971,
+    "title": "Donna Loli - Emilia - Page 1",
+    "sourceUrl": "https://telegra.ph/Donna-Loli---Emilia---Page-1-11-14",
+    "images": [
+        "https://telegra.ph/file/5d4b187adb30108f711d3.jpg",
+        "https://telegra.ph/file/00eddc67aaff592270fcf.jpg",
+        "https://telegra.ph/file/4047c835ab6e0b07ea83f.jpg",
+        "https://telegra.ph/file/23d1b4175ec2bdbb20991.jpg",
+        "https://telegra.ph/file/7682de49ad2ccc4cf75cd.jpg",
+        "https://telegra.ph/file/f14338a11582d8e8945d1.jpg",
+        "https://telegra.ph/file/56189936102354320b483.jpg",
+        "https://telegra.ph/file/197c08118e0494f56f163.jpg",
+        "https://telegra.ph/file/6939686439cfe5ac6219b.jpg",
+        "https://telegra.ph/file/41ed50ae350ace93ad57d.jpg",
+        "https://telegra.ph/file/a9ae4cc1b96d1a86c54b0.jpg",
+        "https://telegra.ph/file/1f720320e3bb8fa4d3a9e.jpg",
+        "https://telegra.ph/file/75a31030ffd4b6858e3d5.jpg",
+        "https://telegra.ph/file/a076adbbab4c33708fb79.jpg",
+        "https://telegra.ph/file/c27646fada340a75f30fe.jpg",
+        "https://telegra.ph/file/b61b61002dfb39ac983e0.jpg",
+        "https://telegra.ph/file/1aa09b552c4e0de500e42.jpg",
+        "https://telegra.ph/file/8169a612a45ca0437ee79.jpg",
+        "https://telegra.ph/file/63491651900361a2b7450.jpg",
+        "https://telegra.ph/file/9351763f7b948ee66a6f7.jpg",
+        "https://telegra.ph/file/625cd1a1875d0bb177561.jpg",
+        "https://telegra.ph/file/97994a13da4f7d0e5fb47.jpg",
+        "https://telegra.ph/file/46ae6e363561aaa9fd971.jpg"
+    ]
+};

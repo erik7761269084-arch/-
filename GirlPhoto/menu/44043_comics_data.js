@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44043,
+    "title": "橙子喵酱 - 阿狸 [23P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---阿狸-23P-09-27",
+    "images": [
+        "https://telegra.ph/file/4e3944592b999840797dd.jpg",
+        "https://telegra.ph/file/3b3c8c3ae9d7957033be5.jpg",
+        "https://telegra.ph/file/5dd09828c0cc30cf28f36.jpg",
+        "https://telegra.ph/file/9f06e3bba52f49685d80f.jpg",
+        "https://telegra.ph/file/660c22fdcd6db12f5cfed.jpg",
+        "https://telegra.ph/file/4eeb89f200dd63b9572e0.jpg",
+        "https://telegra.ph/file/1785ec5ed9db0c4ddb026.jpg",
+        "https://telegra.ph/file/78d01b9bfe8cc2d258528.jpg",
+        "https://telegra.ph/file/38e6cc5d86e28072376ca.jpg",
+        "https://telegra.ph/file/d8d52e0f0466d1f5d5d93.jpg",
+        "https://telegra.ph/file/9472e22507870d0d3ca0c.jpg",
+        "https://telegra.ph/file/7e0b0fc1321c5280582a7.jpg",
+        "https://telegra.ph/file/f33023d48d51439f266c4.jpg",
+        "https://telegra.ph/file/e1a972df470575daa9135.jpg",
+        "https://telegra.ph/file/07c5c496ebeb04cf8aafd.jpg",
+        "https://telegra.ph/file/e712156ad7b4f8092dfd5.jpg",
+        "https://telegra.ph/file/f1c7cfbc984de29902217.jpg",
+        "https://telegra.ph/file/a3d0a1403ba3ab747bbdd.jpg",
+        "https://telegra.ph/file/66f57141a5055987989b3.jpg",
+        "https://telegra.ph/file/5ef0498b580939f979a44.jpg",
+        "https://telegra.ph/file/ca709f214f36bf2c5a024.jpg",
+        "https://telegra.ph/file/d15681f08e1f0bb5f8c1e.jpg",
+        "https://telegra.ph/file/2650372cd42977ab11132.jpg"
+    ]
+};

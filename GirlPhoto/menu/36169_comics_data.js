@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 36169,
+    "title": "ZIA.Kwon 권지아, [DJAWA] Overheated K2 (Girls Frontline) Set.01",
+    "sourceUrl": "https://telegra.ph/ZIAKwon-권지아-DJAWA-Overheated-K2-Girls-Frontline-Set01-12-06",
+    "images": [
+        "https://telegra.ph/file/cc09688289cfc10eae333.jpg",
+        "https://telegra.ph/file/8263e2f0df2adef31bcc5.jpg",
+        "https://telegra.ph/file/e08b595b643261a1bd2d0.jpg",
+        "https://telegra.ph/file/11ea9edb2e474c9394e85.jpg",
+        "https://telegra.ph/file/b547a4177782006249b0a.jpg",
+        "https://telegra.ph/file/6c4b9f13f37e93e015764.jpg",
+        "https://telegra.ph/file/6da57566e93b0c1448e16.jpg",
+        "https://telegra.ph/file/e83574cb221d002f2fcc0.jpg",
+        "https://telegra.ph/file/99729ffe53077734b107d.jpg",
+        "https://telegra.ph/file/b7dd26131b3163b71a2b1.jpg",
+        "https://telegra.ph/file/41ba8c42c6bd82b1ef9c4.jpg",
+        "https://telegra.ph/file/1267f9eec9dc939b0af17.jpg",
+        "https://telegra.ph/file/844ade2bf3bf6d30a7594.jpg",
+        "https://telegra.ph/file/f77b05f4f54dbb14e0337.jpg",
+        "https://telegra.ph/file/0acc7e17e6332d22ee3f2.jpg",
+        "https://telegra.ph/file/8f3674800aa99f53df85c.jpg",
+        "https://telegra.ph/file/fefd6ae08a4b944dabab5.jpg",
+        "https://telegra.ph/file/43c2f0f46f26b9604af59.jpg",
+        "https://telegra.ph/file/2c8377aefd5304caf4eb4.jpg",
+        "https://telegra.ph/file/bc0e4c35482c517745c5b.jpg",
+        "https://telegra.ph/file/35aff5e4d3320eebe36eb.jpg",
+        "https://telegra.ph/file/a3bab8b29e7898cfa69a1.jpg",
+        "https://telegra.ph/file/567ba0c9d9d4e4fc9adc4.jpg",
+        "https://telegra.ph/file/5afdc1bb719f1cfed076a.jpg",
+        "https://telegra.ph/file/8c963674657c737e04f99.jpg"
+    ]
+};

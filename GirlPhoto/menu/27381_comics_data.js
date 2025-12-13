@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27381,
+    "title": "樱井奈奈-LO裙[24P]",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E4%BA%95%E5%A5%88%E5%A5%88-LO%E8%A3%9924P-07-26",
+    "images": [
+        "https://telegra.ph/file/c85b3799d9b56780f37c5.jpg",
+        "https://telegra.ph/file/cb8875c11afa753e948b3.jpg",
+        "https://telegra.ph/file/24547f94ee5ceb2eda925.jpg",
+        "https://telegra.ph/file/71951dcd95d565b662f8f.jpg",
+        "https://telegra.ph/file/aaf2fa348e4c8ca74f3f3.jpg",
+        "https://telegra.ph/file/999cc36557a4a7ca8bd25.jpg",
+        "https://telegra.ph/file/1c87112e4a762d543106a.jpg",
+        "https://telegra.ph/file/b936c83290d345d244f13.jpg",
+        "https://telegra.ph/file/c6d98ee7c2d5f9230e778.jpg",
+        "https://telegra.ph/file/0e22bdd9fcf68c79596cf.jpg",
+        "https://telegra.ph/file/6632b38368cb76af6211d.jpg",
+        "https://telegra.ph/file/8da33338642470b7e7f79.jpg",
+        "https://telegra.ph/file/0fe08841ad1bf9f57f2d6.jpg",
+        "https://telegra.ph/file/5af6d5bbba65f256c2ca9.jpg",
+        "https://telegra.ph/file/a65092f9759c9d9a8c128.jpg",
+        "https://telegra.ph/file/d520a597f8de8c6eeacdc.jpg",
+        "https://telegra.ph/file/97da1a0486d75e89051eb.jpg",
+        "https://telegra.ph/file/2f858e02d0ec1421cbc48.jpg",
+        "https://telegra.ph/file/24702ba198d13242ddd71.jpg",
+        "https://telegra.ph/file/b9767dc29309b3f85f841.jpg",
+        "https://telegra.ph/file/9807ef298825ffe425156.jpg",
+        "https://telegra.ph/file/d8c7b00d071e6dec4dac3.jpg",
+        "https://telegra.ph/file/af339a82ab5661c5ced11.jpg",
+        "https://telegra.ph/file/03284619ca45a34ff3728.jpg"
+    ]
+};

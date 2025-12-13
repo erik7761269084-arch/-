@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39092,
+    "title": "Helly Valentine - Ankha Zone (Animal Crossing)",
+    "sourceUrl": "https://telegra.ph/Helly-Valentine---Ankha-Zone-Animal-Crossing-04-29",
+    "images": [
+        "https://telegra.ph/file/e252fd5d77456105ef12a.jpg",
+        "https://telegra.ph/file/ce8671e37161104d6bb5a.jpg",
+        "https://telegra.ph/file/f50b9d06bd17de3f082c3.jpg",
+        "https://telegra.ph/file/57cd54e4fe964673e0db6.jpg",
+        "https://telegra.ph/file/beeec4fb10507595678b9.jpg",
+        "https://telegra.ph/file/843655960535423feec35.jpg",
+        "https://telegra.ph/file/bbc10e10d64729fe3a270.jpg",
+        "https://telegra.ph/file/6ce6e8c6b3d0ad93dd088.jpg",
+        "https://telegra.ph/file/fda2ee9ea922f5a11bebd.jpg",
+        "https://telegra.ph/file/a68077d85913951ffbfe2.jpg",
+        "https://telegra.ph/file/ded32586151fde10b26e7.jpg",
+        "https://telegra.ph/file/aec5ebe75c794326bfc69.jpg",
+        "https://telegra.ph/file/612358db78fe56a57e5da.jpg",
+        "https://telegra.ph/file/dd056d9044a7d2ef4e7c0.jpg",
+        "https://telegra.ph/file/e1d681f91d0e4ec8fd905.jpg",
+        "https://telegra.ph/file/5fdeaa8f9cc677dc17232.jpg",
+        "https://telegra.ph/file/23a0c83678c451e67615f.jpg",
+        "https://telegra.ph/file/4f7e3c00ec9b22622b6f3.jpg",
+        "https://telegra.ph/file/aac522dc3afe08d7b5b71.jpg",
+        "https://telegra.ph/file/246e9c08b159da0a874c7.jpg",
+        "https://telegra.ph/file/d0b349f42f9f2093c594a.jpg",
+        "https://telegra.ph/file/a10a1286c30b261717091.jpg",
+        "https://telegra.ph/file/708a9ff22e3ef40ae2d20.jpg"
+    ]
+};

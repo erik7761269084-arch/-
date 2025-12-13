@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 28516,
+    "title": "[Cos]Wish Girls Cosplay VOL.1 [23P]",
+    "sourceUrl": "https://telegra.ph/CosWish-Girls-Cosplay-VOL1-23P-04-14",
+    "images": [
+        "https://telegra.ph/file/1f0d2f188ca5e5044ea02.jpg",
+        "https://telegra.ph/file/9ade64267d75cee304f4c.jpg",
+        "https://telegra.ph/file/f286ff194e3c91868a34c.jpg",
+        "https://telegra.ph/file/63ede1c80e4aafab2e855.jpg",
+        "https://telegra.ph/file/b4e67f049e6e11c58bdac.jpg",
+        "https://telegra.ph/file/df56a22d8b4f73099800c.jpg",
+        "https://telegra.ph/file/dbf597ffa16358c82c971.jpg",
+        "https://telegra.ph/file/a32b9ac92611e25f7cc4d.jpg",
+        "https://telegra.ph/file/1b6439ea991f4c3ef9dd9.jpg",
+        "https://telegra.ph/file/28057086b965cb4363ab1.jpg",
+        "https://telegra.ph/file/2fe22a848a2a807787b60.jpg",
+        "https://telegra.ph/file/c956325ade40b90a6b039.jpg",
+        "https://telegra.ph/file/7e324ddbc97d75c20bfb0.jpg",
+        "https://telegra.ph/file/9f0a4278338dd260c3b83.jpg",
+        "https://telegra.ph/file/88271be8ec81d203501e5.jpg",
+        "https://telegra.ph/file/8016393c068fb5a55a828.jpg",
+        "https://telegra.ph/file/0f04d2e25173f86ef8e67.jpg",
+        "https://telegra.ph/file/3a488b57d73469b40ee07.jpg",
+        "https://telegra.ph/file/62a474be386809977824e.jpg",
+        "https://telegra.ph/file/f3eceea205214372e079e.jpg",
+        "https://telegra.ph/file/7575b208a4c7dff6cd420.jpg",
+        "https://telegra.ph/file/f63722adf19369c809034.jpg",
+        "https://telegra.ph/file/91fad60a6837e09686e53.jpg"
+    ]
+};

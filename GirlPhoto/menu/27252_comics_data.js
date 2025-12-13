@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27252,
+    "title": "[Cos]一笑 - 箱庭妖怪[24P]",
+    "sourceUrl": "https://telegra.ph/Cos%E4%B8%80%E7%AC%91---%E7%AE%B1%E5%BA%AD%E5%A6%96%E6%80%AA24P-06-23",
+    "images": [
+        "https://telegra.ph/file/9a6d6e512eef8df249d6d.jpg",
+        "https://telegra.ph/file/d9b91e96353f554f33a3b.jpg",
+        "https://telegra.ph/file/280a83c978eb2131636f1.jpg",
+        "https://telegra.ph/file/6b7eb171fa56ab13c3e2f.jpg",
+        "https://telegra.ph/file/69885593129f58e4f5d9b.jpg",
+        "https://telegra.ph/file/1b8245f81b38e5edfbe1d.jpg",
+        "https://telegra.ph/file/7d768c008a6e2f0ac3d4b.jpg",
+        "https://telegra.ph/file/8475aff335eb59411470a.jpg",
+        "https://telegra.ph/file/7f9d0e5f23c3700494866.jpg",
+        "https://telegra.ph/file/1e5791a420580c1883cb5.jpg",
+        "https://telegra.ph/file/202a3be83927a3392e743.jpg",
+        "https://telegra.ph/file/b21fde7478d3831b2376a.jpg",
+        "https://telegra.ph/file/27e3316153e47611acbcc.jpg",
+        "https://telegra.ph/file/5f6997e6e6ff09eab0256.jpg",
+        "https://telegra.ph/file/133b4cdb1eba0a2f11354.jpg",
+        "https://telegra.ph/file/872fe3d1aae8fda2dcefa.jpg",
+        "https://telegra.ph/file/ddfea1b08a4c9b7d79077.jpg",
+        "https://telegra.ph/file/153592c64c27c23897996.jpg",
+        "https://telegra.ph/file/c3d7075247606833dc0cf.jpg",
+        "https://telegra.ph/file/e96d92b7bd790dc5dca75.jpg",
+        "https://telegra.ph/file/2cc29182867dc26db7abd.jpg",
+        "https://telegra.ph/file/2330ef2d87cb4edd315cc.jpg",
+        "https://telegra.ph/file/4a652a2db1facc724865f.jpg",
+        "https://telegra.ph/file/2272ffb5f126ef70b4d72.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43260,
+    "title": "金鱼kinngyo（花音栗子） - 绘画物语【23P 131M】",
+    "sourceUrl": "https://telegra.ph/%E9%87%91%E9%B1%BCkinngyo%E8%8A%B1%E9%9F%B3%E6%A0%97%E5%AD%90---%E7%BB%98%E7%94%BB%E7%89%A9%E8%AF%AD23P-131M-09-22",
+    "images": [
+        "https://telegra.ph/file/3114447f3da22f7a51b51.jpg",
+        "https://telegra.ph/file/4cfb7f9c008faff1d1583.jpg",
+        "https://telegra.ph/file/e69391ba9bcb2ba3a6c0b.jpg",
+        "https://telegra.ph/file/0fcb5ef515da4f1ea9537.jpg",
+        "https://telegra.ph/file/db73c30ae3ab6ed690a21.jpg",
+        "https://telegra.ph/file/39cae2ff19a6a53f1fc8b.jpg",
+        "https://telegra.ph/file/14841cf0c6762524e0cc0.jpg",
+        "https://telegra.ph/file/fea8f9970b064add35851.jpg",
+        "https://telegra.ph/file/4f6791a51d73b68e420a2.jpg",
+        "https://telegra.ph/file/a2b1e8a535ae4ce79523d.jpg",
+        "https://telegra.ph/file/d38fd00e6392b94b4dc22.jpg",
+        "https://telegra.ph/file/84ea36a45d4e6875da26e.jpg",
+        "https://telegra.ph/file/b5760c0d8f4402d7ef783.jpg",
+        "https://telegra.ph/file/8d69bb5cbf3a66ae4c2ef.jpg",
+        "https://telegra.ph/file/411dfae26fb963a8de8cd.jpg",
+        "https://telegra.ph/file/b559ac2cfc107e7a2216a.jpg",
+        "https://telegra.ph/file/b67dc5eba858e13029479.jpg",
+        "https://telegra.ph/file/3e892003fe79a9e9f19a3.jpg",
+        "https://telegra.ph/file/6954ab9d487f3633c2e09.jpg",
+        "https://telegra.ph/file/708c7977cc266b9fe22b5.jpg",
+        "https://telegra.ph/file/4ec442fecec60abe064da.jpg",
+        "https://telegra.ph/file/4fb87393516d014c8b467.jpg",
+        "https://telegra.ph/file/1e1d5cea06acbb5233f7f.jpg"
+    ]
+};

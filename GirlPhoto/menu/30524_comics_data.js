@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30524,
+    "title": "Konomi Yoshinaga 吉永このみ, 週刊ポストデジタル写真集 Ｈな丸の内ＯＬは好きですか？ Set.04",
+    "sourceUrl": "https://telegra.ph/Konomi-Yoshinaga-吉永このみ-週刊ポストデジタル写真集-Ｈな丸の内ＯＬは好きですか-Set04-06-19",
+    "images": [
+        "https://telegra.ph/file/7962aa9b1095f4c26e4a6.jpg",
+        "https://telegra.ph/file/c09cb1d10aed9e28200e2.jpg",
+        "https://telegra.ph/file/70344318e9403247d206c.jpg",
+        "https://telegra.ph/file/de4f2d2e19fb69d5c35e7.jpg",
+        "https://telegra.ph/file/35a8c3315756a23af9e39.jpg",
+        "https://telegra.ph/file/675b5d8c6e64eeffb3f7a.jpg",
+        "https://telegra.ph/file/787e1c60c1aa19c663ddb.jpg",
+        "https://telegra.ph/file/5c1e73da083e3b37f24dc.jpg",
+        "https://telegra.ph/file/3c123386bd3314c2f4c1d.jpg",
+        "https://telegra.ph/file/38f9c810a8fe72fea2840.jpg",
+        "https://telegra.ph/file/3f916034ccd52dff1ad6d.jpg",
+        "https://telegra.ph/file/97d91bfd45b96a54010f5.jpg",
+        "https://telegra.ph/file/9ad1fe497b406888b04c3.jpg",
+        "https://telegra.ph/file/6528c46ad4452e6066ef0.jpg",
+        "https://telegra.ph/file/efc2ef6e1eede2a8d3116.jpg",
+        "https://telegra.ph/file/72b1be941328b0e5fb3d9.jpg",
+        "https://telegra.ph/file/fda3ded7da844afa2c990.jpg",
+        "https://telegra.ph/file/8c0d9bfd505b34d7eb4bc.jpg",
+        "https://telegra.ph/file/32ce518cd75c7a47b6526.jpg",
+        "https://telegra.ph/file/687430cf0af033201c090.jpg",
+        "https://telegra.ph/file/6c28afbce2bd1c733f290.jpg",
+        "https://telegra.ph/file/8fc962fd420d23b06c5cc.jpg",
+        "https://telegra.ph/file/47492cebc6a416283b9e1.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

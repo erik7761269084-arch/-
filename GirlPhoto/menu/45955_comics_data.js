@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45955,
+    "title": "Byoru - Leifang Halloween - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru---Leifang-Halloween---Page-1-11-12",
+    "images": [
+        "https://telegra.ph/file/11db4b517f621a19a5634.jpg",
+        "https://telegra.ph/file/5401efb68ab56f3eb4272.jpg",
+        "https://telegra.ph/file/97cef5952b19b6fdb0f72.jpg",
+        "https://telegra.ph/file/06c88c6c899aef7c1ea11.jpg",
+        "https://telegra.ph/file/5c749eba069c239ee7589.jpg",
+        "https://telegra.ph/file/e5fe333ba7bdf640d506b.jpg",
+        "https://telegra.ph/file/fa84a209bec992bca3211.jpg",
+        "https://telegra.ph/file/66797dfc9c998288d6073.jpg",
+        "https://telegra.ph/file/a19f3bd01c52544e3becf.jpg",
+        "https://telegra.ph/file/3517836ab12bea1c82e0c.jpg",
+        "https://telegra.ph/file/1915a9bf40f1d8f5a0200.jpg",
+        "https://telegra.ph/file/f1d7038c4a065c479bcd4.jpg",
+        "https://telegra.ph/file/482719928c25e6f000d5d.jpg",
+        "https://telegra.ph/file/80836cea4fbb9303d5253.jpg",
+        "https://telegra.ph/file/f8cb32fda638bd70a5652.jpg",
+        "https://telegra.ph/file/1bb2e1c8e8cb38bd46148.jpg",
+        "https://telegra.ph/file/f9e3a1011458e29b2daaf.jpg",
+        "https://telegra.ph/file/51b7e985fe9db8107a33d.jpg",
+        "https://telegra.ph/file/a57dcf6c2f60e45c1b708.jpg",
+        "https://telegra.ph/file/968d17829d14bff4e6fc7.jpg",
+        "https://telegra.ph/file/63f27e398ef84755e6a26.jpg",
+        "https://telegra.ph/file/49f15f3b8b3c9ef3ea0a8.jpg",
+        "https://telegra.ph/file/4dec1f473a280e00ff8d3.jpg"
+    ]
+};

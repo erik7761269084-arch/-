@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41233,
+    "title": "Mikomi Hokina & Sayo Momo - Fubuki & Tatsumaki (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Mikomi-Hokina--Sayo-Momo---Fubuki--Tatsumaki-One-Punch-Man-03-07",
+    "images": [
+        "https://telegra.ph/file/e95de796191f4d70d143e.jpg",
+        "https://telegra.ph/file/373b7ee448f0705c719eb.jpg",
+        "https://telegra.ph/file/a17322953aaef11a90d4d.jpg",
+        "https://telegra.ph/file/cd8aa0c16ebdc0690b5a5.jpg",
+        "https://telegra.ph/file/b89d12bbf9364e8ac9370.jpg",
+        "https://telegra.ph/file/149c3ff0976c72956b9e8.jpg",
+        "https://telegra.ph/file/94d140001d900f20e42e0.jpg",
+        "https://telegra.ph/file/4f076ae3a257536865680.jpg",
+        "https://telegra.ph/file/ba60a69b410d3b8a7dd87.jpg",
+        "https://telegra.ph/file/a061700ebde18c86eef03.jpg",
+        "https://telegra.ph/file/da9e44095e90d8aa6b179.jpg",
+        "https://telegra.ph/file/e96e349cbe23d5d268b2d.jpg",
+        "https://telegra.ph/file/38980b063220fb09251f9.jpg",
+        "https://telegra.ph/file/4fbd00e0f91db1238c9bf.jpg",
+        "https://telegra.ph/file/ae9a8e14dfa471d47b895.jpg",
+        "https://telegra.ph/file/3b1105c1df0c34f44e28c.jpg",
+        "https://telegra.ph/file/5fa5f73debba93b2b0d1a.jpg",
+        "https://telegra.ph/file/f85e96e27a65f381ad4a6.jpg",
+        "https://telegra.ph/file/ef5c887de425915b358db.jpg",
+        "https://telegra.ph/file/36fbbf5d09bce2c1cf836.jpg",
+        "https://telegra.ph/file/c2d8a22405b5b7137f7bc.jpg",
+        "https://telegra.ph/file/552e7fa3597e5c0d74ede.jpg",
+        "https://telegra.ph/file/8c7d3da63e9d7d92ba2b9.jpg",
+        "https://telegra.ph/file/8ba3926af9d1a42489736.jpg",
+        "https://telegra.ph/file/e531bb378b8b413e3b7c6.jpg"
+    ]
+};

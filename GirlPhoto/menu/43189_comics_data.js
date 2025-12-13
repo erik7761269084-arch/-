@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43189,
+    "title": "miko酱ww - 可畏巫女",
+    "sourceUrl": "https://telegra.ph/miko%E9%85%B1ww---%E5%8F%AF%E7%95%8F%E5%B7%AB%E5%A5%B3-09-03",
+    "images": [
+        "https://telegra.ph/file/334d1d6ddfba216702b01.jpg",
+        "https://telegra.ph/file/c67cd748d67551e263186.jpg",
+        "https://telegra.ph/file/dd169503d0af5947f8897.jpg",
+        "https://telegra.ph/file/b2dfccd5e8d134f9b94f2.jpg",
+        "https://telegra.ph/file/2f8f5f37be4a8281cde02.jpg",
+        "https://telegra.ph/file/863178c39d7b0d72fb21c.jpg",
+        "https://telegra.ph/file/b5a7633b371e6ed0eb8c4.jpg",
+        "https://telegra.ph/file/c498e06c94b9ce369bcc9.jpg",
+        "https://telegra.ph/file/79130e6b1aaa542cd9cf1.jpg",
+        "https://telegra.ph/file/36ca39b89573e2b0d4caf.jpg",
+        "https://telegra.ph/file/bd2887efd446661fa51b6.jpg",
+        "https://telegra.ph/file/a69fca2ab5ea1a68427dd.jpg",
+        "https://telegra.ph/file/3f62609c7d3bd73d9acaf.jpg",
+        "https://telegra.ph/file/96b5ae8efd2b8a819a35d.jpg",
+        "https://telegra.ph/file/7d05ed04a92cb9c044ab3.jpg",
+        "https://telegra.ph/file/9dd6706a5600def680688.jpg",
+        "https://telegra.ph/file/c2c9a0212605064a4231a.jpg",
+        "https://telegra.ph/file/456344dbaecf15e45ed82.jpg",
+        "https://telegra.ph/file/25493ea2a22eb295872b3.jpg",
+        "https://telegra.ph/file/c6a9156005af039c2ce7a.jpg",
+        "https://telegra.ph/file/0c2cf20dc5b6667c5be0d.jpg",
+        "https://telegra.ph/file/1806fd618882fe9c8b61c.jpg",
+        "https://telegra.ph/file/90464d7a04d190a53803b.jpg"
+    ]
+};

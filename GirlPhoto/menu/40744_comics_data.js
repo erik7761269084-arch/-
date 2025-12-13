@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40744,
+    "title": "Xidaidai - Kirara (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Kirara-Genshin-Impact-09-25",
+    "images": [
+        "https://telegra.ph/file/fcff1fa8900b8c028f6aa.jpg",
+        "https://telegra.ph/file/aeb201876bf34c0137b1f.jpg",
+        "https://telegra.ph/file/a6796e5b462befb8b8292.jpg",
+        "https://telegra.ph/file/749fed343bef9d8da80e9.jpg",
+        "https://telegra.ph/file/39675e20669021636e430.jpg",
+        "https://telegra.ph/file/24fb4cec95e396f1ef217.jpg",
+        "https://telegra.ph/file/9dd57e33b9e20660881ea.jpg",
+        "https://telegra.ph/file/e6924c5830a8f16cdf3ef.jpg",
+        "https://telegra.ph/file/d9f6e5e91a19eea615a1e.jpg",
+        "https://telegra.ph/file/dacd9e0cc430103c135f9.jpg",
+        "https://telegra.ph/file/8249de50fe6fded551d80.jpg",
+        "https://telegra.ph/file/d1e44b6652587bbbf73b2.jpg",
+        "https://telegra.ph/file/46d6f3c72b82db4bee7c9.jpg",
+        "https://telegra.ph/file/12e6209bd3f75fb93e67c.jpg",
+        "https://telegra.ph/file/e5262f3fcd999488af513.jpg",
+        "https://telegra.ph/file/494bd9f1707178470f7f2.jpg",
+        "https://telegra.ph/file/f868cac7e2a4abac93270.jpg",
+        "https://telegra.ph/file/0514c54732f393e480eb4.jpg",
+        "https://telegra.ph/file/0e51a77775d7a4e36608b.jpg",
+        "https://telegra.ph/file/875b213696053bbbae989.jpg",
+        "https://telegra.ph/file/e06625f9dbc0a95af5686.jpg",
+        "https://telegra.ph/file/00e30b9fc02934326012d.jpg",
+        "https://telegra.ph/file/2a8409ade628308dee6c0.jpg",
+        "https://telegra.ph/file/5ae20175a3ddab62baeb3.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41910,
+    "title": "Yoshinobi - Rem (Re: Zero)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-02-2",
+    "images": [
+        "https://i.ibb.co/gLrQKdht/01-Rem-1.jpg",
+        "https://i.ibb.co/5hhDzsF4/02-Rem-2.jpg",
+        "https://i.ibb.co/Xx6DpXCY/03-Rem-3.jpg",
+        "https://i.ibb.co/qMgPvZ1L/04-Rem-4.jpg",
+        "https://i.ibb.co/pvGPGZC6/05-Rem-5.jpg",
+        "https://i.ibb.co/2YCzvjgd/06-Rem-6.jpg",
+        "https://i.ibb.co/0ygg7FG5/07-Rem-7.jpg",
+        "https://i.ibb.co/r2NH3yyS/08-Rem-8.jpg",
+        "https://i.ibb.co/N6BpWHj9/09-Rem-9.jpg",
+        "https://i.ibb.co/MDfdgkSx/10-Rem-10.jpg",
+        "https://i.ibb.co/ZpCGyHNQ/11-Rem-11.jpg",
+        "https://i.ibb.co/zhKkzJvZ/12-Rem-12.jpg",
+        "https://i.ibb.co/1YYncbNy/13-Rem-13.jpg",
+        "https://i.ibb.co/r2Mm6H9p/14-Rem-14.jpg",
+        "https://i.ibb.co/8LZ2pfQr/15-Rem-15.jpg",
+        "https://i.ibb.co/PsVCmhs6/16-Rem-16.jpg",
+        "https://i.ibb.co/V0zF043V/17-Rem-17.jpg",
+        "https://i.ibb.co/zVnFtmvz/18-Rem-18.jpg",
+        "https://i.ibb.co/fYH8NWvW/19-Rem-19.jpg",
+        "https://i.ibb.co/7dYCHkcG/20-Rem-20.jpg",
+        "https://i.ibb.co/5gYQKy3W/21-Rem-21.jpg",
+        "https://i.ibb.co/C5M6fwSk/22-Rem-22.jpg",
+        "https://i.ibb.co/LzJ6HvtD/23-Rem-23.jpg",
+        "https://i.ibb.co/WNk8cMRs/24-Rem-24.jpg",
+        "https://i.ibb.co/YBgTdV97/25-Rem-25.jpg"
+    ]
+};

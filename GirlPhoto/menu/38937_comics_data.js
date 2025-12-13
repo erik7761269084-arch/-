@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38937,
+    "title": "Byoru - Mitsuri (Kimetsu No Yaiba)",
+    "sourceUrl": "https://telegra.ph/Byoru---Mitsuri-Kimetsu-No-Yaiba-03-08",
+    "images": [
+        "https://telegra.ph/file/9281517d3d998a16b6d90.jpg",
+        "https://telegra.ph/file/0824f349478a00c0f0b2f.jpg",
+        "https://telegra.ph/file/2d79eac80903d543209a2.jpg",
+        "https://telegra.ph/file/571d93e6af72ec877ba88.jpg",
+        "https://telegra.ph/file/c5768cb5eb77cf8d14bbd.jpg",
+        "https://telegra.ph/file/9c4aef5d3b498aa35d6ac.jpg",
+        "https://telegra.ph/file/2408c5b19831b9e1df4fe.jpg",
+        "https://telegra.ph/file/d3e781b4cba81dc06f35f.jpg",
+        "https://telegra.ph/file/b555c453c61f94069fec3.jpg",
+        "https://telegra.ph/file/c53d56ce382802787fb06.jpg",
+        "https://telegra.ph/file/91460d0cb2fc4adf9a5a9.jpg",
+        "https://telegra.ph/file/1084a493f95318e0292c3.jpg",
+        "https://telegra.ph/file/8e48b5a5f036f8dca63d2.jpg",
+        "https://telegra.ph/file/cc4ac04052ef23571cbe6.jpg",
+        "https://telegra.ph/file/b4430fffb753ffde83b8c.jpg",
+        "https://telegra.ph/file/a3ca6f8bc8bc2cc9b2304.jpg",
+        "https://telegra.ph/file/619a2b3ffb6b7287c8fd8.jpg",
+        "https://telegra.ph/file/a2a25545afe3c741f7f28.jpg",
+        "https://telegra.ph/file/3991d78cded0f9809f0eb.jpg",
+        "https://telegra.ph/file/826dc4047f430ddf178ae.jpg",
+        "https://telegra.ph/file/fcef4c8cfe18db207d5ea.jpg",
+        "https://telegra.ph/file/a30535840a92b27c20795.jpg",
+        "https://telegra.ph/file/aa27e08b038863034b15c.jpg"
+    ]
+};

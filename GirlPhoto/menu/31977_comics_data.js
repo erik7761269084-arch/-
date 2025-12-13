@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31977,
+    "title": "Cosplay Rioko凉凉子 大凤 海滨的白日美梦",
+    "sourceUrl": "https://telegra.ph/Cosplay-Rioko凉凉子-大凤-海滨的白日美梦-10-03",
+    "images": [
+        "https://telegra.ph/file/cda158e098ebb6592d8c2.jpg",
+        "https://telegra.ph/file/06637b60df6fe3de29104.jpg",
+        "https://telegra.ph/file/63b8bf70aa05639d45365.jpg",
+        "https://telegra.ph/file/a1597364b1d81d553b283.jpg",
+        "https://telegra.ph/file/ec5ec3205a339b76d733c.jpg",
+        "https://telegra.ph/file/ad45355b2a5df35966555.jpg",
+        "https://telegra.ph/file/d9147f86187585c06bf78.jpg",
+        "https://telegra.ph/file/9f52ec6ba41ae3976492c.jpg",
+        "https://telegra.ph/file/0d3df0e7b46012844119f.jpg",
+        "https://telegra.ph/file/43ad4cb1fa9fe9932b2ee.jpg",
+        "https://telegra.ph/file/95837b0b59064846386d2.jpg",
+        "https://telegra.ph/file/0f67cf4583cffef1abfeb.jpg",
+        "https://telegra.ph/file/ca5a35b2d9fdee1558eaf.jpg",
+        "https://telegra.ph/file/72dec0847552bba7c58ec.jpg",
+        "https://telegra.ph/file/8f92bceeb17671450c368.jpg",
+        "https://telegra.ph/file/bc32f093b3e06bbe87475.jpg",
+        "https://telegra.ph/file/382cf6b2e943d44c31fa3.jpg",
+        "https://telegra.ph/file/ba73c179a8bf0ac02c7e6.jpg",
+        "https://telegra.ph/file/30e1b9d75f97bd26e93ce.jpg",
+        "https://telegra.ph/file/034c453406bb264346b13.jpg",
+        "https://telegra.ph/file/69f5dc75dabef099026a0.jpg",
+        "https://telegra.ph/file/b53ec02c4948090559802.jpg",
+        "https://telegra.ph/file/267c4459c375bf3198ac5.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

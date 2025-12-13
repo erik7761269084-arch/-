@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42708,
+    "title": "PingPing NO.004 欧根泳装 [23P-133MB]",
+    "sourceUrl": "https://telegra.ph/PingPing-NO004-%E6%AC%A7%E6%A0%B9%E6%B3%B3%E8%A3%85-23P-133MB-06-14",
+    "images": [
+        "https://telegra.ph/file/693e91a9c8f4898b887e9.jpg",
+        "https://telegra.ph/file/619426d9afc8dc64a368b.jpg",
+        "https://telegra.ph/file/dfad04882df3254d0c4fd.jpg",
+        "https://telegra.ph/file/557caf5d1e144791b30b3.jpg",
+        "https://telegra.ph/file/f18044c362ac96d8df9bc.jpg",
+        "https://telegra.ph/file/bbddf4ea11bc0f2640b66.jpg",
+        "https://telegra.ph/file/3ec1094d54a4e9a5f3696.jpg",
+        "https://telegra.ph/file/508cd8ff5e5c0e3df5458.jpg",
+        "https://telegra.ph/file/3fcb39b68bf6baf944541.jpg",
+        "https://telegra.ph/file/2ebc3591aa32ff2fafd26.jpg",
+        "https://telegra.ph/file/107f2473802dc30baffb1.jpg",
+        "https://telegra.ph/file/3380802bd0046692ac137.jpg",
+        "https://telegra.ph/file/021292d5bd49c16ccd00b.jpg",
+        "https://telegra.ph/file/bdce8228fcb1fdddaf4dc.jpg",
+        "https://telegra.ph/file/d4f8e9aa8bbac58327b7a.jpg",
+        "https://telegra.ph/file/6a1099cacab4085350a7b.jpg",
+        "https://telegra.ph/file/2a2af23fb164d2c7eaa7e.jpg",
+        "https://telegra.ph/file/7e6fbcfee5928be75f6a6.jpg",
+        "https://telegra.ph/file/d4e1647862668f81169d3.jpg",
+        "https://telegra.ph/file/e3671f0542d4aa7a12481.jpg",
+        "https://telegra.ph/file/6813c0d06670d92909636.jpg",
+        "https://telegra.ph/file/747a8e2f97788cf80ef40.jpg",
+        "https://telegra.ph/file/be0663fb89ac49d3a78f7.jpg"
+    ]
+};

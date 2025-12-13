@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31188,
+    "title": "Cosplay Azami あざみ Veronica",
+    "sourceUrl": "https://telegra.ph/Cosplay-Azami-あざみ-Veronica-08-16",
+    "images": [
+        "https://telegra.ph/file/ade517f38409ad48c1204.jpg",
+        "https://telegra.ph/file/1fbc192199364dedc3524.jpg",
+        "https://telegra.ph/file/44ab9413f4331929c537d.jpg",
+        "https://telegra.ph/file/97cdab90c1d6a225e21dc.jpg",
+        "https://telegra.ph/file/128651f62a1c7ee9a85b1.jpg",
+        "https://telegra.ph/file/f3edd2e3db3eeda7e20c0.jpg",
+        "https://telegra.ph/file/b0d1626bad4b71e0145fe.jpg",
+        "https://telegra.ph/file/2ae7e881577dc856cc9c5.jpg",
+        "https://telegra.ph/file/bd233f58f529389534a28.jpg",
+        "https://telegra.ph/file/abc6e1b4431e3085a8305.jpg",
+        "https://telegra.ph/file/76357c7416efe022f50f5.jpg",
+        "https://telegra.ph/file/e98d6a3792b5ed6221d7f.jpg",
+        "https://telegra.ph/file/af1163992e133c8279983.jpg",
+        "https://telegra.ph/file/5168e423a0f76ed440cb5.jpg",
+        "https://telegra.ph/file/8768a56e0f931aa054fa8.jpg",
+        "https://telegra.ph/file/4baa1d93fdba5db9c8d36.jpg",
+        "https://telegra.ph/file/39b5c53eff39361289130.jpg",
+        "https://telegra.ph/file/f522d8c2cdcf0d3a9b279.jpg",
+        "https://telegra.ph/file/2c00ef0d83b6a03f6aec6.jpg",
+        "https://telegra.ph/file/daa87c734c2ef6b00f665.jpg",
+        "https://telegra.ph/file/3e9391d963e85283c42f3.jpg",
+        "https://telegra.ph/file/7b6a89cb8a5052dab3428.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

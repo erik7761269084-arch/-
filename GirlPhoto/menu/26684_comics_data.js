@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26684,
+    "title": "喵糖映画-HML.001 新春旗袍[25P]",
+    "sourceUrl": "https://telegra.ph/%E5%96%B5%E7%B3%96%E6%98%A0%E7%94%BB-HML001-%E6%96%B0%E6%98%A5%E6%97%97%E8%A2%8D25P-08-17-2",
+    "images": [
+        "https://telegra.ph/file/ab6bca026c428ea4ec94f.jpg",
+        "https://telegra.ph/file/7357801867b8e04519719.jpg",
+        "https://telegra.ph/file/d30eb087ba8894e4425e4.jpg",
+        "https://telegra.ph/file/fd6e96fb29ccfa1b88d03.jpg",
+        "https://telegra.ph/file/751a3e394aa924f8acb41.jpg",
+        "https://telegra.ph/file/170e6b5b671dd08a481fc.jpg",
+        "https://telegra.ph/file/f030db722c05812982afb.jpg",
+        "https://telegra.ph/file/a45f8770b722c02bb2825.jpg",
+        "https://telegra.ph/file/4944d574f5eb7c34920e9.jpg",
+        "https://telegra.ph/file/be05b29a16f6954974b83.jpg",
+        "https://telegra.ph/file/6672ff36416fb4b077138.jpg",
+        "https://telegra.ph/file/d3e1bb102c1bbe3788145.jpg",
+        "https://telegra.ph/file/bfa9b6b92f1dff4c957e0.jpg",
+        "https://telegra.ph/file/a4629de742db738c6ca7a.jpg",
+        "https://telegra.ph/file/4828d759bbb810801f3ff.jpg",
+        "https://telegra.ph/file/b714819a7135aefd09ff1.jpg",
+        "https://telegra.ph/file/c1f59a164bd268894272b.jpg",
+        "https://telegra.ph/file/aeb701ccb8907685bc513.jpg",
+        "https://telegra.ph/file/a30b7c453dceda8aa2bf9.jpg",
+        "https://telegra.ph/file/c09e045d19a67afcfc52d.jpg",
+        "https://telegra.ph/file/4115424f556b103b3b9f9.jpg",
+        "https://telegra.ph/file/6eb64bf7adcc893ce0cb6.jpg",
+        "https://telegra.ph/file/9409f6a4a16557cf339db.jpg",
+        "https://telegra.ph/file/0598acf9c89f85536e2cb.jpg",
+        "https://telegra.ph/file/af4c5dbc6c324d2ce3e44.jpg"
+    ]
+};

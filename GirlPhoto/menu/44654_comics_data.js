@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44654,
+    "title": "Hana Bunny - Senate Tifa",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Senate-Tifa-01-16",
+    "images": [
+        "https://telegra.ph/file/9c825d2632d2cf6de9bed.jpg",
+        "https://telegra.ph/file/ecb7d07a343aa2de9e9e9.jpg",
+        "https://telegra.ph/file/2fe4128734c457e74c599.jpg",
+        "https://telegra.ph/file/bcaa77455ee50aa4b8698.jpg",
+        "https://telegra.ph/file/c7013376b5b35b2e603dd.jpg",
+        "https://telegra.ph/file/efc8b9636f4a0f0f8e938.jpg",
+        "https://telegra.ph/file/5e3aebf29422c285bbb79.jpg",
+        "https://telegra.ph/file/964c2dc31db29321fbc54.jpg",
+        "https://telegra.ph/file/719b415b5dc09f04d9200.jpg",
+        "https://telegra.ph/file/78481bcdaef47107199db.jpg",
+        "https://telegra.ph/file/6131caed7f1960092a0a2.jpg",
+        "https://telegra.ph/file/e9a8a97a8a5331f167001.jpg",
+        "https://telegra.ph/file/419b2774d0d47b30cc02e.jpg",
+        "https://telegra.ph/file/c8e1e24471b50ab10bc7d.jpg",
+        "https://telegra.ph/file/af9fa48f1d1342c416e7c.jpg",
+        "https://telegra.ph/file/d791fb7c345b16452004b.jpg",
+        "https://telegra.ph/file/dbb05d5b5ed8df14e57dd.jpg",
+        "https://telegra.ph/file/a5b7661bbb061c7cdc870.jpg",
+        "https://telegra.ph/file/3c534634999711a0e54b5.jpg",
+        "https://telegra.ph/file/0e7d283350d6dccda2264.jpg",
+        "https://telegra.ph/file/cab9b16826a7019f6b712.jpg",
+        "https://telegra.ph/file/d42e60370e4f946edf519.jpg",
+        "https://telegra.ph/file/89025511e43b568de0624.jpg",
+        "https://telegra.ph/file/08afa556ba47229e36e64.jpg",
+        "https://telegra.ph/file/ec36911b8e380a6a88126.jpg"
+    ]
+};

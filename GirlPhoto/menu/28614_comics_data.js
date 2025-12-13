@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28614,
+    "title": "정제니(Jenny)-[DJAWA] Christmas[23P]",
+    "sourceUrl": "https://telegra.ph/%EC%A0%95%EC%A0%9C%EB%8B%88Jenny-DJAWA-Christmas23P-12-25",
+    "images": [
+        "https://telegra.ph/file/334a518f8f73bd76c4fbd.jpg",
+        "https://telegra.ph/file/484fa545b617ab218f94f.jpg",
+        "https://telegra.ph/file/2d728fa4452f973401ee5.jpg",
+        "https://telegra.ph/file/8acd01befe38a6f152542.jpg",
+        "https://telegra.ph/file/daf179541728f48a966bf.jpg",
+        "https://telegra.ph/file/5ee9b45f6ccaf72bc3bc0.jpg",
+        "https://telegra.ph/file/a4429729c4460bc48762c.jpg",
+        "https://telegra.ph/file/7ce3a5b3188e9f2e0d89e.jpg",
+        "https://telegra.ph/file/83b22dcbabaa650bcc1e3.jpg",
+        "https://telegra.ph/file/ac1e2e4e383700898a275.jpg",
+        "https://telegra.ph/file/dc0309a9d6ba5c1bd3f93.jpg",
+        "https://telegra.ph/file/f75360d5be4d587b8f782.jpg",
+        "https://telegra.ph/file/3467c252d7863f226cf96.jpg",
+        "https://telegra.ph/file/cf04425f251b479358388.jpg",
+        "https://telegra.ph/file/1b01a91b3055e54d7e791.jpg",
+        "https://telegra.ph/file/2d604eee65617456a7660.jpg",
+        "https://telegra.ph/file/4c797eb0d6da3373da639.jpg",
+        "https://telegra.ph/file/895fccddd01840d6f081b.jpg",
+        "https://telegra.ph/file/74f4be46d83605ca2f152.jpg",
+        "https://telegra.ph/file/0b82ace2a375f57e447e8.jpg",
+        "https://telegra.ph/file/de804a87516c7a0b0eb91.jpg",
+        "https://telegra.ph/file/4436ab733159061ac862b.jpg",
+        "https://telegra.ph/file/b4fbab031bc935dc30b29.jpg",
+        "https://telegra.ph/file/7e34993141d19fa9749dc.jpg"
+    ]
+};

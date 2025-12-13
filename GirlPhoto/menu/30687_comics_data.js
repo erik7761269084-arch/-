@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30687,
+    "title": "Ranka 蘭華, [Graphis] Spring Special 2022 KURO-GAL!! Vol.06",
+    "sourceUrl": "https://telegra.ph/Ranka-蘭華-Graphis-Spring-Special-2022-KURO-GAL-Vol06-07-04",
+    "images": [
+        "https://telegra.ph/file/2dffeb07f64a6237071e1.jpg",
+        "https://telegra.ph/file/42f97a256ab05e87b20e5.jpg",
+        "https://telegra.ph/file/d23fae57b56435131a943.jpg",
+        "https://telegra.ph/file/49dc0409d8b98c5be5f05.jpg",
+        "https://telegra.ph/file/0bdf83f25dea1e033cfc4.jpg",
+        "https://telegra.ph/file/344a0b9c97774301d16bf.jpg",
+        "https://telegra.ph/file/b0990273bf2f16c10de97.jpg",
+        "https://telegra.ph/file/96ae9fcd4c023de48448e.jpg",
+        "https://telegra.ph/file/46a955311430af60b2ba6.jpg",
+        "https://telegra.ph/file/e984c1dabc0f8fec05f1f.jpg",
+        "https://telegra.ph/file/a4f33801b55134c640703.jpg",
+        "https://telegra.ph/file/01968a5a036249b6798d6.jpg",
+        "https://telegra.ph/file/2f39aefc85b38d40f15e5.jpg",
+        "https://telegra.ph/file/25cfdfa28fcc2ad7eda6b.jpg",
+        "https://telegra.ph/file/b23cc975cf8e84b4d46cf.jpg",
+        "https://telegra.ph/file/08f14d14fb22f853cf8a2.jpg",
+        "https://telegra.ph/file/e57b7b29cb03d376e3d5f.jpg",
+        "https://telegra.ph/file/f1148bd7ccf08111d835e.jpg",
+        "https://telegra.ph/file/fa392b0cb2370f024d5c0.jpg",
+        "https://telegra.ph/file/9d570f33328302fb53a91.jpg",
+        "https://telegra.ph/file/c06b02081273cef919098.jpg",
+        "https://telegra.ph/file/498ee0b3d35815b5e70fb.jpg",
+        "https://telegra.ph/file/96f71b45d2ae0f8798247.jpg",
+        "https://telegra.ph/file/582de1b0d4cce8acf5e76.jpg",
+        "https://telegra.ph/file/5e15df9bb23fd4908d3fd.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

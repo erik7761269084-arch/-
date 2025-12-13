@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37832,
+    "title": "Sarah Carvalho - Mikasa (Shingeki No kyojin)",
+    "sourceUrl": "https://telegra.ph/Sarah-Carvalho---Mikasa-Shingeki-No-kyojin-06-10",
+    "images": [
+        "https://telegra.ph/file/be7a0731818832f06f98a.jpg",
+        "https://telegra.ph/file/faef012b6f58acb43fa16.jpg",
+        "https://telegra.ph/file/40f7488a5f38d040cb925.jpg",
+        "https://telegra.ph/file/e79f51a26ca709f6caaf3.jpg",
+        "https://telegra.ph/file/a64c087826c99d17298cb.jpg",
+        "https://telegra.ph/file/0b65ac65ae20a5f26071f.jpg",
+        "https://telegra.ph/file/26bc3bf41f89f0d647868.jpg",
+        "https://telegra.ph/file/815725e002205f730d261.jpg",
+        "https://telegra.ph/file/4d5e4a435c6d98c44af9a.jpg",
+        "https://telegra.ph/file/4f6f4cd861bd7869b1fc2.jpg",
+        "https://telegra.ph/file/e8883c62645d6ed284d2d.jpg",
+        "https://telegra.ph/file/e2c11b2e8d2a31e4b68eb.jpg",
+        "https://telegra.ph/file/0b2400e9ecc4615ccb9d2.jpg",
+        "https://telegra.ph/file/49983030580428ba3667f.jpg",
+        "https://telegra.ph/file/1f7b3b514cad4b136ba64.jpg",
+        "https://telegra.ph/file/bee89fb83ea4a3d59fa34.jpg",
+        "https://telegra.ph/file/d4376b1e07d26320ddf57.jpg",
+        "https://telegra.ph/file/2540868facd0a92193058.jpg",
+        "https://telegra.ph/file/0de42f4d027fbcb114f95.jpg",
+        "https://telegra.ph/file/97894f65fc620bcb273f2.jpg",
+        "https://telegra.ph/file/4e834b244a8d8d7000665.jpg",
+        "https://telegra.ph/file/3cf7202deedfc867fa1c8.jpg",
+        "https://telegra.ph/file/4d9ee3d561cc5757e1010.jpg",
+        "https://telegra.ph/file/76d4fbe1ed52d15eb1120.jpg",
+        "https://telegra.ph/file/6c32a2da1ee148e4b2eb0.jpg",
+        "https://telegra.ph/file/820f41005e97c0a332d06.jpg"
+    ]
+};

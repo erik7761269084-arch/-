@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31169,
+    "title": "[Byoru ビヨル] Kainé カイネ",
+    "sourceUrl": "https://telegra.ph/Byoru-ビヨル-Kainé-カイネ-08-16",
+    "images": [
+        "https://telegra.ph/file/66ae88fb08849ba369b53.jpg",
+        "https://telegra.ph/file/12cab6c350d82a4ce30d2.jpg",
+        "https://telegra.ph/file/841e712f50ff7e3604d53.jpg",
+        "https://telegra.ph/file/05fbed2c839071093a4a7.jpg",
+        "https://telegra.ph/file/905867390c101e125b85c.jpg",
+        "https://telegra.ph/file/072e89f3a453ee4144413.jpg",
+        "https://telegra.ph/file/5de596a337edaf35988d5.jpg",
+        "https://telegra.ph/file/03deb8747843028ef1c5a.jpg",
+        "https://telegra.ph/file/cdfd3b01f22c689bb5ac9.jpg",
+        "https://telegra.ph/file/cfe97ec6346eed7be177e.jpg",
+        "https://telegra.ph/file/73b136f35404413dd2116.jpg",
+        "https://telegra.ph/file/1446a8763ebccd3f95983.jpg",
+        "https://telegra.ph/file/39952cdfbb3e57d70ee73.jpg",
+        "https://telegra.ph/file/d0af1fb4b2c713f2e9514.jpg",
+        "https://telegra.ph/file/a04712e8747ec2e7b1048.jpg",
+        "https://telegra.ph/file/f5316dabd0777e7ced8ee.jpg",
+        "https://telegra.ph/file/415f8aa24ca7074ada5fb.jpg",
+        "https://telegra.ph/file/0e75ea8cf022b9f759bc2.jpg",
+        "https://telegra.ph/file/c7d9777593d8e60211d4f.jpg",
+        "https://telegra.ph/file/b210c748fb1765999d141.jpg",
+        "https://telegra.ph/file/eb8ab9e8614cb889fe083.jpg",
+        "https://telegra.ph/file/e1ad5c2c20375dfd86401.jpg",
+        "https://telegra.ph/file/df889564a15dc9b75fbc5.jpg",
+        "https://telegra.ph/file/c0e53d9d2a41423c59336.jpg",
+        "https://telegra.ph/file/afd0117754aca39b07a26.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

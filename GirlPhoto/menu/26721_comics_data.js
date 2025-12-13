@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26721,
+    "title": "雯妹不讲道理-1号本 女仆[24P]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%AF%E5%A6%B9%E4%B8%8D%E8%AE%B2%E9%81%93%E7%90%86-1%E5%8F%B7%E6%9C%AC-%E5%A5%B3%E4%BB%8624P-09-08",
+    "images": [
+        "https://telegra.ph/file/2bf1b41b5ad862a12dea4.jpg",
+        "https://telegra.ph/file/6f591237a1512973a5f7c.jpg",
+        "https://telegra.ph/file/3d6bc014926cdaf3f3727.jpg",
+        "https://telegra.ph/file/e1b028476251d817da1cc.jpg",
+        "https://telegra.ph/file/b4440425a155bb7148380.jpg",
+        "https://telegra.ph/file/a31ae4f8b578b82593e34.jpg",
+        "https://telegra.ph/file/3e383d1003030d112dce0.jpg",
+        "https://telegra.ph/file/2bf722a1126910db98332.jpg",
+        "https://telegra.ph/file/91227df4f81a6565792ae.jpg",
+        "https://telegra.ph/file/2ecaca32916bf3eaf8cd2.jpg",
+        "https://telegra.ph/file/35836a044b5afa874b098.jpg",
+        "https://telegra.ph/file/e2865d591665f07a5c822.jpg",
+        "https://telegra.ph/file/f50c0f730cc39aeb5164e.jpg",
+        "https://telegra.ph/file/05b22773a964363006935.jpg",
+        "https://telegra.ph/file/e3cb407756e965ad59375.jpg",
+        "https://telegra.ph/file/472518aaa20a6631c8a6e.jpg",
+        "https://telegra.ph/file/f5ee9a7e754de0f96e4be.jpg",
+        "https://telegra.ph/file/fdadf9b5ec23db8e59724.jpg",
+        "https://telegra.ph/file/b69ce189c2abff7fb87fb.jpg",
+        "https://telegra.ph/file/c8822b9c81f42d3fe123f.jpg",
+        "https://telegra.ph/file/d2549925e97e7ae2270d7.jpg",
+        "https://telegra.ph/file/3101bdb7bed531d9293c2.jpg",
+        "https://telegra.ph/file/282f8265d5286d2257fd4.jpg",
+        "https://telegra.ph/file/93c18c346eff42ae03c4c.jpg"
+    ]
+};

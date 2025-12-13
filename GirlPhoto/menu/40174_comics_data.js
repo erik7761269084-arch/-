@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40174,
+    "title": "Queenie - Princess Peach (Super Mario Bros)",
+    "sourceUrl": "https://telegra.ph/Queenie---Princess-Peach-Super-Mario-Bros-02-18",
+    "images": [
+        "https://telegra.ph/file/7c4709ded92dadb14108d.jpg",
+        "https://telegra.ph/file/ff8723b01069e191bed60.jpg",
+        "https://telegra.ph/file/99d0133edeea99a4726ce.jpg",
+        "https://telegra.ph/file/9a2eca3da49f2f10618c5.jpg",
+        "https://telegra.ph/file/c6ad69e74da9bd88679cf.jpg",
+        "https://telegra.ph/file/619d5281cbacdf432c31b.jpg",
+        "https://telegra.ph/file/f8ef313eeb91151ea5494.jpg",
+        "https://telegra.ph/file/311a4914f92a28ba5407c.jpg",
+        "https://telegra.ph/file/ac06b99f997f4a7d8db08.jpg",
+        "https://telegra.ph/file/9d95fa86b2356ecbb2413.jpg",
+        "https://telegra.ph/file/5bf7ba9a07117a95cafeb.jpg",
+        "https://telegra.ph/file/75e43e6e1cefb3029f5ae.jpg",
+        "https://telegra.ph/file/12c609a8935d25a4fab98.jpg",
+        "https://telegra.ph/file/85b42697ecca636de1748.jpg",
+        "https://telegra.ph/file/b15f226192f86a5300f2c.jpg",
+        "https://telegra.ph/file/af1f25f233c921cef4f47.jpg",
+        "https://telegra.ph/file/30738252e124067d108f0.jpg",
+        "https://telegra.ph/file/51efd0d4a72c0d613e57a.jpg",
+        "https://telegra.ph/file/916ee2874d18fbba70528.jpg",
+        "https://telegra.ph/file/8e0b57d0fe131f6dc0f86.jpg",
+        "https://telegra.ph/file/259168cdebcfe183ea185.jpg",
+        "https://telegra.ph/file/7d7ede10b111257dd1156.jpg",
+        "https://telegra.ph/file/feed41f16016d1e890343.jpg",
+        "https://telegra.ph/file/51a2b1c233896ed7084c0.jpg"
+    ]
+};

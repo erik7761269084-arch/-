@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44429,
+    "title": "Fantasy Factory - Raikou",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Raikou-11-14",
+    "images": [
+        "https://telegra.ph/file/aa87620e6c8d978250826.jpg",
+        "https://telegra.ph/file/9ae53a6c11d50ee138f41.jpg",
+        "https://telegra.ph/file/27cbd46faf2dfee32605a.jpg",
+        "https://telegra.ph/file/01421484e38354795c8ca.jpg",
+        "https://telegra.ph/file/34648aa258e64fbe3efee.jpg",
+        "https://telegra.ph/file/a5a424a011fc93e262454.jpg",
+        "https://telegra.ph/file/e35a24872fd3143e50984.jpg",
+        "https://telegra.ph/file/c987c23ae29bc477b5a04.jpg",
+        "https://telegra.ph/file/440e61aa4599fec3b777e.jpg",
+        "https://telegra.ph/file/453164933d770fe02155e.jpg",
+        "https://telegra.ph/file/6e1df525b3a0c0a9ce8db.jpg",
+        "https://telegra.ph/file/bbe3a1eff32c6cb882c5f.jpg",
+        "https://telegra.ph/file/8d938d12a8d8a510d9276.jpg",
+        "https://telegra.ph/file/58664cdf2832e5872beba.jpg",
+        "https://telegra.ph/file/870a2f3a8abeaa3d0170a.jpg",
+        "https://telegra.ph/file/ec46ade42d166250bd92f.jpg",
+        "https://telegra.ph/file/aaada74b573b5ffcb1957.jpg",
+        "https://telegra.ph/file/26565358065a23d3e37cc.jpg",
+        "https://telegra.ph/file/563d454b48f27cedb27cc.jpg",
+        "https://telegra.ph/file/38dba950d7133f3635f5a.jpg",
+        "https://telegra.ph/file/1d532cf5b17ff9e97e1be.jpg",
+        "https://telegra.ph/file/3dccc7e21c4fe92f0dfd3.jpg",
+        "https://telegra.ph/file/f99eff4bca2ab520e1422.jpg"
+    ]
+};

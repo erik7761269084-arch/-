@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23329,
+    "title": "小仓千代 - 麻衣兔女郎",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3---%E9%BA%BB%E8%A1%A3%E5%85%94%E5%A5%B3%E9%83%8E-02-16",
+    "images": [
+        "https://telegra.ph/file/21813433e5a1d1a021461.jpg",
+        "https://telegra.ph/file/4885d66334dc1e6018073.jpg",
+        "https://telegra.ph/file/49e36b3a0110ffba617e8.jpg",
+        "https://telegra.ph/file/a6cea267c137d140e46ca.jpg",
+        "https://telegra.ph/file/e4d27bff6e084ac66eb74.jpg",
+        "https://telegra.ph/file/a9f4267e64eaebfdfaed2.jpg",
+        "https://telegra.ph/file/78de831aeaba6b8341611.jpg",
+        "https://telegra.ph/file/bf26e22902b312f8a462a.jpg",
+        "https://telegra.ph/file/bd3a805b9fb1220550205.jpg",
+        "https://telegra.ph/file/5dd3395242a27d07af2fe.jpg",
+        "https://telegra.ph/file/f10c9b40bdd93d1949d54.jpg",
+        "https://telegra.ph/file/26a55b6f92d2658348bce.jpg",
+        "https://telegra.ph/file/7c7b373cdd75d1b6d09bc.jpg",
+        "https://telegra.ph/file/4c451c505b0bf994d19b0.jpg",
+        "https://telegra.ph/file/9dab04935ba37a2487962.jpg",
+        "https://telegra.ph/file/2d00df89e19a45214cc5c.jpg",
+        "https://telegra.ph/file/e89b9a59c76ef498fa52e.jpg",
+        "https://telegra.ph/file/5fa4f8839eb257a3444e6.jpg",
+        "https://telegra.ph/file/887e9919e3d8b923b8956.jpg",
+        "https://telegra.ph/file/70571e12e783e9bb3f97d.jpg",
+        "https://telegra.ph/file/bd6f65e61b4206ec22f9b.jpg",
+        "https://telegra.ph/file/8d4e247e7fcf0487be462.jpg",
+        "https://telegra.ph/file/09032c46748f8abf3c8d2.jpg",
+        "https://telegra.ph/file/46ae432b468e63fbb0c21.jpg"
+    ]
+};

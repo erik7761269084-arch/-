@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35022,
+    "title": "[MakeModel] JISU [지수] 은밀하게 섹시하게 Vol.02",
+    "sourceUrl": "https://telegra.ph/MakeModel-JISU-지수-은밀하게-섹시하게-Vol02-08-13",
+    "images": [
+        "https://telegra.ph/file/afc0b65183f12ffa09a04.jpg",
+        "https://telegra.ph/file/4300b5a2a132fc34115f5.jpg",
+        "https://telegra.ph/file/36bb0fc04b7f968669a9f.jpg",
+        "https://telegra.ph/file/7e1828233b099630328dd.jpg",
+        "https://telegra.ph/file/6f089b0689abc03c8f8a9.jpg",
+        "https://telegra.ph/file/5498db326d7fd6f8a06fb.jpg",
+        "https://telegra.ph/file/c8d3bf5bd46e69be74d13.jpg",
+        "https://telegra.ph/file/6bfe44f64571c17fad077.jpg",
+        "https://telegra.ph/file/3fb412fac9978d1c2c899.jpg",
+        "https://telegra.ph/file/7708038d887b14338c31f.jpg",
+        "https://telegra.ph/file/1ac96f94fc1a4e78365cd.jpg",
+        "https://telegra.ph/file/7b029e2ed77d7c8a19f40.jpg",
+        "https://telegra.ph/file/68839125db68e60bd6e83.jpg",
+        "https://telegra.ph/file/dd040b6dd162e85ded5c6.jpg",
+        "https://telegra.ph/file/52a387ca939f63f3056dc.jpg",
+        "https://telegra.ph/file/d9958851eb6b2ada63266.jpg",
+        "https://telegra.ph/file/055fef2555ff53756f534.jpg",
+        "https://telegra.ph/file/33c430ff22e76d682cdf0.jpg",
+        "https://telegra.ph/file/16d17d83ff4212b9dcdea.jpg",
+        "https://telegra.ph/file/a90c4e3215d11c70c5d47.jpg",
+        "https://telegra.ph/file/04d56653de553b543146c.jpg",
+        "https://telegra.ph/file/315efe1fcb9a885dd9c6f.jpg",
+        "https://telegra.ph/file/c62317be388959578e1a5.jpg",
+        "https://telegra.ph/file/fef17dda2b7ad4d808200.jpg",
+        "https://telegra.ph/file/b8e071da4fb651e1a0247.jpg",
+        "https://telegra.ph/file/b859092da7fe97630b63f.jpg"
+    ]
+};

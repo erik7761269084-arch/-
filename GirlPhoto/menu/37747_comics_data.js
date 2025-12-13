@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37747,
+    "title": "Hidori Rose & KukoW - Vanilla & Chocola (Nekopara)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose--KukoW---Vanilla-Chocola-Nekopara-05-22",
+    "images": [
+        "https://telegra.ph/file/014160034e9b8a95a1093.jpg",
+        "https://telegra.ph/file/367fc084a23e04c34ca02.jpg",
+        "https://telegra.ph/file/72457d52b0e156dd6b336.jpg",
+        "https://telegra.ph/file/e72679edfae52d469ec96.jpg",
+        "https://telegra.ph/file/2e6fb2d59db8b14b09291.jpg",
+        "https://telegra.ph/file/4785b476cd9aa8a45b4b6.jpg",
+        "https://telegra.ph/file/202714353b0dcec9eb101.jpg",
+        "https://telegra.ph/file/aad4725c1699552cbbf6f.jpg",
+        "https://telegra.ph/file/18302b391d715548211fe.jpg",
+        "https://telegra.ph/file/84e3fcb7c5800b7500a06.jpg",
+        "https://telegra.ph/file/aefbcce55bbf6c001b0ab.jpg",
+        "https://telegra.ph/file/6a1576e402b294422b659.jpg",
+        "https://telegra.ph/file/8538b5303db572cab0540.jpg",
+        "https://telegra.ph/file/64d19c030c019066f1583.jpg",
+        "https://telegra.ph/file/fa1c4fe611899368dc926.jpg",
+        "https://telegra.ph/file/a7bb6e37ccf1c61867bcc.jpg",
+        "https://telegra.ph/file/b209bc6e282fad9450b76.jpg",
+        "https://telegra.ph/file/c8541fafd58130f79af80.jpg",
+        "https://telegra.ph/file/961fb43ec06f554d19f83.jpg",
+        "https://telegra.ph/file/206a57da1cb05ba538408.jpg",
+        "https://telegra.ph/file/66f670d7ffb052ba92409.jpg",
+        "https://telegra.ph/file/09d2bccca376def40f8a4.jpg",
+        "https://telegra.ph/file/525fe52b2418c2be9b52e.jpg",
+        "https://telegra.ph/file/1160a82571f1e5706cc6d.jpg",
+        "https://telegra.ph/file/1a61e22300fda48c2af01.jpg"
+    ]
+};

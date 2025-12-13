@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37884,
+    "title": "Hana Bunny - 2B/Lencery (Nierautomata)",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---2BLencery-Nierautomata-06-18",
+    "images": [
+        "https://telegra.ph/file/20325a80562be92e24b84.jpg",
+        "https://telegra.ph/file/3837912688607a84b6a22.jpg",
+        "https://telegra.ph/file/b44fbc28c5a378e977c7b.jpg",
+        "https://telegra.ph/file/b0f1d567673741d6ad8db.jpg",
+        "https://telegra.ph/file/9db937dd674c7795a7cbc.jpg",
+        "https://telegra.ph/file/9dd194d95bcf82052b9f7.jpg",
+        "https://telegra.ph/file/c34040f8132fcb34a90de.jpg",
+        "https://telegra.ph/file/12504ddcede3aaf061154.jpg",
+        "https://telegra.ph/file/5a5dcc227d614372afa21.jpg",
+        "https://telegra.ph/file/6a585066f719f5d033aee.jpg",
+        "https://telegra.ph/file/446908ebcd71d81953c64.jpg",
+        "https://telegra.ph/file/babda3603c30348eb9386.jpg",
+        "https://telegra.ph/file/59c857f7f02ee17409737.jpg",
+        "https://telegra.ph/file/5884ecaead6838ade82e7.jpg",
+        "https://telegra.ph/file/85034adfd7132ce10e941.jpg",
+        "https://telegra.ph/file/7ec94592b3c4a24be3b2b.jpg",
+        "https://telegra.ph/file/a2c8df9a38b479643ee7f.jpg",
+        "https://telegra.ph/file/2188d5fec172d90499759.jpg",
+        "https://telegra.ph/file/4b7d782d34472c9dfe6cb.jpg",
+        "https://telegra.ph/file/a2d060cde9f03410292c7.jpg",
+        "https://telegra.ph/file/009056d22d6abd4fe5bfa.jpg",
+        "https://telegra.ph/file/bc8a0ff6d8a60127c0411.jpg",
+        "https://telegra.ph/file/7f2811adf42efe6f3aa7f.jpg",
+        "https://telegra.ph/file/7b20154928ef6e2cbbc80.jpg",
+        "https://telegra.ph/file/3afafd406fdb679f92592.jpg"
+    ]
+};

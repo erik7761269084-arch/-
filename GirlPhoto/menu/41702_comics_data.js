@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41702,
+    "title": "Byoru - Zero Two Lingerie (Darling in the Franxx)",
+    "sourceUrl": "https://telegra.ph/Byoru---Zero-Two-Lingerie-Darling-in-the-Franxx-07-14",
+    "images": [
+        "https://i.ibb.co/RT9vSywQ/file-999.jpg",
+        "https://i.ibb.co/8nW54sfr/file-1000.jpg",
+        "https://i.ibb.co/SXdKH6gQ/file-1001.jpg",
+        "https://i.ibb.co/rRgcRyKd/file-1002.jpg",
+        "https://i.ibb.co/DH013gkQ/file-1003.jpg",
+        "https://i.ibb.co/Q7qwkD2k/file-1004.jpg",
+        "https://i.ibb.co/Q3wDzSFY/file-1005.jpg",
+        "https://i.ibb.co/jpgH0r2/file-1006.jpg",
+        "https://i.ibb.co/sv1QL0wp/file-1007.jpg",
+        "https://i.ibb.co/mrts8P9J/file-1008.jpg",
+        "https://i.ibb.co/fcfhpj2/file-1009.jpg",
+        "https://i.ibb.co/392nXJ4s/file-1010.jpg",
+        "https://i.ibb.co/0V24HTSK/file-1011.jpg",
+        "https://i.ibb.co/LDLB7gfp/file-1012.jpg",
+        "https://i.ibb.co/zT57HZ6b/file-1013.jpg",
+        "https://i.ibb.co/zY41s04/file-1014.jpg",
+        "https://i.ibb.co/yFBsfB3W/file-1015.jpg",
+        "https://i.ibb.co/6c4DfWKN/file-1017.jpg",
+        "https://i.ibb.co/tPZW7PC5/file-1016.jpg",
+        "https://i.ibb.co/9kmkZLnF/file-1018.jpg",
+        "https://i.ibb.co/HDhXNmkc/file-1019.jpg",
+        "https://i.ibb.co/Z16ZzQXc/file-1020.jpg",
+        "https://i.ibb.co/S4hw2H4Y/file-1021.jpg",
+        "https://i.ibb.co/Mwv52Xc/file-1022.jpg",
+        "https://i.ibb.co/B2kQg9tn/file-1023.jpg",
+        "https://i.ibb.co/q3Nc5RWR/file-1024.jpg"
+    ]
+};

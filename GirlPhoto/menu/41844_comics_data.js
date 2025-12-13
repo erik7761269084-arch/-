@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41844,
+    "title": "Potato Godzilla - Frieren (Sou Sou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-08-19-4",
+    "images": [
+        "https://i.ibb.co/JjBHxgwN/01-Potato-Godzilla-Frieren-1-compress70.jpg",
+        "https://i.ibb.co/N6CVZzPk/02-Potato-Godzilla-Frieren-2-compress56.jpg",
+        "https://i.ibb.co/RknNKnq3/03-Potato-Godzilla-Frieren-3-compress55.jpg",
+        "https://i.ibb.co/GDpYxCM/04-Potato-Godzilla-Frieren-4-compress37.jpg",
+        "https://i.ibb.co/8nRVCjSH/05-Potato-Godzilla-Frieren-5-compress5.jpg",
+        "https://i.ibb.co/Zp3PSVYg/06-Potato-Godzilla-Frieren-6-compress2.jpg",
+        "https://i.ibb.co/CpYFw4bb/07-Potato-Godzilla-Frieren-7-compress29.jpg",
+        "https://i.ibb.co/xKgfvBKg/08-Potato-Godzilla-Frieren-8-compress5.jpg",
+        "https://i.ibb.co/08kncFZ/09-Potato-Godzilla-Frieren-9-compress60.jpg",
+        "https://i.ibb.co/1fHXDx5K/10-Potato-Godzilla-Frieren-10-compress77.jpg",
+        "https://i.ibb.co/W4DZ9GGb/11-Potato-Godzilla-Frieren-11-compress73.jpg",
+        "https://i.ibb.co/Pz4H8q8r/12-Potato-Godzilla-Frieren-12-compress18.jpg",
+        "https://i.ibb.co/KxGWvPLm/13-Potato-Godzilla-Frieren-13-compress38.jpg",
+        "https://i.ibb.co/bMK2JBW3/14-Potato-Godzilla-Frieren-14-compress48.jpg",
+        "https://i.ibb.co/gMzDrGTZ/15-Potato-Godzilla-Frieren-15-compress96.jpg",
+        "https://i.ibb.co/JWcqXYzH/16-Potato-Godzilla-Frieren-16-compress23.jpg",
+        "https://i.ibb.co/Kxg3sSpR/17-Potato-Godzilla-Frieren-17-compress32.jpg",
+        "https://i.ibb.co/7mNQKWn/18-Potato-Godzilla-Frieren-18-compress64.jpg",
+        "https://i.ibb.co/3mMmLy35/19-Potato-Godzilla-Frieren-19-compress77.jpg",
+        "https://i.ibb.co/cSkqTX2m/20-Potato-Godzilla-Frieren-20-compress43.jpg",
+        "https://i.ibb.co/m5jHk6bM/21-Potato-Godzilla-Frieren-21-compress7.jpg",
+        "https://i.ibb.co/8n0McMff/22-Potato-Godzilla-Frieren-22-compress23.jpg",
+        "https://i.ibb.co/Gvjscy4R/23-Potato-Godzilla-Frieren-23-compress35.jpg"
+    ]
+};

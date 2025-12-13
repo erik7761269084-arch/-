@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38048,
+    "title": "Queenie Chuppy - Lisa (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Lisa-Genshin-Impact-07-15",
+    "images": [
+        "https://telegra.ph/file/d56b2313d8c4cc0f917b8.jpg",
+        "https://telegra.ph/file/22f94c0d7caad5a6659a9.jpg",
+        "https://telegra.ph/file/459c79c4c7fe7cbdaa8c7.jpg",
+        "https://telegra.ph/file/fafe7475f9fdf0fe76997.jpg",
+        "https://telegra.ph/file/1eb211b781a6f87318575.jpg",
+        "https://telegra.ph/file/17b52d0975d73374ef25d.jpg",
+        "https://telegra.ph/file/65e3556b99ec45a7ec41a.jpg",
+        "https://telegra.ph/file/8630785e868e8fe5ee935.jpg",
+        "https://telegra.ph/file/fa5850ed4360c35447278.jpg",
+        "https://telegra.ph/file/06bc5b73df0c3a1616813.jpg",
+        "https://telegra.ph/file/ee73c0b934bf6e03fdd89.jpg",
+        "https://telegra.ph/file/99f95ab3df4af6cc2d4a3.jpg",
+        "https://telegra.ph/file/1f05214d24f10f99ac825.jpg",
+        "https://telegra.ph/file/51993ca68691239a6169f.jpg",
+        "https://telegra.ph/file/25c45244917c7be75bd97.jpg",
+        "https://telegra.ph/file/0d8cbb92048dbfc1f3324.jpg",
+        "https://telegra.ph/file/bea10c7c686b77504ba55.jpg",
+        "https://telegra.ph/file/035a495925e39557a76ce.jpg",
+        "https://telegra.ph/file/ec9cef49f427d3991df88.jpg",
+        "https://telegra.ph/file/cc1b13c64882254c317a5.jpg",
+        "https://telegra.ph/file/a080c8e09672b014e3cea.jpg",
+        "https://telegra.ph/file/709f058da1ff00184b538.jpg",
+        "https://telegra.ph/file/be79a3c05308fe0c538db.jpg",
+        "https://telegra.ph/file/0d11391a4b89daba4237a.jpg",
+        "https://telegra.ph/file/e343bc52896ac1be230e0.jpg"
+    ]
+};

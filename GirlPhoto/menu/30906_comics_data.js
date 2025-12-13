@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30906,
+    "title": "Cosplay 瓜希酱 斯卡蒂",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-斯卡蒂-07-25",
+    "images": [
+        "https://telegra.ph/file/03b2dcd9c5e464614b4df.jpg",
+        "https://telegra.ph/file/8e4d60c4efa89d3279721.jpg",
+        "https://telegra.ph/file/d76156fdb9a7286934b69.jpg",
+        "https://telegra.ph/file/b6c45da9458ffec450bc4.jpg",
+        "https://telegra.ph/file/2ad81c842434d9cabf4b8.jpg",
+        "https://telegra.ph/file/80cbcd7601f9997dc2db7.jpg",
+        "https://telegra.ph/file/f8bb5488c819287fe5ef7.jpg",
+        "https://telegra.ph/file/e698d3ebb24c8d0781b5a.jpg",
+        "https://telegra.ph/file/a82622b3586881cf91041.jpg",
+        "https://telegra.ph/file/dd336c21f0bbd4c899a25.jpg",
+        "https://telegra.ph/file/751fdcba85923a81a5d7c.jpg",
+        "https://telegra.ph/file/aaf0b281c1f97357d8781.jpg",
+        "https://telegra.ph/file/ab76fca2cd55e7ac53e25.jpg",
+        "https://telegra.ph/file/bfc6044ed0891fe493600.jpg",
+        "https://telegra.ph/file/cfbb1b8dba4709bea939f.jpg",
+        "https://telegra.ph/file/8fd72da8298dc23885df2.jpg",
+        "https://telegra.ph/file/39bf9dc477920956705ec.jpg",
+        "https://telegra.ph/file/efe1b8853571c51188de2.jpg",
+        "https://telegra.ph/file/5d82d7597e8df3d840b87.jpg",
+        "https://telegra.ph/file/eed8198c98a5c77cf4351.jpg",
+        "https://telegra.ph/file/43febb892d2d20d672651.jpg",
+        "https://telegra.ph/file/9e7e554948dde5f0e0d5e.jpg",
+        "https://telegra.ph/file/bfedf719cfdb10db24dfa.jpg",
+        "https://telegra.ph/file/6d408efa5c45bd6bbd907.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38621,
+    "title": "Kiera Marie - Samus Aran (Detroid)",
+    "sourceUrl": "https://telegra.ph/Kiera-Marie---Samus-Aran-Detroid-12-17",
+    "images": [
+        "https://telegra.ph/file/2f8dc5993df7f4485fc62.jpg",
+        "https://telegra.ph/file/fa6f9f15613245a4be9b9.jpg",
+        "https://telegra.ph/file/259478045d1f2a3c76c89.jpg",
+        "https://telegra.ph/file/cd323cd315a95687f8929.jpg",
+        "https://telegra.ph/file/7b292e67780409beef1e0.jpg",
+        "https://telegra.ph/file/b022b518fad7c2af09a5a.jpg",
+        "https://telegra.ph/file/9a650effda9ead9b8d80a.jpg",
+        "https://telegra.ph/file/73cf3398c3501d2efd7e5.jpg",
+        "https://telegra.ph/file/f8df89c5902333cbcc194.jpg",
+        "https://telegra.ph/file/757d519a3ded300b8eb5c.jpg",
+        "https://telegra.ph/file/a8980f0755dece588f9f5.jpg",
+        "https://telegra.ph/file/98f8d344f0ea8ab8f08d9.jpg",
+        "https://telegra.ph/file/2df703056ff9a42937120.jpg",
+        "https://telegra.ph/file/88773c58c858a693aacbc.jpg",
+        "https://telegra.ph/file/5adfdbebd8d414fe102c3.jpg",
+        "https://telegra.ph/file/ba39dd20f772b346b40d2.jpg",
+        "https://telegra.ph/file/18cc8c7ab019dd2f91efd.jpg",
+        "https://telegra.ph/file/96a596c3e8db6fd550898.jpg",
+        "https://telegra.ph/file/bb162e65117c788e60f89.jpg",
+        "https://telegra.ph/file/7ca0d8676abb82ad08ecc.jpg",
+        "https://telegra.ph/file/e9937fa711b5a3835adaf.jpg",
+        "https://telegra.ph/file/ec7be9752d91fcf0c1fd7.jpg",
+        "https://telegra.ph/file/c03884d0ad5806cdf563d.jpg",
+        "https://telegra.ph/file/7ac1a33a75f986c258d2c.jpg",
+        "https://telegra.ph/file/95ff8f81df0bc92a1420e.jpg"
+    ]
+};

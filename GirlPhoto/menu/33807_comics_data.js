@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 33807,
+    "title": "[周叽是可爱兔兔] No.032 小玉泳装 Tamamo no mae",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔-No032-小玉泳装-Tamamo-no-mae-04-10",
+    "images": [
+        "https://telegra.ph/file/6fcdc14598c7fd87f84e0.jpg",
+        "https://telegra.ph/file/17bf1b8665f3cd5553991.jpg",
+        "https://telegra.ph/file/7fa3f5d1ae84080180680.jpg",
+        "https://telegra.ph/file/10a5edc85bdfe2f403731.jpg",
+        "https://telegra.ph/file/100728e7916981565806c.jpg",
+        "https://telegra.ph/file/e5218f60a1e7538f98ec3.jpg",
+        "https://telegra.ph/file/30f37b41115e4aff51e42.jpg",
+        "https://telegra.ph/file/6db9332274a0de385af3c.jpg",
+        "https://telegra.ph/file/6785da1143096d7f3da5a.jpg",
+        "https://telegra.ph/file/eb0206f804a046fd89c0e.jpg",
+        "https://telegra.ph/file/6d5fc7f4e41c551f72dcb.jpg",
+        "https://telegra.ph/file/460e99f09b6c3fca39a1d.jpg",
+        "https://telegra.ph/file/76f873d5479b424c2ca81.jpg",
+        "https://telegra.ph/file/52343681a5295472eaa2f.jpg",
+        "https://telegra.ph/file/c6443d48a164c70d9ffce.jpg",
+        "https://telegra.ph/file/8035fe7d675d1f7c98fd4.jpg",
+        "https://telegra.ph/file/52466785f7b993cc6ff61.jpg",
+        "https://telegra.ph/file/a7b322e0d63295f94319d.jpg",
+        "https://telegra.ph/file/4346129152d7d3002976a.jpg",
+        "https://telegra.ph/file/2d2880a354cb75e99d40d.jpg",
+        "https://telegra.ph/file/3425b660209ad7f8c7816.jpg",
+        "https://telegra.ph/file/afd2601cd91ae075eff76.jpg",
+        "https://telegra.ph/file/4d52edf1b02e5bf74c48b.jpg"
+    ]
+};

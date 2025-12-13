@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35381,
+    "title": "ハメ撮り人妻淫遊白書, EX MAX! SPECIAL エキサイティングマックス 2024 Vol.196",
+    "sourceUrl": "https://telegra.ph/ハメ撮り人妻淫遊白書-EX-MAX-SPECIAL-エキサイティングマックス-2024-Vol196-09-18",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpvYTdqRrrYgrdTr4GkeuRDmEAAjrFMRtyH1FTkbFaTb_NPe4BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpvVD0sRL6Kd9CMQS6YYW-7qIAAjjFMRtyH1FTZ23ym21x62EBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpvSxd5r5Zny-rCVjOkjp_aSEAAjfFMRtyH1FTOylwE2ZOz_MBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpvalars9NUwkDbJ8br9ulvmUAAjbFMRtyH1FTqih0nGWO2pgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpwwdioYD7_5fNlQYcNSElWKkAAjvFMRtyH1FTBVvck3KpOOQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpvQQ65EVUR9WyoL1yDVecaioAAjnFMRtyH1FTzee83uNzBt0BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpxT6Blod159_GeeSu6Od-CrEAAj3FMRtyH1FTCaCe-CtKZGsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpxdxmrIKUWw2KUby7bu-JNWsAAjzFMRtyH1FT228tLGa2U_ABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpxZsAAVZdy0coexsCYml2TeHEAAI-xTEbch9RU69PD4B_Vgx5AQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpxTKWWIFG3-jP4MIPLbwF5CkAAj_FMRtyH1FT0CnuxXf6_ZgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpzo-oFGnEhlYsziekR2B37gEAAkHFMRtyH1FTcdB5fonMnJABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpzlBArrDM1mDzsCoFfP2W5BAAAkTFMRtyH1FTYw-BvsSlrq4BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunp09GHfKUummFFgSbrkeGDJ2EAAkfFMRtyH1FTpB2kioSb050BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpzkZNv4PDFQmpSQaNyrLjY5wAAkLFMRtyH1FTfNYrLHsm-54BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunp02OuOHLFpT4bOMMUS0LBOMoAAkbFMRtyH1FTtp50kXqwMpYBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpzgKZ_3AZQVkzS9pu93CHQtIAAkDFMRtyH1FTtI6xiDI_RrUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunpztlfskBddxwDzV5zPMqXeSwAAkPFMRtyH1FTwckCQYUMHn8BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunp05cv7mY9ml8nBFBQDG5DPRwAAknFMRtyH1FT5dQaqvBO45wBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunp08PCvG0ZguOmSlIqMYukxF4AAkjFMRtyH1FT1cnOntNvyH8BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunp04GwwBFEwJsDsqQvSUT854kAAkXFMRtyH1FTyYtiTbbjZAcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqCr837FOhaKdjmFtsEzu85ngAAk3FMRtyH1FTOOjfiS66CwYBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqCnxW7Lf2b8SKPWjmAdmxFSYAAk7FMRtyH1FTzd_7fl1_OZIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqCryZ4IvNLy375GlMOyaYxycAAkrFMRtyH1FTJbzNZWV-w5sBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqD_fOy_B-AcCKFofWuNuEGgkAAkvFMRtyH1FTMCMDUcCn3_oBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqCurDve2b752S9bdx2P0V6v4AAkzFMRtyH1FTdNEg54n2leoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZunqCiF9u7LEJRAmWDtg07yQC6kAAk_FMRtyH1FTeDhW4zqx8A0BAAMCAAN3AAM2BA.jpg"
+    ]
+};

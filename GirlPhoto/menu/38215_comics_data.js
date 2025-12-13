@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38215,
+    "title": "KuukoW - Kurumi Tokisaki (Date A Live)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Kurumi-Tokisaki-Date-A-Live-09-01",
+    "images": [
+        "https://telegra.ph/file/07c6e13cf7d1f5fa8873e.jpg",
+        "https://telegra.ph/file/79d0bb5b692700eefc1df.jpg",
+        "https://telegra.ph/file/859524c86a90f29f69c50.jpg",
+        "https://telegra.ph/file/cdeaf1af37776b79206a6.jpg",
+        "https://telegra.ph/file/25d583f1fc9ae08b25173.jpg",
+        "https://telegra.ph/file/5f777c77a56cca6bda6db.jpg",
+        "https://telegra.ph/file/fa6c49f54d53d15d6f060.jpg",
+        "https://telegra.ph/file/3060aa210258178c12c47.jpg",
+        "https://telegra.ph/file/61cc6aa57379402c99bdf.jpg",
+        "https://telegra.ph/file/8841e99393f43ff6caa2e.jpg",
+        "https://telegra.ph/file/f6f53ac83376ae178e36d.jpg",
+        "https://telegra.ph/file/6d9e9cc6545812f21e6a8.jpg",
+        "https://telegra.ph/file/81d249adb2cca52f13a50.jpg",
+        "https://telegra.ph/file/3f0f2c20764ba2431fa79.jpg",
+        "https://telegra.ph/file/f8fd4cb602f9eb7a0e6d8.jpg",
+        "https://telegra.ph/file/b7d9fca359944f485979e.jpg",
+        "https://telegra.ph/file/bd009e74b94b501ed229a.jpg",
+        "https://telegra.ph/file/54772787d61412feddebd.jpg",
+        "https://telegra.ph/file/e95876e991d4b3be69248.jpg",
+        "https://telegra.ph/file/f207767ca65d2a4b9bb6b.jpg",
+        "https://telegra.ph/file/16b9288a51b66de67ba52.jpg",
+        "https://telegra.ph/file/8d82465ad6157323c1b8f.jpg",
+        "https://telegra.ph/file/b1e21986dd7d4b8ee8caf.jpg"
+    ]
+};

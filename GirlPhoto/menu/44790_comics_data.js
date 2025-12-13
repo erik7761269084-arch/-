@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44790,
+    "title": "Choi Ji Yun - Makima lingerie",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Makima-lingerie-03-08",
+    "images": [
+        "https://telegra.ph/file/992ed5845144276c36f1c.jpg",
+        "https://telegra.ph/file/18ceec13cc2230c917e58.jpg",
+        "https://telegra.ph/file/b6ed4e2434f69c38d0cdf.jpg",
+        "https://telegra.ph/file/b3dc40674e05c888b45ed.jpg",
+        "https://telegra.ph/file/d2253377cdb538ae6ff01.jpg",
+        "https://telegra.ph/file/b7c5bfb702b781c23d366.jpg",
+        "https://telegra.ph/file/a5123644ef9e3849a5f95.jpg",
+        "https://telegra.ph/file/726c24bbd461114200df9.jpg",
+        "https://telegra.ph/file/51b9dfd7710a6f4a4e0de.jpg",
+        "https://telegra.ph/file/afec6ea8f1b12c2a2846b.jpg",
+        "https://telegra.ph/file/f946d8379c08721ae9083.jpg",
+        "https://telegra.ph/file/28035449534c8c9dde434.jpg",
+        "https://telegra.ph/file/992fa095b154a0fd67711.jpg",
+        "https://telegra.ph/file/35ef0533256cde3ddb5be.jpg",
+        "https://telegra.ph/file/db435109d47b817d3f4b8.jpg",
+        "https://telegra.ph/file/5a8f4ad7139879c822f33.jpg",
+        "https://telegra.ph/file/a19040deb98cc93939417.jpg",
+        "https://telegra.ph/file/66bb86574baec1192af71.jpg",
+        "https://telegra.ph/file/2e078cafc29c30d2752df.jpg",
+        "https://telegra.ph/file/16de29fe92d93579eea15.jpg",
+        "https://telegra.ph/file/975d0f22b92b633affbda.jpg",
+        "https://telegra.ph/file/788ea29111f9b37024bba.jpg",
+        "https://telegra.ph/file/b514c71c5789dc1da38eb.jpg",
+        "https://telegra.ph/file/bb1ae2706a5bd1eb5b284.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28338,
+    "title": "rioko凉凉子-G36C花嫁 [25P]",
+    "sourceUrl": "https://telegra.ph/rioko%E5%87%89%E5%87%89%E5%AD%90-G36C%E8%8A%B1%E5%AB%81-25P-11-26",
+    "images": [
+        "https://telegra.ph/file/321f55ba8f491cd80bc25.jpg",
+        "https://telegra.ph/file/c132a1aebef0711b03414.jpg",
+        "https://telegra.ph/file/7e7f1ef57a9c108e029fc.jpg",
+        "https://telegra.ph/file/52301cefe18b78259d638.jpg",
+        "https://telegra.ph/file/681f9c8954da2901e1697.jpg",
+        "https://telegra.ph/file/2168d6bf2fe1288ef38d7.jpg",
+        "https://telegra.ph/file/eed9cc35d9c1cb743102d.jpg",
+        "https://telegra.ph/file/e722212c9df67d54578db.jpg",
+        "https://telegra.ph/file/7fd6f3cf2f1cc571d6c49.jpg",
+        "https://telegra.ph/file/a35e70b47c9c313ed63ce.jpg",
+        "https://telegra.ph/file/eb1121e363879f4d7c0fc.jpg",
+        "https://telegra.ph/file/4b59953e5719efc48ee8d.jpg",
+        "https://telegra.ph/file/ed707f3c6178d1e68bb45.jpg",
+        "https://telegra.ph/file/69d66a2b9a6ef6c89a386.jpg",
+        "https://telegra.ph/file/a2d8a1673119cb133d30e.jpg",
+        "https://telegra.ph/file/454c1f1e891cfc42e2849.jpg",
+        "https://telegra.ph/file/a641e961edabf82f4e9b3.jpg",
+        "https://telegra.ph/file/bae4486b10a3d9790dc10.jpg",
+        "https://telegra.ph/file/d4a358f782a809082b709.jpg",
+        "https://telegra.ph/file/278e3e55049aa2144dc35.jpg",
+        "https://telegra.ph/file/0746dcb9e375d52699f6a.jpg",
+        "https://telegra.ph/file/736753292eeb31f529cc3.jpg",
+        "https://telegra.ph/file/fe048f50f2b8724604c3f.jpg",
+        "https://telegra.ph/file/dbcd469c78e2a1849b09b.jpg",
+        "https://telegra.ph/file/d007cf3bdbcc44ec897a9.jpg"
+    ]
+};

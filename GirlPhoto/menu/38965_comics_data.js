@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38965,
+    "title": "Potato Godzilla - Akane Shinjo (SSSS.Gridman)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Akane-Shinjo-SSSSGridman-03-29",
+    "images": [
+        "https://telegra.ph/file/b2b0e399c6a8e1cbeb87b.jpg",
+        "https://telegra.ph/file/0fa16491853438c8bff69.jpg",
+        "https://telegra.ph/file/a1a88476a9dc42183d5f0.jpg",
+        "https://telegra.ph/file/ac8c384d8e9bf6d4547a9.jpg",
+        "https://telegra.ph/file/9ecf0eeed944ddd522c8f.jpg",
+        "https://telegra.ph/file/68e360de35fc60fe9b962.jpg",
+        "https://telegra.ph/file/2cb8fbb7f18220b57723e.jpg",
+        "https://telegra.ph/file/7cd83bf15857ccae54d36.jpg",
+        "https://telegra.ph/file/0cc21048ba1617dbfe09f.jpg",
+        "https://telegra.ph/file/62b5523fe89e79908113c.jpg",
+        "https://telegra.ph/file/818a7b61fe5be6f981bfc.jpg",
+        "https://telegra.ph/file/40e0439174dabc759ee2c.jpg",
+        "https://telegra.ph/file/ee525802c18896f3a3c67.jpg",
+        "https://telegra.ph/file/10779ed0316fcec8be5f3.jpg",
+        "https://telegra.ph/file/3b212cd3368b0d35271f9.jpg",
+        "https://telegra.ph/file/c58b2897feba7a16c8392.jpg",
+        "https://telegra.ph/file/160cca69d294e8c5b0610.jpg",
+        "https://telegra.ph/file/bd38b0f1c114d0f801954.jpg",
+        "https://telegra.ph/file/378d3ea62218551443858.jpg",
+        "https://telegra.ph/file/a9fabc7c34e0e40d5d5d1.jpg",
+        "https://telegra.ph/file/1d4709740ed28b4e6ef2e.jpg",
+        "https://telegra.ph/file/d56122fa97b75a0bc343e.jpg",
+        "https://telegra.ph/file/3e2ab84c21908ed63fc94.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30959,
+    "title": "[镜酱] NO.17 鬼刀风铃公主 Ghost Blade Aeolian",
+    "sourceUrl": "https://telegra.ph/镜酱-NO17-鬼刀风铃公主-Ghost-Blade-Aeolian-07-30",
+    "images": [
+        "https://telegra.ph/file/d8819afcb81f7e4df53e5.jpg",
+        "https://telegra.ph/file/19d6344e211fc90b2dea3.jpg",
+        "https://telegra.ph/file/b2f5579badee27b0c9aac.jpg",
+        "https://telegra.ph/file/e9255d8d432ec7ac5f22a.jpg",
+        "https://telegra.ph/file/cca4bcabe5698e6ce5792.jpg",
+        "https://telegra.ph/file/8f6bf28b8d47022c0daa2.jpg",
+        "https://telegra.ph/file/bdc2a4149e90226835864.jpg",
+        "https://telegra.ph/file/0ff455c4d761f2b589e92.jpg",
+        "https://telegra.ph/file/c60ca630ced2daa6f13b0.jpg",
+        "https://telegra.ph/file/5742163aca7d62453d407.jpg",
+        "https://telegra.ph/file/6c93f645887c5e907d13b.jpg",
+        "https://telegra.ph/file/a24a3cfd88fb0367c6daf.jpg",
+        "https://telegra.ph/file/339d84cedb2fc93763c34.jpg",
+        "https://telegra.ph/file/9975d86636b5ba22055db.jpg",
+        "https://telegra.ph/file/e4dbd38216bfd306472ca.jpg",
+        "https://telegra.ph/file/85844ba2253268d10a5c5.jpg",
+        "https://telegra.ph/file/7f5c34e24ffbb723e2a98.jpg",
+        "https://telegra.ph/file/dfff1b4af82fc62b3c00f.jpg",
+        "https://telegra.ph/file/ce95f524c76e96dd69b21.jpg",
+        "https://telegra.ph/file/4d47701669de358b3a35d.jpg",
+        "https://telegra.ph/file/260cdccbc2e2097eebd41.jpg",
+        "https://telegra.ph/file/bd9d289036a3fd865142a.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

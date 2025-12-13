@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26456,
+    "title": "[Cos]霜月shimo - 巫女捆绑 [24P]",
+    "sourceUrl": "https://telegra.ph/Cos%E9%9C%9C%E6%9C%88shimo---%E5%B7%AB%E5%A5%B3%E6%8D%86%E7%BB%91-24P-06-29",
+    "images": [
+        "https://telegra.ph/file/fde1853006b9bdae55747.jpg",
+        "https://telegra.ph/file/0e0e1aef6d71d4b20be9c.jpg",
+        "https://telegra.ph/file/61a5ac4c2072a5c8a157c.jpg",
+        "https://telegra.ph/file/7d194ff681c10c5867850.jpg",
+        "https://telegra.ph/file/7c95dbc38e527e4da7424.jpg",
+        "https://telegra.ph/file/9ce3f4df7fcf88330f489.jpg",
+        "https://telegra.ph/file/1154daf56af6347a7885c.jpg",
+        "https://telegra.ph/file/23c7284406a3180a31261.jpg",
+        "https://telegra.ph/file/128d8558f5341eebfb44b.jpg",
+        "https://telegra.ph/file/3054c79ff7c3915dd4a09.jpg",
+        "https://telegra.ph/file/ba00c13a3fbbf3d468297.jpg",
+        "https://telegra.ph/file/06ddd7dd0d2d96f700e62.jpg",
+        "https://telegra.ph/file/b9c57f7dfcb3787a9e52f.jpg",
+        "https://telegra.ph/file/30b724888d5f2707a164b.jpg",
+        "https://telegra.ph/file/0a088660efcad0a9603ba.jpg",
+        "https://telegra.ph/file/8e6c32f2bb940001b9d0a.jpg",
+        "https://telegra.ph/file/324481f25539403dfee1a.jpg",
+        "https://telegra.ph/file/40056e6b719ff59cdbf2b.jpg",
+        "https://telegra.ph/file/a8380e88c2aaf89e757dc.jpg",
+        "https://telegra.ph/file/c5b4abd8b408ba1c1bb7c.jpg",
+        "https://telegra.ph/file/6af57eb76c51e7a9f63de.jpg",
+        "https://telegra.ph/file/e64b3ba82cf050f2e087f.jpg",
+        "https://telegra.ph/file/56d6ff3095216a6c586f0.jpg",
+        "https://telegra.ph/file/836da721d9a1139a96194.jpg"
+    ]
+};

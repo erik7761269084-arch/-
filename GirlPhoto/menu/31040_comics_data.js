@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31040,
+    "title": "夏小秋秋秋 Cosplay 2B ニーア オートマタ",
+    "sourceUrl": "https://telegra.ph/夏小秋秋秋-Cosplay-2B-ニーア-オートマタ-08-07",
+    "images": [
+        "https://telegra.ph/file/c024ada9d440a1e238da8.jpg",
+        "https://telegra.ph/file/cad71f7754603ad060888.jpg",
+        "https://telegra.ph/file/0174f319c96e90cbedd7f.jpg",
+        "https://telegra.ph/file/8082b61ae5a9ad8eb94c6.jpg",
+        "https://telegra.ph/file/3961744d5b563a9dbc75d.jpg",
+        "https://telegra.ph/file/101902f52f0486f5c7dc6.jpg",
+        "https://telegra.ph/file/6fafc7698e95da137a080.jpg",
+        "https://telegra.ph/file/fb888a29c8657c2bdac91.jpg",
+        "https://telegra.ph/file/1274f739985ca891d8fb5.jpg",
+        "https://telegra.ph/file/d74d9969d12437aa63e9d.jpg",
+        "https://telegra.ph/file/5f20264c08bfc6ebf3ffc.jpg",
+        "https://telegra.ph/file/4ed81f19444adb09a6703.jpg",
+        "https://telegra.ph/file/11c10b8e7d64fdc790f00.jpg",
+        "https://telegra.ph/file/60c801984c2deb9b91323.jpg",
+        "https://telegra.ph/file/394659d05c313778f50dd.jpg",
+        "https://telegra.ph/file/fba114bb2e670119b446f.jpg",
+        "https://telegra.ph/file/a371ccb8579b324b86a14.jpg",
+        "https://telegra.ph/file/9f27e3ae1dce3279e58a4.jpg",
+        "https://telegra.ph/file/2bf698688bd483031559b.jpg",
+        "https://telegra.ph/file/2aeeba9359f23b0535b03.jpg",
+        "https://telegra.ph/file/13caf1f0e1805d092f8a4.jpg",
+        "https://telegra.ph/file/b5b9723a975ba83e4420a.jpg",
+        "https://telegra.ph/file/1930dd41135a007698cef.jpg",
+        "https://telegra.ph/file/cb955071781a360ef40d0.jpg",
+        "https://telegra.ph/file/78fadcba825ffc5a90746.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

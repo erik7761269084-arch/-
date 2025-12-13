@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27015,
+    "title": "小野妹子w-加藤惠 [23P]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E9%87%8E%E5%A6%B9%E5%AD%90w-%E5%8A%A0%E8%97%A4%E6%83%A0-23P-01-22",
+    "images": [
+        "https://telegra.ph/file/5ebb5509a060ee8e91ee9.jpg",
+        "https://telegra.ph/file/7fefd41cdd8d72b9eaa76.jpg",
+        "https://telegra.ph/file/6f102291b8b6313abf298.jpg",
+        "https://telegra.ph/file/3f19fdfed98fb6b1b48af.jpg",
+        "https://telegra.ph/file/16976ebd26342f72e81e1.jpg",
+        "https://telegra.ph/file/83e587d8ffd6149606bd7.jpg",
+        "https://telegra.ph/file/efe9be196c149a8508d53.jpg",
+        "https://telegra.ph/file/eb18c8a2af4e3fe9f4a7b.jpg",
+        "https://telegra.ph/file/f125c8314da39dab95e52.jpg",
+        "https://telegra.ph/file/bf5c18dbd34e4d9f115b0.jpg",
+        "https://telegra.ph/file/f3ed2ab2292ea40c3fd7c.jpg",
+        "https://telegra.ph/file/4703233998d479bdd626c.jpg",
+        "https://telegra.ph/file/a500917dc752b47423bb2.jpg",
+        "https://telegra.ph/file/73ddadff101ee2a4c4abf.jpg",
+        "https://telegra.ph/file/597fa86a3dce01d5eaae6.jpg",
+        "https://telegra.ph/file/613d6889801a72e3fcf16.jpg",
+        "https://telegra.ph/file/cd480ca0da6074d9c06d2.jpg",
+        "https://telegra.ph/file/97c367aaa806aea06cd1d.jpg",
+        "https://telegra.ph/file/8053ef9d700e123c4f079.jpg",
+        "https://telegra.ph/file/0281dfe4dc76d7124f9f3.jpg",
+        "https://telegra.ph/file/f8a559301f6c9d34ce889.jpg",
+        "https://telegra.ph/file/447264380740cf8565fd5.jpg",
+        "https://telegra.ph/file/4c728ac98442f0325297e.jpg"
+    ]
+};

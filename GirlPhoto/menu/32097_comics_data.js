@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32097,
+    "title": "仙女月 Cosplay 喜多川海夢兔女郎",
+    "sourceUrl": "https://telegra.ph/仙女月-Cosplay-喜多川海夢兔女郎-10-18",
+    "images": [
+        "https://telegra.ph/file/224062b0a42afb8d09ba9.jpg",
+        "https://telegra.ph/file/c6011e4a80800c5861b30.jpg",
+        "https://telegra.ph/file/3ead60b61147663600d0b.jpg",
+        "https://telegra.ph/file/f86a562f95d83f34a7152.jpg",
+        "https://telegra.ph/file/40ae75fa8e04b204fd295.jpg",
+        "https://telegra.ph/file/9454a76a5d9b4f5a18e77.jpg",
+        "https://telegra.ph/file/c466eea3cc4d76651f4ab.jpg",
+        "https://telegra.ph/file/e6aa0da4a73905c85db86.jpg",
+        "https://telegra.ph/file/294fb73866c9bf707e03e.jpg",
+        "https://telegra.ph/file/0e88e3e302988a3406f36.jpg",
+        "https://telegra.ph/file/2cec828d854381d83db40.jpg",
+        "https://telegra.ph/file/9b1ffbb63a9570bd6cd6b.jpg",
+        "https://telegra.ph/file/d777c57365d86f8336cd2.jpg",
+        "https://telegra.ph/file/79d70f7d336a666b01baa.jpg",
+        "https://telegra.ph/file/601b018c32301e3fbad6a.jpg",
+        "https://telegra.ph/file/518ad1507f39a0551864b.jpg",
+        "https://telegra.ph/file/cc2ffc1e8f76506f0a1eb.jpg",
+        "https://telegra.ph/file/7a06dce9ed9c75dedb6db.jpg",
+        "https://telegra.ph/file/cb6e1438a803f60770b96.jpg",
+        "https://telegra.ph/file/86cc7f1367a95f16a6423.jpg",
+        "https://telegra.ph/file/027b9778d4d2a6de4d98b.jpg",
+        "https://telegra.ph/file/9d88713fcbce552cbea8c.jpg",
+        "https://telegra.ph/file/e6f85cb9b0574924a3cb9.jpg",
+        "https://telegra.ph/file/d665e58efdd88cd7a3750.jpg",
+        "https://telegra.ph/file/9007eeccd4af0fd611083.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

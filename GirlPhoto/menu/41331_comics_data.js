@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41331,
+    "title": "Queenie - McGirl",
+    "sourceUrl": "https://telegra.ph/Queenie---McGirl-04-03",
+    "images": [
+        "https://telegra.ph/file/775a2362cc1d31a0aa792.jpg",
+        "https://telegra.ph/file/a8fc3cd1f5caacdb31032.jpg",
+        "https://telegra.ph/file/0408b877159cb05c8adb0.jpg",
+        "https://telegra.ph/file/340af6fe80b44a4f3937b.jpg",
+        "https://telegra.ph/file/3c66c4e9deae1b736a473.jpg",
+        "https://telegra.ph/file/eb3a6f2ec6814f7132b17.jpg",
+        "https://telegra.ph/file/19add41696a4dc9d55537.jpg",
+        "https://telegra.ph/file/24c75a38e0d73a923217b.jpg",
+        "https://telegra.ph/file/7febcabbbee04040b5120.jpg",
+        "https://telegra.ph/file/243dabe939d71ede2aa69.jpg",
+        "https://telegra.ph/file/9555d3c417312413c65c6.jpg",
+        "https://telegra.ph/file/542ac68f5bfa11f771ee3.jpg",
+        "https://telegra.ph/file/7c7b1697e087c9239bf19.jpg",
+        "https://telegra.ph/file/3a490f225028278379d9d.jpg",
+        "https://telegra.ph/file/db380a8c834f2d4146766.jpg",
+        "https://telegra.ph/file/f2cae58da7afd3235d02d.jpg",
+        "https://telegra.ph/file/65accd971705a6d0a7810.jpg",
+        "https://telegra.ph/file/db0e317a761a0ac1ed8bb.jpg",
+        "https://telegra.ph/file/e64e93b0c912a7a3386a8.jpg",
+        "https://telegra.ph/file/331448057c81b59557759.jpg",
+        "https://telegra.ph/file/3ccb14d68a4457f15ea81.jpg",
+        "https://telegra.ph/file/e5c5d06dfac90bab27b24.jpg",
+        "https://telegra.ph/file/c20c0598af9b895c6c87b.jpg",
+        "https://telegra.ph/file/4bfc11b098a4f7a417817.jpg",
+        "https://telegra.ph/file/19ab3c54bf1cfb98c6514.jpg"
+    ]
+};

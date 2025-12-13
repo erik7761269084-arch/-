@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31440,
+    "title": "Cosplay 一笑芳香沁 忍者2B Nier",
+    "sourceUrl": "https://telegra.ph/Cosplay-一笑芳香沁-忍者2B-Nier-08-16",
+    "images": [
+        "https://telegra.ph/file/e2ed844ff20f46f0d94c2.jpg",
+        "https://telegra.ph/file/6854ceb55d467559a8cd4.jpg",
+        "https://telegra.ph/file/a272b8aaa96f62b9eeb67.jpg",
+        "https://telegra.ph/file/5ce838e833660d4b939e1.jpg",
+        "https://telegra.ph/file/a6a219b99bde96c6e9c81.jpg",
+        "https://telegra.ph/file/825378aecce121749ba30.jpg",
+        "https://telegra.ph/file/dc9d0b7d3a8a4f001f1d9.jpg",
+        "https://telegra.ph/file/0672d39f067448d82bdec.jpg",
+        "https://telegra.ph/file/c074c2cab1e658f3d4de1.jpg",
+        "https://telegra.ph/file/2442dcc933392d515c791.jpg",
+        "https://telegra.ph/file/2757dc9146bf5b67746d6.jpg",
+        "https://telegra.ph/file/7be02fa549ac286a2a094.jpg",
+        "https://telegra.ph/file/53c7f1312da1df9593653.jpg",
+        "https://telegra.ph/file/ef713caaacfee15cef9dc.jpg",
+        "https://telegra.ph/file/216b23da50f9b3d05c112.jpg",
+        "https://telegra.ph/file/75fee91628fb0722a302a.jpg",
+        "https://telegra.ph/file/5088643f14a4bb8d6995a.jpg",
+        "https://telegra.ph/file/2ca02277d5e6005264c74.jpg",
+        "https://telegra.ph/file/13e754568530aafc541f9.jpg",
+        "https://telegra.ph/file/bc67044e6dcb0de0d5f58.jpg",
+        "https://telegra.ph/file/c62bf3561e54d83e436eb.jpg",
+        "https://telegra.ph/file/6989858b57198f6684c7a.jpg",
+        "https://telegra.ph/file/939cacc0fdc758e5bef9e.jpg",
+        "https://telegra.ph/file/0e88fdf14df4f1e28db4e.jpg",
+        "https://telegra.ph/file/b87987f605de9e0bee6df.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

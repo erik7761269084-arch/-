@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32100,
+    "title": "Bambi 밤비, [DJAWA] God Mother Heket (Destiny Child) Set.02",
+    "sourceUrl": "https://telegra.ph/Bambi-밤비-DJAWA-God-Mother-Heket-Destiny-Child-Set02-10-18",
+    "images": [
+        "https://telegra.ph/file/c811a982748881e139f0c.jpg",
+        "https://telegra.ph/file/4e65795b18b34ea5eb02c.jpg",
+        "https://telegra.ph/file/0bbf4b80054618fa7ea37.jpg",
+        "https://telegra.ph/file/504c87020c1175ea68e94.jpg",
+        "https://telegra.ph/file/a4b38027f33c6279d2c7d.jpg",
+        "https://telegra.ph/file/3e5a4a3e8a0a4dcf82ad3.jpg",
+        "https://telegra.ph/file/c3439e0d59fa62e2b109d.jpg",
+        "https://telegra.ph/file/dda3a02ddc14349d101e3.jpg",
+        "https://telegra.ph/file/4d42f304eb91cf35c369a.jpg",
+        "https://telegra.ph/file/9f8c4055d82066efc8d5b.jpg",
+        "https://telegra.ph/file/b47c2b1849217ab028f2b.jpg",
+        "https://telegra.ph/file/1469317105e3d0e334b48.jpg",
+        "https://telegra.ph/file/d7e2c46b8d9aee97274fb.jpg",
+        "https://telegra.ph/file/3b3180e1425813c5bc1c9.jpg",
+        "https://telegra.ph/file/648802a13b348a4fc8ac4.jpg",
+        "https://telegra.ph/file/e3ccc236bd15192decaeb.jpg",
+        "https://telegra.ph/file/1d82091408cc92e719e21.jpg",
+        "https://telegra.ph/file/2a0c4958b9e5a5a2476cd.jpg",
+        "https://telegra.ph/file/ca4e69ba9f5f672f20c63.jpg",
+        "https://telegra.ph/file/073a7c322acf077b754f4.jpg",
+        "https://telegra.ph/file/0db610cc82041a598cdb8.jpg",
+        "https://telegra.ph/file/17373b3c53d5bcb92ba93.jpg",
+        "https://telegra.ph/file/3e19f8ec62d25d272afd7.jpg",
+        "https://telegra.ph/file/4c5ea68fd2d63818791ad.jpg",
+        "https://telegra.ph/file/fcaa46e541304c11afa72.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37774,
+    "title": "Uy Uy - DVA (Overwatch)",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---DVA-Overwatch-06-01",
+    "images": [
+        "https://telegra.ph/file/d80f9c4a40bb00bbfab54.jpg",
+        "https://telegra.ph/file/f3aa51e251de9fe4aca99.jpg",
+        "https://telegra.ph/file/ed86ba468ba40b21f090e.jpg",
+        "https://telegra.ph/file/41d824625ec0260c11106.jpg",
+        "https://telegra.ph/file/1012c6a5b2754e144c9d6.jpg",
+        "https://telegra.ph/file/5bccc1da6e5b5bef8f4af.jpg",
+        "https://telegra.ph/file/3292b971d1cd37d44ac5a.jpg",
+        "https://telegra.ph/file/1c80be5cba01a639ab035.jpg",
+        "https://telegra.ph/file/9f1dd5883fdf1dea8767f.jpg",
+        "https://telegra.ph/file/c514217deb84ac7995ea5.jpg",
+        "https://telegra.ph/file/d917467abf0189e32d85c.jpg",
+        "https://telegra.ph/file/447b3f0bdb8ffcf19a30f.jpg",
+        "https://telegra.ph/file/7228b32951b99d8e6fc7b.jpg",
+        "https://telegra.ph/file/b12d90363fb6acc896301.jpg",
+        "https://telegra.ph/file/79fb95b3a3e471a767ac1.jpg",
+        "https://telegra.ph/file/0c89980a1dc893c98a3e8.jpg",
+        "https://telegra.ph/file/9a8474f17408731e05898.jpg",
+        "https://telegra.ph/file/3d098427d8fbc33c48a37.jpg",
+        "https://telegra.ph/file/b7f9cff5bc48950a15cca.jpg",
+        "https://telegra.ph/file/3f11f43b54895f662adea.jpg",
+        "https://telegra.ph/file/15752aae63ebfd6b2b2eb.jpg",
+        "https://telegra.ph/file/74eebd25bb392442adb73.jpg",
+        "https://telegra.ph/file/9894bf542768bbd8c687f.jpg",
+        "https://telegra.ph/file/94ad6dbddc7059ccc4d95.jpg",
+        "https://telegra.ph/file/3de4a8d30d9181a9fe885.jpg"
+    ]
+};

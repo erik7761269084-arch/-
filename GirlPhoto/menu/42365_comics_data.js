@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42365,
+    "title": "萌芽儿o0 - 毛绒内衣 [27P-278MB]",
+    "sourceUrl": "https://telegra.ph/%E8%90%8C%E8%8A%BD%E5%84%BFo0---%E6%AF%9B%E7%BB%92%E5%86%85%E8%A1%A3-27P-278MB-05-15",
+    "images": [
+        "https://telegra.ph/file/2ee2fc666e68dcf254911.jpg",
+        "https://telegra.ph/file/a194828751a9a58a2a551.jpg",
+        "https://telegra.ph/file/60f9ddd8d451593a3828d.jpg",
+        "https://telegra.ph/file/c3111d8ca637692565c30.jpg",
+        "https://telegra.ph/file/da29f9936b8cbea083244.jpg",
+        "https://telegra.ph/file/55b5367ee70a11eb62919.jpg",
+        "https://telegra.ph/file/de8e2a3912fe644314098.jpg",
+        "https://telegra.ph/file/879c7af2726eb16fdce7f.jpg",
+        "https://telegra.ph/file/615cf1be8e5e5cd717cfa.jpg",
+        "https://telegra.ph/file/c0f57926b3a0499ad37fe.jpg",
+        "https://telegra.ph/file/ad3d0f90f503cfdbd807d.jpg",
+        "https://telegra.ph/file/bc1a2b7bcd2a5ad79ffa5.jpg",
+        "https://telegra.ph/file/2f66997a140639b221c1e.jpg",
+        "https://telegra.ph/file/a39e08d934dea9ba4dee2.jpg",
+        "https://telegra.ph/file/846db75e12aec8d68c78d.jpg",
+        "https://telegra.ph/file/61e08f27e97547814adf7.jpg",
+        "https://telegra.ph/file/0395c88df155e019db9c3.jpg",
+        "https://telegra.ph/file/2082b22e656f2e8b71fc2.jpg",
+        "https://telegra.ph/file/9068fe39952af298071cb.jpg",
+        "https://telegra.ph/file/6a0fcf87e0fa84624db8d.jpg",
+        "https://telegra.ph/file/1d54e0b4314bec7babfa1.jpg",
+        "https://telegra.ph/file/101c188f05c33a012fc85.jpg",
+        "https://telegra.ph/file/50c5446556ea27aa5834e.jpg",
+        "https://telegra.ph/file/574985391ff21d50f39ba.jpg",
+        "https://telegra.ph/file/2b9f53bf0a53acb0e0a33.jpg",
+        "https://telegra.ph/file/f04ae2b5c914d3020c09b.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 34042,
+    "title": "Yuna 유나, [SAINT Photolife] Kitten",
+    "sourceUrl": "https://telegra.ph/Yuna-유나-SAINT-Photolife-Kitten-05-04",
+    "images": [
+        "https://telegra.ph/file/ad3568b9155933caecaf2.jpg",
+        "https://telegra.ph/file/1473ac7577656784052dc.jpg",
+        "https://telegra.ph/file/5f604b86bbe56e30e74d1.jpg",
+        "https://telegra.ph/file/d984c1898d3708363fe97.jpg",
+        "https://telegra.ph/file/48288f2e4b886c64f5bc6.jpg",
+        "https://telegra.ph/file/2ea78fa32daa95b90b07a.jpg",
+        "https://telegra.ph/file/c16c192dd3dc4949d5382.jpg",
+        "https://telegra.ph/file/9c69fa1ef7f6823de629c.jpg",
+        "https://telegra.ph/file/91210935d7626a5237fae.jpg",
+        "https://telegra.ph/file/6bde16449ff8de1e55201.jpg",
+        "https://telegra.ph/file/863a287065862444d1ebf.jpg",
+        "https://telegra.ph/file/7609a216624e6b4796ea4.jpg",
+        "https://telegra.ph/file/d529e3baa55d62a8442cd.jpg",
+        "https://telegra.ph/file/23d2172fc741f73f653e8.jpg",
+        "https://telegra.ph/file/659a3d08e62b78c2b1ff1.jpg",
+        "https://telegra.ph/file/c1420ae97b2db2768f8f3.jpg",
+        "https://telegra.ph/file/5679edc81f603f6f1d672.jpg",
+        "https://telegra.ph/file/5dd95c708c46e22479408.jpg",
+        "https://telegra.ph/file/09ae9d8aedc5874f2b06f.jpg",
+        "https://telegra.ph/file/c63d1829d5dd0f243c1ce.jpg",
+        "https://telegra.ph/file/5b5f0fe25d94b5bf1d6ae.jpg",
+        "https://telegra.ph/file/6b51401914e5e9382a445.jpg",
+        "https://telegra.ph/file/d82c652ba8dcfa124240a.jpg"
+    ]
+};

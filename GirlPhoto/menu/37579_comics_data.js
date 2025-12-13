@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37579,
+    "title": "GMS 고말숙, LEEHEE EXPRESS LEDG-195C Set.01",
+    "sourceUrl": "https://telegra.ph/GMS-고말숙-LEEHEE-EXPRESS-LEDG-195C-Set01-04-28",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxNLYFuZVNBdwa4u-A-LcYC0EAAtjMMRvydylQaE27wnzJCtEBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxNOE16Opkw4-sa2o6BiI9cfgAAtbMMRvydylQcxyZc-f6n1MBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxNI4qgJTGCx5KKrNL2vaxYfIAAtnMMRvydylQHpIawlpcemoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxXbIb9Uz2aQfdjCouJ1ImqLEAAtrMMRvydylQAxjszSheEakBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxNEJO7nP2jt6AF_idHoIv2d8AAtfMMRvydylQzZpYhfgS3mUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxNDVOt_Bkhz-jLaFB57h3K2QAAtXMMRvydylQtAqmaJx0JxgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxXUY1u4RbKbLOtKTSV9Du_vMAAt3MMRvydylQzpgOSt-AFn4BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxXb5PZpHVfutlTwsN_If4jKIAAtvMMRvydylQ7vrRDevOaD0BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxXY4tyz4WKunsnjI7ey4yAAFiAALczDEb8ncpUKzBZTau_CF_AQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxXWy6ZaNfZwvSneJG20U8awwAAt7MMRvydylQUA3OY4LjIhwBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxaCU_Na6oQtEX2TfE6PWNLnkAAuLMMRvydylQeUhOO9FbPxkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxaKkiSKnW67oe-0tpBs9tOasAAuDMMRvydylQle7cRdxOBXwBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxaB0xuFEN3n287NdpZWXBraUAAuPMMRvydylQzmo-2jcwmG4BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxaPwdmLMgzkgSZydgCF4opswAAt_MMRvydylQkeduIzQC4jkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxaNe-16crXRUfRo6tNFrlnN0AAuHMMRvydylQWi9l0pmDcCcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxbVns1-dts8mBQL10PxAN8ucAAufMMRvydylQRQc_yT06VOABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxbVuc939iWT57Doqcj2BKl7sAAubMMRvydylQitDLnggoW0IBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxbUZsO-fJIYohtkz652QB2TMAAujMMRvydylQnWOpUyq-hzEBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxbeGPm5775qk40naOnZXwoLMAAuTMMRvydylQ6JQ0sEhFG4ABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxbeDHM2StiPcVhWkAAR1mcV8QAALlzDEb8ncpULohPie6vr82AQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxeNh2k0D5Uk_4umpD8UW-M0QAAu3MMRvydylQ36LJQShjSxsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxeA2ZDxWgtNqdLRwGS2EIUrgAAunMMRvydylQKqz7DbrPnCcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxeHB9ChcYYEPESNhAer0ROCsAAuvMMRvydylQ0F58xahdausBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxeEIf_-HsG-3n72-gn3sDmpUAAurMMRvydylQy7_dKDgKU5cBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxnORztqbAXQuSKkPXt21RHuMAAu7MMRvydylQTCOipxhKodoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxeEmef8n-_OexhwFqdHIWR54AAuzMMRvydylQtaGGqKFt8d4BAAMCAAN3AAM2BA.jpg"
+    ]
+};

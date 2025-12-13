@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42899,
+    "title": "阿包也是兔娘 1月舰长 - 能代女仆 23P 402MB",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98-1%E6%9C%88%E8%88%B0%E9%95%BF---%E8%83%BD%E4%BB%A3%E5%A5%B3%E4%BB%86-23P-402MB-07-09",
+    "images": [
+        "https://telegra.ph/file/a05beed61f6367b8fdf0d.jpg",
+        "https://telegra.ph/file/d55e0351bfeffebcf516f.jpg",
+        "https://telegra.ph/file/31b9b09e87f9a995e1e0f.jpg",
+        "https://telegra.ph/file/9e4db3044e77c740f85da.jpg",
+        "https://telegra.ph/file/b1630cf960ef157041afb.jpg",
+        "https://telegra.ph/file/17762f9eef513615edf53.jpg",
+        "https://telegra.ph/file/d8631fb44cd45473ea38f.jpg",
+        "https://telegra.ph/file/de0ea80f9522cf21d1d1f.jpg",
+        "https://telegra.ph/file/a560102b985f983b2ab60.jpg",
+        "https://telegra.ph/file/22b322beb894317369068.jpg",
+        "https://telegra.ph/file/a69a9995e66498e64c765.jpg",
+        "https://telegra.ph/file/20c3bd9bda8884d0ee490.jpg",
+        "https://telegra.ph/file/301cafce80d1514199d78.jpg",
+        "https://telegra.ph/file/b47c9973dcaddb877efef.jpg",
+        "https://telegra.ph/file/94608c3c409d30130e52c.jpg",
+        "https://telegra.ph/file/faa8eff6c60e26a36f838.jpg",
+        "https://telegra.ph/file/dd60d95048b9ab2df81d7.jpg",
+        "https://telegra.ph/file/0bfb97ba1f97478a65e70.jpg",
+        "https://telegra.ph/file/42eeb0daad1a1fb06f532.jpg",
+        "https://telegra.ph/file/51e175b58d3c7ae0a0e3d.jpg",
+        "https://telegra.ph/file/2e4fb3a8b9e8528195cd8.jpg",
+        "https://telegra.ph/file/c94debd60418a849c0036.jpg",
+        "https://telegra.ph/file/9373d76b03f3d72efcddf.jpg"
+    ]
+};

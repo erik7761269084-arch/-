@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40112,
+    "title": "Ino - Tifa (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/Ino---Tifa-Final-Fantasy-01-11",
+    "images": [
+        "https://telegra.ph/file/d612ec5b7501641ed4b69.jpg",
+        "https://telegra.ph/file/eef0725c05feb0a167b1f.jpg",
+        "https://telegra.ph/file/8127f42d1594274816a17.jpg",
+        "https://telegra.ph/file/40cda45420e32d38fb286.jpg",
+        "https://telegra.ph/file/05f90b0b1e8fb008da288.jpg",
+        "https://telegra.ph/file/c9e6954023ffd8bfa9c16.jpg",
+        "https://telegra.ph/file/03c03cc5c334f313d2754.jpg",
+        "https://telegra.ph/file/2b3d2b1c4e5b106bf776d.jpg",
+        "https://telegra.ph/file/3e7ccf1d889819b674651.jpg",
+        "https://telegra.ph/file/15bb338c4c9fdc9546372.jpg",
+        "https://telegra.ph/file/a33ff23dd566f29657400.jpg",
+        "https://telegra.ph/file/ed26addd5eea84b6e9933.jpg",
+        "https://telegra.ph/file/5b3aa088601fe3b500964.jpg",
+        "https://telegra.ph/file/0ab980da80f962683de85.jpg",
+        "https://telegra.ph/file/f652b7b6ef6a284a6dfad.jpg",
+        "https://telegra.ph/file/91b3333b2cb806165ce8f.jpg",
+        "https://telegra.ph/file/272f43544a9cbdfb8ef86.jpg",
+        "https://telegra.ph/file/6d52a7898f107af786e53.jpg",
+        "https://telegra.ph/file/664e64616bed6b6ee8ea2.jpg",
+        "https://telegra.ph/file/faf1947f5aadc33fe7f4b.jpg",
+        "https://telegra.ph/file/da01adfcbc6b533ba5b0f.jpg",
+        "https://telegra.ph/file/33c956bc8068e3d2cc87e.jpg",
+        "https://telegra.ph/file/06468275e7fec489fabf5.jpg",
+        "https://telegra.ph/file/4790f0e48f88ef46e17df.jpg"
+    ]
+};

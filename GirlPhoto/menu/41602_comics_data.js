@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41602,
+    "title": "Yoshinobi - Strawberry bikini",
+    "sourceUrl": "https://telegra.ph/Yoshinobi---Strawberry-bikini-06-17",
+    "images": [
+        "https://telegra.ph/file/0f495c5e05656c134fb93.jpg",
+        "https://telegra.ph/file/a8b9b17a91a5094713205.jpg",
+        "https://telegra.ph/file/6568098af6fa1b9ebf763.jpg",
+        "https://telegra.ph/file/de2e77c9ca99cd92b5cd8.jpg",
+        "https://telegra.ph/file/1091099f229e0b068782e.jpg",
+        "https://telegra.ph/file/e8399b85045df9af1abdc.jpg",
+        "https://telegra.ph/file/665147365e4736fba1dce.jpg",
+        "https://telegra.ph/file/c4103f41ae6a10f977f5c.jpg",
+        "https://telegra.ph/file/519b9da7b39300c3cc163.jpg",
+        "https://telegra.ph/file/1cee6572fc537b246a08f.jpg",
+        "https://telegra.ph/file/07a18d718a23c8dccae13.jpg",
+        "https://telegra.ph/file/3db3eb462cd686ee60e79.jpg",
+        "https://telegra.ph/file/dea4d7ff1228da040a278.jpg",
+        "https://telegra.ph/file/9092adfef99e05568c689.jpg",
+        "https://telegra.ph/file/3f74913f1630e52c3607a.jpg",
+        "https://telegra.ph/file/c80abec7cf78cf6c31d84.jpg",
+        "https://telegra.ph/file/f77aa9cc84b2fca926bc8.jpg",
+        "https://telegra.ph/file/346a4f58ea0ed42339de4.jpg",
+        "https://telegra.ph/file/00e2e87e0fc5bfbf9a095.jpg",
+        "https://telegra.ph/file/ee65233285eb6d76bdf56.jpg",
+        "https://telegra.ph/file/c26c25df2b6b04299d2f7.jpg",
+        "https://telegra.ph/file/ac1b7e7f3265b55d2dcb0.jpg",
+        "https://telegra.ph/file/8f9c3ca3a9c1f6cd8bb0c.jpg",
+        "https://telegra.ph/file/47bfc1eeba75d9f8bc14a.jpg",
+        "https://telegra.ph/file/004fe94fce140ca241f2e.jpg",
+        "https://telegra.ph/file/bb25b4f6ef0058ec13393.jpg"
+    ]
+};

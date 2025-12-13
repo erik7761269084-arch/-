@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40444,
+    "title": "Arty Huang - Kashino (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---Kashino-Azur-Lane-06-24",
+    "images": [
+        "https://telegra.ph/file/89c6672b63824212d5538.jpg",
+        "https://telegra.ph/file/f6d85d5af19ad891126b7.jpg",
+        "https://telegra.ph/file/9b34f2d8711d16aeda289.jpg",
+        "https://telegra.ph/file/c651a991d1ba436267694.jpg",
+        "https://telegra.ph/file/113573fec35794a4a1e93.jpg",
+        "https://telegra.ph/file/daf925a1559393947abc7.jpg",
+        "https://telegra.ph/file/6d5a8f111280e5a9b61d5.jpg",
+        "https://telegra.ph/file/d9f6ac9f94b4757d9daf4.jpg",
+        "https://telegra.ph/file/ca5170ba94941a9e7ed78.jpg",
+        "https://telegra.ph/file/e38fd9cba879d26446a5a.jpg",
+        "https://telegra.ph/file/a9286366e7b2c96569cfe.jpg",
+        "https://telegra.ph/file/546f158359479e30c5c25.jpg",
+        "https://telegra.ph/file/5b6069c0839d921bdfac8.jpg",
+        "https://telegra.ph/file/f09d6781e42d8fdd57bab.jpg",
+        "https://telegra.ph/file/2b668cfcbe29662e8e601.jpg",
+        "https://telegra.ph/file/e8f179db9259b72da9a89.jpg",
+        "https://telegra.ph/file/77f0f3306206a63f38838.jpg",
+        "https://telegra.ph/file/c24e670102966a0a7a2c5.jpg",
+        "https://telegra.ph/file/26783aa86f1ad30b9d5e7.jpg",
+        "https://telegra.ph/file/84eb1cc35135d9f081161.jpg",
+        "https://telegra.ph/file/b2aa1a8034cc41a247464.jpg",
+        "https://telegra.ph/file/6d14b25761313394d2c24.jpg",
+        "https://telegra.ph/file/d35f8aaac61798370b74b.jpg",
+        "https://telegra.ph/file/d652871d9e8ce4a11bc94.jpg",
+        "https://telegra.ph/file/ffe6d4b60f37463a720c9.jpg"
+    ]
+};

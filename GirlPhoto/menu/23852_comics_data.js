@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23852,
+    "title": "雨波_HaneAme 原創-蝴蝶妖精精靈寫真書3.BLUE ELF",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme-%E5%8E%9F%E5%89%B5-%E8%9D%B4%E8%9D%B6%E5%A6%96%E7%B2%BE%E7%B2%BE%E9%9D%88%E5%AF%AB%E7%9C%9F%E6%9B%B83BLUE-ELF-04-17",
+    "images": [
+        "https://telegra.ph/file/490a699e0c1c6fb631e67.jpg",
+        "https://telegra.ph/file/7433363a9b0579d5a5198.jpg",
+        "https://telegra.ph/file/1abd45ce3c479ac2abf15.jpg",
+        "https://telegra.ph/file/7694962b4c6527d97d2eb.jpg",
+        "https://telegra.ph/file/f87ba4a27918ec633dc99.jpg",
+        "https://telegra.ph/file/71877bcbc8a4f4b777d25.jpg",
+        "https://telegra.ph/file/49da5df78965559072ff0.jpg",
+        "https://telegra.ph/file/2f589bdca959fb0dccbff.jpg",
+        "https://telegra.ph/file/6257ee0c4ded0e2a6d744.jpg",
+        "https://telegra.ph/file/1fc484cd6212530331742.jpg",
+        "https://telegra.ph/file/2da31c2a79d275c913d32.jpg",
+        "https://telegra.ph/file/2bda904bcff21a7025b35.jpg",
+        "https://telegra.ph/file/ef763ea52a9a0433485e5.jpg",
+        "https://telegra.ph/file/adbeb681928bf24583846.jpg",
+        "https://telegra.ph/file/99ef9a6e8576a8ea71b44.jpg",
+        "https://telegra.ph/file/c5566730254e28e1e964c.jpg",
+        "https://telegra.ph/file/89a3a89ae57a5ea677222.jpg",
+        "https://telegra.ph/file/514f371db9ab66612c946.jpg",
+        "https://telegra.ph/file/d8249278afe43931a490f.jpg",
+        "https://telegra.ph/file/105f2d62f06a6c489b5b1.jpg",
+        "https://telegra.ph/file/ad5669db191bd820da755.jpg",
+        "https://telegra.ph/file/692d97783f736a76cdbb6.jpg",
+        "https://telegra.ph/file/698480b6cfc02b50606f2.jpg",
+        "https://telegra.ph/file/406e9664dcd434c92c6fd.jpg"
+    ]
+};

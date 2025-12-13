@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40289,
+    "title": "Choi Ji Yun - Mistsuri (Kimetsu No Yaiba)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Ringo-Mistsuri-Kimetsu-No-Yaiba-04-28",
+    "images": [
+        "https://telegra.ph/file/cead43b49977508f83606.jpg",
+        "https://telegra.ph/file/865d1b77f297fac3d2878.jpg",
+        "https://telegra.ph/file/e6284bca45b73144d01fd.jpg",
+        "https://telegra.ph/file/910dd65e1a68cc7815f10.jpg",
+        "https://telegra.ph/file/6fd83a22d03a2c852c408.jpg",
+        "https://telegra.ph/file/20c7fa15cb6ef3cc17436.jpg",
+        "https://telegra.ph/file/943a627c1ec3c7e8867b0.jpg",
+        "https://telegra.ph/file/3df85abd7fd07c6b6b00d.jpg",
+        "https://telegra.ph/file/0f407f170a48bbf15faa7.jpg",
+        "https://telegra.ph/file/b4c87199088d372094b8f.jpg",
+        "https://telegra.ph/file/e816cced388f7cc55712c.jpg",
+        "https://telegra.ph/file/0a8f990d167bcab1c43b4.jpg",
+        "https://telegra.ph/file/cc86d24b546a6edb6a22e.jpg",
+        "https://telegra.ph/file/0d23249ff5991086ebc87.jpg",
+        "https://telegra.ph/file/8eff7c299bee3f86d4345.jpg",
+        "https://telegra.ph/file/87e3d143e6682b432685a.jpg",
+        "https://telegra.ph/file/7ef81d88e02cdc96d7647.jpg",
+        "https://telegra.ph/file/4aae834eb3842efbdc98a.jpg",
+        "https://telegra.ph/file/bcd685108f73a07681432.jpg",
+        "https://telegra.ph/file/fa6a267503c10594d8490.jpg",
+        "https://telegra.ph/file/edb34349708a6e64f5614.jpg",
+        "https://telegra.ph/file/4a980af93c038c687a2d1.jpg",
+        "https://telegra.ph/file/4f89905e3e345ab67cb73.jpg",
+        "https://telegra.ph/file/513904e061f48d024cdfb.jpg",
+        "https://telegra.ph/file/f6a332e14c4b55feb7062.jpg"
+    ]
+};

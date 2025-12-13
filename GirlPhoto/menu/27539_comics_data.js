@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27539,
+    "title": "芋喵喵-合集[26P24V]",
+    "sourceUrl": "https://telegra.ph/%E8%8A%8B%E5%96%B5%E5%96%B5-%E5%90%88%E9%9B%8626P24V-09-05",
+    "images": [
+        "https://telegra.ph/file/46f40104e92180edfba34.jpg",
+        "https://telegra.ph/file/9ab4c13a110055b5301cd.jpg",
+        "https://telegra.ph/file/1583c37ce0f6d204b2e49.jpg",
+        "https://telegra.ph/file/1e7c12c996a7b020e0fb0.jpg",
+        "https://telegra.ph/file/03f47e1caa2c975174a47.jpg",
+        "https://telegra.ph/file/16a70d9056b9e0de96cb3.jpg",
+        "https://telegra.ph/file/146b3c5dc326a93b418a5.jpg",
+        "https://telegra.ph/file/d3c97dab5483d184ed588.jpg",
+        "https://telegra.ph/file/6c27c7a83f65b5cb6e49b.jpg",
+        "https://telegra.ph/file/3b7731e5b55368e914e9e.jpg",
+        "https://telegra.ph/file/452b0e71b860cf04e3ec2.jpg",
+        "https://telegra.ph/file/f67d63f0cd4d58b1a96ce.jpg",
+        "https://telegra.ph/file/4f4ccb38f45a774199a40.jpg",
+        "https://telegra.ph/file/079fbd0c43ad1972c76c5.jpg",
+        "https://telegra.ph/file/f779d0c4f9f9057a26745.jpg",
+        "https://telegra.ph/file/d238875afe665346293f9.jpg",
+        "https://telegra.ph/file/da9a446402d4ef968c7da.jpg",
+        "https://telegra.ph/file/7e85e9fa3459289dba1c1.jpg",
+        "https://telegra.ph/file/f5ef35f9c91271d894bb5.jpg",
+        "https://telegra.ph/file/c4ed3183bc982ec0926d2.jpg",
+        "https://telegra.ph/file/1f0f5db709fe0d8666975.jpg",
+        "https://telegra.ph/file/db910fd5ece19711d5032.jpg",
+        "https://telegra.ph/file/23fb3777ec4bb9ce9bd1c.jpg",
+        "https://telegra.ph/file/1c8729d3c986cd2fd0af7.jpg",
+        "https://telegra.ph/file/8b088f6c45df3daf0e270.jpg",
+        "https://telegra.ph/file/8760495f85ba38c85dd1f.jpg"
+    ]
+};

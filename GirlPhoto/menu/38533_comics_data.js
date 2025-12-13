@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38533,
+    "title": "麵Mian - Okita Souji Swimsuit (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/麵Mian---Okita-Souji-Swimsuit-Fate-Grand-Order-11-26",
+    "images": [
+        "https://telegra.ph/file/ba87f607585f904d97667.jpg",
+        "https://telegra.ph/file/9e52e24481edb91441719.jpg",
+        "https://telegra.ph/file/bc8cab6e6c046f28863a3.jpg",
+        "https://telegra.ph/file/9edec9fd6261200de0b89.jpg",
+        "https://telegra.ph/file/40adf9cf95a857b83aff1.jpg",
+        "https://telegra.ph/file/b1cd96ba5b4bafa7ee936.jpg",
+        "https://telegra.ph/file/a88c7fd9c82a53cc5a415.jpg",
+        "https://telegra.ph/file/7522e61c4be77a29f0587.jpg",
+        "https://telegra.ph/file/a62f9dbe83f70c75d6120.jpg",
+        "https://telegra.ph/file/2946d5f7fd92750b440d7.jpg",
+        "https://telegra.ph/file/5c51bcdb7dcece09f19a8.jpg",
+        "https://telegra.ph/file/5f15862bd8bf25fd90117.jpg",
+        "https://telegra.ph/file/41f54e00a1a647b95cb3f.jpg",
+        "https://telegra.ph/file/5eb24c1041c68f813737b.jpg",
+        "https://telegra.ph/file/11d9fd5c1c7ecd8ea984f.jpg",
+        "https://telegra.ph/file/fbb401eb1633b312e177a.jpg",
+        "https://telegra.ph/file/4aad5461632789fc0f978.jpg",
+        "https://telegra.ph/file/eb11942cb398eb81a0497.jpg",
+        "https://telegra.ph/file/8d966fd779bd1c021b1d4.jpg",
+        "https://telegra.ph/file/ac8c0c2e5b52ff55bad2a.jpg",
+        "https://telegra.ph/file/2ed2e30b048ad10bd1a28.jpg",
+        "https://telegra.ph/file/91aba99ed772e433795ae.jpg",
+        "https://telegra.ph/file/9047e1a1f89513bca9976.jpg",
+        "https://telegra.ph/file/24ca0930ac2b2963f8df3.jpg",
+        "https://telegra.ph/file/770c7b942e77a27be3589.jpg"
+    ]
+};

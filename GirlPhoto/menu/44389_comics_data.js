@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44389,
+    "title": "橙子喵酱 - A2 & 2B 尼尔 [24P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---A2--2B-尼尔-24P-11-14",
+    "images": [
+        "https://telegra.ph/file/28f80d736dbbefa2e24e4.jpg",
+        "https://telegra.ph/file/13bc1a1900b06b0315a72.jpg",
+        "https://telegra.ph/file/7f2b72dfa0764bcae6b41.jpg",
+        "https://telegra.ph/file/4405d8d77f3b154b9c4be.jpg",
+        "https://telegra.ph/file/96f108987d10c5642efc0.jpg",
+        "https://telegra.ph/file/de80b8f782918106f55dd.jpg",
+        "https://telegra.ph/file/d928e33916d8f72272cf4.jpg",
+        "https://telegra.ph/file/d536fe36df7be62d01941.jpg",
+        "https://telegra.ph/file/f0ccc894cc1dce9c68db9.jpg",
+        "https://telegra.ph/file/8fb8fab6bc17436d509fc.jpg",
+        "https://telegra.ph/file/269513c91c07277d4e789.jpg",
+        "https://telegra.ph/file/30cf610379502ee3202c6.jpg",
+        "https://telegra.ph/file/d5942be6086b72267bdf3.jpg",
+        "https://telegra.ph/file/92ea5626a42638b4de20c.jpg",
+        "https://telegra.ph/file/a667847e0c0a6dda27322.jpg",
+        "https://telegra.ph/file/e9a531ed07cf4efb96bcc.jpg",
+        "https://telegra.ph/file/64b658bd37e4eb82b1a2f.jpg",
+        "https://telegra.ph/file/2d20b3681bed288c342e1.jpg",
+        "https://telegra.ph/file/57e88fce7e5c6e219bf31.jpg",
+        "https://telegra.ph/file/0fee37d1884ac32a7c33f.jpg",
+        "https://telegra.ph/file/303a03415e9564b2668a4.jpg",
+        "https://telegra.ph/file/76f8119e8778bbac32f6a.jpg",
+        "https://telegra.ph/file/7f3ae542f5b783fc0c60e.jpg",
+        "https://telegra.ph/file/4a2d3b922f1e33f5b863c.jpg"
+    ]
+};

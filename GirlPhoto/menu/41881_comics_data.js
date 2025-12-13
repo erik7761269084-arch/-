@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41881,
+    "title": "Potato Godzilla - Robin (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-08-27",
+    "images": [
+        "https://i.ibb.co/MxWw15FN/Potato-Godzilla-Robin-HSR-001.jpg",
+        "https://i.ibb.co/8DYsCjXp/Potato-Godzilla-Robin-HSR-002.jpg",
+        "https://i.ibb.co/YFgh8Zkf/Potato-Godzilla-Robin-HSR-003.jpg",
+        "https://i.ibb.co/xKDBMgL6/Potato-Godzilla-Robin-HSR-004.jpg",
+        "https://i.ibb.co/W4zqDJtq/Potato-Godzilla-Robin-HSR-005.jpg",
+        "https://i.ibb.co/GQfFnZnt/Potato-Godzilla-Robin-HSR-006.jpg",
+        "https://i.ibb.co/TDRCM3Qz/Potato-Godzilla-Robin-HSR-007.jpg",
+        "https://i.ibb.co/MkyRDXxY/Potato-Godzilla-Robin-HSR-008.jpg",
+        "https://i.ibb.co/mVGVB7pt/Potato-Godzilla-Robin-HSR-009.jpg",
+        "https://i.ibb.co/LHTSgRB/Potato-Godzilla-Robin-HSR-010.jpg",
+        "https://i.ibb.co/PGB6M82k/Potato-Godzilla-Robin-HSR-011.jpg",
+        "https://i.ibb.co/9Hd17pzF/Potato-Godzilla-Robin-HSR-012.jpg",
+        "https://i.ibb.co/MxpsbyTC/Potato-Godzilla-Robin-HSR-013.jpg",
+        "https://i.ibb.co/s9Xgzt6p/Potato-Godzilla-Robin-HSR-014.jpg",
+        "https://i.ibb.co/Ng6PBxKP/Potato-Godzilla-Robin-HSR-015.jpg",
+        "https://i.ibb.co/9mDd5z78/Potato-Godzilla-Robin-HSR-016.jpg",
+        "https://i.ibb.co/vncz0kc/Potato-Godzilla-Robin-HSR-017.jpg",
+        "https://i.ibb.co/HLJmCVQZ/Potato-Godzilla-Robin-HSR-018.jpg",
+        "https://i.ibb.co/Z6w5hh42/Potato-Godzilla-Robin-HSR-019.jpg",
+        "https://i.ibb.co/tMyHgS75/Potato-Godzilla-Robin-HSR-020.jpg",
+        "https://i.ibb.co/bMfFzfj1/Potato-Godzilla-Robin-HSR-021.jpg",
+        "https://i.ibb.co/35CPvqNV/Potato-Godzilla-Robin-HSR-022.jpg",
+        "https://i.ibb.co/1fxGhTrJ/Potato-Godzilla-Robin-HSR-023.jpg",
+        "https://i.ibb.co/yFD77T1Q/Potato-Godzilla-Robin-HSR-024.jpg"
+    ]
+};

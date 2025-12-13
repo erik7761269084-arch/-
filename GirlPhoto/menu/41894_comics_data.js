@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41894,
+    "title": "Mamyouu - Mai (King Of Fighters)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-08-29-2",
+    "images": [
+        "https://i.ibb.co/vvRSN4Ty/01-Mamyouu-Mai-1.jpg",
+        "https://i.ibb.co/zhGSCWyH/02-Mamyouu-Mai-2.jpg",
+        "https://i.ibb.co/zHG8cN7X/03-Mamyouu-Mai-3.jpg",
+        "https://i.ibb.co/yBkrfg8D/04-Mamyouu-Mai-4.jpg",
+        "https://i.ibb.co/m5CXbVXj/05-Mamyouu-Mai-5.jpg",
+        "https://i.ibb.co/jZBsZydd/06-Mamyouu-Mai-6.jpg",
+        "https://i.ibb.co/35mvdPrz/07-Mamyouu-Mai-7.jpg",
+        "https://i.ibb.co/GGQ64s5/08-Mamyouu-Mai-8.jpg",
+        "https://i.ibb.co/v6sLC4zG/09-Mamyouu-Mai-9.jpg",
+        "https://i.ibb.co/YFGzgzy8/10-Mamyouu-Mai-10.jpg",
+        "https://i.ibb.co/5hDQFmJ9/11-Mamyouu-Mai-11.jpg",
+        "https://i.ibb.co/jPwdfNzD/12-Mamyouu-Mai-12.jpg",
+        "https://i.ibb.co/2p6xSdQ/13-Mamyouu-Mai-13.jpg",
+        "https://i.ibb.co/MyHj5f3K/14-Mamyouu-Mai-14.jpg",
+        "https://i.ibb.co/bjCWgCBN/15-Mamyouu-Mai-15.jpg",
+        "https://i.ibb.co/d0zXX0rH/16-Mamyouu-Mai-16.jpg",
+        "https://i.ibb.co/zHFTVpHM/17-Mamyouu-Mai-17.jpg",
+        "https://i.ibb.co/8DYGWpT3/18-Mamyouu-Mai-18.jpg",
+        "https://i.ibb.co/QjDC7BHj/19-Mamyouu-Mai-19.jpg",
+        "https://i.ibb.co/Zp00jdgH/20-Mamyouu-Mai-20.jpg",
+        "https://i.ibb.co/JWLYDn4d/21-Mamyouu-Mai-21.jpg",
+        "https://i.ibb.co/Q7DcC3S6/22-Mamyouu-Mai-22.jpg",
+        "https://i.ibb.co/Mk1X94HT/23-Mamyouu-Mai-23.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26311,
+    "title": "韶陌陌-女仆[24P]",
+    "sourceUrl": "https://telegra.ph/%E9%9F%B6%E9%99%8C%E9%99%8C-%E5%A5%B3%E4%BB%8624P-11-05",
+    "images": [
+        "https://telegra.ph/file/d968e9175f543d908cb29.jpg",
+        "https://telegra.ph/file/8fd24c897313b33a0c2b3.jpg",
+        "https://telegra.ph/file/b8ca97e53ddfafc722d2e.jpg",
+        "https://telegra.ph/file/e385f2661cd18418b3c6d.jpg",
+        "https://telegra.ph/file/36703f4e10c3a09d5d16d.jpg",
+        "https://telegra.ph/file/f993a62812ea0a80d0f20.jpg",
+        "https://telegra.ph/file/103bb5dd870f77201722a.jpg",
+        "https://telegra.ph/file/f9b4bf9cf894ef932849c.jpg",
+        "https://telegra.ph/file/beb958a796ea805be2f25.jpg",
+        "https://telegra.ph/file/676f12b21ed7bb296595f.jpg",
+        "https://telegra.ph/file/7fe442463ca7b22f13d51.jpg",
+        "https://telegra.ph/file/7ce37d8d534bc25782740.jpg",
+        "https://telegra.ph/file/5f8eb21084dcf935f7a39.jpg",
+        "https://telegra.ph/file/fe0bb5d14183fbb0c6d42.jpg",
+        "https://telegra.ph/file/89978197a251ed7a7d79a.jpg",
+        "https://telegra.ph/file/8d1a4372e81265f7ab75a.jpg",
+        "https://telegra.ph/file/b4c9ee56c696921efca9d.jpg",
+        "https://telegra.ph/file/bf97e2c53f1143e9903d0.jpg",
+        "https://telegra.ph/file/02029cf22b4ee2c23ac10.jpg",
+        "https://telegra.ph/file/b4ad3b1d85479b6bfb54d.jpg",
+        "https://telegra.ph/file/68d7658fd61dfe6ed5565.jpg",
+        "https://telegra.ph/file/f6c72bc6312b70bf955f4.jpg",
+        "https://telegra.ph/file/6d548c4aa6bce17147ff7.jpg",
+        "https://telegra.ph/file/700bade9a3aacd740c58f.jpg"
+    ]
+};

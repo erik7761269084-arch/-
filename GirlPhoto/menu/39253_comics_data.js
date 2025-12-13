@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39253,
+    "title": "Hane Ame - Lilliel (2.5 Dimensional Temptation)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Lilliel-25-Dimensional-Temptation-06-13",
+    "images": [
+        "https://telegra.ph/file/51ce1d4a909d3af8e2688.jpg",
+        "https://telegra.ph/file/8d9ee48d73cd022a0929e.jpg",
+        "https://telegra.ph/file/37dbd47675dfa432b921f.jpg",
+        "https://telegra.ph/file/67f5c20d0876f2abfbbc9.jpg",
+        "https://telegra.ph/file/e110572a87ff74ebac658.jpg",
+        "https://telegra.ph/file/d562daae5b589fecd897e.jpg",
+        "https://telegra.ph/file/6e143d8e68eb3ad3d2441.jpg",
+        "https://telegra.ph/file/5e0c9f90e0cfc58adafe4.jpg",
+        "https://telegra.ph/file/1399f6632186c9e280510.jpg",
+        "https://telegra.ph/file/326585c58ba534425cce4.jpg",
+        "https://telegra.ph/file/e766355bf13586c728a4b.jpg",
+        "https://telegra.ph/file/12b7fb58ca7828e9a95d9.jpg",
+        "https://telegra.ph/file/42722a05680deb88018aa.jpg",
+        "https://telegra.ph/file/2bc4b22fe0ce775919835.jpg",
+        "https://telegra.ph/file/9f1e734f5e82e00e8af81.jpg",
+        "https://telegra.ph/file/c7fb14ba2b13df053cb22.jpg",
+        "https://telegra.ph/file/15821b3a1cba2931aa3a8.jpg",
+        "https://telegra.ph/file/6d1a105e58285a5a0501d.jpg",
+        "https://telegra.ph/file/271e6c83b1686f8aec78b.jpg",
+        "https://telegra.ph/file/42d6bed6c33d6386ef42d.jpg",
+        "https://telegra.ph/file/aa75668f01d2ffb4175bd.jpg",
+        "https://telegra.ph/file/9d7c8e0ef27ce07287830.jpg",
+        "https://telegra.ph/file/df3be432b0807c77f01b0.jpg",
+        "https://telegra.ph/file/c4aecf6a83a72c0c2f106.jpg"
+    ]
+};

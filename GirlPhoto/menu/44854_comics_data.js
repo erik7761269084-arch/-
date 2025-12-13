@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44854,
+    "title": "水淼aqua - 夜阑",
+    "sourceUrl": "https://telegra.ph/水淼aqua---夜阑-03-19",
+    "images": [
+        "https://telegra.ph/file/b1f09acf758abb350b392.jpg",
+        "https://telegra.ph/file/7a8c72e75d150edd1c1ef.jpg",
+        "https://telegra.ph/file/a7cf63486d20b0365aa71.jpg",
+        "https://telegra.ph/file/24b1becfc6afec652f2cc.jpg",
+        "https://telegra.ph/file/f91c39d207ee266f7367a.jpg",
+        "https://telegra.ph/file/4e574e7f4c8dda32f9dcd.jpg",
+        "https://telegra.ph/file/41811d90db9fff1d71808.jpg",
+        "https://telegra.ph/file/0d9d32b789438b0477157.jpg",
+        "https://telegra.ph/file/1ea97535da666a1b6a987.jpg",
+        "https://telegra.ph/file/b4947f1ae1edc096f1b1c.jpg",
+        "https://telegra.ph/file/d7ee123627e43749436d2.jpg",
+        "https://telegra.ph/file/3c6a1fa23e27149069acb.jpg",
+        "https://telegra.ph/file/ded915fec0936025464a5.jpg",
+        "https://telegra.ph/file/5d1c534f3678171fa0c2d.jpg",
+        "https://telegra.ph/file/f10c85b807cb9c8eb17b2.jpg",
+        "https://telegra.ph/file/e78b11235656b18ddd509.jpg",
+        "https://telegra.ph/file/04b2d6b52a610d528858e.jpg",
+        "https://telegra.ph/file/b7446f5714fbf8e9f3c82.jpg",
+        "https://telegra.ph/file/af02e715a5d1d547a39ca.jpg",
+        "https://telegra.ph/file/313230e67ed87f0ce98c2.jpg",
+        "https://telegra.ph/file/7fc198c862b8f7bb8807b.jpg",
+        "https://telegra.ph/file/287d67ba801e325e6277e.jpg",
+        "https://telegra.ph/file/64f0d19f3b692ae82f2e2.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40488,
+    "title": "Azami - Bremerton Cheerleader (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Azami---Bremerton-Cheerleader-Azur-Lane-07-08",
+    "images": [
+        "https://telegra.ph/file/01c7a926b3017f00c194e.jpg",
+        "https://telegra.ph/file/dcbce71b3da32f9f2a65a.jpg",
+        "https://telegra.ph/file/3a617ba388544282edbba.jpg",
+        "https://telegra.ph/file/5e27c679efb4cfcdc3f23.jpg",
+        "https://telegra.ph/file/f7e2cdeed6547f355c734.jpg",
+        "https://telegra.ph/file/9a892317d51555fe5ff2c.jpg",
+        "https://telegra.ph/file/0747073ed2b5e283d15ac.jpg",
+        "https://telegra.ph/file/89abb559ea6b7564c2920.jpg",
+        "https://telegra.ph/file/1b4855386564a2ed148a9.jpg",
+        "https://telegra.ph/file/b201499606045ef236aaf.jpg",
+        "https://telegra.ph/file/c5065af66444e71f94b28.jpg",
+        "https://telegra.ph/file/b7c49e969ed79f7acb8a5.jpg",
+        "https://telegra.ph/file/a7cade1a16c610b3bbd13.jpg",
+        "https://telegra.ph/file/441b250f5452bc44a61b8.jpg",
+        "https://telegra.ph/file/ab8a2b751937acf49ed72.jpg",
+        "https://telegra.ph/file/ae7bd6f9ba665a4b6d0ec.jpg",
+        "https://telegra.ph/file/d9a33ec2ab55b3b8a5b35.jpg",
+        "https://telegra.ph/file/fa5ccda572633a7f9ca18.jpg",
+        "https://telegra.ph/file/714b027f6dce81b1b1b3a.jpg",
+        "https://telegra.ph/file/a2f1d64a3ee57e43bfdf7.jpg",
+        "https://telegra.ph/file/6f43170ca87a4e690e0c6.jpg",
+        "https://telegra.ph/file/d67f7f15cf2e247e0cd4f.jpg",
+        "https://telegra.ph/file/c00aa393cd7225be12acf.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25839,
+    "title": "[Cos]奈汐酱 - 当代女拳[25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%A5%88%E6%B1%90%E9%85%B1-%E5%BD%93%E4%BB%A3%E5%A5%B3%E6%8B%B325P-06-22",
+    "images": [
+        "https://telegra.ph/file/5f669c44e1b120b21246b.jpg",
+        "https://telegra.ph/file/afefb6176bb65ecb57a27.jpg",
+        "https://telegra.ph/file/0a665e5819e49720a70b1.jpg",
+        "https://telegra.ph/file/b933090986997075db9f2.jpg",
+        "https://telegra.ph/file/2ec29517a5054d01146c0.jpg",
+        "https://telegra.ph/file/26bd25f261b66f6456059.jpg",
+        "https://telegra.ph/file/8828b4ed6ac7a502fd7b1.jpg",
+        "https://telegra.ph/file/69a14d925df0f6e72970b.jpg",
+        "https://telegra.ph/file/47f9f34099cab1199a356.jpg",
+        "https://telegra.ph/file/2b4a20c14e6a870e83fd9.jpg",
+        "https://telegra.ph/file/2a0c9067dfbbff86d1ad4.jpg",
+        "https://telegra.ph/file/d4e60f4a9af8ff1b33746.jpg",
+        "https://telegra.ph/file/b66eee50613701c4303b6.jpg",
+        "https://telegra.ph/file/ff5553ef0a29e00f5a6cd.jpg",
+        "https://telegra.ph/file/6cc177680922aed8fdb4c.jpg",
+        "https://telegra.ph/file/6c0fd9d4e36b85c1dc59d.jpg",
+        "https://telegra.ph/file/a8f8c17ac516fd05084b6.jpg",
+        "https://telegra.ph/file/fed1e1693da65c1a281dd.jpg",
+        "https://telegra.ph/file/1ee9006837513a7dcc532.jpg",
+        "https://telegra.ph/file/dd680593bef76051fdbba.jpg",
+        "https://telegra.ph/file/58889e80cc17a1546eedf.jpg",
+        "https://telegra.ph/file/d8a673e8c45d3309fdf5a.jpg",
+        "https://telegra.ph/file/0bc0f20d4c564887e2f5a.jpg",
+        "https://telegra.ph/file/986e3233a8473d151b329.jpg",
+        "https://telegra.ph/file/c4790acee386d114aa66a.jpg"
+    ]
+};

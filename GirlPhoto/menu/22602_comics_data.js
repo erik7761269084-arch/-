@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22602,
+    "title": "眼酱大魔王w NO.027 OL [24P-111MB]",
+    "sourceUrl": "https://telegra.ph/%E7%9C%BC%E9%85%B1%E5%A4%A7%E9%AD%94%E7%8E%8Bw-NO027-OL-24P-111MB-11-26",
+    "images": [
+        "https://telegra.ph/file/13581e0f8e2e539c643fc.jpg",
+        "https://telegra.ph/file/2a205a13cefee48601603.jpg",
+        "https://telegra.ph/file/755d27adb00dbd6122bc4.jpg",
+        "https://telegra.ph/file/28cf90d35df4de2addf0e.jpg",
+        "https://telegra.ph/file/0155dab9d6aec12e3118e.jpg",
+        "https://telegra.ph/file/439f15cc8923ab447408f.jpg",
+        "https://telegra.ph/file/4545046cde4d1d4ee5086.jpg",
+        "https://telegra.ph/file/ae3636d6f75a1ee826dd6.jpg",
+        "https://telegra.ph/file/5e60dd6a30748232bba21.jpg",
+        "https://telegra.ph/file/0c1879fbc00b0b07d4429.jpg",
+        "https://telegra.ph/file/5a9a0a1d500614880c44b.jpg",
+        "https://telegra.ph/file/03c3ede87d71e72e66627.jpg",
+        "https://telegra.ph/file/c9cc00d6809b3e4068a5a.jpg",
+        "https://telegra.ph/file/c30b77673caa5c3aabe79.jpg",
+        "https://telegra.ph/file/18e461bb95fac3ed65a5d.jpg",
+        "https://telegra.ph/file/1bee102ddd517417c6524.jpg",
+        "https://telegra.ph/file/581e34353546c8e6df044.jpg",
+        "https://telegra.ph/file/a7b430cd2baf93935f9c0.jpg",
+        "https://telegra.ph/file/59672daee70262e1faae9.jpg",
+        "https://telegra.ph/file/d04b159bcd286fd3578b0.jpg",
+        "https://telegra.ph/file/7416f456633d5d4d2a8f9.jpg",
+        "https://telegra.ph/file/794b46009917bbb8ca53e.jpg",
+        "https://telegra.ph/file/2aa23a0dbf523c03d3930.jpg",
+        "https://telegra.ph/file/2a4f019c23c65619e8533.jpg"
+    ]
+};

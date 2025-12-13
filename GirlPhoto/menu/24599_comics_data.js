@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 24599,
+    "title": "沖田凜花Rinka-吸血鬼 碧蓝航线[24P]",
+    "sourceUrl": "https://telegra.ph/%E6%B2%96%E7%94%B0%E5%87%9C%E8%8A%B1Rinka-%E5%90%B8%E8%A1%80%E9%AC%BC-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF24P-10-26",
+    "images": [
+        "https://telegra.ph/file/311178f90802b4e362a90.jpg",
+        "https://telegra.ph/file/2ce89d378f7b1c5a65c0c.jpg",
+        "https://telegra.ph/file/99d054e4d1953008884bd.jpg",
+        "https://telegra.ph/file/763914a1e31783e457566.jpg",
+        "https://telegra.ph/file/a12a64fe6efbb4b1eb2c3.jpg",
+        "https://telegra.ph/file/6bfb4a91f29573411ad6b.jpg",
+        "https://telegra.ph/file/edb66738ef2bff657e1b4.jpg",
+        "https://telegra.ph/file/2507cca1d0e2537d08ddc.jpg",
+        "https://telegra.ph/file/c5c67a57ce95a44ff9dc7.jpg",
+        "https://telegra.ph/file/ccf7119f66696aa3f2311.jpg",
+        "https://telegra.ph/file/1567311e10bbe2204781b.jpg",
+        "https://telegra.ph/file/93da4acea48ddc0e485ee.jpg",
+        "https://telegra.ph/file/a9d780b8e6b11475a960b.jpg",
+        "https://telegra.ph/file/7d7d2f442468b4b7709ea.jpg",
+        "https://telegra.ph/file/b05a9977468aac049a55a.jpg",
+        "https://telegra.ph/file/3ede85dd8b295a6cc8f2d.jpg",
+        "https://telegra.ph/file/581a0cb39676d609b0760.jpg",
+        "https://telegra.ph/file/4e30a25631ce1bb58146d.jpg",
+        "https://telegra.ph/file/a1540ff54e18da0070a50.jpg",
+        "https://telegra.ph/file/8b5a125bd9168ffd97102.jpg",
+        "https://telegra.ph/file/cefc453ca59b4edf3771a.jpg",
+        "https://telegra.ph/file/38279c6dabefde92e9f37.jpg",
+        "https://telegra.ph/file/c89794d6ffe103a14d4e0.jpg",
+        "https://telegra.ph/file/6988f21e1f06ebac8c087.jpg"
+    ]
+};

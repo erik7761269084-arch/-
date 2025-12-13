@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30118,
+    "title": "年年 - 白玉兰 26P",
+    "sourceUrl": "https://telegra.ph/%E5%B9%B4%E5%B9%B4---%E7%99%BD%E7%8E%89%E5%85%B0-26P-02-12",
+    "images": [
+        "https://telegra.ph/file/3373aa0a5c525e5102dbd.jpg",
+        "https://telegra.ph/file/fad7a51bd17a7e56764b1.jpg",
+        "https://telegra.ph/file/ef32a4a0166408966bb42.jpg",
+        "https://telegra.ph/file/eb7bfc980d18409b14913.jpg",
+        "https://telegra.ph/file/86abf67db46774077f91f.jpg",
+        "https://telegra.ph/file/6e86a6cd0f07337865351.jpg",
+        "https://telegra.ph/file/5e05fe43771c98b45c0c6.jpg",
+        "https://telegra.ph/file/6f16e07d0df1d1b1080b7.jpg",
+        "https://telegra.ph/file/16719474a4a97d0faeff2.jpg",
+        "https://telegra.ph/file/1ec88e05476c5027d13c5.jpg",
+        "https://telegra.ph/file/0a259a76d39793203d864.jpg",
+        "https://telegra.ph/file/55439499912927eb48c6e.jpg",
+        "https://telegra.ph/file/5a0140412d4920d21d95b.jpg",
+        "https://telegra.ph/file/a6d658b70fd7babc3a993.jpg",
+        "https://telegra.ph/file/e86c303f6d5b6f9068e3f.jpg",
+        "https://telegra.ph/file/e46caed0fab7c72298296.jpg",
+        "https://telegra.ph/file/f7966a037613a95d59efc.jpg",
+        "https://telegra.ph/file/7c4e54dd91be5d4c62b04.jpg",
+        "https://telegra.ph/file/07448c4237dea67c85e38.jpg",
+        "https://telegra.ph/file/8769614293d9c7b2353be.jpg",
+        "https://telegra.ph/file/f574ea17ea37155822491.jpg",
+        "https://telegra.ph/file/ca20740b7cdf8e770cf22.jpg",
+        "https://telegra.ph/file/aed62281c627fa6c35479.jpg",
+        "https://telegra.ph/file/8fa258656093d2c5bbff0.jpg",
+        "https://telegra.ph/file/7bbad491fce7c240609df.jpg",
+        "https://telegra.ph/file/560dfc5818a03a35da005.jpg"
+    ]
+};

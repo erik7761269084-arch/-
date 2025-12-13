@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38188,
+    "title": "Mikomi Hokina - St. Louis Luxurious (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Mikomi-Hokina---St-Louis-Luxurious-Azur-Lane-08-25",
+    "images": [
+        "https://telegra.ph/file/710f8a8e602c7b83b471d.jpg",
+        "https://telegra.ph/file/a01a1e97b80fc601cfc30.jpg",
+        "https://telegra.ph/file/a8f724e7c66e209810357.jpg",
+        "https://telegra.ph/file/008f762cbaa1ef8774201.jpg",
+        "https://telegra.ph/file/3cb908b7ed37da1ac4035.jpg",
+        "https://telegra.ph/file/3c631ffc63aeaa39c7ed5.jpg",
+        "https://telegra.ph/file/70433e6b895e073c0b39a.jpg",
+        "https://telegra.ph/file/1ef13c448bf93a3d5495b.jpg",
+        "https://telegra.ph/file/c17bb88aa3afec4b7597c.jpg",
+        "https://telegra.ph/file/df0967b71378367a18e1a.jpg",
+        "https://telegra.ph/file/0c780fbb91adda69774cf.jpg",
+        "https://telegra.ph/file/6b15b040d3df6dfa08751.jpg",
+        "https://telegra.ph/file/7bea7034da23eda55704b.jpg",
+        "https://telegra.ph/file/994ebb027015e0cff5aaa.jpg",
+        "https://telegra.ph/file/a28b31d03f190d0958aeb.jpg",
+        "https://telegra.ph/file/57963e895d3180bd64f28.jpg",
+        "https://telegra.ph/file/e378555fc947858be65d1.jpg",
+        "https://telegra.ph/file/cd4f9a89862d8f16fa7d1.jpg",
+        "https://telegra.ph/file/dbae2c42ed9e46a5c9ed7.jpg",
+        "https://telegra.ph/file/07087acfec901157a92ce.jpg",
+        "https://telegra.ph/file/28c89be155def76702069.jpg",
+        "https://telegra.ph/file/5360e5d6a7029eeead8b3.jpg",
+        "https://telegra.ph/file/c8894df391cc231a0253c.jpg"
+    ]
+};

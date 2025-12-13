@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30823,
+    "title": "Yeon Nnabi 연나비, [CreamSoda] Nabi Vol.03 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/Yeon-Nnabi-연나비-CreamSoda-Nabi-Vol03-8211-Set02-07-16",
+    "images": [
+        "https://telegra.ph/file/a7440b650fcb4e345cd10.jpg",
+        "https://telegra.ph/file/9fd756fe8b17f69c9bb30.jpg",
+        "https://telegra.ph/file/98de2aea69132329e7667.jpg",
+        "https://telegra.ph/file/7f531e25ebd487e152bc8.jpg",
+        "https://telegra.ph/file/ead9ba07d4632379b72b4.jpg",
+        "https://telegra.ph/file/1f16b1de1dc9b839d4878.jpg",
+        "https://telegra.ph/file/61f914ead7726af10c753.jpg",
+        "https://telegra.ph/file/e49e4a726e1be95ce9405.jpg",
+        "https://telegra.ph/file/ecf70a35281ec2cb8dc63.jpg",
+        "https://telegra.ph/file/449ec87a41d5e5277eece.jpg",
+        "https://telegra.ph/file/a927f27dec5b7a919c5ab.jpg",
+        "https://telegra.ph/file/b4cd77f3e46258f0beaec.jpg",
+        "https://telegra.ph/file/e95a7ca795554e6cbc4b2.jpg",
+        "https://telegra.ph/file/7492094be5aae54641a37.jpg",
+        "https://telegra.ph/file/436e0e96b8398c8c5265c.jpg",
+        "https://telegra.ph/file/8527323486e29fc0f65e7.jpg",
+        "https://telegra.ph/file/48ba359fbc6bb1b9975d2.jpg",
+        "https://telegra.ph/file/ffd3267303918bd1212c6.jpg",
+        "https://telegra.ph/file/911941fa595fcf1ccd017.jpg",
+        "https://telegra.ph/file/2099b5bb4fbb7921bd3fa.jpg",
+        "https://telegra.ph/file/be22129c7692d23b70a9e.jpg",
+        "https://telegra.ph/file/7c1ad89af5468e65acacf.jpg",
+        "https://telegra.ph/file/5f994dbb94381ea338d80.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

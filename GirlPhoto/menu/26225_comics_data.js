@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 26225,
+    "title": "泉桃子 - 苦修女 完成版 [26P]",
+    "sourceUrl": "https://telegra.ph/%E6%B3%89%E6%A1%83%E5%AD%90---%E8%8B%A6%E4%BF%AE%E5%A5%B3-%E5%AE%8C%E6%88%90%E7%89%88-26P-12-22",
+    "images": [
+        "https://telegra.ph/file/27b2a32cb9205cb7f386e.jpg",
+        "https://telegra.ph/file/cd7c730bf8015bcfd1713.jpg",
+        "https://telegra.ph/file/69fb27fa56a1084a44e16.jpg",
+        "https://telegra.ph/file/898983e4c1eb636ee13ad.jpg",
+        "https://telegra.ph/file/dd475beb717f9533d0555.jpg",
+        "https://telegra.ph/file/9dfd33ec75277d2510888.jpg",
+        "https://telegra.ph/file/f57eb359f93dc17be70c8.jpg",
+        "https://telegra.ph/file/c20f3c3720f64be773725.jpg",
+        "https://telegra.ph/file/0f77b1900351025ad2172.jpg",
+        "https://telegra.ph/file/6eecb1f0fa1df092f4781.jpg",
+        "https://telegra.ph/file/2fd9621473d9d84b3d272.jpg",
+        "https://telegra.ph/file/7a0dca54b22ff548572b0.jpg",
+        "https://telegra.ph/file/d559614906a024968ea19.jpg",
+        "https://telegra.ph/file/9ee15ec2aae70f68f2ac6.jpg",
+        "https://telegra.ph/file/191b7e9ae0f91c140ee99.jpg",
+        "https://telegra.ph/file/22475133f68ce32694dba.jpg",
+        "https://telegra.ph/file/ae221082b72a6ba2301e4.jpg",
+        "https://telegra.ph/file/d7fb1f1a96c1f2e600697.jpg",
+        "https://telegra.ph/file/6f451742367c91e24b80e.jpg",
+        "https://telegra.ph/file/22803bc1bea258b3bf20b.jpg",
+        "https://telegra.ph/file/ccd90cdb3e19e45ad35b2.jpg",
+        "https://telegra.ph/file/a6f04ef1baf32eaa367b5.jpg",
+        "https://telegra.ph/file/787e8cec3ef87a21452e3.jpg",
+        "https://telegra.ph/file/a4d4e4ee5f4a6758d2bcc.jpg",
+        "https://telegra.ph/file/88c0e3c671f3945c1875f.jpg",
+        "https://telegra.ph/file/3a1d5b66927800947fe46.jpg"
+    ]
+};

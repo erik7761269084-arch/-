@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40962,
+    "title": "Xidaidai - Lynette (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Lynette-Genshin-Impact-11-29",
+    "images": [
+        "https://telegra.ph/file/9a4256c7cebd269a6f87c.jpg",
+        "https://telegra.ph/file/5fe6889a84d3fa6defa35.jpg",
+        "https://telegra.ph/file/a1c8332439fc511404b4b.jpg",
+        "https://telegra.ph/file/159e9277764331855f68c.jpg",
+        "https://telegra.ph/file/517a498e163c4ff26f862.jpg",
+        "https://telegra.ph/file/28a82fd7eac147b6c4f8e.jpg",
+        "https://telegra.ph/file/185bc131b35b2fc749e5b.jpg",
+        "https://telegra.ph/file/4251d83eb2e4256976ab8.jpg",
+        "https://telegra.ph/file/a5cfb429975e8a9e9bbbf.jpg",
+        "https://telegra.ph/file/cfa3517e7f6b108e2be63.jpg",
+        "https://telegra.ph/file/12a69cec2e7d6ac0af09b.jpg",
+        "https://telegra.ph/file/c941669c3ad34c70d008f.jpg",
+        "https://telegra.ph/file/26fcee7cceafb86090ce8.jpg",
+        "https://telegra.ph/file/ab51f861dd316550daf28.jpg",
+        "https://telegra.ph/file/192f39f139abf8a698581.jpg",
+        "https://telegra.ph/file/19ac9086493e6ad1b884d.jpg",
+        "https://telegra.ph/file/bb5b2adc188221fb775c0.jpg",
+        "https://telegra.ph/file/33d7276a8e826d659d106.jpg",
+        "https://telegra.ph/file/a15016cabd46494d1f890.jpg",
+        "https://telegra.ph/file/fb415ac15a6f628d61b48.jpg",
+        "https://telegra.ph/file/91938ca89d8a2a637102c.jpg",
+        "https://telegra.ph/file/b7f51ebae5d5a853297a5.jpg",
+        "https://telegra.ph/file/625eb3f76db54c1f2affa.jpg"
+    ]
+};

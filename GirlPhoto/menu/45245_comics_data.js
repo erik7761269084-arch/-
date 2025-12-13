@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45245,
+    "title": "MollyRedWolf Albedo cosplay - Page 1",
+    "sourceUrl": "https://telegra.ph/MollyRedWolf-Albedo-cosplay---Page-1-08-02",
+    "images": [
+        "https://telegra.ph/file/2b06c8a5fc83afa02e1ba.jpg",
+        "https://telegra.ph/file/1bd77cd29170c6ee6dc91.jpg",
+        "https://telegra.ph/file/e64b669dbf2d0f2755969.jpg",
+        "https://telegra.ph/file/0b8a4c2c4b892b04d4a68.jpg",
+        "https://telegra.ph/file/81eea60fb07d9eed7f16d.jpg",
+        "https://telegra.ph/file/2114398d2cefe59832d68.jpg",
+        "https://telegra.ph/file/4a0f6ac11f8d312cbec07.jpg",
+        "https://telegra.ph/file/013b94949d9ff01d0ba58.jpg",
+        "https://telegra.ph/file/807ed4b051d342ab2b39b.jpg",
+        "https://telegra.ph/file/c6ecbdf9d6d62133330a3.jpg",
+        "https://telegra.ph/file/11f92bb24e6d05fe8c856.jpg",
+        "https://telegra.ph/file/2929e6eb122815ee3feae.jpg",
+        "https://telegra.ph/file/a6157953728b1e7b61039.jpg",
+        "https://telegra.ph/file/6b5f24522982409a33120.jpg",
+        "https://telegra.ph/file/558c8904e9423ec1d5ec2.jpg",
+        "https://telegra.ph/file/9332d3de6ac2593dce620.jpg",
+        "https://telegra.ph/file/b8818e24aa703515fb62c.jpg",
+        "https://telegra.ph/file/5ad31e733c5531ecedb26.jpg",
+        "https://telegra.ph/file/20c20f78301a55623df63.jpg",
+        "https://telegra.ph/file/0f68ba9bf5d21a00f3625.jpg",
+        "https://telegra.ph/file/43a15fb7f137a578bfb9d.jpg",
+        "https://telegra.ph/file/690f554ca8cd85be7b573.jpg",
+        "https://telegra.ph/file/3e4f54561329e05c49666.jpg",
+        "https://telegra.ph/file/342c37375912d9293463d.jpg",
+        "https://telegra.ph/file/8f4900c45e2c484b774f4.jpg"
+    ]
+};

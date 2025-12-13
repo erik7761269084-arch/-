@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42623,
+    "title": "玩具娜美妖姬-黑丝肛塞#无水印[26p1v1.1g]",
+    "sourceUrl": "https://telegra.ph/%E7%8E%A9%E5%85%B7%E5%A8%9C%E7%BE%8E%E5%A6%96%E5%A7%AC-%E9%BB%91%E4%B8%9D%E8%82%9B%E5%A1%9E%E6%97%A0%E6%B0%B4%E5%8D%B026p1v11g-06-06",
+    "images": [
+        "https://telegra.ph/file/4236a4dcb062c7752a2e3.jpg",
+        "https://telegra.ph/file/560115f02c058a9fa3c5f.jpg",
+        "https://telegra.ph/file/42d2d8da4ac3ece5f4d84.jpg",
+        "https://telegra.ph/file/b4d5a661616bec0175b38.jpg",
+        "https://telegra.ph/file/eee328444c5c1f0c71a5b.jpg",
+        "https://telegra.ph/file/ea076a90f1d5ad79cd78b.jpg",
+        "https://telegra.ph/file/041713d02d0e3cf80b970.jpg",
+        "https://telegra.ph/file/ace2a90debabc13524b5d.jpg",
+        "https://telegra.ph/file/88c03c134842bbac39385.jpg",
+        "https://telegra.ph/file/52733d4d3ec19ac998246.jpg",
+        "https://telegra.ph/file/2af6b967ab9001e435f1d.jpg",
+        "https://telegra.ph/file/3eefd5abb38c465311321.jpg",
+        "https://telegra.ph/file/983d2df4047427b3e4ee0.jpg",
+        "https://telegra.ph/file/8e5a32fc29cdbee3f968b.jpg",
+        "https://telegra.ph/file/59a4b5591a98dd3d2e9e7.jpg",
+        "https://telegra.ph/file/1f102f81c6fec4d85c649.jpg",
+        "https://telegra.ph/file/8b338ced0a696dbb5ed72.jpg",
+        "https://telegra.ph/file/d3c8ebfe2c3d54137f5d2.jpg",
+        "https://telegra.ph/file/809857dc79c591ef65b99.jpg",
+        "https://telegra.ph/file/031c2b5f9ea96dec55f43.jpg",
+        "https://telegra.ph/file/b2001cab3d98200d9a486.jpg",
+        "https://telegra.ph/file/b0889018c519c5bc02983.jpg",
+        "https://telegra.ph/file/59787b435f03bdce7659e.jpg",
+        "https://telegra.ph/file/bec8d8242214a54aa3832.jpg",
+        "https://telegra.ph/file/b9228009f7f8b44fa3672.jpg",
+        "https://telegra.ph/file/73c036f2570d7250ad71a.jpg"
+    ]
+};

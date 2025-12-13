@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23227,
+    "title": "日奈娇 碧蓝航线 大潮旗袍 [25P-205MB]",
+    "sourceUrl": "https://telegra.ph/%E6%97%A5%E5%A5%88%E5%A8%87-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%A4%A7%E6%BD%AE%E6%97%97%E8%A2%8D-25P-205MB-02-01",
+    "images": [
+        "https://telegra.ph/file/f497f9d8ddf4836c8ab2a.jpg",
+        "https://telegra.ph/file/ab36a8676637e460c2869.jpg",
+        "https://telegra.ph/file/795ff114b5156475abbc9.jpg",
+        "https://telegra.ph/file/0d8e7fdba9a0e9782cf69.jpg",
+        "https://telegra.ph/file/fd4f64f77c21a99e38499.jpg",
+        "https://telegra.ph/file/62fde6824ed5e518aed20.jpg",
+        "https://telegra.ph/file/f563fbb2ed42516405357.jpg",
+        "https://telegra.ph/file/b184e4d512d04c9231bbc.jpg",
+        "https://telegra.ph/file/d4939fdd3d6ab636de602.jpg",
+        "https://telegra.ph/file/e9727e302ecde6d5f2c80.jpg",
+        "https://telegra.ph/file/b0e121566846fb7bf8667.jpg",
+        "https://telegra.ph/file/6cf9bfe5968a4d9067838.jpg",
+        "https://telegra.ph/file/dbd0c8ae93b81e0de9f79.jpg",
+        "https://telegra.ph/file/04b7656bc1e68ee6b4b12.jpg",
+        "https://telegra.ph/file/d269f745c2db99062666c.jpg",
+        "https://telegra.ph/file/19958826c4491812db86f.jpg",
+        "https://telegra.ph/file/a17ec0991dbf27224e7d8.jpg",
+        "https://telegra.ph/file/66993942cefd4600ad3ac.jpg",
+        "https://telegra.ph/file/f7f1a89f62b29dc2014ca.jpg",
+        "https://telegra.ph/file/587c75361b00ac8bd046c.jpg",
+        "https://telegra.ph/file/628d142a6eb8f03253087.jpg",
+        "https://telegra.ph/file/f560a0fb7cb77ed9bc7ff.jpg",
+        "https://telegra.ph/file/51e02dafa476592feb165.jpg",
+        "https://telegra.ph/file/213c3e58b6c742f672a62.jpg",
+        "https://telegra.ph/file/25b03703e5d6cda25f52e.jpg"
+    ]
+};

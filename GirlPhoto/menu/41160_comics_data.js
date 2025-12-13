@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41160,
+    "title": "Caticornplay - Frieren (Sousou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Caticornplay---Frieren-Sousou-No-Frieren-02-15",
+    "images": [
+        "https://telegra.ph/file/0fc0b5e4604972909e44c.jpg",
+        "https://telegra.ph/file/5fa0ac83063b8d35c583a.jpg",
+        "https://telegra.ph/file/50f40238a2fc15c3e442f.jpg",
+        "https://telegra.ph/file/04f71449a475b785cf111.jpg",
+        "https://telegra.ph/file/01761d19a77f2df29f6b6.jpg",
+        "https://telegra.ph/file/2a504da3518557492e323.jpg",
+        "https://telegra.ph/file/c0f48f778fba60d7f9d68.jpg",
+        "https://telegra.ph/file/7058241a0c01a44a328e8.jpg",
+        "https://telegra.ph/file/72aeeccfe6b5d1ce1ed30.jpg",
+        "https://telegra.ph/file/54d1420ded525dacf4a25.jpg",
+        "https://telegra.ph/file/2bc3a55f78b7f4fe85fcb.jpg",
+        "https://telegra.ph/file/e4206d2cbcc01a85ecadf.jpg",
+        "https://telegra.ph/file/07c05f54493dc7c2718f0.jpg",
+        "https://telegra.ph/file/1361b402ab0edc9cfb497.jpg",
+        "https://telegra.ph/file/2aaea2bffedc8fe59fc42.jpg",
+        "https://telegra.ph/file/f54ce489cd826eb751ae5.jpg",
+        "https://telegra.ph/file/95b09789cace40c3db4ec.jpg",
+        "https://telegra.ph/file/cbac1ffaffadf61cd6651.jpg",
+        "https://telegra.ph/file/b727b33ee3600be388d73.jpg",
+        "https://telegra.ph/file/213325511df6ba5c14f4b.jpg",
+        "https://telegra.ph/file/6b3e269d48b37badc0f09.jpg",
+        "https://telegra.ph/file/0d2459abdaee560a61e32.jpg",
+        "https://telegra.ph/file/e032b7777ba4c681fd2d2.jpg",
+        "https://telegra.ph/file/3b4b40449623b46a4410f.jpg"
+    ]
+};

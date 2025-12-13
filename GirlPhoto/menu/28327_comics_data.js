@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28327,
+    "title": "rioko凉凉子 圣诞贝尔法斯特 [24P1V-233MB]",
+    "sourceUrl": "https://telegra.ph/rioko%E5%87%89%E5%87%89%E5%AD%90-%E5%9C%A3%E8%AF%9E%E8%B4%9D%E5%B0%94%E6%B3%95%E6%96%AF%E7%89%B9-24P1V-233MB-08-27",
+    "images": [
+        "https://telegra.ph/file/e3d31f5b564e264c6fec8.jpg",
+        "https://telegra.ph/file/2467e4798baecc0b7e478.jpg",
+        "https://telegra.ph/file/3e74270b74decd13f17a5.jpg",
+        "https://telegra.ph/file/241caf907876f52bcb8e9.jpg",
+        "https://telegra.ph/file/2a90fa6d87b089834517a.jpg",
+        "https://telegra.ph/file/da66c0651e4cdb5c194d4.jpg",
+        "https://telegra.ph/file/eac3c13af8c79e6afe5e7.jpg",
+        "https://telegra.ph/file/906befd67d2970b871c84.jpg",
+        "https://telegra.ph/file/da6b7a21ea5ff03571b0c.jpg",
+        "https://telegra.ph/file/6c0df443ae9a71505b235.jpg",
+        "https://telegra.ph/file/ec9b386136a4f0b407d03.jpg",
+        "https://telegra.ph/file/eff1585314df0a7d1cf2c.jpg",
+        "https://telegra.ph/file/aaf5ff464d6d9b1385ed2.jpg",
+        "https://telegra.ph/file/1354c45848f1f018b3284.jpg",
+        "https://telegra.ph/file/2d335cbf7cdeb275ddb8b.jpg",
+        "https://telegra.ph/file/e4709c5d78e6645182dd9.jpg",
+        "https://telegra.ph/file/e6768602f460228108ef5.jpg",
+        "https://telegra.ph/file/9d2e7993db5c4a9bfe7a6.jpg",
+        "https://telegra.ph/file/ac1d66e94313a3c4f0a27.jpg",
+        "https://telegra.ph/file/b98146a50c9e341ec7a14.jpg",
+        "https://telegra.ph/file/6f813a67fa9491cc6ea90.jpg",
+        "https://telegra.ph/file/4326e12e9c17e30503390.jpg",
+        "https://telegra.ph/file/0099921dba49adbb8b4a5.jpg",
+        "https://telegra.ph/file/fb4eac98469f0f60f6892.jpg"
+    ]
+};

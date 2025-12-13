@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44154,
+    "title": "習呆呆 - 八重神子",
+    "sourceUrl": "https://telegra.ph/習呆呆---八重神子-09-28",
+    "images": [
+        "https://telegra.ph/file/cfe7981ac51825127b7c2.jpg",
+        "https://telegra.ph/file/f7bff820260def65137e2.jpg",
+        "https://telegra.ph/file/b4b5da663b6be3c686ec9.jpg",
+        "https://telegra.ph/file/94263f0b6c021dd3b9c37.jpg",
+        "https://telegra.ph/file/35a1ff69a6ff01e2612f6.jpg",
+        "https://telegra.ph/file/66560ac2f68835f3123fc.jpg",
+        "https://telegra.ph/file/f0b28ba70ec72a7a331fe.jpg",
+        "https://telegra.ph/file/e4b274a49643c90343318.jpg",
+        "https://telegra.ph/file/d8dcae8422d9b4e8c8187.jpg",
+        "https://telegra.ph/file/c79f0847694f3f0275b74.jpg",
+        "https://telegra.ph/file/781275d0a4e657e38bce2.jpg",
+        "https://telegra.ph/file/dc6824aa63f8e6b6ad7a9.jpg",
+        "https://telegra.ph/file/53a37e98f712fabcaa385.jpg",
+        "https://telegra.ph/file/b6c471f82b3e5ad889a59.jpg",
+        "https://telegra.ph/file/8cc8f5d6678135c587af3.jpg",
+        "https://telegra.ph/file/c2fb9b04bb7eb1d6b74ae.jpg",
+        "https://telegra.ph/file/8954d4fa045272979d472.jpg",
+        "https://telegra.ph/file/090ad9f48b3e8dc74103b.jpg",
+        "https://telegra.ph/file/d636390e4dd26f30b65f4.jpg",
+        "https://telegra.ph/file/0c72926d8690c4acc75b4.jpg",
+        "https://telegra.ph/file/c5f2b813dd869946cffef.jpg",
+        "https://telegra.ph/file/cd23dd5678531246c1e99.jpg",
+        "https://telegra.ph/file/7f16df43713e82b41db14.jpg",
+        "https://telegra.ph/file/57f13dcd5e8f6e6b8590d.jpg"
+    ]
+};

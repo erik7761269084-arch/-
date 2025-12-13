@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35197,
+    "title": "Yeo Eun 여은, CrazyGiant &#8220;Pink Lover&#8221; Set.04",
+    "sourceUrl": "https://telegra.ph/Yeo-Eun-여은-CrazyGiant-8220Pink-Lover8221-Set04-08-30",
+    "images": [
+        "https://telegra.ph/file/9f9a4321befde2d6bf9c0.jpg",
+        "https://telegra.ph/file/c0d82d0df9f05871eb847.jpg",
+        "https://telegra.ph/file/c9e6d8d1ec599010facd7.jpg",
+        "https://telegra.ph/file/bafd46b97db84ea88d7f1.jpg",
+        "https://telegra.ph/file/e605cc5cd1f78ef2e0199.jpg",
+        "https://telegra.ph/file/a1cf90e6076e2bb659fa8.jpg",
+        "https://telegra.ph/file/fb476d5a57d22e47319ba.jpg",
+        "https://telegra.ph/file/4418fbfd8b2e4269f7fc1.jpg",
+        "https://telegra.ph/file/9b43ce9218b40ba223dc4.jpg",
+        "https://telegra.ph/file/7225b4849a5d427bd74fd.jpg",
+        "https://telegra.ph/file/73c1bf79b63456534b63b.jpg",
+        "https://telegra.ph/file/7419f169422f7a69c2a21.jpg",
+        "https://telegra.ph/file/0e8f5f4d4eb5a27ee8077.jpg",
+        "https://telegra.ph/file/8dbb597700aebdbbf392e.jpg",
+        "https://telegra.ph/file/61c9a48dc01c6a756aeab.jpg",
+        "https://telegra.ph/file/642767513399f788a31ea.jpg",
+        "https://telegra.ph/file/e912af26c5c6e4e71c9c2.jpg",
+        "https://telegra.ph/file/f284aec86c5d14e570cf8.jpg",
+        "https://telegra.ph/file/0552f707ac619196cfb0f.jpg",
+        "https://telegra.ph/file/49978750d7716976a2622.jpg",
+        "https://telegra.ph/file/0195feae9ffd18b7a2847.jpg",
+        "https://telegra.ph/file/ae5f92fea9977ee3be8c7.jpg",
+        "https://telegra.ph/file/e23eb2bed5170efd417af.jpg",
+        "https://telegra.ph/file/d702b66385bea39d03f05.jpg",
+        "https://telegra.ph/file/461216e361d99c5f1fdcb.jpg",
+        "https://telegra.ph/file/6d0531aea5e839eb9140f.jpg"
+    ]
+};

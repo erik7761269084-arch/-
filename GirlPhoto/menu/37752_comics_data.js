@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37752,
+    "title": "こすっちKosuchi - Sinon (Sword Art Online)",
+    "sourceUrl": "https://telegra.ph/%E3%81%93%E3%81%99%E3%81%A3%E3%81%A1Kosuchi---Sinon-Sword-Art-Online-05-24",
+    "images": [
+        "https://telegra.ph/file/68b86d7c695a02e86cc3c.jpg",
+        "https://telegra.ph/file/dc3debd6819f80cdfd1dc.jpg",
+        "https://telegra.ph/file/69a996826ae0f77d9c63f.jpg",
+        "https://telegra.ph/file/4b32ed6054e571116d8fe.jpg",
+        "https://telegra.ph/file/6fbdb41dfcd9af76c4446.jpg",
+        "https://telegra.ph/file/44757931e60f89458f080.jpg",
+        "https://telegra.ph/file/461e5dac6005543e68bb5.jpg",
+        "https://telegra.ph/file/e7e15c21cf33dd018d975.jpg",
+        "https://telegra.ph/file/e4e423d29e647f4e00843.jpg",
+        "https://telegra.ph/file/885cab26f64364bd78508.jpg",
+        "https://telegra.ph/file/e4151be69895fdc5e0263.jpg",
+        "https://telegra.ph/file/14970e8fa78d98d71a29c.jpg",
+        "https://telegra.ph/file/65e1d825eaabb4c62b4c1.jpg",
+        "https://telegra.ph/file/3b4f2c0174045b63040e8.jpg",
+        "https://telegra.ph/file/6c890197ffc99790b1f37.jpg",
+        "https://telegra.ph/file/db2e8b9acbdb664b30d96.jpg",
+        "https://telegra.ph/file/ad89eeea5f74dc2144089.jpg",
+        "https://telegra.ph/file/a8d9c3f81dcf30138fb7e.jpg",
+        "https://telegra.ph/file/29509f3f7a7956a25f03c.jpg",
+        "https://telegra.ph/file/95d0a5ef5b6debe006e81.jpg",
+        "https://telegra.ph/file/bb7e6ff625a142946aa4a.jpg",
+        "https://telegra.ph/file/e05a72e8e161c04554518.jpg",
+        "https://telegra.ph/file/0621b1a0cf87ec9b26472.jpg",
+        "https://telegra.ph/file/9779f11a2f297bfa83d76.jpg",
+        "https://telegra.ph/file/7ab8e7aad63a09e6cf34c.jpg",
+        "https://telegra.ph/file/73c2e0bc6c30e1293698b.jpg"
+    ]
+};

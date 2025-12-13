@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39008,
+    "title": "林檎蜜紀 Ringo Mitsuki - Marín Kitagawa (Sono Bisque Dollw)",
+    "sourceUrl": "https://telegra.ph/林檎蜜紀-Ringo-Mitsuki---Marín-Kitagawa-Sono-Bisque-Dollw-04-06",
+    "images": [
+        "https://telegra.ph/file/f63fd32aad53d8d54748f.jpg",
+        "https://telegra.ph/file/6383fad89b6b1fa8676c7.jpg",
+        "https://telegra.ph/file/7eb50e1861bd8b288bb08.jpg",
+        "https://telegra.ph/file/1d970dcb3d75c98f3db04.jpg",
+        "https://telegra.ph/file/078a9b5beb17cfedd9875.jpg",
+        "https://telegra.ph/file/78ab199a09de0d5aa4cd0.jpg",
+        "https://telegra.ph/file/14f33a073a116508b9c03.jpg",
+        "https://telegra.ph/file/c15090cc2bdbd00503aeb.jpg",
+        "https://telegra.ph/file/f67cd4048b5c047837b37.jpg",
+        "https://telegra.ph/file/976b4315eb486319f1d45.jpg",
+        "https://telegra.ph/file/b4db5debf3b42b9e318ce.jpg",
+        "https://telegra.ph/file/ce44d0eed369ef60d0135.jpg",
+        "https://telegra.ph/file/3ae8d0cae0f75d9b7dac1.jpg",
+        "https://telegra.ph/file/5696a46440dfb7fd66b70.jpg",
+        "https://telegra.ph/file/61bd1023c960661acfe53.jpg",
+        "https://telegra.ph/file/84960d1d48867c2b700a1.jpg",
+        "https://telegra.ph/file/c5351263e54071c20fe2b.jpg",
+        "https://telegra.ph/file/77ddc90b43059545545e2.jpg",
+        "https://telegra.ph/file/94b85e836ea8f053f36c7.jpg",
+        "https://telegra.ph/file/94739cea561e3f83a5b8a.jpg",
+        "https://telegra.ph/file/f915efe79de2a801f3746.jpg",
+        "https://telegra.ph/file/f920101d6189ab909ba20.jpg",
+        "https://telegra.ph/file/54a3530befd4cad44f2bb.jpg",
+        "https://telegra.ph/file/864d07f52843b796d8021.jpg"
+    ]
+};

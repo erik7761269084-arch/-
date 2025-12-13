@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38452,
+    "title": "Queenie Chuppy Rin Tohsaka (Fate stay night)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy-Rin-Tohsaka-Fate-stay-night-11-08",
+    "images": [
+        "https://telegra.ph/file/1d2d5ba8b182cecd867e1.jpg",
+        "https://telegra.ph/file/1b030afefae1816d9d6eb.jpg",
+        "https://telegra.ph/file/0546487c82fdb4b15fca0.jpg",
+        "https://telegra.ph/file/240557d44771450e55f13.jpg",
+        "https://telegra.ph/file/2f30fa4a6c6da523bff38.jpg",
+        "https://telegra.ph/file/110620cde73c353909db5.jpg",
+        "https://telegra.ph/file/968a7bcc76c05cb5f5db3.jpg",
+        "https://telegra.ph/file/78ddd6c9b53a919e3cfb8.jpg",
+        "https://telegra.ph/file/4a6f83be6224f530b2c78.jpg",
+        "https://telegra.ph/file/0807fe6a917635274d97d.jpg",
+        "https://telegra.ph/file/5e5aa407b81259a4bc3ff.jpg",
+        "https://telegra.ph/file/be0c92968bee8d37a4392.jpg",
+        "https://telegra.ph/file/d35642d1a2d8419349827.jpg",
+        "https://telegra.ph/file/3c4ecb8e2f9897845f399.jpg",
+        "https://telegra.ph/file/35a509f2dce707255108b.jpg",
+        "https://telegra.ph/file/8ef1998ac5b460622311e.jpg",
+        "https://telegra.ph/file/32060e07a527f5c7d240f.jpg",
+        "https://telegra.ph/file/57d2a1c0f2e864762b949.jpg",
+        "https://telegra.ph/file/cebcba921e4480994f00c.jpg",
+        "https://telegra.ph/file/e23747baf3d374c173965.jpg",
+        "https://telegra.ph/file/fc6a698ca89ad3ffad834.jpg",
+        "https://telegra.ph/file/d4c1cd70c49404760ec73.jpg",
+        "https://telegra.ph/file/6cccdafc83198df2734cf.jpg",
+        "https://telegra.ph/file/4cdd77c5c80ae6300af15.jpg",
+        "https://telegra.ph/file/b7b2236dcdfe08f70a53d.jpg",
+        "https://telegra.ph/file/4f115a061e24eff89aab0.jpg"
+    ]
+};

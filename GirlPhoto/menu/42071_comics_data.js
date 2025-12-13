@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42071,
+    "title": "Potato Godzilla - Mari Makinami (Neon Genesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-09-6",
+    "images": [
+        "https://i.ibb.co/v4tfVC3v/2024-11-Mari-Makinami-Evangelion-compress27.jpg",
+        "https://i.ibb.co/D6wxfPY/Mari-Makinami-Potato-Godzilla-01-compress1.jpg",
+        "https://i.ibb.co/n8VkQYzj/Mari-Makinami-Potato-Godzilla-02-compress18.jpg",
+        "https://i.ibb.co/gFbsFMGm/Mari-Makinami-Potato-Godzilla-03-compress27.jpg",
+        "https://i.ibb.co/5hKpTJ6Z/Mari-Makinami-Potato-Godzilla-04-compress73.jpg",
+        "https://i.ibb.co/DP60fzFp/Mari-Makinami-Potato-Godzilla-05-compress2.jpg",
+        "https://i.ibb.co/TMV0xRn9/Mari-Makinami-Potato-Godzilla-06-compress53.jpg",
+        "https://i.ibb.co/r2MBpqDC/Mari-Makinami-Potato-Godzilla-07-compress43.jpg",
+        "https://i.ibb.co/TBMFrN2r/Mari-Makinami-Potato-Godzilla-08-compress48.jpg",
+        "https://i.ibb.co/PZNt3CBQ/Mari-Makinami-Potato-Godzilla-09-compress40.jpg",
+        "https://i.ibb.co/bg9rv8JB/Mari-Makinami-Potato-Godzilla-10-compress16.jpg",
+        "https://i.ibb.co/W4CVPQQN/Mari-Makinami-Potato-Godzilla-11-compress22.jpg",
+        "https://i.ibb.co/60vsTXmz/Mari-Makinami-Potato-Godzilla-12-compress23.jpg",
+        "https://i.ibb.co/8nZXLVjp/Mari-Makinami-Potato-Godzilla-13-compress96.jpg",
+        "https://i.ibb.co/LTqZdDN/Mari-Makinami-Potato-Godzilla-14-compress50.jpg",
+        "https://i.ibb.co/Pv9Gb4Hb/Mari-Makinami-Potato-Godzilla-15-compress62.jpg",
+        "https://i.ibb.co/HLdYD5sz/Mari-Makinami-Potato-Godzilla-16-compress84.jpg",
+        "https://i.ibb.co/TMpGcpYk/Mari-Makinami-Potato-Godzilla-17-compress77.jpg",
+        "https://i.ibb.co/N6Y9HvM6/Mari-Makinami-Potato-Godzilla-18-compress82.jpg",
+        "https://i.ibb.co/jPXLFQqM/Mari-Makinami-Potato-Godzilla-19-compress97.jpg",
+        "https://i.ibb.co/3yL6Xpng/Mari-Makinami-Potato-Godzilla-20-compress5.jpg",
+        "https://i.ibb.co/1GP7R88J/Mari-Makinami-Potato-Godzilla-21-compress37.jpg",
+        "https://i.ibb.co/tfnzbRV/Mari-Makinami-Potato-Godzilla-22-compress29.jpg",
+        "https://i.ibb.co/SXD6nJQw/Mari-Makinami-Potato-Godzilla-23-compress51.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 32177,
+    "title": "DonnaLoli Cosplay エミリア Emilia",
+    "sourceUrl": "https://telegra.ph/DonnaLoli-Cosplay-エミリア-Emilia-10-28",
+    "images": [
+        "https://telegra.ph/file/500270120b8d02c9c1059.jpg",
+        "https://telegra.ph/file/5cdf62951d18b3a6ad51c.jpg",
+        "https://telegra.ph/file/76ab30e19ac92a5a086ca.jpg",
+        "https://telegra.ph/file/a42378b26af936a183a12.jpg",
+        "https://telegra.ph/file/2bb2150b42e2712f984d7.jpg",
+        "https://telegra.ph/file/188eda61b85de0113961c.jpg",
+        "https://telegra.ph/file/36095712d03f46e28f258.jpg",
+        "https://telegra.ph/file/feaa16ee9b188f3a2f445.jpg",
+        "https://telegra.ph/file/d34a3b6bc133eedfe1018.jpg",
+        "https://telegra.ph/file/35fc2aeee05b9790a6e61.jpg",
+        "https://telegra.ph/file/b44f51f5cc96c63ed80a4.jpg",
+        "https://telegra.ph/file/b32444e4e7e18e43275d0.jpg",
+        "https://telegra.ph/file/2d58656460858875f257c.jpg",
+        "https://telegra.ph/file/9e369c15af156dca83e4b.jpg",
+        "https://telegra.ph/file/58d2a8696479a28d5c474.jpg",
+        "https://telegra.ph/file/573c0b9195afe4b82a6fd.jpg",
+        "https://telegra.ph/file/f663ea1dde945bad249f2.jpg",
+        "https://telegra.ph/file/bc238a713d7fdde66e656.jpg",
+        "https://telegra.ph/file/12b14e5913aec5a043d0c.jpg",
+        "https://telegra.ph/file/c14befde7d45331b7b0d7.jpg",
+        "https://telegra.ph/file/c2cde7f80ae6e3c4b5d92.jpg",
+        "https://telegra.ph/file/af9ed4618ad3c0c5b6a63.jpg",
+        "https://telegra.ph/file/578fd44298e84dbfb3f68.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

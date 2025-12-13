@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43375,
+    "title": "鹿野希 – (luyexiN1N6) [Fantia] 2022年10月 [229P16V-2.03GB]",
+    "sourceUrl": "https://telegra.ph/%E9%B9%BF%E9%87%8E%E5%B8%8C--luyexiN1N6-Fantia-2022%E5%B9%B410%E6%9C%88-229P16V-203GB-11-07",
+    "images": [
+        "https://telegra.ph/file/7f762d0cd9871c72ca2ea.jpg",
+        "https://telegra.ph/file/6d6ad240d03c358e92279.jpg",
+        "https://telegra.ph/file/8b24c26ecbf2cdcf1d277.jpg",
+        "https://telegra.ph/file/312d56205fc9a3a29b877.jpg",
+        "https://telegra.ph/file/879a6b2ecc4b7f9b19c62.jpg",
+        "https://telegra.ph/file/5df460407d9ca121f9043.jpg",
+        "https://telegra.ph/file/6d2cfd496e00dd598f16e.jpg",
+        "https://telegra.ph/file/c21673d338f62d481d012.jpg",
+        "https://telegra.ph/file/a4a05bd7d81ae29657502.jpg",
+        "https://telegra.ph/file/9d91cb9a96febc5b4c553.jpg",
+        "https://telegra.ph/file/3cb358baf8d8f1c880e96.jpg",
+        "https://telegra.ph/file/e30f88155e4d100030fc3.jpg",
+        "https://telegra.ph/file/036a55544ae64d24b7e1d.jpg",
+        "https://telegra.ph/file/371fdbe4ca5b30603828d.jpg",
+        "https://telegra.ph/file/e6389c97bd8e9d1980557.jpg",
+        "https://telegra.ph/file/19c57aa39eb411de52241.jpg",
+        "https://telegra.ph/file/c56d85d2430a1c540ebd1.jpg",
+        "https://telegra.ph/file/eb006975e3d10f39cc716.jpg",
+        "https://telegra.ph/file/bd925beaf3ecb38aea3cb.jpg",
+        "https://telegra.ph/file/188737160ed1f51c42466.jpg",
+        "https://telegra.ph/file/b71665be639c734ca5c03.jpg",
+        "https://telegra.ph/file/ee6c9ba9e1ab349498832.jpg",
+        "https://telegra.ph/file/0150438f12c1a63d9c788.jpg",
+        "https://telegra.ph/file/ce40c85bbb9ac6742f7ec.jpg",
+        "https://telegra.ph/file/c5ed2bae97aeca833b52e.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38243,
+    "title": "Kitkat - Atago (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Kitkat---Atago-Azur-Lane-09-13",
+    "images": [
+        "https://telegra.ph/file/20995b2cf1ce32e44d0df.jpg",
+        "https://telegra.ph/file/0ed5ff172913b5d8db6ab.jpg",
+        "https://telegra.ph/file/783c4a8f967eee3a19388.jpg",
+        "https://telegra.ph/file/63c1f9ad7793d09d151ad.jpg",
+        "https://telegra.ph/file/dda60c033f1ce8fd192a1.jpg",
+        "https://telegra.ph/file/f96d41fd1459d30ad5b21.jpg",
+        "https://telegra.ph/file/1e704868f198d88b15e61.jpg",
+        "https://telegra.ph/file/b442582b3b8f145d349cb.jpg",
+        "https://telegra.ph/file/1ac83813f771ba4292020.jpg",
+        "https://telegra.ph/file/c1065f84621b64ea97549.jpg",
+        "https://telegra.ph/file/109cfc415d23f3f8ab276.jpg",
+        "https://telegra.ph/file/1ca9ccda9257620860456.jpg",
+        "https://telegra.ph/file/21c5fc1fa27774c15fb83.jpg",
+        "https://telegra.ph/file/24e5224748375d52869b6.jpg",
+        "https://telegra.ph/file/489144270121a100784ad.jpg",
+        "https://telegra.ph/file/be8031a9004e246fb0ffd.jpg",
+        "https://telegra.ph/file/cf0ea2255d59c993a4b10.jpg",
+        "https://telegra.ph/file/a9051fd6bc688a6330f2f.jpg",
+        "https://telegra.ph/file/4a8faa1de82bd5bda1012.jpg",
+        "https://telegra.ph/file/cb8f27810583170de3d58.jpg",
+        "https://telegra.ph/file/388c3972dec84428c8088.jpg",
+        "https://telegra.ph/file/b72cbd8d730c48ce1137d.jpg",
+        "https://telegra.ph/file/07e9adb6f71ee4c596088.jpg",
+        "https://telegra.ph/file/78f65026ea27db7f39c0c.jpg",
+        "https://telegra.ph/file/bc20248e35f0650822761.jpg"
+    ]
+};

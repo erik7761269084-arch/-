@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30929,
+    "title": "[霜月shimo] 巫女捆绑 Miko Bundle",
+    "sourceUrl": "https://telegra.ph/霜月shimo-巫女捆绑-Miko-Bundle-07-27",
+    "images": [
+        "https://telegra.ph/file/5c2d0820bc0f6d6a798b0.jpg",
+        "https://telegra.ph/file/41fa86ca1364e74b24eff.jpg",
+        "https://telegra.ph/file/c8a8b904bed414551793c.jpg",
+        "https://telegra.ph/file/4bbd7d76419a32e3f5097.jpg",
+        "https://telegra.ph/file/be8c59ca15cdac3f77dec.jpg",
+        "https://telegra.ph/file/f798a4881296a6e043bda.jpg",
+        "https://telegra.ph/file/2e0ddba3299ad098d6594.jpg",
+        "https://telegra.ph/file/e34f8aca80290893573d5.jpg",
+        "https://telegra.ph/file/37ac60ab56034f48c222e.jpg",
+        "https://telegra.ph/file/cfa15aac7dd2998d3cfe8.jpg",
+        "https://telegra.ph/file/c5251418c887b51b9a629.jpg",
+        "https://telegra.ph/file/225913f5b2a1cac2bb1d4.jpg",
+        "https://telegra.ph/file/bff26f417acf27bb86773.jpg",
+        "https://telegra.ph/file/f21f3f6337f56116a925e.jpg",
+        "https://telegra.ph/file/9f13157bf0dffd9acdf68.jpg",
+        "https://telegra.ph/file/25220465ad0e7f5318178.jpg",
+        "https://telegra.ph/file/d2f2dfb504c0531c3b874.jpg",
+        "https://telegra.ph/file/976e6e998f11fa8452c5f.jpg",
+        "https://telegra.ph/file/efc32a389956773e0c0f4.jpg",
+        "https://telegra.ph/file/95d0c2b232d15d4bbde26.jpg",
+        "https://telegra.ph/file/c6f895af22f6c744ffa9d.jpg",
+        "https://telegra.ph/file/c4d5c086353334d7c746b.jpg",
+        "https://telegra.ph/file/4d2fd738c6f6a5aca621f.jpg",
+        "https://telegra.ph/file/683683b8dc9e1ac109eb7.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31244,
+    "title": "Cosplay Ying Tze 夜兰 Yelan",
+    "sourceUrl": "https://telegra.ph/Cosplay-Ying-Tze-夜兰-Yelan-08-16",
+    "images": [
+        "https://telegra.ph/file/995b3b8dd0d28cf6221c4.jpg",
+        "https://telegra.ph/file/0c5101a3416ed519a8a95.jpg",
+        "https://telegra.ph/file/2f7dec0703cb9a6d605ed.jpg",
+        "https://telegra.ph/file/dc600888cc544f4230b6b.jpg",
+        "https://telegra.ph/file/0ffe78c110726467ea3d4.jpg",
+        "https://telegra.ph/file/f727c0043830b7420f77e.jpg",
+        "https://telegra.ph/file/267b94dd347b7a2faa8f6.jpg",
+        "https://telegra.ph/file/20fa763cebf664f225853.jpg",
+        "https://telegra.ph/file/6c83a7d08e38277588ee0.jpg",
+        "https://telegra.ph/file/b396adf6242b14088a6d7.jpg",
+        "https://telegra.ph/file/408b0c1079a73a90fbf9b.jpg",
+        "https://telegra.ph/file/be21b7d4acb8609b85e12.jpg",
+        "https://telegra.ph/file/e41e0d72fb2007c8a07ed.jpg",
+        "https://telegra.ph/file/9f0f007d09a2206246294.jpg",
+        "https://telegra.ph/file/216033c9db26a830f0676.jpg",
+        "https://telegra.ph/file/7b9488534cee9878517fb.jpg",
+        "https://telegra.ph/file/2d14a0decfc0837144a38.jpg",
+        "https://telegra.ph/file/666f19a21def18cd9d626.jpg",
+        "https://telegra.ph/file/a4b18a67e424cece5d899.jpg",
+        "https://telegra.ph/file/4d6277bc7059e2b65cab4.jpg",
+        "https://telegra.ph/file/dde601627d60832c82443.jpg",
+        "https://telegra.ph/file/6908aa9aa01ec3dc17f01.jpg",
+        "https://telegra.ph/file/f97ac5285d540580e2084.jpg",
+        "https://telegra.ph/file/c0d11d73a34b38ea02a37.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

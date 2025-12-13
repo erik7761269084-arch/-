@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31750,
+    "title": "Sonson 손손, [DJAWA] Gata Rosa Set.02",
+    "sourceUrl": "https://telegra.ph/Sonson-손손-DJAWA-Gata-Rosa-Set02-09-04",
+    "images": [
+        "https://telegra.ph/file/f41be23f81676f21fa31d.jpg",
+        "https://telegra.ph/file/567d3bd58309b9a1c6ef3.jpg",
+        "https://telegra.ph/file/b6e29238ebc9c408b2c52.jpg",
+        "https://telegra.ph/file/e1c64125ac85870cbd2d0.jpg",
+        "https://telegra.ph/file/6e70946364c4cbd2881af.jpg",
+        "https://telegra.ph/file/e445928ce381e89907a11.jpg",
+        "https://telegra.ph/file/b20e3e316e093d4a16973.jpg",
+        "https://telegra.ph/file/51aaa7c138ca0510000e8.jpg",
+        "https://telegra.ph/file/907d13149ba73a4ea784d.jpg",
+        "https://telegra.ph/file/e5d2f187d91c19fcd38af.jpg",
+        "https://telegra.ph/file/35b7985c2509df02a1a8a.jpg",
+        "https://telegra.ph/file/bc9e9ee6246372f573b72.jpg",
+        "https://telegra.ph/file/76e3dbf74d1d7793a1d5c.jpg",
+        "https://telegra.ph/file/682ac669f431601f144d0.jpg",
+        "https://telegra.ph/file/2e1d38695ef96a7ff71f6.jpg",
+        "https://telegra.ph/file/d3510fc7d288029bbea35.jpg",
+        "https://telegra.ph/file/817ae43b14b1ef8aa5b72.jpg",
+        "https://telegra.ph/file/672fe33092943edeb6fd9.jpg",
+        "https://telegra.ph/file/f4003b67646882190ec03.jpg",
+        "https://telegra.ph/file/bee1ee979f6e4fd0c16f7.jpg",
+        "https://telegra.ph/file/50249d0e893fc24fca064.jpg",
+        "https://telegra.ph/file/00d1f723c5855c03247ff.jpg",
+        "https://telegra.ph/file/3a498e07585e6fb197af5.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

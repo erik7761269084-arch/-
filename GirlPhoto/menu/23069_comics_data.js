@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23069,
+    "title": "九言 - 纯白花嫁 [24P7V]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E7%BA%AF%E7%99%BD%E8%8A%B1%E5%AB%81-24P7V-01-14",
+    "images": [
+        "https://telegra.ph/file/d702ac5dc65c156a9c941.jpg",
+        "https://telegra.ph/file/93220c2b9c3c41d9fec1c.jpg",
+        "https://telegra.ph/file/0527800418e2a95b83752.jpg",
+        "https://telegra.ph/file/c6e1ffd88b328089cae46.jpg",
+        "https://telegra.ph/file/ea68369c63da3bcaa381f.jpg",
+        "https://telegra.ph/file/7b8b2d02c594ed061465b.jpg",
+        "https://telegra.ph/file/36653d8b2e5086b2a33e8.jpg",
+        "https://telegra.ph/file/ca20eb95d3ec076790bde.jpg",
+        "https://telegra.ph/file/a9b21615bea3b550788c6.jpg",
+        "https://telegra.ph/file/1410dbc95049da5e5ee1f.jpg",
+        "https://telegra.ph/file/a651950eb06637cf0ef40.jpg",
+        "https://telegra.ph/file/2f8563b149f5753d4a84d.jpg",
+        "https://telegra.ph/file/6b4a9378ce5007f81fa46.jpg",
+        "https://telegra.ph/file/753aa4474e0de76c7d1b6.jpg",
+        "https://telegra.ph/file/394c6dcbb7e93b111d914.jpg",
+        "https://telegra.ph/file/6105555332abab2cfb92a.jpg",
+        "https://telegra.ph/file/77464df311bd2eb3c277e.jpg",
+        "https://telegra.ph/file/691d292e3e4a16784c930.jpg",
+        "https://telegra.ph/file/92d09be590ad03ced7afd.jpg",
+        "https://telegra.ph/file/77cbe69773baec21673ca.jpg",
+        "https://telegra.ph/file/aa689eb8fe5eef4ab82a2.jpg",
+        "https://telegra.ph/file/f8e64d64a313685e6e669.jpg",
+        "https://telegra.ph/file/2195cdabc5a33208deb72.jpg",
+        "https://telegra.ph/file/5915b01ff3835a28ab836.jpg"
+    ]
+};

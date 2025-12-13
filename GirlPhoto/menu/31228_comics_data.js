@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31228,
+    "title": "[QUEENIE CHUPPY] 2B with wedding and bikini versions",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY-2B-with-wedding-and-bikini-versions-08-16",
+    "images": [
+        "https://telegra.ph/file/daf48f1bc8ee170867268.jpg",
+        "https://telegra.ph/file/e45d44a57cc95869f88f0.jpg",
+        "https://telegra.ph/file/4e5a2442ea64464784400.jpg",
+        "https://telegra.ph/file/9e9a66565e4409c24c77e.jpg",
+        "https://telegra.ph/file/f4a0a0b6a4db7ab149f5a.jpg",
+        "https://telegra.ph/file/35a047d334f4d177f12fb.jpg",
+        "https://telegra.ph/file/8e397dc13a7036ca8254a.jpg",
+        "https://telegra.ph/file/55f3d626f412a99cb2d02.jpg",
+        "https://telegra.ph/file/1b1423d9df98952b371d9.jpg",
+        "https://telegra.ph/file/3ba1d0db697c14cdcacff.jpg",
+        "https://telegra.ph/file/fd6db2da929b303677f39.jpg",
+        "https://telegra.ph/file/386c010642c352947602e.jpg",
+        "https://telegra.ph/file/832d4887aecf8618d0332.jpg",
+        "https://telegra.ph/file/2f981d4c2c9e8c816cad6.jpg",
+        "https://telegra.ph/file/8e24b952aa3319d87a348.jpg",
+        "https://telegra.ph/file/2b12b77c257eb08eb6e87.jpg",
+        "https://telegra.ph/file/56de86fcfdeff9c504bb1.jpg",
+        "https://telegra.ph/file/140780f75705eb0044576.jpg",
+        "https://telegra.ph/file/a471f2953e14c88dfac4e.jpg",
+        "https://telegra.ph/file/eb63bd37095dadab1b938.jpg",
+        "https://telegra.ph/file/0298193860398e105fd54.jpg",
+        "https://telegra.ph/file/09ffda585fd026aafbf82.jpg",
+        "https://telegra.ph/file/48ce1f5857fb8caa2cdaa.jpg",
+        "https://telegra.ph/file/fd3f02997cea937a9d5d0.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

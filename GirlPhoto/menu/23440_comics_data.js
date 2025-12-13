@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23440,
+    "title": "miko酱ww 天下太平",
+    "sourceUrl": "https://telegra.ph/miko%E9%85%B1ww-%E5%A4%A9%E4%B8%8B%E5%A4%AA%E5%B9%B3-02-26",
+    "images": [
+        "https://telegra.ph/file/c4daaa14ec50a19a74bc6.jpg",
+        "https://telegra.ph/file/d8a7284bdb65e77979a57.jpg",
+        "https://telegra.ph/file/950cae11af87010260775.jpg",
+        "https://telegra.ph/file/6fd23d779a1c45f90d158.jpg",
+        "https://telegra.ph/file/ccbce9a739a329d362b1c.jpg",
+        "https://telegra.ph/file/343e0977bf8154ec6e71f.jpg",
+        "https://telegra.ph/file/450eb14b6530bae88cbbc.jpg",
+        "https://telegra.ph/file/803934cc52ad7f90fee82.jpg",
+        "https://telegra.ph/file/92407b4264b53251c44d5.jpg",
+        "https://telegra.ph/file/1988bd2ea6eb468149a18.jpg",
+        "https://telegra.ph/file/6e75ee6793341928adbbd.jpg",
+        "https://telegra.ph/file/4fa1ff331bb94661c13fc.jpg",
+        "https://telegra.ph/file/8489d98c2f1fd39223a34.jpg",
+        "https://telegra.ph/file/c4a8e8a8c24444f1b77b3.jpg",
+        "https://telegra.ph/file/30b4bf5b9bb3a033a0787.jpg",
+        "https://telegra.ph/file/344ab008402fd257276d1.jpg",
+        "https://telegra.ph/file/f3294ae6672f34dca0cf7.jpg",
+        "https://telegra.ph/file/5af3b5e79902e867286f7.jpg",
+        "https://telegra.ph/file/ae97d8eed5251ae855dc1.jpg",
+        "https://telegra.ph/file/598de358883e8f1519f22.jpg",
+        "https://telegra.ph/file/11d2bf71694b10015ef6c.jpg",
+        "https://telegra.ph/file/47031deab90a6178dc438.jpg",
+        "https://telegra.ph/file/e7a2add4d5775b56dff2e.jpg",
+        "https://telegra.ph/file/9b41f97a8bd32a46b1f8c.jpg"
+    ]
+};

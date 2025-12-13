@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41079,
+    "title": "Kuuko W - Houhou (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Kuuko-W---Houhou-Honkai-Star-Rail-01-06",
+    "images": [
+        "https://telegra.ph/file/3bbac823d2b647276cced.jpg",
+        "https://telegra.ph/file/c630309d20530beecc671.jpg",
+        "https://telegra.ph/file/7f740d124e7e6ab8d62f3.jpg",
+        "https://telegra.ph/file/292e9d6e552f4e5ab40fc.jpg",
+        "https://telegra.ph/file/2a8cf92475c3a35abc80f.jpg",
+        "https://telegra.ph/file/5e83bf8aa5d83ddabf295.jpg",
+        "https://telegra.ph/file/0c3eb8ac9566e38bb0b5c.jpg",
+        "https://telegra.ph/file/76bb140161ca88217c5db.jpg",
+        "https://telegra.ph/file/9a84e88dd88d7729cff0f.jpg",
+        "https://telegra.ph/file/57ec0a626c0ef95c859ed.jpg",
+        "https://telegra.ph/file/bb550635294e201237dea.jpg",
+        "https://telegra.ph/file/e22cdff1a9f8a28c8a14f.jpg",
+        "https://telegra.ph/file/b6d7e9d9fd2fe378cdd06.jpg",
+        "https://telegra.ph/file/c203b950933aefb1f1d5b.jpg",
+        "https://telegra.ph/file/2eb7148777e63ac5cd34f.jpg",
+        "https://telegra.ph/file/7cd9f886441da148ab0f0.jpg",
+        "https://telegra.ph/file/b71daed861f94063d93f9.jpg",
+        "https://telegra.ph/file/1f8e99b480aaab5cb464d.jpg",
+        "https://telegra.ph/file/517ccea4ac55368316d3d.jpg",
+        "https://telegra.ph/file/e30aaaf1271d1e11a85c9.jpg",
+        "https://telegra.ph/file/2bce2c1ad43ed3f2a4549.jpg",
+        "https://telegra.ph/file/c6acc1ac7449da2071204.jpg",
+        "https://telegra.ph/file/13b60ff69b09506d84e00.jpg",
+        "https://telegra.ph/file/83efde87f1a538450fa9b.jpg",
+        "https://telegra.ph/file/a425462122463b6e76212.jpg"
+    ]
+};

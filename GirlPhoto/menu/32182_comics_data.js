@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32182,
+    "title": "Kang Inkyung 강인경, [ArtGravia] Vol.046 아트그라비아 Set.01",
+    "sourceUrl": "https://telegra.ph/Kang-Inkyung-강인경-ArtGravia-Vol046-아트그라비아-Set01-10-28",
+    "images": [
+        "https://telegra.ph/file/9ec0eb66d0c516acc19b8.jpg",
+        "https://telegra.ph/file/804810f094e7a4cea62b7.jpg",
+        "https://telegra.ph/file/c6f22284a5e4b7803a73f.jpg",
+        "https://telegra.ph/file/dc80b1d4215e35e146ab1.jpg",
+        "https://telegra.ph/file/d04520ba46d8b7561052d.jpg",
+        "https://telegra.ph/file/c1635f07151fa523a6858.jpg",
+        "https://telegra.ph/file/f617b92b2f86bd2e471c7.jpg",
+        "https://telegra.ph/file/d3fef989731cfd96dfe6c.jpg",
+        "https://telegra.ph/file/cfb16e4219bd6ad1b0e90.jpg",
+        "https://telegra.ph/file/91483a8663bb7e9cd09a9.jpg",
+        "https://telegra.ph/file/d527d77750707d79cfecc.jpg",
+        "https://telegra.ph/file/b96f7f4b0e85cfabac993.jpg",
+        "https://telegra.ph/file/ca190ea49ea350b002ff3.jpg",
+        "https://telegra.ph/file/06efe9ca756199c24316a.jpg",
+        "https://telegra.ph/file/5d7a32a5f2e78ac102731.jpg",
+        "https://telegra.ph/file/5e627032806509a12d113.jpg",
+        "https://telegra.ph/file/e11a87ba67d24a94ffb3e.jpg",
+        "https://telegra.ph/file/03098bdfed554d2477aff.jpg",
+        "https://telegra.ph/file/d740aa5499d8ac86e4a16.jpg",
+        "https://telegra.ph/file/079627e53a16d4b0a54f6.jpg",
+        "https://telegra.ph/file/ca0e2c450ef668ec79904.jpg",
+        "https://telegra.ph/file/7ab17d5121bc30d840770.jpg",
+        "https://telegra.ph/file/dbf4390a1d09ccc443a0f.jpg",
+        "https://telegra.ph/file/1dc16ea480712e99b2a6e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42176,
+    "title": "Khainsaw - Raven (Teen Titans)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-05-5",
+    "images": [
+        "https://i.ibb.co/cKcCqbYQ/01-1-compress8.jpg",
+        "https://i.ibb.co/fB9NL4k/02-2-compress59.jpg",
+        "https://i.ibb.co/Q7RRLsxD/03-3-compress41.jpg",
+        "https://i.ibb.co/bgmjN5MM/04-4-compress8.jpg",
+        "https://i.ibb.co/WvmMMxF6/05-5-compress95.jpg",
+        "https://i.ibb.co/TD1dgWkg/06-6-compress22.jpg",
+        "https://i.ibb.co/h1njYY2P/07-7-compress66.jpg",
+        "https://i.ibb.co/tw72tGSY/08-8-compress89.jpg",
+        "https://i.ibb.co/fYXTcLBQ/09-9-compress48.jpg",
+        "https://i.ibb.co/7tKNQ7T3/10-10-compress37.jpg",
+        "https://i.ibb.co/zTy243bF/11-11-compress3.jpg",
+        "https://i.ibb.co/rGD1mp0H/12-12-compress59.jpg",
+        "https://i.ibb.co/n8Cq8nVb/13-13-compress34.jpg",
+        "https://i.ibb.co/WvDFrFvL/14-14-compress51.jpg",
+        "https://i.ibb.co/1YnJ4W61/15-15-compress21.jpg",
+        "https://i.ibb.co/9kLrHYS7/16-16-compress86.jpg",
+        "https://i.ibb.co/WpfyY8YB/17-17-compress51.jpg",
+        "https://i.ibb.co/yrLxGcf/18-18-compress45.jpg",
+        "https://i.ibb.co/WWYszSJG/19-19-compress28.jpg",
+        "https://i.ibb.co/zhcyK1Xb/20-20-compress56.jpg",
+        "https://i.ibb.co/9M6Xbcw/21-21-compress19.jpg",
+        "https://i.ibb.co/Y7YCj1Yd/22-22-compress82.jpg",
+        "https://i.ibb.co/RpPfCd2f/23-23-compress42.jpg"
+    ]
+};

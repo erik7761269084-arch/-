@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37714,
+    "title": "Hane Ame - Ada Wong 03",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Ada-Wong-05-05-2",
+    "images": [
+        "https://telegra.ph/file/bba444d46ca384adc7dd7.jpg",
+        "https://telegra.ph/file/54faaf6e684af48efde63.jpg",
+        "https://telegra.ph/file/8454eb593862e27589dad.jpg",
+        "https://telegra.ph/file/627d1153b9f84965366e7.jpg",
+        "https://telegra.ph/file/95052926f1a3905ba6deb.jpg",
+        "https://telegra.ph/file/814c1f5f522c4e43cbfdd.jpg",
+        "https://telegra.ph/file/1a95eea96824d4db77de5.jpg",
+        "https://telegra.ph/file/b2adbd1c0ebba9fa9e506.jpg",
+        "https://telegra.ph/file/ee142f649d18301bc0d85.jpg",
+        "https://telegra.ph/file/a77be37618571852f7fce.jpg",
+        "https://telegra.ph/file/9a7b3b7ecf18060082956.jpg",
+        "https://telegra.ph/file/d7dfe2f3bb6fd9e24f6a5.jpg",
+        "https://telegra.ph/file/e8a139e20af6642277a75.jpg",
+        "https://telegra.ph/file/f34553b04307c38700b46.jpg",
+        "https://telegra.ph/file/3329bced73eabe2f58d80.jpg",
+        "https://telegra.ph/file/2d83fcd988d884adec96e.jpg",
+        "https://telegra.ph/file/3ad9350a6e0c78105881e.jpg",
+        "https://telegra.ph/file/49bc6e0b7d8f977fb5085.jpg",
+        "https://telegra.ph/file/4a916b2aa6fcdeaf6418f.jpg",
+        "https://telegra.ph/file/046f23bda98e71f93dded.jpg",
+        "https://telegra.ph/file/8ccf01eb91a9254fe3ea8.jpg",
+        "https://telegra.ph/file/0f4197de2717ab97dbf2c.jpg",
+        "https://telegra.ph/file/8458c2045db7134f7e601.jpg",
+        "https://telegra.ph/file/a272313dfa67d844b8750.jpg"
+    ]
+};

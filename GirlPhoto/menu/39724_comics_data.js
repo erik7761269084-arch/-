@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39724,
+    "title": "Hatori - Lilysa & Lilliel (2.5 Jige Kareshi)",
+    "sourceUrl": "https://telegra.ph/Hatori---Lilysa--Lilliel-25-Jige-Kareshi-09-26",
+    "images": [
+        "https://telegra.ph/file/bb837789b78fc9d809cfc.jpg",
+        "https://telegra.ph/file/3f1205d7a717013881348.jpg",
+        "https://telegra.ph/file/547e1676af80081a51321.jpg",
+        "https://telegra.ph/file/4d37c6c5c548281fb7bd2.jpg",
+        "https://telegra.ph/file/e57586c55b0322f31ae1e.jpg",
+        "https://telegra.ph/file/49901e08011375df76427.jpg",
+        "https://telegra.ph/file/d1ea47fc979b48c8a5b2e.jpg",
+        "https://telegra.ph/file/4f39216d06985bb148e8e.jpg",
+        "https://telegra.ph/file/4f7ccce17502332ec2194.jpg",
+        "https://telegra.ph/file/d1ac04f73bb794638b2e0.jpg",
+        "https://telegra.ph/file/c0389785b592508232c98.jpg",
+        "https://telegra.ph/file/a4989c2eac988dcea8853.jpg",
+        "https://telegra.ph/file/f913a321aa6facd3dd6d2.jpg",
+        "https://telegra.ph/file/6c5f038ab8cfdd50f1556.jpg",
+        "https://telegra.ph/file/a9170226eb156ae4e564e.jpg",
+        "https://telegra.ph/file/b3519b75c5d4d18e37858.jpg",
+        "https://telegra.ph/file/8fe57f1aa70fd13764a1c.jpg",
+        "https://telegra.ph/file/607803377419ca8e1eed4.jpg",
+        "https://telegra.ph/file/d2749807bbdddebf1d01a.jpg",
+        "https://telegra.ph/file/0a0521447e2b9b2268022.jpg",
+        "https://telegra.ph/file/1a8817a9b9df713f5d15c.jpg",
+        "https://telegra.ph/file/b3a0de6702faa5951b5a5.jpg",
+        "https://telegra.ph/file/db2b336a91be1dd44c52a.jpg",
+        "https://telegra.ph/file/99d56d0df8675214de43b.jpg",
+        "https://telegra.ph/file/9aa8b05a44aa91d2f95a4.jpg"
+    ]
+};

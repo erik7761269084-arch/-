@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37966,
+    "title": "Vinnegal - 2B (Nier Automata)",
+    "sourceUrl": "https://telegra.ph/Vinnegal---2B-Nier-Automata-06-29",
+    "images": [
+        "https://telegra.ph/file/6f37b2c56b7bd3529bb2c.jpg",
+        "https://telegra.ph/file/20857aaa423a142e1ac38.jpg",
+        "https://telegra.ph/file/9c88692ed52a4a86a7154.jpg",
+        "https://telegra.ph/file/154eb16804e0dbcb89ed4.jpg",
+        "https://telegra.ph/file/b7ec548515cf1443039b2.jpg",
+        "https://telegra.ph/file/238b569679bfee791cb2c.jpg",
+        "https://telegra.ph/file/97ecb6c749f12661453c7.jpg",
+        "https://telegra.ph/file/e0c8cc1319472fe387d82.jpg",
+        "https://telegra.ph/file/f7cf8a48ce30a2dc3638a.jpg",
+        "https://telegra.ph/file/181f77ff39175773c3528.jpg",
+        "https://telegra.ph/file/ff6e6f9a44cd51ac73afb.jpg",
+        "https://telegra.ph/file/fe58a51afe4824d0c6343.jpg",
+        "https://telegra.ph/file/f23268c2eea299dacdb21.jpg",
+        "https://telegra.ph/file/0fc8e2761b23265604fd7.jpg",
+        "https://telegra.ph/file/f3ad86665fb2abed200d6.jpg",
+        "https://telegra.ph/file/00270252c8da9f7ebb57e.jpg",
+        "https://telegra.ph/file/755d9bf42b8dedf27bc22.jpg",
+        "https://telegra.ph/file/043ed3a61ad04db30e06e.jpg",
+        "https://telegra.ph/file/299d267c2ea29e30a208c.jpg",
+        "https://telegra.ph/file/e6573275dc60681e71ecd.jpg",
+        "https://telegra.ph/file/d5f03f54164f8c8e316eb.jpg",
+        "https://telegra.ph/file/b3dca641018279c6ae21c.jpg",
+        "https://telegra.ph/file/0f6e2db02074ce46ef365.jpg",
+        "https://telegra.ph/file/d1bf22dc5f97dab18d15f.jpg",
+        "https://telegra.ph/file/06cdd78180e8ed5d781bc.jpg",
+        "https://telegra.ph/file/945e5f86bdcb30048090d.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27500,
+    "title": "雨波 火影忍者寫真書 2.T_black",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%AF%AB%E7%9C%9F%E6%9B%B8-2T-black-08-17",
+    "images": [
+        "https://telegra.ph/file/8173ffe79f5a42939baef.jpg",
+        "https://telegra.ph/file/ba4d2d56eefe6252c805a.jpg",
+        "https://telegra.ph/file/d5fe306779714494b8972.jpg",
+        "https://telegra.ph/file/937fd760e363b6bf5f8f5.jpg",
+        "https://telegra.ph/file/af2d956a5b7e335f0acff.jpg",
+        "https://telegra.ph/file/0321a612ceee2a4614c9d.jpg",
+        "https://telegra.ph/file/377da991b7268db8094fd.jpg",
+        "https://telegra.ph/file/c02d589649569e0dd4692.jpg",
+        "https://telegra.ph/file/97f96d492e3b55ccc6c53.jpg",
+        "https://telegra.ph/file/007c336ee35de24007bc8.jpg",
+        "https://telegra.ph/file/1c104a82a5020400bcaf2.jpg",
+        "https://telegra.ph/file/122ae106d28c34559f0d0.jpg",
+        "https://telegra.ph/file/e489c6fe3b650e2fd7447.jpg",
+        "https://telegra.ph/file/467a94644213a0887f089.jpg",
+        "https://telegra.ph/file/9636559c90fa72649ac62.jpg",
+        "https://telegra.ph/file/44e8fc3e5404a16235877.jpg",
+        "https://telegra.ph/file/316ab4abebb89e9e806a3.jpg",
+        "https://telegra.ph/file/00bc4c09fd247eb0979ce.jpg",
+        "https://telegra.ph/file/8cf1201dcd12076d15a5c.jpg",
+        "https://telegra.ph/file/a206a8192793f90da776f.jpg",
+        "https://telegra.ph/file/e334fb275eb49f1861ec6.jpg",
+        "https://telegra.ph/file/fd5a8b72f456374372d5f.jpg",
+        "https://telegra.ph/file/5fe2958c531fdf5353225.jpg",
+        "https://telegra.ph/file/cad44051280ef0e5d2efd.jpg",
+        "https://telegra.ph/file/139875423568c6b16dfd0.jpg",
+        "https://telegra.ph/file/a1ee458b47b57bdf5ab65.jpg"
+    ]
+};

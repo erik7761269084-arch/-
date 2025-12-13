@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39818,
+    "title": "Fantasy Factory - Raikou (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Raikou-Fate-Grand-Order-11-01",
+    "images": [
+        "https://telegra.ph/file/47fc3c595b2ba24d3223c.jpg",
+        "https://telegra.ph/file/9b1353fd4a0f1440f11df.jpg",
+        "https://telegra.ph/file/ad9d91b852122c9de62c4.jpg",
+        "https://telegra.ph/file/0cffe02161800b32ee8fc.jpg",
+        "https://telegra.ph/file/4cfa46de0d21741b9429e.jpg",
+        "https://telegra.ph/file/41937ab340533143432eb.jpg",
+        "https://telegra.ph/file/0a45fa04a00033ca2d50f.jpg",
+        "https://telegra.ph/file/84cd2720c6502f4650fe9.jpg",
+        "https://telegra.ph/file/9e555662fa6ea1e26ed99.jpg",
+        "https://telegra.ph/file/9f23b7a614a9e3d668150.jpg",
+        "https://telegra.ph/file/b6a03044df4b097f9d3f5.jpg",
+        "https://telegra.ph/file/b59d4e3e93a4c0dd1339d.jpg",
+        "https://telegra.ph/file/22008e11cbcc638573ba6.jpg",
+        "https://telegra.ph/file/2bb946a8635982984062d.jpg",
+        "https://telegra.ph/file/203d45fdc2bf351b21926.jpg",
+        "https://telegra.ph/file/aa54de0770f497b50b325.jpg",
+        "https://telegra.ph/file/ba77ae234d7d756080102.jpg",
+        "https://telegra.ph/file/befeece0ac2b2da5cc915.jpg",
+        "https://telegra.ph/file/b073a6c1d038a48359d4a.jpg",
+        "https://telegra.ph/file/e1a83cf297c2d4f53aaad.jpg",
+        "https://telegra.ph/file/6ed2d2b23dc24c04d67b6.jpg",
+        "https://telegra.ph/file/f812102eb6638573e6cea.jpg",
+        "https://telegra.ph/file/371fd28e99319ad943141.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23467,
+    "title": "九言 高雄兔女郎 [24P-148MB]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E9%AB%98%E9%9B%84%E5%85%94%E5%A5%B3%E9%83%8E-24P-148MB-02-28",
+    "images": [
+        "https://telegra.ph/file/7dcefbe155460e28332ca.jpg",
+        "https://telegra.ph/file/72336519d6db6f9b653d5.jpg",
+        "https://telegra.ph/file/06e0ff51db69fbce5054c.jpg",
+        "https://telegra.ph/file/b02706e39a5b02b18225f.jpg",
+        "https://telegra.ph/file/46463028d3d96e72554d2.jpg",
+        "https://telegra.ph/file/cc8f69a4f618df40f7cc7.jpg",
+        "https://telegra.ph/file/56106975d00d5b991d058.jpg",
+        "https://telegra.ph/file/c3c836a1a1e2716fc18ec.jpg",
+        "https://telegra.ph/file/4a68a0cb5538799297be5.jpg",
+        "https://telegra.ph/file/2474647c36a8e8cc817a5.jpg",
+        "https://telegra.ph/file/51afdda71b43c541e7d42.jpg",
+        "https://telegra.ph/file/2ff82b27c2c333334cc1d.jpg",
+        "https://telegra.ph/file/1df7d5444d2915927a5b0.jpg",
+        "https://telegra.ph/file/72d7167462e7063d846c0.jpg",
+        "https://telegra.ph/file/072fa531808898613b1d9.jpg",
+        "https://telegra.ph/file/8898d4408b24922ab871b.jpg",
+        "https://telegra.ph/file/a81173b42eec1ea80d283.jpg",
+        "https://telegra.ph/file/eb31bf8955fdfe640cfbd.jpg",
+        "https://telegra.ph/file/a92079ccca622805dd7cb.jpg",
+        "https://telegra.ph/file/365b3cecdb2c0880b833e.jpg",
+        "https://telegra.ph/file/d857e2d342eadb8aed6fe.jpg",
+        "https://telegra.ph/file/da96dc3b604f1d63cb0b7.jpg",
+        "https://telegra.ph/file/37cbaf66202982c648219.jpg",
+        "https://telegra.ph/file/1b46a8e84b66e9c4708bd.jpg"
+    ]
+};

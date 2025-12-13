@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35082,
+    "title": "Yunha 윤하, Espacia Korea EHC#074 Set.01",
+    "sourceUrl": "https://telegra.ph/Yunha-윤하-Espacia-Korea-EHC074-Set01-08-19",
+    "images": [
+        "https://telegra.ph/file/eb27589d95f227fcb4377.jpg",
+        "https://telegra.ph/file/54420b9fc8b45e98d35b3.jpg",
+        "https://telegra.ph/file/f77d7f32ce156417208ee.jpg",
+        "https://telegra.ph/file/9f35c09a9e7d7b1d6b236.jpg",
+        "https://telegra.ph/file/f8ac0a2156fe886268fa8.jpg",
+        "https://telegra.ph/file/294d86f6bbaf23dbed1e4.jpg",
+        "https://telegra.ph/file/8b357429bec5dd18bc2a2.jpg",
+        "https://telegra.ph/file/dbf424840cb6f6e801faa.jpg",
+        "https://telegra.ph/file/1d284564820207465a093.jpg",
+        "https://telegra.ph/file/4608e9dba309b589adc8f.jpg",
+        "https://telegra.ph/file/4cd753763c1768e078c95.jpg",
+        "https://telegra.ph/file/be91ad76a7476f23059ef.jpg",
+        "https://telegra.ph/file/8f3cf6d4a39c55c7917af.jpg",
+        "https://telegra.ph/file/e4aab0ccbec730033d77c.jpg",
+        "https://telegra.ph/file/c56d6dba9805a28125358.jpg",
+        "https://telegra.ph/file/6699d44d8c1122e652307.jpg",
+        "https://telegra.ph/file/edad1ce7e5110a302a0a9.jpg",
+        "https://telegra.ph/file/2ecae3634aafa7b8301c2.jpg",
+        "https://telegra.ph/file/61a385560e47b43fd9160.jpg",
+        "https://telegra.ph/file/78cb74bd087a0c8bb0df9.jpg",
+        "https://telegra.ph/file/1282bb4df387fe1ec6c19.jpg",
+        "https://telegra.ph/file/f2c9beb067869c83aaddb.jpg",
+        "https://telegra.ph/file/6e9f5d409baf604bac23d.jpg",
+        "https://telegra.ph/file/d5adb3e9eaa55e97302e6.jpg",
+        "https://telegra.ph/file/47d8a59224735c6357c57.jpg"
+    ]
+};

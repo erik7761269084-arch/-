@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 26618,
+    "title": "[Cos]王胖胖- 粉兔儿 [26P]",
+    "sourceUrl": "https://telegra.ph/Cos%E7%8E%8B%E8%83%96%E8%83%96--%E7%B2%89%E5%85%94%E5%84%BF-26P-05-06",
+    "images": [
+        "https://telegra.ph/file/13034e4958ebea5c13dc4.jpg",
+        "https://telegra.ph/file/36d9d446fdb3064351570.jpg",
+        "https://telegra.ph/file/5c8ec0effcd7cba569426.jpg",
+        "https://telegra.ph/file/a1a07e8334294fc021407.jpg",
+        "https://telegra.ph/file/a715ddf897cfe505d31d4.jpg",
+        "https://telegra.ph/file/9f3ab43d50ef566098ca7.jpg",
+        "https://telegra.ph/file/9632e35558ed1cedc404f.jpg",
+        "https://telegra.ph/file/7275b34c7b87675bcb6c0.jpg",
+        "https://telegra.ph/file/779cb5d7f8550095490b3.jpg",
+        "https://telegra.ph/file/9accf20b4d3267bac36e9.jpg",
+        "https://telegra.ph/file/b6ce93deeb79707746cf9.jpg",
+        "https://telegra.ph/file/2b494af43f18d6192f6c1.jpg",
+        "https://telegra.ph/file/22126a05577ae832bd9bb.jpg",
+        "https://telegra.ph/file/ea733a74f76beb1216c0c.jpg",
+        "https://telegra.ph/file/e935541836977c2ab7095.jpg",
+        "https://telegra.ph/file/93c1a65ca7dc010ad5884.jpg",
+        "https://telegra.ph/file/87de90e9ea04e6247d4b5.jpg",
+        "https://telegra.ph/file/0af8b54d54871da3ba485.jpg",
+        "https://telegra.ph/file/9d4d67a3e35dfe99bc2ad.jpg",
+        "https://telegra.ph/file/ee0c53e51f566e856dcff.jpg",
+        "https://telegra.ph/file/8a7dcd5bab8217525cd1b.jpg",
+        "https://telegra.ph/file/66c14392952da5cd995c6.jpg",
+        "https://telegra.ph/file/b0242c90f48c7d925e827.jpg",
+        "https://telegra.ph/file/48e72288bdb88c3960eed.jpg",
+        "https://telegra.ph/file/b953d6f053b9733646c80.jpg",
+        "https://telegra.ph/file/a312dc1138272707ee19c.jpg"
+    ]
+};

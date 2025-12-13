@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43056,
+    "title": "仙女月 - 喜多川海夢兔女郎 [25P]",
+    "sourceUrl": "https://telegra.ph/%E4%BB%99%E5%A5%B3%E6%9C%88---%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%B5%B7%E5%A4%A2%E5%85%94%E5%A5%B3%E9%83%8E-25P-07-31",
+    "images": [
+        "https://telegra.ph/file/a37c87bbbd538d9f5856d.jpg",
+        "https://telegra.ph/file/d6a43290db4c44d1d9a5b.jpg",
+        "https://telegra.ph/file/8063423c33c22c29455c5.jpg",
+        "https://telegra.ph/file/285e59f2283bd5fe71381.jpg",
+        "https://telegra.ph/file/23cb8dbeff40e03cf6d34.jpg",
+        "https://telegra.ph/file/ea4c28c2f56598d82bb8e.jpg",
+        "https://telegra.ph/file/d532fbba7d4a47090902e.jpg",
+        "https://telegra.ph/file/a43365a023e7c6ce8b9b6.jpg",
+        "https://telegra.ph/file/07284f2ab4132b22f64cd.jpg",
+        "https://telegra.ph/file/efbd751885b56743d2ca8.jpg",
+        "https://telegra.ph/file/a1b4eb72b81fbc04eeead.jpg",
+        "https://telegra.ph/file/eddae63a4a8a3995b2ff5.jpg",
+        "https://telegra.ph/file/71ae9d9395edff29342a1.jpg",
+        "https://telegra.ph/file/565ac2d27b27fdcd1071a.jpg",
+        "https://telegra.ph/file/77d7dd6bdcabed23c6503.jpg",
+        "https://telegra.ph/file/b9fb50b871597e276e558.jpg",
+        "https://telegra.ph/file/b4c25c22c2242a00f5b22.jpg",
+        "https://telegra.ph/file/9fd0cd8dd3ce99be76163.jpg",
+        "https://telegra.ph/file/17e88a866876170f01823.jpg",
+        "https://telegra.ph/file/e883d12051f79ec98b0a5.jpg",
+        "https://telegra.ph/file/67148844e2a74e77f82ec.jpg",
+        "https://telegra.ph/file/f9c89bef800a996245679.jpg",
+        "https://telegra.ph/file/221bed6785a9f8d3c50a9.jpg",
+        "https://telegra.ph/file/e117bf023884ed5a21b83.jpg",
+        "https://telegra.ph/file/deeb63cacd2fe5db8769b.jpg"
+    ]
+};

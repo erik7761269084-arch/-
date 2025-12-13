@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35462,
+    "title": "[瓜希酱] Bradamante ブラダマンテ (Fate/Grand Order フェイト/グランドオーダー)",
+    "sourceUrl": "https://telegra.ph/瓜希酱-Bradamante-ブラダマンテ-FateGrand-Order-フェイトグランドオーダー-09-26",
+    "images": [
+        "https://telegra.ph/file/4b3c89e3ca95a7622e77d.jpg",
+        "https://telegra.ph/file/616c26d9ded38efc4c45e.jpg",
+        "https://telegra.ph/file/ea855901cf744dd87c266.jpg",
+        "https://telegra.ph/file/97ed7482d1aac9e5b3aef.jpg",
+        "https://telegra.ph/file/15948a7cf636872e08c5f.jpg",
+        "https://telegra.ph/file/b4bc49105dc22768d1335.jpg",
+        "https://telegra.ph/file/de9343c7386ea8a9a3695.jpg",
+        "https://telegra.ph/file/78c91a45402c125637489.jpg",
+        "https://telegra.ph/file/d678966c8213b64980b50.jpg",
+        "https://telegra.ph/file/f1234ae46bd8d941760ce.jpg",
+        "https://telegra.ph/file/639bf4fc529a6f4f6d8e5.jpg",
+        "https://telegra.ph/file/012c0f572d8c4c9402442.jpg",
+        "https://telegra.ph/file/5510757b5bc54c5f0d5da.jpg",
+        "https://telegra.ph/file/35c3b1f47065f93d8dec7.jpg",
+        "https://telegra.ph/file/c97d9b2d6d7dcb437309a.jpg",
+        "https://telegra.ph/file/80e34ea3a7efe2aa67e99.jpg",
+        "https://telegra.ph/file/f8be763891b3e72b85049.jpg",
+        "https://telegra.ph/file/8fcc5fd8d0c33ef90a023.jpg",
+        "https://telegra.ph/file/c5ba9b367c160750a716a.jpg",
+        "https://telegra.ph/file/1f536265bde8ae2a27583.jpg",
+        "https://telegra.ph/file/977a77220c792c4197045.jpg",
+        "https://telegra.ph/file/b07206264ac2d13adc729.jpg",
+        "https://telegra.ph/file/0b854209c07d77ee22637.jpg",
+        "https://telegra.ph/file/a839f1c2db715e8d18b01.jpg",
+        "https://telegra.ph/file/539eeb4eb7c48db7567f1.jpg"
+    ]
+};

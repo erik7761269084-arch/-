@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43263,
+    "title": "金鱼kinngyo（花音栗子） - 花音栗子かおん くりこ【23P 101M】",
+    "sourceUrl": "https://telegra.ph/%E9%87%91%E9%B1%BCkinngyo%E8%8A%B1%E9%9F%B3%E6%A0%97%E5%AD%90---%E8%8A%B1%E9%9F%B3%E6%A0%97%E5%AD%90%E3%81%8B%E3%81%8A%E3%82%93-%E3%81%8F%E3%82%8A%E3%81%9323P-101M-09-22",
+    "images": [
+        "https://telegra.ph/file/24e60acea58baa266786f.jpg",
+        "https://telegra.ph/file/87c823860823bf84e39cb.jpg",
+        "https://telegra.ph/file/80e6b1e3a707c5a7e784f.jpg",
+        "https://telegra.ph/file/6f11ceb75b881e8a4f8ee.jpg",
+        "https://telegra.ph/file/a75c737b43919e328b8b2.jpg",
+        "https://telegra.ph/file/13aeef68270b1f313d99d.jpg",
+        "https://telegra.ph/file/fbe75ed1d8a95583ae9de.jpg",
+        "https://telegra.ph/file/26af025f065117e617152.jpg",
+        "https://telegra.ph/file/7d2e86fe8e14562e545ce.jpg",
+        "https://telegra.ph/file/c53a06bd30b6a188be13e.jpg",
+        "https://telegra.ph/file/ca3277dd0108f048b7293.jpg",
+        "https://telegra.ph/file/a13c2f87a98959e39da59.jpg",
+        "https://telegra.ph/file/f7be13283a7eec3082844.jpg",
+        "https://telegra.ph/file/16a2e0a0201bd565e71ff.jpg",
+        "https://telegra.ph/file/99bb5b6c9f5cd3a96ad5e.jpg",
+        "https://telegra.ph/file/e2da51e93dba7b359e5a1.jpg",
+        "https://telegra.ph/file/48b1d48022bbbd8e847a3.jpg",
+        "https://telegra.ph/file/ed5e32ff3415ee3ed5555.jpg",
+        "https://telegra.ph/file/89f07e7a8cb05c3c13772.jpg",
+        "https://telegra.ph/file/48609ddb67ff21923bb78.jpg",
+        "https://telegra.ph/file/35fc4c457e3326031e24a.jpg",
+        "https://telegra.ph/file/f8c637392132f2733a585.jpg",
+        "https://telegra.ph/file/d63de4f3fb0a90d7b6a90.jpg"
+    ]
+};

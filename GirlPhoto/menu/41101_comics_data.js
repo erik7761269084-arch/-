@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41101,
+    "title": "Lovely Space Kitten - Chloe (Kuroinu)",
+    "sourceUrl": "https://telegra.ph/Lovely-Space-Kitten---Chloe-Kuroinu-01-29",
+    "images": [
+        "https://telegra.ph/file/58e3083dfd2082b77a2b3.jpg",
+        "https://telegra.ph/file/f2ea97776e82d545c42ee.jpg",
+        "https://telegra.ph/file/5db4856cd54ef1c290bfd.jpg",
+        "https://telegra.ph/file/7b43a8a805b07406c000d.jpg",
+        "https://telegra.ph/file/319e9b7afe95cb13df4ac.jpg",
+        "https://telegra.ph/file/fb9a5ca4b27a5c14d9849.jpg",
+        "https://telegra.ph/file/628394bc4a50bb7966952.jpg",
+        "https://telegra.ph/file/6835ab80aebf1652ae552.jpg",
+        "https://telegra.ph/file/de43e47d6cc7eab5be71a.jpg",
+        "https://telegra.ph/file/1a3cb8b59c06dcc34b388.jpg",
+        "https://telegra.ph/file/b8053b64eb2bbb80b9d0e.jpg",
+        "https://telegra.ph/file/ea691c43111c54c3e9840.jpg",
+        "https://telegra.ph/file/2addd109b96b27900478b.jpg",
+        "https://telegra.ph/file/1a316e6de8a9eb77edd8f.jpg",
+        "https://telegra.ph/file/2499f5e17ff96acf63b2d.jpg",
+        "https://telegra.ph/file/fb6b9bb6d03368e2e495b.jpg",
+        "https://telegra.ph/file/ebe8ac10da89ea1f1aa17.jpg",
+        "https://telegra.ph/file/5e4e1596b1e7bd93f1f40.jpg",
+        "https://telegra.ph/file/f4fd8fe672293c86f7525.jpg",
+        "https://telegra.ph/file/c82c1e9fc204acef83f8e.jpg",
+        "https://telegra.ph/file/88865ac4a617a8371ba25.jpg",
+        "https://telegra.ph/file/a2fc6b5430398e40b29a0.jpg",
+        "https://telegra.ph/file/9ff0ed985dc8d0b2dbef9.jpg"
+    ]
+};

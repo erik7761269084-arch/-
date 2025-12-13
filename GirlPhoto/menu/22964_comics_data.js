@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22964,
+    "title": "PoppaChan - Sucrose Genshin Impact [29P14V]",
+    "sourceUrl": "https://telegra.ph/PoppaChan---Sucrose-Genshin-Impact-29P14V-12-31",
+    "images": [
+        "https://telegra.ph/file/82e8c425d04f0bc9513b2.jpg",
+        "https://telegra.ph/file/a226b23ffc13dc15a00f0.jpg",
+        "https://telegra.ph/file/717f7b70a3f6333677dd2.jpg",
+        "https://telegra.ph/file/01d0d33a8b086380d8c87.jpg",
+        "https://telegra.ph/file/c0e2e197411c2610be900.jpg",
+        "https://telegra.ph/file/b1524c3b3443bc35bc61e.jpg",
+        "https://telegra.ph/file/312fbaf0e5ea41236b9b3.jpg",
+        "https://telegra.ph/file/fe58ece67b216b1bd578a.jpg",
+        "https://telegra.ph/file/cefc7d7055061206c37bd.jpg",
+        "https://telegra.ph/file/29203742560bc03e085bd.jpg",
+        "https://telegra.ph/file/8fd40160b634b070ce477.jpg",
+        "https://telegra.ph/file/22d92fa99d3b1a194541a.jpg",
+        "https://telegra.ph/file/b65d5a75c160708544626.jpg",
+        "https://telegra.ph/file/b93d21b06a794cf9a345b.jpg",
+        "https://telegra.ph/file/2d8ac3b721c6825fd4517.jpg",
+        "https://telegra.ph/file/f0c1d71174492374760b9.jpg",
+        "https://telegra.ph/file/7ac12fb8ee17cc0c5fc86.jpg",
+        "https://telegra.ph/file/59a174445bf0f8a3551ca.jpg",
+        "https://telegra.ph/file/891e8214e22b6cfef8a54.jpg",
+        "https://telegra.ph/file/864bfc99b46c8cc93bb4e.jpg",
+        "https://telegra.ph/file/e2af576ae669785c4e1e4.jpg",
+        "https://telegra.ph/file/1907dc0d398223a4c7120.jpg",
+        "https://telegra.ph/file/3cb74aaa153f930ca9ca5.jpg",
+        "https://telegra.ph/file/0513ffe2114a74e4bb2e5.jpg",
+        "https://telegra.ph/file/34326e867c5246005d49b.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45763,
+    "title": "Hidori Rose - Uruha Rushia - Page 1",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Uruha-Rushia---Page-1-10-23",
+    "images": [
+        "https://telegra.ph/file/34de4b4679d2be50b1bfa.jpg",
+        "https://telegra.ph/file/ca88d18e0781a1441e308.jpg",
+        "https://telegra.ph/file/109cb5026541176064e74.jpg",
+        "https://telegra.ph/file/13459a5fea7e4d53404d8.jpg",
+        "https://telegra.ph/file/46b8676d1cda8f7adf906.jpg",
+        "https://telegra.ph/file/a8ae0e195b4a0e33bae80.jpg",
+        "https://telegra.ph/file/218efffe305fe190a14b5.jpg",
+        "https://telegra.ph/file/17042bdd0375b9c656e0f.jpg",
+        "https://telegra.ph/file/98eee94aed1d9d92f0b9a.jpg",
+        "https://telegra.ph/file/f9251dd618379fa0b7d42.jpg",
+        "https://telegra.ph/file/3a00dfc82e75351aaa5e3.jpg",
+        "https://telegra.ph/file/ea144c3cc7f56fd3b5a5b.jpg",
+        "https://telegra.ph/file/194dcba4e93f85444214d.jpg",
+        "https://telegra.ph/file/69be2ca25f9a91643d1c6.jpg",
+        "https://telegra.ph/file/c20947a4bf2a14c7ec650.jpg",
+        "https://telegra.ph/file/2411610431d6583e153e5.jpg",
+        "https://telegra.ph/file/190360acd36800d12147d.jpg",
+        "https://telegra.ph/file/f4c377b887470c6d85f14.jpg",
+        "https://telegra.ph/file/94e3dee126080d8c00f3a.jpg",
+        "https://telegra.ph/file/2e8229da26fcc433046c1.jpg",
+        "https://telegra.ph/file/454eb5b96bf515c8cd0b4.jpg",
+        "https://telegra.ph/file/bcee2894a029bf4ce6252.jpg",
+        "https://telegra.ph/file/b0a48d91f637d06c84e19.jpg",
+        "https://telegra.ph/file/1700e9b5afaab19c5c369.jpg",
+        "https://telegra.ph/file/783b43044e961e06bd05f.jpg"
+    ]
+};

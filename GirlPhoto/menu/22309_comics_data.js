@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22309,
+    "title": "51酱 - 吉他牛仔裤",
+    "sourceUrl": "https://telegra.ph/51%E9%85%B1---%E5%90%89%E4%BB%96%E7%89%9B%E4%BB%94%E8%A3%A4-08-29",
+    "images": [
+        "https://image.acg.lol/file/2025/08/29/1-13cdf31a04e36a2b6.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-2f1a0b351e70e92d7.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-31a1bdfbec69db132.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-474c737922dc2ef3e.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-56ae5f18c62793e57.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-6bf8303f5ea9b4ca7.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-7af85e1c7c22735ef.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-819f5efbbdb988293.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-9d0ee43666eb9c6ea.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-10c79665dd312f0cdc.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-1197b2513cba449ec7.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-127606064bcf5da3f3.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-13b1737b8a9ffc66f5.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-145046cd5cde728803.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-15f7baab12fdfcd0d8.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-1695f9ef1c12b5e088.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-170805c37b50a247a8.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-18d189156e53704451.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-19330e77ee7c59a4da.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-20f6ebcf3d74af5547.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-21f270e457199a814e.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-228c357733d1706f57.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-23a759fd1ef9ed81ab.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-24b5828ea8a84cbf48.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-25952095f8bf389976.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-26722938c62ceb9bfc.jpg"
+    ]
+};

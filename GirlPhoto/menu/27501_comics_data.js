@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27501,
+    "title": "雨波 火影忍者寫真書 3.Sakura",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%AF%AB%E7%9C%9F%E6%9B%B8-3Sakura-08-17",
+    "images": [
+        "https://telegra.ph/file/ddb22a43475afc0c1d33b.jpg",
+        "https://telegra.ph/file/e150f6e6163eedebde228.jpg",
+        "https://telegra.ph/file/3efe42972a0a22306bec6.jpg",
+        "https://telegra.ph/file/d29a27357850066222e7e.jpg",
+        "https://telegra.ph/file/f3b138badac3589a64293.jpg",
+        "https://telegra.ph/file/d9616344eec2381b12ebb.jpg",
+        "https://telegra.ph/file/3439455cb3e5c805a2f61.jpg",
+        "https://telegra.ph/file/d43784a720022babfcbfd.jpg",
+        "https://telegra.ph/file/a282ca07981adb4fbffb0.jpg",
+        "https://telegra.ph/file/12fc195ed3a7dbe518275.jpg",
+        "https://telegra.ph/file/85d22d144517a759b1d11.jpg",
+        "https://telegra.ph/file/71fc970146b66d89d97d0.jpg",
+        "https://telegra.ph/file/19719e3314b4f03e19cca.jpg",
+        "https://telegra.ph/file/2121d3b7d2c67db953a4a.jpg",
+        "https://telegra.ph/file/08b964c29c1e3627816e7.jpg",
+        "https://telegra.ph/file/59a37aba8b312a302869d.jpg",
+        "https://telegra.ph/file/d4d175f64bae2e627e369.jpg",
+        "https://telegra.ph/file/ecf42ec927e60cd3a032d.jpg",
+        "https://telegra.ph/file/458afa038691efa8676e9.jpg",
+        "https://telegra.ph/file/fc4e331a1222ec99417a2.jpg",
+        "https://telegra.ph/file/b6977ad9cb37888160786.jpg",
+        "https://telegra.ph/file/0b563aee4788b258eeb38.jpg",
+        "https://telegra.ph/file/6dd5c49978cd64a36aafb.jpg",
+        "https://telegra.ph/file/96dfedad1c0bef76da0fc.jpg",
+        "https://telegra.ph/file/b494033dd8e92b0f2d8af.jpg",
+        "https://telegra.ph/file/c9b19650b828b048490c2.jpg"
+    ]
+};

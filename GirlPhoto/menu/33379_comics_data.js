@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33379,
+    "title": "Cosplay 一北亦北 玄狼",
+    "sourceUrl": "https://telegra.ph/Cosplay-一北亦北-玄狼-02-28",
+    "images": [
+        "https://telegra.ph/file/0bb940529d9afc3e7985a.jpg",
+        "https://telegra.ph/file/5f1e8e55f36566d3d08c3.jpg",
+        "https://telegra.ph/file/0f7602a1bea2cb9d6aa29.jpg",
+        "https://telegra.ph/file/b11b81bbd6f28fca26fe4.jpg",
+        "https://telegra.ph/file/4c4de441ea595bde7e679.jpg",
+        "https://telegra.ph/file/23321fdfaae366f3b2f7f.jpg",
+        "https://telegra.ph/file/3d91a9232e840b37d6eb0.jpg",
+        "https://telegra.ph/file/6ecddaeaaf1e4eac0cb4d.jpg",
+        "https://telegra.ph/file/8194396a83ed004e57b91.jpg",
+        "https://telegra.ph/file/7b01b3979d316017fe386.jpg",
+        "https://telegra.ph/file/d9ec235a9c92307200ede.jpg",
+        "https://telegra.ph/file/75ebd8e74efafec7f5b52.jpg",
+        "https://telegra.ph/file/105319648805c05d50e3b.jpg",
+        "https://telegra.ph/file/ef4e017e8d73721f81dd7.jpg",
+        "https://telegra.ph/file/3512e2ea8a96bae25ccfc.jpg",
+        "https://telegra.ph/file/dbd83862fa7158b2f09a2.jpg",
+        "https://telegra.ph/file/d48e8b179a5a3d37d874e.jpg",
+        "https://telegra.ph/file/c983432d0622de1a3bc38.jpg",
+        "https://telegra.ph/file/b97114c4e6b71b4b749df.jpg",
+        "https://telegra.ph/file/8b5c7ba47ca51c78a1923.jpg",
+        "https://telegra.ph/file/dafc52f2f0ba08b134a72.jpg",
+        "https://telegra.ph/file/9ff0e0c4a2e6495d554fb.jpg",
+        "https://telegra.ph/file/668a5770dbdbdfccdf194.jpg",
+        "https://telegra.ph/file/e8cea1619d72a7cc1bfb5.jpg",
+        "https://telegra.ph/file/330c08ea87b381bd9a690.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

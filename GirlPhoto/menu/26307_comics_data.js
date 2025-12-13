@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26307,
+    "title": "韶陌陌-520限定[24P]",
+    "sourceUrl": "https://telegra.ph/%E9%9F%B6%E9%99%8C%E9%99%8C-520%E9%99%90%E5%AE%9A24P-03-03",
+    "images": [
+        "https://legra.ph/file/e9473a344f3db1baee5f3.jpg",
+        "https://legra.ph/file/3ae0b4e664032b94cb9c8.jpg",
+        "https://legra.ph/file/e2c3dec4945d6a34bdb92.jpg",
+        "https://legra.ph/file/fd56931876a8729f3c006.jpg",
+        "https://legra.ph/file/b0b1a7a9d7edc2cbd546b.jpg",
+        "https://legra.ph/file/798356e4942431d57b000.jpg",
+        "https://legra.ph/file/ad19d5f18936833314b15.jpg",
+        "https://legra.ph/file/fb75d21185bd989204286.jpg",
+        "https://legra.ph/file/e4cc5d41bd85ca72bfad4.jpg",
+        "https://legra.ph/file/918f1fe5d191446f1b5dc.jpg",
+        "https://legra.ph/file/d6e8c382ed9a0f8fcdbff.jpg",
+        "https://legra.ph/file/5988c7db286a5cfc7d3d9.jpg",
+        "https://legra.ph/file/d314fdb20c508d8fdf25e.jpg",
+        "https://legra.ph/file/656245e1c981e8ba7c94b.jpg",
+        "https://legra.ph/file/2e90659a1f8fb8ad322a1.jpg",
+        "https://legra.ph/file/70bc8f86b728083893530.jpg",
+        "https://legra.ph/file/cb2c001afc062ca3a24fe.jpg",
+        "https://legra.ph/file/efa8f1ec6c64df7ba7b4b.jpg",
+        "https://legra.ph/file/3c5f89fb7af11ff4f94e3.jpg",
+        "https://legra.ph/file/8f4f59d244302cf9ad8d5.jpg",
+        "https://legra.ph/file/efe775401f4513b4396d0.jpg",
+        "https://legra.ph/file/4acc1633500deec7d0e18.jpg",
+        "https://legra.ph/file/2a753ba2b3c9cacb615ac.jpg",
+        "https://legra.ph/file/8ce3557034fc3b175b271.jpg"
+    ]
+};

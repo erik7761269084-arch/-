@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40660,
+    "title": "Fantasy Factory - Sena (Boku Wa Tomodachi Ga Sukunai)",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Sena-Boku-Wa-Tomodachi-Ga-Sukunai-08-29",
+    "images": [
+        "https://telegra.ph/file/309b8b0510b138d3b42d7.jpg",
+        "https://telegra.ph/file/c4ede5d454f71c4b0d2d3.jpg",
+        "https://telegra.ph/file/5136db536a08588b51c6d.jpg",
+        "https://telegra.ph/file/e5ed07cf70c01f6b0fe43.jpg",
+        "https://telegra.ph/file/dbbdf77f18f01542966c1.jpg",
+        "https://telegra.ph/file/f6c08278f6e40d69742f3.jpg",
+        "https://telegra.ph/file/6d1857369963d058d1871.jpg",
+        "https://telegra.ph/file/df165def3699bc29dc091.jpg",
+        "https://telegra.ph/file/7db3539229c7811ca1b6c.jpg",
+        "https://telegra.ph/file/b3c5bebd2e17b90ba29c0.jpg",
+        "https://telegra.ph/file/211e50a314604e9afd3a5.jpg",
+        "https://telegra.ph/file/83f6e2b5394b1eb2ff631.jpg",
+        "https://telegra.ph/file/f284d46fb4affa3e74afe.jpg",
+        "https://telegra.ph/file/7d3e404f1325c93ed965c.jpg",
+        "https://telegra.ph/file/46d9e5ec6676eac3e021e.jpg",
+        "https://telegra.ph/file/f457eafe358cba812f6ee.jpg",
+        "https://telegra.ph/file/5b48fe600972c7ed6c136.jpg",
+        "https://telegra.ph/file/c0a8d72a12da2af16211e.jpg",
+        "https://telegra.ph/file/bd2677d1cbc157610cba8.jpg",
+        "https://telegra.ph/file/c42f18a83962bc5035bd7.jpg",
+        "https://telegra.ph/file/3336fa7a97dfedbaa669e.jpg",
+        "https://telegra.ph/file/893b63adae95f0da8320e.jpg",
+        "https://telegra.ph/file/1bd44f90f0deb5581ebe6.jpg",
+        "https://telegra.ph/file/24f04f7733397137c85d9.jpg",
+        "https://telegra.ph/file/542bb3c806f2c42521301.jpg"
+    ]
+};

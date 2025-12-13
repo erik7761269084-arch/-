@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35112,
+    "title": "Son Yeeun 손예은, [LEEHEE EXPRESS] LEDB-031 Set.01",
+    "sourceUrl": "https://telegra.ph/Son-Yeeun-손예은-LEEHEE-EXPRESS-LEDB-031-Set01-08-22",
+    "images": [
+        "https://telegra.ph/file/e484f399221d3e9cbc102.jpg",
+        "https://telegra.ph/file/e33f24768efa458087c93.jpg",
+        "https://telegra.ph/file/5448c799dcc9db2f9af9c.jpg",
+        "https://telegra.ph/file/1cfd568dcc42d2ceb39d9.jpg",
+        "https://telegra.ph/file/e620f6a324f0e6224e814.jpg",
+        "https://telegra.ph/file/49e49de94cb6efcc29f66.jpg",
+        "https://telegra.ph/file/9ec0c4eef294b9bd3a728.jpg",
+        "https://telegra.ph/file/19359951baddc5bf1f1af.jpg",
+        "https://telegra.ph/file/14069968e8d1283835f60.jpg",
+        "https://telegra.ph/file/7e0944c770f51419e5b19.jpg",
+        "https://telegra.ph/file/fcb785e32673e6c31d54c.jpg",
+        "https://telegra.ph/file/739c88212af76fe5924cd.jpg",
+        "https://telegra.ph/file/e57e394305ab854ce0bf5.jpg",
+        "https://telegra.ph/file/ccc9573371a7e0360677a.jpg",
+        "https://telegra.ph/file/22b5640548dcffa8aea81.jpg",
+        "https://telegra.ph/file/29d4a1846b94b1f3eb5fb.jpg",
+        "https://telegra.ph/file/52dcd15592d6eb856db24.jpg",
+        "https://telegra.ph/file/3f3a094d6f4ebe11d40be.jpg",
+        "https://telegra.ph/file/56e8379e590eb67838309.jpg",
+        "https://telegra.ph/file/d20267b854d05d81fe95a.jpg",
+        "https://telegra.ph/file/0d6b0320b56016ec3cfa6.jpg",
+        "https://telegra.ph/file/a4378f5edf3aa21451d3d.jpg",
+        "https://telegra.ph/file/6380a356bc7e958dbe89d.jpg",
+        "https://telegra.ph/file/1b32ce1bc0af6dbf19359.jpg",
+        "https://telegra.ph/file/20dc413a34ba2645d37bc.jpg",
+        "https://telegra.ph/file/8ca9a3e6b51e2a0643df8.jpg"
+    ]
+};

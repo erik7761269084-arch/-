@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26672,
+    "title": "柚木-花嫁调教[25P]",
+    "sourceUrl": "https://telegra.ph/%E6%9F%9A%E6%9C%A8-%E8%8A%B1%E5%AB%81%E8%B0%83%E6%95%9925P-07-06",
+    "images": [
+        "https://telegra.ph/file/4b5237be619d385dc9f78.jpg",
+        "https://telegra.ph/file/c9428d4aef5d138efaa22.jpg",
+        "https://telegra.ph/file/eeaa599da5f8726dbd7bb.jpg",
+        "https://telegra.ph/file/22f5ca8493da4b805fe3d.jpg",
+        "https://telegra.ph/file/e71afeee11b27c124df5c.jpg",
+        "https://telegra.ph/file/27629001fb262a3eeca43.jpg",
+        "https://telegra.ph/file/ba9e04f8249f83013199e.jpg",
+        "https://telegra.ph/file/e9cc6dd0149920d2f4b43.jpg",
+        "https://telegra.ph/file/ef58cc4ec080a58582839.jpg",
+        "https://telegra.ph/file/3cbee882434917785b269.jpg",
+        "https://telegra.ph/file/71f91c5e70f7964d68f53.jpg",
+        "https://telegra.ph/file/315552315903b3fdd684a.jpg",
+        "https://telegra.ph/file/c90f4769e4929cf6ca4a5.jpg",
+        "https://telegra.ph/file/4eaaf77080a7cc840bf2d.jpg",
+        "https://telegra.ph/file/5589473c19cde7f11cef7.jpg",
+        "https://telegra.ph/file/e5ab2956a5342688406e7.jpg",
+        "https://telegra.ph/file/04b77957954c1b1fcb97f.jpg",
+        "https://telegra.ph/file/63203875ea219b807d210.jpg",
+        "https://telegra.ph/file/abaccfbaf987971aa11be.jpg",
+        "https://telegra.ph/file/efa789015ec94d59b471b.jpg",
+        "https://telegra.ph/file/218d753d25a6b95464de7.jpg",
+        "https://telegra.ph/file/307d2a97fab1c54d11279.jpg",
+        "https://telegra.ph/file/6e275ffae04fbdf4f6b87.jpg",
+        "https://telegra.ph/file/3cb82c940ce84d62d3c35.jpg",
+        "https://telegra.ph/file/191f71c96a50249f9a176.jpg"
+    ]
+};

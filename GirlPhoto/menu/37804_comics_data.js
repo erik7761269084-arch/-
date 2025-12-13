@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37804,
+    "title": "MissWarmJ - Zero Two/Swimsuit (Darling in the franxx)",
+    "sourceUrl": "https://telegra.ph/Shimo---Atago-Azur-Lane-06-05-2",
+    "images": [
+        "https://telegra.ph/file/8c35b9a4e8d3719e83419.jpg",
+        "https://telegra.ph/file/2738de631dfdbc5d6e8d9.jpg",
+        "https://telegra.ph/file/32378031286a538d19876.jpg",
+        "https://telegra.ph/file/7aeb8d7f3549e15a95c01.jpg",
+        "https://telegra.ph/file/e161e19279c1d9f0c92b2.jpg",
+        "https://telegra.ph/file/dd324578bfe542ef7b046.jpg",
+        "https://telegra.ph/file/787c5de43ebcdfbafb29f.jpg",
+        "https://telegra.ph/file/3ce06fc3e86af144e42c3.jpg",
+        "https://telegra.ph/file/f6a2233cf331952dc38e0.jpg",
+        "https://telegra.ph/file/66ce455ec337f9e818028.jpg",
+        "https://telegra.ph/file/98d130b676fad339fabb5.jpg",
+        "https://telegra.ph/file/ce13f30c81fbcae3707fa.jpg",
+        "https://telegra.ph/file/cbc8e7273cbfbce40cdc7.jpg",
+        "https://telegra.ph/file/b30a62d4e99e89a1208b3.jpg",
+        "https://telegra.ph/file/2b74230457acb38711802.jpg",
+        "https://telegra.ph/file/1b33dd98596eed6940213.jpg",
+        "https://telegra.ph/file/62347086b88a20ff95fb7.jpg",
+        "https://telegra.ph/file/b6327e80f48db67be3d16.jpg",
+        "https://telegra.ph/file/c0636da1dfa06bb66dac4.jpg",
+        "https://telegra.ph/file/e2dafb2deca026a603723.jpg",
+        "https://telegra.ph/file/413996dfb321004c20e9a.jpg",
+        "https://telegra.ph/file/a4d7f740fae89b0296f92.jpg",
+        "https://telegra.ph/file/7f4b6d518f4fc3e4656ce.jpg"
+    ]
+};

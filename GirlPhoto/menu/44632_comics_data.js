@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44632,
+    "title": "[Fantasy Factory 小丁] miko kurokawa - 2022.04",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory-小丁-miko-kurokawa---202204-01-11",
+    "images": [
+        "https://telegra.ph/file/07c2d2a09240010d42ac5.jpg",
+        "https://telegra.ph/file/322ad6c00cee1d95de0be.jpg",
+        "https://telegra.ph/file/ae6a7b0c00926ad13b21b.jpg",
+        "https://telegra.ph/file/c565dffe444ab6abd8f56.jpg",
+        "https://telegra.ph/file/8e93f8ae3c4fda6f47509.jpg",
+        "https://telegra.ph/file/b16c02037d6ce74a22c18.jpg",
+        "https://telegra.ph/file/728acfa7b322a038e867e.jpg",
+        "https://telegra.ph/file/fa677641be098fe609cca.jpg",
+        "https://telegra.ph/file/331d8706519669204e73d.jpg",
+        "https://telegra.ph/file/268f7f2e5159965cc405b.jpg",
+        "https://telegra.ph/file/4474a92da7acb18f5fbda.jpg",
+        "https://telegra.ph/file/da4492e027abd7497cc90.jpg",
+        "https://telegra.ph/file/751225741f7147c49a644.jpg",
+        "https://telegra.ph/file/b487149beeedd82109fee.jpg",
+        "https://telegra.ph/file/a046b5b433e232e54b3bf.jpg",
+        "https://telegra.ph/file/00211fccb87775275b22e.jpg",
+        "https://telegra.ph/file/9cb488fbfe8364cf8c6ca.jpg",
+        "https://telegra.ph/file/2050cbb124932b67ba18b.jpg",
+        "https://telegra.ph/file/54bdeebc1949fd48937ea.jpg",
+        "https://telegra.ph/file/0170afcac8972288b6d0a.jpg",
+        "https://telegra.ph/file/a84da8210c04d19a73394.jpg",
+        "https://telegra.ph/file/ab8e9958e2d3393331371.jpg",
+        "https://telegra.ph/file/f407ede08295dab1ede7b.jpg"
+    ]
+};

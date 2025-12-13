@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31405,
+    "title": "Cosplay 瓜希酱 碧蓝航线 大凤赛车",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-碧蓝航线-大凤赛车-08-16",
+    "images": [
+        "https://telegra.ph/file/d6c87aedb418b802913c7.jpg",
+        "https://telegra.ph/file/b44d04095262339a54131.jpg",
+        "https://telegra.ph/file/8f005de6d2bf7c5326295.jpg",
+        "https://telegra.ph/file/fe12782e1b00d7d663012.jpg",
+        "https://telegra.ph/file/c128961b5756576180cd1.jpg",
+        "https://telegra.ph/file/50fdab4a976100fad86ef.jpg",
+        "https://telegra.ph/file/88ebf3e951b39e013dccf.jpg",
+        "https://telegra.ph/file/33264ade09498fff62222.jpg",
+        "https://telegra.ph/file/c160bda8244577d78a739.jpg",
+        "https://telegra.ph/file/7dbe35e6d20f72a8009a6.jpg",
+        "https://telegra.ph/file/ae5dcc2c0439582c8373e.jpg",
+        "https://telegra.ph/file/4bd98681a3624452a871a.jpg",
+        "https://telegra.ph/file/bd7a65c589aa66ed555b7.jpg",
+        "https://telegra.ph/file/e7111b782d0205cc7d5d1.jpg",
+        "https://telegra.ph/file/d8e3b753d13558aec9522.jpg",
+        "https://telegra.ph/file/e071009babc049d3ccb39.jpg",
+        "https://telegra.ph/file/d22bd409082f4903a679c.jpg",
+        "https://telegra.ph/file/a003886c0250d25a7ec31.jpg",
+        "https://telegra.ph/file/271bf192cbcbfd801009c.jpg",
+        "https://telegra.ph/file/673f697f641302f53cc69.jpg",
+        "https://telegra.ph/file/c82393b6120a6b8ca7ada.jpg",
+        "https://telegra.ph/file/15871c48c6a5e8686ee2a.jpg",
+        "https://telegra.ph/file/d927785d1d1873cecc02f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

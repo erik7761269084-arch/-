@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22952,
+    "title": "Natsuko夏夏子 - NO.016 &星澜是澜澜叫澜妹呀 私汤自拍 [26P-69MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO016-%E6%98%9F%E6%BE%9C%E6%98%AF%E6%BE%9C%E6%BE%9C%E5%8F%AB%E6%BE%9C%E5%A6%B9%E5%91%80-%E7%A7%81%E6%B1%A4%E8%87%AA%E6%8B%8D-26P-69MB-12-29",
+    "images": [
+        "https://telegra.ph/file/afe39f5f989db32ab14df.jpg",
+        "https://telegra.ph/file/7501d603634c1ad7309b6.jpg",
+        "https://telegra.ph/file/1f7bb538bc46752689e1f.jpg",
+        "https://telegra.ph/file/440bc4f53d75bfe828067.jpg",
+        "https://telegra.ph/file/4f2fae5bbb2e66e182521.jpg",
+        "https://telegra.ph/file/2f8a8f9f051401ce0aa0b.jpg",
+        "https://telegra.ph/file/54102d150dff6ec08b482.jpg",
+        "https://telegra.ph/file/158098c3dec1c408fce8e.jpg",
+        "https://telegra.ph/file/6cc7cadc6dfbbe313067c.jpg",
+        "https://telegra.ph/file/19f4e9af0026649e1b519.jpg",
+        "https://telegra.ph/file/7e5a918524263abe5c7cf.jpg",
+        "https://telegra.ph/file/24a32b4eaf973a41da739.jpg",
+        "https://telegra.ph/file/192022cd161a0f8eb38d8.jpg",
+        "https://telegra.ph/file/1deb4ff504a43750a7e01.jpg",
+        "https://telegra.ph/file/403fd72c5230145c36e00.jpg",
+        "https://telegra.ph/file/0209ca44e9337d4aec259.jpg",
+        "https://telegra.ph/file/b759929ed238c2bf8e13f.jpg",
+        "https://telegra.ph/file/51c30c2a28d9cca4dd85b.jpg",
+        "https://telegra.ph/file/421ae36fad52968312076.jpg",
+        "https://telegra.ph/file/b292b9853ce3cdae9881e.jpg",
+        "https://telegra.ph/file/445d0696df988666c2e86.jpg",
+        "https://telegra.ph/file/e2805ef979dff3679be7c.jpg",
+        "https://telegra.ph/file/7dbda9a43d399f51bd208.jpg",
+        "https://telegra.ph/file/24b9e853c521399da0d73.jpg",
+        "https://telegra.ph/file/16e9a34199d80c51883d9.jpg",
+        "https://telegra.ph/file/74e3f630dcccac3a57af3.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44421,
+    "title": "[習呆呆] ル・マラン恶毒（アズールレーン）",
+    "sourceUrl": "https://telegra.ph/習呆呆-ルマラン恶毒アズールレーン-11-14",
+    "images": [
+        "https://telegra.ph/file/774ddd82b52bb8aa4b5bc.jpg",
+        "https://telegra.ph/file/4ac4c02f0603c2b2cf018.jpg",
+        "https://telegra.ph/file/0eb9c53cac8bdf78fd9f5.jpg",
+        "https://telegra.ph/file/990682bb4e735b0374636.jpg",
+        "https://telegra.ph/file/93634645c0497e055e18b.jpg",
+        "https://telegra.ph/file/fb6e2549be1d459614176.jpg",
+        "https://telegra.ph/file/a1cb8dcb5123a2753b6d0.jpg",
+        "https://telegra.ph/file/8628cf1da5f50e12f963a.jpg",
+        "https://telegra.ph/file/03868f79374be87582316.jpg",
+        "https://telegra.ph/file/6d8b3aedd9036eff94729.jpg",
+        "https://telegra.ph/file/e54e68dff8c3e8c67fb30.jpg",
+        "https://telegra.ph/file/1c5670a1eea391ff508fa.jpg",
+        "https://telegra.ph/file/6e63624a23086b6612f1a.jpg",
+        "https://telegra.ph/file/277f952a32f1bea7c1330.jpg",
+        "https://telegra.ph/file/929f6b26afa87879df57f.jpg",
+        "https://telegra.ph/file/4d6908dbf4473243dab20.jpg",
+        "https://telegra.ph/file/a4d2a869884cfff36cb1b.jpg",
+        "https://telegra.ph/file/3eb844560aed21605b713.jpg",
+        "https://telegra.ph/file/956362aea58a6a8147437.jpg",
+        "https://telegra.ph/file/65ee0124fefa9d5f164ec.jpg",
+        "https://telegra.ph/file/9d70e49695d536fa4bb6f.jpg",
+        "https://telegra.ph/file/7679dbcab6675a2faab77.jpg",
+        "https://telegra.ph/file/a202ab7c7af26188c4733.jpg",
+        "https://telegra.ph/file/2cd31ec2ae32d727b6fdb.jpg",
+        "https://telegra.ph/file/70b5e201d7b4f2afba3eb.jpg"
+    ]
+};

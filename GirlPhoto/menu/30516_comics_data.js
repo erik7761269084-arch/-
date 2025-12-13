@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30516,
+    "title": "Fuua Kaede 楓ふうあ, 写真集 #Escape Set.03",
+    "sourceUrl": "https://telegra.ph/Fuua-Kaede-楓ふうあ-写真集-Escape-Set03-06-18",
+    "images": [
+        "https://telegra.ph/file/8cfd1821c7b841ee9d2aa.jpg",
+        "https://telegra.ph/file/580c52d77cd705db041e6.jpg",
+        "https://telegra.ph/file/4dbeff288441e9690180b.jpg",
+        "https://telegra.ph/file/387f304a3a4a70fcc524a.jpg",
+        "https://telegra.ph/file/a3746c58f57c26b199252.jpg",
+        "https://telegra.ph/file/47622b77ab2c119b94834.jpg",
+        "https://telegra.ph/file/ec42a574819ec58576028.jpg",
+        "https://telegra.ph/file/93401dab52f1e6a2c2bf0.jpg",
+        "https://telegra.ph/file/1fbc3639c483509001ce6.jpg",
+        "https://telegra.ph/file/49a6aacfab98e72a8d039.jpg",
+        "https://telegra.ph/file/fe76a892900c20a220ed6.jpg",
+        "https://telegra.ph/file/814337c67a4b20c370d82.jpg",
+        "https://telegra.ph/file/816e8269c374a0d23019b.jpg",
+        "https://telegra.ph/file/f60f583ad1d373ed5412d.jpg",
+        "https://telegra.ph/file/0223f8cc7f0f16de1805f.jpg",
+        "https://telegra.ph/file/1ee1937b74fb381ae0d28.jpg",
+        "https://telegra.ph/file/aa6a1dabe230a53ade2d3.jpg",
+        "https://telegra.ph/file/1e1c75a9fcc044c4eba6d.jpg",
+        "https://telegra.ph/file/9328942c5b82926863f6f.jpg",
+        "https://telegra.ph/file/70659645344d4b18715ba.jpg",
+        "https://telegra.ph/file/fb215ce59dfa53a3222b5.jpg",
+        "https://telegra.ph/file/f2db2f17eb277c3a7c189.jpg",
+        "https://telegra.ph/file/66ade7bbb6f7942b211e4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42875,
+    "title": "倉倉&檸 - 云影追月[23P286M]",
+    "sourceUrl": "https://telegra.ph/%E5%80%89%E5%80%89%E6%AA%B8---%E4%BA%91%E5%BD%B1%E8%BF%BD%E6%9C%8823P286M-07-07",
+    "images": [
+        "https://telegra.ph/file/39780e8ba25a6ded6f040.jpg",
+        "https://telegra.ph/file/eaf9797f3bfd76eca1ac5.jpg",
+        "https://telegra.ph/file/e7f9c984f56bb756b3b0f.jpg",
+        "https://telegra.ph/file/2a7c943da3e6b37a8b76e.jpg",
+        "https://telegra.ph/file/a4222150696966c841623.jpg",
+        "https://telegra.ph/file/a2ee5dcdd77e5a2a0aa95.jpg",
+        "https://telegra.ph/file/6a7bcbd90092eaf60f2e7.jpg",
+        "https://telegra.ph/file/0fee25dfd334848754451.jpg",
+        "https://telegra.ph/file/d07bdf775fe4c57418358.jpg",
+        "https://telegra.ph/file/5f19adb3da5cd7fe6ce76.jpg",
+        "https://telegra.ph/file/910bcb88a13733f21e63e.jpg",
+        "https://telegra.ph/file/88566cb742e0f940f51cb.jpg",
+        "https://telegra.ph/file/ee26029bc0d9be870b477.jpg",
+        "https://telegra.ph/file/8a32bbc21d56f38b24394.jpg",
+        "https://telegra.ph/file/c118d3e207574ee48c2b9.jpg",
+        "https://telegra.ph/file/64e62d34c08fca3780d4d.jpg",
+        "https://telegra.ph/file/f4ae57b5523c4c783f440.jpg",
+        "https://telegra.ph/file/0fdca7bf0a761c79a9f49.jpg",
+        "https://telegra.ph/file/f2c5485b2fd552795a08b.jpg",
+        "https://telegra.ph/file/eaead6e563ffb5be369f3.jpg",
+        "https://telegra.ph/file/a120ae9cc32e904477a88.jpg",
+        "https://telegra.ph/file/98cc6d60cae4a879a2bd3.jpg",
+        "https://telegra.ph/file/a72b4091437caf051a766.jpg"
+    ]
+};

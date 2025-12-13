@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26214,
+    "title": "秋和柯基-请把艺术打在公屏上[25P]",
+    "sourceUrl": "https://telegra.ph/%E7%A7%8B%E5%92%8C%E6%9F%AF%E5%9F%BA-%E8%AF%B7%E6%8A%8A%E8%89%BA%E6%9C%AF%E6%89%93%E5%9C%A8%E5%85%AC%E5%B1%8F%E4%B8%8A25P-01-27",
+    "images": [
+        "https://telegra.ph/file/81c0a2193ad2fdf2c3b63.jpg",
+        "https://telegra.ph/file/f466cc66b7eec97b8be99.jpg",
+        "https://telegra.ph/file/2f809c6eae66e0b6f6485.jpg",
+        "https://telegra.ph/file/519baffd6f5381a32715a.jpg",
+        "https://telegra.ph/file/1032e4070312a69b4cf6b.jpg",
+        "https://telegra.ph/file/9207680a339a2be6faeda.jpg",
+        "https://telegra.ph/file/94fb924ca94bbc93ef9e5.jpg",
+        "https://telegra.ph/file/9ff848d9c11de68efea05.jpg",
+        "https://telegra.ph/file/e653a7fb0e1506bbe4f91.jpg",
+        "https://telegra.ph/file/e59d5e302e3693be24b10.jpg",
+        "https://telegra.ph/file/190c491db303d29d04581.jpg",
+        "https://telegra.ph/file/eabbde7a08994145fd6ea.jpg",
+        "https://telegra.ph/file/49f07552fbf4d607a045b.jpg",
+        "https://telegra.ph/file/e4664651f7c3d04db9e3f.jpg",
+        "https://telegra.ph/file/19a999d871a99e5fa1194.jpg",
+        "https://telegra.ph/file/806bfecae3d3e16818da0.jpg",
+        "https://telegra.ph/file/247cde8d1bc4ffbf6a443.jpg",
+        "https://telegra.ph/file/f1c87954a909ca269dd25.jpg",
+        "https://telegra.ph/file/9d47d6ba1e7d3f7594a70.jpg",
+        "https://telegra.ph/file/05a96c369350eda36a710.jpg",
+        "https://telegra.ph/file/bae2b0cd3d04af94bf517.jpg",
+        "https://telegra.ph/file/f010dec2c3196e3250fc0.jpg",
+        "https://telegra.ph/file/aecc878fd275bacb494a6.jpg",
+        "https://telegra.ph/file/d1c7c029069cbf39f665d.jpg",
+        "https://telegra.ph/file/3d8256c9794c1ec3d3ac2.jpg"
+    ]
+};

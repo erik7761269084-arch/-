@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43372,
+    "title": "日奈娇 - 孟菲斯 [25P255MB]",
+    "sourceUrl": "https://telegra.ph/%E6%97%A5%E5%A5%88%E5%A8%87---%E5%AD%9F%E8%8F%B2%E6%96%AF-25P255MB-11-07",
+    "images": [
+        "https://telegra.ph/file/bb9fbac748e71b07f19e9.jpg",
+        "https://telegra.ph/file/2eeb566ff19d97212e1e3.jpg",
+        "https://telegra.ph/file/4e4f74e0e75952927a6d0.jpg",
+        "https://telegra.ph/file/b9c71c87ded7106b90fb9.jpg",
+        "https://telegra.ph/file/c59f544e07062a7b2e272.jpg",
+        "https://telegra.ph/file/19a412b9b30ba7f020a82.jpg",
+        "https://telegra.ph/file/c042bcfb00fe8fc25e78d.jpg",
+        "https://telegra.ph/file/0e55124ff448d2d3e8a0f.jpg",
+        "https://telegra.ph/file/abf4b7760f3158cfce33b.jpg",
+        "https://telegra.ph/file/0bfb1fad779b54ee3cd80.jpg",
+        "https://telegra.ph/file/b0d4c214c918880e14a00.jpg",
+        "https://telegra.ph/file/6f8c6afcf72358e90d798.jpg",
+        "https://telegra.ph/file/265507e6110867aa50001.jpg",
+        "https://telegra.ph/file/ee126d747d28d4e87f385.jpg",
+        "https://telegra.ph/file/39d7b0a070a8a3f797b89.jpg",
+        "https://telegra.ph/file/2939d58b246ee51934a2b.jpg",
+        "https://telegra.ph/file/16c4de3c655dd4d317825.jpg",
+        "https://telegra.ph/file/ea9ff69cee6a4f28b00af.jpg",
+        "https://telegra.ph/file/387f81bf058da3d212473.jpg",
+        "https://telegra.ph/file/cb7efa5841a4b38f4610c.jpg",
+        "https://telegra.ph/file/51ac9d99650de2901191c.jpg",
+        "https://telegra.ph/file/12a823080b68e647c2dfd.jpg",
+        "https://telegra.ph/file/2481fd5a787fca880c37d.jpg",
+        "https://telegra.ph/file/93e6a888ec152293dafa6.jpg",
+        "https://telegra.ph/file/7024ca9ca4a1efd8d8000.jpg"
+    ]
+};

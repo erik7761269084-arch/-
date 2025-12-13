@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28865,
+    "title": "[Yoko宅夏]艶娘幻梦谭-金莲  - 24P",
+    "sourceUrl": "https://telegra.ph/Yoko%E5%AE%85%E5%A4%8F%E8%89%B6%E5%A8%98%E5%B9%BB%E6%A2%A6%E8%B0%AD-%E9%87%91%E8%8E%B2---24P-10-28",
+    "images": [
+        "https://telegra.ph/file/4b0c6f74257b90b8a5184.jpg",
+        "https://telegra.ph/file/7c8a68d50b7e4ef7d35b9.jpg",
+        "https://telegra.ph/file/6720d344243615127c034.jpg",
+        "https://telegra.ph/file/4de39d06263dd4164af9e.jpg",
+        "https://telegra.ph/file/d9529b6f334b4b8a1b401.jpg",
+        "https://telegra.ph/file/b689e79b28641c7f5aea7.jpg",
+        "https://telegra.ph/file/b733b8668a45470b183d2.jpg",
+        "https://telegra.ph/file/bf0e7c02e8023f57cc14b.jpg",
+        "https://telegra.ph/file/13b13ff0ce5e050ee81d1.jpg",
+        "https://telegra.ph/file/5c4e6e7d5906f2201faca.jpg",
+        "https://telegra.ph/file/e4931d08196d9c295bfac.jpg",
+        "https://telegra.ph/file/7d65f6c2edb656889014a.jpg",
+        "https://telegra.ph/file/e2012736372524ecfc806.jpg",
+        "https://telegra.ph/file/894d9c5bfad5d10e11f0d.jpg",
+        "https://telegra.ph/file/354fc2df9cc85629483c1.jpg",
+        "https://telegra.ph/file/1c7cee11fe38af14ecd50.jpg",
+        "https://telegra.ph/file/9f03903fcac6f0b227e3a.jpg",
+        "https://telegra.ph/file/ecb12376991d6156cbdfe.jpg",
+        "https://telegra.ph/file/646a4d365ced12fb1b75d.jpg",
+        "https://telegra.ph/file/29c2de92632f712365079.jpg",
+        "https://telegra.ph/file/c49a9351f42fb8d815ecc.jpg",
+        "https://telegra.ph/file/7258c27dbbfb57d5b17a3.jpg",
+        "https://telegra.ph/file/dd207cc40251f35401db5.jpg",
+        "https://telegra.ph/file/29774ee061fef13e0ccb9.jpg"
+    ]
+};

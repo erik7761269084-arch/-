@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30693,
+    "title": "Lee Heeeun 이희은, [LEEHEE EXPRESS] LESV-003A Set.01",
+    "sourceUrl": "https://telegra.ph/Lee-Heeeun-이희은-LEEHEE-EXPRESS-LESV-003A-Set01-07-04",
+    "images": [
+        "https://telegra.ph/file/8622f78a45f778f6c82a4.jpg",
+        "https://telegra.ph/file/effea9bfc08716b39c574.jpg",
+        "https://telegra.ph/file/0606dbb7122f57c4cc9dd.jpg",
+        "https://telegra.ph/file/8d615b1ed65d8b9df452b.jpg",
+        "https://telegra.ph/file/6979bb4299c2953324961.jpg",
+        "https://telegra.ph/file/f34e7763246c3015805d7.jpg",
+        "https://telegra.ph/file/1fdb994f289a4b7de746d.jpg",
+        "https://telegra.ph/file/aa19a4bb528a858e46068.jpg",
+        "https://telegra.ph/file/a8a65762c0b7de09c5753.jpg",
+        "https://telegra.ph/file/cdc8982cc49bba6702b84.jpg",
+        "https://telegra.ph/file/c66099908406b220616f8.jpg",
+        "https://telegra.ph/file/2a6669580f840d34e2f15.jpg",
+        "https://telegra.ph/file/848e81a4d52f82d6660a3.jpg",
+        "https://telegra.ph/file/cb29bfe46f497d85c4619.jpg",
+        "https://telegra.ph/file/5acff970966638aa51e3a.jpg",
+        "https://telegra.ph/file/13b2c7fc0c7adee9bace3.jpg",
+        "https://telegra.ph/file/dea467892dc9253aa6f84.jpg",
+        "https://telegra.ph/file/008ce7892003168ea571a.jpg",
+        "https://telegra.ph/file/927908fd1d990a9263042.jpg",
+        "https://telegra.ph/file/98cd83d300559d6710fc4.jpg",
+        "https://telegra.ph/file/31fb6da0eb12578e8f7eb.jpg",
+        "https://telegra.ph/file/bb7c8ecd2b3cb74d18c0f.jpg",
+        "https://telegra.ph/file/08467eb9ec119c0d0e902.jpg",
+        "https://telegra.ph/file/12a5a787ce3f90324aa92.jpg",
+        "https://telegra.ph/file/f514c657452a3975f6603.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

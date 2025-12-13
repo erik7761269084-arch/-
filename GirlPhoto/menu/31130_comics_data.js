@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31130,
+    "title": "[猫君君] 雷姆小恶魔 Rem Little Devil",
+    "sourceUrl": "https://telegra.ph/猫君君-雷姆小恶魔-Rem-Little-Devil-08-16",
+    "images": [
+        "https://telegra.ph/file/5a1e7d2082d5f62423f38.jpg",
+        "https://telegra.ph/file/488003701f639f6c52b31.jpg",
+        "https://telegra.ph/file/2db3b5abc08383637d8b2.jpg",
+        "https://telegra.ph/file/9a3bcba48013a8eac5eeb.jpg",
+        "https://telegra.ph/file/c1e3ddfa15f77cea9051c.jpg",
+        "https://telegra.ph/file/326f14d0e1692b35a987d.jpg",
+        "https://telegra.ph/file/80a30368cd5ed4cbfec4d.jpg",
+        "https://telegra.ph/file/5022df84928a679dcb8de.jpg",
+        "https://telegra.ph/file/a4fb5616c060ef37c2b41.jpg",
+        "https://telegra.ph/file/0bc261b1f417696d929fe.jpg",
+        "https://telegra.ph/file/7a4b7cc0dcd40c355c4e9.jpg",
+        "https://telegra.ph/file/4bf7e2797d1e64d900ba2.jpg",
+        "https://telegra.ph/file/ba7f0e6cb3833089f8c49.jpg",
+        "https://telegra.ph/file/8e7d5dc8ad94324a0d16f.jpg",
+        "https://telegra.ph/file/4717a9038f5ae0511e11e.jpg",
+        "https://telegra.ph/file/ed71e1a1bb4385333ebc9.jpg",
+        "https://telegra.ph/file/c81616265b5483fd62244.jpg",
+        "https://telegra.ph/file/9a4e48c94ee1abb7c3d0b.jpg",
+        "https://telegra.ph/file/cc5500010e215caa644e1.jpg",
+        "https://telegra.ph/file/7e297dc9e1f5330441bec.jpg",
+        "https://telegra.ph/file/828a8792c49daf6b5c881.jpg",
+        "https://telegra.ph/file/1fba5f316bdd0a89f14ab.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

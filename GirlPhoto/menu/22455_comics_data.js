@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22455,
+    "title": "九言 修女2.0 24P5V286MB",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E4%BF%AE%E5%A5%B320-24P5V286MB-10-26",
+    "images": [
+        "https://image.acg.lol/file/2025/10/27/v-1.gif",
+        "https://image.acg.lol/file/2025/10/27/1-1.png",
+        "https://image.acg.lol/file/2025/10/27/1-2.png",
+        "https://image.acg.lol/file/2025/10/27/1-3.png",
+        "https://image.acg.lol/file/2025/10/27/1-4.png",
+        "https://image.acg.lol/file/2025/10/27/1-5.png",
+        "https://image.acg.lol/file/2025/10/27/1-6.png",
+        "https://image.acg.lol/file/2025/10/27/1-7.png",
+        "https://image.acg.lol/file/2025/10/27/1-8.png",
+        "https://image.acg.lol/file/2025/10/27/1-9.png",
+        "https://image.acg.lol/file/2025/10/27/1-10.png",
+        "https://image.acg.lol/file/2025/10/27/1-11.png",
+        "https://image.acg.lol/file/2025/10/27/1-12.png",
+        "https://image.acg.lol/file/2025/10/27/1-13.png",
+        "https://image.acg.lol/file/2025/10/27/1-14.png",
+        "https://image.acg.lol/file/2025/10/27/1-15.png",
+        "https://image.acg.lol/file/2025/10/27/1-16.png",
+        "https://image.acg.lol/file/2025/10/27/1-17.png",
+        "https://image.acg.lol/file/2025/10/27/1-18.png",
+        "https://image.acg.lol/file/2025/10/27/1-19.png",
+        "https://image.acg.lol/file/2025/10/27/1-20.png",
+        "https://image.acg.lol/file/2025/10/27/1-21.png",
+        "https://image.acg.lol/file/2025/10/27/1-22.png",
+        "https://image.acg.lol/file/2025/10/27/1-23.png"
+    ]
+};

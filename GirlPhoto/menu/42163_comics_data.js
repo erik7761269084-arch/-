@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42163,
+    "title": "Potato Godzilla - Cheongsam Baby",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-31-2",
+    "images": [
+        "https://i.ibb.co/VY3MfhBt/01-Cheongsam-Baby-Potato-Godzilla1-compress14.jpg",
+        "https://i.ibb.co/V0Ktfm7f/02-Cheongsam-Baby-Potato-Godzilla2-compress35.jpg",
+        "https://i.ibb.co/3yWHXVbr/03-Cheongsam-Baby-Potato-Godzilla3-compress98.jpg",
+        "https://i.ibb.co/gZ28ymN6/04-Cheongsam-Baby-Potato-Godzilla4-compress18.jpg",
+        "https://i.ibb.co/bMxbPhHd/05-Cheongsam-Baby-Potato-Godzilla5-compress93.jpg",
+        "https://i.ibb.co/M51kWgcs/06-Cheongsam-Baby-Potato-Godzilla6-compress99.jpg",
+        "https://i.ibb.co/prk8w6Xx/07-Cheongsam-Baby-Potato-Godzilla7-compress46.jpg",
+        "https://i.ibb.co/q3vXWCHF/08-Cheongsam-Baby-Potato-Godzilla8-compress9.jpg",
+        "https://i.ibb.co/m5MzkNRm/09-Cheongsam-Baby-Potato-Godzilla9-compress80.jpg",
+        "https://i.ibb.co/x8dhxXHV/10-Cheongsam-Baby-Potato-Godzilla10-compress28.jpg",
+        "https://i.ibb.co/GvhL7vvW/11-Cheongsam-Baby-Potato-Godzilla11-compress21.jpg",
+        "https://i.ibb.co/chgSxR9J/12-Cheongsam-Baby-Potato-Godzilla12-compress91.jpg",
+        "https://i.ibb.co/PswW4pQJ/13-Cheongsam-Baby-Potato-Godzilla13-compress50.jpg",
+        "https://i.ibb.co/W4hfw3J1/14-Cheongsam-Baby-Potato-Godzilla14-compress52.jpg",
+        "https://i.ibb.co/mrStSxJy/15-Cheongsam-Baby-Potato-Godzilla15-compress55.jpg",
+        "https://i.ibb.co/Y4nc7zRc/16-Cheongsam-Baby-Potato-Godzilla16-compress31.jpg",
+        "https://i.ibb.co/6J7qRN5D/17-Cheongsam-Baby-Potato-Godzilla17-compress19.jpg",
+        "https://i.ibb.co/Zp94kb74/18-Cheongsam-Baby-Potato-Godzilla18-compress12.jpg",
+        "https://i.ibb.co/43PwWv0/19-Cheongsam-Baby-Potato-Godzilla19-compress29.jpg",
+        "https://i.ibb.co/bRrtTyQg/20-Cheongsam-Baby-Potato-Godzilla20-compress55.jpg",
+        "https://i.ibb.co/ds9Yygkz/21-Cheongsam-Baby-Potato-Godzilla21-compress44.jpg",
+        "https://i.ibb.co/XftKqzDC/22-Cheongsam-Baby-Potato-Godzilla22-compress10.jpg",
+        "https://i.ibb.co/FbMJCrGz/23-Cheongsam-Baby-Potato-Godzilla23-compress49.jpg",
+        "https://i.ibb.co/cc2zL7PZ/24-Cheongsam-Baby-Potato-Godzilla24-compress35.jpg"
+    ]
+};

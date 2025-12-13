@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34633,
+    "title": "GMS [LEEHEE EXPRESS] LEBE-022 Set.01",
+    "sourceUrl": "https://telegra.ph/GMS-LEEHEE-EXPRESS-LEBE-022-Set01-07-04",
+    "images": [
+        "https://telegra.ph/file/1cc535ac4564cb448336f.jpg",
+        "https://telegra.ph/file/cf2a0634b264735eac541.jpg",
+        "https://telegra.ph/file/7289b139d3a20d856b4bd.jpg",
+        "https://telegra.ph/file/bb40a43cadd246dfc717e.jpg",
+        "https://telegra.ph/file/fabc51005fc6ff6a8f034.jpg",
+        "https://telegra.ph/file/f869a584adaa794d02643.jpg",
+        "https://telegra.ph/file/286e1a5a6b55ed0d3c3c8.jpg",
+        "https://telegra.ph/file/267ba377dd7c71fd36f95.jpg",
+        "https://telegra.ph/file/4ed6c2117862d3982ba11.jpg",
+        "https://telegra.ph/file/3c3220f209c54c486ff26.jpg",
+        "https://telegra.ph/file/065ff41fd4d8ff574e940.jpg",
+        "https://telegra.ph/file/20c07f96863f715f38709.jpg",
+        "https://telegra.ph/file/1d983873577bf3e6b1275.jpg",
+        "https://telegra.ph/file/634d3849dae20bb9feae7.jpg",
+        "https://telegra.ph/file/47278aed0e0a9128c28e2.jpg",
+        "https://telegra.ph/file/3cf4c1e2e78a355f30164.jpg",
+        "https://telegra.ph/file/6670736ba5ddc8ddd4f90.jpg",
+        "https://telegra.ph/file/9363bed860b517691ad41.jpg",
+        "https://telegra.ph/file/ef21b951ce4cc984fd0be.jpg",
+        "https://telegra.ph/file/0d34308b23cf1d656807b.jpg",
+        "https://telegra.ph/file/324133c1461bb5653ca5b.jpg",
+        "https://telegra.ph/file/e7d28f3fe194b544f79fe.jpg",
+        "https://telegra.ph/file/4cfd6b687af8ebc4b98c1.jpg",
+        "https://telegra.ph/file/8ab4e4d353115ececefff.jpg",
+        "https://telegra.ph/file/1fa502cceb154a850f8c6.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32836,
+    "title": "Cosplay Potato Godzilla 2B Bride",
+    "sourceUrl": "https://telegra.ph/Cosplay-Potato-Godzilla-2B-Bride-01-05",
+    "images": [
+        "https://telegra.ph/file/df54d5aa5e93b6f357b07.jpg",
+        "https://telegra.ph/file/24bc9fecb8ed08cde7f70.jpg",
+        "https://telegra.ph/file/d41b677d5d7665bb64cc8.jpg",
+        "https://telegra.ph/file/92b22a5b3a7d3190bcb05.jpg",
+        "https://telegra.ph/file/ae6443b43c1dc0ff53941.jpg",
+        "https://telegra.ph/file/be2ae1bbd5e787758dcaf.jpg",
+        "https://telegra.ph/file/19b234062f9026f153c27.jpg",
+        "https://telegra.ph/file/7bb94348d76018806f250.jpg",
+        "https://telegra.ph/file/aa96dc14afd0c1f2a3c3c.jpg",
+        "https://telegra.ph/file/d91db899a4a11ed4a8716.jpg",
+        "https://telegra.ph/file/66c1b158424bd678488b0.jpg",
+        "https://telegra.ph/file/5726f7efe5cfc82ee959b.jpg",
+        "https://telegra.ph/file/99afec8381ca59c41f533.jpg",
+        "https://telegra.ph/file/f6818a5acc74aa825bab7.jpg",
+        "https://telegra.ph/file/72a8ab067ada70ec77264.jpg",
+        "https://telegra.ph/file/103b15cf1a6bd7c2da23a.jpg",
+        "https://telegra.ph/file/dd8fae42d1dc9f9e49330.jpg",
+        "https://telegra.ph/file/5eca343f3e8bcfc4dc7b6.jpg",
+        "https://telegra.ph/file/0bca2131aa0d7cba6e559.jpg",
+        "https://telegra.ph/file/3b9f4ddf07a8940f43ce6.jpg",
+        "https://telegra.ph/file/ce4b5e6a06541b3d40d0a.jpg",
+        "https://telegra.ph/file/bc7c19cedb2487f73f055.jpg",
+        "https://telegra.ph/file/deb939311a40d05179729.jpg",
+        "https://telegra.ph/file/51d8ba9f78f735dda66c3.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

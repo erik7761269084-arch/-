@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30573,
+    "title": "Jeong Bomi 정보미, [BLUECAKE] Temptation + Bunny &#8211; Set.03",
+    "sourceUrl": "https://telegra.ph/Jeong-Bomi-정보미-BLUECAKE-Temptation--Bunny-8211-Set03-06-24",
+    "images": [
+        "https://telegra.ph/file/2d06de542306e2b92e571.jpg",
+        "https://telegra.ph/file/7116efaf8663479a62eab.jpg",
+        "https://telegra.ph/file/f4523c7f744836412fb3e.jpg",
+        "https://telegra.ph/file/136567a979263766adcab.jpg",
+        "https://telegra.ph/file/ada6bbd0d15a15271fa14.jpg",
+        "https://telegra.ph/file/ca66363fd64923c5617f4.jpg",
+        "https://telegra.ph/file/950282dfbf6a5b00c4561.jpg",
+        "https://telegra.ph/file/f66ca3652cbb534ca4784.jpg",
+        "https://telegra.ph/file/a9108d607f009abf2642c.jpg",
+        "https://telegra.ph/file/7e8ddf3539545911d607a.jpg",
+        "https://telegra.ph/file/2e3ed53ab9b45a14e472a.jpg",
+        "https://telegra.ph/file/91c99e1247604bef91afd.jpg",
+        "https://telegra.ph/file/5113af0c3fb7ff9ae5d21.jpg",
+        "https://telegra.ph/file/c04173a8f1720b4abaafc.jpg",
+        "https://telegra.ph/file/b177417dd8bc58d0cfac6.jpg",
+        "https://telegra.ph/file/6b40c1f41b37e78c2014a.jpg",
+        "https://telegra.ph/file/7db3581b64ef8077b5aa3.jpg",
+        "https://telegra.ph/file/9295c262ea7569b7a956d.jpg",
+        "https://telegra.ph/file/83e6b91c312621c39a33d.jpg",
+        "https://telegra.ph/file/84a7d0a65178046ec23db.jpg",
+        "https://telegra.ph/file/d80cd065621e3d6abc778.jpg",
+        "https://telegra.ph/file/6b849987a5463d7b7778e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

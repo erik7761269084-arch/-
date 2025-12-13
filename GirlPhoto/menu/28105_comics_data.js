@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 28105,
+    "title": "[Cos]Kuuko W - Houkusai Saber[25P]",
+    "sourceUrl": "https://telegra.ph/CosKuuko-W---Houkusai-Saber25P-11-25",
+    "images": [
+        "https://telegra.ph/file/fbfc0cef08627b1e57d8d.jpg",
+        "https://telegra.ph/file/943e0aa9775005197ff0d.jpg",
+        "https://telegra.ph/file/317e2b7f167192d357548.jpg",
+        "https://telegra.ph/file/72cc8bb117cef153f92ae.jpg",
+        "https://telegra.ph/file/5cef16c546a225eef97ba.jpg",
+        "https://telegra.ph/file/558878c29810ab6e7bd4a.jpg",
+        "https://telegra.ph/file/a4f7fd679cb8a56ff37cc.jpg",
+        "https://telegra.ph/file/ea21ae950733c780f4080.jpg",
+        "https://telegra.ph/file/1eb68c0fbafb3c34ca38a.jpg",
+        "https://telegra.ph/file/ea0beb189b5ebb2f2023d.jpg",
+        "https://telegra.ph/file/8056ca2f076bbd1aec935.jpg",
+        "https://telegra.ph/file/d7a922db045a43a053d21.jpg",
+        "https://telegra.ph/file/e6c87c7cdb350fa9a8ef8.jpg",
+        "https://telegra.ph/file/b732433717fd0b53bcc7e.jpg",
+        "https://telegra.ph/file/26e9400871155f8db3aa4.jpg",
+        "https://telegra.ph/file/1eb72f0fd0de24551804c.jpg",
+        "https://telegra.ph/file/6267866b8092bbb522176.jpg",
+        "https://telegra.ph/file/335b315ae2c3193800396.jpg",
+        "https://telegra.ph/file/e5991fbeaf82117f0b747.jpg",
+        "https://telegra.ph/file/ac942e3a3ed5102e6ceff.jpg",
+        "https://telegra.ph/file/2f9e37247e77bafa5fbc5.jpg",
+        "https://telegra.ph/file/e6c224e2c9bec88ae6aeb.jpg",
+        "https://telegra.ph/file/928dd19df9bd49c1d824b.jpg",
+        "https://telegra.ph/file/1331fbf527e78eda163a4.jpg",
+        "https://telegra.ph/file/53e401864715bd39945db.jpg",
+        "https://telegra.ph/file/ab06cdfd0f6b1d50694f5.jpg"
+    ]
+};

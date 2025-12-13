@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25815,
+    "title": "木棉棉 – 水波温柔 [24P]",
+    "sourceUrl": "https://telegra.ph/%E6%9C%A8%E6%A3%89%E6%A3%89--%E6%B0%B4%E6%B3%A2%E6%B8%A9%E6%9F%94-24P-04-19",
+    "images": [
+        "https://telegra.ph/file/4c54a08ca3d87ee8d56f3.jpg",
+        "https://telegra.ph/file/fb4a5d944a02e01a542e3.jpg",
+        "https://telegra.ph/file/51cb0a22a26f716cac6f7.jpg",
+        "https://telegra.ph/file/03c8d77b059a35f049c92.jpg",
+        "https://telegra.ph/file/5156d9f14ace94e2ce354.jpg",
+        "https://telegra.ph/file/603575ef85647a711564a.jpg",
+        "https://telegra.ph/file/5de7e586171fb336a867b.jpg",
+        "https://telegra.ph/file/e30fbe751bfd24089dcba.jpg",
+        "https://telegra.ph/file/15f3abc54a46c8b858c11.jpg",
+        "https://telegra.ph/file/1708a4ae6889aa0f68d9d.jpg",
+        "https://telegra.ph/file/88becc5d55f07182ed00d.jpg",
+        "https://telegra.ph/file/fadca2172a37a5072378d.jpg",
+        "https://telegra.ph/file/1f55e3768172d52078f42.jpg",
+        "https://telegra.ph/file/3e9af9701509a5555c694.jpg",
+        "https://telegra.ph/file/e682407cafb07e818b24f.jpg",
+        "https://telegra.ph/file/ddf34020cefe3b2bbf711.jpg",
+        "https://telegra.ph/file/d6ea80e02ece7c13e4892.jpg",
+        "https://telegra.ph/file/a37daa8ed5b8135a29e85.jpg",
+        "https://telegra.ph/file/47a90dffcf1f72d740ba1.jpg",
+        "https://telegra.ph/file/420cb62659968c2c35e40.jpg",
+        "https://telegra.ph/file/8f640859e7e1914f50e8a.jpg",
+        "https://telegra.ph/file/02b240bbcfac686fd1103.jpg",
+        "https://telegra.ph/file/97f0f6eb6408c38431421.jpg",
+        "https://telegra.ph/file/778f0c224aeb4f5fb27d3.jpg"
+    ]
+};

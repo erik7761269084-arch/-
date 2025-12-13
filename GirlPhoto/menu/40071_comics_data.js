@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40071,
+    "title": "KuukoW - Cheshire (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Cheshire-Azur-Lane-01-02",
+    "images": [
+        "https://telegra.ph/file/23babc656132335e126b4.jpg",
+        "https://telegra.ph/file/fc08df69f4a64dbec26a9.jpg",
+        "https://telegra.ph/file/fcee5868bcc1c95937c88.jpg",
+        "https://telegra.ph/file/2c155024d2ff8fde03bf4.jpg",
+        "https://telegra.ph/file/d9e1210852b164c8d1c7e.jpg",
+        "https://telegra.ph/file/e167f1ae023fbf095a431.jpg",
+        "https://telegra.ph/file/d884708addfde543a7727.jpg",
+        "https://telegra.ph/file/320133698e756c2b5dd10.jpg",
+        "https://telegra.ph/file/5015ed7d39ffa56f5fd48.jpg",
+        "https://telegra.ph/file/44b08dc5ce2b7cd7c23fb.jpg",
+        "https://telegra.ph/file/e72f84422b9ece7cb8a55.jpg",
+        "https://telegra.ph/file/16f163c7dd041e329ca6b.jpg",
+        "https://telegra.ph/file/1e4aedcf11a4abe6961f9.jpg",
+        "https://telegra.ph/file/eaf0aae1152023ec6d004.jpg",
+        "https://telegra.ph/file/51a408303f0498222215a.jpg",
+        "https://telegra.ph/file/e66a4a0d191712059c13b.jpg",
+        "https://telegra.ph/file/a72c23e703eaee606ab1d.jpg",
+        "https://telegra.ph/file/ff6a0514a8d315e0f6678.jpg",
+        "https://telegra.ph/file/abe41dea0eb0fb35ae1fd.jpg",
+        "https://telegra.ph/file/e81eca30e1f6a0a58f6b7.jpg",
+        "https://telegra.ph/file/7f103cc7c9f7d57854a3b.jpg",
+        "https://telegra.ph/file/d312d897204f7ebf766f5.jpg",
+        "https://telegra.ph/file/a2f4cc22e7b1996472d5f.jpg",
+        "https://telegra.ph/file/61b733e5eadb1edb0d497.jpg",
+        "https://telegra.ph/file/2e50d02fd90c39869d500.jpg"
+    ]
+};

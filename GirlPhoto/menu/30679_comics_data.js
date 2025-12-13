@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30679,
+    "title": "Asuka Fukuda 福田明日香, 写真集 「ＰＡＳＳＩＯＮＡＢＬＥ」 Set.04",
+    "sourceUrl": "https://telegra.ph/Asuka-Fukuda-福田明日香-写真集-ＰＡＳＳＩＯＮＡＢＬＥ-Set04-07-03",
+    "images": [
+        "https://telegra.ph/file/92fded6bc4721339ead93.jpg",
+        "https://telegra.ph/file/a7a0c14901e0c002c1d77.jpg",
+        "https://telegra.ph/file/e3806ab264d6cf6a2b716.jpg",
+        "https://telegra.ph/file/dac5894f80b7c69df1963.jpg",
+        "https://telegra.ph/file/a9e4db94606590947f402.jpg",
+        "https://telegra.ph/file/ca705ad1368cf9b920c3a.jpg",
+        "https://telegra.ph/file/18e702cf9b8c11233e1a4.jpg",
+        "https://telegra.ph/file/164c5d51e55c741a1a232.jpg",
+        "https://telegra.ph/file/d1704bf256d505660ca60.jpg",
+        "https://telegra.ph/file/9d007f99c8f765c68385c.jpg",
+        "https://telegra.ph/file/3316162d6cbbc3d6bb20f.jpg",
+        "https://telegra.ph/file/2eb1b047d5d566702c0fb.jpg",
+        "https://telegra.ph/file/f5d3342379c3a06250a5e.jpg",
+        "https://telegra.ph/file/d63c6f0aa60e0b2e22541.jpg",
+        "https://telegra.ph/file/00c6de0c95c22da920252.jpg",
+        "https://telegra.ph/file/943ff08750110fb6ebad1.jpg",
+        "https://telegra.ph/file/07f51eb2e963d40e69f96.jpg",
+        "https://telegra.ph/file/3de7dbbf455893aa6791e.jpg",
+        "https://telegra.ph/file/5d5d3d96caa01a56d735c.jpg",
+        "https://telegra.ph/file/abc367a7400d5e5ed8e24.jpg",
+        "https://telegra.ph/file/08a0bc60bf6ef7e159700.jpg",
+        "https://telegra.ph/file/766b96c21617e611ab982.jpg",
+        "https://telegra.ph/file/8db8deebbde77ad57eecd.jpg",
+        "https://telegra.ph/file/5b2b75085f5939654529c.jpg",
+        "https://telegra.ph/file/4faea2ef524da50de2c0f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

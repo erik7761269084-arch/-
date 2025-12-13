@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 24310,
+    "title": "阿包也是兔娘 - 蒂法[24P]",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98---%E8%92%82%E6%B3%9524P-01-12",
+    "images": [
+        "https://telegra.ph/file/269241688734443101114.jpg",
+        "https://telegra.ph/file/0d972cb4d1ce7e6b17cb9.jpg",
+        "https://telegra.ph/file/dd876d42ada1e5fbbb12e.jpg",
+        "https://telegra.ph/file/e3df8e2742a5e7655e5eb.jpg",
+        "https://telegra.ph/file/5f44c7c3fb8a651824922.jpg",
+        "https://telegra.ph/file/dd541ab99beb3dadca3c3.jpg",
+        "https://telegra.ph/file/29456502ca345f07d87e3.jpg",
+        "https://telegra.ph/file/c678b67b1761c8a3ac9b0.jpg",
+        "https://telegra.ph/file/61f606d26f762ee524c34.jpg",
+        "https://telegra.ph/file/a3dee5d156ca3de130b03.jpg",
+        "https://telegra.ph/file/82826f22670b34c76fcb1.jpg",
+        "https://telegra.ph/file/ddb589a4d61b6e2e0968a.jpg",
+        "https://telegra.ph/file/46da0a3233d4cc7c5d928.jpg",
+        "https://telegra.ph/file/c0680863c28abc5b7df1f.jpg",
+        "https://telegra.ph/file/3678d4a082283c1e73a84.jpg",
+        "https://telegra.ph/file/ba7a772e9a75b8eb56cb4.jpg",
+        "https://telegra.ph/file/52570264a2c4427b7e08a.jpg",
+        "https://telegra.ph/file/51b78f5eece66452a2026.jpg",
+        "https://telegra.ph/file/2957daf35f3c5461bbbac.jpg",
+        "https://telegra.ph/file/4167c5261539db56da67a.jpg",
+        "https://telegra.ph/file/2ed2ad4f2414b68644df6.jpg",
+        "https://telegra.ph/file/00694228df28b488c4d83.jpg",
+        "https://telegra.ph/file/78cc7073ed2366a0a4229.jpg",
+        "https://telegra.ph/file/db9de22ec8ace9775f49d.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38993,
+    "title": "UyUy - Signora (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/UyUy---Signora-Genshin-Impact-04-05",
+    "images": [
+        "https://telegra.ph/file/c8f08031145209208471e.jpg",
+        "https://telegra.ph/file/fdb28cd2c67392b5f6fe2.jpg",
+        "https://telegra.ph/file/ca6d54f1dc1565efe1183.jpg",
+        "https://telegra.ph/file/0780540c8ecea3e825c34.jpg",
+        "https://telegra.ph/file/0866bf3f5284da66a4f4c.jpg",
+        "https://telegra.ph/file/980ba07f4158c01e42b6b.jpg",
+        "https://telegra.ph/file/558a5717a93b7c5e77e65.jpg",
+        "https://telegra.ph/file/7f01db12d64d487308b25.jpg",
+        "https://telegra.ph/file/07a441c1960a343bb2301.jpg",
+        "https://telegra.ph/file/97e30bfcc9b9dc2ab68d9.jpg",
+        "https://telegra.ph/file/b60ffc549f62fb85c958b.jpg",
+        "https://telegra.ph/file/5e8a5b55c4324b33982bc.jpg",
+        "https://telegra.ph/file/25dc31563000696051405.jpg",
+        "https://telegra.ph/file/a84ab4e3518c42b60f986.jpg",
+        "https://telegra.ph/file/bc64720d1c5c0efd4c9a2.jpg",
+        "https://telegra.ph/file/18b849efaf883559c3755.jpg",
+        "https://telegra.ph/file/4c7bc1a68f67041d714dd.jpg",
+        "https://telegra.ph/file/c024d099368937744e79d.jpg",
+        "https://telegra.ph/file/5564eb53fe91ed82b5812.jpg",
+        "https://telegra.ph/file/742f7bc986a5b7fbfec83.jpg",
+        "https://telegra.ph/file/b4dd18d0c9efb38b70dc5.jpg",
+        "https://telegra.ph/file/3b2b7807479c3a18a8ad2.jpg",
+        "https://telegra.ph/file/61a2f26e9d3dd3188cfba.jpg"
+    ]
+};

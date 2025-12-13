@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35975,
+    "title": "Cosplay 小琪Aki Dark Nurse",
+    "sourceUrl": "https://telegra.ph/Cosplay-小琪Aki-Dark-Nurse-11-16",
+    "images": [
+        "https://telegra.ph/file/4614f8fb1061f59ac8432.jpg",
+        "https://telegra.ph/file/511372736860766b8aff2.jpg",
+        "https://telegra.ph/file/309d8fdf75f58e2e0b937.jpg",
+        "https://telegra.ph/file/aa2b117c35d8fb8e419a3.jpg",
+        "https://telegra.ph/file/22098d29b3e6844c0fa60.jpg",
+        "https://telegra.ph/file/3a8c288a42a7126b0f15d.jpg",
+        "https://telegra.ph/file/9b26f85a228ac1dc88c5b.jpg",
+        "https://telegra.ph/file/8b5d0c8e2fd4bf0a9de38.jpg",
+        "https://telegra.ph/file/79d89fbab9f0a9cf89504.jpg",
+        "https://telegra.ph/file/f5f4145f0bf1914525bfb.jpg",
+        "https://telegra.ph/file/5dc2f8f30d9f9e7d8317b.jpg",
+        "https://telegra.ph/file/f4ed4f4c48ef19e41d62b.jpg",
+        "https://telegra.ph/file/5313042ad36d1563f74e1.jpg",
+        "https://telegra.ph/file/d1ca77c3c169e9728bc8a.jpg",
+        "https://telegra.ph/file/ebaf9193a26308c35a3c4.jpg",
+        "https://telegra.ph/file/c529da099936114666040.jpg",
+        "https://telegra.ph/file/0513dbadd91b18abb1a8a.jpg",
+        "https://telegra.ph/file/e685aa452e26f280871dc.jpg",
+        "https://telegra.ph/file/9b00a27e15c03eb0aa58d.jpg",
+        "https://telegra.ph/file/4cb1b557d13d72edfc445.jpg",
+        "https://telegra.ph/file/cfe568d678b400d3397ed.jpg",
+        "https://telegra.ph/file/e2bc786eccd447dff58b5.jpg",
+        "https://telegra.ph/file/230aab1dc8c8666e5c724.jpg",
+        "https://telegra.ph/file/c41de6f0b020941868430.jpg",
+        "https://telegra.ph/file/c3b14ad4232f8cb2fc581.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40139,
+    "title": "Carry Key - Marin Kitagawa (Sono Bisque Doll Wa Koi Wo Suru)",
+    "sourceUrl": "https://telegra.ph/Carry-Key---Marin-Kitagawa-Sono-Bisque-Doll-Wa-Koi-Wo-Suru-01-20-2",
+    "images": [
+        "https://telegra.ph/file/ffa658cf0cd1fc20c76df.jpg",
+        "https://telegra.ph/file/e4e00376c2bec706140e5.jpg",
+        "https://telegra.ph/file/eb1b89dbeb3888cd78164.jpg",
+        "https://telegra.ph/file/35f597a9af80dc90afc90.jpg",
+        "https://telegra.ph/file/9c2f47fb47f64e67ac07c.jpg",
+        "https://telegra.ph/file/60aa30071519b3fdc4f7c.jpg",
+        "https://telegra.ph/file/f31655c4c6c9db9e343ed.jpg",
+        "https://telegra.ph/file/290d996a6a723bae94aa0.jpg",
+        "https://telegra.ph/file/c8c2c1b34f12d905db77a.jpg",
+        "https://telegra.ph/file/03c54fca203c0f40a3d75.jpg",
+        "https://telegra.ph/file/70e104afa50443d289b30.jpg",
+        "https://telegra.ph/file/ca41d41ae05e42319a2f9.jpg",
+        "https://telegra.ph/file/55145e451ce3d679114b1.jpg",
+        "https://telegra.ph/file/a8e5c91dd3fc4f8336d1e.jpg",
+        "https://telegra.ph/file/b0bffe02bffc669ae0ed0.jpg",
+        "https://telegra.ph/file/2ccc01f4e8a5870bee6e9.jpg",
+        "https://telegra.ph/file/fbc613fd7b147cfdc7e23.jpg",
+        "https://telegra.ph/file/52c27c950fb575159eabd.jpg",
+        "https://telegra.ph/file/49f91c78258bd3a3041ff.jpg",
+        "https://telegra.ph/file/580374377d72f065e39e7.jpg",
+        "https://telegra.ph/file/bd31bd231ba74e32a22c3.jpg",
+        "https://telegra.ph/file/1b70192547821f542bb7d.jpg",
+        "https://telegra.ph/file/b1a1134683fee1e728994.jpg"
+    ]
+};

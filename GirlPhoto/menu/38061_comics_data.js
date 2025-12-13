@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38061,
+    "title": "Momoiro Reku - Asuka Shikinami (Neon Genesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/Momoiro-Reku---Asuka-Shikinami-Neon-Genesis-Evangelion-07-18",
+    "images": [
+        "https://telegra.ph/file/ee784da69b3968e52dd93.jpg",
+        "https://telegra.ph/file/1e0d26977772db36f412f.jpg",
+        "https://telegra.ph/file/94660517e58ca9a4d4ff1.jpg",
+        "https://telegra.ph/file/d78e6578c5f5ddb1b4b46.jpg",
+        "https://telegra.ph/file/a3ffd1203f42727b2e25b.jpg",
+        "https://telegra.ph/file/d74cc3eae1e33c1377b3b.jpg",
+        "https://telegra.ph/file/a8aa134fd4f4948a635c3.jpg",
+        "https://telegra.ph/file/04712b0e41a3e15452f80.jpg",
+        "https://telegra.ph/file/1c9742bdaac3c859e00ee.jpg",
+        "https://telegra.ph/file/63454729b12d1d82104d0.jpg",
+        "https://telegra.ph/file/a1098b2190eb1e1e36d4b.jpg",
+        "https://telegra.ph/file/395796067a4daceebc2ac.jpg",
+        "https://telegra.ph/file/c9a65542cb27ebf6064de.jpg",
+        "https://telegra.ph/file/21dce67dd11839affb249.jpg",
+        "https://telegra.ph/file/4639c12037f786db9145d.jpg",
+        "https://telegra.ph/file/1326e51c7dd299078847c.jpg",
+        "https://telegra.ph/file/f42c5b189392be80ee54a.jpg",
+        "https://telegra.ph/file/c874626c78d898f85abd7.jpg",
+        "https://telegra.ph/file/c5077ca6fc7f273a64aa7.jpg",
+        "https://telegra.ph/file/8610e00dbccb2e09beaec.jpg",
+        "https://telegra.ph/file/597029d35f7f4385d88cb.jpg",
+        "https://telegra.ph/file/61d6b7c5ee713a3e92490.jpg",
+        "https://telegra.ph/file/b66cb70c43e5af7a3dc4c.jpg",
+        "https://telegra.ph/file/829a991865c89fbde4acb.jpg",
+        "https://telegra.ph/file/01fcfcdd02ddf9712125e.jpg",
+        "https://telegra.ph/file/8676bb2c9e6fac7470816.jpg"
+    ]
+};

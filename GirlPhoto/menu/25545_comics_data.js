@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25545,
+    "title": "萌白酱-jk制服 17.12.13[25P]",
+    "sourceUrl": "https://telegra.ph/%E8%90%8C%E7%99%BD%E9%85%B1-jk%E5%88%B6%E6%9C%8D-17121325P-07-26",
+    "images": [
+        "https://telegra.ph/file/13ab6b9166dbdc574e3f4.jpg",
+        "https://telegra.ph/file/f1dff05ecc7caf1623f4e.jpg",
+        "https://telegra.ph/file/2fb8ff239573bc11516e6.jpg",
+        "https://telegra.ph/file/c9b74b37d46ffcdbe91c8.jpg",
+        "https://telegra.ph/file/b201555636684744bc370.jpg",
+        "https://telegra.ph/file/467f888f5720532e3e003.jpg",
+        "https://telegra.ph/file/8788cb01eda0d58bbf158.jpg",
+        "https://telegra.ph/file/79881b3ad6624dd879cfa.jpg",
+        "https://telegra.ph/file/b3e06d00ddb2881c30051.jpg",
+        "https://telegra.ph/file/db5981782055f3b37a012.jpg",
+        "https://telegra.ph/file/12c23eabbf025afea531d.jpg",
+        "https://telegra.ph/file/5d8546f6b85de7482b44c.jpg",
+        "https://telegra.ph/file/efef05997470a0ce93465.jpg",
+        "https://telegra.ph/file/bd78fa4eb1e8a5da1ff29.jpg",
+        "https://telegra.ph/file/b76cc22cd4eeb5dadda85.jpg",
+        "https://telegra.ph/file/752233c12e2d344472fa7.jpg",
+        "https://telegra.ph/file/b616bd45ea31c3f1cbcdc.jpg",
+        "https://telegra.ph/file/012b6049c5437f8b89d52.jpg",
+        "https://telegra.ph/file/6e8abd87b5a64361b5f6a.jpg",
+        "https://telegra.ph/file/fe4241c086da91ad2f7b6.jpg",
+        "https://telegra.ph/file/cec6df2b2789d8f2ffe97.jpg",
+        "https://telegra.ph/file/739a3d20f0ab227da5e4e.jpg",
+        "https://telegra.ph/file/df0621925dbb4bab7c978.jpg",
+        "https://telegra.ph/file/bbe21da37517381139689.jpg",
+        "https://telegra.ph/file/003109c8468bb26ce9d8d.jpg"
+    ]
+};

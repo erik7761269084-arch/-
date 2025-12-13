@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33031,
+    "title": "Sehee 세희, [JOApictures] Sehee (세희) x JOA 20. AUGUST Vol.2 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/Sehee-세희-JOApictures-Sehee-세희-x-JOA-20-AUGUST-Vol2-8211-Set02-01-24",
+    "images": [
+        "https://telegra.ph/file/cd20b510b3c81d5dbf2bc.jpg",
+        "https://telegra.ph/file/7a472d1e971fa64095cd1.jpg",
+        "https://telegra.ph/file/0b8bd50d501a9f7907854.jpg",
+        "https://telegra.ph/file/448aa55bffafd97838002.jpg",
+        "https://telegra.ph/file/4db8e873089bb5b79d6e1.jpg",
+        "https://telegra.ph/file/1265a5c97ebca2f768a9e.jpg",
+        "https://telegra.ph/file/4a3be77c1c33633281ea9.jpg",
+        "https://telegra.ph/file/2a8e56538ef4dcc1f21ce.jpg",
+        "https://telegra.ph/file/88c7142f76dd71956f8d1.jpg",
+        "https://telegra.ph/file/8ed61d0f1e2acae12bbcd.jpg",
+        "https://telegra.ph/file/4f59fee5970ba70b472fa.jpg",
+        "https://telegra.ph/file/1bc7dfe96426f85f5897e.jpg",
+        "https://telegra.ph/file/aeae1b6e7a499d9b6d197.jpg",
+        "https://telegra.ph/file/d73ecf7f0466f03e04538.jpg",
+        "https://telegra.ph/file/f30e7cac0dff6d69babcb.jpg",
+        "https://telegra.ph/file/058fa27306c34ea7ce943.jpg",
+        "https://telegra.ph/file/be55f0c1d7c513dcfd80f.jpg",
+        "https://telegra.ph/file/9f9f94045618f296f4200.jpg",
+        "https://telegra.ph/file/8009d33f28632acc66947.jpg",
+        "https://telegra.ph/file/6401c996835329913da57.jpg",
+        "https://telegra.ph/file/e47fdeea718aa6f7ec3e1.jpg",
+        "https://telegra.ph/file/b51558d48b761b0f61750.jpg",
+        "https://telegra.ph/file/fcf17d18f76fba2d82cb6.jpg",
+        "https://telegra.ph/file/7e94634334338fe64debc.jpg",
+        "https://telegra.ph/file/fe7f141581da3a263aac3.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

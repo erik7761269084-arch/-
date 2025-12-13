@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31395,
+    "title": "浵卡Tokar Cosplay Laurus No.001 Sexy Lingerie Maid",
+    "sourceUrl": "https://telegra.ph/浵卡Tokar-Cosplay-Laurus-No001-Sexy-Lingerie-Maid-08-16",
+    "images": [
+        "https://telegra.ph/file/76364a45637da3662f789.jpg",
+        "https://telegra.ph/file/64ccd9ee1977b4f7f9d22.jpg",
+        "https://telegra.ph/file/13ff36c3c51a69c8bd6e8.jpg",
+        "https://telegra.ph/file/4acdf2e26917ac24d3b87.jpg",
+        "https://telegra.ph/file/ceab6ba06a4baef169c56.jpg",
+        "https://telegra.ph/file/9f25fad58f12127c911ad.jpg",
+        "https://telegra.ph/file/d0c5f49b03d57309830f1.jpg",
+        "https://telegra.ph/file/6166d3ebc717321f50b42.jpg",
+        "https://telegra.ph/file/0bde9e2868c7652274e00.jpg",
+        "https://telegra.ph/file/85964345040428ccd0d65.jpg",
+        "https://telegra.ph/file/ecfa24688027c05e0aee0.jpg",
+        "https://telegra.ph/file/bfc39a230e1bd851c631e.jpg",
+        "https://telegra.ph/file/860b99740139d21a57485.jpg",
+        "https://telegra.ph/file/adc13831a7db1123f8563.jpg",
+        "https://telegra.ph/file/aba6998c836ae149a2631.jpg",
+        "https://telegra.ph/file/e70a2d460b80e0c7368b4.jpg",
+        "https://telegra.ph/file/8a227dca321908b85e1dd.jpg",
+        "https://telegra.ph/file/9a2e7f3344a62f6fdd6d1.jpg",
+        "https://telegra.ph/file/0b9782a7ecc73c8f248f1.jpg",
+        "https://telegra.ph/file/bb080bd25e22b36d8cb4c.jpg",
+        "https://telegra.ph/file/61c4ef6d2dcc25f3232c5.jpg",
+        "https://telegra.ph/file/e747b25a34ab544c11d94.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

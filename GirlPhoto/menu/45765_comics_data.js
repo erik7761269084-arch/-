@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45765,
+    "title": "Byoru - Mitsuri Kanroji - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru---Mitsuri-Kanroji---Page-1-10-23",
+    "images": [
+        "https://telegra.ph/file/063320e4db6b2321af665.jpg",
+        "https://telegra.ph/file/7b6df5de258c856c49490.jpg",
+        "https://telegra.ph/file/f842fe09fdf57f2486703.jpg",
+        "https://telegra.ph/file/94399d60ec89d27490e9c.jpg",
+        "https://telegra.ph/file/f62a56b914c43433a5dca.jpg",
+        "https://telegra.ph/file/450bc1efa31090282d24f.jpg",
+        "https://telegra.ph/file/3b3b5ebbac389545272c8.jpg",
+        "https://telegra.ph/file/d96c55935393d117f95d4.jpg",
+        "https://telegra.ph/file/cf3469619563b950334f1.jpg",
+        "https://telegra.ph/file/6e8381342738138c81d57.jpg",
+        "https://telegra.ph/file/1aa8d023a54581355242d.jpg",
+        "https://telegra.ph/file/73ff4c9bfddd830506e66.jpg",
+        "https://telegra.ph/file/3d479c895e46bb83e4dbc.jpg",
+        "https://telegra.ph/file/3caa20767179118128657.jpg",
+        "https://telegra.ph/file/34652666da23f4a815bed.jpg",
+        "https://telegra.ph/file/106384bb4138eb26c5f2c.jpg",
+        "https://telegra.ph/file/ddbc4364719051624afae.jpg",
+        "https://telegra.ph/file/fb1ec774e647a7db3e68c.jpg",
+        "https://telegra.ph/file/ac9df694988fc2abfe427.jpg",
+        "https://telegra.ph/file/f1fb70b7824286972231e.jpg",
+        "https://telegra.ph/file/7bd3cb7507ae1bb811174.jpg",
+        "https://telegra.ph/file/a39f0a9a926db89f48412.jpg",
+        "https://telegra.ph/file/5eb3ea9260276cc132d6d.jpg"
+    ]
+};

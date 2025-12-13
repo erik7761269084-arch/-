@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25284,
+    "title": "金鱼kinngyo - 绘画物语",
+    "sourceUrl": "https://telegra.ph/%E9%87%91%E9%B1%BCkinngyo---%E7%BB%98%E7%94%BB%E7%89%A9%E8%AF%AD-09-30",
+    "images": [
+        "https://telegra.ph/file/29a0fbf02a9259490986d.jpg",
+        "https://telegra.ph/file/4fafa71d1d439a92e927f.jpg",
+        "https://telegra.ph/file/fa4b9a7961b2d2b5f0de3.jpg",
+        "https://telegra.ph/file/55e28d90a488f62974ee1.jpg",
+        "https://telegra.ph/file/d6f92a2e038b9652bc8b0.jpg",
+        "https://telegra.ph/file/db710d88715c5eb226b9f.jpg",
+        "https://telegra.ph/file/5916c2f08b8d18110f29f.jpg",
+        "https://telegra.ph/file/cec868f8dc5fc02d74b5d.jpg",
+        "https://telegra.ph/file/453e851954547a5dd7c49.jpg",
+        "https://telegra.ph/file/fc5910b49c99c5fafebf4.jpg",
+        "https://telegra.ph/file/008b00995fd83d86bc86a.jpg",
+        "https://telegra.ph/file/ac77b9423746078ac5f52.jpg",
+        "https://telegra.ph/file/51de85cba194404b4c029.jpg",
+        "https://telegra.ph/file/0de60e270eb25b8a00f68.jpg",
+        "https://telegra.ph/file/733e41eb4000d98af2254.jpg",
+        "https://telegra.ph/file/4164473cbf807a2620d2d.jpg",
+        "https://telegra.ph/file/263544e81081478761fdd.jpg",
+        "https://telegra.ph/file/d5ada14fdbbdfedbe6e26.jpg",
+        "https://telegra.ph/file/abe9f718d0af991b26abe.jpg",
+        "https://telegra.ph/file/1da749fcd103502bf5fa3.jpg",
+        "https://telegra.ph/file/2f90a4551d617544f4d0d.jpg",
+        "https://telegra.ph/file/9b35c7ea2190514a5ee44.jpg",
+        "https://telegra.ph/file/84562b6c82390c1d192bb.jpg"
+    ]
+};

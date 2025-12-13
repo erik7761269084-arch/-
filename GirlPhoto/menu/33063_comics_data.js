@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33063,
+    "title": "香草喵露露 Cosplay 饼饼和香草喵",
+    "sourceUrl": "https://telegra.ph/香草喵露露-Cosplay-饼饼和香草喵-01-27",
+    "images": [
+        "https://telegra.ph/file/f1f66e72b049566b2b25d.jpg",
+        "https://telegra.ph/file/0f406129a9e436a98601f.jpg",
+        "https://telegra.ph/file/defbaf02267bba1dccf8a.jpg",
+        "https://telegra.ph/file/26a6ebb288e39a261ed2a.jpg",
+        "https://telegra.ph/file/32add2a314a9d938e98e8.jpg",
+        "https://telegra.ph/file/db9e6f65c395145d4cad2.jpg",
+        "https://telegra.ph/file/962e6dab0e83649c7a586.jpg",
+        "https://telegra.ph/file/e1d80d052d6398b941d4f.jpg",
+        "https://telegra.ph/file/b0b29126e7a6617387ed8.jpg",
+        "https://telegra.ph/file/f11129f44d2d66215e876.jpg",
+        "https://telegra.ph/file/d8237b023242032ffb00d.jpg",
+        "https://telegra.ph/file/a8d784223f143ad5238ef.jpg",
+        "https://telegra.ph/file/7140f9188abad862486ce.jpg",
+        "https://telegra.ph/file/73714a364fee302fc44b6.jpg",
+        "https://telegra.ph/file/e41901c2f151c4f8d313e.jpg",
+        "https://telegra.ph/file/65dd614e091370fb0aa9d.jpg",
+        "https://telegra.ph/file/7555105894c6e9d195776.jpg",
+        "https://telegra.ph/file/85112240c42dea0c5469c.jpg",
+        "https://telegra.ph/file/61409e1ac556ec173130a.jpg",
+        "https://telegra.ph/file/5a0e5f23ffdb0df4c0326.jpg",
+        "https://telegra.ph/file/a54dafebc0105acf0bf76.jpg",
+        "https://telegra.ph/file/17944c6e692acb619bd01.jpg",
+        "https://telegra.ph/file/e3d807572b01a26318628.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

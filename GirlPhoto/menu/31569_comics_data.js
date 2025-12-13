@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31569,
+    "title": "[Potato Godzilla ポテトゴジラ] St Louis (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla-ポテトゴジラ-St-Louis-Azur-Lane-08-16",
+    "images": [
+        "https://telegra.ph/file/0f40a9a16254f727be5a3.jpg",
+        "https://telegra.ph/file/0990990f9a5123e324812.jpg",
+        "https://telegra.ph/file/a3ea3a6e5a8bc5a825690.jpg",
+        "https://telegra.ph/file/6702b8eaef7fe6eb44cbe.jpg",
+        "https://telegra.ph/file/4f53c49487c2284e6ee52.jpg",
+        "https://telegra.ph/file/6fe6166611fe5c7fecf79.jpg",
+        "https://telegra.ph/file/ba01140c6f1a90d8b460e.jpg",
+        "https://telegra.ph/file/2e81a53bef41685abc922.jpg",
+        "https://telegra.ph/file/ebdba59c1039c94e4b6fc.jpg",
+        "https://telegra.ph/file/0dc78145f9bcd0a6de127.jpg",
+        "https://telegra.ph/file/c50bc207f03eeaa3b7646.jpg",
+        "https://telegra.ph/file/df006a979b57bf6181983.jpg",
+        "https://telegra.ph/file/306bd99ab4657612e7fd6.jpg",
+        "https://telegra.ph/file/dfeca8abdf2f3b89f3e2c.jpg",
+        "https://telegra.ph/file/9fcb94d7cfc08ac1ad74b.jpg",
+        "https://telegra.ph/file/6854313b731a0571d2bf0.jpg",
+        "https://telegra.ph/file/9efd2bea4cc4d6d66117f.jpg",
+        "https://telegra.ph/file/ea9ecd605c964bdb9c3c9.jpg",
+        "https://telegra.ph/file/5524f0ac1f3daa0d87464.jpg",
+        "https://telegra.ph/file/33a2a507aa72f01e8a84d.jpg",
+        "https://telegra.ph/file/4066302b26d5e1843e8ef.jpg",
+        "https://telegra.ph/file/273654fe2c7d170a02d08.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

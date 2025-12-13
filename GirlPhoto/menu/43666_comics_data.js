@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43666,
+    "title": "迷之呆梨(发条少女) - 卒業温泉旅行 [24P／126MB]",
+    "sourceUrl": "https://telegra.ph/%E8%BF%B7%E4%B9%8B%E5%91%86%E6%A2%A8%E5%8F%91%E6%9D%A1%E5%B0%91%E5%A5%B3---%E5%8D%92%E6%A5%AD%E6%B8%A9%E6%B3%89%E6%97%85%E8%A1%8C-24P126MB-04-25",
+    "images": [
+        "https://telegra.ph/file/696f1dc6e23e104d57c8b.png",
+        "https://telegra.ph/file/8dc8d667c79f6cbc5b6a3.png",
+        "https://telegra.ph/file/67a46fd230d1e8ef21480.png",
+        "https://telegra.ph/file/46c22f665e2dfd9b505a7.png",
+        "https://telegra.ph/file/a23f1bb684c39d74f8234.png",
+        "https://telegra.ph/file/7a89c7c84725a8bdcd921.png",
+        "https://telegra.ph/file/9fc7f37a0b2b1c13a5e7c.png",
+        "https://telegra.ph/file/02dca8075737cd846029d.png",
+        "https://telegra.ph/file/d6c7dc177ffbd50646ca8.png",
+        "https://telegra.ph/file/af0ab0734f9980fa41308.png",
+        "https://telegra.ph/file/75a5e733b2916d5d1bf7c.png",
+        "https://telegra.ph/file/c5d788eeb49fcc467b92b.png",
+        "https://telegra.ph/file/e79daeb51e3b6b66ec471.png",
+        "https://telegra.ph/file/2830b1181d77d23f17232.png",
+        "https://telegra.ph/file/84b91fa502a8231f80750.png",
+        "https://telegra.ph/file/3a64e90f2d3f8bec6a121.png",
+        "https://telegra.ph/file/14e30644dd840506167dc.png",
+        "https://telegra.ph/file/60a2044a3f091a9e57fff.png",
+        "https://telegra.ph/file/5e2c404428d8fda014166.png",
+        "https://telegra.ph/file/192395c262572fc8a8c5c.png",
+        "https://telegra.ph/file/30b5b7ed4be3a41f6104c.png",
+        "https://telegra.ph/file/b257eb3e659cecb3377e0.png",
+        "https://telegra.ph/file/3eeb5713a01ee307c3d4f.png",
+        "https://telegra.ph/file/5b54a5d038bd314487f15.png"
+    ]
+};

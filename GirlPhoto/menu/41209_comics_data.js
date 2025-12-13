@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41209,
+    "title": "Yummichiyo - Owari (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Yummichiyo---Owari-Azur-Lane-03-01",
+    "images": [
+        "https://telegra.ph/file/78b5185cb38e19d8841b8.jpg",
+        "https://telegra.ph/file/82b820fdf2dda3b7fe578.jpg",
+        "https://telegra.ph/file/c1421d6a40a6e61669a2c.jpg",
+        "https://telegra.ph/file/d7051c5384ab92129bfa4.jpg",
+        "https://telegra.ph/file/c6eec44bf5f09f9026777.jpg",
+        "https://telegra.ph/file/ef52868b6aa8626f3ebba.jpg",
+        "https://telegra.ph/file/f49e69c00ba5c4526cd9f.jpg",
+        "https://telegra.ph/file/86e83d0e1366e952a637d.jpg",
+        "https://telegra.ph/file/bb0acac121588dfdd0ca0.jpg",
+        "https://telegra.ph/file/aa61d934fce06e741ed3f.jpg",
+        "https://telegra.ph/file/43cc7226e8b01d06a3df4.jpg",
+        "https://telegra.ph/file/eab4252a74c83e7dc34a7.jpg",
+        "https://telegra.ph/file/800bb16eb11d3bc5c0a64.jpg",
+        "https://telegra.ph/file/f7f9f01f2d578841ce524.jpg",
+        "https://telegra.ph/file/0f46c5f56413bb7851195.jpg",
+        "https://telegra.ph/file/509caf4d4599c4bca3ccf.jpg",
+        "https://telegra.ph/file/7faa1596ccbf545df519b.jpg",
+        "https://telegra.ph/file/74ff8de350ee340f2120d.jpg",
+        "https://telegra.ph/file/19f58889a95b8bc8962a3.jpg",
+        "https://telegra.ph/file/c5a8ee76bde35e4c62e60.jpg",
+        "https://telegra.ph/file/b606ca4b81d65a1eb4151.jpg",
+        "https://telegra.ph/file/379c3067e1d015422ecd8.jpg",
+        "https://telegra.ph/file/c44d73f77623ddfb2ef25.jpg",
+        "https://telegra.ph/file/ab73b73dfba5fc5ca27d1.jpg"
+    ]
+};

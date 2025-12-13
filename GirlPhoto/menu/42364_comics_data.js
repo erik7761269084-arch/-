@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42364,
+    "title": "萌芽儿o0 - 黑丝 [25P-150M]",
+    "sourceUrl": "https://telegra.ph/%E8%90%8C%E8%8A%BD%E5%84%BFo0---%E9%BB%91%E4%B8%9D-25P-150M-05-15",
+    "images": [
+        "https://telegra.ph/file/0cfcedd03fdc158a18c1e.jpg",
+        "https://telegra.ph/file/53ed9535f170c0b438ab7.jpg",
+        "https://telegra.ph/file/73f03703943453c377576.jpg",
+        "https://telegra.ph/file/6f416c724bd982e498f2f.jpg",
+        "https://telegra.ph/file/2280b7e9a2e1bbe579445.jpg",
+        "https://telegra.ph/file/e62cb5f13f7bc5cbcae0f.jpg",
+        "https://telegra.ph/file/9f7ef141db876f048adbe.jpg",
+        "https://telegra.ph/file/ecf4aa20a9bb1f94118c1.jpg",
+        "https://telegra.ph/file/ed623601e2f03b7484c52.jpg",
+        "https://telegra.ph/file/75f140e5798caa16da104.jpg",
+        "https://telegra.ph/file/01cba443df7675b3068be.jpg",
+        "https://telegra.ph/file/cbf6f7c70cba021fb295e.jpg",
+        "https://telegra.ph/file/03f5f6d72ed3e10b22120.jpg",
+        "https://telegra.ph/file/db5ce33064a8fb0eb473a.jpg",
+        "https://telegra.ph/file/e142ebc3e1cc1471ab5bb.jpg",
+        "https://telegra.ph/file/60b58212c6f8f3fa232d7.jpg",
+        "https://telegra.ph/file/89af979af9c0b83196798.jpg",
+        "https://telegra.ph/file/bdbc76c6a3b4c5dfc1288.jpg",
+        "https://telegra.ph/file/ab004cd3ef49e1e51346b.jpg",
+        "https://telegra.ph/file/9862c2db71d48f96d994d.jpg",
+        "https://telegra.ph/file/f54699a97c487ff7a9165.jpg",
+        "https://telegra.ph/file/439b884f64cbfce4b8d59.jpg",
+        "https://telegra.ph/file/c2fa579509ab722bed718.jpg",
+        "https://telegra.ph/file/6929d3353ea3f08e5b359.jpg",
+        "https://telegra.ph/file/f26892d4270e1ff965eea.jpg"
+    ]
+};

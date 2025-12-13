@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40269,
+    "title": "Lady Melamori - Arlecchino (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Arlecchino-Genshin-Impact-04-17",
+    "images": [
+        "https://telegra.ph/file/45f8cac3ec9a9c049d6c1.jpg",
+        "https://telegra.ph/file/c5feaa330a6dab8e6f7ec.jpg",
+        "https://telegra.ph/file/e3054a72eaff7ff2186fe.jpg",
+        "https://telegra.ph/file/6b611e6af62655775639e.jpg",
+        "https://telegra.ph/file/7b14a65d2a7fafb61b518.jpg",
+        "https://telegra.ph/file/20f054e409e59cfc55093.jpg",
+        "https://telegra.ph/file/f1e14846a2e3ad1abb665.jpg",
+        "https://telegra.ph/file/46d1d855a2898ac37a3bc.jpg",
+        "https://telegra.ph/file/aca7a71a29f5f1484bc65.jpg",
+        "https://telegra.ph/file/1db92897b66aa3533eb88.jpg",
+        "https://telegra.ph/file/174ff91ede200f2c51d53.jpg",
+        "https://telegra.ph/file/b6371c38973a0b331db39.jpg",
+        "https://telegra.ph/file/9a0c997aaa99db571e575.jpg",
+        "https://telegra.ph/file/05173b304e9db3fc3ab06.jpg",
+        "https://telegra.ph/file/a7de03585e60e525706ab.jpg",
+        "https://telegra.ph/file/d6a80b6e6975c7e9e79c5.jpg",
+        "https://telegra.ph/file/e7d25df1b25b0d9f62a1d.jpg",
+        "https://telegra.ph/file/e3877775aaa26ebd810a1.jpg",
+        "https://telegra.ph/file/ae987dca5f85580284713.jpg",
+        "https://telegra.ph/file/018a08aa59a4740d17605.jpg",
+        "https://telegra.ph/file/49d65a040eefef60f8a77.jpg",
+        "https://telegra.ph/file/21af22102f9842ac0e40b.jpg",
+        "https://telegra.ph/file/07d165d006635b20ed546.jpg",
+        "https://telegra.ph/file/ae5b94fa4bc0e84218dfd.jpg"
+    ]
+};

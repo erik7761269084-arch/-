@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31479,
+    "title": "Cosplay 桜桃喵 蕾姆睡裙",
+    "sourceUrl": "https://telegra.ph/Cosplay-桜桃喵-蕾姆睡裙-08-16",
+    "images": [
+        "https://telegra.ph/file/4a53a545d29e5acc65609.jpg",
+        "https://telegra.ph/file/f455b131d0ab1d8bab3bc.jpg",
+        "https://telegra.ph/file/b98896600c77103b578e1.jpg",
+        "https://telegra.ph/file/2f5f0dc7599f45629e275.jpg",
+        "https://telegra.ph/file/f39c60f778ef2aac6efdc.jpg",
+        "https://telegra.ph/file/3aeb8b3bd854281afd251.jpg",
+        "https://telegra.ph/file/91302d99ebe73cc9992bb.jpg",
+        "https://telegra.ph/file/728d970f3075e33a6e488.jpg",
+        "https://telegra.ph/file/d3f85b9e375c4a7892c37.jpg",
+        "https://telegra.ph/file/660bf3986a18c4519900e.jpg",
+        "https://telegra.ph/file/7ebdccc958ea855562821.jpg",
+        "https://telegra.ph/file/e3ea81b1d64ca198668a3.jpg",
+        "https://telegra.ph/file/eb2ba70df6a0d7d629c23.jpg",
+        "https://telegra.ph/file/69c653c3458d09753c2de.jpg",
+        "https://telegra.ph/file/995047ecdb30873e8582f.jpg",
+        "https://telegra.ph/file/a6ae69de74cea1ec749b4.jpg",
+        "https://telegra.ph/file/1e9b5595b31db56a83d65.jpg",
+        "https://telegra.ph/file/55f1aa8705baf7033fe61.jpg",
+        "https://telegra.ph/file/4728f01b71efc62c98055.jpg",
+        "https://telegra.ph/file/b2a343bf30aed903bd381.jpg",
+        "https://telegra.ph/file/2343a7ee5a26f074f82e4.jpg",
+        "https://telegra.ph/file/3c3a75385a9deca238ab8.jpg",
+        "https://telegra.ph/file/344af70eecbc2045476e0.jpg",
+        "https://telegra.ph/file/4bb5987b2a6ad59149a5e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

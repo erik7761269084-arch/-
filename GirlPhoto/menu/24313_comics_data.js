@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 24313,
+    "title": "阿包也是兔娘 - Kuuka",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98---Kuuka-09-30",
+    "images": [
+        "https://telegra.ph/file/7732069d43100ea302640.jpg",
+        "https://telegra.ph/file/a9fb6163768307272b871.jpg",
+        "https://telegra.ph/file/f89f25424767122eb27e5.jpg",
+        "https://telegra.ph/file/60e3ed70aae58da542fe6.jpg",
+        "https://telegra.ph/file/c1c289392156ac396a5c4.jpg",
+        "https://telegra.ph/file/875fa71e7998ab5d04d73.jpg",
+        "https://telegra.ph/file/9fcaabeb1cbf15edc6ed6.jpg",
+        "https://telegra.ph/file/8eb433a5c9ce8b6de1eef.jpg",
+        "https://telegra.ph/file/f14438959d5fdc0b46f10.jpg",
+        "https://telegra.ph/file/ebb954434207abf64bce5.jpg",
+        "https://telegra.ph/file/db308cdaeb2edeb4e5d98.jpg",
+        "https://telegra.ph/file/35fd7c8753f1244e00003.jpg",
+        "https://telegra.ph/file/72b8d1e94e7a9bbdfd1e8.jpg",
+        "https://telegra.ph/file/65267de63d2d2516a0285.jpg",
+        "https://telegra.ph/file/580cc8f55d2703881edc5.jpg",
+        "https://telegra.ph/file/fb09ea9398703e3d4c7cb.jpg",
+        "https://telegra.ph/file/8f9f00f510fe59ad549d8.jpg",
+        "https://telegra.ph/file/13705c46e7940ea9e9765.jpg",
+        "https://telegra.ph/file/a3f2b652844c468c1eccc.jpg",
+        "https://telegra.ph/file/5e6185334de8d08c76598.jpg",
+        "https://telegra.ph/file/2543e284d9195489c98b1.jpg",
+        "https://telegra.ph/file/d1964c4fd3d6f635ee630.jpg",
+        "https://telegra.ph/file/3140fc51379673f5788cd.jpg",
+        "https://telegra.ph/file/770e3a2665b1d09225d72.jpg",
+        "https://telegra.ph/file/182a2004e4ee7162f3d71.jpg",
+        "https://telegra.ph/file/bf111db45dbfbc802e783.jpg"
+    ]
+};

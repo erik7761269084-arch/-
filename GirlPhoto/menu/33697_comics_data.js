@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33697,
+    "title": "[九曲Jean] 精灵村 精灵村 第一&#038;第三村人 Elf Village Set.04",
+    "sourceUrl": "https://telegra.ph/九曲Jean-精灵村-精灵村-第一038第三村人-Elf-Village-Set04-03-31",
+    "images": [
+        "https://telegra.ph/file/cc11f40e9e873d28fc522.jpg",
+        "https://telegra.ph/file/983997007245454be7ac8.jpg",
+        "https://telegra.ph/file/8f22449ebaae4e47cdd8b.jpg",
+        "https://telegra.ph/file/c1d74c20ca54c6a9d66df.jpg",
+        "https://telegra.ph/file/ff2e7bbaf660201e40375.jpg",
+        "https://telegra.ph/file/c2273264b2a29de7f9d95.jpg",
+        "https://telegra.ph/file/adc9de39dcad5df11d239.jpg",
+        "https://telegra.ph/file/2cb9c2b4e427f74f4b2c5.jpg",
+        "https://telegra.ph/file/a82701b721818c1242542.jpg",
+        "https://telegra.ph/file/c6af9f46ca09a44057f31.jpg",
+        "https://telegra.ph/file/54b60b0f90415f3162541.jpg",
+        "https://telegra.ph/file/27ffa3e2fc0b5a7d0de73.jpg",
+        "https://telegra.ph/file/0b703e9110a534bcbd4e0.jpg",
+        "https://telegra.ph/file/046ba52767708e6aff73c.jpg",
+        "https://telegra.ph/file/f772fbd7ab470643a9c94.jpg",
+        "https://telegra.ph/file/8876a3b8bd9924cdb16b0.jpg",
+        "https://telegra.ph/file/9d9056fc0ecb6715e3a01.jpg",
+        "https://telegra.ph/file/596e19629997e73088d50.jpg",
+        "https://telegra.ph/file/657389d2e2d9beadb2d3a.jpg",
+        "https://telegra.ph/file/58179cfbbbe3d686a964e.jpg",
+        "https://telegra.ph/file/4870f36d54887ac2066d9.jpg",
+        "https://telegra.ph/file/ce5cd66c96ee40ab4c36c.jpg",
+        "https://telegra.ph/file/e1e2f1efe9b793c64325e.jpg",
+        "https://telegra.ph/file/eeee8c800b85b85d648cd.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

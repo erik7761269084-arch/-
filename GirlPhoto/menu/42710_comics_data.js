@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42710,
+    "title": "橙子喵酱 - 八重神子 [25p30mb]",
+    "sourceUrl": "https://telegra.ph/%E6%A9%99%E5%AD%90%E5%96%B5%E9%85%B1---%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90-25p30mb-06-14",
+    "images": [
+        "https://telegra.ph/file/605547faad5db4e7dfadb.jpg",
+        "https://telegra.ph/file/435af870fc094e81ae720.jpg",
+        "https://telegra.ph/file/96e4a9ac0138cb15186b0.jpg",
+        "https://telegra.ph/file/a54d8f890278dd8854ea4.jpg",
+        "https://telegra.ph/file/c787025c11ad5cbfb2dfa.jpg",
+        "https://telegra.ph/file/e793042d15bd4bd85dc19.jpg",
+        "https://telegra.ph/file/4c9dd1f4b584a69dfcc12.jpg",
+        "https://telegra.ph/file/524ccbb5e5bb4b95693f1.jpg",
+        "https://telegra.ph/file/81d6798f7b33f6f2fa728.jpg",
+        "https://telegra.ph/file/e76e73f8eb91a48e0ee79.jpg",
+        "https://telegra.ph/file/b38b3cc11e9ee1cde5b41.jpg",
+        "https://telegra.ph/file/f0ac14fa79ef69f10a8c6.jpg",
+        "https://telegra.ph/file/581725ee4dc8a5c9027dd.jpg",
+        "https://telegra.ph/file/54c4556fef8ff58cbd357.jpg",
+        "https://telegra.ph/file/778e87237ccc4cd0f729b.jpg",
+        "https://telegra.ph/file/0092c8be8723605ab2b14.jpg",
+        "https://telegra.ph/file/bd73c5128870dc9f75203.jpg",
+        "https://telegra.ph/file/4b49b9bac37d161ddfc96.jpg",
+        "https://telegra.ph/file/6bf857b9233900eb66b28.jpg",
+        "https://telegra.ph/file/9668dfe639fea7f7c7ce6.jpg",
+        "https://telegra.ph/file/0b5c6c64dacd97e1cfedb.jpg",
+        "https://telegra.ph/file/3c1741b0b0c2a3cd1111b.jpg",
+        "https://telegra.ph/file/3e82fff3d88707ba2e8fc.jpg",
+        "https://telegra.ph/file/3b00da96460e657a3c948.jpg",
+        "https://telegra.ph/file/2e91bb080dbf3333bde97.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46048,
+    "title": "透明セーラー服 - Page 1",
+    "sourceUrl": "https://telegra.ph/透明セーラー服---Page-1-11-21",
+    "images": [
+        "https://telegra.ph/file/b1d9af92a02711d638dc2.jpg",
+        "https://telegra.ph/file/377be4fa0378443264407.jpg",
+        "https://telegra.ph/file/e01af1695e6c706e39e6c.jpg",
+        "https://telegra.ph/file/1616f971415820610cdba.jpg",
+        "https://telegra.ph/file/120466584bfec2746d977.jpg",
+        "https://telegra.ph/file/7d3b023ccb43a4064109f.jpg",
+        "https://telegra.ph/file/5e6b9f09648554285f5d2.jpg",
+        "https://telegra.ph/file/c89dce9a710c00a26c42e.jpg",
+        "https://telegra.ph/file/62bd5cc054275b3cbc621.jpg",
+        "https://telegra.ph/file/3fca60e7215201c55581a.jpg",
+        "https://telegra.ph/file/1d7ea3c065f262dfdfb8e.jpg",
+        "https://telegra.ph/file/6e577323e5d2f6659a55c.jpg",
+        "https://telegra.ph/file/381ec612c8619b5f5d896.jpg",
+        "https://telegra.ph/file/51ebb9068f8b9e275f210.jpg",
+        "https://telegra.ph/file/48a0f61703f408aa0f7eb.jpg",
+        "https://telegra.ph/file/51ca99d831bcc9e92bfcd.jpg",
+        "https://telegra.ph/file/fc4c0e0926acbd0fbef25.jpg",
+        "https://telegra.ph/file/2698b6c46ef8466b9a51c.jpg",
+        "https://telegra.ph/file/331e824a66d302a6817b0.jpg",
+        "https://telegra.ph/file/8bc851dc630e151192365.jpg",
+        "https://telegra.ph/file/8535e23fb7e811232a37f.jpg",
+        "https://telegra.ph/file/28f5d3b69f0896788be1e.jpg",
+        "https://telegra.ph/file/c90fff33a9dcd6248e665.jpg",
+        "https://telegra.ph/file/122e3ab3985da779856fc.jpg",
+        "https://telegra.ph/file/1cf8ab6a602d4e482e6b4.jpg",
+        "https://telegra.ph/file/c649df2463f76fc28ce37.jpg"
+    ]
+};

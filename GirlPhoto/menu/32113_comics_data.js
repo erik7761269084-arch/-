@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32113,
+    "title": "[Rioko凉凉子] Tifa Lockhart Little Bee Version",
+    "sourceUrl": "https://telegra.ph/Rioko凉凉子-Tifa-Lockhart-Little-Bee-Version-10-20",
+    "images": [
+        "https://telegra.ph/file/0e1232dc5a85ee98808e1.jpg",
+        "https://telegra.ph/file/d31ef71ae224180f9c293.jpg",
+        "https://telegra.ph/file/0a7255849296e7ee3fb84.jpg",
+        "https://telegra.ph/file/1fa23e880c02c1a21fa2b.jpg",
+        "https://telegra.ph/file/9385cacdcf9b1c6d5fc29.jpg",
+        "https://telegra.ph/file/be3ff9e18aee9581d4843.jpg",
+        "https://telegra.ph/file/e1e8b6aae91492aaeb57f.jpg",
+        "https://telegra.ph/file/9a58816729e2e8c905ac4.jpg",
+        "https://telegra.ph/file/e3d4aa8d9eb1d40d03e7f.jpg",
+        "https://telegra.ph/file/86c6d8c16a6398e28a359.jpg",
+        "https://telegra.ph/file/f31d0db4d69086fca6801.jpg",
+        "https://telegra.ph/file/5061d05eb7c33b915133c.jpg",
+        "https://telegra.ph/file/778aa551384460a7ade5e.jpg",
+        "https://telegra.ph/file/d4de8790f4924752e98f3.jpg",
+        "https://telegra.ph/file/0a007cab8c2fc560d1b67.jpg",
+        "https://telegra.ph/file/30b8eeea6d0d87ffbf8b4.jpg",
+        "https://telegra.ph/file/7e7018d6af2c643278952.jpg",
+        "https://telegra.ph/file/22fa87f817ac422cb593a.jpg",
+        "https://telegra.ph/file/22ffa77600769f4c50bb0.jpg",
+        "https://telegra.ph/file/571342b57af18aa33b968.jpg",
+        "https://telegra.ph/file/0f6b2927e1f501ca8047f.jpg",
+        "https://telegra.ph/file/f377d5599c0d03bf1ace4.jpg",
+        "https://telegra.ph/file/cd9d2925565870b7a40f8.jpg",
+        "https://telegra.ph/file/9317d6bd6762b6c27bdd0.jpg",
+        "https://telegra.ph/file/78efd4c093a3bd84ec374.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

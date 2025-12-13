@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44665,
+    "title": "Bunny Ayumi - Hex Maniac",
+    "sourceUrl": "https://telegra.ph/Bunny-Ayumi---Hex-Maniac-01-18",
+    "images": [
+        "https://telegra.ph/file/a0a28c3be7a49059083bf.jpg",
+        "https://telegra.ph/file/c681e8da7e5ccdd5ae471.jpg",
+        "https://telegra.ph/file/2f0cbc6e3c65accca683d.jpg",
+        "https://telegra.ph/file/eafc2d4aa6c001c6ffd20.jpg",
+        "https://telegra.ph/file/a987b134f0a3527738db5.jpg",
+        "https://telegra.ph/file/1920e28f281bdf96da1da.jpg",
+        "https://telegra.ph/file/74e943f0f3a38de5b0a3a.jpg",
+        "https://telegra.ph/file/30883e2e055b68426bae9.jpg",
+        "https://telegra.ph/file/7855d0b8953fd716e6b38.jpg",
+        "https://telegra.ph/file/f78eca5bd7b4b33d67943.jpg",
+        "https://telegra.ph/file/f57f867da9d0f83d88f6b.jpg",
+        "https://telegra.ph/file/2f9a09874c3a45640b328.jpg",
+        "https://telegra.ph/file/6870206c41853358539d0.jpg",
+        "https://telegra.ph/file/d625ed1c2b03b1107b033.jpg",
+        "https://telegra.ph/file/a9c6694263abf6b04ace5.jpg",
+        "https://telegra.ph/file/3ad292747ff5566ebfaf6.jpg",
+        "https://telegra.ph/file/d7146eaddcdd82a969cbc.jpg",
+        "https://telegra.ph/file/04357043bf9177fb31f36.jpg",
+        "https://telegra.ph/file/beeaf17a868d138c8b34d.jpg",
+        "https://telegra.ph/file/03bb66e1126f4ef41d50a.jpg",
+        "https://telegra.ph/file/7c04676620009fc817511.jpg",
+        "https://telegra.ph/file/3b9c1cc0ea222e0a73f4d.jpg",
+        "https://telegra.ph/file/5883136cbcec34eed00b1.jpg",
+        "https://telegra.ph/file/bcbe01ef567fba3ce662d.jpg"
+    ]
+};

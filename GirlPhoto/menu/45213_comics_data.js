@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 45213,
+    "title": "Xidaidai - Janus - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Janus---Page-1-07-28",
+    "images": [
+        "https://telegra.ph/file/8139ca32a49b3b36dbb19.jpg",
+        "https://telegra.ph/file/cfad07ffbe38789889c43.jpg",
+        "https://telegra.ph/file/c509acc5bc5e732e9d943.jpg",
+        "https://telegra.ph/file/e6672165f594c324d4fb4.jpg",
+        "https://telegra.ph/file/0db9123fe3eafc698640c.jpg",
+        "https://telegra.ph/file/d7fec6da5474f86a1142d.jpg",
+        "https://telegra.ph/file/089ddfd6840e049e2973d.jpg",
+        "https://telegra.ph/file/80e261c04b2f4ef96b98a.jpg",
+        "https://telegra.ph/file/05c96c8e587fdc4933139.jpg",
+        "https://telegra.ph/file/3487e858f7a4f1393e072.jpg",
+        "https://telegra.ph/file/a580a972d11edc9dd5433.jpg",
+        "https://telegra.ph/file/11969cf088942e29cd4ce.jpg",
+        "https://telegra.ph/file/072b960408bd7067979fb.jpg",
+        "https://telegra.ph/file/ee3862a21e0776da15a7d.jpg",
+        "https://telegra.ph/file/5bb1584d7c9fe9715702a.jpg",
+        "https://telegra.ph/file/3d1479643252ced9afce4.jpg",
+        "https://telegra.ph/file/1ab570cbf297311c99170.jpg",
+        "https://telegra.ph/file/bc30f6ae5702239787fc3.jpg",
+        "https://telegra.ph/file/5575a916310800d511830.jpg",
+        "https://telegra.ph/file/3f5121e1ff8619276a393.jpg",
+        "https://telegra.ph/file/376c28e8a302a3992a9a5.jpg",
+        "https://telegra.ph/file/b09fe2b91820403e91bfe.jpg",
+        "https://telegra.ph/file/7bb2d0a7f535f04cbab4e.jpg",
+        "https://telegra.ph/file/dd181ba3f6f558558aa8d.jpg"
+    ]
+};

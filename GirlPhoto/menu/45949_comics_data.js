@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 45949,
+    "title": "Shirogane - Eula - Page 1",
+    "sourceUrl": "https://telegra.ph/Shirogane---Eula---Page-1-11-12",
+    "images": [
+        "https://telegra.ph/file/e8e7fcf6438e4753d97f8.jpg",
+        "https://telegra.ph/file/3d656f0b277e7aa50df47.jpg",
+        "https://telegra.ph/file/dca18ac4b308d6051c52b.jpg",
+        "https://telegra.ph/file/5cb2a743e265751bb8b25.jpg",
+        "https://telegra.ph/file/da76190b3b319b1039cb2.jpg",
+        "https://telegra.ph/file/b101bfe73842bad628065.jpg",
+        "https://telegra.ph/file/d014b14fe54c6fe78c855.jpg",
+        "https://telegra.ph/file/23e2d457b7cafc0469563.jpg",
+        "https://telegra.ph/file/74c6ba937ef01b49866c4.jpg",
+        "https://telegra.ph/file/82d4912654628c827b33b.jpg",
+        "https://telegra.ph/file/b35599c106408a35d76c7.jpg",
+        "https://telegra.ph/file/36c4f63a300dbeb7564f0.jpg",
+        "https://telegra.ph/file/79990c2b6c42c7b5d4544.jpg",
+        "https://telegra.ph/file/af7dbcdd78bd7b3ec2917.jpg",
+        "https://telegra.ph/file/278ca08b5b98966279cfe.jpg",
+        "https://telegra.ph/file/24cba3b3f6a7e4212d384.jpg",
+        "https://telegra.ph/file/00567f2921a9a4aad9f1d.jpg",
+        "https://telegra.ph/file/b1c151407b05272135217.jpg",
+        "https://telegra.ph/file/bf447d124bdc479ae2cef.jpg",
+        "https://telegra.ph/file/7f7a70991938df8c31a8e.jpg",
+        "https://telegra.ph/file/c5da364b2dc21e4305137.jpg",
+        "https://telegra.ph/file/a783d2fa1e1cf8645edb2.jpg",
+        "https://telegra.ph/file/a59469c5c4390a086f58f.jpg",
+        "https://telegra.ph/file/ea34dbdc668b01a338b86.jpg",
+        "https://telegra.ph/file/19c4b5584a25acc75f1d0.jpg",
+        "https://telegra.ph/file/f9c68cb349909c3db5cd2.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39827,
+    "title": "Queenie - Yamato (One Piece)",
+    "sourceUrl": "https://telegra.ph/Queenie---Yamato-One-Piece-11-03",
+    "images": [
+        "https://telegra.ph/file/ded8ccf3c68cb04e4ed2a.jpg",
+        "https://telegra.ph/file/84733a46ec6e5793172ea.jpg",
+        "https://telegra.ph/file/9112ea5726a139cd57c63.jpg",
+        "https://telegra.ph/file/e67cdd82ca42ca43b1e7b.jpg",
+        "https://telegra.ph/file/bda5f72eef1ff294ff029.jpg",
+        "https://telegra.ph/file/654e8eefa4ccd0e5abd4b.jpg",
+        "https://telegra.ph/file/91234076d78a8c1874bc8.jpg",
+        "https://telegra.ph/file/bc917ae81429168dfc9fe.jpg",
+        "https://telegra.ph/file/14c7587cd671e094a9d6a.jpg",
+        "https://telegra.ph/file/8d0f6354959fb43f835df.jpg",
+        "https://telegra.ph/file/af4678f599c7f2d79029d.jpg",
+        "https://telegra.ph/file/4ec3b3a8851a0dba31ab3.jpg",
+        "https://telegra.ph/file/2cabab82d946567a09c20.jpg",
+        "https://telegra.ph/file/6fbab0794fb673db0e76e.jpg",
+        "https://telegra.ph/file/052415a8476a6de979e5a.jpg",
+        "https://telegra.ph/file/f16e7288d3b96b9b0981a.jpg",
+        "https://telegra.ph/file/8d5ff416028b6249a32b5.jpg",
+        "https://telegra.ph/file/b564161b86f09d59bacef.jpg",
+        "https://telegra.ph/file/6d0fcd933d72b5e49fdbb.jpg",
+        "https://telegra.ph/file/cd50fa0977d21d1bf6dcf.jpg",
+        "https://telegra.ph/file/af6175463e2f2b4dd2bae.jpg",
+        "https://telegra.ph/file/68f26b5a7c6a882d317dc.jpg",
+        "https://telegra.ph/file/09f0bf291ec8b40ad3028.jpg",
+        "https://telegra.ph/file/e3b5165275a17511665b1.jpg"
+    ]
+};

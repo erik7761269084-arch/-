@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43417,
+    "title": "雨波_HaneAme - 对魔忍& Hololive Kronii",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---%E5%AF%B9%E9%AD%94%E5%BF%8D-Hololive-Kronii-11-14",
+    "images": [
+        "https://telegra.ph/file/09b390a2608258c19c09e.jpg",
+        "https://telegra.ph/file/2950ce4faf0ffc6b892ec.jpg",
+        "https://telegra.ph/file/0c3331f07b2723f7bd28f.jpg",
+        "https://telegra.ph/file/35f109487e41aa1aad893.jpg",
+        "https://telegra.ph/file/f419067eb3af72d0dcf31.jpg",
+        "https://telegra.ph/file/6a1af6a50b9b3ff5071f1.jpg",
+        "https://telegra.ph/file/3190183551b96ac3c62e2.jpg",
+        "https://telegra.ph/file/c56c9d629f9a9344312a2.jpg",
+        "https://telegra.ph/file/6b27cb88b816f15bd22ac.jpg",
+        "https://telegra.ph/file/a4c7a2fa2405cd33a86e0.jpg",
+        "https://telegra.ph/file/d874079ea891f23707553.jpg",
+        "https://telegra.ph/file/86662c3ce2feaf3fcab68.jpg",
+        "https://telegra.ph/file/75667d3fa986353bf6854.jpg",
+        "https://telegra.ph/file/129e08bef11f5040a822d.jpg",
+        "https://telegra.ph/file/67f63b823c515ccc562d7.jpg",
+        "https://telegra.ph/file/ddbd269751dec7ae12278.jpg",
+        "https://telegra.ph/file/7a9c04fc14a52ab1c3164.jpg",
+        "https://telegra.ph/file/24bbc7e7de3bfc1a38e1c.jpg",
+        "https://telegra.ph/file/845e04a292569e9a22a00.jpg",
+        "https://telegra.ph/file/7e8ca592809ea88e71df3.jpg",
+        "https://telegra.ph/file/80301a8a741433ce62def.jpg",
+        "https://telegra.ph/file/3c65a17b8804a2dc6afa1.jpg",
+        "https://telegra.ph/file/21a08c5c91109e71040a2.jpg",
+        "https://telegra.ph/file/9f6fb301794ecb29811fd.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41925,
+    "title": "Rumipeach - Haharley Quinn (Batman)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-05-2",
+    "images": [
+        "https://i.ibb.co/mrh0hnjC/01-02-compress33.jpg",
+        "https://i.ibb.co/hx8KFWX9/02-03-compress79.jpg",
+        "https://i.ibb.co/9kPj6qMq/03-04-compress87.jpg",
+        "https://i.ibb.co/7dMQ0LYH/04-01-compress50.jpg",
+        "https://i.ibb.co/whQT92h6/05-05-compress26.jpg",
+        "https://i.ibb.co/WpyxDXW2/06-06-compress29.jpg",
+        "https://i.ibb.co/xK36v3XC/07-07-compress59.jpg",
+        "https://i.ibb.co/CStF7Jx/08-08-compress40.jpg",
+        "https://i.ibb.co/b5LqkH6G/09-09-compress5.jpg",
+        "https://i.ibb.co/gLwJWWKQ/10-10-compress69.jpg",
+        "https://i.ibb.co/vxhRKK6v/11-11-compress91.jpg",
+        "https://i.ibb.co/Z1k4ZN0R/12-12-compress27.jpg",
+        "https://i.ibb.co/whpFBKBb/13-13-compress37.jpg",
+        "https://i.ibb.co/LXtGDzgR/14-14-compress71.jpg",
+        "https://i.ibb.co/yB6dSv8c/15-15-compress11.jpg",
+        "https://i.ibb.co/TxKstHCF/16-16-compress13.jpg",
+        "https://i.ibb.co/B2Gf6btQ/17-17-compress92.jpg",
+        "https://i.ibb.co/3P1z3YK/18-18-compress41.jpg",
+        "https://i.ibb.co/jPXVHfg8/19-19-compress73.jpg",
+        "https://i.ibb.co/0RTkcz9s/20-20-compress12.jpg",
+        "https://i.ibb.co/MxW4wyqD/21-21-compress14.jpg",
+        "https://i.ibb.co/s9qPZJc8/22-22-compress31.jpg",
+        "https://i.ibb.co/yBFkVXF9/23-23-compress74.jpg"
+    ]
+};

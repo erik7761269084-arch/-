@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38576,
+    "title": "Ringo Mitsuri - Bremerton (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Ringo-Mitsuri---Bremerton-Azur-Lane-12-07",
+    "images": [
+        "https://telegra.ph/file/084f20ef1831985d1bba2.jpg",
+        "https://telegra.ph/file/c55cd7d38830cb2b48d04.jpg",
+        "https://telegra.ph/file/d33784c711dc3648e6967.jpg",
+        "https://telegra.ph/file/9d505478581e8559a864e.jpg",
+        "https://telegra.ph/file/b6a55ad2733a9c7acf2d4.jpg",
+        "https://telegra.ph/file/5201a57946d3aa9cd3a01.jpg",
+        "https://telegra.ph/file/b79c3d1ea896459274b5a.jpg",
+        "https://telegra.ph/file/a178ab11c380f0e34fe19.jpg",
+        "https://telegra.ph/file/fb6c3fb57d21daba41d1e.jpg",
+        "https://telegra.ph/file/c0bc8484c7d643fbc9b5b.jpg",
+        "https://telegra.ph/file/1c0422331fe05c452c24c.jpg",
+        "https://telegra.ph/file/757564e39779386e9c40d.jpg",
+        "https://telegra.ph/file/aa7c5c0512d3af97c7ca5.jpg",
+        "https://telegra.ph/file/17bd192f19f8f7bd8aac7.jpg",
+        "https://telegra.ph/file/4f475e9b9fba27f946263.jpg",
+        "https://telegra.ph/file/5a5f70d562a798a8f8c9c.jpg",
+        "https://telegra.ph/file/eb40cd0f6ff54c854494e.jpg",
+        "https://telegra.ph/file/640b5ccbd667c9c969c8d.jpg",
+        "https://telegra.ph/file/c948ab9879be0a851035c.jpg",
+        "https://telegra.ph/file/e3ed8ca783ba58089d84d.jpg",
+        "https://telegra.ph/file/22470465e3c8be77bf531.jpg",
+        "https://telegra.ph/file/a5cced77189a22274e328.jpg",
+        "https://telegra.ph/file/2227064fc095eab3a6126.jpg",
+        "https://telegra.ph/file/9c8ae2005f5b19accfc41.jpg"
+    ]
+};

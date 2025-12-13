@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40113,
+    "title": "Letícia Shirayuki - Hinata (Naruto Shippuden)",
+    "sourceUrl": "https://telegra.ph/Leticia-Shirayuki---Hinata-Naruto-Shippuden-01-11",
+    "images": [
+        "https://telegra.ph/file/b9041ec352b0a4b0ade16.jpg",
+        "https://telegra.ph/file/1e7a3ac4e81cd2a4da3d4.jpg",
+        "https://telegra.ph/file/cdafae12d0eb30dd5fa9f.jpg",
+        "https://telegra.ph/file/bb914b81ac5eb99d9ab9d.jpg",
+        "https://telegra.ph/file/e241d028b11c06ec27a75.jpg",
+        "https://telegra.ph/file/0b16f5b2047c458fdc879.jpg",
+        "https://telegra.ph/file/ad3ba30c41f3bf08c4ab2.jpg",
+        "https://telegra.ph/file/bedf0cbf1d708b1deb1fe.jpg",
+        "https://telegra.ph/file/09d2f776873c65afe8262.jpg",
+        "https://telegra.ph/file/4bc773d60dd123b7f540e.jpg",
+        "https://telegra.ph/file/d7f01391ed2a893113b87.jpg",
+        "https://telegra.ph/file/915f110ed5cbddfc24808.jpg",
+        "https://telegra.ph/file/5895560e4d04d5a49f529.jpg",
+        "https://telegra.ph/file/c29f2f65b62903106e620.jpg",
+        "https://telegra.ph/file/80a416a2be5af913ec358.jpg",
+        "https://telegra.ph/file/422c586e7455f092c63c1.jpg",
+        "https://telegra.ph/file/5eb7ad1a5f058c7842e9d.jpg",
+        "https://telegra.ph/file/95602ebcd74e0c1674f37.jpg",
+        "https://telegra.ph/file/0342c64956e2ef3739f5a.jpg",
+        "https://telegra.ph/file/4338d3b9198f86eab0891.jpg",
+        "https://telegra.ph/file/33e06fc961577516b4cba.jpg",
+        "https://telegra.ph/file/77b6e2dbbe81dac0277b4.jpg",
+        "https://telegra.ph/file/ccbea0cda7f5fe58a6c90.jpg",
+        "https://telegra.ph/file/b2cce4ef3f487718a3fa5.jpg"
+    ]
+};

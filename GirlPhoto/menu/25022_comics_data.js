@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25022,
+    "title": "[Cos]果咩酱w - 反派角色 [25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E6%9E%9C%E5%92%A9%E9%85%B1w---%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2-25P-09-29",
+    "images": [
+        "https://telegra.ph/file/5eb29c683e0cf76ac25d2.jpg",
+        "https://telegra.ph/file/25d2b9c133e13faf27151.jpg",
+        "https://telegra.ph/file/ed930bb059f6f427e2be5.jpg",
+        "https://telegra.ph/file/477e185dd21a19d5ef1cc.jpg",
+        "https://telegra.ph/file/50292d2d8ad341243a69f.jpg",
+        "https://telegra.ph/file/505a5f468d3f3f2478dce.jpg",
+        "https://telegra.ph/file/65cf917ec464d1a5e9e94.jpg",
+        "https://telegra.ph/file/a0a23fbd3f02b20cbe287.jpg",
+        "https://telegra.ph/file/441d313e6e72b178431ed.jpg",
+        "https://telegra.ph/file/37bf96778c653455476d5.jpg",
+        "https://telegra.ph/file/1fd653b66154c859418c0.jpg",
+        "https://telegra.ph/file/28e3d7d8afd70a5da2cba.jpg",
+        "https://telegra.ph/file/8e41337cb9f7d4302c756.jpg",
+        "https://telegra.ph/file/e307735431a4bcadb1e1f.jpg",
+        "https://telegra.ph/file/3e33fd56aac439ebf2f88.jpg",
+        "https://telegra.ph/file/7987b1cffa4316878dd69.jpg",
+        "https://telegra.ph/file/65a84e0b2473bab80e40f.jpg",
+        "https://telegra.ph/file/f22a90502c50a3ac6b02d.jpg",
+        "https://telegra.ph/file/cc9cb6335ff5158bda9fe.jpg",
+        "https://telegra.ph/file/ca851f792718c856a5cd3.jpg",
+        "https://telegra.ph/file/d8060215b461a8c80e6de.jpg",
+        "https://telegra.ph/file/bb4774128860ea2558a0c.jpg",
+        "https://telegra.ph/file/2b47f51be68f3580db80b.jpg",
+        "https://telegra.ph/file/5b657a5fa649334d9dfb3.jpg",
+        "https://telegra.ph/file/a02fd76fc457c371f4e6a.jpg"
+    ]
+};

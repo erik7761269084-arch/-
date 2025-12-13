@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38776,
+    "title": "Hane Ame - Mizuhara Chizuru (Kanojo Kanajo Okarishimasu)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Mizuhara-Chizuru-Kanojo-Kanajo-Okarishimasu-01-27",
+    "images": [
+        "https://telegra.ph/file/75376a7d127569f9000f2.jpg",
+        "https://telegra.ph/file/0c5297b86afea8bb0f63f.jpg",
+        "https://telegra.ph/file/5cec14b70cf85a398bd03.jpg",
+        "https://telegra.ph/file/c9448ce5b5a7d86730421.jpg",
+        "https://telegra.ph/file/fc4a9fe2e201adff2bb45.jpg",
+        "https://telegra.ph/file/662f5041b24224e080565.jpg",
+        "https://telegra.ph/file/86d89ac28a4592580878b.jpg",
+        "https://telegra.ph/file/a8fccf3c80ba114a03129.jpg",
+        "https://telegra.ph/file/a05b819f531593d62f51c.jpg",
+        "https://telegra.ph/file/54f06121678f4710287da.jpg",
+        "https://telegra.ph/file/bf2f23395112baac73a79.jpg",
+        "https://telegra.ph/file/ee74211f96269181de38c.jpg",
+        "https://telegra.ph/file/025aacdc30e8530bf13dc.jpg",
+        "https://telegra.ph/file/0a9be36d283548e37d99e.jpg",
+        "https://telegra.ph/file/952b5847a1cd97a02f0ad.jpg",
+        "https://telegra.ph/file/b69914b704d79aa1f16c9.jpg",
+        "https://telegra.ph/file/c4f17b784ccd0a6a4e73c.jpg",
+        "https://telegra.ph/file/df79e0d84b55e0ec07fe4.jpg",
+        "https://telegra.ph/file/254fe238e318e538d653c.jpg",
+        "https://telegra.ph/file/6530692ddce95142165d4.jpg",
+        "https://telegra.ph/file/a490763ff06be356c5006.jpg",
+        "https://telegra.ph/file/2356ae5824e88328876be.jpg",
+        "https://telegra.ph/file/aef3f2dd14556644eb4a5.jpg",
+        "https://telegra.ph/file/44663499a187ee1c15573.jpg",
+        "https://telegra.ph/file/0bd7af3a36b7bb709a4d0.jpg"
+    ]
+};

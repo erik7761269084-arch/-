@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44178,
+    "title": "Bremerton Tennis - 2022.04 [HIGH RES]",
+    "sourceUrl": "https://telegra.ph/Bremerton-Tennis---202204-HIGH-RES-09-28",
+    "images": [
+        "https://telegra.ph/file/8febaf40b894e82177ddf.jpg",
+        "https://telegra.ph/file/0e7c955405f11a2e5b848.jpg",
+        "https://telegra.ph/file/e2cf8ed0e0c0377714bf5.jpg",
+        "https://telegra.ph/file/21286c8ce11b78cb07989.jpg",
+        "https://telegra.ph/file/055961842d9fa9e0fbecd.jpg",
+        "https://telegra.ph/file/2e23e1af6e48f45a3d13e.jpg",
+        "https://telegra.ph/file/da4d0b2e2c57acfa747ac.jpg",
+        "https://telegra.ph/file/315a3ce6b8d95506ef33e.jpg",
+        "https://telegra.ph/file/3ec9773299be9e9f65a24.jpg",
+        "https://telegra.ph/file/90785009b83d2f29275c7.jpg",
+        "https://telegra.ph/file/d29050248b7d4d1ffdfa0.jpg",
+        "https://telegra.ph/file/775ba08eab85c8b190fde.jpg",
+        "https://telegra.ph/file/9988ce7558a32a6b0d4bc.jpg",
+        "https://telegra.ph/file/4c626ea14132390ad76dc.jpg",
+        "https://telegra.ph/file/2a2361e1145634c5f1b41.jpg",
+        "https://telegra.ph/file/3af25f4acf9f2810ea892.jpg",
+        "https://telegra.ph/file/4cd8438ba82f571330185.jpg",
+        "https://telegra.ph/file/4c652bf95402b4bae362d.jpg",
+        "https://telegra.ph/file/8119e83d16e2c0fd6e4ed.jpg",
+        "https://telegra.ph/file/48d67ca818ade14cf05d4.jpg",
+        "https://telegra.ph/file/c0d32505965d455850b19.jpg",
+        "https://telegra.ph/file/d6b92e4a2a2a37afcdc7d.jpg",
+        "https://telegra.ph/file/2ee2c4f813e293731669a.jpg",
+        "https://telegra.ph/file/405cffd7f3226b7d3cf54.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31800,
+    "title": "ZIA.Kwon 권지아, [JOApictures] Zia (지아) x JOA 21. JANUARY Vol.1 &#8211; Set.01",
+    "sourceUrl": "https://telegra.ph/ZIAKwon-권지아-JOApictures-Zia-지아-x-JOA-21-JANUARY-Vol1-8211-Set01-09-11",
+    "images": [
+        "https://telegra.ph/file/49c908cf18c9739d6cb34.jpg",
+        "https://telegra.ph/file/0278b9e0a244ad91e8ce5.jpg",
+        "https://telegra.ph/file/35bfa70ee7e3a75e22593.jpg",
+        "https://telegra.ph/file/946035782402d122a197c.jpg",
+        "https://telegra.ph/file/02ca08a72c755ad49ed36.jpg",
+        "https://telegra.ph/file/6d3e12f720e1bcdd97c78.jpg",
+        "https://telegra.ph/file/e49d6a7dbc89098325e62.jpg",
+        "https://telegra.ph/file/30cfc974c263c736ce440.jpg",
+        "https://telegra.ph/file/8719cb8eadb61b6fd9a18.jpg",
+        "https://telegra.ph/file/35b03dec9447d07f5ab32.jpg",
+        "https://telegra.ph/file/d3ac2115d0450caac6fd6.jpg",
+        "https://telegra.ph/file/b0930d8822b0a8d06f172.jpg",
+        "https://telegra.ph/file/c6320b58fbec0f288567d.jpg",
+        "https://telegra.ph/file/35abac39027e1135384b4.jpg",
+        "https://telegra.ph/file/ae83175b836acefc5f70e.jpg",
+        "https://telegra.ph/file/6cd7971071ce42fd27469.jpg",
+        "https://telegra.ph/file/a254e42db83d3f7b4baff.jpg",
+        "https://telegra.ph/file/a2c4379b49a1c063971a5.jpg",
+        "https://telegra.ph/file/79ce4acc445561a94b3a8.jpg",
+        "https://telegra.ph/file/4ec700ca9cba3aa505eb5.jpg",
+        "https://telegra.ph/file/d3065476c5b68343e8cc1.jpg",
+        "https://telegra.ph/file/7f253cf063c12447d0af1.jpg",
+        "https://telegra.ph/file/a39c5ee5c13003283713f.jpg",
+        "https://telegra.ph/file/5a4b2906e79e80a9caaa6.jpg",
+        "https://telegra.ph/file/fd3d552fd088e20d5c507.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

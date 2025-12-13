@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38479,
+    "title": "Hackee - Megumin (Konosuba)",
+    "sourceUrl": "https://telegra.ph/Hackee---Megumin-Konosuba-11-13",
+    "images": [
+        "https://telegra.ph/file/e40ff1610e4449449e6b6.jpg",
+        "https://telegra.ph/file/5b4bdb60aab6e1a21941e.jpg",
+        "https://telegra.ph/file/226b90316adc027e8adc2.jpg",
+        "https://telegra.ph/file/50aeb84490b27d7cd577b.jpg",
+        "https://telegra.ph/file/cd645b46e0ac577cc88c6.jpg",
+        "https://telegra.ph/file/3094941564b4a02b5d95f.jpg",
+        "https://telegra.ph/file/c5eb262e87f6ca227d09b.jpg",
+        "https://telegra.ph/file/c92cdeb86a666416f2f6a.jpg",
+        "https://telegra.ph/file/e7ef6026c3287882f457c.jpg",
+        "https://telegra.ph/file/bd8993c4b01881c64dac4.jpg",
+        "https://telegra.ph/file/9bae2a54fc2d7a931a413.jpg",
+        "https://telegra.ph/file/0a5ff6e5a69fdbe01a896.jpg",
+        "https://telegra.ph/file/5e3ced255c0baf1d5d53d.jpg",
+        "https://telegra.ph/file/f58ccebc53e94cb1758ea.jpg",
+        "https://telegra.ph/file/e5a5c54df784aceaa5d26.jpg",
+        "https://telegra.ph/file/fbfb1a68652569e3d87e6.jpg",
+        "https://telegra.ph/file/5e7a4d4ce5c6a28dffc58.jpg",
+        "https://telegra.ph/file/53bacdcacef228cbfe3d9.jpg",
+        "https://telegra.ph/file/5c728bcbf4732b12f8982.jpg",
+        "https://telegra.ph/file/771c7084dd9fba340b670.jpg",
+        "https://telegra.ph/file/3aad8b52bb63359c55c32.jpg",
+        "https://telegra.ph/file/db2e28db0ebe581dde0ec.jpg",
+        "https://telegra.ph/file/d1e8af448b2947970714d.jpg",
+        "https://telegra.ph/file/6855e5371c8ea3f9051b8.jpg"
+    ]
+};

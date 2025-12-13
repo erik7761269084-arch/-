@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40769,
+    "title": "Azami & Mikomin - Office Set",
+    "sourceUrl": "https://telegra.ph/Azami--Mikomin---Office-Set-10-02",
+    "images": [
+        "https://telegra.ph/file/a106c08d3fd7caaa3e702.jpg",
+        "https://telegra.ph/file/73b381bbb38c85ec7fd77.jpg",
+        "https://telegra.ph/file/59d8f2d9d68243bdc27b1.jpg",
+        "https://telegra.ph/file/89e03a554fb43f305f67e.jpg",
+        "https://telegra.ph/file/b261d0d972d5bdd3feacd.jpg",
+        "https://telegra.ph/file/bea3d1dad3733c41fe043.jpg",
+        "https://telegra.ph/file/0f832bce9d846a348a7ef.jpg",
+        "https://telegra.ph/file/022524654a2d2d8408c1c.jpg",
+        "https://telegra.ph/file/aa1b170ddd56ca1f3b242.jpg",
+        "https://telegra.ph/file/a8e462f9a6c82778932e6.jpg",
+        "https://telegra.ph/file/51b001ce9fc2a66bab66d.jpg",
+        "https://telegra.ph/file/2fbe94d08dc9d4ad09ea1.jpg",
+        "https://telegra.ph/file/9d812a3772d5e315e17e5.jpg",
+        "https://telegra.ph/file/5aaadfd79637e1345e5e7.jpg",
+        "https://telegra.ph/file/e3feb79bb6c1f59a5e9ae.jpg",
+        "https://telegra.ph/file/a3627f054146ec22583d9.jpg",
+        "https://telegra.ph/file/a76e16a40389cb81ab83b.jpg",
+        "https://telegra.ph/file/5abf0dee705dc69add755.jpg",
+        "https://telegra.ph/file/e047cd7df668ba49d07f5.jpg",
+        "https://telegra.ph/file/22aa3168d0177c9a5cf63.jpg",
+        "https://telegra.ph/file/8283ad445bbaf7675bfda.jpg",
+        "https://telegra.ph/file/d4d47435854ed0b56adf5.jpg",
+        "https://telegra.ph/file/f0a6eff47d5c04faa0ecd.jpg",
+        "https://telegra.ph/file/3440f927236a50d1c5b6b.jpg"
+    ]
+};

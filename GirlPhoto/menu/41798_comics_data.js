@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41798,
+    "title": "Azami - Fern (Sou Sou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Azami---Fern-Sou-Sou-No-Frieren-08-06",
+    "images": [
+        "https://i.ibb.co/cKJh2zqN/file-6782.jpg",
+        "https://i.ibb.co/BK6FXWpS/file-6786.jpg",
+        "https://i.ibb.co/LXDcwWx4/file-6783.jpg",
+        "https://i.ibb.co/WWQgnRmt/file-6781.jpg",
+        "https://i.ibb.co/Q3PTP6Qt/file-6785.jpg",
+        "https://i.ibb.co/Txp3y4S0/file-6784.jpg",
+        "https://i.ibb.co/0pwQp8SF/file-6788.jpg",
+        "https://i.ibb.co/jvJRFmL5/file-6789.jpg",
+        "https://i.ibb.co/TMywxptN/file-6790.jpg",
+        "https://i.ibb.co/5Wmch0Wz/file-6787.jpg",
+        "https://i.ibb.co/nMB1r63H/file-6791.jpg",
+        "https://i.ibb.co/jkX6kjn6/file-6792.jpg",
+        "https://i.ibb.co/zWXB1Jyz/file-6794.jpg",
+        "https://i.ibb.co/wZ5kQ9gj/file-6796.jpg",
+        "https://i.ibb.co/TBwM1LP8/file-6795.jpg",
+        "https://i.ibb.co/9kwL6xzC/file-6799.jpg",
+        "https://i.ibb.co/m5zQNS7X/file-6798.jpg",
+        "https://i.ibb.co/Tq4pnDDt/file-6797.jpg",
+        "https://i.ibb.co/PszcwFKj/file-6793.jpg",
+        "https://i.ibb.co/8n08PbcV/file-6800.jpg",
+        "https://i.ibb.co/rGjSdQ0k/file-6801.jpg",
+        "https://i.ibb.co/vxL9JzDk/file-6803.jpg",
+        "https://i.ibb.co/YqpsFFh/file-6804.jpg",
+        "https://i.ibb.co/RTyXHb26/file-6802.jpg"
+    ]
+};

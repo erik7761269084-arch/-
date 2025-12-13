@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 28476,
+    "title": "TITI-杀戮都市肛塞兔女郎COS[26P]",
+    "sourceUrl": "https://telegra.ph/TITI-%E6%9D%80%E6%88%AE%E9%83%BD%E5%B8%82%E8%82%9B%E5%A1%9E%E5%85%94%E5%A5%B3%E9%83%8ECOS26P-10-03",
+    "images": [
+        "https://telegra.ph/file/566578f9bf9d0d44a9c46.jpg",
+        "https://telegra.ph/file/6c47fe32459c8037f482d.jpg",
+        "https://telegra.ph/file/4fe1ff5f2ea4ea8f08534.jpg",
+        "https://telegra.ph/file/a2f03ad2f3282a072c880.jpg",
+        "https://telegra.ph/file/d5053e9695671d6c08251.jpg",
+        "https://telegra.ph/file/f37a6d4f8c048dac1be86.jpg",
+        "https://telegra.ph/file/4c78818e98d4710d2c996.jpg",
+        "https://telegra.ph/file/2370363343efaea3f49df.jpg",
+        "https://telegra.ph/file/d1de396eb934cec22d5bb.jpg",
+        "https://telegra.ph/file/70729be9c7de66142153f.jpg",
+        "https://telegra.ph/file/b14e34765494ab053a568.jpg",
+        "https://telegra.ph/file/2f03decc0acdab7da402c.jpg",
+        "https://telegra.ph/file/7e93b40577c7d2b3ded93.jpg",
+        "https://telegra.ph/file/f4fcfd1adc82736bfb4c2.jpg",
+        "https://telegra.ph/file/bbb6edd1e54a5031ae0df.jpg",
+        "https://telegra.ph/file/3a1e23f2151cef3f0166b.jpg",
+        "https://telegra.ph/file/af2fe26b22983650c45c8.jpg",
+        "https://telegra.ph/file/71f7b23a9f2e6d82d5794.jpg",
+        "https://telegra.ph/file/c352bb275c5de8ff13fa8.jpg",
+        "https://telegra.ph/file/32189bb894226819a841d.jpg",
+        "https://telegra.ph/file/891e77126c02a58c9326a.jpg",
+        "https://telegra.ph/file/b8afb2f2544dc1bc38e1b.jpg",
+        "https://telegra.ph/file/fdb10a4f83a1b0bea3517.jpg",
+        "https://telegra.ph/file/4046378e2a5cef9258e76.jpg",
+        "https://telegra.ph/file/0d777c43ffe7d778b5721.jpg",
+        "https://telegra.ph/file/6cf62d42c5a9b33db7798.jpg"
+    ]
+};

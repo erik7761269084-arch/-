@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43374,
+    "title": "けんけん – けん研 (snexxxxxxx) [Fantia] 2022年10月 [150P2V-330MB]",
+    "sourceUrl": "https://telegra.ph/%E3%81%91%E3%82%93%E3%81%91%E3%82%93--%E3%81%91%E3%82%93%E7%A0%94-snexxxxxxx-Fantia-2022%E5%B9%B410%E6%9C%88-150P2V-330MB-11-07",
+    "images": [
+        "https://telegra.ph/file/ed0eafe130403de7ae600.jpg",
+        "https://telegra.ph/file/1c41d6269606523429184.jpg",
+        "https://telegra.ph/file/fc47867389ceff2c7a9f4.jpg",
+        "https://telegra.ph/file/8f5d159d050ebaa697a55.jpg",
+        "https://telegra.ph/file/92569313f1075ed441ce4.jpg",
+        "https://telegra.ph/file/7a11f8e0cc5e80922fd65.jpg",
+        "https://telegra.ph/file/9224024d0ce5a406b3b31.jpg",
+        "https://telegra.ph/file/6ef8bf5f9352922978b43.jpg",
+        "https://telegra.ph/file/35265fe31453fa1ff5993.jpg",
+        "https://telegra.ph/file/17ba2bd66253afea317c3.jpg",
+        "https://telegra.ph/file/fd73987aa9340601e6095.jpg",
+        "https://telegra.ph/file/84b576bf5cdf45de5e474.jpg",
+        "https://telegra.ph/file/aa84d37d0ca9a26110861.jpg",
+        "https://telegra.ph/file/51124c8541a04ffcfbc27.jpg",
+        "https://telegra.ph/file/827368debb8a96d7abf58.jpg",
+        "https://telegra.ph/file/d9ab9af574a259a07d0ed.jpg",
+        "https://telegra.ph/file/a45a94d59c7ea0b6d4995.jpg",
+        "https://telegra.ph/file/702165e82ca766c43990f.jpg",
+        "https://telegra.ph/file/4e83f6397e1006afca9f2.jpg",
+        "https://telegra.ph/file/f05bfd2d3a083ca3a13b0.jpg",
+        "https://telegra.ph/file/33a96b88061a37c5ba64e.jpg",
+        "https://telegra.ph/file/68c99982b0e88fbbf08d9.jpg",
+        "https://telegra.ph/file/a6afb71c1b4fc94651860.jpg",
+        "https://telegra.ph/file/3b711a4b3c7c279aece20.jpg",
+        "https://telegra.ph/file/16ac13a8d574204149a87.jpg"
+    ]
+};

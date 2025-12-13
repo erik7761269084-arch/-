@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37057,
+    "title": "Cosplay Tina很妖孽呀 圣诞节",
+    "sourceUrl": "https://telegra.ph/Cosplay-Tina很妖孽呀-圣诞节-03-06",
+    "images": [
+        "https://telegra.ph/file/926ab5f978c35ba099863.jpg",
+        "https://telegra.ph/file/b15201f365daeacaa4ce9.jpg",
+        "https://telegra.ph/file/c7584d7c838fcc0797611.jpg",
+        "https://telegra.ph/file/5cdc4979ec8f60901fe53.jpg",
+        "https://telegra.ph/file/aed6973a6c91657db035b.jpg",
+        "https://telegra.ph/file/7a1c6dbe4076aa2c79f71.jpg",
+        "https://telegra.ph/file/6ffcebd5e277e4d25703d.jpg",
+        "https://telegra.ph/file/9f96ceb97ae82dcc6c6dd.jpg",
+        "https://telegra.ph/file/0fa14559bb8a358a7e2f5.jpg",
+        "https://telegra.ph/file/2a13a5aaae5217e5dee6e.jpg",
+        "https://telegra.ph/file/629886a166752baad733a.jpg",
+        "https://telegra.ph/file/37099a0ec803ba755029d.jpg",
+        "https://telegra.ph/file/6e841205b34c5c664c8ab.jpg",
+        "https://telegra.ph/file/0e86ece192dec6e0f247a.jpg",
+        "https://telegra.ph/file/22e8e18f1688d3ace3664.jpg",
+        "https://telegra.ph/file/006d68272654a43de4f5e.jpg",
+        "https://telegra.ph/file/f324dab7f7f662bd4dcaa.jpg",
+        "https://telegra.ph/file/b7db792ae01ed77726789.jpg",
+        "https://telegra.ph/file/1fcf789317ce945b0833c.jpg",
+        "https://telegra.ph/file/ae3ca282d57b8836ef49b.jpg",
+        "https://telegra.ph/file/7c9f526ce4624bddfaeaa.jpg",
+        "https://telegra.ph/file/b094d04a7a1a66e1fb877.jpg",
+        "https://telegra.ph/file/9fef65deb8a8d5fe81716.jpg",
+        "https://telegra.ph/file/5bef079db3db1fb612d03.jpg",
+        "https://telegra.ph/file/82606985dadc8334c4e08.jpg"
+    ]
+};

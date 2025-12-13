@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34045,
+    "title": "Zenny 신재은, [SAINT Photolife] Snow Hotel Set.01",
+    "sourceUrl": "https://telegra.ph/Zenny-신재은-SAINT-Photolife-Snow-Hotel-Set01-05-05",
+    "images": [
+        "https://telegra.ph/file/3d3f63340ae3884f99043.jpg",
+        "https://telegra.ph/file/56a3697947ca414fe4906.jpg",
+        "https://telegra.ph/file/efb1561cc6c798f4eca34.jpg",
+        "https://telegra.ph/file/37d89a01b951378ea454d.jpg",
+        "https://telegra.ph/file/a5ffd7c2c87915399a0e4.jpg",
+        "https://telegra.ph/file/3332bb25fd9de623c3e90.jpg",
+        "https://telegra.ph/file/d9a4c742dae628d9e5c9a.jpg",
+        "https://telegra.ph/file/cf98acf97ffae4f01373a.jpg",
+        "https://telegra.ph/file/14cef9136b7c701d15439.jpg",
+        "https://telegra.ph/file/f36b9fe45e43e40b28263.jpg",
+        "https://telegra.ph/file/a33f24e58f217c4babe0a.jpg",
+        "https://telegra.ph/file/271ed599cc63a139967b2.jpg",
+        "https://telegra.ph/file/3cd81a995385beb70ed0d.jpg",
+        "https://telegra.ph/file/e8eb33b26a9de7cafbb6d.jpg",
+        "https://telegra.ph/file/2b5005aca5286278f3cd2.jpg",
+        "https://telegra.ph/file/bdd10ed9313091f221ed9.jpg",
+        "https://telegra.ph/file/097abc42766805f69da1f.jpg",
+        "https://telegra.ph/file/9fc1846d4755ab06d7143.jpg",
+        "https://telegra.ph/file/827054b59734c057dd017.jpg",
+        "https://telegra.ph/file/94acc4f274d3f08c6fd65.jpg",
+        "https://telegra.ph/file/52e0132c45fc308deb4cf.jpg",
+        "https://telegra.ph/file/5ac7368bf97b7225ed245.jpg",
+        "https://telegra.ph/file/954c22e2da4cb70e1c11e.jpg",
+        "https://telegra.ph/file/9454e2535a59a4636f4b5.jpg",
+        "https://telegra.ph/file/18a070f33fdd9b214f634.jpg"
+    ]
+};

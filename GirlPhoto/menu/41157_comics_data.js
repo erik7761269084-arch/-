@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41157,
+    "title": "Gumiho & Mikomin - Ganyu & Shenhe (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Gumiho--Mikomin---Ganyu--Shenhe-Genshin-Impact-02-14",
+    "images": [
+        "https://telegra.ph/file/c88630b2c519afb711162.jpg",
+        "https://telegra.ph/file/970d3a031ba5fe7201d8f.jpg",
+        "https://telegra.ph/file/d1e38af4ac14481ed0ffb.jpg",
+        "https://telegra.ph/file/4760e6fb9b3b8fb8ea3b9.jpg",
+        "https://telegra.ph/file/d0c916f1cff3d6aebd71b.jpg",
+        "https://telegra.ph/file/2727f36525b55aae8bc5c.jpg",
+        "https://telegra.ph/file/cf809137f5342814ceed3.jpg",
+        "https://telegra.ph/file/8eb756b3cc989c93283a9.jpg",
+        "https://telegra.ph/file/c635e3e84d0d950532c20.jpg",
+        "https://telegra.ph/file/a8f80f987525ef3bde57f.jpg",
+        "https://telegra.ph/file/3a990485b9d30a45398b6.jpg",
+        "https://telegra.ph/file/f504e1497e3cf0a6b823f.jpg",
+        "https://telegra.ph/file/94f0867e82e78a29c04d2.jpg",
+        "https://telegra.ph/file/8d17a2c6ccf654a3aeb8d.jpg",
+        "https://telegra.ph/file/f985ecce7319901b30fda.jpg",
+        "https://telegra.ph/file/430b6c344cc10368fa17e.jpg",
+        "https://telegra.ph/file/f4daa7ba9802b030bd71e.jpg",
+        "https://telegra.ph/file/32839197cc7b34b1de283.jpg",
+        "https://telegra.ph/file/05e4d3136a3ad683461f1.jpg",
+        "https://telegra.ph/file/6ef7ee3af95c2ff2236ad.jpg",
+        "https://telegra.ph/file/fd8a342c9515784f3938c.jpg",
+        "https://telegra.ph/file/8311ce8ba277d6c1d4afc.jpg",
+        "https://telegra.ph/file/db26a950bb8f436cbe405.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39198,
+    "title": "Akemi - Collab (Kimetsu no Yaiba)",
+    "sourceUrl": "https://telegra.ph/Akemi---Collab-Kimetsu-no-Yaiba-05-31",
+    "images": [
+        "https://telegra.ph/file/d0f7870db599668170ed3.jpg",
+        "https://telegra.ph/file/cbab54886af626955ca75.jpg",
+        "https://telegra.ph/file/01cfc2beec436b0ec54cb.jpg",
+        "https://telegra.ph/file/dbb78e2d80db3c6278bac.jpg",
+        "https://telegra.ph/file/574712b14d4ed49464752.jpg",
+        "https://telegra.ph/file/43eceac833b2fb91ee4f8.jpg",
+        "https://telegra.ph/file/d5ca457d790de84af3430.jpg",
+        "https://telegra.ph/file/069caac495e7a32372909.jpg",
+        "https://telegra.ph/file/13be458227f2258c0dd00.jpg",
+        "https://telegra.ph/file/b7353bff88f51328cd59c.jpg",
+        "https://telegra.ph/file/56e95b6a2d93c85062abf.jpg",
+        "https://telegra.ph/file/a582ed29c072554c07328.jpg",
+        "https://telegra.ph/file/4fb47a019d70137b5199a.jpg",
+        "https://telegra.ph/file/79028e9f8b3de8d845b50.jpg",
+        "https://telegra.ph/file/758711ad6927082980cf1.jpg",
+        "https://telegra.ph/file/74930e2b4bec2f875b2b2.jpg",
+        "https://telegra.ph/file/41743ec42db96ca6edd1c.jpg",
+        "https://telegra.ph/file/78128acc82c741e5758cc.jpg",
+        "https://telegra.ph/file/7e13c7216698af8217b3d.jpg",
+        "https://telegra.ph/file/765c72efdc4d9f6d61d2f.jpg",
+        "https://telegra.ph/file/c878a51246c95a3eab31c.jpg",
+        "https://telegra.ph/file/816a3b861c1da25245037.jpg",
+        "https://telegra.ph/file/b4d848f55af5e69798f55.jpg",
+        "https://telegra.ph/file/3a0386ea7dd6463407535.jpg",
+        "https://telegra.ph/file/ca3c8e285958609261a06.jpg",
+        "https://telegra.ph/file/6d5782c1e72b0c2cf7cc7.jpg"
+    ]
+};

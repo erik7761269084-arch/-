@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30785,
+    "title": "Kayo Sugimoto 杉本佳代, ＦＲＩＤＡＹデジタル写真集 「東海No.1巨乳キャスター Ｇカップ乳初ヌード」 Set.01",
+    "sourceUrl": "https://telegra.ph/Kayo-Sugimoto-杉本佳代-ＦＲＩＤＡＹデジタル写真集-東海No1巨乳キャスター-Ｇカップ乳初ヌード-Set01-07-13",
+    "images": [
+        "https://telegra.ph/file/930b8b9cba901c16fe6d1.jpg",
+        "https://telegra.ph/file/b265f9b7d58f98dd39f61.jpg",
+        "https://telegra.ph/file/96cf14e79571bc456533f.jpg",
+        "https://telegra.ph/file/14ceedc1e85415771343b.jpg",
+        "https://telegra.ph/file/98360d60c66f11a7b5b33.jpg",
+        "https://telegra.ph/file/f3ccdcaa13d382467e064.jpg",
+        "https://telegra.ph/file/7aaa3f7349942bb3365d1.jpg",
+        "https://telegra.ph/file/d3a13c0e7ce59b0387247.jpg",
+        "https://telegra.ph/file/6a9a6331663d7b33241e4.jpg",
+        "https://telegra.ph/file/d985a3ebcfb6b60fb5cff.jpg",
+        "https://telegra.ph/file/9a906bbef7a69935d8077.jpg",
+        "https://telegra.ph/file/85435e9f57d0e09acc9be.jpg",
+        "https://telegra.ph/file/fb7b611a58b68d52ee1a8.jpg",
+        "https://telegra.ph/file/f58f907385b1c509239f7.jpg",
+        "https://telegra.ph/file/63b55c802fb692689bb86.jpg",
+        "https://telegra.ph/file/ec1d0f6cf07a13e6a865d.jpg",
+        "https://telegra.ph/file/dc9a6374b0cedc9b00dbf.jpg",
+        "https://telegra.ph/file/fdd4bed297fa377a06068.jpg",
+        "https://telegra.ph/file/ed836ea7be5cb75d548a2.jpg",
+        "https://telegra.ph/file/eea771f6e2d6d8afeeebd.jpg",
+        "https://telegra.ph/file/ed4bfc10661dbc4140961.jpg",
+        "https://telegra.ph/file/7d47d7a4d27dceb3e9734.jpg",
+        "https://telegra.ph/file/c87a6be4dbd345ee7a80d.jpg",
+        "https://telegra.ph/file/9069b23c662ebbf3f943c.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

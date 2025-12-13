@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39509,
+    "title": "Sara Carvalho - Velma (Scooby Doo)",
+    "sourceUrl": "https://telegra.ph/Sara-Carvalho---Velma-Scooby-Doo-08-15",
+    "images": [
+        "https://telegra.ph/file/8898d3f69a2399cd41eb4.jpg",
+        "https://telegra.ph/file/78ce4974b3f81802375fd.jpg",
+        "https://telegra.ph/file/15422b3f175cbb792070b.jpg",
+        "https://telegra.ph/file/5ad82b419bec77748ca77.jpg",
+        "https://telegra.ph/file/6ec362e7cb8f017ebdf89.jpg",
+        "https://telegra.ph/file/afdbf3fc0e158cda96d02.jpg",
+        "https://telegra.ph/file/1fe582f2ed40ed1f46d67.jpg",
+        "https://telegra.ph/file/81bc9338fb99338e1b679.jpg",
+        "https://telegra.ph/file/0178c206045f49f27040a.jpg",
+        "https://telegra.ph/file/1f0ea29c436be974835e2.jpg",
+        "https://telegra.ph/file/5bbc2bb7b7524747c3929.jpg",
+        "https://telegra.ph/file/633d7899ceae550d8605b.jpg",
+        "https://telegra.ph/file/9e8e3f0b8ab03667a0bdb.jpg",
+        "https://telegra.ph/file/51dd56c07675d9f757e6c.jpg",
+        "https://telegra.ph/file/44fc925a8f2fe6e198784.jpg",
+        "https://telegra.ph/file/e118686b2ae3f28c935e2.jpg",
+        "https://telegra.ph/file/85a10c1b54d3e85e5aebe.jpg",
+        "https://telegra.ph/file/598cc355b636a3f0c5ff9.jpg",
+        "https://telegra.ph/file/8e2d9e7e5a9767dabe26e.jpg",
+        "https://telegra.ph/file/c1e8e67894fab04d6914e.jpg",
+        "https://telegra.ph/file/eabe0a75a7dfd2197829f.jpg",
+        "https://telegra.ph/file/e640c7ada27143beb5545.jpg",
+        "https://telegra.ph/file/d7012439307917bb69e64.jpg",
+        "https://telegra.ph/file/682d37b6dd0b5db4325d2.jpg"
+    ]
+};

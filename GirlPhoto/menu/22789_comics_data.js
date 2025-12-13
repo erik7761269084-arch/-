@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22789,
+    "title": "蠢沫沫 - NO.001 真爱版 Marie Rose [26P-339MB]",
+    "sourceUrl": "https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB---NO001-%E7%9C%9F%E7%88%B1%E7%89%88-Marie-Rose-26P-339MB-12-14",
+    "images": [
+        "https://telegra.ph/file/9c98c7fa8310a77464c36.jpg",
+        "https://telegra.ph/file/472823975d60a0ac5f7df.jpg",
+        "https://telegra.ph/file/292612ce49bffcbea3bd5.jpg",
+        "https://telegra.ph/file/57c6e771962e3fae59fb2.jpg",
+        "https://telegra.ph/file/c6e2831cf996b834485a7.jpg",
+        "https://telegra.ph/file/e0f5764a9938562be8a6b.jpg",
+        "https://telegra.ph/file/405ae75f63cc3ac0468c7.jpg",
+        "https://telegra.ph/file/c3471b6c1f51ed9911249.jpg",
+        "https://telegra.ph/file/cd0cd1d53bb9b08365a1b.jpg",
+        "https://telegra.ph/file/ba8cb47d68453f2b22b12.jpg",
+        "https://telegra.ph/file/6336881eefdece2821a13.jpg",
+        "https://telegra.ph/file/be238e951f3d1cd9f9b84.jpg",
+        "https://telegra.ph/file/f449dbfb394e5332d268b.jpg",
+        "https://telegra.ph/file/1bfa2d5af10f159d80b11.jpg",
+        "https://telegra.ph/file/301d38149f27dd4e44aab.jpg",
+        "https://telegra.ph/file/a0adcf67e34ba4910ffb3.jpg",
+        "https://telegra.ph/file/e856c10b4994ead322de1.jpg",
+        "https://telegra.ph/file/267829b0133274cda3d49.jpg",
+        "https://telegra.ph/file/15c90d428cb134133b71c.jpg",
+        "https://telegra.ph/file/d19b8a15459325d82d8c4.jpg",
+        "https://telegra.ph/file/de5feb68da32a1fc1c7dd.jpg",
+        "https://telegra.ph/file/3a84fa4a8d1b37c9d63d8.jpg",
+        "https://telegra.ph/file/bcb5d36022a211173f41e.jpg",
+        "https://telegra.ph/file/fe5801662f03967d045af.jpg",
+        "https://telegra.ph/file/bb9af1ec90f457affe664.jpg",
+        "https://telegra.ph/file/89706a3a70bee89850819.jpg"
+    ]
+};

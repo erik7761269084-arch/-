@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40192,
+    "title": "PingPing - Honokab(Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/PingPing---HonokabDead-or-Alive-02-27",
+    "images": [
+        "https://telegra.ph/file/a9d51eac01ce9e7138e22.jpg",
+        "https://telegra.ph/file/e216c9f4be07481b862f7.jpg",
+        "https://telegra.ph/file/f37bf339b73d1e4a90a91.jpg",
+        "https://telegra.ph/file/0c49947e1c1dfd4c2ad23.jpg",
+        "https://telegra.ph/file/3db57d300ace768d78119.jpg",
+        "https://telegra.ph/file/96b5abcc3bd689ba9de04.jpg",
+        "https://telegra.ph/file/8cf73dbdf62538bf0a30e.jpg",
+        "https://telegra.ph/file/5f6b3f99a29dddb2aab2b.jpg",
+        "https://telegra.ph/file/4ebaf883dfdfbd55bc907.jpg",
+        "https://telegra.ph/file/3e93a884ab573f52b2e10.jpg",
+        "https://telegra.ph/file/f645d22ce90b9db9613c9.jpg",
+        "https://telegra.ph/file/87c27b327bce842e2fec2.jpg",
+        "https://telegra.ph/file/2ce40d169de03967adf10.jpg",
+        "https://telegra.ph/file/f7b36aa907a49304a0632.jpg",
+        "https://telegra.ph/file/8ebbcf2505fd769e27ec8.jpg",
+        "https://telegra.ph/file/9e37c93f59cdb555d0606.jpg",
+        "https://telegra.ph/file/fee66f6ae459ff4a501e8.jpg",
+        "https://telegra.ph/file/5cf0423b5eb410b37d2e0.jpg",
+        "https://telegra.ph/file/ea4fd5f2985a8a7d9dd32.jpg",
+        "https://telegra.ph/file/a61bc36e8fe57afda35c1.jpg",
+        "https://telegra.ph/file/91b73bae321d056ed1b00.jpg",
+        "https://telegra.ph/file/aeee832c73ced6f0a5475.jpg",
+        "https://telegra.ph/file/140db3550104573853063.jpg",
+        "https://telegra.ph/file/352c558e455ae10c9c23e.jpg",
+        "https://telegra.ph/file/e73926ee88aa544fbaba0.jpg",
+        "https://telegra.ph/file/6efa6dc99493cbd2af988.jpg"
+    ]
+};

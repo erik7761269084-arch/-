@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38755,
+    "title": "Byoru - Lei Fang Halloween (Dead or Alive)",
+    "sourceUrl": "https://telegra.ph/Byoru---Lei-Fang-Halloween-Dead-or-Alive-01-22",
+    "images": [
+        "https://telegra.ph/file/e9f51b8504ebe5354a65d.jpg",
+        "https://telegra.ph/file/71159c2c525294fd8d817.jpg",
+        "https://telegra.ph/file/cc947b47e59b0a2b223db.jpg",
+        "https://telegra.ph/file/e3e80ddaa8d390baf423e.jpg",
+        "https://telegra.ph/file/206efb798b3a83b4a9031.jpg",
+        "https://telegra.ph/file/507f38eb884cf138305a9.jpg",
+        "https://telegra.ph/file/3e2ddac98d254fb11cb52.jpg",
+        "https://telegra.ph/file/0cc7d1d11f3e63a32cf75.jpg",
+        "https://telegra.ph/file/a5f605b6169ecfbaab210.jpg",
+        "https://telegra.ph/file/b719f23a25d3822861295.jpg",
+        "https://telegra.ph/file/1e9165f800e8397ef6ff9.jpg",
+        "https://telegra.ph/file/d56c93855a3c1071280cc.jpg",
+        "https://telegra.ph/file/6e83df2bcb7b9eb37687a.jpg",
+        "https://telegra.ph/file/6d101f75737eb64fff575.jpg",
+        "https://telegra.ph/file/5115931c3fd2d769d1c0b.jpg",
+        "https://telegra.ph/file/39213b877e1973eea1d9f.jpg",
+        "https://telegra.ph/file/ac2545a4da06d2dd44981.jpg",
+        "https://telegra.ph/file/cba1999649a53ab271bcb.jpg",
+        "https://telegra.ph/file/6db7fc29650152358b832.jpg",
+        "https://telegra.ph/file/c2ddd371dd3661a9a5b66.jpg",
+        "https://telegra.ph/file/b7d19c7f7d2f7b94e0ba5.jpg",
+        "https://telegra.ph/file/660186242143562350d51.jpg",
+        "https://telegra.ph/file/73d1b10b06df0e9f1e8f7.jpg"
+    ]
+};
