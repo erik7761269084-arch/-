@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46478,
+    "title": "【阿包也是兔娘】NO.038 贞德兔女郎 - Page 1",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘NO038-贞德兔女郎---Page-1-01-03",
+    "images": [
+        "https://telegra.ph/file/1ae92228b334903ec71e0.jpg",
+        "https://telegra.ph/file/cab16e43e010dba3b01b2.jpg",
+        "https://telegra.ph/file/6e8e8ab9bed0b7475397f.jpg",
+        "https://telegra.ph/file/4ebe8c0082839600f4aed.jpg",
+        "https://telegra.ph/file/bc1edc4b9e342bd1a8e09.jpg",
+        "https://telegra.ph/file/677152b396dc16d666bfe.jpg",
+        "https://telegra.ph/file/a5775c5fe5ca3684030c4.jpg",
+        "https://telegra.ph/file/624ab5e94d2aad22488e0.jpg",
+        "https://telegra.ph/file/c7e50074f05dcc9e0a4e3.jpg",
+        "https://telegra.ph/file/a5ed254b1db367f71da22.jpg",
+        "https://telegra.ph/file/c5c430f53108fe81fac43.jpg",
+        "https://telegra.ph/file/e11833edbca6a3026c76e.jpg",
+        "https://telegra.ph/file/25914d411e9ff556572a1.jpg",
+        "https://telegra.ph/file/451d05ed8a80b3d9db4d2.jpg",
+        "https://telegra.ph/file/3190378a717b919b257e5.jpg",
+        "https://telegra.ph/file/21aa5c1f95d56861fd58f.jpg",
+        "https://telegra.ph/file/b6f6b090b0f1375a39779.jpg",
+        "https://telegra.ph/file/5dc5d4287877b0a715c55.jpg",
+        "https://telegra.ph/file/4b51cc00df4c840457257.jpg",
+        "https://telegra.ph/file/fb0922e3e1a7084c071e3.jpg",
+        "https://telegra.ph/file/0c0dddec49da0c0996d50.jpg",
+        "https://telegra.ph/file/1ec28b65179a88bdd4dc1.jpg",
+        "https://telegra.ph/file/4210a4e43baf3e23a5147.jpg",
+        "https://telegra.ph/file/caccb7f3c38e527781afc.jpg"
+    ]
+};

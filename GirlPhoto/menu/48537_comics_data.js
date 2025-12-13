@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48537,
+    "title": "Machi - Fern - Page 1",
+    "sourceUrl": "https://telegra.ph/Machi---Fern---Page-1-08-05",
+    "images": [
+        "https://telegra.ph/file/faf6c1ed7989acc948ce8.jpg",
+        "https://telegra.ph/file/3d4285733195da156fdbe.jpg",
+        "https://telegra.ph/file/54214bb58e22344c2335d.jpg",
+        "https://telegra.ph/file/36b5fdc52cf358140f4eb.jpg",
+        "https://telegra.ph/file/0c17335992fafc057e213.jpg",
+        "https://telegra.ph/file/0093218936f0e443432e6.jpg",
+        "https://telegra.ph/file/603ffc9cff8696d56be51.jpg",
+        "https://telegra.ph/file/96e6129cbd2f53ddbb4f5.jpg",
+        "https://telegra.ph/file/110d1b1e3017f17ccb1b7.jpg",
+        "https://telegra.ph/file/bca63a4b612cf3a2179a1.jpg",
+        "https://telegra.ph/file/dab78d14833600cd922d9.jpg",
+        "https://telegra.ph/file/6c31a9df8dec5e5877989.jpg",
+        "https://telegra.ph/file/4e33f7ea2ab252e94076a.jpg",
+        "https://telegra.ph/file/39d0b60eb71710954c86c.jpg",
+        "https://telegra.ph/file/e6f3409aef1ac5940a98b.jpg",
+        "https://telegra.ph/file/9018b540a1bd32d05b330.jpg",
+        "https://telegra.ph/file/10f2bcd17d3f15ee426a2.jpg",
+        "https://telegra.ph/file/1f512cf07984c50160eb0.jpg",
+        "https://telegra.ph/file/3913eca73d5b2337d4a0c.jpg",
+        "https://telegra.ph/file/0d16a6a5faf6c4c28c8b8.jpg",
+        "https://telegra.ph/file/993acf1b9b504717dfd08.jpg",
+        "https://telegra.ph/file/84df4848cce4f33657c23.jpg",
+        "https://telegra.ph/file/b295bf1fb380ae4a4088f.jpg"
+    ]
+};

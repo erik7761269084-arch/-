@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48282,
+    "title": "Littlebluegirl6 - Tifa - Page 1",
+    "sourceUrl": "https://telegra.ph/Littlebluegirl6---Tifa---Page-1-06-16",
+    "images": [
+        "https://telegra.ph/file/3bf298abfc08fb12fa30d.jpg",
+        "https://telegra.ph/file/fbbbf22fd369c3a42aa92.jpg",
+        "https://telegra.ph/file/90149fbf42f44be4a7221.jpg",
+        "https://telegra.ph/file/e9bf65b6ff2eda4d52898.jpg",
+        "https://telegra.ph/file/1d7002644d6a8c44e7131.jpg",
+        "https://telegra.ph/file/206e9a68954530ccbe131.jpg",
+        "https://telegra.ph/file/1a9321e6a7069e84205e2.jpg",
+        "https://telegra.ph/file/36d836c6dad7d15a0a42e.jpg",
+        "https://telegra.ph/file/6c26afe17487a4559af2c.jpg",
+        "https://telegra.ph/file/617c3dce190870b7fbd4a.jpg",
+        "https://telegra.ph/file/cce1060973a139e649c99.jpg",
+        "https://telegra.ph/file/778a14963e71c27024a42.jpg",
+        "https://telegra.ph/file/6b33ba3264f5e7adee27b.jpg",
+        "https://telegra.ph/file/ef57f1c519eda9c529467.jpg",
+        "https://telegra.ph/file/6e2ee4d0dfb349e16310e.jpg",
+        "https://telegra.ph/file/53d0a728cc88ed4f08cd9.jpg",
+        "https://telegra.ph/file/209ad8b9e1fcbfdc35c85.jpg",
+        "https://telegra.ph/file/13d38e1a7bb4e97e2e03e.jpg",
+        "https://telegra.ph/file/0ef7d984969edac0a00d4.jpg",
+        "https://telegra.ph/file/f087f31b5a68697be338f.jpg",
+        "https://telegra.ph/file/b28b35e47bffc0024bd32.jpg",
+        "https://telegra.ph/file/b00658e5f29fa3d455091.jpg",
+        "https://telegra.ph/file/a1bda891a66bf8e3b4f4a.jpg",
+        "https://telegra.ph/file/6b8fb9b4920a0bc441428.jpg",
+        "https://telegra.ph/file/00043d1491b5ed4d19d6d.jpg",
+        "https://telegra.ph/file/e06fdae59ab77c4aa0dcb.jpg"
+    ]
+};

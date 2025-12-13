@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48029,
+    "title": "MissWarmJ - Mashu clear see through - Page 1",
+    "sourceUrl": "https://telegra.ph/MissWarmJ---Mashu-clear-see-through---Page-1-05-24",
+    "images": [
+        "https://telegra.ph/file/219b66e2e97b1ab771bcd.jpg",
+        "https://telegra.ph/file/f5c0f09948db3faa6a802.jpg",
+        "https://telegra.ph/file/5ed272c0d7523111e4115.jpg",
+        "https://telegra.ph/file/bbd657a7361023c9c26b5.jpg",
+        "https://telegra.ph/file/5b2ad003d403318b571a7.jpg",
+        "https://telegra.ph/file/bdb4eaa41159bab416ba2.jpg",
+        "https://telegra.ph/file/8684ef3a986ec0c114c75.jpg",
+        "https://telegra.ph/file/8e9d5e02be93d4b2d2b61.jpg",
+        "https://telegra.ph/file/a90bbfbf72541417d2516.jpg",
+        "https://telegra.ph/file/7825d5206831e75ad1aa7.jpg",
+        "https://telegra.ph/file/47aeb4287c8234268a0aa.jpg",
+        "https://telegra.ph/file/cbafbd44e41ad59207818.jpg",
+        "https://telegra.ph/file/ae8e366dd4a40239c737a.jpg",
+        "https://telegra.ph/file/e19064fb2a9b1fe87fdf5.jpg",
+        "https://telegra.ph/file/6f92188eded8f83344048.jpg",
+        "https://telegra.ph/file/e066f33d80c22e383192e.jpg",
+        "https://telegra.ph/file/b3925a35e3b08b99c76d0.jpg",
+        "https://telegra.ph/file/c958feaa5ed4cc2668e4c.jpg",
+        "https://telegra.ph/file/ed82cdf4511be3245d7bb.jpg",
+        "https://telegra.ph/file/0783b1c95476c9f13c0b7.jpg",
+        "https://telegra.ph/file/8ee91a9b3bc871bc334d8.jpg",
+        "https://telegra.ph/file/8efb32c431e53d980961f.jpg",
+        "https://telegra.ph/file/11c0e4e3c86763f87b229.jpg"
+    ]
+};

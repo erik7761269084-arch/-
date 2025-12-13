@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47073,
+    "title": "FELIX ARGYLE LEWD 18+ VELVET CHAN - Page 1",
+    "sourceUrl": "https://telegra.ph/FELIX-ARGYLE-LEWD-18-VELVET-CHAN---Page-1-02-27",
+    "images": [
+        "https://telegra.ph/file/c6de31bb96eed27f6ea2e.jpg",
+        "https://telegra.ph/file/bb1d021963e626a01bb09.jpg",
+        "https://telegra.ph/file/d015dd1e5e4dbaf231eb8.jpg",
+        "https://telegra.ph/file/82e02103647ce7c1a4f91.jpg",
+        "https://telegra.ph/file/a8ee0afc2382a60a33e9d.jpg",
+        "https://telegra.ph/file/7feaa72fe7caa7002f86a.jpg",
+        "https://telegra.ph/file/2ec09275deccf56820db7.jpg",
+        "https://telegra.ph/file/0724e5336da7a1366d012.jpg",
+        "https://telegra.ph/file/a6ff20d8fae4329066834.jpg",
+        "https://telegra.ph/file/f0408730aea2570c324cf.jpg",
+        "https://telegra.ph/file/f8103bb5f4d517b7b750a.jpg",
+        "https://telegra.ph/file/ce5928f15d1f46f9e1916.jpg",
+        "https://telegra.ph/file/e130a4b96fc9a27360d0a.jpg",
+        "https://telegra.ph/file/b05b17e52837f425d3821.jpg",
+        "https://telegra.ph/file/3e97f5798380b63b03bd1.jpg",
+        "https://telegra.ph/file/adc2c3e3711fbc258751f.jpg",
+        "https://telegra.ph/file/f3445a99fc89112ad5de3.jpg",
+        "https://telegra.ph/file/fd93e6b995435dca28ea6.jpg",
+        "https://telegra.ph/file/a16d6c8a4a6616f8d37fb.jpg",
+        "https://telegra.ph/file/7cb2986a47e8d626fd64c.jpg",
+        "https://telegra.ph/file/9a5a8ca49e9f3ed4c0d07.jpg",
+        "https://telegra.ph/file/937a01cb725c7778c4208.jpg",
+        "https://telegra.ph/file/45480f9a5bfe631f152a6.jpg",
+        "https://telegra.ph/file/94f75aca0ab64fe5282e3.jpg",
+        "https://telegra.ph/file/e73a821fdb51d1806c13e.jpg"
+    ]
+};

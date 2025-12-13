@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49804,
+    "title": "沖田凜花 - 常闇トワ - Page 1",
+    "sourceUrl": "https://telegra.ph/沖田凜花---常闇トワ---Page-1-02-23",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBRnu2SqOzKbEAABu9e89B5fdTasvaAAAlInAAJ_oNlVOXzHKmLPBC82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBVnu2StVFNVpXOY4o5Z4_JKvO3kRgACUycAAn-g2VWFp7ez9Zn2NDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBZnu2SwS5TKTv5KpUnFXwHmhF13qQACVCcAAn-g2VUY_R6KNHCpDDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBdnu2SziPQAAfIKmajJed4JS8NrUXgAAlUnAAJ_oNlVNHnOcSOQprc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBhnu2S2hV00-1BS8JzRZmC_PHU-EwACVicAAn-g2VVrd0HatkqrmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBlnu2S4X8-8h0Pad3ODdbROmEVJkgACVycAAn-g2VXdUrgE9UvWEjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBtnu2S7KjxMji19kg89TVIdKB1eDAACWScAAn-g2VV1Gxh03JiwAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHB1nu2S95HKzIa5VeqBp_1xwmvMT2AACWycAAn-g2VXQNLWzE4ABNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHB9nu2TASy2JvNwoKXCm49Jj-OCaCgACXScAAn-g2VVRJAyfLBI81zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCFnu2TDObYrwMLwUeYUPNo7IyU70wACXycAAn-g2VX9ip09n6aq9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCRnu2TFj2tx3rsy6DdhyWedrR0mRQACYicAAn-g2VXtwUUvuSWA7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCZnu2TIdwefYkuRIu99u6YMOCc2JAACZCcAAn-g2VXKVVdUBQgKQzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHChnu2UIUrv4khYAAaNyDlBQ4_JQrdQAAmcnAAJ_oNlVO-Lcu6sxkZg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHClnu2ULqPMcgz0JkDxSF40H1ncP1wACaCcAAn-g2VVK69_en6eDVDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCpnu2UN87HknIMVgIzca0XBXxnL4AACaScAAn-g2VUWnI8Y8dQGDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCtnu2UPasDtiNe0bYRaSjWUE239hAACaicAAn-g2VV9rWa2rb-E-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHCxnu2URY0v_J4QlERmHdVWYTNbYKAACaycAAn-g2VWR77e1rdrfdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHC1nu2UUZUaaPRG3N2mef_u3LnLRNQACbCcAAn-g2VU2dH6gXiBIzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHC5nu2UWSKZ7wrHkFziweVujlBa3LwACbScAAn-g2VUSEUGPhfJKejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHC9nu2UZGLqgRqly746xvkXaylr4NwACbicAAn-g2VU11DoAAb0e4ns2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHDBnu2UczA9o7b5U2UW0bUz0kbg3OgACbycAAn-g2VVeQFVqOAqq2jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHDFnu2UeJbJvTofMgKQpdweiWG95WAACcCcAAn-g2VXTd1sgBG3qVjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHDJnu2UgapYbDoiVRNYPqrWhTKjcwQACcScAAn-g2VU06SkRYeI7MzYE"
+    ]
+};

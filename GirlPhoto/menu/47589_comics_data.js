@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47589,
+    "title": "Mirai Kuriyama [Tsuki Desu / Dosya Gasai] - Page 1",
+    "sourceUrl": "https://telegra.ph/Mirai-Kuriyama-Tsuki-Desu--Dosya-Gasai---Page-1-04-14",
+    "images": [
+        "https://telegra.ph/file/5c2eeab349af6d42c5c7d.jpg",
+        "https://telegra.ph/file/79545246f7bf1778f1830.jpg",
+        "https://telegra.ph/file/d2b3e01702f2e68717311.jpg",
+        "https://telegra.ph/file/3e11f6e12594848749769.jpg",
+        "https://telegra.ph/file/dc1f806fc9a443f26fff1.jpg",
+        "https://telegra.ph/file/7e3739c5184031e2b99ce.jpg",
+        "https://telegra.ph/file/cb4345d975dcb2b531640.jpg",
+        "https://telegra.ph/file/4fbb2034338b1bd440223.jpg",
+        "https://telegra.ph/file/2573b43bfd47936aeb9a1.jpg",
+        "https://telegra.ph/file/8cd610e71597244824d22.jpg",
+        "https://telegra.ph/file/eab7c8bbcaaaefb1cbe3e.jpg",
+        "https://telegra.ph/file/b125aa71917c90e2877e3.jpg",
+        "https://telegra.ph/file/81e456d0201f8fdceb5bf.jpg",
+        "https://telegra.ph/file/84ecf981a9bd29bafd902.jpg",
+        "https://telegra.ph/file/69d2d60b574d3a794484f.jpg",
+        "https://telegra.ph/file/2493eb374ebad9cc02439.jpg",
+        "https://telegra.ph/file/944c4c62e133c311662f6.jpg",
+        "https://telegra.ph/file/52c4705385d8d0d637d90.jpg",
+        "https://telegra.ph/file/15c9658e81b4a17fb0d3b.jpg",
+        "https://telegra.ph/file/cc8640e6a0a8d35350025.jpg",
+        "https://telegra.ph/file/729be9989ee6c45f0b1e0.jpg",
+        "https://telegra.ph/file/b1fe77fe639fc697a052d.jpg",
+        "https://telegra.ph/file/c98dde040e5a06c2bd292.jpg",
+        "https://telegra.ph/file/8dfc9e8754d0fd9b745a8.jpg",
+        "https://telegra.ph/file/a5d5c56f548fdaaae7905.jpg"
+    ]
+};

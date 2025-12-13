@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48948,
+    "title": "Arty Huang - 约尔战斗形态 - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---约尔战斗形态---Page-1-01-05",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZZneomNRQX2fGXIDK2VdBD2jIL2kAACxxAAAk4h2Feoz8r425Qk0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZdneomQBKPxeWKFfPaEaGPiMBQ2LAACyBAAAk4h2Fe7e442qYOpCzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZhneomT61V66buAG2n-5aMqmLctCgACyRAAAk4h2Fdv7yOgWEKZhDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZlneomW69SvKWXDro-wa4al-lcZPwACyhAAAk4h2FfiDbSx_3b6sDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZpneomZ3w2VTW4GvPcQTX412nFY2AACyxAAAk4h2Fd3dgfipO8ZZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZtneomc2dBMb6mx6JcayE2fSc6ICwACzBAAAk4h2FfTvp7oY91ctzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZxneomfqgjy_-8X2SEayg6WcGYtgAACzRAAAk4h2Ffy_LrwQovhJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZ1neomiBqloI9Y5-fON_7HockycIwACzhAAAk4h2Fdu_pW6V6AyFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZ5neoml8iIvUIsc3OA4w-r7fE964AACzxAAAk4h2FdENhaUQil-nzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuZ9neom6ra7xID38Utz-ott-a8SuFAAC0BAAAk4h2FejjoW0ybQoGjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaBneom99T8kA48pMssEGwwSU_GVAAPREAACTiHYV385tHNkT2f3NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaFneonAme6yAAEKUkFtpZOjuIHunMsAAtIQAAJOIdhX_urSQvFRgBI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaJneonD5L5_LgKLrItwCkOXil-mfwAC0xAAAk4h2FcC3jZezhgUkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaNneonGBmDOrGVt21rOEc17WNdW9AAC1BAAAk4h2Fcimxz5i-WppDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaRneonJ6lIVeQHGbN7srvsFlYyb8QAC1RAAAk4h2Fcveo-WQ4OcpDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaVneonN71jIBi23DWI77_nhZGFJ5AAC1hAAAk4h2Fcq6hAGAudS9DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaZneonQLPmwJMZSku4YQAVYhqSbowAC1xAAAk4h2Fd4X0EfutFZ3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuadneonTH_w2C27V_wwzJu8RwhZv4QAC2BAAAk4h2Ff-X9_Q8jY5cDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuahneonXO2hwD9wZPrEUUg2KB-x5QwAC2RAAAk4h2FfhFwRdUlJFHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECualneona4hJQKLPahIZ4PUwgTyqyaAAC2hAAAk4h2FdpI7sAAeApZM02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuapneoncQU5MITugvIAVmYzElV4n7wAC2xAAAk4h2FfUIHfTaKWemDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuatneoneoyhL1-64V1JllB6fxc1_YgAC3BAAAk4h2FfaNFmIEhRu_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECuaxneonhJ5vA61Ue8JnDrH_wx_0oiAAC3RAAAk4h2FdXV4C7MMJKIzYE"
+    ]
+};

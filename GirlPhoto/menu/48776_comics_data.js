@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48776,
+    "title": "[テレビ] 雷電将軍OL - Page 1",
+    "sourceUrl": "https://telegra.ph/テレビ-雷電将軍OL---Page-1-08-29",
+    "images": [
+        "https://telegra.ph/file/dbf9bb747cd241c155a3c.jpg",
+        "https://telegra.ph/file/26421093ffcfdc5e53634.jpg",
+        "https://telegra.ph/file/d489fabf3fdbc092795c2.jpg",
+        "https://telegra.ph/file/23a1dd41561e1da7d64f8.jpg",
+        "https://telegra.ph/file/b8a066ba0fb1e79227c1d.jpg",
+        "https://telegra.ph/file/9eea1cf48a1e3ef62ed28.jpg",
+        "https://telegra.ph/file/94d691b358fe7e13c21dd.jpg",
+        "https://telegra.ph/file/53c2a401bf506d396007c.jpg",
+        "https://telegra.ph/file/e7113423700b5a5079c34.jpg",
+        "https://telegra.ph/file/71ff167d5106a4ac89c1d.jpg",
+        "https://telegra.ph/file/674a6ffa9a563f93dfbda.jpg",
+        "https://telegra.ph/file/8d63086ea636a933e94a1.jpg",
+        "https://telegra.ph/file/1d6b85c17b3a55bad9a94.jpg",
+        "https://telegra.ph/file/ef74475d27123bedb5de2.jpg",
+        "https://telegra.ph/file/30ba0f7ae80000999237c.jpg",
+        "https://telegra.ph/file/6a72303efa6095c001777.jpg",
+        "https://telegra.ph/file/b0f7b8f4c5dcf1774f765.jpg",
+        "https://telegra.ph/file/8869c8a4c0b755d83f207.jpg",
+        "https://telegra.ph/file/64ae3572a70b3a0e85749.jpg",
+        "https://telegra.ph/file/68f745a9b8928fe1d4818.jpg",
+        "https://telegra.ph/file/5d444e1cb4eb76c8fea6f.jpg",
+        "https://telegra.ph/file/44eb8411361b33fa60984.jpg",
+        "https://telegra.ph/file/7c60da20872f3e2324764.jpg"
+    ]
+};

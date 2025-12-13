@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49467,
+    "title": "Potato Godzilla - 2B Xmas - Page 1",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---2B-Xmas---Page-1-01-24",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKHxnk9qV1Q6z_1d2E1vfBFK5gxF70AACSywAAmMSmFQsvgpjBPkpZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKH1nk9qZFAvvM_7OilRV86YtgjdykAACTCwAAmMSmFRR_JD4rPUY-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKH5nk9qcf4QIKT_4rpWzMU9SD3GDuwACTSwAAmMSmFQAAUJ-7deBOdM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKH9nk9qeOuluOo1XQkqq4r6gI4jy_wACTiwAAmMSmFQSEF4xckHlzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIBnk9qgHtLw5QAB4si4rx1uJAuSt0IAAk8sAAJjEphUUBwhtI_El6I2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIFnk9qhzRecdyHdXkVarrtqx7Aq3AACUCwAAmMSmFROLdDsdDDPmzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIJnk9qjMz-66054ErFZ2k-7QbX24wACUSwAAmMSmFSi5XjAiIZS_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKINnk9qlLv86eBx7WQ8MAWl9RBRurgACUiwAAmMSmFQcFtxkLN1X5zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIRnk9qvZpSaGnVUKzc0EEVeqqNQcgACUywAAmMSmFS5oYeoT0rqlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIVnk9qzC-AqweFxyccHPl7ZIas7-QACVCwAAmMSmFTYrfKXkZUejjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIZnk9q1f0VFrML3FcIE7mx_gOTHRgACVSwAAmMSmFTOJcDa2lUcHDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIdnk9q3B4WU7wVSNGF0fCCyGAVVlQACViwAAmMSmFQL1Zf1J5XNzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIhnk9q4IoMAAQEkq_fJpxxQgqZ47YgAAlcsAAJjEphUfJp4CNxaXCU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIlnk9q6XB9BGRbKK6YaPkDbRXVAyQACWCwAAmMSmFQp4nQyqS9_YTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIpnk9q7Bsho6bL-LgtJNxfvmxCRsQACWSwAAmMSmFQjSEvpx_3WhjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKItnk9q9xRM5NdkAARIXwwoPUK4FtFQAAlosAAJjEphUmOCk_DD27LM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKIxnk9q-zPyUuJ9XEy1J_21u6RZt7gACWywAAmMSmFSAKQzswHcufDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKI1nk9rAd7ZbUtYhYf7-c8biZ3K-NAACXCwAAmMSmFRGmAPTkHVfKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKI5nk9rB2xs-8_eyAkUq0Bi--u2Y6gACXSwAAmMSmFRImJAixdgtWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKI9nk9rEGYs27IjwQyWDxU570OzDqAACXiwAAmMSmFTpAAHjj08QYao2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKJBnk9sC7GhYwwlkwhkh_V6u6CHG9AACXywAAmMSmFSzYGlWlTY9aTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKJFnk9sEQInIbRtXZ5Hiut74Sfc3TQACYCwAAmMSmFTLrMrVuZY9OjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKJJnk9sFcXGVR5Oo3enM4XTqsUK8wwACYSwAAmMSmFRva5EqTeh4QzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKJNnk9sHC2AyCMpEflUZQmJICoi8gwACYiwAAmMSmFRuvY9cM55RbTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEKJRnk9sJ9UuCdAH5YNL6q-JmdEYSMwACYywAAmMSmFT5YX1fQDIG0jYE"
+    ]
+};

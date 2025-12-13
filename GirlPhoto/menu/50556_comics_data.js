@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50556,
+    "title": "Gremlynne - Raven - Page 1",
+    "sourceUrl": "https://telegra.ph/Gremlynne---Raven---Page-1-06-06",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_iRoQqAkgzQgbjfGA45SOpqhnB_WugACMBUAAl2ZEFalx__cfofEOzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_iVoQqAmARh0TD-etDxKLYRLVZCTJQACMRUAAl2ZEFaDk87eEyGy4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_iZoQqAoncsZWftGJLLZ6jCDpEat4QACMhUAAl2ZEFZxykKdKk15KzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_idoQqAq6I1hPTwIutat1WtJEPlReQACMxUAAl2ZEFaw0AzLhCL_xTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_ihoQqAr8vmusQgdV7U3Wx72BtMAAQYAAjQVAAJdmRBWKO5_fbPGjeo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_iloQqAtJkmPrZtVBbBBeFUtiMJGJQACNRUAAl2ZEFZFBAgCEBZtpTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_ipoQqAuhNsZaC7cuf7jSY7NuqIe4wACNhUAAl2ZEFYKpk9omRpTlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_itoQqAv99ehld5q70B4Ne1ZWIQeUgACNxUAAl2ZEFbN3lRBygtmNzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_ixoQqAxRAABZc6TOPujWQP9QKzh96QAAjgVAAJdmRBW6iJJjKYyFZE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_i1oQqAyAAF3D_egIPUvjJokRiD5HwQAAjkVAAJdmRBWcPJqHCPysaU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_i5oQqA0QWMJRW0FY9tc9dZOeHPl7gACOhUAAl2ZEFaUQeNwLQa8UTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_i9oQqA1KC4xl7-4kA5uidFuJLwCFwACOxUAAl2ZEFYdVsGGo6zA5TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jBoQqA3GeNGZ8GKJfJAmnj8J7ptXwACPBUAAl2ZEFYW_Lj6YBdrpTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jFoQqA4T9SrWM-saATC10LxX84K9gACPRUAAl2ZEFYAAWYkWf6XkXo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jJoQqA50aCC6_GUcOWMES1PsGOW5AACPhUAAl2ZEFZsRpZooyc9EDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jNoQqA6e1T3XUSpVYllBjEWI_5VCgACPxUAAl2ZEFaOcDW6lfGnqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jRoQqA80Q88stSP8KucgmDGfFqzGwACQBUAAl2ZEFZcgctC_D9-SzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jVoQqA9jhSNYBqRU-eOJl7395IN5gACQRUAAl2ZEFaPtJCWHRJ17jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jZoQqA_PSMRO3RGfdkn9O5mDf3tDwACQhUAAl2ZEFYO7cdVWUPhJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jdoQqBAQd5D7PQ7FBa6YbERermG5wACQxUAAl2ZEFbV_je3fzYbjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jhoQqB-O_efv8Rc2caq3TwP66C4igACRBUAAl2ZEFZHGUn5k3rv_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jloQqCAZsLhObbpu3n_aWRKR2WGrAACRRUAAl2ZEFaOBX2CMLrfGzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jpoQqCB-iSF0dLx-4iNMUWUmNSBYAACRhUAAl2ZEFbAu7VjouE-bjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jtoQqCCrcrSVhhmlaxnv1222UW9OgACRxUAAl2ZEFZUHF9rTr-yXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_jxoQqCEj3zvov_inbn4COrhf8x33AACSBUAAl2ZEFaXvo8Q_h6uSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL_j1oQqCFnIDbqc4QXCoPfPRN26jVbQACSRUAAl2ZEFZvW3olVr3dYjYE"
+    ]
+};

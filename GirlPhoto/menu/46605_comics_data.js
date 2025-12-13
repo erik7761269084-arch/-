@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46605,
+    "title": "Azami - Shuten Jiangshi - Page 1",
+    "sourceUrl": "https://telegra.ph/Azami---Shuten-Jiangshi---Page-1-01-17",
+    "images": [
+        "https://telegra.ph/file/c4e7ae627ffbf0aa2b0d4.jpg",
+        "https://telegra.ph/file/8ea497a5cb67594f6d1a6.jpg",
+        "https://telegra.ph/file/38b0151b7972ab9d82565.jpg",
+        "https://telegra.ph/file/83b484da71624a0615799.jpg",
+        "https://telegra.ph/file/3ac1e6878da54481b0330.jpg",
+        "https://telegra.ph/file/2da3512c5ec190b51f578.jpg",
+        "https://telegra.ph/file/28e5d21d6b0d82d8ecd9b.jpg",
+        "https://telegra.ph/file/83ec6b3b66a4d45d47bad.jpg",
+        "https://telegra.ph/file/a833208c5b29017fa5998.jpg",
+        "https://telegra.ph/file/ecee0254d172ba90445a3.jpg",
+        "https://telegra.ph/file/ddc9087e2a5be844cce1d.jpg",
+        "https://telegra.ph/file/0ce5313fd16018d6b27b1.jpg",
+        "https://telegra.ph/file/656b47d0944e83cefa68c.jpg",
+        "https://telegra.ph/file/4ba8a5b4e9a9a7b430daa.jpg",
+        "https://telegra.ph/file/e6fabe0c241c298a4b4b9.jpg",
+        "https://telegra.ph/file/daad93e04bbe1b6ea0577.jpg",
+        "https://telegra.ph/file/b848d96e6a6d0da012d31.jpg",
+        "https://telegra.ph/file/93d29e2119794b9f0e00f.jpg",
+        "https://telegra.ph/file/2b92ec839b3c2f9175dca.jpg",
+        "https://telegra.ph/file/b2692edb698529c0a1b43.jpg",
+        "https://telegra.ph/file/a995438546b7516561557.jpg",
+        "https://telegra.ph/file/31d8ee06b1a8a86837ea4.jpg",
+        "https://telegra.ph/file/4178fe5e7e3af14d05a23.jpg",
+        "https://telegra.ph/file/4e2b6628aad391d6155c8.jpg"
+    ]
+};

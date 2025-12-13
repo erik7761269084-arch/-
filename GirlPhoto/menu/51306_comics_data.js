@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 51306,
+    "title": "宫本桜 - 德克萨斯同人礼服 - Page 1",
+    "sourceUrl": "https://telegra.ph/宫本桜---德克萨斯同人礼服---Page-1-11-26",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_FhpJsSwDwbg41CA3UGC_z10cgjEQwACECMAAs42OVXsq9kOmxOhszYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_FlpJsSzkvxXD5Yl4I_J7xGm0uOV8QACESMAAs42OVW8nyivKd3ONDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_FppJsS1bDOchsOdYNBG5-WF3rTRFAACEiMAAs42OVWMHQABxW7y3go2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_FtpJsS36OgFTakc4UI5TT-SMyXxrwACEyMAAs42OVXkpz9p5wyA4jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_FxpJsS4-JW9cZtPV4wk3G97JCK8DgACFCMAAs42OVXfljDOQUgdmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_F1pJsS5shu0B845kYeYc2wUhcztVAACFSMAAs42OVVZAAFW9pb_5dA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_F5pJsS6kI6mwKGmazpS-uPBCNG9CAACFiMAAs42OVUhmdHnXfx7tTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_F9pJsS8xqgzT-JaXzCwKerasIaXBwACFyMAAs42OVWugVYCwhDwqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GBpJsS-WWH5tQ04fAiAgYXA6k7YVgACGCMAAs42OVW38OG-fbhUgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GFpJsS_AAE__I1cpuA7OZKCvnpXsX8AAhkjAALONjlVDIzX2sXAB_Y2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GJpJsTAeHtB0-gDhOUdWtIKCtmT0AACGiMAAs42OVWuZDVFfJdPJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GNpJsTCG9Bob5WYZRT30RauYzo5bQACGyMAAs42OVXeU8bg4HLxsTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GRpJsTDXZoHjQqivY2fNS93WbQV6wACHCMAAs42OVWHR15rizJrajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GVpJsTEHXsiJBDI-MQskvSaTaJ6uwACHSMAAs42OVVQ-yjHlL68kzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GZpJsTFl8S_nCgXdV_8Jl5QxmzXWwACHiMAAs42OVVyeeV3ZOq9RTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GdpJsTG5QiigAbybNtMD0MuBAABug0AAh8jAALONjlVUpMpxB5DcRw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GhpJsTHmywbUIrukbHKfOhjQ6DCfQACICMAAs42OVWZbRfCr4lErzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GlpJsTIRZw-ZB7IkItqw6nYHY65uAACISMAAs42OVWjQYxzZW4Y-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GppJsTK0lrBymaBCrwvcCyd7HHrWAACIiMAAs42OVWlcPj5juQIuDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GtpJsTLWV0_xGDg9Mt1akHoLbFRyQACIyMAAs42OVWhgHXd1kb4rjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_GxpJsUJFpXkDpRZjeIMIIahiTnuCQACJCMAAs42OVULQk-bBpqBtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_G1pJsUKPQ6IIqvgELka29VQ8xQ7WgACJSMAAs42OVWtLJpJS9Yl9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEU_G5pJsUMIeeX3zkDlrJ6gDCbPgiyTwACJiMAAs42OVUNbMtGAAFmLoY2BA"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46909,
+    "title": "Arty Huang - Merlin Prototype - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---Merlin-Prototype---Page-1-02-13",
+    "images": [
+        "https://telegra.ph/file/439a4a713a9a6ef393c8e.jpg",
+        "https://telegra.ph/file/32f322a14d978ab230962.jpg",
+        "https://telegra.ph/file/66f9b7586d34c17848f79.jpg",
+        "https://telegra.ph/file/4742192db61769622322c.jpg",
+        "https://telegra.ph/file/dcbc72c9b1cffd0ac962b.jpg",
+        "https://telegra.ph/file/e8208467fea2a6ec65d10.jpg",
+        "https://telegra.ph/file/498c6b28b1989fbdb0328.jpg",
+        "https://telegra.ph/file/28ad595bf3435f58e2306.jpg",
+        "https://telegra.ph/file/1dbe726ea3cb6ec2f6ed1.jpg",
+        "https://telegra.ph/file/c7f7a6a6b66e84d8bb2d1.jpg",
+        "https://telegra.ph/file/68acb40443bf864b982e9.jpg",
+        "https://telegra.ph/file/a83b3bad26a8e1d9a70fb.jpg",
+        "https://telegra.ph/file/260cc08b8df897ff44e96.jpg",
+        "https://telegra.ph/file/1385ea44841e3aac1edf2.jpg",
+        "https://telegra.ph/file/63b0f88ad852dfbf0dcfb.jpg",
+        "https://telegra.ph/file/656e4da41a5664cfb4d5c.jpg",
+        "https://telegra.ph/file/d599f99516e52f5a66d5b.jpg",
+        "https://telegra.ph/file/bb32d88676c053e6f2a02.jpg",
+        "https://telegra.ph/file/c006471be266191c6e615.jpg",
+        "https://telegra.ph/file/aaf8df36a4649c436b340.jpg",
+        "https://telegra.ph/file/8e6677fc1bf190ad249a8.jpg",
+        "https://telegra.ph/file/781b29649c9385add50de.jpg",
+        "https://telegra.ph/file/c0b0b3ceae68cf00809f5.jpg"
+    ]
+};

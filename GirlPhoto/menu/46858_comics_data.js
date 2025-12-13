@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46858,
+    "title": "星之迟迟 - Nero Claudius maid (FGO) - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟---Nero-Claudius-maid-FGO---Page-1-02-08",
+    "images": [
+        "https://telegra.ph/file/19e8284b5a1737e11d531.jpg",
+        "https://telegra.ph/file/5cae4be3160dc151c880e.jpg",
+        "https://telegra.ph/file/58a3aa743895defa06a6c.jpg",
+        "https://telegra.ph/file/fee1b71aa3931e31864d3.jpg",
+        "https://telegra.ph/file/8c7d271382eb9f2fb4229.jpg",
+        "https://telegra.ph/file/1f9cf3ad0ff55e3422973.jpg",
+        "https://telegra.ph/file/6638941b25e38b95503ce.jpg",
+        "https://telegra.ph/file/19d47a158672fc1b53bb1.jpg",
+        "https://telegra.ph/file/b180bee376b33039eb8d2.jpg",
+        "https://telegra.ph/file/49c458f38dfefdcc8a031.jpg",
+        "https://telegra.ph/file/7e0080a2a1a06bbd7d354.jpg",
+        "https://telegra.ph/file/16a5e914c3a16f58e1f51.jpg",
+        "https://telegra.ph/file/f81c730420298e8eac20b.jpg",
+        "https://telegra.ph/file/50a6d02e9d869ad448f38.jpg",
+        "https://telegra.ph/file/3555fc6f8584819e47ac0.jpg",
+        "https://telegra.ph/file/3d602d168329c454b728b.jpg",
+        "https://telegra.ph/file/367c9b0231549e3bf9a44.jpg",
+        "https://telegra.ph/file/61f474493a40fd81fcfab.jpg",
+        "https://telegra.ph/file/38efab20a5a45faf9882a.jpg",
+        "https://telegra.ph/file/4b24125d6febd2a689c26.jpg",
+        "https://telegra.ph/file/5803089c7b4f9a0653b44.jpg",
+        "https://telegra.ph/file/29867719292ae9031ad11.jpg",
+        "https://telegra.ph/file/23ac6b31c3c5cc9dd5985.jpg",
+        "https://telegra.ph/file/5bb6c0f1af6e170deea46.jpg",
+        "https://telegra.ph/file/b6675cec8b1111f2e58f1.jpg"
+    ]
+};

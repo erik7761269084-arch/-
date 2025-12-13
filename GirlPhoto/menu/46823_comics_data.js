@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46823,
+    "title": "雨波 HaneAme - Akame Ga Kiru Esdeath BF shirt - Page 1",
+    "sourceUrl": "https://telegra.ph/雨波-HaneAme---Akame-Ga-Kiru-Esdeath-BF-shirt---Page-1-02-05",
+    "images": [
+        "https://telegra.ph/file/7ef3d90d2e84d1dff9529.jpg",
+        "https://telegra.ph/file/124cc11343acacceb5bd3.jpg",
+        "https://telegra.ph/file/4ec914947945de9542ab3.jpg",
+        "https://telegra.ph/file/a7a468d8cde6964d33259.jpg",
+        "https://telegra.ph/file/1c56701b68dfff6071ffc.jpg",
+        "https://telegra.ph/file/d063f0dfdd333a5e5f6c5.jpg",
+        "https://telegra.ph/file/68c5097b2e5d236bddde2.jpg",
+        "https://telegra.ph/file/78180367a73092306f20f.jpg",
+        "https://telegra.ph/file/d4d9b9fbe537361c74320.jpg",
+        "https://telegra.ph/file/845945142d57f0f394478.jpg",
+        "https://telegra.ph/file/de12e4243bc7172fc7ea0.jpg",
+        "https://telegra.ph/file/4ac26d913ca7629a136a5.jpg",
+        "https://telegra.ph/file/04d41205d8e2b404da5c9.jpg",
+        "https://telegra.ph/file/8b6fd1ceed23e80e774c3.jpg",
+        "https://telegra.ph/file/7a7cbe4d770f24483934e.jpg",
+        "https://telegra.ph/file/31aa3f77b3ca334bb726a.jpg",
+        "https://telegra.ph/file/b9d4baf8a3860dbd35314.jpg",
+        "https://telegra.ph/file/81683bbb1aa28f83e4942.jpg",
+        "https://telegra.ph/file/6025aa70a6951aa31adac.jpg",
+        "https://telegra.ph/file/ebedd92efe049b2d08df5.jpg",
+        "https://telegra.ph/file/f58db8d8a697e220c09f7.jpg",
+        "https://telegra.ph/file/8591f0002eb81c5c6a353.jpg",
+        "https://telegra.ph/file/6dbaaf94590ebef98107f.jpg",
+        "https://telegra.ph/file/07cf2ea807187f4baf89a.jpg",
+        "https://telegra.ph/file/44ae2240c6dd3c31dcb17.jpg"
+    ]
+};

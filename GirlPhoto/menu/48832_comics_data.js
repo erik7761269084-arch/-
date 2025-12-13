@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48832,
+    "title": "Shirogane Sama - 2B Black Bride - Page 1",
+    "sourceUrl": "https://telegra.ph/Shirogane-Sama---2B-Black-Bride---Page-1-09-04",
+    "images": [
+        "https://telegra.ph/file/494a7a662ddec627fb2af.jpg",
+        "https://telegra.ph/file/38a086116524bbb44903f.jpg",
+        "https://telegra.ph/file/63f5e3aa94b9976622855.jpg",
+        "https://telegra.ph/file/52569fc46cb76dacd563f.jpg",
+        "https://telegra.ph/file/f076a7d4e375cbf27e399.jpg",
+        "https://telegra.ph/file/54874252242110bdeebe1.jpg",
+        "https://telegra.ph/file/004ccd045d8bc1e01f6b5.jpg",
+        "https://telegra.ph/file/9d83c3f6b6508aa7d95ec.jpg",
+        "https://telegra.ph/file/c6c1f92cc91e67edbf8f0.jpg",
+        "https://telegra.ph/file/836f2baabfb2b13aa74e5.jpg",
+        "https://telegra.ph/file/42e95ff37e162fb4f553a.jpg",
+        "https://telegra.ph/file/1501c8cc5689f687d75ff.jpg",
+        "https://telegra.ph/file/2899c675dabea250ca415.jpg",
+        "https://telegra.ph/file/befe67928b9777ede6f98.jpg",
+        "https://telegra.ph/file/806147c05b7c9d2880410.jpg",
+        "https://telegra.ph/file/34de619e2fb774a7de8cf.jpg",
+        "https://telegra.ph/file/1abe95b956ab73c367430.jpg",
+        "https://telegra.ph/file/7f8a77d0a4445c201a86b.jpg",
+        "https://telegra.ph/file/5c129060ee69446d3e5ca.jpg",
+        "https://telegra.ph/file/491b34d867a3f22ce59d2.jpg",
+        "https://telegra.ph/file/a8b00a2fe3f78a6c1b33d.jpg",
+        "https://telegra.ph/file/afdf60a2e630f0e4d78c4.jpg",
+        "https://telegra.ph/file/5f09feab825c0bc3cf6ab.jpg",
+        "https://telegra.ph/file/20ccaa378895aa1a1af34.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46881,
+    "title": "[Arty亞緹]Kashino - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty亞緹Kashino---Page-1-02-10",
+    "images": [
+        "https://telegra.ph/file/5ec227245fbf77843c242.jpg",
+        "https://telegra.ph/file/8332edfa14453635eed65.jpg",
+        "https://telegra.ph/file/bc338496627e5916bcdc6.jpg",
+        "https://telegra.ph/file/78233bbb61a0cad3174dc.jpg",
+        "https://telegra.ph/file/765db17d431aae5e1cf6f.jpg",
+        "https://telegra.ph/file/4f204b43c986e2644ff86.jpg",
+        "https://telegra.ph/file/63dcf6af5cb79cd808f7e.jpg",
+        "https://telegra.ph/file/882190ce7caff60f3da9a.jpg",
+        "https://telegra.ph/file/0a75f858bb77828195969.jpg",
+        "https://telegra.ph/file/820a39dc2d0dfe79b22b4.jpg",
+        "https://telegra.ph/file/07b6ee3651fe3d60bdb55.jpg",
+        "https://telegra.ph/file/58536297dd92408c10f73.jpg",
+        "https://telegra.ph/file/946118d6d6fcfc7d8e9b3.jpg",
+        "https://telegra.ph/file/5f9b3a07472da4dda2717.jpg",
+        "https://telegra.ph/file/9d9f379444b223fdf67e8.jpg",
+        "https://telegra.ph/file/fc97785f749c825ea5e43.jpg",
+        "https://telegra.ph/file/9a8c730971d0d4fc5708f.jpg",
+        "https://telegra.ph/file/7e1420baa4f0e45ce9d38.jpg",
+        "https://telegra.ph/file/07c23b2f21fcd89d11686.jpg",
+        "https://telegra.ph/file/77a56b367d9145208f702.jpg",
+        "https://telegra.ph/file/0ef8e4bddf409cca19dc3.jpg",
+        "https://telegra.ph/file/0d866cc96d9137be82c74.jpg",
+        "https://telegra.ph/file/6ab9743d9ac50eca7a61f.jpg",
+        "https://telegra.ph/file/ea9f2f0819339b18470f4.jpg",
+        "https://telegra.ph/file/aea0d38a839672f5e0709.jpg"
+    ]
+};

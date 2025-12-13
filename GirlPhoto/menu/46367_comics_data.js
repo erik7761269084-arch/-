@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46367,
+    "title": "[Xidaidai 习呆呆] 綺良々 Kirara - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-綺良々-Kirara---Page-1-12-22",
+    "images": [
+        "https://telegra.ph/file/e67b3fe2b9a607e705f03.jpg",
+        "https://telegra.ph/file/cf90c148a167929f5020a.jpg",
+        "https://telegra.ph/file/d8e7ee655b7820f4a1149.jpg",
+        "https://telegra.ph/file/0ed4a4ddc745bb82ee9af.jpg",
+        "https://telegra.ph/file/ea69c493a268a01bccb12.jpg",
+        "https://telegra.ph/file/9a1c2541eacd80484b284.jpg",
+        "https://telegra.ph/file/23f1023328d2465736b2f.jpg",
+        "https://telegra.ph/file/213c722aa3a2097cb553d.jpg",
+        "https://telegra.ph/file/1b9d41339fda977c1d8a8.jpg",
+        "https://telegra.ph/file/6f26e53efe3fff667424c.jpg",
+        "https://telegra.ph/file/6caca124715c92a622040.jpg",
+        "https://telegra.ph/file/5d5b77e5c36fbddf0c3d8.jpg",
+        "https://telegra.ph/file/fe5702eb0e80101103af6.jpg",
+        "https://telegra.ph/file/eba946595a9b60ae33482.jpg",
+        "https://telegra.ph/file/82a7d50815be13e8f1946.jpg",
+        "https://telegra.ph/file/1ef4161f1aa73b42667ab.jpg",
+        "https://telegra.ph/file/ffee82a1ca8c93b3dc0ef.jpg",
+        "https://telegra.ph/file/dc7327de1127559d217fa.jpg",
+        "https://telegra.ph/file/e7a0ea17a41df52affed1.jpg",
+        "https://telegra.ph/file/09090633979a321380529.jpg",
+        "https://telegra.ph/file/fe1d6f0c83a44fab2e19e.jpg",
+        "https://telegra.ph/file/ed623f818ede974cbef79.jpg",
+        "https://telegra.ph/file/3d399f9c3a6cb37a4df4f.jpg",
+        "https://telegra.ph/file/31e0906355302cc4ad0ab.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46485,
+    "title": "【rioko凉凉子】95式-花嫁 - Page 1",
+    "sourceUrl": "https://telegra.ph/rioko凉凉子95式-花嫁---Page-1-01-04",
+    "images": [
+        "https://telegra.ph/file/bd1381f2fdd4f394854df.jpg",
+        "https://telegra.ph/file/480d76127c961dfb10307.jpg",
+        "https://telegra.ph/file/9ccc92d3f1289a6c7fb78.jpg",
+        "https://telegra.ph/file/63af67332fe9ca3a01cdb.jpg",
+        "https://telegra.ph/file/caf067ce9ba9e5f69fd5b.jpg",
+        "https://telegra.ph/file/29a3d6b0fe9abe78f8eaf.jpg",
+        "https://telegra.ph/file/cbae77b3e17d38a022d9c.jpg",
+        "https://telegra.ph/file/b93866eb0330799549972.jpg",
+        "https://telegra.ph/file/27da4415a6a7e02651dd7.jpg",
+        "https://telegra.ph/file/dcf4d195dc6bbae1096fa.jpg",
+        "https://telegra.ph/file/265e9fc8d7ad467b08cfb.jpg",
+        "https://telegra.ph/file/0901fc8ec456579af66fa.jpg",
+        "https://telegra.ph/file/ce3c0a9d5ab8b847fd8ef.jpg",
+        "https://telegra.ph/file/58ef0dd054d2dfedac33d.jpg",
+        "https://telegra.ph/file/d555bb752aa5cbe9b7817.jpg",
+        "https://telegra.ph/file/8f9ee86fc05c355b5b4ea.jpg",
+        "https://telegra.ph/file/7c04d51f14d67aa86f413.jpg",
+        "https://telegra.ph/file/4291b72b9f7e353efc315.jpg",
+        "https://telegra.ph/file/dc15cad1604237f4f159e.jpg",
+        "https://telegra.ph/file/c7caed8f3359c1ea21db6.jpg",
+        "https://telegra.ph/file/52fd953cc961165f7eb87.jpg",
+        "https://telegra.ph/file/132df51a5f0c442b4c0c6.jpg",
+        "https://telegra.ph/file/54605b953491558450f87.jpg",
+        "https://telegra.ph/file/49c752e023daa12218112.jpg",
+        "https://telegra.ph/file/71fe0759a6c0eeee9f751.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48275,
+    "title": "Xidaidai - Frieren - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Frieren---Page-1-06-16",
+    "images": [
+        "https://telegra.ph/file/13e506caa85eb273c6a3a.jpg",
+        "https://telegra.ph/file/6f043671fbbc7ba8cc562.jpg",
+        "https://telegra.ph/file/93352c09be134a05b9b3a.jpg",
+        "https://telegra.ph/file/faf9c102b6135906fe12e.jpg",
+        "https://telegra.ph/file/a92b75862f02ee6cfadcc.jpg",
+        "https://telegra.ph/file/ea73b1cab5c0131a296c1.jpg",
+        "https://telegra.ph/file/e70a9508d46103db12d24.jpg",
+        "https://telegra.ph/file/983376b16d73a1422442e.jpg",
+        "https://telegra.ph/file/cde65113bd4a3bfafab27.jpg",
+        "https://telegra.ph/file/a5b79011fb3963c53a840.jpg",
+        "https://telegra.ph/file/4627081ca5b16cb51c085.jpg",
+        "https://telegra.ph/file/e642c5b72f724d8499c5d.jpg",
+        "https://telegra.ph/file/1038094ba44f81e123967.jpg",
+        "https://telegra.ph/file/a2606ae091e843e8aea7f.jpg",
+        "https://telegra.ph/file/5d6812283a92ce82cdc8e.jpg",
+        "https://telegra.ph/file/e19bb43dbb6f29e3d7bf6.jpg",
+        "https://telegra.ph/file/1be71e67e288669f8e451.jpg",
+        "https://telegra.ph/file/8589d2f3423c8176351b6.jpg",
+        "https://telegra.ph/file/70b6bb6921a016a88b5e2.jpg",
+        "https://telegra.ph/file/bfda2d63b0ed188a12b10.jpg",
+        "https://telegra.ph/file/d76b7e17a372fb4455056.jpg",
+        "https://telegra.ph/file/612f7eb9fcbc7ed1688ec.jpg",
+        "https://telegra.ph/file/4821fcf5b483e69406976.jpg"
+    ]
+};

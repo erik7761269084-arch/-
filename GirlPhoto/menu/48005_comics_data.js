@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48005,
+    "title": "Peachuu - St. Louis - Page 1",
+    "sourceUrl": "https://telegra.ph/Peachuu---St-Louis---Page-1-05-22",
+    "images": [
+        "https://telegra.ph/file/f33d6ff123f6874cd89a1.jpg",
+        "https://telegra.ph/file/4c93100a8a4310bfb5317.jpg",
+        "https://telegra.ph/file/8a2187332ff691f1b4f32.jpg",
+        "https://telegra.ph/file/817b2b9c57ab431a9eddd.jpg",
+        "https://telegra.ph/file/827719acf40a668fcd558.jpg",
+        "https://telegra.ph/file/55176b382731602d3bdd6.jpg",
+        "https://telegra.ph/file/e64eb9ef230adbce6f0a5.jpg",
+        "https://telegra.ph/file/732b71c25b7b417fdcd41.jpg",
+        "https://telegra.ph/file/41870cf78598d00722bab.jpg",
+        "https://telegra.ph/file/2eedbd40ad94207fe06dc.jpg",
+        "https://telegra.ph/file/87485266630af7cf687a3.jpg",
+        "https://telegra.ph/file/c6c50165c8c860c091bcb.jpg",
+        "https://telegra.ph/file/24e5ebd41341d2ce216b6.jpg",
+        "https://telegra.ph/file/82900785f7d2e64e5908e.jpg",
+        "https://telegra.ph/file/ca1254975f99a1bbd82c5.jpg",
+        "https://telegra.ph/file/02e229e36ec9a5f2c295f.jpg",
+        "https://telegra.ph/file/ada7f9164fc3f5177afb8.jpg",
+        "https://telegra.ph/file/5f876021c4bfb052ceda5.jpg",
+        "https://telegra.ph/file/109a9a01f21bdec82cccb.jpg",
+        "https://telegra.ph/file/e2970bc8fc82db5884176.jpg",
+        "https://telegra.ph/file/2cc2aa8b53bc468e9c4a0.jpg",
+        "https://telegra.ph/file/d176cfb6ad7585392a762.jpg",
+        "https://telegra.ph/file/62e7410f5042347353942.jpg"
+    ]
+};

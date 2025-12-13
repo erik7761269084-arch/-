@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48098,
+    "title": "COSPLAYTALES - 雪ミク - Page 1",
+    "sourceUrl": "https://telegra.ph/COSPLAYTALES---雪ミク---Page-1-05-31",
+    "images": [
+        "https://telegra.ph/file/1e5dd1dd1f652b54034fe.jpg",
+        "https://telegra.ph/file/e8db2b299f1fc17ec7927.jpg",
+        "https://telegra.ph/file/0439539ce42aa59cce4b2.jpg",
+        "https://telegra.ph/file/970781149487702cd785f.jpg",
+        "https://telegra.ph/file/9d8066b1ce5758cefaef7.jpg",
+        "https://telegra.ph/file/03f90fcfad0de5a247833.jpg",
+        "https://telegra.ph/file/6e41e895fe94ae214d72c.jpg",
+        "https://telegra.ph/file/f801a51f9e20a1624f9a3.jpg",
+        "https://telegra.ph/file/854e057b2e0c059db737d.jpg",
+        "https://telegra.ph/file/c4ab4035e233fd8c8e6b2.jpg",
+        "https://telegra.ph/file/7e1bcfaa76f2ea2a49999.jpg",
+        "https://telegra.ph/file/b72a8bb7fa0c57d16fd27.jpg",
+        "https://telegra.ph/file/dca639f5108e443e240a6.jpg",
+        "https://telegra.ph/file/a7e0845f59682ddd5b650.jpg",
+        "https://telegra.ph/file/6e4b6a220d4f9a9ee3bd0.jpg",
+        "https://telegra.ph/file/39008f17c98355a11a6f2.jpg",
+        "https://telegra.ph/file/953578a7638b3e433c3da.jpg",
+        "https://telegra.ph/file/32c617d1c5121611c0c1e.jpg",
+        "https://telegra.ph/file/75d86a78913c4a97b4ec0.jpg",
+        "https://telegra.ph/file/02d57c1bcf20fd5d252dc.jpg",
+        "https://telegra.ph/file/e14559621bf394d2830fb.jpg",
+        "https://telegra.ph/file/e20179238ff12a4e92114.jpg",
+        "https://telegra.ph/file/4c91e103e4045495eee97.jpg",
+        "https://telegra.ph/file/c08d47110664dc04fdd0d.jpg",
+        "https://telegra.ph/file/0a38ca36ae7e7669b16c3.jpg",
+        "https://telegra.ph/file/d1643bcb4532e6e827c3a.jpg"
+    ]
+};

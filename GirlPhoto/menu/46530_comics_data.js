@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46530,
+    "title": "星之迟迟 纯白と漆黑-独角兽 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-纯白と漆黑-独角兽---Page-1-01-10",
+    "images": [
+        "https://telegra.ph/file/506594ccda3bc4be71b9a.jpg",
+        "https://telegra.ph/file/c9a4729caac4b5c35af06.jpg",
+        "https://telegra.ph/file/99de28f1e11b542da33a7.jpg",
+        "https://telegra.ph/file/6b1e10cb3860aeb071556.jpg",
+        "https://telegra.ph/file/a2f0fd71a429e42bbed4a.jpg",
+        "https://telegra.ph/file/3ed50f2c95b0ffb93143d.jpg",
+        "https://telegra.ph/file/0cf3a1e841c2edb42c723.jpg",
+        "https://telegra.ph/file/38271edb6e463352315a2.jpg",
+        "https://telegra.ph/file/94540de715980d241418e.jpg",
+        "https://telegra.ph/file/8141edc2d12056e41c8e4.jpg",
+        "https://telegra.ph/file/641095fad6a9ebbfa64e6.jpg",
+        "https://telegra.ph/file/71fb137e9fa9e12dcbbbc.jpg",
+        "https://telegra.ph/file/8bbf12812e60463cb974f.jpg",
+        "https://telegra.ph/file/7ffb92084141583c983a8.jpg",
+        "https://telegra.ph/file/3e7987c10164c1d4e8223.jpg",
+        "https://telegra.ph/file/ea8f8f7ba94214f70ec18.jpg",
+        "https://telegra.ph/file/5d78fb089bf524b414a3a.jpg",
+        "https://telegra.ph/file/98893da9fd66945e93437.jpg",
+        "https://telegra.ph/file/5167d14d6541aaeb8d30c.jpg",
+        "https://telegra.ph/file/2f2b3bab0df50db8ad155.jpg",
+        "https://telegra.ph/file/7efbfdb5de2a6c6d3b787.jpg",
+        "https://telegra.ph/file/e7c24e4034ad96fb4f338.jpg",
+        "https://telegra.ph/file/9ca3d0d6a3c729c9b0a67.jpg",
+        "https://telegra.ph/file/f492a9bfdda9c52925f81.jpg"
+    ]
+};

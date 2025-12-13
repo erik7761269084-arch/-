@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46353,
+    "title": "[小仓千代w] 怨仇 - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w-怨仇---Page-1-12-21",
+    "images": [
+        "https://telegra.ph/file/78dec98695215b0a833a8.jpg",
+        "https://telegra.ph/file/bdc81b20b4768bc2dda6f.jpg",
+        "https://telegra.ph/file/72ccf23f1895e71710fc9.jpg",
+        "https://telegra.ph/file/f263f19fda9cfc55fa488.jpg",
+        "https://telegra.ph/file/e606fb87bb7ebc96c94cc.jpg",
+        "https://telegra.ph/file/cf1b2791246aa00b3f3d9.jpg",
+        "https://telegra.ph/file/ff22a26d5ccd1d3daddd2.jpg",
+        "https://telegra.ph/file/bf3e735a2bb1f43fdacdf.jpg",
+        "https://telegra.ph/file/82b80805fa2ffe9f95714.jpg",
+        "https://telegra.ph/file/c0c7eeb0cd10d73cc5546.jpg",
+        "https://telegra.ph/file/8144806835ac348a252a7.jpg",
+        "https://telegra.ph/file/74d34ded55f450e26bda2.jpg",
+        "https://telegra.ph/file/415abd7e20af5bec27a49.jpg",
+        "https://telegra.ph/file/3ee70e1cb4b08ea705783.jpg",
+        "https://telegra.ph/file/8eca189f8f2f28e1ba5cb.jpg",
+        "https://telegra.ph/file/c20a5ae7d848d3425a07d.jpg",
+        "https://telegra.ph/file/0ff1ae402c3248e8c2c60.jpg",
+        "https://telegra.ph/file/6a1baa1adeac2e1536d3f.jpg",
+        "https://telegra.ph/file/7cbdb73b72fce62165054.jpg",
+        "https://telegra.ph/file/df77c9d6fbe2cdfdce838.jpg",
+        "https://telegra.ph/file/dffffc4a0bc0bbf243c30.jpg",
+        "https://telegra.ph/file/c9fb38c533cffee5ebdb9.jpg",
+        "https://telegra.ph/file/7396fd146a61f1accb08f.jpg",
+        "https://telegra.ph/file/9bacabdbf455a9d0a151e.jpg",
+        "https://telegra.ph/file/d9fe76ba85747e4eaa985.jpg"
+    ]
+};

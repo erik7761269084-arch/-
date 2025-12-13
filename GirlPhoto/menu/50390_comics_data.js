@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50390,
+    "title": "敗北確定〜雑魚マンコヒーロー〇〇〇〇〜 - Page 2",
+    "sourceUrl": "https://telegra.ph/敗北確定雑魚マンコヒーロー---Page-2-05-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKyxoFPUpoAVhSNF5RVeUbe9ZKkS-KgACeh0AAtqJqFQpDMfYPrUnczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKy5oFPUr0RDpkrr3oNMFGqDr2yTi5AACfB0AAtqJqFQDvAnCiPmscjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzBoFPVr3JpG3pQ6X13o-bHJbaHTvAACfx0AAtqJqFSjMVQa7zV1MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzNoFPVt9qjpKK-NsdPvyY-KEt0nZgACgh0AAtqJqFSlUXqDLkerRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzVoFPVx4_iaP4vwfwGinhSytJb0BQAChB0AAtqJqFQ3yDu61gdlvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzhoFPVzEbJCC4EsM11adNdR6RKCjwAChx0AAtqJqFTBKHFbA89cszYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzpoFPV4XWl2Gh1HOOFS782u4GAkRwACiR0AAtqJqFSOudNO82qCeDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKztoFPV6EsdZNF19nxLybEchXLARPQACih0AAtqJqFSvoH4mMxao8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKzxoFPV7nQZT2WSqCYsR4kikuqAmfQACix0AAtqJqFR3lCJ5QjyxgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKz1oFPV8Fo4gHL7somKCcK_BUAEPEAACjB0AAtqJqFTx54VlbpM3UDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKz5oFPV-4yO28yYbmf38yMvuWdMlWgACjR0AAtqJqFTwZt7yJtaSwTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKKz9oFPV_0JNCgD_qGTklH7ZLd7Es6gACjh0AAtqJqFQVKGmBpEW3xzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0BoFPWBgMT0F490GsJ5xEZVWT0WZgACjx0AAtqJqFSJ9nqGvVEzcTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0FoFPWDRDYU1GTF5J2eW5hdyIXDWQACkB0AAtqJqFRuGE4bo09HlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0JoFPWEh9L3D-OYUR4hVz5RaKbLNwACkR0AAtqJqFTxUJ_dMetgEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0NoFPWFIP5c0g2oZrZ4F9m8IEcDSQACkh0AAtqJqFStJF9U6ou2fzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0RoFPXEBKYffP8tS-TJpLQHhNzUXQACkx0AAtqJqFR2zTMHzETvczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0VoFPXGibJEtsix7qchS1z9kxxlLgAClB0AAtqJqFRvLrFFf3cjeDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0ZoFPXIfieE-DdxeQF-xAL3TZvjFQAClR0AAtqJqFRAojOOeHdO9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0doFPXKdp1iareU2_yNVmkKMKvXsAAClh0AAtqJqFRQO0JMl0PjITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0hoFPXMfJVL1Wy_umc-DxIRis2xOgAClx0AAtqJqFTJ1lbI-y2UbDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0loFPXN8SFvF3M7ASWVdMEsOyEQkwACmB0AAtqJqFQoOwXfpY2qQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0poFPXPykegFGupdvsyFRY7z5CthwACmR0AAtqJqFTp5r2Ed3QJPDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0toFPXQ5EdolHnKxOYQCUsiueM0yQACmh0AAtqJqFR6AAFLZmdd9O82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK0xoFPXRZNFI2MGJ-vb2Qv9-ApnU9AACmx0AAtqJqFRCmmqDag9NMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKK01oFPXTMTyV5su4BcFmbw8aWlI-VAACnB0AAtqJqFQFRQMKTJtpvDYE"
+    ]
+};

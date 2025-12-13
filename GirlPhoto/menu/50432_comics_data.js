@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50432,
+    "title": "Yamisung cosplay Asuma Toki – Blue Archive - Page 1",
+    "sourceUrl": "https://telegra.ph/Yamisung-cosplay-Asuma-Toki--Blue-Archive---Page-1-05-11",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKonxoITiO2ZOqK03QmFq1sGyMPKLuewACbhUAAsoyEFWHdDK5kPWMgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKon5oITiQXJ6gQRwhdBqeMjfRUdt4pQACcBUAAsoyEFXBXORUXpsCxjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKooBoITiUR8JRU9mnrN9lXDeXTmUchwACchUAAsoyEFUquB0CSN_VKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKooJoITiWO3p6e0mddqku9HOAHixjyAACdBUAAsoyEFXjqmLrP6tGhDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKooRoITib7waFohtuUbFmDhhLV0TwXgACdhUAAsoyEFUWjYqdF0dV2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKooZoITicDd3AjToAAXc35kd_GvP2YrUAAngVAALKMhBVfNynBrww0fw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoohoITjbStSPylByynQySITB730XlwACehUAAsoyEFXUuVn1n75iUzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoopoITjcPp-3bE034F9pMIJfl9DP5AACfBUAAsoyEFX5sMj0Mh2BIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKooxoITjhsgRuOIR59NbkzlTFQGbBuQACfhUAAsoyEFV1AYmgiuKWtzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoo5oITjjYzGDcUa8mU7EwJ1RAAGjvEAAAoAVAALKMhBV1UfUidthV_82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKopBoITjm0TL9f92Z5v25cxmAxF-8owACghUAAsoyEFV0gg8rFjJoyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKopJoITjpZXHR8ujMH3du8nWReHRm9wAChBUAAsoyEFX25gXkRfzRXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKopRoITjvxiY5Hqu55Wn99Y1DweBmVQAChhUAAsoyEFV5_3mjS0gSWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKopZoITjyD67rsVXP1YW9mTeN1eoaowACiBUAAsoyEFXbGo1TIMEpSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKophoITj0PotTYxzCUPqheNhv3GrjkQACihUAAsoyEFUyZprHvNJLZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoppoITj1V3VwJ_D0x8bZtGWsidlbVgACjBUAAsoyEFU1w2_lI2gwzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKopxoITk0Fl3qKb0frKHQaoA3tDjT7wACjhUAAsoyEFXoKkEsoPRk-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKop5oITk1WHC1122vFrTI4VRKWl4alAACkBUAAsoyEFUqJUamn13uCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoqBoITk5Bss2z2tgooFK-m4-orUQ5QACkhUAAsoyEFUI385Zth6ieDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoqJoITk7bSIiejAERp5ik6QEznbtPQAClBUAAsoyEFVgnh-qtIP10jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoqRoITk8bbWB50w0-0BzSjtHQlbn_wAClhUAAsoyEFXOGDk1fbogxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoqZoITlAvJtsFsIal2NbmKypvbwywwACmBUAAsoyEFUeGkrko-jUZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoqhoITlB5WkNWxP9qRdHuQZrKZur_wACmhUAAsoyEFXEwt-7FB86iTYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46205,
+    "title": "［G44不会受伤］碧蓝航线 恶毒皮肤 懒懒的白兔 - Page 1",
+    "sourceUrl": "https://telegra.ph/G44不会受伤碧蓝航线-恶毒皮肤-懒懒的白兔---Page-1-12-05",
+    "images": [
+        "https://telegra.ph/file/3082f681a850de5ca3e00.jpg",
+        "https://telegra.ph/file/0410f11fff77979e40191.jpg",
+        "https://telegra.ph/file/1266273bd3289c1530bf8.jpg",
+        "https://telegra.ph/file/41a26d5757bbcb2964590.jpg",
+        "https://telegra.ph/file/802117efe341946003a5d.jpg",
+        "https://telegra.ph/file/ae961622e9644cce304ce.jpg",
+        "https://telegra.ph/file/f8681a57b4e9e562ed183.jpg",
+        "https://telegra.ph/file/fa99677060b69f428ad56.jpg",
+        "https://telegra.ph/file/b9279a94b54867adc9c90.jpg",
+        "https://telegra.ph/file/720c5ae8222888c7998bb.jpg",
+        "https://telegra.ph/file/12b3fb85c509c8c690f28.jpg",
+        "https://telegra.ph/file/7be0a913f51f0b1180be3.jpg",
+        "https://telegra.ph/file/a634e9aff8b89d49078bc.jpg",
+        "https://telegra.ph/file/3b7083e3d0b0cfcc23e76.jpg",
+        "https://telegra.ph/file/dee8046c6bfd94e2e4679.jpg",
+        "https://telegra.ph/file/8357927c016061342aaa5.jpg",
+        "https://telegra.ph/file/64feb92d7bc807763885a.jpg",
+        "https://telegra.ph/file/6bbe16dd0199895a1db11.jpg",
+        "https://telegra.ph/file/e5f482d4dda67733485b1.jpg",
+        "https://telegra.ph/file/f974452b103ab4040ecc3.jpg",
+        "https://telegra.ph/file/07d7fbe1c23ee3e8be103.jpg",
+        "https://telegra.ph/file/5d1e9cb27f9abf7cff67c.jpg",
+        "https://telegra.ph/file/41d79f3db20e73a771a92.jpg",
+        "https://telegra.ph/file/da5baef3f09ecfd88a8eb.jpg",
+        "https://telegra.ph/file/4041f53b2d460f9aaaf3b.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46932,
+    "title": "星之迟迟-圣路易斯 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-圣路易斯---Page-1-02-15",
+    "images": [
+        "https://telegra.ph/file/dd43f36608253593adbf7.jpg",
+        "https://telegra.ph/file/96a53661c0f0b282c342f.jpg",
+        "https://telegra.ph/file/69a82d284eccad9641750.jpg",
+        "https://telegra.ph/file/4f35474cc28f64b34a15a.jpg",
+        "https://telegra.ph/file/dd7af6c1b4fbee0b9864d.jpg",
+        "https://telegra.ph/file/56a06dc9375aabd1b22df.jpg",
+        "https://telegra.ph/file/fb02ae7f3972a09926e6f.jpg",
+        "https://telegra.ph/file/ea6a9b5deb9df2ede070e.jpg",
+        "https://telegra.ph/file/c9b4ea5c028bedbbe01d6.jpg",
+        "https://telegra.ph/file/1f458c612b2405b852471.jpg",
+        "https://telegra.ph/file/df10b62bc7be5f3611b02.jpg",
+        "https://telegra.ph/file/17c57a46059cb1f5c3f19.jpg",
+        "https://telegra.ph/file/986d4e6f1870373d207fb.jpg",
+        "https://telegra.ph/file/da0d143246838b1d24744.jpg",
+        "https://telegra.ph/file/9d135fc040a1bf964a972.jpg",
+        "https://telegra.ph/file/9b8e5c3ce4963f7ba2a6e.jpg",
+        "https://telegra.ph/file/bbc6f1841a9213c843dff.jpg",
+        "https://telegra.ph/file/5619003d5249bbab04e71.jpg",
+        "https://telegra.ph/file/109c3e06fc478b569a269.jpg",
+        "https://telegra.ph/file/c43592762c5886a1ce0a4.jpg",
+        "https://telegra.ph/file/c03265cb03c7badece944.jpg",
+        "https://telegra.ph/file/8c2eb5b6dbdf5266e1f36.jpg",
+        "https://telegra.ph/file/899d161974137f690da78.jpg",
+        "https://telegra.ph/file/88c3bf1679af645777716.jpg",
+        "https://telegra.ph/file/c9e444f28678c230ae35b.jpg",
+        "https://telegra.ph/file/c94e78adc93d3830d6b42.jpg"
+    ]
+};

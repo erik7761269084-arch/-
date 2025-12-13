@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49830,
+    "title": "BoLoli 2017-05-15 Vol.056 Xia Mei Jiang (夏美酱) (Fate/Grand Order) - Page 1",
+    "sourceUrl": "https://telegra.ph/BoLoli-2017-05-15-Vol056-Xia-Mei-Jiang-夏美酱-FateGrand-Order---Page-1-02-28",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePRnwhB9lLWh0vfGpoIce6pdYr-MgQACvyMAAjmoEFazQYaemJ1fxjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePVnwhCAmcpzU0ilru3K4PahJ5yZSgACwCMAAjmoEFZrgXnZqjpXoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePZnwhCBnYaGmn_tQUrQkAchvyxM3AACwSMAAjmoEFZyw3mGD0EHYDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePdnwhCD8N_byeiPilTDN3VW7tzClAACwiMAAjmoEFYFgkCteLOqmzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePhnwhCFTCNw2dZDgiHpbmDM6XPxHQACwyMAAjmoEFZvj4K8evFI9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePlnwhCHrf-qx2FhegzVCivOJiRTFwACxCMAAjmoEFartk7Ua53HyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePpnwhCJyUTx9UsrSHiaqSR4zu1sxwACxSMAAjmoEFZwOvlICbC0LjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePtnwhCLkMsec_4zgprcMEVIuCSpRAACxiMAAjmoEFaNZRsyF7dDMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGePxnwhCM_YssUAcDDPXu7kT_eIpjMAACxyMAAjmoEFY9AAFrrc-0kvw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeP1nwhCOWUR5Ht3eV0lw_fH2hTqEWgACyCMAAjmoEFa0Yu1qI6oFoDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeP5nwhCQkEiF1_9lsKWnitzlKRRAowACySMAAjmoEFbCZho5Tn-7fTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeP9nwhCSAbMiyR0n_-Q4Ma7CdGMLAwACyiMAAjmoEFbZ3f5hw3mXmTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQABZ8IQlF3i5K6azcqcNlIP9e_NxRsAAssjAAI5qBBWUuCbg2X86xQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQFnwhCW-Yz5Qw_A3X4IKksTNE__AAPMIwACOagQVjAnliIrVb9DNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQJnwhCXW4V8n0vIPmEosDigPKO-FgACzSMAAjmoEFZzHmzjhGmq-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQNnwhCZUFUKU1DfpWQOC4X2NVOW_QACziMAAjmoEFbn0uGHkRwelDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQRnwhCbbVrFvI4uBp3R3q7MnqqqgAACzyMAAjmoEFbd8VWEO5HcOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQVnwhCdO1sepU8qsZplr3zyTTQvwgAC0CMAAjmoEFZ67MvWqHitATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQZnwhCfyEMiaLKCXtH7hLUPhtuD9wAC0SMAAjmoEFaoHvokSRvWTDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQdnwhCgMgFezlF7kB1OlEpfWvGkzgAC0iMAAjmoEFaUvUyoVeCLAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQhnwhDg_YhdTHoh8XuhY_Jz1_4PVwAC0yMAAjmoEFb63wKOynT-7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQlnwhDhmrRHZqqXsCHv4CazS9LyewAC1CMAAjmoEFYWtsN7fJFfWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQpnwhDj2wnX-IIXgqg5111M-_qAWgAC1SMAAjmoEFavjEO9pM1EIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQtnwhDk63RSQmmY-fyHmuPQJUjRbgAC1iMAAjmoEFYOzudxD8apTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQxnwhDmgSdcCZBZa79v1JSTkmnCRQAC1yMAAjmoEFaZkQdrAoX6XDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGeQ1nwhDoDDLXjC3YDQ8OEJY8oFsegwAC2CMAAjmoEFYakihKvb0D0jYE"
+    ]
+};

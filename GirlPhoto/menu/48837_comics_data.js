@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48837,
+    "title": "Michi Kyunn - Eula - Page 1",
+    "sourceUrl": "https://telegra.ph/Michi-Kyunn---Eula---Page-1-09-05",
+    "images": [
+        "https://telegra.ph/file/b9ea84c24b14bd6bd3087.jpg",
+        "https://telegra.ph/file/af6f9f622b14678bb2ba3.jpg",
+        "https://telegra.ph/file/624485b981c94304eafa3.jpg",
+        "https://telegra.ph/file/92c3249091627fafd8a5a.jpg",
+        "https://telegra.ph/file/5f9cb8d98af9fb297a0a2.jpg",
+        "https://telegra.ph/file/19e1eba4aa5af616d4276.jpg",
+        "https://telegra.ph/file/873f5568773055136fb07.jpg",
+        "https://telegra.ph/file/e9054bf577edddabc56c0.jpg",
+        "https://telegra.ph/file/970f7caa9c2a6eed2fe32.jpg",
+        "https://telegra.ph/file/815670af78e3f6e47db7e.jpg",
+        "https://telegra.ph/file/e14933d9790f9ef60c4d4.jpg",
+        "https://telegra.ph/file/382019759feedbbe49271.jpg",
+        "https://telegra.ph/file/f6f4253a3409ac88697d7.jpg",
+        "https://telegra.ph/file/8b6b44fcc0111ab8a7e9d.jpg",
+        "https://telegra.ph/file/9e07336fd28fce14c49dd.jpg",
+        "https://telegra.ph/file/a1e141f90c3d80b970706.jpg",
+        "https://telegra.ph/file/2aad77bd6e40ce2b2c6ed.jpg",
+        "https://telegra.ph/file/e920d56b11c906f61c351.jpg",
+        "https://telegra.ph/file/d71a154ff78e13933d8a9.jpg",
+        "https://telegra.ph/file/ecf7413a7cee51a6d77bb.jpg",
+        "https://telegra.ph/file/0d07dfb29af455befb193.jpg",
+        "https://telegra.ph/file/f3f6c97d7a48127ae48b5.jpg",
+        "https://telegra.ph/file/bad90bbcbab787523f6b7.jpg"
+    ]
+};

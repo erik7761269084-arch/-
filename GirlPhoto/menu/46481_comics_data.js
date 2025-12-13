@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46481,
+    "title": "Sunnyvier - Nyotengu - Page 1",
+    "sourceUrl": "https://telegra.ph/Sunnyvier---Nyotengu---Page-1-01-04",
+    "images": [
+        "https://telegra.ph/file/39553d72a14d2c89327d2.jpg",
+        "https://telegra.ph/file/b4a8a71102bef952de2f6.jpg",
+        "https://telegra.ph/file/da5bf9cfaf13077ddbc0a.jpg",
+        "https://telegra.ph/file/43aeb27c8994922a7b715.jpg",
+        "https://telegra.ph/file/ad6043892c88676804c89.jpg",
+        "https://telegra.ph/file/16122e9aeb49bc144ea1b.jpg",
+        "https://telegra.ph/file/812d2a4707a55e5e2712c.jpg",
+        "https://telegra.ph/file/dc61ab5d411630a225b13.jpg",
+        "https://telegra.ph/file/1bbe8708741598d680640.jpg",
+        "https://telegra.ph/file/f6057d2b40a780f662d0d.jpg",
+        "https://telegra.ph/file/685973d6e367087172d25.jpg",
+        "https://telegra.ph/file/e48aef50c4a7a83466905.jpg",
+        "https://telegra.ph/file/7e5a6fb5c353c27d78675.jpg",
+        "https://telegra.ph/file/e0490e800773adbce855b.jpg",
+        "https://telegra.ph/file/9a29c422d06fed63d49e6.jpg",
+        "https://telegra.ph/file/5a3a799bb36558cf6c63b.jpg",
+        "https://telegra.ph/file/9ee4f957bd2b4d6aea0ac.jpg",
+        "https://telegra.ph/file/98b9b46e92b369b2757d7.jpg",
+        "https://telegra.ph/file/b01e462405aa011aba13a.jpg",
+        "https://telegra.ph/file/71a72d2bfc742d884954b.jpg",
+        "https://telegra.ph/file/6580d418a28c3dedf6767.jpg",
+        "https://telegra.ph/file/c962b84e2413f04f74f48.jpg",
+        "https://telegra.ph/file/d5659d69ac658ac958c4c.jpg",
+        "https://telegra.ph/file/18837424cb9d9d9293bc5.jpg",
+        "https://telegra.ph/file/0f90f7676bd47081af7c9.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49213,
+    "title": "Peachuu - Ellen Joe - Page 1",
+    "sourceUrl": "https://telegra.ph/Peachuu---Ellen-Joe---Page-1-01-14",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbbNnha_b5yfEg_3lDECrFzw8d2q5HwAC9x8AAi4kKVQVC3gka2iFwDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbbVnhbAeVHF-QMKK2JdXyVbTRliG5AAC-R8AAi4kKVTuCAqG7FvxqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbbhnhbAhk7iUpHh1mYC2pa0qw_75_AAC_B8AAi4kKVSPok2sEWJ_7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbbpnhbAkCwh6_MEt8rQMrtvZkOlx7QAC_h8AAi4kKVSM4WUqxzbrCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbbxnhbAmwMpTF3-sCYpXZp_2nIi2vQADIAACLiQpVJipwDGky0P3NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbb5nhbApghlo_mWQ9aJEXo1l7AmXVQACAiAAAi4kKVSfLQABc_OK0h82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcBnhbAr2d2mbNxErH834OJTNOsksQACBCAAAi4kKVRwe-SCWc-DrTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcJnhbAucKNPeCJ7dD3Rt9IrXGWQKAACBiAAAi4kKVTHEHLbJEM0dzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcRnhbAwtzvbyAwNZJzMbLVyVQ7tpQACCCAAAi4kKVSqzxef9WQCRTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcZnhbAy7mKLroNboZZGvWttxoUkLwACCiAAAi4kKVTNPTUlAeLZLjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbchnhbA02iuTHY5WhWIC9PnWMch3oAACDCAAAi4kKVSEoJ63MmnSMzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcpnhbB2dY55D76DUJ0M9-3mHmF-mgACDiAAAi4kKVTxORULzy7jHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbcxnhbB4orE0y45UCnrQkVqzRM1OzgACECAAAi4kKVTq6lMW84P-GjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbc5nhbB7DgoMOLQIExL0T9NJzd6E5wACEiAAAi4kKVTO2Bly5eUO5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdBnhbB8g4gibUPAIrPXRtr9yKLOUQACFCAAAi4kKVT0xRc6I0YUyDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdJnhbB_H1LGBHhVxOC4bdc1-Mt8tAACFiAAAi4kKVRYm7clZ-lZzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdRnhbCC89TTfwv1-GaDPIxok5yMCwACGCAAAi4kKVTtRgF_eMMhsDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdZnhbCEtAfcc9a4h_psCMW3mMR9xgACGiAAAi4kKVRlP3UYSwsAAVI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdhnhbCHK5tf5gM1pmsM19ei5BVz-AACHCAAAi4kKVRu7avK3o2IcTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdpnhbCKxKc6E4kcui8p_Q4glHvhcAACHiAAAi4kKVSPstxU9Fcy9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbdtnhbCM-qn9iEi7JXMtzmuLeAMe5AACHyAAAi4kKVR3Q5GU3gIuMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbd1nhbDOovQZd4cD2oasyFNIW0iRzAACISAAAi4kKVR9oengLuKYNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbd5nhbDY5BVsK-aeDW3eDzq-FRC-JQACIiAAAi4kKVSQFEC0OhXXKzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbeFnhbDn5lBlRimXE5qvb_II5sQOfwACJSAAAi4kKVR5VclvsvS-OzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDbeNnhbDpeygNzcfnzZ7zhgdpH1XrbgACJyAAAi4kKVRCUEQNUNbEMTYE"
+    ]
+};

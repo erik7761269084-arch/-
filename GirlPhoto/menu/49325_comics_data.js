@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49325,
+    "title": "Hidori Rose - Princess Peach - Page 1",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Princess-Peach---Page-1-01-18",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuslnivOqMWyetPclrcvCgVXxRXHMwAACoh4AAqjGWVRPVUhRsx2sHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuspnivPxHPp9tIKXMSwXrb3b5adq2gACox4AAqjGWVSNdx6txMooITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDustnivQKYK8UwGbNxaWdYJBUBpebYAACpB4AAqjGWVQZfRfekpYHGDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDusxnivQSnClmbHy-HklcyPgkMfWmwgACpR4AAqjGWVQJXy-sdNVq-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDus1nivQUtwlzlRGUn-XlFpoaFV2xpQACph4AAqjGWVRKuw2RZFlCBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDus5nivQeVOMS1ry7wRYAAUAbZCNEvfEAAqceAAKoxllU2-wF0KRO-nk2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDus9nivQivmcannGW9-_aIVe0CfKYxwACqB4AAqjGWVTmkacSsNn6GjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutBnivRrOtmmVGKZ5v9WtYQLkAABm1QAAqkeAAKoxllUOi25nlUOD0E2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutFnivR_4KAIl97G2nA0B1qPOGMJdwACqh4AAqjGWVTFh3L0-2V__DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutJnivSI3AL2ZSZCEKvRJ0gXXY4kvwACqx4AAqjGWVSXzm0bJRebUjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutNnivTtpGKqT4b9aBVd2fhGQ_OjPQACrB4AAqjGWVQe_V-H535kdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutRnivURt5Q8RhZmN1Dn1nj5wt9NXAACrR4AAqjGWVTLQevkGOsnujYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutVnivUxTuXNxOOq_vWOIwoRC2NoQQACrh4AAqjGWVTh1qDa8CgLdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutZnivU3kMqd5e0CYcC8COC2poOVlQACrx4AAqjGWVT5R4l8m0nPkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutdnivU62ckUZhe05pLN2HuqYdvgeQACsB4AAqjGWVRFrNGjhZIcNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuthnivU-oupcxs0l1lfdvUtiRQABG18AArEeAAKoxllU37llBTeRiAI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutlnivVES_6FCRUEnAtgRH1FDiNlIAACsh4AAqjGWVSVY5_-IsXDyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutpnivVIcT0UrshuWod0ZP42wAyAcQACsx4AAqjGWVQd6-pCoF0h-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuttnivVL72FbnFeYGtPvKrAThLYKRgACtB4AAqjGWVRQpmSa9r2IzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDutxnivVOA4dc2Lb7C6RfgfCZZdiooQACtR4AAqjGWVTtRVds8-PHizYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDut1nivVQXYlM73XjmEimrefxmCRnLwACth4AAqjGWVRuER9T3k2WXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDut5nivVTepKWXGgF9kBmUXzqvEVqYwACtx4AAqjGWVQDHnjzL8LyvDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDut9nivVZDnRo-K3u5OZdBo_49xYxiQACuB4AAqjGWVRuXSrL_o8qfjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuuBnivVixkjxQ94dw2eP6nuU8clGaAACuR4AAqjGWVSLtmw-e2RDaDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuuFnivVlzL5qiziimtYOeBrDTfUinwACuh4AAqjGWVQSgxvomy2ZdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDuuJnivVnmgqgIvHU8WiC9fw6q5n-MwACux4AAqjGWVTozRxoFCOYgjYE"
+    ]
+};

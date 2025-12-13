@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48518,
+    "title": "Arty Huang (Arty亚缇) - Cow full - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang-Arty亚缇---Cow-full---Page-1-08-03",
+    "images": [
+        "https://telegra.ph/file/652b5a968c98f80becfe4.jpg",
+        "https://telegra.ph/file/c04bd3de25f0c67d2bd29.jpg",
+        "https://telegra.ph/file/64d078b855cb4f582bd25.jpg",
+        "https://telegra.ph/file/8802c26c8b476eb11d1c8.jpg",
+        "https://telegra.ph/file/e462f12aad3e867e1ef20.jpg",
+        "https://telegra.ph/file/e1c7619ace81735b443ba.jpg",
+        "https://telegra.ph/file/28e5fa9e1c99ae7d905a0.jpg",
+        "https://telegra.ph/file/4b743b5235249ff1719ae.jpg",
+        "https://telegra.ph/file/c9eefe2c908403323156b.jpg",
+        "https://telegra.ph/file/6a636ae23ff185f23ccf3.jpg",
+        "https://telegra.ph/file/1ee1c40d033566d152d46.jpg",
+        "https://telegra.ph/file/eaa54ec0f8c6e4067193d.jpg",
+        "https://telegra.ph/file/b064a888a32ab49d656b0.jpg",
+        "https://telegra.ph/file/3ffce87e49813e6bc2901.jpg",
+        "https://telegra.ph/file/85fb04906298b45cd9f3f.jpg",
+        "https://telegra.ph/file/4cb0c67a4eb1b98d6e31f.jpg",
+        "https://telegra.ph/file/d8b2556964a311b126aa6.jpg",
+        "https://telegra.ph/file/4a8975d4262f121b65109.jpg",
+        "https://telegra.ph/file/1efc59207637745d590fb.jpg",
+        "https://telegra.ph/file/f95562112de2ef66ac195.jpg",
+        "https://telegra.ph/file/143a5c64d40fe33ceb5d2.jpg",
+        "https://telegra.ph/file/ccaee20d9ab21bb0b4942.jpg",
+        "https://telegra.ph/file/b2726ef416c0833ef1058.jpg",
+        "https://telegra.ph/file/4bb3c6833b82c2f0cbf5b.jpg",
+        "https://telegra.ph/file/b200b77c61ec6aee3aa2c.jpg"
+    ]
+};

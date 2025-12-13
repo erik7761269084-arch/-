@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47475,
+    "title": "[香草喵]艷娘幻夢譚-金蓮 - Page 1",
+    "sourceUrl": "https://telegra.ph/香草喵艷娘幻夢譚-金蓮---Page-1-04-04",
+    "images": [
+        "https://telegra.ph/file/dcf61108008d87cf83af7.jpg",
+        "https://telegra.ph/file/40fbd7ce18233bbd20ab1.jpg",
+        "https://telegra.ph/file/c810c61e0af53de238699.jpg",
+        "https://telegra.ph/file/a27a46f1acbc10ece33dc.jpg",
+        "https://telegra.ph/file/0b7981824b184e160f743.jpg",
+        "https://telegra.ph/file/e04648f08b39182ad7411.jpg",
+        "https://telegra.ph/file/4c1612c285a8c9f94be7e.jpg",
+        "https://telegra.ph/file/28d07df55bcb2aab30a6e.jpg",
+        "https://telegra.ph/file/cce23443fe1fae81e05a1.jpg",
+        "https://telegra.ph/file/6c7bde1be9cf73a3a6680.jpg",
+        "https://telegra.ph/file/322d445159d90d581e24d.jpg",
+        "https://telegra.ph/file/03044ccb52995f663f5e8.jpg",
+        "https://telegra.ph/file/114e4aaf0de0f70eff762.jpg",
+        "https://telegra.ph/file/6322c57f953bd38e0b7ef.jpg",
+        "https://telegra.ph/file/b74daef5eb5ae14a29508.jpg",
+        "https://telegra.ph/file/9de4a19ebeaf8952af207.jpg",
+        "https://telegra.ph/file/c1041783180f3889bb57c.jpg",
+        "https://telegra.ph/file/6dd0329b2d81233779403.jpg",
+        "https://telegra.ph/file/9259c4740590094927678.jpg",
+        "https://telegra.ph/file/c63838a977ffedb21b924.jpg",
+        "https://telegra.ph/file/7dbd66622a39192d9218b.jpg",
+        "https://telegra.ph/file/2d62618720a5bb95138e8.jpg",
+        "https://telegra.ph/file/e9925d3333d342925992a.jpg"
+    ]
+};

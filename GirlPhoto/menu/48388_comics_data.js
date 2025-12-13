@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48388,
+    "title": "Smile Bibison - Shenhe - Page 1",
+    "sourceUrl": "https://telegra.ph/Smile-Bibison---Shenhe---Page-1-06-26",
+    "images": [
+        "https://telegra.ph/file/cfa03efe9f94f5fe4ca3a.jpg",
+        "https://telegra.ph/file/dc1b6bbad51e4c0c366d9.jpg",
+        "https://telegra.ph/file/0445538894c4b3874c6e5.jpg",
+        "https://telegra.ph/file/90c5c29e4846e72b18ec9.jpg",
+        "https://telegra.ph/file/cdc9998f1c9dae52447d4.jpg",
+        "https://telegra.ph/file/83ac9099887ae93e37cef.jpg",
+        "https://telegra.ph/file/893100fa983fda7fd8807.jpg",
+        "https://telegra.ph/file/3785bec6db80b22c64ada.jpg",
+        "https://telegra.ph/file/814ade5f8ea551a1bc43a.jpg",
+        "https://telegra.ph/file/f776cc1dd5c93c2c9ee39.jpg",
+        "https://telegra.ph/file/f51fcf91ce5fea72d5da6.jpg",
+        "https://telegra.ph/file/9cc7dd592595103da6d07.jpg",
+        "https://telegra.ph/file/5cc5775e8dad29a5eec91.jpg",
+        "https://telegra.ph/file/463f664f8e41a1ec7bf79.jpg",
+        "https://telegra.ph/file/53a54153c9b004071f558.jpg",
+        "https://telegra.ph/file/c01f2ead9cf3fcf5229e1.jpg",
+        "https://telegra.ph/file/b289b6f31da7bf553ac1f.jpg",
+        "https://telegra.ph/file/6f325810e4a4e4ef4e610.jpg",
+        "https://telegra.ph/file/32a5b5e982cb9f4d00a24.jpg",
+        "https://telegra.ph/file/08ac365c703e2fccf06e1.jpg",
+        "https://telegra.ph/file/8f3c7174c84872eb420ee.jpg",
+        "https://telegra.ph/file/de2305802ea2a6c054448.jpg",
+        "https://telegra.ph/file/8b892cf5402cfb425afb6.jpg",
+        "https://telegra.ph/file/e8dfd2329c6a1665498ce.jpg",
+        "https://telegra.ph/file/c2795fa4e6cce2b444952.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48493,
+    "title": "QUEENIE CHUPPY - Magia Baiser - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---Magia-Baiser---Page-1-08-01",
+    "images": [
+        "https://telegra.ph/file/8f19482f36dbf64e005a4.jpg",
+        "https://telegra.ph/file/8d57c0e1fa5f61d98bfc2.jpg",
+        "https://telegra.ph/file/8ddc91d980c0715773e45.jpg",
+        "https://telegra.ph/file/6e98538c20ea6179a6f10.jpg",
+        "https://telegra.ph/file/58c3756548e729be4d99d.jpg",
+        "https://telegra.ph/file/de1e4d75dcb2b014d5ef3.jpg",
+        "https://telegra.ph/file/a4edcdbf92856ba238237.jpg",
+        "https://telegra.ph/file/f9c53ef92339f16599ebc.jpg",
+        "https://telegra.ph/file/492365e5f6aad62525e43.jpg",
+        "https://telegra.ph/file/b4256cc2dbfe07387e6e2.jpg",
+        "https://telegra.ph/file/b89241281c686cea4589d.jpg",
+        "https://telegra.ph/file/1e198aa67d20e890981b8.jpg",
+        "https://telegra.ph/file/649c6b996ee1a4312bf6f.jpg",
+        "https://telegra.ph/file/acd4e6a16336258802cca.jpg",
+        "https://telegra.ph/file/061947a61a053441db474.jpg",
+        "https://telegra.ph/file/81c266b250c6d3f1799a0.jpg",
+        "https://telegra.ph/file/c5cf37ec05d3b0094d0da.jpg",
+        "https://telegra.ph/file/4e4d97ae39ddf897bd729.jpg",
+        "https://telegra.ph/file/d6f19be0489ce2d3b068c.jpg",
+        "https://telegra.ph/file/dac404cfe280f0bc10060.jpg",
+        "https://telegra.ph/file/f869dea75effa6fe02751.jpg",
+        "https://telegra.ph/file/dc0529fee9958eba874de.jpg",
+        "https://telegra.ph/file/20719367292cea01c58e6.jpg",
+        "https://telegra.ph/file/3cae0ac7f5a8911c9c521.jpg"
+    ]
+};

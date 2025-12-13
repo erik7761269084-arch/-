@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48206,
+    "title": "Hinata2000 - Maid Mashu - Page 1",
+    "sourceUrl": "https://telegra.ph/Hinata2000---Maid-Mashu---Page-1-06-10",
+    "images": [
+        "https://telegra.ph/file/d90c51ec130afd5f7a606.jpg",
+        "https://telegra.ph/file/cadd48eaf5ac7d7c06a57.jpg",
+        "https://telegra.ph/file/e1dccf7fc295e0f0ef546.jpg",
+        "https://telegra.ph/file/810290b6b807ac3c40c68.jpg",
+        "https://telegra.ph/file/6cbda7f8793aa03537199.jpg",
+        "https://telegra.ph/file/99118b74d43f27c317f0e.jpg",
+        "https://telegra.ph/file/676fc9d0e5e31c1fa85be.jpg",
+        "https://telegra.ph/file/bf58b8987e5fd4be45539.jpg",
+        "https://telegra.ph/file/255b032fe5df3d57a6fff.jpg",
+        "https://telegra.ph/file/c683a8a11663b21c62e0b.jpg",
+        "https://telegra.ph/file/8636cb329dc290084fb52.jpg",
+        "https://telegra.ph/file/d3530e8f4607ccbaeccbb.jpg",
+        "https://telegra.ph/file/f22de6c31403f0bb4be4b.jpg",
+        "https://telegra.ph/file/4edf19353450337649819.jpg",
+        "https://telegra.ph/file/fb1e74e505c21d89d1718.jpg",
+        "https://telegra.ph/file/d9de569accfcd04c4423c.jpg",
+        "https://telegra.ph/file/2bea24b1fc865ffb6f71d.jpg",
+        "https://telegra.ph/file/9e89534ca23cf7644aaf7.jpg",
+        "https://telegra.ph/file/6607d9f97e25a8b1676fc.jpg",
+        "https://telegra.ph/file/58d3a568f9c7360a18aa3.jpg",
+        "https://telegra.ph/file/87aeecb27bf42182f17ea.jpg",
+        "https://telegra.ph/file/3f22f9866b12653d4f15e.jpg",
+        "https://telegra.ph/file/15ba4822a7f2e69b48671.jpg"
+    ]
+};

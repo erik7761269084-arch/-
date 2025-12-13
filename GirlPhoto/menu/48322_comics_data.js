@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48322,
+    "title": "AZURE - REM Cow Bikini - Page 1",
+    "sourceUrl": "https://telegra.ph/AZURE---REM-Cow-Bikini---Page-1-06-20",
+    "images": [
+        "https://telegra.ph/file/493f49c154f72449fcdcd.jpg",
+        "https://telegra.ph/file/a096467eea4543ef336aa.jpg",
+        "https://telegra.ph/file/650c00ab86a9297ea6154.jpg",
+        "https://telegra.ph/file/4bad52355aca474a952a5.jpg",
+        "https://telegra.ph/file/78334e761de64e3d5920d.jpg",
+        "https://telegra.ph/file/b66b537d36236d3d070a8.jpg",
+        "https://telegra.ph/file/5fe47412daa6843dc33f9.jpg",
+        "https://telegra.ph/file/044b8c372b523b8f53d92.jpg",
+        "https://telegra.ph/file/819b14d609bd23c69169b.jpg",
+        "https://telegra.ph/file/f047799acbc21abae111f.jpg",
+        "https://telegra.ph/file/3a44b1ea433b40b44776f.jpg",
+        "https://telegra.ph/file/c8007621ef34ecf54018a.jpg",
+        "https://telegra.ph/file/32e5754a8f60cc33200e2.jpg",
+        "https://telegra.ph/file/85fb073ce9fedbed1f49b.jpg",
+        "https://telegra.ph/file/8c38ca89a53099088a636.jpg",
+        "https://telegra.ph/file/469dca8b8bf331b3730c3.jpg",
+        "https://telegra.ph/file/5baa0c56c69578eb73a84.jpg",
+        "https://telegra.ph/file/ec2e40739acc1ca8770c2.jpg",
+        "https://telegra.ph/file/5f19b32cb969058d32784.jpg",
+        "https://telegra.ph/file/59e20f6838c8b557c27b5.jpg",
+        "https://telegra.ph/file/9ad0cfa5dc3a3fba9d6b9.jpg",
+        "https://telegra.ph/file/f3e89906c00511458def9.jpg",
+        "https://telegra.ph/file/e61f1775c2bce6950376f.jpg",
+        "https://telegra.ph/file/f1d7e60d23dac5f58887a.jpg",
+        "https://telegra.ph/file/4b95b8e3667684c25b54a.jpg"
+    ]
+};

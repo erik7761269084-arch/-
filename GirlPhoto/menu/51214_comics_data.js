@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 51214,
+    "title": "[Ringo Mitsuki] 陰茎を苛立たせるムチムチドスケベセントルイス💙 (Fantia) - Page 1",
+    "sourceUrl": "https://telegra.ph/Ringo-Mitsuki-陰茎を苛立たせるムチムチドスケベセントルイス-Fantia---Page-1-11-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurFpBrvCKoqMQU2xpfilPxYtuMtHdwACxCYAAoebMVS5z0YdRgiE-TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurJpBrvF0qkBmCDTQa3j_KC9P2xEgAACxiYAAoebMVQjgOLsI9a5BDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurNpBrvHfNC2m471IfT31DogmcuSSAACxyYAAoebMVRVDT-wnZa7-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurRpBrvIWhywD7YCpGhuPbmXgZ64CQACyCYAAoebMVSb9LGTtaj95jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurVpBrvKDy2rZ69HMlM0YsiGwAP8UwACySYAAoebMVRBP7PrO6nJAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurZpBrvLFRF8xbRWqF-YyblTd0IsdQACyyYAAoebMVQ2OhlTZ99GajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurdpBrvNhY9rcXxpD-7YcRIDqnxWaAACzCYAAoebMVR1eDgPj0Kp0zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurhpBrvQB0fImxC8Camy0x4AAeGXsRkAAs0mAAKHmzFUW6qXvPaw1P02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurlpBrvSIZbO8JtyLKbpLuyOKKQZyAACziYAAoebMVRWFjZAY3_H7TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurppBrvUcxJ9-wdk-boH_Lp-8Md4NQACzyYAAoebMVQ7umCBQwHp4DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurtpBrvWBiKEwCza4EQHvRxVwo7cQwAC0CYAAoebMVSieOFDq2U0rDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETurxpBrvXX1duP4ownL4eSxmB4KcdAQAC0SYAAoebMVSNvTDCV4bpPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETur1pBrvZ99aVGeUbDJIUkfndOVhaYQAC0iYAAoebMVS6QRo63JxUGDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETur5pBrvafml9e07O03So2ol1G_bCpAAC0yYAAoebMVS6qkUjswRPPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETur9pBrvcL5MdTkqM_RYuuiH4NtbBewAC1CYAAoebMVQuhbPcZOhhCDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusBpBrvdtfFmUYVp1Y_xYYB2NTSdwAAC1SYAAoebMVQfIg-P7xwOZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusFpBrvfUaqcdGwU5uCQgnGUU48PeAAC1iYAAoebMVQCvzhGdTiCdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusJpBrvh0iXYz77VI30mxJZZIJCpnQAC1yYAAoebMVSqFomwU8oTWTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusNpBrvii9LOusAoLhRZ4D8-clwwuwAC2CYAAoebMVTYsyupIYssnDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusRpBrvk5WKLKBW0lHEcs0Iz3GvtswAC2SYAAoebMVQo_Wj_bS6dJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusVpBrwkK15XEQbw7Vm5CyJwwaM7UwAC3CYAAoebMVSrkhHCpquVjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusZpBrwlmxZLRybnoCLivS7z7vbnGQAC3SYAAoebMVQaL1KRL-uZAjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusdpBrwnhVU7EBvJkmhbtUXMVU4BFgAC3iYAAoebMVTpqh5UzWyh2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETushpBrwprJY4poPyd9NHtWb7yZ99DQAC3yYAAoebMVRx9r77YCAmKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETuslpBrwqlEd6XtlJ-PAz5K_R1WbCWgAC4CYAAoebMVSBBkT7l_oZIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETusppBrwsuSP7x7YS0aqRpFOUXgm4HQAC4SYAAoebMVQ1MTl-KFtAiDYE"
+    ]
+};

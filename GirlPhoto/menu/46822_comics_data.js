@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46822,
+    "title": "雨波 HaneAme - Dragonˊs Crown Sorceress - Page 1",
+    "sourceUrl": "https://telegra.ph/雨波-HaneAme---Dragonˊs-Crown-Sorceress---Page-1-02-05",
+    "images": [
+        "https://telegra.ph/file/9770298ef78c5bc01abfe.jpg",
+        "https://telegra.ph/file/3124f56ce2f04cc7f1c9e.jpg",
+        "https://telegra.ph/file/041ae86f93ec06ce96780.jpg",
+        "https://telegra.ph/file/3a5a117fa005a434bc392.jpg",
+        "https://telegra.ph/file/f048bc4fbccf0c7500b07.jpg",
+        "https://telegra.ph/file/6b0bda5fab0566414a909.jpg",
+        "https://telegra.ph/file/ec4df17964f3521d5236a.jpg",
+        "https://telegra.ph/file/8bb4fc141d3c325f77ec5.jpg",
+        "https://telegra.ph/file/49e1b55ff2681f671895a.jpg",
+        "https://telegra.ph/file/c2e72291ed2ec79acbba7.jpg",
+        "https://telegra.ph/file/42607487a03be8958adff.jpg",
+        "https://telegra.ph/file/bd21b133ee6817beb56cf.jpg",
+        "https://telegra.ph/file/6d7aafab2b1f3bfef621e.jpg",
+        "https://telegra.ph/file/930b4643168ade26b1e35.jpg",
+        "https://telegra.ph/file/bf41599704b6f5bda14a4.jpg",
+        "https://telegra.ph/file/139b1725646da8e00a5b1.jpg",
+        "https://telegra.ph/file/6af3b29369a13b44e54b6.jpg",
+        "https://telegra.ph/file/c58656136ad04815b88d4.jpg",
+        "https://telegra.ph/file/db8cefa2270986aca0883.jpg",
+        "https://telegra.ph/file/e6db300b7dad276a170f6.jpg",
+        "https://telegra.ph/file/fde59f68b9c02f7060dec.jpg",
+        "https://telegra.ph/file/6f0b6093a83a94a8b488f.jpg",
+        "https://telegra.ph/file/c0975a75f6f1483d71c9c.jpg",
+        "https://telegra.ph/file/5b0cb67885fb25b7fc90f.jpg"
+    ]
+};

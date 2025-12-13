@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49062,
+    "title": "[Xidaidai 习呆呆] Ren Yamashiro with GIF (Mato Seihei no Slave) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Ren-Yamashiro-with-GIF-Mato-Seihei-no-Slave-Decensored---Page-1-01-09",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCd5nfzJ1pCNkvixIwfACgHQ5zSbbawACUBoAAkQv-VcOZUjDswXL2zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCd9nfzJ-SgGZo8w0Ba7GF5yDF6WdmgACURoAAkQv-VePonsOWE926DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeBnfzKBQlX6LYikamYlk7o_jx-zVAACUhoAAkQv-Vfz4mVQskQ3bDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeFnfzKD4VJog1hoceA7wPjW2BqNWQACUxoAAkQv-VeGyYO50-wRTjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeJnfzKGSy_e6cQvrtBkMxC9GhgCsAACVBoAAkQv-Vf6xRqdzaOJSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeNnfzKJDqK6lLHFgVvRRdxJyYM8vAACVRoAAkQv-VdbI8Yd3f1SPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeRnfzKMIEtRzNuZSddVjLOM1n_tEQACVhoAAkQv-VejuF7Sj5tWWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeVnfzKSCd69W1zuYtXXXYRARytGVwACVxoAAkQv-VdNcgiVwq6nCDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCeZnfzKVhiDAG5ZnabwCRq01mhlnEwACWBoAAkQv-VdYJwABXdkOaJI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCednfzKXl5QuAzmWfIynFsdRFQg7KwACWRoAAkQv-VcUXZJpVy22yDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCehnfzKa30iUs45JMPdj_kbX72U5cQACWhoAAkQv-VcDB3saPROFxzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCelnfzKdDq78IdWJCuFHYTNh9Z-BWgACWxoAAkQv-VdnCyyTBpXWYTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCepnfzKg3BzHJi0saFK8p1n7-tmWzwACXBoAAkQv-VenBkyiDtWRkDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCetnfzKkmdRfNK6t-rExey5f3LkWuwACXRoAAkQv-Vdh71gl3qrMcTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCexnfzKsgoXf1kktmOE8w8rC0fbb6gACXhoAAkQv-VdlRWfMug2IjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCe1nfzKvMRPzrDi74xDaEXm9CQdjQAACXxoAAkQv-Vdb-79X6oDtLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCe5nfzKxpyEzjWtqPb0DNXOlq0PyxgACYBoAAkQv-VcYt1dGJqdRjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCe9nfzKz3vWdEHn2gFhhytNDruKNxQACYRoAAkQv-VfcT4aKWUH1PzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfBnfzK2XWOvP671RNGSKRWO-Xmy4gACYhoAAkQv-VciwuykE1BYODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfFnfzK4yINwQ9EXlREgkhEckdROyQACYxoAAkQv-VfA9IvRAiS3bDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfJnfzK6-f9pU2L3O4FDrVZR2Nv0UwACZBoAAkQv-VfllkK8xM3E5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfNnfzK9IxVRSJzh7tID-fw8KsSlcQACZRoAAkQv-Vc0r4KGa5y2szYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfRnfzLG9mIlhI5U54tN3JqhWoVDagACZhoAAkQv-VckA8GR5vpTATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfVnfzLNBxg8tb666k7HlMnN6kkIgQACZxoAAkQv-Vf-wUDbVi0-KjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCfZnfzLTSo76Mh-PMJ9MUGGF2sq3jwACaBoAAkQv-VcPlHfAVFziGDYE"
+    ]
+};

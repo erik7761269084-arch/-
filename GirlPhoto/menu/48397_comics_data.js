@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48397,
+    "title": "小仓千代w 金鹿  婚纱 AZURLANE - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w-金鹿-婚纱-AZURLANE---Page-1-06-27",
+    "images": [
+        "https://telegra.ph/file/7f436795f695a99d4be00.jpg",
+        "https://telegra.ph/file/f16b5318cb0aeba2a60d5.jpg",
+        "https://telegra.ph/file/30819377ac684e179d41d.jpg",
+        "https://telegra.ph/file/50013631018f52b6c77df.jpg",
+        "https://telegra.ph/file/00b5e2eeb14b4c35093ab.jpg",
+        "https://telegra.ph/file/bb45d9bbb1ac4fa7fa319.jpg",
+        "https://telegra.ph/file/7d23303efa595ffeb4f53.jpg",
+        "https://telegra.ph/file/728bb6637d84e329afe72.jpg",
+        "https://telegra.ph/file/4a55601f88cfdad4439e7.jpg",
+        "https://telegra.ph/file/0bb77909d51adf0e66103.jpg",
+        "https://telegra.ph/file/aa0ee7588f93f903d6d66.jpg",
+        "https://telegra.ph/file/bcb41228228f4aa70d2df.jpg",
+        "https://telegra.ph/file/e0b47bcd496c9ca14724c.jpg",
+        "https://telegra.ph/file/8823ee080b6d692830ccf.jpg",
+        "https://telegra.ph/file/3638a4d4a06c6ebc72bb0.jpg",
+        "https://telegra.ph/file/372fa0f2d21eaa6ee02d1.jpg",
+        "https://telegra.ph/file/1605092bc318d585588da.jpg",
+        "https://telegra.ph/file/91720c9753f6b4bcb070a.jpg",
+        "https://telegra.ph/file/a6b6b8191acb35986d57c.jpg",
+        "https://telegra.ph/file/ff4f414e31daaf14bda7f.jpg",
+        "https://telegra.ph/file/572b10dc6d38faa6d8af7.jpg",
+        "https://telegra.ph/file/8b0418803a2b7bbd675ab.jpg",
+        "https://telegra.ph/file/93cb3450817480c216a24.jpg",
+        "https://telegra.ph/file/6601e58ebfc948138315a.jpg",
+        "https://telegra.ph/file/cfdd409026176ca4d6d2d.jpg"
+    ]
+};

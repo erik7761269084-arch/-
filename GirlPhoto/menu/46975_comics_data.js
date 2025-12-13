@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46975,
+    "title": "G44不会受伤 - euphoria - Page 1",
+    "sourceUrl": "https://telegra.ph/G44不会受伤---euphoria---Page-1-02-18",
+    "images": [
+        "https://telegra.ph/file/999d5b0e58dbaf300908c.jpg",
+        "https://telegra.ph/file/d101c149dd4014fdc2836.jpg",
+        "https://telegra.ph/file/769e0a7e332c7fb752521.jpg",
+        "https://telegra.ph/file/0f0aa46548dfd5f5e23a3.jpg",
+        "https://telegra.ph/file/02c506d65fed3c7520340.jpg",
+        "https://telegra.ph/file/e7382b8a27365fc82ca6f.jpg",
+        "https://telegra.ph/file/4907951a3da5b2c5f71af.jpg",
+        "https://telegra.ph/file/59f9611ca5ce8ae7968e7.jpg",
+        "https://telegra.ph/file/1af5ddf52cb683fc2e41e.jpg",
+        "https://telegra.ph/file/03ec0de211472d4b45bfa.jpg",
+        "https://telegra.ph/file/fa04c0acd866ed02a0d78.jpg",
+        "https://telegra.ph/file/39b61226cfeb964010e24.jpg",
+        "https://telegra.ph/file/ec2a7c17ce9a27a920c33.jpg",
+        "https://telegra.ph/file/d9d45d37f775d28aa382b.jpg",
+        "https://telegra.ph/file/ffca4735aeaa206459d2c.jpg",
+        "https://telegra.ph/file/a6a9a799691c90177744f.jpg",
+        "https://telegra.ph/file/25781b063248e7f555867.jpg",
+        "https://telegra.ph/file/d717339e018609ef2f591.jpg",
+        "https://telegra.ph/file/c7317eb1ff01433dee4ec.jpg",
+        "https://telegra.ph/file/040551404f3eaa9026bf7.jpg",
+        "https://telegra.ph/file/e4bbb6e5b6616171351ec.jpg",
+        "https://telegra.ph/file/7ef4aba46d8d4b0dad7e6.jpg",
+        "https://telegra.ph/file/fcd64338ad400f2198c76.jpg",
+        "https://telegra.ph/file/6430054c7cb87aa8a9d66.jpg",
+        "https://telegra.ph/file/55ab0b021f9ee9475910d.jpg",
+        "https://telegra.ph/file/64c9caeb18b6b61001bea.jpg"
+    ]
+};

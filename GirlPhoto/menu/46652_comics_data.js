@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46652,
+    "title": "Octokuro - Bayonetta - Page 1",
+    "sourceUrl": "https://telegra.ph/Octokuro---Bayonetta---Page-1-01-21",
+    "images": [
+        "https://telegra.ph/file/75ba2b526ec1735b8c4a7.jpg",
+        "https://telegra.ph/file/0edaf6bfc20726e293bcd.jpg",
+        "https://telegra.ph/file/e52f79ca360b79a322f16.jpg",
+        "https://telegra.ph/file/0bc9a33ad6732d92661f0.jpg",
+        "https://telegra.ph/file/daae9ad097ac9d201b139.jpg",
+        "https://telegra.ph/file/2a4299158e7c3918c2c31.jpg",
+        "https://telegra.ph/file/cc52b0af8d464acbc1cc8.jpg",
+        "https://telegra.ph/file/26a60837fc913d70e3c8b.jpg",
+        "https://telegra.ph/file/1746bbb43ac6dceb0e044.jpg",
+        "https://telegra.ph/file/cd210801d1a881dd6e81e.jpg",
+        "https://telegra.ph/file/35c768e23397d8a08b98c.jpg",
+        "https://telegra.ph/file/88fc99f1439dfc9a9e0df.jpg",
+        "https://telegra.ph/file/17fd552bfe6c0ea5c8e3e.jpg",
+        "https://telegra.ph/file/c764c6dcb922b1d1c73ba.jpg",
+        "https://telegra.ph/file/6711ac2f9259f1912b7e1.jpg",
+        "https://telegra.ph/file/052bdd818b51cdaa1f8c3.jpg",
+        "https://telegra.ph/file/c93040f0f7f5cc64a84af.jpg",
+        "https://telegra.ph/file/7cbfc0a85ef6ca8e30d08.jpg",
+        "https://telegra.ph/file/fdaf0110f12b4b524bce2.jpg",
+        "https://telegra.ph/file/a3f028d703a8f295415ca.jpg",
+        "https://telegra.ph/file/60c581341e7b734d91e30.jpg",
+        "https://telegra.ph/file/20b79402ed95b3daf517d.jpg",
+        "https://telegra.ph/file/4c4478208f671f533b011.jpg"
+    ]
+};

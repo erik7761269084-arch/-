@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49278,
+    "title": "Ayame_base - Frieren - Page 1",
+    "sourceUrl": "https://telegra.ph/Ayame-base---Frieren---Page-1-01-16",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmR1niKUQDxaS9Ddh3P8wFsFxP_LqJwAChRgAAh-6SFTphD-IMdNZSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmR5niKUWzv21thiWvOWXNIEJjJ4fegAChhgAAh-6SFTC4Deept1aZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmR9niKUj6tMRvIe-f0Dw8WldMTnGEAAChxgAAh-6SFQTst2EAAHP4zU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSBniKUyGnbuSdavbXX1Fx13hfWIeQACiBgAAh-6SFSTo4_QE2m-ojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSFniKU16eAzPM5tq2d3H3p7UtEW8gACiRgAAh-6SFRf3xVUDsX5tTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSJniKU5tN3_TezqgxvGs_R9BT6NCgACihgAAh-6SFT0E97Rm-hm3zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSNniKU-LJCRQ5oGuuxRRJ2k33l9oAACixgAAh-6SFSnSk4PX-jZ6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSRniKVDDyw2is1wi9kaqH3RcHzrZAACjRgAAh-6SFRjtiAplK37OTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSVniKVLkAABynhbq--P14MVQzOElHkAAo8YAAIfukhUZZn77Mv9tD02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSZniKVWv9rVivJw8XDVVjoyvdzELgACkBgAAh-6SFRD08nxoiSxPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSdniKVb8r6M2loqWklmPz_ipTI5HAACkRgAAh-6SFR0DZ8u5zAwxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmShniKVdg10MAroJOOAyI_7DybQ5jgACkhgAAh-6SFQzW4_dq3RcITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSlniKVhlg37kbOEhenFqDWiBo6VMgACkxgAAh-6SFS21SNIZSZH6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSpniKVleoQbsuxqusAk6eg6hbzsLAAClBgAAh-6SFRzJ1vd2KRhLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmStniKVrdfq5FaT1xOgNx7rkyFz1TgAClRgAAh-6SFTVW2GJXL8y0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmSxniKVuY77uyT9i7PKohLg8383AjAAClhgAAh-6SFROP8Ou9_edMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmS1niKVxgxTonODK7aglw-nf_V1vAAOXGAACH7pIVN3k0OhYlfyBNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmS5niKVzpHQB6YGctMLt8Sk9_84O2gACmBgAAh-6SFQnX7J6dxQ3tTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmS9niKV1-hsb4wSEDKwOFzJfVKvdvQACmRgAAh-6SFTkKdDmsj6WaTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmTBniKV4jM-CRFrXLglwF-MNCEsJTwACmhgAAh-6SFR34DDRXOBmlTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmTFniKV64Rg63EkQj4VB-gyVsB-wqwACmxgAAh-6SFTsxh9q92cf5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmTJniKV9_bhYgMTPxQABp-PwGd14ZrgAApwYAAIfukhUh3NEXz--uig2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmTNniKWAxDgDitsAAYeFCSsSYYynqpgAAp0YAAIfukhUTwwpHVFWEkI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDmTRniKWCUFkDGIRMKZFYk8VXVXCneQACnhgAAh-6SFQ5wLeb5qHFFTYE"
+    ]
+};

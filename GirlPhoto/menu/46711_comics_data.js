@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46711,
+    "title": "啪喵少女 島風 - Page 1",
+    "sourceUrl": "https://telegra.ph/啪喵少女-島風---Page-1-01-26",
+    "images": [
+        "https://telegra.ph/file/0ca2ae434487e19e5a715.jpg",
+        "https://telegra.ph/file/aab177908cb12e7f5342c.jpg",
+        "https://telegra.ph/file/a529da1a2ba6d8f621a4e.jpg",
+        "https://telegra.ph/file/b482ee375641a07f8d905.jpg",
+        "https://telegra.ph/file/d7635992dead00ebf1634.jpg",
+        "https://telegra.ph/file/dde9a76aa0f3ebd1d5888.jpg",
+        "https://telegra.ph/file/a1f5277b8913f2c348af1.jpg",
+        "https://telegra.ph/file/3435713fb81ef0db4beaf.jpg",
+        "https://telegra.ph/file/83ed061f3285d81a1c059.jpg",
+        "https://telegra.ph/file/47884ff4f1e681c49e98e.jpg",
+        "https://telegra.ph/file/94a07be3d4fe126533ab6.jpg",
+        "https://telegra.ph/file/515ad8f15d724ca844ccf.jpg",
+        "https://telegra.ph/file/58016a9b8eba673d36067.jpg",
+        "https://telegra.ph/file/48f5566812b0c8d7a6bbf.jpg",
+        "https://telegra.ph/file/ca0d19a18329e19939c68.jpg",
+        "https://telegra.ph/file/7167e77a2e998ca77d3a4.jpg",
+        "https://telegra.ph/file/e7679b6d96380d0ea1e0d.jpg",
+        "https://telegra.ph/file/967581728364266e9cd14.jpg",
+        "https://telegra.ph/file/493a77798140ae158a729.jpg",
+        "https://telegra.ph/file/aa29c11223f103f1c6115.jpg",
+        "https://telegra.ph/file/6c60ef4a5c14237ff17cb.jpg",
+        "https://telegra.ph/file/9f8d4626bbae7fcb62a53.jpg",
+        "https://telegra.ph/file/b8afa800f95a06a960dc7.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49492,
+    "title": "Arty Huang - Tsundere Elf Blue Lingerie - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---Tsundere-Elf-Blue-Lingerie---Page-1-01-26",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFJnlqIti9We1l2KQVpLjOpj8qRAfAACwR0AAogpsVT7Yz166fMt5jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFNnlqIwhh2SHsLusg3tkpYKfHXjsgACwh0AAogpsVThf7yLgLb1izYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFRnlqIzF2IQoQABWmSzFkoKg0ATA2gAAsMdAAKIKbFUka5mxByTWNQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFVnlqI1XTZiRaV_u19XOOV365d1ngACxB0AAogpsVQxEc1_mGCbPzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFZnlqI4LLwHNvKd2_XFk0WHoDL90AACxR0AAogpsVTFf_kiLNYIUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFdnlqI6KPup1JrvE-BzTBEkI0hejgACxh0AAogpsVRy-g0xjPD44DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFhnlqI_fw9iOWND8IvKhsjvk_VkmAACxx0AAogpsVR2yRMTtZm6ojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFlnlqJBo4FWqfdF6BfbwtlmAX5SfwACyB0AAogpsVSNvLMAAabj2po2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFpnlqJDK8isRmxMv9OI_G3DTcNevwACyR0AAogpsVTsJNkxMFOHjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFtnlqJFpoZMEu4Zf-r4rAoKkDEffAACyh0AAogpsVTgrsAWZ8aKFjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXFxnlqJHQ6hYVxlb7qBLcR11XXPTFAACyx0AAogpsVSC7lA89kJeqzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXF1nlqJJ9CcvjQ1SUj-Uzyii_4y44QACzB0AAogpsVQxpsr9B1ao9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXF5nlqJKeC8mQkPUx3h97M3CwnBR7AACzR0AAogpsVTUDj5ryeoicjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXF9nlqJMfnnqy5io42t1ZjgX8KhITAACzh0AAogpsVSq3dBcNekAAbM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGBnlqJONA7-VFVo4C3IRiwCe6kBMAACzx0AAogpsVRQg3QGigW9vjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGFnlqJPUNQRvGkp3HuES1l7fig2TwAC0B0AAogpsVRr-QQXuAuezDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGJnlqJSaZ4uu_NcYM5B2Uz3hmsULAAC0R0AAogpsVTTWYKMSWkRFjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGNnlqJU0_fUUbe-r8gUhbnIvx7vtQAC0h0AAogpsVQBeUlXszK8PjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGRnlqJWKVy4gjsj4QcNaahBCaw4wgAC0x0AAogpsVRRkEcY9ZkerDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGVnlqJaYty2HeyAdYgmbfbehhJm5wAC1B0AAogpsVSMCZfUK2te0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGZnlqKb8AcQDpa-95O-8aCdPBngzwAC1R0AAogpsVRBLDGIMtRp5zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGdnlqKh-8U_XvZvmB4N9fQ3Huh1GAAC1h0AAogpsVRZQEJYPNQbxzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGhnlqKjd3ASkxBSbcL_q2KoECahwQAC1x0AAogpsVQHevxu1XDFXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGlnlqKlkuyF4g_k5CDKLQeJwKbQLgAC2B0AAogpsVQw6yDtqvIaxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEXGpnlqKn-h5CsBpLfmHI9CFS0IMVzAAC2R0AAogpsVRIKo7btJxWODYE"
+    ]
+};

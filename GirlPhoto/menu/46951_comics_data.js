@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46951,
+    "title": "雨波 – DXD RIAS KITTY - Page 1",
+    "sourceUrl": "https://telegra.ph/雨波--DXD-RIAS-KITTY---Page-1-02-16",
+    "images": [
+        "https://telegra.ph/file/86cbd5312f862702de53e.jpg",
+        "https://telegra.ph/file/d1ff17418af9805563e3f.jpg",
+        "https://telegra.ph/file/52364c2bc2a6032a03e6a.jpg",
+        "https://telegra.ph/file/f5e883ece29274bc165fd.jpg",
+        "https://telegra.ph/file/acb695cc26dae89dfc6a4.jpg",
+        "https://telegra.ph/file/83d21d5579faa20fc4cd7.jpg",
+        "https://telegra.ph/file/58b7a7e268ad5f7456673.jpg",
+        "https://telegra.ph/file/7620deb5f0e83679d6ff3.jpg",
+        "https://telegra.ph/file/9d484eb91fc6ea63a5f83.jpg",
+        "https://telegra.ph/file/667ecf0a4455685157320.jpg",
+        "https://telegra.ph/file/a62ac82e5420c77554543.jpg",
+        "https://telegra.ph/file/97dfb79ab8ad7d7e9e6c6.jpg",
+        "https://telegra.ph/file/042cc5a1ba697fe6a8e83.jpg",
+        "https://telegra.ph/file/b95eb7383ce5d0ceb6d68.jpg",
+        "https://telegra.ph/file/f7eb58e90b87d15a8ba36.jpg",
+        "https://telegra.ph/file/bb5dc3e8a32980b119602.jpg",
+        "https://telegra.ph/file/aca69a45e57d4af7ff765.jpg",
+        "https://telegra.ph/file/891a7f4c20bc0dfdfb92a.jpg",
+        "https://telegra.ph/file/d9f7683ee5fcfab63c38f.jpg",
+        "https://telegra.ph/file/2564865921055de940bce.jpg",
+        "https://telegra.ph/file/a724ee53c95a1b7954330.jpg",
+        "https://telegra.ph/file/c76df5916c8ab455155c7.jpg",
+        "https://telegra.ph/file/2d7b62ac262f514237a63.jpg",
+        "https://telegra.ph/file/ac57b4fe5a87f1740ebe6.jpg"
+    ]
+};

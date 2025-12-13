@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47754,
+    "title": "[甜美小娇妾/沈娇娇]Luo Tianyi | 洛天依 - Page 1",
+    "sourceUrl": "https://telegra.ph/甜美小娇妾沈娇娇Luo-Tianyi--洛天依---Page-1-04-30",
+    "images": [
+        "https://telegra.ph/file/561708592553ee66188a4.jpg",
+        "https://telegra.ph/file/bffb5e84355633e3cdb83.jpg",
+        "https://telegra.ph/file/d2c5564abfa3f32a4f8a0.jpg",
+        "https://telegra.ph/file/81defe08ae259bf84e00e.jpg",
+        "https://telegra.ph/file/48af56a9644beef540703.jpg",
+        "https://telegra.ph/file/18247f08083df636d5ffd.jpg",
+        "https://telegra.ph/file/9b1c2900352c48614a3a0.jpg",
+        "https://telegra.ph/file/c252a23b380ebe06418e8.jpg",
+        "https://telegra.ph/file/67cf30cdd9c5392df8cf4.jpg",
+        "https://telegra.ph/file/51a7b5c7f3416dcac864f.jpg",
+        "https://telegra.ph/file/a13801209186908acc095.jpg",
+        "https://telegra.ph/file/0bc2b611af18d2ff5a301.jpg",
+        "https://telegra.ph/file/ae4867a8b484e2b78bf2a.jpg",
+        "https://telegra.ph/file/04daac5a8ac0a7c541061.jpg",
+        "https://telegra.ph/file/e02e9919d0dc6e2ef98cd.jpg",
+        "https://telegra.ph/file/4bebd9c80dba5c1743caa.jpg",
+        "https://telegra.ph/file/32a0633e65842c09c85c4.jpg",
+        "https://telegra.ph/file/b44f5a101292c74fff477.jpg",
+        "https://telegra.ph/file/90a9abcbe917a0faedbfe.jpg",
+        "https://telegra.ph/file/c0b223d77cc4f70701dae.jpg",
+        "https://telegra.ph/file/d795aa52126fed849b0ef.jpg",
+        "https://telegra.ph/file/9e1a368abb050fa556db0.jpg",
+        "https://telegra.ph/file/cb5434f21eaa4cc37b9e3.jpg",
+        "https://telegra.ph/file/d51e9c5c16d18774ae0b4.jpg"
+    ]
+};

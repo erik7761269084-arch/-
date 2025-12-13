@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47088,
+    "title": "ASTOLFO LEWD 18+ BIG SET - Page 1",
+    "sourceUrl": "https://telegra.ph/ASTOLFO-LEWD-18-BIG-SET---Page-1-02-29",
+    "images": [
+        "https://telegra.ph/file/264cff1af3dc96c4479f4.jpg",
+        "https://telegra.ph/file/9192e397cb14a062d5a73.jpg",
+        "https://telegra.ph/file/d5199ef75dad2f4cad951.jpg",
+        "https://telegra.ph/file/407873e88c10709b45bf1.jpg",
+        "https://telegra.ph/file/72722805d5d25d508ce09.jpg",
+        "https://telegra.ph/file/6cf093925f16930754fa0.jpg",
+        "https://telegra.ph/file/dc199499cf2f89d4713a7.jpg",
+        "https://telegra.ph/file/963cd79e77e8e6f49b406.jpg",
+        "https://telegra.ph/file/242da9613d38f1f709b89.jpg",
+        "https://telegra.ph/file/7a96f1a3920ba35cbaa41.jpg",
+        "https://telegra.ph/file/1569efc0d2c5472dda870.jpg",
+        "https://telegra.ph/file/d7b4bcc97d9d409c813ff.jpg",
+        "https://telegra.ph/file/3369ba1dca44ffed68cb5.jpg",
+        "https://telegra.ph/file/b4855b9089e2e1682e472.jpg",
+        "https://telegra.ph/file/60d6b0e821f267bb8a59c.jpg",
+        "https://telegra.ph/file/0a7f754354ffd8d2ec502.jpg",
+        "https://telegra.ph/file/7dc9f1b1b61ac66f391fc.jpg",
+        "https://telegra.ph/file/de215ad63755a71225569.jpg",
+        "https://telegra.ph/file/d0cf44144f732fb03114d.jpg",
+        "https://telegra.ph/file/5d08f4fd6a148fce49e11.jpg",
+        "https://telegra.ph/file/cbfa72bdbd3278d21ea73.jpg",
+        "https://telegra.ph/file/78c72ac1db2756ee769cf.jpg",
+        "https://telegra.ph/file/fd5adc1ded1e55403cd83.jpg",
+        "https://telegra.ph/file/8d2b131ba787dec08b9c5.jpg",
+        "https://telegra.ph/file/38e47ffd37e2b9c79ba4b.jpg",
+        "https://telegra.ph/file/3d8fd62e0d7cee56175f7.jpg"
+    ]
+};

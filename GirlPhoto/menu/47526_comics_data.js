@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47526,
+    "title": "[凉凉子][Cosplay][マシュ]23P - Page 1",
+    "sourceUrl": "https://telegra.ph/凉凉子Cosplayマシュ23P---Page-1-04-09",
+    "images": [
+        "https://telegra.ph/file/9e243fde9c25ff89f2163.jpg",
+        "https://telegra.ph/file/3ff5f6c1418896e33c9b9.jpg",
+        "https://telegra.ph/file/fe8509a6c9b6a43995ba1.jpg",
+        "https://telegra.ph/file/f5b9589e52a65487a4062.jpg",
+        "https://telegra.ph/file/f4e9dddcf6ab1d6dc9f30.jpg",
+        "https://telegra.ph/file/0de1c3ef66424672319ec.jpg",
+        "https://telegra.ph/file/c1aa4f57a5fc4d0da77c1.jpg",
+        "https://telegra.ph/file/88f5c3f89ffac5bba20d2.jpg",
+        "https://telegra.ph/file/c81b67fe6066ad7bfecc4.jpg",
+        "https://telegra.ph/file/c0ba1f241f0870be726ed.jpg",
+        "https://telegra.ph/file/e3eaacae042dff5dba3db.jpg",
+        "https://telegra.ph/file/327e50fc85fc7e849cbf3.jpg",
+        "https://telegra.ph/file/e041c46036ae561b64511.jpg",
+        "https://telegra.ph/file/cf0fcdf0f49f04f93d017.jpg",
+        "https://telegra.ph/file/4517a33d6e156f2136023.jpg",
+        "https://telegra.ph/file/fe443e35d27ae548c42b6.jpg",
+        "https://telegra.ph/file/9bc35fa0e6707920f9527.jpg",
+        "https://telegra.ph/file/0db4d8c21a7740f1a8d76.jpg",
+        "https://telegra.ph/file/34767de542e67d0b9ea0e.jpg",
+        "https://telegra.ph/file/3ef4dbc82907e6dca9c0a.jpg",
+        "https://telegra.ph/file/4bd491c0726f9619f1c71.jpg",
+        "https://telegra.ph/file/be6404efc8b37db425c54.jpg",
+        "https://telegra.ph/file/830351da4dc2d11b51b72.jpg"
+    ]
+};

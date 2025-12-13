@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49288,
+    "title": "[Aikonara] Fansly Cosplay Compilation - Page 1",
+    "sourceUrl": "https://telegra.ph/Aikonara-Fansly-Cosplay-Compilation---Page-1-01-16",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndBniQux4HbouhwWBgNO46cj9I7BFQAC5BcAAiysSFT0wzxHf3XxojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndFniQu1-F71q6cwOIiyIFl_0aTl3AAC5RcAAiysSFTj0lfOtT43EjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndJniQu5XjVYLIWHmcZAiuM346ImdgAC5hcAAiysSFSB-92L1uVBoDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndNniQu8H2L-zWUOLK5-DER5yTS9GAAC5xcAAiysSFTvnDQMXEOe1jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndRniQvLtZ-Z9zVPFGPtFPGX97ZNxAAC6BcAAiysSFTk0lrz2nWmQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndVniQvZWIunTHqnB1E-aPVyf9FQxAAC6RcAAiysSFQ6qWd1iYpm3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndZniQvj8GZdov-Ibc-tfkmo5AkkwgAC6hcAAiysSFSzjZvbwQSt4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDnddniQvnTgjNKVk-DXQlLha-oGlIuAAC6xcAAiysSFRO-z6nMt0aCzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndhniQvrEwSt5qtItVPojFnGAtEfWwAC7BcAAiysSFTnKeFqPB0ilzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndlniQvuTHR2DpJJ9Rfmik6emxbmQwAC7RcAAiysSFQVMV_ew8QKVjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndpniQvwjPNXC1seljgjOYQctR5CIAAC7hcAAiysSFTCZK9VV3J_HzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndtniQvyMhcC1bDqs9qt8TDK2cJalwAC7xcAAiysSFRaO5y0-aimbTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDndxniQv1zOyQSZ2IfDwBO02bqd6HAgAC8BcAAiysSFQyKhP3YwABHeU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDnd1niQv5Bt-y1OugcdW5rXAD2GbgkQAC8RcAAiysSFS27WG8VnxH1jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDnd5niQv9LQkbam2EHtlMXDLwSHTsDgAC8hcAAiysSFQaiLMlL7WC8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDnd9niQwAAS3_zfQy3tsVSLEqkaTqiZsAAvMXAAIsrEhUe1xVLiWRf7U2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneBniQwD0hQHvIsaIMp7bs9zVJrGtwAC9BcAAiysSFQAAd-LM36AttI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneFniQwJ8dJre_u8PfDm37RgPaqOYgAC9RcAAiysSFRSeV0yR5W5ijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneJniQwL_X-D2wGQjE3SSk--w0QDowAC9hcAAiysSFTCbUIChJuxDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneNniQwNqC1C18JjK8uRyL5N2pZpxQAC9xcAAiysSFT_TiMwdlB0jjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneRniQwQcOFn9uqAJQphkvIQm2VtvAAC-BcAAiysSFSA_SDs8zUckTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneVniQwT5hjzpmGGz0KJVFj4b7qzIAAC-RcAAiysSFTfQQdOMe1vUzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDneZniQwarj3iULWZtCdgsn2lnq6s3wAC-hcAAiysSFRBowAB7MvOOH42BA"
+    ]
+};

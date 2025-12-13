@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48900,
+    "title": "[Xidaidai 习呆呆] 天乃莉莉紗 with GIF (2.5次元的诱惑) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-天乃莉莉紗-with-GIF-25次元的诱惑-Decensored---Page-1-01-04",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwFneIQewB9DkqzfJMMQV_a307vQcwACkw8AAnXdyFd14Y7369t5-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwNneIQtl1KkMIfaB2m2bVzvmqJ37gAClQ8AAnXdyFd39z26-xdxqzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwRneIQxDeO0FZR77h52UqlaXot2mwAClg8AAnXdyFdgruEDQ2GNcTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwdneIQ2pQ-Sj2vjzK-Yu4ihYy7lLgACmQ8AAnXdyFcc05MthJKg9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwhneIQ6v1wTD4Oy7e50ZuDd_bHhWgACmg8AAnXdyFdboiruKGWIeTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwpneIQ8BSF3M4Qxj1Bj-wh4tGyD7QACnA8AAnXdyFftoT3TaAxPCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkwxneIRA9YIcmxEqHqdJzW9Cg24P7QACng8AAnXdyFf-p4gN6nzeXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkw5neIRCmC1WPebQT5nHHOWtaPCfiwACoA8AAnXdyFcpiIRklONawDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxBneIRFBWM9mHBaDalCfxQeqG5rTQACog8AAnXdyFf1skvPTHl5ATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxJneIRIk8qv5Z1eto2OwA8g13G7lQACpA8AAnXdyFe0ogU9AfLZQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxRneIRLMxDfGU23u28wuTlVo42HzAACpw8AAnXdyFfhCFNrkqOGBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxZneIRO5_sBSOQ3cR0bsJm0t72rmAACqQ8AAnXdyFdY6N3S_M8KCzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxhneIRQu3SNdbZBFGJKkeAE7dVsfQACqw8AAnXdyFe-BJu2_6D1XTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxpneIRTQIahTn1osbI0TcziA3CRPgACrQ8AAnXdyFdkuUBTCcURmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkxtneIRVVnET-F2sckIXm9l3z4aHsAACrg8AAnXdyFf51jtkgUgyfjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkx1neIRYps9PsAPZIj26XWsqmBVebQACsA8AAnXdyFfXpD5YBk8XIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkx9neISaPxiitKs6OEMqv5b5Pf44egACsg8AAnXdyFegCjTvJ1gD3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkyFneISdA0XL2JUJdtDw4V01t-DgxQACtA8AAnXdyFfXUiQEZqDakjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkyJneISfoftSRUTAVWpeOUzZ5XzbtAACtQ8AAnXdyFd4wyr3SNEoPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkyRneIShBvqS4OoL1KbHNmzVjMGjFAACtw8AAnXdyFde0LpxWfZlLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkyZneISlh7NdFmc5dm3wGsHDP-kNOQACuQ8AAnXdyFdnTudtzCYutTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkylneISrpVzL2aki2mPfEwmTW1zYSAACvA8AAnXdyFfHXiC1AAGRye02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkyxneISxofwYOYB5AAHZsDuKFGQLi04AAr8PAAJ13chXXOMpscGauwg2BA"
+    ]
+};

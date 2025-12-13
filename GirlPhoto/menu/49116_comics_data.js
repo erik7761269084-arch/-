@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49116,
+    "title": "Peachuu - Hatsune Miku (2nd Version) - Page 1",
+    "sourceUrl": "https://telegra.ph/Peachuu---Hatsune-Miku-2nd-Version---Page-1-01-10",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfFngXN-m1Y3Naat6xdrnqHpI1qESAAC2BcAAmTKEVTzt7qpr0LwlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfJngXOXZ8bCyzwox99DlKr7OMFt6gAC2RcAAmTKEVRc5Ii6CexVnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfNngXOaWYVAW6NoJyia3Mdh9MoDaAAC2hcAAmTKEVTB-2joDo2FpTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfRngXOdChyQ68adZxspoEhEvrSP6wAC2xcAAmTKEVQe082RPvE8MTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfVngXOge53t94rL_oPDAcPJwqBZ0wAC3BcAAmTKEVSXJcKdHVb3MzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfZngXOj3dLkK7f1ZtGU1l2vwMZq6AAC3RcAAmTKEVRgnELguaIGAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfdngXOmGXfKC8K_0_35uWB48fV35wAC3hcAAmTKEVTOan2mDruigDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfhngXOpqg8XcdF_gDi7wvUfRns0MAAC3xcAAmTKEVQH8hNnOJWmXzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKflngXOsLl--OgbwB_JaL0fj5e31zQAC4BcAAmTKEVR-PVv99lEQXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfpngXOuhJW4gOLrOkYDaILLwE6g7AAC4RcAAmTKEVSJ33E5faJaSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKftngXOw8IDaHkfAus30RnfW6M-Q5QAC4hcAAmTKEVRISnSYHiPyTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKfxngXOzzsTB2h5W2VsAAf7ZfkU3_GgAAuMXAAJkyhFUZ-0R9aiwnps2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKf1ngXO2rfKA8kOLzPnw7a71O5X11wAC5BcAAmTKEVSn8z0wmg4upDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKf5ngXO4VvaXe1VZcipb1a8Zq7SktgAC5RcAAmTKEVSD3ozy1ND_xjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKf9ngXO7gjTMR-KJeWgWZpQlUQvLAAPmFwACZMoRVOf9dLCDtkfoNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgABZ4Fzv-4-DkcRxy7JZFcF1zS301EAAucXAAJkyhFUfN4BZFODhHQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgFngXPCTdyb8epArUaGrmvWWXGATgAC6BcAAmTKEVTEopTuX25XBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgJngXPEKNyj81fSFxE-6VzAzvxpgAAC6RcAAmTKEVQfDMecZpOXIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgNngXPHZXvFUioVzw0GAqsiV7hhgAAC6hcAAmTKEVRufvTVMlK1jTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgRngXPK98NqN2PgoqqXwz00YMi_VgAC6xcAAmTKEVQhYU5JLuXhFDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgVngXPNl8xEawOWLEV1tyszTL6NvAAC7BcAAmTKEVTH62183dsvozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKghngXSpiIyhAu3tQzsLSdwib4ubNQAC7xcAAmTKEVTYPGehgYFMnTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKglngXTY9pO9-8AGxDSUUFK2k9nk1gAC8BcAAmTKEVRVQrmjwcr4DjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgpngXTg-loULCgEd7aizLrz37EN9QAC8RcAAmTKEVRfKsHlDfElVDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKgtngXTjtZYDZ0Dgtx6TOwkCnIRmhQAC8hcAAmTKEVQnDRc79GcH1jYE"
+    ]
+};

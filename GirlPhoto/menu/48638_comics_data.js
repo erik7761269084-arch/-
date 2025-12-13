@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48638,
+    "title": "Xidaidai - Lynette - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Lynette---Page-1-08-15",
+    "images": [
+        "https://telegra.ph/file/63ca2960aeb3a625b3901.jpg",
+        "https://telegra.ph/file/b9ebf37d3d29056389ed6.jpg",
+        "https://telegra.ph/file/602d9f72e720c908040b3.jpg",
+        "https://telegra.ph/file/cd009229e0a37474f4411.jpg",
+        "https://telegra.ph/file/a0f40f45d7fc43397f817.jpg",
+        "https://telegra.ph/file/c68f860745cce2713eb72.jpg",
+        "https://telegra.ph/file/05eccabd299437331bc94.jpg",
+        "https://telegra.ph/file/871116b3a94da6caae008.jpg",
+        "https://telegra.ph/file/e8bdb568a776cd4c8654c.jpg",
+        "https://telegra.ph/file/ba8f994d395a5b590866f.jpg",
+        "https://telegra.ph/file/ecf81b4dc6d720f51c0e3.jpg",
+        "https://telegra.ph/file/2df756399c2ae866ac70d.jpg",
+        "https://telegra.ph/file/e0307429d968dcdf35b1f.jpg",
+        "https://telegra.ph/file/5edfe31ebed2a9f767a10.jpg",
+        "https://telegra.ph/file/8b5a63a58a768ca45e56c.jpg",
+        "https://telegra.ph/file/e7603ace5a4c2b265f2d9.jpg",
+        "https://telegra.ph/file/ece80c23c9bd33b1217e9.jpg",
+        "https://telegra.ph/file/d86ed8c4cbe0edc12c8d2.jpg",
+        "https://telegra.ph/file/03f336adc14ffa99b68b0.jpg",
+        "https://telegra.ph/file/ddf7bfb7dd0b0909d7f84.jpg",
+        "https://telegra.ph/file/e73943a06ef59d7a221ac.jpg",
+        "https://telegra.ph/file/2ae466413cc6d6a28b9a7.jpg",
+        "https://telegra.ph/file/855fc9114489be04ab754.jpg"
+    ]
+};

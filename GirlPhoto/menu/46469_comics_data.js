@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46469,
+    "title": "HaneAme - Nyotengu - Page 1",
+    "sourceUrl": "https://telegra.ph/HaneAme---Nyotengu---Page-1-01-03",
+    "images": [
+        "https://telegra.ph/file/42113d85936b13f1cb0c0.jpg",
+        "https://telegra.ph/file/01bc806ac73af521d4d6e.jpg",
+        "https://telegra.ph/file/9780c3010d08024253237.jpg",
+        "https://telegra.ph/file/f57e159157a583cf78c71.jpg",
+        "https://telegra.ph/file/6437a730ea28fda5b95c2.jpg",
+        "https://telegra.ph/file/aea9465b0bab0dce2d586.jpg",
+        "https://telegra.ph/file/4bcf7989daeb24c27dfa1.jpg",
+        "https://telegra.ph/file/43246c6014d22cfe87f7c.jpg",
+        "https://telegra.ph/file/3d959cbeeeda01328d673.jpg",
+        "https://telegra.ph/file/4f246ed6e286cca060901.jpg",
+        "https://telegra.ph/file/06b6778ac901fcf1e1886.jpg",
+        "https://telegra.ph/file/6b0e864bbde07b79e636c.jpg",
+        "https://telegra.ph/file/7ee61df5784a0398d4f24.jpg",
+        "https://telegra.ph/file/7f9698f6d596797eb321c.jpg",
+        "https://telegra.ph/file/fbced7689a33fe6d88ce0.jpg",
+        "https://telegra.ph/file/19478fd5758ab3cb6ba49.jpg",
+        "https://telegra.ph/file/a0ad191dd7ae7cdcae461.jpg",
+        "https://telegra.ph/file/b13f4ccf6efffaad2de65.jpg",
+        "https://telegra.ph/file/c4d40eabc450dcd1bac38.jpg",
+        "https://telegra.ph/file/a9665a0240d2e4a6167b1.jpg",
+        "https://telegra.ph/file/1243cff2086a533dee687.jpg",
+        "https://telegra.ph/file/3c7c9da71b9e189669bc2.jpg",
+        "https://telegra.ph/file/6ce527ddb1445089d1b73.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47000,
+    "title": "Kuuko W- Taimanin Yukikaze - Page 1",
+    "sourceUrl": "https://telegra.ph/Kuuko-W--Taimanin-Yukikaze---Page-1-02-21",
+    "images": [
+        "https://telegra.ph/file/dfdf08851c6199bdb4714.jpg",
+        "https://telegra.ph/file/1dae9dec83014f8f26879.jpg",
+        "https://telegra.ph/file/3c52ec9f2ca04b2eafa8f.jpg",
+        "https://telegra.ph/file/8148884d9a421f6aa5455.jpg",
+        "https://telegra.ph/file/47b66ed21913728da73e1.jpg",
+        "https://telegra.ph/file/9c0b4a8bb979b331c813b.jpg",
+        "https://telegra.ph/file/5d495d6760e4a048bc17c.jpg",
+        "https://telegra.ph/file/c9e158694d08bbeb264a0.jpg",
+        "https://telegra.ph/file/aea4c891ca79a62966336.jpg",
+        "https://telegra.ph/file/2e1a2238103246826aafa.jpg",
+        "https://telegra.ph/file/169c7bca5bb5192e3591b.jpg",
+        "https://telegra.ph/file/67512314b31c20427bc9d.jpg",
+        "https://telegra.ph/file/dffaabe9a1f3919d637af.jpg",
+        "https://telegra.ph/file/357d1c19d6168b6dd0e68.jpg",
+        "https://telegra.ph/file/83dfd5948f77ef81fed3d.jpg",
+        "https://telegra.ph/file/5dd572708bc65bf63248b.jpg",
+        "https://telegra.ph/file/c8bde4b5b4e162350c1e0.jpg",
+        "https://telegra.ph/file/aee3bb1a455e2c5e402de.jpg",
+        "https://telegra.ph/file/82da9a11de8de2284ab36.jpg",
+        "https://telegra.ph/file/32c41efdc6aca270fdd69.jpg",
+        "https://telegra.ph/file/ce6a925b1b61763e02562.jpg",
+        "https://telegra.ph/file/281b441594ce734bf4212.jpg",
+        "https://telegra.ph/file/de34fc5b12491360d0603.jpg",
+        "https://telegra.ph/file/71646b36361a9d2a728fd.jpg",
+        "https://telegra.ph/file/e094e1ed9141c48a9f2bf.jpg",
+        "https://telegra.ph/file/395b14ce974f232928363.jpg"
+    ]
+};

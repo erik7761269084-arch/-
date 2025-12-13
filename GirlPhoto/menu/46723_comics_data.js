@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46723,
+    "title": "[黄金二逼王] 绿洲舞娘 (Aeolian from Ghostblade) - Page 1",
+    "sourceUrl": "https://telegra.ph/黄金二逼王-绿洲舞娘-Aeolian-from-Ghostblade---Page-1-01-27",
+    "images": [
+        "https://telegra.ph/file/93289f5fe10b66db4edfd.jpg",
+        "https://telegra.ph/file/dc11bc33c41c598f79a32.jpg",
+        "https://telegra.ph/file/958fb8f073058b3303c91.jpg",
+        "https://telegra.ph/file/0982959db0203f0dfcf9f.jpg",
+        "https://telegra.ph/file/458e7fe7c358f0ece546d.jpg",
+        "https://telegra.ph/file/cce2eb8060236347a8fe0.jpg",
+        "https://telegra.ph/file/553ba66b7e7092f0339fc.jpg",
+        "https://telegra.ph/file/54479edd26a4eda4dc3c2.jpg",
+        "https://telegra.ph/file/8a8c61b042eee8a905443.jpg",
+        "https://telegra.ph/file/2149b83b0502d2beaa0df.jpg",
+        "https://telegra.ph/file/71d77514bb7763b6f9bcd.jpg",
+        "https://telegra.ph/file/52f30b83426e10f553339.jpg",
+        "https://telegra.ph/file/bbdbc2c5bdfb311150036.jpg",
+        "https://telegra.ph/file/ec92bb012415abc79097b.jpg",
+        "https://telegra.ph/file/7bbb24fe1d1b3af689b8d.jpg",
+        "https://telegra.ph/file/68acd1c5a943b5de74920.jpg",
+        "https://telegra.ph/file/40d4a4bc4893b73b489e4.jpg",
+        "https://telegra.ph/file/3edba30b7a3f50ae7dc6a.jpg",
+        "https://telegra.ph/file/27576f7d60745ba6f1f88.jpg",
+        "https://telegra.ph/file/bbbf8b5be6977fe233527.jpg",
+        "https://telegra.ph/file/5f6d75bb6b5cb9407c60a.jpg",
+        "https://telegra.ph/file/4a64049b0c8791c9f14b1.jpg",
+        "https://telegra.ph/file/12dc75496dcd5ae98f049.jpg",
+        "https://telegra.ph/file/4f24a0831bbdbb6a2dd7b.jpg",
+        "https://telegra.ph/file/10f00cceb56c08a12d372.jpg",
+        "https://telegra.ph/file/ff53028ded2acd6816672.jpg"
+    ]
+};

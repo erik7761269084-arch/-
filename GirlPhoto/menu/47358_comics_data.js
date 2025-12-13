@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47358,
+    "title": "2B Christmas - Page 1",
+    "sourceUrl": "https://telegra.ph/2B-Christmas---Page-1-03-24",
+    "images": [
+        "https://telegra.ph/file/cc7d834035e4568eed8ee.jpg",
+        "https://telegra.ph/file/e6b4336938c149561b200.jpg",
+        "https://telegra.ph/file/93f9682f6fb303c5a678b.jpg",
+        "https://telegra.ph/file/251c3fc92e5e46291cdcf.jpg",
+        "https://telegra.ph/file/d8be4d1de722d807fae0c.jpg",
+        "https://telegra.ph/file/37c6cd0ec01b9dcb41faf.jpg",
+        "https://telegra.ph/file/a80ab24b741c81bac432b.jpg",
+        "https://telegra.ph/file/81186889b440cdf2f7b69.jpg",
+        "https://telegra.ph/file/0b60cc9d3578f10acfe57.jpg",
+        "https://telegra.ph/file/9fb3bfca529f18fa2d19f.jpg",
+        "https://telegra.ph/file/53c235e31164edc1faac1.jpg",
+        "https://telegra.ph/file/fe56ea273664f976fd7fb.jpg",
+        "https://telegra.ph/file/e920796988c863be2441e.jpg",
+        "https://telegra.ph/file/603d121c20aa888cdd9cb.jpg",
+        "https://telegra.ph/file/73407a6ebbe3a2920fad1.jpg",
+        "https://telegra.ph/file/9aab175381d64fc4e0c4c.jpg",
+        "https://telegra.ph/file/89406df8f3609a3831aba.jpg",
+        "https://telegra.ph/file/fdfae40c714d7c5edaa9f.jpg",
+        "https://telegra.ph/file/4517b4fe2a7372a599991.jpg",
+        "https://telegra.ph/file/67a5bec7d07d42bc11a43.jpg",
+        "https://telegra.ph/file/c5996b537c4799216415d.jpg",
+        "https://telegra.ph/file/2633ead4936443d77a306.jpg",
+        "https://telegra.ph/file/0db4a0c0e716dbf36bf8e.jpg",
+        "https://telegra.ph/file/bf2fb971d35b561947241.jpg",
+        "https://telegra.ph/file/de879ead194b0be80c9ba.jpg",
+        "https://telegra.ph/file/3b37e968cd95946df8c84.jpg"
+    ]
+};

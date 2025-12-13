@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48035,
+    "title": "Sweetie Fox - Spidergwen (Gwen Stacy) - Page 1",
+    "sourceUrl": "https://telegra.ph/Sweetie-Fox---Spidergwen-Gwen-Stacy---Page-1-05-25",
+    "images": [
+        "https://telegra.ph/file/85c6c5db89fbafddf1966.jpg",
+        "https://telegra.ph/file/86710a38638a6d462d1ca.jpg",
+        "https://telegra.ph/file/6d77b5c50371673a3f6fe.jpg",
+        "https://telegra.ph/file/3d44c3b9d01cbe9a20148.jpg",
+        "https://telegra.ph/file/c418be37f3f1d541ddb6e.jpg",
+        "https://telegra.ph/file/6c2d11cbcc3bcdb0908f1.jpg",
+        "https://telegra.ph/file/affa1b45b38b007aad649.jpg",
+        "https://telegra.ph/file/d399849ee9a2776e8b4a6.jpg",
+        "https://telegra.ph/file/3543bf119a2a2cabfc886.jpg",
+        "https://telegra.ph/file/da471bbf10c7f61381d80.jpg",
+        "https://telegra.ph/file/7610e579fa893df40acf2.jpg",
+        "https://telegra.ph/file/f33426aec24bbb3d6525c.jpg",
+        "https://telegra.ph/file/a1d5a31261d58a4b8655d.jpg",
+        "https://telegra.ph/file/749316d62c3d51c5c42fc.jpg",
+        "https://telegra.ph/file/a30c837dd2c909250578b.jpg",
+        "https://telegra.ph/file/ba369f0b6fe960f71edbb.jpg",
+        "https://telegra.ph/file/3ab1587786ca59d23f8cb.jpg",
+        "https://telegra.ph/file/a16d06df916939d63b064.jpg",
+        "https://telegra.ph/file/d457d7da6a3fe753e7a5b.jpg",
+        "https://telegra.ph/file/faf93ddd0ada02ec41fa6.jpg",
+        "https://telegra.ph/file/a9ffc9013c559c94b661b.jpg",
+        "https://telegra.ph/file/189840e337b97098928b0.jpg",
+        "https://telegra.ph/file/82dc5061794ee68d31d8e.jpg",
+        "https://telegra.ph/file/bf87450a59c5a13c05a86.jpg",
+        "https://telegra.ph/file/6ab534505f1e48e651642.jpg",
+        "https://telegra.ph/file/77d3075dd98137b3219e3.jpg"
+    ]
+};

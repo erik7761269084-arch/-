@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48232,
+    "title": "NekoChan – Mashu ice princess outfit - Page 1",
+    "sourceUrl": "https://telegra.ph/NekoChan--Mashu-ice-princess-outfit---Page-1-06-12",
+    "images": [
+        "https://telegra.ph/file/a082db285dd63b6be9df2.jpg",
+        "https://telegra.ph/file/efd1d83d9bff59b862352.jpg",
+        "https://telegra.ph/file/1f863ae048db97cc2b897.jpg",
+        "https://telegra.ph/file/a6c8c1dabc1995464abc7.jpg",
+        "https://telegra.ph/file/7f6370352021a92b21d60.jpg",
+        "https://telegra.ph/file/b1a72021fba92946fa952.jpg",
+        "https://telegra.ph/file/0a4b01f14d2a5b480e88f.jpg",
+        "https://telegra.ph/file/8dc61cd674cf87c66bcc8.jpg",
+        "https://telegra.ph/file/f4251d4f166c1f04bbca5.jpg",
+        "https://telegra.ph/file/b3be63db117a58acc6d30.jpg",
+        "https://telegra.ph/file/3d9a2680c273e5b035bca.jpg",
+        "https://telegra.ph/file/b060bfed8c4fe7d578599.jpg",
+        "https://telegra.ph/file/2487517550b93369eae83.jpg",
+        "https://telegra.ph/file/c143d3e86a78f3d282646.jpg",
+        "https://telegra.ph/file/defdad8e97de387013e45.jpg",
+        "https://telegra.ph/file/940e82e52d21094a8930b.jpg",
+        "https://telegra.ph/file/4e302f84f5da3f7cdeef9.jpg",
+        "https://telegra.ph/file/95f73bf37448544a7e2b8.jpg",
+        "https://telegra.ph/file/ac38042b7e22b1728cf7f.jpg",
+        "https://telegra.ph/file/0861f245566b30a93c0af.jpg",
+        "https://telegra.ph/file/eba86708e3d4da9048362.jpg",
+        "https://telegra.ph/file/dc5f55ed4d4d261e18562.jpg",
+        "https://telegra.ph/file/4b28bfe2e0ba838c4d667.jpg",
+        "https://telegra.ph/file/4c5d651613d5b5fed1d07.jpg",
+        "https://telegra.ph/file/f717c7ba5554c011ce0c3.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50252,
+    "title": "[Xidaidai 习呆呆] Blanc with GIF (Goddess of Victory Nikke) - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Blanc-with-GIF-Goddess-of-Victory-Nikke---Page-1-04-11",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKBn-NR3rbos8DK4bL6uQpr3bvFLpQACex8AAhk8wVcJ5Xk8KfzHdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKFn-NR5eSX24DDa3VnM51hhgfXoKQACfB8AAhk8wVeBfgNBAu-aLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKJn-NR6eoBOLKF4BkUIysa3x-qpdgACfR8AAhk8wVcLoij1fFAIQzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKNn-NR8E32nwjbRKmvwGgSdIqNNagACfh8AAhk8wVdNX6lLNue0MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKRn-NR-TFd43Xc_-QUKTAeTkCacuwACfx8AAhk8wVcCySJ73w6WdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKVn-NSA68_9IHJMkO_BRkBCxGn5jAACgB8AAhk8wVdW-vxRlzokvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKZn-NSC5VZLW1KnXSTjG_vYLS6wNQACgh8AAhk8wVf0aYGZAAFFcWY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKdn-NSDLiQR1OecDAOl-XFDIWh5tgACgx8AAhk8wVexD-DnqUDDqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKhn-NSGDrGKunXObsMAAVaXTHA2KMkAAoQfAAIZPMFX_HF038ZMjNE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKln-NSH8rLywUOOgceaezVAKxoEWQAChR8AAhk8wVfgwgwC7HAfDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKpn-NSJY2qfPK6pks4ClMGzCsziHQAChh8AAhk8wVfD5wkztKmJuzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKtn-NSKQLI2fIDtiavo3yR1g4LX5gAChx8AAhk8wVev6pcQ_6OVzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsKxn-NSMOwn3k0gzMFPQZgI0alT5QQACiB8AAhk8wVcFheh0jtNxFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsK1n-NSNPmw44OhUNz8NtkjYGKLqRgACiR8AAhk8wVdMhZbic9mHgzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsK5n-NSPFENTeO24lJINb7W_p2DhOwACih8AAhk8wVfl36UPNwrAWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsK9n-NSRdPkvpZn0hCzSIXejDezCrgACjB8AAhk8wVdNo_eIGO-U4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLBn-NSTwxQMFB1n9X6lc-CdlIV4YAACjR8AAhk8wVcDxY0d__2TNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLFn-NSVwyoyOyJwArqDnPCuj0d9WQACjh8AAhk8wVdRTl8OfH-dPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLJn-NSWwMh4rONcLsdFSTrlWe_EdQACjx8AAhk8wVfo-1jGUFdAZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLNn-NSY7ouhnzKF3WbdNGb_2YnhkAACkB8AAhk8wVdh8NkDSMdy8zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLRn-NSadF9JtqtbYDM4JH2IjRcakwACkR8AAhk8wVf3u17bqj-ohjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLVn-NSbkRyVqyTXCaxvioKJCyb_5wACkh8AAhk8wVdJcbLyRi22MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLZn-NSfUjPKUEXsyqTHOYzDog12xAACkx8AAhk8wVekbVD2xmPT-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIsLdn-NShY8D_e6_gAg_ysjOtgdlQOwAClB8AAhk8wVd-nsFyr3aA3TYE"
+    ]
+};

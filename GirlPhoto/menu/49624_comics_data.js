@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49624,
+    "title": "樱落酱 - 高雄+大凤赛车 - Page 1",
+    "sourceUrl": "https://telegra.ph/樱落酱---高雄大凤赛车---Page-1-02-03",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8GtnoOghRqEe7KY43E3-_estyCYHNgACBBsAAsgICVUhAezs9oKH4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8GxnoOgkNvZfHwisB8790Uh4M2m_fwACBRsAAsgICVWbBhzIkPBaazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8G1noOgmPBKjFZn6zbTXFzo0rBVQtgACBhsAAsgICVXXgvaeMD09ejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8G5noOgo9fxIqx_7MFaIH0Cu4kl3FAACBxsAAsgICVVLz7RA99SkrjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8G9noOgqJohR-S6aRPMxlxD0QGoVzgACCBsAAsgICVXIwEY1W9jLcjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HBnoOgri1gDFRBkzh6REgxeZcIVHgACCRsAAsgICVXPG2mnsJkuDDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HFnoOguePzhq1PAj7m6AZ87Hi_sAQACChsAAsgICVVBNZ5JTXOwlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HJnoOgwyvYhD17gFdww3kqEe0SRRAACCxsAAsgICVVv1_rbgJFw0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HNnoOgx-snwvYIO6G14kInxyki7yQACDBsAAsgICVVpEpT_VVE_OjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HRnoOgz7tFuY1nZkXjxdFp9U9qJPAACDRsAAsgICVXxcoimUO_BOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HVnoOg1jXMrlYRqKW0Px2E1KPHrfAACDhsAAsgICVVhJBS9wxwdNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HZnoOg2GzcAAUMQBUoEVuHiMV34InIAAg8bAALICAlVFycoTyM4Pb42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HdnoOg4Y_8AAZp4Ipvpx10GpApGRuUAAhAbAALICAlVAnQ9uKfu8ik2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HhnoOg58GlawXMdAAFMvBsN6-7arUMAAhEbAALICAlVQJi56u2eBgABNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HlnoOg7o44dHhAD83E_88AjbZpaYAACEhsAAsgICVVj7GD4nXYtUTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HpnoOg9W_o809zW6v3KuIIcHqlYQwACExsAAsgICVWGhzdo5Du6ODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HtnoOg_eZlF6TMy96mpssNN_1iBjAACFBsAAsgICVWK-nY0E5hQxjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8HxnoOhBa7B9aI3c3SQf-32K0QR_SwACFRsAAsgICVWoKQViD4_a5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8H1noOhCmASYmIjyrV9t2trAQQ7nAgACFhsAAsgICVUFsaG78xCL4DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8H5noOhEZqUHvgYM1osspoZQciUeoAACFxsAAsgICVX8vEfYgDmAcDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8H9noOiGgqLck3WZFKu1I_oeFAZDwQACGhsAAsgICVU32lMgaBZJGDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8IBnoOiKMzfBaGFDR10_BLVuEaLgMQACGxsAAsgICVU6lQ0OICEtbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8IFnoOiMZXcVlBheIAStDkGL_oA59wACHBsAAsgICVX19_mTzoFYYTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8IJnoOiO3_msoA32eHl5_9itvM3qXgACHRsAAsgICVWDnXgzFYdaejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8INnoOiQFde2NuFdEHfUaLVMK-47gAACHhsAAsgICVWYxcQo-mnrUjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE8IRnoOiSObdOm1UdiaC4Qfv8b42pAwACHxsAAsgICVUjQ32Mbs7GnzYE"
+    ]
+};

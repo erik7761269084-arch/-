@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47081,
+    "title": "Miku Halloween Devil  cosplay by Hidori Rose - Page 1",
+    "sourceUrl": "https://telegra.ph/Miku-Halloween-Devil-cosplay-by-Hidori-Rose---Page-1-02-28",
+    "images": [
+        "https://telegra.ph/file/db916a3a183922b2b43a2.jpg",
+        "https://telegra.ph/file/d86a98f2e14835067a1b9.jpg",
+        "https://telegra.ph/file/e11456e38cc8121b152d2.jpg",
+        "https://telegra.ph/file/55b3da8c007c9de31d20c.jpg",
+        "https://telegra.ph/file/4a184f7efb5fd47b5d3cb.jpg",
+        "https://telegra.ph/file/1cf053a99c0c54d78b1b3.jpg",
+        "https://telegra.ph/file/5547e84e76cda78bd7387.jpg",
+        "https://telegra.ph/file/28ba9e2eb6dfa66421b40.jpg",
+        "https://telegra.ph/file/fd898b0af088f3d133dc7.jpg",
+        "https://telegra.ph/file/5a1d4dc6b498d10b3ecd7.jpg",
+        "https://telegra.ph/file/14c5b707ce097cd35b62c.jpg",
+        "https://telegra.ph/file/74b08e0ead5c226ceaea1.jpg",
+        "https://telegra.ph/file/06fdaf224cf5c01df88fb.jpg",
+        "https://telegra.ph/file/fe9442feb839a71ddb604.jpg",
+        "https://telegra.ph/file/ebd786bf7de49294fa46e.jpg",
+        "https://telegra.ph/file/e7454a890b40131ef05a0.jpg",
+        "https://telegra.ph/file/a097bdf90d7c67d1f559a.jpg",
+        "https://telegra.ph/file/c0f4661ca29a459ec7396.jpg",
+        "https://telegra.ph/file/88cf23bbaa1698a1c3811.jpg",
+        "https://telegra.ph/file/fe91694a98f50db36f8de.jpg",
+        "https://telegra.ph/file/edad881adddced7a41fee.jpg",
+        "https://telegra.ph/file/1d9b092431589c327364c.jpg",
+        "https://telegra.ph/file/c299d6f5923f92b1eb424.jpg",
+        "https://telegra.ph/file/5eaaf5dee4f472ad7755c.jpg",
+        "https://telegra.ph/file/fd9d4455e403c47582e43.jpg",
+        "https://telegra.ph/file/5d8ee90014f71d92409ea.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50521,
+    "title": "[Xidaidai 习呆呆] Kasugano Sora with GIF (Yosuga no Sora) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Kasugano-Sora-with-GIF-Yosuga-no-Sora-Decensored---Page-1-05-31",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BZoOmSjjAUf4EbLNRWjRTKcsq6c6QACjxMAAhWc2FWzYol4ujb85jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BdoOmSlI8Q1vVIl8YRq4dN2BI_83QACkBMAAhWc2FVyg8wV47avBTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BhoOmSmv1QcNhPuZpiZlorggdS7FQACkRMAAhWc2FUw-jn1QQuGmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BloOmSoYVlOGgFnZQSMMj8pIl6Y9wACkhMAAhWc2FXFsRZdnf8-azYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BpoOmSpTiwbq_UowxlYpzau-IssuwACkxMAAhWc2FXzjUoy0oH78jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BtoOmSqyHUbvrJW-FM_5kIX0n9YnQAClBMAAhWc2FXSZ4dkU6ug9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0BxoOmSsj-dJns5uDpcKdn_Vk7U0YwAClRMAAhWc2FW8V2nyOpdyKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0B1oOmStPD8ozoqxS2No-ZNU8-k4ewAClhMAAhWc2FUFePOdPpwh8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0B5oOmSvO4sYX69dMYH6A4X1FJUGYQAClxMAAhWc2FXsQzKurtgRwzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0B9oOmSwl5TbvSshUhrherP0NlyPhwACmBMAAhWc2FX2LstUx71mfzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CBoOmSy5BdJARhmJm_wJ2KNbTaamQACmRMAAhWc2FUBapa765b-VDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CFoOmSzleWzQTTVYEzSLVuzKEbvnQACmhMAAhWc2FWCp6uz_GPqiDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CJoOmS1VzltMgUHvNmvQQyXEkdjLQACmxMAAhWc2FUBFUULpmoZajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CNoOmS3FFntIEkCFOZACCTd9iD5swACnBMAAhWc2FVvtKoAAT-uq1A2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CRoOmS4w7vGsFwGh9MbyVMKAAGdo-YAAp0TAAIVnNhVmgKZztyG3Jg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CVoOmS6k2stxuDhzZ3vSO7VuSFoiwACnhMAAhWc2FUaWooyio736TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CZoOmS7w5_SKAZPvi1Uh3qaWVF8vQACnxMAAhWc2FWib6xTp3bESDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CdoOmS9fYUoH013FiGAWWgOu3wG7wACoBMAAhWc2FVlh5T4l3iSBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0ChoOmS-nmEwlocBFcumQTuBTNN8xwACoRMAAhWc2FVjTEUK0XT5XzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CloOmS_EaWjl9s34t3uU_riVr-rPwACohMAAhWc2FX7tmEo8yHgLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CpoOmTB0pG8zfPCuIQN9xw7vIxTbQACoxMAAhWc2FUPTDKKKpaxJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CtoOmTE1iN1bsPn8Wrj67N1PKjLZgACpBMAAhWc2FWzm4BWTQY4EjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEL0CxoOmTHQc0rWw4M_RumZc06YpgEwAACpRMAAhWc2FWiPgfeb1nXUjYE"
+    ]
+};

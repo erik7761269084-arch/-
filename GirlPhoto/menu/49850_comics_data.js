@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49850,
+    "title": "Coser ShiCuCuBu (是粗粗不是姐姐) [BCY@720042] (2017-05-07) - Page 2",
+    "sourceUrl": "https://telegra.ph/Coser-ShiCuCuBu-是粗粗不是姐姐-BCY720042-2017-05-07---Page-2-03-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjJ9nwud2cggkmdv5DHNfls_Kq9rc5wACNCMAAjmoGFaY-MRklm94JTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKBnwud3zisy4-cAASGJcNgiidIBwykAAjUjAAI5qBhWM9jP5BUtexQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKFnwud53aAMjQ98EErn5nuHAtxNMwACNiMAAjmoGFadbWmrIV9LFzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKJnwud7JSSu3cn8LQnj1c8xuJFsaAACNyMAAjmoGFa_Mw38zgrKHDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKNnwud_p3TqIr8OoOo48HPPe1jDEQACOCMAAjmoGFZ5Nwo1kpk_hzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKRnwueCqA4WlJ3GfOqtou5X8eFiVgACOSMAAjmoGFa87umCCUF_UzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKVnwueFYR77OZYOeUJ-TReJEVrLCwACOiMAAjmoGFZsaxycKANuTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKhnwueHa5EoS2frkWMGxEu0ZEflJQACPSMAAjmoGFZdLqPmYNeO9DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKpnwueJPqF_NttPWHrPYAE44xAK7gACPyMAAjmoGFYJ2filYNSJ4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjKxnwueOPBg_ClZJ3j6nQBNi82JxMwACQSMAAjmoGFZclA60LA_WuzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjK5nwufNVDjiRhzZy1A3i5MNM4L3nQACQyMAAjmoGFbJexl7NFo44TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjK9nwufPtzxyZo9J8cFV34onPrYtoAACRCMAAjmoGFaSMYFfv31puzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLBnwufRqy5nfvL7t1Pi3a0aXa0MRwACRSMAAjmoGFbZws1boUNc6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLFnwufTVgjIVuSTR0td2LTRVmrFbQACRiMAAjmoGFZKjRnIp-KDTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLJnwufVDFh4F5NmFOrTXt1OHNfsnAACRyMAAjmoGFbXcU7kra_YqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLNnwufW1bZLasl4AAH4BzgITXPsAdAAAkgjAAI5qBhWXV3qDDfVVTU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLRnwufYpbqOj3W8iRWvk4DN_IoIMAACSSMAAjmoGFbtIYiuWxrCfjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLVnwufZF0Fdg362MPAkHHyC8JwP8wACSiMAAjmoGFZSSxz6yeczKjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLZnwufbir6CTcg5bqjq-fMzYuQZNAACSyMAAjmoGFY7sboLQBo2SzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLdnwufcWg_TW-6yYLQaV7_mL1AoogACTCMAAjmoGFYyXnWcGmD_tzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLhnwufeDe3lk2zl1sKlgnI8WTOoCwACTSMAAjmoGFZk1yVEqQrOkDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLlnwufgZuwf8KXAZEpwuNESJtgi8wACTiMAAjmoGFalwgAB3v5gEjc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjLpnwufiAAHso_2PkKuWP5XxxDjuKRgAAk8jAAI5qBhWWCT_XXYO0e02BA"
+    ]
+};

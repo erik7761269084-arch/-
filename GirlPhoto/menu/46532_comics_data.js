@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46532,
+    "title": "星之迟迟 纯白と漆黑-树城 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-纯白と漆黑-树城---Page-1-01-10",
+    "images": [
+        "https://telegra.ph/file/c7ef933de792c4b81a3ce.jpg",
+        "https://telegra.ph/file/11f46a45670995e80a088.jpg",
+        "https://telegra.ph/file/20ccef99e872aed2f7e77.jpg",
+        "https://telegra.ph/file/4b2af5aa14b4a115fb884.jpg",
+        "https://telegra.ph/file/4c874decb1d229d3a82ae.jpg",
+        "https://telegra.ph/file/7d5bf7efa6c7be476f184.jpg",
+        "https://telegra.ph/file/dc127a4bcfe085aea08e0.jpg",
+        "https://telegra.ph/file/40d36d3d92990f1d4f26a.jpg",
+        "https://telegra.ph/file/ce2b67aaca6a0182a06f4.jpg",
+        "https://telegra.ph/file/f41ed790bc7dadf71ec8e.jpg",
+        "https://telegra.ph/file/73158149eb158e9bacac6.jpg",
+        "https://telegra.ph/file/41fc6064b62f0ccaff8a2.jpg",
+        "https://telegra.ph/file/c36fc2cee9d17a688a60c.jpg",
+        "https://telegra.ph/file/339706dac636e4c66cdae.jpg",
+        "https://telegra.ph/file/99e8a33b466b267b187a2.jpg",
+        "https://telegra.ph/file/89b468332343f4d7237a0.jpg",
+        "https://telegra.ph/file/3a3b19d84f11569b728b7.jpg",
+        "https://telegra.ph/file/f2a70ba430a41c38fae71.jpg",
+        "https://telegra.ph/file/ba96b70c87f1c21751b66.jpg",
+        "https://telegra.ph/file/a3c9dfddf164f83340616.jpg",
+        "https://telegra.ph/file/a3b44b55707a1f6a43c23.jpg",
+        "https://telegra.ph/file/92ccc13152b51797e72ca.jpg",
+        "https://telegra.ph/file/325bde0f058bc0cea32da.jpg",
+        "https://telegra.ph/file/472176775fd6fe79a3dfc.jpg",
+        "https://telegra.ph/file/33761c447fd9c471af2a2.jpg"
+    ]
+};

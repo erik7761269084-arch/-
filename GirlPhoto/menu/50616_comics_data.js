@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50616,
+    "title": "[Kokura Chiyo]小仓千代w  明日奈 asuna  blue archive - Page 1",
+    "sourceUrl": "https://telegra.ph/Kokura-Chiyo小仓千代w-明日奈-asuna-blue-archive---Page-1-06-13",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOdoS-yUcbu4X8OwMdfgSoe8GVTPqwAC0xYAAtpzYVY9S9v0niVZMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOhoS-yXe1zQIxWXMra3PQyLq9pMmgAC1BYAAtpzYVbf6YI6pMQfXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOloS-yYG75Z15ptz7VxV6e0NkuGzQAC1RYAAtpzYVYtkZQjE8rt7jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOpoS-yafHeCzjVBWaW56_c_lvJz9QAC1hYAAtpzYVZmRmTty2b_cDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOtoS-ybYFuV26K9i57L4LbOJyPrlgAC1xYAAtpzYVbFmQ7PXygyIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEOxoS-ydsdIPH_kiz4RhPjDnbtFEEwAC2BYAAtpzYVbQC2SLI0_OkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEO1oS-yeajNaUzgdCmaiEa0CwMWBWwAC2RYAAtpzYVbW7K2-xgwlSjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEO5oS-ygRGzLwvS7daFImqsivm8TBAAC2hYAAtpzYVaHa83kUI8r1DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEO9oS-yhw-hkxlISxAjuNlf0zmGXnAAC2xYAAtpzYVbczSwIRfujGTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPBoS-yjZFvcOamk4NhEaBPaES_t6gAC3BYAAtpzYVZgT2p2HWc7rjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPFoS-yl9APC8Hqf3Ucr4Nmi19l87QAC3RYAAtpzYVYVWVQGo46RtjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPJoS-ymyRfSoyVrXzB2uFdlWbYjEQAC3hYAAtpzYVZ9On9UL-BPgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPNoS-yoJDOLA_VcmTGI5kLNglxDZQAC3xYAAtpzYVYUJ5USoWpqOTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPRoS-ypkIxwiN5EKMQZFI6zORiQqQAC4BYAAtpzYVbqqsERHqzsgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPVoS-yrqC2y80Zom1mx0KUkbYGr8gAC4RYAAtpzYVb9YO2Q6qygJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPZoS-ysslop1RBoBrnQ9WXO4mFrhAAC4hYAAtpzYVZRje_MGvXnKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPdoS-yuyedzlAqPy7tGhXGmOOpNPQAC5BYAAtpzYVam_GRe8CV5wjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPhoS-yv-ZF0akKYFyK3Qyqd-6ZrvgAC5RYAAtpzYVb8veAq-wABn7g2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPloS-yxdH1Ms87_VwluKPKeUoh50gAC5hYAAtpzYVbwMEr0FdbkczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPpoS-yzsXLiATEuSh5k0E94-eOtDwAC5xYAAtpzYVaojp75Wm5eazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPtoS-zym0VTFXZ_0WTtO8d8AAHEnlEAAukWAALac2FW43BM8m0NlQg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEPxoS-z0cXBk2jWFLZu-drGMd9YHbwAC6hYAAtpzYVZrPatWGgZqEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEP1oS-z2P7dn4ooSrWa57oW6ja4OxQAC6xYAAtpzYVaUxn5b9aXGaTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMEP5oS-z3tpz8QXYb6iq2exn6hpuVPwAC7BYAAtpzYVb-_QfdLhuwfDYE"
+    ]
+};

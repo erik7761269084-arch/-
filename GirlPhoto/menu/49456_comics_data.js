@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49456,
+    "title": "Izayoi Rui 娼年贞德 - Page 1",
+    "sourceUrl": "https://telegra.ph/Izayoi-Rui-娼年贞德---Page-1-01-24",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPJnk3XufAHfc9vOV5ljrk8khqsWhAAC0CcAAmMSmFRxi4XPz1UDpjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPNnk3Xw0bWz_e_5neCLFvEEyxJyqQAC0ScAAmMSmFSCqmWYWwWGBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPRnk3Xy03p4h8IjTjZmvg4rhChH1wAC0icAAmMSmFQCYWghl_sP9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPVnk3Xz-YH8537NPy5kx7zVmz-5BQAC0ycAAmMSmFRMruJ7jm6ynjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPZnk3X1t07ktvypG5WDs9-NesYeNQAC1CcAAmMSmFTyGTD8TSbKBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPdnk3X4vzXtTx0kFEr5nQZcP7IBSQAC1ScAAmMSmFSnsGt8mW2lsDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPhnk3X50VTOSsoicAQf1sCRXmE8-wAC1icAAmMSmFS-vWvUepnuWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPlnk3X-hCuvhCiWlSvifuWOOGaNwQAC1ycAAmMSmFTRJbnQIpZcejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPpnk3X_npSWBzAOoDeorTCHAyWMRQAC2CcAAmMSmFSnXTXQSyEIeTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPtnk3YBfgvrWUhnmh_53lFEIRvVRwAC2ScAAmMSmFTabdVaKG05XDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJPxnk3YDxBKe7-ddESJozHFl3I0AAZEAAtonAAJjEphUl_wkqoAHo6A2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJP1nk3YFXdWS4mbDLJWyGPTeMA9YHAAC2ycAAmMSmFT8-IQhDCraDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJP5nk3YHmRu2IzlrArTdTbB52JiE1wAC3CcAAmMSmFRPq-06u3O9hTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJP9nk3YJWXHBJSlCSp4rdJrEfajcwgAC3ScAAmMSmFRF4IMUMdTL2jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQABZ5N2C-5bF_ceMgvQyXpkCcOmH_oAAt4nAAJjEphUmV_HaBRl8mc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQFnk3YM6UcF6Hm_AgdpFqIuhuY5XAAC3ycAAmMSmFQIuzfsUM4BxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQJnk3YQ_lcFb7EHjVzwkqi6gCmutgAC4ScAAmMSmFTU6Quq4uMKwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQNnk3YSLDkEQLq_dgudBHOtko_p5gAC4icAAmMSmFQ0jrgXAbLSYzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQRnk3YVi7o_tZxGzCmOepyd5g2u_gAC4ycAAmMSmFSqP50-dk7pajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQVnk3YXAAF0rZ00QG7182DE7HIjggsAAuQnAAJjEphU12qc6DMjVcs2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQZnk3ZWUwsMe-W7Tsbb7QISawRhSgAC5ScAAmMSmFQJ0OF-vzmeLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQdnk3ZYqE8zUbGvd_FDXWFOvCkrcQAC5icAAmMSmFRaoX1U78abezYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQhnk3ZZp46v7DOc2EQq6GxOY_zo5AAC5ycAAmMSmFQc6pP8jQZ5RDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQlnk3Zbfiz5PxhhxtDJQMJkkICydwAC6CcAAmMSmFR-_8SfUXDhMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEJQpnk3ZcdCAtI0aXylu3GZ4QtcxkSQAC6ScAAmMSmFSIdqgyHO5zwjYE"
+    ]
+};

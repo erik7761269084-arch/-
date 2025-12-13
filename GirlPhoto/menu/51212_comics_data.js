@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 51212,
+    "title": "小容仔咕咕咕w NO.004 菲谢尔[26P1V-253MB] - Page 1",
+    "sourceUrl": "https://telegra.ph/小容仔咕咕咕w-NO004-菲谢尔26P1V-253MB---Page-1-11-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXFpBf8Ljp2RdUDvuzxfQq8X_o_xDAACNxwAAoebMVRl-k5O4VXxGDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXJpBf8N5sqH04SvAAE_K4b5C0BPe88AAjgcAAKHmzFUFv8NzkaGEF02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXNpBf8QAAGzzFIlsSDiTn-4LngonIQAAjkcAAKHmzFUm1rDTR_o8Hs2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXRpBf8ROTJ-Vj1dDI1Vy-ynV_0JjAACOhwAAoebMVS0JXLiVTcuszYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXVpBf8TvRIHkYLV5VrDWY6d1LDKfgACOxwAAoebMVSQWhywfse_7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXZpBf8UFENV0Sjd_Ut5RJHDLjWD9QACPBwAAoebMVTpNZq7ra7TtjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXdpBf8WDwyVuT2llr2KHnDt5bDIgQACPRwAAoebMVTkRFmXukkwzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXhpBf8XoUM4hU9T2OFKE_wXKilzpgACPhwAAoebMVTd1prWHBM6VzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXlpBf8ZTIoWaLzj_KB4qUg0p-Aj_wACPxwAAoebMVT0faZVsds85TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXppBf8aMnoHSiGPov2FiRAFoLdgSAACQBwAAoebMVQLtkDxcR02CzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXtpBf8b8xOQ2z42TeOjK4syZWFV2wACQRwAAoebMVSfoPyq5R1LRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsXxpBf8cgzERsJqnIyiEHXrsaF76SgACQhwAAoebMVQs7VWnEoudKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsX1pBf8e1QK2cXQAAVFkNWu9t_L11GMAAkMcAAKHmzFUN7OnlvBvi3o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsX5pBf8f_fQjy-nRBoGdRonQsbSb0QACRBwAAoebMVTqUDuGFPLQLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsX9pBf8g0yn9sMPyv_I7NQVvwRBfdwACRRwAAoebMVSRpEaXjRQzcTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYBpBf8hFRO8f15yLzrx0rB2s-DHxAACRhwAAoebMVTygIGv5MF-sTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYFpBf8irl1GN-Qn8JBl9jMAAUb8HBsAAkccAAKHmzFUCRclGxacXF02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYJpBf8k9OyhuOT8a0TKL5dWZJMQcQACSBwAAoebMVR0F37r1LfIOTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYNpBf8leVmzDHQg5qSWp9sYKgrvHwACSRwAAoebMVRDrAqVO4eO3jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYRpBf8mBQU3kfQfhJSYJR2SgwzN1AACShwAAoebMVRVnNO3YNshLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYVpBf9ls76SKlcIp4aUpcA3OxIERwACTBwAAoebMVQ78WnVQtRvyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYZpBf9mslRSk5BtxpuZ8Fiv6-tSkQACTRwAAoebMVS3-7dsPohKTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYdpBf9oRRK3orbjtqizlWU55KwVegACThwAAoebMVS8gAjVLAzvUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYhpBf9p0mAQLcecJ1-RJRoXYSNr1gACTxwAAoebMVRr0dykbaZPijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYlpBf9rn_dTnRd3ynLRs-OSOmqccgACUBwAAoebMVS9p9_aDFNnhTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETsYppBf9sga0svhS9F5CPHUc9_9nBIwACURwAAoebMVRK5GnEDMdmSDYE"
+    ]
+};

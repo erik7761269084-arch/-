@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46448,
+    "title": "NTR少女 - 白丝穹妹 - Page 1",
+    "sourceUrl": "https://telegra.ph/NTR少女---白丝穹妹---Page-1-01-01",
+    "images": [
+        "https://telegra.ph/file/19574290c2d9fd8dcc06f.jpg",
+        "https://telegra.ph/file/62445871c2899b80691c0.jpg",
+        "https://telegra.ph/file/0a6fb21976502747bd253.jpg",
+        "https://telegra.ph/file/298c65223d277aed608aa.jpg",
+        "https://telegra.ph/file/b5b01020724ab1a740be8.jpg",
+        "https://telegra.ph/file/4471ec437e4c840ad0d46.jpg",
+        "https://telegra.ph/file/a974659e56bd2575c2204.jpg",
+        "https://telegra.ph/file/14cfeac00f3e3dbe6f67b.jpg",
+        "https://telegra.ph/file/4de67fd138d9b71508d79.jpg",
+        "https://telegra.ph/file/1ca72da5a490a644ae0d7.jpg",
+        "https://telegra.ph/file/5170b0c4047f11e195727.jpg",
+        "https://telegra.ph/file/f5f4e20cb44e7d09ab84b.jpg",
+        "https://telegra.ph/file/3d89005dd7d1431b78b01.jpg",
+        "https://telegra.ph/file/91fc24ce4b9f6574e1793.jpg",
+        "https://telegra.ph/file/2b28ffe33e5ba5c2d7415.jpg",
+        "https://telegra.ph/file/156020e11095383f98ce3.jpg",
+        "https://telegra.ph/file/1e89627d040a59a995965.jpg",
+        "https://telegra.ph/file/acfcadb7684217fd6b663.jpg",
+        "https://telegra.ph/file/be5a400f9abb597dbeaf7.jpg",
+        "https://telegra.ph/file/baf38ad41425732d71d79.jpg",
+        "https://telegra.ph/file/27c0a1bc23cf73bf47cf7.jpg",
+        "https://telegra.ph/file/1174bc67396060660e230.jpg",
+        "https://telegra.ph/file/42807ad586e227421dbe1.jpg",
+        "https://telegra.ph/file/81cdcd8e9abeac4f0bc6a.jpg",
+        "https://telegra.ph/file/5503355511754efb229dc.jpg",
+        "https://telegra.ph/file/56b5d1c18f0e56b2fded6.jpg"
+    ]
+};

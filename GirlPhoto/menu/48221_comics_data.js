@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48221,
+    "title": "NekoChan - nsfw Ganyu maid selfie set - Page 1",
+    "sourceUrl": "https://telegra.ph/NekoChan---nsfw-Ganyu-maid-selfie-set---Page-1-06-11",
+    "images": [
+        "https://telegra.ph/file/3948c4376d6615dae9616.jpg",
+        "https://telegra.ph/file/bab70491902252cd2519c.jpg",
+        "https://telegra.ph/file/b29b36ce577d01bf5b4b0.jpg",
+        "https://telegra.ph/file/5b52c0777a5da1162f7ac.jpg",
+        "https://telegra.ph/file/669de858e8f53a306404b.jpg",
+        "https://telegra.ph/file/088d4aab2115e8d8cb37d.jpg",
+        "https://telegra.ph/file/9b197741d2790ebd9a2c7.jpg",
+        "https://telegra.ph/file/6d1d6c43d9caa35b8ff42.jpg",
+        "https://telegra.ph/file/0bdee7b5956d267226d63.jpg",
+        "https://telegra.ph/file/efb105418b7d597e48339.jpg",
+        "https://telegra.ph/file/075dde77ca0b5236a8c42.jpg",
+        "https://telegra.ph/file/988c74eeac8742cf88ed4.jpg",
+        "https://telegra.ph/file/f4366d3a0c184316e4eeb.jpg",
+        "https://telegra.ph/file/101f7532bb6480baf3483.jpg",
+        "https://telegra.ph/file/d8706cd200eec71b50b95.jpg",
+        "https://telegra.ph/file/177d9c594e4cf6fdc8a94.jpg",
+        "https://telegra.ph/file/851763bbb4c04c7d5b8d3.jpg",
+        "https://telegra.ph/file/25a60d3f59ae3afccd2b0.jpg",
+        "https://telegra.ph/file/a18ea4142b7f07bee92f6.jpg",
+        "https://telegra.ph/file/a307773ab965cec54f3a6.jpg",
+        "https://telegra.ph/file/dd20ae119481643b8056c.jpg",
+        "https://telegra.ph/file/761396bc01f57a106ac9c.jpg",
+        "https://telegra.ph/file/e9f848dd493e18959e49e.jpg",
+        "https://telegra.ph/file/bce87928174778706d22d.jpg"
+    ]
+};

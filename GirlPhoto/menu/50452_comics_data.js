@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50452,
+    "title": "WuWuWyE - Togawa Sakiko - Page 1",
+    "sourceUrl": "https://telegra.ph/WuWuWyE---Togawa-Sakiko---Page-1-05-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOStoLI5p2MUZBwLL98HODkvHHeTy8wAC8BsAAgeuaVVoieXoM9DDvDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOSxoLI5rUFpxl3zzSXdusHyoOlwERAAC8RsAAgeuaVUeQtrWpiAG9zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOS1oLI5tVpPWeDloonars77qDd5B9QAC8hsAAgeuaVXusMH3nojBnTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOS5oLI5vLpyVbyxdRUtcUnapY6CE4gAC8xsAAgeuaVVSI53LEWsljjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOS9oLI5wFLgvMYvMEv-GZ5xfE7M4lAAC9BsAAgeuaVUxb4HxgsS2YTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTBoLI5yccPmXb6ouZ_BTVkMVyjLrQAC9hsAAgeuaVVV3rIVeaeTtzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTFoLI5z9FmH-PzHoqm8PwJjd3uQEgAC9xsAAgeuaVVSMKLv8sNXbzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTJoLI511cKhCqCbYhdazuxdFLJSkwAC-BsAAgeuaVVx2NZb4LebvDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTNoLI52BxLtwX0Ss9lI5b-PmgK0AwAC-RsAAgeuaVWD1ksxAtTXCzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTRoLI54VNVOTsdGbVcTTKRLOBytDQAC-xsAAgeuaVUGkZqSbNboWjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTVoLI56-Evz6zyirHjwEGMfGbzIKQAC_BsAAgeuaVWRBYoOkXKnxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTZoLI57GA22q3MLTi7Fp7A_vbkBKAAC_RsAAgeuaVVuN1L5ozNC3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTdoLI58DhIeBlTcfSl1BSK7zfmH3AAC_hsAAgeuaVVoDHT6jjDoDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOThoLI5-vMM7glfbyCEME8sKbBpi9AAC_xsAAgeuaVX8s4IsaeJVMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTloLI5_um5wWOUNIZhp9aKEohRLsQADHAACB65pVajKP7hWwP7wNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTpoLI6BtCEWb65rT9uMGthq8e_rOwACARwAAgeuaVULROmJkh3fzjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTtoLI6C-_eSWKw3PsHf2s-GbrlTKwACAhwAAgeuaVXUUnSSiHdJljYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOTxoLI6EjzJVSVaw_-n0MFrf7MpivAACAxwAAgeuaVXzFI-t-CH-izYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOT1oLI6GMg16pP6RHCPwuDH3OlD4zQACBBwAAgeuaVUgJ7NWCQJjwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOT5oLI6IUrUG-2CDkYOpUgM7UPvIAwACBRwAAgeuaVUUYrjr5ixWtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOT9oLI7Ho4sNz91A4IRc3h8M7AlhIQACCRwAAgeuaVVzdnOgU5f0szYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOUBoLI7JgpSe23xgHjaZgFkdrhO1TgACChwAAgeuaVVgT_GsqYEnezYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOUFoLI7K3lpsH5wEX3mUufC4hgMw-QACCxwAAgeuaVXTh5hzLcldlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELOUJoLI7LaurYg4N9KF2arC_tbW4lHwACDBwAAgeuaVU6TRY9YA4BTTYE"
+    ]
+};

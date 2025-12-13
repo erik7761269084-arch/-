@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49065,
+    "title": "禅院熏 - 明日香 - Page 1",
+    "sourceUrl": "https://telegra.ph/禅院熏---明日香---Page-1-01-09",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzJnf04iQnpJBiFxjHWkxYhOd70VhwAC3BsAAkQv-VcO9VQfRCJ3_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzNnf04lzI68Ibwlix88U5BuvCHCAwAC3RsAAkQv-VfwHEhhyKCbSjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzRnf04pZPOBJR_vaMq1t_vl2iTArwAC3hsAAkQv-VdrvwT56t-HdzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzVnf04tevZ8kEWj3sme5p0Zw6AOqQAC3xsAAkQv-VeaYuXMTKL1xTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzZnf04xdFX9wr0ClnydYmzNAWLr7wAC4BsAAkQv-VdqyU0UsmgiEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzdnf040GFuXj7SHL-SPvRWNbLsLSQAC4RsAAkQv-VcZV2eMHKV_6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzhnf044ZRXHr1diomG8P69SwdEMHAAC4hsAAkQv-VcCbpQT1jz3GjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzlnf046ML1CmG5dkQfoGBCjcdZb8gAC4xsAAkQv-VeDY0oxnWInFDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzpnf049-3ULbgdy9xlYMqqVxhFgZQAC5BsAAkQv-Vfnm4Dw5aziQzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCztnf05AdCgAAXxFHCpBMm5hWTUDz9cAAuUbAAJEL_lX7NEOSuDEkKg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCzxnf05D8P9q21RA8frvSkoZqI6XEwAC5hsAAkQv-VcGjK2JL73TRzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCz1nf05Hn8C1WQs3_EGArDCfeBI1jAAC5xsAAkQv-VfsRSjHxZpuyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCz5nf05JeOZpUymXKWhjUInc5dVs0wAC6BsAAkQv-Vcinl2EM3eApzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCz9nf05MH7wbFUeZXbSiBuEveTOnmQAC6RsAAkQv-VcTPrOjQc-uqjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Bnf05P7QGTql-eaRhYGTQu5UPeHAAC6hsAAkQv-VfAW0ybK5BtLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Fnf05SQcmYAAH4cpQZYkdndmS4-AkAAusbAAJEL_lXeaq8obTXVNQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Jnf05VJQ-gkgSOadeZMku56_m1xQAC7BsAAkQv-Vdzair4Uli3jTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Nnf05XOxFGOfF4nUB6CzqqjuzGmwAC7RsAAkQv-VeEAUjJaif64TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Rnf05agAABF3zWCdSIHiv5SxainbIAAu4bAAJEL_lX-jvFIvOBKkA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Vnf05d_NVFwnQnwZx1b79gTj4G8AAC7xsAAkQv-Vc0Lkw1tppnTjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0Znf05fEi4JmX1sx2p2KCkRsGEL8AAC8BsAAkQv-VdxM3QSdurV6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0dnf05iJWGCDb46fq0z6hZexozN7AAC8RsAAkQv-VeoZvSK45eVyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0hnf05lm9MM_8usQ4TjjkvrY3haawAC8hsAAkQv-VedaoS4wcwSgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0lnf05n0PB3cAP9z_V0MjKIlznkNwAC8xsAAkQv-VecgNpYonZ_JTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0pnf05p1WZZPxixUKlTkn8cSSJ0lQAC9BsAAkQv-VejgLbaWjO3ITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDC0tnf05rsL7f23Rj_fJAfTM4WaNUDAAC9RsAAkQv-VdbPh32LXBa7TYE"
+    ]
+};

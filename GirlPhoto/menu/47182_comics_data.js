@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47182,
+    "title": "一笑芳香沁 - 吾妻旗袍 - Page 1",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁---吾妻旗袍---Page-1-03-08",
+    "images": [
+        "https://telegra.ph/file/a1ff48229ccfd29e94a96.jpg",
+        "https://telegra.ph/file/68e05a0222f1599a001a6.jpg",
+        "https://telegra.ph/file/38c6f2aaf8c61a9d5a5cf.jpg",
+        "https://telegra.ph/file/651caa8d8d9d88668ca71.jpg",
+        "https://telegra.ph/file/12e818d0f5358432f652d.jpg",
+        "https://telegra.ph/file/a2eafa047c5f3cdd34b42.jpg",
+        "https://telegra.ph/file/92f97a9f08fc1b61fe00a.jpg",
+        "https://telegra.ph/file/7a1e57a65df609ff88b96.jpg",
+        "https://telegra.ph/file/4a6916bbfabc42e8affaf.jpg",
+        "https://telegra.ph/file/0eba8c8bba7a7d7fdb2aa.jpg",
+        "https://telegra.ph/file/a2099642d8e01c5809e29.jpg",
+        "https://telegra.ph/file/c362f02d0257feba7254d.jpg",
+        "https://telegra.ph/file/60ffb5fb87d66893e417f.jpg",
+        "https://telegra.ph/file/84bd22c998e2ebe751d9e.jpg",
+        "https://telegra.ph/file/aa1db0874227effde4ef3.jpg",
+        "https://telegra.ph/file/86367a514716b58f654e2.jpg",
+        "https://telegra.ph/file/5bdeed9960cd8fa14434e.jpg",
+        "https://telegra.ph/file/a9f5b83532b5728243215.jpg",
+        "https://telegra.ph/file/5fd1334d125b8fc472b4f.jpg",
+        "https://telegra.ph/file/ebbfd4d44d733a26bc693.jpg",
+        "https://telegra.ph/file/ee15f0852c1faff9004f1.jpg",
+        "https://telegra.ph/file/3bedc0819261fc9ba166b.jpg",
+        "https://telegra.ph/file/8b55b2bdbc2e7d797bcd2.jpg",
+        "https://telegra.ph/file/51eb32f5f1af41fd1e959.jpg",
+        "https://telegra.ph/file/8630d0f6cec269a961c22.jpg"
+    ]
+};

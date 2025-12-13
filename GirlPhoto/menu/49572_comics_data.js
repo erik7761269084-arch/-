@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49572,
+    "title": "雨波HaneAme - 2B Main suit self destruction - Page 1",
+    "sourceUrl": "https://telegra.ph/雨波HaneAme---2B-Main-suit-self-destruction---Page-1-02-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNVnnghiPsRQY1hbzsObu5KeYFxgbAAC_BEAAjHW8VTt8QeQxHSfGjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNZnnghlH3D-sHIDTx1TfYVYWdkedQAC_REAAjHW8VR_CfU1_Nqg9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNdnnghnQBhN0gakJU749FAcXvCXKQAC_hEAAjHW8VR-MhmdslxqrzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNhnnghpjUlci-Y0MaODlKe2ca4mVgAC_xEAAjHW8VSR5Rs7n9nOsTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNlnnghrUiVRsJvivg7rU6bqUr60cgADEgACMdbxVNvUnA_MGu-cNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNpnnghsDPMt8ZtIIIyMDd1gxkPd8gACARIAAjHW8VSEMM9LgRHlqzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNtnnghvYy_yvxDlFhLC83T5TNIGggACAhIAAjHW8VR2_Uq9YUtwKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvNxnnghwkwkK4VL4kOexIltF3rH7OQACAxIAAjHW8VT9eZRyttbcVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvN1nnghyGFviWQlb-ZdOscoQR6KIAwACBBIAAjHW8VRXJNhDRxq-BjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvN5nngh1fmzmEY0-fUcumygSZPfQswACBRIAAjHW8VTtyqQLYc8TpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvN9nngh2uIc9MI2MTIz3i42k1YgvvgACBhIAAjHW8VRAHYfJ4CPGXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOBnngh46zi2CBVESDkAAWj-ujRjQPwAAgcSAAIx1vFUaZ_o4PkJeMw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOFnngh6bfrIsEe1MperSrNBuESprAACCBIAAjHW8VQUlgN3enl_VjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOJnngh95erffqD0YMHayTY8oYb-0gACCRIAAjHW8VQc0kDnV7OGcjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvONnngh_oiptxxubelSdIe0dreT_LQACChIAAjHW8VQEOrO6VVCeTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvORnngiBT6wKVlJTEejyrc7imnar2AACCxIAAjHW8VRq5m27_-01wzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOVnngiDFskI2z0Ow7EP-CxWX_q_AgACDBIAAjHW8VQXFrj7_rHyUTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOZnngiFIA6ZviVG1BKKdxSSyng_OwACDRIAAjHW8VTk0WE4KowCazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOdnngiH6AkZ8zZwarLPYDvFDt3vhwACDhIAAjHW8VQmdxZ7qvazKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOhnngiNGYNOuhgbaeqYoIp0VFn5rgACDxIAAjHW8VSDlLya-kWOlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOlnngjP1xEbIDDws9GRDhV_R5_hfAACEBIAAjHW8VTQ37IbmdLfvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOpnngjQ-crRPh0IrRd8YtZnTn17PwACERIAAjHW8VRv0b8L4Zk4NDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOtnngjSTMwtn6DAdLt4fT-fD7f7iAACEhIAAjHW8VSXNaVTRDwL_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvOxnngjT5BZ4F7z9N-KyAAGdZul53aQAAhMSAAIx1vFU8JjWXzvXIfQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvO1nngjVCf7C_QMgOrO6rY1EmxnbPwACFBIAAjHW8VQ_tkoX7026aDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvO5nngjYFOr96cQ2tGfv40C6Xx_mcAACFRIAAjHW8VRRoFXg8xRzmDYE"
+    ]
+};

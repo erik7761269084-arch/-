@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48992,
+    "title": "Broccoli - Hoshimachi Suisei - Page 1",
+    "sourceUrl": "https://telegra.ph/Broccoli---Hoshimachi-Suisei---Page-1-01-07",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1n5nfG6OZq6VL4IJ639kkdK32L_VjAACSBgAAlPr6FeZyJfzQ_7jqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1n9nfG6RDC-ewSreXETbDNBQ10IuvQACSRgAAlPr6Fdq-143DFdKyTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oBnfG6VmJ6PgT5yYViTGjbRFYiBQQACShgAAlPr6FdU6mlHJ8xLhDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oFnfG6ZKJ0F87J8O4Xrf4n1RDtJTQACSxgAAlPr6FcUc53jmRgauTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oJnfG6eoGYhq7cIyPQ7SI8wJl0fWAACTBgAAlPr6FcN1HTLj5N9qTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oNnfG6hM3sHp_xk68rfRAf5eLJMYwACTRgAAlPr6FeULMTixXYWhzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oRnfG6kE0IpgQRRHuay6SP-3f5eMAACThgAAlPr6FfS2MUyTAyBAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oVnfG6n_D6AEKq3VvxTvePEpfbzIwACTxgAAlPr6Ff7svyjD2BRnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oZnfG6qIXjBpWZlj0TEx1vDQbtNgwACUBgAAlPr6FeCQiZKThW7uTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1odnfG6vOvAFBkUQgpCgH-TDowLRkgACURgAAlPr6FfNxoWLd3xxFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1ohnfG6zv84_FSdRDYi90vmofK18YgACUxgAAlPr6FeYOIwfE-wfGzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1olnfG62sW-Ojp63TRkzZz-11kLGRwACVBgAAlPr6FfqvlvG5Lt-ojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1opnfG66r_Gf3kpwSctyj2qTrRI2igACVRgAAlPr6Fdp-hVdTlgB2zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1otnfG7BZ9DZ1IuEj0gfE_B5drMo-QACVhgAAlPr6Ff0zOUhSoZ9jDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1oxnfG7EXfMAAW7W0bsM-hBAuJcU_vMAAlcYAAJT6-hXGF9IjtXtOs42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1o1nfG7J3LDOtumbQYWfL2yEcxB3KwACWBgAAlPr6FeU86QhmYZ_EDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1o5nfG7Wn46VKDfEwq4oW7CpohmB0AACWhgAAlPr6FfgS3qMnnOw-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1o9nfG7ZaxAacLuAmenUdt4Zv2ObCwACWxgAAlPr6FdjvxdRgb4LejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1pBnfG7djZyd4TfGojhlmcx_luGZegACXBgAAlPr6Ffim7cAAQM0wyE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1pFnfG7gaCo_1ORVUwohLfS6ArmIWgACXRgAAlPr6FcfNV9_go7hgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1pJnfG7jnfl2c2cOuTAx7NlStqascQACXhgAAlPr6FdAoUEBKB2Z6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1pNnfG8IwClq-OAsK5SywoB9_bcTCwACYRgAAlPr6FeAlDc2qpm5LDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1pRnfG8Tuq6aYj2Sr32f8YDuJ4x_fwACYhgAAlPr6FeeCUChbogo-zYE"
+    ]
+};

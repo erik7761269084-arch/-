@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47159,
+    "title": "QQueen -  Mashu - Page 1",
+    "sourceUrl": "https://telegra.ph/QQueen---Mashu---Page-1-03-06",
+    "images": [
+        "https://telegra.ph/file/31f72a20845236b5d6d1c.jpg",
+        "https://telegra.ph/file/a38e98c1c55926aa749b1.jpg",
+        "https://telegra.ph/file/bfda8fac78fc5105cb385.jpg",
+        "https://telegra.ph/file/d124ab8ce890a5e237038.jpg",
+        "https://telegra.ph/file/7a2e1fb6e2c216004e296.jpg",
+        "https://telegra.ph/file/984abf4b8f9347734a288.jpg",
+        "https://telegra.ph/file/8cb01cca06543d8fdbb1d.jpg",
+        "https://telegra.ph/file/fb62db95854c0423f26b6.jpg",
+        "https://telegra.ph/file/ae238cf8864c12f0c12e1.jpg",
+        "https://telegra.ph/file/83769f2fcabd8a51b87a4.jpg",
+        "https://telegra.ph/file/d79d8662025473399eb2d.jpg",
+        "https://telegra.ph/file/3bf31481c128075398374.jpg",
+        "https://telegra.ph/file/5a637a55917523fa81b5a.jpg",
+        "https://telegra.ph/file/e31f282fa55d44198a1dd.jpg",
+        "https://telegra.ph/file/3c161381cd76f8bfbcaa7.jpg",
+        "https://telegra.ph/file/f65c29b972acd3ffbd24a.jpg",
+        "https://telegra.ph/file/606a7a77e8c76024bc5ac.jpg",
+        "https://telegra.ph/file/543ff024513b5aeba47b0.jpg",
+        "https://telegra.ph/file/7960fd8d7ec5fb3bad7c8.jpg",
+        "https://telegra.ph/file/aab0dde47924df062ffad.jpg",
+        "https://telegra.ph/file/cb0362136d0fb607c4629.jpg",
+        "https://telegra.ph/file/f54582ae6f01d85b6059c.jpg",
+        "https://telegra.ph/file/57d3aef217e2a9e4b1f2a.jpg",
+        "https://telegra.ph/file/254a5c11a5e88400fb5c5.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46724,
+    "title": "Genevieve - Thieves Guild (The Elder Scrolls V Skyrim) - Page 1",
+    "sourceUrl": "https://telegra.ph/Genevieve---Thieves-Guild-The-Elder-Scrolls-V-Skyrim---Page-1-01-28",
+    "images": [
+        "https://telegra.ph/file/2d0578e6e4863c1a0ee91.jpg",
+        "https://telegra.ph/file/60cb85983188cb0dcccc9.jpg",
+        "https://telegra.ph/file/3afbcdce5819632a6f608.jpg",
+        "https://telegra.ph/file/6dbd1b35e413c81aed9cd.jpg",
+        "https://telegra.ph/file/39988dc905c5d768826a2.jpg",
+        "https://telegra.ph/file/bb71e9394a1753f257171.jpg",
+        "https://telegra.ph/file/1b0f14fd9a51192936102.jpg",
+        "https://telegra.ph/file/71085acce3eb16a0a9436.jpg",
+        "https://telegra.ph/file/3ee945c09b2f67979e483.jpg",
+        "https://telegra.ph/file/40ba07991b22f11082b30.jpg",
+        "https://telegra.ph/file/c03be8b14f7f8371f36b6.jpg",
+        "https://telegra.ph/file/a4b924afbc7d7680ced7b.jpg",
+        "https://telegra.ph/file/e535ecdf7621255db2a90.jpg",
+        "https://telegra.ph/file/f8761c466ad8fb89bc8e7.jpg",
+        "https://telegra.ph/file/1beff0c51b61412a25c3e.jpg",
+        "https://telegra.ph/file/7221f3be8db0418934590.jpg",
+        "https://telegra.ph/file/f564481ec90ebe40e1c87.jpg",
+        "https://telegra.ph/file/d3099dc2f06c5d48a0a0d.jpg",
+        "https://telegra.ph/file/a916dbcf72e8878d45e51.jpg",
+        "https://telegra.ph/file/b625fcc75406e9d63ea93.jpg",
+        "https://telegra.ph/file/184b638aabbd7a4be7238.jpg",
+        "https://telegra.ph/file/27808866966db9c36e09c.jpg",
+        "https://telegra.ph/file/98e2be23146d096ed8b4a.jpg",
+        "https://telegra.ph/file/a49c977de2fdd06b51484.jpg",
+        "https://telegra.ph/file/a58de1e059cfa471f400a.jpg",
+        "https://telegra.ph/file/8970c2d6014b5b6ea6ce5.jpg"
+    ]
+};

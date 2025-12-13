@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47115,
+    "title": "[二佐nisa] 2b同人花嫁 - Page 1",
+    "sourceUrl": "https://telegra.ph/二佐nisa-2b同人花嫁---Page-1-03-02",
+    "images": [
+        "https://telegra.ph/file/5fc63f564c1fff290bfb9.jpg",
+        "https://telegra.ph/file/2a994e4864351b161e687.jpg",
+        "https://telegra.ph/file/b33759fbaf4c8d672e121.jpg",
+        "https://telegra.ph/file/6cb85f4548ade50ed065c.jpg",
+        "https://telegra.ph/file/7c1dc7e28c95b115f1186.jpg",
+        "https://telegra.ph/file/dae95b90a101d82110f8a.jpg",
+        "https://telegra.ph/file/2f502de4176d4d743e715.jpg",
+        "https://telegra.ph/file/adb056b509d029fd324d5.jpg",
+        "https://telegra.ph/file/d4a07ea8a2738edddbab9.jpg",
+        "https://telegra.ph/file/d18d624bb67d29adeae05.jpg",
+        "https://telegra.ph/file/eb105d80ae8ac21db31cb.jpg",
+        "https://telegra.ph/file/f92aeb8ad5d62fcd5684e.jpg",
+        "https://telegra.ph/file/67f7727e3f0b3305e42b5.jpg",
+        "https://telegra.ph/file/d33b04bf15dba4d405909.jpg",
+        "https://telegra.ph/file/c042d6ce4f32560fe6fa9.jpg",
+        "https://telegra.ph/file/b7aa5ca4c9be608d811cc.jpg",
+        "https://telegra.ph/file/2a749d6cac2bd736d5de4.jpg",
+        "https://telegra.ph/file/21d7ae4edcfddcebbb0e5.jpg",
+        "https://telegra.ph/file/0a22babbc9a147ced9ba9.jpg",
+        "https://telegra.ph/file/395c328a09e9308ee9c24.jpg",
+        "https://telegra.ph/file/3781c625390a778016689.jpg",
+        "https://telegra.ph/file/2c21996fee22b3e19a8b7.jpg",
+        "https://telegra.ph/file/9dae0bf10b2be59ae0121.jpg",
+        "https://telegra.ph/file/39c5488e942ea05fc3c43.jpg",
+        "https://telegra.ph/file/ca1118cb2e46fec289537.jpg",
+        "https://telegra.ph/file/0dee2d952fedc6afd86df.jpg"
+    ]
+};

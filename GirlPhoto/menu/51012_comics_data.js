@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 51012,
+    "title": "沐沐酱 - Gongsun Li - Page 1",
+    "sourceUrl": "https://telegra.ph/沐沐酱---Gongsun-Li---Page-1-09-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIENozjsdb-CqCEj4U_GYxSGF_El7cgACYxwAAo8ieFajsQ_t4tPVSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIEVozjse6o6VbQ5YDCzTb7NyLukIeQACZRwAAo8ieFb29vJp2GqfWjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIEhozjtddsy12eBaaw1wvoKgW6oEaQACaBwAAo8ieFacRendvbHgUTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIEpozjte-i_Av0SLhHpH4k2JYKuC-wACahwAAo8ieFYdl1XKwkSF4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIExozjti1bVBD-_1TEzqVuW-BTlufwACbBwAAo8ieFakF95h1klmUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIE5ozjtkgNcFY4i1Vv3e8PE1m9xsQgACbhwAAo8ieFYlC5B29IrawjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFBozjtl5NtNDQmdgt1VWB7zXTO4mAACcRwAAo8ieFYn4F2e5OMo3zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFJozjtpkIML4UmuxXWTKM1BupNghQACcxwAAo8ieFZ5nTOJmmi_TjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFRozjtqPEKrg3qCk9-JsrUzDUMpvgACdRwAAo8ieFbMvyNBm-_PIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFZozjtuoVTyufcgJROarou4SbnljgACdxwAAo8ieFa61GiF51rtPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFhozjtvteW4QRldh0h9659i2bgBBAACeRwAAo8ieFbKLo-crpRTTDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFpozjtwFE2_nUpHg67088gM5h95zwACexwAAo8ieFYJuaIrSFPnrjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIFxozjuuUmmMVsITGFyuPL5j8NljZwACfxwAAo8ieFZ9_SYcrdqrxzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIF5ozjuvSeRxVpPVoxCBR1hGTqgkaQACgRwAAo8ieFb5-A7VpRsgRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGBozju0WnSoO6UDoq3O5sZt1reEQwACgxwAAo8ieFaP2YBz0IdNrDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGJozju12NWyp4zvxyjwMUOCCG9TygAChRwAAo8ieFbuo2NhAjlpVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGRozju2_TNXqpiEoA042b6SnuXsOAAChxwAAo8ieFYjo6b8rK1ONjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGZozju60yhmJ7dylUv-vrDvDqVF3wACiRwAAo8ieFaKFUT0YkywtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGlozjv9qWa1pqsYmdCs-Ro5YypQgAACjBwAAo8ieFbXB5D7-r-IMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGpozjv-gSeDUkX_YtbHizmBPtBk4wACjRwAAo8ieFY6eNDdGYHGWTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGtozjv_Kz--KCIR-saijMYIRmyVVwACjhwAAo8ieFY7A7ckx0iuSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIGxozjwAAVVaOjWKXdTJFg_Jo7cLrcYAAo8cAAKPInhWUQTY3spuAyo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIG1ozjwCOHTXb6jNXzL-tG78lZRU3wACkBwAAo8ieFZp914CAy82LzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIG5ozjwDhG-64GeE8DMbMxxytejH3gACkRwAAo8ieFZnb6l4bpu-zzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIG9ozjwE2HttF44lpaLjvipHs-MI0QACkhwAAo8ieFafMlYYEStsRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERIHBozjwFMCcePMmLgInqwOlQjoVsFAACkxwAAo8ieFY58RkAAZ1ok3c2BA"
+    ]
+};

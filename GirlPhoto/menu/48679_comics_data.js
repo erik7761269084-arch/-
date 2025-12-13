@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48679,
+    "title": "AT鲨 - 有栖マナ - Page 1",
+    "sourceUrl": "https://telegra.ph/AT鲨---有栖マナ---Page-1-08-19",
+    "images": [
+        "https://telegra.ph/file/83f968d2710a1701c9431.jpg",
+        "https://telegra.ph/file/8e41e0d160ca08dabc479.jpg",
+        "https://telegra.ph/file/e01232b509429c023c404.jpg",
+        "https://telegra.ph/file/f5726f5ca19004366af13.jpg",
+        "https://telegra.ph/file/8bb80ff33d03a53ffb4c6.jpg",
+        "https://telegra.ph/file/44708365200d5ecbeb31e.jpg",
+        "https://telegra.ph/file/ea90a44399469257353c0.jpg",
+        "https://telegra.ph/file/91b9d1e3dbe58a8340711.jpg",
+        "https://telegra.ph/file/58a33354fc071d4c28c39.jpg",
+        "https://telegra.ph/file/d894e4ebdb980ee887e9f.jpg",
+        "https://telegra.ph/file/6d75c62b194556b51f2c9.jpg",
+        "https://telegra.ph/file/f9b6c7e3ae15a42e92098.jpg",
+        "https://telegra.ph/file/2e7193a35e6c434694c9f.jpg",
+        "https://telegra.ph/file/b76ce829f9a6773af7bbf.jpg",
+        "https://telegra.ph/file/36193ccb1c3ff0dfe4f54.jpg",
+        "https://telegra.ph/file/d90af395d69034f65fc19.jpg",
+        "https://telegra.ph/file/025b2ec8eedb4871001b3.jpg",
+        "https://telegra.ph/file/abf5916eeb371701c8278.jpg",
+        "https://telegra.ph/file/5d4c946527903f50c46a9.jpg",
+        "https://telegra.ph/file/56966f7fe421122653343.jpg",
+        "https://telegra.ph/file/f3db332729b4032664a39.jpg",
+        "https://telegra.ph/file/102249dc1dba8e8d7202b.jpg",
+        "https://telegra.ph/file/735a4fa44a0787c85fca5.jpg",
+        "https://telegra.ph/file/3a7f067533da59c3151ca.jpg",
+        "https://telegra.ph/file/e47b4caeb080c5b5033ec.jpg",
+        "https://telegra.ph/file/a5fcad66500e7b2c5a791.jpg"
+    ]
+};

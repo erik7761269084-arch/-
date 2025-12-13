@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48309,
+    "title": "Hinata2000 - Ishtar - Page 1",
+    "sourceUrl": "https://telegra.ph/Hinata2000---Ishtar---Page-1-06-19",
+    "images": [
+        "https://telegra.ph/file/7935cc4349bd9bf06355f.jpg",
+        "https://telegra.ph/file/bdd4aa877ecdf6d4d2f90.jpg",
+        "https://telegra.ph/file/e058afadc748fe3018acd.jpg",
+        "https://telegra.ph/file/2001eaa4644bd492fed25.jpg",
+        "https://telegra.ph/file/6e6dd22c624e7e6f11e1b.jpg",
+        "https://telegra.ph/file/0276cae251cc566e6fcfd.jpg",
+        "https://telegra.ph/file/5871e6256de82238ec7f5.jpg",
+        "https://telegra.ph/file/4c3b6a219a4aeded76a7f.jpg",
+        "https://telegra.ph/file/7504f5ef9612b89096656.jpg",
+        "https://telegra.ph/file/606ca7480d7d6381debbe.jpg",
+        "https://telegra.ph/file/656481e0848b455684ba4.jpg",
+        "https://telegra.ph/file/55b9a40147273c1bf9228.jpg",
+        "https://telegra.ph/file/fc79d8e0eb398be4d96f2.jpg",
+        "https://telegra.ph/file/528bef42b91a8d8fc5300.jpg",
+        "https://telegra.ph/file/9f529a3840ae8f0c84dab.jpg",
+        "https://telegra.ph/file/374ad7d65fee8a77059c4.jpg",
+        "https://telegra.ph/file/1266c4422067a88114543.jpg",
+        "https://telegra.ph/file/7c4cd279c3732b991146d.jpg",
+        "https://telegra.ph/file/d49de893ed2736b1c09a5.jpg",
+        "https://telegra.ph/file/69d1f4253c0be70bfd3aa.jpg",
+        "https://telegra.ph/file/bb7e00caf220e5067184c.jpg",
+        "https://telegra.ph/file/b9ee44e02bafdf0e3cc0d.jpg",
+        "https://telegra.ph/file/5389c29fdbf4692eb6960.jpg",
+        "https://telegra.ph/file/527aac501c6824c345e71.jpg",
+        "https://telegra.ph/file/024ea05c408eb676274d5.jpg",
+        "https://telegra.ph/file/2cc3cd97f50acbe4e7600.jpg"
+    ]
+};

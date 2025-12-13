@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49680,
+    "title": "Idol Cosplay Julia (ユリア Yuria) (Video Torrent) - Page 1",
+    "sourceUrl": "https://telegra.ph/Idol-Cosplay-Julia-ユリア-Yuria-Video-Torrent---Page-1-02-06",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJk9npEL4spV5BqZ6-I6st7XVmNT_NgACsRYAAh6lKVU8Nku0hfLPNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlBnpEL6uyhPUZf7e4Efz5ioZtuxwwACshYAAh6lKVUwZShq7hAD5jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlFnpEL_rcfGgKyyI_ymDzzDVhpZEAACsxYAAh6lKVXFryDcsWC04DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlJnpEMI-cQy4__WGTdBx-f0vlCs3gACtBYAAh6lKVW9KUN5RH1JoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlNnpEMKzdVyR0oJYEB2-mriqKLq0QACtRYAAh6lKVXJZN2NBXNTrjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlRnpEMNvNW-6bYHCKJ_AwWBxmoAAXMAArYWAAIepSlVnCevbO2vfvI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlVnpEMPMHEruqNv8hY8y08dnb_NTgACtxYAAh6lKVUxZ5kL9e3HZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlZnpEMQk7sxdeUlTQ8S_uLxPFfitQACuBYAAh6lKVW6I9qkKW514TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJldnpEMSAks-es_0rAi3Q6rH619ILwACuRYAAh6lKVXKTwYHdJPsqjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlhnpEMU-aqDfGGp_zS_0TbcEhkd-gACuxYAAh6lKVVQNuGxvxQu3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJllnpEMVXG62jsqcyZoq_oqUw3WhXAACvBYAAh6lKVVnvGTWpyKtmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlpnpEMWOtUKMs95nV0WH2fWjR9zbwACvRYAAh6lKVVoF4TuASD10zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJltnpEMYb7Ouc2DIhf4trog_vlTk9wACvhYAAh6lKVUoPNpLPgH-UzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJlxnpEMZx9t_SIfXFIQsrCIx0ioeQQACvxYAAh6lKVVWpH9FZAERlTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJl1npEMbIqtmccf0AAFsZgwqGDEs8iYAAsAWAAIepSlVwF92HvvYdrU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJl5npEMctqVmKMtU-E3RVJY_oQjCwgACwRYAAh6lKVVnqAND4gTKkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJl9npEMfjLCZ2sZE4lSKro8j-ye4iAACwhYAAh6lKVXYyhoxfDvSMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmBnpEMg2xR0jO-08gABXcCVKppeJPkAAsMWAAIepSlVJEAibPVXmXU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmFnpEMk21tEZM2K-JxLqnJNjMeqiwACxBYAAh6lKVWctkMAAeLJL0c2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmJnpEMlqlx1uVAY324k7L79ciSUVwACxRYAAh6lKVWLSDd9lifEHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmNnpENsEHMG-yF5ZE1U1GG1K0EqTAACxhYAAh6lKVVsSKhUYO8NzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmRnpENtRpASJ5LgcRtYHhKBgvYZ4gACxxYAAh6lKVVtZS8tpHtDKzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmVnpENvZsPhIYQ-V3N37jeksvWdQAACyBYAAh6lKVVXRw3tlt7PNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFJmZnpEN0vtms9zzg_zdRMNfv0OGxqgACyRYAAh6lKVV40HLxnodpezYE"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48804,
+    "title": "[阿包也是兔娘] NO.48 1月舰长 能代女仆 Azur Lane Noshiro Maid - Page 1",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-NO48-1月舰长-能代女仆-Azur-Lane-Noshiro-Maid---Page-1-09-01",
+    "images": [
+        "https://telegra.ph/file/e3d2110f53e5599057bd4.jpg",
+        "https://telegra.ph/file/3e39cd856b7af3566eee3.jpg",
+        "https://telegra.ph/file/fbbd97268ef7adeef05e6.jpg",
+        "https://telegra.ph/file/d556a17413c7d470b5768.jpg",
+        "https://telegra.ph/file/f23f2137eec2973c19bbf.jpg",
+        "https://telegra.ph/file/e1f658b0378951aad3eba.jpg",
+        "https://telegra.ph/file/83e8637bf94b6d8d36dfc.jpg",
+        "https://telegra.ph/file/03087dfdb774852c22d7e.jpg",
+        "https://telegra.ph/file/713c2209caca46706d0d9.jpg",
+        "https://telegra.ph/file/c55d0f533a679d1b5ef34.jpg",
+        "https://telegra.ph/file/5a78e34e2be08c7568259.jpg",
+        "https://telegra.ph/file/32448d979a230013adb73.jpg",
+        "https://telegra.ph/file/47e4f63069038d9fc0350.jpg",
+        "https://telegra.ph/file/1011d45175149bb705ed6.jpg",
+        "https://telegra.ph/file/4e5d95efa3e49ba8243b3.jpg",
+        "https://telegra.ph/file/ea3767fae7c7f6ef50671.jpg",
+        "https://telegra.ph/file/0b559c891a6663980059f.jpg",
+        "https://telegra.ph/file/8e64d2da5d9789f80d004.jpg",
+        "https://telegra.ph/file/41267cbfaf5effc45e9d9.jpg",
+        "https://telegra.ph/file/ecf1a06a994c836ba38de.jpg",
+        "https://telegra.ph/file/14afbc70c7cab929d28eb.jpg",
+        "https://telegra.ph/file/1159f6894bc6f17b525ce.jpg",
+        "https://telegra.ph/file/55fecc45aca3f54304237.jpg"
+    ]
+};

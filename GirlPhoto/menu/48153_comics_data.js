@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48153,
+    "title": "小仓千代w   响  blue archive - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w-响-blue-archive---Page-1-06-05",
+    "images": [
+        "https://telegra.ph/file/aaaa549e7947ecb8e6ada.jpg",
+        "https://telegra.ph/file/2e6edc31c0a7f2425111d.jpg",
+        "https://telegra.ph/file/bd98031985594deda993e.jpg",
+        "https://telegra.ph/file/4d522129bd375c2d087a4.jpg",
+        "https://telegra.ph/file/c4a17e03f8f183f63908c.jpg",
+        "https://telegra.ph/file/29eb0f4e604b74b5e7878.jpg",
+        "https://telegra.ph/file/b76b1521117e23827061b.jpg",
+        "https://telegra.ph/file/1f2598ba91cf40901b2e1.jpg",
+        "https://telegra.ph/file/43ebf931afdda3c36a946.jpg",
+        "https://telegra.ph/file/bdb34cf8ed1900452fc1c.jpg",
+        "https://telegra.ph/file/df27f1640c71a83b63688.jpg",
+        "https://telegra.ph/file/03c74e49ce0389fa4b2cd.jpg",
+        "https://telegra.ph/file/5f456145ca5e6dd3ef74b.jpg",
+        "https://telegra.ph/file/7702d300783cc982481fe.jpg",
+        "https://telegra.ph/file/c4cdc98d86d6b709c1fb1.jpg",
+        "https://telegra.ph/file/afce59f24ac596ead7852.jpg",
+        "https://telegra.ph/file/71716d78b91378d4d8914.jpg",
+        "https://telegra.ph/file/15318c2d7542761463dd8.jpg",
+        "https://telegra.ph/file/7130023c5533f8920820e.jpg",
+        "https://telegra.ph/file/cb4ebe0abcce2dfc5036a.jpg",
+        "https://telegra.ph/file/bc9886b7b71c9a74f16c3.jpg",
+        "https://telegra.ph/file/7b7442ea623a68464f6d7.jpg",
+        "https://telegra.ph/file/f8704ef33f303a6b07071.jpg",
+        "https://telegra.ph/file/d56aee6d94d20e98e8b93.jpg",
+        "https://telegra.ph/file/42da6c620d1011b344059.jpg",
+        "https://telegra.ph/file/0ab060392df2529cee510.jpg"
+    ]
+};

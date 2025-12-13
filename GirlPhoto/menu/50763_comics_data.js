@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50763,
+    "title": "九柒喵 – 初音未来 兔子洞 - Page 1",
+    "sourceUrl": "https://telegra.ph/九柒喵--初音未来-兔子洞---Page-1-07-12",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzvxoccVyvA-TIwGk6kbSJz5sTxu4oAACRBgAAsLoiVfJwkv2TD5mpTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzv1occVzmCzUKWueWAwaCW4li7upXgACRRgAAsLoiVew1c1G3oFkyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzv5occV0cx6R5R61tSRywIrwDISgsQACRhgAAsLoiVfwUKDFgrC_RTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzv9occV2p1ie8Z5MIOslFdqM-T2thAACRxgAAsLoiVeXKWv0P7WsDzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwABaHHFeEnbeomSrRlPyINFmJGfP_kAAkgYAALC6IlXFVYS3ukRa6U2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwFoccV5_caSROZoe5OT-GMaTUZBoQACSRgAAsLoiVeoVvE2OBA2xTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwJoccV7r4S9kaQmmvKkKpXy6kIfCQACShgAAsLoiVdNaUKg5BH4kDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwNoccV8BRZzw4RnaQu6qbdbUsImWQACSxgAAsLoiVfC9u7Nz5WFNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwRoccV9cC6msCi-rCSWzxRRpq6mzwACTBgAAsLoiVeSYcyjfY_HgDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwVoccV_dyk8pZfcok_cFBgpffJBPwACTRgAAsLoiVfiU2YUjqBNmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwZoccWARnfsIawUWXo2Py4vB5ToMAACThgAAsLoiVcWWi-BO-tetjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwdoccWB_nkSt4KOljHJbB8EjmrkzwACTxgAAsLoiVeXQRkEyjXigjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwhoccWDngsxlzxRmbyVVhiTjv8BUQACUBgAAsLoiVdl71tZ_IcM3jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwloccWECpwtb2XqWxOTCRim8kwFTQACURgAAsLoiVe_-4Cj3O8M7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwpoccWG_wrT8LsP_2_zehQzN3HySAACUhgAAsLoiVeE_N9Bw7iUjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwtoccWHQh6gp71bcgU0jsxGXLipsgACUxgAAsLoiVcSD_w9RMg49TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzwxoccWI8Vf0UJf8p1yexFMkrhukyQACVBgAAsLoiVeIY5vFvCXeFzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzw1occWK07igSdCxXZ8UmPBZUuQlRAACVRgAAsLoiVcjA4tTmqgGNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzw5occWLfzM5pagDT7x4tjlPy5pdjwACVhgAAsLoiVfeTJLWu5vaOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzw9occWMIfDhcHyFFXeWBV5Zyg0GmgACVxgAAsLoiVcIMkGMyi-YbTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxBoccWNIUtrT1zUpRvRdeUYYbPHhQACWBgAAsLoiVfGDmLh218EbTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxFoccWP8CE_agVgQ9tvN8cSRr8DdAACWRgAAsLoiVcDIZ3QYZ7u3jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxJoccWQlKStwUmjULN9eGUge5ejzgACWhgAAsLoiVd-bEf9ixRZZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxNoccWRVxPov8aOLqIkVr04kwgJTwACWxgAAsLoiVdNAUGLszRpUjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxRoccWTfJeEX8Mz9jeDGekIpovqpgACXBgAAsLoiVcixvi_uzw0ejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENzxVoccXSWC1fHxv5pN_agIT-V2mibAACXRgAAsLoiVdY3Ja_voT1ejYE"
+    ]
+};

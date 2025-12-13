@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48146,
+    "title": "美脚的赐福（旗袍甘雨篇）Miyoki / Misaki Suzuki (Ganyu) - Page 1",
+    "sourceUrl": "https://telegra.ph/美脚的赐福旗袍甘雨篇Miyoki--Misaki-Suzuki-Ganyu---Page-1-06-04",
+    "images": [
+        "https://telegra.ph/file/b98f1b864f988ef16d002.jpg",
+        "https://telegra.ph/file/c94ebd0cac738df80112d.jpg",
+        "https://telegra.ph/file/51ff8155d7c5c08e77fae.jpg",
+        "https://telegra.ph/file/8132612435a980ec627e9.jpg",
+        "https://telegra.ph/file/75c7d237945c0d0b8a789.jpg",
+        "https://telegra.ph/file/6c05bf7453bd76b79bd43.jpg",
+        "https://telegra.ph/file/91ebe693de5f012bca7d4.jpg",
+        "https://telegra.ph/file/59137de41cfa339f3dd40.jpg",
+        "https://telegra.ph/file/de6351cfe619f2c0f5a3b.jpg",
+        "https://telegra.ph/file/0b9424f1b4b333b657845.jpg",
+        "https://telegra.ph/file/f36abb764cc274127c9a1.jpg",
+        "https://telegra.ph/file/81eb0e05bc606e47457bf.jpg",
+        "https://telegra.ph/file/96c7e6b884cadf6ca132b.jpg",
+        "https://telegra.ph/file/96178407703e9ff5cf06d.jpg",
+        "https://telegra.ph/file/1f3e3cafec0d7f72a0246.jpg",
+        "https://telegra.ph/file/5e72a567b42a42b5e371b.jpg",
+        "https://telegra.ph/file/bcd412380eabf518a6ad9.jpg",
+        "https://telegra.ph/file/3e87e034c6305050f4618.jpg",
+        "https://telegra.ph/file/ee46ebfb832645c44380e.jpg",
+        "https://telegra.ph/file/d6f06cf49b23ed47dcd83.jpg",
+        "https://telegra.ph/file/baf8d22b073f6ad9eb5b2.jpg",
+        "https://telegra.ph/file/cf4b352f6ddd401470307.jpg",
+        "https://telegra.ph/file/162f2a32748aa1776c6d1.jpg",
+        "https://telegra.ph/file/a3d641da8a284d96467ce.jpg",
+        "https://telegra.ph/file/c80da19b0346eacf1ff74.jpg"
+    ]
+};

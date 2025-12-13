@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47758,
+    "title": "[傲娇黑兔]亚丝娜 | Asuna Yuuki - Page 1",
+    "sourceUrl": "https://telegra.ph/傲娇黑兔亚丝娜--Asuna-Yuuki---Page-1-04-30",
+    "images": [
+        "https://telegra.ph/file/e501db68fe47ffdb693f0.jpg",
+        "https://telegra.ph/file/ee3d46ce77500fa30cafc.jpg",
+        "https://telegra.ph/file/83ec8720694e4cbc9adc5.jpg",
+        "https://telegra.ph/file/cfd68bf54ca7663f65782.jpg",
+        "https://telegra.ph/file/47b877ac3ea10015bb0a5.jpg",
+        "https://telegra.ph/file/82484fab7076608c5cd24.jpg",
+        "https://telegra.ph/file/d622f7ea8a93544f2db31.jpg",
+        "https://telegra.ph/file/2599c7cb257d64c61aa46.jpg",
+        "https://telegra.ph/file/531f92e6003ee5b51de4a.jpg",
+        "https://telegra.ph/file/64616d7f9584608859d42.jpg",
+        "https://telegra.ph/file/12a1a3df1ee9575d94471.jpg",
+        "https://telegra.ph/file/d9350df5ec1652d16560c.jpg",
+        "https://telegra.ph/file/cbde5c00c26dcd8f1d2b0.jpg",
+        "https://telegra.ph/file/afb71a26a6f57d86c75bc.jpg",
+        "https://telegra.ph/file/3a98007566517221f102e.jpg",
+        "https://telegra.ph/file/88c72040cef51b3feb154.jpg",
+        "https://telegra.ph/file/30ea11652e134999b141e.jpg",
+        "https://telegra.ph/file/1fdc8ec79c4f3bfbe41e7.jpg",
+        "https://telegra.ph/file/55b49418a2fd26e3b301b.jpg",
+        "https://telegra.ph/file/9c52cc92c0aec004809ae.jpg",
+        "https://telegra.ph/file/960dc555617ae5544fd58.jpg",
+        "https://telegra.ph/file/bd1840fd2b6e1061af42e.jpg",
+        "https://telegra.ph/file/1104a5e027a3dddfa2b4c.jpg",
+        "https://telegra.ph/file/b1df9388ee159df606cf1.jpg"
+    ]
+};

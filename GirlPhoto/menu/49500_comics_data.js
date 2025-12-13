@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49500,
+    "title": "Helly Valentine - Ankha - Page 1",
+    "sourceUrl": "https://telegra.ph/Helly-Valentine---Ankha---Page-1-01-28",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPZnmCYS2owpDdDaaWZ1F4j0cqU8VwACnRsAAilOwFRE3slO2zi63zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPdnmCYV8GpccwvGryItiEcySa5XyAACnhsAAilOwFTz5WkGogZVyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPhnmCYX4zKahOU2i0lITmMZSEvcQAACnxsAAilOwFQlTQ_vZUktPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPlnmCYYJOSWkvah8bdrsIRKrl7k3QACoBsAAilOwFR4R3NWcVdCQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPpnmCYaBJqHIMXBj36ei3nnUI2P6AACoRsAAilOwFSpJQj5UYUQljYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPtnmCYcIFRLhGqTxheRRKumtEw8uAACohsAAilOwFQ74Q642lsSMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdPxnmCYea4RU2ZaTpaL9tNjF6wGP4QACoxsAAilOwFQ3LCkSbW3-uTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdP1nmCYgrl_BAAEZ_PLUtxxUxRUrn0cAAqQbAAIpTsBUzG5emqzOjGM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdP5nmCYhYt4JrScUw8azT_YvIr4PPQACpRsAAilOwFSmYaak5y5upzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdP9nmCYjPER_nXdKSSm0uzmZzS-yVwACphsAAilOwFTs4DYleYt3tDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQABZ5gmJdxN-hKcW77ukbBEre7cQD4AAqcbAAIpTsBUJ1Ync38koBk2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQFnmCYnTdlisx8G5k20rcmUen5NRwACqBsAAilOwFQeJWPwT4nrwTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQJnmCYq5HOVYnEEup8o74dvn1KLzAACqRsAAilOwFTJg4wIHjWNKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQNnmCYtqpFrWOOcZ9vbWiHsJSJcAAOqGwACKU7AVMngIxhIzA4PNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQRnmCYw5dE1TdYzSw5Y7ku9nDBCvgACqxsAAilOwFSQ7n4eAsUnFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQVnmCYzRO9tsnGxuVtzbfsevtt7fQACrBsAAilOwFRPgS_mMQQjVDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQZnmCY0Nqex1EioFgxNSs0Iba6nDAACrRsAAilOwFT_UjAQAo39cTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQdnmCY2Y5tQxwEYg6IbaRWCE4F0vQACrhsAAilOwFTmUOUDw_FP2zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQhnmCY4na7KQfx97D4t-Y_kgzf9EwACrxsAAilOwFS6EH0DJWjpODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQlnmCY6VGvi7Rxb_jbc_8kJ1pmhTAACsBsAAilOwFT_NtcIlpbmezYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQpnmCZ6pCOULFMctWJTTVoIvfWuFwACsxsAAilOwFQuw6TVAttERDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQtnmCZ8ugtUEaF4T-XNonqWtmcteQACtBsAAilOwFTnsmuyDE7gQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdQxnmCZ-kkZy2HGIvTBiRgt2rPfr6gACtRsAAilOwFTkrftVYEjsoDYE"
+    ]
+};

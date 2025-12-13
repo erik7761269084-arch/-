@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47052,
+    "title": "[星之迟迟] 伊吹 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-伊吹---Page-1-02-25",
+    "images": [
+        "https://telegra.ph/file/a7c1269910aade18ecfff.jpg",
+        "https://telegra.ph/file/c55300487ee1812d21d8b.jpg",
+        "https://telegra.ph/file/256ae3aa4cbf9a9d5cd0a.jpg",
+        "https://telegra.ph/file/317b9e7e3fe032604f7a9.jpg",
+        "https://telegra.ph/file/91767c0a18840d510e4e2.jpg",
+        "https://telegra.ph/file/7b6b98db5fda089ddcb97.jpg",
+        "https://telegra.ph/file/a5f89bff57347a0557a4e.jpg",
+        "https://telegra.ph/file/dfd01c57a8b06883ada8a.jpg",
+        "https://telegra.ph/file/274b3430b83b818712659.jpg",
+        "https://telegra.ph/file/beff32f9a1e6db9275893.jpg",
+        "https://telegra.ph/file/baa171d6be45d90e8bae9.jpg",
+        "https://telegra.ph/file/17b379439cd06f3c73ded.jpg",
+        "https://telegra.ph/file/532ed5069e9a7f1134ff3.jpg",
+        "https://telegra.ph/file/ceeac5211e8aaa79721b9.jpg",
+        "https://telegra.ph/file/4e26a549f2c04e94e161a.jpg",
+        "https://telegra.ph/file/9f15215eebbc4610481aa.jpg",
+        "https://telegra.ph/file/06f758ac7c9fdc1535556.jpg",
+        "https://telegra.ph/file/97414180bc174c5a8376e.jpg",
+        "https://telegra.ph/file/574254b4c9058da8a58b1.jpg",
+        "https://telegra.ph/file/fe6b19dbcbef3ed9c192e.jpg",
+        "https://telegra.ph/file/edbc526ab621d5ab17017.jpg",
+        "https://telegra.ph/file/dd8d000bb17809b8a9d52.jpg",
+        "https://telegra.ph/file/63bea6f9c96fa4183e6ae.jpg",
+        "https://telegra.ph/file/b9be407463623df6a86a3.jpg",
+        "https://telegra.ph/file/3074fb3d4a459e6d9456a.jpg"
+    ]
+};

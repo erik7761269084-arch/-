@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49043,
+    "title": "[Tsunnayanchan] Okayu Nekomata - Page 1",
+    "sourceUrl": "https://telegra.ph/Tsunnayanchan-Okayu-Nekomata---Page-1-01-08",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_f5nfnCO1E-d6Cp9QyiM5dUNo0Xv4QACeBgAAg2q-VdDGgw4bOiFOzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_f9nfnCTkw9YopnS_9TJ33oWF7YHrgACeRgAAg2q-VfyiRfRIOA5PDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gABZ35wlzdVvia80ppOzAzqXlLo2x8AAnoYAAINqvlXIMYo9q1Myew2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gFnfnCbPm5VW6KaxYwWCoHJ29cu_wACexgAAg2q-VdRr-uXa6m3QDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gJnfnCeTbEvsvsYtv7_AYSaLS6SugACfBgAAg2q-VeU1SnlyMurczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gNnfnChTTkXe793HlBm6m0PXma1swACfRgAAg2q-VdmJopx726oiDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gRnfnCp2kME2jygswSQKyWzMdMCJQACfhgAAg2q-VcF9phIUOGxOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gVnfnCvjhjaX9D8GprWB66ScIUAAaIAAn8YAAINqvlXZYjAD2t2f1s2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gZnfnC6fwsuj6jQ5-NVUCFeiQwysAACgBgAAg2q-VebLJ1r5pfb0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gdnfnDEY8inwMNm_vNvKW8d2rIhGQACgRgAAg2q-Vd8zFfLuGcWMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_ghnfnDHWzbycfOI-GeKtHHlg9jcyAACghgAAg2q-VeFu59iIXHU2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_glnfnDLoQ6KFuhyxWo2ZdaD0sqo6gACgxgAAg2q-VeSUM2ZIpbLNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gpnfnDOuxz8qMO8JH1_F1i8nW32LgAChBgAAg2q-VeTJuUzkFGC8zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gtnfnDRyEJtlOW5Cbnrpa5Ra2-8PgAChRgAAg2q-VePUKdEblVJHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_gxnfnDWPZDhneNQfUuWHqpOHSJjhwAChhgAAg2q-VekSo2xFvvDHDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_g1nfnDZcwIlociw3O_7XLID6SxSnAAChxgAAg2q-Vcels-MAtONDzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_g5nfnDbQkZojrm7MP_G9f8_1r3v3QACiBgAAg2q-Vdz2-ZY-hfSlTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_g9nfnDezPcjxIwJ9VhGETBeGyzqPgACiRgAAg2q-VcQKJt0ZccAAe42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hBnfnDiLD8ZZz8PQNkwA6C42T7UnQACihgAAg2q-VePBVMWXMpKozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hFnfnDkWjID7rPlGzLvkx5PREmPHQACixgAAg2q-VcbaLxE_xFXJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hJnfnDoT3yRUjK__dompYoSQztczAACjBgAAg2q-VcumJPWw8mTKzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hNnfnDr9q-PanY78sUcMz5qHl2tfgACjRgAAg2q-VdS7DhoKeRTkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hRnfnDu78IfHHzabZtHPE-N9x7qvwACjhgAAg2q-VdnvEuBr-wHGTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_hVnfnD0L7YMeLIMwF-cG6wVdmWRBgACjxgAAg2q-VfxryxMcofCZDYE"
+    ]
+};

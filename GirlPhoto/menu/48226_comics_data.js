@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48226,
+    "title": "NekoChan - Marin cosplay as Shizuku Kuroe (maid version) - Page 1",
+    "sourceUrl": "https://telegra.ph/NekoChan---Marin-cosplay-as-Shizuku-Kuroe-maid-version---Page-1-06-11",
+    "images": [
+        "https://telegra.ph/file/141b5f3df82f0b1b49efa.jpg",
+        "https://telegra.ph/file/ecb35ce94f9ca3b193879.jpg",
+        "https://telegra.ph/file/9c8d35d2c1c92e17d06cb.jpg",
+        "https://telegra.ph/file/09819427aee872a1f8656.jpg",
+        "https://telegra.ph/file/f1d08e58b1ba5c02d288c.jpg",
+        "https://telegra.ph/file/7bddd8d2e0e2f2f027aed.jpg",
+        "https://telegra.ph/file/3b1966ba6a10e7d86dc40.jpg",
+        "https://telegra.ph/file/f717c168e7145b1bdcdf4.jpg",
+        "https://telegra.ph/file/375882f553f28c5d94653.jpg",
+        "https://telegra.ph/file/7bf242bb34ef4a457acd1.jpg",
+        "https://telegra.ph/file/a068d51fb65b6add59494.jpg",
+        "https://telegra.ph/file/db57f46cdca453bb1674e.jpg",
+        "https://telegra.ph/file/faaba30051cc5bb14f459.jpg",
+        "https://telegra.ph/file/9b277f2bd1d9031d1eccf.jpg",
+        "https://telegra.ph/file/74725a5ae71e508755271.jpg",
+        "https://telegra.ph/file/e7b22e13ababd687f402a.jpg",
+        "https://telegra.ph/file/771ebe6b7d64f487ac365.jpg",
+        "https://telegra.ph/file/0bf1ae43623e3b50ac187.jpg",
+        "https://telegra.ph/file/5e0ed283f4ffbe302f0a0.jpg",
+        "https://telegra.ph/file/e46bafebf53e99ee5ff3d.jpg",
+        "https://telegra.ph/file/76ffddef428ab7134634b.jpg",
+        "https://telegra.ph/file/f4a72321ff3f653afa6c1.jpg",
+        "https://telegra.ph/file/51bd57ee0237771b6da33.jpg",
+        "https://telegra.ph/file/ef0191c6aa669bd04d09e.jpg"
+    ]
+};

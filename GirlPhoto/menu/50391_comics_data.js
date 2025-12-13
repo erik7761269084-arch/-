@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 50391,
+    "title": "星之迟迟 - 2024年08月计划D 碧蓝航线 恰巴耶夫 礼服 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟---2024年08月计划D-碧蓝航线-恰巴耶夫-礼服---Page-1-05-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJVoFRLLOej331IxCclPf0lgAAG1RI4AAqoSAALaibBUlU7-VofNq8o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJZoFRLMjnlDJuv95sju_cCKahREXQACqxIAAtqJsFTCLqCpbTebYTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJdoFRLOMo4qJCeszX-lH9ez_KC9fgACrBIAAtqJsFSptOXaqDEmGTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJloFRLQrmDfGB09OOm2CMolG2ef2gACrhIAAtqJsFTEPdLwElznbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJtoFRLR3BKOxT47O29b32a7wKs1ygACsBIAAtqJsFS9YM9fu5EAAf42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLJ5oFRLWhSvDmwqPE53Tf4qE97skRgACsxIAAtqJsFQtiLCtkXEH4jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKBoFRLYMPHQvalMPMMHG82wbPSR7wACtRIAAtqJsFRr7V51Hsge1TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKJoFRLaJKPulQIqwWCU-5V9Q03IHQACtxIAAtqJsFSl1mAGekOXjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKRoFRLdYRvGSoThuzFRyMvQuruHMQACuRIAAtqJsFRj1WwyYXMtcDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKZoFRLfQtM997nOLc3rYxBoU0Nw8AACuxIAAtqJsFQ8pK25f6aoLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKhoFRLjpwiTAwleCAGMWiwELr-ErwACvRIAAtqJsFTp-6474dnPnDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLKpoFRMjbblQrr6-xSh_RrgKG0eBxAACvxIAAtqJsFQKt3v673KFEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLK1oFRMkPQzOJX__6jLWNrBBX_5DMAACwRIAAtqJsFRuK4Qv_CIXgzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLK9oFRMquGpGyqFjbtOh5njLcEXx9AACwxIAAtqJsFTNNDFD7mgJozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLFoFRMrjZh7igEp7UkYVUyb0dtkPAACxRIAAtqJsFRLVrOoa41IBTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLNoFRMwkiZj1gJ2RaPeAWw8o9IOGQACxxIAAtqJsFTMdwh3oP4hsjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLZoFRMyPEME0-aPz_fpxpe_fuwUQgACyhIAAtqJsFTCSeq53SvBmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLhoFRM3OS39EEeTzZvi82usRHDr4gACzBIAAtqJsFTKvNuJIZRCYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLpoFRM5SYWl0lA3N46evPJcsnLsbQACzhIAAtqJsFRRGlIAASIZpmw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLLxoFRM6R2d-TwUMfwbI3bz1wwRW8wAC0BIAAtqJsFRHxCUSHECKFDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLMdoFROFOgnFon7OvypQBYggemPuTQAC2xIAAtqJsFTBYmqttQrkpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLMloFROGM1GMTA-dfWcwniSnZTsungAC3RIAAtqJsFR16HoKGwLAaDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLMtoFROLbv58p6wshefQssjmOiev1gAC3xIAAtqJsFTze_Fa7Ne8DzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLMxoFROMQLuNJDSgB93KgWtHlI1tqAAC4BIAAtqJsFQs1tPOOKz8sjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKLM5oFRONPsc9TYsrMpD2sFeUE9SFsQAC4hIAAtqJsFRban359-fbTDYE"
+    ]
+};

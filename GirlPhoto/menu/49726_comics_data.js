@@ -1,0 +1,28 @@
+const comicData = {
+    "IDcode": 49726,
+    "title": "桜满三时 - 绝区零 艾莲乔 女仆比基尼 - Page 1",
+    "sourceUrl": "https://telegra.ph/桜满三时---绝区零-艾莲乔-女仆比基尼---Page-1-02-08",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJBnpzVVK_LLtly8xbHha8RW5q0YsQACGB4AAlT9OVXig4HGjxcMJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJFnpzVWpUgjcg7DeA4tZuVVksMVnwACGR4AAlT9OVUyrdacNxPrBTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJJnpzVY1agcMGbeU9o5iVWWY99ZCAACGh4AAlT9OVV8i2lFuP_qmzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJNnpzVaYDfSGsxZ1du-ds-tZcdNugACGx4AAlT9OVXw_WkEAAEnCmE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJRnpzVcX-ZXyXix0m30LUDEAgKEFQACHB4AAlT9OVU459gKsj_FgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJVnpzVdV-qorc52mpa8AAHxnWztXCgAAh0eAAJU_TlVMZHw17_7u5E2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJZnpzVfsB3XZ98s8dBr30VMa008EAACHh4AAlT9OVXxcDsIcaFVLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJdnpzVhEemBuiW3VnxYk3pF7cE_NQACHx4AAlT9OVVJNaNOP43uSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJhnpzViSuwGbJR7z0-6KR84uEaePwACIB4AAlT9OVVSUShprocp0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJlnpzVkHgaxEeur8oBXNw_g1M7L7QACIR4AAlT9OVW4BqlGjVaqJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJpnpzVl2PJdGry20OO_QcfyhIDgnAACIh4AAlT9OVWxnRZ8X5B18jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJtnpzVoSoDO7UtRh5VVjXPPXciNkgACIx4AAlT9OVVc5gZsV59kUjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJxnpzVqWCt6G4JuN9I7U4NmZpAvcgACJB4AAlT9OVUylTQKAqG_DzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJ1npzVrlvalA3Sl1aW7BUDgZGcB6wACJR4AAlT9OVUPaUth5D4uiTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJ5npzVtiJv47BGVgsFYh63yhfvX0QACJh4AAlT9OVVrGOP98cp2ZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJ9npzVv-OEbXHxlgsQvmNzzj-OlXgACJx4AAlT9OVWXsOPK3YXV1zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUKBnpzVxE6AKFwOyllEj1QZpXi1vlAACKB4AAlT9OVXWfp22JENpyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUKFnpzVy7HcLKwH8TIcHs1J--tsKVgACKR4AAlT9OVX0xaXEuMtWBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUKJnpzV0oz4fvE4XZ7PQpzFmnuf44AACKh4AAlT9OVWCV_h2cVpDyTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUKNnpzV2r0gzFV4x3AEK6aTB8ekO4gACKx4AAlT9OVVkUzM-b83HTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUKRnpzW2eNTV-fQfgGNbvy1OPYIp6wACLB4AAlT9OVVCzgYDI5ZiqDYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48744,
+    "title": "QUEENIE CHUPPY - Chun-Li - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---Chun-Li---Page-1-08-25",
+    "images": [
+        "https://telegra.ph/file/a995d4ef1ad58769720de.jpg",
+        "https://telegra.ph/file/7d7ce4a5a447dd2393cf3.jpg",
+        "https://telegra.ph/file/13df1358acf93df687be8.jpg",
+        "https://telegra.ph/file/a8390bcd1f1f2db62e068.jpg",
+        "https://telegra.ph/file/3c3d29b72ff2295c681be.jpg",
+        "https://telegra.ph/file/44607c0a14f3a8dc46f3f.jpg",
+        "https://telegra.ph/file/943632ae9ac20f6468242.jpg",
+        "https://telegra.ph/file/f591381d7355ff9de0ded.jpg",
+        "https://telegra.ph/file/7ea25bfdecc5d7a9b139a.jpg",
+        "https://telegra.ph/file/2acfc94a2814577d91e9a.jpg",
+        "https://telegra.ph/file/f1d68aa3186a69f62da56.jpg",
+        "https://telegra.ph/file/ff9485d9c76021f894917.jpg",
+        "https://telegra.ph/file/79bea9ad8a1ac3e7b1b1a.jpg",
+        "https://telegra.ph/file/971102a5ada91dd8ae059.jpg",
+        "https://telegra.ph/file/05a003ac4e009583935e5.jpg",
+        "https://telegra.ph/file/6f9c91069cc65defd8718.jpg",
+        "https://telegra.ph/file/a11d8ebf16953d2ff744a.jpg",
+        "https://telegra.ph/file/520489cb18f764cb78556.jpg",
+        "https://telegra.ph/file/68430828761bc6d70e8f6.jpg",
+        "https://telegra.ph/file/a94cb6d6f5965559106c8.jpg",
+        "https://telegra.ph/file/a0cfaaf51a63dc197e375.jpg",
+        "https://telegra.ph/file/1764ce3aa4296232b0ab0.jpg",
+        "https://telegra.ph/file/c59177278becc3bc9eff1.jpg",
+        "https://telegra.ph/file/8ec775031609d17d823b6.jpg",
+        "https://telegra.ph/file/4f58cb443a0ec72881d15.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47325,
+    "title": "Danielle Beaulieu - Glaceon - Page 1",
+    "sourceUrl": "https://telegra.ph/Danielle-Beaulieu---Glaceon---Page-1-03-22",
+    "images": [
+        "https://telegra.ph/file/c5742d9d1d72d8dfb094a.jpg",
+        "https://telegra.ph/file/f72c6deaf5b06b5721ecf.jpg",
+        "https://telegra.ph/file/a1d85743a6f7cdfa20467.jpg",
+        "https://telegra.ph/file/c84ba742b6fce9ad10c0f.jpg",
+        "https://telegra.ph/file/39370d1e333394d5a1b0b.jpg",
+        "https://telegra.ph/file/8a404142107dcb6835136.jpg",
+        "https://telegra.ph/file/b4781ad6ada0511c35407.jpg",
+        "https://telegra.ph/file/95c11a15faa0e4b7b4c77.jpg",
+        "https://telegra.ph/file/7a08745210f7797d3a26a.jpg",
+        "https://telegra.ph/file/db958b61e513d277811a7.jpg",
+        "https://telegra.ph/file/5c7b2a65252963ab5b63e.jpg",
+        "https://telegra.ph/file/67badd2b52c3cd0fb81c7.jpg",
+        "https://telegra.ph/file/61be1a0704ef147cd47fa.jpg",
+        "https://telegra.ph/file/ed70ce062e83000c73fb3.jpg",
+        "https://telegra.ph/file/10eb656bfffd1b1fe96d3.jpg",
+        "https://telegra.ph/file/b368f3c77947bd0deb485.jpg",
+        "https://telegra.ph/file/623d871c903f8a582629e.jpg",
+        "https://telegra.ph/file/f71294b3bbc07cef4fd25.jpg",
+        "https://telegra.ph/file/2eefbfcc17062829519a9.jpg",
+        "https://telegra.ph/file/4d4a6e4406c8c24ee421f.jpg",
+        "https://telegra.ph/file/b1f1149715f691478c8c9.jpg",
+        "https://telegra.ph/file/cf1a1c5d9ff7ad074212c.jpg",
+        "https://telegra.ph/file/80bfb3a0a0aa858a15f30.jpg"
+    ]
+};

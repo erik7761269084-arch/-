@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49496,
+    "title": "钛合金TiTi - 帕瓦 - Page 1",
+    "sourceUrl": "https://telegra.ph/钛合金TiTi---帕瓦---Page-1-01-27",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrVnl_Rr_5l3enYBgRtWSSw_Rdl0vQACSRkAAilOwFSdAoAlXBYLjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrZnl_RtEpFnNRyx8DzLhdpRQnA32QACShkAAilOwFQlmNeE5G3AEjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrdnl_RvmybUSPX_THOy5B1XQWH_xQACSxkAAilOwFQmf36Pb_2duTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrhnl_RxPrDiY2JJ_KvoesU0MkbHVgACTBkAAilOwFRhLm22gF0rXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrlnl_R1UnL29qQSVa1S5Dq9JCHz7gACTRkAAilOwFQG3PFgmCHI_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrpnl_R2Of7kLTJaV7xsZedx8jKFEAACThkAAilOwFQYx9pWx-XYwzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrtnl_R4EHsWjC5Fr6auhVhA2HItuAACTxkAAilOwFRJbF72hlPt0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcrxnl_R6GEadA-Itgq9giIWMlJOb7AACUBkAAilOwFS4gI1PvjpKRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcr1nl_R72lpsL9AIsyhGRxUCKFniKwACURkAAilOwFQ6cBzpHdrIBTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcr5nl_R9VQdQ6icZcVaFrTVQHXNangACUhkAAilOwFTJfQSVueWN2jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcr9nl_R-83jobZglHGafQsWFm4LX4QACUxkAAilOwFTtUOoMnNwonDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsBnl_SAXXNG_miEq_YRoCtB7PXlbAACVBkAAilOwFRzbU9b9v8m0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsFnl_SBtla4jLmKgrs2XUJQbAOAlQACVRkAAilOwFREsmed3HkmyTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsJnl_SDMgOrDE414gofIwVpweQVgAACVhkAAilOwFQbCDdnezF6sTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsRnl_SE6LIXR7sVmXauDNfywd3tPAACWBkAAilOwFTNe25hyPtq4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsZnl_SH67HBAAHQA5GmzHYtyKf6WSkAAloZAAIpTsBUyE-Wm6Z0RKE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcshnl_SKHizrkJNioWSzSaWndsNagwACXBkAAilOwFR9Z3B0Ym1vQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcspnl_TJjkfq7OQxYoeEqjg3pqtRGwACXhkAAilOwFTfJatVEypd9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcsxnl_TLvfqA3Xpx95iBdIoh8KL4NgACYBkAAilOwFSe53WsFSq-FDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEcs9nl_TM4_FrqbXEkJlfbkLndnZgRAACYxkAAilOwFR4VWITIwABDeU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEctFnl_TODU7ZwEJP09uhhrBnnasHIwACZRkAAilOwFSE-UkpRnZcEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEctJnl_TQQzpbLG9WXoT4Ce1FIKL1pwACZhkAAilOwFSEuCjLofbT0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEctNnl_TR8XrU7luRRc2Ki0Y2DI5vQgACZxkAAilOwFTfBTnqYC49lzYE"
+    ]
+};

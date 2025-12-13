@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46770,
+    "title": "星之迟迟 Centaur Bikini - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-Centaur-Bikini---Page-1-01-31",
+    "images": [
+        "https://telegra.ph/file/de87a8c7c4ad3a5b7a1d9.jpg",
+        "https://telegra.ph/file/95bc8a22ac181a06c4909.jpg",
+        "https://telegra.ph/file/0b44f86cde0dd07ad863b.jpg",
+        "https://telegra.ph/file/a501167747d00fc33a72c.jpg",
+        "https://telegra.ph/file/fab9374a785fe5991da37.jpg",
+        "https://telegra.ph/file/a47c8102f1552677407f9.jpg",
+        "https://telegra.ph/file/d269fe5844b9fdc955c8e.jpg",
+        "https://telegra.ph/file/c624b26373f66d9a7d987.jpg",
+        "https://telegra.ph/file/256458b74c0698dbf3984.jpg",
+        "https://telegra.ph/file/7b62965712eaf278b38f3.jpg",
+        "https://telegra.ph/file/649ea200bdbe4eca7d495.jpg",
+        "https://telegra.ph/file/c732a066a1a0e9f4016b6.jpg",
+        "https://telegra.ph/file/4aeff4f963c2e451ff04e.jpg",
+        "https://telegra.ph/file/31f3adfff18f5c4eed066.jpg",
+        "https://telegra.ph/file/98e04c21f955a0334ebdd.jpg",
+        "https://telegra.ph/file/1edf7781fe18a4ddb325d.jpg",
+        "https://telegra.ph/file/adb649bda2a6eb467ae1c.jpg",
+        "https://telegra.ph/file/6f303f2d824a52d03b5f1.jpg",
+        "https://telegra.ph/file/3581d4e304c2c093b3dca.jpg",
+        "https://telegra.ph/file/ceb37ad20b3a3493eccae.jpg",
+        "https://telegra.ph/file/896b1c91751d4d2e88eca.jpg",
+        "https://telegra.ph/file/09fa9481c05611f43426e.jpg",
+        "https://telegra.ph/file/413bdce6dfe4b8d62967c.jpg",
+        "https://telegra.ph/file/e0b9e03d58535d6cee26b.jpg",
+        "https://telegra.ph/file/6b4fc29111bce3aa2b613.jpg"
+    ]
+};

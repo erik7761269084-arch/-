@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47201,
+    "title": "QQueen -  Sirius - Page 1",
+    "sourceUrl": "https://telegra.ph/QQueen---Sirius---Page-1-03-10",
+    "images": [
+        "https://telegra.ph/file/963438b94834b3e7d1d88.jpg",
+        "https://telegra.ph/file/554c33275a8956311be96.jpg",
+        "https://telegra.ph/file/cb2d3c3d3efa08a9c54b8.jpg",
+        "https://telegra.ph/file/3ec04737083a3e204c794.jpg",
+        "https://telegra.ph/file/0bc8e0f276fad2e05d9ee.jpg",
+        "https://telegra.ph/file/5e991987ab8728e5f83e7.jpg",
+        "https://telegra.ph/file/cff8d247ddf80a3473e24.jpg",
+        "https://telegra.ph/file/79b7f323bfe2a0ab2df7e.jpg",
+        "https://telegra.ph/file/7cc98436912f478f3dcf9.jpg",
+        "https://telegra.ph/file/4ae2f3d72293af160c1a4.jpg",
+        "https://telegra.ph/file/ba6ffe417c0c71b93a103.jpg",
+        "https://telegra.ph/file/9be051a8594a7a2c42f4b.jpg",
+        "https://telegra.ph/file/ad06b6f61c54a053e5d60.jpg",
+        "https://telegra.ph/file/94eb44c83bd0308d356d3.jpg",
+        "https://telegra.ph/file/2cfd47032da7fa192c486.jpg",
+        "https://telegra.ph/file/f41a6daba94d27ed8e1b3.jpg",
+        "https://telegra.ph/file/27746c7f8612cb8f8b314.jpg",
+        "https://telegra.ph/file/a479c8f2777c7bc9ab11b.jpg",
+        "https://telegra.ph/file/4a5c16967fd0eb9432007.jpg",
+        "https://telegra.ph/file/02f8960a1d6f3033240fc.jpg",
+        "https://telegra.ph/file/6b2ea3afc5623117bdb3f.jpg",
+        "https://telegra.ph/file/5c3ca1c332a8f6a903be1.jpg",
+        "https://telegra.ph/file/d8f24c354a29115a368e8.jpg",
+        "https://telegra.ph/file/ece966f408a2406e3a245.jpg",
+        "https://telegra.ph/file/04abbf9f747993d7a58c0.jpg"
+    ]
+};

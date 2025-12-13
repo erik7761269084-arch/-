@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50895,
+    "title": "Sameki - Blue Archive Mari - Page 1",
+    "sourceUrl": "https://telegra.ph/Sameki---Blue-Archive-Mari---Page-1-08-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLVopeLG3xwvmXTvm11NbwXnkFLsiwAC9xkAApgrMVWYHE0ifkq0cjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLZopeLHzwnPMM2vyFRgGupkVuSd5wAC-BkAApgrMVU_0sV05ZAj3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLdopeLJjpEdOoKKiG18qtrc1G8qNAAC-RkAApgrMVUDTYg6j8E0HTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLhopeLMtYHc-ocv2dyLz1TYBdNB9wAC-hkAApgrMVURL5tExjRGvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLlopeLOS7oBr_HX9S_6s99RmAowSgAC-xkAApgrMVVwdIGoQ04H4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLpopeLPnpNS4_V4wc6KIUy5TiME-gAC_BkAApgrMVUEfDqAXuV2vjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLtopeLRfD8_FdYKlLwYiWbjmzJepAAC_RkAApgrMVVear3xFfnQjTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyLxopeLS9T19g4PYjHslI758IT6a7wAC_hkAApgrMVWdcg9iVmIFMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyL1opeLUjpQzRZ3c-Pu2ZExVn-N-ZwAC_xkAApgrMVU2nbPhLpl-2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyL5opeLV52MLFSJqYCD9WBqOS39kowADGgACmCsxVUaNjFB-bY6QNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyL9opeLXaiEcM0gpkKJzZmbFrxIoaQACARoAApgrMVUk8ZARWJ0iNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMBopeLZzGK-zuPssZ9is1FnXwaxjwACAhoAApgrMVVrryJX3KXiajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMFopeLbKvgcgVzOKYWxZXuUR_rXBgACAxoAApgrMVXDVtCl8eMczjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMJopeLdngQEBkNFD3hcgA1ttEOthwACBBoAApgrMVXcdvuhWePTnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMNopeLgimxEM1MiI2fxhQdiv9rZrgACBRoAApgrMVVLJmzNNzUBpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMRopeLiHA3LooHOeUZEi0LTdEF1HQACBhoAApgrMVUy1hKWQE_CGjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMVopeLjgu-8_3rXmzetiPzNqC1aGQACBxoAApgrMVV7nKOWS7tsVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMZopeLkdbE_8oUOJ2y4IMOxZW8fRAACCBoAApgrMVU6qCkU5MtEKjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMdopeLm63kCi7HUHjo4p5_Ce39fBAACCRoAApgrMVXY1Dcv6xA9_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMhopeLnOC467pLkVvRzJPIEieIlNgACChoAApgrMVXFnP9qQkQqRzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMlopeLoKlSXaZgFscJM8_tSPf6_IwACDBoAApgrMVV_EJ4pYyDM7jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMpopeLqeDW_A-5-vQYdeJZ0ZeOulgACDRoAApgrMVXWkkKEo7SoLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMtopeLsrVGFWyzvF6cmnsnI296OlgACDhoAApgrMVVZmEzDVZTAdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPyMxopeMstahd0TwjRGkGQwdU29doAAMRGgACmCsxVXnpp8K1B-kdNgQ"
+    ]
+};
