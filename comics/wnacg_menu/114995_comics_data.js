@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 114995,
+    "title": "[なぐるふぁる] セレブ人妻接吻絶頂子宮堕ち (ANGEL 倶楽部 2019年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114995.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1149/95/01.jpg",
+        "https://img3.qy0.ru/data/1149/95/02.jpg",
+        "https://img3.qy0.ru/data/1149/95/03.jpg",
+        "https://img3.qy0.ru/data/1149/95/04.jpg",
+        "https://img3.qy0.ru/data/1149/95/05.jpg",
+        "https://img3.qy0.ru/data/1149/95/06.jpg",
+        "https://img3.qy0.ru/data/1149/95/07.jpg",
+        "https://img3.qy0.ru/data/1149/95/08.jpg",
+        "https://img3.qy0.ru/data/1149/95/09.jpg",
+        "https://img3.qy0.ru/data/1149/95/10.jpg",
+        "https://img3.qy0.ru/data/1149/95/11.jpg",
+        "https://img3.qy0.ru/data/1149/95/12.jpg",
+        "https://img3.qy0.ru/data/1149/95/13.jpg",
+        "https://img3.qy0.ru/data/1149/95/14.jpg",
+        "https://img3.qy0.ru/data/1149/95/15.jpg",
+        "https://img3.qy0.ru/data/1149/95/16.jpg",
+        "https://img3.qy0.ru/data/1149/95/17.jpg",
+        "https://img3.qy0.ru/data/1149/95/18.jpg",
+        "https://img3.qy0.ru/data/1149/95/19.jpg",
+        "https://img3.qy0.ru/data/1149/95/20.jpg",
+        "https://img3.qy0.ru/data/1149/95/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

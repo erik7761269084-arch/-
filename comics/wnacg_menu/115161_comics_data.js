@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115161,
+    "title": "[六壱] 璃凜さんのナイショの貌と大事なお部屋 (コミックホットミルク 2018年7月号) [無邪気漢化組] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115161.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1151/61/01.jpg",
+        "https://img3.qy0.ru/data/1151/61/02.jpg",
+        "https://img3.qy0.ru/data/1151/61/03.jpg",
+        "https://img3.qy0.ru/data/1151/61/04.jpg",
+        "https://img3.qy0.ru/data/1151/61/05.jpg",
+        "https://img3.qy0.ru/data/1151/61/06.jpg",
+        "https://img3.qy0.ru/data/1151/61/07.jpg",
+        "https://img3.qy0.ru/data/1151/61/08.jpg",
+        "https://img3.qy0.ru/data/1151/61/09.jpg",
+        "https://img3.qy0.ru/data/1151/61/10.jpg",
+        "https://img3.qy0.ru/data/1151/61/11.jpg",
+        "https://img3.qy0.ru/data/1151/61/12.jpg",
+        "https://img3.qy0.ru/data/1151/61/13.jpg",
+        "https://img3.qy0.ru/data/1151/61/14.jpg",
+        "https://img3.qy0.ru/data/1151/61/15.jpg",
+        "https://img3.qy0.ru/data/1151/61/16.jpg",
+        "https://img3.qy0.ru/data/1151/61/17.jpg",
+        "https://img3.qy0.ru/data/1151/61/18.jpg",
+        "https://img3.qy0.ru/data/1151/61/19.jpg",
+        "https://img3.qy0.ru/data/1151/61/20.jpg",
+        "https://img3.qy0.ru/data/1151/61/21.jpg",
+        "https://img3.qy0.ru/data/1151/61/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

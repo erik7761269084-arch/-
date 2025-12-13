@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114978,
+    "title": "[不可视汉化] [Digital] [DHA] 選ばれしボクっ子勇者 ～魔族の肉便器に堕つ～",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114978.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1149/78/01.jpg",
+        "https://img3.qy0.ru/data/1149/78/02.jpg",
+        "https://img3.qy0.ru/data/1149/78/03.jpg",
+        "https://img3.qy0.ru/data/1149/78/04.jpg",
+        "https://img3.qy0.ru/data/1149/78/05.jpg",
+        "https://img3.qy0.ru/data/1149/78/06.jpg",
+        "https://img3.qy0.ru/data/1149/78/07.jpg",
+        "https://img3.qy0.ru/data/1149/78/08.jpg",
+        "https://img3.qy0.ru/data/1149/78/09.jpg",
+        "https://img3.qy0.ru/data/1149/78/10.jpg",
+        "https://img3.qy0.ru/data/1149/78/11.jpg",
+        "https://img3.qy0.ru/data/1149/78/12.jpg",
+        "https://img3.qy0.ru/data/1149/78/13.jpg",
+        "https://img3.qy0.ru/data/1149/78/14.jpg",
+        "https://img3.qy0.ru/data/1149/78/15.jpg",
+        "https://img3.qy0.ru/data/1149/78/16.jpg",
+        "https://img3.qy0.ru/data/1149/78/17.jpg",
+        "https://img3.qy0.ru/data/1149/78/18.jpg",
+        "https://img3.qy0.ru/data/1149/78/19.jpg",
+        "https://img3.qy0.ru/data/1149/78/20.jpg",
+        "https://img3.qy0.ru/data/1149/78/21.jpg",
+        "https://img3.qy0.ru/data/1149/78/22.jpg",
+        "https://img3.qy0.ru/data/1149/78/23.jpg",
+        "https://img3.qy0.ru/data/1149/78/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

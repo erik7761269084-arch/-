@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116400,
+    "title": "[全自動公衆便女♂] 父息子揃ってメス堕ちホモ奴隷",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116400.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1164/00/01.jpg",
+        "https://img3.qy0.ru/data/1164/00/02.jpg",
+        "https://img3.qy0.ru/data/1164/00/03.jpg",
+        "https://img3.qy0.ru/data/1164/00/04.jpg",
+        "https://img3.qy0.ru/data/1164/00/05.jpg",
+        "https://img3.qy0.ru/data/1164/00/06.jpg",
+        "https://img3.qy0.ru/data/1164/00/07.jpg",
+        "https://img3.qy0.ru/data/1164/00/08.jpg",
+        "https://img3.qy0.ru/data/1164/00/09.jpg",
+        "https://img3.qy0.ru/data/1164/00/10.jpg",
+        "https://img3.qy0.ru/data/1164/00/11.jpg",
+        "https://img3.qy0.ru/data/1164/00/12.jpg",
+        "https://img3.qy0.ru/data/1164/00/13.jpg",
+        "https://img3.qy0.ru/data/1164/00/14.jpg",
+        "https://img3.qy0.ru/data/1164/00/15.jpg",
+        "https://img3.qy0.ru/data/1164/00/16.jpg",
+        "https://img3.qy0.ru/data/1164/00/17.jpg",
+        "https://img3.qy0.ru/data/1164/00/18.jpg",
+        "https://img3.qy0.ru/data/1164/00/19.jpg",
+        "https://img3.qy0.ru/data/1164/00/20.jpg",
+        "https://img3.qy0.ru/data/1164/00/21.jpg",
+        "https://img3.qy0.ru/data/1164/00/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

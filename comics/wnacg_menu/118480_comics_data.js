@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 118480,
+    "title": "[藤坂リリック] 環菜と成長期 (COMIC LO 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118480.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1184/80/000.png",
+        "https://img3.qy0.ru/data/1184/80/001.png",
+        "https://img3.qy0.ru/data/1184/80/002.png",
+        "https://img3.qy0.ru/data/1184/80/003.png",
+        "https://img3.qy0.ru/data/1184/80/004.png",
+        "https://img3.qy0.ru/data/1184/80/005.png",
+        "https://img3.qy0.ru/data/1184/80/006.png",
+        "https://img3.qy0.ru/data/1184/80/007.png",
+        "https://img3.qy0.ru/data/1184/80/008.png",
+        "https://img3.qy0.ru/data/1184/80/009.png",
+        "https://img3.qy0.ru/data/1184/80/010.png",
+        "https://img3.qy0.ru/data/1184/80/011.png",
+        "https://img3.qy0.ru/data/1184/80/012.png",
+        "https://img3.qy0.ru/data/1184/80/013.png",
+        "https://img3.qy0.ru/data/1184/80/014.png",
+        "https://img3.qy0.ru/data/1184/80/015.png",
+        "https://img3.qy0.ru/data/1184/80/016.png",
+        "https://img3.qy0.ru/data/1184/80/017.png",
+        "https://img3.qy0.ru/data/1184/80/018.png",
+        "https://img3.qy0.ru/data/1184/80/019.png",
+        "https://img3.qy0.ru/data/1184/80/020.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

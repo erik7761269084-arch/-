@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118038,
+    "title": "[瑞树汉化组] [RED-RUM] Ms.Brother (Mシチュマガジン vol.2 2021年春号)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118038.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1180/38/00.jpg",
+        "https://img3.qy0.ru/data/1180/38/01.jpg",
+        "https://img3.qy0.ru/data/1180/38/02.jpg",
+        "https://img3.qy0.ru/data/1180/38/03.jpg",
+        "https://img3.qy0.ru/data/1180/38/04.jpg",
+        "https://img3.qy0.ru/data/1180/38/05.jpg",
+        "https://img3.qy0.ru/data/1180/38/06.jpg",
+        "https://img3.qy0.ru/data/1180/38/07.jpg",
+        "https://img3.qy0.ru/data/1180/38/08.jpg",
+        "https://img3.qy0.ru/data/1180/38/09.jpg",
+        "https://img3.qy0.ru/data/1180/38/10.jpg",
+        "https://img3.qy0.ru/data/1180/38/11.jpg",
+        "https://img3.qy0.ru/data/1180/38/12.jpg",
+        "https://img3.qy0.ru/data/1180/38/13.jpg",
+        "https://img3.qy0.ru/data/1180/38/14.jpg",
+        "https://img3.qy0.ru/data/1180/38/15.jpg",
+        "https://img3.qy0.ru/data/1180/38/16.jpg",
+        "https://img3.qy0.ru/data/1180/38/17.jpg",
+        "https://img3.qy0.ru/data/1180/38/18.jpg",
+        "https://img3.qy0.ru/data/1180/38/19.jpg",
+        "https://img3.qy0.ru/data/1180/38/20.jpg",
+        "https://img3.qy0.ru/data/1180/38/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

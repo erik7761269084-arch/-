@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116938,
+    "title": "[針金紳士] ホントの姿は見せられないっ! 前編 (コミックアンリアル 2021年4月号 Vol.90) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116938.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1169/38/000.jpg",
+        "https://img3.qy0.ru/data/1169/38/001.jpg",
+        "https://img3.qy0.ru/data/1169/38/002.jpg",
+        "https://img3.qy0.ru/data/1169/38/003.jpg",
+        "https://img3.qy0.ru/data/1169/38/004.jpg",
+        "https://img3.qy0.ru/data/1169/38/005.jpg",
+        "https://img3.qy0.ru/data/1169/38/006.jpg",
+        "https://img3.qy0.ru/data/1169/38/007.jpg",
+        "https://img3.qy0.ru/data/1169/38/008.jpg",
+        "https://img3.qy0.ru/data/1169/38/009.jpg",
+        "https://img3.qy0.ru/data/1169/38/010.jpg",
+        "https://img3.qy0.ru/data/1169/38/011.jpg",
+        "https://img3.qy0.ru/data/1169/38/012.jpg",
+        "https://img3.qy0.ru/data/1169/38/013.jpg",
+        "https://img3.qy0.ru/data/1169/38/014.jpg",
+        "https://img3.qy0.ru/data/1169/38/015.jpg",
+        "https://img3.qy0.ru/data/1169/38/016.jpg",
+        "https://img3.qy0.ru/data/1169/38/017.jpg",
+        "https://img3.qy0.ru/data/1169/38/018.jpg",
+        "https://img3.qy0.ru/data/1169/38/019.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1169/38/16173776756081.jpg",
+        "https://img3.qy0.ru/data/1169/38/16173776798366.jpg",
+        "https://img3.qy0.ru/data/1169/38/16173776850345.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116976,
+    "title": "[星野竜一] 催眠ネトラレ妻 はるか 第4話 [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116976.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1169/76/02_030.jpg",
+        "https://img3.qy0.ru/data/1169/76/01_030.jpg",
+        "https://img3.qy0.ru/data/1169/76/03_031.jpg",
+        "https://img3.qy0.ru/data/1169/76/04_032.jpg",
+        "https://img3.qy0.ru/data/1169/76/05_033.jpg",
+        "https://img3.qy0.ru/data/1169/76/06_034.jpg",
+        "https://img3.qy0.ru/data/1169/76/07_035.jpg",
+        "https://img3.qy0.ru/data/1169/76/08_036.jpg",
+        "https://img3.qy0.ru/data/1169/76/09_037.jpg",
+        "https://img3.qy0.ru/data/1169/76/10_038.jpg",
+        "https://img3.qy0.ru/data/1169/76/11_039.jpg",
+        "https://img3.qy0.ru/data/1169/76/12_040.jpg",
+        "https://img3.qy0.ru/data/1169/76/13_041.jpg",
+        "https://img3.qy0.ru/data/1169/76/14_042.jpg",
+        "https://img3.qy0.ru/data/1169/76/15_043.jpg",
+        "https://img3.qy0.ru/data/1169/76/16_044.jpg",
+        "https://img3.qy0.ru/data/1169/76/17_045.jpg",
+        "https://img3.qy0.ru/data/1169/76/18_046.jpg",
+        "https://img3.qy0.ru/data/1169/76/19_047.jpg",
+        "https://img3.qy0.ru/data/1169/76/20_048.jpg",
+        "https://img3.qy0.ru/data/1169/76/21_049.jpg",
+        "https://img3.qy0.ru/data/1169/76/22_050.jpg",
+        "https://img3.qy0.ru/data/1169/76/23_51.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

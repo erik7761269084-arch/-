@@ -1,0 +1,25 @@
+const comicData = {
+    "IDcode": 115711,
+    "title": "[楝蛙] ねんかく (おもちかえり) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115711.html",
+    "totalPages": 17,
+    "images": [
+        "https://img3.qy0.ru/data/1157/11/P113.jpg",
+        "https://img3.qy0.ru/data/1157/11/P114.jpg",
+        "https://img3.qy0.ru/data/1157/11/P115.jpg",
+        "https://img3.qy0.ru/data/1157/11/P116.jpg",
+        "https://img3.qy0.ru/data/1157/11/P117.jpg",
+        "https://img3.qy0.ru/data/1157/11/P118.jpg",
+        "https://img3.qy0.ru/data/1157/11/P119.jpg",
+        "https://img3.qy0.ru/data/1157/11/P120.jpg",
+        "https://img3.qy0.ru/data/1157/11/P121.jpg",
+        "https://img3.qy0.ru/data/1157/11/P122.jpg",
+        "https://img3.qy0.ru/data/1157/11/P123.jpg",
+        "https://img3.qy0.ru/data/1157/11/P124.jpg",
+        "https://img3.qy0.ru/data/1157/11/P125.jpg",
+        "https://img3.qy0.ru/data/1157/11/P126.jpg",
+        "https://img3.qy0.ru/data/1157/11/P127.jpg",
+        "https://img3.qy0.ru/data/1157/11/P128.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

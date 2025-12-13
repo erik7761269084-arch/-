@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 117112,
+    "title": "[Haitokukan] Hypnosis Quest 02 催眠探索 02 (COMIC X-EROS 85) [Chinese] [暴碧汉化组] [Digital]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117112.html",
+    "totalPages": 33,
+    "images": [
+        "https://img3.qy0.ru/data/1171/12/01.jpg",
+        "https://img3.qy0.ru/data/1171/12/02.jpg",
+        "https://img3.qy0.ru/data/1171/12/03.jpg",
+        "https://img3.qy0.ru/data/1171/12/04.jpg",
+        "https://img3.qy0.ru/data/1171/12/05.jpg",
+        "https://img3.qy0.ru/data/1171/12/06.jpg",
+        "https://img3.qy0.ru/data/1171/12/07.jpg",
+        "https://img3.qy0.ru/data/1171/12/08.jpg",
+        "https://img3.qy0.ru/data/1171/12/09.jpg",
+        "https://img3.qy0.ru/data/1171/12/10.jpg",
+        "https://img3.qy0.ru/data/1171/12/11.jpg",
+        "https://img3.qy0.ru/data/1171/12/12.jpg",
+        "https://img3.qy0.ru/data/1171/12/13.jpg",
+        "https://img3.qy0.ru/data/1171/12/14.jpg",
+        "https://img3.qy0.ru/data/1171/12/15.jpg",
+        "https://img3.qy0.ru/data/1171/12/16.jpg",
+        "https://img3.qy0.ru/data/1171/12/17.jpg",
+        "https://img3.qy0.ru/data/1171/12/18.jpg",
+        "https://img3.qy0.ru/data/1171/12/19.jpg",
+        "https://img3.qy0.ru/data/1171/12/20.jpg",
+        "https://img3.qy0.ru/data/1171/12/21.jpg",
+        "https://img3.qy0.ru/data/1171/12/22.jpg",
+        "https://img3.qy0.ru/data/1171/12/23.jpg",
+        "https://img3.qy0.ru/data/1171/12/24.jpg"
+    ]
+};

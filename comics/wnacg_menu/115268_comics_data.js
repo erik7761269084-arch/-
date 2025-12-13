@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 115268,
+    "title": "[しょむ] 性奴隷の作り方 (壁に埋め込まれた少女で性欲処理 Vol.2) [黑条汉化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115268.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1152/68/01.jpg",
+        "https://img3.qy0.ru/data/1152/68/02.jpg",
+        "https://img3.qy0.ru/data/1152/68/03.jpg",
+        "https://img3.qy0.ru/data/1152/68/04.jpg",
+        "https://img3.qy0.ru/data/1152/68/05.jpg",
+        "https://img3.qy0.ru/data/1152/68/06.jpg",
+        "https://img3.qy0.ru/data/1152/68/07.jpg",
+        "https://img3.qy0.ru/data/1152/68/08.jpg",
+        "https://img3.qy0.ru/data/1152/68/09.jpg",
+        "https://img3.qy0.ru/data/1152/68/10.jpg",
+        "https://img3.qy0.ru/data/1152/68/11.jpg",
+        "https://img3.qy0.ru/data/1152/68/12.jpg",
+        "https://img3.qy0.ru/data/1152/68/13.jpg",
+        "https://img3.qy0.ru/data/1152/68/14.jpg",
+        "https://img3.qy0.ru/data/1152/68/15.jpg",
+        "https://img3.qy0.ru/data/1152/68/16.jpg",
+        "https://img3.qy0.ru/data/1152/68/17.jpg",
+        "https://img3.qy0.ru/data/1152/68/18.jpg",
+        "https://img3.qy0.ru/data/1152/68/19.jpg",
+        "https://img3.qy0.ru/data/1152/68/20.jpg",
+        "https://img3.qy0.ru/data/1152/68/21.jpg",
+        "https://img3.qy0.ru/data/1152/68/22.jpg",
+        "https://img3.qy0.ru/data/1152/68/23.jpg",
+        "https://img3.qy0.ru/data/1152/68/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

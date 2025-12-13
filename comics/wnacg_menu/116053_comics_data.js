@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116053,
+    "title": "[まりりん] 実は俺、妹の友達にお金渡してる (COMIC アオハ 2019 冬) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116053.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1160/53/131.jpg",
+        "https://img3.qy0.ru/data/1160/53/132.jpg",
+        "https://img3.qy0.ru/data/1160/53/133.jpg",
+        "https://img3.qy0.ru/data/1160/53/134.jpg",
+        "https://img3.qy0.ru/data/1160/53/135.jpg",
+        "https://img3.qy0.ru/data/1160/53/136.jpg",
+        "https://img3.qy0.ru/data/1160/53/137.jpg",
+        "https://img3.qy0.ru/data/1160/53/138.jpg",
+        "https://img3.qy0.ru/data/1160/53/139.jpg",
+        "https://img3.qy0.ru/data/1160/53/140.jpg",
+        "https://img3.qy0.ru/data/1160/53/141.jpg",
+        "https://img3.qy0.ru/data/1160/53/142.jpg",
+        "https://img3.qy0.ru/data/1160/53/143.jpg",
+        "https://img3.qy0.ru/data/1160/53/144.jpg",
+        "https://img3.qy0.ru/data/1160/53/145.jpg",
+        "https://img3.qy0.ru/data/1160/53/146.jpg",
+        "https://img3.qy0.ru/data/1160/53/147.jpg",
+        "https://img3.qy0.ru/data/1160/53/148.jpg",
+        "https://img3.qy0.ru/data/1160/53/149.jpg",
+        "https://img3.qy0.ru/data/1160/53/150.jpg",
+        "https://img3.qy0.ru/data/1160/53/151.jpg",
+        "https://img3.qy0.ru/data/1160/53/152.jpg",
+        "https://img3.qy0.ru/data/1160/53/153.jpg",
+        "https://img3.qy0.ru/data/1160/53/154.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

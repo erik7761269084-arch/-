@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 116412,
+    "title": "[原神狗都不玩个人汉化][といね] 聖女調教～彼女は私のもの～ (敗北乙女エクスタシーVol.20)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116412.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1164/12/00.jpg",
+        "https://img3.qy0.ru/data/1164/12/01.jpg",
+        "https://img3.qy0.ru/data/1164/12/02.jpg",
+        "https://img3.qy0.ru/data/1164/12/03.jpg",
+        "https://img3.qy0.ru/data/1164/12/04.jpg",
+        "https://img3.qy0.ru/data/1164/12/05.jpg",
+        "https://img3.qy0.ru/data/1164/12/06.jpg",
+        "https://img3.qy0.ru/data/1164/12/07.jpg",
+        "https://img3.qy0.ru/data/1164/12/08.jpg",
+        "https://img3.qy0.ru/data/1164/12/09.jpg",
+        "https://img3.qy0.ru/data/1164/12/10.jpg",
+        "https://img3.qy0.ru/data/1164/12/11.jpg",
+        "https://img3.qy0.ru/data/1164/12/12.jpg",
+        "https://img3.qy0.ru/data/1164/12/13.jpg",
+        "https://img3.qy0.ru/data/1164/12/14.jpg",
+        "https://img3.qy0.ru/data/1164/12/15.jpg",
+        "https://img3.qy0.ru/data/1164/12/16.jpg",
+        "https://img3.qy0.ru/data/1164/12/17.jpg",
+        "https://img3.qy0.ru/data/1164/12/18.jpg",
+        "https://img3.qy0.ru/data/1164/12/19.jpg",
+        "https://img3.qy0.ru/data/1164/12/20.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

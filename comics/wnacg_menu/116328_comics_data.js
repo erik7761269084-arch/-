@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116328,
+    "title": "[オガデンモン] アラサークソビッチの冒険 (COMlC 快楽天 2018年10月号) [未名个人汉化x东境汉化组] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116328.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1163/28/276.jpg",
+        "https://img3.qy0.ru/data/1163/28/277.jpg",
+        "https://img3.qy0.ru/data/1163/28/278.jpg",
+        "https://img3.qy0.ru/data/1163/28/279.jpg",
+        "https://img3.qy0.ru/data/1163/28/280.jpg",
+        "https://img3.qy0.ru/data/1163/28/281.jpg",
+        "https://img3.qy0.ru/data/1163/28/282.jpg",
+        "https://img3.qy0.ru/data/1163/28/283.jpg",
+        "https://img3.qy0.ru/data/1163/28/284.jpg",
+        "https://img3.qy0.ru/data/1163/28/285.jpg",
+        "https://img3.qy0.ru/data/1163/28/286.jpg",
+        "https://img3.qy0.ru/data/1163/28/287.jpg",
+        "https://img3.qy0.ru/data/1163/28/288.jpg",
+        "https://img3.qy0.ru/data/1163/28/289.jpg",
+        "https://img3.qy0.ru/data/1163/28/290.jpg",
+        "https://img3.qy0.ru/data/1163/28/291.jpg",
+        "https://img3.qy0.ru/data/1163/28/292.jpg",
+        "https://img3.qy0.ru/data/1163/28/293.jpg",
+        "https://img3.qy0.ru/data/1163/28/294.jpg",
+        "https://img3.qy0.ru/data/1163/28/295.jpg",
+        "https://img3.qy0.ru/data/1163/28/296.jpg",
+        "https://img3.qy0.ru/data/1163/28/298.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

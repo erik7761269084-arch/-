@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 119263,
+    "title": "[ぼんすけ] 敵国から迎えた妃は尻穴愛玩具 (二次元コミックマガジン ケツマン調教で肛門ポルチオアクメ!Vol.2) [不可视汉化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119263.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1192/63/01.jpg",
+        "https://img3.qy0.ru/data/1192/63/02.jpg",
+        "https://img3.qy0.ru/data/1192/63/03.jpg",
+        "https://img3.qy0.ru/data/1192/63/04.jpg",
+        "https://img3.qy0.ru/data/1192/63/05.jpg",
+        "https://img3.qy0.ru/data/1192/63/06.jpg",
+        "https://img3.qy0.ru/data/1192/63/07.jpg",
+        "https://img3.qy0.ru/data/1192/63/08.jpg",
+        "https://img3.qy0.ru/data/1192/63/09.jpg",
+        "https://img3.qy0.ru/data/1192/63/10.jpg",
+        "https://img3.qy0.ru/data/1192/63/11.jpg",
+        "https://img3.qy0.ru/data/1192/63/12.jpg",
+        "https://img3.qy0.ru/data/1192/63/13.jpg",
+        "https://img3.qy0.ru/data/1192/63/14.jpg",
+        "https://img3.qy0.ru/data/1192/63/15.jpg",
+        "https://img3.qy0.ru/data/1192/63/16.jpg",
+        "https://img3.qy0.ru/data/1192/63/17.jpg",
+        "https://img3.qy0.ru/data/1192/63/18.jpg",
+        "https://img3.qy0.ru/data/1192/63/19.jpg",
+        "https://img3.qy0.ru/data/1192/63/20.jpg",
+        "https://img3.qy0.ru/data/1192/63/21.jpg",
+        "https://img3.qy0.ru/data/1192/63/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

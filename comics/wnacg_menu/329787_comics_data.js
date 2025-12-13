@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 329787,
+    "title": "[绅士皇帝刘子业]校妓 13",
+    "sourceUrl": "https://www.wnacg.com/photos-list-aid-329787.html",
+    "images": [
+        "https://img5.qy0.ru/data/3297/87/001.jpg",
+        "https://img5.qy0.ru/data/3297/87/002.jpg",
+        "https://img5.qy0.ru/data/3297/87/003.jpg",
+        "https://img5.qy0.ru/data/3297/87/004.jpg",
+        "https://img5.qy0.ru/data/3297/87/005.jpg",
+        "https://img5.qy0.ru/data/3297/87/006.jpg",
+        "https://img5.qy0.ru/data/3297/87/007.jpg",
+        "https://img5.qy0.ru/data/3297/87/008.jpg",
+        "https://img5.qy0.ru/data/3297/87/009.jpg",
+        "https://img5.qy0.ru/data/3297/87/010.jpg",
+        "https://img5.qy0.ru/data/3297/87/011.jpg",
+        "https://img5.qy0.ru/data/3297/87/012.jpg",
+        "https://img5.qy0.ru/data/3297/87/013.jpg",
+        "https://img5.qy0.ru/data/3297/87/014.jpg",
+        "https://img5.qy0.ru/data/3297/87/015.jpg",
+        "https://img5.qy0.ru/data/3297/87/016.jpg",
+        "https://img5.qy0.ru/data/3297/87/017.jpg",
+        "https://img5.qy0.ru/data/3297/87/018.jpg",
+        "https://img5.qy0.ru/data/3297/87/019.jpg",
+        "https://img5.qy0.ru/data/3297/87/020.jpg",
+        "https://img5.qy0.ru/data/3297/87/021.jpg",
+        "https://img5.qy0.ru/data/3297/87/022.jpg",
+        "https://img5.qy0.ru/data/3297/87/023.jpg"
+    ]
+};

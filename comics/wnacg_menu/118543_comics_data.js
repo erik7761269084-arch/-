@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 118543,
+    "title": "[ZEROTWICE个人汉化] [オギノサトシ] フォロー ランニング (comic アンスリウム 2020年2月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118543.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1185/43/01.jpg",
+        "https://img3.qy0.ru/data/1185/43/02.jpg",
+        "https://img3.qy0.ru/data/1185/43/03.jpg",
+        "https://img3.qy0.ru/data/1185/43/04.jpg",
+        "https://img3.qy0.ru/data/1185/43/05.jpg",
+        "https://img3.qy0.ru/data/1185/43/06.jpg",
+        "https://img3.qy0.ru/data/1185/43/07.jpg",
+        "https://img3.qy0.ru/data/1185/43/08.jpg",
+        "https://img3.qy0.ru/data/1185/43/09.jpg",
+        "https://img3.qy0.ru/data/1185/43/10.jpg",
+        "https://img3.qy0.ru/data/1185/43/11.jpg",
+        "https://img3.qy0.ru/data/1185/43/12.jpg",
+        "https://img3.qy0.ru/data/1185/43/13.jpg",
+        "https://img3.qy0.ru/data/1185/43/14.jpg",
+        "https://img3.qy0.ru/data/1185/43/15.jpg",
+        "https://img3.qy0.ru/data/1185/43/16.jpg",
+        "https://img3.qy0.ru/data/1185/43/17.jpg",
+        "https://img3.qy0.ru/data/1185/43/18.jpg",
+        "https://img3.qy0.ru/data/1185/43/19.jpg",
+        "https://img3.qy0.ru/data/1185/43/20.jpg",
+        "https://img3.qy0.ru/data/1185/43/21.jpg",
+        "https://img3.qy0.ru/data/1185/43/22.jpg",
+        "https://img3.qy0.ru/data/1185/43/23.jpg",
+        "https://img3.qy0.ru/data/1185/43/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

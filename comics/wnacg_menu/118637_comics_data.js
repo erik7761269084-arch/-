@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 118637,
+    "title": "[月零的随手汉化] [Digital] [蒟吉人] バスト・ショット・ハニー 3rd shot (スキを魅せたらハメられて)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118637.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1186/37/01.jpg",
+        "https://img3.qy0.ru/data/1186/37/02.jpg",
+        "https://img3.qy0.ru/data/1186/37/03.jpg",
+        "https://img3.qy0.ru/data/1186/37/04.jpg",
+        "https://img3.qy0.ru/data/1186/37/05.jpg",
+        "https://img3.qy0.ru/data/1186/37/06.jpg",
+        "https://img3.qy0.ru/data/1186/37/07.jpg",
+        "https://img3.qy0.ru/data/1186/37/08.jpg",
+        "https://img3.qy0.ru/data/1186/37/09.jpg",
+        "https://img3.qy0.ru/data/1186/37/10.jpg",
+        "https://img3.qy0.ru/data/1186/37/11.jpg",
+        "https://img3.qy0.ru/data/1186/37/12.jpg",
+        "https://img3.qy0.ru/data/1186/37/13.jpg",
+        "https://img3.qy0.ru/data/1186/37/14.jpg",
+        "https://img3.qy0.ru/data/1186/37/15.jpg",
+        "https://img3.qy0.ru/data/1186/37/16.jpg",
+        "https://img3.qy0.ru/data/1186/37/17.jpg",
+        "https://img3.qy0.ru/data/1186/37/18.jpg",
+        "https://img3.qy0.ru/data/1186/37/19.jpg",
+        "https://img3.qy0.ru/data/1186/37/20.jpg",
+        "https://img3.qy0.ru/data/1186/37/21.jpg",
+        "https://img3.qy0.ru/data/1186/37/22.jpg",
+        "https://img3.qy0.ru/data/1186/37/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

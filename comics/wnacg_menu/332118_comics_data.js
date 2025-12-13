@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 332118,
+    "title": "[Shaggy SUSU] シトラリ3 (原神) [中国語、日本語]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-332118.html",
+    "images": [
+        "https://img5.qy0.ru/data/3321/18/01.jpg",
+        "https://img5.qy0.ru/data/3321/18/02.jpg",
+        "https://img5.qy0.ru/data/3321/18/03.jpg",
+        "https://img5.qy0.ru/data/3321/18/04.jpg",
+        "https://img5.qy0.ru/data/3321/18/05.jpg",
+        "https://img5.qy0.ru/data/3321/18/06.jpg",
+        "https://img5.qy0.ru/data/3321/18/07.jpg",
+        "https://img5.qy0.ru/data/3321/18/08.jpg",
+        "https://img5.qy0.ru/data/3321/18/09.jpg",
+        "https://img5.qy0.ru/data/3321/18/10.jpg",
+        "https://img5.qy0.ru/data/3321/18/11.jpg",
+        "https://img5.qy0.ru/data/3321/18/12.jpg",
+        "https://img5.qy0.ru/data/3321/18/13.jpg",
+        "https://img5.qy0.ru/data/3321/18/14.jpg",
+        "https://img5.qy0.ru/data/3321/18/15.jpg",
+        "https://img5.qy0.ru/data/3321/18/16.jpg",
+        "https://img5.qy0.ru/data/3321/18/17.jpg",
+        "https://img5.qy0.ru/data/3321/18/18.jpg",
+        "https://img5.qy0.ru/data/3321/18/19.jpg",
+        "https://img5.qy0.ru/data/3321/18/20.jpg",
+        "https://img5.qy0.ru/data/3321/18/21.jpg",
+        "https://img5.qy0.ru/data/3321/18/22.jpg",
+        "https://img5.qy0.ru/data/3321/18/23.jpg",
+        "https://img5.qy0.ru/data/3321/18/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

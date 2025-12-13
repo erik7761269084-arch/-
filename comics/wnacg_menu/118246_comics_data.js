@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118246,
+    "title": "[路过的rlx个人练习汉化] [柚木N'] 小蔦夏希はガマンできない (COMIC アオハ 2019 夏)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118246.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1182/46/i_096.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_097.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_098.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_099.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_100.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_101.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_102.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_103.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_104.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_105.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_106.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_107.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_108.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_109.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_110.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_111.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_112.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_113.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_114.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_115.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_116.jpg",
+        "https://img3.qy0.ru/data/1182/46/i_117.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

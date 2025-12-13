@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 115315,
+    "title": "[ロケットモンキー] 人妻は夜に鳴く 中編 (コミックホットミルク濃いめ vol.24) [不可视汉化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115315.html",
+    "totalPages": 35,
+    "images": [
+        "https://img3.qy0.ru/data/1153/15/001.jpg",
+        "https://img3.qy0.ru/data/1153/15/002.jpg",
+        "https://img3.qy0.ru/data/1153/15/003.jpg",
+        "https://img3.qy0.ru/data/1153/15/004.jpg",
+        "https://img3.qy0.ru/data/1153/15/005.jpg",
+        "https://img3.qy0.ru/data/1153/15/006.jpg",
+        "https://img3.qy0.ru/data/1153/15/007.jpg",
+        "https://img3.qy0.ru/data/1153/15/008.jpg",
+        "https://img3.qy0.ru/data/1153/15/009.jpg",
+        "https://img3.qy0.ru/data/1153/15/010.jpg",
+        "https://img3.qy0.ru/data/1153/15/011.jpg",
+        "https://img3.qy0.ru/data/1153/15/012.jpg",
+        "https://img3.qy0.ru/data/1153/15/013.jpg",
+        "https://img3.qy0.ru/data/1153/15/014.jpg",
+        "https://img3.qy0.ru/data/1153/15/015.jpg",
+        "https://img3.qy0.ru/data/1153/15/016.jpg",
+        "https://img3.qy0.ru/data/1153/15/017.jpg",
+        "https://img3.qy0.ru/data/1153/15/018.jpg",
+        "https://img3.qy0.ru/data/1153/15/019.jpg",
+        "https://img3.qy0.ru/data/1153/15/020.jpg",
+        "https://img3.qy0.ru/data/1153/15/021.jpg",
+        "https://img3.qy0.ru/data/1153/15/022.jpg",
+        "https://img3.qy0.ru/data/1153/15/023.jpg",
+        "https://img3.qy0.ru/data/1153/15/024.jpg",
+        "https://img3.qy0.ru/data/1153/15/025.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 334252,
+    "title": "[Fantia／Twitter] Cat_Demon你的喵崽",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-334252.html",
+    "totalPages": 515,
+    "images": [
+        "https://img5.qy0.ru/data/3342/52/001.jpg",
+        "https://img5.qy0.ru/data/3342/52/002.jpg",
+        "https://img5.qy0.ru/data/3342/52/003.jpg",
+        "https://img5.qy0.ru/data/3342/52/004.jpg",
+        "https://img5.qy0.ru/data/3342/52/005.jpg",
+        "https://img5.qy0.ru/data/3342/52/006.jpg",
+        "https://img5.qy0.ru/data/3342/52/007.jpg",
+        "https://img5.qy0.ru/data/3342/52/008.jpg",
+        "https://img5.qy0.ru/data/3342/52/009.jpg",
+        "https://img5.qy0.ru/data/3342/52/010.jpg",
+        "https://img5.qy0.ru/data/3342/52/011.jpg",
+        "https://img5.qy0.ru/data/3342/52/012.jpg",
+        "https://img5.qy0.ru/data/3342/52/013.jpg",
+        "https://img5.qy0.ru/data/3342/52/014.jpg",
+        "https://img5.qy0.ru/data/3342/52/015.jpg",
+        "https://img5.qy0.ru/data/3342/52/016.jpg",
+        "https://img5.qy0.ru/data/3342/52/017.jpg",
+        "https://img5.qy0.ru/data/3342/52/018.jpg",
+        "https://img5.qy0.ru/data/3342/52/019.jpg",
+        "https://img5.qy0.ru/data/3342/52/020.jpg",
+        "https://img5.qy0.ru/data/3342/52/021.jpg",
+        "https://img5.qy0.ru/data/3342/52/022.jpg",
+        "https://img5.qy0.ru/data/3342/52/023.jpg"
+    ]
+};

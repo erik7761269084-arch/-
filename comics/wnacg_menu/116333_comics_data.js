@@ -1,0 +1,24 @@
+const comicData = {
+    "IDcode": 116333,
+    "title": "[オガデンモン] 彗星密会 (快楽天XTC Vol.6) [漢化組漢化組#155]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116333.html",
+    "totalPages": 16,
+    "images": [
+        "https://img3.qy0.ru/data/1163/33/Comet_001.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_002.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_003.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_004.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_005.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_006.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_007.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_008.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_009.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_010.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_011.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_012.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_013.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_014.jpg",
+        "https://img3.qy0.ru/data/1163/33/Comet_015.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

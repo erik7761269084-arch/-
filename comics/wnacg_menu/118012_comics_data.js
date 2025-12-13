@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118012,
+    "title": "[瑞树汉化组] [汐焼あゆ] 家庭教師とお勉強 (二次元コミックマガジン メスガキ男の娘制裁 イキる尻穴をわからせ棒でご指導ご鞭撻! Vol.1) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118012.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1180/12/00.jpg",
+        "https://img3.qy0.ru/data/1180/12/01.jpg",
+        "https://img3.qy0.ru/data/1180/12/02.jpg",
+        "https://img3.qy0.ru/data/1180/12/03.jpg",
+        "https://img3.qy0.ru/data/1180/12/04.jpg",
+        "https://img3.qy0.ru/data/1180/12/05.jpg",
+        "https://img3.qy0.ru/data/1180/12/06.jpg",
+        "https://img3.qy0.ru/data/1180/12/07.jpg",
+        "https://img3.qy0.ru/data/1180/12/08.jpg",
+        "https://img3.qy0.ru/data/1180/12/09.jpg",
+        "https://img3.qy0.ru/data/1180/12/10.jpg",
+        "https://img3.qy0.ru/data/1180/12/11.jpg",
+        "https://img3.qy0.ru/data/1180/12/12.jpg",
+        "https://img3.qy0.ru/data/1180/12/13.jpg",
+        "https://img3.qy0.ru/data/1180/12/14.jpg",
+        "https://img3.qy0.ru/data/1180/12/15.jpg",
+        "https://img3.qy0.ru/data/1180/12/16.jpg",
+        "https://img3.qy0.ru/data/1180/12/17.jpg",
+        "https://img3.qy0.ru/data/1180/12/18.jpg",
+        "https://img3.qy0.ru/data/1180/12/19.jpg",
+        "https://img3.qy0.ru/data/1180/12/20.jpg",
+        "https://img3.qy0.ru/data/1180/12/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

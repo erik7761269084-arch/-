@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 115878,
+    "title": "[逆又練物] ヒプノブリンク 11 (コミック Mate legend Vol.36 2020年12月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115878.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1158/78/01_001.jpg",
+        "https://img3.qy0.ru/data/1158/78/10_010_.jpg",
+        "https://img3.qy0.ru/data/1158/78/11_011_.jpg",
+        "https://img3.qy0.ru/data/1158/78/09_009_.jpg",
+        "https://img3.qy0.ru/data/1158/78/12_012_.jpg",
+        "https://img3.qy0.ru/data/1158/78/23_023_.jpg",
+        "https://img3.qy0.ru/data/1158/78/03_003_.jpg",
+        "https://img3.qy0.ru/data/1158/78/04_004_.jpg",
+        "https://img3.qy0.ru/data/1158/78/13_013_.jpg",
+        "https://img3.qy0.ru/data/1158/78/22_022_.jpg",
+        "https://img3.qy0.ru/data/1158/78/21_021_.jpg",
+        "https://img3.qy0.ru/data/1158/78/20_020_.jpg",
+        "https://img3.qy0.ru/data/1158/78/16_016_.jpg",
+        "https://img3.qy0.ru/data/1158/78/19_019_.jpg",
+        "https://img3.qy0.ru/data/1158/78/14_014_.jpg",
+        "https://img3.qy0.ru/data/1158/78/05_005_.jpg",
+        "https://img3.qy0.ru/data/1158/78/06_006_.jpg",
+        "https://img3.qy0.ru/data/1158/78/17_017_.jpg",
+        "https://img3.qy0.ru/data/1158/78/18_018_.jpg",
+        "https://img3.qy0.ru/data/1158/78/07_007_.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1158/78/02_002_.jpg",
+        "https://img3.qy0.ru/data/1158/78/08_008_.jpg",
+        "https://img3.qy0.ru/data/1158/78/24_024_.jpg",
+        "https://img3.qy0.ru/data/1158/78/15_015_.jpg"
+    ]
+};

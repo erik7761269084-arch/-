@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116757,
+    "title": "[朝峰テル] 蛇神さんと蛙門くん (COMIC BAVEL 2021年3月号) [e04a8678翻譯] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116757.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1167/57/01.jpg",
+        "https://img3.qy0.ru/data/1167/57/02.jpg",
+        "https://img3.qy0.ru/data/1167/57/03.jpg",
+        "https://img3.qy0.ru/data/1167/57/04.jpg",
+        "https://img3.qy0.ru/data/1167/57/05.jpg",
+        "https://img3.qy0.ru/data/1167/57/06.jpg",
+        "https://img3.qy0.ru/data/1167/57/07.jpg",
+        "https://img3.qy0.ru/data/1167/57/08.jpg",
+        "https://img3.qy0.ru/data/1167/57/09.jpg",
+        "https://img3.qy0.ru/data/1167/57/10.jpg",
+        "https://img3.qy0.ru/data/1167/57/11.jpg",
+        "https://img3.qy0.ru/data/1167/57/12.jpg",
+        "https://img3.qy0.ru/data/1167/57/13.jpg",
+        "https://img3.qy0.ru/data/1167/57/14.jpg",
+        "https://img3.qy0.ru/data/1167/57/15.jpg",
+        "https://img3.qy0.ru/data/1167/57/16.jpg",
+        "https://img3.qy0.ru/data/1167/57/17.jpg",
+        "https://img3.qy0.ru/data/1167/57/18.jpg",
+        "https://img3.qy0.ru/data/1167/57/19.jpg",
+        "https://img3.qy0.ru/data/1167/57/20.jpg",
+        "https://img3.qy0.ru/data/1167/57/21.jpg",
+        "https://img3.qy0.ru/data/1167/57/22.jpg",
+        "https://img3.qy0.ru/data/1167/57/23.jpg",
+        "https://img3.qy0.ru/data/1167/57/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

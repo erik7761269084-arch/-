@@ -1,0 +1,29 @@
+const comicData = {
+    "IDcode": 117242,
+    "title": "[绅士仓库汉化] [うしのみや] 捨て猫コンシャスネス (コミックアンリアル 2020年8月号 Vol.86) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117242.html",
+    "totalPages": 21,
+    "images": [
+        "https://img3.qy0.ru/data/1172/42/00.jpg",
+        "https://img3.qy0.ru/data/1172/42/01.jpg",
+        "https://img3.qy0.ru/data/1172/42/02.jpg",
+        "https://img3.qy0.ru/data/1172/42/03.jpg",
+        "https://img3.qy0.ru/data/1172/42/04.jpg",
+        "https://img3.qy0.ru/data/1172/42/05.jpg",
+        "https://img3.qy0.ru/data/1172/42/06.jpg",
+        "https://img3.qy0.ru/data/1172/42/07.jpg",
+        "https://img3.qy0.ru/data/1172/42/08.jpg",
+        "https://img3.qy0.ru/data/1172/42/09.jpg",
+        "https://img3.qy0.ru/data/1172/42/10.jpg",
+        "https://img3.qy0.ru/data/1172/42/11.jpg",
+        "https://img3.qy0.ru/data/1172/42/12.jpg",
+        "https://img3.qy0.ru/data/1172/42/13.jpg",
+        "https://img3.qy0.ru/data/1172/42/14.jpg",
+        "https://img3.qy0.ru/data/1172/42/15.jpg",
+        "https://img3.qy0.ru/data/1172/42/16.jpg",
+        "https://img3.qy0.ru/data/1172/42/17.jpg",
+        "https://img3.qy0.ru/data/1172/42/18.jpg",
+        "https://img3.qy0.ru/data/1172/42/19.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

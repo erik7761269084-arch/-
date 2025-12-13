@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 114367,
+    "title": "[紺菓] Love replay (コミックゼロス #88) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114367.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1143/67/21__ver.5.1.png",
+        "https://img3.qy0.ru/data/1143/67/01_MJK_21_Z2525_001.png",
+        "https://img3.qy0.ru/data/1143/67/02_MJK_21_Z2525_002.png",
+        "https://img3.qy0.ru/data/1143/67/03_MJK_21_Z2525_003.png",
+        "https://img3.qy0.ru/data/1143/67/04_MJK_21_Z2525_004.png",
+        "https://img3.qy0.ru/data/1143/67/05_MJK_21_Z2525_005.png",
+        "https://img3.qy0.ru/data/1143/67/06_MJK_21_Z2525_006.png",
+        "https://img3.qy0.ru/data/1143/67/07_MJK_21_Z2525_007.png",
+        "https://img3.qy0.ru/data/1143/67/08_MJK_21_Z2525_008.png",
+        "https://img3.qy0.ru/data/1143/67/09_MJK_21_Z2525_009.png",
+        "https://img3.qy0.ru/data/1143/67/10_MJK_21_Z2525_010.png",
+        "https://img3.qy0.ru/data/1143/67/11_MJK_21_Z2525_011.png",
+        "https://img3.qy0.ru/data/1143/67/12_MJK_21_Z2525_012.png",
+        "https://img3.qy0.ru/data/1143/67/13_MJK_21_Z2525_013.png",
+        "https://img3.qy0.ru/data/1143/67/14_MJK_21_Z2525_014.png",
+        "https://img3.qy0.ru/data/1143/67/15_MJK_21_Z2525_015.png",
+        "https://img3.qy0.ru/data/1143/67/16_MJK_21_Z2525_016.png",
+        "https://img3.qy0.ru/data/1143/67/17_MJK_21_Z2525_017.png",
+        "https://img3.qy0.ru/data/1143/67/18_MJK_21_Z2525_018.png",
+        "https://img3.qy0.ru/data/1143/67/19_MJK_21_Z2525_019.png",
+        "https://img3.qy0.ru/data/1143/67/20_MJK_21_Z2525_020.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

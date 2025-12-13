@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116194,
+    "title": "[朝峰テル] ぐーたら姉の日常性活 (COMIC BAVEL 2020年11月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116194.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1161/94/23_23.jpg",
+        "https://img3.qy0.ru/data/1161/94/01_041.png",
+        "https://img3.qy0.ru/data/1161/94/02_042.png",
+        "https://img3.qy0.ru/data/1161/94/03_043.png",
+        "https://img3.qy0.ru/data/1161/94/04_044.png",
+        "https://img3.qy0.ru/data/1161/94/05_045.png",
+        "https://img3.qy0.ru/data/1161/94/06_046.png",
+        "https://img3.qy0.ru/data/1161/94/07_047.png",
+        "https://img3.qy0.ru/data/1161/94/08_048.png",
+        "https://img3.qy0.ru/data/1161/94/09_049.png",
+        "https://img3.qy0.ru/data/1161/94/10_050.png",
+        "https://img3.qy0.ru/data/1161/94/11_051.png",
+        "https://img3.qy0.ru/data/1161/94/12_052.png",
+        "https://img3.qy0.ru/data/1161/94/13_053.png",
+        "https://img3.qy0.ru/data/1161/94/14_054.png",
+        "https://img3.qy0.ru/data/1161/94/15_055.png",
+        "https://img3.qy0.ru/data/1161/94/16_056.png",
+        "https://img3.qy0.ru/data/1161/94/17_057.png",
+        "https://img3.qy0.ru/data/1161/94/18_058.png",
+        "https://img3.qy0.ru/data/1161/94/19_059.png",
+        "https://img3.qy0.ru/data/1161/94/20_060.png",
+        "https://img3.qy0.ru/data/1161/94/21_061.png",
+        "https://img3.qy0.ru/data/1161/94/22_062.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

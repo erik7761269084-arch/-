@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 115018,
+    "title": "[平いっすい] 義姉ちゃんは酒癖が悪い (COMIC BAVEL 2021年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115018.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1150/18/001.png",
+        "https://img3.qy0.ru/data/1150/18/002.png",
+        "https://img3.qy0.ru/data/1150/18/003.png",
+        "https://img3.qy0.ru/data/1150/18/004.png",
+        "https://img3.qy0.ru/data/1150/18/005.png",
+        "https://img3.qy0.ru/data/1150/18/006.png",
+        "https://img3.qy0.ru/data/1150/18/007.png",
+        "https://img3.qy0.ru/data/1150/18/008.png",
+        "https://img3.qy0.ru/data/1150/18/009.png",
+        "https://img3.qy0.ru/data/1150/18/010.png",
+        "https://img3.qy0.ru/data/1150/18/011.png",
+        "https://img3.qy0.ru/data/1150/18/012.png",
+        "https://img3.qy0.ru/data/1150/18/013.png",
+        "https://img3.qy0.ru/data/1150/18/014.png",
+        "https://img3.qy0.ru/data/1150/18/015.png",
+        "https://img3.qy0.ru/data/1150/18/016.png",
+        "https://img3.qy0.ru/data/1150/18/017.png",
+        "https://img3.qy0.ru/data/1150/18/018.png",
+        "https://img3.qy0.ru/data/1150/18/019.png",
+        "https://img3.qy0.ru/data/1150/18/020.png",
+        "https://img3.qy0.ru/data/1150/18/021.png",
+        "https://img3.qy0.ru/data/1150/18/022.png",
+        "https://img3.qy0.ru/data/1150/18/023.png",
+        "https://img3.qy0.ru/data/1150/18/024.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

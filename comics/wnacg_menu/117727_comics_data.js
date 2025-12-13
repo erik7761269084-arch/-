@@ -1,0 +1,27 @@
+const comicData = {
+    "IDcode": 117727,
+    "title": "[黒筆ANnA] ウラアカ My Pet (COMIC BAVEL 2020年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117727.html",
+    "totalPages": 19,
+    "images": [
+        "https://img3.qy0.ru/data/1177/27/18_1.png",
+        "https://img3.qy0.ru/data/1177/27/17_17.jpg",
+        "https://img3.qy0.ru/data/1177/27/01_109.jpg",
+        "https://img3.qy0.ru/data/1177/27/02_110.jpg",
+        "https://img3.qy0.ru/data/1177/27/03_111.jpg",
+        "https://img3.qy0.ru/data/1177/27/04_112.jpg",
+        "https://img3.qy0.ru/data/1177/27/05_113.jpg",
+        "https://img3.qy0.ru/data/1177/27/06_114.jpg",
+        "https://img3.qy0.ru/data/1177/27/07_115.jpg",
+        "https://img3.qy0.ru/data/1177/27/08_116.jpg",
+        "https://img3.qy0.ru/data/1177/27/09_117.jpg",
+        "https://img3.qy0.ru/data/1177/27/10_118.jpg",
+        "https://img3.qy0.ru/data/1177/27/11_119.jpg",
+        "https://img3.qy0.ru/data/1177/27/12_120.jpg",
+        "https://img3.qy0.ru/data/1177/27/13_121.jpg",
+        "https://img3.qy0.ru/data/1177/27/14_122.jpg",
+        "https://img3.qy0.ru/data/1177/27/15_123.jpg",
+        "https://img3.qy0.ru/data/1177/27/16_124.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

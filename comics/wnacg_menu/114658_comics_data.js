@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 114658,
+    "title": "[雲呑めお] Finger Tip (COMIC 快楽天 2020年11月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114658.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1146/58/0001.jpg",
+        "https://img3.qy0.ru/data/1146/58/0002.jpg",
+        "https://img3.qy0.ru/data/1146/58/0003.jpg",
+        "https://img3.qy0.ru/data/1146/58/0004.jpg",
+        "https://img3.qy0.ru/data/1146/58/0005.jpg",
+        "https://img3.qy0.ru/data/1146/58/0006.jpg",
+        "https://img3.qy0.ru/data/1146/58/0007.jpg",
+        "https://img3.qy0.ru/data/1146/58/0008.jpg",
+        "https://img3.qy0.ru/data/1146/58/0009.jpg",
+        "https://img3.qy0.ru/data/1146/58/0010.jpg",
+        "https://img3.qy0.ru/data/1146/58/0011.jpg",
+        "https://img3.qy0.ru/data/1146/58/0012.jpg",
+        "https://img3.qy0.ru/data/1146/58/0013.jpg",
+        "https://img3.qy0.ru/data/1146/58/0014.jpg",
+        "https://img3.qy0.ru/data/1146/58/0015.jpg",
+        "https://img3.qy0.ru/data/1146/58/0016.jpg",
+        "https://img3.qy0.ru/data/1146/58/0017.jpg",
+        "https://img3.qy0.ru/data/1146/58/0018.jpg",
+        "https://img3.qy0.ru/data/1146/58/0019.jpg",
+        "https://img3.qy0.ru/data/1146/58/0020.jpg",
+        "https://img3.qy0.ru/data/1146/58/0021.jpg",
+        "https://img3.qy0.ru/data/1146/58/0022.jpg"
+    ]
+};

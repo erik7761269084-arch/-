@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 115678,
+    "title": "[风油精汉化组] [桐下悠司] お嬢様学校の男の娘を性奴隷としてゲッツした件 (私立男の娘学園)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115678.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1156/78/00.jpg",
+        "https://img3.qy0.ru/data/1156/78/01.jpg",
+        "https://img3.qy0.ru/data/1156/78/02.jpg",
+        "https://img3.qy0.ru/data/1156/78/03.jpg",
+        "https://img3.qy0.ru/data/1156/78/04.jpg",
+        "https://img3.qy0.ru/data/1156/78/05.jpg",
+        "https://img3.qy0.ru/data/1156/78/06.jpg",
+        "https://img3.qy0.ru/data/1156/78/07.jpg",
+        "https://img3.qy0.ru/data/1156/78/08.jpg",
+        "https://img3.qy0.ru/data/1156/78/09.jpg",
+        "https://img3.qy0.ru/data/1156/78/10.jpg",
+        "https://img3.qy0.ru/data/1156/78/11.jpg",
+        "https://img3.qy0.ru/data/1156/78/12.jpg",
+        "https://img3.qy0.ru/data/1156/78/13.jpg",
+        "https://img3.qy0.ru/data/1156/78/14.jpg",
+        "https://img3.qy0.ru/data/1156/78/15.jpg",
+        "https://img3.qy0.ru/data/1156/78/16.jpg",
+        "https://img3.qy0.ru/data/1156/78/17.jpg",
+        "https://img3.qy0.ru/data/1156/78/18.jpg",
+        "https://img3.qy0.ru/data/1156/78/19.jpg",
+        "https://img3.qy0.ru/data/1156/78/20.jpg",
+        "https://img3.qy0.ru/data/1156/78/21.jpg",
+        "https://img3.qy0.ru/data/1156/78/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

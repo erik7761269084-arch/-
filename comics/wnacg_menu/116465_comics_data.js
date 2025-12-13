@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116465,
+    "title": "[ぷらぱ] いい子にできました❤ (コミックリブート Vol.22) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116465.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0180.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0181.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0182.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0183.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0184.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0185.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0186.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0187.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0188.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0189.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0190.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0191.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0192.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0193.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0194.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0195.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0196.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0197.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0198.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0199.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0200.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0201.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0202.jpg",
+        "https://img3.qy0.ru/data/1164/65/b092agwrk01218_0203.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

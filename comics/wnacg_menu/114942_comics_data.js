@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 114942,
+    "title": "[社会主义接班人个人汉化] [Digital] [せみもぐら (由家)] 催眠家庭教師の淫行2",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114942.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1149/42/01.jpg",
+        "https://img3.qy0.ru/data/1149/42/02.jpg",
+        "https://img3.qy0.ru/data/1149/42/03.jpg",
+        "https://img3.qy0.ru/data/1149/42/04.png",
+        "https://img3.qy0.ru/data/1149/42/05.jpg",
+        "https://img3.qy0.ru/data/1149/42/06.png",
+        "https://img3.qy0.ru/data/1149/42/07.jpg",
+        "https://img3.qy0.ru/data/1149/42/08.jpg",
+        "https://img3.qy0.ru/data/1149/42/09.jpg",
+        "https://img3.qy0.ru/data/1149/42/10.jpg",
+        "https://img3.qy0.ru/data/1149/42/11.jpg",
+        "https://img3.qy0.ru/data/1149/42/12.png",
+        "https://img3.qy0.ru/data/1149/42/13.jpg",
+        "https://img3.qy0.ru/data/1149/42/14.jpg",
+        "https://img3.qy0.ru/data/1149/42/15.jpg",
+        "https://img3.qy0.ru/data/1149/42/16.jpg",
+        "https://img3.qy0.ru/data/1149/42/17.jpg",
+        "https://img3.qy0.ru/data/1149/42/18.jpg",
+        "https://img3.qy0.ru/data/1149/42/19.png",
+        "https://img3.qy0.ru/data/1149/42/20.png",
+        "https://img3.qy0.ru/data/1149/42/21.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

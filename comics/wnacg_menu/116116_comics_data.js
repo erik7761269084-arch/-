@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116116,
+    "title": "[暴碧汉化组] [7×2] 遠い星を見る | 遥望星辰 (COMIC 快楽天ビースト 2020年12月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116116.html",
+    "totalPages": 37,
+    "images": [
+        "https://img3.qy0.ru/data/1161/16/00.jpg",
+        "https://img3.qy0.ru/data/1161/16/01.jpg",
+        "https://img3.qy0.ru/data/1161/16/02.jpg",
+        "https://img3.qy0.ru/data/1161/16/03.jpg",
+        "https://img3.qy0.ru/data/1161/16/04.jpg",
+        "https://img3.qy0.ru/data/1161/16/05.jpg",
+        "https://img3.qy0.ru/data/1161/16/06.jpg",
+        "https://img3.qy0.ru/data/1161/16/07.jpg",
+        "https://img3.qy0.ru/data/1161/16/08.jpg",
+        "https://img3.qy0.ru/data/1161/16/09.jpg",
+        "https://img3.qy0.ru/data/1161/16/10.jpg",
+        "https://img3.qy0.ru/data/1161/16/11.jpg",
+        "https://img3.qy0.ru/data/1161/16/12.jpg",
+        "https://img3.qy0.ru/data/1161/16/13.jpg",
+        "https://img3.qy0.ru/data/1161/16/14.jpg",
+        "https://img3.qy0.ru/data/1161/16/15.jpg",
+        "https://img3.qy0.ru/data/1161/16/16.jpg",
+        "https://img3.qy0.ru/data/1161/16/17.jpg",
+        "https://img3.qy0.ru/data/1161/16/18.jpg",
+        "https://img3.qy0.ru/data/1161/16/19.jpg",
+        "https://img3.qy0.ru/data/1161/16/20.jpg",
+        "https://img3.qy0.ru/data/1161/16/21.jpg",
+        "https://img3.qy0.ru/data/1161/16/22.jpg",
+        "https://img3.qy0.ru/data/1161/16/23.jpg"
+    ]
+};

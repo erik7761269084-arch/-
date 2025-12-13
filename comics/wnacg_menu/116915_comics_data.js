@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116915,
+    "title": "[ワタナベ幸弘] 底無し乱熟不倫妻～肉欲の果て～ (漫画ボン 2012年05月號)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116915.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1169/15/000.png",
+        "https://img3.qy0.ru/data/1169/15/001.png",
+        "https://img3.qy0.ru/data/1169/15/002.png",
+        "https://img3.qy0.ru/data/1169/15/003.png",
+        "https://img3.qy0.ru/data/1169/15/004.png",
+        "https://img3.qy0.ru/data/1169/15/005.png",
+        "https://img3.qy0.ru/data/1169/15/006.png",
+        "https://img3.qy0.ru/data/1169/15/007.png",
+        "https://img3.qy0.ru/data/1169/15/008.png",
+        "https://img3.qy0.ru/data/1169/15/009.png",
+        "https://img3.qy0.ru/data/1169/15/010.png",
+        "https://img3.qy0.ru/data/1169/15/011.png",
+        "https://img3.qy0.ru/data/1169/15/012.png",
+        "https://img3.qy0.ru/data/1169/15/013.png",
+        "https://img3.qy0.ru/data/1169/15/014.png",
+        "https://img3.qy0.ru/data/1169/15/015.png",
+        "https://img3.qy0.ru/data/1169/15/016.png",
+        "https://img3.qy0.ru/data/1169/15/017.png",
+        "https://img3.qy0.ru/data/1169/15/018.png",
+        "https://img3.qy0.ru/data/1169/15/019.png",
+        "https://img3.qy0.ru/data/1169/15/020.png",
+        "https://img3.qy0.ru/data/1169/15/021.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

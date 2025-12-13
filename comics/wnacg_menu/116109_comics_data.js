@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116109,
+    "title": "[熊崎玉子汉化组] [越後屋タケル] 強がったってTSっ娘",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116109.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1161/09/01.jpg",
+        "https://img3.qy0.ru/data/1161/09/02.jpg",
+        "https://img3.qy0.ru/data/1161/09/03.jpg",
+        "https://img3.qy0.ru/data/1161/09/04.jpg",
+        "https://img3.qy0.ru/data/1161/09/05.jpg",
+        "https://img3.qy0.ru/data/1161/09/06.jpg",
+        "https://img3.qy0.ru/data/1161/09/07.jpg",
+        "https://img3.qy0.ru/data/1161/09/08.jpg",
+        "https://img3.qy0.ru/data/1161/09/09.jpg",
+        "https://img3.qy0.ru/data/1161/09/10.jpg",
+        "https://img3.qy0.ru/data/1161/09/11.jpg",
+        "https://img3.qy0.ru/data/1161/09/12.jpg",
+        "https://img3.qy0.ru/data/1161/09/13.jpg",
+        "https://img3.qy0.ru/data/1161/09/14.jpg",
+        "https://img3.qy0.ru/data/1161/09/15.jpg",
+        "https://img3.qy0.ru/data/1161/09/16.jpg",
+        "https://img3.qy0.ru/data/1161/09/17.jpg",
+        "https://img3.qy0.ru/data/1161/09/18.jpg",
+        "https://img3.qy0.ru/data/1161/09/19.jpg",
+        "https://img3.qy0.ru/data/1161/09/20.jpg",
+        "https://img3.qy0.ru/data/1161/09/21.jpg",
+        "https://img3.qy0.ru/data/1161/09/22.jpg",
+        "https://img3.qy0.ru/data/1161/09/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

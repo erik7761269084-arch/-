@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 118613,
+    "title": "[无毒漢化組] [うしのみや] 母乳カフェ♥MOOMOO (COMIC アンスリウム 2021年4月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118613.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1186/13/01.jpg",
+        "https://img3.qy0.ru/data/1186/13/02.jpg",
+        "https://img3.qy0.ru/data/1186/13/03.jpg",
+        "https://img3.qy0.ru/data/1186/13/04.jpg",
+        "https://img3.qy0.ru/data/1186/13/05.jpg",
+        "https://img3.qy0.ru/data/1186/13/06.jpg",
+        "https://img3.qy0.ru/data/1186/13/07.jpg",
+        "https://img3.qy0.ru/data/1186/13/08.jpg",
+        "https://img3.qy0.ru/data/1186/13/09.jpg",
+        "https://img3.qy0.ru/data/1186/13/10.jpg",
+        "https://img3.qy0.ru/data/1186/13/11.jpg",
+        "https://img3.qy0.ru/data/1186/13/12.jpg",
+        "https://img3.qy0.ru/data/1186/13/13.jpg",
+        "https://img3.qy0.ru/data/1186/13/14.jpg",
+        "https://img3.qy0.ru/data/1186/13/15.jpg",
+        "https://img3.qy0.ru/data/1186/13/16.jpg",
+        "https://img3.qy0.ru/data/1186/13/17.jpg",
+        "https://img3.qy0.ru/data/1186/13/18.jpg",
+        "https://img3.qy0.ru/data/1186/13/19.jpg",
+        "https://img3.qy0.ru/data/1186/13/20.jpg",
+        "https://img3.qy0.ru/data/1186/13/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

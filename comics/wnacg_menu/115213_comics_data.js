@@ -1,0 +1,28 @@
+const comicData = {
+    "IDcode": 115213,
+    "title": "[UREC] 隣の秋山さん (WEEKLY快楽天 2021 No.01) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115213.html",
+    "totalPages": 28,
+    "images": [
+        "https://img3.qy0.ru/data/1152/13/0001.jpg",
+        "https://img3.qy0.ru/data/1152/13/0002.jpg",
+        "https://img3.qy0.ru/data/1152/13/0003.jpg",
+        "https://img3.qy0.ru/data/1152/13/0004.jpg",
+        "https://img3.qy0.ru/data/1152/13/0005.jpg",
+        "https://img3.qy0.ru/data/1152/13/0006.jpg",
+        "https://img3.qy0.ru/data/1152/13/0007.jpg",
+        "https://img3.qy0.ru/data/1152/13/0008.jpg",
+        "https://img3.qy0.ru/data/1152/13/0009.jpg",
+        "https://img3.qy0.ru/data/1152/13/0010.jpg",
+        "https://img3.qy0.ru/data/1152/13/0011.jpg",
+        "https://img3.qy0.ru/data/1152/13/0012.jpg",
+        "https://img3.qy0.ru/data/1152/13/0013.jpg",
+        "https://img3.qy0.ru/data/1152/13/0014.jpg",
+        "https://img3.qy0.ru/data/1152/13/0015.jpg",
+        "https://img3.qy0.ru/data/1152/13/0016.jpg",
+        "https://img3.qy0.ru/data/1152/13/0017.jpg",
+        "https://img3.qy0.ru/data/1152/13/0018.jpg",
+        "https://img3.qy0.ru/data/1152/13/0019.jpg",
+        "https://img3.qy0.ru/data/1152/13/0020.jpg"
+    ]
+};

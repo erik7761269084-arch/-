@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 115558,
+    "title": "[DATE] 伝心操作2 (コミックグレープ Vol.89) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115558.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1155/58/01.png",
+        "https://img3.qy0.ru/data/1155/58/02.png",
+        "https://img3.qy0.ru/data/1155/58/03.png",
+        "https://img3.qy0.ru/data/1155/58/04.png",
+        "https://img3.qy0.ru/data/1155/58/05.png",
+        "https://img3.qy0.ru/data/1155/58/06.png",
+        "https://img3.qy0.ru/data/1155/58/07.png",
+        "https://img3.qy0.ru/data/1155/58/08.png",
+        "https://img3.qy0.ru/data/1155/58/09.png",
+        "https://img3.qy0.ru/data/1155/58/10.png",
+        "https://img3.qy0.ru/data/1155/58/11.png",
+        "https://img3.qy0.ru/data/1155/58/12.png",
+        "https://img3.qy0.ru/data/1155/58/13.png",
+        "https://img3.qy0.ru/data/1155/58/14.png",
+        "https://img3.qy0.ru/data/1155/58/15.png",
+        "https://img3.qy0.ru/data/1155/58/16.png",
+        "https://img3.qy0.ru/data/1155/58/17.png",
+        "https://img3.qy0.ru/data/1155/58/18.png",
+        "https://img3.qy0.ru/data/1155/58/19.png",
+        "https://img3.qy0.ru/data/1155/58/20.png",
+        "https://img3.qy0.ru/data/1155/58/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

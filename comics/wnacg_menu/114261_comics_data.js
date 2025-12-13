@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114261,
+    "title": "[臭鼬娘漢化組] [Digital] [Bonsketch (ぼんすけ)] 現れた痴女は年下喰いのスカトロ変態でした 番外編 妄想オナニー",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114261.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1142/61/01.jpg",
+        "https://img3.qy0.ru/data/1142/61/02.jpg",
+        "https://img3.qy0.ru/data/1142/61/03.jpg",
+        "https://img3.qy0.ru/data/1142/61/04.jpg",
+        "https://img3.qy0.ru/data/1142/61/05.jpg",
+        "https://img3.qy0.ru/data/1142/61/06.jpg",
+        "https://img3.qy0.ru/data/1142/61/07.jpg",
+        "https://img3.qy0.ru/data/1142/61/08.jpg",
+        "https://img3.qy0.ru/data/1142/61/09.jpg",
+        "https://img3.qy0.ru/data/1142/61/10.jpg",
+        "https://img3.qy0.ru/data/1142/61/11.jpg",
+        "https://img3.qy0.ru/data/1142/61/12.jpg",
+        "https://img3.qy0.ru/data/1142/61/13.jpg",
+        "https://img3.qy0.ru/data/1142/61/14.jpg",
+        "https://img3.qy0.ru/data/1142/61/15.jpg",
+        "https://img3.qy0.ru/data/1142/61/16.jpg",
+        "https://img3.qy0.ru/data/1142/61/17.jpg",
+        "https://img3.qy0.ru/data/1142/61/18.jpg",
+        "https://img3.qy0.ru/data/1142/61/19.jpg",
+        "https://img3.qy0.ru/data/1142/61/20.jpg",
+        "https://img3.qy0.ru/data/1142/61/21.jpg",
+        "https://img3.qy0.ru/data/1142/61/22.jpg",
+        "https://img3.qy0.ru/data/1142/61/23.jpg",
+        "https://img3.qy0.ru/data/1142/61/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

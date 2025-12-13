@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 117126,
+    "title": "[翁賀馬乃助] 舫い糸 (COMIC 快楽天 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117126.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1171/26/09_069_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/01_062_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/14_074_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/10_070_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/23_083_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/03_063_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/11_071_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/21_081_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/22_082_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/17_077_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/20_080_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/05_065_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/08_068_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/06_066_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/12_072_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/18_078_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/16_076_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/13_073_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/07_067_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/19_079_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/04_064_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/15_075_1.jpg",
+        "https://img3.qy0.ru/data/1171/26/02_062.5.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

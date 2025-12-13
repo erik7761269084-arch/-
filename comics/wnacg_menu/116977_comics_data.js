@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116977,
+    "title": "[星野竜一] 催眠ネトラレ妻 はるか 第3話 [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116977.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1169/77/0.png",
+        "https://img3.qy0.ru/data/1169/77/1.png",
+        "https://img3.qy0.ru/data/1169/77/2.png",
+        "https://img3.qy0.ru/data/1169/77/3.png",
+        "https://img3.qy0.ru/data/1169/77/4.png",
+        "https://img3.qy0.ru/data/1169/77/5.png",
+        "https://img3.qy0.ru/data/1169/77/6.png",
+        "https://img3.qy0.ru/data/1169/77/7.png",
+        "https://img3.qy0.ru/data/1169/77/8.png",
+        "https://img3.qy0.ru/data/1169/77/9.png",
+        "https://img3.qy0.ru/data/1169/77/10.png",
+        "https://img3.qy0.ru/data/1169/77/11.png",
+        "https://img3.qy0.ru/data/1169/77/12.png",
+        "https://img3.qy0.ru/data/1169/77/13.png",
+        "https://img3.qy0.ru/data/1169/77/14.png",
+        "https://img3.qy0.ru/data/1169/77/15.png",
+        "https://img3.qy0.ru/data/1169/77/16.png",
+        "https://img3.qy0.ru/data/1169/77/17.png",
+        "https://img3.qy0.ru/data/1169/77/18.png",
+        "https://img3.qy0.ru/data/1169/77/19.png",
+        "https://img3.qy0.ru/data/1169/77/20.png",
+        "https://img3.qy0.ru/data/1169/77/21.jpg",
+        "https://img3.qy0.ru/data/1169/77/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 334242,
+    "title": "[よんよん] RE︰vival",
+    "sourceUrl": "https://www.wnacg.com/photos-list-aid-334242.html",
+    "images": [
+        "https://img5.qy0.ru/data/3342/42/113_pg_113_972.80_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/112_pg_112_1.05_MB.jpg",
+        "https://img5.qy0.ru/data/3342/42/111_pg_111_999.44_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/119_pg_119_917.66_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/117_pg_117_1.02_MB.jpg",
+        "https://img5.qy0.ru/data/3342/42/123_pg_123_923.44_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/126_pg_126_931.58_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/106_pg_106_948.64_KB.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img5.qy0.ru/data/3342/42/107_pg_107_1.08_MB.jpg",
+        "https://img5.qy0.ru/data/3342/42/124_pg_124_1019.30_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/128_pg_128_785.01_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/105_pg_105_980.19_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/115_pg_115_868.29_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/121_pg_121_1.05_MB.jpg",
+        "https://img5.qy0.ru/data/3342/42/110_pg_110_955.84_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/114_pg_114_945.09_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/125_pg_125_973.30_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/122_pg_122_1023.25_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/116_pg_116_980.97_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/127_pg_127_1008.75_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/109_pg_109_946.39_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/120_pg_120_939.76_KB.jpg",
+        "https://img5.qy0.ru/data/3342/42/108_pg_108_1.07_MB.jpg",
+        "https://img5.qy0.ru/data/3342/42/118_pg_118_940.99_KB.jpg"
+    ]
+};

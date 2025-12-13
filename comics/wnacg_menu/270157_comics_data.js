@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 270157,
+    "title": "[沖葉] 童貞を卒業した日【前編】& 【後編】 [hengnio個人漢化]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-270157.html",
+    "images": [
+        "https://img5.qy0.ru/data/2701/57/01.jpg",
+        "https://img5.qy0.ru/data/2701/57/20.jpg",
+        "https://img5.qy0.ru/data/2701/57/04.jpg",
+        "https://img5.qy0.ru/data/2701/57/13.jpg",
+        "https://img5.qy0.ru/data/2701/57/10.jpg",
+        "https://img5.qy0.ru/data/2701/57/05.jpg",
+        "https://img5.qy0.ru/data/2701/57/08.jpg",
+        "https://img5.qy0.ru/data/2701/57/11.jpg",
+        "https://img5.qy0.ru/data/2701/57/06.jpg",
+        "https://img5.qy0.ru/data/2701/57/18.jpg",
+        "https://img5.qy0.ru/data/2701/57/12.jpg",
+        "https://img5.qy0.ru/data/2701/57/19.jpg",
+        "https://img5.qy0.ru/data/2701/57/17.jpg",
+        "https://img5.qy0.ru/data/2701/57/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img5.qy0.ru/data/2701/57/21.jpg",
+        "https://img5.qy0.ru/data/2701/57/02.jpg",
+        "https://img5.qy0.ru/data/2701/57/03.jpg",
+        "https://img5.qy0.ru/data/2701/57/15.jpg",
+        "https://img5.qy0.ru/data/2701/57/07.jpg",
+        "https://img5.qy0.ru/data/2701/57/14.jpg",
+        "https://img5.qy0.ru/data/2701/57/16.jpg",
+        "https://img5.qy0.ru/data/2701/57/23.jpg",
+        "https://img5.qy0.ru/data/2701/57/09.jpg"
+    ]
+};

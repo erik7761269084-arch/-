@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 138830,
+    "title": "(C99) [タニシ屋 (たにし)] 治療です (Fate Grand Order) [黎欧x苍蓝星汉化组]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-138830.html",
+    "images": [
+        "https://img3.qy0.ru/data/1388/30/16418229914132.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418230067778.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418230213781.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418230381329.jpg",
+        "https://img3.qy0.ru/data/1388/30/1641823053796.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418230701095.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418230871797.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231063151.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231220543.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231403186.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231574909.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231754671.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418231934864.jpg",
+        "https://img3.qy0.ru/data/1388/30/1641823206244.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418232209629.jpg",
+        "https://img3.qy0.ru/data/1388/30/1641823235353.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418232538083.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418229147542.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418229393751.jpg",
+        "https://img3.qy0.ru/data/1388/30/1641822954207.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418229739338.jpg",
+        "https://img3.qy0.ru/data/1388/30/16418229768954.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

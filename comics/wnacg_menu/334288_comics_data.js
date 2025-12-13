@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 334288,
+    "title": "[内藤キララ] スライム娘メルルのえっちなおしごと 第4話 (コミックアンリアル 2025年12月号 Vol.118)｜史莱姆娘梅露露的涩情工作 第4话 [忆之风汉化组] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-334288.html",
+    "images": [
+        "https://img5.qy0.ru/data/3342/88/17.jpg",
+        "https://img5.qy0.ru/data/3342/88/07.jpg",
+        "https://img5.qy0.ru/data/3342/88/05.jpg",
+        "https://img5.qy0.ru/data/3342/88/06.jpg",
+        "https://img5.qy0.ru/data/3342/88/19.jpg",
+        "https://img5.qy0.ru/data/3342/88/12.jpg",
+        "https://img5.qy0.ru/data/3342/88/16.jpg",
+        "https://img5.qy0.ru/data/3342/88/18.jpg",
+        "https://img5.qy0.ru/data/3342/88/04.jpg",
+        "https://img5.qy0.ru/data/3342/88/15.jpg",
+        "https://img5.qy0.ru/data/3342/88/13.jpg",
+        "https://img5.qy0.ru/data/3342/88/24.jpg",
+        "https://img5.qy0.ru/data/3342/88/22.jpg",
+        "https://img5.qy0.ru/data/3342/88/03.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img5.qy0.ru/data/3342/88/01.jpg",
+        "https://img5.qy0.ru/data/3342/88/10.jpg",
+        "https://img5.qy0.ru/data/3342/88/14.jpg",
+        "https://img5.qy0.ru/data/3342/88/02.jpg",
+        "https://img5.qy0.ru/data/3342/88/08.jpg",
+        "https://img5.qy0.ru/data/3342/88/21.jpg",
+        "https://img5.qy0.ru/data/3342/88/23.jpg",
+        "https://img5.qy0.ru/data/3342/88/11.jpg",
+        "https://img5.qy0.ru/data/3342/88/09.jpg",
+        "https://img5.qy0.ru/data/3342/88/20.jpg"
+    ]
+};

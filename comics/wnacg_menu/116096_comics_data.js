@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 116096,
+    "title": "[蓬莱玉枝个人汉化] [大秦国王安敦] 妹だって使っていいのよ? (COMIC ペンギンクラブ 2021年4月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116096.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1160/96/00.jpg",
+        "https://img3.qy0.ru/data/1160/96/01.jpg",
+        "https://img3.qy0.ru/data/1160/96/02.jpg",
+        "https://img3.qy0.ru/data/1160/96/03.jpg",
+        "https://img3.qy0.ru/data/1160/96/04.jpg",
+        "https://img3.qy0.ru/data/1160/96/05.jpg",
+        "https://img3.qy0.ru/data/1160/96/06.jpg",
+        "https://img3.qy0.ru/data/1160/96/07.jpg",
+        "https://img3.qy0.ru/data/1160/96/08.jpg",
+        "https://img3.qy0.ru/data/1160/96/09.jpg",
+        "https://img3.qy0.ru/data/1160/96/10.jpg",
+        "https://img3.qy0.ru/data/1160/96/11.jpg",
+        "https://img3.qy0.ru/data/1160/96/12.jpg",
+        "https://img3.qy0.ru/data/1160/96/13.jpg",
+        "https://img3.qy0.ru/data/1160/96/14.jpg",
+        "https://img3.qy0.ru/data/1160/96/15.jpg",
+        "https://img3.qy0.ru/data/1160/96/16.jpg",
+        "https://img3.qy0.ru/data/1160/96/17.jpg",
+        "https://img3.qy0.ru/data/1160/96/18.jpg",
+        "https://img3.qy0.ru/data/1160/96/19.jpg",
+        "https://img3.qy0.ru/data/1160/96/20.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

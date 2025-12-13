@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 116464,
+    "title": "[emily] お姉ちゃんストレート! (COMIC BAVEL 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116464.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1164/64/21_21.jpg",
+        "https://img3.qy0.ru/data/1164/64/01_134.png",
+        "https://img3.qy0.ru/data/1164/64/02_135.png",
+        "https://img3.qy0.ru/data/1164/64/03_136.png",
+        "https://img3.qy0.ru/data/1164/64/04_137.png",
+        "https://img3.qy0.ru/data/1164/64/05_138.png",
+        "https://img3.qy0.ru/data/1164/64/06_139.png",
+        "https://img3.qy0.ru/data/1164/64/07_140.png",
+        "https://img3.qy0.ru/data/1164/64/08_141.png",
+        "https://img3.qy0.ru/data/1164/64/09_142.png",
+        "https://img3.qy0.ru/data/1164/64/10_143.png",
+        "https://img3.qy0.ru/data/1164/64/11_144.png",
+        "https://img3.qy0.ru/data/1164/64/12_145.png",
+        "https://img3.qy0.ru/data/1164/64/13_146.png",
+        "https://img3.qy0.ru/data/1164/64/14_147.png",
+        "https://img3.qy0.ru/data/1164/64/15_148.png",
+        "https://img3.qy0.ru/data/1164/64/16_149.png",
+        "https://img3.qy0.ru/data/1164/64/17_150.png",
+        "https://img3.qy0.ru/data/1164/64/18_151.png",
+        "https://img3.qy0.ru/data/1164/64/19_152.png",
+        "https://img3.qy0.ru/data/1164/64/20_153.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118005,
+    "title": "[肉包汉化组] [田倉まひろ] フレーメンの子作りたい (COMIC 外楽 Vol.01)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118005.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1180/05/096.jpg",
+        "https://img3.qy0.ru/data/1180/05/097.jpg",
+        "https://img3.qy0.ru/data/1180/05/098.jpg",
+        "https://img3.qy0.ru/data/1180/05/099.jpg",
+        "https://img3.qy0.ru/data/1180/05/100.jpg",
+        "https://img3.qy0.ru/data/1180/05/101.jpg",
+        "https://img3.qy0.ru/data/1180/05/102.jpg",
+        "https://img3.qy0.ru/data/1180/05/103.jpg",
+        "https://img3.qy0.ru/data/1180/05/104.jpg",
+        "https://img3.qy0.ru/data/1180/05/105.jpg",
+        "https://img3.qy0.ru/data/1180/05/106.jpg",
+        "https://img3.qy0.ru/data/1180/05/107.jpg",
+        "https://img3.qy0.ru/data/1180/05/108.jpg",
+        "https://img3.qy0.ru/data/1180/05/109.jpg",
+        "https://img3.qy0.ru/data/1180/05/110.jpg",
+        "https://img3.qy0.ru/data/1180/05/111.jpg",
+        "https://img3.qy0.ru/data/1180/05/112.jpg",
+        "https://img3.qy0.ru/data/1180/05/113.jpg",
+        "https://img3.qy0.ru/data/1180/05/114.jpg",
+        "https://img3.qy0.ru/data/1180/05/115.jpg",
+        "https://img3.qy0.ru/data/1180/05/116.jpg",
+        "https://img3.qy0.ru/data/1180/05/117.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

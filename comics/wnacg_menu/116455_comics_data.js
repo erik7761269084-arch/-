@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116455,
+    "title": "(COMIC1☆13) [沙悟荘 (瀬浦沙悟)] 殿下をママにしてやりたい!が可決されました! (魔界戦記ディスガイア) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116455.html",
+    "totalPages": 31,
+    "images": [
+        "https://img3.qy0.ru/data/1164/55/001.jpg",
+        "https://img3.qy0.ru/data/1164/55/002.jpg",
+        "https://img3.qy0.ru/data/1164/55/003.jpg",
+        "https://img3.qy0.ru/data/1164/55/004.jpg",
+        "https://img3.qy0.ru/data/1164/55/005.jpg",
+        "https://img3.qy0.ru/data/1164/55/006.jpg",
+        "https://img3.qy0.ru/data/1164/55/007.jpg",
+        "https://img3.qy0.ru/data/1164/55/008.jpg",
+        "https://img3.qy0.ru/data/1164/55/009.jpg",
+        "https://img3.qy0.ru/data/1164/55/010.jpg",
+        "https://img3.qy0.ru/data/1164/55/011.jpg",
+        "https://img3.qy0.ru/data/1164/55/012.jpg",
+        "https://img3.qy0.ru/data/1164/55/013.jpg",
+        "https://img3.qy0.ru/data/1164/55/014.jpg",
+        "https://img3.qy0.ru/data/1164/55/015.jpg",
+        "https://img3.qy0.ru/data/1164/55/016.jpg",
+        "https://img3.qy0.ru/data/1164/55/017.jpg",
+        "https://img3.qy0.ru/data/1164/55/018.jpg",
+        "https://img3.qy0.ru/data/1164/55/019.jpg",
+        "https://img3.qy0.ru/data/1164/55/020.jpg",
+        "https://img3.qy0.ru/data/1164/55/021.jpg",
+        "https://img3.qy0.ru/data/1164/55/022.jpg",
+        "https://img3.qy0.ru/data/1164/55/023.jpg"
+    ]
+};

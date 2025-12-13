@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116508,
+    "title": "[暴碧汉化组] [前島龍] 萩尾なほみちゃん失踪事件2：奥様は中学生♥ | 太太是初中生♥ (COMIC LO 2021年3月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116508.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1165/08/00.jpg",
+        "https://img3.qy0.ru/data/1165/08/01.jpg",
+        "https://img3.qy0.ru/data/1165/08/02.jpg",
+        "https://img3.qy0.ru/data/1165/08/03.jpg",
+        "https://img3.qy0.ru/data/1165/08/04.jpg",
+        "https://img3.qy0.ru/data/1165/08/05.jpg",
+        "https://img3.qy0.ru/data/1165/08/06.jpg",
+        "https://img3.qy0.ru/data/1165/08/07.jpg",
+        "https://img3.qy0.ru/data/1165/08/08.jpg",
+        "https://img3.qy0.ru/data/1165/08/09.jpg",
+        "https://img3.qy0.ru/data/1165/08/10.jpg",
+        "https://img3.qy0.ru/data/1165/08/11.jpg",
+        "https://img3.qy0.ru/data/1165/08/12.jpg",
+        "https://img3.qy0.ru/data/1165/08/13.jpg",
+        "https://img3.qy0.ru/data/1165/08/14.jpg",
+        "https://img3.qy0.ru/data/1165/08/15.jpg",
+        "https://img3.qy0.ru/data/1165/08/16.jpg",
+        "https://img3.qy0.ru/data/1165/08/17.jpg",
+        "https://img3.qy0.ru/data/1165/08/18.jpg",
+        "https://img3.qy0.ru/data/1165/08/19.jpg",
+        "https://img3.qy0.ru/data/1165/08/20.jpg",
+        "https://img3.qy0.ru/data/1165/08/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

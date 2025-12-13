@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118974,
+    "title": "[おさとう] 欲火の女 (COMIC 失楽天 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118974.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1189/74/169.png",
+        "https://img3.qy0.ru/data/1189/74/170.png",
+        "https://img3.qy0.ru/data/1189/74/171.png",
+        "https://img3.qy0.ru/data/1189/74/172.png",
+        "https://img3.qy0.ru/data/1189/74/173.png",
+        "https://img3.qy0.ru/data/1189/74/174.png",
+        "https://img3.qy0.ru/data/1189/74/175.png",
+        "https://img3.qy0.ru/data/1189/74/176.png",
+        "https://img3.qy0.ru/data/1189/74/177.png",
+        "https://img3.qy0.ru/data/1189/74/178.png",
+        "https://img3.qy0.ru/data/1189/74/179.png",
+        "https://img3.qy0.ru/data/1189/74/180.png",
+        "https://img3.qy0.ru/data/1189/74/181.png",
+        "https://img3.qy0.ru/data/1189/74/182.png",
+        "https://img3.qy0.ru/data/1189/74/183.png",
+        "https://img3.qy0.ru/data/1189/74/184.png",
+        "https://img3.qy0.ru/data/1189/74/185.png",
+        "https://img3.qy0.ru/data/1189/74/186.png",
+        "https://img3.qy0.ru/data/1189/74/187.png",
+        "https://img3.qy0.ru/data/1189/74/188.png",
+        "https://img3.qy0.ru/data/1189/74/189.png",
+        "https://img3.qy0.ru/data/1189/74/190.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

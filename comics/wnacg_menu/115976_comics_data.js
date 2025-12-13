@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115976,
+    "title": "[源五郎] 少女婚活時代～結婚は押しの一手!～ (少女婚活時代 Looking for the one) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115976.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1159/76/0001.jpg",
+        "https://img3.qy0.ru/data/1159/76/0002.jpg",
+        "https://img3.qy0.ru/data/1159/76/0003.jpg",
+        "https://img3.qy0.ru/data/1159/76/0004.jpg",
+        "https://img3.qy0.ru/data/1159/76/0005.jpg",
+        "https://img3.qy0.ru/data/1159/76/0006.jpg",
+        "https://img3.qy0.ru/data/1159/76/0007.jpg",
+        "https://img3.qy0.ru/data/1159/76/0008.jpg",
+        "https://img3.qy0.ru/data/1159/76/0009.jpg",
+        "https://img3.qy0.ru/data/1159/76/0010.jpg",
+        "https://img3.qy0.ru/data/1159/76/0011.jpg",
+        "https://img3.qy0.ru/data/1159/76/0012.jpg",
+        "https://img3.qy0.ru/data/1159/76/0013.jpg",
+        "https://img3.qy0.ru/data/1159/76/0014.jpg",
+        "https://img3.qy0.ru/data/1159/76/0015.jpg",
+        "https://img3.qy0.ru/data/1159/76/0016.jpg",
+        "https://img3.qy0.ru/data/1159/76/0017.jpg",
+        "https://img3.qy0.ru/data/1159/76/0018.jpg",
+        "https://img3.qy0.ru/data/1159/76/0019.jpg",
+        "https://img3.qy0.ru/data/1159/76/0020.jpg",
+        "https://img3.qy0.ru/data/1159/76/0021.jpg",
+        "https://img3.qy0.ru/data/1159/76/0022.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

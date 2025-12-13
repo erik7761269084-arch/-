@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 116362,
+    "title": "[さんじゅうろう] エースの秘密  (コミックゼロス #67) [無邪気漢化組][MJK-21-Z2554]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116362.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-001.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-002.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-003.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-004.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-005.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-006.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-007.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-008.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-009.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-010.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-011.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-012.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-013.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-014.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-015.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-016.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-017.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-018.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-019.png",
+        "https://img3.qy0.ru/data/1163/62/MJK-21-Z2554-020.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1163/62/16165895520454.png"
+    ]
+};

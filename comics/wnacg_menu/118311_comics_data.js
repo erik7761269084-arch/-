@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 118311,
+    "title": "[ヤギコム] モモノキ荘の住人 (COMIC 快楽天 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118311.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1183/11/0001.jpg",
+        "https://img3.qy0.ru/data/1183/11/0002.jpg",
+        "https://img3.qy0.ru/data/1183/11/0003.jpg",
+        "https://img3.qy0.ru/data/1183/11/0004.jpg",
+        "https://img3.qy0.ru/data/1183/11/0005.jpg",
+        "https://img3.qy0.ru/data/1183/11/0006.jpg",
+        "https://img3.qy0.ru/data/1183/11/0007.jpg",
+        "https://img3.qy0.ru/data/1183/11/0008.jpg",
+        "https://img3.qy0.ru/data/1183/11/0009.jpg",
+        "https://img3.qy0.ru/data/1183/11/0010.jpg",
+        "https://img3.qy0.ru/data/1183/11/0011.jpg",
+        "https://img3.qy0.ru/data/1183/11/0012.jpg",
+        "https://img3.qy0.ru/data/1183/11/0013.jpg",
+        "https://img3.qy0.ru/data/1183/11/0014.jpg",
+        "https://img3.qy0.ru/data/1183/11/0015.jpg",
+        "https://img3.qy0.ru/data/1183/11/0016.jpg",
+        "https://img3.qy0.ru/data/1183/11/0017.jpg",
+        "https://img3.qy0.ru/data/1183/11/0018.jpg",
+        "https://img3.qy0.ru/data/1183/11/0019.jpg",
+        "https://img3.qy0.ru/data/1183/11/0020.jpg",
+        "https://img3.qy0.ru/data/1183/11/0021.jpg",
+        "https://img3.qy0.ru/data/1183/11/0022.jpg",
+        "https://img3.qy0.ru/data/1183/11/0023.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117708,
+    "title": "[紫苑汉化组] [ぱふぇ] 退魔巫女 宝仙院栞_～怪物の母嫁にされた聖女～",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117708.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1177/08/01.jpg",
+        "https://img3.qy0.ru/data/1177/08/02.jpg",
+        "https://img3.qy0.ru/data/1177/08/03.jpg",
+        "https://img3.qy0.ru/data/1177/08/04.jpg",
+        "https://img3.qy0.ru/data/1177/08/05.jpg",
+        "https://img3.qy0.ru/data/1177/08/06.jpg",
+        "https://img3.qy0.ru/data/1177/08/07.jpg",
+        "https://img3.qy0.ru/data/1177/08/08.jpg",
+        "https://img3.qy0.ru/data/1177/08/09.jpg",
+        "https://img3.qy0.ru/data/1177/08/10.jpg",
+        "https://img3.qy0.ru/data/1177/08/11.jpg",
+        "https://img3.qy0.ru/data/1177/08/12.jpg",
+        "https://img3.qy0.ru/data/1177/08/13.jpg",
+        "https://img3.qy0.ru/data/1177/08/14.jpg",
+        "https://img3.qy0.ru/data/1177/08/15.jpg",
+        "https://img3.qy0.ru/data/1177/08/16.jpg",
+        "https://img3.qy0.ru/data/1177/08/17.jpg",
+        "https://img3.qy0.ru/data/1177/08/18.jpg",
+        "https://img3.qy0.ru/data/1177/08/19.jpg",
+        "https://img3.qy0.ru/data/1177/08/20.jpg",
+        "https://img3.qy0.ru/data/1177/08/21.jpg",
+        "https://img3.qy0.ru/data/1177/08/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

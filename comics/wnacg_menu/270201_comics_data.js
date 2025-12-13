@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 270201,
+    "title": "(C103) [兎屋 (とがみ)] 孕ませ!ゲヘナ風紀委員長!! (ブルーアーカイブ) [不咕鸟汉化组]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-270201.html",
+    "images": [
+        "https://img5.qy0.ru/data/2702/01/02.jpg",
+        "https://img5.qy0.ru/data/2702/01/10.jpg",
+        "https://img5.qy0.ru/data/2702/01/13.jpg",
+        "https://img5.qy0.ru/data/2702/01/18.jpg",
+        "https://img5.qy0.ru/data/2702/01/23.jpg",
+        "https://img5.qy0.ru/data/2702/01/24.jpg",
+        "https://img5.qy0.ru/data/2702/01/07.jpg",
+        "https://img5.qy0.ru/data/2702/01/05.jpg",
+        "https://img5.qy0.ru/data/2702/01/09.jpg",
+        "https://img5.qy0.ru/data/2702/01/01.jpg",
+        "https://img5.qy0.ru/data/2702/01/19.jpg",
+        "https://img5.qy0.ru/data/2702/01/17.jpg",
+        "https://img5.qy0.ru/data/2702/01/21.jpg",
+        "https://img5.qy0.ru/data/2702/01/15.jpg",
+        "https://img5.qy0.ru/data/2702/01/06.jpg",
+        "https://img5.qy0.ru/data/2702/01/08.jpg",
+        "https://img5.qy0.ru/data/2702/01/22.jpg",
+        "https://img5.qy0.ru/data/2702/01/16.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img5.qy0.ru/data/2702/01/04.jpg",
+        "https://img5.qy0.ru/data/2702/01/12.jpg",
+        "https://img5.qy0.ru/data/2702/01/03.jpg",
+        "https://img5.qy0.ru/data/2702/01/14.jpg",
+        "https://img5.qy0.ru/data/2702/01/11.jpg",
+        "https://img5.qy0.ru/data/2702/01/20.jpg"
+    ]
+};

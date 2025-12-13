@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116271,
+    "title": "[utu] しかくかんけい (COMIC 失楽天 2021年3月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116271.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1162/71/img0027.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0042.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0041a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0037a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0025a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0022a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0021a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0030a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0044a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0040a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0034a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0029a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0043a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0023a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0031a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0036a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0038a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0039a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0032a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0033a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0024a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0035a.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0026a.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1162/71/img0028a.jpg"
+    ]
+};

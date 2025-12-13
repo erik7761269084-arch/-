@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 116197,
+    "title": "[楝蛙] なつあそび (COMIC 快楽天 2020年9月号) [中國翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116197.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1161/97/001.png",
+        "https://img3.qy0.ru/data/1161/97/002.png",
+        "https://img3.qy0.ru/data/1161/97/003.png",
+        "https://img3.qy0.ru/data/1161/97/004.png",
+        "https://img3.qy0.ru/data/1161/97/005.png",
+        "https://img3.qy0.ru/data/1161/97/006.png",
+        "https://img3.qy0.ru/data/1161/97/007.png",
+        "https://img3.qy0.ru/data/1161/97/008.png",
+        "https://img3.qy0.ru/data/1161/97/009.png",
+        "https://img3.qy0.ru/data/1161/97/010.png",
+        "https://img3.qy0.ru/data/1161/97/011.png",
+        "https://img3.qy0.ru/data/1161/97/012.png",
+        "https://img3.qy0.ru/data/1161/97/013.png",
+        "https://img3.qy0.ru/data/1161/97/014.png",
+        "https://img3.qy0.ru/data/1161/97/015.png",
+        "https://img3.qy0.ru/data/1161/97/016.png",
+        "https://img3.qy0.ru/data/1161/97/017.png",
+        "https://img3.qy0.ru/data/1161/97/018.png",
+        "https://img3.qy0.ru/data/1161/97/019.png",
+        "https://img3.qy0.ru/data/1161/97/020.png",
+        "https://img3.qy0.ru/data/1161/97/021.png",
+        "https://img3.qy0.ru/data/1161/97/022.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

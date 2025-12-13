@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116622,
+    "title": "[TANABE] 雌雄相打つ!! (COMIC 失楽天 2021年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116622.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1166/22/24_24.jpg",
+        "https://img3.qy0.ru/data/1166/22/01_186.jpg",
+        "https://img3.qy0.ru/data/1166/22/02_187.jpg",
+        "https://img3.qy0.ru/data/1166/22/03_188.jpg",
+        "https://img3.qy0.ru/data/1166/22/04_189.jpg",
+        "https://img3.qy0.ru/data/1166/22/05_190.jpg",
+        "https://img3.qy0.ru/data/1166/22/06_191.jpg",
+        "https://img3.qy0.ru/data/1166/22/07_192.jpg",
+        "https://img3.qy0.ru/data/1166/22/08_193.jpg",
+        "https://img3.qy0.ru/data/1166/22/09_194.jpg",
+        "https://img3.qy0.ru/data/1166/22/10_195.jpg",
+        "https://img3.qy0.ru/data/1166/22/11_196.jpg",
+        "https://img3.qy0.ru/data/1166/22/12_197.jpg",
+        "https://img3.qy0.ru/data/1166/22/13_198.jpg",
+        "https://img3.qy0.ru/data/1166/22/14_199.jpg",
+        "https://img3.qy0.ru/data/1166/22/15_200.jpg",
+        "https://img3.qy0.ru/data/1166/22/16_201.jpg",
+        "https://img3.qy0.ru/data/1166/22/17_202.jpg",
+        "https://img3.qy0.ru/data/1166/22/18_203.jpg",
+        "https://img3.qy0.ru/data/1166/22/19_204.jpg",
+        "https://img3.qy0.ru/data/1166/22/20_205.jpg",
+        "https://img3.qy0.ru/data/1166/22/21_206.jpg",
+        "https://img3.qy0.ru/data/1166/22/22_207.jpg",
+        "https://img3.qy0.ru/data/1166/22/23_208.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

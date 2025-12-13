@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 114604,
+    "title": "[羽月ユウト] りべんじ! (COMIC 快楽天ビースト 2021年3月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114604.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1146/04/00.png",
+        "https://img3.qy0.ru/data/1146/04/01.png",
+        "https://img3.qy0.ru/data/1146/04/02.png",
+        "https://img3.qy0.ru/data/1146/04/03.png",
+        "https://img3.qy0.ru/data/1146/04/04.png",
+        "https://img3.qy0.ru/data/1146/04/05.png",
+        "https://img3.qy0.ru/data/1146/04/06.png",
+        "https://img3.qy0.ru/data/1146/04/07.png",
+        "https://img3.qy0.ru/data/1146/04/08.png",
+        "https://img3.qy0.ru/data/1146/04/09.png",
+        "https://img3.qy0.ru/data/1146/04/10.png",
+        "https://img3.qy0.ru/data/1146/04/11.png",
+        "https://img3.qy0.ru/data/1146/04/12.png",
+        "https://img3.qy0.ru/data/1146/04/13.png",
+        "https://img3.qy0.ru/data/1146/04/14.png",
+        "https://img3.qy0.ru/data/1146/04/15.png",
+        "https://img3.qy0.ru/data/1146/04/16.png",
+        "https://img3.qy0.ru/data/1146/04/17.png",
+        "https://img3.qy0.ru/data/1146/04/18.png",
+        "https://img3.qy0.ru/data/1146/04/19.png",
+        "https://img3.qy0.ru/data/1146/04/20.png",
+        "https://img3.qy0.ru/data/1146/04/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

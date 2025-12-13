@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 335072,
+    "title": "[久我繭莉] 性衝動 [Yunci个人汉化／极东组] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-335072.html",
+    "totalPages": 229,
+    "images": [
+        "https://img5.qy0.ru/data/3350/72/001.jpg",
+        "https://img5.qy0.ru/data/3350/72/002.jpg",
+        "https://img5.qy0.ru/data/3350/72/003.jpg",
+        "https://img5.qy0.ru/data/3350/72/004.jpg",
+        "https://img5.qy0.ru/data/3350/72/005.jpg",
+        "https://img5.qy0.ru/data/3350/72/006.jpg",
+        "https://img5.qy0.ru/data/3350/72/007.jpg",
+        "https://img5.qy0.ru/data/3350/72/008.jpg",
+        "https://img5.qy0.ru/data/3350/72/009.jpg",
+        "https://img5.qy0.ru/data/3350/72/010.jpg",
+        "https://img5.qy0.ru/data/3350/72/011.jpg",
+        "https://img5.qy0.ru/data/3350/72/012.jpg",
+        "https://img5.qy0.ru/data/3350/72/013.jpg",
+        "https://img5.qy0.ru/data/3350/72/014.jpg",
+        "https://img5.qy0.ru/data/3350/72/015.jpg",
+        "https://img5.qy0.ru/data/3350/72/016.jpg",
+        "https://img5.qy0.ru/data/3350/72/017.jpg",
+        "https://img5.qy0.ru/data/3350/72/018.jpg",
+        "https://img5.qy0.ru/data/3350/72/019.jpg",
+        "https://img5.qy0.ru/data/3350/72/020.jpg",
+        "https://img5.qy0.ru/data/3350/72/021.jpg",
+        "https://img5.qy0.ru/data/3350/72/022.jpg",
+        "https://img5.qy0.ru/data/3350/72/023.jpg",
+        "https://img5.qy0.ru/data/3350/72/024.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 118518,
+    "title": "[不可视汉化] [Q] 虜 (モンスター少女との劣情) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118518.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1185/18/00.jpg",
+        "https://img3.qy0.ru/data/1185/18/01.jpg",
+        "https://img3.qy0.ru/data/1185/18/02.jpg",
+        "https://img3.qy0.ru/data/1185/18/03.jpg",
+        "https://img3.qy0.ru/data/1185/18/04.jpg",
+        "https://img3.qy0.ru/data/1185/18/05.jpg",
+        "https://img3.qy0.ru/data/1185/18/06.jpg",
+        "https://img3.qy0.ru/data/1185/18/07.jpg",
+        "https://img3.qy0.ru/data/1185/18/08.jpg",
+        "https://img3.qy0.ru/data/1185/18/09.jpg",
+        "https://img3.qy0.ru/data/1185/18/10.jpg",
+        "https://img3.qy0.ru/data/1185/18/11.jpg",
+        "https://img3.qy0.ru/data/1185/18/12.jpg",
+        "https://img3.qy0.ru/data/1185/18/13.jpg",
+        "https://img3.qy0.ru/data/1185/18/14.jpg",
+        "https://img3.qy0.ru/data/1185/18/15.jpg",
+        "https://img3.qy0.ru/data/1185/18/16.jpg",
+        "https://img3.qy0.ru/data/1185/18/17.jpg",
+        "https://img3.qy0.ru/data/1185/18/18.jpg",
+        "https://img3.qy0.ru/data/1185/18/19.jpg",
+        "https://img3.qy0.ru/data/1185/18/20.jpg",
+        "https://img3.qy0.ru/data/1185/18/21.jpg",
+        "https://img3.qy0.ru/data/1185/18/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118056,
+    "title": "[藍夜] ヨメトリ (COMIC 快楽天 2020年3月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118056.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1180/56/000.png",
+        "https://img3.qy0.ru/data/1180/56/313.png",
+        "https://img3.qy0.ru/data/1180/56/314.png",
+        "https://img3.qy0.ru/data/1180/56/315.png",
+        "https://img3.qy0.ru/data/1180/56/316.png",
+        "https://img3.qy0.ru/data/1180/56/317.png",
+        "https://img3.qy0.ru/data/1180/56/318.png",
+        "https://img3.qy0.ru/data/1180/56/319.png",
+        "https://img3.qy0.ru/data/1180/56/320.png",
+        "https://img3.qy0.ru/data/1180/56/321.png",
+        "https://img3.qy0.ru/data/1180/56/322.png",
+        "https://img3.qy0.ru/data/1180/56/323.png",
+        "https://img3.qy0.ru/data/1180/56/324.png",
+        "https://img3.qy0.ru/data/1180/56/325.png",
+        "https://img3.qy0.ru/data/1180/56/326.png",
+        "https://img3.qy0.ru/data/1180/56/327.png",
+        "https://img3.qy0.ru/data/1180/56/328.png",
+        "https://img3.qy0.ru/data/1180/56/329.png",
+        "https://img3.qy0.ru/data/1180/56/330.png",
+        "https://img3.qy0.ru/data/1180/56/331.png",
+        "https://img3.qy0.ru/data/1180/56/332.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1180/56/img998_nc.jpg"
+    ]
+};

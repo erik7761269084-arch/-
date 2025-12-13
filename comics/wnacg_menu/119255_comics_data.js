@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 119255,
+    "title": "(ハッカプラス)[trigger.m (えむえむお)]おしかけアクマは逆らえない！ 4 [黑暗月光石]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119255.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1192/55/01.jpg",
+        "https://img3.qy0.ru/data/1192/55/02.jpg",
+        "https://img3.qy0.ru/data/1192/55/03.jpg",
+        "https://img3.qy0.ru/data/1192/55/04.jpg",
+        "https://img3.qy0.ru/data/1192/55/05.jpg",
+        "https://img3.qy0.ru/data/1192/55/06.jpg",
+        "https://img3.qy0.ru/data/1192/55/07.jpg",
+        "https://img3.qy0.ru/data/1192/55/08.jpg",
+        "https://img3.qy0.ru/data/1192/55/09.jpg",
+        "https://img3.qy0.ru/data/1192/55/10.jpg",
+        "https://img3.qy0.ru/data/1192/55/11.jpg",
+        "https://img3.qy0.ru/data/1192/55/12.jpg",
+        "https://img3.qy0.ru/data/1192/55/13.jpg",
+        "https://img3.qy0.ru/data/1192/55/14.jpg",
+        "https://img3.qy0.ru/data/1192/55/15.jpg",
+        "https://img3.qy0.ru/data/1192/55/16.jpg",
+        "https://img3.qy0.ru/data/1192/55/17.jpg",
+        "https://img3.qy0.ru/data/1192/55/18.jpg",
+        "https://img3.qy0.ru/data/1192/55/19.jpg",
+        "https://img3.qy0.ru/data/1192/55/20.jpg",
+        "https://img3.qy0.ru/data/1192/55/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

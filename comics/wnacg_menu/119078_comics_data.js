@@ -1,0 +1,25 @@
+const comicData = {
+    "IDcode": 119078,
+    "title": "[くっきおーれ] 雨の日 (COMIC BAVEL 2021年3月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119078.html",
+    "totalPages": 17,
+    "images": [
+        "https://img3.qy0.ru/data/1190/78/img37.jpg",
+        "https://img3.qy0.ru/data/1190/78/img38.jpg",
+        "https://img3.qy0.ru/data/1190/78/img39.jpg",
+        "https://img3.qy0.ru/data/1190/78/img40.jpg",
+        "https://img3.qy0.ru/data/1190/78/img41.jpg",
+        "https://img3.qy0.ru/data/1190/78/img42.jpg",
+        "https://img3.qy0.ru/data/1190/78/img43.jpg",
+        "https://img3.qy0.ru/data/1190/78/img44.jpg",
+        "https://img3.qy0.ru/data/1190/78/img45.jpg",
+        "https://img3.qy0.ru/data/1190/78/img46.jpg",
+        "https://img3.qy0.ru/data/1190/78/img47.jpg",
+        "https://img3.qy0.ru/data/1190/78/img48.jpg",
+        "https://img3.qy0.ru/data/1190/78/img49.jpg",
+        "https://img3.qy0.ru/data/1190/78/img50.jpg",
+        "https://img3.qy0.ru/data/1190/78/img51.jpg",
+        "https://img3.qy0.ru/data/1190/78/img52.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

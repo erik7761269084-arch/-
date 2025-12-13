@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 117520,
+    "title": "[瑞树汉化组] [汐焼あゆ] 新入生の誘惑 (オトコのコHEAVEN'S DOOR 14)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117520.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1175/20/00.jpg",
+        "https://img3.qy0.ru/data/1175/20/01.jpg",
+        "https://img3.qy0.ru/data/1175/20/02.jpg",
+        "https://img3.qy0.ru/data/1175/20/03.jpg",
+        "https://img3.qy0.ru/data/1175/20/04.jpg",
+        "https://img3.qy0.ru/data/1175/20/05.jpg",
+        "https://img3.qy0.ru/data/1175/20/06.jpg",
+        "https://img3.qy0.ru/data/1175/20/07.jpg",
+        "https://img3.qy0.ru/data/1175/20/08.jpg",
+        "https://img3.qy0.ru/data/1175/20/09.jpg",
+        "https://img3.qy0.ru/data/1175/20/10.jpg",
+        "https://img3.qy0.ru/data/1175/20/11.jpg",
+        "https://img3.qy0.ru/data/1175/20/12.jpg",
+        "https://img3.qy0.ru/data/1175/20/13.jpg",
+        "https://img3.qy0.ru/data/1175/20/14.jpg",
+        "https://img3.qy0.ru/data/1175/20/15.jpg",
+        "https://img3.qy0.ru/data/1175/20/16.jpg",
+        "https://img3.qy0.ru/data/1175/20/17.jpg",
+        "https://img3.qy0.ru/data/1175/20/18.jpg",
+        "https://img3.qy0.ru/data/1175/20/19.jpg",
+        "https://img3.qy0.ru/data/1175/20/20.jpg",
+        "https://img3.qy0.ru/data/1175/20/21.jpg",
+        "https://img3.qy0.ru/data/1175/20/22.jpg",
+        "https://img3.qy0.ru/data/1175/20/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

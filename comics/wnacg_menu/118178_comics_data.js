@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118178,
+    "title": "[おぱんちゅ] 僕が先に好きだった幼なじみがチャラい先輩に奪われるまで 第3話 (アナンガ・ランガ Vol. 70) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118178.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0225.jpg",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0226.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0227.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0228.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0229.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0230.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0231.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0232.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0233.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0234.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0235.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0236.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0237.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0238.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0239.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0240.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0241.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0242.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0243.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0244.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0245.png",
+        "https://img3.qy0.ru/data/1181/78/b866afgwi00951_0246.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

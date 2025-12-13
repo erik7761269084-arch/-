@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 117102,
+    "title": "[昼寝] 紳士遊戯倶楽部 (COMIC 快楽天 2020年8月号) [新桥月白日语社汉化] [Digital]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117102.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1171/02/01.jpg",
+        "https://img3.qy0.ru/data/1171/02/02.jpg",
+        "https://img3.qy0.ru/data/1171/02/03.jpg",
+        "https://img3.qy0.ru/data/1171/02/04.jpg",
+        "https://img3.qy0.ru/data/1171/02/05.jpg",
+        "https://img3.qy0.ru/data/1171/02/06.jpg",
+        "https://img3.qy0.ru/data/1171/02/07.jpg",
+        "https://img3.qy0.ru/data/1171/02/08.jpg",
+        "https://img3.qy0.ru/data/1171/02/09.jpg",
+        "https://img3.qy0.ru/data/1171/02/10.jpg",
+        "https://img3.qy0.ru/data/1171/02/11.jpg",
+        "https://img3.qy0.ru/data/1171/02/12.jpg",
+        "https://img3.qy0.ru/data/1171/02/13.jpg",
+        "https://img3.qy0.ru/data/1171/02/14.jpg",
+        "https://img3.qy0.ru/data/1171/02/15.jpg",
+        "https://img3.qy0.ru/data/1171/02/16.jpg",
+        "https://img3.qy0.ru/data/1171/02/17.jpg",
+        "https://img3.qy0.ru/data/1171/02/18.jpg",
+        "https://img3.qy0.ru/data/1171/02/19.jpg",
+        "https://img3.qy0.ru/data/1171/02/20.jpg",
+        "https://img3.qy0.ru/data/1171/02/21.jpg",
+        "https://img3.qy0.ru/data/1171/02/22.jpg",
+        "https://img3.qy0.ru/data/1171/02/23.jpg",
+        "https://img3.qy0.ru/data/1171/02/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

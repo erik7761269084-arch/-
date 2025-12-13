@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115518,
+    "title": "[あおむし] 古谷くんと小栗さん4 (COMIC BAVEL 2021年3月号) [沒有漢化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115518.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1155/18/00.jpg",
+        "https://img3.qy0.ru/data/1155/18/01.jpg",
+        "https://img3.qy0.ru/data/1155/18/02.jpg",
+        "https://img3.qy0.ru/data/1155/18/03.jpg",
+        "https://img3.qy0.ru/data/1155/18/04.jpg",
+        "https://img3.qy0.ru/data/1155/18/05.jpg",
+        "https://img3.qy0.ru/data/1155/18/06.jpg",
+        "https://img3.qy0.ru/data/1155/18/07.jpg",
+        "https://img3.qy0.ru/data/1155/18/08.jpg",
+        "https://img3.qy0.ru/data/1155/18/09.jpg",
+        "https://img3.qy0.ru/data/1155/18/10.jpg",
+        "https://img3.qy0.ru/data/1155/18/11.jpg",
+        "https://img3.qy0.ru/data/1155/18/12.jpg",
+        "https://img3.qy0.ru/data/1155/18/13.jpg",
+        "https://img3.qy0.ru/data/1155/18/14.jpg",
+        "https://img3.qy0.ru/data/1155/18/15.jpg",
+        "https://img3.qy0.ru/data/1155/18/16.jpg",
+        "https://img3.qy0.ru/data/1155/18/17.jpg",
+        "https://img3.qy0.ru/data/1155/18/18.jpg",
+        "https://img3.qy0.ru/data/1155/18/19.jpg",
+        "https://img3.qy0.ru/data/1155/18/20.jpg",
+        "https://img3.qy0.ru/data/1155/18/365.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114418,
+    "title": "[よこしま日記] 1ON1でメチャクチャHした話 [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114418.html",
+    "totalPages": 31,
+    "images": [
+        "https://img3.qy0.ru/data/1144/18/0001.jpg",
+        "https://img3.qy0.ru/data/1144/18/0002.jpg",
+        "https://img3.qy0.ru/data/1144/18/0003.jpg",
+        "https://img3.qy0.ru/data/1144/18/0004.jpg",
+        "https://img3.qy0.ru/data/1144/18/0005.jpg",
+        "https://img3.qy0.ru/data/1144/18/0006.jpg",
+        "https://img3.qy0.ru/data/1144/18/0007.jpg",
+        "https://img3.qy0.ru/data/1144/18/0008.jpg",
+        "https://img3.qy0.ru/data/1144/18/0009.jpg",
+        "https://img3.qy0.ru/data/1144/18/0010.jpg",
+        "https://img3.qy0.ru/data/1144/18/0011.jpg",
+        "https://img3.qy0.ru/data/1144/18/0012.jpg",
+        "https://img3.qy0.ru/data/1144/18/0013.jpg",
+        "https://img3.qy0.ru/data/1144/18/0014.jpg",
+        "https://img3.qy0.ru/data/1144/18/0015.jpg",
+        "https://img3.qy0.ru/data/1144/18/0016.jpg",
+        "https://img3.qy0.ru/data/1144/18/0017.jpg",
+        "https://img3.qy0.ru/data/1144/18/0018.jpg",
+        "https://img3.qy0.ru/data/1144/18/0019.jpg",
+        "https://img3.qy0.ru/data/1144/18/0020.jpg",
+        "https://img3.qy0.ru/data/1144/18/0021.jpg",
+        "https://img3.qy0.ru/data/1144/18/0022.jpg",
+        "https://img3.qy0.ru/data/1144/18/0023.jpg",
+        "https://img3.qy0.ru/data/1144/18/0024.jpg",
+        "https://img3.qy0.ru/data/1144/18/0025.jpg"
+    ]
+};

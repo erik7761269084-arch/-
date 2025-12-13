@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 270088,
+    "title": "[ふしゃふしゃ王国 (ふ射)] お姫様は王子様の女王様!？ (ブルーアーカイブ)｜公主就是王子的女王大人!？ [基沃托斯计生办汉化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-270088.html",
+    "totalPages": 24,
+    "images": [
+        "https://img5.qy0.ru/data/2700/88/01.jpg",
+        "https://img5.qy0.ru/data/2700/88/02.jpg",
+        "https://img5.qy0.ru/data/2700/88/03.jpg",
+        "https://img5.qy0.ru/data/2700/88/04.jpg",
+        "https://img5.qy0.ru/data/2700/88/05.jpg",
+        "https://img5.qy0.ru/data/2700/88/06.jpg",
+        "https://img5.qy0.ru/data/2700/88/07.jpg",
+        "https://img5.qy0.ru/data/2700/88/08.jpg",
+        "https://img5.qy0.ru/data/2700/88/09.jpg",
+        "https://img5.qy0.ru/data/2700/88/10.jpg",
+        "https://img5.qy0.ru/data/2700/88/11.jpg",
+        "https://img5.qy0.ru/data/2700/88/12.jpg",
+        "https://img5.qy0.ru/data/2700/88/13.jpg",
+        "https://img5.qy0.ru/data/2700/88/14.jpg",
+        "https://img5.qy0.ru/data/2700/88/15.jpg",
+        "https://img5.qy0.ru/data/2700/88/16.jpg",
+        "https://img5.qy0.ru/data/2700/88/17.jpg",
+        "https://img5.qy0.ru/data/2700/88/18.jpg",
+        "https://img5.qy0.ru/data/2700/88/19.jpg",
+        "https://img5.qy0.ru/data/2700/88/20.jpg",
+        "https://img5.qy0.ru/data/2700/88/21.jpg",
+        "https://img5.qy0.ru/data/2700/88/22.jpg",
+        "https://img5.qy0.ru/data/2700/88/23.jpg",
+        "https://img5.qy0.ru/data/2700/88/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

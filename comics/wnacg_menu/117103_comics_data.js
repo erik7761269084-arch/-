@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 117103,
+    "title": "[交介] はぶられ褐色エルフとパーティー組んでみた (COMIC アンスリウム 2021年3月号)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117103.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1171/03/01.jpg",
+        "https://img3.qy0.ru/data/1171/03/02.jpg",
+        "https://img3.qy0.ru/data/1171/03/03.jpg",
+        "https://img3.qy0.ru/data/1171/03/04.jpg",
+        "https://img3.qy0.ru/data/1171/03/05.jpg",
+        "https://img3.qy0.ru/data/1171/03/06.jpg",
+        "https://img3.qy0.ru/data/1171/03/07.jpg",
+        "https://img3.qy0.ru/data/1171/03/08.jpg",
+        "https://img3.qy0.ru/data/1171/03/09.jpg",
+        "https://img3.qy0.ru/data/1171/03/10.jpg",
+        "https://img3.qy0.ru/data/1171/03/11.jpg",
+        "https://img3.qy0.ru/data/1171/03/12.jpg",
+        "https://img3.qy0.ru/data/1171/03/13.jpg",
+        "https://img3.qy0.ru/data/1171/03/14.jpg",
+        "https://img3.qy0.ru/data/1171/03/15.jpg",
+        "https://img3.qy0.ru/data/1171/03/16.jpg",
+        "https://img3.qy0.ru/data/1171/03/17.jpg",
+        "https://img3.qy0.ru/data/1171/03/18.jpg",
+        "https://img3.qy0.ru/data/1171/03/19.jpg",
+        "https://img3.qy0.ru/data/1171/03/20.jpg",
+        "https://img3.qy0.ru/data/1171/03/21.jpg",
+        "https://img3.qy0.ru/data/1171/03/22.jpg",
+        "https://img3.qy0.ru/data/1171/03/23.jpg",
+        "https://img3.qy0.ru/data/1171/03/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

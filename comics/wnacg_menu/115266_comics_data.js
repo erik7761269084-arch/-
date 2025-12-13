@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 115266,
+    "title": "[無色三太郎] 魔法少女ミルキーラッピング 永久アナルアクメの刑に処す (二次元コミックマガジン ケツマン調教で肛門ポルチオアクメ!Vol.2) [不可视汉化] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115266.html",
+    "totalPages": 31,
+    "images": [
+        "https://img3.qy0.ru/data/1152/66/01.jpg",
+        "https://img3.qy0.ru/data/1152/66/02.jpg",
+        "https://img3.qy0.ru/data/1152/66/03.jpg",
+        "https://img3.qy0.ru/data/1152/66/04.jpg",
+        "https://img3.qy0.ru/data/1152/66/05.jpg",
+        "https://img3.qy0.ru/data/1152/66/06.jpg",
+        "https://img3.qy0.ru/data/1152/66/07.jpg",
+        "https://img3.qy0.ru/data/1152/66/08.jpg",
+        "https://img3.qy0.ru/data/1152/66/09.jpg",
+        "https://img3.qy0.ru/data/1152/66/10.jpg",
+        "https://img3.qy0.ru/data/1152/66/11.jpg",
+        "https://img3.qy0.ru/data/1152/66/12.jpg",
+        "https://img3.qy0.ru/data/1152/66/13.jpg",
+        "https://img3.qy0.ru/data/1152/66/14.jpg",
+        "https://img3.qy0.ru/data/1152/66/15.jpg",
+        "https://img3.qy0.ru/data/1152/66/16.jpg",
+        "https://img3.qy0.ru/data/1152/66/17.jpg",
+        "https://img3.qy0.ru/data/1152/66/18.jpg",
+        "https://img3.qy0.ru/data/1152/66/19.jpg",
+        "https://img3.qy0.ru/data/1152/66/20.jpg",
+        "https://img3.qy0.ru/data/1152/66/21.jpg",
+        "https://img3.qy0.ru/data/1152/66/22.jpg",
+        "https://img3.qy0.ru/data/1152/66/23.jpg",
+        "https://img3.qy0.ru/data/1152/66/24.jpg"
+    ]
+};

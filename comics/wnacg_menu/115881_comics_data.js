@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115881,
+    "title": "[ベコ太郎] 処女と彼女とネトラレと (COMIC 快楽天ビースト 2021年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115881.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1158/81/087.jpg",
+        "https://img3.qy0.ru/data/1158/81/088.jpg",
+        "https://img3.qy0.ru/data/1158/81/089.jpg",
+        "https://img3.qy0.ru/data/1158/81/090.jpg",
+        "https://img3.qy0.ru/data/1158/81/091.jpg",
+        "https://img3.qy0.ru/data/1158/81/092.jpg",
+        "https://img3.qy0.ru/data/1158/81/093.jpg",
+        "https://img3.qy0.ru/data/1158/81/094.jpg",
+        "https://img3.qy0.ru/data/1158/81/095.jpg",
+        "https://img3.qy0.ru/data/1158/81/096.jpg",
+        "https://img3.qy0.ru/data/1158/81/097.jpg",
+        "https://img3.qy0.ru/data/1158/81/098.jpg",
+        "https://img3.qy0.ru/data/1158/81/099.jpg",
+        "https://img3.qy0.ru/data/1158/81/100.jpg",
+        "https://img3.qy0.ru/data/1158/81/101.jpg",
+        "https://img3.qy0.ru/data/1158/81/102.jpg",
+        "https://img3.qy0.ru/data/1158/81/103.jpg",
+        "https://img3.qy0.ru/data/1158/81/104.jpg",
+        "https://img3.qy0.ru/data/1158/81/105.jpg",
+        "https://img3.qy0.ru/data/1158/81/106.jpg",
+        "https://img3.qy0.ru/data/1158/81/107.jpg",
+        "https://img3.qy0.ru/data/1158/81/108.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

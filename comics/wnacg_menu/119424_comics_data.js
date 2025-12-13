@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 119424,
+    "title": "[空気系☆漢化] [Digital] [アヘ丸] 大切な2人を裏切るNTR (ANGEL 倶楽部 2021年5月号)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119424.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1194/24/01.jpg",
+        "https://img3.qy0.ru/data/1194/24/02.jpg",
+        "https://img3.qy0.ru/data/1194/24/03.jpg",
+        "https://img3.qy0.ru/data/1194/24/04.jpg",
+        "https://img3.qy0.ru/data/1194/24/05.jpg",
+        "https://img3.qy0.ru/data/1194/24/06.jpg",
+        "https://img3.qy0.ru/data/1194/24/07.jpg",
+        "https://img3.qy0.ru/data/1194/24/08.jpg",
+        "https://img3.qy0.ru/data/1194/24/09.jpg",
+        "https://img3.qy0.ru/data/1194/24/10.jpg",
+        "https://img3.qy0.ru/data/1194/24/11.jpg",
+        "https://img3.qy0.ru/data/1194/24/12.jpg",
+        "https://img3.qy0.ru/data/1194/24/13.jpg",
+        "https://img3.qy0.ru/data/1194/24/14.jpg",
+        "https://img3.qy0.ru/data/1194/24/15.jpg",
+        "https://img3.qy0.ru/data/1194/24/16.jpg",
+        "https://img3.qy0.ru/data/1194/24/17.jpg",
+        "https://img3.qy0.ru/data/1194/24/18.jpg",
+        "https://img3.qy0.ru/data/1194/24/19.jpg",
+        "https://img3.qy0.ru/data/1194/24/20.jpg",
+        "https://img3.qy0.ru/data/1194/24/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

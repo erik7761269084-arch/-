@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 116968,
+    "title": "[昇竜安井会 (星野竜一)] 催眠ネトラレ妻 はるか 第6話 [零食漢化組]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116968.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1169/68/001.jpg",
+        "https://img3.qy0.ru/data/1169/68/002.jpg",
+        "https://img3.qy0.ru/data/1169/68/003.jpg",
+        "https://img3.qy0.ru/data/1169/68/004.jpg",
+        "https://img3.qy0.ru/data/1169/68/005.jpg",
+        "https://img3.qy0.ru/data/1169/68/006.jpg",
+        "https://img3.qy0.ru/data/1169/68/007.jpg",
+        "https://img3.qy0.ru/data/1169/68/008.jpg",
+        "https://img3.qy0.ru/data/1169/68/009.jpg",
+        "https://img3.qy0.ru/data/1169/68/010.jpg",
+        "https://img3.qy0.ru/data/1169/68/011.jpg",
+        "https://img3.qy0.ru/data/1169/68/012.jpg",
+        "https://img3.qy0.ru/data/1169/68/013.jpg",
+        "https://img3.qy0.ru/data/1169/68/014.jpg",
+        "https://img3.qy0.ru/data/1169/68/015.jpg",
+        "https://img3.qy0.ru/data/1169/68/016.jpg",
+        "https://img3.qy0.ru/data/1169/68/017.jpg",
+        "https://img3.qy0.ru/data/1169/68/018.jpg",
+        "https://img3.qy0.ru/data/1169/68/019.jpg",
+        "https://img3.qy0.ru/data/1169/68/020.jpg",
+        "https://img3.qy0.ru/data/1169/68/021.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

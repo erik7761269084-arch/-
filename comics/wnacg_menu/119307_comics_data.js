@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 119307,
+    "title": "[Reco] スクランブル・バスタイム ｜ Scramble Bath Time  争先恐后的沐浴时光 (COMIC 快楽天 2020年11月号) [暴碧汉化组] [無修正]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119307.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1193/07/01.png",
+        "https://img3.qy0.ru/data/1193/07/02.png",
+        "https://img3.qy0.ru/data/1193/07/03.png",
+        "https://img3.qy0.ru/data/1193/07/04.png",
+        "https://img3.qy0.ru/data/1193/07/05.png",
+        "https://img3.qy0.ru/data/1193/07/06.png",
+        "https://img3.qy0.ru/data/1193/07/07.png",
+        "https://img3.qy0.ru/data/1193/07/08.png",
+        "https://img3.qy0.ru/data/1193/07/09.png",
+        "https://img3.qy0.ru/data/1193/07/10.png",
+        "https://img3.qy0.ru/data/1193/07/11.png",
+        "https://img3.qy0.ru/data/1193/07/12.png",
+        "https://img3.qy0.ru/data/1193/07/13.png",
+        "https://img3.qy0.ru/data/1193/07/14.png",
+        "https://img3.qy0.ru/data/1193/07/15.png",
+        "https://img3.qy0.ru/data/1193/07/16.png",
+        "https://img3.qy0.ru/data/1193/07/17.png",
+        "https://img3.qy0.ru/data/1193/07/18.png",
+        "https://img3.qy0.ru/data/1193/07/19.png",
+        "https://img3.qy0.ru/data/1193/07/20.png",
+        "https://img3.qy0.ru/data/1193/07/21.png",
+        "https://img3.qy0.ru/data/1193/07/22.png",
+        "https://img3.qy0.ru/data/1193/07/23.png",
+        "https://img3.qy0.ru/data/1193/07/24.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

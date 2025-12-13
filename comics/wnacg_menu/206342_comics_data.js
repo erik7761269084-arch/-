@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 206342,
+    "title": "(C81) [flowerchild植田] Confession-ゆうきをだしてはじめての告白- (魔法少女まどか☆マギカ)[中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-206342.html",
+    "images": [
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img4.qy0.ru/data/2063/42/02.jpg",
+        "https://img4.qy0.ru/data/2063/42/22.jpg",
+        "https://img4.qy0.ru/data/2063/42/09.jpg",
+        "https://img4.qy0.ru/data/2063/42/23.png",
+        "https://img4.qy0.ru/data/2063/42/20.jpg",
+        "https://img4.qy0.ru/data/2063/42/07.jpg",
+        "https://img4.qy0.ru/data/2063/42/24.jpg",
+        "https://img4.qy0.ru/data/2063/42/25.jpg",
+        "https://img4.qy0.ru/data/2063/42/04.jpg",
+        "https://img4.qy0.ru/data/2063/42/03.jpg",
+        "https://img4.qy0.ru/data/2063/42/18.jpg",
+        "https://img4.qy0.ru/data/2063/42/06.jpg",
+        "https://img4.qy0.ru/data/2063/42/11.jpg",
+        "https://img4.qy0.ru/data/2063/42/21.jpg",
+        "https://img4.qy0.ru/data/2063/42/15.jpg",
+        "https://img4.qy0.ru/data/2063/42/05.jpg",
+        "https://img4.qy0.ru/data/2063/42/01.jpg",
+        "https://img4.qy0.ru/data/2063/42/13.jpg",
+        "https://img4.qy0.ru/data/2063/42/12.jpg",
+        "https://img4.qy0.ru/data/2063/42/17.jpg",
+        "https://img4.qy0.ru/data/2063/42/19.jpg",
+        "https://img4.qy0.ru/data/2063/42/10.jpg",
+        "https://img4.qy0.ru/data/2063/42/14.jpg",
+        "https://img4.qy0.ru/data/2063/42/08.jpg",
+        "https://img4.qy0.ru/data/2063/42/16.jpg"
+    ]
+};

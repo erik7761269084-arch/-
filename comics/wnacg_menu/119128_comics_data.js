@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 119128,
+    "title": "[不可视汉化] [逆又練物] Sexual fall (メガネロリ調教授業!! ～おとなしいメガネロリっ娘に無理やりデカチン挿入～)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119128.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1191/28/00.jpg",
+        "https://img3.qy0.ru/data/1191/28/01.jpg",
+        "https://img3.qy0.ru/data/1191/28/02.jpg",
+        "https://img3.qy0.ru/data/1191/28/03.jpg",
+        "https://img3.qy0.ru/data/1191/28/04.jpg",
+        "https://img3.qy0.ru/data/1191/28/05.jpg",
+        "https://img3.qy0.ru/data/1191/28/06.jpg",
+        "https://img3.qy0.ru/data/1191/28/07.jpg",
+        "https://img3.qy0.ru/data/1191/28/08.jpg",
+        "https://img3.qy0.ru/data/1191/28/09.jpg",
+        "https://img3.qy0.ru/data/1191/28/10.jpg",
+        "https://img3.qy0.ru/data/1191/28/11.jpg",
+        "https://img3.qy0.ru/data/1191/28/12.jpg",
+        "https://img3.qy0.ru/data/1191/28/13.jpg",
+        "https://img3.qy0.ru/data/1191/28/14.jpg",
+        "https://img3.qy0.ru/data/1191/28/15.jpg",
+        "https://img3.qy0.ru/data/1191/28/16.jpg",
+        "https://img3.qy0.ru/data/1191/28/17.jpg",
+        "https://img3.qy0.ru/data/1191/28/18.jpg",
+        "https://img3.qy0.ru/data/1191/28/19.jpg",
+        "https://img3.qy0.ru/data/1191/28/20.jpg",
+        "https://img3.qy0.ru/data/1191/28/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

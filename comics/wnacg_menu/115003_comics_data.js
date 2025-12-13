@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115003,
+    "title": "[逆又練物] 田舎で! 一ヶ月おねショタ性活 最終話 (コミック刺激的SQUIRT!! Vol.17) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115003.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1150/03/21.jpg",
+        "https://img3.qy0.ru/data/1150/03/22.jpg",
+        "https://img3.qy0.ru/data/1150/03/23.jpg",
+        "https://img3.qy0.ru/data/1150/03/24.jpg",
+        "https://img3.qy0.ru/data/1150/03/25.jpg",
+        "https://img3.qy0.ru/data/1150/03/26.jpg",
+        "https://img3.qy0.ru/data/1150/03/27.jpg",
+        "https://img3.qy0.ru/data/1150/03/28.jpg",
+        "https://img3.qy0.ru/data/1150/03/29.jpg",
+        "https://img3.qy0.ru/data/1150/03/30.jpg",
+        "https://img3.qy0.ru/data/1150/03/31.jpg",
+        "https://img3.qy0.ru/data/1150/03/32.jpg",
+        "https://img3.qy0.ru/data/1150/03/33.jpg",
+        "https://img3.qy0.ru/data/1150/03/34.jpg",
+        "https://img3.qy0.ru/data/1150/03/35.jpg",
+        "https://img3.qy0.ru/data/1150/03/36.jpg",
+        "https://img3.qy0.ru/data/1150/03/37.jpg",
+        "https://img3.qy0.ru/data/1150/03/38.jpg",
+        "https://img3.qy0.ru/data/1150/03/40.jpg",
+        "https://img3.qy0.ru/data/1150/03/42.jpg",
+        "https://img3.qy0.ru/data/1150/03/43.jpg",
+        "https://img3.qy0.ru/data/1150/03/44.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

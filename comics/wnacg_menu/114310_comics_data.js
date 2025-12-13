@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 114310,
+    "title": "[不可视汉化] [broiler] たまちゃん (ねこ耳娘は発情期)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114310.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1143/10/00.jpg",
+        "https://img3.qy0.ru/data/1143/10/01.jpg",
+        "https://img3.qy0.ru/data/1143/10/02.jpg",
+        "https://img3.qy0.ru/data/1143/10/03.jpg",
+        "https://img3.qy0.ru/data/1143/10/04.jpg",
+        "https://img3.qy0.ru/data/1143/10/05.jpg",
+        "https://img3.qy0.ru/data/1143/10/06.jpg",
+        "https://img3.qy0.ru/data/1143/10/07.jpg",
+        "https://img3.qy0.ru/data/1143/10/08.jpg",
+        "https://img3.qy0.ru/data/1143/10/09.jpg",
+        "https://img3.qy0.ru/data/1143/10/10.jpg",
+        "https://img3.qy0.ru/data/1143/10/11.jpg",
+        "https://img3.qy0.ru/data/1143/10/12.jpg",
+        "https://img3.qy0.ru/data/1143/10/13.jpg",
+        "https://img3.qy0.ru/data/1143/10/14.jpg",
+        "https://img3.qy0.ru/data/1143/10/15.jpg",
+        "https://img3.qy0.ru/data/1143/10/16.jpg",
+        "https://img3.qy0.ru/data/1143/10/17.jpg",
+        "https://img3.qy0.ru/data/1143/10/18.jpg",
+        "https://img3.qy0.ru/data/1143/10/19.jpg",
+        "https://img3.qy0.ru/data/1143/10/20.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

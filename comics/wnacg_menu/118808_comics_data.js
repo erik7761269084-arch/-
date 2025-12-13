@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 118808,
+    "title": "[漢化組漢化組×我尻故我在] [Digital] [七尾ゆきじ] 年の差ビターエンド",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118808.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1188/08/01.jpg",
+        "https://img3.qy0.ru/data/1188/08/02.jpg",
+        "https://img3.qy0.ru/data/1188/08/03.jpg",
+        "https://img3.qy0.ru/data/1188/08/04.jpg",
+        "https://img3.qy0.ru/data/1188/08/05.jpg",
+        "https://img3.qy0.ru/data/1188/08/06.jpg",
+        "https://img3.qy0.ru/data/1188/08/07.jpg",
+        "https://img3.qy0.ru/data/1188/08/08.jpg",
+        "https://img3.qy0.ru/data/1188/08/09.jpg",
+        "https://img3.qy0.ru/data/1188/08/10.jpg",
+        "https://img3.qy0.ru/data/1188/08/11.jpg",
+        "https://img3.qy0.ru/data/1188/08/12.jpg",
+        "https://img3.qy0.ru/data/1188/08/13.jpg",
+        "https://img3.qy0.ru/data/1188/08/14.jpg",
+        "https://img3.qy0.ru/data/1188/08/15.jpg",
+        "https://img3.qy0.ru/data/1188/08/16.jpg",
+        "https://img3.qy0.ru/data/1188/08/17.jpg",
+        "https://img3.qy0.ru/data/1188/08/18.jpg",
+        "https://img3.qy0.ru/data/1188/08/19.jpg",
+        "https://img3.qy0.ru/data/1188/08/20.jpg",
+        "https://img3.qy0.ru/data/1188/08/21.jpg",
+        "https://img3.qy0.ru/data/1188/08/22.jpg",
+        "https://img3.qy0.ru/data/1188/08/23.jpg",
+        "https://img3.qy0.ru/data/1188/08/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

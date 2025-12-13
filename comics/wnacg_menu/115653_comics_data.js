@@ -1,0 +1,26 @@
+const comicData = {
+    "IDcode": 115653,
+    "title": "[ももこ] Creamy Love (COMIC快楽天 2017年8月号) [無邪気漢化組][MJK-17-Z627][無修正]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115653.html",
+    "totalPages": 18,
+    "images": [
+        "https://img3.qy0.ru/data/1156/53/17__ver.3.1.png",
+        "https://img3.qy0.ru/data/1156/53/01_MJK_17_Z627_001.png",
+        "https://img3.qy0.ru/data/1156/53/02_MJK_17_Z627_002.png",
+        "https://img3.qy0.ru/data/1156/53/03_MJK_17_Z627_003.png",
+        "https://img3.qy0.ru/data/1156/53/04_MJK_17_Z627_004.png",
+        "https://img3.qy0.ru/data/1156/53/05_MJK_17_Z627_005.png",
+        "https://img3.qy0.ru/data/1156/53/06_MJK_17_Z627_006.png",
+        "https://img3.qy0.ru/data/1156/53/07_MJK_17_Z627_007.png",
+        "https://img3.qy0.ru/data/1156/53/08_MJK_17_Z627_008.png",
+        "https://img3.qy0.ru/data/1156/53/09_MJK_17_Z627_009.png",
+        "https://img3.qy0.ru/data/1156/53/10_MJK_17_Z627_010.png",
+        "https://img3.qy0.ru/data/1156/53/11_MJK_17_Z627_011.png",
+        "https://img3.qy0.ru/data/1156/53/12_MJK_17_Z627_012.png",
+        "https://img3.qy0.ru/data/1156/53/13_MJK_17_Z627_013.png",
+        "https://img3.qy0.ru/data/1156/53/14_MJK_17_Z627_014.png",
+        "https://img3.qy0.ru/data/1156/53/15_MJK_17_Z627_015.png",
+        "https://img3.qy0.ru/data/1156/53/16_MJK_17_Z627_016.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

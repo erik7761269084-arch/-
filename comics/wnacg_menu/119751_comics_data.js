@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 119751,
+    "title": "[瓜皮汉化] [PIえろ] 七人のママ 第6話 (ANGEL 倶楽部 2021年5月号)  [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119751.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1197/51/01.jpg",
+        "https://img3.qy0.ru/data/1197/51/02.jpg",
+        "https://img3.qy0.ru/data/1197/51/03.jpg",
+        "https://img3.qy0.ru/data/1197/51/04.jpg",
+        "https://img3.qy0.ru/data/1197/51/05.jpg",
+        "https://img3.qy0.ru/data/1197/51/06.jpg",
+        "https://img3.qy0.ru/data/1197/51/07.jpg",
+        "https://img3.qy0.ru/data/1197/51/08.jpg",
+        "https://img3.qy0.ru/data/1197/51/09.jpg",
+        "https://img3.qy0.ru/data/1197/51/10.jpg",
+        "https://img3.qy0.ru/data/1197/51/11.jpg",
+        "https://img3.qy0.ru/data/1197/51/12.jpg",
+        "https://img3.qy0.ru/data/1197/51/13.jpg",
+        "https://img3.qy0.ru/data/1197/51/14.jpg",
+        "https://img3.qy0.ru/data/1197/51/15.jpg",
+        "https://img3.qy0.ru/data/1197/51/16.jpg",
+        "https://img3.qy0.ru/data/1197/51/17.jpg",
+        "https://img3.qy0.ru/data/1197/51/18.jpg",
+        "https://img3.qy0.ru/data/1197/51/19.jpg",
+        "https://img3.qy0.ru/data/1197/51/20.jpg",
+        "https://img3.qy0.ru/data/1197/51/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

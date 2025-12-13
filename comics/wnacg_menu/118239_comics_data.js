@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118239,
+    "title": "[SM年上御姐熟女同盟互助会个人汉化] [男の子と女の子 (ササキ サキ)] 憧れの先辈に ～憧れの温泉旅行! (前编)～",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118239.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1182/39/senpai070001.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070002.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070003.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070004.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070005.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070006.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070007.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070008.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070009.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070010.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070011.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070012.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070013.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070014.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070015.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070016.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070017.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070018.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070019.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070020.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070021.jpg",
+        "https://img3.qy0.ru/data/1182/39/senpai070022.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

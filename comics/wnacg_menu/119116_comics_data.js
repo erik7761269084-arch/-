@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 119116,
+    "title": "[打嗝汉化组] [とりもぐら] 処女ビッチ親友ちゃんのムラムラライフ",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119116.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1191/16/00-1.jpg",
+        "https://img3.qy0.ru/data/1191/16/00-2.jpg",
+        "https://img3.qy0.ru/data/1191/16/02.jpg",
+        "https://img3.qy0.ru/data/1191/16/03.jpg",
+        "https://img3.qy0.ru/data/1191/16/04.jpg",
+        "https://img3.qy0.ru/data/1191/16/05.jpg",
+        "https://img3.qy0.ru/data/1191/16/06.jpg",
+        "https://img3.qy0.ru/data/1191/16/07.jpg",
+        "https://img3.qy0.ru/data/1191/16/08.jpg",
+        "https://img3.qy0.ru/data/1191/16/09.jpg",
+        "https://img3.qy0.ru/data/1191/16/10.jpg",
+        "https://img3.qy0.ru/data/1191/16/11.jpg",
+        "https://img3.qy0.ru/data/1191/16/12.jpg",
+        "https://img3.qy0.ru/data/1191/16/13.jpg",
+        "https://img3.qy0.ru/data/1191/16/14.jpg",
+        "https://img3.qy0.ru/data/1191/16/15.jpg",
+        "https://img3.qy0.ru/data/1191/16/16.jpg",
+        "https://img3.qy0.ru/data/1191/16/17.jpg",
+        "https://img3.qy0.ru/data/1191/16/18.jpg",
+        "https://img3.qy0.ru/data/1191/16/19.jpg",
+        "https://img3.qy0.ru/data/1191/16/20.jpg",
+        "https://img3.qy0.ru/data/1191/16/21.jpg",
+        "https://img3.qy0.ru/data/1191/16/22.jpg",
+        "https://img3.qy0.ru/data/1191/16/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

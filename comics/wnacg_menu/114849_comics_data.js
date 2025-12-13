@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114849,
+    "title": "[逆又練物] ぜんぶギャルな姉ちゃんのせい 3 (コミック刺激的SQUIRT!! Vol.22) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114849.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1148/49/0001.jpg",
+        "https://img3.qy0.ru/data/1148/49/0002.jpg",
+        "https://img3.qy0.ru/data/1148/49/0003.jpg",
+        "https://img3.qy0.ru/data/1148/49/0004.jpg",
+        "https://img3.qy0.ru/data/1148/49/0005.jpg",
+        "https://img3.qy0.ru/data/1148/49/0006.jpg",
+        "https://img3.qy0.ru/data/1148/49/0007.jpg",
+        "https://img3.qy0.ru/data/1148/49/0008.jpg",
+        "https://img3.qy0.ru/data/1148/49/0009.jpg",
+        "https://img3.qy0.ru/data/1148/49/0010.jpg",
+        "https://img3.qy0.ru/data/1148/49/0011.jpg",
+        "https://img3.qy0.ru/data/1148/49/0012.jpg",
+        "https://img3.qy0.ru/data/1148/49/0013.jpg",
+        "https://img3.qy0.ru/data/1148/49/0014.jpg",
+        "https://img3.qy0.ru/data/1148/49/0015.jpg",
+        "https://img3.qy0.ru/data/1148/49/0016.jpg",
+        "https://img3.qy0.ru/data/1148/49/0017.jpg",
+        "https://img3.qy0.ru/data/1148/49/0018.jpg",
+        "https://img3.qy0.ru/data/1148/49/0019.jpg",
+        "https://img3.qy0.ru/data/1148/49/0020.jpg",
+        "https://img3.qy0.ru/data/1148/49/0021.jpg",
+        "https://img3.qy0.ru/data/1148/49/0022.jpg",
+        "https://img3.qy0.ru/data/1148/49/0023.jpg",
+        "https://img3.qy0.ru/data/1148/49/0024.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

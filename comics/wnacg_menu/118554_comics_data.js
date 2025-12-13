@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118554,
+    "title": "[ぬんぬ] 都市伝説! 猿淫夢 (COMIC BAVEL 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118554.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1185/54/0001.jpg",
+        "https://img3.qy0.ru/data/1185/54/0002.jpg",
+        "https://img3.qy0.ru/data/1185/54/0003.jpg",
+        "https://img3.qy0.ru/data/1185/54/0004.jpg",
+        "https://img3.qy0.ru/data/1185/54/0005.jpg",
+        "https://img3.qy0.ru/data/1185/54/0006.jpg",
+        "https://img3.qy0.ru/data/1185/54/0007.jpg",
+        "https://img3.qy0.ru/data/1185/54/0008.jpg",
+        "https://img3.qy0.ru/data/1185/54/0009.jpg",
+        "https://img3.qy0.ru/data/1185/54/0010.jpg",
+        "https://img3.qy0.ru/data/1185/54/0011.jpg",
+        "https://img3.qy0.ru/data/1185/54/0012.jpg",
+        "https://img3.qy0.ru/data/1185/54/0013.jpg",
+        "https://img3.qy0.ru/data/1185/54/0014.jpg",
+        "https://img3.qy0.ru/data/1185/54/0015.jpg",
+        "https://img3.qy0.ru/data/1185/54/0016.jpg",
+        "https://img3.qy0.ru/data/1185/54/0017.jpg",
+        "https://img3.qy0.ru/data/1185/54/0018.jpg",
+        "https://img3.qy0.ru/data/1185/54/0019.jpg",
+        "https://img3.qy0.ru/data/1185/54/0020.jpg",
+        "https://img3.qy0.ru/data/1185/54/0021.jpg",
+        "https://img3.qy0.ru/data/1185/54/0022.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

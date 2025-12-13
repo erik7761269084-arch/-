@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117171,
+    "title": "[鳥茶丸] 忍び、尽くして♡ (COMIC 快楽天 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117171.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1171/71/1617689266129.jpg",
+        "https://img3.qy0.ru/data/1171/71/1617689322313.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892605627.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892712958.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892769163.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892820871.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892869993.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892914139.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176892950924.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893004542.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893039763.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893082025.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893129761.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893179367.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893260821.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893296284.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893325439.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893371008.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893404924.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893434791.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893486107.jpg",
+        "https://img3.qy0.ru/data/1171/71/16176893516197.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

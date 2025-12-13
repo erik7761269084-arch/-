@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117684,
+    "title": "[紙場こたる(白崎カル)][マリーちゃんは帰れない!!前編] [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117684.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1176/84/01_0.png",
+        "https://img3.qy0.ru/data/1176/84/22_22.jpg",
+        "https://img3.qy0.ru/data/1176/84/02_i_493.png",
+        "https://img3.qy0.ru/data/1176/84/03_i_494.png",
+        "https://img3.qy0.ru/data/1176/84/04_i_495.png",
+        "https://img3.qy0.ru/data/1176/84/05_i_496.png",
+        "https://img3.qy0.ru/data/1176/84/06_i_497.png",
+        "https://img3.qy0.ru/data/1176/84/07_i_498.png",
+        "https://img3.qy0.ru/data/1176/84/08_i_499.png",
+        "https://img3.qy0.ru/data/1176/84/09_i_500.png",
+        "https://img3.qy0.ru/data/1176/84/10_i_501.png",
+        "https://img3.qy0.ru/data/1176/84/11_i_502.png",
+        "https://img3.qy0.ru/data/1176/84/12_i_503.png",
+        "https://img3.qy0.ru/data/1176/84/13_i_504.png",
+        "https://img3.qy0.ru/data/1176/84/14_i_505.png",
+        "https://img3.qy0.ru/data/1176/84/15_i_506.png",
+        "https://img3.qy0.ru/data/1176/84/16_i_507.png",
+        "https://img3.qy0.ru/data/1176/84/17_i_508.png",
+        "https://img3.qy0.ru/data/1176/84/18_i_509.png",
+        "https://img3.qy0.ru/data/1176/84/19_i_510.png",
+        "https://img3.qy0.ru/data/1176/84/20_i_511.png",
+        "https://img3.qy0.ru/data/1176/84/21_i_512.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

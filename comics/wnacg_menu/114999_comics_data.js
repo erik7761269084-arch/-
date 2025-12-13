@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 114999,
+    "title": "[梅宮こう] 久しぶりに再会した幼馴染がギャルになっていた!? (COMIC アンスリウム 2021年2月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114999.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0342.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0343.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0344.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0345.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0346.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0347.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0348.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0349.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0350.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0351.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0352.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0353.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0354.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0355.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0356.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0357.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0358.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0359.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0360.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0361.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0362.jpg",
+        "https://img3.qy0.ru/data/1149/99/dmmmg_2438_0363.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

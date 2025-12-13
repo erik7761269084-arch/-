@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 118566,
+    "title": "[个人汉化] [びんせん] お紺は今日も兄の夢を見る・幻 (永遠娘 10) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118566.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1185/66/01.jpg",
+        "https://img3.qy0.ru/data/1185/66/02.jpg",
+        "https://img3.qy0.ru/data/1185/66/03.jpg",
+        "https://img3.qy0.ru/data/1185/66/04.jpg",
+        "https://img3.qy0.ru/data/1185/66/05.jpg",
+        "https://img3.qy0.ru/data/1185/66/06.jpg",
+        "https://img3.qy0.ru/data/1185/66/07.jpg",
+        "https://img3.qy0.ru/data/1185/66/08.jpg",
+        "https://img3.qy0.ru/data/1185/66/09.jpg",
+        "https://img3.qy0.ru/data/1185/66/10.jpg",
+        "https://img3.qy0.ru/data/1185/66/11.jpg",
+        "https://img3.qy0.ru/data/1185/66/12.jpg",
+        "https://img3.qy0.ru/data/1185/66/13.jpg",
+        "https://img3.qy0.ru/data/1185/66/14.jpg",
+        "https://img3.qy0.ru/data/1185/66/15.jpg",
+        "https://img3.qy0.ru/data/1185/66/16.jpg",
+        "https://img3.qy0.ru/data/1185/66/17.jpg",
+        "https://img3.qy0.ru/data/1185/66/18.jpg",
+        "https://img3.qy0.ru/data/1185/66/19.jpg",
+        "https://img3.qy0.ru/data/1185/66/20.jpg",
+        "https://img3.qy0.ru/data/1185/66/21.jpg",
+        "https://img3.qy0.ru/data/1185/66/22.jpg",
+        "https://img3.qy0.ru/data/1185/66/23.jpg",
+        "https://img3.qy0.ru/data/1185/66/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

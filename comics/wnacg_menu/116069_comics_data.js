@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116069,
+    "title": "[爱弹幕汉化组] [羅ぶい] 女体化して憑依されて告白する (女体化して極上のカノジョになる) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116069.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1160/69/00.jpg",
+        "https://img3.qy0.ru/data/1160/69/01.jpg",
+        "https://img3.qy0.ru/data/1160/69/02.jpg",
+        "https://img3.qy0.ru/data/1160/69/03.jpg",
+        "https://img3.qy0.ru/data/1160/69/04.jpg",
+        "https://img3.qy0.ru/data/1160/69/05.jpg",
+        "https://img3.qy0.ru/data/1160/69/06.jpg",
+        "https://img3.qy0.ru/data/1160/69/07.jpg",
+        "https://img3.qy0.ru/data/1160/69/08.jpg",
+        "https://img3.qy0.ru/data/1160/69/09.jpg",
+        "https://img3.qy0.ru/data/1160/69/10.jpg",
+        "https://img3.qy0.ru/data/1160/69/11.jpg",
+        "https://img3.qy0.ru/data/1160/69/12.jpg",
+        "https://img3.qy0.ru/data/1160/69/13.jpg",
+        "https://img3.qy0.ru/data/1160/69/14.jpg",
+        "https://img3.qy0.ru/data/1160/69/15.jpg",
+        "https://img3.qy0.ru/data/1160/69/16.jpg",
+        "https://img3.qy0.ru/data/1160/69/17.jpg",
+        "https://img3.qy0.ru/data/1160/69/18.jpg",
+        "https://img3.qy0.ru/data/1160/69/19.jpg",
+        "https://img3.qy0.ru/data/1160/69/20.jpg",
+        "https://img3.qy0.ru/data/1160/69/21.jpg",
+        "https://img3.qy0.ru/data/1160/69/22.jpg",
+        "https://img3.qy0.ru/data/1160/69/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

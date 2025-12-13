@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 78532,
+    "title": "[黑锅汉化组](C93) [試行屋] 頼光ママと真夏な夢 (FateGrand Order)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-78532.html",
+    "images": [
+        "https://img2.qy0.ru/data/0785/32/05.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img2.qy0.ru/data/0785/32/10.jpg",
+        "https://img2.qy0.ru/data/0785/32/09.jpg",
+        "https://img2.qy0.ru/data/0785/32/07.jpg",
+        "https://img2.qy0.ru/data/0785/32/08.jpg",
+        "https://img2.qy0.ru/data/0785/32/17.jpg",
+        "https://img2.qy0.ru/data/0785/32/20.jpg",
+        "https://img2.qy0.ru/data/0785/32/04.jpg",
+        "https://img2.qy0.ru/data/0785/32/02.jpg",
+        "https://img2.qy0.ru/data/0785/32/01.jpg",
+        "https://img2.qy0.ru/data/0785/32/11.jpg",
+        "https://img2.qy0.ru/data/0785/32/18.jpg",
+        "https://img2.qy0.ru/data/0785/32/21.jpg",
+        "https://img2.qy0.ru/data/0785/32/22.jpg",
+        "https://img2.qy0.ru/data/0785/32/15.jpg",
+        "https://img2.qy0.ru/data/0785/32/23.jpg",
+        "https://img2.qy0.ru/data/0785/32/14.jpg",
+        "https://img2.qy0.ru/data/0785/32/13.jpg",
+        "https://img2.qy0.ru/data/0785/32/06.jpg",
+        "https://img2.qy0.ru/data/0785/32/19.jpg",
+        "https://img2.qy0.ru/data/0785/32/03.jpg",
+        "https://img2.qy0.ru/data/0785/32/16.jpg",
+        "https://img2.qy0.ru/data/0785/32/24.jpg",
+        "https://img2.qy0.ru/data/0785/32/12.jpg"
+    ]
+};

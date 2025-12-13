@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 114937,
+    "title": "[吃瓜大师个人汉化] [Digital] [万屋百八] 人妻上司香澄と休日のオフィスで (コミックホットミルク濃いめ vol.12)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114937.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1149/37/01.jpg",
+        "https://img3.qy0.ru/data/1149/37/02.jpg",
+        "https://img3.qy0.ru/data/1149/37/03.jpg",
+        "https://img3.qy0.ru/data/1149/37/04.jpg",
+        "https://img3.qy0.ru/data/1149/37/05.jpg",
+        "https://img3.qy0.ru/data/1149/37/06.jpg",
+        "https://img3.qy0.ru/data/1149/37/07.jpg",
+        "https://img3.qy0.ru/data/1149/37/08.jpg",
+        "https://img3.qy0.ru/data/1149/37/09.jpg",
+        "https://img3.qy0.ru/data/1149/37/10.jpg",
+        "https://img3.qy0.ru/data/1149/37/11.jpg",
+        "https://img3.qy0.ru/data/1149/37/12.jpg",
+        "https://img3.qy0.ru/data/1149/37/13.jpg",
+        "https://img3.qy0.ru/data/1149/37/14.jpg",
+        "https://img3.qy0.ru/data/1149/37/15.jpg",
+        "https://img3.qy0.ru/data/1149/37/16.jpg",
+        "https://img3.qy0.ru/data/1149/37/17.jpg",
+        "https://img3.qy0.ru/data/1149/37/18.jpg",
+        "https://img3.qy0.ru/data/1149/37/19.jpg",
+        "https://img3.qy0.ru/data/1149/37/20.jpg",
+        "https://img3.qy0.ru/data/1149/37/21.jpg",
+        "https://img3.qy0.ru/data/1149/37/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

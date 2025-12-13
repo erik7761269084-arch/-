@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115152,
+    "title": "[Emily] Close to You (COMIC BAVEL 2021-04)[中国翻訳][DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115152.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1151/52/01_Close_To_You_1.png",
+        "https://img3.qy0.ru/data/1151/52/02_Close_To_You_2.png",
+        "https://img3.qy0.ru/data/1151/52/03_Close_To_You_3.png",
+        "https://img3.qy0.ru/data/1151/52/04_Close_To_You_4.png",
+        "https://img3.qy0.ru/data/1151/52/05_Close_To_You_5.png",
+        "https://img3.qy0.ru/data/1151/52/06_Close_To_You_6.png",
+        "https://img3.qy0.ru/data/1151/52/07_Close_To_You_7.png",
+        "https://img3.qy0.ru/data/1151/52/08_Close_To_You_8.png",
+        "https://img3.qy0.ru/data/1151/52/09_Close_To_You_9.png",
+        "https://img3.qy0.ru/data/1151/52/10_Close_To_You_10.png",
+        "https://img3.qy0.ru/data/1151/52/11_Close_To_You_11.png",
+        "https://img3.qy0.ru/data/1151/52/12_Close_To_You_12.png",
+        "https://img3.qy0.ru/data/1151/52/13_Close_To_You_13.png",
+        "https://img3.qy0.ru/data/1151/52/14_Close_To_You_14.png",
+        "https://img3.qy0.ru/data/1151/52/15_Close_To_You_15.png",
+        "https://img3.qy0.ru/data/1151/52/16_Close_To_You_16.png",
+        "https://img3.qy0.ru/data/1151/52/17_Close_To_You_17.png",
+        "https://img3.qy0.ru/data/1151/52/18_Close_To_You_18.png",
+        "https://img3.qy0.ru/data/1151/52/19_Close_To_You_19.png",
+        "https://img3.qy0.ru/data/1151/52/20_Close_To_You_20.png",
+        "https://img3.qy0.ru/data/1151/52/21_Close_To_You_21.png",
+        "https://img3.qy0.ru/data/1151/52/22_22.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

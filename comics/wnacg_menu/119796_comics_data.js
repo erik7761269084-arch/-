@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 119796,
+    "title": "[漢化組漢化組×我尻故我在] [Digital] [Nanae] 落ちこぼれスプリンターズ (COMIC 失楽天 2020年10月号)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119796.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1197/96/01.jpg",
+        "https://img3.qy0.ru/data/1197/96/02.jpg",
+        "https://img3.qy0.ru/data/1197/96/03.jpg",
+        "https://img3.qy0.ru/data/1197/96/04.jpg",
+        "https://img3.qy0.ru/data/1197/96/05.jpg",
+        "https://img3.qy0.ru/data/1197/96/06.jpg",
+        "https://img3.qy0.ru/data/1197/96/07.jpg",
+        "https://img3.qy0.ru/data/1197/96/08.jpg",
+        "https://img3.qy0.ru/data/1197/96/09.jpg",
+        "https://img3.qy0.ru/data/1197/96/10.jpg",
+        "https://img3.qy0.ru/data/1197/96/11.jpg",
+        "https://img3.qy0.ru/data/1197/96/12.jpg",
+        "https://img3.qy0.ru/data/1197/96/13.jpg",
+        "https://img3.qy0.ru/data/1197/96/14.jpg",
+        "https://img3.qy0.ru/data/1197/96/15.jpg",
+        "https://img3.qy0.ru/data/1197/96/16.jpg",
+        "https://img3.qy0.ru/data/1197/96/17.jpg",
+        "https://img3.qy0.ru/data/1197/96/18.jpg",
+        "https://img3.qy0.ru/data/1197/96/19.jpg",
+        "https://img3.qy0.ru/data/1197/96/20.jpg",
+        "https://img3.qy0.ru/data/1197/96/21.jpg",
+        "https://img3.qy0.ru/data/1197/96/22.jpg",
+        "https://img3.qy0.ru/data/1197/96/23.jpg",
+        "https://img3.qy0.ru/data/1197/96/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

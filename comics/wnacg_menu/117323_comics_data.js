@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117323,
+    "title": "[もず] オトナになっちゃお♡ (COMIC 快楽天 2021年2月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117323.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_00.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_01.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_02.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_03.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_04.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_05.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_06.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_07.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_08.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_09.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_10.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_11.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_12.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_13.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_14.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_15.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_16.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_17.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_18.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_19.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_20.png",
+        "https://img3.qy0.ru/data/1173/23/UBZD_186_99.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

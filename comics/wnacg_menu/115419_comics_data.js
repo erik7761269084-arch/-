@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115419,
+    "title": "[Eシモト] 三人寄れば (COMIC 快楽天ビースト 2021年1月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115419.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1154/19/22_22.jpg",
+        "https://img3.qy0.ru/data/1154/19/02_180.jpg",
+        "https://img3.qy0.ru/data/1154/19/01_180.jpg",
+        "https://img3.qy0.ru/data/1154/19/03_181.jpg",
+        "https://img3.qy0.ru/data/1154/19/04_182.jpg",
+        "https://img3.qy0.ru/data/1154/19/05_183.jpg",
+        "https://img3.qy0.ru/data/1154/19/06_184.jpg",
+        "https://img3.qy0.ru/data/1154/19/07_185.jpg",
+        "https://img3.qy0.ru/data/1154/19/08_186.jpg",
+        "https://img3.qy0.ru/data/1154/19/09_187.jpg",
+        "https://img3.qy0.ru/data/1154/19/10_188.jpg",
+        "https://img3.qy0.ru/data/1154/19/11_189.jpg",
+        "https://img3.qy0.ru/data/1154/19/12_190.jpg",
+        "https://img3.qy0.ru/data/1154/19/13_191.jpg",
+        "https://img3.qy0.ru/data/1154/19/14_192.jpg",
+        "https://img3.qy0.ru/data/1154/19/15_193.jpg",
+        "https://img3.qy0.ru/data/1154/19/16_194.jpg",
+        "https://img3.qy0.ru/data/1154/19/17_195.jpg",
+        "https://img3.qy0.ru/data/1154/19/18_196.jpg",
+        "https://img3.qy0.ru/data/1154/19/19_197.jpg",
+        "https://img3.qy0.ru/data/1154/19/20_198.jpg",
+        "https://img3.qy0.ru/data/1154/19/21_199.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

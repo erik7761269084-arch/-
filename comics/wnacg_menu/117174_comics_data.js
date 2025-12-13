@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 117174,
+    "title": "[丑露ムキ] 虚愛 (COMIC BAVEL 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117174.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1171/74/23_UBZD_207_00.png",
+        "https://img3.qy0.ru/data/1171/74/01_UBZD_207_00.png",
+        "https://img3.qy0.ru/data/1171/74/02_UBZD_207_01.png",
+        "https://img3.qy0.ru/data/1171/74/03_UBZD_207_02.png",
+        "https://img3.qy0.ru/data/1171/74/04_UBZD_207_03.png",
+        "https://img3.qy0.ru/data/1171/74/05_UBZD_207_04.png",
+        "https://img3.qy0.ru/data/1171/74/06_UBZD_207_05.png",
+        "https://img3.qy0.ru/data/1171/74/07_UBZD_207_06.png",
+        "https://img3.qy0.ru/data/1171/74/08_UBZD_207_07.png",
+        "https://img3.qy0.ru/data/1171/74/09_UBZD_207_08.png",
+        "https://img3.qy0.ru/data/1171/74/10_UBZD_207_09.png",
+        "https://img3.qy0.ru/data/1171/74/11_UBZD_207_10.png",
+        "https://img3.qy0.ru/data/1171/74/12_UBZD_207_11.png",
+        "https://img3.qy0.ru/data/1171/74/13_UBZD_207_12.png",
+        "https://img3.qy0.ru/data/1171/74/14_UBZD_207_13.png",
+        "https://img3.qy0.ru/data/1171/74/15_UBZD_207_14.png",
+        "https://img3.qy0.ru/data/1171/74/16_UBZD_207_15.png",
+        "https://img3.qy0.ru/data/1171/74/17_UBZD_207_16.png",
+        "https://img3.qy0.ru/data/1171/74/18_UBZD_207_17.png",
+        "https://img3.qy0.ru/data/1171/74/19_UBZD_207_18.png",
+        "https://img3.qy0.ru/data/1171/74/20_UBZD_207_19.png",
+        "https://img3.qy0.ru/data/1171/74/21_UBZD_207_20.png",
+        "https://img3.qy0.ru/data/1171/74/22_UBZD_207_99.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

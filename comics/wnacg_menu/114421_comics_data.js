@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 114421,
+    "title": "すなになれない天野ちゃん",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114421.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1144/21/01.jpg",
+        "https://img3.qy0.ru/data/1144/21/02.jpg",
+        "https://img3.qy0.ru/data/1144/21/03.jpg",
+        "https://img3.qy0.ru/data/1144/21/04.jpg",
+        "https://img3.qy0.ru/data/1144/21/05.jpg",
+        "https://img3.qy0.ru/data/1144/21/06.jpg",
+        "https://img3.qy0.ru/data/1144/21/07.jpg",
+        "https://img3.qy0.ru/data/1144/21/08.jpg",
+        "https://img3.qy0.ru/data/1144/21/09.jpg",
+        "https://img3.qy0.ru/data/1144/21/10.jpg",
+        "https://img3.qy0.ru/data/1144/21/11.jpg",
+        "https://img3.qy0.ru/data/1144/21/12.jpg",
+        "https://img3.qy0.ru/data/1144/21/13.jpg",
+        "https://img3.qy0.ru/data/1144/21/14.jpg",
+        "https://img3.qy0.ru/data/1144/21/15.jpg",
+        "https://img3.qy0.ru/data/1144/21/16.jpg",
+        "https://img3.qy0.ru/data/1144/21/17.jpg",
+        "https://img3.qy0.ru/data/1144/21/18.jpg",
+        "https://img3.qy0.ru/data/1144/21/19.jpg",
+        "https://img3.qy0.ru/data/1144/21/20.jpg",
+        "https://img3.qy0.ru/data/1144/21/21.jpg",
+        "https://img3.qy0.ru/data/1144/21/22.jpg",
+        "https://img3.qy0.ru/data/1144/21/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

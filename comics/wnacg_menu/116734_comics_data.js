@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 116734,
+    "title": "[みぞね] 根っこまで愛して (COMIC BAVEL 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116734.html",
+    "totalPages": 32,
+    "images": [
+        "https://img3.qy0.ru/data/1167/34/0001.jpg",
+        "https://img3.qy0.ru/data/1167/34/0002.jpg",
+        "https://img3.qy0.ru/data/1167/34/0003.jpg",
+        "https://img3.qy0.ru/data/1167/34/0004.jpg",
+        "https://img3.qy0.ru/data/1167/34/0005.jpg",
+        "https://img3.qy0.ru/data/1167/34/0006.jpg",
+        "https://img3.qy0.ru/data/1167/34/0007.jpg",
+        "https://img3.qy0.ru/data/1167/34/0008.jpg",
+        "https://img3.qy0.ru/data/1167/34/0009.jpg",
+        "https://img3.qy0.ru/data/1167/34/0010.jpg",
+        "https://img3.qy0.ru/data/1167/34/0011.jpg",
+        "https://img3.qy0.ru/data/1167/34/0012.jpg",
+        "https://img3.qy0.ru/data/1167/34/0013.jpg",
+        "https://img3.qy0.ru/data/1167/34/0014.jpg",
+        "https://img3.qy0.ru/data/1167/34/0015.jpg",
+        "https://img3.qy0.ru/data/1167/34/0016.jpg",
+        "https://img3.qy0.ru/data/1167/34/0017.jpg",
+        "https://img3.qy0.ru/data/1167/34/0018.jpg",
+        "https://img3.qy0.ru/data/1167/34/0019.jpg",
+        "https://img3.qy0.ru/data/1167/34/0020.jpg",
+        "https://img3.qy0.ru/data/1167/34/0021.jpg",
+        "https://img3.qy0.ru/data/1167/34/0022.jpg",
+        "https://img3.qy0.ru/data/1167/34/0023.jpg",
+        "https://img3.qy0.ru/data/1167/34/0024.jpg"
+    ]
+};

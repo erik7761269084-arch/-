@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 117194,
+    "title": "[Hamao] Over (COMIC 快楽天 2021年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117194.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1171/94/01_000.jpg",
+        "https://img3.qy0.ru/data/1171/94/02_001.jpg",
+        "https://img3.qy0.ru/data/1171/94/23_23.jpg",
+        "https://img3.qy0.ru/data/1171/94/03_052.jpg",
+        "https://img3.qy0.ru/data/1171/94/04_053.jpg",
+        "https://img3.qy0.ru/data/1171/94/05_054.jpg",
+        "https://img3.qy0.ru/data/1171/94/06_055.jpg",
+        "https://img3.qy0.ru/data/1171/94/07_056.jpg",
+        "https://img3.qy0.ru/data/1171/94/08_057.jpg",
+        "https://img3.qy0.ru/data/1171/94/09_058.jpg",
+        "https://img3.qy0.ru/data/1171/94/10_059.jpg",
+        "https://img3.qy0.ru/data/1171/94/11_060.jpg",
+        "https://img3.qy0.ru/data/1171/94/12_061.jpg",
+        "https://img3.qy0.ru/data/1171/94/13_062.jpg",
+        "https://img3.qy0.ru/data/1171/94/14_063.jpg",
+        "https://img3.qy0.ru/data/1171/94/15_064.jpg",
+        "https://img3.qy0.ru/data/1171/94/16_065.jpg",
+        "https://img3.qy0.ru/data/1171/94/17_066.jpg",
+        "https://img3.qy0.ru/data/1171/94/18_067.jpg",
+        "https://img3.qy0.ru/data/1171/94/19_068.jpg",
+        "https://img3.qy0.ru/data/1171/94/20_069.jpg",
+        "https://img3.qy0.ru/data/1171/94/21_070.jpg",
+        "https://img3.qy0.ru/data/1171/94/22_071.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

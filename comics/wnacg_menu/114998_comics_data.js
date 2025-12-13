@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114998,
+    "title": "[平間ひろかず] ツインズSTRIKE!! (COMIC 快楽天ビースト 2021年3月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114998.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1149/98/01_p0.jpg",
+        "https://img3.qy0.ru/data/1149/98/02_p1.jpg",
+        "https://img3.qy0.ru/data/1149/98/03_p2.jpg",
+        "https://img3.qy0.ru/data/1149/98/04_p3.jpg",
+        "https://img3.qy0.ru/data/1149/98/05_p4.jpg",
+        "https://img3.qy0.ru/data/1149/98/06_p5.jpg",
+        "https://img3.qy0.ru/data/1149/98/07_p6.jpg",
+        "https://img3.qy0.ru/data/1149/98/08_p7.jpg",
+        "https://img3.qy0.ru/data/1149/98/09_p8.jpg",
+        "https://img3.qy0.ru/data/1149/98/10_p9.jpg",
+        "https://img3.qy0.ru/data/1149/98/11_p10.jpg",
+        "https://img3.qy0.ru/data/1149/98/12_p11.jpg",
+        "https://img3.qy0.ru/data/1149/98/13_p12.jpg",
+        "https://img3.qy0.ru/data/1149/98/14_p13.jpg",
+        "https://img3.qy0.ru/data/1149/98/15_p14.jpg",
+        "https://img3.qy0.ru/data/1149/98/16_p15.jpg",
+        "https://img3.qy0.ru/data/1149/98/17_p16.jpg",
+        "https://img3.qy0.ru/data/1149/98/18_p17.jpg",
+        "https://img3.qy0.ru/data/1149/98/19_p18.jpg",
+        "https://img3.qy0.ru/data/1149/98/20_p19.jpg",
+        "https://img3.qy0.ru/data/1149/98/21_p20.jpg",
+        "https://img3.qy0.ru/data/1149/98/22_p21.jpg",
+        "https://img3.qy0.ru/data/1149/98/23_p22.jpg",
+        "https://img3.qy0.ru/data/1149/98/24_24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

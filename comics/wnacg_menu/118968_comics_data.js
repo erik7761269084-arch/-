@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 118968,
+    "title": "[ぬんぬ] 都市伝説! 猿淫夢 (COMIC BAVEL 2021年5月号) [下北泽幕府] [Digital]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118968.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1189/68/056.jpg",
+        "https://img3.qy0.ru/data/1189/68/057.jpg",
+        "https://img3.qy0.ru/data/1189/68/058.jpg",
+        "https://img3.qy0.ru/data/1189/68/059.jpg",
+        "https://img3.qy0.ru/data/1189/68/060.jpg",
+        "https://img3.qy0.ru/data/1189/68/061.jpg",
+        "https://img3.qy0.ru/data/1189/68/062.jpg",
+        "https://img3.qy0.ru/data/1189/68/063.jpg",
+        "https://img3.qy0.ru/data/1189/68/064.jpg",
+        "https://img3.qy0.ru/data/1189/68/065.jpg",
+        "https://img3.qy0.ru/data/1189/68/066.jpg",
+        "https://img3.qy0.ru/data/1189/68/067.jpg",
+        "https://img3.qy0.ru/data/1189/68/068.jpg",
+        "https://img3.qy0.ru/data/1189/68/069.jpg",
+        "https://img3.qy0.ru/data/1189/68/070.jpg",
+        "https://img3.qy0.ru/data/1189/68/071.jpg",
+        "https://img3.qy0.ru/data/1189/68/072.jpg",
+        "https://img3.qy0.ru/data/1189/68/073.jpg",
+        "https://img3.qy0.ru/data/1189/68/074.jpg",
+        "https://img3.qy0.ru/data/1189/68/075.jpg",
+        "https://img3.qy0.ru/data/1189/68/076.jpg",
+        "https://img3.qy0.ru/data/1189/68/077.jpg",
+        "https://img3.qy0.ru/data/1189/68/078.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

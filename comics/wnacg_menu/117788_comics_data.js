@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 117788,
+    "title": "[いづれ] JKちゃんと年頃くん #2 (WEEKLY快楽天 Vol.63)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117788.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1177/88/016_.png",
+        "https://img3.qy0.ru/data/1177/88/009_.png",
+        "https://img3.qy0.ru/data/1177/88/021_.png",
+        "https://img3.qy0.ru/data/1177/88/019_.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1177/88/003_.png",
+        "https://img3.qy0.ru/data/1177/88/012_.png",
+        "https://img3.qy0.ru/data/1177/88/015_.png",
+        "https://img3.qy0.ru/data/1177/88/008_.png",
+        "https://img3.qy0.ru/data/1177/88/017_.png",
+        "https://img3.qy0.ru/data/1177/88/002_.png",
+        "https://img3.qy0.ru/data/1177/88/006_.png",
+        "https://img3.qy0.ru/data/1177/88/004_.png",
+        "https://img3.qy0.ru/data/1177/88/013_.png",
+        "https://img3.qy0.ru/data/1177/88/022_.png",
+        "https://img3.qy0.ru/data/1177/88/018_.png",
+        "https://img3.qy0.ru/data/1177/88/020_.png",
+        "https://img3.qy0.ru/data/1177/88/007_.png",
+        "https://img3.qy0.ru/data/1177/88/011_.png",
+        "https://img3.qy0.ru/data/1177/88/005_.png",
+        "https://img3.qy0.ru/data/1177/88/010_.png",
+        "https://img3.qy0.ru/data/1177/88/014_.png"
+    ]
+};

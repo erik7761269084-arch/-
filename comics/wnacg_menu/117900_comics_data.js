@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117900,
+    "title": "[森シンリスク] こーちんぐ! (COMIC 快楽天 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117900.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1179/00/22_22.jpg",
+        "https://img3.qy0.ru/data/1179/00/03_309_.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1179/00/06_312_.jpg",
+        "https://img3.qy0.ru/data/1179/00/15_321_.jpg",
+        "https://img3.qy0.ru/data/1179/00/19_325_.jpg",
+        "https://img3.qy0.ru/data/1179/00/14_320_.jpg",
+        "https://img3.qy0.ru/data/1179/00/09_315_.jpg",
+        "https://img3.qy0.ru/data/1179/00/16_322_.jpg",
+        "https://img3.qy0.ru/data/1179/00/20_326_.jpg",
+        "https://img3.qy0.ru/data/1179/00/01_308_.jpg",
+        "https://img3.qy0.ru/data/1179/00/10_316_.jpg",
+        "https://img3.qy0.ru/data/1179/00/02_308_.jpg",
+        "https://img3.qy0.ru/data/1179/00/13_319_.jpg",
+        "https://img3.qy0.ru/data/1179/00/05_311_.jpg",
+        "https://img3.qy0.ru/data/1179/00/21_327_.jpg",
+        "https://img3.qy0.ru/data/1179/00/07_313_.jpg",
+        "https://img3.qy0.ru/data/1179/00/11_317_.jpg",
+        "https://img3.qy0.ru/data/1179/00/18_324_.jpg",
+        "https://img3.qy0.ru/data/1179/00/17_323_.jpg",
+        "https://img3.qy0.ru/data/1179/00/12_318_.jpg",
+        "https://img3.qy0.ru/data/1179/00/04_310_.jpg",
+        "https://img3.qy0.ru/data/1179/00/08_314_.jpg"
+    ]
+};

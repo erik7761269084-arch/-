@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 324202,
+    "title": "[風味本舖 (Machi馬吉)] Blissful Dreams On the Horizon 3 (崩壊：スターレイル) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-324202.html",
+    "images": [
+        "https://img5.qy0.ru/data/3242/02/01.jpg",
+        "https://img5.qy0.ru/data/3242/02/02.jpg",
+        "https://img5.qy0.ru/data/3242/02/03.jpg",
+        "https://img5.qy0.ru/data/3242/02/04.jpg",
+        "https://img5.qy0.ru/data/3242/02/05.jpg",
+        "https://img5.qy0.ru/data/3242/02/06.jpg",
+        "https://img5.qy0.ru/data/3242/02/07.jpg",
+        "https://img5.qy0.ru/data/3242/02/08.jpg",
+        "https://img5.qy0.ru/data/3242/02/09.jpg",
+        "https://img5.qy0.ru/data/3242/02/10.jpg",
+        "https://img5.qy0.ru/data/3242/02/11.jpg",
+        "https://img5.qy0.ru/data/3242/02/12.jpg",
+        "https://img5.qy0.ru/data/3242/02/13.jpg",
+        "https://img5.qy0.ru/data/3242/02/14.jpg",
+        "https://img5.qy0.ru/data/3242/02/15.jpg",
+        "https://img5.qy0.ru/data/3242/02/16.jpg",
+        "https://img5.qy0.ru/data/3242/02/17.jpg",
+        "https://img5.qy0.ru/data/3242/02/18.jpg",
+        "https://img5.qy0.ru/data/3242/02/19.jpg",
+        "https://img5.qy0.ru/data/3242/02/20.jpg",
+        "https://img5.qy0.ru/data/3242/02/21.jpg",
+        "https://img5.qy0.ru/data/3242/02/22.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

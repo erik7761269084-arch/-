@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 116289,
+    "title": "[尻戦車] 聖煌戦姫ジュエルルミナス 乙女ふたり堕つる時 3 (くっ殺ヒロインズVol.7) [不咕鸟x这很恶堕汉化组] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-116289.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1162/89/01.jpg",
+        "https://img3.qy0.ru/data/1162/89/02.jpg",
+        "https://img3.qy0.ru/data/1162/89/03.jpg",
+        "https://img3.qy0.ru/data/1162/89/04.jpg",
+        "https://img3.qy0.ru/data/1162/89/05.jpg",
+        "https://img3.qy0.ru/data/1162/89/06.jpg",
+        "https://img3.qy0.ru/data/1162/89/07.jpg",
+        "https://img3.qy0.ru/data/1162/89/08.jpg",
+        "https://img3.qy0.ru/data/1162/89/09.jpg",
+        "https://img3.qy0.ru/data/1162/89/10.jpg",
+        "https://img3.qy0.ru/data/1162/89/11.jpg",
+        "https://img3.qy0.ru/data/1162/89/12.jpg",
+        "https://img3.qy0.ru/data/1162/89/13.jpg",
+        "https://img3.qy0.ru/data/1162/89/14.jpg",
+        "https://img3.qy0.ru/data/1162/89/15.jpg",
+        "https://img3.qy0.ru/data/1162/89/16.jpg",
+        "https://img3.qy0.ru/data/1162/89/17.jpg",
+        "https://img3.qy0.ru/data/1162/89/18.jpg",
+        "https://img3.qy0.ru/data/1162/89/19.jpg",
+        "https://img3.qy0.ru/data/1162/89/20.jpg",
+        "https://img3.qy0.ru/data/1162/89/21.jpg",
+        "https://img3.qy0.ru/data/1162/89/22.jpg",
+        "https://img3.qy0.ru/data/1162/89/23.jpg",
+        "https://img3.qy0.ru/data/1162/89/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

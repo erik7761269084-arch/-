@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 270103,
+    "title": "(マジアベーゼに魅せられて) [ねるねる7mm (七海ねる)] 4Rooms マジアベーゼが満足するまで出られない部屋 (魔法少女にあこがれて) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-270103.html",
+    "totalPages": 23,
+    "images": [
+        "https://img5.qy0.ru/data/2701/03/01.jpg",
+        "https://img5.qy0.ru/data/2701/03/02.jpg",
+        "https://img5.qy0.ru/data/2701/03/03.jpg",
+        "https://img5.qy0.ru/data/2701/03/04.jpg",
+        "https://img5.qy0.ru/data/2701/03/05.jpg",
+        "https://img5.qy0.ru/data/2701/03/06.jpg",
+        "https://img5.qy0.ru/data/2701/03/07.jpg",
+        "https://img5.qy0.ru/data/2701/03/08.jpg",
+        "https://img5.qy0.ru/data/2701/03/09.jpg",
+        "https://img5.qy0.ru/data/2701/03/10.jpg",
+        "https://img5.qy0.ru/data/2701/03/11.jpg",
+        "https://img5.qy0.ru/data/2701/03/12.jpg",
+        "https://img5.qy0.ru/data/2701/03/13.jpg",
+        "https://img5.qy0.ru/data/2701/03/14.jpg",
+        "https://img5.qy0.ru/data/2701/03/15.jpg",
+        "https://img5.qy0.ru/data/2701/03/16.jpg",
+        "https://img5.qy0.ru/data/2701/03/17.jpg",
+        "https://img5.qy0.ru/data/2701/03/18.jpg",
+        "https://img5.qy0.ru/data/2701/03/19.jpg",
+        "https://img5.qy0.ru/data/2701/03/20.jpg",
+        "https://img5.qy0.ru/data/2701/03/21.jpg",
+        "https://img5.qy0.ru/data/2701/03/22.jpg",
+        "https://img5.qy0.ru/data/2701/03/23.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

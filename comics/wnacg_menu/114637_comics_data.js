@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 114637,
+    "title": "[小京子個人漢化] [Digital] [B.B.T.T. (山本善々)] 奴隷オーガの人間社会見学",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114637.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1146/37/02.jpg",
+        "https://img3.qy0.ru/data/1146/37/03.jpg",
+        "https://img3.qy0.ru/data/1146/37/04.jpg",
+        "https://img3.qy0.ru/data/1146/37/05.jpg",
+        "https://img3.qy0.ru/data/1146/37/06.jpg",
+        "https://img3.qy0.ru/data/1146/37/07.jpg",
+        "https://img3.qy0.ru/data/1146/37/08.jpg",
+        "https://img3.qy0.ru/data/1146/37/09.jpg",
+        "https://img3.qy0.ru/data/1146/37/10.jpg",
+        "https://img3.qy0.ru/data/1146/37/11.jpg",
+        "https://img3.qy0.ru/data/1146/37/12.jpg",
+        "https://img3.qy0.ru/data/1146/37/13.jpg",
+        "https://img3.qy0.ru/data/1146/37/14.jpg",
+        "https://img3.qy0.ru/data/1146/37/15.jpg",
+        "https://img3.qy0.ru/data/1146/37/16.jpg",
+        "https://img3.qy0.ru/data/1146/37/17.jpg",
+        "https://img3.qy0.ru/data/1146/37/18.jpg",
+        "https://img3.qy0.ru/data/1146/37/19.jpg",
+        "https://img3.qy0.ru/data/1146/37/20.jpg",
+        "https://img3.qy0.ru/data/1146/37/21.jpg",
+        "https://img3.qy0.ru/data/1146/37/22.jpg",
+        "https://img3.qy0.ru/data/1146/37/23.jpg",
+        "https://img3.qy0.ru/data/1146/37/24.jpg",
+        "https://img3.qy0.ru/data/1146/37/25.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

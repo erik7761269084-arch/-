@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 119233,
+    "title": "[音音] 姉弟じゃダメ (コミックホットミルク 2021年5月号) [不够色汉化组]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119233.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1192/33/000.png",
+        "https://img3.qy0.ru/data/1192/33/039.png",
+        "https://img3.qy0.ru/data/1192/33/040.png",
+        "https://img3.qy0.ru/data/1192/33/041.png",
+        "https://img3.qy0.ru/data/1192/33/042.png",
+        "https://img3.qy0.ru/data/1192/33/043.png",
+        "https://img3.qy0.ru/data/1192/33/044.png",
+        "https://img3.qy0.ru/data/1192/33/045.png",
+        "https://img3.qy0.ru/data/1192/33/046.png",
+        "https://img3.qy0.ru/data/1192/33/047.png",
+        "https://img3.qy0.ru/data/1192/33/048.png",
+        "https://img3.qy0.ru/data/1192/33/049.png",
+        "https://img3.qy0.ru/data/1192/33/050.png",
+        "https://img3.qy0.ru/data/1192/33/051.png",
+        "https://img3.qy0.ru/data/1192/33/052.png",
+        "https://img3.qy0.ru/data/1192/33/053.png",
+        "https://img3.qy0.ru/data/1192/33/054.png",
+        "https://img3.qy0.ru/data/1192/33/055.png",
+        "https://img3.qy0.ru/data/1192/33/056.png",
+        "https://img3.qy0.ru/data/1192/33/057.png",
+        "https://img3.qy0.ru/data/1192/33/058.png",
+        "https://img3.qy0.ru/data/1192/33/059.png",
+        "https://img3.qy0.ru/data/1192/33/060.png",
+        "https://img3.qy0.ru/data/1192/33/16198579135511.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

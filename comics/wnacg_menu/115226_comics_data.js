@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 115226,
+    "title": "[茨芽ヒサ] 夜よ闇よ (COMIC BAVEL 2021年4月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115226.html",
+    "totalPages": 28,
+    "images": [
+        "https://img3.qy0.ru/data/1152/26/01__1.png",
+        "https://img3.qy0.ru/data/1152/26/02__2.png",
+        "https://img3.qy0.ru/data/1152/26/03__3.png",
+        "https://img3.qy0.ru/data/1152/26/04__4.png",
+        "https://img3.qy0.ru/data/1152/26/05__5.png",
+        "https://img3.qy0.ru/data/1152/26/06__6.png",
+        "https://img3.qy0.ru/data/1152/26/07__7.png",
+        "https://img3.qy0.ru/data/1152/26/08__8.png",
+        "https://img3.qy0.ru/data/1152/26/09__9.png",
+        "https://img3.qy0.ru/data/1152/26/10__10.png",
+        "https://img3.qy0.ru/data/1152/26/11__11.png",
+        "https://img3.qy0.ru/data/1152/26/12__12.png",
+        "https://img3.qy0.ru/data/1152/26/13__13.png",
+        "https://img3.qy0.ru/data/1152/26/14__14.png",
+        "https://img3.qy0.ru/data/1152/26/15__15.png",
+        "https://img3.qy0.ru/data/1152/26/16__16.png",
+        "https://img3.qy0.ru/data/1152/26/17__17.png",
+        "https://img3.qy0.ru/data/1152/26/18__18.png",
+        "https://img3.qy0.ru/data/1152/26/19__19.png",
+        "https://img3.qy0.ru/data/1152/26/20__20.png",
+        "https://img3.qy0.ru/data/1152/26/21__21.png",
+        "https://img3.qy0.ru/data/1152/26/22__22.png",
+        "https://img3.qy0.ru/data/1152/26/23__23.png"
+    ]
+};

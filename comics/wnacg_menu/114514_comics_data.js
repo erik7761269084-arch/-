@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 114514,
+    "title": "[黒岩瑪瑙] 義母堕ち1 [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114514.html",
+    "totalPages": 28,
+    "images": [
+        "https://img3.qy0.ru/data/1145/14/01.jpg",
+        "https://img3.qy0.ru/data/1145/14/02.jpg",
+        "https://img3.qy0.ru/data/1145/14/03.jpg",
+        "https://img3.qy0.ru/data/1145/14/04.jpg",
+        "https://img3.qy0.ru/data/1145/14/05.jpg",
+        "https://img3.qy0.ru/data/1145/14/06.jpg",
+        "https://img3.qy0.ru/data/1145/14/07.jpg",
+        "https://img3.qy0.ru/data/1145/14/08.jpg",
+        "https://img3.qy0.ru/data/1145/14/09.jpg",
+        "https://img3.qy0.ru/data/1145/14/10.jpg",
+        "https://img3.qy0.ru/data/1145/14/11.jpg",
+        "https://img3.qy0.ru/data/1145/14/12.jpg",
+        "https://img3.qy0.ru/data/1145/14/13.jpg",
+        "https://img3.qy0.ru/data/1145/14/14.jpg",
+        "https://img3.qy0.ru/data/1145/14/15.jpg",
+        "https://img3.qy0.ru/data/1145/14/16.jpg",
+        "https://img3.qy0.ru/data/1145/14/17.jpg",
+        "https://img3.qy0.ru/data/1145/14/18.jpg",
+        "https://img3.qy0.ru/data/1145/14/19.jpg",
+        "https://img3.qy0.ru/data/1145/14/20.jpg",
+        "https://img3.qy0.ru/data/1145/14/21.jpg",
+        "https://img3.qy0.ru/data/1145/14/22.jpg",
+        "https://img3.qy0.ru/data/1145/14/23.jpg"
+    ]
+};

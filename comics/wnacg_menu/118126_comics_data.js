@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 118126,
+    "title": "[無道叡智] Understand the Cheeky Girl (COMIC LO 2020年10月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118126.html",
+    "totalPages": 24,
+    "images": [
+        "https://img3.qy0.ru/data/1181/26/z1.png",
+        "https://img3.qy0.ru/data/1181/26/Z2.png",
+        "https://img3.qy0.ru/data/1181/26/Z4.jpg",
+        "https://img3.qy0.ru/data/1181/26/z5.jpg",
+        "https://img3.qy0.ru/data/1181/26/344.jpg",
+        "https://img3.qy0.ru/data/1181/26/345.jpg",
+        "https://img3.qy0.ru/data/1181/26/346.jpg",
+        "https://img3.qy0.ru/data/1181/26/347.jpg",
+        "https://img3.qy0.ru/data/1181/26/348.jpg",
+        "https://img3.qy0.ru/data/1181/26/349.jpg",
+        "https://img3.qy0.ru/data/1181/26/350.jpg",
+        "https://img3.qy0.ru/data/1181/26/351.jpg",
+        "https://img3.qy0.ru/data/1181/26/352.jpg",
+        "https://img3.qy0.ru/data/1181/26/353.jpg",
+        "https://img3.qy0.ru/data/1181/26/354.jpg",
+        "https://img3.qy0.ru/data/1181/26/355.jpg",
+        "https://img3.qy0.ru/data/1181/26/356.jpg",
+        "https://img3.qy0.ru/data/1181/26/357.jpg",
+        "https://img3.qy0.ru/data/1181/26/358.jpg",
+        "https://img3.qy0.ru/data/1181/26/359.jpg",
+        "https://img3.qy0.ru/data/1181/26/360.jpg",
+        "https://img3.qy0.ru/data/1181/26/361.jpg",
+        "https://img3.qy0.ru/data/1181/26/362.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

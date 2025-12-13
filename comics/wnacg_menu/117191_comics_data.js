@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 117191,
+    "title": "[YU] 押しかけ従姉妹にご用心 (コミック エグゼ 20) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-117191.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1171/91/580.jpg",
+        "https://img3.qy0.ru/data/1171/91/581.jpg",
+        "https://img3.qy0.ru/data/1171/91/582.jpg",
+        "https://img3.qy0.ru/data/1171/91/583.jpg",
+        "https://img3.qy0.ru/data/1171/91/584.jpg",
+        "https://img3.qy0.ru/data/1171/91/585.jpg",
+        "https://img3.qy0.ru/data/1171/91/586.jpg",
+        "https://img3.qy0.ru/data/1171/91/587.jpg",
+        "https://img3.qy0.ru/data/1171/91/588.jpg",
+        "https://img3.qy0.ru/data/1171/91/589.jpg",
+        "https://img3.qy0.ru/data/1171/91/590.jpg",
+        "https://img3.qy0.ru/data/1171/91/591.jpg",
+        "https://img3.qy0.ru/data/1171/91/592.jpg",
+        "https://img3.qy0.ru/data/1171/91/593.jpg",
+        "https://img3.qy0.ru/data/1171/91/594.jpg",
+        "https://img3.qy0.ru/data/1171/91/595.jpg",
+        "https://img3.qy0.ru/data/1171/91/596.jpg",
+        "https://img3.qy0.ru/data/1171/91/597.jpg",
+        "https://img3.qy0.ru/data/1171/91/598.jpg",
+        "https://img3.qy0.ru/data/1171/91/599.jpg",
+        "https://img3.qy0.ru/data/1171/91/600.jpg",
+        "https://img3.qy0.ru/data/1171/91/601.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

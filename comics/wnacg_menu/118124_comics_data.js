@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118124,
+    "title": "[暴碧汉化组] [丑露ムキ] ホームレスのオンナノコ | 无家可归的女孩 (COMIC BAVEL 2021年2月号) [無修正]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118124.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_00.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_01.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_02.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_03.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_04.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_05.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_06.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_07.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_08.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_09.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_10.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_11.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_12.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_13.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_14.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_15.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_16.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_17.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_18.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_19.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_20.png",
+        "https://img3.qy0.ru/data/1181/24/UBZD-180u_99.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

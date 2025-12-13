@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 119182,
+    "title": "[神州国光社] [のこっぱ] モフモフLOVER! (COMIC 外楽 Vol.06)",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-119182.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1191/82/163.jpg",
+        "https://img3.qy0.ru/data/1191/82/164.jpg",
+        "https://img3.qy0.ru/data/1191/82/165.jpg",
+        "https://img3.qy0.ru/data/1191/82/166.jpg",
+        "https://img3.qy0.ru/data/1191/82/167.jpg",
+        "https://img3.qy0.ru/data/1191/82/168.jpg",
+        "https://img3.qy0.ru/data/1191/82/169.jpg",
+        "https://img3.qy0.ru/data/1191/82/170.jpg",
+        "https://img3.qy0.ru/data/1191/82/171.jpg",
+        "https://img3.qy0.ru/data/1191/82/172.jpg",
+        "https://img3.qy0.ru/data/1191/82/173.jpg",
+        "https://img3.qy0.ru/data/1191/82/174.jpg",
+        "https://img3.qy0.ru/data/1191/82/175.jpg",
+        "https://img3.qy0.ru/data/1191/82/176.jpg",
+        "https://img3.qy0.ru/data/1191/82/177.jpg",
+        "https://img3.qy0.ru/data/1191/82/178.jpg",
+        "https://img3.qy0.ru/data/1191/82/179.jpg",
+        "https://img3.qy0.ru/data/1191/82/180.jpg",
+        "https://img3.qy0.ru/data/1191/82/181.jpg",
+        "https://img3.qy0.ru/data/1191/82/182.jpg",
+        "https://img3.qy0.ru/data/1191/82/183.jpg",
+        "https://img3.qy0.ru/data/1191/82/184.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

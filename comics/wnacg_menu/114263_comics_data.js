@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 114263,
+    "title": "[江森うき] 受験息子とアゲマン母 (COMIC クリベロン DUMA 2021年1月号 Vol.24) [中国翻訳]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-114263.html",
+    "totalPages": 23,
+    "images": [
+        "https://img3.qy0.ru/data/1142/63/22_22.png",
+        "https://img3.qy0.ru/data/1142/63/16_0038_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/13_0035_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/11_0033_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/14_0036_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/21_soulbaihe.jpg",
+        "https://img3.qy0.ru/data/1142/63/03_0025_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/10_0032_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/07_0029_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/06_0028_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/04_0026_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/12_0034_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/09_0031_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/19_0041_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/18_0040_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/20_0042_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/17_0039_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/01_0023_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/08_0030_right.jpg",
+        "https://img3.qy0.ru/data/1142/63/15_0037_left.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1142/63/05_0027_left.jpg",
+        "https://img3.qy0.ru/data/1142/63/02_0024_right.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 118256,
+    "title": "[だにまる] この恋に気づいて (COMIC アンスリウム 2021年5月号) [中国翻訳] [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118256.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0054.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0055.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0056.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0057.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0058.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0059.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0060.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0061.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0062.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0063.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0064.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0065.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0066.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0067.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0068.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0069.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0070.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0071.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0072.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0073.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0074.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0075.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0076.jpg",
+        "https://img3.qy0.ru/data/1182/56/dmmmg_2829_0077.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

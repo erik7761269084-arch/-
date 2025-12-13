@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 115479,
+    "title": "[丸居まる] 返報性ラッキースケベ (COMIC アンスリウム 2020年5月号) [不可视汉化] [Digital]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115479.html",
+    "totalPages": 25,
+    "images": [
+        "https://img3.qy0.ru/data/1154/79/01.jpg",
+        "https://img3.qy0.ru/data/1154/79/02.jpg",
+        "https://img3.qy0.ru/data/1154/79/03.jpg",
+        "https://img3.qy0.ru/data/1154/79/04.jpg",
+        "https://img3.qy0.ru/data/1154/79/05.jpg",
+        "https://img3.qy0.ru/data/1154/79/06.jpg",
+        "https://img3.qy0.ru/data/1154/79/07.jpg",
+        "https://img3.qy0.ru/data/1154/79/08.jpg",
+        "https://img3.qy0.ru/data/1154/79/09.jpg",
+        "https://img3.qy0.ru/data/1154/79/10.jpg",
+        "https://img3.qy0.ru/data/1154/79/11.jpg",
+        "https://img3.qy0.ru/data/1154/79/12.jpg",
+        "https://img3.qy0.ru/data/1154/79/13.jpg",
+        "https://img3.qy0.ru/data/1154/79/14.jpg",
+        "https://img3.qy0.ru/data/1154/79/15.jpg",
+        "https://img3.qy0.ru/data/1154/79/16.jpg",
+        "https://img3.qy0.ru/data/1154/79/17.jpg",
+        "https://img3.qy0.ru/data/1154/79/18.jpg",
+        "https://img3.qy0.ru/data/1154/79/19.jpg",
+        "https://img3.qy0.ru/data/1154/79/20.jpg",
+        "https://img3.qy0.ru/data/1154/79/21.jpg",
+        "https://img3.qy0.ru/data/1154/79/22.jpg",
+        "https://img3.qy0.ru/data/1154/79/23.jpg",
+        "https://img3.qy0.ru/data/1154/79/24.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};

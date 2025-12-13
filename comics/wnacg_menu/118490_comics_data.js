@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 118490,
+    "title": "[冰夜汉化] [前島龍] ないしょの援交チャレンジ | 不可告人的援交挑战 (COMIC LO 2021年5月号) [DL版]",
+    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118490.html",
+    "totalPages": 22,
+    "images": [
+        "https://img3.qy0.ru/data/1184/90/01.jpg",
+        "https://img3.qy0.ru/data/1184/90/02.jpg",
+        "https://img3.qy0.ru/data/1184/90/03.jpg",
+        "https://img3.qy0.ru/data/1184/90/04.jpg",
+        "https://img3.qy0.ru/data/1184/90/05.jpg",
+        "https://img3.qy0.ru/data/1184/90/06.jpg",
+        "https://img3.qy0.ru/data/1184/90/07.jpg",
+        "https://img3.qy0.ru/data/1184/90/08.jpg",
+        "https://img3.qy0.ru/data/1184/90/09.jpg",
+        "https://img3.qy0.ru/data/1184/90/10.jpg",
+        "https://img3.qy0.ru/data/1184/90/11.jpg",
+        "https://img3.qy0.ru/data/1184/90/12.jpg",
+        "https://img3.qy0.ru/data/1184/90/13.jpg",
+        "https://img3.qy0.ru/data/1184/90/14.jpg",
+        "https://img3.qy0.ru/data/1184/90/15.jpg",
+        "https://img3.qy0.ru/data/1184/90/16.jpg",
+        "https://img3.qy0.ru/data/1184/90/17.jpg",
+        "https://img3.qy0.ru/data/1184/90/18.jpg",
+        "https://img3.qy0.ru/data/1184/90/19.jpg",
+        "https://img3.qy0.ru/data/1184/90/20.jpg",
+        "https://img3.qy0.ru/data/1184/90/21.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+    ]
+};
