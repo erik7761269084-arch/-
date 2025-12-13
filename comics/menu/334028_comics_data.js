@@ -1,8 +1,30 @@
 const comicData = {
     "IDcode": 334028,
     "title": "[かわもりみさき] 熟れ妻遊戯 めぐみさんは息子の彼女：2——11话[DL版]",
-    "sourceUrl": "https://www.wnacg.com/photos-slide-aid-334028.html",
+    "sourceUrl": "https://www.wnacg.com/photos-list-aid-334028.html",
     "images": [
-        "https://img5.qy0.ru/data/3340/28/01.jpg"
+        "https://img5.qy0.ru/data/3340/28/06.jpg",
+        "https://img5.qy0.ru/data/3340/28/11.jpg",
+        "https://img5.qy0.ru/data/3340/28/04.jpg",
+        "https://img5.qy0.ru/data/3340/28/20.jpg",
+        "https://img5.qy0.ru/data/3340/28/07.jpg",
+        "https://img5.qy0.ru/data/3340/28/12.jpg",
+        "https://img5.qy0.ru/data/3340/28/09.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img5.qy0.ru/data/3340/28/01.jpg",
+        "https://img5.qy0.ru/data/3340/28/08.jpg",
+        "https://img5.qy0.ru/data/3340/28/13.jpg",
+        "https://img5.qy0.ru/data/3340/28/03.jpg",
+        "https://img5.qy0.ru/data/3340/28/05.jpg",
+        "https://img5.qy0.ru/data/3340/28/19.jpg",
+        "https://img5.qy0.ru/data/3340/28/10.jpg",
+        "https://img5.qy0.ru/data/3340/28/16.jpg",
+        "https://img5.qy0.ru/data/3340/28/22.jpg",
+        "https://img5.qy0.ru/data/3340/28/14.jpg",
+        "https://img5.qy0.ru/data/3340/28/21.jpg",
+        "https://img5.qy0.ru/data/3340/28/02.jpg",
+        "https://img5.qy0.ru/data/3340/28/17.jpg",
+        "https://img5.qy0.ru/data/3340/28/15.jpg",
+        "https://img5.qy0.ru/data/3340/28/18.jpg"
     ]
 };
