@@ -5,7 +5,6 @@ const comicData = {
     "totalPages": 31,
     "images": [
         "https://img3.qy0.ru/data/1160/19/01.png",
-        "https://img3.qy0.ru/data/1160/19/27_1.png",
         "https://img3.qy0.ru/data/1160/19/02.png",
         "https://img3.qy0.ru/data/1160/19/03.png",
         "https://img3.qy0.ru/data/1160/19/04.png",
@@ -31,9 +30,11 @@ const comicData = {
         "https://img3.qy0.ru/data/1160/19/24.png",
         "https://img3.qy0.ru/data/1160/19/25.png",
         "https://img3.qy0.ru/data/1160/19/26.png",
+        "https://img3.qy0.ru/data/1160/19/27.png",
         "https://img3.qy0.ru/data/1160/19/28.png",
         "https://img3.qy0.ru/data/1160/19/29.png",
         "https://img3.qy0.ru/data/1160/19/30.png",
+        "https://img3.qy0.ru/data/1160/19/27_1.png",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

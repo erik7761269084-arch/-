@@ -4,9 +4,8 @@ const comicData = {
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115807.html",
     "totalPages": 20,
     "images": [
-        "https://img3.qy0.ru/data/1158/07/02-1.jpg",
         "https://img3.qy0.ru/data/1158/07/01.jpg",
-        "https://img3.qy0.ru/data/1158/07/02-2.jpg",
+        "https://img3.qy0.ru/data/1158/07/02.jpg",
         "https://img3.qy0.ru/data/1158/07/03.jpg",
         "https://img3.qy0.ru/data/1158/07/04.jpg",
         "https://img3.qy0.ru/data/1158/07/05.jpg",
@@ -23,6 +22,9 @@ const comicData = {
         "https://img3.qy0.ru/data/1158/07/16.jpg",
         "https://img3.qy0.ru/data/1158/07/17.jpg",
         "https://img3.qy0.ru/data/1158/07/18.jpg",
+        "https://img3.qy0.ru/data/1158/07/19.jpg",
+        "https://img3.qy0.ru/data/1158/07/02-2.jpg",
+        "https://img3.qy0.ru/data/1158/07/02-1.jpg",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

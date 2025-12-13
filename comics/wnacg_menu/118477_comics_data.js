@@ -10,7 +10,6 @@ const comicData = {
         "https://img3.qy0.ru/data/1184/77/003.png",
         "https://img3.qy0.ru/data/1184/77/004.png",
         "https://img3.qy0.ru/data/1184/77/005.png",
-        "https://img3.qy0.ru/data/1184/77/V6.png",
         "https://img3.qy0.ru/data/1184/77/006.png",
         "https://img3.qy0.ru/data/1184/77/007.png",
         "https://img3.qy0.ru/data/1184/77/008.png",
@@ -34,6 +33,9 @@ const comicData = {
         "https://img3.qy0.ru/data/1184/77/026.png",
         "https://img3.qy0.ru/data/1184/77/027.png",
         "https://img3.qy0.ru/data/1184/77/028.png",
-        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+        "https://img3.qy0.ru/data/1184/77/029.png",
+        "https://img3.qy0.ru/data/1184/77/030.png",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1184/77/V6.png"
     ]
 };

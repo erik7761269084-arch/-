@@ -5,13 +5,9 @@ const comicData = {
     "totalPages": 50,
     "images": [
         "https://img3.qy0.ru/data/1167/51/01.jpg",
-        "https://img3.qy0.ru/data/1167/51/z1.jpg",
-        "https://img3.qy0.ru/data/1167/51/Z2.jpg",
         "https://img3.qy0.ru/data/1167/51/02.jpg",
         "https://img3.qy0.ru/data/1167/51/03.jpg",
-        "https://img3.qy0.ru/data/1167/51/Z4.jpg",
         "https://img3.qy0.ru/data/1167/51/04.jpg",
-        "https://img3.qy0.ru/data/1167/51/z5.jpg",
         "https://img3.qy0.ru/data/1167/51/05.jpg",
         "https://img3.qy0.ru/data/1167/51/06.jpg",
         "https://img3.qy0.ru/data/1167/51/07.jpg",
@@ -53,6 +49,14 @@ const comicData = {
         "https://img3.qy0.ru/data/1167/51/43.jpg",
         "https://img3.qy0.ru/data/1167/51/44.jpg",
         "https://img3.qy0.ru/data/1167/51/45.jpg",
-        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+        "https://img3.qy0.ru/data/1167/51/46.jpg",
+        "https://img3.qy0.ru/data/1167/51/47.jpg",
+        "https://img3.qy0.ru/data/1167/51/48.jpg",
+        "https://img3.qy0.ru/data/1167/51/49.jpg",
+        "https://img3.qy0.ru/data/1167/51/Z4.jpg",
+        "https://img3.qy0.ru/data/1167/51/z5.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1167/51/z1.jpg",
+        "https://img3.qy0.ru/data/1167/51/Z2.jpg"
     ]
 };

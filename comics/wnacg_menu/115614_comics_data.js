@@ -4,6 +4,8 @@ const comicData = {
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115614.html",
     "totalPages": 133,
     "images": [
+        "https://img3.qy0.ru/data/1156/14/001.jpg",
+        "https://img3.qy0.ru/data/1156/14/002.jpg",
         "https://img3.qy0.ru/data/1156/14/003.jpg",
         "https://img3.qy0.ru/data/1156/14/004.jpg",
         "https://img3.qy0.ru/data/1156/14/005.jpg",

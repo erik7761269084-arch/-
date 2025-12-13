@@ -5,7 +5,20 @@ const comicData = {
     "totalPages": 27,
     "images": [
         "https://img3.qy0.ru/data/1150/12/001.png",
-        "https://img3.qy0.ru/data/1150/12/_ver.5.1.png",
+        "https://img3.qy0.ru/data/1150/12/002.png",
+        "https://img3.qy0.ru/data/1150/12/003.png",
+        "https://img3.qy0.ru/data/1150/12/004.png",
+        "https://img3.qy0.ru/data/1150/12/005.png",
+        "https://img3.qy0.ru/data/1150/12/006.png",
+        "https://img3.qy0.ru/data/1150/12/007.png",
+        "https://img3.qy0.ru/data/1150/12/008.png",
+        "https://img3.qy0.ru/data/1150/12/009.png",
+        "https://img3.qy0.ru/data/1150/12/010.png",
+        "https://img3.qy0.ru/data/1150/12/011.png",
+        "https://img3.qy0.ru/data/1150/12/012.png",
+        "https://img3.qy0.ru/data/1150/12/013.png",
+        "https://img3.qy0.ru/data/1150/12/014.png",
+        "https://img3.qy0.ru/data/1150/12/015.png",
         "https://img3.qy0.ru/data/1150/12/016.png",
         "https://img3.qy0.ru/data/1150/12/017.png",
         "https://img3.qy0.ru/data/1150/12/018.png",
@@ -30,6 +43,7 @@ const comicData = {
         "https://img3.qy0.ru/data/1150/12/037.png",
         "https://img3.qy0.ru/data/1150/12/038.png",
         "https://img3.qy0.ru/data/1150/12/039.png",
+        "https://img3.qy0.ru/data/1150/12/_ver.5.1.png",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

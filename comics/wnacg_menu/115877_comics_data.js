@@ -4,7 +4,6 @@ const comicData = {
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-115877.html",
     "totalPages": 28,
     "images": [
-        "https://img3.qy0.ru/data/1158/77/V1.0.png",
         "https://img3.qy0.ru/data/1158/77/001.png",
         "https://img3.qy0.ru/data/1158/77/002.png",
         "https://img3.qy0.ru/data/1158/77/003.png",
@@ -31,6 +30,8 @@ const comicData = {
         "https://img3.qy0.ru/data/1158/77/024.png",
         "https://img3.qy0.ru/data/1158/77/025.png",
         "https://img3.qy0.ru/data/1158/77/026.png",
+        "https://img3.qy0.ru/data/1158/77/027.png",
+        "https://img3.qy0.ru/data/1158/77/V1.0.png",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

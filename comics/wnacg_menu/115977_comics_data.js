@@ -31,6 +31,17 @@ const comicData = {
         "https://img3.qy0.ru/data/1159/77/0025.jpg",
         "https://img3.qy0.ru/data/1159/77/0026.jpg",
         "https://img3.qy0.ru/data/1159/77/0027.jpg",
-        "https://img3.qy0.ru/data/1159/77/0028.jpg"
+        "https://img3.qy0.ru/data/1159/77/0028.jpg",
+        "https://img3.qy0.ru/data/1159/77/0029.jpg",
+        "https://img3.qy0.ru/data/1159/77/0030.jpg",
+        "https://img3.qy0.ru/data/1159/77/0031.jpg",
+        "https://img3.qy0.ru/data/1159/77/0032.jpg",
+        "https://img3.qy0.ru/data/1159/77/0033.jpg",
+        "https://img3.qy0.ru/data/1159/77/0034.jpg",
+        "https://img3.qy0.ru/data/1159/77/0035.jpg",
+        "https://img3.qy0.ru/data/1159/77/0036.jpg",
+        "https://img3.qy0.ru/data/1159/77/0037.jpg",
+        "https://img3.qy0.ru/data/1159/77/0038.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

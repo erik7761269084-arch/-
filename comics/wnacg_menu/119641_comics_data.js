@@ -7,12 +7,8 @@ const comicData = {
         "https://img3.qy0.ru/data/1196/41/00.jpg",
         "https://img3.qy0.ru/data/1196/41/01.jpg",
         "https://img3.qy0.ru/data/1196/41/02.jpg",
-        "https://img3.qy0.ru/data/1196/41/Y03.jpg",
-        "https://img3.qy0.ru/data/1196/41/Y3.jpg",
         "https://img3.qy0.ru/data/1196/41/03.jpg",
-        "https://img3.qy0.ru/data/1196/41/Y003.jpg",
         "https://img3.qy0.ru/data/1196/41/04.jpg",
-        "https://img3.qy0.ru/data/1196/41/y5.jpg",
         "https://img3.qy0.ru/data/1196/41/05.jpg",
         "https://img3.qy0.ru/data/1196/41/06.jpg",
         "https://img3.qy0.ru/data/1196/41/07.jpg",
@@ -29,6 +25,15 @@ const comicData = {
         "https://img3.qy0.ru/data/1196/41/18.jpg",
         "https://img3.qy0.ru/data/1196/41/19.jpg",
         "https://img3.qy0.ru/data/1196/41/20.jpg",
-        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+        "https://img3.qy0.ru/data/1196/41/21.jpg",
+        "https://img3.qy0.ru/data/1196/41/22.jpg",
+        "https://img3.qy0.ru/data/1196/41/23.jpg",
+        "https://img3.qy0.ru/data/1196/41/24.jpg",
+        "https://img3.qy0.ru/data/1196/41/25.jpg",
+        "https://img3.qy0.ru/data/1196/41/Y3.jpg",
+        "https://img3.qy0.ru/data/1196/41/Y03.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1196/41/Y003.jpg",
+        "https://img3.qy0.ru/data/1196/41/y5.jpg"
     ]
 };

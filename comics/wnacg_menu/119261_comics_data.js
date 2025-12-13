@@ -5,9 +5,13 @@ const comicData = {
     "totalPages": 5,
     "images": [
         "https://img3.qy0.ru/data/1192/61/00.jpg",
-        "https://img3.qy0.ru/data/1192/61/68376223_p3.jpg",
-        "https://img3.qy0.ru/data/1192/61/68376223_p4.jpg",
+        "https://img3.qy0.ru/data/1192/61/01.jpg",
+        "https://img3.qy0.ru/data/1192/61/02.jpg",
+        "https://img3.qy0.ru/data/1192/61/03.jpg",
+        "https://img3.qy0.ru/data/1192/61/04.jpg",
         "https://img3.qy0.ru/data/1192/61/68376223_p5.jpg",
-        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1192/61/68376223_p3.jpg",
+        "https://img3.qy0.ru/data/1192/61/68376223_p4.jpg"
     ]
 };

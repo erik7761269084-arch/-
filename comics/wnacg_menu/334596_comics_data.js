@@ -14,6 +14,7 @@ const comicData = {
         "https://img5.qy0.ru/data/3345/96/008.jpg",
         "https://img5.qy0.ru/data/3345/96/009.jpg",
         "https://img5.qy0.ru/data/3345/96/010.jpg",
+        "https://img5.qy0.ru/data/3345/96/011.jpg",
         "https://img5.qy0.ru/data/3345/96/012.jpg",
         "https://img5.qy0.ru/data/3345/96/013.jpg",
         "https://img5.qy0.ru/data/3345/96/014.jpg",

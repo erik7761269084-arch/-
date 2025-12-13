@@ -28,6 +28,7 @@ const comicData = {
         "https://img3.qy0.ru/data/1175/20/21.jpg",
         "https://img3.qy0.ru/data/1175/20/22.jpg",
         "https://img3.qy0.ru/data/1175/20/23.jpg",
+        "https://img3.qy0.ru/data/1175/20/24.jpg",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };

@@ -5,8 +5,6 @@ const comicData = {
     "totalPages": 13,
     "images": [
         "https://img3.qy0.ru/data/1145/87/01.jpg",
-        "https://img3.qy0.ru/data/1145/87/00-1.jpg",
-        "https://img3.qy0.ru/data/1145/87/00-2.jpg",
         "https://img3.qy0.ru/data/1145/87/02.jpg",
         "https://img3.qy0.ru/data/1145/87/03.jpg",
         "https://img3.qy0.ru/data/1145/87/04.jpg",
@@ -16,6 +14,10 @@ const comicData = {
         "https://img3.qy0.ru/data/1145/87/08.jpg",
         "https://img3.qy0.ru/data/1145/87/09.jpg",
         "https://img3.qy0.ru/data/1145/87/10.jpg",
-        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
+        "https://img3.qy0.ru/data/1145/87/11.jpg",
+        "https://img3.qy0.ru/data/1145/87/12.jpg",
+        "https://img3.qy0.ru/data/1145/87/00-2.jpg",
+        "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg",
+        "https://img3.qy0.ru/data/1145/87/00-1.jpg"
     ]
 };

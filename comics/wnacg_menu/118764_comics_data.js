@@ -4,7 +4,20 @@ const comicData = {
     "sourceUrl": "https://www.wnacg.com/photos-slide-aid-118764.html",
     "totalPages": 26,
     "images": [
-        "https://img3.qy0.ru/data/1187/64/_ver.5.1.png",
+        "https://img3.qy0.ru/data/1187/64/001.png",
+        "https://img3.qy0.ru/data/1187/64/002.png",
+        "https://img3.qy0.ru/data/1187/64/003.png",
+        "https://img3.qy0.ru/data/1187/64/004.png",
+        "https://img3.qy0.ru/data/1187/64/005.png",
+        "https://img3.qy0.ru/data/1187/64/006.png",
+        "https://img3.qy0.ru/data/1187/64/007.png",
+        "https://img3.qy0.ru/data/1187/64/008.png",
+        "https://img3.qy0.ru/data/1187/64/009.png",
+        "https://img3.qy0.ru/data/1187/64/010.png",
+        "https://img3.qy0.ru/data/1187/64/011.png",
+        "https://img3.qy0.ru/data/1187/64/012.png",
+        "https://img3.qy0.ru/data/1187/64/013.png",
+        "https://img3.qy0.ru/data/1187/64/014.png",
         "https://img3.qy0.ru/data/1187/64/015.png",
         "https://img3.qy0.ru/data/1187/64/016.png",
         "https://img3.qy0.ru/data/1187/64/017.png",
@@ -29,6 +42,7 @@ const comicData = {
         "https://img3.qy0.ru/data/1187/64/036.png",
         "https://img3.qy0.ru/data/1187/64/037.png",
         "https://img3.qy0.ru/data/1187/64/038.png",
+        "https://img3.qy0.ru/data/1187/64/_ver.5.1.png",
         "https://www.wnacg.com/themes/weitu/images/bg/shoucang.jpg"
     ]
 };
